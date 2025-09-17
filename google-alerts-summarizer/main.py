@@ -1,20 +1,22 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Google Alerts RSS -> résumés quotidiens + historique (FORCE_ALL & RENDER_ONLY)
+Google Alerts RSS -> résumés quotidiens + historique (robuste)
 
-- FORCE_ALL=1  : ignore seen.json, traite tous les items du flux et met à jour l'historique.
-- RENDER_ONLY=1: ne collecte rien; reconstruit les sorties à partir de output/all_articles.json.
+- FORCE_ALL=1  : ignore seen.json (retraite tout) et réécrit l'historique.
+- RENDER_ONLY=1: ne collecte rien ; reconstruit toutes les sorties à partir de l'historique.
 
 Sorties:
-  output/YYYY-MM-DD.md
-  output/latest.md
+  output/YYYY-MM-DD.md  (un fichier par jour de publication)
+  output/latest.md       (alias vers le jour le plus récent)
   output/all_articles.json
-  output/all_articles.md
+  output/all_articles.md (historique complet sous forme de markdown)
 """
-import os, re, sys, json, logging, hashlib, time, glob
+
+import os, re, sys, json, logging, hashlib, time
 from datetime import datetime, timezone, date
 from urllib.parse import urlparse, parse_qs, unquote
+from collections import defaultdict
 
 import feedparser
 import trafilatura
@@ -64,6 +66,20 @@ def extract_original_url(url: str) -> str:
         return url
     except Exception:
         return url
+
+def domain_of(url: str) -> str:
+    try:
+        return urlparse(url).netloc.replace("www.", "")
+    except Exception:
+        return ""
+
+def hash_id(s: str) -> str:
+    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:10]
+
+def dt_to_iso(d: datetime | date | None) -> str:
+    if not d: return ""
+    if isinstance(d, datetime): return d.astimezone().date().isoformat()
+    return d.isoformat()
 
 def html_to_text(html: str) -> str:
     if not html:
@@ -124,20 +140,6 @@ def summarize_text(text: str, sentences: int = 4) -> str:
     sents = [re.sub(r"\s+", " ", s).strip(" .") for s in sents if s.strip()]
     return "\n".join(f"- {s}." for s in sents) if sents else ""
 
-def domain_of(url: str) -> str:
-    try:
-        return urlparse(url).netloc.replace("www.", "")
-    except Exception:
-        return ""
-
-def hash_id(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:10]
-
-def dt_to_iso(d: datetime | date | None) -> str:
-    if not d: return ""
-    if isinstance(d, datetime): return d.astimezone().date().isoformat()
-    return d.isoformat()
-
 # ---------- persistance ----------
 def load_seen(path: str) -> set:
     if os.path.exists(path):
@@ -174,14 +176,16 @@ def save_history(hist_path: str, items: list[dict]):
 
 # ---------- dates RSS ----------
 def parse_pub_date(entry) -> str:
+    # 1) champs parsés
     for key in ("published_parsed", "updated_parsed", "created_parsed"):
         t = entry.get(key)
         if t:
             try:
                 d = datetime.fromtimestamp(time.mktime(t)).date()
-                return dt_to_iso(d)
+                return dt_to_iso(d)  # YYYY-MM-DD
             except Exception:
                 pass
+    # 2) brut (ISO str-like)
     for key in ("published", "updated", "created"):
         raw = entry.get(key)
         if raw:
@@ -222,39 +226,20 @@ def main():
     seen_path = os.path.join(out_dir, "seen.json")
     history_path = os.path.join(out_dir, "all_articles.json")
     md_all_path = os.path.join(out_dir, "all_articles.md")
+    latest_path = os.path.join(out_dir, "latest.md")
 
     seen = load_seen(seen_path)
     history = load_history(history_path)
 
-    today = datetime.now(timezone.utc).astimezone().date().isoformat()
-    md_day_path = os.path.join(out_dir, f"{today}.md")
-    latest_path = os.path.join(out_dir, "latest.md")
-
-    # ----- MODE RENDER_ONLY -----
+    # ----- MODE RENDER_ONLY : (re)générer les fichiers depuis l'historique -----
     if render_only:
-        # tri et dédup historique
-        dedup = {}
-        for a in history:
-            if isinstance(a, dict) and a.get("id"):
-                dedup[a["id"]] = a
-        hist = list(dedup.values())
-        hist.sort(key=lambda a: (a.get("pub_date",""), a.get("added_on","")), reverse=True)
-        # sorties
-        md_all = render_markdown(today, hist)
-        with open(md_all_path, "w", encoding="utf-8") as f: f.write(md_all)
-        # pour le jour : filtre sur added_on == today (si tu veux tout mettre, enlève le filtre)
-        todays = [a for a in hist if a.get("added_on","") == today]
-        md_today = render_markdown(today, todays)
-        with open(md_day_path, "w", encoding="utf-8") as f: f.write(md_today)
-        with open(latest_path, "w", encoding="utf-8") as f: f.write(md_today)
-        print(f"(RENDER_ONLY) Mis à jour: {md_day_path}, {latest_path}, {md_all_path} | total historique: {len(hist)}")
-        return
+        return render_from_history(history, out_dir, md_all_path, latest_path)
 
-    # ----- Collecte depuis les flux -----
     if not feeds:
         logging.error("Aucun flux RSS spécifié. Définissez FEEDS.")
         sys.exit(1)
 
+    # ----- Collecte / enrichissement historique -----
     items = []
     for feed_url in feeds:
         logging.info(f"Lecture du flux: {feed_url}")
@@ -269,6 +254,7 @@ def main():
                 continue
             orig = extract_original_url(link)
 
+            # extrait un "hint" depuis le RSS
             hint_html = ""
             if entry.get("summary"):
                 hint_html = entry.get("summary")
@@ -295,7 +281,8 @@ def main():
             })
 
     logging.info(f"{len(items)} nouvel(le)s article(s) à traiter.")
-    results = []
+
+    # Résumer + mise à jour de l'historique (mais PAS d'écriture du jour ici)
     for it in items:
         url = it["link"]
         title = it["title"]
@@ -306,8 +293,7 @@ def main():
             summary = summarize_text(base_text, sentences=sentences) if base_text else ""
             if not summary:
                 summary = "- (Résumé indisponible – texte non détecté)."
-            enriched = {**it, "summary": summary}
-            results.append(enriched)
+
             seen.add(it["uid"])
             history.append({
                 "id": it["uid"],
@@ -318,33 +304,75 @@ def main():
                 "summary": summary,
                 "added_on": dt_to_iso(datetime.now().astimezone()),
             })
-            logging.info(f"OK: {title} [{it['source']}]")
+            logging.info(f"OK: {title} [{it.get('source','')}]")
         except Exception as e:
             logging.warning(f"Echec: {title} ({url}) -> {e}")
 
-    # ----- Écriture sorties du jour -----
-    md_today = render_markdown(today, results)
-    with open(md_day_path, "w", encoding="utf-8") as f: f.write(md_today)
-    with open(latest_path, "w", encoding="utf-8") as f: f.write(md_today)
-    save_seen(seen_path, seen)
-
-    # ----- Historique (dédup + tri) -----
+    # ----- Dédup + tri de l'historique puis rendu complet -----
     dedup = {}
     for a in history:
         if isinstance(a, dict) and a.get("id"):
             dedup[a["id"]] = a
     hist = list(dedup.values())
+    # tri par (pub_date, added_on) décroissant
     hist.sort(key=lambda a: (a.get("pub_date",""), a.get("added_on","")), reverse=True)
+
+    save_seen(seen_path, seen)
     save_history(history_path, hist)
 
-    md_all = render_markdown(today, hist)  # on réutilise le même rendu
-    with open(md_all_path, "w", encoding="utf-8") as f: f.write(md_all)
+    # (ré)générer toutes les sorties depuis l'historique
+    render_from_history(hist, out_dir, md_all_path, latest_path)
+
+
+def render_from_history(history: list[dict], out_dir: str, md_all_path: str, latest_path: str):
+    """Reconstruit output/*.md + latest.md + all_articles.md depuis l'historique.
+       -> Empêche qu'un run vide efface les sorties.
+    """
+    # 1) Grouper par jour de publication (repli: added_on)
+    by_day: dict[str, list[dict]] = defaultdict(list)
+    for a in history:
+        d = (a.get("pub_date") or "").strip()
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", d or ""):
+            d = (a.get("added_on") or "").strip()[:10]
+            if not re.match(r"^\d{4}-\d{2}-\d{2}$", d or ""):
+                d = datetime.now(timezone.utc).astimezone().date().isoformat()
+        by_day[d].append(a)
+
+    if not by_day:
+        # rien dans l'historique -> vider prudemment latest.md
+        with open(md_all_path, "w", encoding="utf-8") as f:
+            f.write("# Historique (vide)\n\n")
+        open(latest_path, "w", encoding="utf-8").write("# Résumés – (vide)\n\n_Aucun article._\n")
+        print("Historique vide. Sorties minimales générées.")
+        return
+
+    # 2) Écrire un fichier output/<day>.md par jour
+    os.makedirs(out_dir, exist_ok=True)
+    days_sorted = sorted(by_day.keys())
+    for day in days_sorted:
+        md_path = os.path.join(out_dir, f"{day}.md")
+        md_text = render_markdown(day, by_day[day])
+        with open(md_path, "w", encoding="utf-8") as f:
+            f.write(md_text)
+
+    # 3) latest.md = jour le plus récent
+    latest_day = max(days_sorted)
+    with open(latest_path, "w", encoding="utf-8") as f:
+        f.write(render_markdown(latest_day, by_day[latest_day]))
+
+    # 4) all_articles.md (historique complet)
+    #    On réutilise le même rendu en mettant 'latest_day' comme entête.
+    flat = []
+    for d in sorted(by_day.keys(), reverse=True):
+        flat.extend(by_day[d])
+    with open(md_all_path, "w", encoding="utf-8") as f:
+        f.write(render_markdown(latest_day, flat))
 
     print(
-        f"Créé: {md_day_path}\nAussi: {latest_path}\n"
-        f"Historique JSON: {history_path}\nHistorique MD: {md_all_path}\n"
-        f"Articles du jour: {len(results)} | Total historique: {len(hist)}"
+        f"Jours générés: {', '.join(days_sorted)} | Dernier: {latest_day}\n"
+        f"Écrit: output/<day>.md, output/latest.md, output/all_articles.md"
     )
+
 
 if __name__ == "__main__":
     main()
