@@ -1,0 +1,52 @@
+name: daily-summaries
+
+on:
+  schedule:
+    - cron: '59 22 * * *'   # 22:59 UTC ~ 23:59 en hiver à Paris
+  workflow_dispatch:        # bouton "Run workflow"
+
+permissions:
+  contents: write           # autorise le push
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # installe les dépendances (chemin selon ta structure)
+      - name: Install deps
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f google-alerts-summarizer/requirements.txt ]; then pip install -r google-alerts-summarizer/requirements.txt; fi
+          pip install markdown
+
+      # 1) lance TON script (chemin à adapter si besoin)
+      - name: Run your script
+        env:
+          FEEDS: "https://www.google.fr/alerts/feeds/06828307252155608763/17948382890845885017"
+          SENTENCES: "4"
+          MAX_PER_FEED: "50"
+        run: |
+          if [ -f main.py ]; then python main.py; \
+          elif [ -f google-alerts-summarizer/main.py ]; then python google-alerts-summarizer/main.py; \
+          else echo "main.py introuvable"; exit 1; fi
+
+      # 2) construit le site HTML
+      - name: Build static site
+        run: python build_site.py
+
+      # 3) commit + push
+      - name: Commit & Push results
+        run: |
+          git config user.name "rss-bot"
+          git config user.email "rss-bot@users.noreply.github.com"
+          git add docs output
+          git commit -m "maj $(date -u +'%Y-%m-%d %H:%M')" || echo "rien à committer"
+          git push
