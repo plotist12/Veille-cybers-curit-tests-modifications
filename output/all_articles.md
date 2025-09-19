@@ -1,5 +1,149 @@
-# Résumés – 2025-09-18
+# Résumés – 2025-09-19
 
+
+## [<b>Cybersécurité</b> : comment la France se prépare au « jour où le ciel lui tombera sur la tête »](https://www.lemonde.fr/pixels/article/2025/09/19/cybersecurite-comment-la-france-se-prepare-au-jour-ou-le-ciel-lui-tombera-sur-la-tete_6641852_4408996.html)  
+*Source : lemonde.fr | Publication : 2025-09-19*
+
+- Sur les écrans, la présentatrice du journal télévisé égrène des nouvelles inquiétantes.
+- Une « cyberattaque majeure » touche « tout le territoire » et a mis le pays « au ralenti ».
+- Sur les images, des embouteillages encombrent les grands axes, le chaos règne dans les hôpitaux et des entreprises entières sont à l’arrêt.
+- Non, une actualité majeure ne vous a pas échappé : ce journal télévisé est un faux.
+
+## [REMPAR 25 - Un test de <b>cybersécurité</b> à l'échelle nationale - Tahiti Infos](https://www.tahiti-infos.com/REMPAR-25-Un-test-de-cybersecurite-a-l-echelle-nationale_a232924.html)  
+*Source : tahiti-infos.com | Publication : 2025-09-19*
+
+- Tahiti Infos Accueil Tahiti et ses îles Sports Pacifique France Monde Magazine Agenda Appels d'offres et communiqués Faire-part Rechercher Accueil Polynésie Tahiti et ses îles Sport Carnets de voyage Journal des Enfants Le dessin de Munoz France / Monde Pacifique France Monde Sport Magazine People Santé Environnement Technologies Insolite Pratique Agenda Appels d'offres / Communiqués Offres d'emploi Faire-part Médecins de garde Météo des prix Programme TV Petites annonces Services S'abonner Nous contacter Archives Tahiti Infos Les Nouvelles Abonnez-vous à la newsletter Accueil > Actualité de Tahiti et ses îles REMPAR 25 - Un test de cybersécurité à l'échelle nationale Tahiti, le 18 septembre 2025 - Ce jeudi, le haut-commissariat de la République en Polynésie française, avec le concours de plusieurs entités locales, a participé à l'exercice REMPAR 25.
+- Organisé par l'Agence nationale de la sécurité des systèmes d'information, ce test de cybersécurité a été mené sur l'ensemble du territoire français.
+- L'occasion pour certaines structures locales, privées et publiques, d'apprendre à gérer des situations de cyberattaque.
+- À l'ère où toutes les informations sont dématérialisées et numériques, aussi bien pour une personne lambda que pour une entreprise ou une structure administrative, la cybersécurité se place au cœur des préoccupations de l'État et de l'Agence nationale de la sécurité des systèmes d'information (Anssi).
+
+## [Intelligence artificielle : ces infos personnelles à ne jamais révéler à ChatGPT - RTBF Actus](https://www.rtbf.be/article/intelligence-artificielle-ces-infos-personnelles-a-ne-jamais-reveler-a-chatgpt-11602315)  
+*Source : rtbf.be | Publication : 2025-09-19*
+
+- "En matière de cybersécurité, il y a un mot d’ordre à garder à l’esprit : aucun système n’est infaillible", nous dit Michele Rignanese, porte-parole du Centre pour la cybersécurité en Belgique.
+- Alors que certains font de l’IA leur partenaire des petits instants du quotidien, il est judicieux de garder en tête que ces informations sont stockées dans d’immenses centres de données, qui peuvent ensuite être vérifiées par n’importe quel humain.
+- De plus, ces systèmes peuvent comporter des failles, et certaines données sensibles doivent à tout prix rester protégées.
+- En Europe, les technologies et outils numériques sont soumis au Règlement général de protection des données, aussi abrégé en RGPD.
+
+## [&quot;On sait que les risques sont partout&quot; : à Toulouse, ils ont participé au plus grand exercice d ...](https://www.ladepeche.fr/2025/09/19/on-sait-que-les-risques-sont-partout-a-toulouse-ils-ont-participe-au-plus-grand-exercice-dentrainement-a-la-cybersecurite-12938109.php)  
+*Source : ladepeche.fr | Publication : 2025-09-19*
+
+- "On sait que les risques sont partout" : à Toulouse, ils ont participé au plus grand exercice d’entraînement à la cybersécurité l'essentiel REMPAR25, le plus grand exercice d’entraînement à une cyberattaque vient de se dérouler en France.
+- La version régionale a réuni une trentaine de participants à Toulouse autour d’un scénario plus que probant.
+- Une entreprise qui ne peut plus produire de panneaux solaires à quatre jours d’une inauguration de site, des données clients qui fuitent, une demande de rançon, des salariés paniqués, des informations fausses à contrer, le tout en raison d’une faille d’un éditeur de logiciel… Un scénario de crise majeure de cybersécurité, comme lors de la panne informatique mondiale CrowdStrike, s’est déroulé ce jeudi à Toulouse dans le cadre de REMPAR25, le plus grand exercice de ce type jamais organisé en France (5000 participants) et décliné par régions.
+- Pour l’Occitanie, c’est au Data Valley de Labège que Cyber’Occ, l’agence régionale de cybersécurité en Occitanie, et l’Anssi, l’agence nationale de la sécurité des systèmes d’information, ont réuni 30 participants issus d’entreprises, de collectivités, d’institutions, aux profils très différents.
+
+## [Le Pitch : Nucleon, un copilote IA sur la <b>cybersécurité</b> - 19/09 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/le-pitch/le-pitch-nucleon-un-copilote-ia-sur-la-cybersecurite-19-09_EN-202509190113.html)  
+*Source : bfmtv.com | Publication : 2025-09-19*
+
+- Podcast Le Pitch : Nucleon, un copilote IA sur la cybersécurité - 19/09 Le Pitch : Nucleon, un copilote IA sur la cybersécurité - 19/09 6:28 Anas Chanaa, cofondateur de Nucleon Security, était l'invité de Laure Closier dans Le Pitch de l'émission Good Morning Business, ce vendredi 19 septembre.
+- Il nous explique comment sa plateforme œuvre pour favoriser une cybersécurité proactive, sur BFM Business.
+- Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.
+- Autres épisodes Selim Zouaoui, cofondateur de Cycle Zéro, était l'invité de Laure Closier dans Le Pitch de l'émission Good Morning Business, ce lundi 26 août.
+
+## [Vous vous souvenez de NotPetya ? | <b>Cybersécurité</b> | Le site de Korben](https://korben.info/hybridpetya-ransomware-contournement-secure-boot-u.html)  
+*Source : korben.info | Publication : 2025-09-19*
+
+- Vous vous souvenez de NotPetya ?.
+- En bref HybridPetya : le malware qui survit même si vous formatez votre PC et changez de disque dur - Microsoft a signé par erreur l'application qui permet aux hackers de contourner Secure Boot - Les bootkits UEFI deviennent mainstream : 4 malwares capables de pirater le firmware en 2025 - Comment ça NotPetya ?.
+- ??.
+- Mais siiiii, cette saloperie de malware qui a paralysé la planète en 2017 et qui s’est révélée être en fait un programme destructeur déguisé en ransomware.
+
+## [REMPAR25 : Sophia Antipolis au cœur d'un exercice national de <b>cybersécurité</b> | Sophianet](https://www.sophianet.com/article/rempar-25-sophia-antipolis-exercice-national-cybersecurite)  
+*Source : sophianet.com | Publication : 2025-09-19*
+
+- Alerte !.
+- Alerte.
+- Hier matin 10 heures, le réseau d’une commune fictive est “infecté” par un virus caché dans un outil de détection avancée.
+- Les équipes doivent contenir l’attaque, tandis qu’un compte à rebours de rançon s’affiche : si le système n’est pas coupé à temps, les données confidentielles seront divulguées.
+
+## [<b>Cybersécurité</b> : 4.000 postes vacants pour des spécialistes en Belgique - Le Soir](https://www.lesoir.be/699820/article/2025-09-18/cybersecurite-4000-postes-vacants-pour-des-specialistes-en-belgique)  
+*Source : lesoir.be | Publication : 2025-09-19*
+
+- En 2024, le chiffre d'affaires du secteur cyber s'élevait à plus de 3 milliards d'euros, selon Agoria.
+- Pour l'organisation spécialisée dans.
+
+## [comment l'alliance Westcon-Comstor et Rackmount.IT dynamise les partenaires Cisco - ITRnews](https://itrnews.com/articles/207243/cybersecurite-comment-lalliance-westcon-comstor-et-rackmountit-dynamise-les-partenaires-cisco.html)  
+*Source : itrnews.com | Publication : 2025-09-19*
+
+- Veuillez activer Javascript.
+
+## [« Nous sommes devenus l'un des pays les plus avancés en matière de <b>cybersécurité</b> ...](https://www.letelegramme.fr/monde/nous-sommes-devenus-lun-des-pays-les-plus-avances-en-matiere-de-cybersecurite-affirme-lambassadeur-destonie-en-france-6891374.php)  
+*Source : letelegramme.fr | Publication : 2025-09-19*
+
+- Ambassadeur d’Estonie en France, Viljar Lubi rappelle que l’Estonie, en première ligne face aux menaces hybrides russes, s’impose comme un pilier majeur de la cybersécurité et de la défense européenne au sein de l’Otan.
+- Effectivement, nous avons été le premier pays au monde à subir une attaque coordonnée à l’échelle nationale, menée très probablement par un État.
+- Officiellement, il est difficile d’attribuer l’attaque mais tout semble indiquer qu’elle venait de l’Est.
+- Il s’agissait d’attaques par saturation, des attaques par déni de service (DDoS), qui visaient à faire tomber nos sites gouvernementaux et bancaires.
+
+## [À Pontarlier, le CHI Haute-Comté participe à l'exercice national de <b>cybersécurité</b> REMPAR25](https://pleinair.net/actualites/item/16756-a-pontarlier-le-chi-haute-comte-participe-a-l-exercice-national-de-cybersecurite-rempar25)  
+*Source : pleinair.net | Publication : 2025-09-19*
+
+- A Pontarlier.
+- Le Centre Hospitalier Intercommunal de Haute-Comté a participé ce jeudi 18 septembre à REMPAR25, un exercice national, piloté par l’Agence nationale de la sécurité des systèmes d’information, visant à simuler une cyberattaque d’ampleur.
+- Cette opération grandeur nature mobilise les acteurs publics et privés pour apprécier leur capacité à réagir face à une attaque informatique.
+- Au CHIHC, l’ensemble des services — des ressources humaines à la direction stratégique — ont été impliqués pour protéger les données de santé et garantir la continuité des soins.
+
+## [Cyberattaque contre Jaguar Land Rover : les usines à l'arrêt - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/63872-cyberattaque-contre-jaguar-land-rover-les-usines-a-l-arret.html)  
+*Source : linformaticien.com | Publication : 2025-09-19*
+
+- LES DOSSIERS CYBERSECURITE.
+- Quand les deepfakes piratent la confiance · Ransomware : les jours d'après · Cybersécurité · Cyberattaque contre Jaguar.
+
+## [Ligue des champions (H/J2) : Le HBC Nantes logiquement battu à Veszprem - Orange Sport](https://sports.orange.fr/plus-de-sport/handball/article/ligue-des-champions-h-j2-le-hbc-nantes-logiquement-battu-a-veszprem-CNT000002kKFzE.html)  
+*Source : sports.orange.fr | Publication : 2025-09-19*
+
+- Clément Pédron, Media365, publié le jeudi 18 septembre 2025 à 21h22 Ce jeudi soir, le HBC Nantes a logiquement perdu dans la salle de Veszprem dans le cadre de la deuxième journée de saison régulière de Ligue des champions (30-25).
+- Le demi-finaliste de l'édition précédente n'a toujours pas marqué de point.
+- Nantes reste à quai.
+- Après sa défaite d'entrée dans sa salle contre Fuchse Berlin la semaine dernière (34-40), le HBC n'a pas fait mieux ce jeudi soir à l'occasion de la deuxième journée de la saison régulière de Ligue des champions.
+
+## [<b>Cybersécurité</b> : des centaines d'acteurs mobilisés à Labège pour l'exercice REMPAR25](https://www.ladepeche.fr/2025/09/18/cybersecurite-des-centaines-dacteurs-mobilises-a-labege-pour-lexercice-rempar25-12936610.php)  
+*Source : ladepeche.fr | Publication : 2025-09-19*
+
+- Cybersécurité : des centaines d’acteurs mobilisés à Labège pour l’exercice REMPAR25 l'essentiel À Labège, près de Toulouse, se tient ce jeudi la déclinaison régionale de REMPAR25, un exercice national de gestion de crise cyber organisé par l’ANSSI et Cyber’Occ.
+- Cet événement inédit en région mobilise entreprises, collectivités et institutions pour tester leurs dispositifs face à une cyberattaque majeure et renforcer leur maturité en cybersécurité.
+- La cybersécurité est un enjeu majeur, particulièrement pour les entreprises et les collectivités locales de plus en plus ciblées par des attaques informatiques toujours plus sophistiquées.
+- Se préparer, se former pour y faire face et éviter des dommages qui peuvent être paralysants est donc une priorité.
+
+## [<b>Cybersécurité</b> : Alerte sur des failles critiques sur Apple et Google Chrome - YouTube](https://www.youtube.com/watch?v=btjFqPj_T8U)  
+*Source : youtube.com | Publication : 2025-09-19*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Alerte <b>cybersécurité</b> : une vulnérabilité critique touche Chrome - Telquel](https://mobile.telquel.ma/instant-t/2025/09/18/alerte-cybersecurite-une-vulnerabilite-critique-touche-chrome_1951297/)  
+*Source : mobile.telquel.ma | Publication : 2025-09-19*
+
+- Selon ce bulletin, le niveau de danger et d'impact est classé « critique ».
+- Les systèmes concernés incluent les versions de Google Chrome.
+
+## [Noa, 21 ans : la <b>cybersécurité</b> comme vocation et comme mission - Le Soir](https://www.lesoir.be/699815/article/2025-09-18/noa-21-ans-la-cybersecurite-comme-vocation-et-comme-mission)  
+*Source : lesoir.be | Publication : 2025-09-19*
+
+- Passionné d'informatique depuis l'enfance, Noa Quenon suit un master en cybersécurité.
+- Son ambition : participer à la protection des systèmes face.
+
+## [La société de <b>cybersécurité</b> Netskope valorisée à 8,79 milliards de dollars lors de ses ...](https://ch.zonebourse.com/actualite-bourse/la-societe-de-cybersecurite-netskope-valorisee-a-8-79-milliards-de-dollars-lors-de-ses-premiers-pas-ce7d58d9dc80f322)  
+*Source : ch.zonebourse.com | Publication : 2025-09-19*
+
+- Les actions de Netskope ont grimpé de plus de 21 % lors de leur introduction en bourse au Nasdaq ce jeudi, offrant ainsi à la société de cybersécurité une capitalisation boursière de 8,79 milliards de dollars.
+- La société de cybersécurité Netskope valorisée à 8,79 milliards de dollars lors de ses premiers pas au Nasdaq Publié le 18/09/2025 à 18:06 - Modifié le 18/09/2025 à 18:06 Contactez-nous pour toute demande de correction.
+
+## [<b>Cybersécurité</b> et souveraineté numérique | le360.ma](https://fr.le360.ma/politique/cybersecurite-et-souverainete-numerique_2C5X2TFUVJA4VC3IQU45BGPF6Y/)  
+*Source : fr.le360.ma | Publication : 2025-09-19*
+
+- Le programme de cette rencontre s’articule autour de thématiques de premier plan: «Intelligence artificielle, technologies quantiques, souveraineté numérique, développement durable et coopération internationale».
+- L’événement a réuni des participants issus de divers horizons, opérateurs et responsables publics et privés, venus du Maroc, d’Afrique et d’autres régions du monde.
+- Il a également marqué la première apparition publique du nouveau directeur de la Direction générale de la Sécurité des systèmes d’information (DGSSI), le général de brigade Abdellah Boutrig, qui a livré une communication sur les enjeux et défis de la cybersécurité.
+- Le ministre délégué chargé de l’Administration de la Défense nationale, Abdellatif Loudiyi, a également abordé ce sujet central.
+
+## [CyberDay 2025 à l'EiJV : plongez au cœur de la <b>cybersécurité</b> | UPJV](https://www.u-picardie.fr/actualites/cyberday-2025-leijv-plongez-au-coeur-cybersecurite)  
+*Source : u-picardie.fr | Publication : 2025-09-19*
+
+- Cette journée mettra en lumière les transformations réglementaires et technologiques qui impactent directement entreprises et institutions : Directive NIS2 et ses implications, - Sécurité économique et protection des données sensibles, - Intelligence artificielle et gestion des risques, - Nouveaux défis autour de la propriété intellectuelle et du transfert technologique.
+- - Avec l’intervention de spécialistes de l’ANSSI, de la DGSI, du SISSE, du MEDEF et d’acteurs régionaux, vous bénéficierez d’analyses concrètes et de retours d’expérience précieux.
+- Un programme riche et interactif Au fil de la journée, conférences, tables rondes et ateliers permettront d’allier théorie et pratique.
+- Quelques temps forts à ne pas manquer : 10h00 : ANSSI – « Entrée en vigueur de la directive NIS2 : comment s’y préparer dès à présent » - 11h30 : DGSI – « IA & données sensibles : concilier innovation et sécurité » - 14h00 : Table ronde – « Quelles priorités de sécurité économique pour nos entreprises ?.
 
 ## [<b>Cybersécurité</b>- expert en équipements de sécurité (f/h) DNUM - Choisir le service public](https://choisirleservicepublic.gouv.fr/offre-emploi/cybersecurite--expert-en-equipements-de-securite-fh-reference-MAE_4cd3aa16-62ad-4651-9851-0a211788ed80/)  
 *Source : choisirleservicepublic.gouv.fr | Publication : 2025-09-18*
