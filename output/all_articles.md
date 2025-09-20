@@ -1,5 +1,13 @@
-# Résumés – 2025-09-19
+# Résumés – 2025-09-20
 
+
+## [L'UTT mobilisée pour l'exercice national de <b>cybersécurité</b> REMPAR25](https://www.utt.fr/actualites/lutt-mobilisee-pour-lexercice-national-de-cybersecurite-rempar25)  
+*Source : utt.fr | Publication : 2025-09-20*
+
+- Dans la même rubrique Accueil -.
+- - Actualités - L’UTT mobilisée pour l’exercice national de cybersécurité REMPAR25 Publié le 19 septembre 2025 – Mis à jour le 19 septembre 2025 Date(s) le 19 septembre 2025 Le 18 septembre 2025, les équipes de l’UTT ont participé à REMPAR25, l’exercice national de gestion de crise cyber organisé par l’Agence nationale de la sécurité des systèmes d’information (ANSSI), le Club de la continuité d’activité (CCA) et le Club de la sécurité de l’information français (CLUSIF).
+- Plus de 1 000 structures publiques et privées ont été mobilisées simultanément en France et en Outre-mer pour tester leur capacité de résilience face à une cyberattaque d’ampleur systémique.
+- À l’UTT, l’exercice a réuni 30 participants, animateurs, observateurs et joueurs dont l’équipe de gouvernance.
 
 ## [<b>Cybersécurité</b> : comment la France se prépare au « jour où le ciel lui tombera sur la tête »](https://www.lemonde.fr/pixels/article/2025/09/19/cybersecurite-comment-la-france-se-prepare-au-jour-ou-le-ciel-lui-tombera-sur-la-tete_6641852_4408996.html)  
 *Source : lemonde.fr | Publication : 2025-09-19*
