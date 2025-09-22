@@ -1,5 +1,152 @@
-# Résumés – 2025-09-21
+# Résumés – 2025-09-22
 
+
+## [Orange Maroc appuie Nucleon Security pour renforcer la <b>cybersécurité</b> en Afrique](https://industries.ma/orange-maroc-appuie-nucleon-security-pour-renforcer-la-cybersecurite-en-afrique/)  
+*Source : industries.ma | Publication : 2025-09-22*
+
+- Orange Maroc affirme son rôle d’acteur majeur dans l’écosystème technologique national et continental en soutenant la startup Nucleon Security, spécialisée en cybersécurité.
+- À travers son programme Orange Fab Maroc, l’opérateur a contribué à une levée de fonds de 3 millions d’euros, financée également par Orange Ventures et des investisseurs internationaux.
+- Ce financement va permettre à Nucleon Security d’accélérer le développement de sa plateforme reposant sur une technologie d’intelligence artificielle dite « agentique ».
+- L’objectif est de proposer des solutions SaaS (Software as a Service) adaptées aux réalités numériques des marchés émergents, notamment en Afrique, où les cybermenaces sont de plus en plus présentes.
+
+## [Maroc : Deloitte inaugure une CyberAcademy pour former les talents africains en <b>cybersécurité</b>](https://www.wearetech.africa/fr/fils/actualites/tech/maroc-deloitte-inaugure-une-cyberacademy-pour-former-les-talents-africains-en-cybersecurite)  
+*Source : wearetech.africa | Publication : 2025-09-22*
+
+- Dans un contexte marqué par la multiplication des cybermenaces, l’Afrique doit relever le défi du manque de compétences spécialisées.
+- La formation devient une priorité pour bâtir un écosystème numérique résilient et sûr.
+- Deloitte, cabinet international d’audit, conseil et services technologiques, a inauguré le vendredi 19 septembre à Casablanca sa CyberAcademy, rattachée au Deloitte Morocco Cyber Center.
+- Ce centre de formation spécialisé dans la cybersécurité s’adresse aux professionnels, étudiants, jeunes diplômés et profils en reconversion, dans un contexte où les entreprises peinent à recruter des talents qualifiés.
+
+## [Londres, Berlin, Dublin... L'UE confirme qu'une cyberattaque est à l'origine des ... - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/londres-berlin-dublin-l-ue-confirme-qu-une-cyberattaque-est-a-l-origine-des-perturbations-dans-les-aeroports-20250922)  
+*Source : lefigaro.fr | Publication : 2025-09-22*
+
+- Londres, Berlin, Dublin... L’UE confirme qu’une cyberattaque est à l’origine des perturbations dans les aéroports Selon l’agence européenne pour la cybersécurité (ENISA), «les forces de l’ordre ont été saisies pour mener l’enquête».
+- Passer la publicité Passer la publicitéDu nouveau sur les perturbations qui ont touché plusieurs aéroports européens ce week-end.
+- Ce lundi, l’agence européenne chargée de la cybersécurité (ENISA) a déclaré que ces difficultés avaient bel et bien été causées par une cyberattaque, menée par un tiers.
+- «Le type de rançongiciel a été identifié.
+
+## [Chute des vols et violences à Waterloo en 2024, mais la <b>cybercriminalité</b> continue de grimpe](https://www.lavenir.net/regions/brabantwallon/waterloo/2025/09/22/chute-des-vols-et-violences-a-waterloo-en-2024-mais-la-cybercriminalite-continue-de-grimpe-cest-un-phenomene-qui-prend-de-plus-en-plus-dampleur-GNFRB7EYOFDPTFFE45NZJBZUGU/)  
+*Source : lavenir.net | Publication : 2025-09-22*
+
+- Chute des vols et violences à Waterloo en 2024 mais la cybercriminalité continue de grimper : "C'est un phénomène qui prend de plus en plus d'ampleur" Les statistiques 2024 de la police de Waterloo montrent un recul marqué des faits judiciaires depuis 2019, mais un domaine échappe à la tendance : la criminalité en ligne, qui double presque en cinq ans Publié le 22-09-2025 à 08h00 - Mis à jour le 22-09-2025 à 16h57 - Les chiffres de la police de Waterloo pour l'année 2024 viennent de tomber.
+- Globalement, la tendance est positive, avec une forte diminution des faits judiciaires.
+- Mais un phénomène inquiète de plus en plus : la fraude informatique.
+- En 2024, la zone de police a enregistré 1 901 faits judiciaires, soit une baisse de 18,8 % par rapport à 2023 et de 26,6 % par rapport à 2019, année de référence du plan zonal de sécurité.
+
+## [Ces 8 métiers qui offriront les plus belles augmentations de salaire en 2026 !](https://lemagdelaconso.ouest-france.fr/article-107-8-metiers-augmentations-salaire-2026.html)  
+*Source : lemagdelaconso.ouest-france.fr | Publication : 2025-09-22*
+
+- Ces 8 métiers qui offriront les plus belles augmentations de salaire en 2026 !.
+- En 2026, le marché de l’emploi promet des évolutions salariales dans plusieurs secteurs clés.
+- Certains métiers se distinguent par des hausses de salaire spectaculaires, notamment grâce à la montée en puissance de l’intelligence artificielle, la transformation énergétique et l’évolution des modes de consommation.
+- Voici 8 professions qui devraient bénéficier des plus belles augmentations de rémunération en 2026.
+
+## [La recherche en réponse aux enjeux de <b>cybersécurité</b> et de confiance numérique - Le Droit](https://www.ledroit.com/la-vitrine/2025/09/22/la-recherche-en-reponse-aux-enjeux-de-cybersecurite-et-de-confiance-numerique-WHJKEFNK5RHGNDOYUWZJUO32O4/)  
+*Source : ledroit.com | Publication : 2025-09-22*
+
+- Ce sujet très actuel est un champ d’étude universitaire.
+- Pour l’Institut national de la recherche scientifique (INRS), qui offre des programmes universitaires de maitrise et de doctorat dans divers centres thématiques, il était d’ailleurs impératif de former une relève scientifique pour relever les grands défis sociétaux.
+- C’est donc en jumelant ses expertises avec celles de l’Université du Québec en Outaouais (UQO) qu’il est maintenant possible d’étudier dans un programme universitaire en cybersécurité et confiance numérique.
+- Pour accompagner les étudiant.e.s dans le développement de compétences d’avenir, six professeur.e.s chevronné.e.s, réputé.e.s pour leurs recherches dans des secteurs diversifiés, partagent leurs savoirs et leurs expériences.
+
+## [<b>Cybercriminalité</b> : Le Ministère de l'Intérieur passe à l'offensive - La Presse de Tunisie](https://lapresse.tn/2025/09/22/cybercriminalite-le-ministere-de-linterieur-passe-a-loffensive/)  
+*Source : lapresse.tn | Publication : 2025-09-22*
+
+- Le lundi 22 septembre 2025, Sahbi Al-Amri, chef de service au sein de la police judiciaire du ministère de l’Intérieur, a déclaré que le ministère avait mis en place une stratégie claire et un plan complet pour contrer la cybercriminalité.
+- Il a souligné que les activités en ligne ne sont pas isolées de la réalité et peuvent affecter la stabilité de la société, voire la souveraineté de l’État.
+- Lors de son passage à l’émission « Yom Said » sur les ondes de la Radio Nationale, il a précisé que cette stratégie repose sur quatre piliers, dont la sensibilisation et l’éducation pour la protection des données personnelles, ainsi que l’information des unités de sécurité en cas d’activité suspecte.
+- Sahbi El Omri a également expliqué que la stratégie inclut un volet de formation et de renforcement des compétences.
+
+## [Cyberattaque dans les aéroports européens : retour à la normale progressif à Londres ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-dans-les-aeroports-europeens-retour-a-la-normale-progressif-a-londres-berlin-et-dublin-26024854.php)  
+*Source : sudouest.fr | Publication : 2025-09-22*
+
+- Après une cyberattaque ciblant un logiciel d’enregistrement, la situation des aéroports de Londres, Berlin et Dublin s’est améliorée, tandis que Bruxelles reste perturbé La situation s’améliorait dimanche dans plusieurs aéroports européens, dont ceux de Londres, Berlin et Dublin, au lendemain d’une cyberattaque sur un logiciel fourni par une entreprise pour l’enregistrement des passagers.
+
+## [Chaos dans les aéroports européens après une cyberattaque d'ampleur inédite](https://siecledigital.fr/2025/09/22/chaos-dans-les-aeroports-europeens-apres-une-cyberattaque-dampleur-inedite/)  
+*Source : siecledigital.fr | Publication : 2025-09-22*
+
+- Si l’une des plus grandes attaques d’aéroports récentes visait les Etats-Unis ces dernières années, c’est désormais l’Europe qui se trouve au coeur d’une cyberattaque massive.
+- En effet, une cyberattaque de très grande ampleur a paralysé ce week-end plusieurs grands aéroports européens.
+- Entre les files d’attente, les annulations de vols et les enregistrements manuels, le secteur aérien se retrouve confronté à sa dépendance aux systèmes numériques… Bruxelles, Londres et Berlin parmi les plus touchés En reprenant les informations par ordre chronologique, selon un message sur X, il semblerait que l’attaque informatique ait commencé vendredi soir avec une attaque visant le logiciel MUSE de Collins Aerospace.
+- 📩 L’actu digitale évolue vite.
+
+## [Kaspersky Uve Airlines 2025 se concentre sur les <b>cybermenaces</b> automobiles et mondiales](https://voi.id/fr/teknologi/516820)  
+*Source : voi.id | Publication : 2025-09-22*
+
+- ARTA - Kaspersky a révélé les informations préliminaires sur le très attendu Sommet des analystes de sécurité (SAS) 2025 qui se tiendra à Khao Lak, en Thaïlande, du 26 au 29 octobre 2025. , ce qui est réservé à quatre événements d’aujourd’hui réuniront près de 200 participants du monde entier.
+- L’ordre du jour de cette année met en évidence les développements rapides de la sécurité automobile, ce qui reflète son rôle important dans un monde connecté comme c’est le cas aujourd’hui.
+- ina mettra en lumière des discussions sur des sujets clés allant de la sécurité automobile aux menaces persistantes avancées (APT), à l’IA et aux vulnérabilités.
+- Tan, George Chen et Chee Peng, spécialisés en sécurité, partagent comment les caméras de bord sont devenues une nouvelle surface d’attaque et exploreront ce qu’elles signifient pour les véhicules connectés, la vie privée et la surveillance publique.
+
+## [Quelle est la cyberattaque qui a bloqué les aéroports européens ce week-end ?](https://www.presse-citron.net/quelle-est-la-cyberattaque-qui-a-bloque-les-aeroports-europeens-ce-week-end/)  
+*Source : presse-citron.net | Publication : 2025-09-22*
+
+- Berlin-Brandebourg, Bruxelles, Dublin, Cork en Irlande et Heathrow.
+- Une belle pagaille régnait ce week-end dans ces cinq aéroports majeurs européens suite à une cyberattaque qui a rapidement été confirmée.
+- L’occasion pour nous de revenir sur cet incident, ses origines et ses conséquences.
+- Retour à un enregistrement manuel Nous avons ainsi rapidement appris que le problème venait de Collins Aerospace, une entreprise américaine domiciliée dans l’Iowa.
+
+## [Pourquoi les cyberpirates ciblent de plus en plus l'aérien - Le Soir](https://www.lesoir.be/700277/article/2025-09-21/pourquoi-les-cyberpirates-ciblent-de-plus-en-plus-laerien)  
+*Source : lesoir.be | Publication : 2025-09-22*
+
+- Dans un rapport récent consacré à la cybermenace dans l'aviation, le ... ransomware qui paralysent l'infrastructure informatique tant que la.
+
+## [L'agence européenne affirme qu'un <b>ransomware</b> tiers est à l'origine des perturbations dans ...](https://www.zonebourse.com/actualite-bourse/la-agence-europeenne-affirme-qua-un-ransomware-tiers-est-a-la-origine-des-perturbations-dans-les-ce7d58dfda80f725)  
+*Source : zonebourse.com | Publication : 2025-09-22*
+
+- L’agence européenne affirme qu’un ransomware tiers est à l’origine des perturbations dans les aéroportsL’agence européenne chargée de la cybersécurité a déclaré lundi que les perturbations constatées dans plusieurs aéroports, dues à des dysfonctionnements des systèmes automatiques.
+
+## [P-O/ Chambre de Métiers et de l'Artisanat (CMA'66) : l'actualité de la semaine | ouillade.eu](https://ouillade.eu/agenda/p-o-chambre-de-metiers-et-de-lartisanat-cma66-lactualite-de-la-semaine-49/324362)  
+*Source : ouillade.eu | Publication : 2025-09-22*
+
+- -Les experts du mardi : c’est reparti !- « Artisans, anticipez la réforme de la facturation électronique sans stress !.
+- ».
+- L’intervenant est un inspecteur principal de la DRFIP.
+- Au programme : – Les grands principes de la réforme / Qu’est-ce que la facturation électronique -Le périmètre et le calendrier de la réforme – Le circuit de transmission des factures électroniques – Des cas concrets d’applications (deux exemples d’entreprises) N’oubliez pas de vous connecter le mardi 7 octobre 2025 à 13H !.
+
+## [Vers une simplification du RGPD, Cybersecurity Act, Data Act et AI act avec Omnibus](https://www.solutions-numeriques.com/vers-une-simplification-du-rgpd-cybersecurity-act-data-act-et-ai-act-avec-omnibus/)  
+*Source : solutions-numeriques.com | Publication : 2025-09-22*
+
+- La Commission européenne a lancé un appel à contributions jusqu’au 14 octobre 2025 afin de recueillir les avis visant à simplifier la législation liée au numérique, dans le cadre du prochain paquet omnibus soumis à l’adoption de la Commission à la fin de l’année.
+- “Le train de mesures omnibus sur le numérique prévoira des dispositions ciblant certaines problématiques et recherchant une simplification dans les domaines suivants : – l’acquis en matière de données (règlement sur la gouvernance des données — Data Governance Act ; règlement relatif au libre flux des données à caractère non personnel — Data Act ; directive sur les données ouvertes) ; – les règles relatives aux cookies et autres technologies de suivi établies par la directive “vie privée et communications électroniques” (ePrivacy) ; – les obligations de signalement des incidents liés à la cybersécurité (Cybersecurity Act) ; – la bonne application des règles énoncées dans le règlement sur l’IA (AI Act) ; d’autres aspects concernant l’identification électronique et les services de confiance au titre du cadre européen relatif à l’identité numérique, notamment en vue de l’alignement réglementaire sur la future proposition de portefeuille européen d’identité numérique pour les entreprises et de l’application du principe “un ajout, un retrait” “, explique la Commission européenne.
+- La proposition omnibus prévoit également de modifier le RGPD.
+- Elle suggère une dérogation à l’obligation de tenir un registre des opérations de traitement des données pour les entreprises de moins de 750 personnes, sauf lorsque l’opération de traitement est susceptible d’entraîner un risque élevé pour les droits et libertés des personnes.
+
+## [Le hacker qui dit vendre des bases de données géantes de l'ANTS et de France Travail est ...](https://www.clubic.com/actualite-580066-le-hacker-qui-dit-vendre-des-bases-de-donnees-geantes-de-l-ants-et-de-france-travail-est-le-roi-du-pipeau.html)  
+*Source : clubic.com | Publication : 2025-09-22*
+
+- Ces derniers jours, un hacker a mis en vente de supposées bases de données de France Titres, ex-ANTS, et de France Travail, entre autres, pour des sommes dérisoires.
+- En plus d'avoir menti, il a été écarté par ses pairs.
+- Il semble que cela devienne monnaie-courante, mais en plus de se livrer à des activités parfaitement illégales, certains hackers dupent leur monde en maniant, de manière plus ou moins habile, le mensonge.
+- C'est le cas d'un pirate, qui se fait appeler parfois appeler ESP34, qui depuis le 19 septembre 2025 multiplie les posts sur un forum très fréquenté du dark web, pour notamment dire qu'il détient et vend des bases de données tirées de France Titres, de France Travail et d'autres.
+
+## [PureCoder : Check Point expose l'arsenal complet d'un développeur de maliciels - IT Social](https://itsocial.fr/cybersecurite/cybersecurite-actualites/purecoder-check-point-expose-larsenal-complet-dun-developpeur-de-maliciels/)  
+*Source : itsocial.fr | Publication : 2025-09-22*
+
+- Une enquête de Check Point Research dévoile les rouages du malware PureHVNC et l’identité numérique de son développeur, PureCoder.
+- Exploitée dans des campagnes d’hameçonnage ciblé, cette suite malveillante démontre un niveau élevé d’industrialisation, reposant sur un écosystème de plugins, d’obfuscateurs et de canaux de distribution sophistiqués.
+- La famille de maliciels « Pure » se distingue par sa cohérence technique, son niveau d’obfuscation élevé et sa modularité.
+- Développée et commercialisée par un auteur unique, connu sous le pseudonyme de PureCoder, elle combine plusieurs outils spécialisés : un RAT (outil d’administration à distance), un crypteur, un stealer, un mineur et un framework de type botnet.
+
+## [Une attaque par <b>ransomware</b> à l'origine des perturbations d'enregistrement dans ... - Investing.com](https://fr.investing.com/news/world-news/une-attaque-par-ransomware-a-lorigine-des-perturbations-denregistrement-dans-les-aeroports-selon-lagence-europeenne-93CH-3058174)  
+*Source : fr.investing.com | Publication : 2025-09-22*
+
+- Les forces de l'ordre sont impliquées dans l'enquête", a déclaré l'Agence de l'Union européenne pour la cybersécurité (ENISA) dans un communiqué.
+- L'.
+
+## [La mascarade des ventes de données prétendument issues de l'ANTS - ZATAZ](https://www.zataz.com/la-mascarade-des-ventes-de-donnees-pretendument-issues-de-lants/)  
+*Source : zataz.com | Publication : 2025-09-22*
+
+- La mascarade des ventes de données prétendument issues de l’ANTS Mi-2025, une alerte ZATAZ sur une mise en vente massive de fiches d’état civil a déclenché sept mois d’enquête autour d’une fuite présumée de l’ANTS.
+- On vous raconte !.
+- Rejoignez ZATAZ sur les réseaux : Mi-septembre 2025, des annonces sur plusieurs blackmarkets ont rouvert le dossier d’un fichier attribué à France Titres, géré par l’ANTS, contenant plus de dix millions de fiches d’état civil.
+- ZATAZ avait signalé dès juin 2025 l’existence d’une offre initiale.
+
+## [Investir dans l'avenir de l'Europe - Allnews](https://www.allnews.ch/content/points-de-vue/investir-dans-l’avenir-de-l’europe)  
+*Source : allnews.ch | Publication : 2025-09-22*
+
+- Energie, industrie, cybersécurité : la transformation stratégique du Vieux Continent génère dès aujourd'hui des opportunités.
+- ©Keystone.
 
 ## [La brigade de lutte contre la <b>cybercriminalité</b> met la main sur un présumé auteur de diffamation](https://lefaso.net/spip.php?article140914)  
 *Source : lefaso.net | Publication : 2025-09-21*
