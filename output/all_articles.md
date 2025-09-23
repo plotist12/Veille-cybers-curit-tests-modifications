@@ -1,5 +1,153 @@
-# Résumés – 2025-09-22
+# Résumés – 2025-09-23
 
+
+## [Arnaques en ligne : les jeunes, cible privilégiée des <b>cybermenaces</b> - Ipsos](https://www.ipsos.com/fr-fr/arnaques-en-ligne-les-jeunes-cible-privilegiee-des-cybermenaces)  
+*Source : ipsos.com | Publication : 2025-09-23*
+
+- Arnaques en ligne : les jeunes, cible privilégiée des cybermenaces À l’occasion du Cybermois 2025, Cybermalveillance.gouv.fr, dispositif national d’assistance et de prévention, dévoile les résultats de son 2ème baromètre sur la perception cyber des internautes, réalisé avec Ipsos bva.
+- Si les chiffres témoignent d’une évolution sensible de leur connaissance des menaces et de leurs comportements, les plus jeunes restent toutefois en première ligne.
+- Maturité cyber des Français : vers une meilleure connaissance des menaces et des pratiques De manière globale, l’étude 2025 met en évidence une bonne connaissance des pratiques cyber et 58 % des répondants considèrent être suffisamment informés des risques liés à l’utilisation d’Internet.
+- En termes d’usages, les Français affichent également une meilleure compréhension des enjeux avec des gestes élémentaires de cybersécurité qui semblent s‘affirmer : 55 % déclarent utiliser des mots de passe complexes et uniques pour chaque service, 68 % faire des vérifications avant un achat en ligne.
+
+## [Un <b>ransomware</b> a semé le chaos dans plusieurs aéroports européens - PhonAndroid](https://www.phonandroid.com/un-ransomware-a-seme-le-chaos-dans-plusieurs-aeroports-europeens.html)  
+*Source : phonandroid.com | Publication : 2025-09-23*
+
+- Un ransomware a semé le chaos dans plusieurs aéroports européens Bruxelles, Berlin ou encore Heathrow : plusieurs aéroports européens ont été perturbés ce week-end par un rançongiciel.
+- Il visait le système d’enregistrement et d’embarquement de Collins Aerospace et a entraîné l'annulation de centaines de vols.
+- La technologie, c’est bien quand ça marche.
+- Quand ce n’est pas le cas, cela peut parfois provoquer le chaos.
+
+## [Deloitte inaugure à Casablanca sa CyberAcademy, dédiée aux métiers de la <b>cybersécurité</b>](https://medias24.com/2025/09/22/deloitte-inaugure-a-casablanca-sa-cyberacademy-dediee-aux-metiers-de-la-cybersecurite/)  
+*Source : medias24.com | Publication : 2025-09-23*
+
+- La Deloitte CyberAcademy propose plus de 60 formations certifiantes couvrant tous les aspects de la cybersécurité et de l'intelligence artificielle.
+
+## [Saint-Dizier. Rafale, agriculture, <b>cybersécurité</b> : l'IA a déjà fait sa place - L'Est Républicain](https://www.estrepublicain.fr/economie/2025/09/22/rafale-agriculture-cybersecurite-l-ia-a-deja-fait-sa-place)  
+*Source : estrepublicain.fr | Publication : 2025-09-23*
+
+- Saint-Dizier Rafale, agriculture, cybersécurité : l’IA a déjà fait sa place Général Rode, quel est l’objectif de votre venue aujourd’hui ?.
+- « Faire découvrir, sur le terrain, les domaines dans lesquels nous travaillons, chez Dassault, de façon à aller dans le sens de ce que nous demandent les pilotes de Rafale : les aider à optimiser la relation entre l’homme et la machine pour éviter une saturation cognitive.
+- » En quoi l’IA est devenue indispensable dans la défense ?.
+- « Dans les Rafale, l’IA va aider à.
+
+## [Un rançongiciel est responsable des perturbations dans de nombreux aéroports européens ...](https://www.bfmtv.com/tech/actualites/cybersecurite/un-rancongiciel-est-responsable-des-perturbations-dans-de-nombreux-aeroports-europeens-le-week-end-dernier-selon-l-enisa_AV-202509230395.html)  
+*Source : bfmtv.com | Publication : 2025-09-23*
+
+- Un rançongiciel est responsable des perturbations dans de nombreux aéroports européens le week-end dernier, selon l'Enisa Bruxelles, Londres, Berlin... Au cours du week-end, plusieurs aéroports européens ont vu leur activité perturbée à cause d'une cyberattaque.
+- Des pirates ont visé un logiciel de l'entreprise Collins Aerospace pour l'enregistrement des passagers, mettant hors service les systèmes automatisés dédiés à cette formalité.
+- Filiale du groupe américain d'aéronautique et de défense RTX (ex-Raytheon), elle fournit ses services d'enregistrement dans 170 aéroports dans le monde, selon son site.
+- L'agence de l'Union européenne pour la cybersécurité (Enisa) a révélé de nouvelles informations sur cet incident à Reuters.
+
+## [AGNU 80: le Vietnam présente l'ouverture à la signature de la Convention de Hanoi](https://fr.vietnamplus.vn/agnu-80-le-vietnam-presente-louverture-a-la-signature-de-la-convention-de-hanoi-post251177.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-09-23*
+
+- New York (VNA) - Le Vietnam a présenté l’ouverture de la cérémonie de signature de la Convention des Nations Unies contre la cybercriminalité (dite «Convention de Hanoi»), qui s’est tenue lundi 22 septembre au siège des Nations Unies, dans le cadre du débat général de haut niveau de la 80e session de l’Assemblée générale des Nations Unies (AGNU 80).
+- L’événement, organisé conjointement par les ministères vietnamiens des Affaires étrangères et de la Sécurité publique, ainsi que par l’Office des Nations Unies contre la drogue et le crime (ONUDC), a réuni 120 représentants de pays membres de l’ONU, d’instituts de recherche et d’organisations internationales.
+- Dans son discours d’ouverture, le ministre des Affaires étrangères par intérim, Lê Hoài Trung, a souligné que la coopération internationale était essentielle à la lutte contre la cybercriminalité et qu’elle gagnerait en efficacité grâce à l’adoption de la Convention, premier cadre juridique mondial à aborder ce problème.
+- Il a souligné qu’en tant qu’hôte de la cérémonie de signature, le Vietnam espère que cet événement marquera une nouvelle étape dans le renforcement du multilatéralisme et la promotion des efforts mondiaux contre les cybermenaces.
+
+## [La <b>cybersécurité</b>, un enjeu stratégique pour les entreprises du nord Franche-Comté - ici](https://www.francebleu.fr/emissions/l-invite-ici-belfort-montbeliard/la-cybersecurite-un-enjeu-strategique-pour-les-entreprises-du-nord-franche-comte-3340813)  
+*Source : francebleu.fr | Publication : 2025-09-23*
+
+- Émission L'invité, ici Belfort Montbéliard La cybersécurité, un enjeu stratégique pour les entreprises du nord Franche-Comté Diffusé le Publié le C'est un problème qui empoisonne la vie des chefs d'entreprises, les cyberattaques sont de plus en plus nombreuses, l'an dernier en Franche-Comté on estime à 400 le nombre d'attaques qui ont visé leurs systèmes informatiques.
+- Invité d'ICI matin ce mardi, Quentin Sonnet travaille à la société Altinéa, son rôle est de conseiller des entreprises du Nord Franche-Comté sur la façon de se protéger des pirates informatiques, et il dresse un constat inquiétant : "on s'aperçoit que les cyberattaques augmentent de façon très importantes, c'est encore plus visible en ce moment avec tout ce qui se passe dans le monde et la volonté de certains de déstabiliser nos entreprises, il y a des attaques qui sont plutôt minimes et qu'on peut régler assez facilement, mais il y en a d'autres où il faut restaurer complètement une sauvegarde et protéger davantage les systèmes".
+- "Des mots de passe différents sur chaque compte" Face à des pirates qui utilisent des moyens de plus en plus sophistiqués pour infiltrer les systèmes informatiques, le meilleur conseil est de changer régulièrement de mots de passe, "ça vaut pour les entreprises comme les particuliers" insiste Quentin Sonnet, "il faut avoir un mot de passe fort, mais surtout, le plus important, c'est d'avoir un mot de passe différent sur chacun de ses comptes, ça peut paraître chronophage, mais il faut savoir qu'aujourd'hui il existe des gestionnaires de mots de passe pour pouvoir les gérer.
+- Autre conseil, il faut faire régulièrement des mises à jour car cela permet de télécharger des correctifs de sécurité" insiste le spécialiste qui appelle également à la plus grande prudence dans les mails que l'on reçoit et de bien vérifier l'expéditeur surtout quand ce sont des mails envoyés par un service public comme Amélie ou la CAF.
+
+## [Ordre des avocats, <b>cybercriminalité</b>, trafic de stupéfiants… Les 5 infos de la journée](https://www.businessnews.com.tn/ordre-des-avocats-cybercriminalite-trafic-de-stupefiants-les-5-infos-de-la-journee,520,151636,3)  
+*Source : businessnews.com.tn | Publication : 2025-09-23*
+
+- Au deuxième tour qui l'opposait à Abdelfattah Alaoui, il a obtenu 878 voix contre 306 voix pour son adversaire.
+- Sofiane Belhaj Mohamed est connu pour.
+
+## [ABB lance un chromatographe de gaz avec <b>cybersécurité</b> intégrée - ABC Bourse](https://www.abcbourse.com/marches/abb-lance-un-chromatographe-de-gaz-avec-cybersecurite-integree_675325)  
+*Source : abcbourse.com | Publication : 2025-09-23*
+
+- (Zonebourse.com) - ABB annonce le lancement du GCP100, premier chromatographe de gaz du marché intégrant des fonctions de cybersécurité.
+- Destiné aux secteurs du gaz naturel, du biogaz, du pétrole et de la pétrochimie, il offre une analyse en temps réel plus sécurisée et précise.
+- L'appareil supprime le recours à des dispositifs tiers grâce à un chiffrement intégré, réduisant les risques pour des infrastructures critiques.
+- Jean-René Roy, directeur mondial Measurement & Analytics, souligne que cette nouvelle génération 'devient la référence pour les industries'.
+
+## [Zoom sur BlackLock : un <b>ransomware</b> ultra sophistiqué en pleine croissance - Clubic](https://www.clubic.com/actualite-580168-zoom-sur-blacklock-un-ransomware-ultra-sophistique-en-pleine-croissance.html)  
+*Source : clubic.com | Publication : 2025-09-23*
+
+- L'année dernière, le groupe BlackLock, anciennement connu sous le nom d'El Dorado, a mis au point l'un des malwares les plus redoutables.
+- Et ce dernier est toujours en circulation.
+- Les chercheurs du cabinet ASEC ont observé une montée en puissance de ce ransomware depuis mars 2024.
+- BlackLock est devenu l'un des acteurs les plus actifs et le malware éponyme aurait enregistré une croissance de 1425% au quatrième trimestre 2024.
+
+## [Émirats • <b>Cybersécurité</b> : atterrissage réussi pour Seclab à Abu Dhabi - Intelligence Online](https://www.intelligenceonline.fr/surveillance--interception/2025/09/23/cybersecurite--atterrissage-reussi-pour-seclab-a-abu-dhabi,110523973-bre)  
+*Source : intelligenceonline.fr | Publication : 2025-09-23*
+
+- Spécialiste en solutions de cybersécurité pour les infrastructures les plus sensibles, la société française Seclab vient de signer un contrat avec.
+
+## [Squad ouvre une nouvelle agence sur Brest - Solutions-Numeriques](https://www.solutions-numeriques.com/communiques/squad-ouvre-une-nouvelle-agence-sur-brest/)  
+*Source : solutions-numeriques.com | Publication : 2025-09-23*
+
+- Squad poursuit son développement territorial avec l’ouverture d’une nouvelle agence à Brest.
+- Avec plus de mille experts répartis dans 14 agences en France, Suisse, Espagne et au Canada, Squad s’engage à offrir le meilleur de la cybersécurité et du développement sécurisé à ses clients.
+- Le groupe met son ADN technique et son expertise de pointe au service des grands comptes, en intégrant la cybersécurité au cœur des infrastructures IT, OT et Cloud.
+- Squad réalise près de 125 millions d’euros de chiffre d’affaires.
+
+## [Mais qui se cache derrière la cyberattaque qui perturbe encore des aéroports européens](https://www.capital.fr/economie-politique/mais-qui-se-cache-derriere-la-cyberattaque-qui-perturbe-encore-des-aeroports-europeens-1518628)  
+*Source : capital.fr | Publication : 2025-09-23*
+
+- La pagaille dans de nombreux aéroports européens.
+- Si la situation revient petit à petit à la normale, ce week-end, de nombreux aéroports, dont ceux de Bruxelles, Berlin, Londres ou Dublin ont été fortement impactés.
+- Si les aéroports parisiens n’ont pas été touchés, rien que dans la capitale belge, 45 vols sur 257 ont dû être annulés, sans compter les retards.
+- Une cyberattaque a en effet été détectée sur un logiciel fourni par une entreprise qui gère l’enregistrement des passagers.
+
+## [Une attaque par <b>ransomware</b> a perturbé les aéroports européens - Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-une-attaque-par-ransomware-a-perturbe-les-aeroports-europeens-97927.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-09-23*
+
+- Grande pagaille ce week-end dans trois aéroports européens suite à une attaque informatique ciblée perturbant depuis vendredi soir une bonne partie du trafic aérien à Berlin, Bruxelles et Heathrow, le plus grand du continent.
+- En Irlande, les aéroports de Dublin et de Cork ont également été touchés mais l’impact sur eux a été qualifié de mineur comme l'indique Reuters.
+- A l’origine de ces incidents, une cyberattaque par ransomware ayant visé Collins Aeropsace, éditeur de Muse, un système d’enregistrement et d’embarquement des passagers utilisé par ces aéroports.
+- « Le type de ransomware a été identifié.
+
+## [Nantes Digital Week 2025 : Pour que le numérique nous rapproche](https://lacite-nantes.fr/nantes-digital-week-2025-pour-que-le-numerique-nous-rapproche-1406809.html)  
+*Source : lacite-nantes.fr | Publication : 2025-09-23*
+
+- Nantes Digital Week 2025 : Pour que le numérique nous rapproche Événements Publié le 23 septembre 2025 Du 18 au 28 septembre 2025, la métropole nantaise vit au rythme du numérique, Nantes Digital Week.
+- Pendant 10 jours, innovation, inclusion, éthique et expérimentations se croiseront à travers une programmation accessible à toutes et tous.
+- L’intelligence artificielle sera à nouveau au cœur des échanges cette année, aux côtés de thématiques fortes comme l’accessibilité, la cybersécurité, ou encore les usages du numérique dans la santé.
+- Organisé dans de nombreux lieux emblématiques de Nantes et de sa métropole, le festival repose sur une dynamique locale forte, avec l’implication directe des acteurs du territoire.
+
+## [<b>Cybersécurité</b> : protéger les sociétés inscrites contre les menaces invisibles - Fasken](https://www.fasken.com/fr/events/2025/10/cybersecurite-2025)  
+*Source : fasken.com | Publication : 2025-09-23*
+
+- Cybersécurité : protéger les sociétés inscrites contre les menaces invisibles.
+- Quand 2 octobre 2025 De 16:30 à 19:30 (HE) Ajouter au calendrier.
+- Où.
+
+## [Le général Ciparisse au « Soir » : « La Défense subit des milliers de cyberattaques par jour »](https://www.lesoir.be/700469/article/2025-09-22/le-general-ciparisse-au-soir-la-defense-subit-des-milliers-de-cyberattaques-par)  
+*Source : lesoir.be | Publication : 2025-09-23*
+
+- Lors de l'incident de ce week-end, Brussels Airport a rapidement prévenu le CCB (Centre pour la cybersécurité Belgique, NDLR) à qui il a demandé une.
+
+## [AGNU 80 : le Vietnam présente l'ouverture à la signature de la Convention de Hanoï](https://lecourrier.vn/agnu-80-le-vietnam-presente-louverture-a-la-signature-de-la-convention-de-hanoi/1291398.html)  
+*Source : lecourrier.vn | Publication : 2025-09-23*
+
+- >> Le voyage du président vietnamien devrait renforcer les relations Vietnam - États-Unis >> Le Vietnam chérit son amitié traditionnelle et sa coopération multiforme avec le Tadjikistan L’événement, organisé conjointement par les ministères vietnamiens des Affaires étrangères et de la Police, ainsi que par l’Office des Nations unies contre la drogue et le crime (ONUDC), a réuni 120 représentants de pays membres de l’ONU, d’instituts de recherche et d’organisations internationales.
+- Dans son discours d’ouverture, le ministre des Affaires étrangères par intérim, Lê Hoài Trung, a souligné que la coopération internationale était essentielle à la lutte contre la cybercriminalité et qu’elle gagnerait en efficacité grâce à l’adoption de la convention, premier cadre juridique mondial à aborder ce problème.
+- Il a souligné qu’en tant qu’hôte de la cérémonie de signature, le Vietnam espère que cet événement marquera une nouvelle étape dans le renforcement du multilatéralisme et la promotion des efforts mondiaux contre les cybermenaces.
+- La vice-secrétaire générale des Nations unies et directrice exécutive de l’ONUDC, Ghada Waly, a décrit la convention comme un tremplin dans la lutte contre la cybercriminalité, la présentant comme le premier traité de justice pénale des Nations unies depuis plus de 20 ans, conçu pour lutter contre les formes actuelles et futures de cybercriminalité.
+
+## [EDF fait confiance à Numeryx pour former ses collaborateurs à la <b>cybersécurité</b>](https://www.informatiquenews.fr/edf-fait-confiance-a-numeryx-pour-former-ses-collaborateurs-a-la-cybersecurite-106638)  
+*Source : informatiquenews.fr | Publication : 2025-09-23*
+
+- Numeryx, groupe spécialisé dans la cybersécurité et les services technologiques, remporte les lots 1 et 2 de l’appel d’offres émis par EDF pour bénéficier de formations avancées dans le domaine de la cybersécurité.
+- Les prestations délivrées seront assurées par Numeryx Université, l’organisme de formation du groupe Numeryx.
+- Dans un contexte où les cybermenaces évoluent rapidement et deviennent de plus en plus sophistiquées, le groupe EDF a initié un ambitieux programme de professionnalisation de ses experts cyber, avec pour objectif de renforcer durablement ses défenses et son expertise interne.
+- Dans ce contexte, EDF fait confiance à Numeryx et à son groupement – composé des entreprises @ACG Cybersécurité et @Sciado Partner – pour accompagner la montée en compétence de ses équipes en cybersécurité.
+
+## [Cyberattaque contre plusieurs aéroports européens : la piste du <b>ransomware</b> privilégiée](https://euractiv.fr/news/cyberattaque-contre-plusieurs-aeroports-europeens-la-piste-du-ransomware-privilegiee/)  
+*Source : euractiv.fr | Publication : 2025-09-23*
+
+- Cyberattaque contre plusieurs aéroports européens : la piste du ransomware privilégiée La cyberattaque contre plusieurs aéroports européens qui a débuté vendredi 19 septembre et a perturbé les vols durant tout le week-end serait liée à une attaque par ransomware.
+- Les aéroports de Londres Heathrow, Berlin Brandenburg, Bruxelles, Dublin et Cork ont été victimes d’une cyberattaque au cours du week-end, qui visait un prestataire tiers commun : la société américaine Collins Aerospace, qui gère leurs systèmes d’enregistrement.
+- Ce lundi 22 septembre, plusieurs médias, dont l’agence Reuters, ont largement relayé l’information selon laquelle cette cyberattaque était une tentative de ransomware, un type d’attaque en ligne dans lequel les pirates exigent une rançon en échange du déblocage de l’accès aux données ou aux systèmes qu’ils ont compromis.
+- L’Agence de l’Union européenne pour la cybersécurité (ENISA), qui est responsable de la coordination des réponses en matière de cybersécurité dans l’ensemble de l’Union, n’a pas pu confirmer ces informations.
 
 ## [Orange Maroc appuie Nucleon Security pour renforcer la <b>cybersécurité</b> en Afrique](https://industries.ma/orange-maroc-appuie-nucleon-security-pour-renforcer-la-cybersecurite-en-afrique/)  
 *Source : industries.ma | Publication : 2025-09-22*
