@@ -1,5 +1,161 @@
-# Résumés – 2025-09-23
+# Résumés – 2025-09-24
 
+
+## [Cyber attaque aéroports européens : Commentaires de Tenable - Global Security Mag](https://www.globalsecuritymag.fr/cyber-attaque-aeroports-europeens-commentaires-de-tenable.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-09-24*
+
+- Cyber attaque aéroports européens : Commentaires de Tenable septembre 2025 par Bernard Montel, Directeur Technique EMEA et Stratège Sécurité chez Tenable Suite à une cyber attaque par ransomware a touché plusieurs aéroports européens ce week end, cyber attaque confirmée par l’ENISA et l’ANSSI ce jour.
+- Bernard Montel, Directeur Technique EMEA et Stratège Sécurité chez Tenable, commente les implications de cet incident : « La perturbation survenue dans les principaux aéroports européens, désormais confirmée par l’Agence de l’Union européenne pour la cybersécurité (ENISA) comme étant une attaque par ransomware, constitue une preuve supplémentaire que les acteurs malveillants exploitent de mauvaises pratiques de cybersécurité.
+- Les attaquants n’utilisent pas de techniques avancées ni ne ciblent des vulnérabilités zero-day ; ils exploitent les mêmes expositions que nous connaissons depuis des années, comme des systèmes non corrigés, des erreurs de configuration et des pratiques d’authentification faibles.
+- Cet incident démontre la fragilité de nos infrastructures IT critiques, une tour de Jenga complexe composée de systèmes interconnectés de tiers.
+
+## [Tenable® annonce la création du Conseil du leadership en gestion des expositions](https://www.globalsecuritymag.fr/tenable-r-annonce-la-creation-du-conseil-du-leadership-en-gestion-des.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-09-24*
+
+- Tenable® annonce la création du Conseil du leadership en gestion des expositions septembre 2025 par LA REDACTION DE GS MAG Tenable® annonce la création du Conseil du leadership en gestion des expositions, un groupe de travail dédié à l’élaboration et à l’avancement de principes, bonnes pratiques, politiques et cadres de gestion des expositions.
+- Composé de directeurs de la sécurité des systèmes d’information (RSSI) et de responsables cybersécurité issus de grandes organisations mondiales dans divers secteurs, comme l’assurance, la technologie, le transport, le juridique ou encore la grande consommation, le Conseil a pour mission de faire de la gestion des expositions une discipline de sécurité proactive largement adoptée, capable de réduire de manière tangible l’exposition des organisations aux cybermenaces.
+- Le Conseil a publié un rapport, « Les réunions de conseil et la redoutée mise à jour sur les risques cyber : un cas d’usage pour la gestion des expositions », qui présente les points saillants, anecdotes et enseignements tirés de sa réunion inaugurale.
+- Ce rapport analyse le fossé critique de communication entre les responsables de la sécurité et leurs conseils d’administration et propose une nouvelle voie à suivre.
+
+## [Le groupe parisien de <b>cybersécurité</b> Squad ouvre une agence à Brest](https://www.lejournaldesentreprises.com/breve/le-groupe-parisien-de-cybersecurite-squad-ouvre-une-agence-brest-2127010)  
+*Source : lejournaldesentreprises.com | Publication : 2025-09-24*
+
+- Le groupe parisien Squad, acteur de la cybersécurité, implante une agence à Brest.
+- Cette 12e ouverture s’accompagne du recrutement de 15 collaborateurs d’ici à fin 2025.
+- Squad (1 000 collaborateurs en France, Suisse, Espagne et Canada) renforce ainsi son ancrage dans l’Ouest, où il dispose déjà d'agences à Rennes et Nantes.
+- Il confirme une stratégie d’accompagnement au plus proche de ses clients.
+
+## [Cyberattaque contre Collins Aerospace : un suspect interpellé en Angleterre, les experts ...](https://www.solutions-numeriques.com/cyberattaque-contre-collins-aerospace-un-suspect-interpelle-en-angleterre-les-experts-alertent-sur-la-fragilite-des-infrastructures-aeriennes/)  
+*Source : solutions-numeriques.com | Publication : 2025-09-24*
+
+- L’attaque par ransomware contre Collins Aerospace a provoqué ce week-end des retards et annulations massifs dans plusieurs grands aéroports européens.
+- Un suspect a été interpellé au Royaume-Uni, mais l’incident met déjà en lumière la vulnérabilité des chaînes d’approvisionnement numériques et la nécessité de renforcer la cybersécurité des infrastructures critiques.
+- Un week-end de chaos aérien Files d’attente interminables, vols annulés ou retardés, passagers bloqués dans les grands hubs européens : l’attaque par ransomware ayant visé Collins Aerospace ce week-end a révélé la dépendance massive du secteur aérien à ses systèmes numériques.
+- Collins fournit des logiciels de check-in et de gestion des bagages utilisés par de nombreuses compagnies.
+
+## [La Commission appelle les États membres à mettre en œuvre la nouvelle directive ...](https://europeannewsroom.com/fr/la-commission-appelle-les-etats-membres-a-mettre-en-oeuvre-la-nouvelle-directive-europeenne-sur-la-cybersecurite-pour-le-secteur-des-transports/)  
+*Source : europeannewsroom.com | Publication : 2025-09-24*
+
+- «La Commission collabore avec l’Agence européenne de cybersécurité, dans le cadre de l’ENISA, ainsi qu’avec les autorités nationales, les aéroports et les compagnies aériennes, pour rétablir les fonctions et soutenir les passagers», a déclaré le porte-parole de la Commission, Thomas Renier, en référence aux cyberattaques qui ont frappé les systèmes de contrôle des billets (check-in) dans les aéroports de Bruxelles, Berlin et Londres.
+- Il a également évoqué les menaces hybrides et les éventuelles attaques sur les transports de l’UE, soulignant que les États membres doivent rester vigilants et se protéger avec comme boussole la nouvelle directive européenne sur la cybersécurité.
+- « Ce qui s’est passé souligne, une fois de plus, l’importance de la transposition complète de la directive NIS2 dans le domaine de la cybersécurité.
+- La NIS2 (Directive sur la sécurité des réseaux et de l’information 2) est une directive européenne sur la cybersécurité, qui a identifié l’aviation et, plus généralement, les transports comme des secteurs de haute criticité.
+
+## [Cyberattaque affectant le transport aérien européen : une arrestation outre-Manche | LeMagIT](https://www.lemagit.fr/actualites/366632012/Cyberattaque-affectant-le-transport-aerien-europeen-une-arrestation-outre-Manche)  
+*Source : lemagit.fr | Publication : 2025-09-24*
+
+- Brian Jackson - stock.adobe.com Cyberattaque affectant le transport aérien européen : une arrestation outre-Manche Les forces de l’ordre britanniques ont arrêté un quadragénaire dans le cadre de leur enquête sur la cyberattaque ayant touché Collins Aerospace.
+- Il été libéré sous caution.
+- Le rançongiciel HardBit aurait été utilisé.
+- L’agence britannique de lutte contre la criminalité, la NCA, vient d’annoncer avoir procédé à l’arrestation d’un suspect dans le cadre de son enquête sur la cyberattaque ayant touché Collins Aerospace en fin de semaine dernière.
+
+## [Odile Duthil, nouvelle présidente du Clusif - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/odile-duthil-nouvelle-presidente-du-clusif-223439)  
+*Source : silicon.fr | Publication : 2025-09-24*
+
+- Odile Duthil, la directrice cybersécurité du Groupe Caisse des Dépôts, a été élue Présidente du Clusif, par le conseil d’administration de l’association.
+- Elle succède à Benoît Fuzeau qui a occupé le poste durant plus de trois ans.
+- C’est sous son mandat que la plus ancienne association professionnelle dédiée à la cybersécurité, a été reconnue d’utilité publique le 28 novembre 2024.
+- « Pour répondre aux enjeux de la confiance numérique et de nos professions, nous conduirons en priorité : le renforcement de la collaboration avec les Clusir régionaux et internationaux ainsi qu’une une nouvelle stratégie pour développer des partenariats avec un écosystème élargi au-delà du secteur de la cybersécurité (risk managers, fonctions financières; ressources humaines, juridique …).
+
+## [Cyberattaque contre plusieurs aéroports européens : un homme arrêté au Royaume-Uni](https://www.cnews.fr/monde/2025-09-24/cyberattaque-contre-plusieurs-aeroports-europeens-un-homme-arrete-au-royaume-uni)  
+*Source : cnews.fr | Publication : 2025-09-24*
+
+- cybercriminalité de la NCA.
+- Dès samedi, une cyberattaque visant un.
+- Cette attaque a été commise avec un logiciel informatique malveillant, aussi.
+
+## [PARIS : Pourquoi un audit de <b>cybersécurité</b> est essentiel pour les PME ? - Presse Agence](https://presseagence.fr/paris-pourquoi-un-audit-de-cybersecurite-est-essentiel-pour-les-pme/)  
+*Source : presseagence.fr | Publication : 2025-09-24*
+
+- PARIS : Pourquoi un audit de cybersécurité est essentiel po… Partager : PARIS : Pourquoi un audit de cybersécurité est essentiel pour les PME ?.
+- Les cyberattaques ne concernent plus uniquement les grandes entreprises.
+- Aujourd’hui, les PME figurent parmi les cibles les plus fréquentes des hackers, souvent parce qu’elles pensent à tort ne pas être exposées.
+- Pourtant, un vol de données, un ransomware ou une simple faille non corrigée peut paralyser une activité, générer des pertes financières importantes et nuire durablement à la confiance des clients.
+
+## [Accolans. Animation <b>cybersécurité</b> - L'Est Républicain](https://www.estrepublicain.fr/societe/2025/09/24/animation-cybersecurite)  
+*Source : estrepublicain.fr | Publication : 2025-09-24*
+
+- Accolans Animation cybersécurité La municipalité invite la population à participer à une animation Cybersécurité, le samedi 4 octobre, de 10 heures à midi, à la salle des fêtes.
+- L’animation est gratuite et permettra de sensibiliser aux risques liés à l’utilisation des ordinateurs et surtout aux dangers potentiels liés à des attaques.
+
+## [Un homme de 83 ans se fait escroquer 400 000 euros alors qu'il pensait faire fructifier son argent](https://www.sudouest.fr/economie/cybersecurite/faits-divers/un-homme-de-83-ans-se-fait-escroquer-400-000-euros-alors-qu-il-pensait-faire-fructifier-son-argent-26065494.php)  
+*Source : sudouest.fr | Publication : 2025-09-24*
+
+- Un homme de 83 ans a été victime d’une escroquerie dite « aux faux investissements ».
+- L’octogénaire a versé la somme de 400 000 euros entre mai et août 2025, qui a été interceptée à temps.
+- Le parquet de Besançon appelle à la vigilance Des investissements qui tournent à l’escroquerie.
+- C’est le cauchemar vécu par un retraité de 83 ans, à Besançon dans le Doubs, rapporte « France 3 ».
+
+## [Assurer en toute <b>cybersécurité</b> - Les Affaires](https://www.lesaffaires.com/dossiers/assurances-de-dommages-le-secteur-se-transforme/assurer-en-toute-cybersecurite-edition-24-septembre-2025/)  
+*Source : lesaffaires.com | Publication : 2025-09-24*
+
+- Assurer en toute cybersécurité Leïla Jolin-Dahel|Édition de la mi‑septembre 2025L’IA reste d’ailleurs au cœur des préoccupations des assureurs, mais aussi de toutes les entreprises, remarque de son côté Justin Kok, chef de la sécurité de l’information chez Aviva Canada.
+- (Photo: courtoisie) ASSURANCES DE DOMMAGES.
+- Devant les hausses des cyberattaques, le secteur des assurances protège ses systèmes et les données de ses clients en multipliant les solutions inédites.
+- Ces mesures passent par la création de nouveaux outils tels que l’intelligence artificielle (IA) et la formation continue de la main-d’œuvre.
+
+## [Royaume-Uni : un homme arrêté après la cyberattaque perturbant des aéroports européens](https://ici.radio-canada.ca/nouvelle/2194768/royaume-uni-arrestation-cyberattaque-perturbant-aeroports-europeens)  
+*Source : ici.radio-canada.ca | Publication : 2025-09-24*
+
+- Royaume-Uni : un homme arrêté après la cyberattaque perturbant des aéroports européens La cyberattaque perturbe, entre autres, les aéroports de Bruxelles et de Heathrow depuis la fin de semaine.
+- Photo : Reuters / Marta Fiorin Un homme âgé d'une quarantaine d'années a été arrêté mardi soir après la cyberattaque qui perturbe plusieurs grands aéroports européens, dont Bruxelles, Heathrow à Londres ou Berlin, depuis ce week-end, a annoncé mercredi la police britannique.
+- Cet homme, arrêté dans le sud de l'Angleterre, a été libéré sous caution, a indiqué l'Agence britannique de lutte contre la criminalité (NCA) dans un communiqué.
+- Il est soupçonné d'infractions à la loi britannique sur l'informatique et la cybercriminalité.
+
+## [Ingenieur <b>cybersecurite</b> h/f LAVAL | Choisir le service public](https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-cybersecurite-hf-reference-2025-2056971/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2025-09-24*
+
+- Référence : 2025-2056971 Fonction publique : Fonction publique Hospitalière - Employeur : Centre Hospitalier de Laval - Localisation : LAVAL - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Non renseigné - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie A (cadre) - Management Non renseigné - Télétravail possible Non renseigné - Vos missions en quelques mots Sous l’autorité du Directeur des Services Numériques du GHT 53, La DSN est composée de 5 domaines : Projets, Organisation et urbanisation, le domaine Infrastructures SI, le domaine applicatif, le domaine déploiement du dossier patient et le domaine support.
+- Chaque domaine est garant du MCO sur son périmètre et la déclinaison du SDSI du GHT.
+- Des correspondants de site assurent le lien entre chaque établissement et les responsables de domaines.
+
+## [Atos porté par un contrat de <b>cybersécurité</b> avec l'UE - 24/09 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-atos-porte-par-un-contrat-de-cybersecurite-avec-l-ue-24-09_VN-202509240682.html)  
+*Source : bfmtv.com | Publication : 2025-09-24*
+
+- Atos porté par un contrat de cybersécurité avec l'UE - 24/09 Ce mercredi 24 septembre, Jérôme Chassin, gérant actions chez Auris Gestion, s'est penché sur les valeurs à suivre dans le secteur de la défense, Atos et son contrat de cybersécurité pour l'Union européenne, ainsi que le titre Amadeus Fire en tant que valeur à suivre avec la rentrée boursière, dans l'émission BFM Bourse présentée par Guillaume Sommerer.
+- BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.
+- | Durée : 6:37.
+
+## [Un premier « cyberdiag » en Béarn pour sensibiliser les entreprises à la <b>cybersécurité</b>](https://www.placeco.fr/nouvelle-aquitaine/ecosysteme/article/un-premier-cyberdiag-en-bearn-pour-sensibiliser-les-entreprises-a-la-cybersecurite-8616)  
+*Source : placeco.fr | Publication : 2025-09-24*
+
+- Un premier « cyberdiag » en Béarn pour sensibiliser les entreprises à la cybersécurité - Premium Écosystème mercredi 24 septembre 2025 Trop d'entreprises béarnaises sont encore à la traîne en matière de cybersécurité.
+- | Image Adobe Stock Le 16 octobre, le CNPC de Bizanos accueillera la première édition des « Cyberdiag », organisée par le Centre de ressources cyber (CRC) de Pau.
+- Objectif : sensibiliser TPE, PME et grands groupes aux risques croissants de cyberattaques et leur fournir une feuille de route concrète pour renforcer leur sécurité.
+- Cet article premium vous intéresse ?.
+
+## [Kenya : la Banque centrale se dote d'un centre contre la <b>cybercriminalité</b> bancaire](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-la-banque-centrale-se-dote-d-un-centre-contre-la-cybercriminalite-bancaire)  
+*Source : wearetech.africa | Publication : 2025-09-24*
+
+- Face à la montée des cyberattaques qui fragilisent fortement les services financiers numériques, la cybersécurité s’impose comme un enjeu majeur pour le secteur bancaire.
+- Les institutions multiplient les initiatives pour protéger leurs systèmes et renforcer la confiance des usagers.
+- La Banque centrale du Kenya (CBK) a annoncé le lundi 22 septembre la création d’un Centre des opérations de cybersécurité du secteur bancaire (BS-SOC).
+- Cette initiative vise à renforcer la résilience du système financier kényan face à l’évolution rapide et de plus en plus fréquente des cybermenaces.
+
+## [Orange Business Tour 2025 : anticiper l'avenir numérique entre <b>cybersécurité</b>, IA et fin du cuivre](https://www.megazap.fr/Orange-Business-Tour-2025-anticiper-l-avenir-numerique-entre-cybersecurite-IA-et-fin-du-cuivre_a15011.html)  
+*Source : megazap.fr | Publication : 2025-09-24*
+
+- Les 24 et 25 septembre 2025, Orange organise la 13ᵉ édition de son Orange Business Tour (OBT), un rendez-vous incontournable réunissant experts, partenaires et entreprises autour des grands défis numériques de demain.
+- L’événement, placé sous le signe de l’innovation et de la confiance, a mis en avant des thématiques stratégiques : la cybersécurité, l’intelligence artificielle, la souveraineté numérique et la fin du réseau cuivre.
+- Un moment d’échanges et de prospective Depuis treize ans, l’OBT s’impose comme une plateforme de dialogue entre professionnels.
+- L’édition 2025 a poursuivi cet objectif en proposant conférences, ateliers et retours d’expérience.
+
+## [Après la cyberattaque contre plusieurs aéroports européens, un homme arrêté au Royaume Uni](https://www.lindependant.fr/2025/09/24/apres-la-cyberattaque-contre-plusieurs-aeroports-europeens-un-homme-arrete-au-royaume-uni-12950537.php)  
+*Source : lindependant.fr | Publication : 2025-09-24*
+
+- Après la cyberattaque contre plusieurs aéroports européens, un homme arrêté au Royaume Uni L'homme arrêté, âgé d'une quarantaine d'années, a été libéré sous caution.Il est soupçonné d'infractions à la loi britannique sur l'informatique et la cybercriminalité.
+- Un homme âgé d'une quarantaine d'années a été arrêté mardi soir après la cyberattaque qui perturbe plusieurs grands aéroports européens dont Bruxelles, Heathrow à Londres ou Berlin depuis ce week-end, a annoncé mercredi la police britannique.
+- Cet homme, arrêté dans le sud de l'Angleterre, a été libéré sous caution, a indiqué l'Agence britannique de lutte contre la criminalité (NCA) dans un communiqué.
+- Il est soupçonné d'infractions à la loi britannique sur l'informatique et la cybercriminalité.
+
+## [Aéroports européens piratés: Un suspect arrêté - Blick](https://www.blick.ch/fr/monde/aeroports-europeens-pirates-un-suspect-arrete-id21261852.html)  
+*Source : blick.ch | Publication : 2025-09-24*
+
+- Un homme âgé d'une quarantaine d'années a été arrêté mardi soir après la cyberattaque qui perturbe plusieurs grands aéroports européens dont Bruxelles, Heathrow à Londres ou Berlin depuis ce week-end, a annoncé mercredi la police britannique.
+- Cet homme, arrêté dans le sud de l'Angleterre, a été libéré sous caution, a indiqué l'Agence britannique de lutte contre la criminalité (NCA) dans un communiqué.
+- Il est soupçonné d'infractions à la loi britannique sur l'informatique et la cybercriminalité.
+- «Bien que cette arrestation soit une étape positive, l'enquête sur cet incident ne fait que commencer et reste en cours», a précisé Paul Foster, chef de l'unité nationale de lutte contre la cybercriminalité de la NCA, cité dans ce communiqué.
 
 ## [Arnaques en ligne : les jeunes, cible privilégiée des <b>cybermenaces</b> - Ipsos](https://www.ipsos.com/fr-fr/arnaques-en-ligne-les-jeunes-cible-privilegiee-des-cybermenaces)  
 *Source : ipsos.com | Publication : 2025-09-23*
