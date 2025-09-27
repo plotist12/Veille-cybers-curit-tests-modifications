@@ -1,5 +1,162 @@
-# Résumés – 2025-09-26
+# Résumés – 2025-09-27
 
+
+## [Réputé indestructible, cet antivirus français décourage tous les cybercriminels](https://www.journaldugeek.com/bon-plan/repute-indestructible-cet-antivirus-francais-decourage-tous-les-cybercriminels/)  
+*Source : journaldugeek.com | Publication : 2025-09-27*
+
+- Contrairement à la majorité des solutions de cybersécurité qui sont pensées d’abord pour Windows (McAfee, Avast, Bitdefender, etc.), Intego a construit son expertise autour des besoins spécifiques des utilisateurs Mac.
+- Résultat : une solution qui connaît parfaitement l’écosystème Apple et ses vulnérabilités, et qui sait y répondre efficacement.
+- Aujourd’hui, Intego propose une remise exceptionnelle de 60 % sur son antivirus Mac.
+- Concrètement, l’abonnement d’un an passe de 49,99 euros à seulement 19,99 euros.
+
+## [Vous utilisez mVPN de Free ? Voici ce que vous devez savoir - Clubic](https://www.clubic.com/actualite-580996-vous-utilisez-mvpn-de-free-voici-ce-que-vous-devez-savoir.html)  
+*Source : clubic.com | Publication : 2025-09-27*
+
+- Free a glissé un « VPN » dans ses forfaits mobiles, promettant une protection clé en main.
+- Utile pour un usage ponctuel, il reste toutefois loin des services conçus pour offrir un contrôle fin et une réelle discrétion en ligne.
+- Depuis le 16 septembre 2025, Free propose mVPN, un VPN directement intégré à son réseau mobile et inclus sans surcoût dans les forfaits Free 5G et Série Free.
+- L’activation s’effectue depuis l’espace abonné ou l’application Free Mobile, par sessions de douze heures, après quoi la connexion repasse automatiquement sur le réseau classique.
+
+## [Vaste Coup de filet d'Interpol contre la <b>cybercriminalité</b> en Afrique : 260 Arrestations, dont 22 ...](https://www.pressafrik.com/Vaste-Coup-de-filet-d-Interpol-contre-la-cybercriminalite-en-Afrique-260-Arrestations-dont-22-au-Senegal_a295424.html)  
+*Source : pressafrik.com | Publication : 2025-09-27*
+
+- Réseau social Activités Membres (18) Connectez-vous S'inscrire ONU : l'AES invite les pays occidentaux à cesser de fournir des armes à l’Ukraine Éliminatoires Coupe du monde U20 féminine : Le Sénégal écrase l’Algérie et file au deuxième tour Johannesburg : El Malick Ndiaye participe à deux grandes rencontres parlementaires internationales Macky Sall dénonce une « vendetta politique » autour de la reddition des comptes dans son nouveau livre Émigration irrégulière : La Marine nationale intercepte une pirogue avec 282 migrants au large de Dakar Coupe CAF (tour préliminaire) : Génération Foot tombe lourdement face à l’AFAD (5-3) Marche pacifique à Louga : forte mobilisation pour exiger la libération de Moustapha Diop Thiès : un individu arrêté pour chantage, diffusion de vidéos intimes et retrait frauduleux d’argent Liga : L'Atletico écrase le Real Madrid 5-2 dans un derby palpitant Éducation : Sédhiou accueille un forum interrégional sur le STEM pour promouvoir les filles dans les sciences Politique Politique Procès Khalifa Sall Société Sport Dossiers Economie Afrique Monde People People People Mode Amour Videos Gallerie Publicité Vaste Coup de filet d'Interpol contre la cybercriminalité en Afrique : 260 Arrestations, dont 22 au Sénégal Accueil Envoyer à un ami Version imprimable Partager La coopération internationale a porté ses fruits dans la lutte contre la cybercriminalité en Afrique.
+- Interpol a annoncé avoir procédé à l'arrestation de 260 individus à travers 14 pays du continent dans le cadre de l'opération Consente 3.0.
+- Cette initiative d'envergure visait à démanteler les réseaux responsables de diverses formes d'escroqueries en ligne.
+- Parmi les pays touchés par cette opération, le Sénégal se distingue avec 22 arrestations.
+
+## [PARIS : Webinar IA et <b>cybersécurité</b> pour l'achat de prestations intellectuelles](https://presseagence.fr/paris-webinar-ia-et-cybersecurite-pour-lachat-de-prestations-intellectuelles/)  
+*Source : presseagence.fr | Publication : 2025-09-27*
+
+- PARIS : Webinar IA et cybersécurité pour l’achat de p… Partager : PARIS : Webinar IA et cybersécurité pour l’achat de prestations intellectuelles La cybersécurité et l’intelligence artificielle (IA) transforment profondément les achats de prestations intellectuelles.
+- Selon une étude de Gartner menée auprès de responsables cybersécurité en Amérique du Nord, EMEA (Europe, Middle East and Africa) et Asie-Pacifique, 29 % des organisations ont subi au cours de l’année écoulée des attaques ciblant leur infrastructure liée à l’IA, une tendance en forte hausse avec l’adoption massive des outils génératifs[1].
+- Dans ce contexte, il devient crucial pour les directions achats de comprendre les risques juridiques, réglementaires et opérationnels liés à l’intégration de l’IA dans les prestations intellectuelles et à la digitalisation des échanges avec les prestataires.
+- Le Club des Acheteurs de Prestations Intellectuelles propose un webinar le 1er octobre 2025, de 11h00 à 12h30, pour aider les professionnels à anticiper ces enjeux et sécuriser leurs pratiques achats face aux nouveaux défis IA et cybersécurité.
+
+## [Cyberattaque visant Cisco: les organismes canadiens appelés à agir d'urgence - QUB radio](https://www.qub.ca/article/cyberattaque-cisco-les-organismes-canadiens-appeles-a-agir-durgence-1865817188)  
+*Source : qub.ca | Publication : 2025-09-27*
+
+- Cyberattaque visant Cisco: les organismes canadiens appelés à agir d’urgence Rita St-Michel Le Centre canadien pour la cybersécurité a averti jeudi que des organismes dans le monde entier, dont plusieurs au pays, sont ciblés par un maliciel exploitant des dispositifs Cisco en fin de vie.
+- • À lire aussi: Cyberattaque: plus de 881 000 numéros de téléphone d’utilisateurs de l’ARC piratés • À lire aussi: Un homme arrêté dans l'enquête sur la cyberattaque qui perturbe des aéroports européens • À lire aussi: Cyberattaque dans les aéroports: Londres, Berlin et Dublin se rétablissent, Bruxelles peine encore «Il s’agit d’un moment déterminant pour les organismes au Canada.
+- Les auteurs de menace ciblent des systèmes patrimoniaux avec des moyens de plus en plus perfectionnés.
+- J’exhorte tous les secteurs des infrastructures essentielles à agir rapidement.
+
+## [Volvo North America confirme le vol des données du personnel suite à l'attaque ... - Notebookcheck.fr](https://www.notebookcheck.biz/Volvo-North-America-confirme-le-vol-des-donnees-du-personnel-suite-a-l-attaque-du-ransomware-Miljoedata.1125915.0.html)  
+*Source : notebookcheck.biz | Publication : 2025-09-27*
+
+- Volvo North America confirme le vol des données du personnel suite à l'attaque du ransomware Miljödata Le Groupe Volvo Le Groupe Volvo Amérique du Nord a confirmé que les données personnelles de certains employés actuels et anciens ont été exposées à la suite d'un ransomware contre son fournisseur de logiciels de ressources humaines, Miljödata.
+- Volvo a déposé un avis officiel de violation auprès du bureau du procureur général du Massachusetts le 24 septembre 2025, indiquant que les attaquants ont accédé aux dossiers des employés via les systèmes compromis de Miljödata plutôt que via les réseaux internes de Volvo.
+- L'incident de Miljödata a commencé pendant le week-end du 23-24 août 2025, lorsque les systèmes du fournisseur ont été mis hors ligne et que de nombreux clients suédois ont signalé des interruptions de service.
+- L'université de Lund, qui a été l'un des premiers à signaler l'incident, a confirmé par la suite qu'environ 16 000 employés, actuels et anciens, avaient été victimes de l'incident données personnelles dans ses systèmes alimentés par Miljödata.
+
+## [Lutte contre la <b>cybercriminalité</b> : Interpol récupère 439 millions de $ dans une opération mondiale](https://journalducoin.com/actualites/lutte-contre-cybercriminalite-interpol-recupere-439-millions-dollars-operation-mondiale/)  
+*Source : journalducoin.com | Publication : 2025-09-27*
+
+- Lutte contre la cybercriminalité : Interpol récupère 439 millions de $ dans une opération mondiale La cybercriminalité touchée au portefeuille.
+- Interpol a annoncé le 24 septembre dernier le succès de l’opération HAECHI VI, une initiative coordonnée à l’échelle mondiale pour lutter contre la criminalité financière facilitée par la technologie.
+- Cette opération, qui s’est déroulée d’avril à août 2025, a permis de récupérer 439 millions de dollars issus de diverses escroqueries en ligne et de blanchiment d’argent.
+- Interpol a annoncé le succès retentissant de l’opération HAECHI VI, une initiative mondiale qui a permis de récupérer 439 millions de dollars issus de crimes financiers en ligne.
+
+## [<b>Cybersécurité</b> : La Centrale IT lance une solution pour protéger les TPME - L'Opinion Maroc](https://www.lopinion.ma/Cybersecurite-La-Centrale-IT-lance-une-solution-pour-proteger-les-TPME_a72225.html)  
+*Source : lopinion.ma | Publication : 2025-09-27*
+
+- La feuille de route proposée par La Centrale IT, constitue une démarche simplifiée, résolument adaptée à la situation d’une TPME qui initie l’exercice de sécurisation, sans compétence particulière.
+- Elle doit lui permettre, en partant de zéro et avec un très faible budget, de réduire ses risques cyber d’un ordre de grandeur.
+- « Nous sommes fiers d’annoncer notre partenariat MSP (Managed Service Provider), qu’on vient de signer avec Sophos après une collaboration de plus d’une dizaine d’année, ce partenariat MSP va nous permettre d’apporter aux TPME Marocaines un niveau de protection avec une flexibilité et une optimisation budgétaire.
+- Avec notre nouvelle offre MSP Sophos, les TPME peuvent accéder aux solutions les plus performantes du marché pour une sécurité contre le phishing, les ransomwares, le vol de données et d’autres cybermenaces … avec une supervision continue 24/7 par des experts certifiés présents au niveau de Sept centres d’opérations de sécurité (SOC) à travers le monde », précise Dr.
+
+## [Israël Enquête Sur De Faux Appels Attribués Aux Services Secrets Iraniens - i24NEWS](https://www.i24news.tv/fr/actu/israel/artc-israel-enquete-sur-de-faux-appels-attribues-aux-services-secrets-iraniens)  
+*Source : i24news.tv | Publication : 2025-09-27*
+
+- Israël enquête sur de faux appels attribués aux services secrets iraniens Ces messages enregistrés chercheraient à recruter des agents pour le compte des services de renseignement iraniens.
+- Les autorités israéliennes mettent en garde contre une nouvelle tentative d’intimidation imputée à l’Iran.
+- L’Autorité nationale de cybersécurité a confirmé samedi qu’elle enquêtait sur de multiples signalements d’Israéliens ayant reçu des appels automatisés en hébreu.
+- Ces messages enregistrés chercheraient à recruter des agents pour le compte des services de renseignement iraniens.
+
+## [« Un mot de passe trop simple, et tout s'effondre » : 90 % des cyberattaques proviennent d ...](https://www.presse-citron.net/cybersecurite-interview-kamae-cyberattaques/)  
+*Source : presse-citron.net | Publication : 2025-09-27*
+
+- Un clic, un mot de passe trop simple, un message piégé… Et c’est toute une entreprise qui peut vaciller.
+- À l’heure où les cyberattaques se perfectionnent grâce à l’intelligence artificielle, l’erreur humaine demeure le principal point d’entrée pour les cybercriminels.
+- Est-il urgent de repenser la sensibilisation aux risques encourus en ligne ?.
+- L’humain, maillon faible des cyberattaques Car près de 90 % des cyberattaques trouvent leur origine dans une erreur humaine.
+
+## [Les lycéens de Bouchardon à la découverte des missions des gendarmes - JHM](https://jhm.fr/les-lyceens-a-la-decouverte-des-missions-des-gendarmes/)  
+*Source : jhm.fr | Publication : 2025-09-27*
+
+- Les lycéens de Bouchardon à la découverte des missions des gendarmes Les élèves de seconde de l’option Défense du lycée Bouchardon, à Chaumont, ont accueilli deux gendarmes du groupement de la gendarmerie nationale de Haute-Marne (GGD52) ce 23 septembre.
+- Une rencontre enrichissante qui a permis aux jeunes de découvrir la diversité des missions de cette institution, mais aussi son rôle central dans la sécurité des territoires.
+- Au fil des échanges, les élèves ont découvert la pluralité des métiers de la gendarmerie : enquêteur en cybercriminalité, maître de chien mais aussi membre d’unités spécialisées comme le PSIG, le GIGN ou la Garde Républicaine.
+- Des exemples concrets qui ont montré aux élèves l’étendue des compétences nécessaires pour répondre aux multiples enjeux de sécurité publique et s’adapter aux différentes menaces.
+
+## [Quelles entreprises majeures sont implantées dans le quartier Technopôle de Metz ?](https://www.metz-metropolitain.fr/entreprises-majeures-technopole-metz.html)  
+*Source : metz-metropolitain.fr | Publication : 2025-09-27*
+
+- Metz Technopôle : Le cœur battant de l’innovation et des affaires à Metz 21/09/2025 L’histoire de Metz Technopôle commence à la fin des années 1980.
+- À cette époque, Metz vit une double mutation : repli de l’industrie lourde et volonté d’affirmer un nouveau positionnement, axé sur l’économie moderne et la recherche.
+- Les.
+
+## [Dans l'ombre du programme nucléaire, la synergie fructueuse des hackers nord-coréens au ...](https://www.numerama.com/cyberguerre/2082753-dans-lombre-du-programme-nucleaire-la-synergie-fructueuse-des-hackers-nord-coreens-au-service-de-kim-jong-un.html)  
+*Source : numerama.com | Publication : 2025-09-27*
+
+- C’est un rapport qui tombe à point nommé.
+- Alors que la communauté internationale s’inquiète des récentes déclarations du gouvernement sud-coréen, qui affirme que la Corée du Nord disposerait de suffisamment d’uranium hautement enrichi pour fabriquer de nombreuses bombes nucléaires, deux chercheurs d’ESET ont publié le 24 septembre 2025 une étude sur un acteur du cyberespace nord-coréen : Deceptivedevelopment.
+- Dans leur analyse technique, les chercheurs en cybersécurité révèlent entre autres que le groupe, longtemps cantonné au vol de crypto-monnaies avec des méthodes relativement basiques, a vu son arsenal s’améliorer.
+- Cela, grâce à l’intégration, dans ses malwares, de blocs de code issus de la menace Lazarus.
+
+## [Cool, on va pouvoir profiter des mises à jour de Windows 10 durant une année de plus](https://korben.info/windows-10-esu-gratuit-europe-microsoft-securite.html)  
+*Source : korben.info | Publication : 2025-09-27*
+
+- Cool, on va pouvoir profiter des mises à jour de Windows 10 durant une année de plus !.
+- En bref Microsoft plie face à la pression européenne : Windows 10 gratuit jusqu'en 2026, mais seulement si vous habitez du bon côté de la frontière - Le piège caché de Microsoft : vos mises à jour "gratuites" contre une connexion obligatoire tous les 60 jours et toutes vos données dans leur cloud - 45% des utilisateurs Windows coincés sur des machines "trop vieilles" : quand l'obsolescence programmée force à jeter des PC parfaitement fonctionnels - Alors voilà, si vous habitez en Europe et que vous refusez obstinément de passer à Windows 11, j’ai une excellente nouvelle pour vous les amis !.
+- !.
+- Microsoft vient en effet de céder face à la pression européenne et rend les mises à jour de sécurité étendues (ESU) de Windows 10 complètement gratuites pour les utilisateurs de l’Espace Économique Européen.
+
+## [Avec RIFAN 3, la Marine nationale veut renforcer sa <b>cybersécurité</b> sur le champ de bataille](https://www.techerati.com/fr/hub-actualités/avec-rifan-3-la-marine-nationale-veut-renforcer-sa-cybersecurite-sur-le-champ-de-bataille/?utm_campaign=11350236-Tech | FR | TSP25&utm_medium=email&_hsenc=p2ANqtz-_CBf5YiEwrDEOH-_gE_Ob-AxF3fx6Fe4JPpxD-RhSgBay_IUOjGGB-J9LQWqm5ryGcA8rwpEl2P8lJNffA9GN4q1PmhH0OGaoHz4zglrBt4wVDJBI&_hsmi=108188393&utm_content=108188393&utm_source=hs_email)  
+*Source : techerati.com | Publication : 2025-09-27*
+
+- Avec RIFAN 3, la Marine nationale veut renforcer sa cybersécurité sur le champ de bataille Écrit par Jérôme Marin mar 22 Avr 2025 Un consortium industriel mené par Airbus doit concevoir un réseau ultra sécurisé pour permettre aux navires de communiquer sur les champs de bataille.
+- La Marine française veut entrer dans l’ère du combat collaboratif, tout en se mettant à l’abri de potentielles attaques informatiques.
+- Pour y parvenir, la Direction générale de l’armement (DGA) a signé en février un important contrat avec un groupement industriel mené par Airbus Defence and Space (la filiale spécialisée dans le militaire du géant aéronautique européen), associé notamment à Naval Group.
+- Son montant maximal: 480 millions d’euros sur dix ans.
+
+## [Deux vulnérabilités cyber font trembler Cisco et des milliers d'entreprises dans le monde](https://www.clubic.com/actualite-580966-deux-vulnerabilites-cyber-font-trembler-cisco-et-des-milliers-d-entreprises-dans-le-monde.html)  
+*Source : clubic.com | Publication : 2025-09-27*
+
+- Cisco et les autorités de cybersécurité alertent sur deux vulnérabilités critiques découvertes dans les équipements de l'entreprise, qui permettent à des hackers de prendre le contrôle total.
+- La menace est réelle, puisque les pirates exploitent ces deux failles.
+- L'ANSSI et Cisco tirent la sonnette d'alarme.
+- Des cybercriminels exploitent activement deux failles majeures pour tenter de s'infiltrer dans les pare-feux d'entreprises du monde entier.
+
+## [<b>Cybercriminalité</b> : Interpol frappe fort contre les réseaux d'escroqueries en afrique - Afrik](https://www.afrik.com/cybercriminalite-interpol-frappe-fort-contre-les-reseaux-d-escroqueries-en-afrique)  
+*Source : afrik.com | Publication : 2025-09-27*
+
+- En quelques mois seulement, Interpol a mené deux opérations d’envergure contre la cybercriminalité en Afrique.
+- Après l’arrestation de plus de 1 200 personnes lors de l’opération « Serengeti 2.0 » en août, 260 nouveaux suspects ont été interpellés en septembre dans le cadre de l’opération « Contender 3.0 ».
+- Ces coups de filet révèlent l’ampleur inquiétante des arnaques sentimentales et de la sextorsion en ligne, devenues de véritables fléaux continentaux.
+- L’Afrique est devenue en quelques années l’épicentre mondial de la criminalité numérique organisée.
+
+## [Sécurité et intelligence artificielle : pourquoi les RSSI doivent passer à l'offensive - Decideo](https://www.decideo.fr/Securite-et-intelligence-artificielle-pourquoi-les-RSSI-doivent-passer-a-l-offensive_a14432.html)  
+*Source : decideo.fr | Publication : 2025-09-27*
+
+- Actualités : analyse de données, Business Intelligence, Data Science, Big Data Accueil Fiches pratiques Dossiers de synthèse Data Visualization Web analytique En bref Decideo.fr Recherche avancée Base de connaissances Communiqués Etudes de cas Opinion Actualités, Analyses Evènements Dossiers thématiques Administration.
+- Stockage Business Intelligence Data Mining Applications Analytiques Services Data Visualization Web Analytique A découvrir Agenda Glossaire / Lexique Forums Forums et débats Offres d'emploi Sécurité et intelligence artificielle : pourquoi les RSSI doivent passer à l’offensive Rédigé par Jean-Michel Tavernier, Gigamon le 26 Septembre 2025 L’essor fulgurant de l’intelligence artificielle bouleverse les équilibres dans le monde de la cybersécurité.
+- Si l’IA accélère l’innovation, elle offre aussi aux cybercriminels des moyens inédits pour attaquer, contourner les défenses et s’adapter en temps réel.
+- Pour les RSSI (Responsables de la sécurité des systèmes d'information), ce changement de paradigme impose une nouvelle posture : celle de l’anticipation, de la visibilité totale et d’un contrôle accru des environnements critiques.
+
+## [L'IA redéfinit le périmètre des RH : mutation subie ou transformation choisie ? - IT SOCIAL](https://itsocial.fr/contenus/articles-decideurs/lia-redefinit-le-perimetre-des-rh-mutation-subie-ou-transformation-choisie/)  
+*Source : itsocial.fr | Publication : 2025-09-27*
+
+- Pas moins de 83 % des professionnels RH affirment utiliser l’IA à titre individuel, mais seuls 37 % des services RH disposent d’outils intégrés à leurs processus.
+- Le baromètre 2025 publié par Parlons RH révèle une appropriation massive mais encore inégalement structurée, où les usages personnels précèdent l’acculturation organisationnelle.
+- Derrière cette adoption en catimini, se profile une redéfinition progressive du rôle de la fonction RH à l’ère de l’agentique.
+- L'irruption de l’intelligence artificielle dans les pratiques professionnelles déstabilise bien des métiers, y compris, et surtout, les services de ressources humaines.
+
+## [Cisco alerte sur une campagne de cyberespionnage ciblant ses équipements réseau](https://www.usine-digitale.fr/article/cisco-alerte-sur-une-campagne-de-cyberespionnage-ciblant-ses-equipements-reseau.N2238494)  
+*Source : usine-digitale.fr | Publication : 2025-09-27*
+
+- Verifying your browser before proceeding.
+- Incident ID: 67c45c81-cyai-4c2f-b45c-f7fc02bbe920.
 
 ## [3M€ pour Chat3D - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/957-levees-de-fonds/63909-3m-pour-chat3d.html)  
 *Source : linformaticien.com | Publication : 2025-09-26*
