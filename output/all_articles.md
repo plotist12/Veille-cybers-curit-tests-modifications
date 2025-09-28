@@ -1,5 +1,163 @@
-# Résumés – 2025-09-27
+# Résumés – 2025-09-28
 
+
+## [Interpol arrête 260 cyberescrocs de 14 pays dont le Bénin - 24 HEURES AU BENIN](https://www.24haubenin.info/?Interpol-arrete-260-cyberescrocs-de-14-pays-dont-le-Benin)  
+*Source : 24haubenin.info | Publication : 2025-09-28*
+
+- 543 visites en ce moment Au terme d’une opération d’envergure dénommée Contender 3.0, l’Interpol (Organisation internationale de police criminelle) a procédé à l’interpellation de 260 présumés cybercriminels au Bénin et dans 13 autres pays d’Afrique.
+- L’annonce a été faite, vendredi 26 septembre 2025, sur son site internet.
+- Interpol réalise une grosse moisson dans le cadre de la lutte contre la cybercriminalité en Afrique.
+- 260 présumés cybercriminels ont été arrêtés lors de l’opération Contender 3.0, menée sur la période du 28 juillet au 11 septembre 2025, dans 14 pays africains à savoir, l’Angola, le Burkina Faso, la Côte d’Ivoire, la Gambie, le Ghana, la Guinée, le Kenya, le Nigéria, le Rwanda, le Sénégal, l’Afrique du Sud, l’Ouganda, la Zambie et le Bénin.
+
+## [Me Mountaga Tall : &gt; - Mali 24](https://mali24.info/me-mountaga-tall-2/)  
+*Source : mali24.info | Publication : 2025-09-28*
+
+- Me Mountaga Tall : << Une semaine avec de nombreux rendez-vous judiciaires s’ouvre >> Me Mountaga Tall annonce sur les réseaux sociaux, une semaine chargée avec de nombreux rendez-vous judiciaires avec au programme des audiences publiques.
+- Lundi 29 septembre s’ouvre le Procès de Moussa Mara au Pôle National de Lutte contre la Cybercriminalité en deux volets, la demande de liberté et le dossier de fond.
+- << Mercredi 1er octobre aura lieu le délibéré du Tribunal de Grande Instance de la Commune 6 sur la dissolution des partis politiques >>, annonce Me Tall.
+- Pour le jeudi 02 Octobre 2025, il est prévu l’ouverture du procès des deux membres du CNT (Biton Mamari Coulibaly et Moulaye Keita) poursuivis devant le Pôle national de lutte contre la Cybercriminalité.
+
+## [Question de la semaine : La <b>cybercriminalité</b>, une fatalité ou une opportunité de résilience?](https://lapresse.tn/2025/09/28/question-de-la-semaine-la-cybercriminalite-une-fatalite-ou-une-opportunite-de-resilience/)  
+*Source : lapresse.tn | Publication : 2025-09-28*
+
+- La Presse — Samedi dernier, une cyberattaque d’envergure a plongé plusieurs aéroports européens dans un chaos total.
+- Retards, annulations de vols en cascade… derrière cette offensive se cache un ransomware ayant ciblé un logiciel de check-in.
+- Le coût pour les compagnies aériennes, les aéroports et les passagers n’a pas encore été déterminé, mais le mal est fait.
+- Une cyberattaque de cette ampleur n’est pas une première.
+
+## [Antivirus Mac : cette offre Intego fait chuter le prix à moins de 2€/mois - Clubic](https://www.clubic.com/bons-plans-580987-antivirus-mac-cette-offre-intego-fait-chuter-le-prix-a-moins-de-2-mois.html)  
+*Source : clubic.com | Publication : 2025-09-28*
+
+- Vous pensez encore que votre Mac est à l’abri des virus et logiciels malveillants ?.
+- C’est une erreur fréquente, mais aujourd’hui vous pouvez corriger le tir sans vous ruiner.
+- Grâce à une offre exceptionnelle, Intego Mac Internet Security X9 est disponible à moins de 2 € par mois.
+- Un bon plan qui mérite clairement le détour.
+
+## [Les utilisateurs de Mac prennent enfin au sérieux les malwares - iPhonote](https://www.iphonote.com/actu/377242/les-utilisateurs-de-mac-prennent-enfin-au-serieux-les-malwares)  
+*Source : iphonote.com | Publication : 2025-09-28*
+
+- Ce mois-ci, Moonlock, la division cybersécurité de MacPaw, a publié son Mac Security Survey 2025.
+- L’enquête a interrogé près de 2 000 utilisateurs de macOS sur leurs habitudes, préoccupations et perceptions globales de la cybersécurité.
+- Les résultats révèlent un changement intéressant dans la façon dont les utilisateurs de Mac perçoivent les malwares et la force des défenses d’Apple.
+- Il s’agit d’une idée reçue de longue date que les Macs ne peuvent pas être infectés par des malwares.
+
+## [Cyberarnaques, escroqueries sentimentales, sextorsion... 260 personnes arrêtées en ...](https://information.tv5monde.com/afrique/cyberarnaques-escroqueries-sentimentales-sextorsion-260-personnes-arretees-en-afrique-annonce-interpol-2792344?amp)  
+*Source : information.tv5monde.com | Publication : 2025-09-28*
+
+- Cyberarnaques, escroqueries sentimentales, sextorsion... 260 personnes arrêtées en Afrique, annonce Interpol 260 suspects ont été arrêtés durant l'été par les polices africaines, dans 14 pays, pour des arnaques sentimentales et sextorsion en ligne.
+- Quatre-vingt-un réseaux cybercriminels ont été démantelés, a récemment annoncé Interpol.
+- Interpol et les polices africaines ont mené l'opération Contender 3.0, un vaste coup de filet coordonné sur deux semaines entre juillet et août.
+- Derrière ce nom de code, qui peut se traduire par "Soupirant" ou "Prétendant" dans un contexte amoureux, les forces de l’ordre se sont concentrées sur deux secteurs clés de la cybercriminalité, selon Interpol.
+
+## [Agde - France Services : deux semaines pour mieux maîtriser le numérique et les ...](https://www.lagathois.fr/articles/50212/france-services-deux-semaines-pour-mieux-maitriser-le-numerique-et-les-demarches-en-ligne)  
+*Source : lagathois.fr | Publication : 2025-09-28*
+
+- Par source Agglo Hérault Méditerranée, le 28 Septembre 2025 France Services : deux semaines pour mieux maîtriser le numérique et les démarches en ligne Du 6 au 18 octobre 2025, l’Agglomération Hérault Méditerranée organise une quinzaine d’ateliers et animations dans le cadre des Journées Portes Ouvertes France Services.
+- Objectif : accompagner les habitants dans leurs démarches administratives en ligne et leur usage du numérique, avec un programme varié, gratuit et accessible à tous.
+- Des ateliers au plus près des habitants Pendant quinze jours, les conseillères numériques de France Services iront à la rencontre des usagers dans cinq communes du territoire : Agde, Adissan, Nizas, Nézignan-l’Évêque et Portiragnes.
+- Les ateliers se dérouleront dans les locaux de France Services et de la Petite Fabrique à Agde, ainsi que dans des lieux publics partenaires dans les autres communes.
+
+## [French Days : Avast Premium Security tombe à -60%, protégez votre Mac sans vous ruiner](https://www.clubic.com/bons-plans-580990-french-days-avast-premium-security-tombe-a-2-43-mois-protegez-votre-mac-sans-vous-ruiner.html)  
+*Source : clubic.com | Publication : 2025-09-28*
+
+- Les French Days sont l’occasion idéale pour renforcer la sécurité de votre Mac sans casser votre budget.
+- Avast Premium Security affiche une remise spectaculaire qui ramène son tarif à moins de 3 € par mois.
+- Pendant les French Days, Avast met son offre Premium Security en avant avec une réduction de 60 %.
+- Concrètement, la licence pour un appareil (Mac ou PC) passe de 72,99 € à seulement 29,20 € la première année, soit 2,43 €/mois.
+
+## [Mali: le procès de Moussa Mara s'ouvre ce lundi au Pôle anti-<b>cybercriminalité</b> - Maliweb.net](https://www.maliweb.net/societe/justice/mali-le-proces-de-moussa-mara-souvre-ce-lundi-au-pole-anti-cybercriminalite-3109709.html)  
+*Source : maliweb.net | Publication : 2025-09-28*
+
+- Mali: le procès de Moussa Mara s'ouvre ce lundi au Pôle anti-cybercriminalité Incarcéré à la prison de Koulikoro depuis le début août 2025, l’ancien Premier ministre Moussa Mara comparaît ce lundi 29 septembre devant un juge du Pôle national spécialisé dans la lutte contre la cybercriminalité.
+- Il doit répondre à plusieurs chefs d’inculpation, notamment « atteinte au crédit de l’État », « opposition à l’autorité légitime » et « incitation au trouble à l’ordre public ».
+- Son entourage estime que « c’est un homme utile à son pays qui se présentera devant la justice ce lundi » et appelle ses soutiens « à prier pour lui ».
+- .
+
+## [Le cybercrime à la portée de monsieur‑tout‑le‑monde, grâce à l'IA](https://lessentieldeleco.fr/3377-lia-democratise-le-cybercrime/)  
+*Source : lessentieldeleco.fr | Publication : 2025-09-28*
+
+- Résumé Résumé L’intelligence artificielle ne bouleverse pas seulement l’économie ou la recherche.
+- Elle révolutionne le monde du crime.
+- En abaissant les barrières techniques, elle permet à des individus sans compétences informatiques de lancer des attaques numériques d’une redoutable efficacité.
+- En Europe, les autorités s’inquiètent d’une industrialisation massive du cybercrime, portée par des outils automatisés désormais à la portée de tous.
+
+## [<b>Cybersécurité</b>. Cette ville Périgourdine étape du Cybertour de France](https://www.ledemocratedebergerac.fr/cybersecurite-ville-etape/)  
+*Source : ledemocratedebergerac.fr | Publication : 2025-09-28*
+
+- Le numérique est devenu incontournable dans nos vies quotidiennes, mais aussi porteur de menaces : arnaques en ligne, hameçonnage, piratages de comptes ou encore cyberharcèlement.
+- Pour mieux comprendre ces risques et apprendre à s’en protéger, Périgueux accueillera le Cybertour de France le lundi 6 octobre, au théâtre de l’Odyssée.
+- Un événement inédit en Dordogne et unique en Nouvelle-Aquitaine.
+- Une reconnaissance nationale pour la Dordogne Organisé par Cybermalveillance.gouv.fr, dispositif national d’assistance et de prévention, le Cybertour s’inscrit dans le cadre du Cybermois, rendez-vous annuel de sensibilisation qui se déroule du 1er au 31 octobre partout en France.
+
+## [Kaspersky révèle les six tendances numériques dans l'industrie du pétrole - VOI](https://voi.id/fr/amp/518736)  
+*Source : voi.id | Publication : 2025-09-28*
+
+- Kaspersky révèle les six tendances numériques dans l’industrie du pétrole ARTA - Toutes les entreprises de divers secteurs d’activité s’efforcent actuellement d’innover et d’adopter de nouvelles technologies pour améliorer la sécurité et l’efficacité, y compris dans le pétrole et le gaz.
+- , la société mondiale de cybersécurité Kaspersky mène des recherches internes avec des professionnels de premier plan dans l’industrie du pétrole et du gaz pour identifier les principales tendances numériques qui forment l’avenir du secteur.
+- Quelles sont donc ces principales tendances numériques?.
+- IIoT et cloud computing rénagement des choses (IIoT) permet la surveillance à distance en temps réel des foros, des pipelines et des conditions environnementales.
+
+## [Free mVPN : tout ce qu'il faut savoir avant de l'utiliser - Journal du Freenaute](https://www.journaldufreenaute.fr/free-mvpn-tout-ce-quil-faut-savoir-avant-de-lutiliser/)  
+*Source : journaldufreenaute.fr | Publication : 2025-09-28*
+
+- Le Free mVPN attire de nombreux utilisateurs grâce à sa gratuité et à son intégration directe dans certains forfaits mobiles.
+- S’il peut renforcer la sécurité et la confidentialité de votre connexion Internet, il comporte aussi des limites importantes qu’il faut connaître avant de l’activer.
+- Voici un tour d’horizon complet.
+- À retenir Free mVPN est gratuit et simple à activer, mais limité en durée et en choix de serveurs.
+
+## [Virus à la caféine : l'essor des logiciels malveillants auto-apprenants - Notebookcheck.fr](https://www.notebookcheck.biz/Virus-a-la-cafeine-l-essor-des-logiciels-malveillants-auto-apprenants.1126177.0.html)  
+*Source : notebookcheck.biz | Publication : 2025-09-28*
+
+- Virus à la caféine : l'essor des logiciels malveillants auto-apprenants Des disquettes aux désastres de la boîte de réception Dans les années 1980, Elk Cloner s'est répandu sur disquette et a récompensé ses victimes par un poème.
+- Il s'agissait plus d'une farce que d'une arme cybernétique, mais cela a clairement prouvé une chose : le code peut se propager comme un rhume numérique.
+- Dans les années 1990, le plaisir était terminé.
+- Des virus de secteur d'amorçage comme Michelangelo ont pris le contrôle avant même que le système d'exploitation ne soit chargé, et des macrovirus ont transformé Microsoft Office en terrain de jeu pour les pirates.
+
+## [Cadre juridique mondial contre la <b>cybercriminalité</b> - Vietnam.vn](https://www.vietnam.vn/fr/khung-phap-ly-toan-cau-chong-toi-pham-mang)  
+*Source : vietnam.vn | Publication : 2025-09-28*
+
+- Une convention mondiale est donc pertinente en tant que mécanisme de protection collective, créant des principes permettant aux pays de vivre en paix et de se développer ensemble dans l’environnement numérique.
+- Le Vietnam se prépare à la cérémonie de signature de la Convention des Nations Unies contre la cybercriminalité, qui se tiendra les 25 et 26 octobre à Hanoï.
+- Auparavant, l'Assemblée générale des Nations Unies avait adopté la Convention le 24 décembre 2024.
+- Ce document est considéré comme un document historique pour le renforcement de la coopération internationale dans la lutte contre la cybercriminalité.
+
+## [Djallal Bouabdallah : «Le Président met la numérisation au cœur de la gouvernance publique»](https://www.jeune-independant.net/djallal-bouabdallah-le-president-met-la-numerisation-au-coeur-de-la-gouvernance-publique/amp/)  
+*Source : jeune-independant.net | Publication : 2025-09-28*
+
+- Djallal Bouabdallah : «Le Président met la numérisation au cœur de la gouvernance publique» L’accent mis par le président de la République, Abdelmadjid Tebboune, sur la numérisation de l’administration illustre une volonté affirmée de mettre la transparence et l’efficacité au cœur de la gouvernance publique, selon Djallal Bouabdallah, expert en transformation digitale et en cybersécurité, ajoutant que « sans données fiables et précises, il est impossible de piloter correctement les politiques publiques, d’évaluer l’impact des réformes ou de lutter efficacement contre la bureaucratie et la corruption ».
+- Selon lui, de nombreux secteurs en Algérie souffrent encore de l’absence de systèmes intégrés, freinant la modernisation et entamant la confiance des citoyens dans les institutions.
+- La numérisation apparaît ainsi comme un levier essentiel pour renforcer la transparence, améliorer l’efficacité de l’État et soutenir la diversification économique, a affirmé l’expert, contacté par Le Jeune Indépendant, suite à l’entretien périodique du Président avec les médias nationaux, vendredi soir, au cours duquel il avait fixé un ultimatum clair : « La numérisation doit être finalisée d’ici à la fin de l’année, sinon je prendrai des mesures radicales.
+- » Tebboune a dénoncé l’attitude de certains secteurs qui retardent volontairement la transition numérique, préférant « travailler dans l’ombre ».
+
+## [Vitalik Buterin s'oppose au Chat Control : Une bataille pour la vie privée numérique](https://www.cointribune.com/vitalik-buterin-soppose-au-chat-control-une-bataille-pour-la-vie-privee-numerique/)  
+*Source : cointribune.com | Publication : 2025-09-27*
+
+- Vitalik Buterin s’oppose au Chat Control : Une bataille pour la vie privée numérique La bataille autour du « Chat Control » dépasse largement la simple question technique.
+- Derrière cette loi controversée, l’Union européenne redéfinit la vie privée numérique, soulevant des inquiétudes majeures pour la liberté individuelle.
+- Vitalik Buterin, figure majeure de la crypto, s’y oppose frontalement, alertant sur un projet aux conséquences potentiellement explosives.
+- En bref Vitalik Buterin dénonce le projet de loi européen « Chat Control », qu’il juge dangereux pour la vie privée et la sécurité numérique.
+
+## [Israël : campagne d'appels téléphoniques iraniens pour recruter des agents - IsraJ](https://israj.media-j.com/article/41155/israel-campagne-dappels-telephoniques-iraniens-pour-recruter-des-agents)  
+*Source : israj.media-j.com | Publication : 2025-09-27*
+
+- Une campagne téléphonique d'envergure attribuée aux services de renseignement iraniens a visé des centaines de citoyens israéliens durant le shabbat.
+- Les appels, diffusant des messages enregistrés en hébreu approximatif, proposaient explicitement aux destinataires de rejoindre une organisation iranienne contre un "salaire compétitif".
+- "Les services de renseignement iraniens recherchent des agents qualifiés.
+- Salaire compétitif, sécurité complète.
+
+## [Thiès : un individu arrêté pour chantage, diffusion de vidéos intimes et retrait frauduleux d'argent](https://www.pressafrik.com/Thies-un-individu-arrete-pour-chantage-diffusion-de-videos-intimes-et-retrait-frauduleux-d-argent_a295433.html)  
+*Source : pressafrik.com | Publication : 2025-09-27*
+
+- Réseau social Activités Membres (18) Connectez-vous S'inscrire Fièvre de la Vallée du Rift : 21 cas confirmés dont 7 décès (Ministre) Ligue des champions (tour préliminaire) : le Jaraaf éliminé par la Colombe Sportive Code des investissements : une rencontre en vue entre le gouvernement et les syndicats, selon Cheikh Diop Cambérène : 4 individus interpellés pour « vol et association de malfaiteurs » Gaza: le Hamas dit avoir perdu le contact avec deux otages à cause des raids israéliens Violence contre des journalistes à Keur Massar : le SYNPICS dénonce une « atteinte grave à la liberté de la presse » Alerte sur les finances publiques sénégalaises : Youssou Diallo dénonce la « maladresse » du Premier ministre Pacte de stabilité sociale : Cheikh Diop (CNTS/FC) dénonce le non-respect des engagements par le gouvernement Agression de journalistes à Keur Massar : l'APPEL exige "des excuses publiques du maire" et menace de porter plainte Suivez en direct Podcast H5 Motivation : CONFESSIONS INÉDITES de l'ancien Président du Sénégal, Macky Sall Politique Politique Procès Khalifa Sall Société Sport Dossiers Economie Afrique Monde People People People Mode Amour Videos Gallerie Publicité Thiès : un individu arrêté pour chantage, diffusion de vidéos intimes et retrait frauduleux d’argent Accueil Envoyer à un ami Version imprimable Partager Le Poste de Police de Nguinth, à Thiès, a interpellé un individu pour des faits de « collecte et diffusion de données à caractère pornographique, chantage, accès et retrait frauduleux d’argent via l’application Wave », a annoncé la Police nationale.
+- Selon la même source, le mis en cause s’est présenté spontanément au service, déclarant avoir filmé, depuis son salon, deux individus de sexe masculin en plein acte sexuel.
+- Après les avoir sommés de quitter les lieux, une altercation s’en est suivie, à l’issue de laquelle les concernés ont quitté les lieux.
+- Toutefois, à la suite des investigations menées, il a été établi que le mis en cause, reconnaissant l’un des individus impliqués, a contacté des proches de ce dernier pour leur réclamer de l’argent, sous la menace de diffuser les vidéos obscènes en sa possession.
+
+## [Les numéros de conseillers fédéraux accessibles en trois clics - MSN](https://www.msn.com/fr-ch/actualite/other/les-numéros-de-conseillers-fédéraux-accessibles-en-trois-clics/ar-AA1CqPpU?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1)  
+*Source : msn.com | Publication : 2025-09-27*
+
+- L'expert en cybersécurité Sven Fassbender se montre plus critique.
+- «Chaque responsable à Berne doit partir du principe que les conversations sur.
 
 ## [Réputé indestructible, cet antivirus français décourage tous les cybercriminels](https://www.journaldugeek.com/bon-plan/repute-indestructible-cet-antivirus-francais-decourage-tous-les-cybercriminels/)  
 *Source : journaldugeek.com | Publication : 2025-09-27*
