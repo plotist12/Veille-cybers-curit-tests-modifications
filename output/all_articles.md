@@ -1,5 +1,158 @@
-# Résumés – 2025-09-28
+# Résumés – 2025-09-29
 
+
+## [Face aux enjeux technologiques, l'Institut Polytechnique de Paris muscle sa recherche et sa ...](https://www.letudiant.fr/educpros/actualite/face-aux-grands-enjeux-technologiques-linstitut-polytechnique-de-paris-muscle-sa-recherche-et-sa-formation.html)  
+*Source : letudiant.fr | Publication : 2025-09-29*
+
+- Devenir un institut de sciences et de technologie de rang mondial : telle est l'ambition d'IP Paris (Institut polytechnique de Paris) depuis sa création et réaffirmée lors de la conférence de presse de rentrée de l'établissement, le 24 septembre.
+- En alliant leurs expertises, les six écoles d'ingénieurs (École polytechnique, Ensta, Télécom Paris, Télécom SudParis, Ensae Paris, et, plus récemment l’École des Ponts), dotées d'un budget consolidée de 435 millions d'euros, partagent l'objectif de dispenser une formation d’excellence et développer une recherche de haut niveau dans des domaines comme l’intelligence artificielle, le quantique et la sécurité numérique.
+- Comment l'IP Paris fait entrer l’intelligence artificielle dans ses écoles En février dernier, l'IP Paris a accueilli une conférence internationale sur les transformations engendrées par l'intelligence artificielle sur la science et sur nos sociétés dans le cadre du Sommet pour l'action sur l'IA, accueillant de nombreux experts de ce domaine, et offrant l'occasion de mettre en avant Hi !.
+- Paris, son centre interdisciplinaire en science des données et intelligence artificielle.
+
+## [une journée de conseils et de mises en garde pour les seniors afin de bien vieillir au quotidien](https://www.sudouest.fr/dordogne/lamonzie-saint-martin/lamonzie-saint-martin-une-journee-de-conseils-et-de-mises-en-garde-pour-les-seniors-afin-de-bien-vieillir-au-quotidien-25969774.php)  
+*Source : sudouest.fr | Publication : 2025-09-29*
+
+- La municipalité a organisé cette journée spéciale, mercredi 17 septembre Une journée consacrée au bien vieillir à l’attention des seniors a été organisée par la municipalité de Lamonzie-Saint-Martin, mercredi 17 septembre, pour leur permettre de découvrir différentes activités visant à favoriser un vieillissement serein et épanoui au quotidien.
+- La gendarmerie nationale, représentée par l’adjudant-chef Cédric Bacchetta de la communauté de brigades (COB), a mis en garde contre les méthodes frauduleuses utilisées pour tromper les internautes.
+- Le vol d’informations personnelles, l’extorsion d’argent, l’envoi de messages indésirables et diverses escroqueries constituent autant de menaces croissantes dans le paysage numérique.
+- La liste de ces délits ne saurait être exhaustive, tant leur diversité et leur sophistication évoluent sans cesse.
+
+## [Sekoia.io, la scale-up qui démocratise la <b>cybersécurité</b> | Les Echos](https://www.lesechos.fr/thema/articles/sekoiaio-la-scale-up-qui-democratise-la-cybersecurite-2189057)  
+*Source : lesechos.fr | Publication : 2025-09-29*
+
+- Sekoia.io, start-up rennaise spécialisée en cybersécurité , a été primée Scale-up de l'année 2025* pour la région Ouest par EY.
+
+## [5 bonnes raisons de se rendre au Tech Show Paris 2025 - Archimag](https://www.archimag.com/numerique-responsable/2025/09/29/cinq-bonnes-raisons-rendre-tech-show-paris-2025)  
+*Source : archimag.com | Publication : 2025-09-29*
+
+- 1.
+- L’innovation en première ligne Le Tech Show Paris sera l’occasion de découvrir les dernières avancées en cloud, cybersécurité, data centres, infrastructures et intelligence artificielle.
+- Une opportunité rare de comparer les solutions, d’identifier les technologies émergentes et de dialoguer directement avec les acteurs clés du marché.
+- Parmi les entreprises présentes cette année : Siemens, Nokia, EDF, Fujifilm, FreePro, Dell Technologies, Thales Digital Factory, Telehouse, Vinci Energies, KnowBe4, Schneider Electric, Threatlocker, Legrand, CA, Ionos, Eurofiber, Ninjaone, HPE, Harness, Keepit, Vertiv, Itrium et Telenco Networks.
+
+## [Le Vietnam considère la lutte contre la <b>cybercriminalité</b> comme une priorité de sa politique ...](https://www.vietnam.vn/fr/viet-nam-coi-chong-toi-pham-mang-la-uu-tien-chinh-sach-an-ninh-quoc-gia)  
+*Source : vietnam.vn | Publication : 2025-09-29*
+
+- Chers dirigeants des nations et tous les amis internationaux !.
+- 1.
+- Au nom de l'État et du peuple vietnamiens, je vous souhaite chaleureusement la bienvenue à Hanoï - Ville pour la paix - pour assister à la cérémonie de signature de la « Convention des Nations Unies contre la cybercriminalité », sur le thème « Combattre la cybercriminalité - Partager les responsabilités - Regarder vers l'avenir » les 25 et 26 octobre 2025.
+- 2.
+
+## [Dernière minute : Le « Patriote » Lamignou Darou convoqué à la <b>cybersécurité</b> ce mardi](https://www.senenews.com/actualites/derniere-minute-le-patriote-lamignou-darou-convoque-a-la-cybersecurite-ce-mardi_560856.html)  
+*Source : senenews.com | Publication : 2025-09-29*
+
+- Dernière minute : Le « Patriote » Lamignou Darou convoqué à la cybersécurité ce mardi Dans une publication diffusée ce lundi 29 septembre 2025 sur ses réseaux sociaux, la journaliste Maty Sarr Niang a annoncé la convocation de Lamignou Darou par les services de la cybersécurité.
+- Sympathisant déclaré du parti Pastef, il est attendu ce mardi dans les locaux de la cybersécurité pour y répondre à cette convocation.
+
+## [Flare signe un partenariat de distribution avec MIEL - Global Security Mag Online](https://www.globalsecuritymag.fr/flare-signe-un-partenariat-de-distribution-avec-miel.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-09-29*
+
+- Flare signe un partenariat de distribution avec MIEL septembre 2025 par LA REDACTION DE GS MAG Flare , renforce sa présence sur le marché français à travers un nouveau partenariat avec MIEL, distributeur à valeur ajoutée de nouvelles technologies.
+- Grâce à ce partenariat, Flare entend apporter aux entreprises françaises des solutions de cybersécurité de pointe, conçues pour faire face efficacement à l’évolution rapide des menaces numériques.
+- En 2025, de nombreuses entreprises françaises ont été victimes d’incidents de sécurité majeurs où elles ont vu leurs données sensibles et celles de leurs clients exposées sur le dark web.
+- Ce type d’incident peut avoir des répercussions importantes sur leur image et leurs résultats financiers.
+
+## [Pure Storage mise sur un stockage proactif pour la cyber-résilience](https://www.informatiquenews.fr/pure-storage-mise-sur-un-stockage-proactif-pour-la-cyber-resilience-106929)  
+*Source : informatiquenews.fr | Publication : 2025-09-29*
+
+- De la détection en temps réel à la reprise industrialisée, Pure Storage érige désormais le stockage proactif et sa plateforme Enterprise Data Cloud en rempart de la cyber-résilience des organisations.
+- Pure interconnecte directement son stockage avec les SOC et SIEM pour renforcer la sécurité des données critiques et en fait un maillon proactif de la continuité d’activité.
+- Avant d’entamer son tour international « Pure//Accelerate Tour 2025 » avec une étape parisienne le 14 octobre, Pure Storage a dévoilé de nombreuses améliorations autour de sa plateforme « Enterprise Data Cloud ».
+- Vendredi dernier, nous avons évoqué les annonces autour de l’IA, d’Azure et de Kubernetes : Pure Storage complète sa vision Enterprise Data Cloud.
+
+## [Energizer lance un ordinateur portable très endurant - L'Informaticien](https://www.linformaticien.com/931-mobilite/63915-energizer-lance-un-ordinateur-portable-tres-endurant.html)  
+*Source : linformaticien.com | Publication : 2025-09-29*
+
+- LES DOSSIERS CYBERSECURITE.
+- Quand les deepfakes piratent la confiance · Ransomware : les jours d'après · Mobilité · Energizer lance un ordinateur.
+
+## [AVIS D'EXPERT – IA agentique : quand la vitesse devient le premier risque applicatif](https://www.solutions-numeriques.com/avis-dexpert-ia-agentique-quand-la-vitesse-devient-le-premier-risque-applicatif/)  
+*Source : solutions-numeriques.com | Publication : 2025-09-29*
+
+- Pour Fabien Petiau, Country Manager France de Checkmarx, l’essor de l’IA agentique bouleverse l’équilibre entre vitesse de développement et sécurité.
+- Si ces agents permettent d’accélérer la production logicielle, ils multiplient aussi les vulnérabilités.
+- Face à des adversaires qui s’appuient eux-mêmes sur l’IA, les CISO et responsables AppSec doivent repenser leurs stratégies pour intégrer l’automatisation et orchestrer une défense hybride, où l’humain et la machine coopèrent en temps réel.
+- AVIS D’EXPERT – IA agentique : quand la vitesse devient le premier risque applicatif Avec l’essor de l’IA agentique, capable de générer du code de manière quasi autonome, le cycle de développement tend aujourd’hui vers une vitesse théorique infinie.
+
+## [Donald Trump demande la tête de Lisa Monaco, une haut cadre de Microsoft ex ...](https://kulturegeek.fr/news-339707/donald-trump-demande-tete-lisa-monaco-cadre-microsoft-ex-responsable-cybersecurite-us)  
+*Source : kulturegeek.fr | Publication : 2025-09-29*
+
+- Pas un jour sans une sortie pétaradante (et souvent consternante) de Donald Trump.
+- Vendredi 26 septembre, le président américain a publié sur Truth Social un message exigeant que Microsoft mette fin aux fonctions de Lisa Monaco, actuelle présidente des affaires mondiales du groupe.
+- Selon Trump, son rôle lui donne accès à des informations jugées « hautement sensibles », une situation qu’il qualifie évidemment « d’inacceptable ».
+- Pourquoi « inacceptable » me direz vous ?.
+
+## [Atos décroche un contrat de 326 millions d'euros pour sécuriser les institutions européennes](https://www.alliancy.fr/atos-decroche-un-contrat-de-326-millions-deuros-pour-securiser-les-institutions-europeennes)  
+*Source : alliancy.fr | Publication : 2025-09-29*
+
+- Atos décroche un contrat stratégique de 326 millions d’euros avec la Commission européenne.
+- Attribué dans le cadre du programme CLOUD II, cet accord vise à sécuriser les systèmes numériques des institutions européennes sur plusieurs années.
+- Atos poursuit sa montée en puissance dans le domaine de la transformation digitale.
+- En effet, l’entreprise française de services du numérique a remporté un gros contrat avec la Commission européenne, dans le cadre d’un programme européen d’achats informatiques appelé CLOUD II.
+
+## [L'IA à SQY : une semaine pour comprendre l'IA et la <b>cybersécurité</b>](https://www.saint-quentin-en-yvelines.fr/semaine-ia-et-cyber/)  
+*Source : saint-quentin-en-yvelines.fr | Publication : 2025-09-29*
+
+- L’intelligence artificielle s’invite déjà dans notre quotidien : santé, éducation, mobilité, travail… Elle transforme nos usages et dessine notre avenir, parfois plus vite qu’on ne l’imagine.
+- Pour mieux en saisir les enjeux et découvrir ses applications concrètes, Saint-Quentin-en-Yvelines organise, du 13 au 20 octobre 2025, la Semaine Cyber & IA.
+- Au programme : conférences, ateliers, tables rondes, expositions et rencontres ouvertes à tous : habitants, étudiants, chercheurs, associations et acteurs économiques.
+- Une occasion unique de comprendre, d’échanger et d’expérimenter autour de cette révolution technologique.
+
+## [Seize personnes condamnées à mort en Chine pour cyberfraude, trafic de drogue et prostitution - RFI](https://www.rfi.fr/fr/asie-pacifique/20250929-seize-personnes-condamnées-à-mort-en-chine-pour-cyberfraude-trafic-de-drogue-et-prostitution)  
+*Source : rfi.fr | Publication : 2025-09-29*
+
+- Seize personnes condamnées à mort en Chine pour cyberfraude, trafic de drogue et prostitution La justice chinoise a condamné ce lundi 29 septembre seize membres présumés d'un gang criminel à la peine capitale.
+- La famille Ming est accusée d'avoir créé de nombreux centres d'arnaque en ligne dans la région birmane de Kokang, frontalière de la Chine.
+- La cour a estimé que les actes des personnes condamnées ont gravement nuit aux intérêts de l'État et du peuple chinois.
+- Publié le : Le verdict du tribunal de Wenzhou dans l'est de la Chine est l’un des plus sévères de ces dernières années : 16 condamnations à mort (dont 5 avec sursis de deux ans) pour les membres d'un gang se livrant à des cyberfraudes, 11 peines de prison à perpétuité et 12 autres peines allant jusqu’à 24 ans de détention, a fait savoir la télévision d'État chinoise.
+
+## [<b>Cybersécurité</b> : un accord historique entre l'UCLouvain, CyberWal et le Canada](https://www.uclouvain.be/fr/news/cybersecurite-un-accord-historique-entre-l-uclouvain-cyberwal-et-le-canada)  
+*Source : uclouvain.be | Publication : 2025-09-29*
+
+- Cybersécurité : un accord historique entre l’UCLouvain, CyberWal et le Canada uclouvain | Dès ce 29 septembre et jusqu’au 1er octobre, l’UCLouvain et le consortium CyberWal accueillent une délégation canadienne pour la signature d’un protocole d’entente inédit avec IMC2, le regroupement des universités montréalaises.
+- Cette alliance place la Wallonie sur la carte mondiale de la cybersécurité et ouvre la voie à de nouvelles collaborations académiques, scientifiques et industrielles.
+- L’UCLouvain franchit une nouvelle étape dans l’internationalisation de son expertise en cybersécurité.
+- Du 29 septembre au 1er octobre, l’université et le consortium CyberWal reçoivent une délégation canadienne du consortium IMC2 pour signer un protocole d’entente historique.
+
+## [La sécurité informatique autonome grâce à l'IA : Un futur proche ? - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/la-securite-informatique-autonome-grace-a-lia-un-futur-proche-223536)  
+*Source : silicon.fr | Publication : 2025-09-29*
+
+- De la conduite manuelle au Pilotage Automatique… Depuis plus d’une décennie, le monde parle de voitures autonomes.
+- Au début, l’idée paraissait futuriste, voire fantaisiste.
+- Pourtant aujourd’hui, les voitures, les tramways et métros en pilotage automatique circulent dans nos villes.
+- Cela prouve que l’autonomie est déjà là.
+
+## [IA agentique, un nouveau cap pour la <b>cybersécurité</b> : peut-on encore défendre sans déléguer ?](https://www.journaldunet.com/cybersecurite/1544737-ia-agentique-un-nouveau-cap-pour-la-cybersecurite-peut-on-encore-defendre-sans-deleguer/)  
+*Source : journaldunet.com | Publication : 2025-09-29*
+
+- IA agentique, un nouveau cap pour la cybersécurité : peut-on encore défendre sans déléguer ?.
+- L'IA agentique marque un tournant : face à des menaces toujours plus complexes, elle promet de renforcer la cybersécurité tout en questionnant notre rapport à la confiance et à la responsabilité.
+- L’édition 2025 des Assises de la Cybersécurité s’ouvre sous un thème ambitieux : “FuturS, la cybersécurité au service des métiers et de la création de valeur”.
+- Derrière ce pluriel intriguant - FuturS - se cache une évidence : il n’existe pas un avenir unique de la cybersécurité, mais une multitude de trajectoires possibles.
+
+## [Mexique : Airbus Public Safety and Security victime de <b>ransomware</b> début mai - LeMagIT](https://www.lemagit.fr/actualites/366632099/Mexique-Airbus-Public-Safety-and-Security-victime-de-ransomware-debut-mai)  
+*Source : lemagit.fr | Publication : 2025-09-29*
+
+- Shutter2U - stock.adobe.com Mexique : Airbus Public Safety and Security victime de ransomware début mai La division « Public Safety and Security » d’Airbus, au Mexique, a été victime d’une cyberattaque avec rançongiciel début mai.
+- Malgré l’absence de revendication, aucune rançon ne semble avoir été payée.
+- « Le 6 mai 2025, notre entité Airbus Public Safety and Security au Mexique a été victime d’une attaque de type rançongiciel.
+- L’incident a été entièrement maîtrisé grâce à la mobilisation de nos équipes de sécurité », indique un porte-parole du groupe, dans un e-mail adressé à la rédaction.
+
+## [VIDEO - Comment le gouvernement britannique compte sauver Jaguar Land Rover](https://www.lesechos.fr/industrie-services/automobile/video-comment-le-gouvernement-britannique-compte-sauver-jaguar-land-rover-2188951)  
+*Source : lesechos.fr | Publication : 2025-09-29*
+
+- Cybersécurité · Royaume-Uni.
+- (.).
+- Par Les Echos.
+- Publié le 29 sept.
+
+## [Plus de 160 cyberattaques sur des infrastructures critiques signalées en six mois en Suisse - RTS](https://www.rts.ch/info/suisse/2025/article/cyberattaques-en-suisse-164-cas-signales-en-6-mois-finance-en-tete-29012739.html)  
+*Source : rts.ch | Publication : 2025-09-29*
+
+- Résumé de l’article Plus de 160 cyberattaques sur des infrastructures critiques signalées en six mois en Suisse L'OFCS se montre globalement satisfait de la mise en application de cette mesure, a-t-elle indiqué lundi dans un communiqué.
+- Les organisations qui exploitent des infrastructures critiques s'en tiennent au délai légal qui prévoit de signaler des cyberattaques dans les 24 heures, précise l'office.
+- Le secteur le plus touché est celui de la finance (19%), devant l'informatique (8,7%) et l'énergie (7,6%).
+- Les autorités, la santé, les entreprises de télécommunications, les transports, la branche des médias ainsi que les secteurs de la Poste, des technologies et de l'alimentation ont également été touchés.
 
 ## [Interpol arrête 260 cyberescrocs de 14 pays dont le Bénin - 24 HEURES AU BENIN](https://www.24haubenin.info/?Interpol-arrete-260-cyberescrocs-de-14-pays-dont-le-Benin)  
 *Source : 24haubenin.info | Publication : 2025-09-28*
