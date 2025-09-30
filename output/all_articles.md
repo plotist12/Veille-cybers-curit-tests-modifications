@@ -1,5 +1,157 @@
-# Résumés – 2025-09-29
+# Résumés – 2025-09-30
 
+
+## [Almond et Skill &amp; You lancent une formation de <b>cybersécurité</b> opérationnelle en entreprise ...](https://www.globalsecuritymag.fr/almond-et-skill-you-lancent-une-formation-de-cybersecurite-operationnelle-en.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-09-30*
+
+- Almond et Skill & You lancent une formation de cybersécurité opérationnelle en entreprise pour le marché suisse septembre 2025 par Marc Jacob Dans un contexte de croissance du marché IT suisse et de multiplication des besoins cyber au sein des organisations, Almond et Skill & You unissent leur expertise pour lancer une formation unique en cybersécurité opérationnelle.
+- Commercialisée par Skill & You sur le marché suisse à partir du 30 septembre, la formation « Cybersécurité opérationnelle appliquée en entreprise » permet d’acquérir les connaissances et compétences fondamentales en matière de sécurité des systèmes, cryptographie, gestion des incidents, audit et gouvernance.
+- Elle s’appuie sur l’expertise technique cyber d’Almond Suisse, installée à Genève, et sur le savoir-faire en matière de formation des adultes de Skill & You Suisse, basée à Lausanne.
+- Cette formation de 90 heures, assurée en français, s’adresse aux informaticiens qui veulent monter en compétences dans le domaine de la cybersécurité.
+
+## [La <b>cybersécurité</b> française en pleine croissance, mais des failles persistent - ITRnews](https://itrnews.com/articles/207359/la-cybersecurite-francaise-en-pleine-croissance-mais-des-failles-persistent.html)  
+*Source : itrnews.com | Publication : 2025-09-30*
+
+- Veuillez activer Javascript.
+
+## [Google Drive développe une nouvelle méthode pour prévenir les attaques par <b>ransomware</b>](https://www.globalsecuritymag.fr/google-drive-developpe-une-nouvelle-methode-pour-prevenir-les-attaques-par.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-09-30*
+
+- Google Drive développe une nouvelle méthode pour prévenir les attaques par ransomware septembre 2025 par LA REDACTION DE GS MAG Google annonce une nouvelle couche de protection contre les ransomwares, alimentée par l’IA et directement intégrée à Google Drive.
+- Ces attaques profitent d’une faille structurelle dans les stratégies traditionnelles de défense.
+- L’approche actuelle de la protection contre les ransomwares souffre d’une faille structurelle.
+- Aujourd’hui, seules deux couches principales de défense existent : La protection antivirus (AV), qui cherche à empêcher les attaquants d’entrer.
+
+## [Le Forum sur la sécurité 2025 traite du terrorisme, des <b>cybermenaces</b> et des crises mondiales](https://www.youtube.com/watch?v=OEZIHnJTkJw)  
+*Source : youtube.com | Publication : 2025-09-30*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [#ciso #rssi #<b>cybersecurité</b> #it #cybertrust #innovation #partenariat | Devoteam - LinkedIn](https://fr.linkedin.com/posts/devoteam_ciso-rssi-cybersecurité-activity-7378792961893105664-Pj-Q)  
+*Source : fr.linkedin.com | Publication : 2025-09-30*
+
+- [Événement] Devoteam : L'Avenir du RSSI, une réflexion portée par des experts et leurs partenaires de confiance.
+- 🤝 https://lnkd.in/esffyKrn Pour les #CISO et #RSSI, l'avenir de la cybersécurité s'écrit avec nos partenaires.
+- Devoteam vous invite à un événement exclusif le 5 novembre au Pavillon Élysée Té, une opportunité unique d'échanger avec des leaders de la #cybersecurité.
+- 🔒 Cet événement a été co-construit avec notre partenaire RISKINTEL, LE CYBER MEDIA, un média de référence qui décrypte l'actualité et les tendances de la cybersécurité pour les professionnels de la sécurité #IT.
+
+## [<b>Cybercriminalité</b> : quelles attitudes pour les citoyens ? – Ouestaf.com](https://www.ouestaf.com/cybercriminalite-quelles-attitudes-pour-les-citoyens/)  
+*Source : ouestaf.com | Publication : 2025-09-30*
+
+- Sexe torsion, diffamation portant sur l’honneur, vols d’identité, dissémination d’images à caractère pornographique, toutes ces effractions sont monnaie courante sur les réseaux sociaux.
+- Quelles attitudes adoptées pour les citoyens ?.
+- Le capitaine Serigne Mbacké Guèye, chef de division à la gendarmerie nationale du Sénégal, donne ses réponses dans cet épisode de « Les podcasts d’Ouestaf ».
+- Voulez-vous réagir à cet article ou nous signaler une erreur ?.
+
+## [La nouvelle Bbox Pro de Bouygues Telecom intègre nativement l'IA et la <b>cybersécurité</b>](https://www.zdnet.fr/actualites/la-nouvelle-bbox-pro-de-bouygues-telecom-integre-nativement-lia-et-la-cybersecurite-482901.htm)  
+*Source : zdnet.fr | Publication : 2025-09-30*
+
+- La nouvelle génération de box internet pour les professionnels est en passe de devenir un pilier de la transformation numérique des artisans, commerçants, professions libérales et autres TPE et PME.
+- Après Free et sa nouvelle Freebox Pro dévoilée en début d’année, c’est au tour de Bouygues Telecom de commercialiser une box pour le marché BtoB intégrant le meilleur de la technologie.
+- Nativement XGS-PON, le dernier standard en date en termes de technologie de réseaux de fibre optique, la Bbox Pro Évolutive affiche des performances solides avec des débits symétriques compris entre 2 et 8 Gbps et un accès Wi-Fi 7 tri-bandes.
+- Pour assurer la continuité d’activité, elle intègre une solution de back-up qui permet de basculer en 4G en cas de coupure réseau.
+
+## [CSB.school et Huggy s'allient pour renforcer l'insertion professionnelle en <b>cybersécurité</b>](https://www.lyon-entreprises.com/actualites/article/csb-school-et-huggy-sallient-pour-renforcer-linsertion-professionnelle-en-cybersecurite)  
+*Source : lyon-entreprises.com | Publication : 2025-09-30*
+
+- CSB.school et Huggy s’allient pour renforcer l’insertion professionnelle en cybersécurité Face à la baisse des contrats d’apprentissage observée en 2025, CSB.school, école lyonnaise spécialisée dans le management de la cybersécurité, s’associe à Huggy, plateforme du Recrutement Circulaire, pour faciliter l’accès à l’alternance et à l’emploi des jeunes talents du secteur.
+- Un partenariat pour soutenir l’emploi des futurs experts cyber Entre mars et juillet 2025, les contrats d’apprentissage ont reculé de 10 % selon l’OPCO Atlas.
+- Dans ce contexte tendu, CSB.school et Huggy annoncent la signature d’un partenariat stratégique visant à renforcer les passerelles entre formation et emploi.
+- L’objectif : multiplier les opportunités d’insertion professionnelle pour les étudiants en cybersécurité.
+
+## [Bouygues Telecom Pro réinvente l'avenir numérique des entreprises avec sa nouvelle Bbox ...](https://www.corporate.bouyguestelecom.fr/archives-communique-presse/bouygues-telecom-pro-reinvente-lavenir-numerique-des-entreprises-avec-sa-nouvelle-bbox-pro-evolutive-back-up-4g-integre-assistant-vocal-booste-a-lia-et-cybersecurite/)  
+*Source : corporate.bouyguestelecom.fr | Publication : 2025-09-30*
+
+- Offres et services entreprises Communiqué de )))presse 30/09/2025 En activant le mode contrasté, je facilite ma visite sur le site.
+- En activant le mode sombre, moins énergivore, je réduis mon impact environnemental.
+- Découvrir notre démarche d’éco-conceptionOffres et services entreprises 30/09/2025 Meudon-la-Forêt, le 30 septembre 2025 – Pour répondre aux besoins vitaux de connectivité des professionnels (PME & TPE) et leur offrir des services toujours plus innovants et adaptés à leur business, Bouygues Telecom lance sa nouvelle Bbox Pro Évolutive¹.
+- Intégrant les dernières avancées technologiques (WiFi 7 tri-bandes, XGSPON) et dotée d’un nouveau design, cette box contribue à garantir le maintien de l’activité grâce à son back-up 4G intégré, et propose, de manière paramétrable, des fonctionnalités avancées en matière de cybersécurité et d’intelligence artificielle.
+
+## [L'entreprise de <b>cybersécurité</b> MCG, basée à Louvain-la-Neuve, fête ses 25 ans - Sudinfo](https://www.sudinfo.be/id1047183/article/2025-09-30/lentreprise-de-cybersecurite-mcg-basee-louvain-la-neuve-fete-ses-25-ans-investir)  
+*Source : sudinfo.be | Publication : 2025-09-30*
+
+- À l'occasion de ce quart de siècle, la PME et ses partenaires font le bilan sur la cybercriminalité en Belgique.
+- Un phénomène en croissance et des.
+
+## [Un groupe de cybercriminel tente de corrompre un journaliste de la BBC | Le site de Korben](https://korben.info/journaliste-bbc-recoit-proposition-medusa-ransomware-groupe.html)  
+*Source : korben.info | Publication : 2025-09-30*
+
+- Un groupe de cybercriminels tente de corrompre un journaliste de la BBC En bref Les hackers russes de Medusa proposent 715 000€ à un journaliste BBC pour devenir leur taupe interne - Après avoir échoué à pirater directement la BBC, les cybercriminels tentent le pot-de-vin : la preuve que vos employés valent plus cher que vos pare-feux - Un groupe de ransomware publie ses "références criminelles" pour convaincre un journaliste de les rejoindre : quand le CV devient une liste de victimes - Un journaliste de la BBC a reçu une proposition de Medusa pour devenir leur taupe.
+- En effet, Joe Tidy, correspondant cyber sécurité à la BBC, a été contacté en juillet 2024 par le groupe de ransomware russe pour qu’il leur file des infos sur ses collègues.
+- Leur proposition : 600 000 livres sterling sur la table, soit environ 715 000 euros !.
+- !.
+
+## [Bakou : Le Forum sur la sécurité 2025 traite du terrorisme, des <b>cybermenaces</b> et des crises ...](https://fr.euronews.com/business/2025/09/30/bakou-le-forum-sur-la-securite-2025-traite-du-terrorisme-des-cybermenaces-et-des-crises-mo)  
+*Source : fr.euronews.com | Publication : 2025-09-30*
+
+- Plus de 80 pays ont participé au troisième Forum de Bakou sur la sécurité en Azerbaïdjan, où ont été abordés le terrorisme, la cybercriminalité, la désinformation et les crises humanitaires, dans le but de renforcer la coopération transfrontalière en matière de sécurité.
+- Le Forum de Bakou sur la sécurité a repris ses activités en mettant l'accent sur la coopération internationale contre le terrorisme, les cybermenaces et les crises humanitaires.
+- Réunissant des fonctionnaires de plus de 80 pays, les discussions ont porté sur la coordination transfrontalière, la désinformation et les défis posés par les menaces modernes pour la sécurité.
+- Les intervenants ont souligné que seules des stratégies unifiées permettront aux gouvernements de lutter efficacement contre les réseaux terroristes mondiaux.
+
+## [<b>Cybersécurité</b> des entreprises françaises : une maturité contrastée selon la régulation et la taille](https://www.silicon.fr/cybersecurite-1371/cybersecurite-des-entreprises-francaises-une-maturite-contrastee-selon-la-regulation-et-la-taille-223555/amp)  
+*Source : silicon.fr | Publication : 2025-09-30*
+
+- Alors que la directive NIS2 est toujours en voie de transposition en France (Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité), l’étude* « Panorama de la maturité en cybersécurité des entreprises françaises« , menée par CyberVadis en partenariat avec le CESIN, dresse un état des lieux contrasté de la maturité en cybersécurité des entreprises françaises.
+- Premier enseignement : une corrélation directe entre l’assujettissement à la directive NIS2 et le niveau de maturité en cybersécurité.
+- Les entités classées « Essentielles » obtiennent un score moyen de 817, contre 719 pour les « Importantes » et 652 pour celles hors du périmètre réglementaire.
+- La taille constitue également un facteur déterminant : les grandes entreprises affichent un score de 865, les ETI de 762, les PME de 694 et les TPE de 647.
+
+## [7 octobre - Le CyberTour dans l'Aude pour le mois de la <b>cybersécurité</b> - ToulÉco](https://www.touleco.fr/Le-CyberTour-dans-l-Aude-debut-octobre,48178)  
+*Source : touleco.fr | Publication : 2025-09-30*
+
+- Le CyberTour de l’Aude, organisé par Projet X et le Conseil Départemental de l’Aude, aura lieu le 7 octobre à Carcassonne.
+- Au programme : conférences, tables rondes, présentations et experts.
+- Parmi les intervenants, Hélène Sandragné, présidente du Conseil départemental de l’Aude, Rémy Daudigny, délégué à la Sécurité numérique à l’Agence nationale de la sécurité des systèmes d’information (Anssi), Mallory Gombault, présidente de l’agence G&T digital création, ou encore Arnaud Faes, major et référent cybersécurité à l’Agence du numérique des forces de sécurité intérieure.
+- Seront entre autres abordés « les nouveautés et tendances en matière de cyberattaques » ou encore « les opportunités, risques et enjeux à intégrer de l’IA en entreprise ».
+
+## [Thales annonce le versement d'un acompte sur dividende - Thales Group](https://www.thalesgroup.com/fr/actualites-du-groupe/communiques-de-presse/thales-annonce-le-versement-dun-acompte-sur-dividende-1)  
+*Source : thalesgroup.com | Publication : 2025-09-30*
+
+- Thales annonce le versement d’un acompte sur dividende Réuni ce jour sous la présidence de Patrice Caine, le Conseil d’administration de Thales (Euronext Paris : HO) a décidé de verser un acompte sur dividende en numéraire de 0,95 € par action au titre de l’exercice 2025 en cours.
+- Cet acompte sera détaché le 2 décembre 2025 et mis en paiement le 4 décembre 2025.
+- À propos de Thales Thales (Euronext Paris: HO) est un leader mondial des hautes technologies pour les secteurs de la Défense, de l’Aérospatial et de la Cybersécurité & Digital.
+- Son portefeuille de produits et de services innovants contribue à répondre à plusieurs défis majeurs : souveraineté, sécurité, durabilité et inclusion.
+
+## [En Chine, peine de mort pour onze personnes condamnées pour <b>cybercriminalité</b>](https://www.courrierinternational.com/article/societe-en-chine-la-peine-de-mort-pour-onze-personnes-condamnees-pour-cybercriminalite_235682)  
+*Source : courrierinternational.com | Publication : 2025-09-30*
+
+- Ce 30 septembre, la presse officielle chinoise se fait l’écho de la condamnation à mort prononcée par un tribunal de Wenzhou contre 11 membres d’une même famille, qui dirigeait des centres de cybercriminalité en Birmanie.
+- Au total, 39 membres de cette famille, “la famille Ming”, ont été condamnés à des peines diverses, relate la BBC.
+- “La famille Ming avait transformé la ville birmane de Laukkai, près de la frontière avec la Chine, en un centre de jeux d’argent, de drogue et d’escroquerie”, écrit le correspondant en Asie du Sud-Est de la chaîne d’information.
+- La sévérité du jugement est à la hauteur de l’inquiétude des autorités chinoises face au développement des activités criminelles impliquant des mafias et des victimes chinoises.
+
+## [Google dévoile un système de sécurité basé sur l'IA pour piéger les attaques de <b>ransomware</b>](https://www.lemagit.fr/actualites/366632119/Google-devoile-un-systeme-de-securite-base-sur-lIA-pour-pieger-les-attaques-de-ransomware)  
+*Source : lemagit.fr | Publication : 2025-09-30*
+
+- Google dévoile un système de sécurité basé sur l’IA pour piéger les attaques de ransomware La nouvelle fonction de sécurité, disponible sans surcoût pour la plupart des utilisateurs de Google Workspace, détecte le chiffrement massif des fichiers lors des attaques de ransomware, empêche les attaques de se propager et permet la restauration des fichiers.
+- Google a lancé une fonctionnalité de sécurité alimentée par l’intelligence artificielle (IA) qui agit comme une dernière ligne de défense, contre les attaques de ransomware ayant échappé aux mesures de sécurité traditionnelles, et qui protège les fichiers stockés dans Google Drive.
+- Cette nouvelle fonctionnalité, qui sera déployée à l’échelle mondiale pour la plupart des clients commerciaux de Google Workspace sans surcoût, vise principalement les formats de fichiers tels que les documents Microsoft Office et les fichiers PDF, qui sont souvent la cible d’attaques de ransomware.
+- « L’idée qu’un acteur malveillant sophistiqué et disposant de ressources suffisantes puisse cibler une organisation et prendre en otage l’ensemble d’un réseau relève du cauchemar », estime Kristina Behr, vice-présidente des applications de collaboration pour Google Workspace.
+
+## [&quot;Vous n'aurez plus jamais besoin de travailler&quot;: des pirates informatiques proposent un ... - BBC](https://www.bbc.com/afrique/articles/cp8w4kkjzxdo.amp)  
+*Source : bbc.com | Publication : 2025-09-30*
+
+- « Vous n'aurez plus jamais besoin de travailler » : des criminels offrent de l'argent à des journalistes pour pirater la BBC Author, Joe Tidy - Role, Cyber correspondent, BBC World Service - Comme beaucoup de choses dans le monde obscur de la cybercriminalité, une menace interne est une expérience rare.
+- Encore moins de gens veulent en parler.
+- Mais j'ai vécu une expérience unique et inquiétante de la façon dont les pirates informatiques peuvent exploiter les personnes internes lorsque j'ai moi-même récemment reçu des avances d'un gang criminel.
+- « Si vous êtes intéressé, nous pouvons vous offrir 15 % du montant de la rançon si vous nous donnez accès à votre ordinateur.
+
+## [De 29 à 71%: en 2025, la double authentification a enfin séduit massivement les Français pour ...](https://www.bfmtv.com/tech/actualites/cybersecurite/de-29-a-71-en-2025-la-double-authentification-a-enfin-seduit-massivement-les-francais-pour-proteger-leurs-comptes-personnels_AN-202509300246.html)  
+*Source : bfmtv.com | Publication : 2025-09-30*
+
+- De 29 à 71%: en 2025, la double authentification a enfin séduit massivement les Français pour protéger leurs comptes personnels Un véritable bond en avant en seulement l'espace d'un an.
+- Un jour avant que ne débute le Cybermois (mois de la cybersécurité), Yubico a dévoilé les résultats de son enquête annuelle sur l'état mondial de l'authentification.
+- Publiée ce mardi 30 septembre, elle révèle le niveau de maturité en la matière à travers neuf pays (soit 18.000 actifs), dont la France, dont nous révélons les chiffres en exclusivité.
+- Cette étude met notamment en avant la forte augmentation de l'adoption de l'authentification multi-facteurs (MFA), aussi appelée double authentfiication par les Français pour leurs comptes personnels (réseaux sociaux, applications bancaires...).
+
+## [Google Drive ajoute une ligne de défense supplémentaire contre le <b>ransomware</b> - Data News](https://datanews.levif.be/actualite/securite/prevention/google-drive-ajoute-une-ligne-de-defense-supplementaire-contre-le-ransomware/)  
+*Source : datanews.levif.be | Publication : 2025-09-30*
+
+- Google introduit une nouvelle couche de protection pilotée par l’IA dans Google Drive et destinée à stopper le ransomware: elle se trouvera après la première couche de prévention, mais avant la couche de restauration (coûteuse).
+- La nouvelle solution ne se concentrera pas sur la détection du malware même, mais plutôt sur la reconnaissance de son comportement destructeur: une approche qui – du moins selon l’entreprise – comblera un vide fondamental dans l’actuelle cyberdéfense.
+- Luke Camery, Lead Group Product Manager chez Google Workspace, qui a, avec son équipe, mis au point la nouvelle solution, la qualifie de correction ‘de l’erreur basique dans le status quo de la protection contre le ransomware’.
+- Il décrit la solution dans un briefing en ligne avec Data News comme une nouvelle couche dans la pile de sécurité: à un niveau supérieur au logiciel antivirus traditionnel et à la protection terminale, mais néanmoins aussi à un niveau inférieur au logiciel de restauration.
 
 ## [Face aux enjeux technologiques, l'Institut Polytechnique de Paris muscle sa recherche et sa ...](https://www.letudiant.fr/educpros/actualite/face-aux-grands-enjeux-technologiques-linstitut-polytechnique-de-paris-muscle-sa-recherche-et-sa-formation.html)  
 *Source : letudiant.fr | Publication : 2025-09-29*
