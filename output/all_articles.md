@@ -1,5 +1,154 @@
-# Résumés – 2025-09-30
+# Résumés – 2025-10-01
 
+
+## [Mois de la <b>cybersécurité</b> : aller au-delà de la sensibilisation - ITRnews](https://itrnews.com/articles/207384/mois-de-la-cybersecurite-aller-au-dela-de-la-sensibilisation.html)  
+*Source : itrnews.com | Publication : 2025-10-01*
+
+- Veuillez activer Javascript.
+
+## [Comme un château de cartes : 66 % des PME européennes ne disposent pas d'une ...](https://www.globalsecuritymag.fr/comme-un-chateau-de-cartes-66-des-pme-europeennes-ne-disposent-pas-d-une.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-01*
+
+- Comme un château de cartes : 66 % des PME européennes ne disposent pas d’une stratégie de cybersécurité opérationnelle octobre 2025 par Kaspersky La majorité des décideurs impliqués dans la cybersécurité des petites et moyennes entreprises (PME) en Europe ne sont pas suffisamment préparés pour protéger leur entreprise.
+- Les deux tiers (66 %) déclarent suivre une stratégie plus solide en théorie qu’en pratique, ou ne poursuivre qu’un certain nombre d’objectifs fragmentés, à défaut de mettre en œuvre un plan exhaustif.
+- De plus, certains reconnaissent des lacunes dans leur compréhension des aspects fondamentaux de la cybersécurité : 33 % reconnaissent notamment la nécessité de mieux appréhender la gestion et la résolution des incidents cyber.
+- Ce manque de stratégie et de savoir-faire concrets les empêche d’assurer une protection réelle de leur entreprise, ainsi rendues vulnérables aux cyberattaques.
+
+## [Programmeur·euse web - IA et <b>cybersécurité</b> | CyberCap | Emplois - | Grenier aux nouvelles](https://www.grenier.qc.ca/emplois/87494/programmeureuse-web-ia-et-cybersecurite)  
+*Source : grenier.qc.ca | Publication : 2025-10-01*
+
+- À propos de CyberCap CyberCap est un organisme d’économie sociale dédié à l’intégration socioprofessionnelle et au développement des compétences numériques.
+- Depuis plus de 25 ans, nous mobilisons le numérique pour aider des jeunes aux parcours non linéaires à développer leur potentiel, à persévérer et à s’insérer durablement sur le marché du travail.
+- Notre approche conjugue exigence technique, accompagnement humain et projets concrets en partenariat avec des organisations publiques et privées.
+- À propos d’Initiative Avenir Initiative Avenir est un programme immersif de 6 mois pour jeunes adultes (18–30 ans) en situation de vulnérabilité (p. ex.
+
+## [Mois de la sensibilisation à la <b>cybersécurité</b> 2025 - Canada.ca](https://www.canada.ca/fr/securite-telecommunications/nouvelles/2025/10/mois-de-la-sensibilisation-a-la-cybersecurite-2025.html)  
+*Source : canada.ca | Publication : 2025-10-01*
+
+- Mois de la sensibilisation à la cybersécurité 2025 Communiqué de presse Ottawa (Ontario) – le 1 octobre 2025 Ce mois d’octobre, le Centre de la sécurité des télécommunications Canada (CST) et sa campagne Pensez cybersécurité lancent le Mois de la sensibilisation à la cybersécurité (Mois de la cybersécurité) 2025, dont le thème est « Pensez cybersécurité – Aujourd'hui pour demain ».
+- Le Mois de la cybersécurité est une campagne internationalement reconnue, tenue chaque année en octobre, qui souligne l’importance de la cybersécurité.
+- Au Canada, le mois de la cybersécurité encourage les individus, les familles et les organisations à adopter des habitudes solides afin de se protéger dans un environnement numérique de plus en plus sophistiqué et en constante évolution.
+- Le thème de cette année met l’accent sur l’idée que se protéger en ligne ne consiste pas seulement à éviter les risques immédiats – c’est aussi se préparer à réussir demain.
+
+## [Déclaration du ministre de la Défense nationale du Canada à l'occasion du Mois de la ...](https://www.canada.ca/fr/securite-telecommunications/nouvelles/2025/10/declaration-du-ministre-de-la-defense-nationale-du-canada-a-loccasion-du-mois-de-la-sensibilisation-a-la-cybersecurite.html)  
+*Source : canada.ca | Publication : 2025-10-01*
+
+- Déclaration du ministre de la Défense nationale du Canada à l’occasion du Mois de la sensibilisation à la cybersécurité Déclaration 1er octobre 2025 – Ottawa Ontario « Ce n’est un secret pour personne que les cybermenaces deviennent de plus en plus fréquentes, complexes et perturbatrices.
+- Des acteurs malveillants cherchant à servir leurs propres intérêts, à réaliser un profit ou à nuire à notre mode de vie exploitent nos systèmes et nos données pour atteindre leurs objectifs.
+- Bien que les menaces soient réelles, les Canadiennes et Canadiens ne sont pas sans défense.
+- Munis des bonnes connaissances et des bons outils, ils peuvent se protéger en ligne — et le mois d’octobre est le moment idéal pour commencer.
+
+## [Mois de la <b>cybersécurité</b> : renforcement de notre procédure d'authentification](https://www.revenuquebec.ca/fr/salle-de-presse/actualites/details/2025-10-01/mois-de-la-cybersecurite-renforcement-de-notre-procedure-dauthentification/)  
+*Source : revenuquebec.ca | Publication : 2025-10-01*
+
+- La cybersécurité est un enjeu stratégique pour les entreprises de toutes tailles et de toutes industries.
+- Revenu Québec s'engage à mettre en œuvre.
+
+## [Octobre : Mois de la sensibilisation à la <b>cybersécurité</b> - Revenu Québec](https://www.revenuquebec.ca/fr/salle-de-presse/actualites/details/2025-10-01/octobre-mois-de-la-sensibilisation-a-la-cybersecurite/)  
+*Source : revenuquebec.ca | Publication : 2025-10-01*
+
+- En octobre, à l'occasion du Mois de la sensibilisation à la cybersécurité , Revenu Québec rappelle à toutes et à tous que la fraude,.
+
+## [Le Forum international sur la <b>cybersécurité</b> 2025 s'ouvre à Riyad - L'Économiste Maghrébin](https://www.leconomistemaghrebin.com/2025/10/01/le-forum-international-sur-la-cybersecurite-2025-souvre-a-riyad/)  
+*Source : leconomistemaghrebin.com | Publication : 2025-10-01*
+
+- Le Forum international sur la cybersécurité (ICF) 2025 a débuté mercredi 1er octobre à Riyad, en Arabie saoudite, sur le thème « Promouvoir les bénéfices partagés dans le cyberespace ».
+- Ce forum vise à stimuler le dialogue international en vue de construire un cyberespace sûr et fiable, contribuant à la croissance économique, à la prospérité des sociétés et au renforcement de la sécurité individuelle et de la stabilité des États.
+- La cinquième édition du forum se concentre sur plusieurs thèmes clés, notamment : surmonter les disparités mondiales; développer un nouveau concept pour la cyberéconomie; promouvoir l’inclusion sociale dans le cyberespace; et explorer les opportunités uniques dans le paysage du cyberespace.
+- Le forum explore également les priorités communes, entre autres le renforcement de l’intégration mondiale à la lumière des transformations accélérées, l’autonomisation de la cyberéconomie pour atteindre une prospérité globale et la maximisation de l’action conjointe pour créer un cyberespace qui renforce le potentiel des individus et des sociétés.
+
+## [Les robots d'IA représentent déjà plus de 10% du trafic web en 2025 - Siècle Digital](https://siecledigital.fr/2025/10/01/les-robots-dia-representent-deja-plus-de-10-du-trafic-web-en-2025/)  
+*Source : siecledigital.fr | Publication : 2025-10-01*
+
+- Si les précédentes études sur le sujet montraient que le trafic provenant des IA était encore très anecdotique, la tendance est-elle en train de changer ?.
+- Selon le dernier rapport Global Bot Security Report 2025 de DataDome et accessible publiquement, cette tendance, désormais structurelle, redéfinit la manière dont le web fonctionne et soulève de sérieuses questions de cybersécurité… 1,7 milliard de requêtes en un mois En 2025, d’après le rapport de DataDome, le trafic des robots d’indexation et des agents IA aurait quadruplé, si bien qu’ils représentent désormais plus de 10% des requêtes.
+- Rien que pour les robots d’OpenAI, près de 1,7 milliard de requêtes ont été détectées sur le mois d’août.
+- Cette intensification traduit un basculement : l’IA n’est plus une anomalie, mais un élément central du trafic web.
+
+## [63 PME bénéficieront d'un financement pour la <b>cybersécurité</b> - Economie - БНР](https://bnr.bg/fr/post/102218909/63-pme-beneficieront-dun-financement-pour-la-cybersecurite)  
+*Source : bnr.bg | Publication : 2025-10-01*
+
+- 63 entreprises bulgares bénéficieront d’un soutien financier au titre de la procédure "Soutien à l’amélioration de la cybersécurité des PME en Bulgarie", comme annoncé par le ministère de l’Administration électronique.
+- Le financement sera 100 % non remboursable et aucun cofinancement de la part des entreprises n’est requis.
+- L’objectif est d’aider les micro-, petites et moyennes entreprises en Bulgarie à mettre en œuvre des solutions modernes de protection contre les cybermenaces et à réduire le risque de cyberincidents.
+- La procédure est mise en place par le ministère de l’Administration électronique et financée par le Programme d’une Europe numérique 2021-2027 et par le budget du ministère.
+
+## [Assises de la <b>cybersécurité</b> 2025 : « La <b>cybersécurité</b> doit être au service des métiers. »](https://www.solutions-numeriques.com/assises-de-la-cybersecurite-2025-la-cybersecurite-doit-etre-au-service-des-metiers/)  
+*Source : solutions-numeriques.com | Publication : 2025-10-01*
+
+- À l’occasion des Assises de la cybersécurité 2025 qui se tiennent à Monaco, Solutions numériques & cybersécurité a rencontré les deux coprésidents de cette édition : Odile Duthil, directrice cybersécurité groupe pour le Groupe Caisse des dépôts, et Loïs Samain, RSSI chez EDF Hydro et administrateur du Cesin.
+- Ils reviennent sur le fil rouge de cette édition, « FuturS », et sur les grands enjeux de leur métier : pragmatisme, innovation, souveraineté et transmission des talents.
+- SNC – Vous insistez sur la nécessité d’une cybersécurité « au service des métiers ».
+- Qu’est-ce que cela signifie ?.
+
+## [&quot;Ils vont jusqu'à raconter des histoires sur une invasion de punaises de lit en France ... - BFMTV](https://www.bfmtv.com/tech/cybersecurite/ils-vont-jusqu-a-raconter-des-histoires-sur-une-invasion-de-punaises-de-lit-en-france-emmanuel-macron-denonce-les-ingerences-russes-en-europe-qui-destabilisent-la-societe_AV-202510010702.html)  
+*Source : bfmtv.com | Publication : 2025-10-01*
+
+- "Ils vont jusqu'à raconter des histoires sur une invasion de punaises de lit en France": Emmanuel Macron dénonce les ingérences russes en Europe qui déstabilisent la société Des cyberattaques de la part de groupes de hackers russes, des drones venant paralyser les aéroports, des vidéos venant jeter de l'huile sur le feu sur les réseaux sociaux.
+- La Russie mène, depuis l'invasion de l'Ukraine, une véritable guerre sur internet.
+- Et ce, sans compter les faux sites internet opérés depuis le sol russe, se faisant passer pour des médias européens en reprenant leurs codes graphiques.
+- Une guerre décrite comme "hybride", qui ne consiste pas qu'à bombarder des soldats et des civils, mais aussi d'instiller le doute parmi les populations des nations alliées à ses ennemis - comme l'Ukraine.
+
+## [Microsoft lance Security Store, sa nouvelle arme pour imposer son écosystème <b>cybersécurité</b> - Clubic](https://www.clubic.com/actualite-581479-microsoft-lance-security-store-sa-nouvelle-arme-pour-imposer-son-ecosysteme-cybersecurite.html)  
+*Source : clubic.com | Publication : 2025-10-01*
+
+- Solutions prêtes à l’emploi, intégrations rapides avec Defender ou Sentinel, agents d’IA prêts à être déployés sans compétence de développement : Redmond veut transformer son offre sécurité en place de marché à part entière.
+- Les équipes de sécurité jonglent déjà avec une avalanche d’outils, chacun avec son tableau de bord, ses licences et ses intégrations parfois capricieuses.
+- Comparer, acheter, mettre en service… un parcours souvent long et usant, qui retarde les projets et complique la vie des SOC.
+- Microsoft entend donc proposer d’en réduire la charge avec Security Store, un espace centralisé regroupant des solutions certifiées pour fonctionner avec son écosystème, que l’on peut acquérir via le compte Microsoft de l’entreprise et déployer sans processus d’intégration fastidieux.
+
+## [Ghana : Mahama installe un Comité national conjoint de <b>cybersécurité</b> - APAnews](https://fr.apanews.net/news/ghana-mahama-installe-un-comite-national-conjoint-de-cybersecurite/)  
+*Source : fr.apanews.net | Publication : 2025-10-01*
+
+- Le président ghanéen place la sensibilisation et la coopération internationale au cœur de la lutte contre la cybercriminalité.
+
+## [En <b>cybersécurité</b>, j'ai mon rôle à jouer! | CHUM](https://www.chumontreal.qc.ca/actualites/cybersecurite-jai-mon-role-jouer-0)  
+*Source : chumontreal.qc.ca | Publication : 2025-10-01*
+
+- En cybersécurité, j’ai mon rôle à jouer!.
+- Octobre est le mois de la sensibilisation à la Cybersécurité.
+- Comme chaque année, le ministère de la Cybersécurité et du Numérique (MCN) propose une série d’activités pour sensibiliser et susciter l’adoption de comportements cybersécuritaires.
+- La campagne « En cybersécurité, j’ai mon rôle à jouer!.
+
+## [Hornetsecurity révèle une recrudescence des attaques par <b>ransomware</b> en 2025 ...](https://www.globalsecuritymag.fr/hornetsecurity-revele-une-recrudescence-des-attaques-par-ransomware-en-2025.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-01*
+
+- Hornetsecurity révèle une recrudescence des attaques par ransomware en 2025, alimentées par l’IA et de nouvelles méthodes d’intrusion octobre 2025 par Hornetsecurity Hornetsecurity publie son rapport annuel sur l’impact des ransomwares.
+- Ce dernier démontre qu’après trois ans de recul, les attaques repartent nettement à la hausse.
+- En effet, un quart des entreprises interrogées (24%) déclarent avoir été victimes en 2025, contre 18,6% en 2024.
+- Des cybercriminels plus agiles et plus sophistiqués L’étude révèle que les méthodes d’intrusion évoluent rapidement.
+
+## [Cybermalveillance : tous cyber-engagés - Marne.gouv.fr](https://www.marne.gouv.fr/Actions-de-l-Etat/Risques-cybermalveillance-securite-et-protection-de-la-population/Internet/Cybermois)  
+*Source : marne.gouv.fr | Publication : 2025-10-01*
+
+- Cybermalveillance : tous cyber-engagés !.
+- Mis à jour le 01/10/2025 9 français sur 10 ont déjà été confrontés à une situation de malveillance informatique, notamment à l’hameçonnage (70%).
+- Cybermois du 1er au 31 octobre 2025 : Et si l'histoire avait été bouleversée par de mauvaises pratiques cyber ?.
+- Le mois européen de la cybersécurité vise à sensibiliser aux cybermenaces et aux bons réflexes pour s’en protéger.
+
+## [Google Gemini : trois failles critiques révèlent les dérives possibles des assistants IA](https://itsocial.fr/cybersecurite/cybersecurite-actualites/google-gemini-trois-failles-critiques-revelent-les-derives-possibles-des-assistants-ia/)  
+*Source : itsocial.fr | Publication : 2025-10-01*
+
+- Trois vulnérabilités critiques découvertes dans l’assistant Gemini révèlent les risques systémiques associés aux agents IA intégrés aux plateformes cloud.
+- Dévoilées par Tenable, ces failles permettent des attaques par injection de prompt à partir de simples journaux d’activité ou de l’historique de navigation.
+- Google affirme avoir corrigé les vecteurs identifiés.
+- L’agent conversationnel Gemini de Google s’est vu exposé à une série de vulnérabilités exploitables par un tiers malveillant pour détourner ses fonctions et exfiltrer des données sensibles.
+
+## [Nexa lance un bachelor en <b>cybersécurité</b> et réseaux - ZATAZ](https://www.zataz.com/nexa-lance-un-bachelor-en-cybersecurite-et-reseaux/)  
+*Source : zataz.com | Publication : 2025-10-01*
+
+- Nexa lance un bachelor en cybersécurité et réseaux Former des experts opérationnels en protection des infrastructures numériques : telle est l’ambition de Nexa avec son bachelor en cybersécurité et administration réseau, dispensé intégralement en alternance.
+- Le programme proposé par Nexa Digital School s’adresse à ceux qui veulent intégrer rapidement le secteur stratégique de la cybersécurité.
+- Construit autour d’un cursus en trois ans, il combine savoirs techniques, immersion en entreprise et certification reconnue.
+- Ce bachelor vise à former des profils immédiatement employables, capables de répondre à la demande croissante de talents dans la sécurité informatique.
+
+## [Les 3 domaines clés de Tel-Aviv sur le plan mondial: <b>cybersécurité</b>, l'IA et l'informatique quantique.](https://israelvalley.com/2025/10/01/les-3-domaines-cles-de-tel-aviv-sur-le-plan-mondial-cybersecurite-lia-et-linformatique-quantique/)  
+*Source : israelvalley.com | Publication : 2025-10-01*
+
+- Tel Aviv occupe le 4e rang mondial des écosystèmes de startups en 2024, selon le rapport 2024 de Startup Genome, progressant d’une place par rapport à l’année précédente.
+- Cette position met en évidence la force de l’écosystème technologique de la ville, qui valorise 253 milliards de dollars dans des secteurs clés comme la cybersécurité, l’IA et l’informatique quantique.
+- L’informatique quantique est une branche de l’informatique qui utilise les principes de la mécanique quantique pour résoudre des problèmes complexes beaucoup plus rapidement que les ordinateurs classiques, grâce à l’utilisation de « qubits » qui peuvent représenter à la fois 0 et 1 grâce à la superposition.
+- Cette technologie promet de révolutionner des domaines comme la découverte de médicaments, la science des matériaux et le chiffrement grâce à des algorithmes quantiques spécifiques.
 
 ## [Almond et Skill &amp; You lancent une formation de <b>cybersécurité</b> opérationnelle en entreprise ...](https://www.globalsecuritymag.fr/almond-et-skill-you-lancent-une-formation-de-cybersecurite-operationnelle-en.html)  
 *Source : globalsecuritymag.fr | Publication : 2025-09-30*
