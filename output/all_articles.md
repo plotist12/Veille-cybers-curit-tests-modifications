@@ -1,5 +1,146 @@
-# Résumés – 2025-10-01
+# Résumés – 2025-10-02
 
+
+## [20 octobre 2025 Paris Matinale du CyberCercle : Projet de loi résilience des infrastructures ...](https://www.globalsecuritymag.fr/20-octobre-2025-paris-matinale-du-cybercercle-projet-de-loi-resilience-des.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-02*
+
+- 20 octobre 2025 Paris Matinale du CyberCercle : Projet de loi résilience des infrastructures critiques et renforcement de la cybersécurité octobre 2025 par LA REDACTION DE GS MAG Bénédicte PILLIET, Présidente du CyberCercle, serait ravie de vous retrouver dans notre Matinale du lundi 20 octobre 2025 pour un échange qu’elle aura le plaisir d’animer autour du Projet de loi résilience des infrastructures critiques et renforcement de la cybersécurité.
+- avec Olivier CADIC Sénateur représentant les Français établis hors de France Président de la commission spéciale sur le PJL Résilience du Sénat & Philippe LATOMBE, député de Vendée Président de la commission spéciale sur le PJL Résilience de l’Assemblée Nationale Une occasion privilégiée, dans un format restreint et sous les règles de Chatham House, de faire un point de situation sur un texte législatif majeur sur la sécurité numérique, d’échanger en confiance et de dresser des perspectives sur l’après.
+
+## [Quelles conséquences suite au shutdown | Fin de la pub politique sur Meta - L'Echo](https://www.lecho.be/podcast/le-brief/quelles-consequences-suite-au-shutdown-fin-de-la-pub-politique-sur-meta-fusion-dans-la-cybersecurite-belge-votre-podcast-matinal-est-pret/10629423.html)  
+*Source : lecho.be | Publication : 2025-10-02*
+
+- Quelles conséquences suite au shutdown | Fin de la pub politique sur Meta - L'Echo.
+
+## [Toulouse : le CBC 2025 mobilise 3500 experts autour des enjeux <b>cybersécurité</b> - OCCITANIE tribune](https://www.occitanie-tribune.com/amp/53979/toulouse-toulouse-le-cbc-mobilise-experts-autour-des-enjeux-cybersecurite)  
+*Source : occitanie-tribune.com | Publication : 2025-10-02*
+
+- Toulouse - Toulouse : le CBC 2025 mobilise 3500 experts autour des enjeux cybersécurité Alexandra Bourgeois Les 26 et 27 novembre prochains, le Cybersecurity Business Convention (CBC) rassemblera au MEETT à Toulouse plus de 3 500 visiteurs, 220 exposants et 80 conférences consacrées à la sécurité numérique.
+- Devenu un rendez-vous incontournable en Occitanie, l’événement met en ligne son programme et ouvre dès à présent ses inscriptions gratuites.
+- Un événement stratégique pour les entreprises d’Occitanie Fortement ancré dans l’écosystème toulousain, le CBC 2025 mobilise à la fois les grands acteurs internationaux de la cybersécurité et les entreprises locales.
+- L’événement est aussi l’occasion de valoriser l’innovation régionale et de renforcer l’attractivité économique de l’Occitanie.
+
+## [Lockbit est de retour en force avec une 5e version de son <b>ransomware</b> - 01net.com](https://www.01net.com/actualites/lockbit-retour-force-5e-version-ransomware.html)  
+*Source : 01net.com | Publication : 2025-10-02*
+
+- Une nouvelle variante de Lockbit a été débusquée.
+- Cette cinquième itération du célèbre ransomware a été identifiée par les chercheurs de Trend Micro, une société japonaise de cybersécurité.
+- Le gang Lockbit, considéré comme le roi de l’extorsion par ransomware, s’est progressivement remis de l’opération policière qui a cloué au sol une partie de son infrastructure l’an dernier.
+- En dépit des efforts des forces de l’ordre, qui avaient mis la main sur des clés de déchiffrement, Lockbit a graduellement relancé ses activités et développé une nouvelle version de son virus.
+
+## [Secrets de Stars - Ep 2 - Sonny Anderson - Téléfoot - TF1.fr](https://www.tf1.fr/tf1/telefoot/videos/secrets-de-stars-ep-2-sonny-anderson-73290892.html)  
+*Source : tf1.fr | Publication : 2025-10-02*
+
+- Secrets de Stars - Ep 2 - Sonny Anderson Nouveau podcast de Secrets de stars !.
+- Yassin Nfaoui tend le micro à Sonny Anderson, ancien joueur et maintenant consultant sur la chaine BeIn Sports !.
+- Attaquant parmi les plus grands, le Brésilien nous raconte toutes les coulisses de sa carrière dans ses différents clubs : Servette, Monaco, Marseille, Lyon, Barcelone !.
+- Il raconte tout dans un super échange d’une heure !.
+
+## [Maria Iacono, Les Assises - Le rôle des CISO est devenu central - Silicon.fr](https://www.silicon.fr/videos/video-maria-iacono-les-assises-le-role-des-ciso-est-devenu-central-dans-lentreprise)  
+*Source : silicon.fr | Publication : 2025-10-02*
+
+- Extraits de l’interview de Maria Iacono Silicon – Quels vont être les temps forts de cette 25ème édition des Assises ?.
+- Maria Iacono – Pour cette 25ème édition, on a voulu marquer le coup avec un thème fort, qui n’a pas été choisi à la dernière minute, mais qui s’est construit petit à petit tout au long de l’année avec la communauté.
+- Les Assises, ce n’est pas juste un événement en octobre : il y a tout un travail de préparation en amont.
+- Et cette année, le thème, c’est “Futurs”, avec un S à la fin, en majuscule.
+
+## [Clop menace de publier des données de clients Oracle E-Business Suite](https://www.lemondeinformatique.fr/actualites/lire-clop-menace-de-publier-des-donnees-de-clients-oracle-e-business-suite-98056.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-10-02*
+
+- Bluff ou réalité ?.
+- Le groupe derrière le ransomware Clop mène une campagne d'extorsion sur les clients de la suite e-business d'Oracle.
+- Des e-mails menaçants ont été adressés aux sociétés, mais aucune preuve d’exploitation par ces pirates n’est confirmée d’après les chercheurs en sécurité de Mandiant et de Google Threat Intelligence Group (GTIG).
+- « Cette activité a commencé le 29 septembre 2025 ou avant, mais les experts de Mandiant en sont encore aux premières étapes de multiples enquêtes et n'ont pas encore corroboré les affirmations de ce groupe », a expliqué Genevieve Stark, responsable de l'analyse du renseignement sur la cybercriminalité et les opérations d'information au GTIG.
+
+## [Bitdefender choisit OVHcloud pour l'hébergement souverain de sa plateforme de <b>cybersécurité</b>](https://www.usine-digitale.fr/article/bitdefender-choisit-ovhcloud-pour-l-hebergement-souverain-de-sa-plateforme-de-cybersecurite.N2238803)  
+*Source : usine-digitale.fr | Publication : 2025-10-02*
+
+- Verifying your browser before proceeding.
+- Incident ID: 7477a9ea-cyai-4fe8-8123-6d43723c6bf8.
+
+## [[<b>Cybersécurité</b>] Directive NIS 2 : collectivités territoriales, êtes-vous prêtes ? - YouTube](https://www.youtube.com/watch?v=buOTHX2J8Oc)  
+*Source : youtube.com | Publication : 2025-10-02*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [<b>Cybersécurité</b> : Éléna Poincet, cofondatrice et ex-PDG de Tehtris, est limogée - Next.ink](https://next.ink/brief_article/cybersecurite-elena-poincet-cofondatrice-et-ex-pdg-de-tehtris-est-limogee/)  
+*Source : next.ink | Publication : 2025-10-02*
+
+- Cybersécurité : Éléna Poincet, cofondatrice et ex-PDG de Tehtris, est limogée 3 min Économie Next C’est via un communiqué de presse des plus succincts que l’annonce a été faite : « Tehtris, éditeur européen et pionnier de l’automatisation de la cybersécurité, annonce aujourd’hui une évolution de sa gouvernance »… et pas un petit changement.
+- Éléna Poincet, cofondatrice et ancienne présidente-directrice générale, quitte ses fonctions sur le champ.
+- « Le conseil d’administration et les actionnaires la remercient pour son rôle décisif dans la création et le développement » de l’entreprise, précise quand même le communiqué.
+- Elle est remplacée par deux personnes, un changement de gouvernance qui n’est pas sans rappeler celui d’Orange après le départ de Stéphane Richard en 2022.
+
+## [&quot;Les Assises de la <b>cybersécurité</b> mettront l'accent sur les sujets de confiance numérique, d ...](https://www.journaldunet.com/cybersecurite/1544933-les-assises-de-la-cybersecurite-mettront-l-accent-sur-les-sujets-de-confiance-numerique-d-independance-et-de-protection-des-donnees/)  
+*Source : journaldunet.com | Publication : 2025-10-02*
+
+- Maria Iacono (Les Assises de la cybersécurité) "Les Assises de la cybersécurité mettront l'accent sur les sujets de confiance numérique, d'indépendance et de protection des données" La directrice des Assises de la cybersécurité précise le fil rouge de la 25e édition de l'événement qui se tiendra à Monaco entre le 8 et le 11 octobre 2025.
+- JDN.
+- Pourquoi avoir choisi le thème "FuturS, la cybersécurité au service des métiers et de la création de valeurs" pour cette édition 2025 des Assises de la cybersécurité ?.
+- Maria Iacono.
+
+## [Chine: des pirates informatiques accusés d'avoir infiltré des messageries de plusieurs ...](https://www.bfmtv.com/tech/actualites/cybersecurite/chine-des-pirates-informatiques-accuses-d-avoir-infiltre-des-messageries-de-plusieurs-ministres-des-affaires-etrangeres_AN-202510020645.html)  
+*Source : bfmtv.com | Publication : 2025-10-02*
+
+- Chine: des pirates informatiques accusés d’avoir infiltré des messageries de plusieurs ministres des Affaires étrangères Un nouveau piratage de ministres des Affaires étrangères.
+- Selon une enquête récente de "l’Unité 42", la division de renseignement sur les cybermenaces de Palo Alto Networks, une entreprise de cybersécurité, des pirates informatiques chinois ont réussi à infiltrer les serveurs de messagerie de plusieurs ministres des Affaires étrangères.
+- L’opération, qui s’étend sur plusieurs années, semble destinée à espionner les communications diplomatiques à l’échelle mondiale.
+- Les pirates ont pris le contrôle des serveurs Microsoft Exchange, ce qui leur a permis d’accéder à des échanges confidentiels au sein de certains ministères des Affaires étrangères.
+
+## [Formation à distance en <b>cybersécurité</b>: nouvelle initiative romande certifiée eduQua](https://www.ictjournal.ch/news/2025-10-02/formation-a-distance-en-cybersecurite-nouvelle-initiative-romande-certifiee-eduqua)  
+*Source : ictjournal.ch | Publication : 2025-10-02*
+
+- Formation à distance en cybersécurité: nouvelle initiative romande certifiée eduQua Une formation de 90 heures en cybersécurité, accessible en ligne, est désormais proposée aux professionnels IT, jeunes et demandeurs d’emploi en Suisse.
+- Ce programme est le fruit d’un partenariat entre Almond Suisse et Skill & You. Almond Suisse, entreprise spécialisée en cybersécurité, et l’organisme de formation Skill & You Suisse annoncent le lancement d’un nouveau programme de formation en ligne intitulé «Cybersécurité opérationnelle appliquée en entreprise».
+- Proposée depuis le 30 septembre 2025, cette offre vise à répondre à la demande croissante de profils qualifiés dans le domaine de la cybersécurité en Suisse, selon l’annonce des deux entreprises partenaires.
+- D’une durée de 90 heures et dispensée en français, la formation s’adresse principalement aux informaticiens souhaitant monter en compétences.
+
+## [Microsoft lance son Security Store - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/63934-microsoft-lance-son-security-store.html)  
+*Source : linformaticien.com | Publication : 2025-10-02*
+
+- Cette plateforme doit permettre aux professionnels de la cybersécurité de trouver, acheter et déployer rapidement des solutions SaaS et des agents.
+
+## [&quot;Mastercard a investi 10,7 milliards de dollars dans la <b>cybersécurité</b> depuis 2018&quot; - JDN](https://www.journaldunet.com/cybersecurite/1544931-hendrik-bourgeois-mastercard/)  
+*Source : journaldunet.com | Publication : 2025-10-02*
+
+- Hendrik Bourgeois (Mastercard) "Mastercard a investi 10,7 milliards de dollars dans la cybersécurité depuis 2018" Alors que le Mastercard Innovation Forum aura lieu le 9 octobre, Hendrik Bourgeois, directeur des affaires gouvernementales en Europe chez Mastercard, revient sur la politique globale de l'entreprise en termes de cybersécurité.
+- JDN.
+- Vous aborderez la thématique "Confiance et cybersécurité : vers un numérique résilient" lors du Mastercard Innovation Forum.
+- Pourquoi ce sujet est-il si crucial ?.
+
+## [Le cybermoi/s, le mois européen de la <b>cybersécurité</b> - Police nationale](https://www.police-nationale.interieur.gouv.fr/actualite/cybermois-mois-europeen-de-cybersecurite)  
+*Source : police-nationale.interieur.gouv.fr | Publication : 2025-10-02*
+
+- Pilotée par cybermalveillance.gouv.fr, cette initiative européenne est l'occasion de sensibiliser les citoyens aux cybermenaces et à promouvoir les.
+
+## [Cyberattaque au Sénégal : la DGID visée par le groupe Black Shrantac - ZATAZ](https://www.zataz.com/cyberattaque-au-senegal-la-dgid-visee-par-le-groupe-black-shrantac/)  
+*Source : zataz.com | Publication : 2025-10-02*
+
+- Cyberattaque au Sénégal : la DGID visée par le groupe Black Shrantac Les pirates annoncent avoir volé 1 To de données fiscales et administratives au cœur du système fiscal sénégalais.
+- L’attaque soulève des enjeux critiques de cybersécurité nationale.
+- La Direction Générale des Impôts et des Domaines (DGID) du Sénégal a été la cible d’une cyberattaque revendiquée par le groupe Black Shrantac, nouvel acteur apparu sur la scène internationale avec déjà trois attaques en Inde et en Turquie.
+- Les pirates affirment avoir exfiltré un volume considérable de données sensibles, estimé à un téraoctet.
+
+## [A la tête du Campus cyber, Farida Poulain devra relancer ce totem de la <b>cybersécurité</b> voulu ...](https://www.usinenouvelle.com/article/a-la-tete-du-campus-cyber-farida-poulain-devra-relancer-ce-totem-de-la-cybersecurite-voulu-par-e-macron.N2238586)  
+*Source : usinenouvelle.com | Publication : 2025-10-02*
+
+- A la tête du Campus cyber, Farida Poulain devra relancer ce totem de la cybersécurité voulu par E.Macron Actuelle directrice des programmes de l’incubateur Cyber Booster, Farida Poulain a été nommée la 29 septembre Directrice générale du Campus Cyber, lieu stratégique de la cybersécurité française.
+- Elle fera équipe avec Joffrey Célestin Urbain, nommé il y a six mois président du Campus Cyber.
+- Pauline Bandelier \ 15h30 Nommée Directrice générale du Campus Cyber le 29 septembre, Farida Poulain est déjà familière des lieux.
+- Depuis deux ans, celle qui a commencé sa carrière chez BNP Paribas dirigeait le Cyber Booster, un incubateur destiné à l’accompagnement et au financement des initiatives entrepreneuriales pour faire émerger les futurs leaders européens de la cybersécurité.
+
+## [<b>Cybersécurité</b> : Open Fiber, Cisco et ThinkQuantum s'unissent contre les attaques quantiques](https://www.firstonline.info/fr/Cisco-et-ThinkQuantum-s'unissent-pour-lutter-contre-les-attaques-quantiques-grâce-à-la-cybersécurité-de-la-fibre-ouverte/amp/)  
+*Source : firstonline.info | Publication : 2025-10-02*
+
+- La La cyber-sécurité parvient à dominer le menace quantiqueLes dernières innovations cybernétiques développées par Fibre ouverte, Cisco e Pensez.
+
+## [Bitdefender s'associe à OVHcloud pour une <b>cybersécurité</b> souveraine - EasyBourse](https://www.easybourse.com/international/news/1516305/bitdefender-associe-ovhcloud-pour-une-cybersecurite-souveraine.html)  
+*Source : easybourse.com | Publication : 2025-10-02*
+
+- (Zonebourse.com) - Bitdefender annonce un accord avec OVHcloud pour héberger sa plateforme GravityZone sur l'infrastructure SecNumCloud en France.
+- Cette offre garantit que les données restent dans l'Union européenne et répond aux exigences de conformité (RGPD, NIS2, DORA).
+- La solution inclut protection des terminaux, détection et réponse aux menaces (EDR, XDR) et services managés (MDR), adaptée aux secteurs sensibles comme la finance, la santé ou l'énergie.OVHcloud, certifié par l'ANSSI, assure un hébergement exempt de lois extraterritoriales.
+- Selon Andrei Florescu, président de Bitdefender Business Solutions, ce partenariat permet aux entreprises de 'garder le contrôle total sur leurs données' tout en renforçant leur cybersécurité.Ce partenariat intervient dans un contexte de pressions réglementaires accrues en Europe, alors qu'une enquête Bitdefender révèle que 35% des professionnels IT en France ont subi des pressions pour taire des incidents de cybersécurité.
 
 ## [Mois de la <b>cybersécurité</b> : aller au-delà de la sensibilisation - ITRnews](https://itrnews.com/articles/207384/mois-de-la-cybersecurite-aller-au-dela-de-la-sensibilisation.html)  
 *Source : itrnews.com | Publication : 2025-10-01*
