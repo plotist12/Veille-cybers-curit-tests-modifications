@@ -1,5 +1,163 @@
-# Résumés – 2025-10-02
+# Résumés – 2025-10-03
 
+
+## [Qohash assure la visibilité et le contrôle des données sensibles des Métiers.](https://www.globalsecuritymag.fr/qohash-assure-la-visibilite-et-le-controle-des-donnees-sensibles-des-metiers.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-03*
+
+- Qohash assure la visibilité et le contrôle des données sensibles des Métiers.
+- octobre 2025 par Valentin Jangwa, Global Security Mag Guy Veilleux, Cofondateur et Vice-Président des Ventes, Qohash, a accordé un entretien à Global Security Mag, à quelques jours de la 25ème édition des Assises de la cybersécurité qui se dérouleront à Monaco, du 8 au 11 octobre 2025.
+- Global Security Mag : Quelle sera votre actualité lors des Assises de la Cybersécurité 2025 ?.
+- Guy Veilleux : Qohash, éditeur canadien à succès en Amérique du Nord spécialisé dans la protection de la donnée non structurée, sera présent pour la première fois aux Assises 25.
+
+## [Forum Incyber Canada | 4000 personnes réunies à Montréal pour discuter de <b>cybersécurité</b>](https://www.985fm.ca/audio/728139/4000-personnes-reunies-a-montreal-pour-discuter-de-cybersecurite)  
+*Source : 985fm.ca | Publication : 2025-10-03*
+
+- Près de 4000 personnes seront réunies en fin de semaine au palais des congrès de Montréal dans le cadre du forum Incyber Canada.
+- L'événement réunira des membres des Forces armées canadiennes, de la police fédérale-provinciale, des centres nationaux de cybersécurité, des ministres ainsi que des leaders internationaux.
+- Daniel Blanc, expert en cybersécurité et directeur général du Forum in Cyber Canada, souligne que l'an dernier, le Canada a perdu 638 millions de dollars en raison de ces attaques.
+- Écoutez la discussion entre Daniel Blanc et Philippe Cantin, vendredi, à l'émission Le Québec maintenant.
+
+## [<b>Ransomwares</b> : l'arme secrète de Google Drive pour stopper l'attaque avant qu'il ne soit trop tard](https://www.01net.com/actualites/ransomwares-larme-secrete-de-google-drive-pour-stopper-lattaque-avant-quil-ne-soit-trop-tard.html)  
+*Source : 01net.com | Publication : 2025-10-03*
+
+- Le ransomware, cette plaie numérique qui paralyse les entreprises et les particuliers, vient de se heurter à un nouvel adversaire de taille.
+- Google, avec sa récente annonce, lance un véritable « piège » basé sur l’intelligence artificielle directement intégré à Google Drive pour ordinateur (Windows et macOS).
+- Plutôt qu’une simple restauration, la firme de Mountain View veut couper l’herbe sous le pied des cybercriminels, juste après qu’ils ont réussi à contourner les premières défenses.
+- On le sait, les attaques par rançongiciel sont plus que jamais dévastatrices.
+
+## [Azul optimise Java à l'échelle : des JVM collaborent et partagent des optimisations - it social](https://itsocial.fr/logiciel-agilite/logiciel-agilite-actualites/azul-optimise-java-a-lechelle-des-jvm-collaborent-et-partagent-des-optimisations/)  
+*Source : itsocial.fr | Publication : 2025-10-03*
+
+- Le californien Azul introduit un mécanisme collaboratif inédit entre JVM, permettant aux flottes d’applications Java cloud-native de démarrer plus vite, de monter en charge de façon fluide et de réduire de plus de 20 % leur consommation cloud.
+- Sa technologie Optimizer Hub transforme les contraintes des environnements conteneurisés en gains de performance immédiats.
+- Dans les architectures modernes, où les applications critiques reposent souvent sur des microservices Java, la réactivité ne se limite plus à la vitesse d’exécution.
+- Le redémarrage rapide, la capacité à absorber des pics de charge et l’optimisation des coûts du cloud deviennent des priorités absolues.
+
+## [Conférence <b>cybersécurité</b> Langeac - Actualité illiwap de Mairie de Mazeyrat-d'Allier](https://station.illiwap.com/fr/public/43132/actu/conference-cybersecurite-langeac-1)  
+*Source : station.illiwap.com | Publication : 2025-10-03*
+
+- Conférence cybersécurité Langeac Bonjour, Face à la multiplication des arnaques en ligne et des sollicitations abusives, France Services vous propose une conférence dédiée à la cybersécurité le Vendredi 10 octobre 2025 à 14 heures à la médiathèque de Langeac.
+- Au programme : Comprendre les risques liés aux SMS frauduleux, mails piégés ou appels téléphoniques abusifs, apprendre à repérer les signaux d'alerte et adopter les bons réflexes face aux tentatives d'escroquerie.
+- Conférence ouverte à tous et gratuite.
+- Face à la multiplication des arnaques en ligne et des sollicitations abusives, France Services vous propose une conférence dédiée à la cybersécurité le Vendredi 10 octobre 2025 à 14 heures à la médiathèque de Langeac.
+
+## [<b>Cybersécurité</b> et prévention : un terrain de jeu pour les fraudeurs, la SQ met en garde les citoyens](https://vingt55.ca/cybersecurite-et-prevention-un-terrain-de-jeu-pour-les-fraudeurs-la-sq-met-en-garde-les-citoyens-de-drummondville/)  
+*Source : vingt55.ca | Publication : 2025-10-03*
+
+- La Sûreté du Québec (SQ), tant au niveau provincial que dans la MRC de Drummond, lance un appel à la vigilance en ce mois d’octobre consacré à la sensibilisation à la cybersécurité.
+- Trop souvent, des citoyens de Drummondville et de la région rapportent avoir perdu des sommes importantes après avoir été victimes de stratagèmes frauduleux en ligne.
+- Cybersécurité : protéger nos proches et nos aînés, un défi collectif rappelé par la SQ @ Crédit photo Eric Beaupré / Vingt55 Tous droits réservés.
+- Les fraudeurs, bien conscients que « le terrain de jeu » s’est déplacé du réel vers le virtuel, multiplient leurs attaques en exploitant les nouvelles technologies, notamment l’intelligence artificielle (IA).
+
+## [Woustviller. <b>Cybersécurité</b> et prévention routière avec la gendarmerie](https://www.republicain-lorrain.fr/education/2025/10/03/cybersecurite-et-prevention-routiere-avec-la-gendarmerie)  
+*Source : republicain-lorrain.fr | Publication : 2025-10-03*
+
+- Woustviller Cybersécurité et prévention routière avec la gendarmerie Un atelier de prévention et d’information avec des intervenants spécialisés de la gendarmerie est organisé le mardi 7 octobre, à la salle W de Woustviller, de... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteLe Républicain Lorrain, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Républicain Lorrain, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant LRLCLIENTS@republicain-lorrain.fr ou consulter les liens suivants : Protection des données, CGU du site et Contact.
+
+## [<b>Cybersécurité</b> : protéger nos proches et nos aînés, un défi collectif rappelé par la SQ](https://vingt55.ca/cybersecurite-proteger-nos-proches-et-nos-aines-un-defi-collectif-rappele-par-la-sq/)  
+*Source : vingt55.ca | Publication : 2025-10-03*
+
+- La Sûreté du Québec (SQ), tant au niveau provincial que dans la MRC de Drummond, lance un appel à la vigilance en ce mois d’octobre consacré à la sensibilisation à la cybersécurité.
+- Trop souvent, des citoyens de Drummondville et de la région rapportent avoir perdu des sommes importantes après avoir été victimes de stratagèmes frauduleux en ligne.
+- Cybersécurité : protéger nos proches et nos aînés, un défi collectif rappelé par la SQ @ Crédit photo Eric Beaupré / Vingt55 Tous droits réservés.
+- Les fraudeurs, bien conscients que « le terrain de jeu » s’est déplacé du réel vers le virtuel, multiplient leurs attaques en exploitant les nouvelles technologies, notamment l’intelligence artificielle (IA).
+
+## [Cyberattaques, <b>ransomware</b>... : le FBI offre 274 millions de dollars pour débusquer 42 pirates](https://www.01net.com/actualites/cyberattaques-ransomware-fbi-offre-274-millions-dollars-debusquer-42-pirates.html)  
+*Source : 01net.com | Publication : 2025-10-03*
+
+- Une étude réalisée par Surfshark révèle que le FBI dépense des millions de dollars pour obtenir des informations sur les cybercriminels les plus recherchés.
+- En échange d’informations susceptibles de mener à des arrestations, la police fédérale américaine promet 274 millions de dollars de récompenses.
+- En proposant des montants très élevés, le FBI espère inciter des complices, des informateurs ou des partenaires à dénoncer les cybercriminels auprès de ses services.
+- À lire aussi : Alerte au ransomware – les hackers d’Interlock multiplient les cyberattaques, alerte le FBI 3,4 milliards de dollars de pertes Ces récompenses concernent 42 des 133 personnes les plus recherchées par le FBI.
+
+## [Tunisie Telecom : un acteur de confiance au service de la <b>cybersécurité</b> et ... - La Presse de Tunisie](https://lapresse.tn/2025/10/03/tunisie-telecom-un-acteur-de-confiance-au-service-de-la-cybersecurite-et-de-la-souverainete-numerique-du-pays/)  
+*Source : lapresse.tn | Publication : 2025-10-03*
+
+- Dans un contexte mondial marqué par l’accélération du numérique et la multiplication des cybermenaces, la sécurité des données et la souveraineté numérique s’imposent comme des enjeux stratégiques pour les entreprises, les institutions et les citoyens.
+- Consciente de cette réalité, Tunisie Telecom poursuit son engagement à bâtir un écosystème numérique sûr, fiable et aligné sur les meilleurs standards internationaux.
+- Des certifications de référence qui renforcent la confiance Au cours des derniers mois, Tunisie Telecom a obtenu plusieurs distinctions internationalesattestant de la robustesse de ses systèmes et de la qualité de ses services : Le Data Center Carthage a été certifié selon les normes ISO 27001, ISO 27701 et ISO 9001, garantissant la sécurité des données, la protection de la vie privée et un haut niveau de qualité pour les services hébergés.
+- La Direction de la Relation Clients (DRC) a obtenu la certification internationale ISO/IEC 27001:2022 pour son Système de Management de la Sécurité de l’Information (SMSI), confirmant l’engagement de l’opérateur à protéger les données sensibles de ses abonnés et partenaires.
+
+## [NETGEAR lance Exium - Global Security Mag Online](https://www.globalsecuritymag.fr/netgear-lance-exium.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-03*
+
+- NETGEAR lance Exium octobre 2025 par LA REDACTION DE GS MAG NETGEAR®, Inc. annonce le lancement d’une solution de sécurité sur mesure dédiée aux PME.
+- À la suite d’une acquisition réalisée en début d’année, NETGEAR propose Exium.
+- Seule solution du secteur réunissant Secure Access Service Edge (SASE) et pare-feu hybride elle a été spécialement conçue pour les PME et les fournisseurs de services managés (MSP) qui les accompagnent.
+- Dévoilée à l’occasion du mois de sensibilisation à la cybersécurité, cette solution de sécurité et de connectivité est désormais disponible pour les entreprises du monde entier.
+
+## [ZDNet France : un média de confiance pour suivre l'actualité IT - Doctissimo](https://www.doctissimo.fr/forme/zdnet-france-un-media-de-confiance-pour-suivre-lactualite-it-413520.htm)  
+*Source : doctissimo.fr | Publication : 2025-10-03*
+
+- Qu’est-ce que ZDNet France ?.
+- ZDNet France publie brèves, enquêtes et retours d’expérience sur le cloud, les logiciels, la cybersécurité et les télécoms.
+- La rubrique des actualités suit en temps réel les changements majeurs.
+- Pourquoi fait-il référence ?.
+
+## [ZDNet France : un repère pour la veille IT et la <b>cybersécurité</b> - Maison &amp; Travaux](https://www.maison-travaux.fr/actualites/zdnet-france-un-repere-pour-la-veille-it-et-la-cybersecurite-599628.html)  
+*Source : maison-travaux.fr | Publication : 2025-10-03*
+
+- Qu’est-ce que ZDNet France ?.
+- Avec ZDNet France, les organisations disposent d’une source fiable pour comprendre les mutations technologiques.
+- Le site propose un équilibre entre actualités quotidiennes et dossiers approfondis.
+- Le flux des actualités technologiques couvre incidents critiques, annonces logicielles et tendances de marché.
+
+## [Pourquoi l'épuisement professionnel est un problème croissant dans le domaine de la <b>cybersécurité</b>](https://www.bbc.com/afrique/articles/c5yv877rr93o?at_medium=RSS&at_campaign=rss)  
+*Source : bbc.com | Publication : 2025-10-03*
+
+- Pourquoi l'épuisement professionnel est un problème croissant dans le domaine de la cybersécurité Author, Joe Fay - Role, Technology Reporter - L'année dernière, Tony a été licencié pour épuisement professionnel de son poste de sensibilisation à la cybersécurité au sein d'une grande entreprise britannique de commerce électronique.
+- "Beaucoup d'entre nous, dans le domaine de la cybersécurité, s'investissent à fond dans leur travail.
+- Il y a beaucoup de passion en jeu".
+- Il avait de plus en plus de mal à dormir et à se rendre au bureau.
+
+## [ZDNet France : accompagner les décideurs IT face aux enjeux numériques - Science et vie](https://www.science-et-vie.com/junior/zdnet-france-accompagner-les-decideurs-it-face-aux-enjeux-numeriques-214258.html)  
+*Source : science-et-vie.com | Publication : 2025-10-03*
+
+- ZDNet France : accompagner les décideurs IT face aux enjeux numériques ZDNet France fournit une information claire et stratégique aux décideurs.
+- Le site met la cybersécurité et la transformation numérique au centre de ses contenus.
+- Qu’est-ce que ZDNet France ?.
+- Le site ZDNet France couvre l’ensemble du spectre IT : cloud, sécurité, IA, logiciels, télécoms.
+
+## [ZDNet France, actualité IT et <b>cybersécurité</b> pour les pros - Les Numériques](https://www.lesnumeriques.com/societe-numerique/zdnet-france-decrypter-la-transformation-numerique-et-la-cybersecurite-na243320.html)  
+*Source : lesnumeriques.com | Publication : 2025-10-03*
+
+- ZDNet France : décrypter la transformation numérique et la cybersécurité Avec ses analyses et ses guides, ZDNet France accompagne les entreprises dans leur transformation numérique.
+- Le site couvre les tendances IT, la cybersécurité et les innovations, pour éclairer les choix stratégiques.
+- Qu’est-ce que ZDNet France ?.
+- ZDNet France fournit aux décideurs une information fiable sur le numérique.
+
+## [<b>Cybersécurité</b>, le facteur humain en est-il le centre de gravité ? - IRIS](https://www.iris-france.org/cybersecurite-le-facteur-humain-en-est-il-le-centre-de-gravite/)  
+*Source : iris-france.org | Publication : 2025-10-03*
+
+- Notes / Observatoire de l’information et des stratégies d’influence 3 octobre 2025 Cybersécurité, le facteur humain en est-il le centre de gravité ?.
+- « En mai 2024, plusieurs assistants parlementaires européens ont été ciblés par une campagne d’ingénierie sociale particulièrement sophistiquée.
+- Des cyberdélinquants ont utilisé de faux profils LinkedIn très bien construits pour entrer en relation avec ces collaborateurs, leur proposer des opportunités professionnelles valorisantes, et in fine les inciter à ouvrir des documents piégés ou à divulguer des informations sensibles.
+- Un cas d’école avec un mode opératoire 100 % cognitif, une finalité entre enjeux politiques et économiques et une exploitation directe de l’empreinte numérique des cibles.
+
+## [Le Cybermoi/s, c'est parti ! (du 1er au 31 octobre 2025) | Académie de Dijon](https://www.ac-dijon.fr/le-cybermois-c-est-parti-du-1er-au-31-octobre-2025-132183)  
+*Source : ac-dijon.fr | Publication : 2025-10-03*
+
+- La cybersécurité est désormais un enjeu citoyen et collectif, et est l'affaire de tous.
+- En effet, les cybermenaces deviennent de plus en plus.
+
+## [Le Guide <b>Cybersécurité</b> 2025-2026 est disponible en précommande](https://www.solutions-numeriques.com/le-guide-cybersecurite-2025-2026-est-disponible-en-precommande/)  
+*Source : solutions-numeriques.com | Publication : 2025-10-03*
+
+- C’est le rendez-vous annuel attendu par tous les décideurs du secteur.
+- La 9ème édition du Guide Cybersécurité, l’annuaire de référence de l’écosystème, est officiellement lancée en précommande.
+- Prévue pour le 8 octobre 2025, cette nouvelle édition s’annonce comme l’outil indispensable pour naviguer dans un paysage transformé par les nouvelles réglementations européennes et la sophistication croissante des menaces.
+- Chaque année, la parution du Guide Cybersécurité marque un temps fort pour les professionnels cherchant à organiser leur stratégie.
+
+## [Japon: la pénurie de bières Asahi, due à une cyber attaque, dernier symptôme en date d ...](https://www.bfmtv.com/tech/cybersecurite/japon-la-penurie-de-bieres-asahi-due-a-une-cyberattaque-n-est-que-le-symptome-d-une-cybersecurite-en-retard_AN-202510030569.html)  
+*Source : bfmtv.com | Publication : 2025-10-03*
+
+- Japon: la pénurie de bières Asahi, due à une cyber attaque, dernier symptôme en date d’une cybersécurité en retard Si la bière ne coule plus à flot au pays du Soleil Levant, les virus informatiques, eux, circulent en toute liberté.
+- Le Japon fait face à une pénurie imminente d’Asahi Super Dry, la bière la plus populaire du pays, après une cyberattaque qui a forcé le géant brassicole à fermer la majorité de ses trente usines nationales depuis lundi.
+- L’incident a totalement désactivé les systèmes de commande et de livraison, entraînant un arrêt quasi-total de la production, sans date annoncée pour un retour à la normale.
+- Mais derrière cette histoire qui peut paraître drôle sur le moment, “la faillite des systèmes de sécurité informatique” provoque l’ire des Japonais.
 
 ## [20 octobre 2025 Paris Matinale du CyberCercle : Projet de loi résilience des infrastructures ...](https://www.globalsecuritymag.fr/20-octobre-2025-paris-matinale-du-cybercercle-projet-de-loi-resilience-des.html)  
 *Source : globalsecuritymag.fr | Publication : 2025-10-02*
