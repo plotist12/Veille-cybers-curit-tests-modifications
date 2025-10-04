@@ -1,5 +1,156 @@
-# Résumés – 2025-10-03
+# Résumés – 2025-10-04
 
+
+## [LES ATTAQUES INFORMATIQUES, UN ELECTROCHOC POUR LE SENEGAL - SenePlus](https://www.seneplus.com/opinions/les-attaques-informatiques-un-electrochoc-pour-le-senegal)  
+*Source : seneplus.com | Publication : 2025-10-04*
+
+- Pour les organisations publiques comme privées, la cybersécurité doit cesser d'être une simple tâche technique : elle doit devenir un enjeu.
+
+## [Norton n'est plus un simple antivirus : sa formule 360 Deluxe va bien plus loin (-61%)](https://www.presse-citron.net/norton-nest-plus-un-simple-antivirus-sa-formule-360-deluxe-va-bien-plus-loin-61/)  
+*Source : presse-citron.net | Publication : 2025-10-04*
+
+- Si vous cherchez un antivirus efficace pour protéger tous vos appareils contre les cybermenaces, Norton propose justement sa meilleure offre à prix cassé en ce moment.
+- La formule Norton 360 Deluxe dvanced est effectivement affichée au tarif promotionnel de 39,99 euros la première année, contre 104,99 euros.
+- Soit une remise de 61%.
+- Cette protection avancée ne vous revient ainsi qu’à seulement 3,33 euros par mois, au lieu de 8,74 euros.
+
+## [Éduquer les enfants, c'est éduquer les parents - ZATAZ](https://www.zataz.com/eduquer-les-enfants-cest-eduquer-les-parents/)  
+*Source : zataz.com | Publication : 2025-10-04*
+
+- Éduquer les enfants, c’est éduquer les parents Un clip musical engagé, créé par ZATAZ pour le Cybermois 2025, rappelle que la première défense des enfants en ligne commence… à la maison.
+- ZATAZ poursuit son exploration inédite du lien entre culture et cybersécurité.
+- Après un premier album aux accents RnB, pop rock et rap, l’équipe du média lance un second opus.
+- Le single de lancement, sorti en octobre 2025, met en lumière un thème crucial : la protection des enfants sur Internet.
+
+## [Le rush sur la <b>cybersécurité</b> et l'IA au Salon de l'étudiant de Vannes | Le Télégramme](https://www.letelegramme.fr/morbihan/vannes-56000/le-rush-sur-la-cybersecurite-et-lia-au-salon-de-letudiant-de-vannes-6902975.php)  
+*Source : letelegramme.fr | Publication : 2025-10-04*
+
+- Les formations en cybersécurité et IA ont le vent en poupe !.
+- Samedi, c’était le rush sur le stand de l’UBS au Salon de l’étudiant, qui se tenait au parc Chorus, à Vannes.
+- Le Salon de l’étudiant a fait le plein, ce samedi 4 octobre, au parc Chorus, à Vannes.
+- Parmi les formations proposées, celles relatives à la cybersécurité et à l’intelligence artificielle ont été prises d’assaut.
+
+## [Cyberattaque contre la Dgid, un signal d'alarme pour la résilience numérique du Sénégal](https://lequotidien.sn/cyberattaque-contre-la-dgid-un-signal-dalarme-pour-la-resilience-numerique-du-senegal/)  
+*Source : lequotidien.sn | Publication : 2025-10-04*
+
+- L’annonce d’une «panne technique» à la Dgid, le 2 octobre, cache une réalité plus grave : une attaque informatique ciblée, revendiquée par le groupe de hackers Black Shrantac.
+- Ce collectif cybercriminel, spécialisé dans le vol de données sensibles et l’extorsion par rançon (ransomware + leak), a frappé au cœur de l’administration fiscale sénégalaise.
+- Les données compromises : une fuite massive Après analyse sur le darknet (Tor), via leur site en .onion, il apparaît que les données dérobées et déjà partiellement fuitées sont d’une sensibilité extrême : -Informations financières et fiscales : rapports d’impôt, revenus des particuliers et entreprises.
+- -Informations réseau et systèmes : y compris un export KeePass, soit un coffre-fort de mots de passe complet de l’institution.
+
+## [<b>Cybersécurité</b> – La protection des infrastructures critiques : pivot de la souveraineté économique](https://lapresse.tn/2025/10/04/cybersecurite-la-protection-des-infrastructures-critiques-pivot-de-la-souverainete-economique/)  
+*Source : lapresse.tn | Publication : 2025-10-04*
+
+- La cybersécurité n’est plus un simple enjeu technique mais un levier central de souveraineté et de compétitivité.
+- Dans ce contexte, la cybersécurité s’impose comme une condition incontournable pour préserver l’indépendance économique et renforcer la résilience du tissu productif.
+- La Presse — La cybersécurité est aujourd’hui une composante fondamentale de la souveraineté économique de la Tunisie, car dans un monde de plus en plus numérisé, les données, les infrastructures digitales et les flux d’information constituent des « puits de valeur » essentiels et vulnérables.
+- Mohamed Adem Mokrani, avocat en droit des affaires et consultant économique, précise que «si ces éléments tombent aux mains de partenaires extérieurs ou d’acteurs malveillants, l’indépendance stratégique et la résilience du pays peuvent être compromises ».
+
+## [Avast Ultimate : antivirus, VPN et anti-tracking réunis en une seule offre - Clubic](https://www.clubic.com/bons-plans-581854-avast-ultimate-antivirus-vpn-et-anti-tracking-reunis-en-une-seule-offre.html)  
+*Source : clubic.com | Publication : 2025-10-04*
+
+- Avast frappe fort avec une réduction exceptionnelle sur son offre Ultimate.
+- Pour la première année, l’abonnement complet tombe à 41,20 € au lieu de 102,99 €, soit seulement 3,43 €/mois.
+- Une solution de cybersécurité tout-en-un qui inclut antivirus, VPN, anti-tracking et optimisation PC.
+- Une opportunité à saisir pour sécuriser tous vos appareils.
+
+## [Adaptation des contenus pédagogiques de la formation professionnelle : une mutation ... - Horizons](https://www.horizons.dz/?p=361500)  
+*Source : horizons.dz | Publication : 2025-10-04*
+
+- Introduction de formations spécialisées en cybersécurité et en cybercriminalité.
+- L'Algérie s'inscrit désormais dans cette même logique en mettant.
+
+## [SCIENCES/TECH: Quand l'IA bouscule la biosécurité - Entrevue](https://entrevue.fr/sciences-tech/quand-lia-bouscule-la-biosecurite/)  
+*Source : entrevue.fr | Publication : 2025-10-04*
+
+- L'expérience a été menée par une équipe de Microsoft dirigée par Eric Horvitz.
+- Inspirés des pratiques de cybersécurité , les chercheurs ont testé la.
+
+## [Affaire Ngoné Saliou : le procureur saisit la Division spéciale de la <b>cybercriminalité</b>](https://www.thiesinfo.com/Affaire-Ngone-Saliou-le-procureur-saisit-la-Division-speciale-de-la-cybercriminalite_a10434.html)  
+*Source : thiesinfo.com | Publication : 2025-10-04*
+
+- Selon emedia.sn, le procureur de la République, Ibrahima Ndoye, a transmis la procédure à la DSC après réception de la plainte introduite par Me Abou Alassane Diallo, avocat à la Cour représentant les plaignants.
+- Cette plainte concerne des propos jugés offensants et discriminatoires à l’encontre de la communauté pulaar, tenus par Ngoné Saliou Diop lors d’une émission diffusée le 30 septembre 2025 sur la plateforme numérique Sans Limites.
+- Le collectif plaignant rassemble plusieurs structures, dont ARP Tabital Pulaagu Sénégal, Kisal Deeyirde Pulaagu et le Mouvement des Élèves et Étudiants Foulbés (MEEF).
+- Ces organisations reprochent à la journaliste des injures publiques, des propos diffamatoires et des incitations à la haine ethnique.
+
+## [Piratage massif des Impôts et Domaines Le pire arrivera si l'État ne fait rien Par Pape Pi ...](https://www.lactuacho.com/piratage-massif-des-impots-et-domaines-le-pire-arrivera-si-letat-ne-fait-rien-par-pape-pi-gueye-ingenieur-en-cyber-securite-2/)  
+*Source : lactuacho.com | Publication : 2025-10-04*
+
+- Les cyberattaques, devenues presque routinières, ne devraient plus surprendre personne au Sénégal.
+- Hier le Trésor, aujourd’hui la Direction des Impôts et Domaines : demain, qui ?.
+- La liste s’allonge et révèle, au grand jour, l’incurie de notre système de défense numérique.
+- La dernière attaque en date, revendiquée par le groupe d’extorsion BlackShrantac, a frappé en plein cœur la DGID.
+
+## [Conformité : « la France peut devenir une référence mondiale » | Les Echos](https://www.lesechos.fr/idees-debats/cercle/conformite-la-france-peut-devenir-une-reference-mondiale-2190084)  
+*Source : lesechos.fr | Publication : 2025-10-04*
+
+- Elle irrigue toutes les strates de l'organisation : gouvernance, stratégie, finance, RH, cybersécurité , RSE.
+- C'est une discipline transversale, au.
+
+## [#lesassises #la25 #cyber #<b>cybersecurite</b> | Alexandre Boero - LinkedIn](https://fr.linkedin.com/posts/alexandre-boero_lesassises-la25-cyber-activity-7379900653315284992-MM8t)  
+*Source : fr.linkedin.com | Publication : 2025-10-04*
+
+- Journaliste, responsable de l’actualité chez CLUBIC, 3e média Tech FR | Vidéaste et Animateur 💻 Chaîne YouTube 15,5k👥 | Tech, Cyber, Éco, Voyages, Sports et Médias 📢 Les Assises de la cybersecurité débutent mercredi et j'ai trois choses à vous dire 👇 👉 Je suis content, au nom de CLUBIC, de vous annoncer que nous sommes l'un des partenaires médias des Assises cette année.
+- Je serai sur place cette année encore.
+- 👉 Je suis à la recherche de sujets originaux sur la cyber, d'histoires incroyables inédites qui pourraient susciter la curiosité de nos nombreux lecteurs, ou de témoignages sur un événement cyber fort vécu, et les moyens/mesures mis en place pour y remédier.
+- 👉 En parallèle, notre rubrique CyberPro, plutôt destinée aux pros (TPE/PME), a pris son envol, l'occasion d'aider davantage les entreprises à se protéger des menaces multiples.
+
+## [<b>Cybersécurité</b> : un salarié sur deux ignore les formations - Actu Marketing](https://www.actu-marketing.fr/cybersecurite-un-salarie-sur-deux-ignore-les-formations/)  
+*Source : actu-marketing.fr | Publication : 2025-10-04*
+
+- Une enquête Ipsos révèle un paradoxe : malgré 68 % d'entreprises offrant des formations en cybersécurité, près de la moitié des salariés y participent peu ou pas, principalement par manque de temps.
+- La majorité consacre seulement 1 à 5 heures par an, 12 % ignorent l'existence des dispositifs et 25 % ne font que valider les modules pour satisfaire l'employeur.
+- Les compétences restent faibles : 15 % se jugent sans aptitude, 2 % experts, et nombre d'employés confondent phishing avec virus ou stockage.
+- Les pratiques sont défaillantes (mots de passe réutilisés, 30 % seulement utilisent la double authentification) et les TPE manquent de référents, tandis que les grandes entreprises s'organisent mieux.
+
+## [Une attaque <b>ransomware</b> au cœur de la DGID, après le vol des ordinateurs au niveau du Trésor](https://laviesenegalaise.com/une-attaque-ransomware-au-coeur-de-la-dgid-apres-le-vol-des-ordinateurs-au-niveau-du-tresor/)  
+*Source : laviesenegalaise.com | Publication : 2025-10-04*
+
+- Une attaque ransomware au cœur de la DGID, après le vol des ordinateurs au niveau du Trésor Contribution Partagez WhatsAppFacebookTwitterLinkedinCourrielTelegramPinterestReddItTumblrPrintDigg Le Sénégal traverse une crise numérique majeure.
+- La Direction Générale des Impôts et des Domaines (DGID), institution centrale dans la gestion fiscale du pays, est frappée de plein fouet par une attaque informatique d’une ampleur inédite.
+- Depuis plus d’une semaine, ses logiciels de gestion fiscale et de recouvrement sont totalement paralysés.
+- Lire aussi Le Sénégal dépose une demande officielle pour un nouveau… La Déclaration de la directrice générale du FMI, Kristalina… Une cyberattaque sans précédent Les pirates à l’origine de l’opération, se présentant sous le nom de Black Shrantac, affirment avoir volé 1 téraoctet (To) de données sensibles et exigent le paiement d’une rançon astronomique de 10 millions d’euros, soit environ 6,5 milliards de francs CFA, pour libérer les systèmes et restituer les informations.
+
+## [Une <b>cybermenace</b> sans solution ? On vous explique tout sur la méthode « Harvest now, Decrypt later](https://www.numerama.com/cyberguerre/2083243-une-cybermenace-sans-solution-on-vous-explique-tout-sur-le-procede-harvest-now-decrypt-later.html)  
+*Source : numerama.com | Publication : 2025-10-04*
+
+- « Harvest now, Decrypt later » (en français : « Récolter maintenant, déchiffrer plus tard ») désigne une stratégie de cybermenace où, comme son nom l’indique, des attaquants collectent aujourd’hui un maximum de données chiffrées dans le but de les décrypter plus tard.
+- Le procédé qui mise sur l’essor de nouvelles technologies pour atteindre son objectif final, revient au cœur de l’actualité à notre époque où l’informatique quantique connait un investissement conséquent.
+- Pourtant, la technique n’est pas nouvelle, comme nous le rappelle Ludovic Perret, professeur à l’EPITA et cryptographe post-quantique : « Ça s’est déjà fait dans le contexte de la Guerre Froide où des télégrammes chiffrés ont été stockés en attendant de les déchiffrer plus tard.
+- Donc c’est quelque chose qui n’est pas nouveau.
+
+## [L'IA redéfinit la nature stratégique du rôle des responsables informatiques - IT SOCIAL](https://itsocial.fr/contenus/articles-decideurs/lia-redefinit-la-nature-strategique-du-role-des-responsables-informatiques/)  
+*Source : itsocial.fr | Publication : 2025-10-04*
+
+- Le rapport mondial de Zendesk, fondé sur l’enquête de 1 000 responsables IT et 1 000 salariés, montre que l’IA accélère la mue des directions informatiques.
+- Les responsables IT ne sont plus de simples garants techniques : ils deviennent des architectes du lieu de travail et des leviers stratégiques de productivité, de gouvernance et d’expérience collaborateur.
+- Longtemps cantonné à l’infrastructure et au support, le service informatique s’impose désormais comme un acteur central de la performance organisationnelle.
+- Avec la prolifération des outils SaaS et l’essor de l’IA, il lui revient d’orchestrer des environnements complexes, d’assurer la cohérence des données et de garantir la fluidité des processus.
+
+## [Les entreprises vietnamiennes utilisent l'IA pour détecter les menaces de <b>cybersécurité</b>](https://www.vietnam.vn/fr/doanh-nghiep-viet-ung-dung-ai-phat-hien-de-doa-an-ninh-mang)  
+*Source : vietnam.vn | Publication : 2025-10-04*
+
+- Fortinet vient de publier les résultats de l'enquête 2025 d'IDC, qui montre que les organisations de la région Asie- Pacifique adoptent l'IA comme première ligne de défense dans leurs stratégies de cybersécurité.
+- Selon l’enquête, l’IA a dépassé le battage médiatique pour devenir un facteur clé de rapidité, de précision et d’évolutivité dans les opérations de sécurité, et façonne les priorités d’embauche, les stratégies d’investissement et la structure des équipes de cybersécurité modernes.
+- L'IA transforme les deux camps de la cybersécurité.
+- Pour les forces de défense, elle offre la possibilité d'automatiser la détection, d'accélérer la réponse et de déployer la veille sur les menaces à une vitesse sans précédent.
+
+## [Ce métier explose : +12,5% de salaire d'ici 2026 (40k€ à 45k€) - France Matin](https://www.francematin.info/consommation/ce-metier-explose-125-de-salaire-dici-2026-40k-a-45k)  
+*Source : francematin.info | Publication : 2025-10-04*
+
+- Ce métier explose : +12,5% de salaire d'ici 2026 (40k€ à 45k€) Publié le 04 octobre 2025 à 07:00 Imaginez un métier où la demande explose, où le salaire grimpe en flèche et où les entreprises se battent littéralement pour attirer les candidats.
+- Ce scénario, qui ressemble à un rêve pour bien des travailleurs, pourrait devenir une réalité pour certains profils très spécifiques d’ici 2026.
+- Mais de quel métier s’agit-il ?.
+- Et pourquoi attire-t-il autant la convoitise des recruteurs ?.
+
+## [Plainte contre Ngoné Saliou Diop : Maham Ka convoqué par la <b>Cybercriminalité</b>](https://www.senenews.com/actualites/plainte-contre-ngone-saliou-diop-maham-ka-convoque-par-la-cybercriminalite_561278.html)  
+*Source : senenews.com | Publication : 2025-10-04*
+
+- Plainte contre Ngoné Saliou Diop : Maham Ka convoqué par la Cybercriminalité L’activiste Maham Ka, à l’origine d’une plainte contre la journaliste Ngoné Saliou Diop, a annoncé avoir été convoqué ce samedi 4 octobre 2025 à 10h par la Division spéciale de la cybercriminalité.
+- « Je suis convoqué demain à 10h au service de la cybercriminalité, dans le cadre de la plainte que j’ai déposée », a-t-il écrit sur sa page Facebook.
+- Cette convocation intervient dans un climat marqué par la polémique autour de Ngoné Saliou Diop.
+- La journaliste est en effet au cœur d’une vive controverse après avoir tenu des propos jugés injurieux et stigmatisants à l’égard de la communauté peule.
 
 ## [Qohash assure la visibilité et le contrôle des données sensibles des Métiers.](https://www.globalsecuritymag.fr/qohash-assure-la-visibilite-et-le-controle-des-donnees-sensibles-des-metiers.html)  
 *Source : globalsecuritymag.fr | Publication : 2025-10-03*
