@@ -1,5 +1,150 @@
-# Résumés – 2025-10-04
+# Résumés – 2025-10-05
 
+
+## [<b>Cybermenaces</b> : l'Europe est plus ciblée que jamais - Franceinfo](https://www.franceinfo.fr/replay-radio/nouveau-monde/cybermenaces-l-europe-est-plus-ciblee-que-jamais_7504747.html)  
+*Source : franceinfo.fr | Publication : 2025-10-05*
+
+- Cybermenaces : l'Europe est plus ciblée que jamais L'Agence de l'Union européenne pour la cybersécurité (ENISA) publie son panorama 2025 des attaques ayant visé les Vingt-Sept.
+- Les administrations publiques et les entreprises du secteur des transports sont en première ligne.
+- Les économies et les systèmes administratifs des pays de l’Union européenne reposent pour une large part sur les technologies pour fonctionner.
+- Ce qui les rend particulièrement vulnérables aux cyberattaques.
+
+## [<b>CYBERSÉCURITÉ</b>. Des conseils pas si compliqués pour protéger sa vie numérique](https://la1ere.franceinfo.fr/nouvellecaledonie/cybersecurite-des-conseils-pas-si-compliques-pour-proteger-sa-vie-numerique-1629068.html)  
+*Source : la1ere.franceinfo.fr | Publication : 2025-10-05*
+
+- Dans un quotidien hyperconnecté, comment me protéger des risques numériques ?.
+- Le Hackagou 2025, organisé le 1er octobre à Païta, a consacré une mini-conférence au sujet : quelques "gestes simples qui peuvent éviter 80 % des cyberattaques au quotidien".
+- Parce que derrière notre écran, nous sommes tous une cible potentielle.
+- 1 Choisissez des mots de passe forts et uniques On a besoin d’un mot de passe.
+
+## [La DGSSI participe à Riyad à la 2e session du Conseil des ministres arabes de <b>cybersécurité</b> - MSN](https://www.msn.com/fr-xl/actualite/other/la-dgssi-participe-à-riyad-à-la-2e-session-du-conseil-des-ministres-arabes-de-cybersécurité/ar-AA1ND1lV?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1)  
+*Source : msn.com | Publication : 2025-10-05*
+
+- En exécution des Hautes Instructions Royales, la Direction Générale de la Sécurité des Systèmes d'Information (DGSSI) relevant de l'Administration.
+
+## [<b>Cybersécurité</b> : Du « Sputnik moment » à l'ère de la souveraineté numérique](https://www.lopinion.ma/Cybersecurite-Du-Sputnik-moment-a-l-ere-de-la-souverainete-numerique_a72510.html)  
+*Source : lopinion.ma | Publication : 2025-10-05*
+
+- Malgré une position reconnue au niveau international, attestée par son classement «Tier 1» dans l’Indice Mondial de Cybersécurité de l’UIT (Union Internationale des Télécommunications) en 2024, le Maroc a connu un «Sputnik moment» avec la série de cyberattaques survenues en 2024 et 2025.
+- C’est ce qui ressort du Policy Brief de ce mois d’octobre 2025, intitulé : «Cybersecurity in Morocco: From a wake-up call to a new era of digital sovereignty».
+- L’événement le plus marquant fut la brèche d’avril 2025 au niveau de la Caisse Nationale de Sécurité Sociale (CNSS), un incident qui a contraint la nation à réévaluer urgemment ses défenses numériques, souligne l’analyse, notant que cette attaque, décrite comme la plus significative à ce jour, a exposé les données personnelles et financières de près de deux millions de personnes issues d’environ 500.000 entreprises.
+- Le pays, qui s’apprête à accueillir la Coupe d’Afrique des Nations (CAN) 2025 et la Coupe du Monde de la FIFA 2030, élève désormais la cybersécurité au rang d’impératif de défense nationale et de moteur de la souveraineté numérique, selon le Policy Brief, co-publié par la Global Governance & Sovereignty Foundation (GGSF) et la Konrad-Adenauer-Stiftung.
+
+## [Lettre ouverte aux autorités de la république du Sénégal : Pour une gouvernance nationale ...](https://xalimasn.com/2025/10/05/lettre-ouverte-aux-autorites-de-la-republique-du-senegal-pour-une-gouvernance-nationale-de-la-cybersecurite-a-la-hauteur-des-enjeux-de-lheure/)  
+*Source : xalimasn.com | Publication : 2025-10-05*
+
+- Excellences, La cyberattaque survenue récemment contre la Direction Générale des Impôts et des Domaines (DGID) constitue un tournant majeur dans la perception des risques en matière de cybersécurité au Sénégal.
+- Elle a mis en lumière la vulnérabilité de nos infrastructures critiques et la nécessité urgente d’une réponse stratégique, coordonnée et durable.
+- Nous saluons les efforts déjà consentis par les autorités dans la modernisation de l’administration, la dématérialisation des services publics et la mise en place de dispositifs de sécurité.
+- Ces avancées sont fondamentales.
+
+## [Octobre c'est mois de la <b>cybersécurité</b> : pour l'occasion, Bitdefender Total Security chute à 39,99€](https://www.clubic.com/bons-plans-581818-octobre-c-est-mois-de-la-cybersecurite-pour-l-occasion-bitdefender-total-security-chute-a-39-99.html)  
+*Source : clubic.com | Publication : 2025-10-05*
+
+- Octobre est le mois de la cybersécurité, et c’est l’occasion idéale de se protéger efficacement.
+- Bitdefender propose son offre Total Security à seulement 39,99 € la première année, soit 58 % d’économie par rapport au prix habituel.
+- Dans un monde numérique où les escroqueries deviennent de plus en plus sophistiquées, il est essentiel de s’équiper d’une protection fiable et reconnue.
+- Bitdefender, plusieurs fois récompensé par la presse spécialisée, propose sa solution Total Security compatible avec Windows, macOS, Android et iOS.
+
+## [À Perpignan, Navista sécurise les réseaux et cultive l'esprit de famille - ToulÉco](https://www.touleco.fr/A-Perpignan-Navista-securise-les-reseaux-et-cultive-l-esprit-de,48336)  
+*Source : touleco.fr | Publication : 2025-10-05*
+
+- Jean Vinegla fait partie de ces pionniers de la télématique qui ont développé les réseaux et services Télécom en France.
+- Les plus anciens se souviennent des codes 3615 du minitel.
+- « À l’époque, j’avais lancé le 3615 code TF1 », s’amuse-t-il.
+- Depuis, l’informatique a connu plusieurs révolutions, à commencer par Internet au début des années 2000.
+
+## [Propos envers Macky Sall : Pourquoi Ngoné Saliou Diop va vers un lundi très compliqué](https://www.senenews.com/actualites/propos-envers-macky-sall-pourquoi-ngone-saliou-diop-va-vers-un-lundi-tres-complique_561397.html)  
+*Source : senenews.com | Publication : 2025-10-05*
+
+- Propos envers Macky Sall : Pourquoi Ngoné Saliou Diop va vers un lundi très compliqué Ce lundi s’annonce particulièrement complexe pour l’animatrice vedette Ngoné Saliou Diop, attendue devant les enquêteurs de la Division Spéciale de la Cybersécurité (DSC).
+- Selon des sources concordantes, la plainte déposée contre elle a été confirmée après l’audition, ce samedi, des plaignants.
+- L’affaire, désormais entre les mains des enquêteurs spécialisés, suscite un vif intérêt dans le milieu médiatique et sur les réseaux sociaux.
+- Ngoné Saliou Diop devra répondre à des accusations dont la nature exacte n’a pas encore été officiellement détaillée, mais qui relèveraient, selon nos informations, de faits présumés de diffamation et de propagation de contenus préjudiciables via les réseaux numériques.
+
+## [Cyber malveillance : un Cybermois d'octobre pour déjouer les pirates… dès le plus jeune âge](https://www.sudouest.fr/dordogne/perigueux/cyber-malveillance-un-cyber-mois-d-octobre-pour-dejouer-les-pirates-des-le-plus-jeune-age-26147796.php)  
+*Source : sudouest.fr | Publication : 2025-10-05*
+
+- Initiative européenne de sensibilisation à la cybersécurité pilotée en France par Cybermalveillance.gouv.fr, le Cybermois vise à sensibiliser, jusqu’au 30 octobre et via plus de 300 événements régionaux, tous les publics.
+- L’événement phare en Nouvelle-Aquitaine aura lieu à Périgueux le 6 octobre Une cible potentielle avertie en vaut sans doute deux, c’est le principe qui anime Cybersurveillance.gouv.fr, plateforme référence en matière de lutte contre les cyberattaques, les escroqueries et autres fraudes qui anime, depuis 3 ans l’opération Cybermois dans toute la France (1).
+- Cybermois, c’est un millier d’opérations de sensibilisation sur le territoire, dont plus de 350 dans la seule région Nouvelle-Aquitaine.
+- « Votre région est très en avance sur cette thématique, en raison de son Campus Cyber de la Région Nouvelle-Aquitaine.
+
+## [Plusieurs centaines d'euros à économiser avec cette promo inespérée (-73%)](https://www.journaldugeek.com/bon-plan/plusieurs-centaines-deuros-a-economiser-avec-cette-promo-inesperee-73/)  
+*Source : journaldugeek.com | Publication : 2025-10-05*
+
+- En 2025, le web s’est énormément développé et tout passe de plus en plus par internet.
+- Comme on pouvait le craindre, les menaces d’atteinte aux données personnelles et autres informations confidentielles sont devenues de plus en plus fortes ces dernières années.
+- Le VPN reste la meilleure parade mais tous ne se valent pas.
+- Et avec un prix qui dégringole de 73%, autant s’équiper de la solution la plus redoutable : NordVPN.
+
+## [<b>Cybermenaces</b> : l'Europe est plus ciblée que jamais | franceinfo - Radio France](https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/cybermenaces-l-europe-est-plus-ciblee-que-jamais-6615964)  
+*Source : radiofrance.fr | Publication : 2025-10-05*
+
+- Les économies et les systèmes administratifs des pays de l’Union européenne reposent pour une large part sur les technologies pour fonctionner.
+- Ce qui les rend particulièrement vulnérables aux cyberattaques.
+- Depuis tout juste 20 ans, en septembre 2005, l’Union européenne s’est dotée d’une agence dédiée pour conseiller les États membres en matière de sécurité numérique : l’ENISA.
+- Elle est également chargée de recueillir et analyser les données relatives notamment aux incidents liés à la cybersécurité en Europe.
+
+## [infoDSI : Le quotidien des utilisateurs de l'informatique en entreprise](https://infodsi.com/articles/207407/lia-a-lecole-une-revolution-pedagogique-a-lepreuve-de-la-cybersecurite.html)  
+*Source : infodsi.com | Publication : 2025-10-05*
+
+- Veuillez activer Javascript.
+
+## [Le FBI lance une chasse mondiale aux cybercriminels : 274 millions de dollars à la clé](https://lecafedugeek.fr/le-fbi-lance-une-chasse-mondiale-aux-cybercriminels-274-millions-de-dollars-a-la-cle/)  
+*Source : lecafedugeek.fr | Publication : 2025-10-05*
+
+- Le FBI lance une chasse mondiale aux cybercriminels : 274 millions de dollars à la clé !.
+- Face à l’ampleur des attaques informatiques, le FBI intensifie sa lutte contre les pirates les plus dangereux de la planète.
+- L’agence américaine propose des primes allant jusqu’à 10 millions de dollars pour toute information permettant d’arrêter 42 cybercriminels recherchés.
+- En effet, ces individus sont soupçonnés d’avoir causé des pertes colossales, notamment via des ransomwares et des fraudes numériques.
+
+## [Une conférence sur la <b>cybercriminalité</b> pour les 10 ans du Transfo de Douvres-la-Délivrande](https://caen.maville.com/actu/actudet_-une-conference-sur-la-cybercriminalite-pour-les-10-ans-du-transfo-de-douvres-la-delivrande-_dep-7006126_actu.Htm?utm_source=RSS_MVI_caen&utm_medium=RSS&utm_campaign=RSS)  
+*Source : caen.maville.com | Publication : 2025-10-05*
+
+- Jeudi 2 et vendredi 3 octobre 2025, le Transfo, la pépinière et hôtel d’entreprises de Cœur de Nacre, a fêté ses dix ans, à Douvres-la-Délivrande (Calvados).
+- Des conférences ont été données, dont une sur la cybercriminalité.
+- Jeudi 2 et vendredi 3 octobre, le Transfo, la pépinière et hôtel d’entreprises de Cœur de Nacre, a fêté ses dix ans.
+- « Cet espace propose des bureaux à la location en open space, a rappelé Patrick Lermine, vice-président de l’intercom, élu communautaire en charge de.
+
+## [Cyberattaque supposée contre la DGID : un expert alerte sur la vulnérabilité des données de l'État](https://www.senenews.com/actualites/cyberattaque-supposee-contre-la-dgid-un-expert-alerte-sur-la-vulnerabilite-des-donnees-de-letat_561394.html)  
+*Source : senenews.com | Publication : 2025-10-05*
+
+- Cyberattaque supposée contre la DGID : un expert alerte sur la vulnérabilité des données de l’État La récente cyberattaque supposée contre la Direction générale des Impôts et Domaines (DGID) continue de susciter de vives inquiétudes au Sénégal.
+- Alors que des informations font état d’une rançon réclamée par les assaillants estimée à 6,5 milliards de francs CFA, l’ingénieur en cybersécurité Abdourahmane Sakho, CEO de Midadi Consulting, met en garde contre une menace « directe contre la sécurité économique et institutionnelle du pays ».
+- Selon lui, les données ciblées — baux, actes de cession, contrats, documents fiscaux ou encore informations personnelles — constituent des actifs critiques qui soutiennent le bon fonctionnement de l’administration et la confiance des citoyens dans l’État.
+- « Leur compromission pourrait affecter les droits de propriété, la traçabilité financière et la gestion des obligations fiscales », alerte-t-il.
+
+## [Bitdefender et OVHcloud, vers une <b>cybersécurité</b> souveraine - ITchannel](https://itchannel.info/articles/207396/bitdefender-et-ovhcloud-vers-une-cybersecurite-souveraine.html)  
+*Source : itchannel.info | Publication : 2025-10-05*
+
+- Veuillez activer Javascript.
+
+## [Mateo by Oslo : le compagnon digital qui révolutionne le quotidien des techniciens itinérants](https://itchannel.info/articles/207395/mateo-by-oslo-le-compagnon-digital-qui-revolutionne-le-quotidien-des-techniciens-itinerants.html)  
+*Source : itchannel.info | Publication : 2025-10-05*
+
+- Veuillez activer Javascript.
+
+## [Une conférence sur la <b>cybercriminalité</b> pour les 10 ans du Transfo de Douvres-la-Délivrande](https://www.ouest-france.fr/normandie/douvres-la-delivrande-14440/une-conference-sur-la-cybercriminalite-pour-les-10-ans-du-transfo-de-douvres-la-delivrande-f192e18c-a070-11f0-9ed2-c6719bbee39f)  
+*Source : ouest-france.fr | Publication : 2025-10-05*
+
+- Elsa Jaubert, chargée de mission stratégie cybercriminalité à l'université de Caen, était accompagnée par deux gendarmes de l'antenne de Caen,.
+
+## [<b>Cybercriminalité</b> : Ngoné Saliou Diop convoquée à la DSC ce lundi - Thies info](https://www.thiesinfo.com/Cybercriminalite-Ngone-Saliou-Diop-convoquee-a-la-DSC-ce-lundi_a10454.html)  
+*Source : thiesinfo.com | Publication : 2025-10-05*
+
+- Les déclarations, jugées injurieuses et discriminatoires envers la communauté pulaar, ont suscité une vague d’indignation sur les réseaux sociaux.
+- Le procureur Ibrahima Ndoye a confié le dossier à la DSC après la plainte déposée par Me Abou Alassane Diallo, pour le compte du Collectif pour la Défense de la Cohésion Nationale, qui regroupe plusieurs organisations dont ARP Tabital Pulaagu, Kisal Deeyirde Pulaagu et le MEEF.
+- Cette affaire remet au cœur du débat la responsabilité des acteurs médiatiques et les limites du discours public dans l’espace numérique sénégalais.
+- Affaire à suivre ce lundi….
+
+## [Après Maham Ka, Ngoné Saliou Diop aussi convoquée à la <b>Cybercriminalité</b> - Senenews](https://www.senenews.com/actualites/apres-maham-ka-ngone-saliou-diop-aussi-convoquee-a-la-cybercriminalite_561374.html)  
+*Source : senenews.com | Publication : 2025-10-05*
+
+- Après Maham Ka, Ngoné Saliou Diop aussi convoquée à la Cybercriminalité Après Maham Ka, qui a annoncé avoir été convoqué samedi par la Division spéciale de cybersécurité, c’est désormais au tour de la journaliste Ngoné Saliou Diop de devoir répondre aux questions des enquêteurs.
+- D’après les informations rapportées par MF Info, « Ngoné Saliou Diop, chroniqueuse à Sans Limite, est convoquée ce lundi suite à ses propos controversés.
+- Les plaignants ont confirmé le maintien de leur plainte.
+- » Cette convocation intervient dans un contexte de vives tensions médiatiques autour de la journaliste.
 
 ## [LES ATTAQUES INFORMATIQUES, UN ELECTROCHOC POUR LE SENEGAL - SenePlus](https://www.seneplus.com/opinions/les-attaques-informatiques-un-electrochoc-pour-le-senegal)  
 *Source : seneplus.com | Publication : 2025-10-04*
