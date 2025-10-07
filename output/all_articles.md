@@ -1,5 +1,159 @@
-# Résumés – 2025-10-06
+# Résumés – 2025-10-07
 
+
+## [Cyberattaques : 8 entreprises sur 10 finissent par payer les pirates - Siècle Digital](https://siecledigital.fr/2025/10/07/cyberattaques-8-entreprises-sur-10-finissent-par-payer-les-pirates/)  
+*Source : siecledigital.fr | Publication : 2025-10-07*
+
+- Alors que les attaques informatiques continuent de se propager à grande échelle, comme on l’a vu encore très récemment avec Salesforce, la stratégie des entreprises face à ces attaques reste encore très contrastée… En effet, si les spécialistes recommandent systématiquement de ne pas payer les demandes de rançons, dans les faits, il semblerait que de nombreuses organisations choisissent pourtant cette option pour tenter de récupérer leurs données rapidement… La tentation du paiement face aux données bloquées Selon le rapport annuel de l’assureur Hiscox « Hiscox Cyber Readiness Report 2025« , plus de 80% des entreprises victimes de ransomware finissent par payer la rançon.
+- Cette décision est souvent motivée par la nécessité de retrouver l’accès à des informations critiques, alors que les solutions de sauvegarde peuvent être partielles ou trop lentes.
+- Toutefois, Hiscox rappelle que le paiement ne garantit pas toujours la récupération complète.
+- Les chiffres montrent que seulement 60% des entreprises déclarent avoir récupéré toutes leurs données après le versement, tandis que près d’un tiers ont fait face à de nouvelles demandes de rançon.
+
+## [<b>Cybersécurité</b> : le grand écart entre les risques et la mise en œuvre du Zero Trust - ITRnews](https://itrnews.com/articles/207435/cybersecurite-le-grand-ecart-entre-les-risques-et-la-mise-en-oeuvre-du-zero-trust.html)  
+*Source : itrnews.com | Publication : 2025-10-07*
+
+- Veuillez activer Javascript.
+
+## [Dépôt du Rapport annuel de gestion 2024-2025 du ministère de la <b>Cybersécurité</b> et du Numérique](https://www.quebec.ca/nouvelles/actualites/details/depot-du-rapport-annuel-de-gestion-2024-2025-du-ministere-de-la-cybersecurite-et-du-numerique-66282)  
+*Source : quebec.ca | Publication : 2025-10-07*
+
+- Le Rapport annuel de gestion 2024-2025 du ministère de la Cybersécurité et du Numérique (MCN) a été déposé à l’Assemblée nationale du Québec le 7 octobre 2025.
+- Ce document officiel rend compte des principales réalisations ministérielles au cours du dernier exercice financier.
+- Il permet à la communauté gouvernementale ainsi qu’à la population de prendre connaissance des engagements et des objectifs du Ministère.
+- Pour tous les détails, n’hésitez pas à consulter le Rapport annuel de gestion 2024-2025.
+
+## [IA agentique, <b>ransomware</b>-as-a-service et supply chain : regards croisés des experts de Splunk](https://www.lemagit.fr/actualites/366632188/IA-agentique-ransomware-as-a-service-et-supply-chain-regards-croises-des-experts-de-Splunk)  
+*Source : lemagit.fr | Publication : 2025-10-07*
+
+- Romolo Tavani - stock.adobe.com IA agentique, ransomware-as-a-service et supply chain : regards croisés des experts de Splunk À l’occasion de la conférence annuelle organisée par Splunk et Cisco, des figures de la cybersécurité confrontent leurs perspectives.
+- Leurs regards croisés dessinent les contours d’un nouveau paysage, où défenseurs et attaquants s’affrontent à armes égales… et souvent automatisées.
+- Ryan Fetterman, Mick Baccio, Lauren Wilson, et Robert Fezzari – confrontent leurs perspectives.
+- Tous observent une mutation accélérée des menaces : IA intégrée dans les malwares, industrialisation du crime en ligne, pression réglementaire et pénurie de talents.
+
+## [La <b>Cybersécurité</b> doit être considérée comme un moteur de performance et ... - Global Security Mag](https://www.globalsecuritymag.fr/la-cybersecurite-doit-etre-consideree-comme-un-moteur-de-performance-et-non.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-07*
+
+- La Cybersécurité doit être considérée comme un moteur de performance et non comme une contrainte.
+- octobre 2025 par Valentin Jangwa, Global Security Mag Juste avant la 25ème édition des Assises de la cybersécurité à Monaco, Bernard Montel, Directeur Technique EMEA & Security Strategist, Tenable, s’est entretenu avec Global Security Mag.
+- Global Security Mag : Quelle sera votre actualité lors des Assises de la Cybersécurité 2025 ?.
+- Bernard Montel : Cette année, nous mettrons en avant nos recherches récentes sur les risques liés à l’IA et au cloud.
+
+## [Sécurité et Conformité peuvent aller de pair, et Bitdefender est à vos côtés pour transformer ...](https://www.globalsecuritymag.fr/securite-et-conformite-peuvent-aller-de-pair-et-bitdefender-est-a-vos-cotes.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-07*
+
+- Sécurité et Conformité peuvent aller de pair, et Bitdefender est à vos côtés pour transformer ces contraintes en avantage compétitif.
+- octobre 2025 par Valentin Jangwa, Global Security Mag Juste avant la 25ème édition des Assises de la cybersécurité à Monaco, Laurent Tombois, Country Manager France and french-speaking African countries, Bitdefender, s’est entretenu avec Global Security Mag.
+- Global Security Mag : Quelle sera votre actualité lors des Assises de la cybersécurité 2025 ?.
+- Laurent Tombois : Nous annoncerons officiellement notre partenariat stratégique avec OVHcloud.
+
+## [Participation syrienne au Forum arabe de la <b>cybersécurité</b> à Tunis - SANA](https://sana.sy/fr/breaking-news/2268573/)  
+*Source : sana.sy | Publication : 2025-10-07*
+
+- Tunis – SANA Une délégation du ministère syrien de l’Intérieur, conduite par le vice-ministre chargé des affaires techniques, Ahmad Haffar, a participé aux travaux du deuxième forum des responsables de la lutte contre la cybercriminalité dans les ministères arabes de l’Intérieur, tenue au siège du Secrétariat général du Conseil des ministres arabes de l’Intérieur à Tunis.
+- La conférence a abordé plusieurs sujets, notamment : -Le plan arabe de lutte contre les crimes commis à l’aide de l’intelligence artificielle -Un modèle de structure organisationnelle unifiée pour une agence spécialisée dans la lutte contre les crimes informatiques dans les pays arabes ; -Les délits de fraude financière électronique.
+- Lors de sa participation, la délégation syrienne a souligné l’importance des efforts concertés et des visions unifiées pour lutter contre la cybercriminalité croissante et pour développer des programmes d’action communs qui seraient en parallèle avec le rythme des exigences de la scène actuelle et font face aux défis de sécurité régionale.
+
+## [Les informations de milliers d'enfants et de parents québécois compromises](https://ici.radio-canada.ca/nouvelle/2197557/hophop-informations-personnelles-failles-securite-bleuk)  
+*Source : ici.radio-canada.ca | Publication : 2025-10-07*
+
+- Des centaines d’écoles et de garderies du Québec utilisent une application qui met à risque les informations personnelles de milliers d’enfants et de parents, a découvert Radio-Canada.
+- Or, l’usage de l’application HopHop n’a pas été validé directement par les ministères de la Famille et de l’Éducation.
+- Le gouvernement mène des vérifications et rejette la responsabilité sur les services de garde et les centres de services scolaires.
+- En quelques secondes et quelques clics, l’expert en sécurité informatique Patrick Mathieu a réussi à obtenir le nom de parents qui se servent de HopHop, leurs photos, leurs numéros de téléphone, leurs adresses courriel et les noms de leurs enfants.
+
+## [<b>Cybersécurité</b> | Vers des assauts massifs contre la vérité | La Presse - LaPresse.ca](https://www.lapresse.ca/affaires/portfolio/2025-10-07/cybersecurite/vers-des-assauts-massifs-contre-la-verite.php)  
+*Source : lapresse.ca | Publication : 2025-10-07*
+
+- Quelles cyberattaques sont les plus fréquentes actuellement ?.
+- Les objectifs restent toujours les mêmes : il s’agit d’essayer de récupérer des données sensibles, ou de les modifier afin de diffuser de fausses informations, ou encore de bloquer un système pour le rendre inaccessible.
+- En ce moment, on entend beaucoup parler des rançongiciels (ransomwares, en anglais), qui consistent à exploiter une faille pour s’introduire dans un système, puis de chiffrer les données pour les rendre inaccessibles, avant de demander une rançon pour pouvoir récupérer les données.
+- On observe que le chiffrage est de plus en plus pointu.
+
+## [<b>Cybersécurité</b> | Se préparer stratégiquement à… l'inévitable | La Presse - LaPresse.ca](https://www.lapresse.ca/affaires/portfolio/2025-10-07/cybersecurite/se-preparer-strategiquement-a-l-inevitable.php)  
+*Source : lapresse.ca | Publication : 2025-10-07*
+
+- « Si vous ne parvenez pas à planifier, vous prévoyez d’échouer.
+- » Cette phrase de Benjamin Franklin, Martin Laberge, directeur exécutif de la cybersécurité chez Énergir, la cite chaque fois qu’il fait une conférence sur les cyberattaques.
+- Pour lui, la question n’est pas de savoir si une entreprise sera attaquée, mais quand elle le sera et comment elle y répondra.
+- Pourquoi dites-vous qu’une cyberattaque est inévitable ?.
+
+## [Hurae et Febelfin sensibilisent à la <b>cybersécurité</b> et au phishing par le jeu - PUB](https://pub.be/fr/hurae-et-febelfin-sensibilisent-a-la-cybersecurite-et-au-phishing-par-le-jeu/)  
+*Source : pub.be | Publication : 2025-10-07*
+
+- News Podcast New Kids 4schools 4Jobs Mon PUB AirPub Annoncer About us Contact Se connecter S'abonner.
+- Mot de passe oublié ?.
+- Pas encore abonné ?.
+- Hurae et Febelfin sensibilisent à la cybersécurité et au phishing par le jeu 07/10/2025 | redaction Crea / News / Sub Cet article est réservé aux abonnés.
+
+## [Tour d'horizon des menaces de <b>cybersécurité</b>: ce qu'il faut surveiller - Royal Bank](https://www.rbcroyalbank.com/fr-ca/mes-finances-dabord/academie-financiere/cybersecurite/comprendre-la-cybersecurite/tour-dhorizon-des-menaces-de-cybersecurite-ce-quil-faut-surveiller/)  
+*Source : rbcroyalbank.com | Publication : 2025-10-07*
+
+- Les escroqueries et les cyberattaques évoluent rapidement, et l’année 2025 l’a prouvé.
+- Les consommateurs de partout dans le monde ont perdu des milliards de dollars en raison du crime en ligne cette année, et les escrocs sont de plus en plus avertis.
+- La sensibilisation est la première étape pour rester en sécurité.
+- Voici un aperçu des plus grandes menaces touchant les gens aujourd’hui, de leur évolution au fil du temps et des mesures pratiques que vous pouvez prendre pour vous protéger.
+
+## [Arnaques et <b>cybersécurité</b> : pourquoi les Français ont peur - Journal de l'Économie](https://www.journaldeleconomie.fr/arnaques-cybersecurite-francais-peur/)  
+*Source : journaldeleconomie.fr | Publication : 2025-10-07*
+
+- La cybersécurité, une préoccupation devenue quotidienne Les chiffres publiés par Mastercard le 7 octobre 2025 sur les arnaques et la cybersécurité traduisent un basculement net dans la perception du risque numérique.
+- 61 % des Français estiment qu’il est plus difficile de protéger leurs données que leur domicile, et 52 % déclarent avoir évoqué la cybersécurité lors d’un repas au cours du dernier mois.
+- La sécurité numérique n’est plus cantonnée au monde de l’entreprise : elle s’impose dans la sphère privée comme une préoccupation du quotidien.
+- Ce mouvement traduit un phénomène d’acculturation rapide.
+
+## [<b>Cybersécurité</b> : 5 conseils essentiels de vigilance numérique](https://www.informatiquenews.fr/5-conseils-essentiels-en-cybersecurite-pour-le-mois-de-sensibilisation-a-la-cybersecurite-107192)  
+*Source : informatiquenews.fr | Publication : 2025-10-07*
+
+- Les hackers ne dorment jamais, et les IA non plus.
+- Entre applis douteuses, faux messages de marque et deepfakes ultra-réalistes, rester vigilant ne suffit pas.
+- Il est essentiel d’acquérir une compétence numérique essentielle.
+- Et quoi de plus opportun que le mois de la sensibilisation à la cybersécurité (du 1er au 31 octobre) pour acquérir 5 bons réflexes.
+
+## [Faites-le dès ce soir : 5 minutes qui peuvent tout changer pour votre smartphone](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-faites-ce-soir-5-minutes-peuvent-tout-changer-votre-smartphone-c7g3-23373/)  
+*Source : futura-sciences.com | Publication : 2025-10-07*
+
+- Votre smartphone pourrait être la porte d'entrée rêvée des pirates informatiques.
+- Une mesure simple recommandée par les services de sécurité américains pourrait considérablement réduire ce risque.
+- Découvrez pourquoi éteindre votre appareil quelques minutes suffit à renforcer votre protection numérique.
+- au sommaire La cybersécurité mobile préoccupe de plus en plus les autorités internationales.
+
+## [Thales lance un carte à puce prête pour le quantique - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/63958-thales-lance-un-carte-a-puce-prete-pour-le-quantique.html)  
+*Source : linformaticien.com | Publication : 2025-10-07*
+
+- LES DOSSIERS CYBERSECURITE.
+- Quand les deepfakes piratent la confiance · Ransomware : les jours d'après · Cybersécurité · Thales lance un carte à puce.
+
+## [<b>Cybersécurité</b> : les TPE-PME plus lucides, mais encore désarmées - ITforBusiness.fr](https://www.itforbusiness.fr/cybersecurite-les-tpe-pme-plus-lucides-mais-encore-desarmees-95261)  
+*Source : itforbusiness.fr | Publication : 2025-10-07*
+
+- ChannelScope Cybersécurité : les TPE-PME plus lucides, mais encore désarmées Par Thierry Derouet, publié le 07 octobre 2025 Présenté aux Assises de la Sécurité 2025, le deuxième baromètre national de la maturité cyber des TPE-PME, réalisé par OpinionWay pour Cybermalveillance.gouv.fr, dresse un constat sans détour : la conscience du risque s’installe, mais la préparation reste lacunaire.
+- Si les dirigeants semblent enfin mesurer la menace, leurs entreprises n’ont pas encore franchi le cap de la sécurisation effective.
+- Elles se sentent concernées, mais pas encore prêtes.
+- C’est en substance ce que révèle le baromètre 2025, mené auprès de 588 entreprises de moins de 250 salariés en France métropolitaine et dans les régions d’Outre-mer.
+
+## [<b>Cybersécurité</b> | Un écosystème dynamique… en rattrapage | La Presse - LaPresse.ca](https://www.lapresse.ca/affaires/portfolio/2025-10-07/cybersecurite/un-ecosysteme-dynamique-en-rattrapage.php)  
+*Source : lapresse.ca | Publication : 2025-10-07*
+
+- Oubliez l’image du pirate informatique tout seul devant son ordinateur dans le sous-sol de sa maison.
+- Aujourd’hui, ce sont des groupes organisés, à la fine pointe de la technologie, qui surveillent et se préparent à attaquer.
+- Les menaces sont multiples, diversifiées et de plus en plus perfectionnées.
+- Et tout le monde – individus, grandes entreprises, PME – est à risque, ce qui rehausse le besoin d’avoir de solides infrastructures en cybersécurité.
+
+## [<b>Cybersécurité</b> | Agent conversationnel : un confident peu sûr | La Presse - LaPresse.ca](https://www.lapresse.ca/affaires/portfolio/2025-10-07/cybersecurite/agent-conversationnel-un-confident-peu-sur.php)  
+*Source : lapresse.ca | Publication : 2025-10-07*
+
+- Y a-t-il des risques à larguer des informations personnelles dans les agents conversationnels ?.
+- « Le premier risque vient du fait que vos données se retrouvent dans les serveurs d’entreprises privées », note Sébastien Gambs, professeur en informatique à l’Université du Québec à Montréal (UQAM).
+- Ces géants du web se réservent le droit de se servir de nos données pour entraîner leurs algorithmes.
+- « Les gens peuvent penser que ce n’est pas grave, mais il y a toujours un risque que votre profil soit enregistré », poursuit-il.
+
+## [Avant de Cliquer devient Hucency - Distributique](https://www.distributique.com/actualites/lire-avant-de-cliquer-devient-hucency-36624.html)  
+*Source : distributique.com | Publication : 2025-10-07*
+
+- « Avec notre ancienne identité, nous étions fortement associés ŕ la sensibilisation au phishing.
+- C’était une premičre étape importante, mais la réalité des menaces est aujourd’hui bien plus vaste », explique James Digeon, responsable de la communication de Hucency.
+- (Crédit Hucency) En changeant de nom, Hucency souhaite étendre son champ d'action dans la sensibilisation aux menaces et s'ouvrir plus ŕ l'international.
+- Avant de Cliquer, qui édite une solution de sensibilisation au phishing pour les entreprises, change de nom pour devenir Hucency pour Human Centered Cybersecurity.
 
 ## [Maturité cyber des TPE-PME : encore un cap à franchir - Cybermalveillance.gouv](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/etude-maturite-cyber-tpe-pme-2025)  
 *Source : cybermalveillance.gouv.fr | Publication : 2025-10-06*
