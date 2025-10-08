@@ -1,5 +1,153 @@
-# Résumés – 2025-10-07
+# Résumés – 2025-10-08
 
+
+## [La saine recette de MindCore Technologies - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-inspirer-confiance-pour-se-developper/la-saine-recette-de-mindcore-technologies-edition_8_octobre_2025/)  
+*Source : lesaffaires.com | Publication : 2025-10-08*
+
+- La saine recette de MindCore Technologies Leïla Jolin-Dahel|Édition d'octobre 2025Patrick Lalongé, vice-président aux technologies pour l’entreprise basée à Terrebonne (Photo: courtoisie) CYBERSÉCURITÉ.
+- En investissant pour la protection de ses données, MindCore Technologies a pu fidéliser et rassurer sa clientèle.
+- L’entreprise d’ingénierie spécialisée en fabrication de sectionneurs pour les postes électriques de moyenne et haute tension voit la cybersécurité comme une partie intégrante des risques d’affaires.
+- « La raison principale de ces efforts reste la gestion du risque », dit Patrick Lalongé, vice-président aux technologies pour l’entreprise basée à Terrebonne.
+
+## [<b>Cybersécurité</b> : un enjeu de résilience et de confiance pour les organisations](https://www.globalsecuritymag.fr/cybersecurite-un-enjeu-de-resilience-et-de-confiance-pour-les-organisations.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-08*
+
+- Cybersécurité : un enjeu de résilience et de confiance pour les organisations octobre 2025 par Ivan Lebowski, Sales Team Leader chez Synology À l’occasion du Mois européen de la cybersécurité, les organisations sont rappelées à une réalité incontournable : la cybermenace n’a jamais été aussi élevée.
+- Multiplication des attaques par ransomware, vols de données sensibles, paralysie des infrastructures... aucun secteur n’est épargné.
+- Dans ce contexte, la cybersécurité ne peut plus se limiter à une approche défensive.
+- Elle doit être pensée comme un levier de résilience et de confiance, en intégrant à la fois la protection, la détection et la capacité de reprise après incident.
+
+## [ITrust Reveelium XDR V12.4 : une plateforme de <b>cybersécurité</b> offrant une détection ... - ITRnews](https://itrnews.com/articles/207454/itrust-reveelium-xdr-v124-une-plateforme-de-cybersecurite-offrant-une-detection-enrichie-et-une-reponse-acceleree.html)  
+*Source : itrnews.com | Publication : 2025-10-08*
+
+- Veuillez activer Javascript.
+
+## [Les TPE-PME françaises en ordre de marche contre la <b>cybercriminalité</b> - ITRnews](https://itrnews.com/articles/207448/les-tpe-pme-francaises-en-ordre-de-marche-contre-la-cybercriminalite.html)  
+*Source : itrnews.com | Publication : 2025-10-08*
+
+- Veuillez activer Javascript.
+
+## [commentaire d'Edwin Weijdema Field CTO EMEA at Veeam &amp; Cybersecurity Lead - Global ...](https://www.globalsecuritymag.fr/veeam-octobre-mois-de-la-sensibilisation-a-la-cybersecurite-commentaire-d-edwin.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-08*
+
+- Veeam : Octobre, mois de la sensibilisation à la cybersécurité : commentaire d’Edwin Weijdema Field CTO EMEA at Veeam & Cybersecurity Lead octobre 2025 par ’Edwin Weijdema Field CTO EMEA at Veeam & Cybersecurity Lead À l’occasion du Mois de la sensibilisation à la cybersécurité, le commentaire d’Edwin Weijdema Field CTO EMEA at Veeam & Cybersecurity Lead : « Le Mois de la sensibilisation à la cybersécurité est de nouveau en cours, mais il semble évident que la sensibilisation n’est plus le problème.
+- Cette initiative est certes louable, mais les cyberattaques régulières visant des entreprises de renom, qui font désormais régulièrement la une de l’actualité mondiale, ont déjà effectué le travail, en plaçant la cybersécurité au premier plan des préoccupations des entreprises du monde entier.
+- C’est désormais sur la préparation qu’il faut se pencher.
+- Si les organisations ont peut-être mis en place des mesures de cybersécurité après avoir vu les gros titres ou simplement pour se conformer à la réglementation, trop de plans de réponse aux incidents reposent encore sur de l’espoir plutôt que sur des éléments concrets.
+
+## [Des décideurs déconnectés de la réalité : 26 % des dirigeants européens ne comprennent ...](https://www.globalsecuritymag.fr/des-decideurs-deconnectes-de-la-realite-26-des-dirigeants-europeens-ne.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-08*
+
+- Des décideurs déconnectés de la réalité : 26 % des dirigeants européens ne comprennent pas la valeur commerciale de la cybersécurité octobre 2025 par Kaspersky Le dernier rapport de Kaspersky intitulé « Cybersécurité des PME : comprendre les failles, combler les manques, identifier l’essentiel » révèle que 26 % des responsables informatiques déclarent que les cadres exécutifs de leur entreprise ne saisissent pas le réel intérêt commercial de la cybersécurité.
+- Cette divergence souligne une fracture structurelle entre les priorités affichées lors des conseils d’administration et la réalité des besoins en matière de dispositifs de cybersécurité.
+- Dans les équipes de sécurité des entreprises européennes, la pression opérationnelle est omniprésente et toutes les personnes en charge doivent mettre les bouchées doubles : pour près d’un tiers (31 %) des responsables informatiques, le suivi des menaces potentielles est un travail à plein temps.
+- De plus, ils sont un sur cinq (20 %) à se sentir submergés par le nombre d’alertes, peinant à faire le distinguo entre les incidents critiques et les signaux parasites.
+
+## [Octobre : mois de la <b>cybersécurité</b> | Service informatique - Polytechnique Montréal](https://www.polymtl.ca/si/nouvelles/octobre-mois-de-la-cybersecurite)  
+*Source : polymtl.ca | Publication : 2025-10-08*
+
+- Ce qu’il faut savoir Participez activement à la cybersécurité : vos gestes quotidiens protègent nos données et nos outils numériques.
+- - Développez vos connaissances en participant aux ateliers et conférences du mois d’octobre.
+- - Aiguisez vos réflexes de cybersécurité en vous référant à la liste des bonnes pratiques proposée.
+- - Un clic de trop peut coûter gros Dans un environnement universitaire où la recherche, la collaboration et l’innovation reposent sur des outils numériques, la cybersécurité est une responsabilité collective.
+
+## [Ériger une forteresse autour de l'information - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-inspirer-confiance-pour-se-developper/eriger-une-forteresse-autour-de-linformation/)  
+*Source : lesaffaires.com | Publication : 2025-10-08*
+
+- Ériger une forteresse autour de l’information Leïla Jolin-Dahel|Édition d'octobre 2025Assurer une sécurité de l’information est «l’une des choses les plus difficiles à faire», selon Patrick Mathieu, cofondateur de Hackfest Communication.
+- (Photo: Adobe Stock) CYBERSÉCURITÉ.
+- La cybersécurité fait partie intégrante de la sécurité de l’information.
+- Or, ce concept plus large n’est pas toujours pris en compte par les entreprises au Québec.
+
+## [Aux 25e édition des Assises de la <b>cybersécurité</b>, des speakers qui ont peur - JDN](https://www.journaldunet.com/cybersecurite/1545123-menace-quantique-souverainete-numerique-la-25e-edition-des-assises-de-la-cybersecurite-dresse-un-bilan-des-risques/)  
+*Source : journaldunet.com | Publication : 2025-10-08*
+
+- Aux 25e édition des Assises de la cybersécurité, des speakers qui ont peur La souveraineté numérique et les nouveaux risques majeurs sont au cœur des discussions de la 25e édition des Assises de la cybersécurité qui se tient à Monaco, du 8 au 11 octobre 2025.
+- Les Assises de la cybersécurité ont démarré ce mercredi 8 septembre 2025 à Monaco.
+- Pendant trois jours, de nombreux acteurs français, européens et mondiaux de la cybersécurité ont l'opportunité d'exposer leurs solutions à des professionnels et experts du secteur.
+- Les premières rencontres ont eu lieu lors d'un déjeuner.
+
+## [Loi 25: les entreprises tardent à se conformer - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-inspirer-confiance-pour-se-developper/loi-25-les-entreprises-tardent-a-se-confirmer-edition_8_octobre_2025/)  
+*Source : lesaffaires.com | Publication : 2025-10-08*
+
+- Loi 25: les entreprises tardent à se conformer Leïla Jolin-Dahel|Édition d'octobre 2025Même si elles reconnaissent que la cybersécurité représente un atout, les entreprises sont peu nombreuses à être conformes à la Loi 25.
+- (Photo: Adobe Stock) CYBERSÉCURITÉ.
+- Les entreprises québécoises sont tenues de se soumettre à la Loi 25 sur la protection des renseignements personnels.
+- Toutefois, moins du quart d’entre elles sont conformes, même si elles voient en la cybersécurité des avantages concurrentiels.
+
+## [<b>Ransomware</b> : que sait-on de DragonForce ? | LeMagIT](https://www.lemagit.fr/actualites/366632532/Ransomware-que-sait-on-de-DragonForce)  
+*Source : lemagit.fr | Publication : 2025-10-08*
+
+- Shutter2U - stock.adobe.com Ransomware : que sait-on de DragonForce ?.
+- Cette enseigne de rançongiciel en mode service est impliquée dans la récente cyberattaque contre la municipalité de Fumel.
+- Elle utilise le ransomware de LockBit sans en être affiliée et aurait absorbé RansomHub.
+- Un cartel malaisien s’en serait pris à Fumel, réussissait son attaque après 1200 tentatives d’intrusion.
+
+## [« L'IA démultiplie les attaques : il faut une <b>cybersécurité</b> souveraine » - Le Monde Informatique](https://www.lemondeinformatique.fr/publi_info/lire-l-ia-demultiplie-les-attaques-il-faut-une-cybersecurite-souveraine-1266.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-10-08*
+
+- Quels signaux forts avez-vous observés récemment dans l’évolution des cybermenaces ?.
+- Laurent Cheyssial : Deux phénomènes majeurs se dégagent.
+- D’abord, l’intensification des attaques.
+- Les chiffres sont parlants : l’an dernier, les trois quarts des entreprises françaises ont été visées[1].
+
+## [<b>Cybersécurité</b> : anticiper plutôt que subir, le mot d'ordre des Assises 2025 à Monaco](https://tribuca.net/actualites_152609997-cybersecurite-anticiper-plutot-que-subir-le-mot-d-ordre-des-assises-2025-a-monaco)  
+*Source : tribuca.net | Publication : 2025-10-08*
+
+- «La cybersécurité est un domaine où l'innovation n'est pas une option, elle est vitale».
+- Le ton est donné par Christophe Mirmand, ministre d'État du.
+
+## [Hack'in Trégor, la <b>cybersécurité</b> à l'ordre du jour à Lannion - Ouest-France](https://www.ouest-france.fr/bretagne/lannion-22300/hackin-tregor-la-cybersecurite-a-lordre-du-jour-a-lannion-2f6dea62-a38f-11f0-88d6-c86b2eb1402b)  
+*Source : ouest-france.fr | Publication : 2025-10-08*
+
+- La 2e édition de Hack'in Trégor aura lieu jeudi 23 octobre 2025 à Nokia et à l'IUT de Lannion (Côtes-d'Armor).
+- À l'heure où la cybersécurité.
+
+## [L'intelligence artificielle, nouvel enjeu stratégique de la <b>cybersécurité</b> nationale](https://maroc-diplomatique.net/lintelligence-artificielle-nouvel-enjeu-strategique-de-la-cybersecurite-nationale/)  
+*Source : maroc-diplomatique.net | Publication : 2025-10-08*
+
+- L’intelligence artificielle, nouvel enjeu stratégique de la cybersécurité nationale Lors d’une conférence organisée à Rabat mardi 7 octobre par Kaspersky, Youssef Bentaleb, président du CMRPI et directeur de la Campagne Nationale de Lutte Contre la Cybercriminalité, a mis en garde contre les risques croissants liés à l’usage malveillant de l’intelligence artificielle.
+- Le Maroc, reconnu pour sa maturité numérique, entend renforcer sa souveraineté face à ces nouvelles menaces.
+- Rabat a accueilli un atelier stratégique dédié aux mutations profondes de la cybersécurité à l’ère de l’intelligence artificielle.
+- Organisé par Kaspersky, cet événement a réuni des experts, des chercheurs et des responsables de la sécurité des systèmes d’information issus d’entreprises, d’administrations et d’institutions publiques.
+
+## [Tunisie : Le ministère de l'Intérieur renforce sa lutte contre la <b>cybercriminalité</b>](https://lapresse.tn/2025/10/08/tunisie-le-ministere-de-linterieur-renforce-sa-lutte-contre-la-cybercriminalite/)  
+*Source : lapresse.tn | Publication : 2025-10-08*
+
+- Le chef de service à la direction de la police judiciaire au ministère de l’Intérieur, Sahbi Omri, a souligné ce mercredi 8 octobre 2025 l’importance croissante de la cybersécurité face aux menaces numériques qui pèsent sur les individus, les institutions et la sécurité nationale.
+- Intervenant sur les ondes de Diwan Fm, Omri a affirmé que l’espace numérique est devenu une composante essentielle de notre quotidien , mettant en garde contre les dangers réels que représentent les cyberattaques pour la sécurité des citoyens, la stabilité de la société et la souveraineté de l’État.
+- Ces déclarations ont été faites en marge de la Première Conférence nationale sur la cybercriminalité à l’ère de l’intelligence artificielle et des technologies émergentes, organisée par le ministère de l’Intérieur.
+- Une stratégie axée sur la prévention, la formation et la coopération Selon Sahbi Omri, la stratégie du ministère repose sur trois axes majeurs : la sensibilisation du public, la formation des compétences nationales dans les domaines de la cybersécurité et la coopération avec les secteurs public et privé, aussi bien au niveau national qu’international.
+
+## [Swiss Life Gestion Privée lance un fonds défense et <b>cybersécurité</b> - L'Agefi](https://www.agefi.fr/gestion-privee/actualites/swiss-life-gestion-privee-lance-un-fonds-defense-et-cybersecurite)  
+*Source : agefi.fr | Publication : 2025-10-08*
+
+- Swiss Life Gestion Privée lance un fonds défense et cybersécurité Le département gestion privée de Swiss Life France lance le fonds «SLGP Cyber Défense», réorienté vers les secteurs de la défense et de la cybersécurité.
+- Composé de 59 valeurs internationales, ce fonds, déjà doté de 30 millions d’euros, ambitionne d’atteindre 100 millions d’encours.
+- Un évènement L’AGEFI.
+- 8 octobre 2025 à 4:30 PM S’inscrire Plus d'articles du même thème Main Capital lève 300 millions pour un fonds de continuation dédié à xxllnc Menée par Hamilton Lane en tant qu'investisseur principal, l'opération a été entièrement souscrite par un groupe de Limited Partners existants du gérant néerlandais.
+
+## [Fin de Windows 10 : comment savoir si un ordinateur est compatible avec Windows 11 et ...](https://www.sudouest.fr/economie/cybersecurite/fin-de-windows-10-comment-savoir-si-un-ordinateur-est-compatible-avec-windows-11-et-que-faire-si-ce-n-est-pas-le-cas-26238327.php)  
+*Source : sudouest.fr | Publication : 2025-10-08*
+
+- À partir du 14 octobre, les ordinateurs fonctionnant avec Windows 10 devaient cesser de recevoir des mises à jour.
+- Si, face au tollé, Microsoft a annoncé un sursis d’un an, voici comment vérifier si vous êtes concernés Microsoft avait annoncé qu’à partir du 14 octobre, les ordinateurs fonctionnant avec Windows 10 cesseraient de recevoir des mises à jour et incitait donc à passer sous Windows 11.
+- Problème, au moins 400 millions de machines, voire plus, sont incompatibles.
+
+## [De nombreux dirigeants étrangers assisteront à la signature de la Convention de Hanoï](https://lecourrier.vn/de-nombreux-dirigeants-etrangers-assisteront-a-la-signature-de-la-convention-de-hanoi/1292519.html)  
+*Source : lecourrier.vn | Publication : 2025-10-08*
+
+- >> AGNU 80 : le Vietnam présente l’ouverture à la signature de la Convention de Hanoï >> La Convention de Hanoï marquera la diplomatie multilatérale du Vietnam >> Convention de Hanoï, empreinte importante de la diplomatie multilatérale du Vietnam Cet événement international important, qui coïncide avec le 80e anniversaire de la fondation des Nations unies (24 octobre), marquera un jalon important dans l’histoire de la diplomatie multilatérale du Vietnam et 47 ans de partenariat entre le Vietnam et les Nations unies, a déclaré à la presse le 8 octobre le vice-ministre des Affaires étrangères Dang Hoàng Giang.
+- Il s’agira de la première fois qu’une convention multilatérale mondiale, dans un domaine d’intérêt majeur pour la communauté internationale, est associée à un nom de lieu du Vietnam, a-t-il indiqué, soulignant que le choix de Hanoi par les Nations Unies pour la tenue de cet événement.
+- Le processus de négociation de la Convention a été lancé en 2019 avec l’élaboration d’un premier projet de document universel et inclusif à l’échelle mondiale.
+- Le Vietnam et d’autres États membres ont soutenu les Nations unies pour lancer les négociations, de février 2022 à août 2024, qui ont abouti à son adoption par l’Assemblée générale des Nations unies, le 24 décembre 2024.
+
+## [<b>Cybersécurité</b>: la proactivité comme facteur d'expansion - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-inspirer-confiance-pour-se-developper/cybersecurite-la-proactivite-comme-facteur-d-expansion-edition_8_octobre_2025/)  
+*Source : lesaffaires.com | Publication : 2025-10-08*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
 ## [Cyberattaques : 8 entreprises sur 10 finissent par payer les pirates - Siècle Digital](https://siecledigital.fr/2025/10/07/cyberattaques-8-entreprises-sur-10-finissent-par-payer-les-pirates/)  
 *Source : siecledigital.fr | Publication : 2025-10-07*
