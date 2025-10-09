@@ -1,5 +1,161 @@
-# Résumés – 2025-10-08
+# Résumés – 2025-10-09
 
+
+## [Octobre 2025 : le mois de la sensibilisation à la <b>cybersécurité</b> - GoodTech.info](https://goodtech.info/mois-cybersecurite-2025-cybermois/)  
+*Source : goodtech.info | Publication : 2025-10-09*
+
+- Jusqu’au 31 octobre, la France participe une nouvelle fois à la grande campagne européenne de sensibilisation à la cybersécurité.
+- Pilotée par la plateforme gouvernementale cybermalveillance.gouv.fr, cette initiative vise à informer et responsabiliser les citoyens face à la montée des cybermenaces.
+- Piratages, escroqueries en ligne, vols de données, usurpations d’identité… particuliers comme les entreprises sont désormais concernés.
+- Lancée il y a plus de vingt ans, la campagne du Mois de la sensibilisation à la cybersécurité (Cybersecurity Awareness Month) s’est imposée comme un rendez-vous mondial.
+
+## [Ce protocole indispensable aux IA est un vrai gruyère pour la <b>cybersécurité</b> - Clubic](https://www.clubic.com/actualite-582631-ce-protocole-indispensable-aux-ia-est-un-vrai-gruyere-pour-la-cybersecurite.html)  
+*Source : clubic.com | Publication : 2025-10-09*
+
+- Le Model Context Protocol relie les intelligences artificielles aux données internes d’une entreprise.
+- Cette connexion facilite aussi l’accès aux serveurs, bases et applications, mais elle augmente fortement les risques d’attaques ciblées.
+- On vous en avait parlé à l'époque de son lancement sur Clubic.
+- Mais si !.
+
+## [Wavestone et CEFCYS s'allient pour les femmes dans la <b>cybersécurité</b>](https://www.wavestone.com/fr/news/wavestone-et-cefcys-pour-les-femmes-dans-la-cybersecurite/)  
+*Source : wavestone.com | Publication : 2025-10-09*
+
+- Wavestone et CEFCYS s’allient pour les femmes dans la cybersécurité 9 octobre 2025 En Europe, seules 20 % des professionnels de la cybersécurité sont des femmes.
+- Un chiffre qui illustre un déséquilibre persistant, mais qui peut et doit changer.
+- Chez Wavestone, nous comptons déjà 30 % de femmes dans nos équipes cyber, un taux encourageant dans ce secteur.
+- Mais nous voulons aller plus loin, au-delà de nos effectifs, en contribuant activement à l’essor de toute une communauté.
+
+## [LockBit, Qilin et DragonForce scellent une alliance historique et rebattent les cartes du <b>ransomware</b>](https://www.clubic.com/actualite-582577-lockbit-qilin-et-dragonforce-scellent-une-alliance-historique-et-rebattent-les-cartes-du-ransomware.html)  
+*Source : clubic.com | Publication : 2025-10-09*
+
+- LockBit revient sur le devant de la scène et s’associe à Qilin et DragonForce.
+- Une coalition inédite qui illustre la recomposition d’un écosystème du ransomware à la fois plus disparate et plus structuré, mais aussi plus agressif et plus imprévisible que jamais.
+- Les alliances entre groupes de ransomware ne sont pas nouvelles, mais celle-ci change la donne.
+- Dans son rapport du troisième trimestre 2025, ReliaQuest détaille comment LockBit, très discret depuis son démantèlement, s’est associé à Qilin et DragonForce pour relancer une économie du ransomware en quête de puissance et de cohésion.
+
+## [Ouverture de la 25ème édition des Assises de la <b>cybersécurité</b>](https://www.gouv.mc/Action-Gouvernementale/Un-Etat-moderne/Actualites/Ouverture-de-la-25eme-edition-des-Assises-de-la-cybersecurite)  
+*Source : gouv.mc | Publication : 2025-10-09*
+
+- Accueil - Un État moderne - Actualités - Ouverture de la 25ème édition des Assises de la cybersécurité - Ouverture de la 25ème édition des Assises de la cybersécurité Les Assises ont débuté hier à Monaco par une introduction de sa Directrice, Maria Iacono, suivie d’une allocution du Ministre d’Etat, Christophe Mirmand, puis des interventions de Claudia Pina, experte nationale détachée auprès d’Eurojust, de Vincent Strubel, Directeur général de l’ANSSI et de Joffrey Céléstin-Urbain, Président Campus Cyber.
+- Les Assises de la cybersécurité sont, depuis 25 ans, une véritable institution pour les experts du domaine, réunissant une communauté engagée pour discuter des problématiques actuelles et futures de la cybersécurité.
+- Avec un espace dédié parmi les professionnels, Monaco Cyber Security Initiative permet à l’Agence Monégasque de Sécurité Numérique (AMSN) de réunir aux Assises les leaders contribuant à la sécurité numérique de la place, spécialisés dans le conseil, le service et l’accompagnement des entités gouvernementales, des opérateurs d’importance vitale (OIV) et des entreprises devant intégrer la cybersécurité dans leurs projets de transition numérique.
+- Lors de son intervention, le Ministre d’Etat s’est adressé aux participants en soulignant que « dans un monde qui est éminemment connecté, dans un contexte international tendu, chaque innovation, chaque interaction repose nécessairement sur la notion de confiance.
+
+## [Webinaire | Un regard d'experts sur la <b>cybersécurité</b> en 2025](https://www.rcgt.com/fr/evenements/webinaire-cybersecurite-vars-2025-comprendre-anticiper-agir/)  
+*Source : rcgt.com | Publication : 2025-10-09*
+
+- Un regard d’experts sur la cybersécurité en 2025 : comprendre, anticiper et agir 73 % des PME canadiennes ont déjà été victimes d’une cyberattaque.
+- Un constat frappant qui rappelle l’urgence d’agir, alors que les cybermenaces se multiplient et gagnent en sophistication.
+- Pour y faire face, les organisations de toutes tailles doivent comprendre les tendances actuelles, anticiper les risques émergents et mettre en place des mesures de protection concrètes.
+- À l’occasion du Mois de la sensibilisation à la cybersécurité, VARS, filiale de Raymond Chabot Grant Thornton, vous invite à la quatrième édition de son webinaire annuel, le 22 octobre à 11 h.
+
+## [Swiss Life Gestion Privée mise sur la défense et la <b>cybersécurité</b> | ZoomInvest](https://zoominvest.fr/actualites/patrimoine/swiss-life-gestion-privee-mise-sur-la-defense-et-la-cybersecurite/gw3avwiskx9d4g2nntbgyikt)  
+*Source : zoominvest.fr | Publication : 2025-10-09*
+
+- cybersécurité.
+- Ce fonds, déjà doté de 30 millions d'euros d'encours, vise désormais les 100 millions à moyen terme.
+- Anciennement baptisé Multi.
+
+## [<b>Cybersécurité</b> : la pépite française Filigran lève 50 millions d'euros - Bpifrance](https://bigmedia.bpifrance.fr/nos-actualites/cybersecurite-la-pepite-francaise-filigran-leve-50-millions-deuros)  
+*Source : bigmedia.bpifrance.fr | Publication : 2025-10-09*
+
+- Cybersécurité : la pépite française Filigran lève 50 millions d’euros Un an après sa série B, la cybertech, qui élabore des solutions open source innovantes, boucle une coquette série C pour accélérer sa croissance et son expansion internationale.
+- News - Cybersécurité - Articles - - Temps de lecture: 2 min - A quelques mois du précédent, le jeune prodige de la cyber française Filigran annonce avoir finalisé un nouveau tour de table pour un montant de 58 millions de dollars (près de 50 millions d’euros).
+- Cela porte à plus de 100 millions de dollars (85 millions d’euros) les fonds levés par la jeune pousse francilienne en seulement trois ans d’existence.
+- Autant dire que la confiance des investisseurs est au rendez-vous.
+
+## [Le ministère de la <b>Cybersécurité</b> et du Numérique a demandé cinq fois l'arrêt du projet](https://www.lapresse.ca/actualites/sante/2025-10-09/virage-informatique-en-sante/le-ministere-de-la-cybersecurite-et-du-numerique-a-demande-cinq-fois-l-arret-du-projet.php)  
+*Source : lapresse.ca | Publication : 2025-10-09*
+
+- (Québec) Le ministère de la Cybersécurité et du Numérique (MCN) a demandé cinq fois en 14 mois à la Santé d’arrêter le projet de transformation numérique des systèmes de gestion financière, d’approvisionnement et des ressources humaines (SIFARH).
+- C’est ce que révèle une lettre écrite par le sous-ministre du MCN, Stéphane Le Bouyonnec, datée du 20 juin 2025 et destinée à la PDG de Santé Québec, Geneviève Biron.
+- Cette lettre a été mise au jour par l’opposition libérale, jeudi.
+- M.
+
+## [Harcèlement, arnaques, sextorsion : les jeunes en première ligne face à la <b>cybercriminalité</b>](https://defimedia.info/harcelement-arnaques-sextorsion-les-jeunes-en-premiere-ligne-face-la-cybercriminalite)  
+*Source : defimedia.info | Publication : 2025-10-09*
+
+- Harcèlement, arnaques, piratages et sextorsion : les adolescents sont de plus en plus touchés par ces fléaux.
+- Publicité « La cybercriminalité n’est pas virtuelle, elle est bien réelle et peut détruire des vies », a déclaré la ministre Arianne Navarre-Marie.
+- C’était lors d’un atelier de travail consacré à l’adolescence et à la cybercriminalité, au Conseil municipal de Port-Louis, ce jeudi, 9 septembre.
+- La cybercriminalité reste un fléau en forte expansion avec 5 200 cas enregistrés en 2024.
+
+## [La Rochelle forme les PME à la <b>cybersécurité</b> sans leur coûter un centime - Placéco](https://www.placeco.fr/nouvelle-aquitaine/ecosysteme/article/la-rochelle-forme-les-pme-a-la-cybersecurite-sans-leur-couter-un-centime-8742)  
+*Source : placeco.fr | Publication : 2025-10-09*
+
+- La Rochelle forme les PME à la cybersécurité sans leur coûter un centime La plupart des entreprises obtiennent un score de 25 à 30 sur 100, bien en-deçà de la moyenne.
+- Crédits Photo : Adobestock À La Rochelle, l’IUT et la start-up Cyber-Cape lancent un nouveau dispositif : des étudiants réalisent gratuitement des audits de cybersécurité pour les TPE-PME locales.
+- Et si, demain, chaque entreprise devait présenter un « diagnostic de performance numérique » au même titre qu’un DPE pour un appartement ?.
+- C’est le vœu de Bruno Dambrun, cofondateur de Cyber-Cape, qui milite pour une prise de conscience collective face au risque cyber.
+
+## [Ludus - Pour monter un lab de <b>cybersécurité</b> en une commande | Le site de Korben](https://korben.info/ludus-automatisation-lab-cybersecurite.html)  
+*Source : korben.info | Publication : 2025-10-09*
+
+- Ludus - Pour monter un lab de cybersécurité en une commande En bref Fini les weekends perdus à configurer Active Directory : Ludus monte votre lab de cybersécurité en une ligne de commande - 32GB de RAM minimum pour jouer au hacker : ce nouvel outil libre exclut déjà la moitié des bidouilleurs - Les pentesteurs peuvent enfin isoler leurs tests du net : plus de télémétrie Windows qui fuit pendant vos attaques simulées - Vous faites du pentest, de la recherche en sécu ou vous êtes juste un curieux qui aime bidouiller des environnements de test ?.
+- Dans ce cas, il faut absolument que vous vous montiez un lab cybersécurité !.
+- Mais c’est vai que c’est souvent la galère… Y’a Active Directory à configurer, des VMs Windows à déployer, des réseaux isolés à créer, tout ça manuellement… Ça prend des heures, voire des jours.
+- Heureusement, Ludus règle le problème !.
+
+## [<b>Cybermenaces</b> : le maillon faible des révoltes Gen Z [Business Africa] - YouTube](https://www.youtube.com/watch?v=KzkJ8dJ__Hc)  
+*Source : youtube.com | Publication : 2025-10-09*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Identité numérique : au cœur de la <b>cybersécurité</b> - Global Security Mag Online](https://www.globalsecuritymag.fr/identite-numerique-au-coeur-de-la-cybersecurite.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-09*
+
+- Identité numérique : au cœur de la cybersécurité octobre 2025 par Jérôme Frou, VP chez Linxens Gouvernement Dans un monde où une identité volée peut ouvrir la porte à des centaines de fraudes, protéger son identité numérique n’a jamais été aussi vital.
+- Octobre marque le Mois européen de la cybersécurité, une occasion de rappeler l’importance de renforcer la protection des données et des identités face à la montée des cybermenaces.
+- Les attaques informatiques font souvent la une, mais la sécurité des identités – cartes d’identité, passeports ou titres – est tout aussi cruciale.
+- Avec la multiplication des fraudes documentaires et des usurpations d’identité, garantir l’authenticité et l’intégrité des documents officiels est devenu un enjeu stratégique.
+
+## [Cybermois 2025 : engageons-nous pour la <b>cybersécurité</b> | solidarites.gouv.fr](https://solidarites.gouv.fr/cybermois-2025-engageons-nous-pour-la-cybersecurite)  
+*Source : solidarites.gouv.fr | Publication : 2025-10-09*
+
+- Cybermois 2025 : engageons-nous pour la cybersécurité Publié le | Comme chaque année, le mois d’octobre sonne le lancement du cybermois.
+- Le ministère en charge des Solidarités soutient cette initiative menée par Cybermalveillance.gouv.fr.
+- Cette 13e édition a pour objectif de sensibiliser le public aux risques liés au numérique et aux bonnes pratiques à adopter pour s’en prémunir, avec sa campagne de communication « Histoire de Cyber ».
+- Les résultats du 2e baromètre sur la perception des cybermenaces menée par Ispos montrent que les Français sont mieux sensibilisés face à ce fléau.
+
+## [Conférence <b>cybersécurité</b> Langeac - Actualité illiwap de Mairie de Lavoûte-Chilhac](https://station.illiwap.com/fr/public/43118/actu/conference-cybersecurite-langeac-3)  
+*Source : station.illiwap.com | Publication : 2025-10-09*
+
+- Conférence cybersécurité Langeac Face à la multiplication des arnaques en ligne et des sollicitations abusives, France Services vous propose une conférence dédiée à la cybersécurité le Vendredi 10 octobre 2025 à 14 heures à la médiathèque de Langeac.
+- Au programme : Comprendre les risques liés aux SMS frauduleux, mails piégés ou appels téléphoniques abusifs, apprendre à repérer les signaux d'alerte et adopter les bons réflexes face aux tentatives d'escroquerie.
+- Conférence ouverte à tous et gratuite.
+- abusives, France Services vous propose une conférence dédiée à la cybersécurité le Vendredi 10 octobre 2025 à 14 heures à la médiathèque de Langeac.
+
+## [<b>Cybersécurité</b>, IA, stratégie : le Congrès des DAF explore &quot;la révolution de la fonction financière&quot;](https://imazpress.com/actus-reunion/congres-daf-2025)  
+*Source : imazpress.com | Publication : 2025-10-09*
+
+- Plus de 150 décideurs économiques se sont réunis ce jeudi 9 octobre 2025 pour la 11ᵉ édition du Congrès des DAF, organisé par le cabinet de conseil et d’expertise comptable HDM Réunion-Mayotte.
+- Au programme : intelligence artificielle, cybersécurité, facturation électronique et transformation du rôle du directeur administratif et financier (DAF), devenu un acteur stratégique clé dans la gouvernance des entreprises.
+- (Photo HDM Réunion-Mayotte) Créé il y a plus de dix ans par HDM Réunion-Mayotte, le Congrès des DAF est devenu un rendez-vous incontournable pour la communauté des experts-comptables et financiers de l’île.
+- Cette 11ᵉ édition, placée sous le thème "La révolution de la fonction financière", a permis d'explorer les transformations d’un métier désormais au cœur des décisions stratégiques.
+
+## [<b>Cybermenace</b> - Podcast | vie-publique.fr](https://www.vie-publique.fr/podcast/300333-cybermenace-podcast)  
+*Source : vie-publique.fr | Publication : 2025-10-09*
+
+- Le JavaScript n'est pas activé sur votre navigateur.
+- Le JavaScript n'est pas activé sur votre navigateur.
+- Pour vous permettre de naviguer correctement sur notre site, il est nécessaire qu'il soit activé.
+- Comment activer le JavaScript ?.
+
+## [Hype Cycle 2025: l'IA gen en recul, la <b>cybersécurité</b> en plein boom - Decision-achats.fr](https://www.decision-achats.fr/uncategorized/hype-cycle-2025-lia-gen-en-recul-la-cybersecurite-en-plein-boom-49311/amp)  
+*Source : decision-achats.fr | Publication : 2025-10-09*
+
+- Le Hype Cycle de Gartner cartographie la trajectoire d’une technologie, du déclencheur d’innovation jusqu’au plateau de productivité.
+- Cette lecture permet aux CPO et SCO de caler leurs décisions d’investissement sur la réalité de la maturité technologique plutôt que sur l’effet de mode.
+- Quid de ses enseignements 2025 ?.
+- La cybersécurité appliquée aux chaînes d’approvisionnement se situe au pic des attentes en 2025.
+
+## [Dattak : Charles Dagouat nommé directeur <b>cybersécurité</b> &amp; head of CERT](https://tribune-assurance.optionfinance.fr/depeches/d/2025-10-09-dattak-charles-dagouat-nomme-directeur-cybersecurite-head-of-cert.html)  
+*Source : tribune-assurance.optionfinance.fr | Publication : 2025-10-09*
+
+- (AOF) - Dattak, spécialiste de l’assurance cyber proactive, annonce la nomination de Charles Dagouat en tant que directeur cybersécurité & head of CERT (computer emergency response team = centre d'alerte et de réaction aux attaques informatiques).
+- À ce poste clé, il aura pour mission de piloter le CERT interne de Dattak, de renforcer l’offre de services de cybersécurité intégrés à l’assurance, et d’accompagner les clients dans la gestion proactive de leurs risques numériques.
+- Son rôle couvrira la détection, la réponse à incident et la mise en place de solutions pour améliorer la résilience des entreprises face aux cybermenaces.
+- Diplômé de l'ECE et de Télécom Paris (Mastère spécialisé en sécurité des systèmes d'information), Charles Dagouat a plus de quinze ans d'expérience en cybersécurité.
 
 ## [La saine recette de MindCore Technologies - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-inspirer-confiance-pour-se-developper/la-saine-recette-de-mindcore-technologies-edition_8_octobre_2025/)  
 *Source : lesaffaires.com | Publication : 2025-10-08*
