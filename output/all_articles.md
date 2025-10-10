@@ -1,5 +1,151 @@
-# Résumés – 2025-10-09
+# Résumés – 2025-10-10
 
+
+## [Figure 03, un nouveau pas de géant vers l'avènement de la robotique humanoïde](https://www.latribune.fr/article/tech/intelligence-artificielle/1267426333669114/figure-03-un-nouveau-pas-de-geant-vers-l-avenement-de-la-robotique-humanoide)  
+*Source : latribune.fr | Publication : 2025-10-10*
+
+- Figure 03, un nouveau pas de géant vers l’avènement de la robotique humanoïde Ce contenu est réservé aux abonnés Le robot Figure 03, de la start-up américaine Figure AI.
+- Ce contenu est réservé aux abonnés Le robot Figure 03, de la start-up américaine Figure AI.
+- Dans un salon immaculé aux lignes épurées, un humanoïde s’affaire.
+- Il débarrasse la table basse d’une assiette, balaie les miettes du bout des doigts, marche d’un pas tranquille jusqu’à la cuisine.
+
+## [Cyberattaque dans les Hauts-de-France : 80 % des lycées touchés, l'accès aux réseaux suspendu](https://www.ouest-france.fr/societe/cyberattaque/cyberattaque-dans-les-hauts-de-france-80-pourcent-des-lycees-touches-lacces-aux-reseaux-suspendu-032166d4-a5e5-11f0-a399-70ff1c676380)  
+*Source : ouest-france.fr | Publication : 2025-10-10*
+
+- L'académie a évoqué dans un communiqué un « incident de cybersécurité » qui « touche actuellement le système d'information ».
+- Il serait lié au.
+
+## [«Cyber 11-Septembre» : quel est ce scénario catastrophe pour lequel l'Etat se prépare ?](https://www.cnews.fr/vie-numerique/2025-10-10/cyber-11-septembre-quel-est-ce-scenario-catastrophe-pour-lequel-letat-se)  
+*Source : cnews.fr | Publication : 2025-10-10*
+
+- Mohammed Boumediane, président du groupe ZIWIT, présent dans six pays et leader européen de la cybersécurité , explique à CNEWS : «Aujourd'hui la.
+
+## [Hauts-de-France : 80% des lycées de la région touchés par une cyberattaque - Le Figaro](https://www.lefigaro.fr/actualite-france/hauts-de-france-80-des-lycees-de-la-region-touches-par-une-cyberattaque-20251010)  
+*Source : lefigaro.fr | Publication : 2025-10-10*
+
+- Hauts-de-France : 80% des lycées de la région touchés par une cyberattaque Selon un communiqué de la région, il s’agit «d’un incident de cybersécurité qui touche le système d’information des établissements.» Passer la publicité Passer la publicité«Un incident de cybersécurité» : voici comment l’académie des Hauts-de-France a qualifié ce vendredi la cyberattaque encore en cours qui a touché 80% des lycées de la région.
+- Depuis ce matin, l’accès aux réseaux et à Internet a été temporairement suspendu et les établissements fonctionnent au ralenti.
+- Selon les premières informations, la cyberattaque a visé «des données techniques» et serait liée au «rançongiciel» Qilin, un logiciel malveillant qui a fait son apparition en 2022 et qui a revendiqué récemment une attaque contre le géant japonais Asahi Group.
+- Comme le prévoit la loi, une plainte a été déposée par la collectivité.
+
+## [XGuard EDR, la <b>cybersécurité</b> en mode service selon Ingram Micro - ITRnews](https://itrnews.com/articles/207496/xguard-edr-la-cybersecurite-en-mode-service-selon-ingram-micro.html)  
+*Source : itrnews.com | Publication : 2025-10-10*
+
+- Veuillez activer Javascript.
+
+## [Gérard Perrier Industrie annonce l'acquisition de 80% du capital de la société N-CyP](https://bourse.fortuneo.fr/actualites-amp/gerard-perrier-industrie-annonce-l-acquisition-de-80-du-capital-de-la-societe-n-cyp-9689276)  
+*Source : bourse.fortuneo.fr | Publication : 2025-10-10*
+
+- Gérard Perrier Industrie, groupe spécialisé dans les automatismes et les équipements électriques destinés à l'industrie, annonce l'acquisition de 80% du capital de la société N-CyP.
+- Cette opération s'inscrit dans la stratégie de développement du Groupe visant à renforcer son positionnement sur le marché des solutions numériques et de cybersécurité industrielle.
+- Fondée à Caen, N-CyP reconnue pour son savoir-faire comme centre de surveillance de cybersécurité et comme Centre de Réponse aux Incidents de Sécurité Informatique (traitement des incidents de cybersécurité) en utilisant les outils et les technologies les plus avancées pour faire face aux menaces pouvant nuire à l'activité d'une entreprise.
+- Cette acquisition permettra à GPI de compléter son offre technologique et d'accélérer sa croissance sur la conception et l'intégration de solutions de cybersécurité pour les systèmes industriels, un segment en forte expansion, tout en consolidant son ancrage dans les services à haute valeur ajoutée.
+
+## [Hauts-de-France : 80 % des lycées publics victimes d'une cyberattaque - Orange Actu](https://actu.orange.fr/france/hauts-de-france-80-des-lycees-publics-victimes-d-une-cyberattaque-magic-CNT000002l9iMJ.html)  
+*Source : actu.orange.fr | Publication : 2025-10-10*
+
+- Hauts-de-France : 80 % des lycées publics victimes d'une cyberattaque © Pixabay (photo d'illustration) Vendredi 10 octobre, l'Académie des Hauts-de-France a indiqué qu'un "incident de cybersécurité" touchait 80 % des lycées publics de la région.
+- L'accès à Internet est temporairement suspendu dans les établissements concernés, rapporte La Voix du Nord.
+- Une fin de semaine pas comme les autres dans de nombreuses salles de classe des Hauts-de-France.
+- Vendredi 10 octobre, 80 % des lycées publics de la région ont été la cible d'un "incident de cybersécurité".
+
+## [CamoLeak - Quand un simple commentaire GitHub transforme Copilot en espion | Le site de Korben](https://korben.info/camoleak-github-copilot-vulnerability-prompt-injection.html)  
+*Source : korben.info | Publication : 2025-10-10*
+
+- CamoLeak - Quand un simple commentaire GitHub transforme Copilot en espion En bref GitHub transforme son propre système de sécurité Camo en arme d'espionnage contre les développeurs - Un simple commentaire invisible peut voler vos clés AWS et secrets privés sans que vous le sachiez jamais - Les IA de code créent une nouvelle génération de vulnérabilités impossibles à détecter à l'œil humain - Y’a plein de problème avec les IA, mais y’en a un encore un peu trop sous-estimé par les vibe codeurs que vous êtes… Ce problème, c’est qu’on leur fait confiance comme à un collègue, on leur montre notre code, nos repos privés, nos petits secrets bien planqués dans les variables d’environnement… Par exemple, quand vous passez en revue une pull request sur GitHub, vous faites quoi ?.
+- Vous lisez le code ligne par ligne, vous cherchez les bugs, les failles de sécu, les optimisations possibles.
+- Mais les commentaires vous les lisez ?.
+- Au mieux on les survole, c’est vrai, car c’est de la comm’ entre devs, et pas du code exécutable.
+
+## [GERARD PERRIER INDUSTRIE rachète la société N-CYP - 10/10/2025 à 18:15](https://www.boursorama.com/bourse/actualites-amp/gerard-perrier-industrie-rachete-la-societe-n-cyp-3ee4de43032393c66afa80c6be8bfb96)  
+*Source : boursorama.com | Publication : 2025-10-10*
+
+- GERARD PERRIER INDUSTRIE rachète la société N-CYP information fournie par Boursorama CP 10/10/2025 à 18:15 Gérard Perrier Industrie (Euronext Paris : PERR), groupe spécialisé dans les automatismes et les équipements électriques destinés à l’industrie, annonce l’acquisition de 80 % du capital de la société N-CyP.
+- Cette opération s’inscrit dans la stratégie de développement du Groupe visant à renforcer son positionnement sur le marché des solutions numériques et de cybersécurité industrielle.
+- Fondée à Caen, N-CyP reconnue pour son savoir-faire comme centre de surveillance de cybersécurité et comme Centre de Réponse aux Incidents de Sécurité Informatique (traitement des incidents de cybersécurité) en utilisant les outils et les technologies les plus avancées pour faire face aux menaces pouvant nuire à l’activité d’une entreprise.
+- Cette acquisition permettra à GPI de compléter son offre technologique et d’accélérer sa croissance sur la conception et l’intégration de solutions de cybersécurité pour les systèmes industriels, un segment en forte expansion, tout en consolidant son ancrage dans les services à haute valeur ajoutée.
+
+## [Post de Jean LARROUMETS - LinkedIn](https://fr.linkedin.com/posts/jeanlarroumets_cybersécurité-cyber-risk-activity-7382028911171424256-47X4)  
+*Source : fr.linkedin.com | Publication : 2025-10-10*
+
+- 🔥 Les Assises – Day 2 !.
+- 🤝 Heureux d’être à Monaco avec l’équipe Egerie pour échanger autour de la #cybersécurité et du #cyber #risk #management.
+- 📍 Rendez-vous sur le stand L18 !.
+- #LesAssises #LA25 #Cybersécurité #Egerie #TeamEgerie 👏👏😊 Bon salon à vous 🚀 On s'est ratés cette année, cher Jean !.
+
+## [La pépite française Astran qui permet aux entreprises de fonctionner malgré une ... - Challenges](https://www.challenges.fr/la-verticale-cyber/la-pepite-francaise-astran-qui-permet-aux-entreprises-de-fonctionner-malgre-une-cyberattaque-recompensee-a-monaco_627188)  
+*Source : challenges.fr | Publication : 2025-10-10*
+
+- La pépite française Astran qui permet aux entreprises de fonctionner malgré une cyberattaque récompensée à Monaco Vainqueur du prix de l’innovation des Assises de la cybersécurité 2025 de Monaco, Astran développe une solution permettant aux entreprises de continuer à fonctionner en cas de cyberattaque.
+- De quoi attirer des clients prestigieux - et viser grand.
+- C’est avec de l’émotion dans la voix que Yosra Jarraya a conclu son discours de remerciements au jury sur la scène du Forum Grimaldi.
+- Et pour cause : sa jeune start-up, Astran, a remporté le prix de l’innovation des Assises de la cybersécurité 2025.
+
+## [<b>Ransomware</b> : Qilin, l'une des enseignes les plus actives du moment - LeMagIT](https://www.lemagit.fr/actualites/366632659/Ransomware-Qilin-lune-des-enseignes-les-plus-actives-du-moment)  
+*Source : lemagit.fr | Publication : 2025-10-10*
+
+- LeMagIT Ransomware : Qilin, l’une des enseignes les plus actives du moment Malgré des signes d’instabilité, l’enseigne de rançongiciel Qilin connaît une progression fulgurante de son niveau d’activité observable depuis le début de l’année.
+- Elle a récemment revendiqué l’attaque contre Asahi.
+- Quel est le trait d’union entre le district scolaire d’Uvalde aux États-Unis, Asahi au Japon, la commune de Saint-Claude en France, le centre médical Shamir en Israël, l’énergéticien Elmar à Aruba, ou encore Airbus Public Safety and Security au Mexique ?.
+- L’enseigne de ransomware Qilin.
+
+## [GERARD PERRIER INDUSTRIE rachète la société N-CYP - WebDisclosure](https://www.webdisclosure.com/press-release/gerard-perrier-industrie-rachete-la-societe-n-cyp-ZEeEaxgkAtT)  
+*Source : webdisclosure.com | Publication : 2025-10-10*
+
+- from GERARD PERRIER (EPA:PERR) GERARD PERRIER INDUSTRIE rachète la société N-CYP.
+- Gérard Perrier Industrie (Euronext Paris : PERR), groupe spécialisé dans les automatismes et les équipements électriques destinés à l’industrie, annonce l’acquisition de 80 % du capital de la société NCyP1.
+- Cette opération s’inscrit dans la stratégie de développement du Groupe visant à renforcer son positionnement sur le marché des solutions numériques et de cybersécurité industrielle.
+- Fondée à Caen, N-CyP reconnue pour son savoir-faire comme centre de surveillance de cybersécurité et comme Centre de Réponse aux Incidents de Sécurité Informatique (traitement des incidents de cybersécurité) en utilisant les outils et les technologies les plus avancées pour faire face aux menaces pouvant nuire à l’activité d’une entreprise.
+
+## [Apple vous payera 2 millions de dollars si vous réussissez cet exploit sur iPhone](https://www.numerama.com/cyberguerre/2091443-apple-vous-payera-2-millions-de-dollars-si-vous-reussissez-cet-exploit-sur-iphone.html)  
+*Source : numerama.com | Publication : 2025-10-10*
+
+- Vous avez besoin d’argent ?.
+- Piratez votre iPhone.
+- Dans un communiqué publié le 10 octobre, Apple annonce augmenter les primes versées dans le cadre de son programme bug bounty, qui vise à récompenser les hackers et les chercheurs en cybersécurité qui préfèreraient alerter la marque d’une faille, plutôt que de l’utiliser à des fins malveillantes.
+- Depuis 2020, Apple indique à Numerama avoir versé 35 millions de dollars à 800 chercheurs, avec des primes maximales aujourd’hui fixées à 500 000 dollars.
+
+## [Un après-midi dédié à la <b>cybersécurité</b> au Kiabi Village, près de Lille](https://lilleaddict.fr/non-classe/campus-cyber-au-kiabi-village-pres-de-lille.html)  
+*Source : lilleaddict.fr | Publication : 2025-10-10*
+
+- Un nouvel événement gratuit dédié à la sensibilisation à la cybersécurité débarque le 15 octobre au Kiabi Village, juste à côté de Lille.
+- Au programme : des animations ludiques pour tester tes connaissances en famille, une exposition pour t’aider à adopter tous les bons réflexes et d’autres activités très sympa.
+- Je te dis tout ce que tu dois savoir juste ici.
+- 👇 Une des étapes du CyberTour de France, juste à côté de Lille Pour la 13e édition du Cybermois, le Campus Cyber Hauts-de-France Lille Métropole et Cybermalveillance.gouv.fr s’associent pour faire de la région Hauts-de-France une étape du CyberTour de France.
+
+## [Sacrifier la <b>cybersécurité</b> pour faire des économies : la mauvaise habitude persiste dans les PME](https://www.latribune.fr/article/tech/informatique/16154479901493/sacrifier-la-cybersecurite-pour-faire-des-economies-la-mauvaise-habitude-persiste-dans-les-pme)  
+*Source : latribune.fr | Publication : 2025-10-10*
+
+- Sacrifier la cybersécurité pour faire des économies : la mauvaise habitude persiste dans les PME Ce contenu est réservé aux abonnés La cybersécurité représente encore un poste de dépense couteux pour les PME.
+- Unsplash Ce contenu est réservé aux abonnés La cybersécurité représente encore un poste de dépense couteux pour les PME.
+- Unsplash Un tapis rouge à l’entrée du salon, des stands grands comme des appartements, des contrats signés pour plusieurs centaines de milliers d’euros… À Monaco, aux Assises de la cybersécurité, un événement qui réunit jusqu’au 10 octobre tout l’écosystème français du secteur, les multinationales rencontrent les géants du logiciel de sécurité pour souscrire à des programmes sur mesure destinés à protéger leurs systèmes.
+- Mais si ces grands groupes sont capables d’aligner d’importantes sommes pour se défendre, loin du faste monégasque, ce sont surtout les plus petites structures qui tombent dans les filets des cybercriminels.
+
+## [Hauts-de-France: 80% des lycées de la région victimes d'une cyberattaque par rançongiciel](https://www.bfmtv.com/tech/cybersecurite/hauts-de-france-80-des-lycees-de-la-region-victimes-d-une-cyberattaque-par-rancongiciel_AV-202510100621.html)  
+*Source : bfmtv.com | Publication : 2025-10-10*
+
+- Hauts-de-France: 80% des lycées de la région victimes d'une cyberattaque par rançongiciel Ce 10 octobre 2025, une cyberattaque encore en cours touche 80% des lycées publics des Hauts-de-France.
+- Dans un communiqué, l'académie, qui a autorité sur le sujet, parle d'un "incident de cybersécurité (qui) touche actuellement le système d'information".
+- C'est un rançongiciel qui est à l'oeuvre et il est baptisé Qilin, d'après une créature mythologique chinoise, même si ce ransomware pourrait plutôt être d'origine russe.
+- Ce logiciel malveillant a commencé à faire parler de lui en 2022, et a connu un second souffle au cours de l'été dernier, se répandant à nouveau dans de nombreux réseaux.
+
+## [2e forum de la <b>cybersécurité</b> - Tahiti Infos](https://www.tahiti-infos.com/2e-forum-de-la-cybersecurite_a233377.amp.html)  
+*Source : tahiti-infos.com | Publication : 2025-10-10*
+
+- Tahiti, le 9 octobre 2025 - Les 16,17 et 18 octobre se tiendra sous le chapiteau de la présidence le 2e forum polynésien de la cybersécurité organisé par le Club de la sécurité de l'information Région Tahiti qui depuis plus de 10 ans a pour mission de faciliter l'entraide, le partage d'expériences et les bonnes pratiques pour la sécurité de l'information.
+- Lors de ce deuxième forum, il sera question de “résilience cyber” face au développement toujours plus rapide des services numériques et à la démocratisation de l’usage de l'intelligence artificielle.
+- Ces rencontres de la cybersécurité sont organisées pour “assurer la confiance et la souveraineté numérique du territoire”.
+- Plusieurs points seront d’ailleurs évoqués comme l’accélération de la montée en compétences locale en cybersécurité, la sensibilisation aux risques numériques et les bonnes pratiques, la volonté de créer un lieu de rencontre entre acteurs publics, privés et citoyens et le renforcement de la culture numérique responsable sur l’ensemble du Fenua.
+
+## [DV Group rachète Diagrams - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/63974-dv-group-rachete-diagrams.html)  
+*Source : linformaticien.com | Publication : 2025-10-10*
+
+- DV Group renforce sa stratégie industrielle en rachetant Diagrams Technologies, spécialiste de l'analyse de données industrielles et de.
+
+## [L'intelligence artificielle révolutionne la sécurité informatique, mais à quel prix ? | Les Echos](https://www.lesechos.fr/partenaires/veeam/lintelligence-artificielle-revolutionne-la-securite-informatique-mais-a-quel-prix-2190949)  
+*Source : lesechos.fr | Publication : 2025-10-10*
+
+- Andre Troskie, directeur de la cybersécurité pour la région EMEA chez Veeam Software (leader mondial des solutions de sauvegarde et de résilience des.
 
 ## [Octobre 2025 : le mois de la sensibilisation à la <b>cybersécurité</b> - GoodTech.info](https://goodtech.info/mois-cybersecurite-2025-cybermois/)  
 *Source : goodtech.info | Publication : 2025-10-09*
