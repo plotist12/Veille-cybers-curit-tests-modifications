@@ -1,5 +1,149 @@
-# Résumés – 2025-10-10
+# Résumés – 2025-10-11
 
+
+## [SonicWall VPN : Touché par des failles de sécurité majeures ! | LesNews](https://lesnews.ca/tech/cybersecurite/sonicwall-vpn-touche-par-des-failles-de-securite-majeures/)  
+*Source : lesnews.ca | Publication : 2025-10-11*
+
+- En tant qu'observateur de l'évolution de la cybersécurité , il est essentiel de se demander comment nous pouvons améliorer nos systèmes de défense face.
+
+## [Le Niger se dote d'un centre national de Cybersecurité (CNAC)](https://anp.ne/le-niger-se-dote-dun-centre-national-de-cybersecurite-cnac/)  
+*Source : anp.ne | Publication : 2025-10-11*
+
+- Niamey, 11 Oct (ANP) – Le gouvernement nigérien a adopté, ce samedi 11 octobre 2025, le décret portant création d’un établissement public à caractère administratif dénommé » Centre National de Cybersecurité (CNAC), et celui portant approbation des statuts de cet établissement.
+- Le Niger s’est doté en 2022 d’une Stratégie Nationale en matière de cybersécurité.
+- L’objectif de cette stratégie est d’assurer au Niger un cyber espace sécurisé et résilient favorable à son développement économique et social.
+- Elle prévoit dans le dispositif de sa mise en œuvre, entre autres, la création d’un Centre National de Cybersécurité, indique le communiqué du conseil des ministres.
+
+## [<b>Cybercriminalité</b> : quels sont les risques pour les TPE/PME ? - CCI - Tribuca.net](https://tribuca.net/agenda-des-pros/cybercriminalite-quels-sont-les-risques-pour-les-tpe-pme-cci/)  
+*Source : tribuca.net | Publication : 2025-10-11*
+
+- Cybercriminalité : quels sont les risques pour les TPE/PME ?.
+- – CCI ... Webinar dans le cadre des Google Ateliers numériques.
+- CCI Nice Côte d'Azur.
+- 04 93.
+
+## [Menaces numériques : «La <b>cybersécurité</b> n'est plus une option, mais un pilier de confiance ...](https://fnh.ma/article/alaune/menaces-numeriques-cybersecurite-economie-marocaine)  
+*Source : fnh.ma | Publication : 2025-10-11*
+
+- Face à des cybermenaces croissantes, la cybersécurité devient un enjeu capital pour la stabilité financière du Maroc, d’où la nécessité de renforcer la résilience numérique.
+- Attaques ciblées, fuites de données, phishing massif…, le secteur financier est en première ligne.
+- Décryptage avec Abdeljalil Sadik, consultant en stratégie et gouvernance des systèmes d’information et expert en cybercriminalité et IA.
+- Propos recueillis par Ibtissam Z. Finances News Hebdo : Pourquoi la cybersécurité constitue-t-elle aujourd’hui un enjeu stratégique majeur pour l’économie marocaine, en particulier pour le secteur financier ?.
+
+## [La prochaine bataille du Net aura lieu au Michigan, où le VPN devient l'ennemi à abattre](https://www.clubic.com/actualite-582793-la-prochaine-bataille-du-net-aura-lieu-au-michigan-et-le-vpn-sera-l-arme-qu-on-veut-interdire.html)  
+*Source : clubic.com | Publication : 2025-10-11*
+
+- Dans l'état du Michigan aux États-Unis, un représentant républicain semble d'être inspiré des dictatures à travers le monde pour interdire totalement la pornographie sur Internet, stigmatiser une partie de la population, mais aussi rendre illégal les outils de contournement comme les VPN.
+- Aux États-Unis, le Michigan fait historiquement partie de ces Swing States.
+- De 1972 à 1988, l'état choisit systématiquement les candidats républicains pour la présidentielle.
+- Mais de 1992 à 2012, il évolue du côté du "blue wall", un ensemble d'états fidèles au Parti démocrate.
+
+## [Le Darknet français frappé au cœur : démantèlement de la plateforme « Dark French Anti System](https://policeetrealites.com/2025/10/11/🇫🇷-le-darknet-francais-frappe-au-coeur-demantelement-de-la-plateforme-dark-french-anti-system/)  
+*Source : policeetrealites.com | Publication : 2025-10-11*
+
+- La DNRED a démantelé « Dark French Anti System », une vaste plateforme du Darknet active depuis 2017 et fréquentée par plus de 10 000 utilisateurs.
+- Stupéfiants, armes, faux papiers, données bancaires et fichiers de police y étaient échangés.
+- Deux personnes ont été interpellées.
+- Une plateforme du Darknet au cœur des trafics en ligne La Direction nationale du renseignement et des enquêtes douanières (DNRED) a annoncé avoir démantelé lundi une importante plateforme illégale du Darknet français, baptisée « Dark French Anti System » (DFAS), comme le relate France Info.
+
+## [À Castets, un atelier ludique sur la <b>cybersécurité</b> organisé mercredi - Sud Ouest](https://www.sudouest.fr/landes/a-castets-un-atelier-ludique-sur-la-cybersecurite-organise-mercredi-26118473.php)  
+*Source : sudouest.fr | Publication : 2025-10-11*
+
+- La communauté de communes Côte Landes nature et l’espace France services sont à l’initiative de ce moment de sensibilisation ludique et gratuit Dans le cadre des journées portes ouvertes de France services, un atelier original dédié à la cybersécurité sera proposé mercredi 15 octobre de 14 h 30 à 16 h 30, à l’espace France services de la communauté de communes Côte Landes nature à Castets.
+
+## [La ministre des Affaires du Cabinet a souligné la nécessité d'une collaboration accrue pour ...](https://www.ena.et/web/fre/w/fre_7503299)  
+*Source : ena.et | Publication : 2025-10-11*
+
+- La ministre des Affaires du Cabinet a souligné la nécessité d’une collaboration accrue pour assurer la cybersécurité.
+- - ENA Français La ministre des Affaires du Cabinet a souligné la nécessité d’une collaboration accrue pour assurer la cybersécurité.
+- Addis-Abeba, le 11 octobre 2025 (ENA) : - Reconnaissant le lien étroit entre la cybersécurité et la souveraineté nationale, la chef du cabinet du Premier ministre et ministre des Affaires du Cabinet, Alemtsehay Paulos, a insisté sur la nécessité de renforcer les efforts conjoints dans ce domaine.
+- Le 6ᵉ Mois national de la cybersécurité a été lancé aujourd’hui à Addis-Abeba afin de sensibiliser le public à l’importance de la protection numérique.
+
+## [QBE prévient que les attaques de <b>ransomware</b> pourraient augmenter de 40 % au cours des ...](https://www.vietnam.vn/fr/qbe-canh-bao-so-vu-tan-cong-ma-doc-tong-tien-co-the-tang-40-trong-2-nam-toi)  
+*Source : vietnam.vn | Publication : 2025-10-11*
+
+- Les attaques de ransomware devraient augmenter de plus de 40 % au cours des deux prochaines années, le nombre de victimes répertoriées sur les sites Web de fuite de données devant dépasser 7 000 d'ici la fin de 2026, selon une nouvelle étude de l'assureur QBE.
+- Un rapport sur la cybersécurité réalisé par QBE en partenariat avec le cabinet de conseil en gestion de crise Control Risks a révélé que les incidents de ransomware ont quintuplé depuis 2020.
+- En 2024, 5 010 victimes ont été nommées publiquement sur des sites de fuites, contre seulement 1 412 victimes il y a quatre ans.
+- QBE a également constaté que les incidents de ransomware au premier trimestre 2025 ont presque triplé d'une année sur l'autre pour atteindre 1 537, contre 572 au cours de la même période en 2024.
+
+## [<b>Cybersécurité</b> : L'intérieur prévoit un vaste plan pour protéger ses systèmes informatiques](https://fr.hespress.com/444912-cybersecurite-linterieur-prevoit-un-vaste-plan-pour-proteger-ses-systemes-informatiques.html)  
+*Source : fr.hespress.com | Publication : 2025-10-11*
+
+- Le ministère de l’Intérieur a annoncé le lancement d’un projet stratégique d’envergure dans le domaine de la cybersécurité, destiné à renforcer la protection de ses infrastructures informatiques aux niveaux central et territorial.
+- Ce programme s’inscrit dans le cadre de l’appel d’offres international ouvert n°30/2025, pour une valeur estimée à environ 33,6 millions de dirhams.
+- Selon les documents de la consultation, cette initiative intervient dans un contexte marqué par la montée des menaces cybernétiques visant les systèmes gouvernementaux sensibles.
+- L’objectif du ministère est de sécuriser son administration centrale et les 83 préfectures et provinces du Royaume, afin de les prémunir contre tout risque d’intrusion ou d’attaque potentielle.
+
+## [Arnaques aux faux conseillers bancaires : «On vit une démolition de nos certitudes sur ... - Libération](https://www.liberation.fr/societe/police-justice/arnaques-aux-faux-conseillers-bancaires-on-vit-une-demolition-de-nos-certitudes-sur-la-banque-sur-soi-sur-lautre-20251011_EREPCONKMZGKRA5CUIMXLBTKPE/)  
+*Source : liberation.fr | Publication : 2025-10-11*
+
+- Il y a deux ans, ils ont vécu le même calvaire.
+- Un coup de téléphone du service des fraudes de la banque.
+- La voix inquiète d’un conseiller à l’autre bout du fil, presque haletante : «On a décelé des mouvements suspects.» Des opérations à réaliser de toute urgence pour sécuriser les comptes.
+- Trois heures d’une conversation ininterrompue au cours de laquelle Andrée (1), 81 ans, retraitée, Emmanuelle, 53 ans, chercheuse, ou encore Christophe, 55 ans, informaticien, pensent empêcher les économies d’une vie de disparaître.
+
+## [Application HopHop : une demande d'action collective demandée - TVA Nouvelles](https://www.tvanouvelles.ca/2025/10/11/application-hophop--une-demande-daction-collective-demandee)  
+*Source : tvanouvelles.ca | Publication : 2025-10-11*
+
+- Des milliers de parents québécois ne peuvent plus utiliser l’application HopHop, essentielle pour coordonner l’arrivée et la sortie des enfants dans les services de garde.
+- Une situation qui inquiète encore de nombreux utilisateurs, dont un parent qui a entrepris les démarches pour déposer une demande d’action collective.
+- • À lire aussi: Des milliers de données de parents et d’enfants compromises sur l’application HopHop HopHop est une application bien connue des parents et éducatrices, utilisée chaque jour par plus de 500 écoles et garderies à travers le Québec.
+- Cette semaine, un expert en cybersécurité a détecté une faille permettant l’accès à des informations sensibles : noms, courriels et même photos d’enfants.
+
+## [Femmes Digitales et l'Association des organisations de <b>cybersécurité</b> d'Azerbaïdjan signent ...](https://azertag.az/fr/xeber/femmes_digitales_et_lassociation_des_organisations_de_cybersecurite_dazerbaidjan_signent_un_memorandum_dentente-3798863)  
+*Source : azertag.az | Publication : 2025-10-11*
+
+- Bakou, 11 octobre, AZERTAC.
+- Un mémorandum d'entente a été signé entre l'Association des organisations de cybersécurité d'Azerbaïdjan et.
+
+## [L'ex-arnaqueur Marwan Ouarab, invité du Parc Galea ce samedi 11 octobre, décrypte les ...](https://www.corsematin.com/article/societe/1834761187388514/lex-arnaqueur-marwan-ouarab-invite-du-parc-galea-ce-samedi-11-octobre-decrypte-les-cybermenaces-modernes)  
+*Source : corsematin.com | Publication : 2025-10-11*
+
+- Article réservé aux abonnés L'ex-arnaqueur Marwan Ouarab, invité du Parc Galea ce samedi 11 octobre, décrypte les cybermenaces modernes Marwane Ouarab, ancien arnaqueur repenti, s’est désormais engagé à aider les victimes de cyberattaques.
+- C’est notamment lui qui a identifié l’escroc derrière l’affaire du "faux Brad Pitt".
+- Catherine Delahaye Arnaqueur repenti, Marwane Ouarab s'est reconverti pour traquer les escrocs en ligne et aider leurs victimes.
+- Grâce à sa start-up et à des méthodes légales, il a contribué à résoudre des affaires médiatiques, comme celle du "faux Brad Pitt".
+
+## [Bakou accueille une conférence internationale consacrée à la participation des femmes ...](https://azertag.az/fr/xeber/bakou_accueille_une_conference_internationale_consacree_a_la_participation_des_femmes_dans_le_domaine_de_la_cybersecurite-3798703)  
+*Source : azertag.az | Publication : 2025-10-11*
+
+- Une conférence internationale intitulée « Women in Cyber » s'est ouverte à Bakou le 11 octobre, en marge du festival international de cybersécurité.
+
+## [<b>Cybercriminalité</b> : entreprises et particuliers en péril dans la région d'Augsbourg - LesNews](https://lesnews.ca/tech/cybersecurite/cybercriminalite-entreprises-et-particuliers-en-peril-dans-la-region-daugsbourg/)  
+*Source : lesnews.ca | Publication : 2025-10-11*
+
+- David Wilpert et Andreas Herch discutent de la cybersécurité.
+- David Wilpert, expert en cybercriminalité à la police d'Augsbourg, et Andreas Herch,.
+
+## [InfoNews 25-41 : Windows 11, OpenAI AgentKit, Granite et OKDP - InformatiqueNews](https://www.informatiquenews.fr/107295-107295)  
+*Source : informatiquenews.fr | Publication : 2025-10-11*
+
+- Entre verrouillage, ouverture, accélération et anticipation, cette semaine InfoNews Hebdo explore les lignes de fracture du numérique.
+- Microsoft resserre encore la vis autour de Windows 11, la communauté open source française avance avec OKDP, OpenAI relance la bataille des SDK agentiques avec son AgentKit, IBM dévoile ses modèles IA frugaux Granite 4.0, les dépenses IA explosent au-delà du raisonnable, et le Cigref alerte sur la nécessité d’anticiper les compétences RH de la prochaine décennie.
+- Comme chaque vendredi, notre émission InfoNews Hebdo déchiffre l’actualité IT de la semaine.
+- Une semaine contrastée, entre fermetures et ouvertures.
+
+## [Accusé de piratage, il aurait violé la vie privée de plus de 80 femmes - Virgule.lu](https://www.virgule.lu/luxembourg/accuse-de-piratage-il-aurait-viole-la-vie-privee-de-plus-de-80-femmes/96598992.html)  
+*Source : virgule.lu | Publication : 2025-10-11*
+
+- «On pourrait presque en faire une série», déclare l'enquêteur principal au tribunal.
+- C'est là que Christian G.a répondu cette semaine plusieurs préventions liées à la cybercriminalité.
+- À partir de 2014, l'homme aurait piraté les comptes privés de plus de 80 femmes, d'où il aurait téléchargé des milliers de photos intimes pour son propre plaisir.
+- L'attention de la police est attirée par une plainte d'abord anodine.
+
+## [80 % des lycées des Hauts-de-France touchés par une cyberattaque - LINFO.re](https://www.linfo.re/france/faits-divers/80-des-lycees-des-hauts-de-france-touches-par-une-cyberattaque)  
+*Source : linfo.re | Publication : 2025-10-11*
+
+- Un important incident informatique a paralysé plusieurs lycées publics de la région Hauts-de-France vendredi 10 octobre.
+- L’accès à Internet a été temporairement suspendu dans de nombreux établissements pour contenir la menace.
+- Près de 80 % des lycées de la région Hauts-de-France ont été victimes d’un "incident de cybersécurité" de type rançongiciel.
+- Ce logiciel malveillant, identifié comme Qilin, a compromis une partie des systèmes informatiques, rendant certains services inaccessibles.
+
+## [Ep07 - Abdoulaye Bâ - Consultant Gouvernance Data, <b>Cybersécurité</b> et IA - Leral.net](https://www.leral.net/Ep07-Abdoulaye-Ba-Consultant-Gouvernance-Data-Cybersecurite-et-IA-Du-Senegal-a-l-Europe-pour-batir-la-confiance_a389459.html)  
+*Source : leral.net | Publication : 2025-10-11*
+
+- Dans ce nouvel épisode de Came On Joss – Des Voix inspirantes, nous recevons Abdoulaye Bâ, consultant en gouvernance IT, cybersécurité et éthique.
 
 ## [Figure 03, un nouveau pas de géant vers l'avènement de la robotique humanoïde](https://www.latribune.fr/article/tech/intelligence-artificielle/1267426333669114/figure-03-un-nouveau-pas-de-geant-vers-l-avenement-de-la-robotique-humanoide)  
 *Source : latribune.fr | Publication : 2025-10-10*
