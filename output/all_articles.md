@@ -1,5 +1,155 @@
-# Résumés – 2025-10-11
+# Résumés – 2025-10-12
 
+
+## [Qui est Anne Le Hénanff, nouvelle ministre de l'Intelligence artificielle et du numérique](https://www.frenchweb.fr/qui-est-anne-le-henanff-nouvelle-ministre-de-lintelligence-artificielle-et-du-numerique/457722)  
+*Source : frenchweb.fr | Publication : 2025-10-12*
+
+- Qui est Anne Le Hénanff, nouvelle ministre de l’Intelligence artificielle et du numérique 📩 Pour nous contacter: redaction@frenchweb.fr Nommée ministre déléguée auprès du ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique, Anne Le Hénanff hérite du portefeuille occupé précédement par Clara Chappaz, puis très brievement par Naïma Moutchou dans le gouvernement Lecornut 1, et devient Ministre de l’Intelligence artificielle et du numérique.
+- La députée du Morbihan, issue du monde de l’entreprise et du numérique territorial, devra clarifier la position française entre ambition technologique, dépendance internationale et contraintes industrielles.
+- Un parcours de l’agroalimentaire au numérique.
+- Née à Vannes, Anne Le Hénanff (57 ans) a grandi à Pluvigner, diplômée de l’EM Normandie en 1991 après une prépa HEC à Audencia, elle débute sa carrière dans l’agroalimentaire, passant par Bacardí, Produit en Bretagne et Saupiquet, où elle dirige les activités de la région grand Ouest.
+
+## [Une nouvelle taxe sur les holdings patrimoniales pour contrer l'optimisation fiscale](https://www.zoominvest.fr/actualites/patrimoine/une-nouvelle-taxe-sur-les-holdings-patrimoniales-pour-contrer-l-optimisation-fiscale/f5mh2xvgzu8o3a0lxqpwa6zc)  
+*Source : zoominvest.fr | Publication : 2025-10-12*
+
+- Une nouvelle taxe sur les holdings patrimoniales pour contrer l’optimisation fiscale Le gouvernement entend frapper fort contre l’optimisation fiscale via les holdings patrimoniales.
+- Le projet de loi de finances 2026 prévoit une taxe de 2% sur les actifs de ces sociétés lorsque leur bilan dépasse 2 millions d’euros, ciblant les structures servant à capitaliser des dividendes non distribués afin d’éviter la flat tax à 30%.
+- Ce prélèvement s’appliquerait aux holdings dont plus de 50% des revenus proviennent de produits financiers passifs, incluant les liquidités, valeurs mobilières ou biens immobiliers.
+- Même les sociétés basées à l’étranger seraient concernées, dès lors qu’elles détiennent des actifs français.
+
+## [Qantas reconnaît que les données d'abonnés bocorés par des pirates avaient été publiées ...](https://voi.id/fr/amp/523086)  
+*Source : voi.id | Publication : 2025-10-12*
+
+- Qantas reconnaît que les données d’abonnés bocorés par des pirates avaient été publiées quelques mois après une cyberattaque ARTA - La compagnie aérienne nationale australienne, Qantas Airways, a annoncé dimanche 12 octobre que les données de leurs clients avaient été révélées par un groupe de pirates informatiques, quelques mois après une fuite de données majeure en juillet 2025 impliquant des millions de clients.
+- Qantas a déclaré dans un communiqué officiel qu’il est devenu l’une des nombreuses entreprises dans le monde dont les données ont été publiées par des auteurs de cybercrimes après un incident de piratage qui s’est produit début juillet, lorsque les données des clients ont été volées via des plateformes tiers.
+- ronyme : « Avec l’aide d’experts en cybersécurité, nous enquêtons sur tout type de données inclus dans les données publiées », a déclaré Qantas, cité par VOI à Reuters.
+- « Nous avons également déposé une ordonnance judiciaire interdisant à quiconque, y compris des tiers, d’accéder, de voir, d’utiliser, de publier ou de diffuser les données volées.
+
+## [Internet vous suit à la trace : voici comment disparaître (légalement) - Clubic](https://www.clubic.com/bons-plans-582766-internet-vous-suit-a-la-trace-voici-comment-disparaitre-legalement.html)  
+*Source : clubic.com | Publication : 2025-10-12*
+
+- Avast Ultimate est actuellement à 3,43 €/mois au lieu de 8,58 €, soit -60 % sur la meilleure suite de cybersécurité tout-en-un du marché.
+- Antivirus, VPN, anti-pistage, nettoyage PC… une seule solution pour protéger votre vie numérique.
+- Offre limitée dans le temps, profitez-en tant qu’elle est active.
+- Protégez votre vie numérique avant qu’il ne soit trop tard Entre les fuites de données, les publicités ciblées et les arnaques en ligne, la sécurité numérique n’a jamais été aussi menacée.
+
+## [L'IA s'invite dans les élections au Cameroun - Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/lia-sinvite-dans-les-elections-au-cameroun-2191706)  
+*Source : lesechos.fr | Publication : 2025-10-12*
+
+- Surtout, plus des deux tiers ont joué un rôle négatif dans les élections.
+- Selon une autre menée par Surfshark, spécialiste de la cybersécurité , 38.
+
+## [Niger : Création d'un centre national de <b>cybersécurité</b> pour renforcer la sécurité numérique](https://africa24tv.com/niger-creation-dun-centre-national-de-cybersecurite-pour-renforcer-la-securite-numerique)  
+*Source : africa24tv.com | Publication : 2025-10-12*
+
+- Niger : Création d’un centre national de cybersécurité pour renforcer la sécurité numérique Recevez notre newsletter NewsExpress 13 octobre 2025 Togo : 20 milliards FCFA pour moderniser l’agriculture - 13 octobre 2025 Sénégal : 140 cas confirmés et 18 décès des cas de fièvre de la Vallée du Rift - 13 octobre 2025 Maurice : Création d’un Conseil des consommateurs - 13 octobre 2025 Comores : Armel Sylva intègre la Commission de la FIFA - 13 octobre 2025 Bénin – Présidentielle 2025 : La CENA dans l’attente des candidatures - 12 octobre 2025 Seychelles : Patrick Herminie remporte l’élection présidentielle avec 52,7% des voix - 12 octobre 2025 Angola : Appel à renforcer l’accès des filles à l’éducation - 12 octobre 2025 Zambie : 226 000 tonnes de cuivre par an attendues -.
+
+## [Il ne faut surtout pas payer si vous recevez cet e-mail de la prétendue Gendarmerie nationale](https://www.clubic.com/actualite-582856-il-ne-faut-surtout-pas-payer-si-vous-recevez-cet-e-mail-de-la-pretendue-gendarmerie-nationale.html)  
+*Source : clubic.com | Publication : 2025-10-12*
+
+- Une arnaque par e-mail usurpe l'identité de la Gendarmerie pour effrayer les victimes, avec des escrocs qui les menacent d'une amende colossale et de poursuites judiciaires, pour de prétendus comportements douteux.
+- Recevoir un courrier à l'apparence officielle accusant le destinataire de crimes graves contre des mineurs, voilà qui peut faire peur.
+- En fin de semaine, la Gendarmerie nationale a lancé l'alerte sur les réseaux sociaux.
+- Des internautes sont en ce moment ciblés par une arnaque particulièrement vicieuse.
+
+## [Discord: 70.000 pièces d'identité compromises après un piratage - H24info](https://h24info.ma/lifestyle/high-tech/discord-70-000-pieces-didentite-piratage/)  
+*Source : h24info.ma | Publication : 2025-10-12*
+
+- Cybersécurité · Discord · Piratage · Trust & Safety.
+- La rédaction vous conseille.
+- Cybersécurité , data… L'ONDA accélère la transformation digitale des.
+
+## [Champion de la <b>cybersécurité</b> sur Mac, cet antivirus français est la hantise des hackers](https://www.journaldugeek.com/bon-plan/champion-de-la-cybersecurite-sur-mac-cet-antivirus-francais-est-la-hantise-des-hackers/)  
+*Source : journaldugeek.com | Publication : 2025-10-12*
+
+- Aujourd’hui, le danger est partout sur le web.
+- Si les hackers continuent d’utiliser des virus et malwares pour dérober les informations de leurs victimes, ils utilisent également de plus en plus le hameçonnage pour tromper les internautes.
+- Pour ce faire, ils génèrent la plupart du temps une copie conforme de vos sites de confiance ou envoient des e-mails frauduleux.
+- Ceci dans le but de vous piéger, afin que vous leur communiquiez sans le savoir vos mots de passe ou d’autres informations confidentielles.
+
+## [Bitdefender Total Security : l'antivirus N°1 enfin à prix réduit (-50 %) ! - Clubic](https://www.clubic.com/bons-plans-582742-bitdefender-total-security-l-antivirus-n-1-enfin-a-prix-reduit--50.html)  
+*Source : clubic.com | Publication : 2025-10-12*
+
+- Protégez tous vos appareils avec Bitdefender Total Security, l’antivirus le plus récompensé depuis plus de 10 ans.
+- En ce moment, profitez d’une remise exceptionnelle de 50 % : seulement 47,50 € la première année au lieu de 94,99 €.
+- Votre cybersécurité complète à prix cassé À l’heure où les menaces en ligne explosent, protéger ses appareils n’a jamais été aussi essentiel.
+- Bitdefender, leader mondial de la cybersécurité, propose une suite Total Security ultra-complète qui allie performance, discrétion et protection multi-appareils (Windows, macOS, Android, iOS).
+
+## [Mission Saga : un grand pas pour la <b>cybersécurité</b> européenne et les communications quantiques](https://www.futura-sciences.com/sciences/actualites/technologies-futuristes-mission-saga-grand-pas-cybersecurite-europeenne-communications-quantiques-126234/)  
+*Source : futura-sciences.com | Publication : 2025-10-12*
+
+- Dans un contexte où la sécurité des communications est devenue primordiale, Thales Alenia Space, en collaboration avec l’Agence spatiale européenne, lance un projet ambitieux : créer le premier service gouvernemental européen de distribution quantique de clés et déployer une infrastructure de connectivité résistante aux menaces numériques.
+- En intégrant des technologies quantiques dans l'espace, cette initiative vise à renforcer la cybersécurité de l'Union européenne tout en préparant l'avenir des liaisons optiques commerciales à l'échelle mondiale.
+- au sommaire Thales Alenia Space, en partenariat avec l'Agence spatiale européenneAgence spatiale européenne (ESA), a signé un contrat pour développer le premier système de distribution quantique de clés (QKD) destiné à un usage gouvernemental dans le cadre de la mission Saga.
+- Ce projet s'inscrit dans la stratégie plus large de l'EuroQCI (European Quantum Communications Infrastructure), qui vise à sécuriser les communications de l'Union européenne face aux menaces quantiques émergentes.
+
+## [Fuite de données chez Qantas : 5,7 millions de clients impactés par une cyberattaque](https://www.air-journal.fr/2025-10-12-qantas-fuite-des-donnees-de-millions-de-clients-apres-une-cyberattaque-5266418.html)  
+*Source : air-journal.fr | Publication : 2025-10-12*
+
+- La compagnie aérienne australienne Qantas a confirmé aujourd’hui la divulgation sur Internet des données personnelles de 5,7 millions de ses clients, volées lors d’une cyberattaque survenue en juillet 2025.
+- Cette attaque informatique a ciblé un système utilisé par un prestataire tiers, l’éditeur de logiciels Salesforce, qui hébergeait ces informations sensibles.
+- Les pirates ont notamment eu accès aux noms, adresses électroniques, numéros de téléphone et dates d’anniversaire des clients.
+- En revanche, selon Qantas, les données les plus sensibles comme les numéros de passeport, cartes bancaires, mots de passe et autres codes de sécurité n’étaient pas présents dans ce système et n’ont donc pas été compromis.
+
+## [Minitel, casques de réalité virtuelle et intelligence artificielle : un salon sur l'épopée du ...](https://www.lanouvellerepublique.fr/parthenay/minitel-casques-de-realite-virtuelle-et-intelligence-artificielle-un-salon-sur-l-epopee-du-numerique-a-parthenay-1760266527)  
+*Source : lanouvellerepublique.fr | Publication : 2025-10-12*
+
+- Minitel, casques de réalité virtuelle et intelligence artificielle : un salon sur l'épopée du numérique à Parthenay AbonnésCet article est réservé aux abonnés numériques.
+- AbonnésCet article est réservé aux abonnés numériques.
+- À l’initiative de la communauté de communes de Parthenay-Gâtine (CCPG), le campus de projets de Parthenay accueille samedi 18 octobre 2025, de 10 h à 18 h, le deuxième Salon du numérique.
+- L’ambition : faire découvrir les acteurs du numérique sur le territoire et offrir, aux plus jeunes comme aux anciens, un voyage dans le temps du minitel à l’intelligence artificielle.
+
+## [Inria renforce sa stratégie pour une société numérique de confiance](https://bilsport.no/informasjon-fra-kartingseksjonen-4/?sport-news-554485-2025-10-12-inria-renforce-sa-strategie-pour-une-societe-numerique-de-confiance)  
+*Source : bilsport.no | Publication : 2025-10-12*
+
+- Forandring i homologeringsdokumentet for cadetti og mini motorer Sylinderfotpakning i klasse Cadetti og Mini Tykkelse 0,4 mm – toleranse – 0,08 mm Squish – Minimum 0,65 mm Det er vedtatt forandring i reglementet når det gjelder tenning i Cadetti og Mini.
+- Tidligere har vært 0,9 – 1,5.
+- Nå gjelder 0,9 – 1,1 Forandringen gjelder fra dags dato.
+
+## [Intelligence Autonome: L'Avantage de l'IA de Proximité - LesNews](https://lesnews.ca/tech/cybersecurite/intelligence-autonome-lavantage-de-lia-de-proximite/)  
+*Source : lesnews.ca | Publication : 2025-10-12*
+
+- Les cybermenaces sont variées et croissantes, rendant ... Cybercriminalité : entreprises et particuliers en péril dans la région d'Augsbourg.
+
+## [La ministre des Affaires du Cabinet a souligné la nécessité d'une collaboration accrue pour ...](https://fr.allafrica.com/stories/202510120034.html)  
+*Source : fr.allafrica.com | Publication : 2025-10-12*
+
+- Addis-Abeba — Reconnaissant le lien étroit entre la cybersécurité et la souveraineté nationale, la chef du cabinet du Premier ministre et ministre des Affaires du Cabinet, Alemtsehay Paulos, a insisté sur la nécessité de renforcer les efforts conjoints dans ce domaine.
+- Le 6e Mois national de la cybersécurité a été lancé aujourd'hui à Addis-Abeba afin de sensibiliser le public à l'importance de la protection numérique.
+- À l'occasion, Alemtsehay a rappelé que, dans un contexte numérique en rapide mutation, la cybersécurité constitue désormais un pilier essentiel de la souveraineté nationale de l'Éthiopie.
+- Elle a précisé qu'elle joue un rôle déterminant dans le renforcement de la résilience du pays face aux menaces cybernétiques croissantes.
+
+## [<b>Cybercriminalité</b> : les douanes neutralisent Dark French, grande plateforme du darknet](https://www.lesnumeriques.com/societe-numerique/cybercriminalite-les-douanes-neutralisent-dark-french-grande-plateforme-du-darknet-n243868.html)  
+*Source : lesnumeriques.com | Publication : 2025-10-12*
+
+- Cybercriminalité : les douanes neutralisent Dark French, grande plateforme du darknet La Direction nationale du renseignement et des enquêtes douanières a démantelé un des plus gros réseaux cybercriminels et nous donne des informations sur cette action qui a causé la fin de la plateforme Dark French Anti System.
+- 1 Dark French Anti System (DFAS) était une place demarché francophone du darknet regroupant environ 12 000 membres et plus de 110 000 annonces, utilisée pour la vente de stupéfiants, d’armes, de données volées et d’outils de fraude ; opérant depuis 2017, elle proposait aussi des conseils d’anonymisation et fonctionnait via cryptomonnaies.
+- L’opération de démantèlement menée début septembre 2025 par les autorités cyber a conduit à l’arrestation de plusieurs individus et à la saisie d’environ 6 bitcoins (600 000 €).
+- La fin d'un des plus gros réseau du Darknet francais " On a tapé fort ", se félicitait un haut responsable de la Direction nationale du renseignement et des enquêtes douanières, interrogé par Le Parisien.
+
+## [<b>Cybersécurité</b> : la start-up française Filigran, spécialisée dans l'anticipation des cyber ... - Franceinfo](https://www.franceinfo.fr/economie/cybersecurite-la-start-up-francaise-filigran-specialisee-dans-l-anticipation-des-cyber-menaces-compte-le-fbi-parmi-ses-clients_7547896.html)  
+*Source : franceinfo.fr | Publication : 2025-10-12*
+
+- Cybersécurité : la start-up française Filigran, spécialisée dans l'anticipation des cyber-menaces, compte le FBI parmi ses clients La société qui travaille déjà avec Airbus, les hôtels Marriot ou la Commission européenne, vient de procéder à une levée de fonds d'un montant de 50 millions d'euros.
+- La start-up française Filigran, spécialisée dans l'anticipation des cybermenaces, compte parmi ses clients le FBI, le service de renseignement américain, rapporte France Inter dimanche 12 octobre.
+- Elle vient de faire une levée de fonds de 50 millions d'euros cette semaine après seulement trois ans d'existence.
+- La start-up a développé un logiciel d'anticipation des menaces cyber que s'arrachent les services de renseignement.
+
+## [5,7 millions de clients de Qantas concernés par une fuite de données - La Tribune](https://www.latribune.fr/article/tech/58142200709074/5-7-millions-de-clients-de-qantas-concernes-par-une-fuite-de-donnees)  
+*Source : latribune.fr | Publication : 2025-10-12*
+
+- 5,7 millions de clients de Qantas concernés par une fuite de données latribune.fr Les cybercriminels auraient également obtenu des données d'Air France, KLM, Disney, Google, Ikea, Toyota ou McDonald's.
+- /FW1F/Will Dunham - REUTERS - Kacper Pempel latribune.fr Les cybercriminels auraient également obtenu des données d'Air France, KLM, Disney, Google, Ikea, Toyota ou McDonald's.
+- /FW1F/Will Dunham - REUTERS - Kacper Pempel C’est l’une des plus importantes atteintes à la sécurité des données jamais survenues en Australie.
+- Les données personnelles de 5,7 millions de clients de Qantas ont été publiées sur le dark web.
+
+## [Grâce à un logiciel inédit, Thalès prépare la lutte contre les cyberattaques de demain](https://www.europe1.fr/societe/grace-a-un-logiciel-inedit-thales-prepare-la-lutte-contre-les-cyberattaques-de-demain-777372)  
+*Source : europe1.fr | Publication : 2025-10-12*
+
+- Grâce à un logiciel inédit, Thalès prépare la lutte contre les cyberattaques de demain La société Thalès a développé un logiciel prenant en compte la puissance de calcul des futurs ordinateurs quantiques, qui va permettre de lutter contre des cyberattaques sur nos données personnelles.
+- L'objectif est de protéger nos cartes d'identité ou cartes vitales contre des hackers de plus en plus chevronnés.
+- C'est une technologie futuriste que promet l'industriel français Thalès.
+- L'entreprise a créé un logiciel de cybersécurité qui a vocation à défendre la population contre les attaques de hacker contre nos données personnelles.
 
 ## [SonicWall VPN : Touché par des failles de sécurité majeures ! | LesNews](https://lesnews.ca/tech/cybersecurite/sonicwall-vpn-touche-par-des-failles-de-securite-majeures/)  
 *Source : lesnews.ca | Publication : 2025-10-11*
