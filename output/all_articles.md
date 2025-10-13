@@ -1,5 +1,143 @@
-# Résumés – 2025-10-12
+# Résumés – 2025-10-13
 
+
+## [Le CSIRT Bourgogne-Franche-Comté reconduit et renforcé : un pilier régional de la <b>cybersécurité</b>](https://dijon-actualites.fr/2025/10/13/le-csirt-bourgogne-franche-comte-reconduit-et-renforce-un-pilier-regional-de-la-cybersecurite/)  
+*Source : dijon-actualites.fr | Publication : 2025-10-13*
+
+- Trois ans après sa création, le Centre régional d’alerte et de réaction aux attaques informatiques de Bourgogne-Franche-Comté (CSIRT-BFC) consolide son statut d’acteur incontournable de la cybersécurité territoriale.
+- Lauréat de l’Appel à Manifestation d’Intérêt RALEC, lancé par l’ANSSI en août dernier, le CSIRT-BFC voit son label renouvelé et bénéficie d’un financement de 400 000 euros pour poursuivre sa mission au service des collectivités, entreprises et institutions publiques.
+- Une reconnaissance nationale pour une initiative régionale Porté par l’Agence Régionale du Numérique et de l’Intelligence Artificielle (ARNia), le CSIRT-BFC est un service public gratuit d’assistance, de veille et de remédiation face aux cyberattaques.
+- Créé en 2022, il intervient auprès de structures non couvertes par les dispositifs nationaux comme le CERT-FR ou Cybermalveillance.gouv.fr.
+
+## [Quentin Lhomme (Everdian) : Mêler <b>cybersécurité</b> et IA, c'est possible - 13/10 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/les-editions-speciales/video-quentin-lhomme-everdian-meler-cybersecurite-et-ia-c-est-possible-13-10_VN-202510130912.html)  
+*Source : bfmtv.com | Publication : 2025-10-13*
+
+- BFMTVEconomieÉmissionsLes éditions spécialesQuentin Lhomme (Everdian) : Mêler cybersécurité et IA, c'est possible - 13/10Ce lundi 13 octobre, Quentin Lhomme, président d’Everdian, était l'invité de BFM Business au GITEX de Dubaï, présenté par Léa Benaim.Hier à 23h25 | Durée : 6:50PartagerX.
+
+## [Suspension du projet Microsoft à Polytechnique - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/63985-suspension-du-projet-microsoft-a-polytechnique.html)  
+*Source : linformaticien.com | Publication : 2025-10-13*
+
+- L'École polytechnique suspend sa migration vers Microsoft 365.
+- Face à la gravité des risques posés par ce projet — exposition au droit.
+
+## [L'Albanie, 18e au monde pour la <b>cybersécurité</b> - Albinfo](https://www.albinfo.ch/fr/lalbanie-18e-au-monde-pour-la-cybersecurite/)  
+*Source : albinfo.ch | Publication : 2025-10-13*
+
+- Non classifié(e) L’Albanie, 18e au monde pour la cybersécurité L’Albanie a réalisé une performance remarquable en se classant avec 85 points selon l’indice Cyber National Security Index, gagnant ainsi 36 places par rapport à l’année 2023.
+- Le Premier ministre albanais, Edi Rama, a déclaré aujourd’hui que l’Albanie a réalisé une avancée exceptionnelle dans le domaine de la cybersécurité, en se classant à la 18e place mondiale.
+- Lors de son podcast Flasim, Rama a expliqué que l’Albanie a obtenu 85 points selon le Cyber National Security Index, progressant ainsi de 36 places par rapport à 2023.
+- ” Ce résultat représente une progression de 36 places par rapport à 2023, lorsque notre pays occupait la 54e position avec 62,34 points.
+
+## [<b>Cybermenaces</b> : le maillon faible des révoltes Gen Z [Business Africa] - YouTube](https://www.youtube.com/watch?v=NJnqnGUtKTw)  
+*Source : youtube.com | Publication : 2025-10-13*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Sécurité : l'application Gend'élus évolue et s'ouvre à l'environnement et à la <b>cybersécurité</b>](https://www.banquedesterritoires.fr/securite-lapplication-gendelus-souvre-lenvironnement-et-la-cybersecurite?pk_campaign=newsletter_quotidienne&pk_kwd=2025-10-13&pk_source=Actualités_Localtis&pk_medium=newsletter_quotidienne)  
+*Source : banquedesterritoires.fr | Publication : 2025-10-13*
+
+- Sécurité : l'application Gend'élus évolue et s'ouvre à l'environnement et à la cybersécurité Créée en 2021 dans un contexte de recrudescence des violences commises envers les élus, l’application Gend’élus se transforme.
+- Initialement prévue pour les smartphones, elle sera désormais également disponible sur internet et va s’élargir à de nouvelles thématiques comme l’environnement et la cybersécurité, ont annoncé la Gendarmerie nationale et l’Association des maires de France, lundi 13 octobre.
+- Le nouveau site se veut "plus réactif et plus accessible" et "facilite l’accès à l’information et aux services".
+- Il sera donc désormais accessible par trois moyens : ordinateur, tablette et smartphone.
+
+## [Décentralisation, Bretagne à cinq, <b>cybersécurité</b>, ce que la Bretagne attend de ses trois ministres](https://www.ouest-france.fr/bretagne/decentralisation-bretagne-a-cinq-cybersecurite-ce-que-la-bretagne-attend-de-ses-trois-ministres-887b5c26-a839-11f0-aa8e-e39f42e4d309)  
+*Source : ouest-france.fr | Publication : 2025-10-13*
+
+- Nommées dimanche 12 octobre 2025 au sein du gouvernement de Sébastien Lecornu, les trois ministres bretonnes Françoise Gatel, Anne Le Hénanff et.
+
+## [SAP dévoile des assistants Joule AI basés sur les rôles pour orchestrer les workflows](https://datascientest.com/sap-devoile-des-assistants-joule-ai-bases-sur-les-roles-pour-orchestrer-les-workflows)  
+*Source : datascientest.com | Publication : 2025-10-13*
+
+- SAP a dévoilé des assistants Joule AI basés sur les rôles lors de son événement Connect en octobre 2025, présentant un nouveau système où des agents d’IA spécialisés collaborent pour automatiser des workflows métiers complexes dans la finance, la chaîne logistique et les fonctions RH.
+- Le géant allemand du logiciel prévoit de déployer plus de 40 nouveaux agents entre fin 2025 et mi-2026, dont de nouvelles solutions comme SAP Supply Chain Orchestration et SAP Engagement Cloud.
+- Cette nouvelle architecture représente un changement fondamental dans la manière dont les entreprises interagissent avec les logiciels d’entreprise.
+- Chaque assistant Joule agit comme un partenaire d’IA principal, adapté à des rôles spécifiques tels que People Manager ou Financial Planner, interprétant les besoins des utilisateurs et orchestrant plusieurs agents spécialisés pour exécuter des tâches complexes, selon TechTarget.
+
+## [EarlyHealth Group acquiert CYB3R, l'entreprise de <b>cybersécurité</b> à la croissance la plus ...](https://www.ledevoir.com/communiques-de-presse/924666/earlyhealth-group-acquiert-cyb3r-entreprise-cybersecurite-croissance-plus-rapide-golfe)  
+*Source : ledevoir.com | Publication : 2025-10-13*
+
+- DUBAÏ, Émirats arabes unis, 13 oct.
+- 2025 (GLOBE NEWSWIRE) — EarlyHealth Group, une société internationale du secteur des services pharmaceutiques et des solutions pour les sciences de la vie, a acquis une participation de 50 % dans CYB3R Limited, l’une des entreprises de cybersécurité à la croissance la plus rapide du Golfe, basée à Dubaï.
+- Cette diversification stratégique et ces investissements intersectoriels permettent à CYB3R d’étendre sa présence à l’échelle mondiale tout en élargissant son offre de solutions clés en main destinées au secteur des sciences de la vie et aux organismes gouvernementaux.
+- CYB3R, fondée par les entrepreneurs du monde des technologies Alex Halsall et Jack Tupper, s’est rapidement imposée en sécurisant les infrastructures critiques et les données sensibles dans les secteurs réglementés au Moyen-Orient et en Europe.
+
+## [Sekoia.io accélère sa stratégie internationale - Solutions-Numeriques](https://www.solutions-numeriques.com/sekoia-io-accelere-sa-strategie-internationale/)  
+*Source : solutions-numeriques.com | Publication : 2025-10-13*
+
+- 16 sanctions CNIL : la conformité n’est plus une option Depuis mai 2025, seize nouvelles sanctions ont été prononcées par la CNIL dans le cadre de sa procédure simplifiée.
+- Montant total : 108 000 euros.
+- Des amendes modestes au regard des records infligés aux géants du numérique ?.
+- Certes.
+
+## [USA: JPMorgan annonce un énorme plan de financement d'industries stratégiques](https://www.connaissancedesenergies.org/afp/usa-jpmorgan-annonce-un-enorme-plan-de-financement-dindustries-strategiques-251013)  
+*Source : connaissancedesenergies.org | Publication : 2025-10-13*
+
+- Connaissance des Énergies avec AFP - parue le - La banque américaine JPMorgan Chase a annoncé lundi un vaste plan de financement d'industries considérées comme stratégiques (pharmacie, minerais, cybersécurité, défense, etc.) principalement aux Etats-Unis, qui devrait atteindre un maximum de 1.500 milliards de dollars (1.300 milliards d'euros) sur dix ans.
+- Baptisé "Initiative de sécurité et de résilience", ce programme vise à "faciliter, financer et investir dans des industries cruciales pour la sécurité et la résilience économiques nationales", précise le groupe dans un communiqué.
+- Son intention, explique-t-il, est de "régler les besoins pressants dans des secteurs clefs".
+- Il compte également investir, dans des prises de participation directes et des opérations de capital-risque, jusqu'à dix milliards de dollars de ses propres fonds.
+
+## [Le CSIRT Bourgogne-Franche-Comté confirmé dans son rôle d'expert cyber - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/le-csirt-bourgogne-franche-comte-confirme-dans-son-role-dexpert-cyber-223825)  
+*Source : silicon.fr | Publication : 2025-10-13*
+
+- Le Centre régional d’alerte et de réaction aux attaques informatiques Bourgogne-Franche-Comté (CSIRT-BFC), opéré par l’ARNia (Agence Régionale du Numérique et de l’intelligence artificielle) a été retenu dans le cadre de l’Appel à Manifestation d’Intérêt RALEC (Renforcement de l’Accompagnement Local aux enjeux de Cybersécurité) lancé par l’ANSSI en août dernier.
+- Ce renouvellement s’accompagne d’un financement de 400 000 € accordé par l’État, destiné à renforcer les moyens humains et techniques du CSIRT-BFC, à développer la prévention et à consolider un service public régional de cybersécurité accessible à tous.
+- Un service public régional dédié à la cybersécurité Créé en 2022, le CSIRT-BFC apporte une assistance gratuite aux structures publiques et privées de la région — collectivités, établissements publics, associations, PME, ETI et TPE.
+- Il intervient en complément des dispositifs nationaux comme CERT-FR ou Cybermalveillance.gouv.fr, en proposant un appui direct face aux incidents, une veille permanente et des services de remédiation.
+
+## [Assurance et <b>cybersécurité</b> : Les entreprises sensibilisées par des experts internationaux](https://lexpress.mu/s/les-entreprises-sensibilisees-par-des-experts-internationaux-550393)  
+*Source : lexpress.mu | Publication : 2025-10-13*
+
+- cybersécurité et des moyens d'y faire face.
+- Dharvish Ghumondee, Head of Analytics, Great & Specialty chez Eagle Insurance, a rappelé que «les.
+
+## [Anne Le Hénanff prend la tête du numérique et de l'IA au gouvernement](https://www.solutions-numeriques.com/241441-2/)  
+*Source : solutions-numeriques.com | Publication : 2025-10-13*
+
+- Christine Amory, Ubika : « La souveraineté est devenue un argument commercial pour nous » Ubika fête ses 25 ans et les 600 clients de son offre WAF.
+- L’éditeur a profité des Assises de la sécurité pour annoncer un partenariat avec Glimps, spécialiste de la protection des fichiers basée sur l’IA.
+- Un duo 100 % français pour aborder un marché….
+
+## [20 octobre 18 h 00 - 20 h 00 &quot;Lundi de la <b>cybersécurité</b>&quot; : Le coût des cyberattaques](https://www.globalsecuritymag.fr/20-octobre-18-h-00-20-h-00-lundi-de-la-cybersecurite-le-cout-des-cyberattaques.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-13*
+
+- 20 octobre 18 h 00 - 20 h 00 "Lundi de la cybersécurité" : Le coût des cyberattaques octobre 2025 par LA REDACTION DE GS MAG Dans le cadre des "Lundi de la cybersécurité" organisés par le Cercle d’Intelligence économique avec l’Université Paris Cité et l’ARCSI, Venez assister à l’événement autour du thème : Le coût des cyberattaques le Lundi 20 octobre 2025 18 h 00 - 20 h 00 par visioconférence Zoom.
+- Le coût des cyberattaques ne se limite pas aux pertes financières directes.
+- Derrière chaque incident se cachent des impacts multiples, financiers, organisationnels, business et réputationnels qui peuvent affecter profondément la trajectoire d’une entreprise.
+- Lors de ce Lundi de la Cybersécurité, nous vous proposons une immersion dans la démarche de quantification du risque cyber, qui permet de traduire les menaces cyber en scénarios économiques concrets.
+
+## [Cybermois 2025 : la <b>cybersécurité</b>, c'est l'affaire de tous - YouTube](https://www.youtube.com/watch?v=rKjYiAamGuw)  
+*Source : youtube.com | Publication : 2025-10-13*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Le CSIRT Bourgogne-Franche-Comté conforté dans son rôle d'expert régional en <b>cybersécurité</b>](https://www.info-beaune.com/articles/2025/10/13/12774/le-csirt-bourgogne-franche-comte-conforte-dans-son-role-d-expert-regional-en-cybersecurite/)  
+*Source : info-beaune.com | Publication : 2025-10-13*
+
+- Le CSIRT Bourgogne-Franche-Comté conforté dans son rôle d’expert régional en cybersécurité Publié le 13 Octobre 2025 à 15h58 Le Centre régional d’alerte et de réaction aux attaques informatiques Bourgogne-Franche-Comté (CSIRT-BFC), opéré par l’ARNia, vient d’être re-labellisé par l’ANSSI dans le cadre de l’appel à manifestation d’intérêt RALEC (Renforcement de l’Accompagnement Local aux enjeux de Cybersécurité).
+- Cette distinction, assortie d’un financement de 400 000 euros, confirme la place du CSIRT-BFC comme acteur incontournable de la cybersécurité régionale.
+- Un service public régional pour protéger tous les acteurs du territoire Créé en 2022, le CSIRT-BFC a pour mission d’assister les collectivités, entreprises, associations et établissements publics face aux cybermenaces.
+- En trois ans d’existence, il a déjà accompagné plus de 4 600 structures et supervisé 2 200 entités en 2024, soit près de 2 millions de scans réalisés pour détecter des vulnérabilités.
+
+## [Epitech inaugure une nouvelle ère avec cinq Bachelors pour les métiers du futur - ITRmanager](https://itrmanager.com/articles/207508/epitech-inaugure-une-nouvelle-ere-avec-cinq-bachelors-pour-les-metiers-du-futur.html)  
+*Source : itrmanager.com | Publication : 2025-10-13*
+
+- À Rennes, la cybersécurité tire la croissance, à Lyon le cloud et la data explosent, à Toulouse et Paris le développement full stack reste un vivier.
+
+## [Anne Le Hénanff, une spécialiste de la <b>cybersécurité</b> nommée ministre de l'IA et du numérique](https://www.lefigaro.fr/secteur/high-tech/anne-le-henanff-une-specialiste-de-la-cybersecurite-nommee-ministre-de-l-ia-et-du-numerique-20251013)  
+*Source : lefigaro.fr | Publication : 2025-10-13*
+
+- Anne Le Hénanff, une spécialiste de la cybersécurité nommée ministre de l’IA et du numérique PORTRAIT - Cette députée bretonne est très impliquée dans les sujets de cyberdéfense et d’autonomie stratégique.
+- Elle sera aussi attendue sur le sujet brûlant de la majorité numérique sur les réseaux sociaux.
+- Elle fait partie des nouveaux visages du gouvernement méconnus du grand public.
+- Anne Le Hénanff a été nommée dimanche soir ministre délégué à l’intelligence artificielle et au numérique.
+
+## [Le FBI et la BL2C saisissent la dernière version de BreachForums - INCYBER NEWS](https://incyber.org/article/fbi-bl2c-saisissent-derniere-version-breachforums/)  
+*Source : incyber.org | Publication : 2025-10-13*
+
+- Le FBI et la BL2C saisissent la dernière version de BreachForums Articles du même auteur : 1 13.10.25 Identité numérique Thales présente une carte à puce post-quantique Lire 01.
+- 4 09.10.25 Cybercriminalité Une PME suisse victime du rançongiciel Akira détaille sa situation Lire 02.
 
 ## [Qui est Anne Le Hénanff, nouvelle ministre de l'Intelligence artificielle et du numérique](https://www.frenchweb.fr/qui-est-anne-le-henanff-nouvelle-ministre-de-lintelligence-artificielle-et-du-numerique/457722)  
 *Source : frenchweb.fr | Publication : 2025-10-12*
