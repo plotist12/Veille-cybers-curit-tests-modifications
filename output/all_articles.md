@@ -1,5 +1,151 @@
-# Résumés – 2025-10-13
+# Résumés – 2025-10-14
 
+
+## [<b>Cybersécurité</b> : À Casablanca, PwC inaugure son 1er Digital Resilience Center dans la région MENA](https://www.lavieeco.com/affaires/secteurs/cybersecurite-a-casablanca-pwc-inaugure-son-1er-digital-resilience-center-dans-la-region-mena/)  
+*Source : lavieeco.com | Publication : 2025-10-14*
+
+- L'infrastructure numérique propose une offre complète de services managés de cybersécurité , opérée 24h/24 et 7j/7 depuis Casablanca pour le Maroc et à.
+
+## [Jabil Inc. et Axiado Corporation dévoilent des solutions de <b>cybersécurité</b> pilotées par l'IA lors ...](https://ch.zonebourse.com/actualite-bourse/jabil-inc-et-axiado-corporation-devoilent-des-solutions-de-cybersecurite-pilotees-par-l-ia-lors-du-ce7d5aded88ff020)  
+*Source : ch.zonebourse.com | Publication : 2025-10-14*
+
+- Axiado Corporation a annoncé une collaboration avec Jabil Inc. en vue de développer des solutions de cybersécurité pilotées par l&#039;intelligence artificielle, ainsi que des serveurs modulaires conformes au projet Open Compute Project (OCP) Modular Hardware System (MHS).
+- Les produits destinés aux charges de travail de nouvelle génération en intelligence artificielle et en cloud seront présentés lors du sommet mondial OCP, qui se tiendra du 13 au 16 octobre 2025, sur les stands A1 (Axiado) et C12 (Jabil).À l&#039;occasion de cet événement, Jabil mettra en avant sa plateforme serveur 2U basée sur le processeur AMD EPYC™ « Turin », intégrée au module de contrôle sécurisé SCM3002 d&#039;Axiado et propulsée par l&#039;unité de contrôle/calcul de confiance (TCU).
+- Axiado et Jabil unissent leurs forces pour concevoir des serveurs sécurisés, s&#039;appuyant sur les expertises respectives de chaque entreprise en matière de conception avancée de serveurs et de sécurité pilotée par l&#039;IA.
+- Cette initiative met en lumière la capacité du serveur modulaire Jabil MHS à intégrer et à déployer rapidement le DC-SCM d&#039;Axiado, sans nécessiter de coûteuses co-conceptions.Cette intégration propose aux centres de données et aux hyperscalers une solution unifiée alliant sécurité « zéro confiance », efficacité et fiabilité.
+
+## [Une compétition de <b>cybersécurité</b> organisée le 8 novembre - Le Canada Français](https://www.canadafrancais.com/actualite/une-competition-de-cybersecurite-organisee-le-8-novembre/)  
+*Source : canadafrancais.com | Publication : 2025-10-14*
+
+- Pour une troisième année consécutive, le Club de sécurité informatique du Cégep Saint-Jean-sur-Richelieu accueillera une compétition de cybersécurité le 8 novembre prochain.
+- Plus de 60 étudiants de plusieurs cégeps au Québec, dont Rimouski, Sherbrooke et Montréal, participeront à cette compétition d’une durée de 12 heures.
+- Ils devront faire face à plusieurs défis informatiques qui solliciteront leurs compétences en programmation, en sécurité informatique, en analyse forensique et en cryptanalyse.
+- La compétition de cybersécurité est de type Capture de flag (CTF).
+
+## [Réunion annuelle sur la <b>cybersécurité</b> : la coopération et les partenariats, clés pour relever ...](https://www.wam.ae/fr/article/bm7a4u9-réunion-annuelle-sur-cybersécurité-coopération-les)  
+*Source : wam.ae | Publication : 2025-10-14*
+
+- DUBAÏ, 14 octobre 2025 (WAM) – Les experts et participants à la Réunion annuelle sur la cybersécurité 2025, organisée en marge des Conseils du.
+
+## [Outre-Manche, alerte aux incidents de <b>cybersécurité</b> &quot;d'importance nationale&quot; - LeMagIT](https://www.lemagit.fr/actualites/366632668/Outre-Manche-alerte-aux-incidents-de-cybersecurite-dimportance-nationale)  
+*Source : lemagit.fr | Publication : 2025-10-14*
+
+- Oleksii - stock.adobe.com Outre-Manche, alerte aux incidents de cybersécurité "d'importance nationale" Le centre national britannique de cybersécurité estime que les entreprises doivent prendre des mesures dès maintenant, alors que le nombre d'incident de cybersécurité d'importance nationale a doublé.
+- Branle-bas de combat, outre-Manche, après les cyberattaques contre Marks & Spencer et Jaguar-Land Rover, notamment.
+- Les entreprises ont été invitées à prendre des mesures à la suite d'une augmentation de la catégorie la plus grave des incidents de cybersécurité au cours des 12 derniers mois.
+- Le nombre d'incidents d'importance nationale a dépassé les 200, soit plus du double du nombre d'incidents signalés l'année dernière au Centre national de cybersécurité britannique, le NCSC.
+
+## [Octobre: mois de la <b>cybersécurité</b> à l'UdeM - UdeMNouvelles - Université de Montréal](https://nouvelles.umontreal.ca/annonce/2025/10/14/octobre-mois-de-la-cybersecurite-a-l-udem)  
+*Source : nouvelles.umontreal.ca | Publication : 2025-10-14*
+
+- Octobre: mois de la cybersécurité à l’UdeM Chaque automne, l’Université de Montréal prend part au Mois de la sensibilisation à la cybersécurité.
+- La campagne 2025, sur le thème «Protéger, prévenir, maîtriser: les clés d’une cybersécurité réussie», invite toute la communauté de l’UdeM à adopter de bons réflexes pour protéger ses données et préserver la sécurité de l’écosystème numérique universitaire.
+- Cette année, plusieurs volets sont mis en lumière.
+- Protéger ses identifiants Choisir des mots de passe complexes, ne jamais les partager et activer l’authentification à deux facteurs sont des gestes simples qui réduisent grandement les risques de fraude.
+
+## [PwC ouvre à Casablanca son premier centre de résilience numérique dans la région MENA](https://medias24.com/2025/10/14/pwc-ouvre-a-casablanca-son-premier-centre-de-resilience-numerique-dans-la-region-mena/)  
+*Source : medias24.com | Publication : 2025-10-14*
+
+- Son approche intégrée couvre l'ensemble du spectre des risques numériques, incluant la cybersécurité , le crime financier, le Digital Forensic et la.
+
+## [Forum INCYBER Canada 2025 : la souveraineté numérique au cœur de la <b>cybersécurité</b>](https://incyber.org/article/forum-incyber-canada-2025-la-souverainete-numerique-au-coeur-de-la-cybersecurite/)  
+*Source : incyber.org | Publication : 2025-10-14*
+
+- Accueil - Cybersécurité - Forum INCYBER Canada 2025 : la souveraineté numérique au cœur de la cybersécurité - Forum INCYBER Canada 2025 : la souveraineté numérique au cœur de la cybersécurité Une ouverture tournée vers l’action collective La cheffe du Centre de la sécurité des télécommunications (CST), Caroline Xavier, a donné le ton d’emblée : « Investissez, investissez, investissez en cybersécurité : c’est un impératif de résilience nationale et économique.
+- » Elle a exhorté les organisations publiques et privées à aller au-delà de la conformité réglementaire, en intégrant les principes du security by design et de la formation continue.
+- Pour la dirigeante du CST, la cybersécurité ne relève plus d’un simple volet technique : elle constitue une composante de la sécurité nationale au même titre que la défense ou la santé publique.
+- Son message s’adressait aussi aux dirigeants présents dans la salle : la résilience ne se décrète pas, elle s’anticipe et s’investit.
+
+## [Pourquoi la <b>cybersécurité</b> est-elle au cœur des priorités des entreprises ? - Futura Sciences](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-cybersecurite-elle-coeur-priorites-entreprises-23397/)  
+*Source : futura-sciences.com | Publication : 2025-10-14*
+
+- Face à la multiplication des cyberattaques, les entreprises doivent repenser leur manière de protéger leurs données et leurs systèmes.
+- Les métiers de la cybersécurité occupent désormais une place centrale dans cette lutte invisible.
+- Mais comment répondre à ces nouveaux enjeux quand les talents se font rares et que les besoins explosent ?.
+- au sommaire En 2024, près d’une entreprise sur deux a été victime d’au moins une cyberattaque, d’après l’Agence nationale de la sécurité des systèmes d’information (ANSSI).
+
+## [Cybermois : France Télévisions agit contre les <b>cybermenaces</b> | Groupe France.tv](https://www.francetelevisions.fr/groupe/notre-actualite/cybermois-france-televisions-agit-contre-les-cybermenaces-48028)  
+*Source : francetelevisions.fr | Publication : 2025-10-14*
+
+- Sur une année, plus de 10 millions de messages sont analysés et 1,5 million modérés par les services de France Télévisions.
+- Sur les réseaux sociaux, plus de 26 millions de followers sont comptabilisés sur les comptes des visages du groupe public.
+- Pour les protéger de nombreux outils complémentaires sont mis en place pour faire un véritable barrage aux attaques extérieures et maintenir ainsi des espaces sains de discussion, notamment sous les publications.
+- Lorsque les menaces sont avérées, France Télévisions accompagne les victimes et travaille à monter des dossiers pour des dépôts de plaintes auprès de la police.
+
+## [C'est fou : ils ont intercepté des communications secrètes de l'armée et d'entreprises avec ...](https://www.futura-sciences.com/tech/actualites/cybersecurite-cest-fou-ils-ont-intercepte-communications-secretes-armee-entreprises-simple-antenne-satellite-126428/)  
+*Source : futura-sciences.com | Publication : 2025-10-14*
+
+- Avec un budget de moins de 700 euros, tout un chacun peut intercepter « en clair » les données diffusées par les satellites de télécommunications géostationnaires.
+- Les utilisateurs et gestionnaires de ces satellites n’imaginaient pas que l’on puisse s’y intéresser et n’ont rien mis en place pour assurer la sécurité des données.
+- au sommaire En 2021, le film Don'tt Look Up, (Ne regardez pas en haut) avait marqué les esprits.
+- Ce même titre pourrait être repris en ce qui concerne la cybersécurité des satellites de communication.
+
+## [Cyberfenua 2025 : la sécurité numérique, c'est l'affaire de tous - Radio1.pf](https://www.radio1.pf/cyberfenua-2025-la-securite-numerique-cest-laffaire-de-tous/)  
+*Source : radio1.pf | Publication : 2025-10-14*
+
+- Cinq cents à six cents attaques par an en Polynésie : la cybersécurité est l'enjeu central du secteur du numérique.
+- À la pointe sur ces questions,.
+
+## [Le projet de loi résilience et <b>cybersécurité</b> bientôt examiné oblige le secteur de la santé](https://www.hospimedia.fr/actualite/articles/20251014-systeme-d-information-le-projet-de-loi-resilience)  
+*Source : hospimedia.fr | Publication : 2025-10-14*
+
+- Le projet de loi résilience et cybersécurité bientôt examiné oblige le secteur de la santé Le projet de loi sur la résilience des infrastructures et la cybersécurité, voté au Sénat il y a un an, doit être examiné d'ici novembre par l'Assemblée nationale.
+- Il concerne la transposition de trois textes européens dont deux impliquent la santé.
+- Adopté en première lecture au Sénat le 15octobre2024, le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité a fait l'objet d'un rapport de la commission spéciale dédiée à l'examen du texte à….
+
+## [Le Vietnam se prépare à accueillir l'ouverture à la signature de la Convention de Hanoi](https://fr.vietnamplus.vn/le-vietnam-se-prepare-a-accueillir-louverture-a-la-signature-de-la-convention-de-hanoi-post253136.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-10-14*
+
+- Hanoi (VNA) – Le vice-Premier ministre Bui Thanh Son a présidé une réunion du comité directeur pour l’ouverture à la signature de la Convention des Nations Unies contre la cybercriminalité (Convention de Hanoi) et les événements connexes au Vietnam, le 13 octobre.
+- Créé par le Premier ministre Pham Minh Chinh, ce comité est chargé de conseiller et de proposer des solutions efficaces pour l’organisation de la cérémonie de signature de la Convention et des activités connexes, prévues les 25 et 26 octobre à Hanoi.
+- Il coordonne et supervise également la participation des ministères et des localités concernés afin d’assurer le bon déroulement de l’événement.
+- Lors de la réunion, le vice-ministre de la Sécurité publique, Pham Thê Tung, a déclaré que son ministère, le ministère des Affaires étrangères et les ministères et agences compétents préparaient activement l’événement depuis le début de l’année.
+
+## [Cisco dévoile sa plateforme réseau pour l'IA Silicon One P200 de 51,2 Tbit/s - DataScientest](https://datascientest.com/cisco-devoile-sa-plateforme-reseau-pour-lia-silicon-one-p200-de-512-tbit-s)  
+*Source : datascientest.com | Publication : 2025-10-14*
+
+- Cisco a dévoilé sa puce Silicon One P200 et son système de routage 8223 le 8 octobre, offrant un débit de 51,2 térabits par seconde pour connecter des data centers d’IA répartis sur plusieurs sites.
+- La nouvelle plateforme du géant des réseaux, plébiscitée par Microsoft et Alibaba, vise à aider les hyperscalers cloud à surmonter les contraintes énergétiques et spatiales en reliant des clusters de calcul d’IA distribués avec une consommation d’énergie 65 % inférieure à celle des générations précédentes.
+- La nouvelle plateforme intègre 64 ports Ethernet 800G dans un châssis 3U compact, atteignant une densité que Cisco annonce 92 fois supérieure à celle de son châssis 8804 de la génération précédente, selon LeMagIT.
+- Cette amélioration spectaculaire répond à un défi critique, car les organisations peinent à loger une infrastructure d’IA en pleine expansion dans l’emprise de leurs data centers existants.
+
+## [Freelances : quels sont les taux journaliers moyens dans l'IT en France en 2025 ? - BDM](https://www.blogdumoderateur.com/freelances-taux-journaliers-moyens-it-france-2025/)  
+*Source : blogdumoderateur.com | Publication : 2025-10-14*
+
+- Freelances : quels sont les taux journaliers moyens dans l’IT en France en 2025 ?.
+- De la cybersécurité à la data, les freelances IT sont au cœur des projets numériques.
+- L’étude menée par Morgan Philips Freelance révèle les TJM et les compétences clés des experts du secteur.
+- Un marché du freelancing IT en pleine forme, avec de belles perspectives à la clé Avec plus de 8,3 milliards de dollars enregistrés dans le monde (+ 14,5 % en un an), le marché du freelancing IT « continue de croître en 2025 », d’après l’édition 2025/2026 de l’étude des TJM dans le secteur de l’IT publiée par Morgan Philips Freelance (ex-Fyte Freelance).
+
+## [Avec seulement 800 dollars d'équipement, des hackers ont pu intercepter des données ... - BFMTV](https://www.bfmtv.com/tech/actualites/cybersecurite/avec-seulement-800-dollars-d-equipements-des-hackers-ont-pu-intercepter-des-donnees-militaires-venant-de-satellites_AN-202510140551.html)  
+*Source : bfmtv.com | Publication : 2025-10-14*
+
+- Avec seulement 800 dollars d'équipement, des hackers ont pu intercepter des données militaires venant de satellites “Houston, we have a problem”.
+- Les communications par satellites géostationnaires, omniprésentes dans notre quotidien, semblent naturellement devoir être fortement sécurisées.
+- Pourtant, une équipe de chercheurs des universités de San Diego et du Maryland révèle que près de la moitié de ces flux ne sont pas cryptés, exposant ainsi un vaste éventail de communications, des données de particuliers, d’entreprises et même d’administrations publiques, à d’éventuelles interceptions… par de simples antennes paraboliques.
+- Le magazine Wired relate qu’à l’aide d’un équipement satellite basique installé sur un toit de l’université, les chercheurs ont mené pendant trois ans une vaste collecte de signaux accessibles dans le ciel californien.
+
+## [<b>Cybersécurité</b> : Qantas et Vietnam Airlines victimes d'une fuite de données](https://www.deplacementspros.com/transport/cybersecurite-qantas-et-vietnam-airlines-victimes-dune-fuite-de-donnees)  
+*Source : deplacementspros.com | Publication : 2025-10-14*
+
+- Cybersécurité : Qantas et Vietnam Airlines victimes d'une fuite de données.
+- Une fuite de données massive a touché plusieurs compagnies, dont Qantas.
+
+## [<b>Cybersécurité</b> : comment protéger ses communications à l'ère du cloud](https://www.dynamique-mag.com/article/cybersecurite-comment-proteger-ses-communications-a-lere-du-cloud)  
+*Source : dynamique-mag.com | Publication : 2025-10-14*
+
+- Avec la généralisation du télétravail et la dématérialisation des services, le cloud s’est imposé comme la nouvelle norme dans les entreprises.
+- Stockage en ligne, collaboration à distance, messageries instantanées et plateformes de gestion font désormais partie du quotidien professionnel.
+- Mais cette transformation numérique s’accompagne d’un défi majeur, celui de la sécurisation des échanges.
+- Dans un environnement où les données circulent en permanence entre terminaux, serveurs et applications, garantir la confidentialité et l’intégrité des communications n’est plus une option mais une nécessité stratégique.
+
+## [Microsoft lance son modèle créatif maison MAI-Image-1 - InformatiqueNews.fr](https://www.informatiquenews.fr/microsoft-annonce-son-premier-modele-maison-de-generation-dimages-mai-image-1-107434)  
+*Source : informatiquenews.fr | Publication : 2025-10-14*
+
+- Petit à petit, pas à pas, la division Microsoft AI prend ses marques et monte en puissance.
+- Après avoir lancé en preview son modèle fondation « MAI-1-Preview » en septembre dernier et son performant modèle vocal « MAI-Voice-1 », tous deux déjà partiellement exploités par Copilot, la division IA de Microsoft dévoile son premier modèle de génération d’images, qui concurrence déjà GPT-Image-1 et Google Imagen 4 !.
+- La division Microsoft AI s’est imposée ces derniers mois comme un laboratoire plutôt agile et assez ambitieux, dédié à la création de modèles d’intelligence artificielle conçus pour enrichir les expériences humaines.
+- Son credo : développer des IA utiles, responsables et profondément intégrées aux usages réels.
 
 ## [Le CSIRT Bourgogne-Franche-Comté reconduit et renforcé : un pilier régional de la <b>cybersécurité</b>](https://dijon-actualites.fr/2025/10/13/le-csirt-bourgogne-franche-comte-reconduit-et-renforce-un-pilier-regional-de-la-cybersecurite/)  
 *Source : dijon-actualites.fr | Publication : 2025-10-13*
