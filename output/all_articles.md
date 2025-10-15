@@ -1,5 +1,152 @@
-# Résumés – 2025-10-14
+# Résumés – 2025-10-15
 
+
+## [Le Maroc face à la montée des <b>cybermenaces</b> dans le secteur financier - Le360](https://fr.le360.ma/economie/le-maroc-face-a-la-montee-des-cybermenaces-dans-le-secteur-financier_ACOMEG4NGBCVPOAZKORAUHT4SI/)  
+*Source : fr.le360.ma | Publication : 2025-10-15*
+
+- Face à des cybermenaces croissantes, la cybersécurité s’impose comme un enjeu stratégique pour la stabilité financière du Maroc.
+- Attaques ciblées, fuites de données, phishing massif… le secteur financier est en première ligne, relève le magazine Finances News Hebdo.
+- Dans un entretien avec l’hebdomadaire, Abdeljalil Sadik, consultant en stratégie et gouvernance des systèmes d’information, et expert en cybercriminalité et intelligence artificielle, explique que la cybersécurité n’est plus un simple sujet technique.
+- «La cybersécurité n’est plus juste un sujet technique réservé à quelques spécialistes détachés de la réalité.
+
+## [Trois aéroports canadiens visés par une cyberattaque - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2199887/kelowna-aeroport-cybersecurite-piratage-informatique)  
+*Source : ici.radio-canada.ca | Publication : 2025-10-15*
+
+- Trois aéroports canadiens visés par une cyberattaque L’aéroport international de Kelowna a été visé mardi par un incident de cybersécurité.
+- Photo : CBC / Winston Szeto Les aéroports internationaux de Kelowna et de Victoria, en Colombie-Britannique, ainsi que celui de Windsor, en Ontario, ont fait l’objet de cyberattaques, mardi.
+- L'aéroport de Kelowna affirme qu'une enquête a été ouverte à la suite de l'incident survenu mardi soir et qui a touché son système de sonorisation et des écrans d'affichage des informations de vol pour les passagers.
+- Plusieurs publications circulant sur les réseaux sociaux, mardi, montraient des messages pro-Hamas et anti-Trump relayés sur les écrans et dans les haut-parleurs de l’aérogare.
+
+## [<b>Cybersécurité</b> dans l'Eure : les indispensables conseils pour éviter les arnaques - Paris Normandie](https://www.paris-normandie.fr/id666783/article/2025-10-15/cybersecurite-dans-leure-les-indispensables-conseils-pour-eviter-les-arnaques)  
+*Source : paris-normandie.fr | Publication : 2025-10-15*
+
+- À l'occasion du Mois de la cybersécurité , les autorités de l'Eure ont rappelé l'ampleur croissante des menaces numériques et les bons réflexes à.
+
+## [La société de <b>cybersécurité</b> F5 s'effondre après avoir signalé un piratage par un État-nation](https://www.boursorama.com/bourse/actualites/la-societe-de-cybersecurite-f5-s-effondre-apres-avoir-signale-un-piratage-par-un-etat-nation-453b558c1ba7697c4ad391035a7b75cb)  
+*Source : boursorama.com | Publication : 2025-10-15*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) 15 octobre - ** Les actions de la société de cybersécurité F5 FFIV.O en baisse de 4,3 % à 328,33 USD ** FFIV déclare avoir détecté un accès non autorisé à certains systèmes de l'entreprise par un acteur national sophistiqué, mais la violation n'a pas eu d'impact sur ses opérations ** L'Agence de cybersécurité et de sécurité des infrastructures déclare que des pirates ont compromis les systèmes de la FFIV et extrait des fichiers, y compris une partie de son code source et des informations sur les vulnérabilités ** Les pirates pourraient utiliser ces informations comme feuille de route pour pénétrer dans les appareils et les logiciels de F5, ce qui pourrait éventuellement conduire à la compromission totale des réseaux ciblés, selon la CISA ** Les autorités britanniques ont également publié une alerte invitant les utilisateurs de F5 à mettre à jour leurs logiciels ** Le titre FFIV a progressé de 36,5 % depuis le début de l'année, à la dernière clôture.
+
+## [De simple fournisseur à partenaire de confiance : un tiers des PME européennes cherchent ...](https://www.globalsecuritymag.fr/de-simple-fournisseur-a-partenaire-de-confiance-un-tiers-des-pme-europeennes.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-15*
+
+- De simple fournisseur à partenaire de confiance : un tiers des PME européennes cherchent un prestataire capable de leur fournir une stratégie de cybersécurité à long terme octobre 2025 par Kaspersky La dernière enquête de Kaspersky, menée auprès des décideurs en matière de cybersécurité dans les PME revient sur les défis quotidiens et les idées reçues des responsables informatiques des PME, ainsi que l’impact de ces obstacles sur leur collaboration avec des partenaires extérieurs.
+- Le rapport montre qu’un tiers des petites et moyennes entreprises européennes (33 %) souhaitent disposer d’un partenaire externe capable de créer des stratégies de cybersécurité durables à long terme, adaptées à leur activité.
+- Seules 7 % font appel à un service tiers pour définir et gérer leur configuration de cybersécurité.
+- En parallèle, les PME expriment des exigences spécifiques envers leurs partenaires de confiance : des formations continues de sensibilisation (25 %), une expertise disponible 24h/24 et 7j/7 (21 %), et des retours honnêtes (18 %).
+
+## [<b>Cybersécurité</b> : de la contrainte réglementaire à l'approche pragmatique personnalisée](https://itsocial.fr/cybersecurite/cybersecurite-tribunes/cybersecurite-de-la-contrainte-reglementaire-a-lapproche-pragmatique-personnalisee/)  
+*Source : itsocial.fr | Publication : 2025-10-15*
+
+- Face à l’intensification des menaces numériques, l’Union européenne durcit son arsenal réglementaire.
+- Désormais, des directives comme le CER, CRA, NIS2 ou DORA posent les bases d’un renforcement indispensable de la sécurité des systèmes d’information.
+- Pourtant, leur mise en œuvre se heurte à une réalité bien plus contrastée.
+- Pour répondre efficacement à cette situation, les acteurs de la transformation numérique doivent revoir leur approche ; proposer des accompagnements réellement adaptés, intégrer les contraintes métiers dans chaque réponse, et s’appuyer sur des alliances solides pour renforcer leur capacité d'intervention.
+
+## [Cyber'Occ reconnu par l'ANSSI pour renforcer la <b>cybersécurité</b> en Occitanie - ladepeche.fr](https://www.ladepeche.fr/2025/10/15/cyberocc-reconnu-par-lanssi-pour-renforcer-la-cybersecurite-en-occitanie-12994735.php)  
+*Source : ladepeche.fr | Publication : 2025-10-15*
+
+- Cyber’Occ reconnu par l’ANSSI pour renforcer la cybersécurité en Occitanie l'essentiel La sélection du centre régional Cyber’Occ dans l’appel à manifestation d’intérêt lancé par l’ANSSI consacre son rôle central dans la protection numérique des acteurs économiques et publics de la région.
+- Cyber’Occ franchit une nouvelle étape dans son développement.
+- Le centre de ressources et d’expertise en cybersécurité de la région Occitanie a été retenu dans le cadre de l’Appel à Manifestation d’Intérêt « Renforcement de l’accompagnement local aux enjeux de cybersécurité » porté par l’Agence nationale de la sécurité des systèmes d’information (ANSSI).
+- Une reconnaissance nationale qui valide trois années d’efforts en faveur d’un écosystème régional plus résilient face aux cybermenaces.
+
+## [IA, <b>cybersécurité</b>, télécom, innovations: Dubaï, nouvel eldorado des start-up françaises](https://www.bfmtv.com/tech/startup/ia-cybersecurite-telecom-innovations-dubai-nouvel-eldorado-des-start-up-francaises_AV-202510150836.html)  
+*Source : bfmtv.com | Publication : 2025-10-15*
+
+- IA, cybersécurité, télécom, innovations: Dubaï, nouvel eldorado des start-up françaises Une année record pour la France.
+- Au Gitex Global 2025 de Dubaï, le plus grand rendez-vous technologique au Moyen-Orient, la représentation tricolore est massive.
+- Plus d’une cinquantaine d’entreprises ont fait le déplacement dans le petit émirat, entre start-up et sociétés plus affirmées.
+- Un record qui illustre parfaitement l'intérêt croissant des représentants hexagonaux pour la région du Golfe.
+
+## [Post de Emmanuel Duteil - LinkedIn](https://fr.linkedin.com/posts/emmanuel-duteil-72293514_télécoms-sfr-bouyguestelecom-activity-7383971139498434561-DpP1)  
+*Source : fr.linkedin.com | Publication : 2025-10-15*
+
+- Directeur des rédactions du pôle industrie d'@InfoproDigital dont l'@usinenouvelle - France Inter parfois l'édito éco et On n'arrête pas l'éco 📸 Aurélia Faudot 🔴 Télécoms : Bouygues, Free et Orange main dans la main pour racheter SFR C’est un séisme dans le paysage français des télécoms.
+- Bouygues Telecom, Free (groupe Iliad) et Orange ont déposé une offre conjointe non engageante pour racheter une grande partie des activités d’Altice en France, maison mère de SFR.
+- 💰 Montant total : 17 milliards d’euros de valeur d’entreprise pour les actifs considérés, soit plus de 21 milliards d’euros pour l’ensemble d’Altice France.
+- 👉 L’opération exclurait les participations dans Intelcia, UltraEdge, XP Fibre et Altice Technical Services, ainsi que les activités outre-mer.
+
+## [Les États-Unis déclarent qu'une &quot;<b>cybermenace</b> importante&quot; touche les réseaux fédéraux ...](https://www.boursorama.com/bourse/actualites-amp/les-etats-unis-declarent-qu-une-cybermenace-importante-touche-les-reseaux-federaux-utilisant-des-dispositifs-f5-aae2e39ada7a866826a6f79430ca2559)  
+*Source : boursorama.com | Publication : 2025-10-15*
+
+- Les États-Unis avertissent que des pirates utilisent des dispositifs F5 pour cibler les réseaux gouvernementaux information fournie par Reuters 15/10/2025 à 19:53 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajout de commentaires de fonctionnaires américains aux paragraphes 4 et 5) Des représentants du gouvernement américain ont déclaré mercredi que les réseaux fédéraux étaient la cible d'un "acteur de menace cybernétique d'État" non identifié qui tente d'exploiter les vulnérabilités des produits de la société de cybersécurité F5 FFIV.O.
+- Dans une déclaration et une directive d'urgence , l'agence de cybersécurité et de sécurité des infrastructures a déclaré que les pirates avaient compromis les systèmes de F5 et extrait des fichiers, y compris une partie de son code source et des informations sur les vulnérabilités, et qu'ils pourraient utiliser ces connaissances comme feuille de route pour pénétrer dans les appareils et les logiciels de F5, ce qui pourrait éventuellement conduire à une compromission complète des réseaux ciblés.
+- "L'acteur de la cybermenace présente une menace imminente pour les réseaux fédéraux" utilisant des produits F5, a déclaré la CISA.
+- Nick Andersen, directeur adjoint exécutif de la CISA chargé de la cybersécurité, a déclaré aux journalistes que les fonctionnaires avaient reçu l'ordre d'identifier les appareils F5 sur leur réseau et d'appliquer les mises à jour urgentes.
+
+## [Les États-Unis déclarent qu'une &quot;<b>cybermenace</b> importante&quot; touche les réseaux fédéraux ...](https://www.boursorama.com/bourse/actualites/les-etats-unis-declarent-qu-une-cybermenace-importante-touche-les-reseaux-federaux-utilisant-des-dispositifs-f5-aae2e39ada7a866826a6f79430ca2559)  
+*Source : boursorama.com | Publication : 2025-10-15*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajout de commentaires de fonctionnaires américains aux paragraphes 4 et 5) Des représentants du gouvernement américain ont déclaré mercredi que les réseaux fédéraux étaient la cible d'un "acteur de menace cybernétique d'État" non identifié qui tente d'exploiter les vulnérabilités des produits de la société de cybersécurité F5 FFIV.O.
+- Dans une déclaration et une directive d'urgence , l'agence de cybersécurité et de sécurité des infrastructures a déclaré que les pirates avaient compromis les systèmes de F5 et extrait des fichiers, y compris une partie de son code source et des informations sur les vulnérabilités, et qu'ils pourraient utiliser ces connaissances comme feuille de route pour pénétrer dans les appareils et les logiciels de F5, ce qui pourrait éventuellement conduire à une compromission complète des réseaux ciblés.
+- "L'acteur de la cybermenace présente une menace imminente pour les réseaux fédéraux" utilisant des produits F5, a déclaré la CISA.
+- Nick Andersen, directeur adjoint exécutif de la CISA chargé de la cybersécurité, a déclaré aux journalistes que les fonctionnaires avaient reçu l'ordre d'identifier les appareils F5 sur leur réseau et d'appliquer les mises à jour urgentes.
+
+## [Intelligence artificielle et <b>cybersécurité</b> : Points essentiels de la surveillance par le conseil d ...](https://www.jdsupra.com/legalnews/intelligence-artificielle-et-8589408/)  
+*Source : jdsupra.com | Publication : 2025-10-15*
+
+- L’intelligence artificielle (l’« IA ») et la cybersécurité : deux domaines affichant une trajectoire de croissance similairement abrupte et présentant des risques et des occasions pour les émetteurs.
+- La croissance rapide dans ces deux domaines oblige les administrateurs et dirigeants à examiner et dans certains cas à réviser leurs approches habituelles en matière de surveillance.
+- Les administrateurs et dirigeants qui n’en connaissent pas autant sur le sujet pourraient trouver que l’expertise technique de base requise pour gérer ces questions est intimidante.
+- Il est toujours aussi important d’adopter des pratiques de gouvernance prudentes face aux nouvelles demandes qui accompagnent ces secteurs en évolution rapide.
+
+## [Un rançongiciel frappe la ville d'Elne et perturbe ses services en octobre 2025](https://datascientest.com/un-rancongiciel-frappe-la-ville-delne-et-perturbe-ses-services-en-octobre-2025)  
+*Source : datascientest.com | Publication : 2025-10-15*
+
+- La ville française d’Elne, dans les Pyrénées-Orientales, a été frappée par une attaque par rançongiciel à la mi-octobre 2025, perpétrée par le groupe de cybercriminels Qilin, selon des renseignements de cybersécurité confirmés par des sources spécialisées.
+- Bien que l’intrusion ait été détectée le 15 octobre, les autorités locales et le maire Nicolas Garcia n’ont publié aucun communiqué officiel au sujet de l’incident, laissant les habitants dans l’ignorance d’une éventuelle compromission de données ou de perturbations de services.
+- L’attaque constitue une faille de sécurité majeure pour cette ville méditerranéenne de 12 000 habitants, bien que l’ampleur réelle de la compromission demeure inconnue.
+- Le blog de cybersécurité HookPhish a explicitement identifié le groupe de rançongiciel comme auteur dans son rapport du 15 octobre, constituant à ce jour la seule documentation publique de l’incident.
+
+## [Après l'attaque contre Asahi : un rappel à revoir leur <b>cybersécurité</b> pour le secteur ...](https://baronmag.com/2025/10/apres-lattaque-contre-asahi-un-rappel-a-revoir-leur-cybersecurite-pour-le-secteur-brassicole-et-des-boissons/)  
+*Source : baronmag.com | Publication : 2025-10-15*
+
+- Après l'attaque contre Asahi : un rappel à revoir leur cybersécurité pour le secteur brassicole et des boissons.
+- Leonardo Calcagno · 15 octobre 2025.
+
+## [Jura. <b>Cybercriminalité</b> : les bons réflexes pour éviter les pièges en ligne - Actu.fr](https://actu.fr/bourgogne-franche-comte/hauts-de-bienne_39368/jura-cybercriminalite-les-bons-reflexes-pour-eviter-les-pieges-en-ligne_63305152.html)  
+*Source : actu.fr | Publication : 2025-10-15*
+
+- Dans le cadre des journées portes ouvertes de France Services Arcades Morez (Jura), mardi 7 octobre 2025, l’adjudant-chef Nicolas Verjus, de la brigade de gendarmerie des Hauts-de-Bienne, a informé l’assistance des dangers liés à l’utilisation du réseau internet.
+- En introduction, il a rappelé la responsabilité pénale et civile des mineurs à titre général et qui sont susceptibles à partir de treize ans, de voir leurs actes être engagés avec garde à vue judiciaire.
+- Les dangers, manipulations psychologiques, le cyber harcèlement, les sollicitations à caractères sexuels, les messages malveillants, sont les plus fréquents aspects nocifs.
+- Les conseils de prudence sont à rappeler.
+
+## [F5, entreprise de <b>cybersécurité</b>, révèle une cyberattaque d'origine étatique, ses opérations ...](https://ch.zonebourse.com/actualite-bourse/f5-entreprise-de-cybersecurite-revele-une-cyberattaque-d-origine-etatique-ses-operations-restent-ce7d5adfdb8bfe25)  
+*Source : ch.zonebourse.com | Publication : 2025-10-15*
+
+- F5, entreprise de cybersécurité, révèle une cyberattaque d'origine étatique, ses opérations restent intactesLa société spécialisée dans la cybersécurité F5 a annoncé mercredi avoir détecté un accès non autorisé à certains de ses systèmes par un acteur malveillant étatique hautement.
+
+## [L'entreprise de <b>cybersécurité</b> F5 révèle avoir été piratée par un État-nation, mais affirme que ...](https://www.boursorama.com/bourse/actualites/l-entreprise-de-cybersecurite-f5-revele-avoir-ete-piratee-par-un-etat-nation-mais-affirme-que-ses-activites-n-ont-pas-ete-affectees-06cacbe2f68b2a86159d3a8c9587e56e)  
+*Source : boursorama.com | Publication : 2025-10-15*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) La société de cybersécurité F5 FFIV.O a déclaré mercredi qu'elle avait détecté un accès non autorisé à certains systèmes de l'entreprise par un acteur de menace étatique hautement sophistiqué, mais que la violation n'avait pas eu d'impact sur ses opérations.
+- La société a découvert l'intrusion le 9 août et a pris des "mesures importantes" pour contenir la menace, en engageant des experts externes, y compris CrowdStrike, Mandiant, NCC Group et IOActive, pour aider à l'enquête, a-t-elle déclaré dans un document déposé auprès de la Securities and Exchange Commission des États-Unis.
+- F5, fournisseur de services de cybersécurité et d'applications multi-cloud, a déclaré que l'attaquant avait un accès à long terme à ses systèmes internes utilisés pour développer le logiciel BIG-IP et a volé des fichiers contenant des parties du code du programme et des détails sur les failles de sécurité qui n'avaient pas encore été rendues publiques.
+- La société a toutefois déclaré qu'elle n'avait trouvé aucun signe indiquant que des failles de sécurité clés avaient été utilisées dans des attaques ou que son processus de développement de logiciels avait été altéré.
+
+## [<b>Cybersécurité</b> : trois mythes qui exposent encore les entreprises aux cyberattaques](https://www.sudinfo.be/id1053410/article/2025-10-15/cybersecurite-trois-mythes-qui-exposent-encore-les-entreprises-aux-cyberattaques)  
+*Source : sudinfo.be | Publication : 2025-10-15*
+
+- « La cybersécurité n'est pas un travail à temps partiel », conclut Peter Vandeput.
+- « Elle demande une vigilance constante et une sensibilisation.
+
+## [Mastercard Europe déploie pour la première fois en Europe un exercice de défense ...](https://www.mastercard.com/news/europe/fr-fr/salle-de-presse/communiques-de-presse/fr-fr/2025/mastercard-europe-deploie-pour-la-premiere-fois-en-europe-un-exercice-de-defense-cybernetique-multisectoriel/)  
+*Source : mastercard.com | Publication : 2025-10-15*
+
+- Mastercard Europe déploie pour la première fois en Europe un exercice de défense cybernétique multisectoriel Des équipes intersectorielles de BT Group, Deutsche Bank, ING, Proximus et Santander rejoignent le Centre Européen de Cyber Résilience de Mastercard en Belgique pour tester en temps réel les menaces cybernétiques en évolution.
+- Paris, France – 15 octobre 2025 – Mastercard organise ce jour la première édition européenne de son exercice de cybersécurité multisectoriel (Cyber Defense Exercise, CDX) au Centre Européen de Cyber Résilience, situé au siège européen de l’entreprise à Waterloo, en Belgique.
+- Cet atelier immersif réunit experts techniques et décideurs du secteur de la finance et des télécommunications dans un exercice de “force contre force” simulant une cyberattaque avancée.
+- Le CDX est un exercice dynamique où des équipes rouges et bleues s’affrontent pour tester la manière dont les organisations réagissent à des menaces cybernétiques complexes et coordonnées, tant sur le plan technique que stratégique.
+
+## [Pour votre information. Guide pratique : gare à la <b>cybercriminalité</b> ! - Le Républicain Lorrain](https://www.republicain-lorrain.fr/culture-loisirs/2025/10/15/guide-pratique-gare-a-la-cybercriminalite)  
+*Source : republicain-lorrain.fr | Publication : 2025-10-15*
+
+- Pour votre information Guide pratique : gare à la cybercriminalité !.
+- Dans notre société ultra-connectée, la cybercriminalité est partout.
+- Nul n’est à l’abri d’un excès de confiance aux conséquences qui peuvent être dramatiques.
+- La seule parade est l’information.
 
 ## [<b>Cybersécurité</b> : À Casablanca, PwC inaugure son 1er Digital Resilience Center dans la région MENA](https://www.lavieeco.com/affaires/secteurs/cybersecurite-a-casablanca-pwc-inaugure-son-1er-digital-resilience-center-dans-la-region-mena/)  
 *Source : lavieeco.com | Publication : 2025-10-14*
