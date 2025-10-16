@@ -1,5 +1,153 @@
-# Résumés – 2025-10-15
+# Résumés – 2025-10-16
 
+
+## [Sensibilisation à la <b>cybersécurité</b> à Villeneuve-de-la-Rivière - lindependant.fr](https://www.lindependant.fr/2025/10/16/sensibilisation-a-la-cybersecurite-a-villeneuve-de-la-riviere-12997253.php)  
+*Source : lindependant.fr | Publication : 2025-10-16*
+
+- Sensibilisation à la cybersécurité à Villeneuve-de-la-Rivière La médiathèque a accueilli un atelier consacré à la cybersécurité animé par Sébastien Noé, conseiller numérique.
+- Gratuit et ouvert à tous cet atelier a réuni plusieurs participants venus s’informer sur les bons réflexes à adopter face aux menaces en ligne.
+- Au cours de son intervention Sébastien Noé a présenté les risques liés aux usages numériques quotidiens, comme le phishing, les virus ou encore les arnaques en ligne, avant de détailler les bonnes pratiques permettant de s’en prémunir : création de mots de passe sécurités, mises à jour régulières, vigilance face aux messages suspects ou encore sauvegarder des données importantes.
+- Cette séance de sensibilisation à la fois pratique et pédagogique a permis aux participants de mieux comprendre les enjeux de la sécurité numérique et d’acquérir les outils concrets pour protéger leurs informations personnelles.
+
+## [Qilin <b>Ransomware</b>, ce groupe de hackers qui cible entreprises, lycées, et mairies depuis ...](https://fr.news.yahoo.com/qilin-ransomware-groupe-hackers-cible-192834552.html)  
+*Source : fr.news.yahoo.com | Publication : 2025-10-16*
+
+- Qilin Ransomware, ce groupe de hackers qui cible entreprises, lycées, et mairies depuis des semaines INTERNATIONAL - Un « gang » qui opèrerait depuis la Russie et dans d’autres pays d’Europe de l’Est.
+- Le groupe de hackers baptisé Qilin Ransomware est à l’origine de nombreuses cyberattaques dans l’Hexagone depuis début octobre.
+- Des lycées des Hauts-de-France et plusieurs villes des Pyrénées-Orientales ont notamment été ciblées faisant craindre pour la divulgation de données privées.
+- La mairie d’Elne (Pyrénées-Orientales) a été visée début octobre, rapporte La Tribune, et a revendiqué l’attaque sur son site hébergé sur le darknet.
+
+## [Qilin, ce groupe de hackers qui cible entreprises, lycées, et mairies depuis des semaines](https://www.huffingtonpost.fr/france/article/qilin-ransomware-ce-groupe-de-hackers-qui-cible-entreprises-lycees-et-mairies-depuis-des-semaines_256086.html)  
+*Source : huffingtonpost.fr | Publication : 2025-10-16*
+
+- INTERNATIONAL - Un « gang » qui opèrerait depuis la Russie et dans d’autres pays d’Europe de l’Est.
+- Le groupe de hackers baptisé Qilin Ransomware est à l’origine de nombreuses cyberattaques dans l’Hexagone depuis début octobre.
+- Des lycées des Hauts-de-France et plusieurs villes des Pyrénées-Orientales ont notamment été ciblées faisant craindre pour la divulgation de données privées.
+- La mairie d’Elne (Pyrénées-Orientales) a été visée début octobre, rapporte La Tribune, et a revendiqué l’attaque sur son site hébergé sur le darknet.
+
+## [<b>Ransomware</b> : comment Akira cache son niveau d'activité réel - LeMagIT](https://www.lemagit.fr/actualites/366632861/Ransomware-comment-Akira-cache-son-niveau-dactivite-reel)  
+*Source : lemagit.fr | Publication : 2025-10-16*
+
+- Ransomware : comment Akira cache son niveau d’activité réel Cette enseigne affiche le niveau d’activité le plus élevé en 2025.
+- Elle apparaît pourtant bien plus active qu’il n’y paraît.
+- Jusqu’à dix fois plus, selon les constatations des autorités suisses.
+- Quelques 150 organisations suisses victimes nominales de cyberattaque sont connues publiquement, dont un peu plus de 140 revendiquées par des cybercriminels.
+
+## [Le nouveau PDG de Desjardins mise sur la <b>cybersécurité</b> - Radio-Canada](https://ici.radio-canada.ca/info/videos/1-10497731/nouveau-pdg-desjardins-mise-sur-cybersecurite)  
+*Source : ici.radio-canada.ca | Publication : 2025-10-16*
+
+- Le nouveau PDG de Desjardins mise sur la cybersécurité Denis Dubois, nouveau pdg de Desjardins, veut rendre les services de l'institution plus personnalisés et plus sécuritaires.
+- « C'est un combat de tous les jours.
+- On investit 300 millions de dollars par année en cybersécurité » dit-il à #Zoneéconomie.
+
+## [<b>Cybersécurité</b> : la souveraineté numérique devient un enjeu majeur - Daf-Mag.fr](https://www.daf-mag.fr/risques-1241/cyber-climat-2123/cybersecurite-la-souverainete-numerique-devient-un-enjeu-majeur-22877)  
+*Source : daf-mag.fr | Publication : 2025-10-16*
+
+- Les entreprises françaises se sentent davantage menacées qu’en 2023.
+- Selon le dernier baromètre de Docapost et Cyblex Consulting, 40 % des répondants estiment que leur organisation est exposée à un risque cyber élevé ou très élevé, soit une hausse de 10 points par rapport à l’année précédente.
+- Cette perception est particulièrement marquée chez les grandes entreprises pour 57 % des structures de plus de 1 000 salariés se considèrant très exposées, contre seulement 26 % pour l’ensemble des répondants.
+- Cyberattaques : des conséquences en évolution Pourtant, la réalité des attaques ne correspond pas toujours aux craintes exprimées.
+
+## [Attention ! Les publicités peuvent devenir un risque pour votre <b>cybersécurité</b> - Clubic](https://www.clubic.com/actualite-582592-attention-les-publicites-peuvent-devenir-un-risque-pour-votre-cybersecurite.html)  
+*Source : clubic.com | Publication : 2025-10-16*
+
+- Ah, ces fameuses fenêtres pop-ups et autres publicités qui pullulent sur le Web !.
+- Saviez-vous qu'en plus d'être dérangeantes, bon nombre sont loin d'être inoffensives sur le plan de la cybersécurité ?.
+- Prenez donc cette menace au sérieux, et gérez-là très facilement !.
+- En effet, il existe des solutions efficaces, et surtout, sans compromis, face à ces faux boutons « télécharger », ces liens frauduleux et non sécurisés destinés à subtiliser vos données, ou encore un malware.
+
+## [Deuxième édition d'Interactions : de nouveaux articles à découvrir](https://www.quebec.ca/nouvelles/actualites/details/deuxieme-edition-dinteractions-de-nouveaux-articles-a-decouvrir-66440)  
+*Source : quebec.ca | Publication : 2025-10-16*
+
+- Découvrez le deuxième numéro d’Interactions!.
+- Dans cette édition consacrée à la cybersécurité, il sera notamment question des nouvelles menaces numériques et des moyens mis en place pour faire face à une cyberattaque.
+- De plus, vous en apprendrez davantage sur le Centre gouvernemental de cyberdéfense.
+- Vous n’êtes pas encore abonné(e) à notre infolettre?.
+
+## [<b>Cybercriminalité</b>: Les pirates d'AKIRA ont attaqué 200 entreprises en Suisse - lematin.ch](https://www.lematin.ch/story/cybercriminalite-les-pirates-d-akira-ont-attaque-200-entreprises-en-suisse-103434577)  
+*Source : lematin.ch | Publication : 2025-10-16*
+
+- CybercriminalitéLes pirates d'AKIRA ont attaqué 200 entreprises en Suisse Le préjudice est estimé à plusieurs millions de francs.
+- Les attaques par rançongiciels sont en recrudescence.
+- Le groupe de pirates informatiques AKIRA a attaqué par rançongiciels (ransomwares) quelque 200 entreprises en Suisse ces derniers mois.
+- Le préjudice estimé est actuellement de «plusieurs millions de francs suisses», apprend-on ce jeudi.
+
+## [<b>Cybersécurité</b> : le ministère de la Santé souhaite sécuriser ses systèmes d'information hospitaliers](https://medias24.com/2025/10/16/cybersecurite-le-ministere-de-la-sante-souhaite-securiser-ses-systemes-dinformation-hospitaliers/)  
+*Source : medias24.com | Publication : 2025-10-16*
+
+- Dans le cadre d'un projet de renforcement de sa cybersécurité , le ministère de la Santé est en passe d'acquérir une solution de gestion des accès.
+
+## [L'extorsion et les rançongiciels sont à l'origine de plus de la moitié des cyberattaques](https://news.microsoft.com/source/canada/2025/10/16/lextorsion-et-les-rancongiciels-sont-a-lorigine-de-plus-de-la-moitie-des-cyberattaques/?lang=fr)  
+*Source : news.microsoft.com | Publication : 2025-10-16*
+
+- Par Amy Hogan-Burney, vice-présidente corporative, Sécurité et confiance des clients Durant la première moitié de l’année 2025, les données de Microsoft ont montré que le Canada se classait au 6e rang mondial parmi les pays où les clients étaient le plus souvent touchés par les cyberactivités.
+- - Durant la première moitié de l’année 2025, les données de Microsoft ont montré que le Canada se classait au deuxième rang des pays où les clients étaient le plus souvent touchés par des cyberactivités dans les Amériques (Amérique du Nord et Amérique du Sud comprises).
+- - Durant la première moitié de l’année 2025, les données de Microsoft ont montré que le Canada représentait environ 7,9 % des clients touchés par des cyberactivités dans les Amériques (Amérique du Nord et Amérique du Sud comprises).
+- - Dans 80 % des incidents de cybersécurité qu’ont examinés les équipes de sécurité de Microsoft l’an dernier, les attaquants cherchaient à voler des données — une tendance motivée davantage par le gain financier que par la collecte de renseignements.
+
+## [<b>Cybersécurité</b> : l'Union européenne face aux <b>cybermenaces</b> - Touteleurope.eu](https://www.touteleurope.eu/economie-et-social/cybersecurite-europe-cybermenaces-cyberattaques/)  
+*Source : touteleurope.eu | Publication : 2025-10-16*
+
+- En avril 2024, l'hôpital Simone Veil de Cannes a été victime d’une cyberattaque majeure.
+- A travers un rançongiciel, les malfaiteurs ont pu prendre le contrôle des systèmes et exfiltrer environ 60 Go de données administratives et personnelles (dossiers médicaux, bulletins de salaire, copies de pièces d’identité).
+- Après avoir exploité une vulnérabilité pour verrouiller les réseaux, ils ont exigé une rançon et publié une partie des informations volées sur le dark web.
+- Quant à l’hôpital, il a dû basculer en mode dégradé (gestion manuelle des soins), reporter des interventions non urgentes, tout en refusant de payer la rançon.
+
+## [Deux nouvelles créations à la gendarmerie nationale : une brigade anti <b>cybercriminalité</b> et ...](https://fr.saharamedias.net/deux-nouvelles-creations-a-la-gendarmerie-nationale-une-brigade-anti-cybercriminalite-et-une-unite-de-cavalerie/)  
+*Source : fr.saharamedias.net | Publication : 2025-10-16*
+
+- Deux nouvelles créations à la gendarmerie nationale : une brigade anti cybercriminalité et une unité de cavalerie La Mauritanie a annoncé jeudi la création d’une brigade spécialisée dans la lutte contre la cybercriminalité et le lancement d’une nouvelle unité de cavalerie au sein de la gendarmerie nationale.
+- Le chef d’état-major de la gendarmerie nationale, le général Ahmed Mahmoud Ould Taya, a déclaré que la brigade spécialisée dans la lutte contre la cybercriminalité serait un « bouclier protecteur » face à ce type de criminalité en pleine expansion.
+- Les déclarations du chef d’état-major de la gendarmerie nationale ont été faites lors d’une cérémonie de remise des diplômes à deux promotions d’élèves gendarmes et d’officiers de police judiciaire qui s’est tenue à Rosso, en présence du ministre de la Défense nationale, Hanena Ould Sidi.
+- Ould Taya a ajouté que les efforts de développement du secteur comprenaient également la création d’une unité de cavalerie qui suit actuellement une formation intensive dans la ville de Nouadhibou, précisant qu’elle travaillera ensuite aux côtés des unités mobiles de la gendarmerie dans le cadre de missions de maintien de l’ordre.
+
+## [<b>Cybersécurité</b> : Pourquoi les établissements de santé sont-ils des cibles idéales pour les hackers ?](https://www.20minutes.fr/sante/4179306-20251016-cybersecurite-pourquoi-etablissements-sante-cibles-ideales-hackers)  
+*Source : 20minutes.fr | Publication : 2025-10-16*
+
+- Cybersécurité : Pourquoi les établissements de santé sont-ils des cibles idéales pour les hackers ?.
+- CYBERATTAQUE•Face à la multiplication des cyberattaques sur les hôpitaux, des établissements de santé ont décidé de mettre en place des dispositifs pour s’en prémunirPropos recueillis par Elise Martin L'essentiel Face à la multiplication des cyberattaques qui ciblent les établissements de santé, l’agence régionale de santé a mis en place des actions de formation et de sensibilisation.
+- - Parmi eux, Calydial, un établissement de santé spécialisé dans la prévention de la maladie rénale chronique, de la dialyse.
+- C’est l’un des premiers établissements accompagnés dans l’objectif de garantir la sécurité des données de ses 300 patients en dialyse et plus de 2.000 patients en maladie rénale chronique, ainsi que de ses 150 employés.
+
+## [Conseil de <b>cybersécurité</b> des EAU : Les systèmes nationaux déjouent les tentatives de ...](https://www.wam.ae/article/b1mmvwy-conseil-cybersécurité-des-eau-les-systèmes)  
+*Source : wam.ae | Publication : 2025-10-16*
+
+- ABOU DHABI, 9 février 2024 (WAM) – Le Conseil de cyber-sécurité des EAU a confirmé le succès des cyber-systèmes nationaux dans la mise en échec.
+
+## [<b>Cybersécurité</b>. Cyber'Occ remporte un appel à manifestation d'intéret national - ToulÉco](https://www.touleco.fr/Cybersecurite-Cyber-Occ-remporte-un-appel-a-manifestation-d,48648)  
+*Source : touleco.fr | Publication : 2025-10-16*
+
+- Cyber’Occ, le centre de ressources et d’expertises en cybersécurité de la Région Occitanie, annonce avec fierté sa sélection dans le cadre de l’appel à manifestation d’intérêt (AMI) « Renforcement de l’accompagnement local aux enjeux de cybersécurité », lancé par l’Agence nationale de la sécurité des systèmes d’information (Anssi).
+- En 2024, le service d’urgence cyber de Cyber’Occ a traité 146 incidents, tout en renforçant ses partenariats et ses actions de sensibilisation.
+- Cyber’Occ a été créé en 2022 par la Région Occitanie, l’agence de développement économique Ad’Occ et l’association Ekitia, avec le soutien de l’Anssi.
+- Il fédère un écosystème de près de 90 adhérents (entreprises, institutions, associations, académiques).
+
+## [Dattak : Charles Dagouat nommé directeur <b>cybersécurité</b> - News Assurances Pro](https://www.newsassurancespro.com/dattak-charles-dagouat-nomme-directeur-cybersecurite/01691664976)  
+*Source : newsassurancespro.com | Publication : 2025-10-16*
+
+- Dattak annonce la nomination de Charles Dagouat comme directeur cybersécurité.
+- Il intègre à ce titre le comex du MGA.
+
+## [Les Rencontres de la <b>Cybersécurité</b> | Montpellier - La Mêlée](https://lamelee.com/evenement/les-rencontres-de-la-cybersecurite-montpellier/)  
+*Source : lamelee.com | Publication : 2025-10-16*
+
+- Description : La sensibilisation à la cybersécurité est aujourd’hui un enjeu essentiel.
+- Dans un monde toujours plus connecté, chaque organisation comme chaque individu est exposé à des risques numériques : attaques par hameçonnage, vols de données, rançongiciels… Ces menaces ne sont plus lointaines ni théoriques, elles concernent directement notre quotidien, nos services publics, nos entreprises et même nos usages personnels.
+- Face à cette réalité, il est nécessaire de renforcer collectivement notre vigilance et de développer une véritable culture de la sécurité numérique.
+- Les Rencontres de la Cybersécurité se dérouleront cette année sur une journée entière, rythmée par une séance plénière et des ateliers interactifs, pour croiser les regards, partager les expériences et donner à chacun des clés concrètes pour se protéger.
+
+## [Cambodge : le conglomérat Prince accusé d'être la façade légale d'un réseau criminel](https://www.courrierinternational.com/article/justice-cambodge-le-conglomerat-prince-accuse-d-etre-la-facade-legale-d-un-reseau-criminel_236359)  
+*Source : courrierinternational.com | Publication : 2025-10-16*
+
+- Coup de tonnerre sur les milieux économiques et politiques cambodgiens.
+- Le groupe Prince, l’un des principaux conglomérats du pays, a été “qualifié de ‘réseau criminel d’ampleur internationale’” par les autorités américaines et britanniques.
+- Le ministère des Finances américain a annoncé des sanctions contre 146 personnes et entités liées au groupe, dont son président, Chen Zhi, âgé de 38 ans, accusé d’être impliqué dans la cyberfraude, la traite d’êtres humains et le blanchiment d’argent.
+- La justice américaine a saisi l’équivalent de 12 milliards d’euros en bitcoins liés à cette affaire, et les actifs détenus par le groupe et ses dirigeants sont désormais susceptibles d’être confisqués, poursuit CamboJA News.
+
+## [Cybermois 2025 : 4 conseils <b>cybersécurité</b> - YouTube](https://www.youtube.com/watch?v=9P47byGMe40)  
+*Source : youtube.com | Publication : 2025-10-16*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
 
 ## [Le Maroc face à la montée des <b>cybermenaces</b> dans le secteur financier - Le360](https://fr.le360.ma/economie/le-maroc-face-a-la-montee-des-cybermenaces-dans-le-secteur-financier_ACOMEG4NGBCVPOAZKORAUHT4SI/)  
 *Source : fr.le360.ma | Publication : 2025-10-15*
