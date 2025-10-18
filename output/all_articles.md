@@ -1,5 +1,161 @@
-# Résumés – 2025-10-17
+# Résumés – 2025-10-18
 
+
+## [Google renforce la sécurité des comptes avec de nouveaux outils contre le piratage](https://www.linfo.re/magazine/high-tech/google-renforce-la-securite-des-comptes-avec-de-nouveaux-outils-contre-le-piratage)  
+*Source : linfo.re | Publication : 2025-10-18*
+
+- Le géant américain du net a présenté, le 15 octobre 2025, une série de dispositifs destinés à améliorer la protection de vos données face à la cybercriminalité.
+- Google souhaite faciliter la récupération des comptes bloqués et limiter les risques d’usurpation d’identité.
+- Parmi les nouveautés annoncées figure la fonction « Contacts pour la récupération de votre compte ».
+- Elle permet de désigner une ou plusieurs personnes de confiance, proches ou collègues capables d’aider à vérifier votre identité si les méthodes habituelles échouent.
+
+## [Maîtrisez la Sécurisation : Pourquoi aucun PME ne doit rester sans protection maintenant](https://lesnews.ca/tech/cybersecurite/cyber-seals-maitrisez-la-securisation-pourquoi-aucun-pme-ne-doit-rester-sans-protection-maintenant/)  
+*Source : lesnews.ca | Publication : 2025-10-18*
+
+- La cybersécurité : une nécessité urgente pour les PME.
+- Dans le contexte actuel où les cyberattaques se multiplient, les petites et moyennes.
+
+## [Affaire Lissa Tine : La voyante Aïssatou Diop déférée pour avoir accusé Modou Yade de meurtre](https://www.seneweb.com/fr/news/Societe/affaire-lissa-tine-la-voyante-aissatou-diop-deferee-pour-avoir-accuse-modou-yade-de-meurtre_n_471491.html)  
+*Source : seneweb.com | Publication : 2025-10-18*
+
+- Affaire Lissa Tine : La voyante Aïssatou Diop déférée pour avoir accusé Modou Yade de meurtre Sale temps pour la voyante Aïssatou Penda Diop qui a été traînée en justice par le commerçant Modou Yade, ex-mari de la dame Lissa Tine disparue mystérieusement depuis six ans.
+- Tout a commencé lorsque le plaignant, domicilié aux Almadies 2, a déposé une plainte à la Division spéciale de cybersécurité avec des vidéos à l'appui.
+- Auditionné par les enquêteurs, Modou Yade a exposé les motifs de sa plainte.
+- "Lors d'un live sur le réseau social TikTok, Aïssatou Diop avait affiché ma photo en m'accusant d'avoir tué Lissa Tine.
+
+## [Création du plus grand centre R&amp;D numérique en Afrique : un maillon stratégique pour ... - Horizons](https://www.horizons.dz/?p=370606)  
+*Source : horizons.dz | Publication : 2025-10-18*
+
+- Création du plus grand centre R&D numérique en Afrique : Un maillon stratégique pour renforcer l’écosystème de l’innovation L’annonce de la création du plus grand centre national de recherche et de développement numérique en Afrique traduit une ambition claire de l’Algérie, d’après les experts : celle de se positionner comme un acteur majeur de l’innovation technologique dans le continent.
+- Même si le projet n’en est qu’à ses débuts, selon l’expert en économie, en entrepreneuriat et en TIC, Djallal Bouabdallah, il s’inscrit dans la continuité de la stratégie nationale de transformation numérique 2025–2030, qui vise à bâtir une économie fondée sur la connaissance et sur la donnée.
+- Un catalyseur de la coopération technologique africaine «S’il est concrétisé, ce centre pourrait jouer un rôle structurant, et ce, en fédérant les initiatives publiques et privées, en créant des passerelles entre universités, startups et institutions et en stimulant la recherche appliquée dans des domaines prioritaires tels que l’intelligence artificielle, la cybersécurité et la data.
+- C’est une étape symbolique mais essentielle vers une souveraineté numérique plus affirmée», assure Djallal Bouabdallah, soutenant que ce centre constitue un maillon stratégique pour renforcer l’écosystème de l’innovation en Algérie.
+
+## [Sextorsion et deepfake: une nouvelle ligne de front dans la lutte contre la <b>cybercriminalité</b>](https://www.rts.ch/info/societe/2025/article/sextorsion-l-ia-utilisee-pour-creer-de-fausses-videos-intimes-et-extorquer-29029940.html)  
+*Source : rts.ch | Publication : 2025-10-18*
+
+- Résumé de l’article Sextorsion et deepfake: une nouvelle ligne de front dans la lutte contre la cybercriminalité "Il y avait moi en train de me déshabiller: mon visage, sur un corps nu", témoigne un jeune Tessinois victime de sextorsion.
+- "Dans la vidéo, créée grâce à l'intelligence artificielle (IA), qu'ils m'ont envoyée sur WhatsApp pour me menacer et me demander de l'argent, je me déshabillais.
+- À un moment, j'étais nu.
+- Au début, on me voit de dos, puis je me retourne", raconte-t-il au média public suisse italien RSI.
+
+## [<b>Cybersécurité</b> : la société bretonne Ornisec fait du Maroc le pivot de son expansion africaine](https://www.barlamane.com/fr/cybersecurite-la-societe-bretonne-ornisec-fait-du-maroc-le-pivot-de-son-expansion-africaine/)  
+*Source : barlamane.com | Publication : 2025-10-18*
+
+- La société rennaise Ornisec, jeune entreprise française spécialisée dans la formation, l’audit et le conseil en cybersécurité, a choisi le Maroc pour y établir sa première antenne étrangère.
+- Selon le quotidien Ouest-France, cette décision répond à une volonté d’allier proximité institutionnelle, excellence académique et ouverture sur le marché africain.
+- Une implantation stratégique au cœur du Maghreb technologique Fondée il y a moins de cinq ans à Rennes par l’ingénieur Ayoub Sabbar, diplômé de l’IMT Atlantique, Ornisec compte aujourd’hui quarante salariés en Bretagne.
+- L’entreprise a récemment inauguré une antenne à Rabat où deux collaborateurs exercent déjà.
+
+## [Une délégation de la police du Kosovo effectue une visite officielle à la police bulgare](https://reporteri.net/fr/nouvelles/Une-délégation-de-la-police-du-Kosovo-effectue-une-visite-officielle-à-la-police-bulgare/)  
+*Source : reporteri.net | Publication : 2025-10-18*
+
+- cybercriminalité.
+- 18 octobre 2025.
+- Agression au couteau contre une femme et un mineur : la police fournit des détails sur une grave affaire de.
+
+## [60 agents secrets, militaires et experts cyber français s'affrontent pendant 14 heures sur des ...](https://www.clubic.com/actualite-583738-agents-secrets-militaires-et-experts-cyber-francais-s-affrontent-pendant-14-heures-sur-des-defis-de-hacking.html)  
+*Source : clubic.com | Publication : 2025-10-18*
+
+- La Direction du renseignement et de la sécurité de Défense vient d'organiser un exercice de cybersécurité marathon.
+- Soixante experts ont planché sur des défis de hacking pendant 14 heures non-stop.
+- Les services de l'État français viennent de conclure un exercice dit Capture The Flag (CTF) d'une ampleur assez inédite.
+- Organisé par la Direction du renseignement et de la sécurité de Défense (DRSD), l'évènement a rassemblé 60 spécialistes, notamment de la DGSE et de la DGSI, donc les services de renseignement, mais aussi de nos armées, police et gendarmerie.
+
+## [<b>Cybercriminalité</b> : une célèbre voyante sur tik tok arrêtée pour « injures, diffamation… » - Pressafrik](https://www.pressafrik.com/Cybercriminalite-une-celebre-voyante-sur-tik-tok-arretee-pour- injures-diffamation- _a296363.amp.html)  
+*Source : pressafrik.com | Publication : 2025-10-18*
+
+- La Division spéciale de cybersécurité (DSC) a procédé à l’arrestation de A.
+- D., connue sous le pseudonyme de « la Grande voyante », pour des faits « d’injures publiques, calomnies, diffamation et appel au meurtre, commis à travers les réseaux sociaux », a rapporté Les Échos.
+- Selon les premières informations du journal, la mise en cause aurait diffusé sur internet des propos jugés violents et diffamatoires à l’encontre de plusieurs personnes, suscitant une vive indignation dans l’opinion.
+- Après exploitation des données numériques, les enquêteurs de la DSC ont pu remonter jusqu’à l’auteure présumée.
+
+## [Babacar Charles : Un Architecte de la <b>Cybersécurité</b> au Carrefour des Continents - Xalima](https://xalimasn.com/2025/10/18/babacar-charles-un-architecte-de-la-cybersecurite-au-carrefour-des-continents/)  
+*Source : xalimasn.com | Publication : 2025-10-18*
+
+- Dans le monde du numérique, où les données sont reines et les menaces omniprésentes, Babacar Charles Ndoye s’impose comme une figure incontournable.
+- Cet expert en sécurité des systèmes d’information, fort de plus de 25 ans d’expérience, a bâti une carrière internationale jalonnée de postes prestigieux et d’engagements panafricains.
+- Le sourire ne me quitte jamais.
+- Au contraire, il est contaminant.
+
+## [Avec trois trains de retard, Microsoft nous explique que le navigateur est le maillon le plus ...](https://www.clubic.com/actualite-583744-avec-trois-trains-de-retard-microsoft-nous-explique-que-le-navigateur-est-le-maillon-le-plus-important-de-la-cybersecurite.html)  
+*Source : clubic.com | Publication : 2025-10-18*
+
+- Microsoft vient de publier un rapport où le géant technologique souligne que l'avenir de l'informatique se passe dans le navigateur et qu'il convient de le sécuriser en priorité.
+- Une prise de conscience tardive pour une entreprise qui a connu une relation tumultueuse avec les navigateurs web depuis l'époque d'Internet Explorer.
+- Microsoft nous l'annonce avec le plus grand sérieux : l'avenir du travail et de la sécurité passe par le navigateur.
+- Une prise de conscience qui prêterait à sourire, venant d'une entreprise qui a passé les deux dernières décennies à délaisser ce même navigateur qu'elle avait autrefois porté au sommet.
+
+## [L'IA pour la <b>cybersécurité</b>, une adoption nécessaire - Silicon.fr](https://www.silicon.fr/Thematique/cybersecurite-1371/Breves/L-IA-pour-la-cybersecurite-une-adoption-necessaire-458933.htm/amp)  
+*Source : silicon.fr | Publication : 2025-10-18*
+
+- Des attaquants de plus en plus structurés et « créatifs », des traitements de flux de données en croissance constante, l’IA qui se démocratise rapidement,.
+- autant de facteurs qui démontrent une convergence actuelle entre cybersécurité, traitement de données massives et IA.
+- Mais ce cheminement vers une meilleure intégration de l’IA dans la cybersécurité ne se fait pas sans heurts malgré toutes les opportunités qu’elle amène.
+- L’IA comme facteur de changement Là où l’IA est devenue pour les professionnels du marketing et de la relation client un outil incontournable et différenciant, son usage et son intégration demeurent variables parmi les professionnels de la cybersécurité.
+
+## [À EuraTechnologies, pendant les vacances, des ateliers ludiques pour les enfants sur la ...](https://www.lavoixdunord.fr/1637135/article/2025-10-18/euratechnologies-pendant-les-vacances-des-ateliers-ludiques-pour-les-enfants-sur)  
+*Source : lavoixdunord.fr | Publication : 2025-10-18*
+
+- « Un seul enfant par parent », précise Mathieu Gillion, le responsable de la structure.
+- Des ateliers spécifiques sur la cybersécurité.
+- Au programme.
+
+## [Vosges. Épinal : les collectivités font face à la menace croissante des cyberattaques](https://www.vosgesmatin.fr/societe/2025/10/18/epinal-les-collectivites-font-face-a-la-menace-croissante-des-cyberattaques)  
+*Source : vosgesmatin.fr | Publication : 2025-10-18*
+
+- Vosges Épinal : les collectivités font face à la menace croissante des cyberattaques Il y a quelques jours encore, la mairie d’Elne (Pyrénées-Orientales) a été visée par des pirates informatiques d’origine russe.
+- Bien plus près de nous, la commune de Thaon-les-Vosges a été victime d’une cyberattaque au cours du mois de mars, se voyant réclamer une rançon de plusieurs millions d’euros.
+- Plus largement, une collectivité française sur dix dit avoir été ciblée par des hackers au cours des douze derniers mois.
+- Dire que la menace est constante relève donc de l’euphémisme.
+
+## [CITRA considère la protection de l'espace numérique comme une responsabilité nationale](https://www.kuna.net.kw/ArticleDetails.aspx?id=3253544&language=fr)  
+*Source : kuna.net.kw | Publication : 2025-10-18*
+
+- KOWEÏT, 18 Octobre (KUNA) -- Le président du Conseil d'administration de l’Instance de régulation des technologies de l'information et de la communication (CITRA), Khaled Al-Zamel, a affirmé que la protection de l'espace numérique est une responsabilité nationale et qu'elle est tout aussi importante que la protection des frontières terrestres et maritimes.
+- Lors du lancement du « Hackathon - Ligue koweïtienne de cybersécurité », organisé par « Dourat Company » en coopération avec « Zone Company » et parrainé par CITRA, Al-Zamel a ajouté que cette évènement n'est pas seulement une compétition technique, mais plutôt une plateforme pour découvrir des esprits passionnés et capables d'innover, qui aspirent à figurer parmi les experts en cybersécurité de pointe dans la région et dans le monde.
+- Il a souligné que cet hakathon constitue un tremplin pour une génération forte de connaissances, à l'avant-garde de la protection de leurs territoires et de leurs acquis numériques, démontrant que la cybersécurité est devenue la première ligne de défense des pays, des sociétés et des économies.
+- Il a expliqué que CITRA continue de soutenir les initiatives permettant aux jeunes de développer leurs compétences en sécurité numérique, en intelligence artificielle et en innovation technologique, afin qu'ils deviennent des leaders de la transformation numérique.
+
+## [La City du Maroc : comment Casablanca s'érige en capitale économique de l'Afrique](https://www.challenges.fr/monde/la-city-du-maroc-comment-casablanca-serige-en-capitale-economique-de-lafrique_627758)  
+*Source : challenges.fr | Publication : 2025-10-18*
+
+- La City du Maroc : comment Casablanca s’érige en capitale économique de l’Afrique La City du Maroc décolle dans la Ville blanche, attirant les multinationales de la finance, du conseil ou de l’industrie.
+- Fort d’un statut à part et du dynamisme du pays, le quartier d’affaires CFC devient leur tête de pont sur le continent.
+- Du dernier étage de la tour CFC First, un élégant gratte-ciel de 122 mètres dessiné par le prix Pritzker Thom Mayne, se déploie une vue époustouflante sur Casablanca, l’Atlantique et la mosquée Hassan-II.
+- « Ce bâtiment, le premier du quartier, a été construit sur l’emplacement du premier terminal de Casablanca , raconte Saïd Ibrahimi, directeur général de la société qui gère le site, la CFC Authority.
+
+## [200 entreprises en Suisse attaquées par le groupe AKIRA | HZ Insurance - Handelszeitung](https://www.handelszeitung.ch/insurance/200-entreprises-en-suisse-attaquees-par-le-groupe-akira-872282)  
+*Source : handelszeitung.ch | Publication : 2025-10-18*
+
+- Depuis avril 2024, le Ministère public de la Confédération (MPC) mène une procédure pénale contre inconnus suite à plusieurs attaques par rançongiciel menées entre mai 2023 et septembre 2025.
+- L'enquête est coordonnée par l'Office fédéral de la police (Fedpol), en collaboration avec l'Office fédéral de la cybersécurité (OFCS), expliquent jeudi ces trois entités dans un communiqué commun.
+- Les autorités de plusieurs pays sont également impliquées.
+- Ces attaques, revendiquées par AKIRA, sont toujours en cours et se sont intensifiées ces derniers mois, alertent les autorités.
+
+## [Les mots de passe de 20 000 fonctionnaires français circulent sur le dark web - 01net.com](https://www.01net.com/actualites/les-mots-de-passe-de-20-000-fonctionnaires-francais-circulent-sur-le-dark-web.html)  
+*Source : 01net.com | Publication : 2025-10-18*
+
+- Sur le dark web, on trouve énormément de mots de passe appartenant à des employés de l’État français.
+- C’est ce que révèle une étude réalisée par les chercheurs de NordPass à l’aide de NordStellar, la plateforme de surveillance du dark web développée par Nord Security.
+- Depuis le début de l’année dernière, les chercheurs ont déniché 19 538 mots de passe liés à des comptes de fonctionnaires français.
+- Ces mots de passe étaient tous en accès libre.
+
+## [Volkswagen France piraté ? Le constructeur s'exprime après les revendications des hackers russes](https://www.clubic.com/actualite-583663-volkswagen-france-pirate-l-inquietant-silence-du-constructeur-face-aux-revendications-des-hackers-russes.html)  
+*Source : clubic.com | Publication : 2025-10-18*
+
+- La filiale française de Volkswagen aurait été victime d'une cyberattaque par ransomware, d'après le groupe Qilin.
+- Les hackers, qui servent les intérêts de la Russie, disent détenir 150 Go de données appartenant aux clients du constructeur.
+- Volkswagen France a vu le spectre d'une fuite importante de données planer sur lui.
+- Le 14 octobre, le collectif de hackers Qilin a revendiqué avoir récupéré, à l'aide d'un rançongiciel, une base de données de 100 à 150 Go auprès du constructeur allemand.
+
+## [Des messages pro-Hamas diffusés dans des aéroports aux Etats-Unis et au Canada](https://iqna.ir/fr/news/3493706/des-messages-pro-hamas-diffusés-dans-des-aéroports-aux-etats-unis-et-au-canada)  
+*Source : iqna.ir | Publication : 2025-10-18*
+
+- Selon le site Al-Alam, les systèmes audio de plusieurs aéroports ont été piratés, diffusant des messages en langue étrangère accompagnés de musique.
+- La Gendarmerie royale du Canada (GRC) a confirmé qu’au Kelowna International Airport, en Colombie-Britannique, le service de diffusion publique avait été brièvement compromis, permettant la diffusion d’un « contenu non autorisé ».
+- À l’aéroport international de Victoria, les pirates ont exploité un logiciel tiers pour accéder au système audio et diffuser leurs messages avant que les autorités ne reprennent le contrôle.
+- Le Centre canadien pour la cybersécurité et la police fédérale ont ouvert une enquête.
 
 ## [Karine Béguin prend la tête opérationnelle du Campus Cyber Occitanie - ladepeche.fr](https://www.ladepeche.fr/2025/10/17/karine-beguin-prend-la-tete-operationnelle-du-campus-cyber-occitanie-12998589.php)  
 *Source : ladepeche.fr | Publication : 2025-10-17*
