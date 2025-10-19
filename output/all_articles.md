@@ -1,5 +1,162 @@
-# Résumés – 2025-10-18
+# Résumés – 2025-10-19
 
+
+## [La convergence entre la Sauvegarde et la <b>Cybersécurité</b> au cœur des Assises de la ...](https://www.globalsecuritymag.fr/la-convergence-entre-la-sauvegarde-et-la-cybersecurite-au-coeur-des-assises-de.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-19*
+
+- La convergence entre la Sauvegarde et la Cybersécurité au cœur des Assises de la cybersécurité.
+- octobre 2025 par Valentin Jangwa, Global Security Mag Lors de la 25ème édition des Assises de la cybersécurité à Monaco, Rodolphe Barnault, VP Europe du Sud de Rubrik, société spécialisée dans la sécurité et l’IA, a échangé avec Global Security Mag sur un sujet désormais central : la convergence entre la Sauvegarde et la Cybersécurité.
+- Alors que les groupes de ransomware affinent leurs tactiques, la frontière entre cybersécurité et continuité d’activité devient de plus en plus mince.
+- Les attaques ciblent désormais les mécanismes de restauration eux-mêmes : chiffrer ou effacer les sauvegardes est devenu un levier clé pour maximiser l’impact d’une compromission.
+
+## [La guerre contre le phishing : une menace persistante amplifiée par l'IA - EmarketerZ](https://www.emarketerz.fr/la-guerre-contre-le-phishing-une-menace-persistante-amplifiee-par-lia/)  
+*Source : emarketerz.fr | Publication : 2025-10-19*
+
+- Alors que les cybermenaces évoluent sans cesse, le rapport récent de Microsoft dévoile une réalité inquiétante : l’intégration de l’intelligence artificielle dans les campagnes de phishing a transformé ces attaques en une menace plus redoutable que jamais.
+- Découvrez comment l’IA révolutionne le paysage du cybercrime et ce que cela signifie pour l’avenir de la cybersécurité.
+- Les 3 infos à ne pas manquer L’intégration de l’IA a permis de multiplier par 4,5 le taux de clics des campagnes de phishing.
+- - Les campagnes de spear-phishing utilisant l’IA sont jusqu’à 50 fois plus rentables que les méthodes traditionnelles.
+
+## [Coûts environnementaux cachés de l'IA - LesNews](https://lesnews.ca/tech/cybersecurite/couts-environnementaux-caches-de-lia/)  
+*Source : lesnews.ca | Publication : 2025-10-19*
+
+- Articles de la même catégorie.
+- Cybersécurité · Bulletin Sécurité 546 par Pierluigi Paganini – ÉDITION INTERNATIONALE.
+- Oct 19, 2025.
+- Cybersécurité · J'.
+
+## [L'hôpital de Pontarlier victime d'une cyberattaque - INCYBER NEWS](https://incyber.org/article/hopital-pontarlier-victime-cyberattaque/)  
+*Source : incyber.org | Publication : 2025-10-19*
+
+- L’hôpital de Pontarlier victime d’une cyberattaque Articles du même auteur : 1 2 3 Le Centre Hospitalier Intercommunal de Haute-Comté (CHIHC), à Pontarlier, a été victime d’une cyberattaque dans la nuit du 18 au 19 octobre 2025.
+- L’intrusion a entraîné l’exposition d’une partie des données traitées par l’hôpital.
+- « Par mesure de précaution et afin d’éviter toute propagation, la direction de l’établissement a décidé la mise à l’arrêt complet de son système informatique dès la détection de l’incident », a indiqué l’hôpital.
+- En raison des perturbations liées à cette déconnexion des SI, le centre hospitalier oriente les nouveaux patients vers les hôpitaux de Besançon et de Nord Franche-Comté.
+
+## [Un nouveau ver Sober déferle, toujours aussi virulent - Silicon.fr](https://www.silicon.fr/Thematique/cybersecurite-1371/Breves/Un-nouveau-ver-Sober-deferle-toujours-aussi-virulent-395700.htm/amp)  
+*Source : silicon.fr | Publication : 2025-10-19*
+
+- Depuis ce dimanche, les messageries professionnelles sont inondées de mails rédigés en langue allemande.
+- Leur contenu?.
+- Les bombardements de la Seconde guerre mondiale, le génocide arménien, l’entrée de la Turquie en Europe.
+- Leur objectif: véhiculer la énième version de Sober, en l’occurrence la variante Q. Sober.Q est un Cheval de Troie qui utilise la porte laissée grande ouverte par son prédécesseur déjà très virulent, qui promettait aux internautes des billets pour la prochaine coupe du monde de football.
+
+## [&quot;Comprendre et réduire l'exposition avant tout !&quot; - Face à la fragmentation ... - Global Security Mag](https://www.globalsecuritymag.fr/comprendre-et-reduire-l-exposition-avant-tout-face-a-la-fragmentation-des.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-19*
+
+- "Comprendre et réduire l’exposition avant tout !".
+- - Face à la fragmentation des surfaces d’attaque, Tenable prône une cybersécurité proactive octobre 2025 par Valentin Jangwa, Global Security Mag Lors de la 25ème édition des Assises de la cybersécurité 2025, Tenable a mis en avant un concept qui s’impose comme l’un des nouveaux piliers de la protection des entreprises et organisations : la gestion d’exposition.
+- Une approche globale, portée par l’évolution rapide et fragmentée des environnements numériques.
+- De la vulnérabilité à l’exposition « La surface d’attaque des entreprises est devenue mouvante, éclatée, difficile à cerner », constate Bernard Montel, directeur technique EMEA et Cyber Stratège chez Tenable.
+
+## [Bitdefender et OVHcloud unissent leurs forces pour une <b>cybersécurité</b> 100 % européenne](https://www.globalsecuritymag.fr/bitdefender-et-ovhcloud-unissent-leurs-forces-pour-une-cybersecurite-100.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-19*
+
+- Bitdefender et OVHcloud unissent leurs forces pour une cybersécurité 100 % européenne octobre 2025 par Valentin Jangwa, Global Security Mag Lors de la 25ème édition des Assises de la cybersécurité à Monaco, Bitdefender a placé la souveraineté numérique au centre du débat.
+- L’entreprise a dévoilé, avec OVHcloud, une offre de Cybersécurité 100 % européenne, hébergée sur une infrastructure SecNumCloud localisée en France.
+- Objectif : offrir aux entreprises et administrations une solution capable de garantir que les données clients, la télémétrie et les évènements de sécurité restent intégralement traités dans l’Union européenne, tout en assurant un haut niveau de performance et de transparence.
+- Pour Laurent Tombois, Country Manager France, Benelux et Pays francophones d’Afrique de Bitdefender, « il s’agit de répondre à une attente forte des entreprises et organisations : pouvoir adopter des technologies de cybersécurité performantes sans renoncer au contrôle de leurs données ».
+
+## [DGPE : 300 agents formés en IA, <b>cybersécurité</b> et informatique | Gabonreview.com](https://www.gabonreview.com/dgpe-300-agents-formes-en-ia-cybersecurite-et-informatique/)  
+*Source : gabonreview.com | Publication : 2025-10-19*
+
+- DGPE : 300 agents formés en IA, cybersécurité et informatique La Direction générale du patrimoine de l’État (DGPE) a marqué une étape cruciale dans sa stratégie de modernisation en clôturant, le vendredi 17 octobre 2025, une session de formation intensive dédiée à l’initiation à l’informatique, à la cybersécurité et à l’intelligence artificielle (IA).
+- Organisée du 7 au 17 octobre 2025 dans ses locaux à Libreville, l’initiative a permis à près de 300 agents de renforcer leurs compétences numériques, un pilier désormais important dans la transformation continue de l’administration publique.
+- Dans le cadre de la modernisation continue de l’administration publique, la Direction générale du patrimoine de l’État (DGPE) a initiée une formation, dédiée à l’initiation à l’informatique, à la cybersécurité et à l’intelligence artificielle.
+- Clôturée le vendredi 17 octobre 2025, la formation a permis à près de 300 agents de renforcer leurs compétences dans le domaine du numérique.
+
+## [Une journée sur la fiabilité de l'internet des objets à Montpellier - ToulÉco](https://www.touleco.fr/Une-journee-sur-la-fiabilite-de-l-internet-des-objets-a,47953)  
+*Source : touleco.fr | Publication : 2025-10-19*
+
+- Aktantis, nouveau grand pôle deeptech implanté en Région Occitanie et Grand Sud, organise, avec le Pôle Aerospace Valley notamment, une journée sur la fiabilité-sécurité des données et des capteurs de l’internet des objets.
+- Au programme : des tables rondes, des rendez-vous professionnels et une visite de labo.
+- Inscriptions en ligne.
+- Conférence Deeptech IOT : Fiabilité des mesures & cybersécurité.
+
+## [Fuite de données Netcore Cloud : 40 milliards d'enregistrements exposés en ligne](https://www.emarketerz.fr/fuite-de-donnees-netcore-cloud-40-milliards-denregistrements-exposes-en-ligne/)  
+*Source : emarketerz.fr | Publication : 2025-10-19*
+
+- Dans un incident qui pourrait redéfinir la sécurité des données numériques, une immense base de données non protégée a été découverte en ligne, exposant des milliards d’enregistrements personnels et professionnels.
+- Cette fuite, qui concerne la société indienne Netcore Cloud, met en lumière les vulnérabilités persistantes des plateformes de marketing modernes.
+- Découvrez les détails de cette faille et ses implications pour les utilisateurs du monde entier.
+- Les 3 infos à ne pas manquer Une base de données de Netcore Cloud a laissé 40 milliards d’enregistrements sensibles sans protection en ligne.
+
+## [QNA » : La manœuvre cybernétique constitue une plateforme essentielle pour renforcer la ...](https://qna.org.qa/fr-FR/News-Area/News/2025-10/19/le-directeur-du-departement-de-la-resilience-et-des-risques-en-cybersecurite-a-qna-la-manuvre-cybernetique-constitue-une-plateforme-essentielle-pour-renforcer-la-preparation-nationale-et-arabe-face-aux-cyberattaques-transfrontalieres)  
+*Source : qna.org.qa | Publication : 2025-10-19*
+
+- Dans ce cadre, M. Mohammed Morshed Al-Mannai, Directeur du Département de la Résilience, des Risques et de l'Assurance en Cybersécurité à l'Agence.
+
+## [Haïti - Sécurité : Présentation et mesures d'authentification de la Carte d'Identification ...](https://www.haitilibre.com/article-46019-haiti-securite-presentation-et-mesures-d-authentification-de-la-carte-d-identification-nationale-biometrique.html)  
+*Source : haitilibre.com | Publication : 2025-10-19*
+
+- Accueil English Politique Économie Éducation Santé Culture Tourisme Environnement.
+- Social Sécurité Justice Sports Élections Reconstruction Technologie Agriculture Humanitaire iciHaiti.com Téléchargez le calendrier scolaire 2025-2026 iciHaïti - Football : Nos Grenadières reviennent au Maroc pour un test match iciHaïti - Élections : Le Premier Ministre attend le calendrier du CEP iciHaïti - Football rumeur : Vers le remplacement de Sébastien Migné par Juan Carlos Osorio ?.
+- iciHaïti - Diaspora : Commémoration de la bataille de Savannah iciHaïti - 219e Dessalines : Message de La Force de Répression des Gangs + de nouvelles Haïti - Actualité : Zapping… Haïti - Social : Prélude à la célébration du 60e anniversaire de l’ONA Haïti - Sécurité : Présentation et mesures d’authentification de la Carte d’Identification Nationale biométrique Haïti - FLASH : Ne pas consommer le mélange d’assaisonnement 100 % haïtien «Pam Pi Gou» Haïti - Actualité : Zapping… + de nouvelles Haïti - Sécurité : Présentation et mesures d’authentification de la Carte d’Identification Nationale biométrique 19/10/2025 09:41:21 Dans le cadre du renforcement de la coopération en matière de sécurité régionale, notamment la lutte contre la cybercriminalité et la criminalité transnationale, l’Office National d’Identification (ONI) conjointement avec l’Organisation des États Américains (OEA), a organisé cette semaine à l’hôtel Oasis, une rencontre d’échanges et d’information avec plusieurs membres du corps diplomatique et consulaire accrédité en Haït, autour des caractéristiques techniques et du processus d’authentification de la Carte d’Identification Nationale Unique (CINU) Présidée par Reynold Guerrier, Directeur Général de l’ONI, cette activité visait à renforcer la capacité des représentations consulaires à reconnaitre les faux documents d’identité souvent présentés lors des demandes de visas ou de services administratifs dans leurs chancelleries respectives.
+- L’événement a réuni plusieurs pays fortement concernés par les flux migratoires haïtiens, notamment le Brésil, le Mexique.
+
+## [Bitdefender frappe fort : la cyberprotection haut de gamme passe à seulement 55 € ! - Clubic](https://www.clubic.com/bons-plans-583639-bitdefender-frappe-fort-la-cyberprotection-haut-de-gamme-passe-a-seulement-55.html)  
+*Source : clubic.com | Publication : 2025-10-19*
+
+- Bitdefender frappe fort avant la Toussaint en proposant son pack Premium Security à 55 € au lieu de 109,99 €.
+- Cette protection haut de gamme pour 5 appareils inclut VPN illimité, un gestionnaire de mots de passe et une protection complète contre les arnaques et les malwares.
+- Une suite de cybersécurité complète et primée Avec Bitdefender Premium Security, vous bénéficiez d’une protection multi-appareils reconnue pour son efficacité contre les virus, ransomwares, spywares et arnaques en ligne.
+- Son moteur de détection intelligent analyse en continu les fichiers, e-mails et connexions pour bloquer toute menace avant qu’elle n’agisse.
+
+## [Fermes à trolls : les mercenaires de la désinformation en ligne ? - INCYBER NEWS](https://incyber.org/article/fermes-a-trolls-les-mercenaires-de-la-desinformation-en-ligne/)  
+*Source : incyber.org | Publication : 2025-10-19*
+
+- Accueil - Cybercriminalité - Fermes à trolls : les mercenaires de la désinformation en ligne ?.
+- - Fermes à trolls : les mercenaires de la désinformation en ligne ?.
+- « Ils n’inventent pas ces sujets.
+- Ils repèrent des tensions déjà présentes sur Facebook ou Twitter, puis ils les amplifient.» Voici comment la professeure Sarah Mendelson, spécialiste des politiques publiques, résume les modes d’actions des fermes à trolls.
+
+## [L'ASEAN renforce sa coopération pour garantir la <b>cybersécurité</b> - Le Courrier du VietNam](https://lecourrier.vn/lasean-renforce-sa-cooperation-pour-garantir-la-cybersecurite/1293296.html)  
+*Source : lecourrier.vn | Publication : 2025-10-19*
+
+- >> Cisco accélère le développement de l’infrastructure 5G au Vietnam >> Vers un cadre juridique modernisé sur la cybersécurité et l'ordre public >> Cybersécurité : la start-up française Filigran lève 58 millions de dollars Le ministre a précisé que le projet de Déclaration avait été examiné par les ministres de l'Information de l'ASEAN lors de leur réunion tenue en mai 2024 à Bandar Seri Begawan, au Brunei.
+- À cette occasion, la majorité des ministres avaient reconnu la nécessité d'une stratégie régionale unifiée et de mesures concrètes pour faire face aux défis croissants posés par les médias sociaux.
+- Datuk Fahmi Fadzil a souligné que, malgré leurs différences de taille et de situation, tous les États membres de l'ASEAN sont confrontés à des menaces en ligne similaires, telles que les cyberescroqueries, la fraude numérique et les jeux d'argent illégaux, d'autant plus que de grandes entreprises technologiques comme Meta et TikTok s'implantent fortement dans la région.
+- À l'issue du prochain sommet, les ministres de l'Information de l'ASEAN devraient renforcer leur coordination afin de développer des mécanismes plus efficaces pour relever les défis de la cybersécurité.
+
+## [Le Vietnam en tête du tour préliminaire du concours étudiant de <b>cybersécurité</b> 2025](https://www.vietnam.vn/fr/viet-nam-dan-dau-vong-so-khao-cuoc-thi-sinh-vien-an-ninh-mang-2025)  
+*Source : vietnam.vn | Publication : 2025-10-19*
+
+- Le 19 octobre, le comité d'organisation a annoncé la clôture officielle de la phase préliminaire du concours « Étudiants en cybersécurité 2025 ».
+- Auparavant, le 18 octobre, la phase préliminaire s'était déroulée simultanément dans des écoles de tout le pays et en ligne avec 27 écoles de huit autres pays de la région.
+- La compétition a attiré 327 équipes totalisant 1 265 participants.
+- Les participants ont concouru et mis leurs compétences à l'épreuve en relevant 21 défis de cybersécurité répartis en 5 groupes thématiques spécialisés, reflétant des situations réelles de cyberattaque et de défense.
+
+## [La Chine accuse les États-Unis d'avoir menée des cyberattaques | Noovo Info](https://www.noovo.info/nouvelle/la-chine-accuse-les-etats-unis-davoir-menee-des-cyberattaques.html)  
+*Source : noovo.info | Publication : 2025-10-19*
+
+- Début du contenu principal.
+- La Chine a accusé dimanche les États-Unis d'avoir mené des cyberattaques contre son centre horaire national à la suite d'une enquête.
+- Elle a affirmé que tout dommage aux installations concernées aurait pu perturber les communications réseau, les systèmes financiers et l'alimentation électrique.
+- Le ministère de la Sécurité d'État a allégué, dans une publication WeChat, que l'Agence de sécurité nationale (NSA) américaine avait exploité des vulnérabilités dans les services de messagerie d'une compagnie de téléphone mobile étrangère pour voler des informations sensibles sur les appareils du personnel du Centre horaire national en 2022.
+
+## [L'ASEAN renforce sa coopération pour garantir la <b>cybersécurité</b> | Vietnam+ (VietnamPlus)](https://fr.vietnamplus.vn/lasean-renforce-sa-cooperation-pour-garantir-la-cybersecurite-post253406.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-10-19*
+
+- Kuala Lumpur (VNA) - La Déclaration de Kuala Lumpur sur une utilisation plus responsable des médias sociaux devrait être l'un des documents clés adoptés lors du 47e Sommet de l'ASEAN, prévu du 26 au 28 octobre, a indiqué le ministre malaisien des Communications, Datuk Fahmi Fadzil.
+- Le ministre a précisé que le projet de Déclaration avait été examiné par les ministres de l'Information de l'ASEAN lors de leur réunion tenue en mai 2024 à Bandar Seri Begawan, au Brunei.
+- À cette occasion, la majorité des ministres avaient reconnu la nécessité d'une stratégie régionale unifiée et de mesures concrètes pour faire face aux défis croissants posés par les médias sociaux.
+- Datuk Fahmi Fadzil a souligné que, malgré leurs différences de taille et de situation, tous les États membres de l'ASEAN sont confrontés à des menaces en ligne similaires, telles que les cyberescroqueries, la fraude numérique et les jeux d'argent illégaux, d'autant plus que de grandes entreprises technologiques comme Meta et TikTok s'implantent fortement dans la région.
+
+## [<b>Cybercriminalité</b> : des milliers d'arnaques en ligne sont lancées depuis ces bâtiments ...](https://www.tf1info.fr/international/video-tf1-enquete-cybercriminalite-des-milliers-d-arnaques-en-ligne-sont-lancees-depuis-ces-batiments-secrets-en-birmanie-2401406.html)  
+*Source : tf1info.fr | Publication : 2025-10-19*
+
+- Dans la jungle birmane, des usines XXL viennent de sortir de terre.
+- - Ce sont des centres secrets de cyberfraude à grande échelle.
+- - À l'intérieur, des milliers de petites mains lancent des arnaques et escroqueries dans le monde entier.
+- - Dans la jungle birmane, ces usines XXL viennent de sortir de terre.
+
+## [La souris de votre PC peut espionner vos conversations, des chercheurs l'ont prouvé](https://www.01net.com/actualites/souris-pc-peut-espionner-conversations-chercheurs-prouve.html)  
+*Source : 01net.com | Publication : 2025-10-19*
+
+- Une équipe de chercheurs californiens a découvert que la souris de votre ordinateur pouvait servir d’outil d’espionnage.
+- Exploitée par des individus trop curieux, elle peut en effet permettre d’écouter toutes vos conversations.
+- Pour prouver leurs dires, les chercheurs ont mis au point un concept d’attaque intitulé Mic-E-Mouse (MICrophone-Emulating-MOUSE), en référence à Mickey Mouse.
+- À lire aussi : On a assisté à une démo de cyberattaque en temps réel, et c’était terrifiant Comment votre souris peut vous espionner ?.
 
 ## [Google renforce la sécurité des comptes avec de nouveaux outils contre le piratage](https://www.linfo.re/magazine/high-tech/google-renforce-la-securite-des-comptes-avec-de-nouveaux-outils-contre-le-piratage)  
 *Source : linfo.re | Publication : 2025-10-18*
