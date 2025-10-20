@@ -1,5 +1,153 @@
-# Résumés – 2025-10-19
+# Résumés – 2025-10-20
 
+
+## [<b>Cybersécurité</b> : le Maroc dote la DGSSI d'un statut inédit pour attirer les talents civils](https://medias24.com/2025/10/20/cybersecurite-le-maroc-dote-la-dgssi-dun-statut-inedit-pour-attirer-les-talents-civils/)  
+*Source : medias24.com | Publication : 2025-10-20*
+
+- Cybersécurité : le Maroc dote la DGSSI d'un statut inédit pour attirer les talents civils.
+- Le Conseil des ministres, présidé par le Roi Mohammed VI.
+
+## [Cybermois 2025 : la <b>cybersécurité</b>, une action concrète pour un monde numérique plus sûr](https://www.ecoreseau.fr/actualites/cybermois-2025-la-cybersecurite-une-action-concrete-pour-un-monde-numerique-plus-sur-2025-10-20-117320)  
+*Source : ecoreseau.fr | Publication : 2025-10-20*
+
+- Temps de lecture estimé : 2 minutes TRIBUNE.
+- Mois de sensibilisation à la cybersécurité, le mois d’octobre est une occasion de passer de la prise de conscience à la prise de mesures concrètes et décisives.
+- Par Allan Camps, senior enterprise account executive chez Keeper Security.
+- La cybersécurité n’est plus l’affaire exclusive des RSSI ou des grandes entreprises : elle est devenue un enjeu majeur pour chacun d’entre nous.
+
+## [Dans quel pays de l'UE les entreprises subissent-elles le plus grand nombre de cyberattaques](https://www.youtube.com/watch?v=oSmRVmBheNY)  
+*Source : youtube.com | Publication : 2025-10-20*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Panne mondiale d'AWS : serveurs, logiciels, données... Comment le cloud fait-il fonctionner le web ?](https://www.sudouest.fr/economie/cybersecurite/panne-mondiale-d-aws-serveurs-logiciels-donnees-comment-le-cloud-fait-il-fonctionner-le-web-26410304.php)  
+*Source : sudouest.fr | Publication : 2025-10-20*
+
+- Une panne chez Amazon Web Services (AWS) a mis en lumière, lundi matin, la dépendance mondiale envers le cloud et son rôle essentiel dans le fonctionnement d'internet La panne survenue lundi chez Amazon Web Services (AWS), premier fournisseur mondial de cloud, a rappelé la forte dépendance mondiale à cette technologie, qui offre aux entreprises des ressources informatiques à la demande sans avoir à investir dans de coûteux parcs de serveurs.
+- Dans sa forme la plus répandue, le cloud dit « public » repose sur des centres de données (data centers) mutualisés, où les clients louent des capacités informatiques.
+- Le cloud « privé », lui, est constitué de machines dédiées, réservées à une seule entreprise.
+- Le marché mondial de « l'informatique en nuage » est dominé par les États-Unis : AWS détenait 30 % des parts au deuxième trimestre 2025, suivi par Microsoft Azure (20 %) et Google Cloud (13 %), selon le cabinet Synergy Research Group.
+
+## [Doubs : un hôpital victime d'une cyberattaque, son système informatique entièrement paralysé](https://actu.orange.fr/societe/fait-divers/doubs-un-hopital-victime-d-une-cyberattaque-son-systeme-informatique-entierement-paralyse-magic-CNT000002liyg0.html)  
+*Source : actu.orange.fr | Publication : 2025-10-20*
+
+- Doubs : un hôpital victime d'une cyberattaque, son système informatique entièrement paralysé © PxHere Le système informatique du centre hospitalier intercommunal de Haute-Comté à Pontarlier (Doubs) a été la cible d'une cyberattaque dans la nuit du samedi 18 au dimanche 19 octobre.
+- Les criminels demandent une rançon.
+- Vers 3 heures du matin, Ici Doubs indique que le centre hospitalier intercommunal de Haute-Comté, à Pontarlier, a été la cible d’une cyberattaque de type "cryptolocker" dans la nuit du samedi 18 au dimanche 19 octobre.
+- Des cybercriminels ont pris le contrôle du serveur avant d’en bloquer totalement l’accès.
+
+## [<b>Cybersécurité</b> : NetApp intègre la détection des violations de données directement dans le stockage](https://itrnews.com/articles/207605/cybersecurite-netapp-integre-la-detection-des-violations-de-donnees-directement-dans-le-stockage.html)  
+*Source : itrnews.com | Publication : 2025-10-20*
+
+- Veuillez activer Javascript.
+
+## [Les Rencontres de la <b>cybersécurité</b> en Guyane](https://www.franceguyane.fr/actualite/societe-social-emploi/les-rencontres-de-la-cybersecurite-en-guyane-1054694.php)  
+*Source : franceguyane.fr | Publication : 2025-10-20*
+
+- Les Rencontres de la cybersécurité en Guyane L’Université de Guyane organise ce jeudi 23 octobre, de 8 h à 16 h 15, dans le bâtiment M, les Rencontres de la cybersécurité en Guyane, une journée ouverte au grand public et aux professionnels.
+- Dès 8 h 30, la matinée sera rythmée par des présentations et tables rondes consacrées à la cybersécurité en entreprise, à la gestion d’une crise d’origine cyber et à la gouvernance dans le secteur de la santé.
+- L’après-midi proposera des ateliers pratiques (de 13 h 30 à 16 h) pour les parents et enfants sur la sécurisation des terminaux et des réseaux sociaux, ainsi que deux escape games grand public autour de la cybersécurité.
+- Un diagnostic “Cyber Départ” sera aussi proposé à 13 h 30, 14 h 30 et 15 h 30 pour les structures souhaitant évaluer gratuitement leur niveau de maturité numérique.
+
+## [Soyez vigilants avec votre argent | RCF Allier](https://www.rcf.fr/articles/economie-et-societe/soyez-vigilants-avec-votre-argent)  
+*Source : rcf.fr | Publication : 2025-10-20*
+
+- Virement instantané, coordonnées bancaires, cybersécurité, en matière d'argent, il n'y à jamais assez de vérification.
+- Estelle Penay vous donne tous les bons conseils pour être vigilants avec votre argent.
+- Aujourd’hui, on peut payer avec son smartphone, sa montre mais on peut aussi virer de l’argent soi-même sans passer par sa banque.
+- Cette liberté ne doit pas empêcher une certaine vigilance.
+
+## [Voitures connectées : voilà ce que les pirates peuvent vraiment faire à distance](https://www.science-et-vie.com/technos-et-futur/automobile/voitures-connectees-voila-ce-que-les-pirates-peuvent-vraiment-faire-a-distance-215557.html)  
+*Source : science-et-vie.com | Publication : 2025-10-20*
+
+- Voitures connectées : voilà ce que les pirates peuvent vraiment faire à distance Sous le capot des modèles récents, ce ne sont plus seulement des moteurs qui tournent, mais des millions de lignes de code.
+- Cette informatisation massive fait des voitures un terrain privilégié pour les cybercriminels.
+- Face à cette nouvelle réalité, l’Europe impose des normes strictes, transformant la cybersécurité en enjeu industriel autant que technologique.
+- Plus les véhicules gagnent en intelligence, plus ils deviennent dépendants des flux de données qui les traversent.
+
+## [Panne AWS : L'impact sur le cloud et les applis - Panda Security](https://www.pandasecurity.com/fr/mediacenter/panne-aws-risques-cybersecurite/?amp=1)  
+*Source : pandasecurity.com | Publication : 2025-10-20*
+
+- La chute de la principale plateforme d’infrastructure cloud au monde a provoqué une panne généralisée de sites, d’applications et de réseaux sociaux dépourvus de plans de secours.
+- Sans plan B, c’est la paralysie totale — et parfois l’invisibilité — augmentant les risques d’intrusion.
+- Le moteur s’est arrêté Le lundi matin 20 octobre 2025, de nombreux sites web, applications et réseaux sociaux se sont retrouvés dans le noir à cause d’une panne mondiale d’Amazon Web Services (AWS), la plus grande plateforme d’infrastructure cloud au monde.
+- Aux États-Unis, il a été impossible d’accéder à Amazon, Alexa, Prime Video, Crunchyroll, Canva, Perplexity et Duolingo, ainsi qu’à des réseaux comme Snapchat ou Goodreads, et à des jeux tels que Fortnite, Roblox ou Clash Royale.
+
+## [Assises de la <b>cybersécurité</b> 2025 : l'heure du retour aux fondamentaux - Capgemini](https://www.capgemini.com/fr-fr/perspectives/blog/cybersecurite-assises-de-la-cybers-2025-lheure-du-retour-aux-fondamentaux/)  
+*Source : capgemini.com | Publication : 2025-10-20*
+
+- Retrouvez nos dernières publications, recherches et études sur les enjeux qui façonnent l’avenir des entreprises et de la société.
+- En savoir plusChoisissez le partenaire ayant une connaissance fine et approfondie de votre secteur et une vision claire pour dessiner son avenir.
+- En savoir plusDécouvrez nos offres – en évolution permanente pour répondre à vos besoins.
+- En savoir plusRejoignez-nous et prenez part au changement aux côtés d’experts et d’intrapreneurs aux parcours et profils divers et inspirants.
+
+## [Alstom : à Villeurbanne, l'avenir du ferroviaire passe par la data et la <b>cybersécurité</b>](https://www.latribune.fr/article/regions/auvergne-rhone-alpes/2406296141990114/alstom-a-villeurbanne-l-avenir-du-ferroviaire-passe-par-la-data-et-la-cybersecurite)  
+*Source : latribune.fr | Publication : 2025-10-20*
+
+- Alstom : à Villeurbanne, l’avenir du ferroviaire passe par la data et la cybersécurité Ce contenu est réservé aux abonnés Le site d’Alstom Villeurbanne, 1 300 collaborateurs, concentre les activités électroniques du groupe à l’échelle mondiale.
+- Alstom.
+
+## [Soitec et le CEA prônent l'emploi de la technologie FD‑SOI pour améliorer la <b>cybersécurité</b> ...](https://vipress.net/soitec-et-le-cea-pronent-lemploi-de-la-technologie-fd‑soi-pour-ameliorer-cybersecurite-automobile/)  
+*Source : vipress.net | Publication : 2025-10-20*
+
+- Soitec et le CEA prônent l’emploi de la technologie FD‑SOI pour améliorer la cybersécurité automobile Les deux partenaires ont travaillé ensemble pour évaluer comment l’utilisation de la technologie FD-SOI offre une protection intrinsèque contre la menace des attaques par injection de fautes, identifiées par les organismes de normalisation comme un risque en augmentation, et encadrées par la norme ISO/SAE 21434.
+- Avec l’intégration de plus en plus de fonctions numériques dans les véhicules, garantir une cybersécurité fiable s’avère plus complexe que jamais.
+- Un véhicule moderne peut contenir une centaine de microcontrôleurs, voire davantage, chacun pouvant introduire des vulnérabilités exposant des véhicules, voire des flottes entières, à des piratages à distance dangereux.
+- Pour surmonter cet obstacle de taille, Soitec et le CEA Leti ont travaillé ensemble pour évaluer comment l’utilisation de la technologie FD-SOI (Fully Depleted Silicon-On-Insulator) offre une protection intrinsèque contre la menace des attaques par injection de fautes, identifiées par les organismes de normalisation comme un risque en augmentation, et encadrées par la norme ISO/SAE 21434.
+
+## [le 4e salon des Communes et des Territoires de l'Aude est prévu à Limoux - lindependant.fr](https://www.lindependant.fr/2025/10/20/rencontres-avec-des-entreprises-cybersecurite-et-transition-ecologique-le-4e-salon-des-communes-et-des-territoires-de-laude-est-prevu-a-limoux-13003928.php)  
+*Source : lindependant.fr | Publication : 2025-10-20*
+
+- Rencontres avec des entreprises, cybersécurité et transition écologique : le 4e salon des Communes et des Territoires de l’Aude est prévu à Limoux Pour la 4e année consécutive, l’Association des Maires de l’Aude organise son salon des Communes et des Territoires le vendredi 7 novembre au pôle culturel La Tuilerie.
+- L’occasion pour les élus et agents territoriaux d’échanger, d’assister à des ateliers et rencontrer les acteurs économiques du territoire.
+- Après Narbonne et Carcassonne, l’Association des Maires de l’Aude (Ama) a décidé de "réaffirmer son ancrage territorial" en organisant son 4e salon des Communes et des Territoires de l’Aude à Limoux, aux portes de la Haute Vallée.
+- Un choix peu anodin à en croire le président de l’association, Eric Ménassi.
+
+## [Pénurie de personnel à la CISA : une crise sous-estimée pour la <b>cybersécurité</b> américaine](https://www.zataz.com/penurie-de-personnel-a-la-cisa-une-crise-sous-estimee-pour-la-cybersecurite-americaine/)  
+*Source : zataz.com | Publication : 2025-10-20*
+
+- Pénurie de personnel à la CISA : une crise sous-estimée pour la cybersécurité américaine La principale agence américaine de cybersécurité, la CISA, tourne au ralenti depuis le blocage budgétaire fédéral.
+- Un affaiblissement inquiétant pour la défense numérique du pays face aux menaces étrangères.
+- Depuis le début du shutdown du gouvernement fédéral, la Cybersecurity and Infrastructure Security Agency (CISA), bras opérationnel du Department of Homeland Security (DHS), subit un choc interne sans précédent.
+- Deux tiers de ses 2 500 employés ont été mis au chômage technique, et la loi de 2015 encadrant le partage d’informations cyber a expiré.
+
+## [Un expert salue le rôle actif et responsable du Vietnam dans la <b>cybersécurité</b>](https://lecourrier.vn/un-expert-salue-le-role-actif-et-responsable-du-vietnam-dans-la-cybersecurite/1293374.html)  
+*Source : lecourrier.vn | Publication : 2025-10-20*
+
+- >> Vers un cadre juridique modernisé sur la cybersécurité et l'ordre public >> La Convention de Hanoï instaurera un cadre juridique mondial contre la cybercriminalité >> Les informations malveillantes : une menace pour la cybersécurité et la confiance sociale Cet événement contribue à renforcer la position du Vietnam sur la scène mondiale et à bâtir un cadre juridique international favorisant la coopération, le partage d'informations et la traque des crimes transfrontaliers, a souligné le Docteur Vu Viêt Anh, chercheur au Centre de cybercriminalité de l'Université de Cambridge (Royaume-Uni) dans un échange avec le correspondant de l'Agence vietnamienne d'Information (VNA) au Royaume-Uni.
+- D'après lui, le choix de Hanoï par les Nations unies témoigne de la confiance et de la reconnaissance de la communauté internationale envers les efforts du Vietnam.
+- Ces dernières années, le pays a accompli des progrès notables dans la construction d'un cadre juridique pour la cybersécurité et la protection des données personnelles, notamment avec l'adoption de la Loi sur la cybersécurité entrée en vigueur en janvier 2019.
+- Le Docteur Vu Viêt Anh a souligné que la Convention de Hanoï constitue le premier instrument international des Nations unies sur la prévention et la lutte contre la cybercriminalité, plus de vingt ans après la Convention de Budapest signée en 2001.
+
+## [Numérique en santé, IA, <b>cybersécurité</b> : &quot;Il est nécessaire de se former&quot; | Egora](https://www.egora.fr/actus-pro/sante-numerique/numerique-en-sante-ia-cybersecurite-il-est-necessaire-de-se-former)  
+*Source : egora.fr | Publication : 2025-10-20*
+
+- Crédit : Mathilde Gendron Numérique en santé, IA, cybersécurité : "Il est nécessaire de se former" Depuis l’arrêté du 10 novembre 2022 relatif à la "formation socle du numérique en santé", les étudiants en santé doivent obligatoirement suivre un cursus sur ce sujet.
+- Le salon-congrès City Healthcare, qui s’est tenu le 7 octobre à Nantes, a fait le point sur le déploiement de la formation dans les territoires.
+- Crédit : Mathilde Gendron "Il ne s’agit plus de se demander ‘si l’Intelligence artificielle est là ?’.
+- Elle est là", affirme Christine Heulin, responsable de l’offre de formation Weliom, lors de la table ronde "Se former à l’IA et au numérique en santé" organisée au congrès City Healthcare, le 7 octobre dernier à Nantes.
+
+## [Ferrari prolonge son partenariat avec Bitdefender dans la <b>cybersécurité</b> - Cercle Finance](https://www.cerclefinance.com/article/ferrari-prolonge-son-partenariat-avec-bitdefender-dans-la-cybersecurite/)  
+*Source : cerclefinance.com | Publication : 2025-10-20*
+
+- Ferrari annonce la prolongation pluriannuelle de son partenariat avec Bitdefender, spécialiste mondial de la cybersécurité.
+- L'accord renforcé élargit la collaboration technologique et accroît la visibilité de Bitdefender dans l'environnement de la Formule 1.
+- La société continuera d'être le partenaire exclusif de Scuderia Ferrari HP dans le domaine de la cybersécurité, assurant la protection avancée des données et opérations de l'écurie.
+- Lorenzo Giorgetti, directeur des revenus de la division compétition, souligne que 'dans un sport où chaque détail compte, la confiance est.
+
+## [NetApp® lance « NetApp <b>Ransomware</b> Resilience » - Global Security Mag Online](https://www.globalsecuritymag.fr/netapp-r-lance-netapp-ransomware-resilience.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-20*
+
+- NetApp® lance « NetApp Ransomware Resilience » octobre 2025 par LA REDACTION DE GS MAG NetApp® annonce de nouvelles capacités de cyberrésilience qui renforcent encore davantage son système de stockage.
+- Le service récemment amélioré de l’entreprise, rebaptisé « NetApp Ransomware Resilience », permet aux clients de faire de leur infrastructure de données un élément central de leur stratégie de sécurité globale, grâce à une détection intégrée des rançongiciels exploités sur l’IA doté de deux nouvelles fonctionnalités : une capacité inédite dans le secteur permettant au stockage d’entreprise de détecter les violations de données, et des environnements de récupération isolés pour une récupération sécurisée et propre des données critiques.
+- Dans un monde où les entreprises sont confrontées à des défis majeurs (innovation en matière d’IA, modernisation des données, cyberrésilience et transformation vers le cloud), elles ont besoin d’une infrastructure de données sécurisée, fiable et efficace.
+- Si les investissements dans l’IA offrent des opportunités sans précédent aux entreprises, ils élargissent également leur surface d’attaque.
+
+## [Le Clusif publie un guide innovant sur la <b>cybersécurité</b> industrielle - Solutions-Numeriques](https://www.solutions-numeriques.com/le-clusif-publie-un-guide-innovant-sur-la-cybersecurite-industrielle/)  
+*Source : solutions-numeriques.com | Publication : 2025-10-20*
+
+- Soitec et le CEA s’associent pour faire progresser la cybersécurité automobile Soitec et le CEA-Leti présentent les résultats d’une étude démontrant que la technologie FD-SOI renforce la protection des puces face aux attaques par injection de fautes, un risque croissant pour les constructeurs automobiles.
+- Cybersécurité automobile : les microcontrôleurs, nouvelle cible des hackers Les véhicules récents….
 
 ## [La convergence entre la Sauvegarde et la <b>Cybersécurité</b> au cœur des Assises de la ...](https://www.globalsecuritymag.fr/la-convergence-entre-la-sauvegarde-et-la-cybersecurite-au-coeur-des-assises-de.html)  
 *Source : globalsecuritymag.fr | Publication : 2025-10-19*
