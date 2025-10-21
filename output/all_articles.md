@@ -1,5 +1,160 @@
-# Résumés – 2025-10-20
+# Résumés – 2025-10-21
 
+
+## [<b>Cybersécurité</b> : préparons mieux notre industrie - 21/10 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cybersecurite-preparons-mieux-notre-industrie-21-10_VN-202510210980.html)  
+*Source : bfmtv.com | Publication : 2025-10-21*
+
+- Cybersécurité : préparons mieux notre industrie - 21/10 Ce mardi 21 octobre, Benoit Grunemwald, expert en cybersécurité chez ESET France ; Adrien Merveille, directeur technique France de Check Point Software Technologies et Pascal Le Digol, directeur France de WatchGuard Technologies, se sont penchés sur les cyberattaques contre nos industries, les exemples de Jaguar Land Rover et Asahi, les annonces de l'ANSSI sur le chiffrement post quantique, les attaques à répétitiion par supplychain, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 30:17.
+
+## [<b>Cybersécurité</b> : préparons mieux notre industrie – 21/10 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/01-business/cybersecurite-preparons-mieux-notre-industrie-21-10_EN-202510210981.html)  
+*Source : bfmtv.com | Publication : 2025-10-21*
+
+- Podcast Cybersécurité : préparons mieux notre industrie – 21/10 Cybersécurité : préparons mieux notre industrie – 21/10 30:18 Ce mardi 21 octobre, Frédéric Simottel a reçu Benoit Grunemwald, expert en cybersécurité chez ESET France ; Adrien Merveille, directeur technique France de Check Point Software Technologies et Pascal Le Digol, directeur France de WatchGuard Technologies, dans l'émission Tech&Co Business sur BFM Business.
+- Retrouvez l'émission le samedi et réécoutez la en podcast.
+- Autres épisodes Mardi 21 octobre, Frédéric Simottel a reçu Gilles de Richemond, cofondateur et CEO de Fairlyne, Jean-Noël de Galzain, président d'Hexatrust et CEO de Wallix, Benoît Grunenwald, expert en cybersécurité chez ESET France; Adrien Merveille, directeur technique France de Check Point Software Technologies; et Pascal Le Digol, directeur France de WatchGuard Technologies, dans l'émission Tech&Co Business sur BFM Business.
+- Retrouvez l'émission le samedi et réécoutez la en podcast.
+
+## [La VG constate des lacunes en matière de <b>cybersécurité</b> face aux menaces croissantes](https://lactualite.com/actualites/la-verificatrice-generale-publie-une-serie-de-rapports-mardi/)  
+*Source : lactualite.com | Publication : 2025-10-21*
+
+- OTTAWA — La vérificatrice générale du Canada (VG) affirme qu’il existe «d’importantes lacunes» dans les services de cybersécurité du gouvernement, les efforts de surveillance et les réponses aux attaques actives contre les systèmes d’information.
+- Dans un rapport publié mardi, la vérificatrice générale, Karen Hogan, soutient que le gouvernement fédéral doit continuellement renforcer ses défenses face à la sophistication, à la généralisation et à la nocivité croissantes des cyberattaques.
+- Dans des rapports distincts publiés mardi, Mme Hogan a critiqué les efforts déployés par Ottawa pour répondre aux questions des Canadiens sur les questions fiscales, fournir des logements adéquats aux militaires et résoudre les problèmes de santé et d’infrastructure dans les communautés des Premières Nations.
+- Le Secrétariat du Conseil du Trésor du Canada (SCT), le Centre de la sécurité des télécommunications et Services partagés Canada partagent la responsabilité de la protection des systèmes et des opérations de technologie de l’information du gouvernement fédéral.
+
+## [Octobre, mois de la sensibilisation à la <b>cybersécurité</b> - Actualités UQAM](https://actualites.uqam.ca/2025/octobre-mois-de-la-sensibilisation-a-la-cybersecurite/)  
+*Source : actualites.uqam.ca | Publication : 2025-10-21*
+
+- Octobre est le mois de la sensibilisation à la cybersécurité à l’UQAM.
+- Tout au long du mois, les Services informatiques proposent à la communauté universitaire une série d’articles, de formations et d’activités visant à mieux comprendre les menaces numériques actuelles et à adopter de bonnes pratiques au quotidien.
+- Pour cette troisième semaine, la thématique mise de l’avant est «Au-delà du mot de passe: l’authentification moderne au service d’une sécurité plus simple et plus robuste».
+- Les mots de passe, bien qu’encore largement utilisés, ne suffisent plus à protéger efficacement les comptes personnels et professionnels.
+
+## [<b>Cybersécurité</b> : Le projet fou de Bruxelles pour espionner 450 millions d'Européens](https://www.lecanardenchaine.fr/technologie-sciences/52163-le-projet-fou-de-bruxelles-pour-espionner-450-millions-d-europeens)  
+*Source : lecanardenchaine.fr | Publication : 2025-10-21*
+
+- Au nom de la lutte contre la pédopornographie, des dirigeants de l’Union européenne aimeraient glisser dans les smartphones un logiciel capable de scanner les photos avant leur envoi, y compris par messagerie cryptée.
+- Vent debout contre ce « Chat Control », plus de 88 chercheurs et experts en cybersécurité ont rallié l'Allemagne à leur cause.
+- Plus de son, plus d’image… « Votre compte, ou l’activité enregistrée dessus, ne respecte pas nos standards de la communauté sur l’exploitation sexuelle d’enfants.
+- » C’est par ce message lapidaire que Marie-Hélène a appris qu’elle était bannie de Facebook : son compte venait de disparaître, et avec lui ses 1 500 contacts privés et professionnels, ainsi que toutes ses photos de famille.
+
+## [Le Canada demeure mal préparé contre les cyberattaques, selon la VG](https://ici.radio-canada.ca/nouvelle/2201121/attaques-cybersecurite-informatique-menaces-piratage)  
+*Source : ici.radio-canada.ca | Publication : 2025-10-21*
+
+- Le Canada demeure mal préparé contre les cyberattaques, selon la VG Les actes malveillants visant les systèmes informatiques du gouvernement sont de plus en plus sophistiqués et fréquents, selon la vérificatrice générale.
+- (Photo d'archives) Photo : Adobe Stock Dans un rapport déposé aujourd’hui, la vérificatrice générale du Canada juge que le gouvernement fédéral demeure mal outillé dans sa défense contre les attaques informatiques.
+- D'importantes lacunes demeurent au plan des services de cybersécurité, de la surveillance et de la réponse aux attaques , écrit le bureau de la vérificatrice générale (VG) dans son rapport, citant toutefois des améliorations notables dans les dernières années.
+- La VG explique que la cybersécurité de l’ensemble de l’appareil fédéral est confiée à trois entités : Services partagés Canada, le Centre de la sécurité des télécommunications et le Secrétariat du Conseil du trésor.
+
+## [76 % des organisations peinent à suivre la vitesse des attaques pilotées par l'IA, selon l'enquête](https://www.globalsecuritymag.fr/76-des-organisations-peinent-a-suivre-la-vitesse-des-attaques-pilotees-par-l-ia.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-21*
+
+- 76 % des organisations peinent à suivre la vitesse des attaques pilotées par l’IA, selon l’enquête « State of Ransomware » de CrowdStrike octobre 2025 par CrowdStrike D’après le State of Ransomware Survey 2025 de CrowdStrike, 76 % des organisations dans le monde peinent à suivre la vitesse et la sophistication des attaques pilotées par l’IA.
+- Alors que 89 % considèrent qu’une protection pilotée par l’IA est essentielle pour combler l’écart, ces résultats montrent clairement que l’avenir de la lutte contre les compromissions se jouera à l’avantage IA, celui des adversaires ou celui des défenseurs.
+- « De la conception de malware à l’ingénierie sociale, les adversaires arment l’IA pour accélérer chaque étape des attaques, réduisant la fenêtre de réaction des défenseurs », déclare Elia Zaitsev, CTO chez CrowdStrike.
+- « Le State of Ransomware Survey 2025 confirme que les défenses héritées ne peuvent rivaliser avec la vitesse et la sophistication des attaques dopées à l’IA.
+
+## [Les risques psycho-sociaux en <b>cybersécurité</b> : attention, danger ! | LeMagIT](https://www.lemagit.fr/actualites/366633292/Les-risques-psycho-sociaux-en-cybersecurite-attention-danger)  
+*Source : lemagit.fr | Publication : 2025-10-21*
+
+- terovesalainen - stock.adobe.com Les risques psycho-sociaux en cybersécurité : attention, danger !.
+- Émergent, le sujet commence à susciter de réelles questions.
+- Au delà des impacts économiques et financiers des cyberattaques, la charge qui se répercute sur les équipes pèse parfois lourd sur leur mental.
+- Toutes les équipes qui travaillent dans le domaine de l’urgence et de la gestion de crise le savent : dans la résolution d’une crise, la psychologie et le mental des équipes jouent un rôle clef.
+
+## [<b>Cybersécurité</b> : la directive NIS2 impose une nouvelle exigence de souveraineté numérique](https://itsocial.fr/cybersecurite/cybersecurite-tribunes/cybersecurite-la-directive-nis2-impose-une-nouvelle-exigence-de-souverainete-numerique/)  
+*Source : itsocial.fr | Publication : 2025-10-21*
+
+- Alors que la directive NIS2 entre progressivement en vigueur, un nouveau paysage réglementaire se dessine pour des milliers d’organisations européennes.
+- En France, les OSE (Opérateurs de services essentiels) deviennent des EE et EI (Entités de services essentielles et importantes).
+- Ce changement de terminologie se traduit par un élargissement ambitieux : plus de 10 000 entités sont désormais concernées, là où seules quelques centaines l’étaient jusqu’alors.
+- Décryptage.
+
+## [«D'importantes lacunes» dans les services de <b>cybersécurité</b> du gouvernement fédéral - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-inspirer-confiance-pour-se-developper/dimportantes-lacunes-dans-les-services-de-cybersecurite-du-gouvernement-federal/)  
+*Source : lesaffaires.com | Publication : 2025-10-21*
+
+- «D’importantes lacunes» dans les services de cybersécurité du gouvernement fédéral La Presse Canadienne|Publié à 13h30 | Mis à jour il y a 19 secondesLa vérificatrice générale du Canada, Karen Hogan (Photo: Spencer Colby / La Presse Canadienne) La vérificatrice générale du Canada (VG) affirme qu’il existe «d’importantes lacunes» dans les services de cybersécurité du gouvernement, les efforts de surveillance et les réponses aux attaques actives contre les systèmes d’information.
+- Dans un rapport publié mardi, la vérificatrice générale, Karen Hogan, soutient que le gouvernement fédéral doit continuellement renforcer ses défenses face à la sophistication, à la généralisation et à la nocivité croissantes des cyberattaques.
+- Dans des rapports distincts publiés mardi, Mme Hogan a critiqué les efforts déployés par Ottawa pour répondre aux questions des Canadiens sur les questions fiscales, fournir des logements adéquats aux militaires et résoudre les problèmes de santé et d’infrastructure dans les communautés des Premières Nations.
+- Le Secrétariat du Conseil du Trésor du Canada (SCT), le Centre de la sécurité des télécommunications et Services partagés Canada partagent la responsabilité de la protection des systèmes et des opérations de technologie de l’information du gouvernement fédéral.
+
+## [Le Mois de la sensibilisation à la <b>cybersécurité</b> débute : une campagne mondiale pour ...](https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/2205743/octobre-est-mois-cybersecurite)  
+*Source : ici.radio-canada.ca | Publication : 2025-10-21*
+
+- Le Mois de la sensibilisation à la cybersécurité, une campagne reconnue à l’échelle internationale, met en lumière l’importance de la sécurité numérique dans nos vies quotidiennes.
+- Cette initiative vise à doter les Canadiennes et les Canadiens des connaissances et des outils nécessaires pour se protéger, ainsi que leurs appareils, contre les menaces en ligne.
+- Steve Waterhouse, chargé de cours au microprogramme de maîtrise en sécurité de l’information à l’Université de Sherbrooke, était de passage à l’émission pour en discuter et partager son expertise sur les enjeux actuels en cybersécurité.
+
+## [Déclaration ministérielle sur la <b>cybersécurité</b> des réseaux et des systèmes du gouvernement fédéral](https://www.canada.ca/fr/services-partages/nouvelles/2025/10/declaration-ministerielle-sur-la-cybersecurite-des-reseaux-et-des-systemes-du-gouvernement-federal.html)  
+*Source : canada.ca | Publication : 2025-10-21*
+
+- Déclaration ministérielle sur la cybersécurité des réseaux et des systèmes du gouvernement fédéral Déclaration Le 21 octobre 2025 — Ottawa (Ontario) Déclaration commune de l’honorable Joël Lightbound, ministre de la Transformation du gouvernement, des Travaux publics et de l’Approvisionnement et ministre responsable de Services partagés Canada, et de l’honorable Shafqat Ali, président du Conseil du Trésor.
+- Aujourd’hui, à la suite de la publication du rapport de la vérificatrice générale du Canada intitulé Rapport d’audit de performance sur la cybersécurité des réseaux et systèmes du gouvernement fédéral, nous réaffirmons l’engagement indéfectible de notre gouvernement à renforcer la sécurité et la résilience de l’infrastructure numérique du Canada.
+- La population canadienne s’attend à ce que son gouvernement assure la sécurité de ses renseignements personnels et des systèmes sur lesquels elle compte.
+- Dans un environnement numérique de plus en plus complexe et hostile, la cybersécurité n’est pas seulement une responsabilité technique, c’est aussi une priorité nationale et un pilier essentiel de la confiance du public envers les institutions gouvernementales.
+
+## [VxLabs présente ThreatZ pour la conformité en matière de <b>cybersécurité</b> automobile](https://www.webdisclosure.com/article/vxlabs-presente-threatz-pour-la-conformite-en-matiere-de-cybersecurite-automobile-FtgZBBQut2b)  
+*Source : webdisclosure.com | Publication : 2025-10-21*
+
+- on VxLabs GmbH VxLabs présente ThreatZ pour la conformité en matière de cybersécurité automobile VxLabs GmbH a dévoilé ThreatZ, une plateforme avancée basée sur l'IA, conçue pour améliorer la cybersécurité des véhicules connectés et des chaînes d'approvisionnement.
+- Cette nouvelle solution répond aux exigences croissantes de conformité aux normes ISO/SAE 21434 et UNECE R155.
+- Annoncée à Ann Arbor, dans le Michigan, la plateforme vise à permettre aux équipes de sécurité automobile de protéger efficacement les véhicules autonomes et les véhicules pilotés par logiciel.
+- ThreatZ intègre divers outils au sein d'une plateforme unique, assistée par l'IA, qui prépare les organisations aux audits tout au long de leur cycle de vie.
+
+## [<b>Cybersécurité</b> et conformité juridique dans les soins de santé numériques : prêt à travailler ...](https://educ-hebdo.fr/1916-cybersecurite-et-conformite-juridique-dans-les-soins-de-sante-numeriques-pret-a-travailler-dans-la-numerisation-des-soins-de-sante/)  
+*Source : educ-hebdo.fr | Publication : 2025-10-21*
+
+- Les soins de santé numériques représentent aujourd’hui l’une des frontières les plus prometteuses et en évolution rapide du paysage professionnel italien et européen.
+- La transformation numérique du secteur de la santé n’est plus une option, mais une nécessité essentielle qui redéfinit profondément la manière dont les services de soins sont dispensés, les données sensibles des patients sont gérées et les structures hospitalières sont organisées.
+- Dans ce contexte d’innovation profonde, de nouveaux défis et opportunités émergent qui nécessitent des compétences spécifiques et hautement spécialisées.
+- La protection des données de santé, la cybersécurité et la conformité réglementaire sont devenues des priorités stratégiques pour chaque organisation de santé, publique et privée.
+
+## [Campus Cambium : première rentrée délocalisée pour le titre d'ingénieur en informatique et ...](https://vosgesinfo.fr/saintdieinfo/2025/10/campus-cambium-premiere-rentree-delocalisee-pour-le-titre-dingenieur-en-informatique-et-cybersecurite/)  
+*Source : vosgesinfo.fr | Publication : 2025-10-21*
+
+- Les 9 élèves du titre d’ingénieur spécialité informatique et cybersécurité ont fait leur rentrée le 15 septembre dernier.
+- Dispensée par le Conservatoire national des arts et métiers – CNAM – cette formation est spécifiquement adaptée au Campus Cambium, le pôle d’excellence en matière de sécurité de la Déodatie.
+- Une rentrée à l’IUT en attendant le futur site du Campus Cambium Cette première rentrée a eu lieu non pas sur le site des anciennes papeteries du Souche d’Anould, où sera prochainement installé le Campus Cambium, mais dans les locaux de l’IUT de Saint-Dié-des-Vosges, qui est l’un des partenaires du projet.
+- Les travaux d’aménagement du futur centre national de formation étant actuellement en cours, pour une ouverture prévue à la rentrée 2026-2027.
+
+## [Forum mondial de la <b>cybersécurité</b> : Comment garantir la sécurité en ligne ? | Euronews](https://fr.euronews.com/video/2025/10/21/forum-mondial-de-la-cybersecurite-comment-garantir-la-securite-en-ligne)  
+*Source : fr.euronews.com | Publication : 2025-10-21*
+
+- Le Forum mondial de la cybersécurité à Riyad a réuni des dirigeants de plus de 80 pays afin de discuter des moyens de mieux se préparer aux menaces en.
+
+## [Création d'une agence antifraude: «Le besoin est bien-là, la fraude n'a jamais été aussi répandue](https://www.journaldemontreal.com/2025/10/21/creation-dune-agence-antifraude-le-besoin-est-bien-la-la-fraude-na-jamais-ete-aussi-repandue-estime-un-expert-en-cybercriminalite)  
+*Source : journaldemontreal.com | Publication : 2025-10-21*
+
+- Création d’une agence antifraude: «Le besoin est bien-là, la fraude n’a jamais été aussi répandue», estime un expert en cybercriminalité Le gouvernement fédéral annonce la création d’une agence antifraude pour lutter contre l’explosion des fraudes en ligne.
+- Benoît Dupont, expert en cybersécurité, salue cette initiative mais souligne le manque d’implication des plateformes numériques.
+- • À lire aussi: Ottawa arrive peut-être au 21e siècle • À lire aussi: Ottawa déploiera plus d’efforts contre l’explosion des crimes financiers L’expert voit d’un bon œil la création d’une nouvelle agence antifraude par le fédéral en raison de l’augmentation fulgurante des fraudes en ligne.
+- Selon ses estimations, de 2 à 2,5 millions d’adultes canadiens sont victimes de stratagèmes frauduleux chaque année, entraînant des pertes de 10 milliards de dollars au profit des réseaux criminels qui sont souvent situés à l’étranger.
+
+## [La VG constate des lacunes en matière de <b>cybersécurité</b> face aux menaces croissantes](https://www.noovo.info/nouvelle/la-verificatrice-generale-publie-une-serie-de-rapports-mardi.html)  
+*Source : noovo.info | Publication : 2025-10-21*
+
+- Début du contenu principal.
+- Karen Hogan a constaté que les organisations fédérales n'étaient pas toutes soumises aux mêmes politiques de sécurité.
+- La vérificatrice générale du Canada (VG) affirme qu'il existe «d’importantes lacunes» dans les services de cybersécurité du gouvernement, les efforts de surveillance et les réponses aux attaques actives contre les systèmes d'information.
+- Dans un rapport publié mardi, la vérificatrice générale, Karen Hogan, soutient que le gouvernement fédéral doit continuellement renforcer ses défenses face à la sophistication, à la généralisation et à la nocivité croissantes des cyberattaques.
+
+## [À Plestin, les seniors sensibilisés à la <b>cybersécurité</b> - Le Télégramme](https://www.letelegramme.fr/cotes-d-armor/plestin-les-greves-22310/a-plestin-les-seniors-sensibilises-a-la-cybersecurite-6913450.php)  
+*Source : letelegramme.fr | Publication : 2025-10-21*
+
+- Le Club des loisirs de Plestin organisait, ce mardi après-midi dans la salle An Dour Meur, une réunion gratuite d’information sur la sécurité au domicile et la cybersécurité, avec le concours de la gendarmerie et de la police rurale pluricommunale.« En ces temps difficiles et devant la recrudescence de vols au domicile, des piratages informatiques, des fraudes bancaires et usurpations d’identité, il nous paraissait important d’informer la population et notamment les seniors », explique Marcel Gendrot, le président du club des loisirs.Une petite centaine de personnes ont écouté attentivement le major Laurent Péron, commandant de la communauté de brigade de Lannion, Plestin et Plouaret, et l’adjudante-chef Isabelle Drouin, chef de la brigade à Plestin.
+- Ils ont rappelé les précautions à prendre et donné des conseils pour éviter les arnaques en tout genre et se préserver des cambriolages.
+- L’objectif étant d’alerter sur les risques encourus au quotidien face à des tentatives d’escroqueries de plus en plus habiles ou d’effractions hélas de plus en plus répandues.
+- Dans tous les cas, il est essentiel de renforcer votre vigilance afin de vous protéger dans l’ensemble des communes de notre territoire.
+
+## [Intelligence artificielle, <b>cybersécurité</b>, numérique : pourquoi choisir l'ISEN Méditerranée ...](https://www.laprovence.com/article/partenaires/29128273550302/intelligence-artificielle-cybersecurite-numerique-pourquoi-choisir-lisen-mediterranee-apres-le-bac)  
+*Source : laprovence.com | Publication : 2025-10-21*
+
+- Intelligence artificielle, cybersécurité, numérique : pourquoi choisir l'ISEN Méditerranée après le bac ?.
+- Intelligence artificielle, cybersécurité, numérique : pourquoi choisir l’ISEN Méditerranée après le bac ?.
+- La rédaction n'a pas participé à la réalisation de ce contenu Choisir son orientation après le bac, c'est déjà penser à son avenir professionnel.
+- Dans un monde où l'informatique et le numérique occupent une place centrale, rejoindre une école qui prépare directement aux métiers de demain est un atout majeur.
 
 ## [<b>Cybersécurité</b> : le Maroc dote la DGSSI d'un statut inédit pour attirer les talents civils](https://medias24.com/2025/10/20/cybersecurite-le-maroc-dote-la-dgssi-dun-statut-inedit-pour-attirer-les-talents-civils/)  
 *Source : medias24.com | Publication : 2025-10-20*
