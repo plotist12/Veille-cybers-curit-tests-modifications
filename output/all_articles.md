@@ -1,5 +1,157 @@
-# Résumés – 2025-10-21
+# Résumés – 2025-10-22
 
+
+## [&quot;Le cyber-événement le plus préjudiciable à l'économie britannique&quot;: le piratage de Jaguar ...](https://www.bfmtv.com/auto/le-cyber-evenement-le-plus-prejudiciable-a-l-economie-britannique-le-piratage-de-jaguar-land-rover-a-coute-plus-de-2-milliards-d-euros_AV-202510220493.html)  
+*Source : bfmtv.com | Publication : 2025-10-22*
+
+- "Le cyber-événement le plus préjudiciable à l'économie britannique": le piratage de Jaguar Land Rover a coûté plus de 2 milliards d'euros C'est une cyberattaque qui a coûté cher.
+- Le piratage de Jaguar Land Rover (JLR), filiale du groupe indien Tata Motors, aurait coûté à l’économie britannique près de 1,9 milliard de livres (2,19 milliards d’euros) et touché plus de 5.000 organisations, selon un rapport publié mercredi par un organisme indépendant spécialisé dans la cybersécurité.
+- Le rapport a été rédigé par le Centre de surveillance cybernétique (CMC), une organisation indépendante à but non lucratif réunissant des spécialistes de l’industrie.
+- Il précise que les pertes pourraient s’avérer plus importantes si des retards imprévus survenaient dans le rétablissement de la production du constructeur automobile à son niveau d’avant le piratage survenu en août.
+
+## [<b>Cybersécurité</b> : le Canada «en queue de peloton» | OHdio](https://ici.radio-canada.ca/ohdio/premiere/emissions/info-reveil/segments/rattrapage/2206594/donnees-un-million-clients-desjardins-se-retrouvent-sur-internet)  
+*Source : ici.radio-canada.ca | Publication : 2025-10-22*
+
+- L'expert en cybersécurité Steve Waterhouse considère que le Canada est en queue de peloton en matière de sécurité numérique.
+- Il fait référence notamment aux données de plus d’un million d’usagers de Desjardins qui ont fuité en 2019 et qui ont refait surface récemment.
+- Steve Waterhouse plaide pour davantage d’éducation pour mieux protéger les citoyens dans le contexte où le virage numérique a été complété dans plusieurs banques et entreprises notamment.
+- Il souligne, à titre d’exemple, que les informations personnelles sont partagées de plus en plus librement dans des transactions qui ne le requerraient pas.
+
+## [La Région Grand Est lance un Hub <b>cybersécurité</b> pour renforcer la résilience numérique](https://www.lagazettefrance.fr/article/la-region-grand-est-lance-un-hub-cybersecurite-pour-renforcer-la-resilience-numerique)  
+*Source : lagazettefrance.fr | Publication : 2025-10-22*
+
+- La Région Grand Est lance un Hub cybersécurité pour renforcer la résilience numérique La Région Grand Est a lancé un nouveau projet ambitieux : le Hub Grand Est cybersécurité, un campus régional dédié à la cybersécurité.
+- Deux ans après la création du CSIRT, ce lancement marque une avancée majeure dans la construction d'un écosystème régional de cybersécurité au service de l’innovation, de la coopération et de la résilience des territoires et de leurs entreprises.
+- Le Hub se veut un lieu d'innovation et de coopération, réunissant différents acteurs du territoire pour renforcer la résilience numérique.
+- Ce projet se découpe en six pôles d’excellence qui seront répartis sur l’ensemble du Grand Est.
+
+## [L'Alliance pour la Confiance Numérique (ACN) annonce l'élection de Grégory Wintrebert en ...](https://www.globalsecuritymag.fr/l-alliance-pour-la-confiance-numerique-acn-annonce-l-election-de-gregory.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-22*
+
+- L’Alliance pour la Confiance Numérique (ACN) annonce l’élection de Grégory Wintrebert en tant que Président octobre 2025 par LA REDACTION DE GS MAG L’Alliance pour la Confiance Numérique (ACN) annonce l’élection de Grégory Wintrebert (Sopra Steria) en tant que Président, à l’issue de son Assemblée générale, qui s’est tenue ce 22 octobre 2025.
+- Spécialiste des technologies numériques et des enjeux de souveraineté, Grégory Wintrebert succède ainsi à Daniel Le Coguic à la tête du syndicat professionnel représentant les entreprises de la filière de la confiance numérique (identité numérique, cybersécurité, IA de confiance, blockchain et infrastructures numériques de confiance).
+- Un parcours dédié à l’innovation et à la souveraineté numérique Diplômé de l’IÉSEG School of Management et de la Copenhagen Business School, Grégory Wintrebert a rejoint Sopra Steria en 2006, où il a occupé des postes de premier plan, notamment celui de Directeur de la région Nord-Est puis CEO France.
+- Depuis octobre 2024, il est Directeur Exécutif des Relations Institutionnelles & Partenariats Stratégiques du Groupe Sopra Steria.
+
+## [Les cybercriminels ont trouvé la faille qui rend la double authentification inefficace - Clubic](https://www.clubic.com/actualite-584218-les-cybercriminels-ont-trouve-la-faille-qui-rend-la-double-authentification-inefficace.html)  
+*Source : clubic.com | Publication : 2025-10-22*
+
+- Des pirates informatiques parviennent à exploiter les applications OAuth pour créer des accès permanents et visibles, le tout en contournant les mots de passe et la double authentification.
+- Et cela inquiète les experts en cybersécurité.
+- Changer son mot de passe pourrait ne plus suffire.
+- Les chercheurs en cybersécurité de Proofpoint viennent de documenter une nouvelle méthode d'attaque qui exploite les applications OAuth pour maintenir un accès permanent aux données cloud d'entreprise.
+
+## [« Les petites entreprises doivent pouvoir s'équiper pour ne pas devenir la porte d'entrée ...](https://www.solutions-numeriques.com/les-petites-entreprises-doivent-pouvoir-sequiper-pour-ne-pas-devenir-la-porte-dentree-des-cybercriminels-yazid-akadiri-solution-architect-chez-elastic/)  
+*Source : solutions-numeriques.com | Publication : 2025-10-22*
+
+- CSAW 2025 : la cybersécurité passe à l’ère des robots La finale européenne du Cyber Security Awareness Week (CSAW) se tiendra le 14 novembre à Valence, portée par Grenoble INP – Esisar.
+- Pour cette édition 2025, la robotique s’invite au cœur des épreuves, entre IA, sécurité embarquée et résilience des systèmes autonomes.
+- C’est un rendez-vous….
+
+## [Pour se tenir prêt face aux attaques, une première édition des rencontres de la ...](https://la1ere.franceinfo.fr/guyane/pour-se-tenir-pret-face-aux-attaques-une-premiere-edition-des-rencontres-de-la-cybersecurite-1635823.html)  
+*Source : la1ere.franceinfo.fr | Publication : 2025-10-22*
+
+- Le mois d'octobre est aussi celui de la cybersécurité !.
+- À cette occasion, l'Université de Guyane, le Club de la Sécurité de l'Information en Guyane (CLUSIR Guyane) et Cybermois organisent les rencontres de la cybersécurité.
+- C'est ce jeudi 23 octobre au campus Troubiran, bâtiment M.
+- "C'est la première édition avant de nombreuses autres", annonce déjà Meg-Ann Ransay, vice-président du CLUSIR.
+
+## [<b>Cybersécurité</b> : votre mot de passe est-il robuste ? Voici comment l'améliorer | TF1 INFO](https://www.tf1info.fr/high-tech/cybersecurite-votre-mot-de-passe-est-il-robuste-voici-comment-l-ameliorer-2402147.html)  
+*Source : tf1info.fr | Publication : 2025-10-22*
+
+- En 2024, le mot de passe le plus couramment utilisé était "123456".
+- - Faible et facile à deviner, il peut être déchiffré en moins d'une seconde.
+- - Voici les conseils pour créer un mot de passe fort.
+- - Selon une étude menée par Nordpass, une entreprise qui aide à sécuriser les mots de passe, les cartes bancaires et les documents des particuliers ou des professionnels, les mots de passe de milliers de fonctionnaires sont présents sur le dark web.
+
+## [<b>Cybersécurité</b> nationale cherche talents d'urgence - L'Opinion Maroc](https://www.lopinion.ma/Cybersecurite-nationale-cherche-talents-d-urgence_a73103.html)  
+*Source : lopinion.ma | Publication : 2025-10-22*
+
+- Conscient des nouveaux enjeux liés à la souveraineté numérique et à la protection des données sensibles, le Maroc a été précurseur dans le domaine de la cybersécurité en se dotant, dès 2020, d’un cadre législatif dédié.
+- Ce dispositif global s’appuie sur la création, en 2021, de la Direction Générale de la Sécurité des Systèmes d’Information (DGSSI), institution placée sous la tutelle de l’Administration de la Défense nationale et chargée de piloter la stratégie nationale de cybersécurité.
+- Toutefois, les récentes cyberattaques qui ont visé plusieurs administrations, dont la CNSS, et entraîné la fuite de millions de données personnelles, ont mis en lumière les limites de l’infrastructure nationale de cybersécurité.
+- Face à des offensives massives et organisées, que certains experts mettent dans la case de “guerre de cinquième génération”, ces incidents ont révélé que le système de défense numérique du pays demeure perfectible et présente encore plusieurs vulnérabilités.
+
+## [Policiers et gendarmes mobilisés au Pays Basque contre la <b>cybercriminalité</b> - France Bleu](https://www.francebleu.fr/infos/faits-divers-justice/policiers-et-gendarmes-mobilises-au-pays-basque-contre-la-cybercriminalite-7080899)  
+*Source : francebleu.fr | Publication : 2025-10-22*
+
+- Policiers et gendarmes mobilisés au Pays Basque contre la cybercriminalité Publié le Un site internet destiné au grand public et aux entreprises afin de lutter contre la cybercriminalité.
+- La plateforme 17Cyber.gouv.fr est à disposition des victimes.
+- Des policiers et des gendarmes spécialisés vous accompagnent et mènent les enquêtes.
+- Pertes et vols de données, virus, piratage, fishing, demandes de rançons.
+
+## [Le chiffrement pour une protection optimale des données - Stormshield](https://www.stormshield.com/fr/actus/chiffrement-protection-optimale-des-donnees/)  
+*Source : stormshield.com | Publication : 2025-10-22*
+
+- Si la protection des données a été placée au cœur des préoccupations des entreprises par différentes règlementations, notamment le RGPD, elle a toujours besoin d’une sensibilisation et d’une culture associée.
+- Ainsi, les organisations doivent déployer des méthodes afin de protéger leurs données face à des cybercriminels de plus en plus aguerris et dans des environnements numériques de plus en plus complexes.
+- Dans son plan stratégique 2025-2028, la CNIL, a présenté un bilan de ces trois dernières années en matière de violations de données.
+- Ainsi, depuis 2022, la CNIL a recueilli plus de 14 000 notifications de violations de données.
+
+## [Terna signe un accord triennal avec l'ACN pour la <b>cybersécurité</b> | Zonebourse Suisse](https://ch.zonebourse.com/actualite-bourse/terna-signe-un-accord-triennal-avec-l-acn-pour-la-cybersecurite-ce7d5ddbd88ff126)  
+*Source : ch.zonebourse.com | Publication : 2025-10-22*
+
+- (Alliance News) - Terna Spa a annoncé mercredi la signature d&#039;un protocole d&#039;accord avec l&#039;Agence pour la Cybersécurité Nationale (ACN) afin de renforcer la sécurité et la résilience cybernétique de l&#039;ensemble de la filière électrique nationale.L&#039;accord, signé par la directrice générale et administratrice déléguée de Terna, Giuseppina Di Foggia, et par le directeur général de l&#039;ACN, Bruno Frattasi, aura une durée de trois ans, renouvelable, et vise à renforcer la protection des infrastructures critiques à travers l&#039;échange d&#039;informations, des activités de prévention et des programmes de formation.« L&#039;Agence joue un rôle central dans la protection des réseaux, des systèmes numériques et des infrastructures critiques », a commenté Frattasi, soulignant que « dans un contexte de menaces informatiques de plus en plus sophistiquées et omniprésentes, il est essentiel d&#039;unir nos forces pour protéger et renforcer nos infrastructures critiques ».Giuseppina Di Foggia a souligné que « Terna gère une infrastructure stratégique à l&#039;échelle nationale : garantir son exploitation en toute sécurité est une priorité, surtout dans un contexte de complexité croissante face à des menaces informatiques de plus en plus fréquentes ».
+- La directrice générale a ajouté que le protocole avec l&#039;ACN « renforce l&#039;engagement commun visant à protéger les infrastructures sensibles du pays », à travers des activités de surveillance, le partage de bonnes pratiques et des formations spécifiques.Le protocole vise également à promouvoir le développement de compétences spécialisées dans le domaine de la cybersécurité, notamment en collaboration avec les universités et les pôles scolaires, en offrant des solutions innovantes pour la protection du réseau de transport national et du secteur énergétique.L&#039;action Terna recule de 0,1% à 9,084 EUR par action.Par Antonio Di Giorgio, journaliste Alliance NewsCommentaires et questions à redazione@alliancenews.comCopyright 2025 Alliance News IS Italian Service Ltd.
+- Tous droits réservés.
+
+## [IA et <b>cybersécurité</b> : quand l'industrialisation des attaques change la donne - JDN](https://www.journaldunet.com/cybersecurite/1545399-ia-et-cybersecurite-quand-l-industrialisation-des-attaques-change-la-donne/)  
+*Source : journaldunet.com | Publication : 2025-10-22*
+
+- IA et cybersécurité : quand l'industrialisation des attaques change la donne À l'ère de l'IAG, la cybersécurité affronte une mutation sans précédent où seules l'innovation, la vigilance et la coopération permettront de contrer des cyberattaques À l’heure où l’intelligence artificielle générative démultiplie les capacités d’innovation, elle devient aussi l’arme privilégiée des cybercriminels.
+- Phishing automatisé, deepfakes en temps réel, malwares polymorphes : les attaques s’industrialisent plus vite que les défenses ne s’adaptent.
+- La cybersécurité entre dans une ère de rupture où vigilance humaine, innovation technologique et coopération stratégique ne sont plus des options mais des impératifs.
+- Joeri Barbier, Global CISO de Getronics analyse cette nouvelle donne.
+
+## [<b>Cybersécurité</b> 2025 : l'ère du chaos algorithmique - JDN](https://www.journaldunet.com/cybersecurite/1545365-cybersecurite-2025-l-ere-du-chaos-algorithmique/)  
+*Source : journaldunet.com | Publication : 2025-10-22*
+
+- Cybersécurité 2025 : l'ère du chaos algorithmique L'incident XZ a révèlé une dérive entropique : des réseaux trop automatisés pour être pleinement sécurisés.
+- La cybersécurité devient une gestion du désordre plutôt qu'une simple détection d'attaques.
+- L’incident du composant XZ, survenu début 2024, restera sans doute dans les manuels de cybersécurité.
+- Un outil de compression anodin, maintenu dans l’écosystème Linux depuis des années, a vu son code modifié sur la durée par un contributeur malveillant.
+
+## [9 Français sur 10 ont déjà été confrontés à des actes de cybermalveillance - YouTube](https://www.youtube.com/watch?v=vSnEP_56cRk)  
+*Source : youtube.com | Publication : 2025-10-22*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [L'entreprise BZHunt organise pour la 4e fois un Bug Bounty à Brest - Bretagne Economique](https://www.bretagne-economique.com/actualites/lentreprise-bzhunt-organise-pour-la-4e-fois-un-bug-bounty-a-brest/)  
+*Source : bretagne-economique.com | Publication : 2025-10-22*
+
+- Attirer les talents et faire naître des vocations.
+- Forts du succès rencontré lors des trois précédentes éditions, trois acteurs bretons de la cybersécurité (l’entreprise BZHunt, la Cantine numérique Brest et YesWeHack) poursuivent leur engagement en faveur de la formation des jeunes.
+- Pour la quatrième année, ils organisent une compétition de Bug Bounty réservée aux étudiants.
+- Leur ambition : faire découvrir les métiers du hacking éthique et de la cybersécurité à un public étudiant toujours plus élargi.
+
+## [Cybertech Europe 2025, Rome au cœur du débat mondial sur la <b>cybersécurité</b> - AGI](https://www.agi.it/maeci/fr/news/2025-10-22/cybertech-europe-2025-rome-cybersecurite-33802475/amp/)  
+*Source : agi.it | Publication : 2025-10-22*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [Attaque en cours sur iPhone, Mac, Apple TV, Apple Watch et Safari : une faille critique est exploitée](https://www.01net.com/actualites/attaque-cours-iphone-mac-apple-tv-apple-watch-safari-faille-critique-exploitee.html)  
+*Source : 01net.com | Publication : 2025-10-22*
+
+- La CISA (Cybersecurity and Infrastructure Security Agency) met en garde les utilisateurs Apple.
+- L’agence fédérale américaine chargée de la cybersécurité a découvert « des preuves » indiquant qu’une vulnérabilité au sein de macOS, iOS, tvOS, Safari, et de watchOS est activement exploitée dans le cadre de cyberattaques.
+- Des hackers utilisent actuellement la brèche pour pirater des appareils Apple.
+- La CISA a fait le même constat au sujet des ordinateurs sous Windows.
+
+## [Deepfakes : la prochaine faille humaine des entreprises ? - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/tribune-expert-deepfakes-la-prochaine-faille-humaine-des-entreprises-224004/amp)  
+*Source : silicon.fr | Publication : 2025-10-22*
+
+- Les technologies de génération audio et vidéo synthétiques, connues sous le nom de deepfakes, ont franchi un seuil critique.
+- Longtemps limitées au divertissement sur les réseaux sociaux ou à la manipulation politique ponctuelle, elles s’imposent désormais comme des instruments à part entière dans les tactiques de cyberattaque.
+- Ce basculement dépasse le seul registre technologique et s’inscrit dans une transformation structurelle.
+- La perception humaine, qu’il s’agisse d’une voix familière ou d’un visage reconnu, devient elle-même une nouvelle surface d’attaque.
+
+## [<b>Cybersécurité</b> : Veeam met la main sur Securiti AI pour 1,73 milliard de dollars](https://www.usine-digitale.fr/article/securite-des-donnees-veeam-met-la-main-sur-securiti-ai-pour-1-73-milliard-de-dollars.N2239998)  
+*Source : usine-digitale.fr | Publication : 2025-10-22*
+
+- Verifying your browser before proceeding.
+- Incident ID: 332019ad-cyai-4618-b168-e844d66b8474.
 
 ## [<b>Cybersécurité</b> : préparons mieux notre industrie - 21/10 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cybersecurite-preparons-mieux-notre-industrie-21-10_VN-202510210980.html)  
 *Source : bfmtv.com | Publication : 2025-10-21*
