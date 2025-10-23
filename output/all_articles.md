@@ -1,5 +1,151 @@
-# Résumés – 2025-10-22
+# Résumés – 2025-10-23
 
+
+## [Emploi : Stage : Ingénieur/e Big Data <b>Cybersécurité</b> des systèmes embarqués F/H - CIDJ](https://www.cidj.com/travailler/offres-emploi/stage-ingenieure-big-data-cybersecurite-des-systemes-embarques-fh-1)  
+*Source : cidj.com | Publication : 2025-10-23*
+
+- Stage : Ingénieur/e Big Data Cybersécurité des systèmes embarqués F/H Présentation de l’employeur Descriptif du poste Informations générales Localisation : France, Ile de France, 92 - Saint-Cloud Domaine professionnel : métier Sécurité, Navigabilité et Certification Type de contrat : Stage Durée du stage : 6 mois Niveau du stage : M2/Ingé3 Type de diplôme préparé : BAC+5 Langues Anglais, B2 intermédiaire - avancé Compétences : Informatique développement Référence de l'offre : 2025-14679 Nombre de postes à pourvoir :1 Notre organisation : Au sein de la Direction Technique Architecture et Intégration, vous rejoignez le service CYBER composé d’une une équipe de 10 personnes basées à Saint-Cloud et Mérignac.
+- Il a en charge la responsabilité de la cybersécurité des systèmes embarqués, dont ses activités vont de la définition d'architectures sécurisées à la conception, du développement jusqu'à la certification.
+- Le contexte :Les systèmes embarqués à bord des avions actuels offrent des fonctions sans cesse améliorées, exploitant une connectivité croissante afin de bénéficier de mises à jour fréquentes en vue d'assurer le meilleur service à l'utilisateur.
+- La sécurisation de la connectivité des calculateurs embarqués face aux attaques informatiques (cyber-attaques) revêt d’une importance croissante.
+
+## [<b>Cybersécurité</b> : un enjeu majeur pour Ledger - 23/10 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/video-cybersecurite-un-enjeu-majeur-pour-ledger-23-10_VN-202510230913.html)  
+*Source : bfmtv.com | Publication : 2025-10-23*
+
+- BFMTVEconomieÉmissionsLa Grande InterviewCybersécurité : un enjeu majeur pour Ledger - 23/10Retrouvez Le 18/19 d'Hedwige Chevrillon en replay.Hier à 21h41 | Durée : 53:20PartagerX.
+
+## [Les données des clients de Toys R Us compromises | JDM - Le Journal de Montréal](https://www.journaldemontreal.com/2025/10/23/les-donnees-des-clients-de-toys-r-us-compromises)  
+*Source : journaldemontreal.com | Publication : 2025-10-23*
+
+- Les données des clients de Toys R Us compromises La sécurité des données personnelles des clients de Toys R Us au Canada pourrait avoir été compromise, à la suite d’une attaque informatique menée au cours des dernières semaines contre ses systèmes, prévient le géant américain du jouet.
+- «Un incident de cybersécurité [...] a entraîné un accès non autorisé à une partie de notre base de données clients contenant des informations personnelles.
+- Nous vous envoyons ce message, car vos informations personnelles figuraient parmi les données que nous croyons affectées.» C’est le message peu rassurant que des milliers de clients de Toys R Us reçoivent ces jours-ci.
+- Ce dernier vise à expliquer l’incident et les mesures prises par la compagnie, en plus de donner des conseils aux clients touchés pour protéger leurs informations personnelles.
+
+## [Adoption du projet de loi no 82 - Gouvernement du Québec](https://www.quebec.ca/nouvelles/actualites/details/adoption-du-projet-de-loi-no-82-66586)  
+*Source : quebec.ca | Publication : 2025-10-23*
+
+- Le projet de loi no 82, Loi concernant l’identité numérique nationale et modifiant d’autres dispositions (ci-après la « Loi »), a été adopté le 22 octobre 2025 par l’Assemblée nationale du Québec.
+- Cette loi établit les fondements juridiques de l’identité numérique nationale en permettant à chaque citoyenne et à chaque citoyen de s’identifier numériquement de façon simple, sécuritaire, privée et volontaire pour accéder aux services gouvernementaux.
+- Elle offrira notamment la possibilité de prouver son identité en ne divulguant que les renseignements nécessaires et de contrôler l’usage de ses données personnelles.
+- À cet effet, une consultation publique sera mise en place afin de déterminer les mesures spécifiques de son déploiement.
+
+## [<b>Cybersécurité</b>, IA : la DGPE modernise son administration - L'Union - Sonapresse](https://www.union.sonapresse.com/fr/cybersecurite-ia-la-dgpe-modernise-son-administration)  
+*Source : union.sonapresse.com | Publication : 2025-10-23*
+
+- Parce que le patrimoine de l’État ne se limite plus qu’à ses biens immobiliers ou mobiliers, mais s’étend désormais au numérique, la Direction générale du patrimoine de l’État (DGPE) a entrepris de renforcer les compétences digitales de son personnel.
+- À travers cette formation, les agents ont gagné en autonomie dans l’usage des outils numériques et dans la dématérialisation des procédures administratives.
+- Un progrès qui se traduira par une amélioration de la productivité et de la qualité du service public.
+- Ainsi, grâce aux notions de cybersécurité, les agents sont désormais capables d’identifier et de prévenir les menaces informatiques.
+
+## [En Birmanie, plus de 600 personnes fuient un centre d'arnaques en ligne vers la Thaïlande ...](https://www.lemonde.fr/international/article/2025/10/23/en-birmanie-plus-de-600-personnes-fuient-un-centre-d-arnaques-en-ligne-vers-la-thailande-apres-un-raid-militaire_6648968_3210.html)  
+*Source : lemonde.fr | Publication : 2025-10-23*
+
+- Plus de 600 personnes ont fui l’un des plus gros centres d’arnaques en ligne de Birmanie et ont traversé la frontière avec la Thaïlande, a affirmé jeudi 23 octobre à l’Agence France-Presse (AFP) un responsable provincial thaïlandais, après un raid militaire sur le complexe.
+- « Six cent soixante-dix-sept personnes ont fui le centre d’escroquerie » de KK Park, en traversant la rivière Moei pour se rendre en Thaïlande jeudi matin, a déclaré Sawanit Suriyakul Na Ayutthaya, vice-gouverneur de la province de Tak, près de la frontière avec la Birmanie.
+- « La police de l’immigration et une force opérationnelle militaire ont collaboré pour fournir une assistance dans le cadre de procédures humanitaires (…) et ces personnes feront l’objet d’un contrôle », a-t-il ajouté.
+- Le bureau de l’administration provinciale de Tak a annoncé dans un communiqué que le groupe était composé de « ressortissants étrangers », hommes et femmes, et que les autorités s’attendaient à ce que d’autres personnes traversent la frontière thaïlandaise.
+
+## [<b>Ransomware</b> : un répit déjà terminé ? | LeMagIT](https://www.lemagit.fr/actualites/366633401/Ransomware-un-repit-deja-termine)  
+*Source : lemagit.fr | Publication : 2025-10-23*
+
+- concept w - stock.adobe.com Ransomware : un répit déjà terminé ?.
+- Après un premier semestre intense, la menace a reculé au cours de l’été tout en se maintenant à un niveau supérieur à celui de 2024 à la même période.
+- Mais plusieurs enseignes soutiennent redoutablement la pression.
+- En septembre 2025, ransomware.live a compté plus de 490 revendications sur des sites vitrine d’enseignes de ransomware.
+
+## [Une convention mondiale contre la <b>cybercriminalité</b> pour protéger le cyberespace](https://fr.vietnamplus.vn/une-convention-mondiale-contre-la-cybercriminalite-pour-proteger-le-cyberespace-post253626.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-10-23*
+
+- Hanoï (VNA) - Aujourd’hui, dans le contexte où Internet est devenu le « système nerveux » de l’économie, de la société et de la sécurité, la cybercriminalité transnationale devient de plus en plus sophistiquée et dangereuse.
+- Selon les Nations Unies, elle cause plus de 8.000 milliards de dollars de pertes économiques chaque année.
+- La cybercriminalité ne connaît ni frontières, ni limites.
+- Les groupes criminels profitent des failles juridiques pour cacher leur identité et blanchir de l’argent.
+
+## [La Fouillouse. Formatik forme les professionnels à la <b>cybersécurité</b> - Le Progrès](https://www.leprogres.fr/education/2025/10/23/formatik-forme-les-professionnels-a-la-cybersecurite)  
+*Source : leprogres.fr | Publication : 2025-10-23*
+
+- La Fouillouse Formatik forme les professionnels à la cybersécurité Depuis quelques années, un nouveau type de terrorisme est apparu dans nos sociétés : les cyberattaques.
+- Elles visent les banques, les hôpitaux, les grandes sociétés… Autant d’agressions d’un nouveau genre avec demandes de rançons à la clé.
+- Jusqu’alors bien démunies pour se protéger de ce piratage, les sociétés s’équipent aujourd’hui d’outils de préventions et intègrent dans leurs effectifs des spécialistes de la cybersécurité.
+- Depuis 2023 à La Fouillouse, Formatik, l’école lancée par deux associés Sébastien Giovannini et David Cartailler, forment ces.
+
+## [<b>Cybersécurité</b> : quand l'excès d'outils rend les risques invisibles - Programmez!](https://www.programmez.com/avis-experts/cybersecurite-quand-lexces-doutils-rend-les-risques-invisibles-38431)  
+*Source : programmez.com | Publication : 2025-10-23*
+
+- jeu, 23/10/2025 - 18:35 L'overtooling décrit l'utilisation excessive, et souvent évitable, d'un trop grand nombre de solutions.
+- Quel rôle cela joue-t-il dans le département informatique ?.
+- Et comment les décideurs peuvent-ils l'éviter à long terme ?.
+- En moyenne, les équipes informatiques utilisent au moins cinq solutions différentes au quotidien, rien que pour la cybersécurité ; et ce, si elles existent, respectivement dans leur environnement de cloud public, de cloud privé et sur site.
+
+## [<b>Cybersécurité</b> : après Casablanca, la start-up Nucleon met le cap vers l'Afrique anglophone](https://www.africabusinessplus.com/fr/827807/cybersecurite-apres-casablanca-la-start-up-nucleon-met-le-cap-vers-lafrique-anglophone/)  
+*Source : africabusinessplus.com | Publication : 2025-10-23*
+
+- News exclusif Cybersécurité : après Casablanca, la start-up Nucleon met le cap vers l’Afrique anglophone Déjà abonné ?.
+- Se connecter Cet article est réservé aux abonnés.
+- Rejoignez les leaders qui font avancer l'Afrique.
+- Abonnez-vous dès maintenant.
+
+## [PanIAM et Post parmi les lauréats de la CSWL 2025 | Paperjam News](https://paperjam.lu/article/paniam-et-post-parmi-les-laureats-de-la-cswl-2025)  
+*Source : paperjam.lu | Publication : 2025-10-23*
+
+- L’édition 2025 de la Cybersecurity Week Luxembourg (CSWL) s’est clôturée par sa traditionnelle soirée de gala et de remise des prix, célébrant les réalisations des individus et des organisations qui façonnent le paysage cybernétique du Grand-Duché.
+- Événement phare d’une campagne nationale d’un an menée par la Maison luxembourgeoise de la cybersécurité (LHC), la soirée a rassemblé des experts, des innovateurs et des décideurs pour récompenser l’excellence dans quatre catégories clés – des talents en devenir aux leaders stratégiques.
+- Jeune talent le plus prometteur – Team Luxembourg @European Cybersecurity Challenge 2025 Représentant le Luxembourg au Challenge européen de la cybersécurité en Pologne, l’équipe nationale composée de dix membres a été récompensée pour sa créativité, son travail d’équipe et sa contribution à la communauté de la cybersécurité à un stade précoce de sa carrière.
+- Dirigée par le capitaine Mathis Foxius, l’équipe comprenait Henri Ahola, Mika Beckerich, Frank Broy, Adam Hustava, Michel Reyter, Damien Martoglio, Vlad Ungureanu, Marwan Lamesch et Daniel Murphy.
+
+## [Office fédéral de la <b>cybersécurité</b>: le Parlement soutient l'augmentation du budget](https://www.ictjournal.ch/news/2025-10-23/office-federal-de-la-cybersecurite-le-parlement-soutient-laugmentation-du-budget)  
+*Source : ictjournal.ch | Publication : 2025-10-23*
+
+- Office fédéral de la cybersécurité: le Parlement soutient l’augmentation du budget L’Office fédéral de la cybersécurité (OFCS) devrait bénéficier de moyens supplémentaires.
+- Le Conseil des États a demandé une augmentation budgétaire de deux tiers pour 2026, puis presque un doublement les années suivantes, au détriment du budget informatique de l’armée.
+- La Commission de la politique de sécurité du Conseil national soutient désormais cette proposition.
+- Le Conseil des États a déposé une motion demandant d’augmenter le budget de l’Office fédéral de la cybersécurité (OFCS) de 10 millions de francs en 2026, puis de 15 millions les années suivantes.
+
+## [L'agglomération de Mulhouse labellisée pôle d'excellence régional pour la <b>cybersécurité</b>](https://www.lesechos.fr/pme-regions/grand-est/lagglomeration-de-mulhouse-labellisee-pole-dexcellence-regional-pour-la-cybersecurite-2194103)  
+*Source : lesechos.fr | Publication : 2025-10-23*
+
+- L'offre haut-rhinoise de cybersécurité s'appuie sur l'enseignement supérieur, des entreprises spécialisées et des acteurs publics.
+
+## [Pyrénées-Atlantiques : gendarmes et policiers unis dans la prévention de la <b>cybercriminalité</b>](https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pyrenees-atlantiques-gendarmes-et-policiers-unis-dans-la-prevention-de-la-cybercriminalite-26432245.php)  
+*Source : sudouest.fr | Publication : 2025-10-23*
+
+- Les assauts des cybercriminels sont quotidiens, dirigés contre les administrations, les entreprises ou les particuliers.
+- Ceux qui traquent les « hackers » en tous genres invitent à utiliser le guichet de cyber assistance 17cyber.gouv.fr Plus d’attaques, plus de plaintes, des préjudices en augmentation : l’enjeu autour de la cybercriminalité tient dans ce constat global.
+- Le maréchal des logis chef Chris Jacquot, le corrobore depuis la section opérationnelle de lutte contre les cybermenaces, à Pau : « En 2025, 10,99 % des plaintes traitées par la gendarmerie des Pyrénées-Atlantiques relèvent de faits facilités ou commis à l’aide de moyens numériques.
+- » Forces de police et de gendarmerie travaillent ensemble contre ces menaces en expansion.
+
+## [Le gouvernement fédéral canadien souffre de graves lacunes en <b>cybersécurité</b>](https://incyber.org/article/gouvernement-federal-canadien-souffre-graves-lacunes-en-cybersecurite/)  
+*Source : incyber.org | Publication : 2025-10-23*
+
+- Le gouvernement fédéral canadien souffre de graves lacunes en cybersécurité Articles du même auteur : 4 21.10.25 Fraude Europol démantèle un réseau criminel de location de numéros de téléphone Lire 01.
+
+## [Niger : le gouvernement se dote d'un centre national de <b>cybersécurité</b> - Africa24 TV](https://africa24tv.com/niger-le-gouvernement-se-dote-dun-centre-national-de-cybersecurite-2)  
+*Source : africa24tv.com | Publication : 2025-10-23*
+
+- Face à la montée des cyberattaques, le gouvernement crée le Centre national de cybersécurité (CNAC) chargé de piloter la stratégie nationale de sécurité numérique.
+- Cette nouvelle structure publique vise à protéger les infrastructures critiques, renforcer la résilience informatique du pays et coordonner les politiques de cybersécurité, tout en formant des experts locaux et en consolidant la confiance des partenaires internationaux.
+- Niger : le gouvernement se dote d’un centre national de cybersécurité Recevez notre newsletter NewsExpress 23 octobre 2025 Niger : le gouvernement se dote d’un centre national de cybersécurité - 23 octobre 2025 RD Congo : Création d’une Académie parlementaire dédiée à la formation des élus - 23 octobre 2025 Centrafrique : les combattants du groupe armé 3R déposent les armes - 23 octobre 2025 Côte d’Ivoire : la CEI fixe les élections législatives au 27 décembre 2025 - 22 octobre 2025 Burkina Faso : le Parlement adopte la loi portant sur la réorganisation agraire et foncière - 22 octobre 2025 Libéria : signature d’un accord de coopération dans le domaine militaire avec le Maroc - 22 octobre 2025 Ouganda : la commission électorale fixe les élections générales au 15 janvier 2025 - 22 octobre 2025 Cameroun – Présidentielle 2025 : début ce mercredi du contentieux post-électoral -.
+
+## [PME visée, hôpital attaqué… Ces témoins bretons invitent à renforcer l'esprit de <b>cybersécurité</b>](https://www.ouest-france.fr/societe/cyberattaque/pme-visee-hopital-attaque-ces-temoins-bretons-invitent-a-renforcer-lesprit-de-cybersecurite-60c8f5f4-b017-11f0-a612-0f338f9cdd87)  
+*Source : ouest-france.fr | Publication : 2025-10-23*
+
+- Mais aussi un défi pour se glisser dans la peau de pirates informatiques.
+- Tous les moyens sont bons pour renforcer la culture « cyber » sur le.
+
+## [Twint: Des escrocs utilisent une nouvelle méthode pour vous voler - Blick](https://www.blick.ch/fr/suisse/twint-des-escrocs-utilisent-une-nouvelle-methode-pour-vous-voler-id21347454.html)  
+*Source : blick.ch | Publication : 2025-10-23*
+
+- Il était encore à moitié endormi lorsque son téléphone a vibré tôt le matin.
+- Ding!.
+- C’est une notification de Twint: «Voici l’argent que je te dois.» Un Suisse se souvient: la veille, il était sorti avec des amis, chacun avait payé sa tournée.
+- Rien d’étonnant, pense-t-il, à ce qu’on lui rembourse une part.
+
+## [<b>Ransomware</b> : selon CrowdStrike, payer la rançon s'avère inefficace dans la majorité des cas](https://incyber.org/article/ransomware-selon-crowdstrike-payer-rancon-avere-inefficace-dans-majorite-cas/)  
+*Source : incyber.org | Publication : 2025-10-23*
+
+- Ransomware : selon CrowdStrike, payer la rançon s’avère inefficace dans la majorité des cas Articles du même auteur : 2 21.10.25 Fraude Europol démantèle un réseau criminel de location de numéros de téléphone Lire 01.
+- 3.
 
 ## [&quot;Le cyber-événement le plus préjudiciable à l'économie britannique&quot;: le piratage de Jaguar ...](https://www.bfmtv.com/auto/le-cyber-evenement-le-plus-prejudiciable-a-l-economie-britannique-le-piratage-de-jaguar-land-rover-a-coute-plus-de-2-milliards-d-euros_AV-202510220493.html)  
 *Source : bfmtv.com | Publication : 2025-10-22*
