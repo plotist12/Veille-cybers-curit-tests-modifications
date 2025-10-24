@@ -1,5 +1,159 @@
-# Résumés – 2025-10-23
+# Résumés – 2025-10-24
 
+
+## [Birmanie : un raid contre un centre de <b>cybercriminalité</b> provoque un exode chinois vers la Thaïlande](https://www.lopinion.fr/international/birmanie-un-raid-contre-un-centre-de-cybercriminalite-provoque-un-exode-chinois-vers-la-thailande)  
+*Source : lopinion.fr | Publication : 2025-10-24*
+
+- Birmanie : un raid contre un centre de cybercriminalité provoque un exode chinois vers la Thaïlande Bangkok - Plus de 1.000 personnes, principalement des Chinois, ont fui en Thaïlande depuis la Birmanie cette semaine, ont déclaré vendredi des responsables provinciaux thaïlandais, quelques jours après une descente de l’armée birmane dans l’un des plus gros centres d’arnaques en ligne du pays.
+- L’AFP avait enquêté mi-octobre sur ces usines à arnaque en ligne qui font des victimes dans le monde entier, plaçant sous les projecteurs ces centres qui prolifèrent dans les zones inhospitalières dites du Triangle d’Or et emploient de gré ou de force des petites mains.
+- En Birmanie, des complexes tentaculaires, abritant des réseaux d’escroqueries en ligne sentimentales ou commerciales, ont prospéré le long de la frontière peu surveillée avec la Thaïlande pendant la guerre civile, déclenchée par un coup d’Etat en février 2021.
+- Selon un communiqué du bureau de l’administration provinciale de Tak publié vendredi, en Thaïlande, 1.049 personnes ont traversé la frontière avec la Birmanie pour rejoindre Mae Sot entre mercredi et vendredi matin.
+
+## [L'impératif Zero Trust : l'urgence de moderniser la sécurité ! - Beaboss.fr](https://www.beaboss.fr/digital-1074/cybersecurite-2020/limperatif-zero-trust-lurgence-de-moderniser-la-securite-53611)  
+*Source : beaboss.fr | Publication : 2025-10-24*
+
+- Réglementations complexes, paysage de la menace en constante évolution, et pressions macroéconomiques majeures : les organisations européennes du secteur financier sont en pleine tempête.
+- Offrir un service de qualité efficace est vital pour rester compétitif, mais les architectures traditionnelles et la dette technique freinent le progrès numérique.
+- Quelle est la réponse architecturale à ce dilemme ?.
+- Les entreprises doivent moderniser leur approche de la sécurité.
+
+## [<b>Cybersécurité</b> proactive : le nouveau levier de performance des DSI et RSSI](https://businessnews.com.tn/2025/10/24/cybersecurite-proactive-le-nouveau-levier-de-performance-des-dsi-et-rssi/1369422/)  
+*Source : businessnews.com.tn | Publication : 2025-10-24*
+
+- Alors que s’ouvre à Tunis la 11e édition du Forum International des DSI, les dirigeants IT africains se réunissent autour d’un enjeu central : conjuguer innovation et sécurité numérique dans un monde où les menaces évoluent plus vite que les technologies.
+- Sur un continent en pleine transformation numérique, la cybersécurité se réfléchit sous sa forme proactive, et s’impose comme un moteur de performance et de compétitivité.
+- Un nouveau rôle stratégique pour les DSI Longtemps perçue comme une fonction défensive, la cybersécurité a changé de dimension.
+- Les DSI et RSSI ne se contentent plus de protéger leurs systèmes : ils doivent anticiper, détecter et neutraliser les menaces avant qu’elles ne perturbent la continuité des activités de leur organisation.
+
+## [Fin de Windows 10 : comment les services publics ont-ils géré la bascule, enjeu de <b>cybersécurité</b>](https://www.lavoixdunord.fr/1639168/article/2025-10-24/fin-de-windows-10-comment-les-services-publics-ont-ils-gere-la-bascule-enjeu-de)  
+*Source : lavoixdunord.fr | Publication : 2025-10-24*
+
+- Microsoft.
+- Comment les services publics ont-ils géré cette bascule qui revêt un enjeu d'ampleur de cybersécurité ?.
+- Tour d'horizon.
+
+## [Les dix grandes tendances tech 2025 selon Gartner - Siècle Digital](https://siecledigital.fr/2025/10/24/les-dix-grandes-tendances-tech-2025-selon-gartner/)  
+*Source : siecledigital.fr | Publication : 2025-10-24*
+
+- Cybersécurité , souveraineté et confiance numérique au premier plan.
+- Face à cette déferlante d'innovations, Gartner anticipe une évolution rapide.
+
+## [Victime de la « guerre contre les crypto-monnaies » ? Les dessous de la grâce du fondateur ...](https://www.numerama.com/cyberguerre/2101683-victime-de-la-guerre-contre-les-crypto-monnaies-les-dessous-de-la-grace-du-fondateur-de-binance.html)  
+*Source : numerama.com | Publication : 2025-10-24*
+
+- 1ᵉʳ mai 2024, Changpeng Zhao, figure majeure du monde des crypto-monnaies, est condamné à 4 mois de prison dans un centre fédéral américain et à une amende de 50 millions de dollars.
+- Cette peine marque alors l’aboutissement d’une enquête de plusieurs années, menée par les régulateurs financiers et les procureurs américains.
+- Quelques mois plus tôt, en novembre 2023, son entreprise Binance, l’une des plus importantes plateformes d’échange de crypto-monnaies, avait accepté de payer une amende de 4,3 milliards de dollars, dans le cadre d’un accord visant à clore les poursuites américaines liées aux manquements aux règles de sécurité de la plateforme.
+- Depuis, le contexte politique a profondément changé aux États-Unis, tout comme la situation de M. Zhao.
+
+## [Les 10 Tendances Tech 2026 du Gartner qui doivent influencer la stratégie des DSI](https://www.itforbusiness.fr/les-10-tendances-tech-2026-du-gartner-qui-doivent-influencer-la-strategie-des-dsi-96027)  
+*Source : itforbusiness.fr | Publication : 2025-10-24*
+
+- Gouvernance Les 10 Tendances Tech 2026 du Gartner qui doivent influencer la stratégie des DSI Par Laurent Delattre, publié le 24 octobre 2025 L’innovation n’est plus un sprint mais une architecture.
+- Entre supercomputing, DSLM et IA physique, les DSI deviennent bâtisseurs d’un écosystème intelligent, résilient et responsable.
+- Pour Gartner, la Tech 2026 se dessine entre contrôle et audace.
+- Voici les 10 tendances Tech qui reflètent la façon dont les entreprises doivent réagir à la complexité et aux opportunités de l’ère de l’IA.
+
+## [Nouvelle loi &quot;Chat Control&quot; : quels risques pour votre vie privée ? - Clubic](https://www.clubic.com/actualite-583189-nouvelle-loi-chat-control-quels-risques-pour-votre-vie-privee.html)  
+*Source : clubic.com | Publication : 2025-10-24*
+
+- Cette année encore, octobre est le mois de la cybersécurité !.
+- Alors, tout au long de ces 30 jours d'automne, et plus que jamais, il convient de se soucier de votre quotidien en ligne.
+- Et, dans cette perspective, le respect de votre vie privée doit demeurer essentiel.
+- Or, la proposition de règlement de la commission européenne « Chat Control », dont l'objectif initial est la protection de l'enfance contre la pédocriminalité, supposerait aussi une brèche majeure, vers une potentielle surveillance généralisée de nos moyens de communication numérique.
+
+## [<b>Cybersécurité</b> et COMEX : entretien avec Odile Duthil (Clusif)](https://www.informatiquenews.fr/la-cybersecurite-nest-plus-un-sujet-technique-cest-un-sujet-de-gouvernance-et-de-confiance-odile-duthil-107606)  
+*Source : informatiquenews.fr | Publication : 2025-10-24*
+
+- Entre IA, souveraineté et post-quantique, le Clusif trace la voie d’une cybersécurité de confiance.
+- Sa présidente, Odile Duthil, veut en faire un moteur de performance, transformant RSSI et dirigeants en véritables partenaires de la stratégie numérique.
+- Elle est notre Grand Témoin de la semaine.
+- Créé en 1992, le Clusif s’est imposé au fil des années comme le laboratoire d’idées et d’échanges de référence pour les acteurs de la cybersécurité en France.
+
+## [Opaque, insaisissable... Ce qu'il faut savoir sur Qilin <b>Ransomware</b>, la franchise du ...](https://www.larep.fr/paris-75000/faits-divers/opaque-insaisissable-ce-qu-il-faut-savoir-sur-qilin-ransomware-la-franchise-du-cybercrime-qui-fait-trembler-la-france_14771452/)  
+*Source : larep.fr | Publication : 2025-10-24*
+
+- Justice Écouter l'article Qilin est une plateforme de cyberattaques à la carte, née en 2022.
+- Elle ne se limite pas à un logiciel malveillant : elle propose à des pirates "affiliés" d’utiliser ses outils contre rémunération.
+- En échange, ces derniers disposent d’un rançongiciel prêt à l’emploi, de mises à jour régulières et d’un site pour publier les données volées.
+- Ce modèle, baptisé "Ransomware as a Service", transforme le piratage en un véritable écosystème commercial, où les développeurs gèrent la technique et les affiliés mènent les attaques, expliquent nos confrères de franceinfo.
+
+## [<b>Cybercriminalité</b> mobile : deux opérations mondiales pour contrer la menace](https://www.servicesmobiles.fr/cybercriminalite-mobile-deux-operations-mondiales-pour-contrer-la-menace-108042)  
+*Source : servicesmobiles.fr | Publication : 2025-10-24*
+
+- Cybercriminalité mobile : deux opérations mondiales pour contrer la menace Deux opérations internationales révèlent l’ampleur du cybercrime organisé.
+- Grâce à une coopération sans précédent, serveurs, SIM-box et cyberescrocs tombent, marquant un tournant dans la lutte contre les fraudes numériques mondiales.
+- Tl;dr Réseaux cybercriminels transnationaux démantelés en Europe et Afrique.
+- - Arrestations massives, infrastructures et fonds saisis par Interpol et Europol.
+
+## [D'usine du monde à géant technologique : les ressorts de la montée en puissance chinoise](https://incyber.org/article/dusine-du-monde-a-geant-technologique-les-ressorts-de-la-montee-en-puissance-chinoise/)  
+*Source : incyber.org | Publication : 2025-10-24*
+
+- Accueil - Transformation numérique - D’usine du monde à géant technologique : les ressorts de la montée en puissance chinoise - D’usine du monde à géant technologique : les ressorts de la montée en puissance chinoise Dans la calligraphie chinoise traditionnelle, le linmo (臨摹) désigne l’art de la copie.
+- Cette pratique millénaire n’est pas considérée comme du plagiat, mais comme le chemin obligé vers l’excellence : l’apprenti reproduit pendant plusieurs décennies les gestes des grands calligraphes jusqu’à les intérioriser, avant d’innover dans son propre style.
+- Une philosophie ancestrale qui résonne avec l’itinéraire du développement technologique chinois au cours des dernières décennies.
+- De “Made in China” à “Created in China” Lorsque les économies occidentales ont massivement délocalisé leur production vers la Chine à partir des années 1990, elles ont transféré, souvent inconsciemment, un savoir-faire technologique manufacturier.
+
+## [La 1re édition de la semaine nationale se tiendra du 27 au 31 octobre 2025 à Ouagadougou](https://lefaso.net/spip.php?article141784)  
+*Source : lefaso.net | Publication : 2025-10-24*
+
+- Lutte contre la cybercriminalité : La 1re édition de la semaine nationale se tiendra du 27 au 31 octobre 2025 à Ouagadougou « Bâtir une résilience nationale face à la cybercriminalité : un impératif pour la paix, la sécurité et la souveraineté numérique du Burkina Faso ».
+- C’est sous ce thème qu’est placée la 1re édition de la semaine nationale de la lutte contre la cybercriminalité du 27 au 31 octobre 2025 à Ouagadougou.
+- L’annonce a été faite par la Brigade centrale de lutte contre la cybercriminalité (BCLCC), au cours d’une conférence de presse ce 22 octobre 2025 à Ouagadougou.
+- Cette initiative vise à mobiliser tous les acteurs autour du renforcement de la prévention et de la résilience collective face aux menaces cybernétiques.
+
+## [Quandela a livré Lucy au GENCI - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/infra/64041-quandela-a-livre-lucy-au-genci.html)  
+*Source : linformaticien.com | Publication : 2025-10-24*
+
+- La start-up française qui développe un ordinateur quantique photonique a livré Lucy, un ordinateur quantique photonique universel numérique de 12.
+
+## [Mois de la <b>Cybersécurité</b> : de la sensibilisation à une culture de la résilience - Global Security Mag](https://www.globalsecuritymag.fr/mois-de-la-cybersecurite-de-la-sensibilisation-a-une-culture-de-la-resilience.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-24*
+
+- Mois de la Cybersécurité : de la sensibilisation à une culture de la résilience octobre 2025 par odolphe Barnault, VP Europe du Sud de la société Rubrik Chaque mois d’octobre, le Mois de sensibilisation à la Cybersécurité nous rappelle que les individus constituent la première ligne de défense face aux menaces numériques.
+- Mais en 2025, la discussion doit aller plus loin.
+- La sensibilisation n’est pas une fin en soi ; elle est le socle d’un objectif plus vaste : instaurer une véritable culture de la résilience, où les organisations se préparent non seulement à prévenir les attaques, mais aussi à y résister et à s’en remettre.
+- "Du respect des règles à la confiance Le cadre réglementaire en France et en Europe évolue rapidement.
+
+## [Prévention et <b>cybersécurité</b> auprès des seniors au CCAS d'Airvault](https://www.lanouvellerepublique.fr/deux-sevres/commune/airvault/prevention-et-cybersecurite-aupres-des-seniors-au-ccas-d-airvault-1761313078)  
+*Source : lanouvellerepublique.fr | Publication : 2025-10-24*
+
+- Prévention et cybersécurité auprès des seniors au CCAS d’Airvault AbonnésCet article est réservé aux abonnés numériques.
+- AbonnésCet article est réservé aux abonnés numériques.
+- Mardi 7 octobre 2025, une action de prévention à l’égard des seniors a été dispensée par l’adjudant Éric Joao (du secrétariat de la compagnie de gendarmerie de Parthenay), accompagné d’Audrey Jahan, conseillère numérique, dans le cadre des journées portes ouvertes au CCAS-France services d’Airvault.
+- Cet article a été tronqué.
+
+## [La Convention de Hanoï affirme le rôle et la position du Vietnam - VOV5](https://vovworld.vn/fr-CH/actualites/la-convention-de-hanoi-affirme-le-role-et-la-position-du-vietnam-1434623.vov)  
+*Source : vovworld.vn | Publication : 2025-10-24*
+
+- La Convention de Hanoï affirme le rôle et la position du Vietnam vendredi, 24 octobre 2025 | 19:26:52 (VOVWORLD) - Hanoï accueillera ce samedi 25 octobre la cérémonie d’ouverture à la signature de la Convention des Nations Unies sur la lutte contre la cybercriminalité.
+- Photo: comité d'organisation Le président Luong Cuong et le secrétaire général de l’ONU, António Guterres, seront présents aux côtés de nombreux dirigeants et partenaires internationaux.
+- Cette convention vise à créer un cadre juridique mondial pour renforcer la lutte contre la cybercriminalité.
+- Les acteurs internationaux et l’ONU saluent cet événement comme un jalon majeur de la coopération en cybersécurité, mettant également en lumière le rôle de leadership du Vietnam sur la scène internationale.
+
+## [«Féminiser le secteur»: comment l'école Efrei encourage les lycéennes à rejoindre les ...](https://www.lefigaro.fr/secteur/high-tech/feminiser-le-secteur-comment-l-ecole-efrei-encourage-les-lyceennes-a-rejoindre-les-metiers-de-la-tech-20251024)  
+*Source : lefigaro.fr | Publication : 2025-10-24*
+
+- «Féminiser le secteur»: comment l’école Efrei encourage les lycéennes à rejoindre les métiers de la tech REPORTAGE - Cette école, qui forme des futurs ingénieurs en cybersécurité ou en intelligence artificielle, propose un programme dédié aux lycéennes intéressées par ces professions.
+- Mercredi 22 octobre, 10 heures.
+- Tous les élèves de France sont en vacances pour la coupure de la Toussaint, mais 70 lycéennes sont pourtant venues, stylo à la main, passer deux jours au sein de l’école Efrei.
+- Certaines ont même traversé Paris de bout en bout pour rejoindre le campus de cette école d’informatique, comptant parmi les 204 établissements d’ingénieurs accrédités, et dont les locaux sont situés à Villejuif (Val-de-Marne).
+
+## [Baromètre mondial de la fraude : l'Europe protège mieux, la France s'adapte - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/barometre-mondial-de-la-fraude-leurope-protege-mieux-la-france-sadapte/)  
+*Source : itsocial.fr | Publication : 2025-10-24*
+
+- Face à une recrudescence mondiale des fraudes dopées par l’IA, la France maintient une posture défensive solide.
+- Le baromètre Sumsub 2025 met en évidence une Europe globalement plus résiliente, alors que les États-Unis, l’Asie du Sud et certains pays émergents voient leur exposition numérique s’aggraver.
+- L’indice alerte sur l’importance de la gouvernance et du partage d’informations pour contrer les nouvelles tactiques automatisées.
+- Au croisement de l’intelligence artificielle, de la cybersécurité et de la régulation numérique, la lutte contre la fraude connaît une mutation silencieuse.
+
+## [Sécurité 2026 : les trois piliers de la mutation technologique selon Securitas - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/securite-2026-les-trois-piliers-de-la-mutation-technologique-selon-securitas-technology/)  
+*Source : itsocial.fr | Publication : 2025-10-24*
+
+- À l’horizon 2026, la sécurité électronique vit une accélération sans précédent.
+- L’intelligence artificielle, les applications cloud et les capteurs avancés s’imposent comme leviers majeurs de performance, de conformité et de création de valeur.
+- Le rapport Securitas Technology 2026, fruit d’enquêtes et d’analyses sectorielles, confirme le basculement vers une sécurité proactive, intégrée et data driven, transformant la gouvernance des risques en avantage concurrentiel.
+- Longtemps pilotée par des solutions fragmentées, la sécurité électronique évolue sous la pression de nouveaux risques, d’une réglementation exigeante et de la nécessité de valoriser la donnée.
 
 ## [Emploi : Stage : Ingénieur/e Big Data <b>Cybersécurité</b> des systèmes embarqués F/H - CIDJ](https://www.cidj.com/travailler/offres-emploi/stage-ingenieure-big-data-cybersecurite-des-systemes-embarques-fh-1)  
 *Source : cidj.com | Publication : 2025-10-23*
