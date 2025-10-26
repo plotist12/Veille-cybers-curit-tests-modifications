@@ -1,5 +1,151 @@
-# Résumés – 2025-10-25
+# Résumés – 2025-10-26
 
+
+## [La cérémonie de signature de la Convention de Hanoi a été un grand succès, affirmant le ...](https://www.vietnam.vn/fr/le-mo-ky-cong-uoc-ha-noi-thanh-cong-tot-dep-khang-dinh-uy-tin-cua-viet-nam)  
+*Source : vietnam.vn | Publication : 2025-10-26*
+
+- Dans l'après-midi du 26 octobre, la cérémonie de signature de la Convention des Nations Unies contre la cybercriminalité (Convention de Hanoi ) a été un grand succès.
+- Après la séance de clôture, le général Luong Tam Quang, membre du Politburo et ministre de la Sécurité publique, a répondu aux interviews de presse concernant le succès de l'événement et son importance pour le Vietnam dans la construction d'un environnement cybernétique sûr et sain.
+- Selon le ministre Luong Tam Quang, la cérémonie de signature de la Convention de Hanoi a été un succès complet à tous égards et revêt une grande importance pour la communauté internationale, au cours de laquelle le Vietnam a démontré son rôle de nation proactive, responsable, courageuse et de bonne volonté.
+- Avec la participation de plus de 2 500 délégués de 119 pays et territoires, de plus de 100 organisations internationales et des plus grandes entreprises technologiques du monde , l'événement est devenu une étape historique dans le processus de construction d'un cadre juridique mondial pour lutter efficacement contre la cybercriminalité.
+
+## [<b>Cybercriminalité</b> : le Maroc signe la convention de l'ONU à Hanoï | le360.ma](https://fr.le360.ma/societe/cybercriminalite-le-maroc-signe-la-convention-de-lonu-a-hanoi_FRE4M25FDJE5DA635CPW6WYYHE/)  
+*Source : fr.le360.ma | Publication : 2025-10-26*
+
+- Le Maroc franchit une étape historique dans la lutte contre la cybercriminalité.
+- Ce 25 octobre 2025, à Hanoï, le Royaume a signé la Convention des Nations Unies sur la cybercriminalité, en présence du secrétaire général de l’ONU, António Guterres, et de représentants de nombreux pays.
+- Adopté en décembre 2024 par l’Assemblée générale de l’ONU, ce traité entrera en vigueur 90 jours après sa ratification par les États membres.
+- Il constitue le premier cadre juridique international dédié à la cybercriminalité, couvrant des infractions telles que le phishing, les rançongiciels, la pédopornographie et le blanchiment d’argent, des activités qui coûtent chaque année des milliards de dollars à l’économie mondiale.
+
+## [La Pologne signe une lettre d'intention sur la coopération avec Palantir - 26/10/2025 à 18:51](https://www.boursorama.com/bourse/actualites-amp/la-pologne-signe-une-lettre-d-intention-sur-la-cooperation-avec-palantir-003423d6e6ac098af4fc0c13a3a6163e)  
+*Source : boursorama.com | Publication : 2025-10-26*
+
+- La Pologne signe une lettre d'intention sur la coopération avec Palantir information fournie par Reuters 26/10/2025 à 18:51 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Le ministère polonais de la Défense signera lundi une lettre d'intention sur la coopération avec Palantir Technologies Inc. PLTR.O , a indiqué le ministère dans un communiqué publié dimanche, sans donner plus de détails.
+- La coopération avec Palantir a débuté en décembre de l'année dernière, avec la signature d'un "protocole d'accord sur la cybersécurité de la coopération en matière de technologies de l'information", a indiqué le ministère, ajoutant qu'elle couvre les domaines de l'intelligence artificielle, des technologies de l'information et de la cybersécurité.
+
+## [Abdelhak Hameurlaine DTN de la FAT - Horizons](https://www.horizons.dz/?p=375756)  
+*Source : horizons.dz | Publication : 2025-10-26*
+
+- Abdelhak Hameurlaine DTN de la FAT Abdelhak Hameurlaine est nommé Directeur technique nationale (DTN) de la Fédération algérienne de tennis (FAT), annonce l’instance fédérale ce dimanche dans un communiqué.
+- Déjà désigné en avril dernier, capitaine de l’équipe nationale seniors en Coupe Davis, Hameurlaine, véritable figure du tennis algérien, détient le record national des titres de champion d’Algérie seniors, avec 19 sacres à son actif.
+- L’ancien international demeure également le joueur algérien le plus capé dans l’histoire de la prestigieuse Coupe Davis, avec 81 matchs disputés (simple et double confondus).
+- Par ailleurs, la FAT a également procédé à la nomination de Ryad Anseur (25 ans), conseiller en sport, spécialité tennis, au poste de Directeur des équipes nationales (DEN).
+
+## [Lutte contre la <b>cybercriminalité</b> : Engagement constant de l'Algérie en faveur du multilatéralisme](https://www.horizons.dz/?p=375765)  
+*Source : horizons.dz | Publication : 2025-10-26*
+
+- Lutte contre la cybercriminalité : Engagement constant de l’Algérie en faveur du multilatéralisme Après avoir signé la Convention des Nations Unies sur la lutte contre la cybercriminalité, Lounès Magramane souligne l’attachement de l’Algérie au multilatéralisme qui constitue un pilier des réponses à apporter devant la montée des crimes électroniques.
+- En effet, la Conférence de haut niveau tenue, ce dimanche à Hanoi (Vietnam) lors de la signature de la Convention des Nations unies contre la cybercriminalité, a été une occasion pour le secrétaire général du ministère des Affaires étrangères, de la Communauté nationale à l’étranger et des Affaires africaines, Lounès Magramane, de réitérer l’engagement constant de l’Algérie en faveur du multilatéralisme.
+- La transformation numérique au cœur des priorités nationales Mettant en avant l’importance de la coopération internationale en tant qu’instrument essentiel pour relever les défis mondiaux émergents, Magramane salue le rôle de l’Algérie dans la présidence du Comité spécial chargé d’élaborer cette convention.
+- Cette convention constitue un cadre juridique contraignant pour une réponse collective aux risques multiformes liés à la cybercriminalité.
+
+## [LIran signe la Convention des Nations Unies contre la <b>cybercriminalité</b> | TAGHRIB (APT)](https://www.taghribnews.com/fr/news/696321/l-iran-signe-la-convention-des-nations-unies-contre-cybercriminalité)  
+*Source : taghribnews.com | Publication : 2025-10-26*
+
+- Taghrib(APT)– L'Iran a signé la Convention des Nations Unies contre la cybercriminalité à Hanoï, au Vietnam.
+
+## [On vous explique tout sur l'email-bombing : la cyberattaque qui fait mouche en 2025](https://www.numerama.com/cyberguerre/2102111-on-vous-explique-tout-sur-lemail-bombing-la-cyberattaque-qui-fait-mouche-en-2025.html)  
+*Source : numerama.com | Publication : 2025-10-26*
+
+- L’e-mail bombing n’a rien de nouveau.
+- En 1996 déjà, l’Office de la langue française du Québec proposait le terme de bombarderie pour faire mention de ce type de cyberattaque.
+- Le procédé est simple : inonder la victime de mails pour saturer l’espace de sa boite de réception et ainsi invisibiliser les alertes de sécurité une fois l’attaque lancée.
+- Rien de nouveau à l’horizon donc, mais le rapport annuel sur l’état de la cybermenace de Microsoft, publié le 17 octobre, indique pourtant que cette attaque est l’une des plus efficaces en 2025.
+
+## [Alerte ! 183 millions d'adresses email compromises, et la vôtre ? - Clubic](https://www.clubic.com/actualite-584647-alerte-183-millions-d-adresses-email-compromises-et-la-votre.html)  
+*Source : clubic.com | Publication : 2025-10-26*
+
+- C'est une énorme fuite qui vient d'être rendue publique.
+- Un nombre de comptes compromis exceptionnels a ainsi été ajouté au fameux site Have I Been Pwned.
+- Le nombre et l'ampleur des fuites d'identifiants n'ont eu de cesse de prendre en importances ces derniers temps, en atteste encore l'incroyable fuite de mots de passe chez Meta, Google et Apple révélée au mois de juin dernier.
+- Et ça n'est pas près de s'arrêter, comme on peut le voir encore ici.
+
+## [Convention de Hanoï : le Laos et l'Algérie affirment leur engagement contre la <b>cybercriminalité</b>](https://vietnam.vnanet.vn/french/tin-tuc/convention-de-hanoi-le-laos-et-lalgerie-affirment-leur-engagement-contre-la-cybercriminalite-412787.html)  
+*Source : vietnam.vnanet.vn | Publication : 2025-10-26*
+
+- la signature de la Convention des Nations Unies contre la cybercriminalité , dite Convention de Hanoï, organisée les 25 et 26 octobre à Hanoï.
+
+## [Une étape historique dans la lutte mondiale contre la <b>cybercriminalité</b>](https://lecourrier.vn/une-etape-historique-dans-la-lutte-mondiale-contre-la-cybercriminalite/1293883.html)  
+*Source : lecourrier.vn | Publication : 2025-10-26*
+
+- >> La solidarité internationale renforcée dans la lutte contre la cybercriminalité >> Un phare pour la coopération mondiale en matière de cybersécurité >> Le Laos et l’Algérie affirment leur engagement contre la cybercriminalité Selon le ministre, cette cérémonie a été une réussite complète à tous égards et revêt une importance majeure pour la communauté internationale, démontrant le rôle d’un Vietnam proactif, responsable, déterminé et de bonne volonté.
+- Avec la participation de plus de 2.500 délégués venus de 119 pays et territoires, de plus de 100 organisations internationales et d’entreprises technologiques de premier plan, l’événement a marqué une étape historique dans la construction d’un cadre juridique mondial efficace pour lutter contre la cybercriminalité.
+- En particulier, la signature officielle de la Convention par 72 pays dès la cérémonie d’ouverture témoigne de la confiance accordée au rôle central des Nations unies et de l’engagement du Vietnam, mais aussi de l’intérêt commun de la communauté internationale face à la cybercriminalité.
+- Ce chiffre record reflète une mobilisation et un niveau de soutien exceptionnels pour un instrument international encore très récent, confirmant son attractivité et la volonté collective de le mettre en œuvre efficacement.
+
+## [Tô Lâm attendu au Royaume-Uni - VOV World](https://vovworld.vn/fr-CH/actualites/to-lam-attendu-au-royaume-uni-1435272.vov)  
+*Source : vovworld.vn | Publication : 2025-10-26*
+
+- Tô Lâm attendu au Royaume-Uni dimanche, 26 octobre 2025 | 18:05:00 (VOVWORLD) - Le secrétaire général du Parti communiste vietnamien Tô Lâm et son épouse effectueront une visite officielle au Royaume-Uni du 28 au 30 octobre.
+- Tô Lâm et son épouse.
+- Photo: VOV un communiqué rendu public ce 26 octobre par le ministère vietnamien des Affaires étrangères, cette visite effectuée sur invitation du Premier ministre du Royaume-Uni et d’Irlande du Nord, Keir Starmer, s’inscrit dans le cadre du renforcement des relations bilatérales entre les deux pays.
+- Tag VOV VOVworld Tô Lâm visite Royaume-Uni Sur le même sujet Tô Lâm reçoit les participants du 7ᵉ Colloque international de vietnamologie Tô Lâm reçoit les chefs de délégation présents à la cérémonie de signature de la Convention de Hanoï Le Vietnam est prêt à contribuer à la résolution des enjeux mondiaux Commentaires Valider Autres Déclaration conjointe Vietnam–États-Unis sur le cadre de l’Accord commercial réciproque, équitable et équilibré Pham Minh Chinh rencontre Donald Trump Le Premier ministre Pham Minh Chinh participe au 13ᵉ Sommet ASEAN–États-Unis La Convention de Hanoï – Un phare pour la coopération mondiale en matière de cybersécurité.
+
+## [Vos données bancaires sont-elles sur le dark web ? Cet outil made in France vous permet ...](https://www.presse-citron.net/green-got-check-donnees-personnelles/)  
+*Source : presse-citron.net | Publication : 2025-10-26*
+
+- Née avec le mission de réinventer la finance pour qu’elle serve le climat, Green-Got fait aujourd’hui évoluer de terrain de jeu.
+- La fintech française a récemment lancé son outil « Check », dans l’objectif d’alerter les Français sur les fuites de données et leur offrir une première défense face aux fraudes en ligne.
+- La championne de la finance verte Fondée en 2020 par Maud Caillaux, Andréa Ganovelli et Fabien Huet, Green-Got s’est imposée comme la référence de la finance verte en France.
+- La jeune pousse, propose des comptes de paiement, des cartes bancaires en bois ou en PVC recyclé, ainsi qu’une assurance-vie investie uniquement dans des projets durables.
+
+## [Gideon Saar En Visite En Hongrie Avec Une Importante Délégation Économique - i24NEWS](https://www.i24news.tv/fr/actu/israel/diplomatie-defense/artc-gideon-saar-en-visite-en-hongrie-avec-une-importante-delegation-economique)  
+*Source : i24news.tv | Publication : 2025-10-26*
+
+- i24NEWS - Israël - Diplomatie Israélienne - Gideon Saar en visite en Hongrie avec une importante délégation économique - Gideon Saar en visite en Hongrie avec une importante délégation économique Cette mission, axée sur les secteurs de la cybersécurité, de la santé, de l’agriculture et de l’énergie, vise à renforcer la coopération bilatérale et à consolider les liens économiques Le ministre israélien des Affaires étrangères Gideon Saar entame ce dimanche une visite officielle en Hongrie et en Roumanie, au cours de laquelle il rencontrera plusieurs hauts responsables gouvernementaux de ces deux États membres de l’Union européenne.
+- Cette tournée débute à Budapest, où Saar sera accompagné d’une importante délégation économique et commerciale composée d’environ cinquante chefs d’entreprise et dirigeants d’organisations économiques israéliennes.
+- Il s’agit de la plus vaste délégation économique jamais envoyée par Israël en Hongrie, selon le ministère des Affaires étrangères.
+- Les échanges porteront sur des secteurs stratégiques tels que la cybersécurité, les télécommunications, la médecine, l’agriculture, la technologie, l’espace et l’énergie.
+
+## [Convention de Hanoï : ouverture d'une nouvelle phase dans la coopération contre la <b>cybercriminalité</b>](https://www.vietnam.vn/fr/cong-uoc-ha-noi-mo-ra-giai-doan-moi-trong-hop-tac-chong-toi-pham-mang)  
+*Source : vietnam.vn | Publication : 2025-10-26*
+
+- Dans l'après-midi du 26 octobre, lors de la conférence de presse internationale concluant la cérémonie de signature de la Convention des Nations Unies contre la cybercriminalité (Convention de Hanoi), le vice-ministre permanent des Affaires étrangères Nguyen Minh Vu a déclaré que le résultat le plus important de cet événement était que le Vietnam et les pays membres avaient assuré les conditions pour que la convention soit ratifiée et mise en œuvre prochainement.
+- Contribuer à renforcer la position et le prestige du Vietnam M.
+- Vu a déclaré que la convention n'entre en vigueur que lorsqu'elle atteint un minimum de 40 signatures pour ratification, mais au cours des deux derniers jours, l'événement organisé par le Vietnam a encouragé 72 pays à signer.
+- Il s’agit d’une avancée majeure, qui pose les bases d’une ratification et d’une mise en pratique rapides de la convention, contribuant ainsi à la formation d’un mécanisme de coopération mondiale plus étroit dans la prévention et la lutte contre la cybercriminalité, selon M.
+
+## [Burkina: 2 414,6 milliards F CFA de recettes propres - APAnews](https://fr.apanews.net/news/le-burkina-mobilise-2-4146-milliards-f-cfa-de-recettes-propres/)  
+*Source : fr.apanews.net | Publication : 2025-10-26*
+
+- Le Maroc signe le Traité de l'ONU contre la cybercriminalité.
+- 26 octobre 2025 | 10:23.
+- Maroc/CAN 2025: plus de 250 000 billets vendus en trois jours.
+
+## [Avast Premium Security : bloquez virus, <b>ransomwares</b> et phishing pour moins de 22](https://www.lesnumeriques.com/antivirus/avast-premium-security-bloquez-virus-ransomwares-et-phishing-pour-moins-de-22-n244331.html)  
+*Source : lesnumeriques.com | Publication : 2025-10-26*
+
+- Avast Premium Security : bloquez virus, ransomwares et phishing pour moins de 22 € !.
+- La solution de sécurité Premium Security d’Avast fait actuellement l’objet d’une promotion permettant de bénéficier de 70 % de réduction la première année.
+- Une belle opportunité à saisir pour ceux qui souhaitent se protéger contre les différentes menaces en ligne.
+- Les virus ne sont plus les seules menaces que vous pouvez rencontrer sur internet.
+
+## [L'Algérie, acteur clé du nouvel accord mondial sur la <b>cybercriminalité</b>](https://lalgerieaujourdhui.dz/lalgerie-acteur-cle-du-nouvel-accord-mondial-sur-la-cybercriminalite/)  
+*Source : lalgerieaujourdhui.dz | Publication : 2025-10-26*
+
+- يتم التحقّق من أن طلبك ليس طلباً آلياً... Verifying that you are not a robot... Please wait few seconds...الرجاء الإنتظار بضعة ثوان DZSecurity.
+
+## [« Pouvez-vous voter pour elle ? »: une nouvelle arnaque se propage sur WhatsApp](https://www.01net.com/actualites/pouvez-vous-voter-nouvelle-arnaque-propage-whatsapp.html)  
+*Source : 01net.com | Publication : 2025-10-26*
+
+- Une nouvelle vague d’arnaques déferle actuellement sur WhatsApp.
+- Les chercheurs de Kaspersky ont en effet découvert « une vague d’attaques » visant à prendre le contrôle de votre compte.
+- Il s’agit d’une variante des faux concours déjà épinglés par les chercheurs russes le mois dernier.
+- Avant de lancer l’attaque, le pirate va concevoir de A à Z une fausse page de vote.
+
+## [La signature par l'Algérie de la Convention des Nations Unies contre la <b>cybercriminalité</b> ...](https://al24news.dz/fr/la-signature-par-lalgerie-de-la-convention-des-nations-unies-contre-la-cybercriminalite-une-reaffirmation-de-son-engagement-constant-en-faveur-du-multilateralisme/)  
+*Source : al24news.dz | Publication : 2025-10-26*
+
+- La signature par l’Algérie de la Convention des Nations Unies contre la cybercriminalité, une réaffirmation de son engagement constant en faveur du multilatéralisme Le Secrétaire général du ministère des Affaires étrangères, de la Communauté nationale à l’étranger et des Affaires africaines, Lounès Magramane, a affirmé, depuis Hanoï , que la signature officielle par l’Algérie de la Convention des Nations Unies contre la cybercriminalité constitue une réaffirmation de son engagement constant en faveur du multilatéralisme et de la coopération internationale, en tant qu’instrument essentiel pour relever les défis mondiaux émergents.
+- Dans une allocution prononcée lors d’une conférence de haut niveau, dans le cadre de sa participation à la cérémonie de signature de la Convention des Nations Unies contre la cybercriminalité, qui se tient samedi et dimanche à Hanoï, Magramane a salué le rôle de l’Algérie dans la présidence du Comité spécial chargé d’élaborer cette convention, soulignant que la signature officielle de cette convention par l’Algérie traduit son engagement constant en faveur du multilatéralisme et de la coopération inter nationale, en tant qu’instrument essentiel pour relever les défis mondiaux émergents.
+- Cette convention constitue un cadre juridique contraignant pour une réponse collective aux risques multiformes liés à la cybercriminalité.
+- Elle prévoit la création de mécanismes visant à adapter les enquêtes pénales traditionnelles à l’environnement des technologies de l’information et la mise en place d’un mécanisme mondial d’échange de preuves électroniques concernant les crimes graves.
+
+## [La signature par l'Algérie de la Convention des Nations Unies contre la <b>cybercriminalité</b> ...](https://www.aps.dz/fr/algerie/actualite-nationale/mh7owlpx-la-signature-par-l-algerie-de-la-convention-des-nations-unies-contre-la-cybercriminalite-une-reaffirmation-de-son-engagement-constant-en-faveur-du-multilateralisme)  
+*Source : aps.dz | Publication : 2025-10-26*
+
+- La signature par l'Algérie de la Convention des Nations Unies contre la cybercriminalité, une réaffirmation de son engagement constant en faveur du multilatéralisme dimanche 26 octobre 2025 13:36 716 HANOI - Le Secrétaire général du ministère des Affaires étrangères, de la Communauté nationale à l'étranger et des Affaires africaines, M. Lounès Magramane, a affirmé, depuis Hanoï (Vietnam), que la signature officielle par l'Algérie de la Convention des Nations Unies contre la cybercriminalité constitue une réaffirmation de son engagement constant en faveur du multilatéralisme et de la coopération internationale, en tant qu'instrument essentiel pour relever les défis mondiaux émergents.
+- Articles connexes.
 
 ## [<b>Cybercriminalité</b> : L'Algérie signe la première convention mondiale - Actualité](https://www.elmoudjahid.com/fr/actualite/cybercriminalite-l-algerie-signe-la-premiere-convention-mondiale-242371)  
 *Source : elmoudjahid.com | Publication : 2025-10-25*
