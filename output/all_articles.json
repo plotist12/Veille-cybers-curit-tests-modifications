@@ -1,5 +1,185 @@
 [
   {
+    "id": "4670f46706",
+    "title": "Comprendre les outils XDR : le guide pour renforcer votre <b>cybersécurité</b> en 2025",
+    "link": "https://www.lemondeinformatique.fr/livre-blanc/comprendre-les-outils-xdr-le-guide-pour-renforcer-votre-cybersecurite-en-2025-9369-tag-41.html",
+    "source": "lemondeinformatique.fr",
+    "pub_date": "2025-10-27",
+    "summary": "- Les cybermenaces se multiplient, deviennent plus furtives et exploitent désormais l’ensemble du système d’information du poste de travail au cloud.\n- Pour garder une longueur d’avance, les entreprises doivent adopter une approche globale et corrélée de la détection et de la réponse : c’est le rôle de l’XDR (Extended Detection and Response).\n- Ce que vous découvrirez dans ce guide : Les limites des approches traditionnelles de sécurité et la nécessité d’une vision unifiée - Qu’est-ce que l’XDR, et comment il diffère de l’EDR ou du MDR - Les avantages clés : Détection proactive et automatisée sur l’ensemble des couches IT - Corrélation des événements entre endpoints, serveurs, cloud et messagerie - Réduction du temps de détection et de réponse aux incidents - - Les critères essentiels pour évaluer une solution XDR performante - L’approche ESET : une XDR intuitive, intégrée et centrée sur la simplicité opérationnelle - Pourquoi choisir l’XDR d’ESET : Plus de 30 ans d’expertise en cybersécurité et recherche sur les menaces - Une plateforme intégrée : ESET Inspect + ESET PROTECT - Surveillance et corrélation temps réel des événements sur toutes les couches IT - Conçue pour les PME comme pour les grandes entreprises - Support local, visibilité claire, et actions de réponse rapide -.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "f0448f6b95",
+    "title": "Deux nouveaux centres de recherche facultaires en sciences - Actualités UQAM",
+    "link": "https://actualites.uqam.ca/2025/deux-nouveaux-centres-de-recherche-facultaires-en-sciences/",
+    "source": "actualites.uqam.ca",
+    "pub_date": "2025-10-27",
+    "summary": "- La Faculté des sciences accueille en son sein deux nouvelles unités de recherche: le Centre de recherche en cybersécurité et protection de la vie privée (SECUQAM), dirigé par le professeur du Département d’informatique Marc-Olivier Killijian, ainsi que le Centre de la science de la biodiversité du Québec (CSBQ), dirigé par le professeur du Département des sciences biologiques Steven Kembel Protéger ses données Fuite de données, surveillance numérique, attaques contre les infrastructures critiques, intelligence artificielle opaque… Dans un monde hyperconnecté, les enjeux de cybersécurité et de vie privée concernent l’ensemble des citoyennes et citoyens, des institutions, des entreprises et des chercheuses et chercheurs.\n- C’est dans ce contexte que naît le centre de recherche SECUQAM, entièrement dédié à la cybersécurité et à la protection des données personnelles.\n- Réunissant des expertises en informatique, cryptographie, éthique de l’IA, sécurité logicielle et gouvernance numérique, SECUQAM se veut un lieu d’innovation, de formation et de réflexion critique sur la sécurité numérique d’aujourd’hui et de demain.\n- Le centre développera des recherches de pointe, contribuera à la formation de la relève aux trois cycles et travaillera main dans la main avec les milieux académique, industriel, communautaire et gouvernemental.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "47099ae3a8",
+    "title": "Renforcer la résilience opérationnelle dans la <b>cybersécurité</b> des soins de santé en Europe",
+    "link": "https://health-isac.org/fr/strengthening-operational-resilience-in-european-healthcare-cybersecurity/",
+    "source": "health-isac.org",
+    "pub_date": "2025-10-27",
+    "summary": "- Renforcer la résilience opérationnelle dans la cybersécurité des soins de santé en Europe Rédigé par Vasileios Mingos, directeur des opérations européennes de Health-ISAC, GCTI, GREM La pression sur Cybersécurité des soins de santé en Europe n'a jamais été aussi élevé.\n- Les attaques de rançongiciels menacent directement la sécurité des patients, et un changement réglementaire majeur est en cours avec la Directive NIS2 et la Espace européen des données de santé (EHDS).\n- Il ne s’agit pas seulement de conformité, mais de résilience opérationnelle et la continuité des soins aux patients.\n- Priorités stratégiques pour les professionnels de la sécurité du secteur de la santé : Systèmes hérités contre menaces modernes : Comment sécuriser les soins intensifs lorsque de nombreux appareils ne peuvent pas être réparés ?.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "f38584663b",
+    "title": "Le Directeur Général participe à la signature de la Convention des Nations Unies contre la ...",
+    "link": "https://www.coe.int/fr/web/human-rights-rule-of-law/-/director-general-participates-in-signing-of-un-convention-against-cybercrime",
+    "source": "coe.int",
+    "pub_date": "2025-10-27",
+    "summary": "- La discussion a mis en évidence le fait que la cybercriminalité constitue une menace mondiale commune et que le renforcement des capacités, la.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "8809b608aa",
+    "title": "WAF vs. WAAP : le virage que la <b>cybersécurité</b> ne peut plus ignorer - AeroMorning.com",
+    "link": "https://aeromorning.com/waf-vs-waap-le-virage-que-la-cybersecurite-ne-peut-plus-ignorer/",
+    "source": "aeromorning.com",
+    "pub_date": "2025-10-27",
+    "summary": "- Dans la course permanente entre innovation numérique et sophistication des attaques, certaines entreprises continuent de courir avec un frein à main : elles protègent encore leurs applications avec un WAF classique.\n- Or, dans un monde où la donnée circule via des API interconnectées, où les bots deviennent indétectables et où les attaques zéro-day se propagent en quelques heures, cette approche n’est plus tenable.\n- Le WAF a joué un rôle crucial : il a permis de protéger les applications web contre les menaces les plus répandues, du SQLi au XSS.\n- Mais il est le produit d’une autre époque, celle des architectures monolithiques et des périmètres bien délimités.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "f5705a3db1",
+    "title": "<b>Cybercriminalité</b>: Un traité «historique» et contraignant - L'Economiste",
+    "link": "https://www.leconomiste.com/cybercriminalite-un-traite-historique-et-contraignant/",
+    "source": "leconomiste.com",
+    "pub_date": "2025-10-27",
+    "summary": "- La convention des Nations unies pour la lutte contre la cybercriminalité a été actée le 25 octobre 2025 à Hanoï.\n- Le Maroc fait partie des Etats.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "379e065006",
+    "title": "Soixante-cinq pays signent la convention contre la <b>cybercriminalité</b> et se dotent du premier ...",
+    "link": "https://www.humanite.fr/monde/cybercriminalite/soixante-cinq-pays-signent-la-convention-contre-la-cybercriminalite-et-se-dotent-du-premier-cadre-universel-denquete-et-de-poursuite-des-infractions-en-ligne",
+    "source": "humanite.fr",
+    "pub_date": "2025-10-27",
+    "summary": "- Près d’un an après avoir été adoptée par l’Assemblée générale de l’ONU, la convention contre la cybercriminalité vient d’être signée par 65 pays ce samedi 25 octobre à Hanoï.\n- Un cadre concret et nécessaire pour la coopération judiciaire internationale alors que les infractions en ligne ne cessent d’augmenter.\n- « Un instrument puissant qui renforce nos défenses collectives contre la cybercriminalité » : c’est en ces termes que le secrétaire général des Nations unies, Antonio Guterres, a qualifié la convention contre la cybercriminalité, signée ce samedi à Hanoï par 65 pays (dont la France et l’Union européenne).\n- Saluée comme « une étape historique vers un monde numérique plus sûr », elle avait été adoptée par l’Assemblée générale de l’ONU fin 2024, après cinq ans de négociations.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "ec12233a5d",
+    "title": "Atos signe un contrat européen record en <b>cybersécurité</b> et relance sa dynamique - ZATAZ",
+    "link": "https://www.zataz.com/atos-signe-un-contrat-europeen-record-en-cybersecurite-et-relance-sa-dynamique/",
+    "source": "zataz.com",
+    "pub_date": "2025-10-27",
+    "summary": "- Atos signe un contrat européen record en cybersécurité et relance sa dynamique Le groupe français a remporté un marché stratégique d’une valeur maximale de 326 millions d’euros auprès de la Commission européenne pour assurer des services d’exploitation technique en cybersécurité.\n- Une victoire qui illustre son recentrage sur ses métiers clés et sa volonté de redevenir un acteur majeur du numérique en Europe.\n- L’Union européenne confie sa sécurité numérique à Atos Le 24 septembre, Atos a officialisé une annonce de taille : l’entreprise a été sélectionnée par la Commission européenne dans le cadre de l’un des plus importants appels d’offres récents en matière de cybersécurité.\n- Atos s’est imposé sur le Lot 1 du programme CLOUD II (DPS 2), Mini-Concours 17 (MC17), qui porte sur les services d’exploitation technique.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "d7099f25b7",
+    "title": "<b>Cybercriminalité</b> : Le Maroc entre puissance montante et vulnérabilité numérique",
+    "link": "https://www.lopinion.ma/Cybercriminalite-Le-Maroc-entre-puissance-montante-et-vulnerabilite-numerique_a73284.html",
+    "source": "lopinion.ma",
+    "pub_date": "2025-10-27",
+    "summary": "- Le Maroc s’impose aujourd’hui comme l’un des foyers les plus actifs du cybercrime dans la région, selon deux rapports distincts publiés par Unit 42 de Palo Alto Networks et Kaspersky.\n- Tandis que la première étude met au jour une campagne de fraude internationale orchestrée depuis le Royaume, la seconde révèle la forte exposition des petites et moyennes entreprises marocaines aux attaques de malwares et de programmes indésirables.\n- Ces constats croisent une réalité préoccupante : la montée en puissance d’un écosystème numérique à double face, où l’ingéniosité technologique côtoie des failles criantes de cybersécurité.\n- L’enquête de Palo Alto Networks, consacrée à la campagne «Jingle Thief», décrit un réseau de cybercriminels marocains particulièrement organisé, actif depuis 2021 et spécialisé dans la fraude aux cartes-cadeaux.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "b571ebc227",
+    "title": "Valence. Esisar : les robots, un nouveau défi de la <b>cybersécurité</b> - Le Dauphiné Libéré",
+    "link": "https://www.ledauphine.com/education/2025/10/27/esisar-les-robots-un-nouveau-defi-de-la-cybersecurite",
+    "source": "ledauphine.com",
+    "pub_date": "2025-10-27",
+    "summary": "- Valence Esisar : les robots, un nouveau défi de la cybersécurité Comme chaque année, l’Esisar accueillera, le vendredi 14 novembre, la finale européenne du Cyber Security... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.\n- Se connecter ou créer un compteLe Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.\n- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Dauphiné Libéré, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.\n- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant LDLABOWEB@ledauphine.com ou consulter les liens suivants : Protection des données, CGU du site et Contact.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "08fabe13d4",
+    "title": "Les bornes de recharge, nouveau terrain de jeu des cybercriminels - Global Security Mag",
+    "link": "https://www.globalsecuritymag.fr/les-bornes-de-recharge-nouveau-terrain-de-jeu-des-cybercriminels.html",
+    "source": "globalsecuritymag.fr",
+    "pub_date": "2025-10-27",
+    "summary": "- Les bornes de recharge, nouveau terrain de jeu des cybercriminels octobre 2025 par Miio Miio, spécialiste européen de la recharge des véhicules électriques, alerte sur les risques de cyberattaques liés aux bornes de recharge et partage des conseils simples pour s’en protéger.\n- À l’occasion du mois de Sensibilisation à la Cybersécurité, miio, spécialiste européen de la recharge des véhicules électriques, alerte contre un risque encore largement sous-estimé : les bornes de recharge deviennent une cible privilégiée des cybercriminels.\n- Avec près de six millions de véhicules 100% électriques en circulation dans l’Union européenne selon Eurostat, les infrastructures de recharge s’intègrent désormais pleinement à l’écosystème numérique.\n- Reliées à des applications, à des services de paiement et à des réseaux connectés, elles peuvent devenir des points d’entrée pour des attaques ciblées.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "c9960d8b2f",
+    "title": "KDDI France lance Bastion as a Service avec WALLIX - Solutions-Numeriques",
+    "link": "https://www.solutions-numeriques.com/kddi-france-lance-bastion-as-a-service-avec-wallix/",
+    "source": "solutions-numeriques.com",
+    "pub_date": "2025-10-27",
+    "summary": "- Thales, Leonardo et Airbus scellent leur alliance pour défendre la souveraineté spatiale européenne Airbus, Leonardo et Thales unissent leurs forces pour créer un géant du spatial européen.\n- Leur protocole d’accord marque une étape décisive vers la naissance d’un champion capable de rivaliser avec SpaceX et les groupes chinois.\n- Les trois principaux acteurs européens du spatial, Airbus, Thales et….",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "fd1398981c",
+    "title": "<b>Cybersécurité</b> proactive : le nouveau levier de performance des DSI et RSSI - WMC",
+    "link": "https://www.webmanagercenter.com/2025/10/27/554559/cybersecurite-proactive-le-nouveau-levier-de-performance-des-dsi-et-rssi/",
+    "source": "webmanagercenter.com",
+    "pub_date": "2025-10-27",
+    "summary": "- Alors que s’ouvre à Tunis la 11ème édition du Forum International des DSI, les dirigeants IT africains se réunissent autour d’un enjeu central : conjuguer innovation et sécurité numérique dans un monde où les menaces évoluent plus vite que les technologies.\n- Sur un continent en pleine transformation numérique, la cybersécurité se réfléchit sous sa forme proactive, et s’impose comme un moteur de performance et de compétitivité.\n- Un nouveau rôle stratégique pour les DSI Longtemps perçue comme une fonction défensive, la cybersécurité a changé de dimension.\n- Les DSI et RSSI ne se contentent plus de protéger leurs systèmes : ils doivent anticiper, détecter et neutraliser les menaces avant qu’elles ne perturbent la continuité des activités de leur organisation.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "f02ca40eba",
+    "title": "Une conférence gratuite sur la <b>cybersécurité</b> à l'Espace Triangle de Bayeux - Ouest-France",
+    "link": "https://www.ouest-france.fr/normandie/bayeux-14400/une-conference-gratuite-sur-la-cybersecurite-a-lespace-triangle-de-bayeux-dcb7edd6-b315-11f0-a47e-021647b6acef",
+    "source": "ouest-france.fr",
+    "pub_date": "2025-10-27",
+    "summary": "- Jeudi 30 octobre 2025, il organise une soirée autour de la cybersécurité , sous forme d'un afterwork.\n- Mieux se protéger.\n- Alexis Cadel est le fondateur.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "7b2f9f3786",
+    "title": "<b>Cybersécurité</b> : comment savoir si votre Gmail fait partie des plus de 183 millions de comptes piratés",
+    "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cybersecurite-comment-savoir-si-votre-gmail-fait-partie-des-plus-de-183-millions-de-comptes-pirates_7578514.html",
+    "source": "franceinfo.fr",
+    "pub_date": "2025-10-27",
+    "summary": "- Cybersécurité : comment savoir si votre Gmail fait partie des plus de 183 millions de comptes piratés Des adresses mail et des mots de passe s'étaient retrouvés sur une plateforme en ligne, librement accessible, après un vol massif de données personnelles, au printemps dernier.\n- La fuite avait été identifiée dès le mois de mai, mais sans que les comptes Gmail ne soient évoqués jusqu'ici.\n- Des logins dans la nature.\n- Plus de 183 millions d'adresses mail et de mots de passe ont été volés et rendus publics sur une plateforme en ligne anonyme, au printemps dernier.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "619fb3b6e1",
+    "title": "L'Europe signe la Convention ONU contre la <b>cybercriminalité</b> : voici ce que dit ce texte historique",
+    "link": "https://www.clubic.com/actualite-584767-l-europe-signe-la-convention-onu-contre-la-cybercriminalite-voici-ce-que-dit-ce-texte-historique.html",
+    "source": "clubic.com",
+    "pub_date": "2025-10-27",
+    "summary": "- L'Union européenne vient de signer à Hanoï la Convention des Nations unies contre la cybercriminalité.\n- Ce traité mondial a pour objectif de changer la donne face aux pirates et aux réseaux criminels.\n- C'est donc à Hanoï, au Vietnam, que l'Union européenne a annoncé ce lundi 27 octobre avoir posé sa signature sur la Convention des Nations unies, qui pourrait bien redistribuer les cartes de la lutte mondiale contre la cybercriminalité.\n- Négocié pendant cinq ans, ce traité permettra la coopération avec 115 pays jusqu'ici non couverts par la Convention de Budapest.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "3e4464c1d6",
+    "title": "Quand la DGSE organise un étrange « tournoi » de cyberguerre - Le Point",
+    "link": "https://www.lepoint.fr/monde/quand-la-dgse-organise-un-etrange-tournoi-de-cyberguerre-27-10-2025-2601871_24.php",
+    "source": "lepoint.fr",
+    "pub_date": "2025-10-27",
+    "summary": "- Temps de lecture : 3 min Ajouter à mes favoris L'article a été ajouté à vos favoris - Google News - - Exclusivité abonnésPour offrir jusqu'à 5 articles par mois vous devez être abonné(e)Je m'abonneExclusivité abonnés connectésPour offrir jusqu'à 5 articles par mois vous devez être abonné(e)Je m'abonneil vous reste ?.\n- article(s) à offrir ce mois-ciVotre abonnement vous permet d'offrir jusqu'à 5 articles reservés aux abonnés chaque moisCe lien de partage généré est unique et ne pourra être utilisé que par une seule personne.\n- Si vous souhaitez partager cet article avec plusieurs personnes, vous devrez créer un lien pour chacune d'elles.\n- voir Lien copié !.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "7af308cf6b",
+    "title": "Plus de 60 États signent l'accord des Nations Unies contre la <b>cybercriminalité</b> | ICTjournal",
+    "link": "https://www.ictjournal.ch/news/2025-10-27/plus-de-60-etats-signent-laccord-des-nations-unies-contre-la-cybercriminalite",
+    "source": "ictjournal.ch",
+    "pub_date": "2025-10-27",
+    "summary": "- Plus de 60 États signent l'accord des Nations Unies contre la cybercriminalité Environ un tiers des États membres de l’ONU ont signé le premier accord mondial contre la cybercriminalité.\n- Ce traité, censé renforcer la coopération internationale, suscite toutefois des inquiétudes quant à ses possibles atteintes aux droits humains au-delà des frontières.\n- Environ neuf mois après son adoption en janvier 2025, 72 États membres des Nations unies ont signé la Convention sur la cybercriminalité, selon un communiqué.\n- La signature, qui a eu lieu lors d'une cérémonie à Hanoï, devrait désormais, après cinq ans de préparation, renforcer les mesures internationales contre la cybercriminalité et promouvoir la coopération transfrontalière.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "6050eadfb4",
+    "title": "Cybermois 2025 : sensibiliser les élèves à la <b>cybersécurité</b> - VousNousIls Primaire",
+    "link": "https://www.vousnousils.fr/2025/10/27/cybermois-2025-sensibiliser-les-eleves-a-la-cybersecurite-697417",
+    "source": "vousnousils.fr",
+    "pub_date": "2025-10-27",
+    "summary": "- À l’occasion du Cybermois, le ministère de l’Éducation nationale a lancé, aux côtés de Cybermalveillance.gouv.fr, plusieurs actions de sensibilisation aux cybermenaces.\n- Cette initiative a pour but d’accompagner les élèves, les enseignants et les familles face aux risques numériques.\n- Le ministère de l’Éducation nationale a défini la cybersécurité comme étant « les techniques et solutions permettant d’assurer la sécurité des systèmes d’information et des données qui y circulent ».\n- Des ressources pédagogiques dédiées Ce mois de la cybersécurité 2025 a été marqué par plusieurs temps forts.",
+    "added_on": "2025-10-27"
+  },
+  {
+    "id": "cd84ac81c5",
+    "title": "Yasmine Douadi, spécialiste en <b>cybersécurité</b> : « Affaiblir le chiffrement des données ... - Le Monde",
+    "link": "https://www.lemonde.fr/idees/article/2025/10/27/yasmine-douadi-specialiste-en-cybersecurite-affaiblir-le-chiffrement-des-donnees-affaiblit-la-securite-de-tous_6649836_3232.html",
+    "source": "lemonde.fr",
+    "pub_date": "2025-10-27",
+    "summary": "- Le 14 octobre, les Etats membres de l’Union européenne (UE) devaient se prononcer lors du Conseil de l’UE sur le projet de règlement dit « Chat Control », de son vrai nom Child Sexual Abuse Regulation (CSAR).\n- Conçu pour lutter contre la pédocriminalité en ligne, il prévoyait de forcer les plateformes comme Google Drive, WhatsApp, Signal, Telegram ou Outlook à scanner les messages privés et documents des citoyens européens en amont de leur chiffrement.\n- Faute de majorité, le vote a été repoussé.\n- Ce report est une bonne nouvelle : et nous devons nous réjouir, en tant que défenseurs de la sécurité numérique, d’avoir évité le pire.",
+    "added_on": "2025-10-27"
+  },
+  {
     "id": "f69bec656a",
     "title": "La cérémonie de signature de la Convention de Hanoi a été un grand succès, affirmant le ...",
     "link": "https://www.vietnam.vn/fr/le-mo-ky-cong-uoc-ha-noi-thanh-cong-tot-dep-khang-dinh-uy-tin-cua-viet-nam",
