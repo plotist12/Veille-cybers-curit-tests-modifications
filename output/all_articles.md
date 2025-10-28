@@ -1,5 +1,158 @@
-# Résumés – 2025-10-27
+# Résumés – 2025-10-28
 
+
+## [Rapport Acronis sur les <b>cybermenaces</b> – Octobre 2025](https://www.acronis.com/fr/tru/posts/acronis-cyberthreats-update-october-2025/)  
+*Source : acronis.com | Publication : 2025-10-28*
+
+- Auteur : Alexander Ivanyuk — Senior Director, Technology Ce rapport propose un état des lieux des activités et tendances liées aux cybermenaces, récemment observées par l'Acronis Threat Research Unit (TRU) et les capteurs de cybersécurité Acronis.
+- Les chiffres présentés ici ont été collectés en septembre 2025 et reflètent les menaces qu'Acronis a détectées, ainsi que les actualités du domaine public.
+- Ce rapport offre une vue globale et se fonde sur les données recueillies auprès de plus d'un million de terminaux disséminés dans le monde entier.
+- Incident du mois Un nouvel outil de preuve de concept, baptisé EDR-Freeze, montre comment des cyberpirates peuvent détourner le service Windows Error Reporting (WER) pour suspendre discrètement les outils de sécurité, sans exploiter de pilote vulnérable.
+
+## [SecNumCloud : quand l'État demande l'impossible aux PME du cloud - ITforBusiness.fr](https://www.itforbusiness.fr/secnumcloud-quand-letat-demande-limpossible-aux-pme-du-cloud-96164)  
+*Source : itforbusiness.fr | Publication : 2025-10-28*
+
+- Cloud SecNumCloud : quand l’État demande l’impossible aux PME du cloud Par Laurent Delattre, publié le 28 octobre 2025 En théorie, le label SecNumCloud incarne l’élite de la cybersécurité française.
+- Dans la pratique, il agit surtout comme un frein à l’innovation, inadapté pour 95 % des éditeurs tricolores.
+- Résultat : les géants américains continuent de régner, pendant que les PME du cloud souverain se battent pour exister.
+- Par Bertrand Servary, fondateur de NetExplorer Cela pourrait prêter à sourire si ce n’était pas si grave.
+
+## [&quot;En Occitanie, les attaques numériques se professionnalisent et visent tout le monde&quot; - ladepeche.fr](https://www.ladepeche.fr/2025/10/28/en-occitanie-les-attaques-numeriques-se-professionnalisent-et-visent-tout-le-monde-13019205.php)  
+*Source : ladepeche.fr | Publication : 2025-10-28*
+
+- "En Occitanie, les attaques numériques se professionnalisent et visent tout le monde" l'essentiel La cybersécurité en Occitanie est en alerte face à la montée des rançongiciels, augmentant de 30 % chaque année.
+- Les entreprises et collectivités locales sont ciblées par des cybermercenaires.
+- Comment se préparer à cette menace croissante ?.
+- Délégué régional de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), Rémy Daudigny coordonne les actions de cybersécurité pour la région Occitanie.
+
+## [Le <b>ransomware</b> ? Ça payait mieux avant - LeMagIT](https://www.lemagit.fr/actualites/366633431/Le-ransomware-Ca-payait-mieux-avant)  
+*Source : lemagit.fr | Publication : 2025-10-28*
+
+- James Thew - stock.adobe.com Le ransomware ?.
+- Ça payait mieux avant Le taux de paiement des rançons s’effondre, de même que leurs montants moyen et médiant.
+- L’asymétrie entre coûts provoqués par les cyberattaques et ce qu’elles rapportent aux cybercriminels est plus grande que jamais.
+- Alors que l'année 2025 touche à sa fin, le paysage de la cyber-extorsion continuer d’évoluer, même si c’est plus subtil qu’entre la mi-2024 et la mi-2025.
+
+## [<b>Cybersécurité</b> : l'Europe doit-elle exclure Huawei de ses infrastructures solaires ? - Futura](https://www.futura-sciences.com/tech/actualites/huawei-cybersecurite-europe-doit-elle-exclure-huawei-infrastructures-solaires-126841/)  
+*Source : futura-sciences.com | Publication : 2025-10-28*
+
+- Après le gaz russe, l'Europe risque-t-elle d'être de nouveau trop dépendante d'une puissance étrangère pour ses besoins énergétiques ?.
+- Selon le média Politico, la réponse est oui.
+- Mais il ne s'agit pas de gaz, ni de carburant.
+- Le problème se trouve directement au niveau de la production d'électricité, et plus spécifiquement le solaire.
+
+## [Cheops Technology lance son Tour de France de l'IA et de la souveraineté numérique](https://www.lyon-entreprises.com/actualites/article/cheops-technology-lance-son-tour-de-france-de-lia-et-de-la-souverainete-numerique)  
+*Source : lyon-entreprises.com | Publication : 2025-10-28*
+
+- Cheops Technology lance son Tour de France de l’IA et de la souveraineté numérique Cheops Technology annonce le lancement d’un Tour de France dédié à l’intelligence artificielle, à la cybersécurité et au cloud souverain.
+- Dix étapes, dont une à Lyon le 27 novembre, rythmeront cette tournée qui vise à mobiliser les PME, ETI et collectivités autour des enjeux de compétitivité et d’indépendance technologique.
+- Un rendez-vous pour accélérer la transformation numérique Pour les entreprises françaises, l’intelligence artificielle n’est plus un sujet d’avenir mais un enjeu immédiat.
+- Selon Bpifrance Le Lab, 58 % des dirigeants de PME et d’ETI considèrent l’IA comme une question de survie à moyen terme, mais seuls un tiers ont amorcé une stratégie concrète.
+
+## [Cyberattaques ciblées : Peut-on encore faire confiance aux contenus en ligne](https://www.globalsecuritymag.fr/cyberattaques-ciblees-peut-on-encore-faire-confiance-aux-contenus-en-ligne.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-28*
+
+- Cyberattaques ciblées : Peut-on encore faire confiance aux contenus en ligne ?.
+- octobre 2025 par Gen Gen, regroupant plusieurs marques de confiance telles que Norton, Avast, LifeLock, MoneyLion et d’autres, publie son rapport sur les menaces pour le troisième trimestre 2025.
+- Ce dernier présente les tendances observées entre juillet et septembre et révèle un paysage des menaces en ligne de plus en plus personnalisé, à mesure que les escrocs utilisent l’IA pour automatiser la création d’arnaques persuasives et récolter des identifiants de grande valeur sur le web.
+- Voici les principaux enseignements tirés du rapport : • Depuis janvier 2025, Gen a bloqué plus de 140 000 sites frauduleux dans le monde, générés par l’IA, soit environ 580 nouveaux sites malveillants par jour en moyenne.
+
+## [<b>Ransomware</b> : la baisse des paiements modifie les risques cyber - Armees.com](https://armees.com/ransomware-la-baisse-des-paiements-modifie-les-risques-cyber/)  
+*Source : armees.com | Publication : 2025-10-28*
+
+- Fin octobre 2025, Coveware a publié une étude qui fait date : seulement 23 % des victimes de ransomware ont versé une rançon au troisième trimestre.
+- Ce recul spectaculaire — la plus forte baisse jamais enregistrée — redéfinit l’équilibre des puissances dans le cyberespace.
+- Le ransomware, symbole de la cybercriminalité depuis une décennie devient un indicateur de maturité stratégique.
+- Ransomware : Un affaiblissement du modèle d’extorsion numérique D’après Coveware, le taux de paiement des rançons est tombé à 23 % au T3 2025, contre plus de 40 % un an auparavant.
+
+## [<b>Ransomware</b> dans le secteur de la santé : Chantage au plus haut, demandes de rançon en ...](https://www.organisator.ch/fr/operational-excellence/2025-10-28/ransomware-im-gesundheitswesen-erpressungen-auf-hoechststand-loesegeldforderungen-gesunken-stress-bei-den-teams/)  
+*Source : organisator.ch | Publication : 2025-10-28*
+
+- Ransomware dans le secteur de la santé : Chantage au plus haut, demandes de rançon en baisse, stress des équipes Dans sa dernière étude annuelle intitulée „State of Ransomware Healthcare 2025“, l'éditeur de solutions de cybersécurité Sophos a analysé l'expérience des ransomwares à l'échelle mondiale auprès de 292 prestataires de santé.
+- Le rapport met en lumière les causes, les conséquences et l'évolution de ces attaques.
+- Le secteur de la santé est régulièrement la cible de cyberattaques - notamment parce que la grande sensibilité des données ou le bon fonctionnement 24 heures sur 24 et 7 jours sur 7 constituent pour les cybercriminels la base de rançons et de sommes d'extorsion élevées.
+- Une raison suffisante pour que le prestataire de services de sécurité informatique Sophos établisse son rapport annuel „State of Ransomware Healthcare 2025“.
+
+## [Plongez dans le monde du conseil en <b>cybersécurité</b> et en IA - Planète Grandes Écoles](https://www.planetegrandesecoles.com/wavegame-inscriptions-calendrier)  
+*Source : planetegrandesecoles.com | Publication : 2025-10-28*
+
+- Yellow Wavers.
+- Destiné aux étudiants attirés par la transformation numérique et la cybersécurité , ce parcours propose comme mission de concevoir une.
+
+## [Les dangers de l'automatisation et du pilotage algorithmique à outrance - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/les-dangers-de-lautomatisation-et-du-pilotage-algorithmique-dans-les-systemes-hypersensibles/)  
+*Source : itsocial.fr | Publication : 2025-10-28*
+
+- La panne survenue dans la région us-east-1 d’AWS révèle les risques d’une automatisation sans garde-fous.
+- Une interaction imprévue entre deux agents internes a abouti à la suppression de l’adresse d’un point de terminaison critique, paralysant plus d’une centaine de services.
+- Le rapport post-mortem publié par AWS met en lumière les limites d’un pilotage purement algorithmique, et oblige les entreprises à repenser la résilience de leurs infrastructures cloud.
+- Le 20 octobre 2025, Amazon Web Services a connu une panne majeure dans sa région us-east-1, affectant de nombreux services clients et internes.
+
+## [<b>Cybersécurité</b>. Plus de 200 entreprises touchées par des piratages informatiques : la Suisse ...](https://www.ledauphine.com/economie/2025/10/28/plus-de-200-entreprises-touchees-par-des-cyberpirates-la-suisse-contre-attaque)  
+*Source : ledauphine.com | Publication : 2025-10-28*
+
+- Cybersécurité Plus de 200 entreprises touchées par des piratages informatiques : la Suisse contre-attaque “Une rançon contre la clé de déchiffrement”.
+- Bien qu’effrayant, ce message chantage, au moins 200 entreprises suisses l’ont reçu entre mai 2023 et septembre 2025, d’après les autorités fédérales.
+- Ce rançongiciel est le mode opératoire d’Akira.
+- Loin d’être un modèle de clarté.
+
+## [Rooter une caméra de sécurité avec un MP3 | <b>Cybersécurité</b> | Le site de Korben](https://korben.info/camera-hack-sonic-pairing-root-shell.html)  
+*Source : korben.info | Publication : 2025-10-28*
+
+- Rooter une caméra de sécurité avec un MP3 En bref Cette caméra chinoise se fait rooter en lui jouant un simple fichier MP3 malveillant - Un hacker transforme une fonctionnalité "pratique" de configuration WiFi par son en porte dérobée pour shell root - Les caméras Yi écoutent vos MP3 : deux failles critiques permettent d'injecter du code arbitraire sans accès physique - L’histoire du jour est signée Luke M, un hacker qui a découvert comment rooter une caméra avec… du son !.
+- L’appareil en question est une caméra chinoise de la marque Yi qui utilise une fonctionnalité appelée “Sonic Pairing” pour faciliter la configuration WiFi.
+- Comme ça, au lieu de galérer à taper votre mot de passe WiFi sur une interface minuscule avec vos gros doigts boudinés, vous jouez simplement un petit son depuis votre téléphone et c’est ce son qui contient votre clé WiFi encodés en modulation de fréquence.
+- La caméra écoute, décode, et se connecte.
+
+## [65 pays ont signé à Hanoï le premier traité complet des Nations Unies sur la ... - Developpez.com](https://droit.developpez.com/actu/377172/65-pays-ont-signe-a-Hanoi-le-premier-traite-complet-des-Nations-Unies-sur-la-cybercriminalite-qui-impose-le-partage-transfrontalier-des-preuves-et-l-extradition-afin-de-lutter-contre-les-menaces/)  
+*Source : droit.developpez.com | Publication : 2025-10-28*
+
+- Dans le cadre d'une initiative importante en faveur de la sécurité numérique mondiale, soixante-cinq pays ont signé le premier traité complet des Nations unies contre la cybercriminalité, marquant ainsi une étape décisive dans la coopération internationale.
+- La cérémonie de signature, qui s'est tenue à Hanoï, au Vietnam, ce week-end, a réuni des pays de différentes régions afin de lutter contre les menaces en ligne qui coûtent chaque année des milliards à l'économie mondiale.
+- Menée par l'ONU après des années de négociations, la convention vise à normaliser les réponses aux cybercrimes, notamment les ransomwares, la fraude financière et le partage non consensuel d'images intimes.
+- Essentiellement, le traité oblige les pays participants à partager les preuves électroniques au-delà des frontières et à faciliter l'extradition des suspects impliqués dans des cybercrimes.
+
+## [Signature de la Convention des Nations unies contre la <b>cybercriminalité</b> - France ONU](https://onu.delegfrance.org/signature-de-la-convention-des-nations-unies-contre-la-cybercriminalite)  
+*Source : onu.delegfrance.org | Publication : 2025-10-28*
+
+- Signature de la Convention des Nations unies contre la cybercriminalité La France salue l’organisation par le Vietnam de la cérémonie d’ouverture de la signature de la Convention des Nations unies contre la cybercriminalité, le 25 octobre 2025 à Hanoï.
+- Cette nouvelle convention dote notre pays, l’Union européenne et l’ensemble des États signataires d’un cadre opérationnel pour faire face à des infractions qui ignorent les frontières et nécessitent des réponses coordonnées.
+- Elle vient en complément de la Convention de Budapest du Conseil de l’Europe, renforçant le dispositif international en matière de coopération contre la cybercriminalité.
+- La Convention permet aux autorités nationales de mieux coopérer, d’échanger des informations, de mener des enquêtes conjointes, mais aussi de faciliter l’arrestation, l’extradition et la poursuite judiciaire de cybercriminels où qu’ils se trouvent.
+
+## [ADGM Academy et Cyber Falcon lancent le Cyber Arena pour façonner l'avenir de la ...](https://www.wam.ae/fr/article/15ud0qj-adgm-academy-cyber-falcon-lancent-cyber-arena-pour)  
+*Source : wam.ae | Publication : 2025-10-28*
+
+- ABOU DHABI, 28 octobre 2025 (WAM) – L'Académie d'Abou Dhabi Global Market (ADGM Academy) et Cyber Falcon Cyber Security Services (CF) ont annoncé.
+
+## [Naviguer dans une <b>cybersécurité</b> à l'ère de l'IA à double facette : deepfakes en surface, zero ...](https://www.journaldunet.com/cybersecurite/1545533-naviguer-dans-une-cybersecurite-a-l-ere-de-l-ia-a-double-facette-deepfakes-en-surface-zero-days-en-profondeur/)  
+*Source : journaldunet.com | Publication : 2025-10-28*
+
+- Naviguer dans une cybersécurité à l'ère de l'IA à double facette : deepfakes en surface, zero-days en profondeur… L'IA agentique transforme le paysage des cybermenaces : des campagnes de phishing et deepfakes aux attaques zéro-day en continu et ransomwares automatisés.
+- L’image qui illustre le mieux la cyber à l’ère de l’IA, serait en effet celle d’un iceberg qui intègre à la fois des menaces visibles et des menaces beaucoup plus profondes et insidieuses.
+- Il est clair que la plupart des organisations ne pourront pas suivre le rythme, mais cette même puissance de l’IA peut aussi alimenter des défenses autonomes capables d’inverser enfin le rapport de force en faveur des défenseurs.
+- Nous évoluons dans le monde numérique sans vraiment penser à ce qui lui permet de fonctionner.
+
+## [IA : quels risques pour ses utilisateurs ? - Actualité en Vendée](https://tvvendee.fr/actu/ia-quels-risques-pour-ses-utilisateurs/)  
+*Source : tvvendee.fr | Publication : 2025-10-28*
+
+- Octobre est le mois européen consacré à la sensibilisation aux enjeux de la cybersécurité.
+- L'intelligence artificielle devient un outil privilégié utilisé presque au quotidien.
+- Mais où peuvent finir nos données ?.
+- Comment l'utiliser sans compromettre notre sécurité ?.
+
+## [Street View : F5 dans un scénario de prévisions de ventes &quot;sans issue&quot; après la violation de ...](https://www.boursorama.com/bourse/actualites-amp/street-view-f5-dans-un-scenario-de-previsions-de-ventes-sans-issue-apres-la-violation-de-la-cybersecurite-29df0132b07bbfc785b69105fe3f7bab)  
+*Source : boursorama.com | Publication : 2025-10-28*
+
+- Street View : F5 dans un scénario de prévisions de ventes "sans issue" après la violation de la cybersécurité information fournie par Reuters 28/10/2025 à 16:31 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) 28 octobre - ** F5 FFIV.O en baisse de 8,6% à 265,22$ après avoir prévu des revenus pour le premier trimestre inférieurs aux estimations en raison des perturbations des ventes dues à la récente atteinte à la cybersécurité ** F5 s'attend à un chiffre d'affaires de 730 à 780 millions de dollars au premier trimestre, contre 791 millions de dollars estimés par les analystes, selon les données du LSEG; et prévoit une croissance du chiffre d'affaires de 0 % à 4 % pour l'année fiscale, contre une augmentation de 4,8 % estimée par le marché.
+- ** Piper Sandler ("neutre", PT: 277 $) déclare que la violation de la sécurité signifiait que F5 se trouvait dans un scénario "sans issue" à l'approche du premier trimestre, car des prévisions agressives pourraient être interprétées comme un affaiblissement de la violation par rapport à des prévisions prudentes ** JP Morgan ("neutre", PT: 295 $) déclare que les résultats ont été solides mais que l'incident de sécurité conduit à des perspectives conservatrices et pourrait remettre en question le multiple d'évaluation ** Needham ("hold", PT: 290,41 $) souligne la solidité des fondamentaux et des revenus récurrents, estime que le cycle de rafraîchissement actuel de F5 est susceptible d'être retardé au-delà de ses attentes, ce qui nuit à sa capacité à dépasser les attentes à court terme.
+
+## [Publication de la mise à jour du référentiel PRIS en version 3.2 | ANSSI](https://cyber.gouv.fr/actualites/publication-de-la-mise-jour-du-referentiel-pris-en-version-32)  
+*Source : cyber.gouv.fr | Publication : 2025-10-28*
+
+- Le JavaScript n'est pas activé sur votre navigateur.
+- Le JavaScript n'est pas activé sur votre navigateur.
+- Pour vous permettre de naviguer correctement sur notre site, il est nécessaire qu'il soit activé.
+- Comment activer le JavaScript ?.
 
 ## [Comprendre les outils XDR : le guide pour renforcer votre <b>cybersécurité</b> en 2025](https://www.lemondeinformatique.fr/livre-blanc/comprendre-les-outils-xdr-le-guide-pour-renforcer-votre-cybersecurite-en-2025-9369-tag-41.html)  
 *Source : lemondeinformatique.fr | Publication : 2025-10-27*
