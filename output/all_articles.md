@@ -1,5 +1,155 @@
-# Résumés – 2025-10-29
+# Résumés – 2025-10-30
 
+
+## [Rapid7 : la <b>cybersécurité</b> est bloquée dans les années 1980 alors que les menaces se multiplient](https://www.lemagit.fr/actualites/366633591/Rapid7-la-cybersecurite-est-bloquee-dans-les-annees-1980-alors-que-les-menaces-se-multiplient)  
+*Source : lemagit.fr | Publication : 2025-10-30*
+
+- Leigh Prather - stock.adobe.com Rapid7 : la cybersécurité est bloquée dans les années 1980 alors que les menaces se multiplient Le chef de produit de l'éditeur estime que de nombreuses tactiques de défense sont encore figées dans le passé, exhortant les organisations à adopter des plateformes de sécurité pilotées par l'IA.
+- De nombreuses tactiques défensives sont restées bloquées dans les années 1980, estime Craig Adams, responsable en chef des produits chez Rapid7, malgré l'intensité des activités malveillantes.
+- Selon lui, un test d'intrusion annuel des actifs connus n'est plus suffisant.
+- En réponse, Rapid7 aide ses clients à évaluer, découvrir, surveiller et mobiliser en permanence les menaces dans l'ensemble de leur environnement.
+
+## [20 novembe de 8 heures 30 à 11 heures Paris - Cybercercle : &quot;Data, IA &amp; <b>Cybersécurité</b> ...](https://www.globalsecuritymag.fr/20-novembe-de-8-heures-30-a-11-heures-paris-cybercercle-data-ia-cybersecurite.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-10-30*
+
+- 20 novembe de 8 heures 30 à 11 heures Paris - Cybercercle : "Data, IA & Cybersécurité dans les Territoires" octobre 2025 par LA REDACTION DE GS MAG Jeudi 20 novembe 2025 de 8 heures 30 à 11 heures à Paris, A l’occasion de la parution de l’édition 2025 de la Note de Conjoncture "Data, IA & Cybersécurité dans les Territoires" co-portée par la Banque des Territoires & le Groupe La Poste, Bénédicte PILLIET, Présidente du CyberCercle, organise une Matinale pour un échange sur ce sujet.
+- Une Matinale placée sous la présidence de Ludovic HAYE, sénateur du Haut-Rhin avec Henri SAILLARD Directeur exécutif Pilote du programme Développement Territorial Groupe La Poste qui présentera les résultats de la Note de Conjoncture & Daniel COISSARD Directeur de l’Innovation numérique et des Systèmes d’information Département du Rhône qui fera un retour terrain sur la stratégie qu’il met en oeuvre pour le Département en matière de transformation numérique, de cybersécurité et d’IA Une occasion privilégiée, dans un format restreint et sous les règles de Chatham House, d’échanger autour de la transformation et de la sécurité numériques des collectivités à l’heure du PJL Résilience.
+
+## [<b>Cybersécurité</b> les entreprises face aux risques croissants - Savoie News](https://www.savoie-news.fr/reportages/entreprises/article/cybersecurite-les-entreprises-face-aux-risques-croissants)  
+*Source : savoie-news.fr | Publication : 2025-10-30*
+
+- Le 30/10/2025 à 20:03 Savoie Cybersécurité les entreprises face aux risques croissants Les TPE et PME sont de plus en plus touchées par les cyberattaques, avec un coût moyen estimé à 200 000 euros selon la CNIL.
+- Pour Laurent Marteau, directeur associé du Groupe MG, ces structures sont devenues des cibles privilégiées, souvent à cause d’un manque de sensibilisation et de protection.
+- Il rappelle l’importance de former les collaborateurs, de sécuriser les mots de passe, de mettre en place des sauvegardes fiables et d’utiliser la double authentification.
+- En cas d’attaque, il faut déconnecter les appareils, prévenir la CNIL, contacter son prestataire informatique et porter plainte.
+
+## [Cyber Day 2025 : la CCI IG sensibilise les entreprises à la <b>cybersécurité</b> - RCI](https://rci.fm/guadeloupe/infos/Economie/Cyber-Day-2025-la-CCI-IG-sensibilise-les-entreprises-la-cybersecurite)  
+*Source : rci.fm | Publication : 2025-10-30*
+
+- Cyber Day 2025 : la CCI IG sensibilise les entreprises à la cybersécurité Ce jeudi (30 octobre), la CCI des Îles de Guadeloupe organise le Cyber Day, une journée dédiée à la cybersécurité, à l’intelligence artificielle et à l’innovation.
+- Au programme : ateliers, conférences et démonstrations pour aider les entreprises à se protéger face aux cyberattaques et à renforcer leur compétitivité.
+- La Chambre de commerce et d’Industrie des Îles de Guadeloupe organise, ce jeudi (30 octobre), le CCI Cyber Day 2025, une journée pour aider les entreprises à anticiper les défis du numérique : cybersécurité, intelligence artificielle et innovation.
+- Un événement marqué par des ateliers, conférences et démonstrations au siège de la CCI IG, à Pointe-à-Pitre.
+
+## [La <b>cybercriminalité</b> est en hausse et peut faire des ravages chez les victimes | RTL Info](https://www.rtl.be/page-videos/belgique/societe/la-cybercriminalite-est-en-hausse-et-peut-faire-des-ravages-chez-les-victimes/2025-10-30/video/768800)  
+*Source : rtl.be | Publication : 2025-10-30*
+
+- Vous souhaitez nous envoyer une information?.
+- Utilisez le formulaire de contact pour nous envoyer vos scoops!.
+- L'info en direct dans l'appSoyez informé en temps réel grâce aux notificationset profitez de contenus exclusifs.
+
+## [Consultant <b>Cybersécurité</b> Applicative – Expert Sécurité CI/CD &amp; AppSec - Act Digital France](https://jobs-stages.letudiant.fr/entreprises/act-digital-france/offres/consultant-cybersecurite-applicative-expert-securite-ci-cd-appsec-velizy-villacoublay-france)  
+*Source : jobs-stages.letudiant.fr | Publication : 2025-10-30*
+
+- Act Digital France Consultant Cybersécurité Applicative – Expert Sécurité CI/CD & AppSec.
+- Vélizy-Villacoublay BAC +5 / Master > 3 ans Temps plein Télétravail partiel possible Fonction DevOps / Infra Contrat.
+- Politique de télétravail Télétravail partiel possible Expérience > 3 ans Formation BAC +5 / Master Temps de travail Temps plein Qui sommes-nous ?.
+- act digital est un groupe international de conseil et d'ingénierie qui accompagne ses clients dans leurs projets de transformation numérique.
+
+## [E-mail bombing : attention à cette arnaque de plus en plus répandue qui peut bloquer votre ...](https://www.cnews.fr/france/2025-10-30/e-mail-bombing-attention-cette-arnaque-de-plus-en-plus-repandue-qui-peut-bloquer)  
+*Source : cnews.fr | Publication : 2025-10-30*
+
+- Dans son dernier rapport sur la cybersécurité , Microsoft a classé l'e-mail bombing, une arnaque utilisée pour installer des virus sur les.
+
+## [Cyberfraude: voici les pays africains les mieux et les moins protégés, selon Sumsub](https://afrique.le360.ma/afrique-australe/cyberfraude-voici-les-pays-africains-les-mieux-et-les-moins-proteges-selon-sumsub_AOFYAXNNEJHC7G2Y6ALMJZN3DM/)  
+*Source : afrique.le360.ma | Publication : 2025-10-30*
+
+- A l’heure du tout numérique, la fraude en ligne touche tous les pays et les secteurs d’activité exposant aux dangers des vies et des pans entiers des économies.
+- Cette fraude inclut le hameçonnage, l’usurpation d’identité, les arnaques en ligne et la fraude bancaire.
+- Menée via diverses activités malveillantes par l’intermédiaire de plateformes numériques, la cyberfraude implique des transactions financières ou le vol d’informations personnelles avec des conséquences sur les personnes, les entreprises et les Etats.
+- Ces derniers sont donc obligés d’investir massivement pour mieux se protéger contre de tels phénomènes.
+
+## [La Commission européenne accuse TikTok et Meta de manquements au Digital Services Act](https://incyber.org/article/commission-europeenne-accuse-tiktok-meta-manquements-au-digital-services-act/)  
+*Source : incyber.org | Publication : 2025-10-30*
+
+- La Commission européenne accuse TikTok et Meta de manquements au Digital Services Act Articles du même auteur : 1 La Commission européenne a publié, le 24 octobre 2025, les conclusions de ses enquêtes sur des manquements au Digital Services Act (DSA) par Meta – via Facebook et Instagram – et TikTok.
+- Classés parmi les « très grandes plateformes », ces trois services doivent en effet respecter de nombreuses règles contraignantes.
+- Ils ont notamment l’obligation de garantir aux chercheurs agréés l’accès à leurs données internes « nécessaires pour contrôler et évaluer le respect du DSA ».
+- La Commission accuse Facebook, Instagram et TikTok d’avoir mis en place « des procédures et outils contraignants » empêchant les chercheurs de consulter l’intégralité de ces informations.
+
+## [Comité consultatif Suisse numérique: la <b>cybersécurité</b> aujourd'hui en Suisse - news.admin.ch](http://www.news.admin.ch/fr/newnsb/Qr80BReXyiVJOGeDkXkko)  
+*Source : news.admin.ch | Publication : 2025-10-30*
+
+- Comité consultatif Suisse numérique: la cybersécurité aujourd’hui en Suisse Berne, 30.10.2025 — La sécurité de l’information et la cybersécurité ont été au cœur de la rencontre du 30 octobre 2025, organisée par le comité consultatif Suisse numérique.
+- Des représentants et représentantes des cantons, de l’économie, des milieux scientifiques et de la société civile se sont réunis pour échanger, sous la direction du conseiller fédéral Martin Pfister et avec la participation du chancelier de la Confédération Viktor Rossi, sur l’état actuel des mesures nationales de cybersécurité.
+- Les discussions, qui se sont axées sur les thèmes de la sécurité de l’information et de la cybersécurité dans le contexte de la Cyberstratégie nationale (CSN), ont mis en lumière des champs d’action concrets et des exemples pratiques fructueux.
+
+## [<b>Cybersécurité</b> : lancement du Campus Cyber Grand Est, un &quot;hub&quot; qui s'appuiera... - AEF info](https://www.aefinfo.fr/depeche/740103-cybersecurite-lancement-du-campus-cyber-grand-est-un-hub-qui-s-appuiera-sur-six-poles-d-excellence-en-proximite)  
+*Source : aefinfo.fr | Publication : 2025-10-30*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : La région Grand Est a officiellement lancé le campus cyber régional "Hub Grand Est Cybersécurité", récemment labellisé par le Campus Cyber national, mercredi 22 octobre 2025 à Metz.
+- Le choix a été fait de construire "une réponse régionale forte et coordonnée", en s’appuyant sur six pôles d’excellence dont trois sont déjà labellisés.
+- Ce "lieu d’innovation" vient s’ajouter au Centre d’assistance aux victimes de cyberattaques opéré par l’agence "Grand Est Développement" depuis février 2023 dans le cadre du plan de cybersécurité régional.
+
+## [CrowdStrike et BT s'associent pour transformer la <b>cybersécurité</b> des PME britanniques](https://ch.zonebourse.com/actualite-bourse/crowdstrike-et-bt-s-associent-pour-transformer-la-cybersecurite-des-pme-britanniques-ce7d5dd3de8ef527)  
+*Source : ch.zonebourse.com | Publication : 2025-10-30*
+
+- CrowdStrike a annoncé un partenariat stratégique avec BT visant à lancer BT Business Antivirus Detect and Respond, un nouveau service de cybersécurité propulsé par CrowdStrike Falcon® Go.
+- Conçue pour les petites et moyennes entreprises (PME) au Royaume-Uni, cette solution associe la protection native à l&#039;IA de CrowdStrike à l&#039;expertise de BT, disponible 24h/24, afin de prévenir les violations de sécurité.Selon l&#039;enquête « State of SMB Cybersecurity » réalisée par CrowdStrike, bien que la majorité des PME soient de plus en plus conscientes des risques cybernétiques actuels, leurs ressources limitées les empêchent d&#039;adopter des technologies avancées : seulement 11 % utilisent actuellement des défenses alimentées par l&#039;IA.
+- Combinée à un manque d&#039;expertise interne en matière de sécurité, cette situation rend de nombreuses PME vulnérables aux menaces cybernétiques modernes.
+- Pour combler ce fossé, BT Business Antivirus Detect &amp; Respond, alimenté par CrowdStrike Falcon Go, propose une protection primée, fondée sur l&#039;IA, spécifiquement conçue pour les PME afin de stopper les ransomwares et les violations de données.Adapté aux besoins des petites entreprises, ce service peut être déployé rapidement et facilement, avec un accompagnement continu des experts en sécurité de BT pour l&#039;installation, la protection et la gestion des incidents.
+
+## [Incident de <b>cybersécurité</b> à la Ville de Mont-Laurier - CFLO](https://www.cflo.ca/incident-de-cybersecurite-a-la-ville-de-mont-laurier/)  
+*Source : cflo.ca | Publication : 2025-10-30*
+
+- La Ville de Mont-Laurier précise avoir été victime d’un incident de cybersécurité survenu dimanche dernier.
+- Dès la détection de l’événement, des experts spécialisés en informatique ont été rapidement mandatés afin de rétablir la situation dans les plus brefs délais.
+- Toutes les mesures nécessaires sont mises en œuvre pour assurer la remise en fonction sécuritaire des systèmes municipaux ainsi que des données hébergées sur les serveurs de la Ville.
+- Une enquête est en cours afin de déterminer l’origine et la portée de l’incident.
+
+## [Proton lance un observatoire pour lutter contre la <b>cybercriminalité</b> sur le dark web](https://www.20min.ch/fr/story/cybercriminalite-la-societe-suisse-proton-va-eclairer-le-dark-web-103443229)  
+*Source : 20min.ch | Publication : 2025-10-30*
+
+- CybercriminalitéLa société suisse Proton va éclairer le dark web L'entreprise genevoise a lancé un observatoire pour détecter les violations de données sur la face cachée du web, dans le but de protéger les entreprises.
+- La société suisse Proton, spécialisée dans la protection de la vie privée sur internet, a lancé jeudi un observatoire sur les violations de données détectées sur le dark web, dans l’objectif de mettre en lumière la cybercriminalité.
+- Cet observatoire est chargé de déceler et signaler les cyberattaques à partir d’informations issues du dark web, où les cybercriminels échangent et vendent les données volées, indique l’entreprise dans un communiqué.
+- Proton, connu pour son service de courrier électronique crypté, a constaté qu’en 2025, «plus de 300 millions données personnelles ont déjà été exposées, provenant de près de 800 incidents».
+
+## [Paris 2024 : le coût informatique de la sécurité - Silicon.fr](https://www.silicon.fr/business-1367/paris-2024-cout-informatique-securite-224158)  
+*Source : silicon.fr | Publication : 2025-10-30*
+
+- Le coût complet de la sécurité des jeux Olympiques et Paralympiques s’est élevé à environ 2 milliards d’euros.
+- La Cour des comptes donne cette estimation.
+- Elle distingue deux catégories de dépenses : « Ponctuelles » (dont l’utilité est strictement liée à l’événement), avoisinant 1,7 Md€ - « D’héritage » (qui ont bénéficié par après à l’ensemble des Français), pour un peu plus de 300 M€ - Dépenses de fonctionnement : 90 M€ pour l’IT et la cyber Les coûts ponctuels comprennent environ 679 M€ de dépenses de personnel.
+- Le reste correspond aux dépenses de fonctionnement, dont environ 90 M€ pour les systèmes d’information et de communication.
+
+## [<b>Cybersécurité</b> comportementale, les nouvelles limites de la télémétrie face à l'APT augmentée](https://itsocial.fr/cybersecurite/cybersecurite-articles/cybersecurite-comportementale-les-nouvelles-limites-de-la-telemetrie-face-a-lapt-augmentee/)  
+*Source : itsocial.fr | Publication : 2025-10-30*
+
+- Deux campagnes ciblées, analysées par les chercheurs de Kaspersky, montrent comment l’intelligence artificielle combinée à la manipulation psychologique redéfinit les contours des cyberattaques.
+- En s’appuyant sur les scénarios GhostCall et GhostHire, le groupe nord-coréen BlueNoroff (affilié à Lazarus) démontre la capacité de l’IA à rendre inopérantes les méthodes classiques de détection fondées sur la seule télémétrie.
+- La division GReAT (Global Research & Analysis Team) de Kaspersky a publié récemment une analyse approfondie sur Securelist concernant les récentes opérations du groupe APT BlueNoroff.
+- Ce document met en évidence une mutation structurelle dans les attaques sophistiquées.
+
+## [Avec ESET, jouez sans vous soucier des <b>cybermenaces</b> - Journal du Geek](https://www.journaldugeek.com/2025/10/30/avec-eset-jouez-sans-vous-soucier-des-cybermenaces/)  
+*Source : journaldugeek.com | Publication : 2025-10-30*
+
+- À l’heure actuelle, votre sécurité en ligne est primordiale.
+- Les cybercriminels ne reculent devant rien pour arriver à leurs fins et s’emparer de vos données personnelles.
+- Alors que l’industrie du jeu vidéo est en pleine expansion à un rythme effréné, il est crucial de sensibiliser tout le monde pour éviter de gros problèmes.
+- En 2025, ESET s’impose comme l’un des pionniers de la cybersécurité en Europe.
+
+## [Hexatrust ouvre la 5e édition de son accélérateur de start-ups en <b>cybersécurité</b>](https://www.lemondeinformatique.fr/actualites/lire-hexatrust-ouvre-la-5e-edition-de-son-accelerateur-de-start-ups-en-cybersecurite-98347.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-10-30*
+
+- Depuis 2021, l’association française des entreprises en cybersécurité HexaTrust propose un plan baptisé Accélérateur pour soutenir le développement de jeunes pousses de ce domaine.
+- Pour cette édition 2025, les inscriptions sont ouvertes jusqu’au 8 novembre prochain.
+- Les critères pour intégrer ce programme sont les suivants : disposer d’un capital européen supérieur à 51 %, réaliser un chiffre d’affaires annuel inférieur à 500 000 €, compter moins de 15 salariés et proposer une solution opérationnelle.
+- Les start-ups déjà membres d’Hexatrust peuvent également candidater.
+
+## [BT renforce la <b>cybersécurité</b> des PME avec une solution d'IA développée avec CrowdStrike](https://www.tradingsat.com/actualites/informations-societes/bt-renforce-la-cybersecurite-des-pme-avec-une-solution-d-ia-developpee-avec-crowdstrike-1149538.html)  
+*Source : tradingsat.com | Publication : 2025-10-30*
+
+- (Zonebourse.com) - BT annonce le lancement au Royaume-Uni de BT Business Antivirus Detect and Respond, un service de cybersécurité pour petites et moyennes entreprises (PME) reposant sur la technologie d'intelligence artificielle (IA) de CrowdStrike.
+- Ce dispositif, basé sur la plateforme Falcon Go, vise à prévenir les attaques avant qu'elles ne compromettent les systèmes.
+- Selon les données de BT, les appareils connectés des entreprises britanniques sont désormais scannés plus de 4000 fois par jour, une hausse de 300% en un an, principalement par des robots automatisés cherchant des failles de sécurité.
+- Les secteurs des services professionnels, du commerce de détail et de l'hôtellerie restauration figurent parmi les plus ciblés par les attaques par rançongiciel.
+
+## [Piratage de portefeuilles crypto : la nouvelle frontière de la <b>cybercriminalité</b> et les réponses politiques](https://financefeeds.com/fr/crypto-wallet-hacking-new-frontier-in-cybercrime/)  
+*Source : financefeeds.com | Publication : 2025-10-30*
+
+- En 2025, le piratage de portefeuilles de cryptomonnaies est devenu l'une des formes de cybercriminalité les plus rapides et les plus lourdes de.
 
 ## [<b>Cybersécurité</b> : protéger nos enfants, c'est protéger le futur (Hemissi) - Leconomiste Maghrebin](https://www.leconomistemaghrebin.com/2025/10/29/cybersecurite-proteger-nos-enfants-cest-proteger-le-futur-hemissi/)  
 *Source : leconomistemaghrebin.com | Publication : 2025-10-29*
