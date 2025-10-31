@@ -1,5 +1,154 @@
-# Résumés – 2025-10-30
+# Résumés – 2025-10-31
 
+
+## [<b>Cybercriminalité</b> : 65 États ont signé le premier traité de l'ONU pour s'attaquer à ce problème](https://tchadinfos.com/2025/10/31/cybercriminalite-65-etats-ont-signe-le-premier-traite-de-lonu-pour-sattaquer-a-ce-probleme/)  
+*Source : tchadinfos.com | Publication : 2025-10-31*
+
+- À Hanoï au Vietnam, soixante-cinq nations ont paraphé un accord marquant des Nations unies pour combattre la cybercriminalité.
+- Le Secrétaire général de l’organisation António Guterres a applaudi cette initiative, la qualifiant de moment marquant vers un univers numérique plus sécurisé.
+- Le nouveau traité criminalise diverses infractions liées à la cybercriminalité, facilite le partage transfrontalier de preuves électroniques et établit un réseau de coopération 24h/24 et 7j/7 entre les États.
+- Il entre également dans l’histoire en devenant le premier traité international à reconnaître la diffusion non consensuelle d’images intimes comme une infraction – une victoire significative pour les victimes d’abus en ligne.
+
+## [Outpost24 propose un outil gratuit - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64070-outpost24-propose-un-outil-gratuit.html)  
+*Source : linformaticien.com | Publication : 2025-10-31*
+
+- Credentials Checker, qui permet aux organisations de savoir si les identifiants liés à leur domaine e-mail ont été exposés sur le dark web.
+- Alimenté.
+
+## [Les partenaires du mécanisme de Tallinn s'engagent à verser plus de 241.7 millions d'euros ...](https://www.diplomatie.gouv.fr/fr/fr/dossiers-pays/ukraine/evenements/article/les-partenaires-du-mecanisme-de-tallinn-s-engagent-a-verser-plus-de-241-7)  
+*Source : diplomatie.gouv.fr | Publication : 2025-10-31*
+
+- Les partenaires du mécanisme de Tallinn s’engagent à verser plus de 241.7 millions d’euros pour renforcer la cybersécurité de l’Ukraine devant l’intensification de l’agression russe (31 octobre 2025) Les membres du Mécanisme de Tallinn, l’Allemagne, l’Estonie, la Finlande, la France, le Canada, le Danemark, l’Italie, les Pays-Bas, la Norvège, la Pologne, le Royaume-Uni, la Suède et les États-Unis, ainsi que la République Tchèque, la Banque mondiale, l’OTAN et l’UE en tant qu’observateurs, se sont réunis à Paris les 30 et 31 octobre.
+- Ils ont réaffirmé leur soutien indéfectible à la souveraineté et à la résilience numériques de l’Ukraine, annonçant une aide supplémentaire de 60,9 millions d’euros en 2025 au moyen du mécanisme de Tallinn pour soutenir les capacités cyber civiles de l’Ukraine.
+- Cet appui de la communauté internationale porte le montant total de l’aide civile coordonnée à l’Ukraine à 241,7 millions d’euros, ce qui marque une augmentation considérable des efforts déployés pour contrer l’agression et les activités hybrides continues de la Russie.
+- Cette annonce est faite à un moment où les cybermenaces sont en hausse.
+
+## [<b>Cybercriminalité</b> au Niger : deux faux marabouts et un ex-militaire escrocs démantelés par ...](https://www.actuniger.com/faits-divers/21455-cybercriminalite-au-niger-deux-faux-marabouts-et-un-ex-militaire-escrocs-demanteles-par-la-police-judiciaire.html)  
+*Source : actuniger.com | Publication : 2025-10-31*
+
+- Cybercriminalité au Niger : deux faux marabouts et un ex-militaire escrocs démantelés par la police judiciaire La Direction de la Police Judiciaire (DPJ) a réussi deux coups de filet majeurs dans sa lutte contre la cybercriminalité.
+- Le 24 octobre 2025, elle a mis hors d’état de nuire deux faux marabouts qui se faisaient passer pour des multiplicateurs de billets de banque.
+- Dix jours plus tôt, le 14 octobre, un ancien élément des Forces de Défense et de Sécurité, reconverti en escroc numérique, a été arrêté après avoir piégé de jeunes Nigériens avec de fausses promesses de recrutement au sein des Forces Armées Nigériennes (FAN).
+- Niamey – Dans sa traque acharnée des fraudeurs du numérique, la Direction de la Police Judiciaire (DPJ), par le biais de sa Division de Lutte contre la Cybercriminalité, vient de mettre à nu deux réseaux criminels opérant sur des terrains très différents, mais avec la même finalité : soutirer de l’argent à des victimes par la ruse.
+
+## [Les iPhone peuvent-ils être infectés par des virus ? Des experts répondent - Bitdefender](https://www.bitdefender.com/fr-fr/blog/hotforsecurity/les-iphone-peuvent-ils-etre-infectes-par-des-virus-des-experts-repondent)  
+*Source : bitdefender.com | Publication : 2025-10-31*
+
+- Le changement le plus fascinant que nous ayons observé ces dernières années dans le domaine de la cybersécurité est que les pirates ont compris qu'il était infiniment plus facile de tromper une personne que de déchiffrer un cryptage valant un milliard de dollars.
+- Alors quand on me demande si les iPhone peuvent attraper des virus, j'ai l'impression qu'on me pose une question datant d'il y a cinq ans.
+- Les règles du jeu ont complètement changé.
+- Bien qu'Apple ait développé l'un des systèmes d'exploitation les plus sécurisés au monde avec iOS, il ne peut empêcher les utilisateurs d'iPhone d'être amenés à ouvrir volontairement des applications malveillantes.
+
+## [Start-up lyonnaises : l'innovation qui façonne l'avenir - Lyon Entreprises [LE]](https://www.lyon-entreprises.com/actualites/article/les-start-up-lyonnaises-qui-faconnent-lavenir-de-linnovation)  
+*Source : lyon-entreprises.com | Publication : 2025-10-31*
+
+- Les start-up lyonnaises qui façonnent l’avenir de l’innovation Chaque année, le paysage entrepreneurial lyonnais se renforce avec l’émergence de jeunes entreprises dynamiques, innovantes et prometteuses.
+- Parmi elles, quelques figures se démarquent par leur potentiel, leur impact et leur capacité à transformer leur secteur.
+- Focus sur ces start-up qui font parler d’elles dans la capitale des Gaules, dans un contexte où l’actualité technologique et économique ne cesse d’évoluer.
+- Tenacy : la cybersécurité à la rescousse des entreprises lyonnaises Au sommet du palmarès des start-up les plus prometteuses de Lyon, Tenacy occupe une place stratégique dans le domaine de la cybersécurité.
+
+## [Dark Web : Proton vous aide à savoir si vos infos perso ont fuité - Clubic](https://www.clubic.com/actualite-585253-dark-web-proton-vous-aide-a-savoir-si-vos-infos-perso-ont-fuite.html)  
+*Source : clubic.com | Publication : 2025-10-31*
+
+- L'entreprise suisse spécialisée dans la confidentialité lance une plateforme publique qui surveille en temps réel les fuites de données sur le dark web.
+- Proton présente son Observatoire des violations de données, une ressource qui détecte et signale les cyberattaques à partir d'informations recueillies directement sur le dark web.
+- Contrairement aux études traditionnelles qui dépendent des déclarations volontaires des entreprises piratées, cette initiative exploite les données directement à la source, là où les cybercriminels échangent et commercialisent les informations volées.
+- Offre partenaire Protection avancée des e-mails, des calendriers, des mots de passe, du réseau… de votre entreprise grâce à la suite d'applications professionnelles sécurisées.
+
+## [<b>Cybersécurité</b> : les pays de l'AES veulent s'unir autour d'une stratégie commune](https://lanouvelletribune.info/2025/10/cybersecurite-les-pays-de-laes-veulent-sunir-autour-dune-strategie-commune/)  
+*Source : lanouvelletribune.info | Publication : 2025-10-31*
+
+- Les menaces numériques n’ont plus de frontières, et les États du Sahel veulent prendre le taureau par les cornes.
+- Face à la montée en puissance des attaques informatiques et des manipulations en ligne, les pays membres de l’Alliance des États du Sahel (AES) — Mali, Burkina Faso et Niger — entendent désormais mutualiser leurs forces pour bâtir un front commun.
+- Cette ambition a été clairement affichée lors de la troisième édition des Journées nationales de la cybersécurité du Mali (JNC), organisée à Bamako, où délégations officielles, experts et jeunes talents des trois pays ont partagé leur vision et idées.
+- L’information a été rapportée par nos confrères de Agence Ecofin.
+
+## [L'hacktivisme se mondialise : 350 cyberattaques Hezi Rash en dix semaines](https://www.solutions-numeriques.com/lhacktivisme-se-mondialise-350-cyberattaques-hezi-rash-en-dix-semaines/)  
+*Source : solutions-numeriques.com | Publication : 2025-10-31*
+
+- Souveraineté numérique : EDF choisit la messagerie française Private Discuss A l’issue d’un appel d’offres européen, EDF a sélectionné une entreprise lyonnaise, Private Discuss, pour équiper une partie de ses collaborateurs.
+- Un “Zoom français” Le groupe EDF a fait le choix d’un acteur tricolore pour moderniser ses outils de communication interne.
+- La société lyonnaise Private….
+
+## [ESN : Partitio victime d'une cyberattaque - LeMagIT](https://www.lemagit.fr/actualites/366633917/ESN-Partitio-victime-dune-cyberattaque)  
+*Source : lemagit.fr | Publication : 2025-10-31*
+
+- kwarkot-stockadobe.com ESN : Partitio victime d’une cyberattaque L’entreprise de services numériques toulousaine a été victime d’une cyberattaque impliquant l’enseigne de rançongiciel INC Ransom.
+- L’incident semble remonter à la fin septembre.
+- Partitio, c’est une ESN toulousaine filiale de Konica Minolta Business France depuis mars 2023.
+- Elle propose un large éventail de services, de la gestion de contenus au cloud privé en passant par l’hébergement de donnés de santé (HDS).
+
+## [NordVPN renforce sa <b>cybersécurité</b> mobile et s'installe sur le Fire TV Stick d'Amazon](https://www.latribune.fr/article/l-instant-selection/20477477870041/nordvpn-renforce-sa-cybersecurite-mobile-et-s-installe-sur-le-fire-tv-stick-d-amazon)  
+*Source : latribune.fr | Publication : 2025-10-31*
+
+- NordVPN renforce sa cybersécurité mobile et s’installe sur le Fire TV Stick d’Amazon NordVPN a déjà lancé ses offres du Black Friday.
+- Shutterstock NordVPN a déjà lancé ses offres du Black Friday.
+- Shutterstock NordVPN ajoute à sa suite Protection Anti-Menaces Pro une nouvelle fonctionnalité qui permet aux utilisateurs de bloquer automatiquement les sites pour adultes avant même leur chargement.
+- Cette technologie repose sur un filtrage DNS, qui agit directement en amont de la navigation pour intercepter des milliers de domaines classés “adultes”.
+
+## [IBM lance une plateforme pour les institutions financières et entreprises réglementées](https://www.linformaticien.com/magazine/cybersecurite/64067-ibm-lance-une-plateforme-pour-les-institutions-financieres-et-entreprises-reglementees.html)  
+*Source : linformaticien.com | Publication : 2025-10-31*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cybersécurité · IBM lance une plateforme.
+
+## [La tech entre conquêtes et secousses : Nvidia fonce, Amazon tranche, l'Europe s'affirme](https://www.alliancy.fr/puissance-fractures-et-ambitions-la-tech-mondiale-en-ebullition-2)  
+*Source : alliancy.fr | Publication : 2025-10-31*
+
+- La Revue exPress’ du 31 octobre, votre condensé hebdomadaire tech, business et innovation.
+- Cette semaine, entre alliances européennes, géants de la Silicon Valley en mutation et cybermenaces en embuscade, la planète numérique n’a pas pris de pause.
+- Nvidia déploie sa puissance sur tous les fronts.
+- À Washington, Jensen Huang annonce 7 supercalculateurs pour le gouvernement américain, preuve d’un ancrage stratégique aux États-Unis.
+
+## [{ Tribune Expert } – Reprendre le contrôle du risque face aux <b>cybermenaces</b> - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/tribune-expert-reprendre-le-controle-du-risque-face-aux-cybermenaces-224186)  
+*Source : silicon.fr | Publication : 2025-10-31*
+
+- Les entreprises évoluent dans un environnement numérique complexe, où cyberattaques ciblées, ransomwares et exploitation de failles logicielles se multiplient.
+- Des exemples récents, comme l’exploitation massives de vulnérabilités dans Sharepoint ou WSUS (Windows Server Update Services) ayant exposé de nombreuses organisations à des risques de sécurité mettent en avant la nécessaire gestion des vulnérabilités au cœur d’une stratégie de cybersécurité.
+- Quelques minutes seulement après la découverte de la vulnérabilité affectant Windows Server, et le déploiement du correctif d’urgence par Microsoft, les premières exploitations malveillantes de cette faille avaient déjà été observées.
+- 3 jours après, encore plusieurs milliers d’instances vulnérables étaient pourtant toujours exposées, et donc vraisemblablement attaquées.
+
+## [Crime financier : 562 millions $ de préjudice causé par la crypto, la <b>cybercriminalité</b> et d ...](https://www.digitalbusiness.africa/crime-financier-562-millions-de-prejudice-cause-par-la-crypto-la-cybercriminalite-et-dautres-activites-illicites-interpol/)  
+*Source : digitalbusiness.africa | Publication : 2025-10-31*
+
+- [DIGITAL Business Africa] – 562 millions USD, soit près de 320 milliards FCFA.
+- Selon une enquête d’INTERPOL et d’AFRIPOL, c’est le préjudice causé par la fraude, les enlèvements contre rançon, le commerce illicite, les escroqueries en ligne, l’utilisation abusive d‘actifs virtuels et les systèmes de Ponzi ( un montage financier frauduleux de type cavalerie qui consiste à rémunérer les investissements des clients essentiellement par les fonds procurés par les nouveaux entrants).
+- L’opération Catalyst menée de juillet à septembre 2025 visait à identifier et à perturber les flux et les schémas financiers liés au financement du terrorisme et à ses réseaux de soutien.
+- Le résultat de l’enquête publiée sur le site d’INTERPOL depuis le 22 octobre 2025 indique que l’opération a aussi conduit à 83 arrestations, 21 concernaient des crimes liés au terrorisme, 28 des fraudes financières et du blanchiment d’argent, 16 des escroqueries facilitées par le cyberespace et 18 autres l’utilisation illicite d’actifs virtuels.
+
+## [Réinventer la <b>cybersécurité</b> dans le Cloud : pourquoi l'IA agentique est incontournable](https://itsocial.fr/cybersecurite/cybersecurite-tribunes/reinventer-la-cybersecurite-dans-le-cloud-pourquoi-lia-agentique-est-incontournable/)  
+*Source : itsocial.fr | Publication : 2025-10-31*
+
+- Le paysage de la cybersécurité dans le Cloud a atteint un point d’inflexion.
+- Face à des environnements Cloud, de conteneurs, d'API et de charges de travail éphémères, la surface d'attaque a explosé.
+- Cette complexité rend obsolètes les approches de sécurité traditionnelles , et la vitesse à laquelle ces environnements évoluent est trop rapide pour un suivi manuel des dépendances et des risques.
+- Pendant ce temps, les attaquants ne restent pas inactifs : ils exploitent déjà l'automatisation, les bots et l'IA pour intensifier la reconnaissance et exploiter les faiblesses.
+
+## [Tech Fest Maroc : OneCloud, Oracle et Cloudflare misent sur l'IA et la <b>cybersécurité</b>](https://mobile.telquel.ma/2025/10/31/tech-fest-maroc-onecloud-oracle-et-cloudflare-misent-sur-lia-et-la-cybersecurite_1958729)  
+*Source : mobile.telquel.ma | Publication : 2025-10-31*
+
+- Deux panels ont exploré les thématiques des GPU souverains et de la cybersécurité , soulignant la volonté des acteurs du secteur d'accompagner.
+
+## [La police de Singapour saisit une somme record de biens liés à la mafia des escroqueries en ligne](https://www.courrierinternational.com/article/le-chiffre-du-jour-la-police-de-singapour-saisit-une-somme-record-de-biens-lies-a-la-mafia-des-escroqueries-en-ligne_236956)  
+*Source : courrierinternational.com | Publication : 2025-10-31*
+
+- Six propriétés, des comptes bancaires, des comptes titres, de l’argent liquide… C’est un total de 150 millions de dollars singapouriens, soit 100 millions d’euros, qui ont été saisis par la police de la Cité-État, révèle le quotidien local The Straits Times dans son édition du 31 octobre.
+- Dans cet inventaire à la Prévert, d’autres biens – dont un yacht, 11 voitures et de nombreuses bouteilles d’alcool – font également l’objet d’ordonnances d’interdiction de cession.
+- Tous ces actifs sont liés à un individu : l’homme d’affaires d’origine chinoise Chen Zhi qui, après s’être expatrié au Cambodge en 2010, y a fondé la société Prince Group - laquelle est devenue le plus grand conglomérat du pays, avec sa propre banque, sa compagnie aérienne et des “projets un peu partout au Cambodge, comprenant des complexes touristiques et des hôtels”.
+- Mafia Mais Prince Group est surtout connu pour avoir développé des centres de cyberarnaques à grande échelle, qui exploitent en masse des travailleurs enrôlés de force pour escroquer des victimes dans le monde entier.
+
+## [Fan d'Halloween et de hacking, il pirate les masques LED autour de lui - Numerama](https://www.numerama.com/cyberguerre/2106815-fan-dhalloween-et-de-hacking-il-concoit-un-outil-pour-pirater-les-masques-led-autour-de-lui.html)  
+*Source : numerama.com | Publication : 2025-10-31*
+
+- Nathan Eldent aime Halloween, et ce, pour de multiples raisons : « l’automne bat son plein, c’est la saison du pop-corn sucré, et c’est la seule nuit où il est socialement acceptable de sortir en portant une cape ».
+- Pour cet habitant du Colorado, consultant en cybersécurité, le thème de cette année était « tout ce qui brille ».
+- L’occasion pour lui d’acquérir un masque LED personnalisable, capable d’afficher différents visuels sur son écran.
+- Mais très vite, sa passion pour le hacking a pris le dessus et Nathan s’est lancé dans le piratage du système Bluetooth Low Energy (BLE) intégré à son déguisement.
+
+## [Un programme d'acceleration pour les jeunes pousses françaises de la <b>cybersécurité</b> et du ...](https://www.solutions-numeriques.com/un-programme-dacceleration-pour-les-jeunes-pousses-francaises-de-la-cybersecurite-et-du-cloud-de-confiance/)  
+*Source : solutions-numeriques.com | Publication : 2025-10-31*
+
+- Enjeux de souveraineté : la Cour des comptes dénonce un pilotage fragmenté L’enquête « Les enjeux de souveraineté des systèmes d’information civils de l’État », publiée aujourd’hui par la Cour des comptes, pointe une gouvernance éclatée, des initiatives non coordonnées et une Direction interministérielle du numérique (DINUM) qui peine à incarner le chef d’orchestre attendu du numérique….
 
 ## [Rapid7 : la <b>cybersécurité</b> est bloquée dans les années 1980 alors que les menaces se multiplient](https://www.lemagit.fr/actualites/366633591/Rapid7-la-cybersecurite-est-bloquee-dans-les-annees-1980-alors-que-les-menaces-se-multiplient)  
 *Source : lemagit.fr | Publication : 2025-10-30*
