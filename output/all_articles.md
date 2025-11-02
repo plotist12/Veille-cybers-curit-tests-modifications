@@ -1,5 +1,144 @@
-# Résumés – 2025-11-01
+# Résumés – 2025-11-02
 
+
+## [<b>Cybersécurité</b> : la société Sicoia aide les entreprises - Ouest-France](https://www.ouest-france.fr/pays-de-la-loire/les-herbiers-85500/cybersecurite-la-societe-sicoia-aide-les-entreprises-b95178f4-b81e-11f0-9e52-3592cc4f7637)  
+*Source : ouest-france.fr | Publication : 2025-11-02*
+
+- Cybersécurité , Intelligence artificielle et digitalisation sont au cœur des préoccupations de bon nombre d'entreprises.
+
+## [Virus, malwares, menaces en ligne : protégez vous avec Bitdefender à moitié prix en ce moment](https://www.msn.com/fr-fr/lifestyle/shopping/virus-malwares-menaces-en-ligne-protégez-vous-avec-bitdefender-à-moitié-prix-en-ce-moment/ar-AA1PEd8y)  
+*Source : msn.com | Publication : 2025-11-02*
+
+- Vous souhaitez une protection totale contre les virus, ransomwares et tentatives de phishing pour tous vos appareils ?.
+- L'antivirus Bitdefender.
+
+## [Ghana : L'ONU lance un hackathon pour lutter contre le mariage des enfants et les ...](https://www.techafrika.net/Ghana-L-ONU-lance-un-hackathon-pour-lutter-contre-le-mariage-des-enfants-et-les-grossesses-precoces_a2338.html)  
+*Source : techafrika.net | Publication : 2025-11-02*
+
+- Le Fonds des Nations Unies pour la population (UNFPA) au Ghana a lancé le premier défi d'innovation intitulé « AI for Her Future », visant à lutter contre le mariage des enfants et les grossesses précoces grâce à la technologie et à la créativité.
+- Ce hackathon, qui rassemble de jeunes innovateurs âgés de 18 à 35 ans venus de tout le Ghana, met les participants au défi de concevoir et de développer des solutions audacieuses, technologiques et communautaires pour répondre aux problèmes des adolescentes.
+- Les gagnants se partageront 180.000 GH¢ (environ 17.000 USD) de prix en espèces et bénéficieront d'un mentorat et d'une formation pour développer leurs idées.
+- S'exprimant lors du lancement à Accra, le représentant de l'UNFPA au Ghana, le Dr Wilfred Ochan, a souligné que cette initiative marquait un tournant dans le travail de l'organisation au Ghana.
+
+## [Kaspersky met en garde contre une vague de faux e-mails au nom des grandes ... - Algerie360](https://www.algerie360.com/kaspersky-met-en-garde-contre-une-vague-de-faux-e-mails-au-nom-des-grandes-compagnies-aeriennes/)  
+*Source : algerie360.com | Publication : 2025-11-02*
+
+- Les experts de Kaspersky tirent la sonnette d’alarme face à une nouvelle vague d’e-mails frauduleux qui exploitent l’image de grandes compagnies aériennes.
+- Ces cybercriminels se font passer pour des acteurs majeurs du transport aérien et des aéroports, parmi lesquels Amsterdam Schiphol, Lufthansa, Emirates Airlines, Qatar Airways ou encore Etihad Airways.
+- Leur objectif est de piéger des entreprises et détourner des fonds sous couvert de faux partenariats commerciaux.
+- Depuis le début du mois de septembre, les solutions de Kaspersky ont détecté et bloqué des milliers de messages de ce type à travers le monde.
+
+## [Proton lance un nouvel outil pour détecter les fuites de données sur le darkweb - Le Temps](https://www.letemps.ch/cyber/cybersecurite/proton-lance-un-nouvel-outil-pour-detecter-les-fuites-de-donnees-sur-le-darkweb)  
+*Source : letemps.ch | Publication : 2025-11-02*
+
+- Silencieusement, les cyberattaques continuent à faire des ravages.
+- Il y a quelques jours, la Confédération alertait sur des piratages subis par 200 entreprises suisses, victimes du même gang de pirates appelé «Akira», ce qui leur a fait perdre des millions.
+- Et parfois, si les entreprises ne paient pas de rançon, les données volées sont publiées sur le darkweb.
+- Pour avoir une idée de ce qui est mis en ligne sur cet espace de non-droit, difficilement accessible à tout un chacun, Proton vient de lancer un observatoire sur la cybercriminalité sur le darkweb.
+
+## [Évaluations selon le nouveau schéma européen de cybersécurité_MQ - MQ Management et qualité](https://www.m-q.ch/fr/evaluations-du-nouveau-schema-europeen-de-cybersecurite/evaluations-selon-le-nouveau-schema-europeen-de-cybersecurite_mq/)  
+*Source : m-q.ch | Publication : 2025-11-02*
+
+- Évaluations selon le nouveau schéma européen de cybersécurité_MQ La SRC Security & Consulting GmbH peut désormais effectuer des évaluations selon le nouveau schéma européen de cybersécurité.
+- (Image symbolique ; Opollo Photography / Unsplash.com) (14 visites, 5 visites aujourd'hui).
+
+## [Les entreprises suisses s'attendent à une augmentation considérable des cyberattaques ...](https://fr.businessam.be/les-entreprises-suisses-sattendent-a-une-augmentation-considerable-des-cyberattaques-dans-les-annees-a-venir/)  
+*Source : fr.businessam.be | Publication : 2025-11-02*
+
+- Principaux renseignements Les entreprises suisses prévoient une augmentation substantielle des cyberattaques au cours de l’année prochaine.
+- - L’IA présente à la fois des opportunités et des risques, de nombreuses entreprises s’inquiétant de son utilisation potentielle à des fins frauduleuses.
+- - De nombreuses entreprises suisses ne sont pas suffisamment préparées à la cybersécurité et ne connaissent pas les menaces émergentes.
+- - Les entreprises suisses s’attendent à une recrudescence des cyberattaques au cours de l’année prochaine.
+
+## [Cultiver sous les arbres, le pari de l'Amazonie - La Tribune](https://www.latribune.fr/article/la-tribune-dimanche/la-tribune-dimanche/planete/42580407365785/cultiver-sous-les-arbres-le-pari-de-l-amazonie)  
+*Source : latribune.fr | Publication : 2025-11-02*
+
+- Cultiver sous les arbres, le pari de l’Amazonie Ce contenu est réservé aux abonnés La COP30 de Belém marque un moment clef dans l'avancée des discussions sur la gestion de la forêt en Amazonie.
+- Ce contenu est réservé aux abonnés La COP30 de Belém marque un moment clef dans l'avancée des discussions sur la gestion de la forêt en Amazonie.
+- 17:35 Budget 2026 : la colère des industriels face à la « surtaxation » des entreprises 16:26 Droits de douane : les États-Unis placent la Chine sous surveillance 16:00 La chronique de Philippe Vandel.
+- De quoi l’avenir sera-t-il défait ?.
+
+## [Le Premier ministre thaïlandais appelle à un soutien régional et à la sécurité numérique](https://www.cryptopolitan.com/fr/thailand-regional-support-digital-security/)  
+*Source : cryptopolitan.com | Publication : 2025-11-02*
+
+- Le Premier ministre thaïlandais, Anutin Charnvirakul, a souligné la nécessité de lutter contre la cybercriminalité transfrontalière et de.
+
+## [Une riposte collective face à la montée des cyberattaques - Journal L'Union](https://www.lunion.fr/id761222/article/2025-11-02/une-riposte-collective-face-la-montee-des-cyberattaques)  
+*Source : lunion.fr | Publication : 2025-11-02*
+
+- Le Hub Grand Est Cybersécurité , lancé fin octobre, doit fédérer les forces régionales.
+- Il est piloté par la CCI et l'UIMM dans la Marne et les.
+
+## [Douze engagements volontaires du Vietnam](https://lecourrier.vn/douze-engagements-volontaires-du-vietnam/1294216.html)  
+*Source : lecourrier.vn | Publication : 2025-11-02*
+
+- >> Le PM vietnamien souligne la position de l'ASEAN sur les océans lors de l'UNOC3 >> La Conférence des Nations unies sur l'Océan clôturée avec l'adoption du "Plan d'action de Nice pour l'Océan" >> Le Vietnam réélu au Conseil des droits de l’homme pour le mandat 2026-2028 >> Le Vietnam reconduit au Conseil des droits de l’homme >> Un mandat 2026-2028 sous le signe de la confiance internationale.
+
+## [Un mandat 2026-2028 sous le signe de la confiance internationale - Le Courrier du VietNam](https://lecourrier.vn/un-mandat-2026-2028-sous-le-signe-de-la-confiance-internationale/1294229.html)  
+*Source : lecourrier.vn | Publication : 2025-11-02*
+
+- >> Douze engagements volontaires du Vietnam >> Le Vietnam reconduit au Conseil des droits de l’homme La réélection du Vietnam au Conseil des droits de l’homme (CDH) de l’ONU pour la période 2026-2028 confirme son influence croissante sur la scène internationale.
+- Avec le plus grand nombre de voix parmi les pays de la région Asie-Pacifique, ce résultat reflète la reconnaissance des efforts du pays en matière de bien-être, de protection sociale et de promotion des libertés fondamentales.
+- Ce nouveau mandat s’inscrit dans la continuité de celui de 2023-2025, renforçant la confiance enversla politique de dialogue et de coopération équilibrée du Vietnam.
+- Par ailleurs, l’organisation réussie de la signature de la Convention des Nations unies contre la cybercriminalité (Convention de Hanoï) illustre son engagement actif dans la gouvernance mondiale.
+
+## [Pascal Lamy, ancien directeur général de l'OMC : « Les taxes de Trump ne bouleversent ...](https://www.latribune.fr/article/la-tribune-dimanche/la-tribune-dimanche/dans-le-monde/14371892061269/pascal-lamy-ancien-directeur-general-de-l-omc-les-taxes-de-trump-ne-bouleversent-pas-le-commerce-mondial)  
+*Source : latribune.fr | Publication : 2025-11-02*
+
+- Pascal Lamy, ancien directeur général de l’OMC : « Les taxes de Trump ne bouleversent pas le commerce mondial » Ce contenu est réservé aux abonnés Pascal Lamy lors du Forum de Paris sur la paix, à Paris, le 10 novembre 2023.
+- LTD/Blondet Eliot/ABACA Ce contenu est réservé aux abonnés Pascal Lamy lors du Forum de Paris sur la paix, à Paris, le 10 novembre 2023.
+- LTD/Blondet Eliot/ABACA.
+- 17:35 Budget 2026 : la colère des industriels face à la « surtaxation » des entreprises 16:26 Droits de douane : les États-Unis placent la Chine sous surveillance 16:00 La chronique de Philippe Vandel.
+
+## [L'AN consacre la troisième semaine de sa 10e session aux travaux législatifs](https://lecourrier.vn/lan-consacre-la-troisieme-semaine-de-sa-10e-session-aux-travaux-legislatifs/1294427.html)  
+*Source : lecourrier.vn | Publication : 2025-11-02*
+
+- >> L'Assemblée nationale examine des lois en matière de défense et de cybersécurité >> Cybersécurité, transformation numérique et industrie de la défense en débat à l’AN >> Projet de loi sur le commerce électronique approuvé L’AN débattra de lois relatives à l'investissement, à la gestion de la dette publique, aux assurances, aux statistiques, aux prix, au commerce électronique, à l'application de la détention provisoire, de l’assignation à résidence et du droit pénal, ainsi qu’aux archives judiciaires.
+- Elle examinera également, et formulera des observations, sur les projets de loi modifiés concernant l'expertise judiciaire, la lutte contre la corruption, la propriété intellectuelle et la gestion fiscale, entre autres.
+- En outre, les députés débattront du projet de loi sur la planification (modifié), d'une loi modifiant la loi sur l'aménagement urbain et rural, de la loi sur la cybersécurité et de la loi sur la protection des secrets d'État (modifiée), et donneront leur avis sur la révision du Plan directeur national pour la période 2021-2030.
+- Au cours de cette semaine, l'Assemblée nationale consacrera une séance à l'examen, en groupes de travail, des projets de documents qui seront soumis au XIVe Congrès national du Parti communiste du Vietnam.
+
+## [Boris Vallaud, président du groupe socialiste à l'Assemblée : « Aujourd'hui, nous voterions ...](https://www.latribune.fr/article/la-tribune-dimanche/la-tribune-dimanche/politique/83215411908696/boris-vallaud-president-du-groupe-socialiste-a-l-assemblee-aujourd-hui-nous-voterions-contre-le-budget)  
+*Source : latribune.fr | Publication : 2025-11-02*
+
+- Boris Vallaud, président du groupe socialiste à l’Assemblée : « Aujourd’hui, nous voterions contre le budget » Ce contenu est réservé aux abonnés Boris Vallaud, président du groupe socialiste à l’Assemblée, s'entretient avec « La Tribune Dimanche » après le refus de la Taxe Zucmlan par l'Assemblée Nationale LTD/Stephane Lemouton/SIPA.
+
+## [OPINION. « En finir avec le “sovereign-washing” : plaidoyer pour un cloud réellement souverain](https://www.latribune.fr/article/la-tribune-dimanche/la-tribune-dimanche/opinions/54336615630993/opinion-en-finir-avec-le-sovereign-washing-plaidoyer-pour-un-cloud-reellement-souverain-par-hexatrust-groupement-d-entreprises-specialisees-en-cybersecurite)  
+*Source : latribune.fr | Publication : 2025-11-02*
+
+- OPINION.
+- « En finir avec le “sovereign-washing” : plaidoyer pour un cloud réellement souverain », par Hexatrust, groupement d’entreprises spécialisées en cybersécurité Le groupement d’entreprises spécialisées en cybersécurité Hexatrust est pour un cloud souverain.
+
+## [« Ghost taping », la cyberattaque « fantôme » qui plane sur votre smartphone - 01net.com](https://www.01net.com/actualites/ghost-taping-cyberattaque-fantome-plane-votre-smartphone.html)  
+*Source : 01net.com | Publication : 2025-11-02*
+
+- LexisNexis Risk Solutions, une société spécialisée dans l’analyse des risques numériques et de la criminalité financière, vient de publier un nouveau rapport.
+- Celui-ci dresse un état des lieux complet sur la cybercriminalité et l’évolution des fraudes en 2025.
+- L’une des tendances qui émerge du rapport est le « ghost tapping », qu’on peut traduire par « tapotement fantôme » ou « touche fantôme ».
+- Comme nous l’explique LexisNexis Risk Solutions, « il s’agit d’un nouveau type d’attaque numérique où votre smartphone enregistre des touches “fantômes”, c’est-à-dire des actions qui se produisent sur votre écran sans que vous ne le touchiez physiquement ».
+
+## [Virus, malwares, menaces en ligne : protégez vous avec Bitdefender à moitié prix en ce moment](https://www.clubic.com/bons-plans-585322-virus-malwares-menaces-en-ligne-protegez-vous-avec-bitdefender-a-moitie-prix-en-ce-moment.html)  
+*Source : clubic.com | Publication : 2025-11-02*
+
+- Vous souhaitez une protection totale contre les virus, ransomwares et tentatives de phishing pour tous vos appareils ?.
+- L’antivirus Bitdefender Premium Security est en promo à 55 €/an.
+- Une offre ultra-complète et blindée de fonctionnalités, pour sécuriser votre vie numérique à moindre coût.
+- À l’heure où les cyberattaques explosent, protéger ses données et ses appareils est devenu une priorité absolue.
+
+## [<b>Cybersécurité</b> : une priorité à l'hôpital d'Hautmont - L'Observateur](https://www.lobservateur.fr/cybersecurite-hopital-hautmont/)  
+*Source : lobservateur.fr | Publication : 2025-11-02*
+
+- Cybersécurité : une priorité à l’hôpital d’Hautmont Lecture 2 minute(s) " La cybersécurité est l'affaire de tous et chacun peut contribuer à protéger les données de santé des patients et à garantir la confiance dans notre système de soins.".
+- Dans un secteur où la protection des données de santé constitue un enjeu majeur, le Centre Hospitalier d'Hautmont a choisi de s'investir pleinement dans la sensibilisation de ses agents à la cybersécurité.
+- À l'occasion du Cybermois, une initiative nationale de sensibilisation, l'hôpital d'Hautmont a récemment organisé un jeu de piste alliant découverte du patrimoine de la ville et apprentissage des bons réflexes….
+
+## [Un tremplin pour lutter contre la <b>cybercriminalité</b> - Le Courrier du VietNam](https://lecourrier.vn/un-tremplin-pour-lutter-contre-la-cybercriminalite/1294079.html)  
+*Source : lecourrier.vn | Publication : 2025-11-02*
+
+- >> Pour une entrée en vigueur rapide de la Convention de Hanoï >> Droits humains et coopération au cœur de la Convention contre la cybercriminalité >> Convention de Hanoï : coopération intensifiée contre la cybercriminalité >> Convention de Hanoï : le Vietnam, moteur d’une coopération mondiale en cybersécurité >> La Convention de Hanoï : un outil mondial contre la cybercriminalité et la traite des êtres humains >> La Convention de Hanoï : la Russie et l’Afrique du Sud saluent le rôle actif du Vietnam Depuis quelques jours, il figurait en bonne place sur le site Internet du Courrier du Vietnam, lecourrier.vn, mais je n’avais pas encore compris sa signification exacte.
+- C’est donc en le découvrant en une que tout est éclairé.
+- Il faut dire que ce logo bleu, blanc et jaune est particulièrement pertinent.
+- Il contient le fameux emblème de Hanoï que l’on retrouve partout dans la capitale.
 
 ## [5G au Maroc : Trois opérateurs autorisés à entrer dans l'ère de la vitesse absolue](https://www.infomagazine.ma/maroc/5g-au-maroc-trois-operateurs-autorises-a-entrer-dans-lere-de-la-vitesse-absolue-13043-2025/)  
 *Source : infomagazine.ma | Publication : 2025-11-01*
