@@ -1,5 +1,156 @@
-# Résumés – 2025-11-03
+# Résumés – 2025-11-04
 
+
+## [Campus Cyber : les défis de la <b>cybersécurité</b> – 04/11 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/01-business/campus-cyber-les-defis-de-la-cybersecurite-04-11_EN-202511040998.html)  
+*Source : bfmtv.com | Publication : 2025-11-04*
+
+- Podcast Campus Cyber : les défis de la cybersécurité – 04/11 Campus Cyber : les défis de la cybersécurité – 04/11 12:24 Ce mardi 4 novembre, Joffrey Célestin-Urbain, président du Campus Cyber, s'est penché sur la diversification du business model du Campus Cyber, les nouveaux objectifs du centre, et les défis de la cybersécurité, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- Autres épisodes Mardi 4 novembre, Vincent Champain, vice-président en charge du digital et des systèmes d'information chez Framatome, Stéphane Roder, président d'AI Builders, Érik Campanini, associé chez Alixio Group, et Emmanuel Vignon, président de Théodo Data & AI, se sont penchés sur l'intelligence artificielle face aux nouveaux navigateurs web, l'importance de la mise en œuvre des serveurs MCP, le management d’Internet par l’IA, la vague de licenciements chez les grands groupes, et la crainte d'une bulle autour de l'IA, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+
+## [Budget 2026 : <b>cybersécurité</b> et ingérences étrangères](https://videos.senat.fr/video.5588726_690a12b9a268a.budget-2026--cybersecurite-et-ingerences-etrangeres)  
+*Source : videos.senat.fr | Publication : 2025-11-04*
+
+- Partager cette page Le code de l'iFrame a été copié dans le presse-papier Le lien de la vidéo a été copié dans le presse-papier Le téléchargement a commencé Commission des affaires étrangères, de la défense et des forces armées Mardi 4 novembre 2025.
+
+## [Campus Cyber : les défis de la <b>cybersécurité</b> - 04/11 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/01-business/video-campus-cyber-les-defis-de-la-cybersecurite-04-11_VN-202511040990.html)  
+*Source : bfmtv.com | Publication : 2025-11-04*
+
+- Campus Cyber : les défis de la cybersécurité - 04/11 Ce mardi 4 novembre, Joffrey Célestin-Urbain, président du Campus Cyber, s'est penché sur la diversification du business model du Campus Cyber, les nouveaux objectifs du centre, et les défis de la cybersécurité, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 12:35.
+
+## [Le parquet de Paris enquête sur une possible &quot;promotion du suicide&quot; par TikTok](https://actu.orange.fr/france/le-parquet-de-paris-enquete-sur-une-possible-quot-promotion-du-suicide-quot-par-tiktok-CNT000002lz7eM.html)  
+*Source : actu.orange.fr | Publication : 2025-11-04*
+
+- Le parquet de Paris enquête sur une possible "promotion du suicide" par TikTok © Patrick T. Fallon, AFP - Le logo de TikTok à Culver City, en Californie, le 30 septembre 2025 TikTok fait-il la promotion du suicide ?.
+- Le parquet de Paris a ouvert une enquête après le signalement d'un député pointant l'influence néfaste sur les jeunes de l'algorithme de la plateforme, qui rejette "fermement" ces accusations.
+- L'ouverture de cette enquête intervient après la publication, en septembre, des conclusions d'une commission d'enquête parlementaire.
+- La plateforme ultrapopulaire chez les jeunes propose un "océan de contenus néfastes", de la violence "sous toutes ses formes", condamnait alors la rapporteure de cette commission Laure Miller (EPR) en conférence de presse.
+
+## [La justice française autorise l'extradition de Daniil Kasatkin, accusé d'avoir collaboré avec Conti](https://incyber.org/article/justice-francaise-autorise-extradition-daniil-kasatkin-accuse-avoir-collabore-avec-conti/)  
+*Source : incyber.org | Publication : 2025-11-04*
+
+- La justice française autorise l’extradition de Daniil Kasatkin, accusé d’avoir collaboré avec Conti Articles du même auteur : 1 04.11.25 Souveraineté numérique Cloud souverain : l’UE se dote d’un barème controversé Lire 02.
+- 2.
+
+## [L'IA au service du <b>ransomware</b> : chronique d'une fabrication sans fondement | LeMagIT](https://www.lemagit.fr/actualites/366634024/LIA-au-service-du-ransomware-chronique-dune-fabrication-sans-fondement)  
+*Source : lemagit.fr | Publication : 2025-11-04*
+
+- terovesalainen - stock.adobe.com L’IA au service du ransomware : chronique d’une fabrication sans fondement L’école de management Sloan du prestigieux MIT a publié, en partenariat avec Safe Security, une étude selon laquelle 80 % des cyberattaques avec rançongiciel utiliseraient désormais l’IA.
+- Une fabrication complète aux allures de publicité déguisée.
+- Le 8 septembre dernier, l’école de management Sloan du prestigieux MIT publiait un article selon lequel « 80 % des attaques avec ransomware utilisent désormais l’intelligence artificielle ».
+- La situation est grave : « une nouvelle étude menée par Cybersecurity at MIT Sloan et Safe Security a examiné 2 800 attaques par ransomware et a révélé que 80 % d'entre elles étaient alimentées par l'intelligence artificielle ».
+
+## [Cambriolage du Louvre : les incroyables défaillances des dispositifs de <b>cybersécurité</b>](https://www.mac4ever.com/divers/192856-cambriolage-du-louvre-les-incroyables-defaillances-des-dispositifs-de-cybersecurite)  
+*Source : mac4ever.com | Publication : 2025-11-04*
+
+- Cambriolage du Louvre : les incroyables défaillances des dispositifs de cybersécurité Par Laurence - Publié le Des mots de passe dignes des pires exemples à ne pas suivre Chaque année, les firmes de sécurité font des bêtisiers des pires mots de passe —genre 123456 ou AZERTY.
+- Mais une information, confirmée par des documents confidentiels consultés par Libération, révèle une série de mots de passe et d'identifiants trop simples, facilement devinables, et donc totalement inefficaces face à une intrusion numérique.
+- Ainsi, il y a dix ans, l'identifiant Louvreétait protégé par le mot de passe Louvre, un autre mot de passe utilisé à l’époque était Thalès, censé protéger un logiciel fourni par la société de défense et de sécurité du même nom.
+- Ces pratiques avaient été pointées du doigt dès 2014 par l’Agence nationale de la sécurité des systèmes d’information (Anssi), qui alertait sur la présence de systèmes obsolètesau sein du réseau interne du musée, dont certains tournaient encore sous Windows 2000, sans verrouillage de session ni antivirus à jour.
+
+## [« Le pirate répondait, vérifiait tout, et obtenait les chargements », comment des hackers ...](https://www.numerama.com/cyberguerre/2109551-le-pirate-repondait-verifiait-tout-et-obtenait-les-chargements-comment-des-hackers-parviennent-a-voler-des-cargaisons.html)  
+*Source : numerama.com | Publication : 2025-11-04*
+
+- Dans l’imaginaire collectif, le vol de cargaisons évoque les grands westerns ou les blockbusters, rythmés par les explosions et les courses-poursuites.
+- En réalité, à l’ère numérique, ces vols s’effectuent dans une toute autre discrétion et les marchandises sont souvent détournées grâce à des opérations cybercriminelles sophistiquées.
+- Selon une étude publiée le 3 novembre 2025 par la société Proofpoint, ces attaques combinent infiltration, analyse et usurpation d’identité pour permettre aux groupes de pirates de rediriger les cargaisons vers d’autres destinations.
+- Une attaque en plusieurs étapes Dans la campagne révélée par les équipes de Proofpoint, les assaillants ont semé divers pièges à destination des différents acteurs du transport de marchandises routier et maritime.
+
+## [La <b>cybersécurité</b> du Louvre en question après le cambriolage - Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-la-cybersecurite-du-louvre-en-question-apres-le-cambriolage-98399.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-11-04*
+
+- Le 19 octobre, des voleurs ont utilisé un monte-meubles pour s'introduire par effraction par une fenêtre du deuxième étage et ont dérobé huit bijoux.
+- Les systèmes d'alarme de la fenêtre et de la vitrine contenant les bijoux ont fonctionné comme prévu, selon le ministère français de la Culture, et la police est arrivée sur les lieux en trois minutes.
+- Le raid a entraîné un audit complet de la sécurité du musée.
+- L'Inspection générale des affaires culturelles (IGAC) a remis ses premières conclusions la semaine dernière, incitant le ministre de la Culture à recommander de nouvelles règles de gouvernance et politiques de sécurité, l'installation de caméras de surveillance supplémentaires autour du bâtiment et une mise à jour urgente de tous les protocoles et procédures de sécurité d'ici la fin de l'année.
+
+## [Fournisseurs : la <b>cybersécurité</b> entre dans l'ère de la mutualisation - Alliancy](https://www.alliancy.fr/fournisseurs-la-cybersecurite-entre-dans-lere-de-la-mutualisation/amp)  
+*Source : alliancy.fr | Publication : 2025-11-04*
+
+- Les entreprises françaises réalisent que la sécurité ne se joue plus seules.
+- Le risque fournisseur, longtemps vu comme un souci de contrat ou d’IT, devient un enjeu commun.
+- L’Observatoire TPRM 2025 du CESIN et de Board of Cyber raconte ce tournant : la confiance n’est plus une option, c’est une stratégie.
+- Il y a encore cinq ans, le risque lié aux prestataires ne sortait guère des notes de bas de page.
+
+## [Grand Est. Un hub régional pour une <b>cybersécurité</b> très rapprochée](https://www.republicain-lorrain.fr/economie/2025/11/04/un-hub-regional-pour-une-cybersecurite-tres-rapprochee)  
+*Source : republicain-lorrain.fr | Publication : 2025-11-04*
+
+- Grand Est Cybersécurité très rapprochée : la Région se pare d'un « hub » Nous sommes le 14 février 2020.
+- Un mois avant le confinement, le Grand Est est frappé de plein fouet par une cyberattaque d’ampleur.
+- Les systèmes informatiques du conseil régional sont paralysés.
+- « Cette attaque a été un choc mais aussi un révélateur », se souvient Franck Leroy, président de la collectivité.
+
+## [ChatGPT Atlas exposé à des attaques par injection d'URL - ZATAZ](https://www.zataz.com/chatgpt-atlas-expose-a-des-attaques-par-injection-durl/)  
+*Source : zataz.com | Publication : 2025-11-04*
+
+- ChatGPT Atlas exposé à des attaques par injection d’URL Le navigateur Atlas d’OpenAI, doté d’une IA intégrée, présente une faille critique exploitée via des requêtes déguisées en adresses web.
+- Des chercheurs en cybersécurité ont identifié une vulnérabilité majeure dans Atlas, le navigateur intelligent d’OpenAI.
+- Des attaquants peuvent cacher des commandes malveillantes dans des URL apparemment légitimes, trompant l’IA du navigateur et exécutant des instructions cachées.
+- Ce type d’injection de requêtes révèle les limites actuelles des défenses IA contre la manipulation textuelle.
+
+## [Le cambriolage du Louvre révèle des failles de <b>cybersécurité</b> dignes d'un &quot;manuel à ne pas suivre&quot;](https://sciencepost.fr/le-cambriolage-du-louvre-revele-des-failles-de-cybersecurite-dignes-dun-manuel-a-ne-pas-suivre/)  
+*Source : sciencepost.fr | Publication : 2025-11-04*
+
+- Le 19 octobre 2025, quatre malfaiteurs ont réussi l’impensable : pénétrer dans le musée du Louvre en plein jour et repartir en sept minutes avec neuf bijoux de la couronne de France d’une valeur patrimoniale inestimable.
+- Derrière ce cambriolage spectaculaire se cache une réalité bien plus inquiétante : une décennie de négligence en matière de cybersécurité.
+- Des mots de passe simplistes, des logiciels obsolètes et des alertes systématiquement ignorées ont transformé le musée le plus visité au monde en château de cartes numérique prêt à s’effondrer.
+- Des mots de passe dignes d’un tutoriel de débutant Pour accéder au serveur gérant la vidéosurveillance du Louvre, il suffisait de taper « LOUVRE ».
+
+## [Dans quelle mesure les PME suisses se sentent prêtes face aux <b>cybermenaces</b>?](https://www.ictjournal.ch/etudes/2025-11-04/dans-quelle-mesure-les-pme-suisses-se-sentent-pretes-face-aux-cybermenaces)  
+*Source : ictjournal.ch | Publication : 2025-11-04*
+
+- Dans quelle mesure les PME suisses se sentent prêtes face aux cybermenaces?.
+- Deux PME suisses sur cinq se sentent bien préparées à faire face à une attaque, soit nettement moins qu'il y a un an.
+- Selon l'étude «PME Cybersécurité 2025», de nombreuses petites et moyennes entreprises n’appliquent toujours pas de mesures organisationnelles suffisantes et ne donnent pas à la cybersécurité la priorité qu’elle mérite.
+- Les petites et moyennes entreprises suisses devraient redoubler d’efforts en matière de cybersécurité.
+
+## [L'ANSSI réunit son conseil scientifique le temps d'une journée](https://cyber.gouv.fr/actualites/lanssi-reunit-son-conseil-scientifique-le-temps-dune-journee)  
+*Source : cyber.gouv.fr | Publication : 2025-11-04*
+
+- Le JavaScript n'est pas activé sur votre navigateur.
+- Le JavaScript n'est pas activé sur votre navigateur.
+- Pour vous permettre de naviguer correctement sur notre site, il est nécessaire qu'il soit activé.
+- Comment activer le JavaScript ?.
+
+## [Cybercrime et cyberespionnage constituent les deux principales <b>cybermenaces</b> dans le ...](https://www.mind.eu.com/health/article/cybercrime-et-cyberespionnage-constituent-les-deux-principales-cybermenaces-dans-le-secteur-de-la-sante/)  
+*Source : mind.eu.com | Publication : 2025-11-04*
+
+- “En raison du rôle stratégique que joue la santé dans les économies nationales et de ses relations avec les données les plus sensibles, les risques encourus par ce secteur peuvent avoir de graves conséquences”, indique FireEye à l’occasion de la publication fin août 2019 de son rapport « Beyond compliance : cyber threats and healthcare«.
+- Cette étude s’est penchée sur les types de menaces affectant les organisations du secteur de la santé : “du ciblage de données personnelles des patients à... Cybercrime et cyberespionnage constituent les deux principales cybermenaces dans le secteur de la santé Un rapport de l’entreprise spécialisée dans la sécurité des réseaux informatiques pointe les principales menaces de cybersécurité qui touchent le secteur de la santé.
+- Le ciblage des données personnelles des patients et le cyberespionnage sortent du lot.
+- Vous avez une information à nous partager ?.
+
+## [<b>Cybersécurité</b> : Le réseau d'eau britannique frappé par une vague inédite de cyberattaques ...](https://www.usine-digitale.fr/article/cybersecurite-le-reseau-d-eau-britannique-frappe-par-une-vague-inedite-de-cyberattaques-londres-promet-de-contrattaquer.N2240789)  
+*Source : usine-digitale.fr | Publication : 2025-11-04*
+
+- Verifying your browser before proceeding.
+- Incident ID: a6494a9d-cyai-4be6-affa-ec28839882d2.
+
+## [Exode massif après un assaut contre une plateforme de <b>cybercriminalité</b> en Birmanie](https://lesinguliersete.fr/exode-massif-apres-un-assaut-contre-une-plateforme-de-cybercriminalite-en-birmanie/)  
+*Source : lesinguliersete.fr | Publication : 2025-11-04*
+
+- Société Exode massif après un assaut contre une plateforme de cybercriminalité en Birmanie Une opération militaire contre l’un des principaux centres de fraude en ligne du pays a provoqué un mouvement de panique parmi les travailleurs, dont une partie s’est redirigée vers des structures similaires voisines.
+- Le récent raid mené par l’armée birmane dans le complexe KK Park, l’un des plus importants sites de cyberarnaques du pays, a déclenché un vaste mouvement de fuite vers la Thaïlande voisine.
+- Plus de 1 500 individus de diverses nationalités ont traversé la frontière, selon les autorités provinciales thaïlandaises.
+- Des témoins évoquent une dispersion générale à l’arrivée des militaires, certains profitant de l’occasion pour s’extraire de ce système, tandis que d’autres ont rejoint des installations clandestines similaires dans la région.
+
+## [<b>Cybersécurité</b> 2026 : les trois menaces majeures selon Google Cloud](https://www.solutions-numeriques.com/cyber-securite-2026-les-trois-menaces-majeures-selon-google-cloud/)  
+*Source : solutions-numeriques.com | Publication : 2025-11-04*
+
+- IA et formation : “Le cadre de l’AI Act oblige les entreprises à penser l’éthique dès la conception” Quand l’IA Act redéfinit les contours de l’intelligence artificielle en Europe, certains y voient un frein à l’innovation.
+- Pour Nicolas Bourgerie, fondateur de Teach Up, c’est tout l’inverse.
+- L’entreprise, spécialisée dans les IA appliquées au learning, il défend une approche “éthique by design” où la….
+
+## [Cyber : opportunités et leviers de croissance en Asie du Sud-Est... - FrenchWeb](https://www.frenchweb.fr/webinar-cybersecurite-et-cyberattaques-opportunites-et-leviers-de-croissance-en-asie-du-sud-est-et-en-oceanie/458406)  
+*Source : frenchweb.fr | Publication : 2025-11-04*
+
+- Webinar : Cybersécurité et cyberattaques : opportunités et leviers de croissance en Asie du Sud-Est et en Océanie.
+- Avec Business France, créateurs d'opportunités business La région APAC devient le nouveau terrain de jeu des cybers criminels et prend pour cela une place centrale dans la stratégie des acteurs mondiaux de la cybersécurité.
+- La région abrite 60% de la population mondiale et représente déjà plus de 30% du PIB mondial.
+- Sa digitalisation accélérée, avec notamment le déploiement de solutions de paiement numérique, l’utilisation des superapps, une adoption accélérée de l’IA et des investissements de plusieurs centaines de milliards de dollars dans des centres de données sont des opportunités, mais aussi des sources de menaces.
 
 ## [EUCS en pratique : promesse d'harmonisation européenne ou casse-tête de souveraineté](https://incyber.org/article/eucs-en-pratique-promesse-dharmonisation-europeenne-ou-casse-tete-de-souverainete/)  
 *Source : incyber.org | Publication : 2025-11-03*
