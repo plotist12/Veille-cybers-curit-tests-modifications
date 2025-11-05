@@ -1,5 +1,152 @@
-# Résumés – 2025-11-04
+# Résumés – 2025-11-05
 
+
+## [PODCAST Régulation numérique : promesse ou illusion ? - INCYBER NEWS](https://incyber.org/article/podcast-regulation-numerique-promesse-ou-illusion/)  
+*Source : incyber.org | Publication : 2025-11-05*
+
+- Accueil Cyber stabilité PODCAST Régulation numérique : promesse ou illusion ?.
+- PODCAST Régulation numérique : promesse ou illusion ?.
+- Écrit par La Rédaction 05.11.25 Cyber stabilité Transformation numérique 01 MIN PODCAST Régulation numérique : promesse ou illusion ?.
+- Lien copié !.
+
+## [Zscaler rachète SPLX pour doper ses capacités en sécurité de l'IA - L'Informaticien](https://www.linformaticien.com/magazine/tendances/941-ia/64084-zscaler-rachete-splx-pour-doper-ses-capacites-en-securite-de-l-ia.html)  
+*Source : linformaticien.com | Publication : 2025-11-05*
+
+- Zscaler renforce son expertise en cybersécurité appliquée à l'intelligence artificielle en rachetant SPLX, une entreprise spécialisée dans la.
+
+## [Ambierle. Conseil municipal : le renforcement de la <b>cybersécurité</b> a été validé - Le Progrès](https://www.leprogres.fr/societe/2025/11/05/conseil-municipal-le-renforcement-de-la-cybersecurite-a-ete-valide)  
+*Source : leprogres.fr | Publication : 2025-11-05*
+
+- Ambierle Conseil municipal : le renforcement de la cybersécurité a été validé Le conseil municipal du 3 novembre a débuté par une intervention du Syndicat mixte des monts de la madeleine qui présentait aux élus ses actions en faveur de l’environnement et de la biodiversité.
+- Par la suite, le conseil, avec ses sept dossiers, a validé la convention d’adhésion au service de la protection sociale complémentaire et risque santé couvrant, à charge constante, la mutuelle et la prévoyance des agents communaux.
+- Il a ensuite approuvé la création d’un poste d’Atsem, suite au départ en.
+
+## [<b>Cybersécurité</b> : comment préparer votre entreprise à un avenir « passwordless » - ZDNET](https://www.zdnet.fr/pratique/cybersecurite-comment-preparer-votre-entreprise-a-un-avenir-passwordless-484485.htm)  
+*Source : zdnet.fr | Publication : 2025-11-05*
+
+- Elyse Betters Picaro / ZDNET Les points essentiels à retenir sur les pratiques de la gestion des mots de passe Les mots de passe faibles ou compromis constituent un risque important pour la sécurité des entreprises.
+- - Les employés continuent de réutiliser leurs mots de passe ou de les partager par e-mail.
+- - Un avenir sans mot de passe est possible, mais cela demandera du temps et des efforts.
+- - Utiliser un mot de passe faible ou compromis pour un compte personnel est déjà suffisamment grave.
+
+## [<b>Cybersécurité</b> | L'UQAC au centre de votre sécurité informatique - 95.7 KYK](https://www.957kyk.com/audio/735395/l-uqac-au-centre-de-votre-securite-informatique)  
+*Source : 957kyk.com | Publication : 2025-11-05*
+
+- Sans trop le savoir, l'informatique et la cybersécurité sont omniprésentes dans à peu près toutes les facettes de votre quotidien.
+- Saviez-vous que l'UQAC offre, à l'intérieur de ses formations en informatique, un volet cybersécurité?.
+- Écoutez Elyes Manai, professeur au département d’informatique à l'Université du Québec à Chicoutimi ainsi que ses élèves dans Midi Pile.
+
+## [Accusé de faire la “promotion du suicide”, TikTok visé par une enquête judiciaire en France](https://www.courrierinternational.com/article/reseaux-sociaux-accuse-de-faire-la-promotion-du-suicide-tiktok-vise-par-une-enquete-judiciaire-en-france_237126)  
+*Source : courrierinternational.com | Publication : 2025-11-05*
+
+- Mardi 4 novembre, le parquet de Paris a annoncé avoir ouvert “une enquête [préliminaire] sur TikTok, accusé de mettre en danger la santé mentale de ses jeunes utilisateurs”, écrit Politico Europe.
+- Surtout, l’enquête confiée à la brigade de lutte contre la cybercriminalité de la préfecture de police de la capitale a été décidée car le réseau social chinois est soupçonné “de diffuser sans aucun contrôle des contenus faisant la promotion du suicide”, précise Bloomberg.
+- C’est “la première fois que le sujet de la protection des mineurs sur les réseaux sociaux débouche sur une procédure judiciaire”, explique Politico Europe.
+- Cette “mesure répressive” de la justice française contre TikTok fait suite, raconte Bloomberg, à la publication le 11 septembre d’un rapport parlementaire du député socialiste Arthur Delaporte, lui-même déclenché par la médiatisation de plusieurs cas de suicide et de mutilation d’adolescents dans lesquels la responsabilité de la plateforme de vidéos est pointée du doigt.
+
+## [<b>Cybersécurité</b> : Armis lève 435 millions de dollars pour accélérer sa croissance](https://www.channelnews.fr/cybersecurite-armis-leve-435-millions-de-dollars-pour-accelerer-sa-croissance-152425)  
+*Source : channelnews.fr | Publication : 2025-11-05*
+
+- Le spécialiste californien de la gestion de la surface d’attaque Armis annonce une levée de 435 millions de dollars portant sa valorisation à 6,1 milliards de dollars.
+- La société avait déjà vue sa valorisation quadrupler à 4,2 milliards de dollars après avoir levé 200 millions de dollars en série D en octobre 2024.
+- Le nouveau tour de table est conduit par le fonds Growth Equity de Goldman Sachs Alternatives, avec la participation de CapitalG, la branche capital-risque d’Alphabet.
+- Fondée en 2016 par Yevgeny Dibrov et Nadir Izrael (photo), Armis a annoncé en août avoir franchi la barre des 300 millions de dollars de revenus récurrents annuels contre 200 millions de dollars un an plus tôt.
+
+## [Quantique et <b>cybersécurité</b> : agir aujourd'hui ou doubler la facture dans 10 ans ?](https://www.bcg.com/press/5november2025-quantique-et-cybersecurite-agir-aujourdhui-ou-doubler-la-facture-dans-10-ans)  
+*Source : bcg.com | Publication : 2025-11-05*
+
+- Paris—Imaginez un monde dans lequel toutes les portes s’ouvriraient avec une même clé... qui est volée.
+- Telle est la situation dans laquelle le monde pourrait basculer en 2035 avec l’ordinateur quantique : en cassant les algorithmes de cryptographie les plus utilisés, cette machine pourrait rendre vulnérables toutes les données qu’ils protègent.
+- Pour parer un tel scénario, une course mondiale à la sécurisation post-quantique est lancée.
+- Comment les entreprises peuvent-elles s'y préparer ?.
+
+## [AVIS D'EXPERT : L'importance de la norme NIS2 dans les secteurs critiques](https://www.solutions-numeriques.com/tribune-limportance-de-la-norme-nis2-dans-les-secteurs-critiques/)  
+*Source : solutions-numeriques.com | Publication : 2025-11-05*
+
+- Experis et Systancia s’allient pour renforcer la cybersécurité souveraine des entreprises Experis, marque du groupe ManpowerGroup, et Systancia, éditeur français indépendant de cybersécurité, annoncent un partenariat pour développer une offre souveraine autour du Zero Trust, de l’IAM et du PAM.
+- Ensemble, ils entendent proposer une alternative crédible et locale aux solutions étrangères, dans un contexte de….
+
+## [Plus de la moitié des détaillants touchés paient la rançon lors d'une attaque par <b>ransomware</b>](https://itdaily.fr/nouvelles/securite/detaillants-paient-ransomware/)  
+*Source : itdaily.fr | Publication : 2025-11-05*
+
+- Une nouvelle étude de Sophos révèle que 58 % des organisations de vente au détail paient une rançon après une attaque par ransomware.
+- Les vulnérabilités inconnues restent notamment une voie d’accès majeure pour les attaquants.
+- Selon le nouveau rapport State of Ransomware in Retail 2025 de Sophos, 58 % des organisations de vente au détail touchées par un ransomware ont payé une rançon pour récupérer leurs données.
+- Il s’agit du deuxième taux de paiement le plus élevé en cinq ans.
+
+## [Les entreprises suisses investissent davantage dans la <b>cybersécurité</b> - Organisator](https://www.organisator.ch/fr/operational-excellence/2025-11-05/schweizer-unternehmen-investieren-mehr-in-cybersicherheit/)  
+*Source : organisator.ch | Publication : 2025-11-05*
+
+- Les entreprises suisses investissent davantage dans la cybersécurité Selon une étude de PwC, les entreprises suisses investissent davantage dans la cybersécurité, mais comparativement pas encore assez.
+- 52 % des entreprises interrogées augmentent leurs dépenses, contre 60 % au niveau mondial.
+- Face aux tensions géopolitiques et à l'évolution rapide des technologies, les entreprises suisses augmentent leurs investissements dans la cybersécurité - mais elles restent à la traîne en comparaison internationale.
+- La nouvelle étude PwC «Global Digital Trust Insights 2026» donne un aperçu des stratégies de cybersécurité des entreprises suisses et montre où il faut agir.
+
+## [Black Friday : l'occasion de passer (enfin !) au VPN - Les Numériques](https://www.lesnumeriques.com/vpn/black-friday-l-occasion-de-passer-enfin-au-vpn-na244019.html)  
+*Source : lesnumeriques.com | Publication : 2025-11-05*
+
+- Black Friday : l'occasion de passer (enfin !).
+- au VPN 19 milliards de mots de passe exposés, des violations de données en hausse de 20%... Face à l'explosion des cybermenaces, les suites de cybersécurité tout-en-un s'imposent comme la réponse adaptée.
+- Tour d'horizon des offres NordVPN à l'occasion du Black Friday.
+- Les chiffres de la cybercriminalité en 2025 sont sans appel !.
+
+## [« L'intelligence artificielle générative est un projet d'entreprise transversal » Éric Vedel ...](https://www.solutions-numeriques.com/lintelligence-artificielle-generative-est-un-projet-dentreprise-transversal-eric-vedel-directeur-cybersecurite-cisco-france/)  
+*Source : solutions-numeriques.com | Publication : 2025-11-05*
+
+- Apptio apporte une réponse FinOps à la hausse des coûts cloud liés à l’intelligence artificielle De nombreuses entreprises peinent encore à tirer une réelle valeur de leurs investissements en intelligence artificielle.
+- Iria Saleiro, RVP Europe du Sud chez Apptio, nous expliquait que cette difficulté tient souvent à un même problème : un manque de visibilité sur les coûts et leur….
+
+## [Comment un simple mot de passe a failli faire tomber le Louvre - DataScientest](https://datascientest.com/comment-un-simple-mot-de-passe-a-failli-faire-tomber-le-louvre)  
+*Source : datascientest.com | Publication : 2025-11-05*
+
+- Le musée du Louvre utilisait le mot de passe « Louvre » pour protéger son serveur de vidéosurveillance, selon des documents confidentiels issus d’un audit de sécurité de 2014 révélés lundi par le quotidien français Libération.
+- Cette faille de cybersécurité critique, découverte il y a plus de dix ans par l’agence française ANSSI, était restée confidentielle jusqu’à présent, alors que le musée parisien mondialement célèbre est sous le feu des projecteurs à la suite d’un cambriolage survenu en octobre 2025.
+- La révélation intervient alors que le musée fait l’objet d’un examen approfondi de ses pratiques de sécurité après un cambriolage en octobre 2025.
+- Selon l’article de Libération, qui cite des documents confidentiels de l’audit datant d’une décennie, accéder aux flux de surveillance du musée n’exigeait rien de plus que de taper le nom même de l’institution dans le champ du mot de passe.
+
+## [Trois experts en <b>cybersécurité</b> accusés d'avoir exploité le <b>ransomware</b> BlackCat - ZATAZ](https://www.zataz.com/trois-experts-en-cybersecurite-accuses-davoir-exploite-le-ransomware-blackcat/)  
+*Source : zataz.com | Publication : 2025-11-05*
+
+- Trois experts en cybersécurité accusés d’avoir exploité le ransomware BlackCat Trois spécialistes américains de la cybersécurité sont accusés d’avoir utilisé le ransomware BlackCat pour attaquer cinq entreprises, détournant leur expertise en réponse à incident à des fins criminelles.
+- Aux États-Unis, trois professionnels de la cybersécurité, dont deux employés de sociétés spécialisées dans la réponse à incident et la négociation de rançons (sic!).
+- ont été inculpés pour avoir mené leurs propres attaques de ransomware à l’aide du malware ALPHV/BlackCat.
+- Selon les procureurs fédéraux, ils auraient ciblé cinq entreprises entre mai 2023 et avril 2025, extorquant près de 1,3 million de dollars à une société médicale basée en Floride.
+
+## [Faillance de <b>cybersécurité</b> : le mot de passe du système de vidéosurveillance du Louvre était…](https://pragmatika.media/fr/news/proval-kiberbezpeky-parolem-systemy-videosposterezhennia-luvru-buv-luvr/)  
+*Source : pragmatika.media | Publication : 2025-11-05*
+
+- Français journal Libération a obtenu des documents confidentiels qui révèlent des failles persistantes dans les systèmes de sécurité du Louvre.
+- Des ingénieurs de l'Agence nationale de la sécurité informatique (ANSSI) ont pu manipuler librement le système de vidéosurveillance et les badges d'accès lors d'un audit en 2014.
+- Selon Libération, il suffisait de saisir le mot de passe « LOUVRE » pour accéder au serveur qui gérait la vidéosurveillance du musée, ou « THALES » pour se connecter à l’un des logiciels de Thales.
+- Des audits ultérieurs ont également révélé de « graves lacunes » et une « mauvaise gestion » des flux de visiteurs.
+
+## [Attaques ciblées, les services de confiance deviennent le canal privilégié des cybercriminels](https://itsocial.fr/cybersecurite/cybersecurite-articles/attaques-ciblees-les-services-de-confiance-deviennent-le-canal-privilegie-de-cybercriminels/)  
+*Source : itsocial.fr | Publication : 2025-11-05*
+
+- Le rapport annuel de Mimecast décrypte un paysage de la cybermenace en pleine transformation grâce à l’exploitation systématique des services légitimes, l’ingénierie sociale dopée à l’IA, le ciblage sectoriel fin et la pression croissante sur les environnements collaboratifs.
+- Dans ce paysage hyperconnecté, les entreprises doivent repenser leur stratégie défensive en combinant gouvernance humaine et sécurité multicouche.
+- L’étude Global Threat Intelligence Report 2025 de Mimecast, issue de l’analyse de plus de 24 000 milliards d’événements, dresse une cartographie précise des évolutions tactiques observées sur les neuf premiers mois de l’année.
+- Elle met en lumière l’industrialisation des attaques basées sur la confiance, l’utilisation stratégique de l’IA générative dans les campagnes d’hameçonnage, et l’explosion des compromissions via les plateformes collaboratives.
+
+## [La société de <b>cybersécurité</b> Armis évaluée à 6,1 milliards de dollars lors de son dernier tour de table](https://www.boursorama.com/bourse/actualites-amp/la-societe-de-cybersecurite-armis-evaluee-a-6-1-milliards-de-dollars-lors-de-son-dernier-tour-de-table-6d77d8e4c527ebb8fee6073032611683)  
+*Source : boursorama.com | Publication : 2025-11-05*
+
+- La société de cybersécurité Armis évaluée à 6,1 milliards de dollars lors de son dernier tour de table information fournie par Reuters 05/11/2025 à 14:19 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Armis a annoncé mercredi avoir levé 435 millions de dollars lors de son tour de table, ce qui valorise l'entreprise de cybersécurité israélo-américaine à 6,1 milliards de dollars, soit une augmentation de plus de 45 % en un peu plus d'un an.
+- La demande d'outils de prévention des menaces numériques a explosé à la suite d'attaques ciblées contre des infrastructures électroniques critiques utilisées par des entreprises et des gouvernements.
+- Une série de cyberattaques a coûté des milliards en pertes monétaires et en fuites de données dans le monde entier rien que cette année , et les législateurs ont appelé à faire de la cyber-résilience une priorité au niveau du conseil d'administration.
+- Le dernier financement d'Armis a été mené par la plateforme d'investissements alternatifs de Goldman Sachs GS.N , l'investisseur existant CapitalG ayant également participé au tour de table.
+
+## [Experis et Systancia s'allient pour renforcer la <b>cybersécurité</b> souveraine des entreprises](https://www.solutions-numeriques.com/experis-et-systancia-sallient-pour-renforcer-la-cybersecurite-souveraine-des-entreprises/)  
+*Source : solutions-numeriques.com | Publication : 2025-11-05*
+
+- CrowdStrike muscle son SOC augmenté par l’IA CrowdStrike poursuit sa transformation du SOC vers l’ère de « l’agentic security ».
+- L’éditeur dévoile une nouvelle vague d’innovations fondées sur l’intelligence artificielle collaborative : Charlotte Agentic SOAR, une Agentic Security Workforce étendue, et de nouveaux outils Falcon for XIoT.
+- Du SOC automatisé au SOC….
+
+## [<b>Cybersécurité</b> : le ministère de l'Agriculture confie son audit à Near Secure - Telquel](https://telquel.ma/2025/11/05/cybersecurite-le-ministere-de-lagriculture-confie-son-audit-a-near-secure_1959533)  
+*Source : telquel.ma | Publication : 2025-11-05*
+
+- Selon des sources consultées par TelQuel, cette mission vient d'être confiée à la société Near Secure, spécialisée dans la cybersécurité et la… La.
 
 ## [Campus Cyber : les défis de la <b>cybersécurité</b> – 04/11 - BFMTV](https://www.bfmtv.com/economie/replay-emissions/01-business/campus-cyber-les-defis-de-la-cybersecurite-04-11_EN-202511040998.html)  
 *Source : bfmtv.com | Publication : 2025-11-04*
