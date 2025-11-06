@@ -1,5 +1,155 @@
-# Résumés – 2025-11-05
+# Résumés – 2025-11-06
 
+
+## [Piégés par des hackers, des clients de Booking paient leur réservation à l'hôtel, puis une ... - Clubic](https://www.clubic.com/actualite-586177-pieges-par-des-hackers-des-clients-de-booking-paient-leur-reservation-a-l-hotel-puis-une-seconde-fois-aux-pirates.html)  
+*Source : clubic.com | Publication : 2025-11-06*
+
+- Une grosse campagne de phishing cible actuellement les hôtels sur Booking, et leurs clients.
+- Les victimes paient leur réservation deux fois : à l'établissement et au cybercriminel, comme le révèle Sekoia.
+- Des hackers parviennent à pirater les comptes Booking.com des hôtels pour accéder aux données de réservation.
+- Ils contactent ensuite les clients avec leurs vraies informations et se font passer pour l'établissement.
+
+## [Pilat - Cyberattaques, les petites communes sont aussi touchées - Le Réveil Vivarais](https://le-reveil-vivarais.fr/pilat/pilat-cyberattaques-petites-communes-touchees/)  
+*Source : le-reveil-vivarais.fr | Publication : 2025-11-06*
+
+- Face à la vulnérabilité croissante des collectivités, le département de la Loire a lancé le projet Loire Connect dans le cadre de son Schéma directeur territorial d’aménagement numérique (SDTAN).
+- Ces dernières années, le conseil départemental de la Loire a mis en place une stratégie concrète et proactive pour protéger les communes des cybermenaces, en s’appuyant sur la solution Detoxio de la start-up stéphanoise Serenicity.
+- Ce dispositif a déjà fait ses preuves sur le terrain en bloquant des centaines de milliers de tentatives d’intrusion.
+- Ce boîtier, installé en complément des équipements existants, agit comme un filtre protecteur en analysant les flux réseau pour détecter et bloquer en temps réel les connexions toxiques avant qu’elles n’atteignent les serveurs des mairies.
+
+## [AVIS D'EXPERT – Les fournisseurs de solutions cyber, les nouveaux maillons faibles ?](https://www.solutions-numeriques.com/avis-dexpert-les-fournisseurs-de-solutions-cyber-les-nouveaux-maillons-faibles/)  
+*Source : solutions-numeriques.com | Publication : 2025-11-06*
+
+- Google rêve d’une IA… alimentée par le soleil Et si le futur de l’intelligence artificielle se jouait au-dessus de nos têtes ?.
+- Avec Project Suncatcher, Google explore une idée qui semble tout droit sortie d’un roman de science-fiction : créer des constellations de satellites capables d’entraîner des modèles de machine learning, directement dans….
+
+## [Cambriolage au Louvre : mots de passe, badges, caméras… La <b>cybersécurité</b> du musée également](https://nantes.maville.com/actu/actudet_-cambriolage-au-louvre-mots-de-passe-badges-cameras...-la-cybersecurite-du-musee-egalement-epinglee-_54135-7052432_actu.Htm)  
+*Source : nantes.maville.com | Publication : 2025-11-06*
+
+- Depuis le cambriolage du Louvre le 19 octobre 2025, le musée parisien est pointé du doigt pour des problèmes autour de sa sécurité.
+- Cela inclut également des failles informatiques mises en évidence depuis plus de dix ans et dans un rapport de la Cour des comptes rendu ce jeudi.
+- « Le vol de joyaux de la Couronne est, à n’en pas douter, un signal d’alarme assourdissant sur le rythme très insuffisant » de rénovation des équipements de sécurité du musée, a déclaré.
+- Cet article est réservé aux abonnés Pour un accès immédiat, abonnez-vous 1ère semaine offerte Déjà abonné ?.
+
+## [Ces virus IA sont capables de muter en temps réel pendant une cyberattaque - 01net.com](https://www.01net.com/actualites/virus-ia-capables-muter-temps-reel-pendant-cyberattaque.html)  
+*Source : 01net.com | Publication : 2025-11-06*
+
+- Google alerte sur l’apparition de nouvelles familles de virus qui utilisent l’intelligence artificielle générative.
+- Le Google Threat Intelligence Group (GTIG), l’équipe interne de Google spécialisée dans la recherche sur les logiciels malveillants, a en effet découvert de plus en plus de malwares qui reposent, du moins en partie, sur des modèles de langage.
+- Les hackers n’exploitent plus l’intelligence artificielle « uniquement pour gagner en productivité, ils déploient désormais des malwares innovants, propulsés par l’IA, lors d’opérations actives ».
+- À lire aussi : Voici le précurseur des virus pilotés par l’IA, MalTerminal Des malwares qui mutent en pleine attaque Les virus épinglés par Google se servent de l’IA au cours de la cyberattaque.
+
+## [Guillaume Hiet, responsable du cursus « <b>Cybersécurité</b> » sur le campus de à Rennes, nous présente](https://www.youtube.com/watch?v=WtMqNduW5UE)  
+*Source : youtube.com | Publication : 2025-11-06*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Cambriolage au Louvre : mots de passe, badges, caméras… La <b>cybersécurité</b> du musée ...](https://www.ouest-france.fr/faits-divers/cambriolage/cambriolage-au-louvre-mots-de-passe-badges-cameras-la-cybersecurite-du-musee-egalement-epinglee-fe6d93a2-ba29-11f0-b227-510f72443e00)  
+*Source : ouest-france.fr | Publication : 2025-11-06*
+
+- La cybersécurité du musée également épinglée.
+- Depuis le cambriolage du Louvre le 19 octobre 2025, le musée parisien est pointé du doigt pour des.
+
+## [Protection des citoyens lors des opérations de démantèlement de réseaux d'escroquerie](https://lecourrier.vn/protection-des-citoyens-lors-des-operations-de-demantelement-de-reseaux-descroquerie/1294762.html)  
+*Source : lecourrier.vn | Publication : 2025-11-06*
+
+- >> Nguyên Hoa Binh (Shark Binh) accusé d’un détournement massif de fonds liés au projet Antex >> Des mécanismes de coopération pour la protection des citoyens vietnamiens >> Escroquerie en ligne : nouvelles arrestations de Sud-Coréens au Cambodge Selon les informations communiquées par les ambassades du Vietnam en Thaïlande et au Myanmar, au 22 octobre 2025, plus de 70 Vietnamiens avaient traversé la frontière pour se rendre en Thaïlande après que les forces birmanes ont lancé une vaste campagne de démantèlement de sites impliqués dans des activités criminelles, notamment des arnaques sur Internet.
+- À la nouvelle de cette affaire, les missions diplomatiques vietnamiennes dans les deux pays ont travaillé avec les autorités locales afin de vérifier les faits, procéder au filtrage et à l’identification des personnes concernées, et mettre en œuvre les mesures de protection consulaire, conformément aux lois vietnamiennes et du pays hôte.
+- Le ministère des Affaires étrangères a demandé aux ambassades concernées et aux services compétents de coopérer étroitement avec les autorités vietnamiennes et locales pour accomplir les procédures consulaires nécessaires et organiser le rapatriement des citoyens dans les plus brefs délais.
+- Le ministère a, de nouveau, mis en garde les Vietnamiens contre les offres d’emploi « faciles et très bien rémunérées » à l’étranger, sans exigence de diplôme ni contrat de travail, souvent sans l’intermédiaire d’entreprises ou d’organismes autorisés.
+
+## [Gouvernance numérique : NIS 2 et DORA changent la donne - Security - France - Mondaq](https://www.mondaq.com/france/security/1700882/gouvernance-numérique-nis-2-et-dora-changent-la-donne)  
+*Source : mondaq.com | Publication : 2025-11-06*
+
+- in European Union - in European Union - in European Union - in European Union - in European Union - within Environment topic(s) - Derrière les sigles européens NIS 2 (directive sur la sécurité des réseaux) et DORA (Digital Operational Resilience Act), se profile bien davantage qu'une simple évolution technique.
+- Ces textes inaugurent une mutation structurelle du droit de la conformité numérique : celle du passage d'un modèle de défense réactive à une responsabilité proactive du dirigeant.
+- Comme le rappelle Me Gérard Haas, avocat en droit du numérique et de la cybersécurité, « ces textes ne bouleversent pas la responsabilité du dirigeant, mais lui rappellent que la cybersécurité est désormais un devoir de gouvernance.
+- » Le droit français connaissait déjà la faute de gestion et la responsabilité du dirigeant en cas de manquement à ses obligations de conformité.
+
+## [Les malwares IA, finalement pas si terrifiants que ça ? Google brise le mythe - Clubic](https://www.clubic.com/actualite-586045-les-malwares-ia-finalement-pas-si-terrifiants-que-ca-google-brise-le-mythe.html)  
+*Source : clubic.com | Publication : 2025-11-06*
+
+- Alors que le monde de la cybersécurité frémissait à l’idée de logiciels malveillants dopés à l’intelligence artificielle, Google vient siffler la fin de la récréation.
+- La montagne de la menace accoucherait-elle finalement d’une souris numérique, certes futée, mais pas si dangereuse ?.
+- L’effervescence médiatique autour des malwares capables d’apprendre et de muter grâce à l’IA laissait présager des lendemains difficiles pour nos antivirus.
+- On nous promettait des cyberattaques autonomes, quasi insaisissables.
+
+## [L'IA générative commence à alimenter l'exécution des malwares - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/ia-generative-execution-malwares-224289)  
+*Source : silicon.fr | Publication : 2025-11-06*
+
+- L’IA générative n’est plus seulement utilisée dans la phase de développement des malwares : elle l’est aussi lors de leur exploitation.
+- Google s’en fait l’écho… et en donne 5 exemples.
+- Parmi eux, un dropper VBScript qu’il a appelé PROMPTFLUX.
+- Un dropper réécrit son code grâce à Gemini Identifié début juin, le malware fait appel à la dernière version de Gemini Flash 1.5 – via l’API, la clé étant intégrée en dur – pour l’aider à obscurcir son code.
+
+## [Datadog porté par la demande en <b>cybersécurité</b> dopée par l'IA - Zonebourse](https://www.zonebourse.com/actualite-bourse/datadog-porte-par-la-demande-en-cybersecurite-dopee-par-l-ia-ce7d5cd2d180ff2d)  
+*Source : zonebourse.com | Publication : 2025-11-06*
+
+- Datadog a revu à la hausse ses prévisions pour le quatrième trimestre, misant sur une demande soutenue en solutions de sécurité cloud, stimulée par l’essor de l’intelligence artificielle dans les entreprises.
+- Cette dynamique contribue à une progression de plus de 20% de son action lors de la séance à Wall Street, poursuivant une hausse de 8,5% depuis le début de l’année.
+- L’entreprise s’appuie sur des outils capables de fournir une supervision en temps réel, un contrôle d’accès accru et une protection des infrastructures connectées.Intégré depuis juillet à l’indice S&amp;P 500, Datadog bénéficie de la confiance de grandes entreprises comme Shell, PayPal ou Comcast.
+- Pour le trimestre en cours, le groupe prévoit un chiffre d’affaires compris entre 912 et 916 millions de dollars, bien au-delà des 887,27 millions attendus par les analystes.
+
+## [Pourquoi externaliser la <b>cybersécurité</b> devient crucial - ZATAZ](https://www.zataz.com/pourquoi-externaliser-la-cybersecurite-devient-crucial/)  
+*Source : zataz.com | Publication : 2025-11-06*
+
+- Pourquoi externaliser la cybersécurité devient crucial La multiplication des attaques pousse les entreprises à externaliser leur sécurité numérique.
+- Les services SOC managés deviennent un pilier stratégique face à la pénurie mondiale d’experts.
+- Les centres d’opérations de sécurité (SOC) managés s’imposent comme une réponse clé aux menaces croissantes et au manque de talents en cybersécurité.
+- En offrant une surveillance continue, une réponse rapide aux incidents et une conformité réglementaire renforcée, ils permettent aux organisations de se protéger efficacement tout en optimisant leurs coûts.
+
+## [Genève: 30 cadres testent leur réaction lors d'une cyberattaque simulée](https://www.tdg.ch/geneve-30-cadres-testent-leur-reaction-lors-dune-cyberattaque-simulee-107352605309)  
+*Source : tdg.ch | Publication : 2025-11-06*
+
+- Cybersécurité et gestion de criseVoyage au bout de la crise pour les cadres de la Battle À Genève, trente dirigeants plongent vendredi dans le scénario-choc de Crisalead.
+- Proton, de son côté, traque le trafic de données volées.
+- La 5e édition de la Battle plongera vendredi trois équipes d’une dizaine de cadres d’entreprise dans vingt-quatre heures de simulation de cybercrise.
+- - Organisé par l’agence Crisalead et la HEG de Genève, cet exercice a abordé par le passé des détournements de fonds dans une banque ou des attaques d’activistes.
+
+## [French Tech 2030 : quelles sont les 80 startups de la nouvelle promotion ? - Maddyness](https://www.maddyness.com/2025/11/06/french-tech-2030-quelles-sont-les-80-startups-de-la-nouvelle-promotion/)  
+*Source : maddyness.com | Publication : 2025-11-06*
+
+- Bâtir la souveraineté technologique de la France, c’est l’objectif revendiqué par la Mission French Tech avec le programme French Tech 2030.
+- Lancé en 2023, le dispositif s’inscrit, comme son nom l’indique, dans le sillage du plan de relance France 2030 porté par l’État.
+- Après une première promotion de 125 startups il y a deux ans, la Mission French Tech a dévoilé ce jeudi 6 novembre une nouvelle cohorte de 80 jeunes pousses depuis les locaux de Future4Care, dans le XIIIe arrondissement de Paris.
+- Pour l’occasion, Roland Lescure, ministre de l’Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique, Anne Le Hénanff, ministre déléguée chargée de l’Intelligence artificielle et du Numérique qui accordé sa première interview en exclusivité à Maddyness, Christel Heydemann, directrice générale d’Orange, et marraine du programme, ainsi que Julie Huguet, directrice de la Mission French Tech, étaient présents.
+
+## [Shopify constate une forte hausse des ventes issues des recherches IA](https://www.solutions-numeriques.com/shopify-constate-une-forte-hausse-des-ventes-issues-des-recherches-ia/)  
+*Source : solutions-numeriques.com | Publication : 2025-11-06*
+
+- Yousign devient Youtrust et vise le leadership européen de la confiance digitale Alors que la digitalisation massive des processus métier accroît les risques de falsification et d’usurpation, Yousign change d’échelle et d’identité.
+- L’entreprise française, spécialiste de la signature électronique, devient Youtrust, avec l’ambition d’incarner la référence européenne de la confiance digitale souveraine.
+- De la signature à la….
+
+## [<b>Cybersécurité</b> augmentée par l'IA, des ambitions fortes mais peu de résultats visibles](https://itsocial.fr/contenus/articles-decideurs/cybersecurite-augmentee-par-lia-des-ambitions-fortes-mais-peu-de-resultats-visibles/)  
+*Source : itsocial.fr | Publication : 2025-11-06*
+
+- En théorie, l’IA promet une posture de défense proactive, pilotée par la donnée et libérée des angles morts humains.
+- En pratique, les entreprises peinent à retrouver ces promesses dans leurs opérations quotidiennes.
+- L’étude PwC 2026 met en évidence un malaise croissant : les outils se multiplient, mais la confiance ne suit pas.
+- Les fournisseurs de cybersécurité vantent les vertus de l’intelligence artificielle pour détecter les signaux faibles, anticiper les comportements anormaux et neutraliser les menaces avant qu’elles ne se matérialisent, mais les résultats en entreprise restent mitigés.
+
+## [Cybersecurity made in Europe – Wavestone recognized as a &quot;strong performer&quot;](https://www.wavestone.com/fr/news/cybersecurite-europe-wavestone-strong-performer-forrester-2025/)  
+*Source : wavestone.com | Publication : 2025-11-06*
+
+- Cybersecurity made in Europe – Wavestone recognized as a « strong performer » 6 novembre 2025 · News En bref « Nous sommes fiers et ravis de cette reconnaissance, qui selon nous souligne notre compétence dans le domaine de la cybersécurité.
+- » Chez Wavestone, notre objectif a toujours été clair : être un champion européen du conseil avec une portée mondiale.
+- En tant que Wavestone, nous visons à fournir le meilleur accompagnement possible aux grandes entreprises dans un environnement marqué par un dynamisme technologique croissant, des exigences réglementaires et des pressions liées à la durabilité.
+- La reconnaissance de Forrester vient saluer le chemin que nous avons emprunté et témoigne à la fois de l’excellence de nos équipes de conseil et de l’impact de notre stratégie de croissance.
+
+## [Roger Gerhard nommé Key Account Manager pour la Suisse romande et le Tessin chez BOLL](https://www.ictjournal.ch/news/2025-11-06/roger-gerhard-nomme-key-account-manager-pour-la-suisse-romande-et-le-tessin-chez)  
+*Source : ictjournal.ch | Publication : 2025-11-06*
+
+- Roger Gerhard nommé Key Account Manager pour la Suisse romande et le Tessin chez BOLL BOLL renforce sa présence en Suisse romande et au Tessin avec la nomination de Roger Gerhard au poste de Key Account Manager.
+- Le distributeur de solutions de cybersécurité BOLL, dont le siège est à Wettingen et la succursale au Mont-sur-Lausanne, renforce sa présence en Suisse romande avec la nomination de Roger Gerhard au poste de responsable des grands comptes (Key Account Manager) pour la Suisse romande et le Tessin, selon un communiqué.
+- Il sera chargé du suivi et du développement des partenaires commerciaux dans l’ouest et le sud du pays.
+- Titulaire d’un Bachelor of Arts and Sciences de l’Université du Connecticut, Roger Gerhard cumule plus de 24 ans d’expérience dans la distribution IT.
+
+## [<b>Cybercriminalité</b> : L'Europe dans le viseur - L'Usine Digitale](https://www.usine-digitale.fr/editorial/cybercriminalite-l-europe-dans-le-viseur.N2240939)  
+*Source : usine-digitale.fr | Publication : 2025-11-06*
+
+- Verifying your browser before proceeding.
+- Incident ID: 3b835d07-cyai-45b4-a3bf-262582147b40.
 
 ## [PODCAST Régulation numérique : promesse ou illusion ? - INCYBER NEWS](https://incyber.org/article/podcast-regulation-numerique-promesse-ou-illusion/)  
 *Source : incyber.org | Publication : 2025-11-05*
