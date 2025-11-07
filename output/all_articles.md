@@ -1,5 +1,158 @@
-# Résumés – 2025-11-06
+# Résumés – 2025-11-07
 
+
+## [PROMPTFLUX - Le malware qui demande à Gemini comment échapper aux antivirus](https://korben.info/promptflux-malware-gemini-llm-runtime-generation.html)  
+*Source : korben.info | Publication : 2025-11-07*
+
+- PROMPTFLUX - Le malware qui demande à Gemini comment échapper aux antivirus En bref Les malwares demandent maintenant à Gemini comment réécrire leur code pour échapper aux antivirus – et ça marche - La Russie et la Corée du Nord utilisent des IA pour générer des malwares à la volée : chaque attaque est unique, les signatures antivirus deviennent obsolètes en une heure - Les cybercriminels vendent des abonnements malware-as-a-service avec IA intégrée : version gratuite pour tester, premium pour les fonctions avancées, support Discord inclus - Bon vous savez tous comment marche votre antivirus.
+- Il détecte un malware, il le bloque, et tout revient à la normale.
+- Mais si je vous disais que maintenant, c’est parfaitement possible qu’une heure plus tard le même malware se repointe, sauf que c’est plus le même, parce que son code a changé.
+- Car entre temps, il a demandé à Google Gemini de le réécrire… Bien c’est pas de la science-fiction, hein, c’est ce que décrit un rapport du Google Threat Intelligence Group (GTIG) qui nous présente une nouvelle génération de malwares qui intègrent des LLM directement dans leur exécution.
+
+## [Caméras, anti-voiture bélier, centre de <b>cybersécurité</b>... Le Louvre présente des «mesures d'urgence](https://www.lefigaro.fr/culture/cameras-anti-voiture-belier-centre-de-cybersecurite-le-louvre-presente-des-mesures-d-urgence-sur-la-securite-20251107)  
+*Source : lefigaro.fr | Publication : 2025-11-07*
+
+- Caméras, anti-voiture bélier, centre de cybersécurité.
+- Le Louvre présente des «mesures d'urgence» sur la sécurité Les syndicats ont fait part de leur réaction mitigée après la présentation du plan ce vendredi, au cours du conseil d’administration extraordinaire convoqué après le vol de joyaux de la Couronne.
+- Passer la publicité Passer la publicitéLa direction du Louvre a présenté vendredi des «mesures d'urgence» sur la sécurité lors d'un conseil d'administration extraordinaire convoqué après le vol de joyaux de la Couronne, mais sans annoncer de nouveaux moyens humains au grand dam des syndicats.
+- La ministre de la Culture Rachida Dati avait ordonné cette réunion d'urgence le 31 octobre après avoir fait état d'une «sous-estimation chronique» des risques d'intrusion et de vols au Louvre, sur la foi de l'enquête administrative lancée après le spectaculaire casse du 19 octobre.
+
+## [&quot;Apocalypse numérique&quot;: de l'électricité aux télécommunications, comment la Russie utilise ...](https://www.bfmtv.com/tech/actualites/cybersecurite/apocalypse-numerique-de-l-electricite-aux-telecommunications-comment-la-russie-utilise-des-logiciels-destructeurs-pour-semer-le-chaos-en-ukraine_AN-202511070778.html)  
+*Source : bfmtv.com | Publication : 2025-11-07*
+
+- "Apocalypse numérique": de l’électricité aux télécommunications, comment la Russie utilise des logiciels destructeurs pour semer le chaos en Ukraine Depuis le début de l’offensive russe en Ukraine, la guerre ne s'est pas limitée aux champs de bataille traditionnels.
+- Fusils d’assaut, chars et avions ne représentent qu'une part des armes, qu'une ligne des fronts.
+- Le conflit s'était ouvert sur des cyberattaques préalables.
+- Alors que le conflit a déjà fait plusieurs centaines de milliers de victimes civiles et militaires, les infrastructures numériques sont également visées.
+
+## [<b>Cybersécurité</b> : des bus électriques chinois contrôlables à distance circulent en Europe, la ...](https://www.leparisien.fr/high-tech/cybersecurite-des-bus-electriques-chinois-controlables-a-distance-circulent-en-europe-la-marque-presente-en-france-07-11-2025-L2YBI7STHJAYVC76SEGRUAR6TE.php)  
+*Source : leparisien.fr | Publication : 2025-11-07*
+
+- Cybersécurité : des bus électriques chinois contrôlables à distance circulent en Europe, la marque présente en France Des bus électriques Yutong sont désactivables à distance, selon une étude publiée en Norvège, où ils circulent en nombre.
+- La marque chinoise est aussi présente à Paris, Strasbourg, Lyon, Toulouse et Marseille.
+- L’alerte est lancée.
+- Les autorités danoises et norvégiennes savent désormais qu’il existe une faille importante de sécurité dans leur système de transports : une enquête vient de montrer que des bus électriques chinois de la marque Yutong, en service dans ces pays, sont en effet désactivables à distance, rapporte le média The Guardian.
+
+## [Télécommunications : quelles études, quelles formations pour intégrer le secteur - L'Etudiant](https://www.letudiant.fr/etudes/secteurs/telecommunications-quelles-etudes-quelles-formations-pour-integrer-ce-secteur.html)  
+*Source : letudiant.fr | Publication : 2025-11-07*
+
+- Télécommunications : quelles études, quelles formations pour intégrer le secteur ?.
+- Les télécommunications constituent un domaine pivot de la transformation numérique, garantissant la transmission rapide et sécurisée des données à travers le monde.
+- Etudes, métiers, débouchés … L’Etudiant fait le point sur les formations pour travailler dans les télécoms.
+- Sommaire Les articles en lien avec le secteur télécommunications - Nos tests orientation du secteur télécommunications - Nos partenaires études du secteur télécommunications - Les formations du secteur télécommunications - Les établissements du secteur télécommunications - Secteurs métiers télécommunications - Les métiers du secteur télécommunications - Secteur des télécommunications : de quoi parle-t-on ?.
+
+## [<b>Cybersécurité</b>: la CNDP muscle sa surveillance du darkweb - H24info](https://h24info.ma/maroc/cybersecurite-la-cndp-darkweb/)  
+*Source : h24info.ma | Publication : 2025-11-07*
+
+- Cybersécurité : la CNDP muscle sa surveillance du darkweb.
+- La Commission nationale de contrôle de la protection des données à caractère Personnel (.
+
+## [Coordinateur.trice de projets en <b>cybersécurité</b> Lannion | Choisir le service public](https://choisirleservicepublic.gouv.fr/offre-emploi/coordinateurtrice-de-projets-en-cybersecurite-reference-2025-2100920/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2025-11-07*
+
+- Coordinateur.trice de projets en cybersécurité Référence : 2025-2100920 Fonction publique : Fonction publique de l'État - Employeur : Université de Rennes Université de Rennes - Localisation : Lannion - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Non renseigné - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie A (cadre) - Management Non renseigné - Télétravail possible Non renseigné - Vos missions en quelques mots Rattaché.e à la Responsable du pôle « Projets d’Avenir et Digitalisation » et en lien étroit avec le responsable scientifique de CyberSkills4All, vous contribuerez en particulier au déploiement de ce projet et participerez également à celui d’autres projets « Compétences et métiers d’avenir » (CMA).
+- Vos principales missions seront de : - Accompagner le responsable scientifique de CyberSkills4All dans le pilotage du projet (animation de réunions, suivi des actions, …) - Contribuer à la promotion des actions du projet en lien avec la responsable communication du SFCA - Assurer le suivi des indicateurs financiers et de réalisation ainsi que des livrables du projet (partie relevant de l’Université) - Accompagner les équipes d’enseignants mobilisées sur la production des transformations des formations délivrées à l’Université pour identifier les passerelles entre les projets et à proposer des mutualisations - Contribuer au développement de la formation continue et de l’alternance en lien avec les chargés de mission du pôle Formations du SFCA Profil recherché - Expérience professionnelle en coordination de projets - Connaissance de la règlementation en matière de formation continue et alternance - Connaissance des approches du digital learning et de l’innovation pédagogique - Connaissance et/ou fort intérêt des enjeux des formations en cybersécurité - Aisance dans l’utilisation des outils bureautiques et collaboratifs - Faculté à mobiliser des collectifs de travail - Sens avéré de l’écoute et capacité à convaincre - Capacité à vous inscrire dans une démarche de qualité et d’amélioration continue - Aptitude à travailler en mode projet multi-acteurs - Appétence pour le travail en équipe Qui sommes-nous ?.
+- L’Université de Rennes, établissement d’enseignement et de recherche et un des premiers employeurs du bassin rennais, offre un environnement propice à l’épanouissement de ses personnels et étudiants.
+
+## [<b>Cybersécurité</b> du musée du Louvre : un débat tronqué - LeMagIT](https://www.lemagit.fr/actualites/366634294/Cybersecurite-du-musee-du-Louvre-un-debat-tronque)  
+*Source : lemagit.fr | Publication : 2025-11-07*
+
+- A.G.
+- photographe - Fotolia Cybersécurité du Musée du Louvre : un débat tronqué Depuis le cambriolage du 19 octobre, la sécurité du Louvre fait l’objet de toutes les attentions.
+- Ce qui vaut aussi pour sa cybersécurité.
+- Mais pas nécessairement en posant les bonnes questions.
+
+## [Singapour : le paradoxe de la <b>cybersécurité</b> dans l'un des États les plus sûrs au monde - Quid.ma](https://quid.ma/a-la-une/singapour-le-paradoxe-de-la-cybersecurite-dans-lun-des-etats-les-plus-surs-au-monde)  
+*Source : quid.ma | Publication : 2025-11-07*
+
+- La sophistication technologique ne protège pas toujours de la cybercriminalité , surtout lorsqu'elle s'accompagne d'une dépendance massive aux.
+
+## [Souveraineté numérique : découvrez les 80 startups sélectionnées par la French Tech 2030](https://siecledigital.fr/2025/11/07/souverainete-numerique-decouvrez-les-80-startups-selectionnees-par-la-french-tech-2030/)  
+*Source : siecledigital.fr | Publication : 2025-11-07*
+
+- La cybersécurité n'est pas en reste, comptant 14 entreprises comme GitGuardian, Qevlar AI et YesWeHack.
+- La robotique, le quantique, les semi-.
+
+## [French Tech 2030 : découvrez les 80 startups qui doivent « bâtir la souveraineté ... - BDM](https://www.blogdumoderateur.com/french-tech-2030-80-startups-souverainete-technologique-france/)  
+*Source : blogdumoderateur.com | Publication : 2025-11-07*
+
+- French Tech 2030 : découvrez les 80 startups qui doivent « bâtir la souveraineté technologique de la France » Pendant un an, ces jeunes pousses françaises bénéficient d’un accompagnement personnalisé qui doit permettre d’accélérer leur développement.
+- Ce jeudi 6 novembre 2025, la Mission French Tech a officiellement dévoilé les 80 entreprises retenues pour la promotion 2025 du programme French Tech 2030.
+- Pendant un an, les lauréats, appelés à « bâtir la souveraineté technologique de la France », rappelle un communiqué, profiteront d’un accompagnement financier, commercial et d’un tremplin en visibilité, à l’image des membres de la première promotion, parmi lesquels figuraient notamment Mistral AI ou Alice&Bob.
+- Qui sont les lauréats de la promotion 2025 de French Tech 2030 ?.
+
+## [Arctic Wolf absorbe le spécialiste de l'IA UpSight Security - Data News](https://datanews.levif.be/actualite/entreprises/rachats/arctic-wolf-absorbe-le-specialiste-de-lia-upsight-security/)  
+*Source : datanews.levif.be | Publication : 2025-11-07*
+
+- La firme de sécurité Arctic Wolf s’empare d’UpSight Security.
+- Ce faisant, elle étoffe sa solution Aurora Endpoint Security par des fonctionnalités basées sur l’IA pour la prévention du ransomware et la restauration d’environnements affectés.
+- Les modèles d’IA prédictifs d’UpSight Security analysent en continu des milliards d’événements sur les terminaux.
+- Cela leur permet d’anticiper et de bloquer les actions malveillantes en temps réel.
+
+## [Renforcer la résilience face à la <b>cybercriminalité</b> en Asie du Sud-Est](https://fr.vietnamplus.vn/renforcer-la-resilience-face-a-la-cybercriminalite-en-asie-du-sud-est-post254511.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-11-07*
+
+- Hanoi (VNA) - Un séminaire international sur la lutte contre la fraude et la cybercriminalité en Asie du Sud-Est, axé sur le cas du Vietnam, s’est tenu le 7 novembre à Hanoï.
+- L’événement a été organisé par l’Institut de géographie humaine et de développement durable, relevant de l’Académie vietnamienne des sciences sociales, en coopération avec le Tech for Good Institute (TFGI), basé à Singapour.
+- Dans son allocution, Citra Nasruddin, directrice de programme du TFGI, a souligné qu’en 2024, plus de la moitié des pertes financières mondiales liées aux escroqueries provenaient d’Asie.
+- Elle a averti que la cybercriminalité exploite désormais les technologies émergentes, notamment l’intelligence artificielle (IA), pour automatiser et personnaliser les attaques frauduleuses.
+
+## [La <b>cybercriminalité</b> : comment s'en prémunir ? | RCF Charente-Maritime](https://www.rcf.fr/articles/economie-et-societe/la-cybercriminalite-comment-sen-premunir)  
+*Source : rcf.fr | Publication : 2025-11-07*
+
+- La cybercriminalité : comment s'en prémunir ?.
+- Démarche européenne, le mois d'octobre est le cyber mois.
+- C'est l'occasion de faire de la cyber sensibilisation pour les internautes.
+- Vous avez a priori déjà subi des tentatives d'anarques ou des démarches téléphoniques.
+
+## [Europe-Afrique francophone : état des lieux et attentes clés en <b>cybersécurité</b> des PME](https://www.lapresse.tn/2025/11/07/europe-afrique-francophone-etat-des-lieux-et-attentes-cles-en-cybersecurite-des-pme/)  
+*Source : lapresse.tn | Publication : 2025-11-07*
+
+- Le dernier rapport de Kaspersky intitulé « Cybersécurité des PME : comprendre les failles, combler les manques, identifier l’essentiel » révèle que 26 % des responsables informatiques européens déclarent que les cadres exécutifs de leur entreprise ne saisissent pas le réel intérêt commercial de la cybersécurité.
+- Cette divergence souligne une fracture structurelle entre les priorités affichées lors des conseils d’administration et la réalité des besoins en matière de dispositifs de cybersécurité.
+- Dans les équipes de sécurité des entreprises européennes, la pression opérationnelle est omniprésente et toutes les personnes en charge doivent mettre les bouchées doubles : pour près d’un tiers (31 %) des responsables informatiques, le suivi des menaces potentielles est un travail à plein temps.
+- De plus, ils sont un sur cinq (20 %) à se sentir submergés par le nombre d’alertes, peinant à faire le distinguo entre les incidents critiques et les signaux parasites.
+
+## [<b>Cybersécurité</b> : des centaines de bus européens sont contrôlables à distance par la Chine](https://www.lefigaro.fr/automobile/cybersecurite-des-centaines-de-bus-europeens-sont-controlables-a-distance-par-la-chine-20251107)  
+*Source : lefigaro.fr | Publication : 2025-11-07*
+
+- Cybersécurité : des centaines de bus européens sont contrôlables à distance par la Chine La Norvège a découvert que 850 bus électriques peuvent être arrêtés à distance par leur fabricant chinois, exposant le système de transport en commun à un risque majeur de cybersécurité.
+- Passer la publicité Passer la publicitéOn le savait, la technologie embarquée dans tous les véhicules modernes pose des problèmes de cybersécurité.
+- Dernier exemple en date, la vulnérabilité inquiétante révélée fin octobre sur des bus électriques chinois circulant en Europe.
+- Selon des tests menés durant l’été 2025 par Ruter, l’opérateur des transports publics d’Oslo, la capitale norvégienne, le constructeur chinois Yutong* dispose d’un accès à distance permettant potentiellement d’arrêter ou de rendre inutilisables ces véhicules.
+
+## [Perfectionner la loi sur la <b>cybersécurité</b> et la protection des secrets d'État à l'ère numérique](https://www.vietnam.vn/fr/hoan-thien-phap-luat-ve-an-ninh-mang-va-bao-ve-bi-mat-nha-nuoc-trong-ky-nguyen-so)  
+*Source : vietnam.vn | Publication : 2025-11-07*
+
+- Il s'agit de projets de loi d'une grande importance pour garantir la sécurité et la souveraineté nationales dans le cyberespace et pour renforcer la transparence et la sécurité de l'information à l'ère numérique.
+- Lors de la séance de discussion, le délégué Thach Phuoc Binh ( Vinh Long ) a déclaré que la Convention des Nations Unies contre la cybercriminalité, dite Convention de Hanoï 2025, avait été adoptée par l'Assemblée générale des Nations Unies le 24 décembre 2024 et ouverte à la signature à Hanoï les 25 et 26 octobre 2025.
+- Il s'agit du premier document international multilatéral et mondial exhaustif consacré à la cybercriminalité et à la coopération juridique internationale dans le domaine de la cybersécurité.
+- L’organisation par le Vietnam de la cérémonie de signature a confirmé la position, le prestige et la capacité d’intégration internationale du pays, ainsi que son rôle proactif dans la création d’un cadre juridique mondial en matière de cybersécurité.
+
+## [L'essor de l'informatique quantique : de la science-fiction au cauchemar ? - Journal du Net](https://www.journaldunet.com/cybersecurite/1545879-l-essor-de-l-informatique-quantique-de-la-science-fiction-au-cauchemar/)  
+*Source : journaldunet.com | Publication : 2025-11-07*
+
+- L'essor de l'informatique quantique : de la science-fiction au cauchemar ?.
+- L'informatique quantique progresse et menace la cybersécurité.
+- La France investit dans Lucy et la cryptographie post-quantique pour protéger données et systèmes.
+- Depuis longtemps, la physique quantique nourrit la science-fiction.
+
+## [Les poupées russes malveillantes de Curly COMrades | <b>Cybersécurité</b> | Le site de Korben](https://korben.info/curly-comrades-hyper-v-malware-matryoshka.html)  
+*Source : korben.info | Publication : 2025-11-07*
+
+- Les poupées russes malveillantes de Curly COMrades En bref Des hackers russes planquent leurs malwares dans des VM Linux cachées dans Windows : vos antivirus ne voient rien passer - Hyper-V devient l'arme secrète des cybercriminels : 256 Mo de RAM suffisent pour infiltrer les infrastructures critiques - La Géorgie et la Moldavie sous attaque : quand une Alpine Linux de 120 Mo suffit à contourner tous les systèmes de détection - Si vous me lisez depuis longtemps, vous savez que les hackers russes ne manquent jamais d’imagination quand il s’agit de contourner les antivirus… Mais alors là, le groupe Curly COMrades vient de sortir un truc qui déboite du genou de gnome… Ces affreux planquent maintenant leurs malwares dans des machines virtuelles Linux cachées dans des Windows.
+- Oui, des russes qui créent de véritables poupées russes numérique… qui aurait pu prévoir ^^ ?.
+- Et c’est vicieux vous allez voir… les gars activent Hyper-V sur les machines Windows 10 compromises, puis ils y déploient une VM Alpine Linux ultra-minimaliste.
+- 120 Mo d’espace disque et 256 Mo de RAM… C’est tellement léger que ça passe complètement sous les radars des EDR classiques.
+
+## [Techscam : faux support technique, vraie arnaque](https://blog.nordnet.com/cybersecurite-et-identite-numerique/techscam-arnaque-support-technique/)  
+*Source : blog.nordnet.com | Publication : 2025-11-07*
+
+- Connaissez-vous les « techscams » ?.
+- Imaginez : vous êtes tranquillement installé(e) devant votre ordinateur en train de regarder des vidéos de chats ou de chercher la recette de la tarte tatin, quand soudain une fenêtre surgit… clignotante, bruyante, alarmante.
+- Elle vous annonce que votre ordinateur est infecté, que vos données sont en danger et qu’il faut appeler un numéro d’urgence… et sans attendre.
+- Devinez quoi ?.
 
 ## [Piégés par des hackers, des clients de Booking paient leur réservation à l'hôtel, puis une ... - Clubic](https://www.clubic.com/actualite-586177-pieges-par-des-hackers-des-clients-de-booking-paient-leur-reservation-a-l-hotel-puis-une-seconde-fois-aux-pirates.html)  
 *Source : clubic.com | Publication : 2025-11-06*
