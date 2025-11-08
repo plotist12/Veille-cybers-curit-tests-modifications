@@ -1,5 +1,153 @@
-# Résumés – 2025-11-07
+# Résumés – 2025-11-08
 
+
+## [RDC : Eliel Mulumba, expert en <b>cybersécurité</b> industrielle primé aux Tech Next Awards à Dubai](https://cio-mag.com/rdc-eliel-mulumba-expert-en-cybersecurite-industrielle-prime-aux-tech-next-awards-a-dubai/)  
+*Source : cio-mag.com | Publication : 2025-11-08*
+
+- Le Congolais Eliel Mulumba, expert en cybersécurité industrielle, a été primé ce jeudi 6 novembre à Dubaï lors de la prestigieuse cérémonie des Tech Next Awards.
+- Cette récompense salue son engagement en matière de sensibilisation et de formation à la cybersécurité industrielle, aussi bien en République démocratique du Congo qu’en Europe.
+- (Cio Mag) – C’est une distinction pour un passionné de cybersécurité industrielle.
+- Le jeune Congolais a été honoré pour son engagement dans ce domaine, notamment à travers ses actions de sensibilisation et d’éducation menées en République démocratique du Congo et en Europe.
+
+## [Le Burkina Faso s'engage plus que jamais par sa signature de la Convention des Nations Unies](https://lefaso.net/?page=impression&id_article=142190)  
+*Source : lefaso.net | Publication : 2025-11-08*
+
+- Le Burkina Faso a marqué sa volonté de renforcer la lutte contre la cybercriminalité et le terrorisme en procédant à la signature de la Convention des Nations Unies contre la cybercriminalité, lors d’une cérémonie tenue à Hanoï, au Vietnam, en fin octobre 2025.
+- Cet instrument international, adopté le 24 décembre 2024 après cinq ans de négociations, vise à prévenir et combattre les crimes commis via les technologies de l’information et des communications, notamment la fraude financière, le terrorisme, la traite des êtres humains, le trafic de drogue et la pédopornographie.
+- La délégation burkinabè était conduite par l’ambassadrice et représentante permanente du Burkina Faso à Vienne, Maïmounata Ouattara.
+- La signature a eu lieu dans le cadre d’une cérémonie co-organisée par l’ONUDC (Office des Nations Unies contre la drogue et le crime) et le gouvernement vietnamien.
+
+## [La révolution des messages impossibles à espionner : la <b>cybersécurité</b> quantique arrive, et ...](https://www.gayvox.fr/la-revolution-des-messages-impossibles-a-espionner-la-cybersecurite-quantique-arrive-et-cest-officiel)  
+*Source : gayvox.fr | Publication : 2025-11-08*
+
+- Vos messages chiffrés inviolables, c’est désormais possible : la cybersécurité entre dans l’ère quantique, et ce n’est plus de la science-fiction !.
+- Lors du salon VivaTech, une démonstration fascinante sur le stand d’Orange a révélé comment de simples baies Toshiba, d’apparence banale, pourraient bouleverser la cybersécurité en France.
+- Prêt à plonger dans un futur où même l’univers protège vos secrets ?.
+- La faille insoupçonnée de nos échanges modernes La plupart d’entre nous vivent sereinement, convaincus que leurs messages chiffrés sont à l’abri.
+
+## [Le BUSINESS des CARTES SIM pirates. - YouTube](https://www.youtube.com/watch?v=f5Byd5kE8Bc)  
+*Source : youtube.com | Publication : 2025-11-08*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Cybermalveillance.gouv.fr - Facebook](https://www.facebook.com/cybervictimes/posts/-cybersécurité-violation-de-données-de-la-fédération-française-de-tirsituation-r/1275513891283008/)  
+*Source : facebook.com | Publication : 2025-11-08*
+
+- [ Cybersécurité ] Violation de données de la Fédération Française de Tir Situation, risques et recommandations de Cybermalveillance.gouv.fr et appel.
+
+## [Black Friday NordVPN : -74 % + 3 mois offerts pour un streaming sans limite et une sécurité totale](https://www.clubic.com/bons-plans-585370-black-friday-nordvpn--74-3-mois-offerts-pour-un-streaming-sans-limite-et-une-securite-totale.html)  
+*Source : clubic.com | Publication : 2025-11-08*
+
+- Le Black Friday est l’occasion rêvée pour renforcer votre sécurité en ligne.
+- NordVPN propose une réduction de -74 % et 3 mois offerts sur son abonnement.
+- L’un des VPN les plus rapides, parfait pour le streaming, la confidentialité et la protection contre les cybermenaces.
+- Pourquoi un VPN est indispensable en 2025 ?.
+
+## [Célébration de la Journée nationale de la <b>cybersécurité</b>](https://ami.mr/fr/archives/282627)  
+*Source : ami.mr | Publication : 2025-11-08*
+
+- cybersécurité , avec collaboration de l'Association des ingénieurs informaticiens de Mauritanie et la société Data.
+- Cet événement vise à promouvoir.
+
+## [Dans les lignes de codes des policiers anti-cyber - ladepeche.fr](https://www.ladepeche.fr/2025/11/08/dans-les-lignes-de-codes-des-policiers-anti-cyber-13039499.php)  
+*Source : ladepeche.fr | Publication : 2025-11-08*
+
+- Dans les lignes de codes des policiers anti-cyber l'essentiel La cybercriminalité se diversifie et s’intensifie.
+- À Toulouse, les policiers de l’antenne de OFAC traquent les escroqueries numériques, des faux présidents aux ransomwares.
+- Quel lien entre une arnaque aux faux présidents, un message sur votre téléphone pour la livraison impossible d’un colis, votre retard de paiement au péage à régler "très vite" ou l’appel douteux de votre faux conseiller bancaire ?.
+- Autant d’arnaques que nous impose le monde cyber.
+
+## [Deux suspects arrêtés en Türkiye pour cyberespionnage, des systèmes liés à l'étranger saisis](https://www.trtfrancais.com/article/9056e049eae1/amp)  
+*Source : trtfrancais.com | Publication : 2025-11-08*
+
+- Deux suspects arrêtés en Türkiye pour cyberespionnage, des systèmes liés à l’étranger saisis Les suspects ont avoué avoir mené des activités d’espionnage informatique en Türkiye, tandis que les autorités ont saisi du matériel et bloqué des sites web créés à partir de données volées.
+- Les services de renseignement turcs et la gendarmerie ont arrêté deux suspects lors d’opérations coordonnées à Istanbul et Adana, visant un réseau d’espionnage informatique, ont indiqué, ce samedi, des sources sécuritaires.
+- L’opération a été menée sous la direction du parquet général d’Ankara.
+- Les enquêteurs ont découvert que les deux suspects étaient liés à une organisation criminelle plus vaste spécialisée dans la cybercriminalité.
+
+## [Cette cyberattaque vicieuse est d'ores et déjà programmée pour novembre 2028](https://www.numerama.com/cyberguerre/2113173-cette-cyberattaque-vicieuse-est-dores-et-deja-programmee-pour-novembre-2028.html)  
+*Source : numerama.com | Publication : 2025-11-08*
+
+- L’auteur de cette menace porte le pseudonyme de shanhai666.
+- Entre 2023 et 2024, ce compte anonyme inscrit sur la plateforme NuGet a publié 12 paquets de code : neuf contiennent du code malveillant, tandis que les trois autres sont légitimes et inoffensifs, destinées à asseoir sa crédibilité.
+- Pour faire simple, NuGet est une sorte de boutique en ligne gratuite où les développeurs de logiciels peuvent télécharger ou partager des modules et ajouter facilement de nouvelles fonctionnalités à leurs programmes.
+- Semer du code malveillant dans de telles plateformes est un enjeu stratégique pour les cybercriminels qui peuvent ainsi mettre en place des supply chain attacks à moindre frais.
+
+## [Escroqueries en ligne : la Thaïlande lance une offensive nationale](https://toutelathailande.fr/infos/escroqueries-en-ligne-la-thailande-lance-une-offensive-nationale/)  
+*Source : toutelathailande.fr | Publication : 2025-11-08*
+
+- La Thaïlande lance une action coordonnée pour démanteler les réseaux d’arnaques numériques à l’échelle nationale.
+- Le Premier ministre Anutin Charnvirakul a présidé jeudi une cérémonie de haut niveau à la Maison du gouvernement afin de signaler la détermination de son gouvernement à prévenir et à réprimer les crimes liés à la technologie, en particulier les escroqueries en ligne.
+- « C’est une guerre que nous devons gagner », a déclaré M. Anutin, également ministre de l’Intérieur, alors que 15 agences ont signé un protocole d’accord (MoU) pour coopérer dans le cadre d’un effort national unifié.
+- « Les escroqueries en ligne détruisent la vie de nos concitoyens, nuisent aux familles et sapent la confiance nationale, la stabilité économique et la réputation internationale », a-t-il déclaré.
+
+## [International. <b>Cybercriminalité</b>, missiles BrahMos, COP 30 désertée et scandales politiques - MSN](https://www.msn.com/fr-xl/afrique-centre-et-est/cameroun-actualite/international-cybercriminalité-missiles-brahmos-cop-30-désertée-et-scandales-politiques-la-planète-sous-haute-tension/ar-AA1PY42x)  
+*Source : msn.com | Publication : 2025-11-08*
+
+- Cybercriminalité , missiles BrahMos, COP 30 désertée et scandales politiques : la planète sous haute tension.
+- 22h.
+- Pour lutter contre la flambée des.
+
+## [CrowdStrike : L'IA accélère les attaques de <b>ransomware</b> en Europe - Cryptopolitan](https://www.cryptopolitan.com/fr/crowdstrike-ai-accelerate-ransomware-europe/)  
+*Source : cryptopolitan.com | Publication : 2025-11-08*
+
+- Le rapport publié par CrowdStrike souligne que l'augmentation des attaques de ransomware en Europe est due à la manière dont les attaquants.
+
+## [Convention de Hanoï : Symbole de coopération pour un cyberespace sûr et humain](https://www.vietnam.vn/fr/cong-uoc-ha-noi-bieu-tuong-hop-tac-vi-mot-khong-gian-mang-an-toan-va-nhan-van)  
+*Source : vietnam.vn | Publication : 2025-11-08*
+
+- Créativité-Responsabilité-Solidarité, ces trois valeurs fondamentales ont convergé à Hanoï fin octobre 2025, lorsque la capitale vietnamienne est devenue le centre du monde avec la cérémonie d'ouverture et la conférence de haut niveau de la Convention des Nations Unies contre la cybercriminalité (Convention de Hanoï).
+- Cet événement mondial marque non seulement une étape importante dans l'histoire de la coopération internationale en matière de cybersécurité, mais affirme également le rôle, le prestige et la responsabilité du Vietnam envers la communauté internationale.
+- Un tournant mondial dans la lutte contre la cybercriminalité Dans un contexte de cybercriminalité en pleine expansion, causant de graves dommages à l'économie , à la sécurité et aux droits de l'homme, l'adoption et la signature par les Nations Unies de la Convention contre la cybercriminalité sont considérées comme un tournant historique.
+- Il s'agit du premier document multilatéral au monde établissant un cadre juridique unifié pour aider les pays à coordonner les enquêtes, les poursuites et la prévention de la cybercriminalité.
+
+## [Afrique du Sud : La terre arc-en-ciel - Panoramas - TF1+](https://www.tf1.fr/le-figaro/panoramas/videos/afrique-du-sud-la-terre-arc-en-ciel-92265863.html)  
+*Source : tf1.fr | Publication : 2025-11-08*
+
+- Afrique du Sud : La terre arc-en-ciel Aucun pays au monde ne peut rivaliser avec la richesse de la faune et de la flore de l’Afrique du Sud.
+- Hippopotames, lions, autruches, baleines, crocodiles ou encore éléphants sont tous à portée de caméra tandis que le relief se décline en une diversité de paysages à couper le souffle : à la savane succèdent les montagnes, aux plages les déserts.
+- La même diversité se retrouve dans la population.
+- Après une histoire mouvementée, le pays poursuit son chemin pour construire une "nation arc-en-ciel" où la couleur de peau ne serait plus source de discrimination.
+
+## [La CNDP renforce sa surveillance des données personnelles sur le darkweb - Lebrief](https://www.lebrief.ma/la-cndp-renforce-sa-surveillance-des-donnees-personnelles-sur-le-darkweb-100129716/)  
+*Source : lebrief.ma | Publication : 2025-11-08*
+
+- La CNDP renforce sa surveillance des données personnelles sur le darkweb Siège de la CNDP © DR.
+- La Commission Nationale de contrôle de la protection des Données à caractère Personnel (CNDP) passe à la vitesse supérieure dans la détection des atteintes à la vie privée sur le darkweb.
+- L’institution renforce ses moyens de surveillance pour repérer la diffusion illégale de données personnelles et agir rapidement auprès des organismes responsables.
+- Une veille automatisée et des sanctions à la clé Désormais, la CNDP s’appuie sur un premier dispositif technologique développé par la société DEFENDIS, capable d’automatiser la recherche de fuites d’informations sur les espaces numériques cachés.
+
+## [Comment se protéger des infostealers, ces logiciels espions qui volent vos informations sur ...](https://www.rtl.fr/actu/sciences-tech/comment-se-proteger-des-infostealers-ces-logiciels-espions-qui-volent-vos-informations-sur-vos-ordinateurs-7900563300)  
+*Source : rtl.fr | Publication : 2025-11-08*
+
+- 5 min de lecture Je m'abonne à la newsletter « Infos » C’est une menace silencieuse, mais de plus en plus pressante, qui plane sur nos données personnelles.
+- Depuis plusieurs mois, les fuites d’informations ne sont plus uniquement le fruit de cyberattaques dirigées contre des plateformes : elles naissent désormais au cœur même de nos ordinateurs, sous l’effet des infostealers, ces logiciels espions qui subtilisent identifiants et mots de passe dans l’ombre.
+- Fin octobre, des experts en cybersécurité révélaient que 183 millions d’adresses emails avaient été compromises lors d’une fuite massive survenue au printemps.
+- Quelques jours plus tard, l’opérateur français France Travail confirmait l’exposition de données sensibles concernant 31.000 demandeurs d’emploi.
+
+## [Fraude mondiale : 4,3 millions de cartes bancaires piratées dans 193 pays - Directinfo](https://directinfo.webmanagercenter.com/2025/11/07/fraude-mondiale-43-millions-de-cartes-bancaires-piratees-dans-193-pays/)  
+*Source : directinfo.webmanagercenter.com | Publication : 2025-11-08*
+
+- Les autorités allemandes ont démantelé un vaste réseau international de cybercriminalité impliqué dans une fraude bancaire d’envergure mondiale.
+- Dix-huit personnes ont été arrêtées dans le cadre d’une enquête ayant révélé le piratage de cartes de crédit appartenant à plus de 4,3 millions de victimes réparties dans 193 pays.
+- Cette escroquerie, active entre 2016 et 2021, reposait sur de faux abonnements à des sites internet se présentant comme des plateformes de divertissement, mais créées dans le seul but de détourner des fonds.
+- L’opération, baptisée « Récupération des fonds », a mobilisé la Police criminelle fédérale allemande et le parquet de Coblence, en collaboration avec plusieurs pays, pour démanteler trois réseaux criminels interconnectés implantés dans dix États.
+
+## [à Brest, cet « hackeur éthique » montre comment il pirate sa voiture - Le Télégramme](https://www.letelegramme.fr/finistere/brest-29200/les-voitures-sont-de-plus-en-plus-confortables-mais-de-plus-en-plus-vulnerables-a-brest-cet-hackeur-ethique-montre-comment-il-pirate-sa-voiture-6924228.php)  
+*Source : letelegramme.fr | Publication : 2025-11-08*
+
+- À l’occasion du salon de cybersécurité Unlock your bain, au Quartz à Brest, vendredi 7 et samedi 8 novembre 2025, le hackeur éthique Gaël Musquet a proposé des démonstrations de piratage de voiture.
+- « Entre mon travail au Campus Cyber de Puteaux en région parisienne et le Quartz à Brest, je n’ai conduit qu’une heure pour sortir de Paris et entrer dans Brest », s’amuse Gaël Musquet.
+- Cet « hackeur éthique » est venu avec sa propre voiture - une Toyota hybride - jusque Brest pour faire une démonstration de « car hacking » (un piratage de voiture), à l’occasion de la 10e édition du salon de cybersécurité « Unlock your bain, harden your system ».
+- Avant de partir, il avait branché sur son ordinateur de bord un logiciel d’aide à la conduite lui permettant de ne toucher ni au volant ni aux pédales.
+
+## [Cyberattaque : tous vulnérables face à des pirates modernes toujours plus nombreux](https://www.ladepeche.fr/2025/11/08/cyberattaque-tous-vulnerables-face-a-des-pirates-modernes-toujours-plus-nombreux-13039614.php)  
+*Source : ladepeche.fr | Publication : 2025-11-08*
+
+- Cyberattaque : tous vulnérables face à des pirates modernes toujours plus nombreux l'essentiel La cybercriminalité évolue rapidement, touchant désormais les petites entreprises, comme les particuliers.
+- Des menaces croissantes contre lesquels il faut savoir se protéger pour éviter de tout perdre.
+- "La question n’est pas de savoir si vous allez être attaqué, mais quand…" Cette remarque, sous fond d’avertissement, tous les spécialistes de la lutte contre la cybercriminalité la formulent.
+- Et les exemples ne manquent pas pour l’illustrer.
 
 ## [PROMPTFLUX - Le malware qui demande à Gemini comment échapper aux antivirus](https://korben.info/promptflux-malware-gemini-llm-runtime-generation.html)  
 *Source : korben.info | Publication : 2025-11-07*
