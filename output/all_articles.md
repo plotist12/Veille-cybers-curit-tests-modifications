@@ -1,5 +1,141 @@
-# Résumés – 2025-11-08
+# Résumés – 2025-11-09
 
+
+## [Les séniors de la résidence Aragon de Saint Rémy sensibilisés à la &quot;<b>cybersécurité</b>&quot;.](https://www.info-chalon.com/articles/2025/11/09/104955/les-seniors-de-la-residence-aragon-de-saint-remy-sensibilises-a-la-cybersecurite/)  
+*Source : info-chalon.com | Publication : 2025-11-09*
+
+- Saint-Rémy Les séniors de la résidence Aragon de Saint Rémy sensibilisés à la "cybersécurité".
+- Par Christian CLEAUX Publié le 09 Novembre 2025 à 21h54 Cyberattaques, cybersécurité, IA, tout un panel d’informations mis à la portée des séniors afin de prévenir des dangers et éviter les pièges sur internet et les téléphones.
+- Pas toujours facile de s’y retrouver au milieu de toutes ces sollicitations qui inondent nos boites mail, nos boites de messageries et vocales de nos téléphones et c’est encore plus difficile pour les séniors de faire la part du vrai et du faux, c’est pourquoi le service sénior de la mairie de Saint Rémy a mis en place une séance d’information et de formations pour apprendre à déjouer les pièges.
+- Marlène Ben et Margaux Robolin ont confié au service de prévention des risques de la "MACIF" le soin d’intervenir auprès des personnes âgées de la résidence Aragon de la commune.
+
+## [Vols de véhicules au moyen de dispositifs électroniques de déverrouillage : cinq auteurs ...](https://www.gendarmerie.interieur.gouv.fr/gendinfo/criminalite-organisee-et-enquetes/2025/vols-de-vehicules-au-moyen-de-dispositifs-electroniques-de-deverrouillage-cinq-auteurs-interpelles-par-l-unite-nationale-cyber-de-la-gendarmerie)  
+*Source : gendarmerie.interieur.gouv.fr | Publication : 2025-11-09*
+
+- Cinq personnes ont été interpellées en France, le 3 novembre 2025, par l'Unité nationale Cyber (UNCyber) de la Gendarmerie nationale,.
+
+## [Arnaques immobilières: comment éviter les pièges en ligne - 24 Heures](https://www.24heures.ch/arnaques-immobilieres-comment-eviter-les-pieges-en-ligne-204376516847)  
+*Source : 24heures.ch | Publication : 2025-11-09*
+
+- CybercriminalitéComment se prémunir des arnaques à la location en ligne?.
+- Cette offre paraît trop belle pour être vraie.
+- Elle l’est probablement.
+- En Suisse, on compte 228 signalements de fraudes immobilières cette année.
+
+## [CrowdStrike, AWS et Nvidia lancent le troisième accélérateur mondial annuel - Benzinga France](https://fr.benzinga.com/latest-news/crowdstrike-aws-et-nvidia-lancent-le-troisieme-accelerateur-mondial-annuel-59-startups-ont-leve-730-millions-de-dollars-postulez-avant-le-15-novembre-pour-un-renforcement-de-la-securite-de-lia/)  
+*Source : fr.benzinga.com | Publication : 2025-11-09*
+
+- CrowdStrike (NASDAQ:CRWD) a annoncé lundi qu’il lancerait le troisième accélérateur annuel de startups en cybersécurité aux côtés d’Amazon Web Services et de Nvidia (NASDAQ:NVDA) dans le cadre de son programme Inception.
+- L’accélérateur accepte les candidatures jusqu’au 15 novembre, le programme de huit semaines devant se dérouler du 5 janvier au 3 mars.
+- C’est la première fois que le programme prendra en considération des startups du monde entier, ce qui constitue un changement par rapport aux années précédentes où la participation était plus limitée.
+- Ne manquez pas : Le secret de la richesse de Buffett ?.
+
+## [<b>Cybersécurité</b> et Mondial 2030: Sécuriser l'événement et bâtir un écosystème pérenne](https://www.leconomiste.com/cybersecurite-et-mondial-2030-securiser-levenement-et-batir-un-ecosysteme-perenne/)  
+*Source : leconomiste.com | Publication : 2025-11-09*
+
+- Cybersécurité et Mondial 2030: Sécuriser l'événement et bâtir un écosystème pérenne.
+- Par Taïeb DEBBAGH | Edition N°:7131 Le 09/11/2025.
+- La Coupe du.
+
+## [Un nouveau système de signalement des incidents de <b>cybercriminalité</b> et de fraude](https://www.acadienouvelle.com/actualites/2025/11/09/un-nouveau-systeme-de-signalement-des-incidents-de-cybercriminalite-et-de-fraude/)  
+*Source : acadienouvelle.com | Publication : 2025-11-09*
+
+- Partager: Cliquer pour partager sur X(ouvre dans une nouvelle fenêtre) X - Cliquer pour partager sur Bluesky(ouvre dans une nouvelle fenêtre) Bluesky - Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre) LinkedIn - Cliquer pour envoyer un lien par e-mail à un ami(ouvre dans une nouvelle fenêtre) E-mail -.
+
+## [Logitech: le géant suisse victime du groupe Clop | 24 heures](https://www.24heures.ch/logitech-le-geant-suisse-victime-du-groupe-clop-941354719741)  
+*Source : 24heures.ch | Publication : 2025-11-09*
+
+- Logitech viséLe cyberracket organisé frappe la Suisse de plein fouet Le groupe de «ransomware» Clop a ciblé Logitech cette semaine.
+- L’affaire révèle l’intensité des attaques à l’encontre des entreprises helvétiques.
+- Depuis le début de l’année, 46 entreprises auraient été attaquées par rançongiciel, selon un décompte de Ransomfeed.
+- - Dernière en date, celle perpétrée par le groupe cybercriminel Clop à l’encontre de Logitech depuis jeudi.
+
+## [Les organisations de veille citoyenne outillées sur la responsabilité citoyenne à l'ère du numérique](https://www.msn.com/fr-xl/afrique-de-l-ouest/burkina-faso-actualite/zoundwéogo-cybercriminalité-les-organisations-de-veille-citoyenne-outillées-sur-la-responsabilité-citoyenne-à-l-ère-du-numérique/ar-AA1Q4xcE?cvid=69109eabd13e4cc182e5071c72abde3f&ocid=MicroHP)  
+*Source : msn.com | Publication : 2025-11-09*
+
+- BURKINA-NAZINON-FORMATION-VEILLE-CITOYENNEZoundwéogo/ Cybercriminalité : Les organisations de veille citoyenne outillées sur la responsabilité.
+
+## [La GRC lance un site de signalement sur les incidents de fraude - Courrier Laval](https://courrierlaval.com/la-grc-lance-un-site-de-signalement-sur-les-incidents-de-fraude/)  
+*Source : courrierlaval.com | Publication : 2025-11-09*
+
+- La Gendarmerie royale du Canada (GRC) a annoncé le lancement du site Web Signaler la cybercriminalité et la fraude, un nouveau système national permettant aux personnes, aux entreprises et aux organisations de signaler les incidents de fraude et de cybercriminalité.
+- Géré par le Centre national de coordination en cybercriminalité de la GRC et le Centre antifraude du Canada (CAFC), ce nouveau système servira de dépôt central des signalements de fraude et de cybercriminalité partout au pays.
+- Les renseignements tirés de ces signalements aideront la police à résoudre des affaires distinctes, à perturber les activités cybercriminelles et à brosser un portrait complet de l’incidence de ces menaces sur la population canadienne dans le but d’empêcher qu’il y ait d’autres victimes.
+- On estime que les gens signalent actuellement seulement 5 à 10% des incidents de fraude et de cybercriminalité au Canada, que ce soit par malaise, par peur de voir leur réputation entachée ou par méconnaissance des ressources à leur disposition.
+
+## [Vols de voitures : la gendarmerie démantèle un réseau international](https://www.pandore-gendarmerie.org/demantelement-reseau-international-vols-vehicules-gendarmerie/)  
+*Source : pandore-gendarmerie.org | Publication : 2025-11-09*
+
+- Le 3 novembre 2025, l’Unité Nationale Cyber (UNCyber) de la Gendarmerie nationale a procédé à l’interpellation de cinq individus en Île-de-France, en Eure-et-Loir et dans le Gard.
+- Ces arrestations, coordonnées avec les Carabinieri italiens de Palerme et soutenues par Eurojust, marquent une étape majeure dans la lutte contre une cybercriminalité en pleine expansion : le vol de véhicules facilité par des dispositifs électroniques sophistiqués.
+- Réseau criminel international L’enquête, dirigée par la section de lutte contre la cybercriminalité du parquet de Paris, a révélé un réseau criminel international impliqué dans la fabrication et la vente d’appareils capables de déverrouiller et de démarrer illégalement de nombreux modèles de voitures.
+- Initialement centrée sur le piratage d’enceintes musicales reprogrammées pour contourner les systèmes de sécurité, l’enquête s’est rapidement étendue à d’autres dispositifs similaires, fabriqués artisanalement depuis 2022 par le principal suspect.
+
+## [8,20$: votre carte de crédit volée vendue pour le prix d'un sandwich sur le «dark web](https://www.tvanouvelles.ca/2025/11/08/820--votre-carte-de-credit-volee-vendue-pour-le-prix-dun-sandwich-sur-le-dark-web)  
+*Source : tvanouvelles.ca | Publication : 2025-11-09*
+
+- 8,20$: c’est le prix d’un numéro de carte de crédit volé sur le dark web chez nous, l’équivalent d’un sandwich avalé sur le pouce.
+- • À lire aussi: Données volées à Desjardins: les dossiers de 50 000 Québécois refont surface sur le «dark web» • À lire aussi: Données de Desjardins sur le «dark web»: barrer votre dossier de crédit peut empêcher la fraude • À lire aussi: «On les force à frauder des Canadiens»: le témoignage troublant du patron du Centre antifraude «Le marché des cartes de crédit volées, c’est comme n’importe quel autre marché.
+- S’il y a beaucoup d’offres, les prix baissent», explique d’une voix posée au Journal Adrianus Warmenhoven, expert en cybersécurité chez NordVPN.
+- «Les brèches peuvent venir de partout, de n’importe quel magasin par exemple, pas nécessairement de l’institution financière», ajoute le spécialiste joint aux Pays-Bas.
+
+## [<b>Cybersécurité</b>, violence domestique et Air Mauritius : La PMQT s'annonce électrique](https://lexpress.mu/s/cybersecurite-violence-domestique-et-air-mauritius-la-pmqt-sannonce-electrique-551324)  
+*Source : lexpress.mu | Publication : 2025-11-09*
+
+- Cybersécurité , violence domestique et Air Mauritius : La PMQT s'annonce électrique.
+- La session parlementaire de ce mardi 11 novembre s'annonce chargée.
+
+## [Iran annonce des exercices de <b>cybersécurité</b> de grande envergure](https://www.saba.ye/fr/news3586236.htm)  
+*Source : saba.ye | Publication : 2025-11-09*
+
+- Agence de Presse Yéménite.
+- Accueil Chef de la révolution le président Locales Internationale L‘agression Américain saoudienne Economie Le Développement et les initiatives English | فارسي | Español | Deutsch | عـربـي |.
+- Rechercher | Recherche avancée Caricatures Galerie photo Locales Visites des expositions sur les martyrs à Hodeïda [09 November 2025] Inauguration d'une exposition de photos des martyrs dans le quartier d'Al-Thawra, à Sanaa [09 November 2025] Le numéro 4 de la revue du musée yéménite reprend sa publication après une interruption de 16 ans [09 November 2025] Al-Naeemi rencontre les vice-ministres des Affaires étrangères et des Affaires sociales.
+- [09 November 2025] La police routière distribue de l'aide alimentaire et rend hommage aux familles des martyrs à Sanaa [09 November 2025] Enquêtes et reportages Yémen et la cause palestinienne : un soutien indéfectible fondé sur des principes : : Rédacteur politique [09 November 2025] Aveux de membres d'un réseau d'espionnage : Formation à l'utilisation des appareils et applications modernes, principalement à Riyad [09 November 2025] Les aveux de membres d'un réseau d'espionnage révèlent diverses méthodes de recrutement pour des opérations ennemies : rapport [08 November 2025] Anniversaire du martyre : un serment de loyauté renouvelé dans le cœur des Yéménites [08 November 2025] Une revendication « rejetée » et un désir « déclaré » ... Washington est-il désormais plus proche de cibler le Venezuela ?.
+
+## [Biban 2025 réunit les prestataires de services locaux et internationaux pour promouvoir l ...](https://www.spa.gov.sa/fr/N2438830)  
+*Source : spa.gov.sa | Publication : 2025-11-09*
+
+- cybersécurité , de la gestion des risques et de la conformité, ainsi que ... cybersécurité , de la gestion des risques et de la conformité.
+
+## [Un Indien arrêté pour blanchiment de 1,1 million de dollars en cryptomonnaies](https://www.cryptopolitan.com/fr/indian-man-arrested-laundering-1-1m/)  
+*Source : cryptopolitan.com | Publication : 2025-11-09*
+
+- Sanghavi a indiqué que la division de lutte contre la cybercriminalité de la police indienne avait minutieusement trac les flux financiers à travers.
+
+## [Votre carte bancaire vaut moins de 10 euros sur le dark web - 01net.com](https://www.01net.com/actualites/carte-bancaire-vaut-pas-plus-10-euros-dark-web.html)  
+*Source : 01net.com | Publication : 2025-11-09*
+
+- La carte bancaire d’un Français sur le dark web ne vaut pas plus que « le prix d’un déjeuner à la boulangerie », indique une étude réalisée par NordVPN.
+- Les chercheurs révèlent que le prix moyen d’une carte bancaire volée est de 11,07 dollars, soit 9,50 euros, sur des marchés criminels.
+- « Sur les principaux marchés, une seule carte volée coûte souvent l’équivalent du prix d’un ticket de cinéma.
+- Les cartes, fréquemment vendues en gros, restent valables pendant de longues périodes.
+
+## [8,20$: votre carte de crédit volée vendue pour le prix d'un sandwich sur le «dark web» | JDQ](https://www.journaldequebec.com/2025/11/08/820--votre-carte-de-credit-volee-vendue-pour-le-prix-dun-sandwich-sur-le-dark-web)  
+*Source : journaldequebec.com | Publication : 2025-11-09*
+
+- 8,20$: votre carte de crédit volée vendue pour le prix d’un sandwich sur le «dark web» Le cybercrime est devenu si accessible que les fraudeurs s’en donnent à cœur joie pour vous soutirer de l’argent 8,20$: c’est le prix d’un numéro de carte de crédit volé sur le dark web chez nous, l’équivalent d’un sandwich avalé sur le pouce.
+- • À lire aussi: Données volées à Desjardins: les dossiers de 50 000 Québécois refont surface sur le «dark web» • À lire aussi: Données de Desjardins sur le «dark web»: barrer votre dossier de crédit peut empêcher la fraude • À lire aussi: «On les force à frauder des Canadiens»: le témoignage troublant du patron du Centre antifraude «Le marché des cartes de crédit volées, c’est comme n’importe quel autre marché.
+- S’il y a beaucoup d’offres, les prix baissent», explique d’une voix posée au Journal Adrianus Warmenhoven, expert en cybersécurité chez NordVPN.
+- «Les brèches peuvent venir de partout, de n’importe quel magasin par exemple, pas nécessairement de l’institution financière», ajoute le spécialiste joint aux Pays-Bas.
+
+## [Un œil sur l'éco. Prévention <b>cybersécurité</b> : comment éviter les faux conseillers et le phishing](https://www.courrier-picard.fr/id672890/article/2025-11-09/un-oeil-sur-leco-prevention-cybersecurite-comment-eviter-les-faux-conseillers-et)  
+*Source : courrier-picard.fr | Publication : 2025-11-09*
+
+- Face à cette menace croissante, les banques ont fait de la cybersécurité une priorité : authentification forte pour sécuriser les opérations,.
+
+## [Les grands titres de l'express de ce dimanche 9 novembre 2025 - lexpress.mu](https://lexpress.mu/s/les-grands-titres-de-lexpress-de-ce-dimanche-9-novembre-2025-551306)  
+*Source : lexpress.mu | Publication : 2025-11-09*
+
+- Cybersécurité , violence domestique et MK : La «PMQT» s'annonce électrique l Premier League : Man City-Liverpool, un sommet qui sent la poudre.
+
+## [Raïssa Malu - « Le numérique est l'autoroute, mais l'éducation est le permis de conduire](https://fr.allafrica.com/stories/202511080018.html)  
+*Source : fr.allafrica.com | Publication : 2025-11-09*
+
+- Intervenant le vendredi 7 novembre au Sommet mondial de l'Internet, au Wuzhen Conference Hall en Chine, la ministre d'État, ministre de l'Éducation nationale, Raïssa Malu, a déclaré que « Le numérique est l'autoroute, mais l'éducation est le permis de conduire ».
+- A la tribune de ce forum, elle a souligné que l'éducation est au coeur de la souveraineté numérique : « L'école est notre première ligne de défense contre la fracture numérique.
+- Elle est le creuset où nous préparons la nouvelle génération à faire bien plus que consommer la technologie : nous la formons à créer, innover et gouverner son propre numérique ».
+- Évoquant la cybersécurité comme pilier de la souveraineté et de la confiance, Raïssa Malu a précisé que l'engagement de la RDC envers le numérique s'inscrit dans le Plan national du numérique (PNN), qui vise à faire de la RDC un hub technologique régional à l'horizon 2030.
 
 ## [RDC : Eliel Mulumba, expert en <b>cybersécurité</b> industrielle primé aux Tech Next Awards à Dubai](https://cio-mag.com/rdc-eliel-mulumba-expert-en-cybersecurite-industrielle-prime-aux-tech-next-awards-a-dubai/)  
 *Source : cio-mag.com | Publication : 2025-11-08*
