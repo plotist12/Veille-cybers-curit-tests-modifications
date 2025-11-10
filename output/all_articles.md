@@ -1,5 +1,155 @@
-# Résumés – 2025-11-09
+# Résumés – 2025-11-10
 
+
+## [Cyber-résilience en trompe-l'œil, ou le grand écart des entreprises françaises - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/cyber-resilience-en-trompe-loeil-ou-le-grand-ecart-des-entreprises-francaises/)  
+*Source : itsocial.fr | Publication : 2025-11-10*
+
+- Les décideurs français affichent une confiance élevée dans leur capacité à faire face aux cybermenaces, mais les données recueillies par Cohesity dessinent une réalité bien plus préoccupante.
+- Ce décalage, que certains analystes n’hésitent pas à qualifier de méthode Coué numérique, révèle une fracture inquiétante de la cyber-résilience nationale, exacerbée par les défis de l’intelligence artificielle générative.
+- Le premier baromètre mondial de la cyber-résilience publié par Cohesity dresse un constat troublant pour la France.
+- Fondé sur les réponses de 3200 décideurs IT et sécurité dans 11 pays, le rapport met en lumière un double déséquilibre : une surévaluation de la maturité des dispositifs défensifs et une adoption précipitée de l’IA générative, rarement accompagnée des garde-fous nécessaires.
+
+## [<b>Cybersécurité</b> : ce danger que Trump n'a pas vu venir - La Nouvelle Tribune](https://lanouvelletribune.info/2025/11/cybersecurite-ce-danger-que-trump-na-pas-vu-venir/)  
+*Source : lanouvelletribune.info | Publication : 2025-11-10*
+
+- Les États-Unis affrontent aujourd’hui un paradoxe inquiétant : un pays technologiquement à la pointe, mais dont la défense numérique s’effrite.
+- Selon la dernière évaluation issue des travaux de la Commission bipartisane Cyberspace Solarium, la puissance américaine accumule un retard considérable dans la mise en œuvre de ses 82 objectifs de cybersécurité.
+- Cette défaillance survient alors que l’administration Trump fait face à un blocage budgétaire prolongé, paralysant des secteurs entiers de l’appareil fédéral.
+- Une défense numérique à bout de souffle Depuis quarante jours, le shutdown gouvernemental a mis des centaines de milliers de fonctionnaires en congé forcé ou au travail sans rémunération.
+
+## [Netskope et Neverhack s'allient pour un SOC unifié et automatisé - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-actualites/netskope-et-neverhack-sallient-pour-un-soc-unifie-et-automatise/)  
+*Source : itsocial.fr | Publication : 2025-11-10*
+
+- Netskope et Neverhack lancent une offre conjointe de SSE managé combinant remédiation automatisée, renseignement contextuel et protection Zero Trust.
+- Cette alliance cible les entreprises confrontées à la complexité croissante de la sécurité cloud à l’ère de l’IA.
+- Netskope, spécialiste de la sécurité et des réseaux modernes, et Neverhack, fournisseur de services de sécurité managés, annoncent une collaboration stratégique autour d’un service SSE managé « clé en main ».
+- Cette offre associe les capacités temps réel de la plateforme Netskope One aux services 24/7 du centre d’opérations de sécurité de Neverhack.
+
+## [<b>Cybermenace</b> : pourquoi l'Europe s'inquiète de la main invisible chinoise sur les bus électriques](https://fr.news.yahoo.com/cybermenace-pourquoi-l-europe-s-172539237.html)  
+*Source : fr.news.yahoo.com | Publication : 2025-11-10*
+
+- Cybermenace : pourquoi l’Europe s’inquiète de la main invisible chinoise sur les bus électriques ?.
+- Trois pays européens ont déjà tiré la sonnette d’alarme au sujet des bus électriques de la marque Yutong utilisée largement pour les transports en commun en Europe.
+- Le groupe chinois est soupçonné d’être capable d’arrêter à distance ces véhicules.
+- De quoi nourrir les craintes de la dépendance aux technologies chinoises que Pékin pourrait utiliser dans le cadre d’un conflit hybride.
+
+## [<b>Cybermenace</b> : pourquoi l'Europe s'inquiète de la main invisible chinoise sur les bus électriques ?](https://www.france24.com/fr/éco-tech/20251110-cybermenace-pourquoi-l-europe-s-inquiète-de-la-main-invisible-chinoise-sur-les-bus-électriques)  
+*Source : france24.com | Publication : 2025-11-10*
+
+- Cybermenace : pourquoi l’Europe s’inquiète de la main invisible chinoise sur les bus électriques ?.
+- Trois pays européens ont déjà tiré la sonnette d’alarme au sujet des bus électriques de la marque Yutong utilisée largement pour les transports en commun en Europe.
+- Le groupe chinois est soupçonné d’être capable d’arrêter à distance ces véhicules.
+- De quoi nourrir les craintes de la dépendance aux technologies chinoises que Pékin pourrait utiliser dans le cadre d’un conflit hybride.
+
+## [Déclin de la <b>cybersécurité</b> aux États-Unis : conséquences des réductions budgétaires et ...](https://lufkindailynews.com/test/?s-news-7612503-2025-11-10-declin-de-la-cybersecurite-aux-etats-unis-consequences-budgets-menaces-ia)  
+*Source : lufkindailynews.com | Publication : 2025-11-10*
+
+- How do I get my business listed?.
+- Our directory features more than 18 million business listings from across the entire US.
+- However, if we're missing your business, just click below to request that it be added.
+- It's free!.
+
+## [Cyberharcèlement et santé mentale : les perspectives du Dr Mickaël Worms-Ehrminger](https://www.bitdefender.com/fr-fr/blog/hotforsecurity/cyberharcelement-et-sante-mentale-les-perspectives-du-dr-mickael-worms-ehrminger)  
+*Source : bitdefender.com | Publication : 2025-11-10*
+
+- Novembre est le mois de la lutte contre le cyberharcèlement en France, une excellente occasion de sensibiliser le public à toutes les formes d'intimidation en ligne et aux profondes séquelles émotionnelles qu'elle peut laisser.
+- Avec l'arrivée de la saison froide, les enfants comme les adultes passent davantage de temps à l'intérieur et sur Internet.
+- C'est donc le moment idéal pour entamer une conversation sur l'impact des interactions en ligne sur la santé mentale.
+- Les plateformes numériques sont formidables pour mettre en relation des amis et des communautés, mais elles constituent également un terrain fertile pour le cyberharcèlement, une forme de harcèlement qui poursuit les victimes au-delà de l'école, du travail ou des cercles sociaux.
+
+## [&quot;Mort lente et douloureuse&quot;: un rapport alarmant pointe le déclassement américain en ... - BFMTV](https://www.bfmtv.com/tech/cybersecurite/mort-lente-et-douloureuse-un-rapport-alarmant-pointe-le-declassement-americain-en-matiere-de-cybersecurite-depuis-les-coupes-budgetaires-de-trump-et-le-shutdown_AN-202511100751.html)  
+*Source : bfmtv.com | Publication : 2025-11-10*
+
+- "Mort lente et douloureuse": un rapport alarmant pointe le déclassement américain en matière de cybersécurité depuis les coupes budgétaires de Trump et le shutdown Un retour de baton.
+- Près d’un an après le début du second mandat de Donald Trump, des experts en cybersécurité et des responsables du secteur public s’alarment des conséquences des coupes budgétaires et de la réduction des effectifs au sein des agences fédérales.
+- Ces mesures affaiblissent, en effet, les canaux de communication essentiels pour aider les entreprises à se préparer et à réagir face aux cyberattaques, alors même que les menaces, notamment celles liées à l’intelligence artificielle, se multiplient.
+- La dernière évaluation de la cybersécurité basée sur les travaux de la Commission bipartisane Cyberspace Solarium a révélé que les États-Unis accusent aujourd'hui un retard significatif dans la réalisation "des 82 objectifs visant à renforcer la cyberdéfense", allant de la simplification des réglementations pour les infrastructures critiques au renforcement des capacités du FBI et des services de renseignement.
+
+## [Vertiv ajoute le refroidissement par immersion à son catalogue - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/infra/64103-vertiv-ajoute-le-refroidissement-par-immersion-a-son-catalogue.html)  
+*Source : linformaticien.com | Publication : 2025-11-10*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Infra · Vertiv ajoute le refroidissement.
+
+## [Rencontre autour de la <b>cybersécurité</b> avec les seniors de Thaon-les-Vosges - Epinal Info](https://vosgesinfo.fr/epinalinfo/2025/11/rencontre-autour-de-la-cybersecurite-avec-les-seniors-de-thaon-les-vosges/)  
+*Source : vosgesinfo.fr | Publication : 2025-11-10*
+
+- Ce jeudi 6 novembre, à l’initiative de la Ville de Thaon-les-Vosges, une rencontre dédiée à la prévention et à la cybersécurité s’est tenue à destination des seniors.
+- Notre référent cybersécurité est allé à leur rencontre pour aborder les bons réflexes à adopter face aux vols par ruse, escroqueries et cambriolages, avant d’élargir la discussion au thème central de la cybermalveillance.
+- Les échanges ont été nombreux et riches d’expériences partagées.
+- Les participants ont pu poser leurs questions, échanger des témoignages et découvrir des conseils pratiques pour mieux se protéger, que ce soit dans la vie quotidienne ou en ligne.
+
+## [Surfshark lance un outil d'IA pour détecter les arnaques e-mail, profitez-en avec l'offre Black Friday](https://www.letelegramme.fr/guide-conso/high-tech/surfshark-lance-un-outil-dia-pour-detecter-les-arnaques-e-mail-profitez-en-avec-loffre-black-friday-6925657.php)  
+*Source : letelegramme.fr | Publication : 2025-11-10*
+
+- Face à la recrudescence des escroqueries en ligne, Surfshark passe à l’offensive.
+- L’entreprise spécialisée dans la cybersécurité vient de lancer une nouvelle fonction de détection d’arnaques par e-mail basée sur l’intelligence artificielle.
+- Objectif : identifier les messages frauduleux avant qu’ils ne puissent piéger les utilisateurs.
+- Une innovation bienvenue alors que Surfshark propose, pour le Black Friday, sa suite de protection complète à partir de 1,99 € par mois, avec trois mois offerts.
+
+## [TeamViewer lance un accès sans agent pour des opérations industrielles améliorées](https://www.webdisclosure.com/article/teamviewer-germany-gmbh-etr-teamviewer-lance-un-acces-sans-agent-pour-des-operations-industrielles-ameliorees-BVrISAv6mrN)  
+*Source : webdisclosure.com | Publication : 2025-11-10*
+
+- on TeamViewer Germany GmbH TeamViewer lance un accès sans agent pour des opérations industrielles améliorées Göppingen, Allemagne, le 10 novembre 2025 – TeamViewer, leader des solutions d'espace de travail numérique, a annoncé le lancement d'Agentless Access lors du Gartner IT Symposium de Barcelone.
+- Cette nouvelle fonctionnalité de la plateforme TeamViewer Tensor permet des opérations à distance sécurisées et simplifiées en milieu industriel, sans installation de logiciel sur chaque appareil.
+- L'accès sans agent permet aux fabricants et aux constructeurs de machines de gérer à distance leurs systèmes de technologie opérationnelle (OT), tels que les automates programmables et les interfaces homme-machine (IHM).
+- Il renforce la cybersécurité et la conformité, tout en simplifiant la tâche des équipes informatiques et OT grâce à la suppression des modifications logicielles sur les appareils.
+
+## [La French Tech 2030 muscle son écosystème avec 80 nouvelles pépites technologiques](https://www.alliancy.fr/la-french-tech-2030-muscle-son-ecosysteme-avec-80-nouvelles-pepites-technologiques)  
+*Source : alliancy.fr | Publication : 2025-11-10*
+
+- 80 startups prometteuses rejoignent l’initiative French Tech.
+- Soutenues par l’État et les grands acteurs publics, ces jeunes pousses incarnent l’ambition française de souveraineté technologique dans des secteurs clés comme l’intelligence artificielle, la cybersécurité ou le quantique.
+- Au-delà de l’innovation, ce programme contribue à faire émerger des champions nationaux contribuant à l’emploi et à l’intérêt général.
+- La French Tech 2030 se renforce avec l’arrivée de 80 nouveaux membres.
+
+## [Qu'est-ce que le DIGITAL OMNIBUS, projet de refonte du cadre numérique européen?](https://www.frenchweb.fr/quest-ce-que-le-digital-omnibus-projet-de-refonte-du-cadre-numerique-europeen/458511)  
+*Source : frenchweb.fr | Publication : 2025-11-10*
+
+- Qu’est-ce que le DIGITAL OMNIBUS, projet de refonte du cadre numérique européen?.
+- 📩 Pour nous contacter: redaction@fw.media La Commission européenne prépare une nouvelle étape dans la gouvernance numérique de l’Union.
+- Baptisé Digital Omnibus, ce train de mesures vise à simplifier un ensemble de réglementations devenues trop complexes et à renforcer la cohérence entre les grands textes adoptés depuis 2020 sur la donnée, la cybersécurité et l’intelligence artificielle.
+- Derrière l’objectif technique, l’enjeu est bien entendu politique à savoir consolider la souveraineté numérique européenne.
+
+## [Meta veut investir 600 Mds$ dans les infrastructures d'IA d'ici 2028 - L'Informaticien](https://www.linformaticien.com/magazine/tendances/941-ia/64102-meta-veut-investir-600-mds-dans-les-infrastructures-d-ia-d-ici-2028.html)  
+*Source : linformaticien.com | Publication : 2025-11-10*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · IA · Meta veut investir 600 Mds$ dans les.
+
+## [Acronis Cyber Protect Local : cyber-résilience sur site souveraine - InformatiqueNews.fr](https://www.informatiquenews.fr/acronis-deploie-cyber-protect-local-pour-renforcer-la-cyber-resilience-sur-site-107831)  
+*Source : informatiquenews.fr | Publication : 2025-11-10*
+
+- Acronis lance Cyber Protect Local, une solution intégrée de sauvegarde et de cybersécurité dédiée aux environnements sur site et souverains.
+- Conçue pour les organisations IT/OT où le cloud est proscrit, la plateforme unifie protection, gestion et conformité dans un cadre local.
+- Acteur basé en Suisse de la protection des données et de la cybersécurité, plus connue pour sa solution True Image et pour sa plateforme Cyber Protect Cloud, Acronis lance sa nouvelle solution « Acronis Cyber Protect Local » est une solution pensée pour les organisations qui doivent conjuguer protection des données, cybersécurité et conformité réglementaire, tout en gardant la maîtrise totale de leur environnement.
+- Contrairement aux offres exclusivement hébergées dans le cloud, cette déclinaison locale apporte la puissance de la plateforme Acronis directement sur site, garantissant que toutes les données, les services et les composants de gestion restent dans le périmètre de l’entreprise.
+
+## [États-Unis : un « acteur étranger » a piraté le Bureau du budget du Congrès - incyber news](https://incyber.org/article/etats-unis-acteur-etranger-pirate-bureau-du-budget-du-congres/)  
+*Source : incyber.org | Publication : 2025-11-10*
+
+- États-Unis : un « acteur étranger » a piraté le Bureau du budget du Congrès Articles du même auteur : 2 4 07.11.25 Gestion des risques 2026, année de tous les dangers cyber selon Google Lire 01.
+
+## [Andrézieux-Bouthéon. La cité scolaire Mauriac-Desgranges fermée à la suite d'une cyberattaque](https://mesinfos.fr/42160-andrezieux-boutheon/andrezieux-boutheon-la-cite-scolaire-mauriac-desgranges-fermee-a-la-suite-d-une-cyberattaque-233645.html)  
+*Source : mesinfos.fr | Publication : 2025-11-10*
+
+- La gendarmerie de la Loire a ouvert ce lundi une enquête ordonnée par le parquet de Saint-Étienne pour "menace d’attentat terroriste", après avoir été alertée dans la nuit de dimanche à lundi par des élèves de la cité scolaire Mauriac-Desgranges, d’Andrézieux-Bouthéon d’une cyberattaque sur le site internet de leur établissement.
+- Le piratage a été découvert lors de la consultation de leur Espace numérique de travail (ENT) par des élèves du lycée d’enseignement général François-Mauriac et du lycée d’enseignement technologique Pierre-Desgranges.
+- Le site internet affiche ce lundi "En raison d’actes de cyber-malveillance le site de la cité scolaire n’est pas disponible pour le moment".
+- Une levée de doute suite à une menace d'attentat confiée à la compagnie de gendarmerie de Montbrison Les plus de 1 700 élèves de la cité scolaire ont reçu ce lundi matin un message de la direction de l’établissement annonçant qu’elle a "l’obligation de garder le lycée fermé ce lundi 10 novembre 2025 […] suite à un potentiel problème de sécurité".
+
+## [La Syrie participe en Turquie à la conférence sur la lutte contre la <b>cybercriminalité</b>](https://sana.sy/fr/syria-and-the-world/2273385/)  
+*Source : sana.sy | Publication : 2025-11-10*
+
+- Ankara – SANA / Une délégation du ministère syrien de l’Intérieur, représentée par la Direction de la formation et du perfectionnement ainsi que par la Direction des enquêtes criminelles, a participé aux travaux de la conférence internationale tenue dans la ville de Nevşehir, en République de Turquie, organisée par l’Association internationale des académies de police INTERPA, sous le titre : « Stratégies avancées dans la lutte contre la cybercriminalité ».
+- Le ministère de l’Intérieur a fait savoir, dans une publication sur sa chaîne Telegram aujourd’hui, que les participants à la conférence ont présenté les systèmes et les techniques les plus récentes pour combattre la cybercriminalité, et ont discuté des moyens de renforcer la coopération internationale et l’échange d’expériences.
+- La délégation du ministère a également tenu des rencontres parallèles avec des responsables, dont la plus importante était celle avec le président de l’Association INTERPA, afin de suivre le développement de la coopération et l’adhésion prochaine de la Direction de la formation et du perfectionnement à l’association.
+- Le ministère a précisé que cette participation s’inscrit dans le cadre de ses efforts pour suivre les évolutions scientifiques et renforcer les compétences de ses cadres, contribuant ainsi à soutenir la lutte contre la criminalité et à préserver la sécurité de la société.
+
+## [« Une recrudescence des plaintes » : tout savoir sur la <b>cybercriminalité</b> dans des conférences](https://www.ouest-france.fr/normandie/douvres-la-delivrande-14440/une-recrudescence-des-plaintes-tout-savoir-sur-la-cybercriminalite-dans-des-conferences-922998b6-bc87-11f0-8016-e146a44cd02b)  
+*Source : ouest-france.fr | Publication : 2025-11-10*
+
+- La brigade territoriale autonome (BTA) de Douvres-la-Délivrande, du groupement de gendarmerie départementale du Calvados, propose des réunions.
 
 ## [Les séniors de la résidence Aragon de Saint Rémy sensibilisés à la &quot;<b>cybersécurité</b>&quot;.](https://www.info-chalon.com/articles/2025/11/09/104955/les-seniors-de-la-residence-aragon-de-saint-remy-sensibilises-a-la-cybersecurite/)  
 *Source : info-chalon.com | Publication : 2025-11-09*
