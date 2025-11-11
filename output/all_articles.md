@@ -1,5 +1,149 @@
-# Résumés – 2025-11-10
+# Résumés – 2025-11-11
 
+
+## [L'application HopHop, jugée sécuritaire, revient dans les écoles et garderies](https://ici.radio-canada.ca/nouvelle/2206985/application-hophop-cybersecurite-numerique-ecole)  
+*Source : ici.radio-canada.ca | Publication : 2025-11-11*
+
+- L’application HopHop, jugée sécuritaire, revient dans les écoles et les garderies Des modifications ont été apportées afin d’améliorer la cybersécurité de l’application.
+- L'application HopHop existe depuis 2016.
+- Photo : Photo : HopHop Les centres de services scolaires ont désormais le feu vert du gouvernement du Québec pour reprendre l'utilisation de l’application HopHop, qui avait été suspendue après des révélations de Radio-Canada au sujet de la vulnérabilité des renseignements des utilisateurs.
+- Dans un courriel aux parents, l’École internationale du Mont-Bleu, à Gatineau, affirme avoir remis en service cette application qui facilite la coordination entre l’arrivée du parent et le départ de l’enfant.
+
+## [Trois jours d'échanges entre entrepreneurs à la CCISM - Radio1 Tahiti](https://www.radio1.pf/trois-jours-dechanges-entre-entrepreneurs-a-la-ccism/amp/)  
+*Source : radio1.pf | Publication : 2025-11-11*
+
+- Sur des sujets très divers : fiscalité, embauche, médecine du travail, finances, export, e-commerce ou cybersécurité , IA ou retraite des entrepreneurs.
+
+## [Gérôme Billois, associé en <b>cybersécurité</b> et confiance numérique au sein du cabinet Wavestone](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/gerome-billois-associe-en-cybersecurite-et-confiance-numerique-au-sein-du-cabinet-wavestone-11-11_EN-202511110758.html)  
+*Source : bfmtv.com | Publication : 2025-11-11*
+
+- Podcast Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone – 11/11 Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone – 11/11 7:13 Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone, était l'invité de François Sorel dans Tech & Co, la quotidienne, ce mardi 11 novembre.
+- Il s'est penché sur l’utilisation d’enceintes connectées par des criminels pour voler des voitures en moins de deux minutes, sur BFM Business.
+- Retrouvez l'émission du lundi au jeudi et réécoutez-la en podcast.
+- Autres épisodes Ce mardi 11 novembre, François Sorel a reçu Salime Nassur, fondateur de Maars, Guillaume Grallet, journaliste au Point, Frédéric Simottel, journaliste BFM Business, et Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone, dans l'émission Tech & Co, la quotidienne sur BFM Business.
+
+## [<b>Cybercriminalité</b> et IA : quand votre assistant virtuel se retourne contre vous](https://www.epochtimes.fr/linjection-de-requetes-nouvelle-arme-des-pirates-pour-controler-votre-ia-3105955.html)  
+*Source : epochtimes.fr | Publication : 2025-11-11*
+
+- Alerte santé à bord : Norwegian Cruise Line renforce la prévention après la détection d’une infection bactérienne « On chante, on mange et on boit » : les participants aux banquets du Canon français revendiquent une ambiance festive et apolitique Salah Abdeslam envisage d’entamer une démarche de justice restaurative avec des victimes du 13-Novembre Deux-Sèvres : parti pour une consultation à près de vingt kilomètres de chez lui, un octogénaire se retrouve… en Croatie Cybercriminalité et IA : quand votre assistant virtuel se retourne contre vous L'essor fulgurant des assistants d'intelligence artificielle a ouvert une brèche inquiétante dans nos systèmes numériques.
+- Les cybercriminels ont trouvé un moyen détourné de prendre le contrôle de ces outils : en injectant discrètement leurs propres commandes dans votre chatbot, ils peuvent accéder à vos données sensibles, les supprimer ou les altérer à leur guise.
+- Durée de lecture: 5 Min.
+- Durée de lecture: 5 Min.
+
+## [Khaled Nouri : “La Tunisie mène aujourd'hui une vraie guerre contre les narcotrafiquants”](https://www.lapresse.tn/2025/11/11/khaled-nouri-la-tunisie-mene-aujourdhui-une-vraie-guerre-contre-les-narcotrafiquants/)  
+*Source : lapresse.tn | Publication : 2025-11-11*
+
+- Khaled Nouri : “La Tunisie mène aujourd’hui une vraie guerre contre les narcotrafiquants” Le ministre de l’Intérieur, Khaled Nouri, a affirmé que la Tunisie est engagée dans une véritable guerre contre les narcotrafiquants, en réponse aux interrogations des députés lors de l’examen du budget de la mission spéciale du ministère de l’Intérieur pour l’exercice 2026.
+- Le ministre a expliqué que son département déploie une stratégie sécuritaire à double détente pour venir à bout de ce fléau.
+- Le premier volet repose sur une approche proactive, axée sur le repérage précoce des routes et filières du trafic de drogue, ainsi que sur l’identification des points d’accès utilisés par les dealers aux frontières tunisiennes.
+- Le second volet vise à démanteler les réseaux criminels à travers le lancement régulier de campagnes sécuritaires d’envergure.
+
+## [Des paquets de code peuvent saboter des installations industrielles à retardement](https://incyber.org/article/paquets-de-code-peuvent-saboter-installations-industrielles-retardement/)  
+*Source : incyber.org | Publication : 2025-11-11*
+
+- Des paquets de code peuvent saboter des installations industrielles à retardement Articles du même auteur : 3 10.11.25 Gestion des risques Des cybercriminels exploitent l’IA pour créer des malwares adaptatifs Lire 01.
+- 4 10.11.25 Transformation numérique L’Union européenne pourrait reporter l’application de l’AI Act Lire 01.
+
+## [Villeneuve-sur-Lot : Intelligence artificielle et <b>cybersécurité</b> au centre du salon Crée ta boîte ...](https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/villeneuve-sur-lot-intelligence-artificielle-et-cybersecurite-au-centre-du-salon-cree-ta-boite-en-un-jour-26590847.php)  
+*Source : sudouest.fr | Publication : 2025-11-11*
+
+- Ouvert aux futurs entrepreneurs, il a pour objectif de leur apporter, sur un seul site, toutes les solutions pour créer sa société.
+- Rendez-vous le 14 novembre Intelligence artificielle, cybersécurité, gestion des fichiers, protection des données : aujourd’hui, aucun entrepreneur ou chef d’entreprise ne peut faire l’impasse sur ces nouveaux enjeux numériques.
+
+## [Lot-et-Garonne : Il assure à domicile la transition numérique et la <b>cybersécurité</b> dans le Villeneuvois](https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/lot-et-garonne-il-assure-a-domicile-la-transition-numerique-et-la-cybersecurite-dans-le-villeneuvois-26607575.php)  
+*Source : sudouest.fr | Publication : 2025-11-11*
+
+- Mickaël Hasbruck vient tout juste de monter sa société dénommée Speed computer 47.
+- Cet informaticien met au service des particuliers et des commerçants, ses compétences professionnelles après des années passées au siège de grosses entreprises dans le commerce ou l’assurance « Au départ, je voulais faire du dépannage informatique standard.
+- Mais, c’est en constatant autour de moi l’augmentation du nombre de personnes piratées, via parfois juste leur montre connectée, que j’ai élargi mes domaines d’intervention.
+- ».
+
+## [Dérives du Dossier santé numérique: le PLQ demande au Vérificateur général d'enquêter](https://www.qub.ca/article/derives-du-dossier-sante-numerique-le-plq-demande-au-verificateur-general-denqueter-352895869)  
+*Source : qub.ca | Publication : 2025-11-11*
+
+- Dérives du Dossier santé numérique: le PLQ demande au Vérificateur général d’enquêter Nicolas Lachance Très préoccupé par les dépassements de coûts liés au Dossier santé numérique, le Parti libéral du Québec (PLQ) a officiellement demandé au Vérificateur général du Québec (VGQ) d’ouvrir une enquête afin d’éviter de répéter les erreurs du passé, comme le fiasco de SAAQclic.
+- • À lire aussi: 95 M$ de plus pour la numérisation en santé: Québec a contourné les règles pour relancer le DSN • À lire aussi: La CAQ cherche à «maquiller le fiasco» du Dossier santé numérique Dans une lettre adressée au VGQ, Alain Fortin, les libéraux lui recommandent de faire la lumière sur les circonstances entourant la gestion du projet DSN, ainsi que sur le respect des règles et des lois en vigueur.
+- «Nous souhaitons obtenir un portrait clair et impartial de la situation», écrivent les députés Michelle Setlakwe et Marc Tanguay.
+- «Dans un article publié (...) dans Le Journal de Québec, nous apprenons que le gouvernement du Québec a bafoué ses propres règles afin de relancer le Dossier santé numérique (DSN), un projet hautement problématique dont les dépassements de coûts et les retards sont pourtant de notoriété publique, et qui est suspendu par Santé Québec depuis le 2 octobre dernier», signale le PLQ dans une lettre obtenue par notre Bureau parlementaire.
+
+## [Perspectives de croissance renforcées pour Telos grâce à la <b>cybersécurité</b> fédérale et à ... - Bourse](https://ch.zonebourse.com/actualite-bourse/perspectives-de-croissance-renforcees-pour-telos-grace-a-la-cybersecurite-federale-et-a-la-demande-d-ce7d5fd9d08ff320)  
+*Source : ch.zonebourse.com | Publication : 2025-11-11*
+
+- Perspectives de croissance renforcées pour Telos grâce à la cybersécurité fédérale et à la demande de la TSA, selon WedbushTelos devrait bénéficier d'une demande gouvernementale soutenue en matière de conformité à la cybersécurité et de technologies de sécurité dans les transports, selon un rapport de Wedbush.
+
+## [<b>Cybersécurité</b> : La meilleure défense, c'est l'attaque - InfoTravel.fr](https://www.infotravel.fr/actualites/cybersecurite-la-meilleure-defense-cest-lattaque/)  
+*Source : infotravel.fr | Publication : 2025-11-11*
+
+- Selon l’expert en cybersécurité Nicolas Ippolito, « les organisations devraient régulièrement « se hacker » elles-mêmes pour tester leur cyber-résilience ».
+- Avec 278 770 cas de cybercriminalité enregistrés en 2023, un chiffre en hausse, les organisations ont du mal à protéger leurs systèmes contre les cyberattaques.
+- Les conséquences des incidents de cybersécurité peuvent aller des pertes financières à une atteinte durable à la confiance.
+- En se focalisant essentiellement sur des outils défensifs, le tissu économique français risque de passer à côté de l’essentiel : adopter une démarche de sécurité offensive pour mesurer et renforcer la cyberrésilience.
+
+## [Dépassements de coûts du DSN : L'opposition libérale demande au Vérificateur général d'enquêter](https://www.lelezard.com/communique-22012128.html)  
+*Source : lelezard.com | Publication : 2025-11-11*
+
+- Mme Setlakwe, qui a récemment présenté un véritable plan de redressement du ministère de la Cybersécurité et du Numérique basé sur l'expertise, l'.
+
+## [Qui sont les gangs de <b>ransomware</b> les plus redoutables? | ICTjournal](https://www.ictjournal.ch/etudes/2025-11-11/qui-sont-les-gangs-de-ransomware-les-plus-redoutables)  
+*Source : ictjournal.ch | Publication : 2025-11-11*
+
+- Qui sont les gangs de ransomware les plus redoutables?.
+- En 2025, les cybercriminels ont fait des identités leur principale cible.
+- Le rapport annuel d'Opentext sur les logiciels malveillants révèle les six acteurs qui ont particulièrement marqué cette année.
+- L’année 2025 se distingue par une hausse des attaques visant les identités.
+
+## [Spyware LANDFALL : des téléphones au Maroc ciblés par une campagne d'espionnage](https://www.lebrief.ma/spyware-landfall-des-telephones-au-maroc-cibles-par-une-campagne-despionnage-100129997/)  
+*Source : lebrief.ma | Publication : 2025-11-11*
+
+- Spyware LANDFALL : des téléphones au Maroc ciblés par une campagne d’espionnage Cybersécurité (image d'illustration) © DR.
+- Le Maroc figure parmi les pays ciblés par LANDFALL, un logiciel espion d’une redoutable efficacité, selon un rapport récent de Unit 42, l’équipe cybersécurité de Palo Alto Networks.
+- Conçu pour un usage commercial de haut niveau, ce programme aurait été employé dans des opérations de cyberespionnage ciblant des individus considérés comme « à haute valeur stratégique ».
+- L’analyse de fichiers DNG (Digital Negative) malveillants, détectés sur la plateforme VirusTotal, a révélé des attaques au Maroc, en Irak, en Iran et en Turquie.
+
+## [La Tunisie en &quot;guerre réelle&quot; contre les narcotrafiquants, affirme Khaled Nouri devant le Parlement](https://www.webdo.tn/fr/actualite/national/la-tunisie-en-guerre-reelle-contre-les-narcotrafiquants-affirme-khaled-nouri-devant-le-parlement/387339/)  
+*Source : webdo.tn | Publication : 2025-11-11*
+
+- Le ministre de l’Intérieur, Khaled Nouri, a déclaré devant les députés que la Tunisie mène actuellement “une vraie guerre” contre les narcotrafiquants.
+- Son intervention, lundi, s’est tenue lors de l’examen du budget 2026 de son département, marqué par un accent fort sur la sécurité, la cybersécurité et la prévention climatique.
+- Une stratégie sécuritaire « à double détente » Le ministre a dévoilé une approche en deux volets pour contrer le trafic de drogue.
+- Le premier axe repose sur une action préventive, visant à identifier les itinéraires et points d’entrée utilisés par les trafiquants dès les zones frontalières.
+
+## [Introduction à l'internet des objets et à la transformation digitale - AUF](https://www.auf.org/moyen-orient-2/nouvelles/agenda/introduction-linternet-des-objets-et-la-transformation-digitale/)  
+*Source : auf.org | Publication : 2025-11-11*
+
+- Les Campus Numériques Francophones (CNFs) d’Alexandrie et de Tripoli de l’AUF organisent une formation certifiante CISCO, gratuite, intitulée « Introduction à l’internet des objets et à la transformation digitale », qui se tiendra en ligne les vendredis et samedi 21, 22 et 28 novembre 2025, de 16h00 à 19h00.
+- L’Internet des Objets (IoT) est un domaine technologique en pleine croissance, avec de nouvelles entreprises, de nouveaux produits et une forte croissance mondiale en nombre d’emplois.
+- Cette formation proposera aux apprenants de découvrir comment l’IoT et les technologies émergentes telles que l’analyse des données, l’intelligence artificielle et la cybersécurité transforment les secteurs d’activité sur le plan numérique, et multiplient les opportunités de carrière.
+- Intervenant : Dr Bilal MAAZ Consultant et expert en ingénierie des réseaux, télécommunications et cybersécurité, doté de plus de 25 années d’expérience dans l’enseignement supérieur, la recherche appliquée et le conseil en technologies avancées.
+
+## [Opération militaire birmane contre un centre de <b>cybercriminalité</b> - Le Singulier](https://lesinguliersete.fr/operation-militaire-birmane-contre-un-centre-de-cybercriminalite/)  
+*Source : lesinguliersete.fr | Publication : 2025-11-11*
+
+- Monde Opération militaire birmane contre un centre de cybercriminalité Des images satellites révèlent une destruction partielle du complexe KK Park, remettant en cause les déclarations officielles sur son démantèlement intégral.
+- L’analyse d’images satellitaires atteste de destructions limitées dans le centre de cyberfraude birman KK Park, situé près de la frontière thaïlandaise.
+- Ces observations contredisent les affirmations des autorités militaires qui annonçaient la démolition complète des installations.
+- Les clichés, examinés sur une période récente, montrent qu’environ vingt bâtiments ont été détruits et quatre-vingts autres endommagés, principalement dans la zone orientale du site.
+
+## [Burundi : La Stratégie nationale de Gouvernance des Données dévoilée](https://www.digitalbusiness.africa/burundi-la-strategie-nationale-de-gouvernance-des-donnees-devoilee/)  
+*Source : digitalbusiness.africa | Publication : 2025-11-11*
+
+- [DIGITAL Business Africa] – Le Burundi tend vers une gouvernance des données efficace et inclusive.
+- La Stratégie nationale de Gouvernance des Données (SNGD) a été officiellement validée ce 7 novembre 2025 au cours d’une cérémonie présidée par le ministère des Finances et de l’Économie numérique.
+- Étaient présents à cette cérémonie des représentants des différents ministères sectoriels, de l’Agence de développement de l’Union africaine, de l’Union européenne, des académiciens ou encore du secteur privé.
+- La SNGD veut dresser un état des lieux de la gouvernance et de la gestion des données au Burundi, tout en définissant une feuille de route conforme aux enjeux mondiaux et africains.
+
+## [Spyware LANDFALL: les téléphones de Marocains exposés à l'espionnage ciblé - H24info](https://h24info.ma/lifestyle/high-tech/landfall-telephones-marocains/)  
+*Source : h24info.ma | Publication : 2025-11-11*
+
+- Un récent rapport de Unit 42, l'équipe cybersécurité de Palo Alto Networks, révèle que le Maroc figure parmi les victimes potentielles d'un.
+
+## [Un roman sur la <b>cybercriminalité</b> remporte le premier prix du concours d'écriture du ...](https://www.vietnam.vn/fr/tieu-thuyet-ve-toi-pham-du-lieu-gianh-giai-nhat-cuoc-thi-viet-cua-bo-cong-an)  
+*Source : vietnam.vn | Publication : 2025-11-11*
+
+- Le prix A dans la catégorie roman a été décerné à l'écrivain, le lieutenant-colonel Duong Binh Nguyen, pour son ouvrage Le vent souffle encore dans la forêt tropicale , considéré comme le premier roman vietnamien à explorer en profondeur le thème de la criminalité numérique à l'ère du numérique.
+- Le concours a attiré 132 auteurs et 140 œuvres, dont plus de 100 romans.
+- Le comité d'organisation a décerné 34 prix.
+- Outre « Le vent souffle encore dans la forêt tropicale », deux autres prix A dans la catégorie roman ont été attribués à « Face à face » du Dr Pham Quang Long et à « Après-midi en ville » de Nguyen Thu Hang.
 
 ## [Cyber-résilience en trompe-l'œil, ou le grand écart des entreprises françaises - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/cyber-resilience-en-trompe-loeil-ou-le-grand-ecart-des-entreprises-francaises/)  
 *Source : itsocial.fr | Publication : 2025-11-10*
