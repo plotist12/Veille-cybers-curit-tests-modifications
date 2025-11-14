@@ -1,5 +1,143 @@
-# Résumés – 2025-11-13
+# Résumés – 2025-11-14
 
+
+## [Une cyberattaque prive des milliers de soignants de leur logiciel professionnel - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/une-cyberattaque-prive-des-milliers-de-soignants-de-leur-logiciel-professionnel-26728036.php)  
+*Source : sudouest.fr | Publication : 2025-11-14*
+
+- Une cyberattaque a paralysé l’accès aux logiciels de milliers de professionnels de santé, les contraignant à revenir temporairement à des méthodes manuelles Des milliers de médecins et soignants libéraux ont dû refaire cette semaine des consultations à l’ancienne, avec papier et crayon, après avoir perdu pendant quelques jours leur accès à leur logiciel professionnel en raison d’une cyberattaque, a-t-on appris vendredi de sources concordantes.
+
+## [Des milliers de soignants temporairement privés de logiciel suite à une cyberattaque](https://www.france24.com/fr/info-en-continu/20251114-des-milliers-de-soignants-temporairement-privés-de-logiciel-suite-à-une-cyberattaque)  
+*Source : france24.com | Publication : 2025-11-14*
+
+- Des milliers de soignants temporairement privés de logiciel suite à une cyberattaque Paris (AFP) – Des milliers de médecins et soignants libéraux ont dû refaire cette semaine des consultations à l'ancienne, avec papier et crayon, après avoir perdu pendant quelques jours leur accès à leur logiciel professionnel en raison d'une cyberattaque, a-t-on appris vendredi de sources concordantes.
+- Publié le : Lundi soir, la société Weda qui commercialise un logiciel utilisé par les médecins et d'autres soignants comme les sages-femmes, "a décidé de suspendre temporairement l'accès à sa plateforme", en raison d'une "tentative d'intrusion", a indiqué la société dans un communiqué diffusé vendredi.
+- "Un accès partiel à la plateforme a été rétabli vendredi aux alentours de 09H30, permettant de retrouver des fonctionnalités essentielles dans un environnement sécurisé et contrôlé", a ajouté la société.
+- "Cette reprise progressive vise à permettre un redémarrage fiable et durable sans compromis sur la sécurité des données de santé", a-t-elle ajouté.
+
+## [IA : Pourquoi devrait-elle faire partie de la <b>cybersécurité</b> - B2B Cyber Security](https://b2b-cyber-security.de/fr/ki-warum-sie-ein-teil-der-cybersicherheit-sein-sollte/)  
+*Source : b2b-cyber-security.de | Publication : 2025-11-14*
+
+- L'intelligence artificielle (IA) est un allié précieux dans la lutte contre les cybermenaces.
+- Selon une récente enquête du Ponemon Institute, 56 % des entreprises affirment que l'IA les aide à mieux prioriser et à gérer les menaces et les vulnérabilités.
+- D'après Bitkom, le nombre de cyberattaques visant l'économie allemande a considérablement augmenté ces dernières années, tandis que la pénurie de professionnels de l'informatique demeure importante.
+- Les attaques zero-day aggravent la situation, et les équipes informatiques peinent à les contrer seules.
+
+## [Drôme. À l'Esisar, une compétition unique qui allie <b>cybersécurité</b> et robotique - Le Dauphiné Libéré](https://www.ledauphine.com/economie/2025/11/14/a-l-esisar-une-competition-unique-qui-allie-cybersecurite-et-robotique-avec-une-epreuve-unique-en-europe)  
+*Source : ledauphine.com | Publication : 2025-11-14*
+
+- Drôme À l’Esisar, une compétition unique qui allie cybersécurité et robotique, « avec une épreuve unique en Europe » Dans un contexte où la cybersécurité devient de plus en plus essentielle, le Csaw (Cyber security awareness week) fait office de laboratoire.
+- La finale européenne de la plus grande compétition académique de cybersécurité au monde se déroulait ce vendredi.
+
+## [Dell PowerProtect renforce l'arsenal cyber-résilient des entreprises - ITRnews](https://itrnews.com/articles/207875/dell-powerprotect-renforce-larsenal-cyber-resilient-des-entreprises.html)  
+*Source : itrnews.com | Publication : 2025-11-14*
+
+- Veuillez activer Javascript.
+
+## [Telus: un service de <b>cybersécurité</b> ciblant les menaces quantiques - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-inspirer-confiance-pour-se-developper/telus-un-service-de-cybersecurite-ciblant-les-menaces-quantiques/)  
+*Source : lesaffaires.com | Publication : 2025-11-14*
+
+- Telus: un service de cybersécurité ciblant les menaces quantiques La Presse Canadienne|Publié il y a 6 minutes | Mis à jour il y a 4 minutesLes bureaux de Telus au centre-ville de Vancouver (Photo: Darryl Dyck / La Presse Canadienne) Telus (T) lance un nouveau service de cybersécurité destiné à protéger les entreprises contre les futures menaces numériques liées à la technologie de l’informatique quantique.
+- La société reconnaît que les ordinateurs quantiques pourraient à terme être suffisamment puissants pour contourner les méthodes de cryptage actuelles, ce qui constituerait une menace importante pour la sécurité des données.
+- Elle annonce le lancement d’une solution proactive utilisant une technologie de cryptage avancée pour aider les entreprises et les organismes gouvernementaux à garder une longueur d’avance sur les cybermenaces en constante évolution.
+- Le service de RPV prêt pour l’ère quantique offre une protection renforcée des données des clients contre les cyberattaques afin de répondre aux exigences des organismes de sécurité mondiaux, ainsi qu’une protection à long terme de la propriété intellectuelle et des données sensibles.
+
+## [Cyberattaques : quand investir ne protège pas - JDN](https://www.journaldunet.com/cybersecurite/1546029-cyber-attaques-quand-investir-ne-protege-pas/)  
+*Source : journaldunet.com | Publication : 2025-11-14*
+
+- Cyberattaques : quand investir ne protège pas Les petites et moyennes entreprises (PME), les entreprises de taille intermédiaire (ETI) et les collectivités locales sont les premières cibles des cybercriminels.
+- Pourtant, certaines se pensaient bien protégées.
+- Comment expliquer ce phénomène ?.
+- Dans son rapport d’activité de 2024, l’ANSSI annonce que les TPE/PME/ETI représentent jusqu’à 37% des attaques par rançongiciels, les collectivités territoriales étant également très touchées, avec jusqu’à 17% des organisations touchées par ce type d’attaque.
+
+## [<b>Ransomware</b> : des affidés d'Akira se tournent vers les VM Nutanix | LeMagIT](https://www.lemagit.fr/actualites/366634593/Ransomware-des-affides-dAkira-se-tournent-vers-les-VM-Nutanix)  
+*Source : lemagit.fr | Publication : 2025-11-14*
+
+- Ransomware : des affidés d’Akira se tournent vers les VM Nutanix Particulièrement actif depuis un an, l’enseigne a su recruter des acteurs qui s’en prennent désormais aux environnements virtualisés Nutanix, et plus seulement ESXi ou Hyper-V.
+- Leurs cibles favorites ?.
+- Les PME.
+- Les autorités helvètes avaient récemment alerté : l’enseigne de rançongiciel Akira « a intensifié ses actions en Suisse ces derniers mois ».
+
+## [Menaces quantiques | Telus dévoile un nouveau service de <b>cybersécurité</b> | La Presse](https://www.lapresse.ca/affaires/techno/2025-11-14/menaces-quantiques/telus-devoile-un-nouveau-service-de-cybersecurite.php)  
+*Source : lapresse.ca | Publication : 2025-11-14*
+
+- (Vancouver) Telus lance un nouveau service de cybersécurité destiné à protéger les entreprises contre les futures menaces numériques liées à la technologie de l’informatique quantique.
+- La société reconnaît que les ordinateurs quantiques pourraient à terme être suffisamment puissants pour contourner les méthodes de cryptage actuelles, ce qui constituerait une menace importante pour la sécurité des données.
+- Elle annonce le lancement d’une solution proactive utilisant une technologie de cryptage avancée pour aider les entreprises et les organismes gouvernementaux à garder une longueur d’avance sur les cybermenaces en constante évolution.
+- Le service de RPV prêt pour l’ère quantique offre une protection renforcée des données des clients contre les cyberattaques afin de répondre aux exigences des organismes de sécurité mondiaux, ainsi qu’une protection à long terme de la propriété intellectuelle et des données sensibles.
+
+## [Telex : Une campagne de cyber-espionnage automatisée à l'IA, Salesforce rachète Doti, Le ...](https://www.lemondeinformatique.fr/actualites/lire-telex-une-campagne-de-cyber-espionnage-automatisee-a-l-ia-salesforce-rachete-doti-le-ransomware-akira-cible-nutanix-ahv-98501.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-11-14*
+
+- - Une campagne de cyber-espionnage automatisée à l’IA.
+- Anthropic a publié un rapport montrant qu’un groupe affilié à la Chine a manipulé Claude Code pour tenter d'infiltrer une trentaine de cibles dans le monde et y est parvenu dans quelques cas.
+- L'opération visait de grandes entreprises technologiques, des institutions financières, des industriels dans la chimie et des agences gouvernementales.
+- Pour le fournisseur, « il s'agit du premier cas documenté de cyberattaque de grande ampleur menée sans intervention humaine significative ».
+
+## [Des pirates chinois ont mené des cyberattaques en un clic grâce à l'IA d'Anthropic](https://www.lesechos.fr/tech-medias/hightech/des-pirates-chinois-ont-mene-des-cyberattaques-en-un-clic-grace-a-lia-danthropic-2198762)  
+*Source : lesechos.fr | Publication : 2025-11-14*
+
+- Selon l'équipe cybersécurité d'Anthropic, 80 à 90 % de l.
+- Le modus operandi tranche avec les usages connus de l'IA dans la cybercriminalité.
+
+## [Le Luxembourg lance trois académies high-tech : IA, <b>cybersécurité</b> et quantique à portée de tous](https://www.lesfrontaliers.lu/emploi/le-luxembourg-lance-trois-academies-high-tech-ia-cybersecurite-et-quantique-a-portee-de-tous/)  
+*Source : lesfrontaliers.lu | Publication : 2025-11-14*
+
+- Pour y parvenir, le pays lance trois nouvelles « académies » dédiées à l'intelligence artificielle, la cybersécurité et l'informatique quantique.
+
+## [Soutenus par l'État chinois, des pirates ont pris le contrôle de Claude Code pour mener une ...](https://www.usine-digitale.fr/article/soutenus-par-l-etat-chinois-des-pirates-ont-pris-le-controle-de-claude-code-pour-mener-une-operation-de-cyberespionnage-orchestree-par-l-ia.N2241434)  
+*Source : usine-digitale.fr | Publication : 2025-11-14*
+
+- Verifying your browser before proceeding.
+- Incident ID: 03227972-cyai-4828-ad96-3a012f01e653.
+
+## [<b>Cybersécurité</b> à Rives-en-Seine : une experte nous explique comment éviter les piratages](https://www.paris-normandie.fr/id674311/article/2025-11-14/cybersecurite-rives-en-seine-une-experte-nous-explique-comment-eviter-les)  
+*Source : paris-normandie.fr | Publication : 2025-11-14*
+
+- » La phrase, lancée par une dame d'un certain âge à la fin d'un atelier de cybersécurité organisé par Caux Seine agglo, résume un sentiment largement.
+
+## [KUNA : Le Centre national de <b>cybersécurité</b> alerte sur la hausse des tentatives de piratage ...](https://www.kuna.net.kw/ArticleDetails.aspx?id=3260490&Language=fr)  
+*Source : kuna.net.kw | Publication : 2025-11-14*
+
+- KOWEÏT, 14 Novembre (KUNA) -- Le Centre national de cybersécurité a alerté, vendredi, sur une recrudescence des tentatives de piratage et de vol de comptes sur les réseaux sociaux, en particulier sur WhatsApp.
+- Dans certains cas, cette plateforme peut permettre à des attaquants de s’emparer d’un compte sans aucune action de l’utilisateur, a averti l’organisme.
+- Dans une publication sur la plateforme X, le Centre a appelé les utilisateurs à mettre à jour le système d’exploitation de leur smartphone, à activer l’authentification à deux facteurs sur toutes leurs applications et à installer les dernières mises à jour de leurs applications de réseaux sociaux.
+- Il a également recommandé de signaler immédiatement tout appel ou message suspect aux autorités compétentes, d’ignorer ce type de communication et de ne jamais divulguer de codes de vérification ou de mots de passe, quelles que soient les circonstances.
+
+## [La PME Caennaise N-CyP experte en <b>cybersécurité</b> cède 80 % de son capital au lyonnais ...](https://www.lejournaldesentreprises.com/breve/la-pme-caennaise-n-cyp-experte-en-cybersecurite-cede-80-de-son-capital-au-lyonnais-gerard-perrier-2130836)  
+*Source : lejournaldesentreprises.com | Publication : 2025-11-14*
+
+- Gérard Perrier Industrie, groupe spécialisé dans les automatismes et les équipements électriques industriels, annonce l’acquisition de 80 % du capital de la PME caennaise spécialisée dans la cybersécurité N-CyP.
+- Vincent Leroux, fondateur de l’entreprise en 2021 comptant aujourd'hui 10 salariés souhaite, par cette cession, conforter sa croissance sur le marché français et international.
+- Le groupe lyonnais maintient les effectifs de N-CyP, ses locaux et Vincent Leroux demeurera directeur de sa structure tout en détenant les 20 % du capital restant.
+- Se réjouissant d’une ambition partagée avec Gérard Perrier Industrie, Vincent Leroux pourra, outre son activité informatique "classique", aborder le champ plus technique de la cybersécurité des systèmes de production.
+
+## [<b>Cybersécurité</b> de la SNRT : le centre de Deloitte s'alligne aux côtés d'autres concurrents](http://ledesk.ma/enoff/cybersecurite-de-la-snrt-le-centre-de-deloitte-salligne-aux-cotes-dautres-concurrents/)  
+*Source : ledesk.ma | Publication : 2025-11-14*
+
+- Deloitte Morocco Cyber Center (DMCC) figure parmi les soumissionnaires à l'appel d'offres de la Société nationale de radiotélévision (SNRT) pour.
+
+## [Claude Code détourné, la première attaque coordonnant plusieurs agents IA marque un tournant](https://itsocial.fr/cybersecurite/cybersecurite-actualites/claude-code-detourne-la-premiere-attaque-coordonnee-par-plusieurs-agents-ia-marque-un-tournant/)  
+*Source : itsocial.fr | Publication : 2025-11-14*
+
+- Anthropic a confirmé avoir détecté une attaque coordonnée exploitant Claude Code, son agent conversationnel spécialisé.
+- L’opération, attribuée à une entité étatique, visait une trentaine de cibles de haute valeur à travers un mode opératoire inédit, reposant sur la coordination d’agents IA manipulés sans violation directe de leurs garde-fous.
+- Cette première documentée révèle un basculement dans les dynamiques de menace : les modèles ne sont plus la cible, mais l’instrument.
+- Longtemps cantonnées au domaine du test en laboratoire ou des scénarios hypothétiques, les attaques par agents IA orchestrés prennent une réalité opérationnelle.
+
+## [Rançongiciels : un 3ᵉ trimestre 2025 sous haute tension, selon Check Point Research](https://www.solutions-numeriques.com/rancongiciels-un-3ᵉ-trimestre-2025-sous-haute-tension-selon-check-point-research/)  
+*Source : solutions-numeriques.com | Publication : 2025-11-14*
+
+- Le pari de Samsung Electronics : des réseaux 6G nés pour l’IA et la durabilité Le monde déploie encore la 5G et Samsung jette déjà les bases de la 6G.
+- Non pas seulement comme un rafraîchissement de vitesse, mais comme un réseau « IA-native », plus vaste, plus durable, et conçu pour des usages profondément transformés.
+- Plus tôt cette année,….
+
+## [Complexité, fragmentation, talents : comment les organisations tentent d'éviter le ... - it social](https://itsocial.fr/cybersecurite/cybersecurite-articles/complexite-fragmentation-talents-comment-les-organisations-tentent-deviter-le-decrochage-technologique-en-2025/)  
+*Source : itsocial.fr | Publication : 2025-11-14*
+
+- Le rapport Kyndryl Readiness Report 2025 met en lumière une zone de turbulence rarement documentée : les investissements en intelligence artificielle progressent de 33 % en un an, mais seule une minorité d’organisations estime disposer d’infrastructures capables d’absorber les chocs géopolitiques, réglementaires et opérationnels.
+- La pression pour démontrer un retour sur investissement renforce ce sentiment d’urgence et accélère les décisions d’architecture, souvent prises dans des conditions de visibilité imparfaite.
+- La fragmentation géopolitique, l’adoption rapide des modèles d’IA et la complexification des systèmes hérités redéfinissent la manière dont les entreprises, les administrations et les fournisseurs de services conçoivent leur trajectoire technologique.
+- Le rapport de Kyndryl, fondé sur les réponses de 3 700 dirigeants de 21 pays et sur les données opérationnelles de la plateforme Kyndryl Bridge, montre que les écarts de préparation ne relèvent plus seulement de la maturité technique, ils traduisent une difficulté structurelle à aligner stratégie, compétences, infrastructures et gouvernance dans un monde où les risques se matérialisent plus vite que les plans de transformation.
 
 ## [La GRC de C.-B. contribue au démantèlement d'un réseau mondial de <b>cybercriminalité</b>](https://www.noovo.info/nouvelle/la-grc-de-c-b-contribue-au-demantelement-dun-reseau-mondial-de-cybercriminalite.html)  
 *Source : noovo.info | Publication : 2025-11-13*
