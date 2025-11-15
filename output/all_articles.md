@@ -1,5 +1,154 @@
-# Résumés – 2025-11-14
+# Résumés – 2025-11-15
 
+
+## [<b>Cybersécurité</b> dans le secteur automobile : des hackers éthiques exposent les vulnérabilités](https://b2b-cyber-security.de/fr/cybersicherheit-im-automobilbereich-ethische-hacker-zeigen-die-luecken/)  
+*Source : b2b-cyber-security.de | Publication : 2025-11-15*
+
+- Des cas récents de vulnérabilités en matière de cybersécurité découvertes en Allemagne, en Autriche et en Suisse prouvent que les chercheurs indépendants en matière de menaces et les hackers éthiques ne sont pas des adversaires, mais des alliés – ils contribuent à combler plus rapidement les failles de sécurité dans le secteur automobile – comme le montrent certains cas connus.
+- L'industrie automobile ne se limite plus à la conception de carrosseries et de moteurs.
+- Aujourd'hui, c'est un écosystème mobile piloté par les logiciels, le cloud et les données.
+- Cette complexité accrue engendre également une surface d'attaque de plus en plus vulnérable aux cyberattaques.
+
+## [Afrique: Vingt cadres africaines formées en <b>cybersécurité</b> maritime à Dakar - allAfrica.com](https://fr.allafrica.com/stories/202511150014.html)  
+*Source : fr.allafrica.com | Publication : 2025-11-15*
+
+- Dakar — Vingt femmes cadres évoluant dans le secteur maritime originaires du Sénégal et de pays de la sous-région ont été formées en cybersécurité maritime grâce à l'appui pédagogique de l'École nationale de cybersécurité à vocation régionale (ENCR) et de l'Institut de sécurité maritime interrégional (ISMI) basé à Abidjan en Côte d'Ivoire, a constaté vendredi l'APS.
+- Ce stage dédié à la cybersécurité maritime, organisé dans le cadre de SafePort2, un programme visant à renforcer la sécurité portuaire en Afrique de l'Ouest et du Centre, a démarré lundi dernier à l'École nationale d'administration (ENA).
+- Ce stage est financé par l'Allemagne et piloté par l'Institut des Nations unies pour la formation et la recherche (UNITAR).
+- "La formation a permis aux participantes d'acquérir des compétences importantes, notamment en gestion de scène de crime cyber, en hygiène numérique, en analyse des risques liés aux infrastructures critiques et en protection des données des réseaux et des systèmes", a dit le lieutenant de police Mamadou Mbengue, chef de la division planification et performance de l'ENCR, en marge de la cérémonie de clôture du stage.
+
+## [Sénégal: <b>Cybersécurité</b> maritime - Un officiel salue le rôle déterminant des femmes](https://fr.allafrica.com/stories/202511150004.html)  
+*Source : fr.allafrica.com | Publication : 2025-11-15*
+
+- Dakar — Le secrétaire général de l'École nationale de cybersécurité à vocation régionale (ENCR) , El Hadji Bouya Amar, a salué vendredi à Dakar le rôle déterminant des femmes dans la lutte contre la cybercriminalité maritime.
+- "Dans un environnement [maritime] en mutation, le rôle des femmes est devenu essentiel.
+- [C'est pourquoi], cette formation n'avait pas seulement pour ambition de transmettre des compétences techniques, mais elle visait surtout à montrer ce rôle-là", a-t-il souligné.
+- Le secrétaire général de l'ENCR présidait la cérémonie de clôture du stage dédié à la cybersécurité maritime, organisé à l'École nationale d'administration (ENA), au profit de vingt cadres féminins originaires du Sénégal et de plusieurs pays de la sous-région.
+
+## [Pourquoi l'infrastructure d'Internet est fragile - Courrier international](https://www.courrierinternational.com/article/technologie-pourquoi-l-infrastructure-d-internet-est-fragile_237034)  
+*Source : courrierinternational.com | Publication : 2025-11-15*
+
+- C’est presque un inventaire à la Prévert.
+- Le rapport des pannes majeures sur Internet au troisième trimestre 2025 de l’entreprise de sécurité informatique Cloudflare est “une sorte de répertoire des catastrophes mondiales”, constate The Register : des coupures pour raisons politiques et d’autres à cause de catastrophes naturelles côtoient la défaillance de Starlink et la cyberattaque contre le réseau yéménite.
+- Premier enseignement : les coupures réseau ne sont pas toutes le fait d’une panne.
+- Au Soudan, en Syrie ou en Irak, c’est le gouvernement qui a désactivé l’accès à celui-ci pour la durée des examens de fin d’année, afin d’éviter la triche.
+
+## [Cyberattaques : voici comment éviter la menace silencieuse qui met votre PC en danger](https://www.clubic.com/bons-plans-587077-cyberattaques-voici-comment-eviter-la-menace-silencieuse-qui-met-votre-pc-en-danger.html)  
+*Source : clubic.com | Publication : 2025-11-15*
+
+- En 2025, les cyberattaques sont devenues indétectables pour la majorité des utilisateurs.
+- Même les PC équipés de Windows 11 restent vulnérables à des menaces capables de s’installer sans bruit.
+- Voici la faille que personne ne voit venir… et comment la corriger pour moins de 19 €.
+- La menace invisible : pourquoi votre PC peut être en danger sans que vous le sachiez La plupart des utilisateurs pensent être protégés parce qu’ils ont un antivirus “intégré” à Windows.
+
+## [Bulletin de sécurité Fortinet (AV25-758) - Centre canadien pour la <b>cybersécurité</b>](https://www.cyber.gc.ca/fr/alertes-avis/bulletin-securite-fortinet-av25-758)  
+*Source : cyber.gc.ca | Publication : 2025-11-15*
+
+- Numéro de série : AV25-758 Date : 14 novembre 2025 Le 14 novembre 2025, Fortinet a publié un bulletin de sécurité visant à corriger une vulnérabilité critiques liées aux produits suivants : FortiWeb – de la version 8.0.0 à 8.0.1; - FortiWeb – de la version 7.6.0 à 7.6.4; - FortiWeb – de la version 7.4.0 à 7.4.9; - FortiWeb – de la version 7.2.0 à 7.2.11; - FortiWeb – de la version 7.0.0 à 7.0.11.
+- - Fortinet a constaté qu'un exploit pour la vulnérabilité CVE-2025-64446 existe et est actuellement exploité dans la nature.
+- Le Centre pour la cybersécurité recommande aux utilisatrices, aux utilisateurs, aux administratrices et aux administrateurs de consulter les pages Web ci‑dessous et d'appliquer les mises à jour nécessaires.
+
+## [La communauté professionnelle territoriale de santé met la <b>cybersécurité</b> au cœur de ses priorités](https://www.bienpublic.com/sante/2025/11/15/la-communaute-professionnelle-territoriale-de-sante-met-la-cybersecurite-au-coeur-de-ses-priorites)  
+*Source : bienpublic.com | Publication : 2025-11-15*
+
+- Alise-Sainte-Reine La communauté professionnelle territoriale de santé met la cybersécurité au cœur de ses priorités C’est un sujet qui concerne l’ensemble des activités, mais le domaine de la santé et plus particulièrement le vol de données personnelles sont des cibles privilégiées pour les cybercriminels.
+- Face à ce contexte et aux enjeux induits, la Communauté Professionnelle Territoriale de Santé (CPTS) Auxois-Morvan, organisait ce jeudi 13 novembre, au.
+
+## [La pénurie d'experts en <b>cybersécurité</b> coûte des centaines de milliards d'euros aux ...](https://fr.businessam.be/la-penurie-dexperts-en-cybersecurite-coute-des-centaines-de-milliards-deuros-aux-organisations-allemandes/)  
+*Source : fr.businessam.be | Publication : 2025-11-15*
+
+- Principaux renseignements Les organisations allemandes sont confrontées à une grave pénurie de professionnels de la cybersécurité, ce qui a entraîné des cyberattaques causant 267 milliards d’euros de dommages en 2024.
+- - Les institutions du secteur public ont particulièrement du mal à pourvoir les postes liés à la cybersécurité en raison du nombre limité de candidatures et du manque de compétences des candidats.
+- - Les experts recommandent une approche multiple : augmentations salariales, externalisation des tâches, automatisation et efforts de recrutement ciblés.
+- - Les organisations allemandes sont confrontées à une grave pénurie de professionnels de la cybersécurité, ce qui entraîne des dommages records causés par les cyberattaques, rapporte Euronews.
+
+## [AL25-017 – Vulnérabilité affectant Fortinet FortiWeb – CVE-2025-64446](https://www.cyber.gc.ca/fr/alertes-avis/al25-017-vulnerabilite-affectant-fortinet-fortiweb-cve-2025-64446)  
+*Source : cyber.gc.ca | Publication : 2025-11-15*
+
+- Numéro : AL25-017 Date : 14 novembre 2025 Auditoire La présente alerte s'adresse aux professionnelles et professionnels et aux gestionnaires des TI.
+- Objet Une alerte a pour objet de prévenir les destinataires que des cybermenaces ont été relevées récemment et que celles-ci pourraient toucher les biens d’information électronique.
+- Elle vise également à leur fournir des conseils supplémentaires en matière de détection et d’atténuation.
+- Le Centre canadien pour la cybersécurité (ou Centre pour la cybersécurité) est en mesure d’offrir, aux destinataires qui en font la demande, une assistance complémentaire concernant la teneur de la présente alerte.
+
+## [ASEAN et Chine unies contre la <b>cybercriminalité</b> - Le Courrier du VietNam](https://lecourrier.vn/asean-et-chine-unies-contre-la-cybercriminalite/1295338.html)  
+*Source : lecourrier.vn | Publication : 2025-11-15*
+
+- >> L’empreinte du Vietnam dans la lutte contre la criminalité transnationale >> Un message fort pour la cybersécurité mondiale depuis Hanoï >> Le ministère de la Police intensifie la coopération internationale contre la cybercriminalité >> Le chef du PCV accueille les signataires de la Convention de Hanoï Lors de la rencontre, les agences chargées de l’application de la loi des six pays ont échangé en profondeur sur les stratégies communes pour prévenir et réprimer ces formes de criminalité transnationale en forte expansion, aboutissant à un consensus global.
+- Selon le ministère chinois de la Sécurité publique, cet événement constitue un jalon important dans la coopération entre la Chine et ses partenaires d’Asie du Sud-Est pour contrer les menaces numériques.
+- Les agences des six pays ont signé un document officialisant les résultats de la conférence et réaffirmant leur engagement à lutter conjointement contre la cybercriminalité et la fraude aux télécommunications transfrontalière.
+- Vers des opérations multinationales conjointes Cet engagement se traduit par la promesse de mener des opérations multinationales conjointes, d’établir un mécanisme de coordination régulier, d’intensifier le partage d'informations, de poursuivre le rapatriement et le transfert des individus impliqués dans ces fraudes, et d’améliorer constamment l'efficacité de la répression afin de maintenir la paix et la stabilité régionales.
+
+## [CyberGhost, Proton, Surfshark… quelle est la meilleure offre VPN du Black Friday ? - Clubic](https://www.clubic.com/bons-plans-586582-cyberghost-proton-surfshark-quel-est-le-meilleur-vpn-a-petit-prix-du-black-friday.html)  
+*Source : clubic.com | Publication : 2025-11-15*
+
+- Le Black Friday relance la guerre des prix entre les géants du VPN.
+- CyberGhost, Proton et Surfshark cassent les tarifs pour séduire les utilisateurs en quête de sécurité, de vitesse et de liberté en ligne.
+- Mais lequel offre le meilleur équilibre entre performance et prix ?.
+- Réponse ci-dessous !.
+
+## [L'ASEAN et la Chine intensifient leur coordination contre la <b>cybercriminalité</b> transnationale](https://fr.vietnamplus.vn/lasean-et-la-chine-intensifient-leur-coordination-contre-la-cybercriminalite-transnationale-post254842.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-11-15*
+
+- Yunnan (VNA) – Une conférence ministérielle sur la lutte contre la cybercriminalité et la fraude aux télécommunications a réuni le 14 novembre à Kunming, dans la province chinoise du Yunnan, des représentants de la Chine, du Cambodge, du Laos, du Myanmar, de la Thaïlande et du Vietnam.
+- Lors de cette rencontre, les agences chargées de l’application de la loi des six pays ont échangé en profondeur sur les stratégies communes pour prévenir et réprimer ces formes de criminalité transnationale en forte expansion, aboutissant à un consensus global.
+- Selon le ministère chinois de la Sécurité publique, cet événement constitue un jalon important dans la coopération entre la Chine et ses partenaires d’Asie du Sud-Est pour contrer les menaces numériques.
+- Les agences des six pays ont signé un document officialisant les résultats de la conférence et réaffirmant leur engagement à lutter conjointement contre la cybercriminalité et la fraude aux télécommunications transfrontalière.
+
+## [<b>Cybersécurité</b> : Miser sur le capital humain pour renforcer la résilience numérique](https://www.lavieeco.com/affaires/cybersecurite-miser-sur-le-capital-humain-pour-renforcer-la-resilience-numerique/)  
+*Source : lavieeco.com | Publication : 2025-11-15*
+
+- Telle une piqûre de rappel, la floraison de piratages qui avait secoué en avril dernier plusieurs entités publiques comme la Caisse nationale de.
+
+## [Vingt cadres africaines formées en <b>cybersécurité</b> maritime à Dakar - MSN](https://www.msn.com/fr-xl/afrique-de-l-ouest/senegal-actualite/vingt-cadres-africaines-formées-en-cybersécurité-maritime-à-dakar/ar-AA1QsOcc)  
+*Source : msn.com | Publication : 2025-11-15*
+
+- Ce stage dédié à la cybersécurité maritime, organisé dans le cadre de SafePort2, un programme visant à renforcer la sécurité portuaire en Afrique de l.
+
+## [Créer un « bouclier » pour protéger les enfants dans l'environnement numérique](https://www.vietnam.vn/fr/xay-dung-la-chan-bao-ve-tre-tren-moi-truong-so)  
+*Source : vietnam.vn | Publication : 2025-11-15*
+
+- L'événement Cyber Peace 2025, organisé le 15 novembre par l'école internationale bilingue Wellspring Hanoi, a réuni des représentants de ministères nationaux, de branches et de nombreuses organisations des Nations Unies afin de renforcer la coopération en matière de protection des enfants dans l'environnement numérique.
+- Cet événement s'inscrit dans une série d'activités accompagnant les organisations nationales et internationales de cybersécurité, depuis que Wellspring a été sélectionné comme unité éducative pour accueillir le lancement de la campagne « Pas seuls - Ensemble pour la sécurité en ligne » du ministère de la Sécurité publique (Département A05) et de la Digital Trust Alliance à partir du début d'octobre 2025.
+- Suite à la Journée de la cybersécurité 2025 organisée en réponse à la Convention de Hanoï, l'événement Cyber Peace a continué de prendre de l'ampleur avec la participation du ministère de la Sécurité publique, du ministère des Affaires étrangères, du ministère de l'Éducation et de la Formation (MOET), du ministère des Sciences et de la Technologie, du ministère de l'Industrie et du Commerce, du ministère des Finances , et d'organisations telles que l'UNICEF Vietnam, le PNUD Vietnam, l'IOGT Vietnam et des représentants de plus de 45 écoles.
+- Cyber Peace 2025 place la voix des étudiants au cœur du dispositif.
+
+## [PARIS : <b>Cybersécurité</b>, un enjeu vital face à une pénurie de talents - Presse Agence](https://presseagence.fr/paris-cybersecurite-un-enjeu-vital-face-a-une-penurie-de-talents/)  
+*Source : presseagence.fr | Publication : 2025-11-15*
+
+- PARIS : Cybersécurité, un enjeu vital face à une pénurie de… Partager : PARIS : Cybersécurité, un enjeu vital face à une pénurie de talents Cybersécurité : un enjeu vital face à une pénurie de talents.
+- La sécurité numérique est devenue un défi quotidien pour toutes les organisations.
+- Les attaques se multiplient et gagnent en complexité : selon le rapport 2024 de Check Point Research, au deuxième trimestre 2024, les entreprises subissaient en moyenne 1 636 attaques par semaine, soit une augmentation d’environ +30 % en un an.
+- Les secteurs essentiels (santé, énergie, services publics…) sont parmi les plus touchés.
+
+## [Sommet Smart Africa : Conakry accueille la plus grande édition de l'histoire - Guinéenews](https://guineenews.org/2025/11/14/sommet-smart-africa-conakry-accueille-la-plus-grande-edition-de-lhistoire/)  
+*Source : guineenews.org | Publication : 2025-11-15*
+
+- Une convergence exceptionnelle qui a fait de la capitale guinéenne l’épicentre mondial de la révolution numérique africaine.
+- Avec plus de 7 000 participants, 79 nationalités représentées, 47 ministres présents, 1 552 délégués gouvernementaux, et près de 600 startups africaines, l’édition 2025 est devenue le sommet le plus vaste et le plus influent jamais organisé par Smart Africa, selon les organisateurs.
+- Dans une salle comble, Lacina Koné, Directeur général de Smart Africa, a livré un discours vibrant, empreint de gratitude et de vision.
+- Il a d’abord salué l’hospitalité exceptionnelle du peuple guinéen, qualifiée de “signature nationale”, avant de remercier le Président de la République, le Général Mamadi Doumbouya, pour son leadership, ainsi que le Président Paul Kagame, président du Conseil d’administration de Smart Africa, “dont la constance reste notre étoile”.
+
+## [Bonne nouvelle : le diesel baisse au Luxembourg | Les Frontaliers](https://www.lesfrontaliers.lu/infos-flash/bonne-nouvelle-le-diesel-baisse-au-luxembourg/)  
+*Source : lesfrontaliers.lu | Publication : 2025-11-15*
+
+- Le Luxembourg lance trois académies high-tech : IA, cybersécurité et quantique à portée de tous.
+- Le Luxembourg veut devenir un hub européen des.
+
+## [<b>Cybercriminalité</b> : des pertes estimées à 10 % du PIB africain | adiac-congo.com](https://www.adiac-congo.com/content/cybercriminalite-des-pertes-estimees-10-du-pib-africain-167969)  
+*Source : adiac-congo.com | Publication : 2025-11-15*
+
+- Lire aussi : Afrique-Monde > Technologie : le Tchad élu au Conseil africain de l’intelligence artificielle Afrique-Monde > Cop 30 : A Belém, Denis Sassou N’Guesso réitère son plaidoyer sur la justice climatique Afrique-Monde Cybercriminalité : des pertes estimées à 10 % du PIB africain Samedi 15 Novembre 2025 - 10:30Abonnez-vous Current Size: 100% Partager : Tweet La cybercriminalité devient une menace économique et sécuritaire majeure pour l'Afrique, représentant d'ores et déjà 10 % du PIB du continent.
+- La deuxième édition du XDPO 2025, tenu le 11 novembre à Abidjan, en Côte d’Ivoire, a appelé au renforcement de la protection des données et du rôle des délégués dans la lutte contre cette crise grandissante.
+- Face à une montée en flèche des cyberattaques, l'Afrique se trouve confrontée à une menace économique alarmante.
+- Selon un rapport d’Interpol estimant l’augmentation des fraudes en ligne, certaines nations ont enregistré une hausse spectaculaire de 3.000 % des signalements d'escroqueries.
+
+## [Après des survols de drones, le Danemark est visé par des cyberattaques d'ampleur inédite - BFMTV](https://www.bfmtv.com/tech/cybersecurite/apres-des-survols-de-drones-le-danemark-est-vise-par-des-cyberattaques-d-ampleur-inedite-pourquoi-le-petit-pays-scandinave-est-autant-vise-par-la-russie_AN-202511140541.html)  
+*Source : bfmtv.com | Publication : 2025-11-15*
+
+- Après des survols de drones, le Danemark est visé par des cyberattaques d’ampleur inédite: pourquoi le petit pays scandinave est autant visé par la Russie Le Danemark fait face, en l’espace de quelques semaines, à une multiplication d’incidents qui inquiètent les autorités.
+- Après les survols répétés de drones au dessus de plusieurs aéroports du pays, une cyberattaque revendiquée par des hackers prorusses a paralysé ce jeudi les sites de nombreuses institutions, ainsi que celui du géant de l’industrie de défense Terma.
+- L’Agence danoise pour la sécurité civile a confirmé que “plusieurs entreprises et sites web danois rencontrent actuellement des pannes et des perturbations de fonctionnement en raison d’attaques DDoS”, précisant qu’elle “suit de près la situation” en lien avec les services de renseignement militaires.
+- Sur les réseaux sociaux, le groupe prorusse NoName057 a revendiqué ces attaques, affirmant cibler notamment le ministère des Transports, le portail administratif borger.dk et l’entreprise Terma.
 
 ## [Une cyberattaque prive des milliers de soignants de leur logiciel professionnel - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/une-cyberattaque-prive-des-milliers-de-soignants-de-leur-logiciel-professionnel-26728036.php)  
 *Source : sudouest.fr | Publication : 2025-11-14*
