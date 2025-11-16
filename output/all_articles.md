@@ -1,5 +1,157 @@
-# Résumés – 2025-11-15
+# Résumés – 2025-11-16
 
+
+## [OPINION. « Royaume-Uni et Europe : vers une <b>cybersécurité</b> d'alliance plutôt que de dépendance »](https://www.latribune.fr/article/idees/69823016178403/opinion-royaume-uni-et-europe-vers-une-cybersecurite-d-alliance-plutot-que-de-dependance)  
+*Source : latribune.fr | Publication : 2025-11-16*
+
+- OPINION.
+- « Royaume-Uni et Europe : vers une cybersécurité d’alliance plutôt que de dépendance » Illustration Kacper Pempel - reuters Illustration Kacper Pempel - reuters Par Hamid Chriet, expert franco-britannique en cybersécurité.
+- Les cybermenaces ignorent les frontières, les idéologies et les accords commerciaux.
+- Dans un monde où la donnée est devenue une arme stratégique, la sécurité numérique est aujourd’hui un enjeu aussi vital que l’énergie ou la défense.
+
+## [<b>Cybersécurité</b> : La Nouvelle-Aquitaine, pionnière du 17Cyber régional, « Samu - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/cybersecurite-la-nouvelle-aquitaine-pionniere-du-17cyber-regional-samu-des-victimes-d-attaques-26603008.php)  
+*Source : sudouest.fr | Publication : 2025-11-16*
+
+- La déclinaison régionale du dispositif national 17Cyber permettant de signaler et traiter les cyberattaques vient de voir le jour à Pessac (33), au sein du Campus cyber Nouvelle-Aquitaine.
+- Une réponse de proximité aux victimes, qu’elles soient des entreprises, des collectivités ou des particuliers La lutte contre la cybermalveillance franchit une nouvelle étape en Nouvelle-Aquitaine.
+- La région disposait déjà, depuis le 6 juillet 2023 d’un Campus cyber territorial, installé à Pessac, lieu de formation, de recherche, de coopération entre acteurs publics et privés sur la sécurité informatique.
+- Mais ce dernier a accueilli, le 6 novembre, en présence de Mathieu Hazouard, conseiller régional délégué.
+
+## [<b>Cybersécurité</b> : un nouveau logiciel espion découvert sur les téléphones Samsung Galaxy](https://www.challenges.fr/la-verticale-cyber/cybersecurite-un-nouveau-logiciel-espion-decouvert-sur-les-telephones-samsung-galaxy_630790)  
+*Source : challenges.fr | Publication : 2025-11-16*
+
+- Cybersécurité : un nouveau logiciel espion découvert sur les téléphones Samsung Galaxy Les derniers modèles de smartphones de la marque Samsung Galaxy ont été pris pour cible par un logiciel espion inconnu, baptisé Landfall.
+- Un nouveau scandale révélé par l’entreprise Palo Alto Networks.
+- La grande famille des logiciels espions s’agrandit.
+- Le 7 novembre, les chercheurs en sécurité de l’entreprise Palo Alto Networks ont découvert l’existence d’un logiciel espion, appelé « Landfall », jamais détecté à ce jour.
+
+## [Check Point Stock Prediction: Where Analysts See the Stock Going by 2027 | TIKR.com](https://www.tikr.com/fr/blog/check-point-stock-prediction-where-analysts-see-the-stock-going-by-2027?ref=tikrblog)  
+*Source : tikr.com | Publication : 2025-11-16*
+
+- Check Point Software Technologies (CHKP) est l'un des noms les plus stables dans le domaine de la cybersécurité, soutenu par une croissance constante du chiffre d'affaires, des marges d'élite et un bilan solide.
+- L'action se négocie aujourd'hui à près de 198 dollars, et ses performances récentes témoignent d'une entreprise fondée sur la durabilité plutôt que sur une expansion rapide.
+- Récemment, Check Point a publié des résultats qui ont dépassé les attentes, avec une demande constante pour ses plateformes Harmony, CloudGuard et Quantum.
+- L'entreprise a également déployé de nouvelles mises à jour de prévention des menaces basées sur l'IA et a poursuivi son programme de rachat d'actions, ce qui témoigne d'une confiance dans les performances à long terme.
+
+## [Cyber, IA, quantique : pourquoi Rennes est la capitale française de la souveraineté numérique](https://www.ouest-france.fr/politique/defense/cyber-ia-quantique-pourquoi-rennes-est-la-capitale-francaise-de-la-souverainete-numerique-1d05a40c-c2f0-11f0-8509-2c0807403e46)  
+*Source : ouest-france.fr | Publication : 2025-11-16*
+
+- La 10e édition de l'European Cyber Week ouvre ses portes, lundi 17 novembre 2025, pour quatre journées intenses au centre des congrès de Rennes.
+
+## [Cyberdéfense : «L'enjeu, c'est de nous préparer à une menace de haute intensité](https://www.liberation.fr/international/cyberdefense-lenjeu-cest-de-nous-preparer-a-une-menace-de-haute-intensite-20251116_ZTXIPI6TOJD33CEKLAGIWVLKVU/)  
+*Source : liberation.fr | Publication : 2025-11-16*
+
+- Le conflit qui fait rage en Ukraine depuis son invasion par la Russie il y a trois ans et demi l’a amplement démontré : les attaques informatiques accompagnent désormais, voire précèdent, le fracas des armes conventionnelles.
+- Et la «guerre de l’information», aussi vieille que la guerre tout court, est puissamment reconfigurée par la viralité des plateformes numériques.
+- C’est à ces enjeux, désormais percutés par le développement des intelligences artificielles, que doit répondre le commandement de la cyberdéfense (ComCyber), créé début 2017 et placé sous la houlette du chef d’état-major des armées.
+- Ancien chef des opérations du ComCyber de 2018 à 2020, le général de division aérienne Emmanuel Naëgelen en a pris la tête cet été, après avoir été durant quelques années le numéro 2 de l’Agence nationale de la sécurité des systèmes d’information (Anssi), chargée de superviser la sécurité des réseaux civils sensibles.
+
+## [Marrakech : la police démantèle un réseau étranger de piratage d'applications de paris en ligne](http://ledesk.ma/encontinu/marrakech-la-police-demantele-un-reseau-etranger-de-piratage-dapplications-de-paris-en-ligne/)  
+*Source : ledesk.ma | Publication : 2025-11-16*
+
+- Marrakech : la police démantèle un réseau étranger de piratage d’applications de paris en ligne La police de Marrakech, agissant en étroite coordination avec la Direction générale de la surveillance du territoire (DGST), ont procédé le 15 novembre à l’interpellation de quatre citoyens biélorusses et d’un ressortissant français.
+- Ils sont soupçonnés d’avoir infiltré illégalement des plateformes de paris en ligne afin de détourner des fonds au profit de comptes bancaires personnels.
+- Selon les premiers éléments de l’enquête, les quatre suspects biélorusses seraient à l’origine des attaques informatiques visant les applications de paris, tandis que leur complice français assurait la partie logistique et financière de l’opération criminelle.
+- Ce dernier a été arrêté dans une villa située dans la zone de Tassoultante, en périphérie de Marrakech.
+
+## [C'est une première : Anthropic déjoue une &quot;cyberattaque à grande échelle&quot; pilotée par l'IA](https://www.presse-citron.net/cest-une-premiere-anthropic-dejoue-une-cyberattaque-a-grande-echelle-pilotee-par-lia/)  
+*Source : presse-citron.net | Publication : 2025-11-16*
+
+- L’intelligence artificielle ne cesse d’évoluer et, selon Anthropic, en matière de cybersécurité, on a déjà atteint un point d’inflexion.
+- Les modèles d’IA peuvent désormais être utilisés dans le secteur de la cybersécurité.
+- Et, le problème est que, comme toutes les technologies, l’IA peut être utilisée aussi bien pour faire le bien que pour faire le mal.
+- Dans un billet publié cette semaine, l’entreprise rapporte avoir détecté une “cyberattaque à grande échelle”.
+
+## [Avec la montée des attaques des pirates informatiques... quels sont les pays arabes les plus ...](https://www.sadanews.ps/fr/news/250172.html)  
+*Source : sadanews.ps | Publication : 2025-11-16*
+
+- Avec la montée des attaques des pirates informatiques... quels sont les pays arabes les plus forts en cybersécurité ?.
+- SadaNews - La transformation numérique dans les pays arabes s'accélère, augmentant ainsi les risques des cybers attaques qui l'accompagnent.
+- L'année dernière, la région du Moyen-Orient, de la Turquie et d'Afrique a été le point focal de 25 groupes d'attaques avancées persistantes (APT), selon les données de la société "Kaspersky".
+- Ces groupes ciblent principalement les services financiers, les infrastructures critiques, les secteurs de la défense et des gouvernements, tout en élargissant de plus en plus leur portée vers des secteurs commerciaux et industriels émergents.
+
+## [Des experts militaires confirment la défaillance d'Israël en matière de <b>cybersécurité</b>](https://www.taghribnews.com/fr/news/698891/des-experts-militaires-confirment-la-défaillance-d-israël-en-matière-de-cybersécurité)  
+*Source : taghribnews.com | Publication : 2025-11-16*
+
+- Taghrib(APT)– Des experts internationaux en matière militaire et de cybersécurité ont reconnu une défaite historique pour le régime sioniste dans le domaine de la cybersécurité, suite à d'importantes cyberattaques contre ses installations industrielles et militaires.
+
+## [<b>Cybermenace</b> 2025 : 60 % des internautes victimes de phishing, les 18-34 ans sont les plus ...](https://tchadinfos.com/2025/11/16/cybermenace-2025-60-des-internautes-victimes-de-phishing-les-18-34-ans-sont-les-plus-exposes-sondage/)  
+*Source : tchadinfos.com | Publication : 2025-11-16*
+
+- D’après une enquête Ipsos menée auprès de 2 000 personnes, 60 % des populations ont été confrontés à une tentative d’hameçonnage ces douze derniers mois, et 30 % ont vu leurs données personnelles compromises.
+- Surprise du sondage : les 18-34 ans, pourtant les plus connectés, sont aussi les moins vigilants face aux arnaques numériques.
+- Chaque mois d’octobre, le « Cybermois » sonne comme un rappel à l’ordre numérique.
+- Et pour cette 13ᵉ édition, le constat est glaçant : les jeunes, censés être les plus aguerris, sont désormais les plus exposés aux cyberattaques.
+
+## [Stopper les attaques DDoS grâce à la blockchain - Brave New Coin](https://bravenewcoin.com/fr/idées./stopper-les-attaques-DDoS-grâce-à-la-blockchain)  
+*Source : bravenewcoin.com | Publication : 2025-11-16*
+
+- Stopper les attaques DDoS grâce à la blockchain Selon un récent rapport du fournisseur multinational de cybersécurité Kaspersky Lab, la durée et la sophistication des attaques DDoS subies par les entreprises depuis le début de l'année 2017 sont en augmentation, notamment en ce qui concerne les attaques visant les infrastructures de cryptomonnaies.
+- Face à l'essor continu de l'économie numérique, le besoin de renforcer la cybersécurité est indéniable.
+- Dans une récente rapport D'après une étude du laboratoire multinational de cybersécurité Kaspersky Lab, la durée et la sophistication des attaques DDoS subies par les entreprises depuis le début de l'année 2017 sont en hausse, notamment en ce qui concerne les attaques ciblant les infrastructures de cryptomonnaies.
+- Face à l'essor continu de l'économie numérique, le besoin de renforcer la cybersécurité est indéniable.
+
+## [Le monde de la sécurité a rendez-vous pendant quatre jours au salon Milipol, près de Paris](https://lessor.org/societe/le-monde-de-la-securite-a-rendez-vous-pendant-quatre-jours-au-salon-milipol-pres-de-paris/)  
+*Source : lessor.org | Publication : 2025-11-16*
+
+- Plus de 1.100 exposants, 32.000 visiteurs de 160 pays et 175 délégations officielles attendus : le salon de la sécurité intérieure Milipol 2025 ouvre ses portes mardi 18 novembre 2025 pour quatre jours.
+- À quelques kilomètres de l’aéroport Charles-de-Gaulle, au parc des expositions de Villepinte.
+- Le salon Milipol, qui a lieu tous les deux ans, confirme ainsi sa place centrale dans ce domaine de la sécurité en croissance continue depuis plusieurs décennies.
+- Du 18 au 21 novembre, les visiteurs pourront ainsi découvrir les dernières tendances et innovations, nouer des partenariats et anticiper les grandes mutations du secteur.
+
+## [La SEC annonce la création d'une unité dédiée à la <b>cybersécurité</b> et aux technologies ...](https://bravenewcoin.com/fr/insights/sec-announce-cyber-and-emerging-technologies-unit-to-protect-retail-investors)  
+*Source : bravenewcoin.com | Publication : 2025-11-16*
+
+- La SEC annonce la création d'une unité spécialisée dans la cybersécurité et les technologies émergentes pour protéger les investisseurs particuliers.
+- La Securities and Exchange Commission (SEC) américaine a inauguré la Cyber and Emerging Technologies Unit (CETU).
+- Cette nouvelle unité remplace l'ancienne Crypto Assets and Cyber Unit, témoignant de l'engagement de l'agence à relever les défis complexes posés par les technologies modernes.
+- À la tête du CETU se trouve Laura D'Allaird, auparavant directrice adjointe du Division de l'application des lois de la SEC.
+
+## [<b>Cybersécurité</b> : vers des défenses augmentées avec l'intelligence artificielle - La Provence](https://www.laprovence.com/article/societe/12042123334976/cybersecurite-vers-des-defenses-augmentees-avec-lintelligence-artificielle)  
+*Source : laprovence.com | Publication : 2025-11-16*
+
+- Article réservé aux abonnés Cybersécurité : vers des défenses augmentées avec l'intelligence artificielle Par Achraf Hamid, data Scientist et responsable de la division IA chez Mailinblack Achraf Hamid Photo DR Il faut être abonné pour écouter l'audio.
+- Si vous êtes déjà abonné, connectez-vous Chaque dimanche, La Provence ouvre ses pages pour donner la parole a des experts.
+- Ce 16 novembre, retrouvez la chronique d'Achraf Hamid, data Scientist et responsable de la division IA chez Mailinblack.
+- Depuis fin 2024 et l'apparition d'IA génératives du crime sur le darknet, capables de générer du code, des campagnes de phishing ou de simuler des fraudes vocales ou vidéo, l'intelligence artificielle (IA) est devenue un cauchemar pour les responsables des systèmes d'information (RSSI).
+
+## [Ce que révèle la première cyber attaque IA sans opérateur humain - L'Essentiel de l'Éco](https://lessentieldeleco.fr/4351-ce-que-revele-la-premiere-attaque-ia-sans-operateur-humain/)  
+*Source : lessentieldeleco.fr | Publication : 2025-11-16*
+
+- Afficher le résumé Masquer le résumé Une escalade coordonnée des opérations de cyberespionnage par IA - L’IA Claude Code exécutait 90 % des tâches sans supervision - Un précédent en août 2025 : extorsion automatisée via Claude - Détournement des garde-fous : l’IA manipulée via ingénierie sociale - Menaces émergentes : prolifération de modèles IA non régulés - Le modèle DeepSeek-R1, particulièrement vulnérable aux attaques - Riposte des géants du numérique et encadrement réglementaire - Le cyberespace entre dans l’ère des agents autonomes - Pour la première fois, une enquête indépendante révèle l’utilisation directe d’un agent d’intelligence artificielle dans une opération de cyberespionnage à l’échelle mondiale.
+- L’attaque, conduite via la plateforme Claude Code de la société Anthropic, a visé des dizaines d’organisations stratégiques sur trois continents.
+- Selon les investigations croisées d’Anthropic, de Google (via le Threat Intelligence Group) et de plusieurs médias spécialisés, l’attaque est attribuée à un groupe identifié comme GTG‑1002, lié aux services de cyber-opérations de l’État chinois.
+- Le cybercrime à la portée de monsieur‑tout‑le‑monde, grâce à l’IA Une escalade coordonnée des opérations de cyberespionnage par IA Selon le Google Threat Intelligence Group (GTIG), plusieurs groupes affiliés à des États — notamment la Chine, la Russie, l’Iran et la Corée du Nord — mènent aujourd’hui des campagnes offensives reposant sur des agents d’intelligence artificielle.
+
+## [Cyberattaques : vous n'avez encore rien vu - Courrier international](https://www.courrierinternational.com/long-format/enquete-cyberattaques-vous-n-avez-encore-rien-vu_236585)  
+*Source : courrierinternational.com | Publication : 2025-11-16*
+
+- Marks & Spencer, Harrods, Jaguar Land Rover : plusieurs célèbres entreprises britanniques ont été frappées par des cyberattaques d’envergure cette année.
+- Alimentée par l’essor de l’intelligence artificielle et des tensions géopolitiques, la perspective d’une paralysie géante se rapproche, prévient Misha Glenny, journaliste spécialiste du crime organisé.
+- Pour certains patients, l’attaque au rançongiciel qui a ciblé Synnovis, une société fournissant des tests sanguins et des transfusions au système de santé britannique, a été un désastre.
+- Le personnel a dû annuler ou reporter 12 000 rendez-vous et interventions chirurgicales dans le Grand Londres.
+
+## [L'équipe vietnamienne remporte le concours étudiant de <b>cybersécurité</b> 2025 - Vietnam.vn](https://www.vietnam.vn/fr/doi-viet-nam-vo-dich-cuoc-thi-sinh-vien-an-ninh-mang-2025)  
+*Source : vietnam.vn | Publication : 2025-11-16*
+
+- Après plus de deux mois de lancement et de compétition passionnante, sous la présidence de l'Association nationale de cybersécurité, parrainée par le ministère de la Sécurité publique et le ministère de l'Éducation et de la Formation, le concours étudiant de cybersécurité 2025 est entré dans sa phase finale sur le thème « Sécurité des données et protection des données personnelles », attirant 76 équipes de 8 pays de l'ASEAN et du Japon.
+- Le soir du 15 novembre, le comité d'organisation du concours étudiant de cybersécurité 2025 a annoncé les résultats.
+- Le groupe A (Attaque - Défense) est composé de 20 équipes, dont 17 s'affrontent directement dans l'arène du Département de la cybersécurité et de la prévention de la cybercriminalité du ministère de la Sécurité publique, et 3 équipes participent en ligne.
+- Dans un environnement de centre de données simulé, les équipes doivent à la fois protéger leurs systèmes et identifier les vulnérabilités des systèmes adverses.
+
+## [La cyberattaque, cauchemar des municipalités - PressReader](https://www.pressreader.com/france/la-tribune-dimanche-france-9bp7/20251116/282565909416492)  
+*Source : pressreader.com | Publication : 2025-11-16*
+
+- cybersécurité qui évalueront son niveau de maturité.
+- Sur cette base, un ... cybersécurité JONATHAN WOFSY, MAIRE (DIVERS GAUCHE) DE CHEVRY COSSIGNY.
+
+## [ONU : une vision commune plaçant le citoyen au cœur du développement - Vietnam](https://lecourrier.vn/vietnam-onu-une-vision-commune-placant-le-citoyen-au-cœur-du-developpement/1295347.html)  
+*Source : lecourrier.vn | Publication : 2025-11-16*
+
+- >> Vietnam - ONU : ensemble pour construire un avenir meilleur pour l’humanité >> Le voyage du dirigeant vietnamien va consolider les relations Vietnam - ONU >> Convention de Hanoï, moment historique contre la cybercriminalité Ces orientations sont actuellement formulées dans les projets de documents soumis au 14ᵉ Congrès national du Parti et mis en consultation auprès de la population.
+- Au cours de cette rencontre, le vice-ministre a présenté les réalisations marquantes du Vietnam dans le développement socio-économique, ainsi que les objectifs stratégiques pour la période à venir.
+- Il a souligné que ces progrès résultent de la détermination du Parti et de l’État, illustrée par des réformes d’envergure, notamment dans la réorganisation de l’appareil et l’élaboration de résolutions stratégiques.
+- Rappelant la portée politique particulière du 14ᵉ Congrès national du Parti, moment de bilan des 40 années de Renouveau et d’affirmation d’une vision de développement pour le pays, le vice-ministre a indiqué que l’ensemble des projets de documents avaient été préparés de manière approfondie, sur la base d’analyses objectives du contexte national et international.
 
 ## [<b>Cybersécurité</b> dans le secteur automobile : des hackers éthiques exposent les vulnérabilités](https://b2b-cyber-security.de/fr/cybersicherheit-im-automobilbereich-ethische-hacker-zeigen-die-luecken/)  
 *Source : b2b-cyber-security.de | Publication : 2025-11-15*
