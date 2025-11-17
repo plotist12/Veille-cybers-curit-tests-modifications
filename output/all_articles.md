@@ -1,5 +1,153 @@
-# Résumés – 2025-11-16
+# Résumés – 2025-11-17
 
+
+## [WSUS : Une vulnérabilité ciblée par les cybercriminels - B2B Cyber Security](https://b2b-cyber-security.de/fr/Une-vulnérabilité-de-WSUS-est-ciblée-par-les-cybercriminels/)  
+*Source : b2b-cyber-security.de | Publication : 2025-11-17*
+
+- Des chercheurs de l'unité de lutte contre les menaces (CTU) de Sophos ont découvert comment des attaquants exploitent une vulnérabilité de Windows Server Update Services (WSUS) pour dérober des données d'entreprise sensibles.
+- Ces attaques ont débuté après la publication des correctifs par Microsoft.
+- Des experts enquêtent sur une vulnérabilité d'exécution de code à distance (CVE-2025-59287) affectant Windows Server Update Service (WSUS), un outil de gestion informatique natif de Microsoft destiné aux administrateurs système Windows.
+- Microsoft a publié des correctifs pour les versions de Windows Server concernées le 14 octobre 2025.
+
+## [Déclaration ANSSI/BSI sur les critères de souveraineté numérique du Cloud](https://cyber.gouv.fr/publications/declaration-anssibsi-sur-les-criteres-de-souverainete-numerique-du-cloud)  
+*Source : cyber.gouv.fr | Publication : 2025-11-17*
+
+- Déclaration ANSSI/BSI sur les critères de souveraineté numérique du Cloud L’Agence nationale de la sécurité des systèmes d’information (ANSSI) et l’Office fédéral allemand pour la sécurité de l’information (Bundesamt für Sicherheit in der Informationstechnik – BSI) publient une Déclaration commune sur les critères de souveraineté numérique du Cloud.
+- La publication souligne la nécessité pour l’Union européenne de renforcer sa souveraineté numérique face aux dépendances technologiques non européennes et aux risques associés (confidentialité, disponibilité, contrôle des infrastructures).
+- Le BSI et l’ANSSI y présentent leur démarche commune : élaborer et promouvoir des normes et des cadres de cybersécurité robustes au niveau national et européen afin de garantir la sécurité, la résilience et la souveraineté de nos nations.
+- Ils réaffirment leur engagement en faveur de la collaboration, de l'innovation et de la protection des valeurs européennes à l'ère numérique.
+
+## [Bureaux encombrés : la mentalité du « j'en aurai peut-être besoin un jour - Global Security Mag](https://www.globalsecuritymag.fr/bureaux-encombres-la-mentalite-du-j-en-aurai-peut-etre-besoin-un-jour-cree-un.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-17*
+
+- Bureaux encombrés : la mentalité du « j’en aurai peut-être besoin un jour » crée un cauchemar en matière de cybersécurité novembre 2025 par KnowBe4 Le stockage numérique excessif pose un risque de cybersécurité important et souvent sous-estimé, qui va bien au-delà d’un simple problème de productivité, affirme Anna Collard, vice-présidente principale de la stratégie de contenu et conseillère CISO chez KnowBe4 Africa.
+- À l’image d’un garage qui se remplit lentement de cartons oubliés, nos espaces de travail numériques deviennent des dépôts de données non gérées.
+- Nous connaissons tous les bureaux encombrés, les boîtes de réception pleines et les fichiers personnels enregistrés sur les appareils professionnels.
+- C’est ce qu’on appelle le stockage numérique excessif, c’est-à-dire l’accumulation et la conservation compulsives d’actifs numériques au-delà de leur durée de vie utile ou de leur besoin commercial.
+
+## [Urssaf : un vol massif de données au sein du service Pajemploi touche jusqu'à 1,2 million d ...](https://actu.orange.fr/france/urssaf-un-vol-massif-de-donnees-au-sein-du-service-pajemploi-touche-jusqu-a-1-2-million-d-utilisateurs-magic-CNT000002lLgI8.html)  
+*Source : actu.orange.fr | Publication : 2025-11-17*
+
+- Urssaf : un vol massif de données au sein du service Pajemploi touche jusqu’à 1,2 million d’utilisateurs © Image d'illustration, Unsplash.
+- L’Urssaf a annoncé avoir été la cible d’un vol massif de données visant son service Pajemploi le 14 novembre.
+- Des informations personnelles, dont les noms, adresses ou numéros de Sécurité sociale, ont potentiellement été dérobées, touchant jusqu’à 1,2 million d’utilisateurs.
+- Le service Pajemploi de l’Urssaf a été victime d’un acte de cybermalveillance détecté le 14 novembre, ce qui a conduit à l’extraction frauduleuse de données personnelles comme "le nom, prénom, date et lieu de naissance, adresse postale, numéro de Sécurité sociale, nom de l’établissement bancaire, numéro Pajemploi et numéro d’agrément", a indiqué l’Urssaf dans un communiqué relayé par Le Figaro.
+
+## [Comment le gang cyber Clop a infiltré Logitech via Oracle et volé 1,8 téraoctet de données](https://www.clubic.com/actualite-587275-comment-le-gang-cyber-clop-a-infiltre-logitech-via-oracle-et-vole-1-8-teraoctet-de-donnees.html)  
+*Source : clubic.com | Publication : 2025-11-17*
+
+- Le fabricant suisse Logitech a confirmé avoir subi une cyberattaque orchestrée par le gang Clop.
+- Le spécialiste des périphériques informatiques compte parmi les dizaines de victimes d'une faille critique dans la solution Oracle E-Business Suite.
+- Le silence est rompu.
+- Après avoir été ajouté la semaine dernière au site d'extorsion du gang cybercriminel Clop, Logitech a officialisé vendredi 14 novembre la compromission de ses systèmes.
+
+## [La maturité cyber des TPE/PME bretonnes progresse - Bretagne Économique](https://www.bretagne-economique.com/actualites/la-maturite-cyber-des-tpe-pme-bretonnes-progresse/)  
+*Source : bretagne-economique.com | Publication : 2025-11-17*
+
+- Après la première édition d’un baromètre en 2023, le campus breton de la cybersécurité, Bretagne Cyber Alliance, dévoile les résultats de la 2ème édition de son baromètre.
+- 67 % des entreprises considèrent leur SI comme critique pour leur continuité de service, contre 36 % pour les collectivités (dont 1 sur 4 n’a pas de vision sur l’importance de ses SI).
+- Si l’écart entre la Bretagne et la moyenne nationale est comparable pour les collectivités, il est assez significatif côté entreprises : seules 44 % des TPE/PME françaises considèrent leur SI comme critique selon le baromètre France 2025.
+- Un coût moyen de 40 à 60 K€ Cette prise de conscience s’explique par des incidents toujours nombreux et des impacts économiques.
+
+## [Tour d'horizon : ces vulnérabilités exploitées industriellement par Cl0p - LeMagIT](https://www.lemagit.fr/actualites/366634583/Tour-dhorizon-ces-vulnerabilites-exploitees-industriellement-par-Cl0p)  
+*Source : lemagit.fr | Publication : 2025-11-17*
+
+- Artur Marciniec - Fotolia Tour d’horizon : ces vulnérabilités exploitées industriellement par Cl0p Historiquement connu pour pratiquer la double extorsion, Cl0p semble s’en être éloigné depuis 2023, privilégiant l’exploitation en masse de vulnérabilités pour voler des données à ses victimes.
+- Et faire régulièrement sauter les compteurs.
+- Quel est le point commun entre Entrust, Fluke, GlobalLogic, Carglass Allemagne, le service national de santé britannique (le NHS), Harvard, l’illustre Washington Post, ou encore Logitech ?.
+- Tous ont fait l’objet d’une revendication de cyberattaque sous la bannière de Cl0p au cours des dernières semaines.
+
+## [Déclaration relative à l'intelligence artificielle et à la <b>cybersécurité</b> - ACPR](https://acpr.banque-france.fr/fr/actualites/declaration-relative-lintelligence-artificielle-et-la-cybersecurite)  
+*Source : acpr.banque-france.fr | Publication : 2025-11-17*
+
+- Actualité Déclaration relative à l’intelligence artificielle et à la cybersécurité Mise en ligne le 17 Novembre 2025 Le Cyber Expert Group du G7 (CEG) a récemment publié une déclaration relative à l’intelligence artificielle et à la cybersécurité, visant à examiner les effets de l’IA sur la sécurité informatique du système financier mondial.
+
+## [Tout pour investir L'Événement : <b>Cybersécurité</b>, enjeu géopolitique et levier de ... - BFMTV](https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-tout-pour-investir-l-evenement-cybersecurite-enjeu-geopolitique-et-levier-de-performance-pour-les-investisseurs-17-11_VN-202511170694.html)  
+*Source : bfmtv.com | Publication : 2025-11-17*
+
+- Tout pour investir L'Événement : Cybersécurité, enjeu géopolitique et levier de performance pour les investisseurs ?.
+- - 17/11 Ce lundi 17 novembre, Grégory Maes, directeur du développement de Swiss Life Gestion Privée, s'est penché sur les raisons pour lesquelles s'intéresser à la cybersécurité, et les perspectives sur le secteur pour 2026, dans Tout pour investir L'Événement, dans l'émission BFM Bourse présentée par Guillaume Sommerer.
+- BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.
+- | Durée : 7:34.
+
+## [Partenariat entre Mailinblack et Bouygues Telecom Business - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/biz-it/64129-partenariat-entre-mailinblack-et-bouygues-telecom-business.html)  
+*Source : linformaticien.com | Publication : 2025-11-17*
+
+- L'éditeur de solutions de cybersécurité collabore avec l'ESN du groupe Bouygues pour renforcer la protection des ETI et administrations publiques.
+
+## [«Jusqu'à 1,2 million de salariés concernés» : ce que l'on sait de la cyberattaque massive ...](https://www.cnews.fr/france/2025-11-17/jusqua-12-million-de-salaries-concernes-ce-que-lon-sait-de-la-cyberattaque)  
+*Source : cnews.fr | Publication : 2025-11-17*
+
+- Une plainte pénale doit également être déposée auprès du procureur de la République.
+- Sur le même sujet Cybercriminalité : Jenna Ortega, Aya Nakamura.
+
+## [Tanium devient autorité de CVE - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64127-tanium-devient-autorite-de-cve.html)  
+*Source : linformaticien.com | Publication : 2025-11-17*
+
+- Ransomware : les jours d'après · Cybersécurité · Tanium devient autorité de CVE.
+- Détails: Bertrand Garé: 17 novembre 2025.
+- L'éditeur a été agréé comme.
+
+## [Pajemploi victime d'un vol de données, 1,2 million de nounous ou parents concernés](https://fr.news.yahoo.com/cybercriminalité-pajemploi-victime-d-vol-144546407.html)  
+*Source : fr.news.yahoo.com | Publication : 2025-11-17*
+
+- Cybercriminalité : Pajemploi victime d’un vol de données, 1,2 million de nounous ou parents concernés Cybercriminalité - L’Urssaf indique ce lundi que Pajemploi a été victime d’un vol de données, 1,2 million de nounous ou parents sont concernés Parents, nounous, soyez vigilants.
+- L’Urssaf a alerté ce lundi que le service Pajemploi, celui servant à déclarer et rémunérer les assistants maternels et gardes d’enfants à domicile, a été victime d’un vol de données le 14 novembre.
+- Cela « a pu concerner jusqu’à 1,2 million de salariés de particuliers employeurs », précise l’Urssaf.
+- Dans un communiqué, l’organisme écrit que « les données à caractère personnel potentiellement extraites sont les noms, prénoms, date et lieu de naissance, adresse postale, numéro de Sécurité sociale, nom de l’établissement bancaire, numéro Pajemploi et numéro d’agrément ».
+
+## [Transformation numérique : le cloud séduit mais interroge encore les agents publics](https://acteurspublics.fr/articles/transformation-numerique-le-cloud-seduit-mais-interroge-encore-les-agents-publics/)  
+*Source : acteurspublics.fr | Publication : 2025-11-17*
+
+- Près de six agents publics sur dix se disent prêts, sur le plan culturel, à adopter le cloud.
+- Un taux qui grimpe à 66 % parmi les directions des systèmes d’information (DSI).
+- Les motivations principales avancées par les agents tiennent à l’accès à des outils innovants, tels que l’intelligence artificielle et le Big Data, à la modernisation du système d’information et à l’amélioration de la continuité des services.
+- Chez les DSI, la simplification de la gestion des infrastructures et le gain d’agilité pour lancer de nouveaux projets sont davantage mis en avant.
+
+## [L'Urssaf visée par un vol de données après un acte de « cybermalveillance », jusqu'à 1,2 ...](https://www.huffingtonpost.fr/france/article/l-urssaf-visee-par-un-vol-de-donnees-apres-un-acte-de-cybermalveillance-jusqu-a-1-2-million-de-salaries-touches_257238.html)  
+*Source : huffingtonpost.fr | Publication : 2025-11-17*
+
+- CYBERSÉCURITÉ - Une mauvaise nouvelle pour des milliers d’utilisateurs.
+- Le service Pajemploi, qui sert à déclarer et rémunérer les assistants maternels et gardes d’enfants à domicile, a été victime d’un vol de données le 14 novembre dernier, a alerté l’Urssaf ce lundi, précisant qu’il « a pu concerner jusqu’à 1,2 million de salariés de particuliers employeurs ».
+- Cet acte de « cybermalveillance » a permis de récupérer notamment des noms, prénoms, dates et lieux de naissance, adresses postales, numéros de Sécurité sociale et noms d’établissements bancaires.
+- Le « numéro Pajemploi et numéro d’agrément » figurent également parmi les « données à caractère personnel potentiellement extraites », détaille l’Urssaf dans un communiqué.
+
+## [Pajemploi victime d'un vol de données, 1,2 million de nounous ou parents concernés](https://www.20minutes.fr/faits_divers/4186126-20251117-cybercriminalite-pajemploi-victime-vol-donnees-1-2-million-nounous-parents-concernes)  
+*Source : 20minutes.fr | Publication : 2025-11-17*
+
+- Cybercriminalité : Pajemploi victime d’un vol de données, 1,2 million de nounous ou parents concernés Cybercriminalité•L’Urssaf indique ce lundi que Pajemploi a été victime d’un vol de données, 1,2 million de nounous ou parents sont concernés20 Minutes avec AFP Parents, nounous, soyez vigilants.
+- L’Urssaf a alerté ce lundi que le service Pajemploi, celui servant à déclarer et rémunérer les assistants maternels et gardes d’enfants à domicile, a été victime d’un vol de données le 14 novembre.
+- Cela « a pu concerner jusqu’à 1,2 million de salariés de particuliers employeurs », précise l’Urssaf.
+- Dans un communiqué, l’organisme écrit que « les données à caractère personnel potentiellement extraites sont les noms, prénoms, date et lieu de naissance, adresse postale, numéro de Sécurité sociale, nom de l’établissement bancaire, numéro Pajemploi et numéro d’agrément ».
+
+## [Mieux armer les entreprises contre la <b>cybercriminalité</b> - ladepeche.fr](https://www.ladepeche.fr/2025/11/17/mieux-armer-les-entreprises-contre-la-cybercriminalite-13056966.php)  
+*Source : ladepeche.fr | Publication : 2025-11-17*
+
+- Mieux armer les entreprises contre la cybercriminalité l'essentiel Une intervention de la Cellule N Tech de Tarn-et-Garonne a alerté une trentaine d’entrepreneurs sur les risques cyber, tout en leur donnant des méthodes simples et concrètes pour renforcer leur sécurité numérique.
+- Comment protéger efficacement son entreprise des dangers en ligne ?.
+- C’était la mission assignée à la Cellule N Tech de la Gendarmerie nationale de Tarn-et-Garonne ce jeudi soir, à la salle Delbosc, avec le soutien de la ville de Montech.
+- À l’initiative du réseau Réunion des entrepreneurs (RdE), une trentaine de participants a bénéficié de précieux conseils, après avoir eu des sueurs froides en prenant connaissance des nombreux pièges en ligne qui peuvent causer des difficultés telles aux entreprises victimes qu’elles doivent fermer.
+
+## [Action de sensibilisation à la <b>cybersécurité</b> - Actualité illiwap de Mairie de Feurs](https://station.illiwap.com/fr/public/42094/actu/action-de-sensibilisation-a-la-cybersecurite-1)  
+*Source : station.illiwap.com | Publication : 2025-11-17*
+
+- 📢 Action de sensibilisation à la cybersécurité 💻🔐.
+- 📢 Action de sensibilisation à la cybersécurité La sécurité numérique nous concerne tous 💻🔐 La Ville de Feurs, la Communauté de communes de Forez-Est et la Gendarmerie de Feurs organise une soirée d’information et de sensibilisation à la cybersécurité : 📅 Mardi 25 novembre 2025 🕢 19h30 📍 Théâtre du Forum à Feurs 👉 Entrée libre et gratuite – Ouvert à tous.
+- 🔐 Ensemble, adoptons les bons gestes pour une navigation en toute sécurité !.
+- 📢 Action de sensibilisation à la cybersécurité La sécurité numérique nous concerne tous 💻🔐 La Ville de Feurs, la Communauté de communes de Forez-Est et la Gendarmerie de Feurs organise une soirée d’information et de sensibilisation à la cybersécurité : 📅 Mardi 25 novembre 2025 🕢 19h30 📍 Théâtre du Forum à Feurs 👉 Entrée libre et gratuite – Ouvert à tous.
+
+## [<b>Cybersécurité</b> et arnaques en ligne : quels sont les bons réflexes ? - L'Est Eclair](https://www.lest-eclair.fr/id765003/article/2025-11-17/cybersecurite-et-arnaques-en-ligne-quels-sont-les-bons-reflexes)  
+*Source : lest-eclair.fr | Publication : 2025-11-17*
+
+- Organisée par la Communauté de communes Seine et Aube et la conseillère numérique, cette rencontre était animée par le référent cybersécurité du.
+
+## [Le Vietnam remporte le concours étudiant de <b>cybersécurité</b> 2025](https://www.vietnam.vn/fr/viet-nam-vo-dich-cuoc-thi-sinh-vien-an-ninh-mang-2025)  
+*Source : vietnam.vn | Publication : 2025-11-17*
+
+- Après plus de deux mois de lancement et de compétition passionnante, sous la présidence de l'Association nationale de cybersécurité, parrainée par le ministère de la Sécurité publique et le ministère de l'Éducation et de la Formation.
+- Après plus de deux mois de compétition, la finale, qui a duré 8 heures et s'est déroulée en 88 manches, a mis à l'épreuve la capacité des participants à gérer des situations complexes, à protéger les systèmes et à adopter une approche stratégique en matière de cybersécurité.
+- Dans une ambiance à la fois intense et stimulante, les équipes vietnamiennes se sont distinguées face à de nombreux adversaires redoutables de la région.
+- En conséquence, l'équipe PTIT.CBS de l'Institut de technologie des postes et télécommunications a brillamment remporté le championnat du groupe A, confirmant le niveau, la détermination et la maturité des étudiants vietnamiens dans le domaine de la cybersécurité.
 
 ## [OPINION. « Royaume-Uni et Europe : vers une <b>cybersécurité</b> d'alliance plutôt que de dépendance »](https://www.latribune.fr/article/idees/69823016178403/opinion-royaume-uni-et-europe-vers-une-cybersecurite-d-alliance-plutot-que-de-dependance)  
 *Source : latribune.fr | Publication : 2025-11-16*
