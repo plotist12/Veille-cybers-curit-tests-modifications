@@ -1,5 +1,160 @@
-# Résumés – 2025-11-17
+# Résumés – 2025-11-18
 
+
+## [Provectio recrute Pauline DEHORS au poste d'Ingénieur <b>cybersécurité</b> experte GRC](https://www.globalsecuritymag.fr/provectio-recrute-pauline-dehors-au-poste-d-ingenieur-cybersecurite-experte-grc.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-18*
+
+- Provectio recrute Pauline DEHORS au poste d’Ingénieur cybersécurité experte GRC novembre 2025 par LA REDACTION DE GS MAG Provectio complète son équipe cyber en annonçant le recrutement de Pauline DEHORS au poste d’Ingénieur cybersécurité experte GRC.
+- Cette nomination s’inscrit dans le cadre de l’évolution de la palette de services de Provectio et de la montée en puissance de ses offres de cybersécurité.
+- Dans le cadre de sa mission, Pauline DEHORS participera à la création de l’offre GRC lancée par Provectio dédiée au PME, ETI et collectivités.
+- Elle sera également la référente pour les projets GRC menés chez les clients et travaillera en synergie avec les autres équipes de Provectio.
+
+## [Thales dévoile son appliance de chiffrement post-quantique de la gamme Mistral - it social](https://itsocial.fr/cybersecurite/cybersecurite-actualites/thales-devoile-son-appliance-de-chiffrement-post-quantique-de-la-gamme-mistral/)  
+*Source : itsocial.fr | Publication : 2025-11-18*
+
+- Thales dévoile Mistral, un chiffreur post-quantique destiné aux communications sensibles européennes.
+- Présenté à la European Cyber Week de Rennes, l’équipement marque une étape décisive pour les administrations, les opérateurs d’importance vitale et les industriels de défense engagés dans la préparation du monde post-quantique.
+- Conforme aux exigences de l’ANSSI et issu d’une lignée déjà certifiée par l’Otan, Mistral combine chiffrement de haut niveau, performances élevées et gestion centralisée.
+- Le lancement intervient alors que les organisations gérant des informations classifiées ou sensibles cherchent à sécuriser leurs infrastructures avant l’arrivée des attaques quantiques.
+
+## [Sommet régional sur la transformation digitale en Afrique de l'Ouest et du Centre](https://www.banquemondiale.org/fr/news/statement/2025/11/18/regional-summit-on-digital-transformation-in-western-and-central-africa-cotonou-declaration)  
+*Source : banquemondiale.org | Publication : 2025-11-18*
+
+- Nous, Ministres en charge du Numérique des États membres d’Afrique de l’Ouest et du Centre, réunis à Cotonou, République du Bénin, réaffirmons notre volonté commune d’accélérer la transformation numérique et l’intelligence artificielle (IA) en tant que moteurs de croissance inclusive, de création d’emplois et d’intégration régionale.
+- Nous reconnaissons que ces transformations doivent d’abord servir et autonomiser les populations, en créant des emplois, en renforçant la résilience de nos communautés et en améliorant la compétitivité de nos économies.
+- Nous saluons les progrès accomplis dans nos pays en matière d’expansion du haut débit, de construction d’infrastructures numériques, de développement des compétences numériques et de cybersécurité, tout en notant que des défis majeurs persistent en matière de financement, de gouvernance et d’inclusion.
+- Nous reconnaissons l’engagement des institutions régionales, du secteur privé ainsi que des partenaires techniques et financiers pour faire avancer l’agenda de la transformation numérique du continent.
+
+## [Rançongiciel : les gains du gang Akira atteindraient 210 millions d'euros - INCYBER NEWS](https://incyber.org/article/rancongiciel-gains-gang-akira-atteindrait-210-millions-euros/)  
+*Source : incyber.org | Publication : 2025-11-18*
+
+- Accueil Gestion des risques Rançongiciel : les gains du gang Akira atteindraient 210 millions d’euros Rançongiciel : les gains du gang Akira atteindraient 210 millions d’euros Écrit par La Rédaction 18.11.25 Gestion des risques 01 MIN Rançongiciel : les gains du gang Akira atteindraient 210 millions d’euros Lien copié !.
+- Partager Gestion des risques 13.11.25 Gestion des risques Prochain article Un groupe cybercriminel sophistiqué exploite des failles zero-day dans Citrix et Cisco Lire 01 MIN Gestion des risques 10.11.25 Gestion des risques Prochain article Des cybercriminels exploitent l’IA pour créer des malwares adaptatifs Lire 01 MIN Cybersécurité 10.11.25 Cybersécurité Prochain article Le risque pénal des hackers éthiques Lire 05 MIN Gestion des risques 07.11.25 Gestion des risques Prochain article 2026, année de tous les dangers cyber selon Google Lire 01 MIN Les autorités américaines et européennes viennent de mettre à jour l’avis de sécurité sur le groupe russophone.
+- Les autorités européennes et américaines ont mis à jour, le 13 novembre 2025, l’avis de sécurité concernant le gang de rançongiciel Akira, publié initialement en avril 2024.
+- Le FBI, les ministères américains de la Défense et de la Santé, Europol et les forces de l’ordre françaises, allemandes et néerlandaises ont participé à la rédaction de ce document.
+
+## [Panne d'Internet mondiale : la journée orageuse du géant de la <b>cybersécurité</b> Cloudflare](https://www.liberation.fr/economie/economie-numerique/panne-dinternet-mondiale-la-journee-orageuse-du-geant-de-la-cybersecurite-cloudflare-20251118_FQHOYOOZL5FTFDX4ZBPDV553KU/)  
+*Source : liberation.fr | Publication : 2025-11-18*
+
+- L’espace de trois heures, ChatGPT est mort.
+- Tout comme le réseau social X, le site de cuisine Marmiton, la plateforme de prise de rendez-vous médicaux Doctolib ou encore l’application de rencontres gays Grindr.
+- Un vent de panique a soufflé sur l’Internet mondial ce mardi 18 novembre alors qu’une panne a perturbé l’accès à la plupart de ses carrefours les plus fréquentés.
+- Le trou dans le tuyau ?.
+
+## [<b>Cybercriminalité</b> : la police néerlandaise saisi 250 serveurs d'un hébergeur « bulletproof](https://www.lemagit.fr/actualites/366634653/Cybercriminalite-la-police-neerlandaise-saisi-250-serveurs-dun-hebergeur-bulletproof)  
+*Source : lemagit.fr | Publication : 2025-11-18*
+
+- John Gomez - stock.adobe.com Cybercriminalité : la police néerlandaise saisi 250 serveurs d’un hébergeur « bulletproof » L’hébergeur en question apparaît « dans plus 80 enquêtes » sur des activités cybercriminelles, aux Pays-Bas et au-delà, depuis 2022.
+- Ses infrastructures ne seraient utilisées que pour cela.
+- La police néerlandaise vient d’indiquer avoir saisi 250 serveurs physiques appartenant à un hébergeur dit « bulletproof », pour un total de « milliers de machines virtuelles ».
+- Les hébergeurs ainsi désignés sont connus pour ne pas répondre aux sollicitations judiciaires et servir de terreau fertile aux activités cybercriminelles.
+
+## [Donner une impulsion décisive au numérique pour en faire un véritable moteur ... - Banque mondiale](https://www.banquemondiale.org/fr/news/press-release/2025/11/18/harnessing-digital-potential-to-unlock-inclusive-growth-and-job-creation)  
+*Source : banquemondiale.org | Publication : 2025-11-18*
+
+- Les pays d’Afrique de l’Ouest et du Centre s’engagent à accélérer la transformation numérique pour garantir l’accès au haut débit, développer les capacités en intelligence artificielle, créer des emplois numériques et bâtir un marché intégré d’ici 2030.
+- COTONOU, 18 novembre 2025 - À l’issue d’un sommet régional qui s’est tenu les 17 et 18 novembre 2025 au Bénin, les ministres en charge du numérique des pays d’Afrique de l’Ouest et du Centre ont adopté la Déclaration de Cotonou, marquant le fort engagement de leurs pays pour accélérer la transformation numérique dans la région.
+- Dans ce cadre, ils se sont fixés des objectifs ambitieux à l’horizon 2030, notamment pour parvenir à un accès abordable et fiable au haut débit pour 90 % de la population, déployer des infrastructures numériques publiques interopérables comme l’identité numérique et les systèmes de paiement, doubler le commerce électronique intra-africain, et adopter des cadres harmonisés pour la cybersécurité, la gouvernance des données et de l’Intelligence Artificielle (IA) afin de créer un environnement de confiance.
+- La Déclaration de Cotonou prévoit également la formation massive pour faire en sorte que 20 millions de personnes puissent disposer de compétences numériques de base, et que 2 millions de jeunes et de femmes bénéficient d’emplois ou d’entrepreneuriat numériques.
+
+## [Cédéao : formation des diplomates à la <b>cybersécurité</b> - APAnews](https://fr.apanews.net/diplomacy/cybersecurite-la-cedeao-forme-les-ministeres-des-affaires-etrangeres/)  
+*Source : fr.apanews.net | Publication : 2025-11-18*
+
+- cybersécurité et en cyberdiplomatie.
+- Cedeao cyber diplomatie Cyber sécurité Cybersécurité diplomates Formation Nigeria Nigeria-Cedeao-technolohies.
+
+## [Orange et l'École polytechnique s'associent pour développer des technologies souveraines ...](https://www.polytechnique.edu/presse/communiques-et-dossiers-de-presse/orange-et-lecole-polytechnique-sassocient-pour-developper-des-technologies-souveraines-en)  
+*Source : polytechnique.edu | Publication : 2025-11-18*
+
+- Accueil - Presse - Communiqués et Dossiers de Presse - Orange et L’École Polytechnique S’associent Pour Développer Des Technologies Souveraines En Intelligence Artificielle et Cybersécurité - Orange et l’École polytechnique s’associent pour développer des technologies souveraines en intelligence artificielle et cybersécurité Orange et l’École polytechnique annoncent la signature d’un partenariat stratégique destiné à renforcer la recherche, l’innovation et la formation dans deux domaines clés pour la souveraineté numérique : l’intelligence artificielle et la cybersécurité.
+- Cette collaboration réunit l’expertise académique de l’École polytechnique et la capacité d’innovation technologique d’Orange.
+- Ensemble, les deux institutions entendent accélérer l’émergence de solutions numériques de confiance afin d’accompagner l’Europe dans la maîtrise des technologies essentielles à son autonomie stratégique.
+- Un partenariat structuré autour de quatre ambitions majeures L’accord prévoit plusieurs axes de travail complémentaires : La création d’une Chaire académique de recherche, soutenue par le mécénat d’Orange, consacrée à l’intelligence artificielle et à la cybersécurité.
+
+## [La loi sur la <b>cybersécurité</b> de 2025 donne un coup de pouce à l'industrie ... - Vietnam.vn](https://www.vietnam.vn/fr/luat-an-ninh-mang-2025-tao-cu-hich-thuc-day-cong-nghiep-an-ninh-mang-viet)  
+*Source : vietnam.vn | Publication : 2025-11-18*
+
+- Dans le cadre de la transformation numérique nationale, l'élaboration de la loi sur la cybersécurité de 2025 constitue une nécessité urgente, stratégique et à long terme pour protéger la souveraineté numérique, garantir la sécurité des systèmes d'information nationaux et promouvoir le développement du secteur de la cybersécurité au Vietnam.
+- Le ministère de la Sécurité publique , chargé de l'élaboration du projet de loi sur la cybersécurité, a récemment finalisé avec diligence le dossier du projet de loi sur la cybersécurité 2025 en vue de sa soumission à l'Assemblée nationale.
+- Ce projet de loi repose sur la fusion de deux lois en vigueur : la loi sur la cybersécurité de 2018 et la loi sur la sécurité des réseaux d'information de 2015.
+- Cette fusion garantit que les fonctions et les tâches des ministères et des directions ne changent pas, qu'aucune nouvelle politique n'apparaît et que l'esprit de la résolution 18 du Comité central sur la clarté des attributions et la décentralisation est correctement mis en œuvre, en évitant les chevauchements de gestion.
+
+## [<b>Cybercriminalité</b>, trafics et sécurité du quotidien : les priorités de Delphine Gauthron dans le Doubs](https://pleinair.net/actualites/item/17594-cybercriminalite-trafics-et-securite-du-quotidien-les-priorites-de-delphine-gauthron-dans-le-doubs)  
+*Source : pleinair.net | Publication : 2025-11-18*
+
+- À peine arrivée à Besançon, Delphine Gauthron, commissaire de police et nouvelle directrice interdépartementale adjointe de la police nationale du Doubs, expose ses priorités.
+- Originaire de Dole, elle connaît bien la région, mais revient après près de vingt ans passés en Île-de-France, essentiellement au sein de services de renseignement et dans plusieurs circonscriptions de sécurité publique.
+- Un parcours entre renseignement et sécurité publique Entrée dans la police après avoir obtenu le concours d’officier en 2016, Delphine Gauthron a effectué ses premiers stages au commissariat de Besançon avant d’être affectée pendant dix ans dans un service de renseignement en région parisienne.
+- Elle réussit ensuite le concours interne de commissaire et dirige successivement les circonscriptions de Puteaux puis de Neuilly-sur-Seine, avant de revenir trois ans en service de renseignement.
+
+## [Jeremy Voisin : Souveraineté et <b>cybersecurité</b> - enjeux et défis - ladepeche.fr](https://www.ladepeche.fr/2025/11/18/jeremy-voisin-souverainete-et-cybersecurite-enjeux-et-defis-13058592.php)  
+*Source : ladepeche.fr | Publication : 2025-11-18*
+
+- Jeremy Voisin : Souveraineté et cybersecurité - enjeux et défis En quoi la notion de souveraineté numérique est-elle importante ?.
+- Réponse NLF : les 3 leaders mondiaux du Cloud sont américains et sont tous soumis à ce que le premier gouvernement TRUMP en 2018 avait instauré : le Cloud Act.
+- Cette loi impose aux opérateurs de Cloud de droit américain de transmettre toutes les données d’un client, où que celles-ci soient localisées, que le Datacenter concerné soit aux USA ou en Europe, à la première demande d’un juge ou d’une des 17 agences de renseignement américaines.
+- L’opérateur de Cloud ne peut pas s’y opposer et n’a même pas à prévenir le client final s’il s’agit d’un risque de sécurité pour le territoire, or la concurrence économique en fait partie.
+
+## [L'ACPR relaie une déclaration internationale sur l'IA et la <b>cybersécurité</b> - Tripalio](https://presse.tripalio.fr/lacpr-relaie-une-declaration-internationale-sur-lia-et-la-cybersecurite/)  
+*Source : presse.tripalio.fr | Publication : 2025-11-18*
+
+- Ce communiqué a été diffusé par l’ACPR.
+- Le Cyber Expert Group du G7 (CEG) a récemment publié une déclaration relative à l’intelligence artificielle et à la cybersécurité, visant à examiner les effets de l’IA sur la sécurité informatique du système financier mondial.
+- Ce document encourage les juridictions à suivre de près les évolutions technologiques et à adopter une approche proactive face aux risques émergents engendrés par l’intelligence artificielle dans le domaine de la cybersécurité.
+- Dans un contexte marqué par une adoption croissante de l’IA, la déclaration souligne que ces technologies transforment profondément le secteur financier.
+
+## [Le Luxembourg lance une «Fabrique» pour une <b>cybersécurité</b> ouverte | Paperjam News](https://paperjam.lu/article/le-luxembourg-lance-une-fabrique-pour-une-cybersecurite-ouverte)  
+*Source : paperjam.lu | Publication : 2025-11-18*
+
+- La Luxembourg House of Cybersecurity (LHC) introduit un nouvel élément d’infrastructure nationale: une Fabrique dédiée exclusivement à la cybersécurité, dans la même veine que les factories qui sont nées, en Europe, pour l’intelligence artificielle.
+- Présentée par son CEO, Pascal Steichen, lors des Luxembourg Internet Days, cette Fabrique doit fournir des capacités techniques mutualisées – données, modèles IA spécialisés, outils et environnements – afin de soutenir les entreprises, les institutions publiques et les partenaires technologiques dans le traitement, l’analyse et l’automatisation des problématiques cyber.
+- L’initiative, qui sera soutenue par le gouvernement, vise à industrialiser certaines fonctions de cybersécurité qui, jusqu’ici, reposaient sur des solutions hétérogènes, souvent propriétaires, et difficilement intégrables.
+- M. Steichen insiste sur cette notion de capacité nationale: «L’objectif, c’est que nous, on crée la capacité à des outils, la donnée, des infrastructures qui vont être utiles pour nous-mêmes, mais aussi pour le gouvernement, pour les partenaires, et qui permettront à tout l’écosystème de les utiliser pour faire leurs projets et idéalement aussi innover.» Concrètement, la Fabrique est conçue comme une couche d’abstraction commune: un ensemble de briques techniques, ouvertes, standardisées et interopérables, sur lesquelles pourront se greffer des services de cybersécurité, des applications industrielles ou des solutions logicielles.
+
+## [<b>Cybercriminalité</b>, trafics et sécurité du quotidien : les priorités de Delphine Gauthron dans le Doubs](https://www.pleinair.net/actualites/item/17594-cybercriminalite-trafics-et-securite-du-quotidien-les-priorites-de-delphine-gauthron-dans-le-doubs)  
+*Source : pleinair.net | Publication : 2025-11-18*
+
+- À peine arrivée à Besançon, Delphine Gauthron, commissaire de police et nouvelle directrice interdépartementale adjointe de la police nationale du Doubs, expose ses priorités.
+- Originaire de Dole, elle connaît bien la région, mais revient après près de vingt ans passés en Île-de-France, essentiellement au sein de services de renseignement et dans plusieurs circonscriptions de sécurité publique.
+- Un parcours entre renseignement et sécurité publique Entrée dans la police après avoir obtenu le concours d’officier en 2016, Delphine Gauthron a effectué ses premiers stages au commissariat de Besançon avant d’être affectée pendant dix ans dans un service de renseignement en région parisienne.
+- Elle réussit ensuite le concours interne de commissaire et dirige successivement les circonscriptions de Puteaux puis de Neuilly-sur-Seine, avant de revenir trois ans en service de renseignement.
+
+## [<b>Cybersécurité</b> : un enjeu d'investissement technologique majeur - 18/11/2025 à 16:39](https://www.boursorama.com/bourse/actualites/cybersecurite-un-enjeu-d-investissement-technologique-majeur-5aa344c1bda4b0ba044b4ee408182636)  
+*Source : boursorama.com | Publication : 2025-11-18*
+
+- dt-expert La cybersécurité n'est plus une « brique technique » au fond d'un SI : c'est une dépense d'utilité qui soutient la continuité d'activité, la conformité et l'innovation (cloud, IA, objets connectés).
+- En Europe, les nouvelles règles, NIS2 pour les secteurs essentiels et DORA pour la finance, accélèrent la professionnalisation des pratiques : gouvernance des risques, journalisation, gestion des accès, plans de réponse et tests de résilience.
+- Dans ce contexte, le marché se recompose autour de plates‑formes unifiées et de spécialistes critiques.
+- Pour s'y retrouver, rien ne vaut la visite guidée : comment le secteur fonctionne, ce que les clients achètent vraiment, et à quoi ressemblent trois profils complémentaires, Palo Alto Networks, CrowdStrike et WALLIX.
+
+## [pourquoi l'offre NordVPN (–74 % + 3 mois offerts) fait exploser la demande lors du Black Friday](https://www.latribune.fr/article/l-instant-selection/31291649318553/cybersecurite-pourquoi-l-offre-nordvpn-74-3-mois-offerts-fait-exploser-la-demande-lors-du-black-friday)  
+*Source : latribune.fr | Publication : 2025-11-18*
+
+- Cybersécurité : pourquoi l’offre NordVPN (–74 % + 3 mois offerts) fait exploser la demande lors du Black Friday Le leader du VPN accélère sur le marché cyber avec une promotion Black Friday particulièrement intéressante.
+- NordVPN Le leader du VPN accélère sur le marché cyber avec une promotion Black Friday particulièrement intéressante.
+- NordVPN Pour le Black Friday, NordVPN lance une opération commerciale d’envergure qui confirme une tendance forte du marché : la cybersécurité grand public n’est plus un produit « tech », mais un service stratégique de protection numérique, de plus en plus plébiscité face à l’explosion des attaques en ligne.
+- Cette édition s’accompagne de nouveautés structurantes, pensées pour renforcer l’écosystème de l’entreprise et consolider sa place parmi les leaders du secteur.
+
+## [Ping Identity présente une solution de gestion des identités des agents d'IA - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-actualites/ping-identity-presente-une-solution-de-gestion-des-identites-des-agents-dia/)  
+*Source : itsocial.fr | Publication : 2025-11-18*
+
+- Ping Identity dévoile Identity for AI, une solution pensée pour encadrer la généralisation des agents d’IA en entreprise.
+- L’éditeur entend transformer la gestion des identités en véritable colonne vertébrale de la confiance numérique dans un écosystème où les interactions autonomes se multiplient.
+- Cette annonce marque une étape stratégique pour un marché en quête de contrôle, de visibilité et de gouvernabilité face à des agents capables d’agir, décider et déléguer.
+- Tandis que l’informatique agentique s’affirme comme un nouvel horizon organisationnel, la question de la responsabilité se pose avec force.
+
+## [Le service Pajemploi de l'Urssaf victime d'un vol de données, jusqu'à 1,2 million de ...](https://www.sudouest.fr/economie/cybersecurite/le-service-pajemploi-de-l-urssaf-victime-d-un-vol-de-donnees-jusqu-a-1-2-million-de-personnes-concernees-26755014.php)  
+*Source : sudouest.fr | Publication : 2025-11-18*
+
+- « Jusqu’à 1,2 million de salariés de particuliers employeurs », sont potentiellement concernés, alerte l’Urssaf Le service Pajemploi, servant à déclarer et rémunérer les assistants maternels et gardes d’enfants à domicile, a été victime d’un vol de données le 14 novembre, qui « a pu concerner jusqu’à 1,2 million de salariés de particuliers employeurs », a alerté l’Urssaf lundi.
+
+## [Cloudflare en panne, et rien ne va plus sur le web mondial - Courrier international](https://www.courrierinternational.com/article/internet-cloudflare-en-panne-et-rien-ne-va-plus-sur-le-web-mondial_237546)  
+*Source : courrierinternational.com | Publication : 2025-11-18*
+
+- “Ce n’est pas seulement vous : certaines parties d’Internet sont de nouveau hors service”, constate le site Business Insider.
+- Mardi 18 novembre, la firme de cybersécurité Cloudflare a subi une panne aux répercussions majeures.
+- Comme le souligne Bloomberg, son logiciel “est utilisé par des centaines de milliers d’entreprises à travers le monde.
+- Il sert de tampon entre leurs sites web et les utilisateurs finaux et protège les sites contre les attaques susceptibles de les surcharger en trafic”.
 
 ## [WSUS : Une vulnérabilité ciblée par les cybercriminels - B2B Cyber Security](https://b2b-cyber-security.de/fr/Une-vulnérabilité-de-WSUS-est-ciblée-par-les-cybercriminels/)  
 *Source : b2b-cyber-security.de | Publication : 2025-11-17*
