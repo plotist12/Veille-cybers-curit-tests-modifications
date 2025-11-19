@@ -1,5 +1,159 @@
-# Résumés – 2025-11-18
+# Résumés – 2025-11-19
 
+
+## [Xerox lance une solution unifiée de <b>cybersécurité</b> pour les PME, en partenariat avec Palo ...](https://www.zonebourse.com/actualite-bourse/xerox-lance-une-solution-unifiee-de-cybersecurite-pour-les-pme-en-partenariat-avec-palo-alto-networ-ce7d5ed9d980ff27)  
+*Source : zonebourse.com | Publication : 2025-11-19*
+
+- Xerox lance une solution unifiée de cybersécurité pour les PME, en partenariat avec Palo Alto Networks et une assurance cyber de The Hartford Publié le 19/11/2025 à 15:48 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © Reuters - 2025 Partager.
+
+## [Interview : « L'IA dans la cyberprotection est bien plus qu'un simple master en droit](https://b2b-cyber-security.de/fr/interview-ki-im-cyberschutz-ist-viel-mehr-als-nur-ein-llm/)  
+*Source : b2b-cyber-security.de | Publication : 2025-11-19*
+
+- L’IA représente-t-elle réellement la principale menace pour la cybersécurité, ou ses capacités actuelles sont-elles surestimées ?.
+- Pour Michael Veit, expert en sécurité chez Sophos, la réponse est claire :Quiconque souhaite faire une réelle différence grâce à l'IA en cybersécurité a besoin de bien plus qu'un simple modèle de langage complexe.
+- Un entretien sur les opportunités et les risques de l'IA, et sur l'intelligence collective dans le domaine de la défense.
+- L'IA est capable de prouesses considérables et progresse quasiment chaque jour.
+
+## [Souveraineté : la déclaration conjointe ANSSI-BSI annonce une doctrine européenne d ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/souverainete-la-declaration-conjointe-anssi-bsi-inaugure-une-doctrine-europeenne-devaluation-commune/)  
+*Source : itsocial.fr | Publication : 2025-11-19*
+
+- La publication conjointe des critères de souveraineté cloud par l’ANSSI et le BSI marque une inflexion stratégique dans la construction d’une gouvernance numérique européenne.
+- À la veille du sommet de Berlin, cet acte pose les jalons d’une doctrine franco-allemande harmonisée, qui dépasse la simple localisation pour intégrer la maîtrise des chaînes de décision, la robustesse contextuelle et l’autonomie opérationnelle des services cloud.
+- Le couple franco-allemand réactive sa fonction historique de locomotive, relançant la dynamique d’harmonisation et de standardisation après plusieurs années de stagnation institutionnelle.
+- Cette déclaration ANSSI/BSI, dévoilée dans le sillage du sommet de Berlin, officialise un rapprochement qui ambitionne d’instituer un socle d’exigences partagées, aussi bien pour les opérateurs historiques que pour les nouveaux entrants du marché européen.
+
+## [Incident de <b>cybersécurité</b> à la Ville de Mont-Laurier : les services municipaux sont rétablis](https://www.cflo.ca/incident-de-cybersecurite-a-la-ville-de-mont-laurier-les-services-municipaux-sont-retablis/)  
+*Source : cflo.ca | Publication : 2025-11-19*
+
+- La Ville de Mont-Laurier a annoncé que les services municipaux touchés par l’incident de cybersécurité survenu le 26 octobre dernier sont désormais pleinement rétablis.
+- L’ensemble des systèmes informatiques et des infrastructures numériques ont été remis en fonction de manière sécuritaire.
+- Les mesures correctives nécessaires ont été appliquées afin de protéger les données et de renforcer la sécurité des systèmes.
+- Retour à la normale Les bibliothèques des secteurs Des Ruisseaux et du centre-ville ont repris leurs activités, incluant le prêt de documents.
+
+## [Les États-Unis, l'Australie et le Royaume-Uni sanctionnent l'infrastructure russe de lutte ...](https://www.trmlabs.com/fr/resources/blog/us-australia-and-uk-sanction-russian-cybercrime-infrastructure-supporting-ransomware)  
+*Source : trmlabs.com | Publication : 2025-11-19*
+
+- Les États-Unis, l'Australie et le Royaume-Uni sanctionnent l'infrastructure cybercriminelle russe soutenant Rançonlogiciel Aujourd'hui, l'Office of Foreign Assets Control (OFAC) du ministère américain des finances, en coordination avec le ministère australien des affaires étrangères et du commerce et le Foreign, Commonwealth & Development Office du Royaume-Uni, a annoncé des sanctions à l'encontre de Media Land, un fournisseur de services d'hébergement à l'épreuve des balles (BPH) basé en Russie, pour son rôle dans le soutien des opérations de Rançonlogiciel , ainsi que pour d'autres formes de cybercriminalité.
+- La désignation porte également sur de nombreuses sociétés associées à Media Land et sur des associés de Media Land, ainsi que sur son directeur Aleksandr Volosovik.
+- Selon la désignation, Volosovik faisait fréquemment de la publicité pour les activités de Media Land sur des forums de cybercriminalité sous le pseudonyme de Yalishanda.
+- L'action d'aujourd'hui visait également Hypercore Ltd, identifiée par l'OFAC comme une société écran pour Aeza Group - un fournisseur d'hébergement à l'épreuve des balles (BPH) sanctionné à la fois par les États-Unis en juillet 2025 et par le Royaume-Uni aujourd'hui.
+
+## [<b>Cybercriminalité</b> : le trésor américain impose des sanctions à un hébergeur « bulletproof](https://www.lemagit.fr/actualites/366634591/Cybercriminalite-le-tresor-americain-impose-des-sanctions-a-un-hebergeur-bulletproof)  
+*Source : lemagit.fr | Publication : 2025-11-19*
+
+- freshidea - stock.adobe.com Cybercriminalité : le trésor américain impose des sanctions à un hébergeur « bulletproof » Les État-Unis viennent d’annoncer des sanctions contre un hébergeur accusé de complicité avec les cybercriminels et notamment ceux adeptes du rançongiciel.
+- L’Australie et le Royaume-Uni se sont joints à eux.
+- Media Land.
+- Ce nom est loin d’être des plus connus.
+
+## [Veeam® Software annonce Veeam Data Platform v13 - Global Security Mag Online](https://www.globalsecuritymag.fr/veeam-r-software-annonce-veeam-data-platform-v13.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-19*
+
+- Veeam® Software annonce Veeam Data Platform v13 novembre 2025 par LA REDACTION DE GS MAG Veeam® Software annonce Veeam Data Platform v13, nouvelle version de sa plateforme de données.
+- Cette nouvelle version constitue une évolution majeure de sa plateforme de gestion des données.
+- Conçue pour un monde défini par les attaques constantes de ransomware, la transformation rapide des infrastructures et l’innovation assistée par l’IA, la Veeam Data Platform v13 apporte aux entreprises de la résilience, une flexibilité et l’intelligence que nécessite un avenir porté par l’IA.
+- Adoptée par plus de 550 000 entreprises, la Veeam Data Platform est une solution unifiée qui réunit les fonctions de protection avancée des données, de résilience assistée par l’IA face aux ransomwares, et de restauration transparente entre les environnements physiques, virtuels et cloud pour assurer en permanence et en toute confiance la sécurité et la disponibilité des données des entreprises.
+
+## [fort que &quot;123456&quot;, &quot;admin&quot; est désormais le mot de passe le plus populaire en France - BFMTV](https://www.bfmtv.com/tech/cybersecurite/plus-fort-que-123456-admin-est-desormais-le-mot-de-passe-le-plus-populaire-et-piratable-en-france_AV-202511190541.html)  
+*Source : bfmtv.com | Publication : 2025-11-19*
+
+- "Les mots de passe des jeunes de 18 ans sont similaires à ceux des personnes de 80 ans": plus fort que "123456", "admin" est désormais le mot de passe le plus populaire en France La commodité plutôt que la sécurité.
+- Les années passent, mais les mauvais réflexes en termes de sécurisation de ses données internet ne changent pas, malgré les conseils sans cesse promulgués pour éviter les piratages.
+- En collaboration avec NordStellar, NordPass a dévoilé la septième édition de son classement annuel des 200 mots de passe les plus courants.
+- Avec l’aide de chercheurs indépendants en cybersécurité, l’étude s’est appuyée sur des fuites de données publiques récentes et des banques de mots de passe trouvées sur le dark net, divulguées entre septembre 2024 et 2025.
+
+## [Le Royaume-Uni veut rendre illégal le paiement après une attaque de rançongiciel, mais ce ...](https://www.bfmtv.com/tech/actualites/cybersecurite/le-royaume-uni-veut-rendre-illegal-le-paiement-apres-une-attaque-de-rancongiciel-mais-ce-n-est-pas-a-priori-pas-une-si-bonne-idee_AV-202511190487.html)  
+*Source : bfmtv.com | Publication : 2025-11-19*
+
+- Le Royaume-Uni veut rendre illégal le paiement après une attaque de rançongiciel, mais ce n'est a priori pas une si bonne idée Une mesure particulière pour dissuader les cybercriminels de mener des attaques par rançongiciel.
+- Ces logiciels malveillants sont prisés des hackers, empêchant la victime d'accéder à son appareil ou ses fichiers tant qu'elle n'a pas payé une rançon.
+- Ce modèle économique est dans le viseur du Royaume-Uni, qui a présenté en juillet une proposition de loi pour interdire ce paiement aux organismes du secteur public et les exploitants d'infrastructures critiques, comme le système britannique de santé publique (NHS).
+- Une première dans le monde.
+
+## [Pascal Naudin (Kaspersky) : « Une PME qui protège ses données protège sa croissance](https://cio-mag.com/pascal-naudin-kaspersky-une-pme-qui-protege-ses-donnees-protege-sa-croissance/)  
+*Source : cio-mag.com | Publication : 2025-11-19*
+
+- Les petites et moyennes entreprises africaines sont en pleine mutation.
+- Elles se digitalisent, automatisent leurs opérations et s’ouvrent à de nouveaux marchés.
+- Mais cette modernisation fulgurante les expose à une forme de menace encore mal comprise : l’insécurité numérique.
+- Dans un rapport récent, Kaspersky révèle que 75 % d’entre elles opèrent sans stratégie claire de cybersécurité.
+
+## [L'agent Proofpoint Satori™ est disponible sur Microsoft Security Copilot](https://www.globalsecuritymag.fr/l-agent-proofpoint-satori-tm-est-disponible-sur-microsoft-security-copilot.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-19*
+
+- L’agent Proofpoint Satori™ est disponible sur Microsoft Security Copilot novembre 2025 par LA REDACTION DE GS MAG Proofpoint, Inc. annonce la disponibilité générale de Proofpoint Satori™ Emerging Threats Intelligence Agent, son agent dédié à la détection des menaces émergentes sur Microsoft Security Copilot.
+- Microsoft Security Copilot est le premier outil de sécurité alimenté par IA permettant aux professionnels de sécurité de répondre rapidement aux menaces, de traiter les alertes et d’évaluer l’exposition aux risques en quelques minutes seulement.
+- L’écosystème de Microsoft combine un LLM avancé (Large Langage Model) avec un modèle spécifiquement dédié à la sécurité, alimenté par les capacités d’intelligence des menaces de Microsoft et plus de 84 mille milliards de signaux quotidiens.
+- Les agents intégrés à Security Copilot gèrent de manière autonome un grand nombre de tâches de sécurité et informatiques, et s’intègrent harmonieusement aux solutions de sécurité de Microsoft ainsi qu’à celles de ses partenaires.
+
+## [Vie numérique | Mot de passe : « admin » ou « 123456 » | La Presse - LaPresse.ca](https://www.lapresse.ca/affaires/techno/2025-11-19/vie-numerique/mot-de-passe-admin-ou-123456.php)  
+*Source : lapresse.ca | Publication : 2025-11-19*
+
+- Les habitudes en matière de cybersécurité stagnent au Canada.
+- Malgré les mises en garde récurrentes, une majorité de Canadiens néglige toujours les mesures les plus élémentaires de protection de leur vie numérique.
+- C’est ce que révèle l’édition 2025 d’un sondage annuel effectué par la firme de cybersécurité NordPass.
+- Admin, admin La liste des mots de passe les plus utilisés au Canada a un nouveau grand champion international de course en 2025.
+
+## [C'est un exploit : les jeunes ont de pires mots de passe que les boomers - Numerama](https://www.numerama.com/tech/2122247-cest-un-exploit-les-jeunes-ont-de-pires-mots-de-passe-que-les-boomers.html)  
+*Source : numerama.com | Publication : 2025-11-19*
+
+- La Gen Z adore se moquer des “boomers” mais elle peut remballer son ego numérique : ses mots de passe sont aussi médiocres que ceux de la génération qu’elle adore tourner en dérision.
+- C’est ce que révèle la 7e édition du classement des 200 mots de passe les plus courants dans 44 pays, dévoilée le 18 novembre 2025 par NordPass.
+- Le gestionnaire de mots de passe a mené l’enquête avec des chercheurs indépendants spécialisés en cybersécurité sur la base de fuites de données et de répertoires du dark web entre septembre 2024 et septembre 2025.
+- Le mythe des digital natives se fissure Cette année, l’entreprise a voulu mettre l’accent sur les écarts générationnels en matière de codes.
+
+## [Oxibox signe avec Softvalue Distribution - Distributique.com](https://www.distributique.com/actualites/lire-oxibox-signe-avec-softvalue-distribution-36744.html)  
+*Source : distributique.com | Publication : 2025-11-19*
+
+- « Notre solution fait le lien entre celles déjŕ référencées par Softvalue », indique François Esnol-Feugeas, PDG d’Oxibox.
+- Oxibox renforce son modčle de distribution two-tiers en signant avec Softvalue Distribution.
+- De son côté, ce dernier complčte son offre déjŕ composée des solutions du français Mailinblack et de l'allemand Impossible Cloud.
+- Aprčs avoir conclu un accord avec EET en 2024, Oxibox, l'éditeur français spécialisé dans la sauvegarde et la protection des données signe un nouvel accord de distribution, cette fois-ci avec Softvalue Distribution.
+
+## [contre les cyberattaques, une solution pour les collectivités et entreprises de Nouvelle-Aquitaine](https://www.lanouvellerepublique.fr/deux-sevres/un-samu-numerique-contre-les-cyberattaques-une-solution-pour-les-collectivites-et-entreprises-de-nouvelle-aquitaine-1763564018)  
+*Source : lanouvellerepublique.fr | Publication : 2025-11-19*
+
+- Un « Samu numérique » : contre les cyberattaques, une solution pour les collectivités et entreprises de Nouvelle-Aquitaine AbonnésCet article est réservé aux abonnés numériques.
+- AbonnésCet article est réservé aux abonnés numériques.
+- « On a déjà traité une dizaine d’incidents en quinze jours.
+- » Le relais régional du dispositif 17Cyber contre la cybermalveillance, lancé au Campus cyber Nouvelle-Aquitaine à Pessac, jeudi 6 novembre 2025, a déjà fait ses preuves d’après Guy Flament.
+
+## [IA, protection des données, <b>cybersécurité</b> : Bruxelles veut alléger la régulation du ... - Les Echos](https://www.lesechos.fr/tech-medias/hightech/ia-protection-des-donnees-cybersecurite-bruxelles-veut-alleger-la-regulation-du-numerique-un-chantier-explosif-2199624)  
+*Source : lesechos.fr | Publication : 2025-11-19*
+
+- IA, protection des données, cybersécurité : Bruxelles veut alléger la régulation du numérique, un chantier explosif.
+- La Commission européenne veut.
+
+## [Arnaud Fargier : « On se veut vraiment comme un acteur de proximité pour les collectivités ...](https://acteurspublics.fr/webtv/emissions/salon-des-maires-et-des-collectivites-locales/arnaud-fargier-on-se-veut-vraiment-comme-un-acteur-de-proximite-pour-les-collectivites-territoriales/)  
+*Source : acteurspublics.fr | Publication : 2025-11-19*
+
+- Acteurs publics Solutions X Ugap Transformation “On passe d’une politique curative à une politique préventive” Par · le 19 novembre 2025 Le directeur du développement d'Idruide France présente les nouvelles orientations de la start‑up face aux enjeux de cybersécurité et de souveraineté numérique des collectivités territoriales.
+- Cette intervention a eu lieu à l'occasion du Salon des maires et des collectivités locales 2025.
+- Publié le 19 novembre 2025 · 1 min de lecture Analysez, anticipez et décidez grâce à la profondeur de l’offre d’Acteurs Publics : revue, newsletters, site web, web TV, webinaires, podcasts, événements, application... Connexions multiples sur votre compte.
+
+## [Anthropic achète pour 30 Mds$ de capacité de calcul à Microsoft - L'Informaticien](https://www.linformaticien.com/magazine/biz-it/64144-anthropic-achete-pour-30-mds-de-capacite-de-calcul-a-microsoft.html)  
+*Source : linformaticien.com | Publication : 2025-11-19*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Biz'IT · Anthropic achète pour 30 Mds$ de.
+
+## [<b>Cybersécurité</b> – Processus de Pall Mall : consultation en vue de la négociation ... - France Diplomatie](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/diplomatie-numerique/actualites-et-evenements/article/cybersecurite-processus-de-pall-mall-consultation-en-vue-de-la-negociation-de)  
+*Source : diplomatie.gouv.fr | Publication : 2025-11-19*
+
+- Cybersécurité – Processus de Pall Mall : consultation en vue de la négociation de lignes directrices à destination de l’industrie de l’intrusion cyber (19 novembre 2025) Dans le cadre du processus de Pall Mall, la France et le Royaume-Uni ouvrent une nouvelle consultation des parties prenantes en vue de la négociation en 2026 de lignes directrices à destination de l’industrie de l’intrusion cyber.
+- Cette démarche s’inscrit dans la droite ligne de nos efforts pour renforcer notre sécurité collective, protéger les droits de l’Homme et les libertés fondamentales et défendre un cyberespace libre, ouvert, pacifique, stable, sûr, résilient et accessible.
+- Le processus de Pall Mall a été lancé en 2024 par une coalition d’États, d’entreprises et de représentants de la société civile.
+- Cette communauté multi-acteurs internationale a pour objectif d’identifier les leviers politiques et les meilleures pratiques pour lutter collectivement contre la prolifération et l’usage irresponsable des capacités d’intrusion cyber disponibles sur le marché.
+
+## [La sécurité du cloud à l'ère des architectures hybrides, sept tendances structurantes pour 2026](https://itsocial.fr/cybersecurite/cybersecurite-articles/la-securite-du-cloud-a-lere-des-architectures-hybrides-sept-tendances-structurantes-pour-2026/)  
+*Source : itsocial.fr | Publication : 2025-11-19*
+
+- La généralisation du cloud et les architectures hybrides bouleversent les modèles de sécurité traditionnels.
+- Du Zero Trust à l’automatisation intelligente, en passant par la consolidation des plateformes et la gouvernance des données, sept grandes tendances s’affirment.
+- Au cœur de cette transformation, une vague technologique s’impose déjà : l’informatique confidentielle, le chiffrement homomorphe, la cryptographie post-quantique et la blockchain font désormais figure de piliers de résilience.
+- La migration généralisée vers le cloud redéfinit la sécurité des entreprises.
 
 ## [Provectio recrute Pauline DEHORS au poste d'Ingénieur <b>cybersécurité</b> experte GRC](https://www.globalsecuritymag.fr/provectio-recrute-pauline-dehors-au-poste-d-ingenieur-cybersecurite-experte-grc.html)  
 *Source : globalsecuritymag.fr | Publication : 2025-11-18*
