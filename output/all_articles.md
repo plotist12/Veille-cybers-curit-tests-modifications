@@ -1,5 +1,161 @@
-# Résumés – 2025-11-19
+# Résumés – 2025-11-20
 
+
+## [Retail : Plus de la moitié (58 %) des enseignes victimes d'une attaque de <b>ransomware</b> versent ...](https://www.globalsecuritymag.fr/retail-plus-de-la-moitie-58-des-enseignes-victimes-d-une-attaque-de-ransomware.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-20*
+
+- Retail : Plus de la moitié (58 %) des enseignes victimes d’une attaque de ransomware versent la rançon demandée novembre 2025 par Sophos Sophos publie la cinquième édition de son étude annuelle consacrée au secteur du retail.
+- Intitulée L’état des ransomwares dans le secteur du retail en 2025, cette enquête menée de façon indépendante auprès de responsables IT et Cybersécurité de 16 pays révèle que près de la moitié (46 %) des incidents liés aux ransomwares dans le secteur du retail est attribuée à une faille de sécurité inconnue, soulignant les défis de visibilité qui caractérisent en permanence l’ensemble de la surface d’attaque du secteur.
+- Parmi les enseignes dont les données ont été chiffrées, 58 % ont payé la rançon pour récupérer leurs données, ce qui représente le deuxième taux le plus élevé en cinq ans.
+- Principales conclusions du rapport : 46 % des attaques ont débuté par une faille de sécurité inconnue (principal facteur opérationnel) ; 30 % des attaques ont exploité des vulnérabilités connues (cause première technique la plus couramment utilisée pour la troisième année consécutive) ; 58 % des victimes dont les données ont été chiffrées ont versé la somme demandée ; 48 % des attaques ont abouti à un chiffrement des données, ce qui représente le taux le plus bas en cinq ans ; Le montant moyen des demandes de rançon a doublé par rapport à 2024 pour atteindre 2 millions de dollars ; le montant moyen des paiements a pour sa part augmenté de 5 % pour s’établir à 1 million de dollars.
+
+## [80% des entreprises prêtes à adopter la Threat Intelligence : un mouvement en faveur d'une ...](https://www.globalsecuritymag.fr/80-des-entreprises-pretes-a-adopter-la-threat-intelligence-un-mouvement-en.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-20*
+
+- 80% des entreprises prêtes à adopter la Threat Intelligence : un mouvement en faveur d’une modernisation de la cybersécurité en entreprise, selon une étude de Kaspersky novembre 2025 par Kaspersky Alors que les entreprises renforcent de plus en plus leurs fondamentaux en matière de cybersécurité, l’adoption de solutions avancées reste minoritaire, créant un écart de maturité entre les organisations.
+- Dans un contexte d’attaques toujours plus rapides et sophistiquées, les décideurs informatiques soulignent l’importance croissante de la Threat Intelligence pour anticiper les menaces et passer d’une posture réactive à une approche véritablement prédictive, selon une étude menée par Toluna pour Kaspersky, auprès plus 310 professionnels et responsables de l’informatique en France.
+- ● 57% des entreprises réalisent désormais des audits de sécurité réguliers ● 51% forment leurs collaborateurs aux enjeux cyber, signe d’une montée en maturité interne ● Plus de 80% adopteraient des outils avancés comme la Threat Intelligence si les moyens humains, techniques et financiers étaient disponibles Cybersécurité : des fondamentaux solides Les chiffres montrent que la grande majorité des entreprises ont mis en place des mesures de cybersécurité de base solides tels que des audits de sécurité réguliers (dans 57% des cas), des dispositifs techniques de filtrage (anti-spams, antivirus…) pour 51% des répondants, mais également une identification et correction des vulnérabilités via des pare-feux (48%).
+- Elles ont aussi compris que la cybersécurité passait par la prévention interne et que le facteur humain se devait d’être au cœur de leur stratégie, car il est souvent identifié comme le maillon faible.
+
+## [<b>Cybersécurité</b> : 88% des entreprises connaissent la Threat Intelligence, mais un tiers ...](https://www.globalsecuritymag.fr/cybersecurite-88-des-entreprises-connaissent-la-threat-intelligence-mais-un.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-20*
+
+- Cybersécurité : 88% des entreprises connaissent la Threat Intelligence, mais un tiers manque encore de recul, selon une étude de Kaspersky novembre 2025 par Kaspersky Avec la montée en puissance des cyberattaques, la Threat Intelligence (TI) s’impose comme une solution de choix pour faire face à ce risque systémique pour les entreprises.
+- Des tendances et motivations des attaquants aux détails sur leurs techniques, tactiques et procédures d’attaque, la TI permet de transformer des données brutes sur les menaces en renseignements exploitables pour protéger les systèmes d’information.
+- Un enjeu bien intégré par la majorité des entreprises puisque 54% d’entre elles utilisent déjà des outils ou processus de TI, selon une étude menée par Toluna pour Kaspersky, auprès plus 310 professionnels et responsables de l’informatique en France.
+- 54% des entreprises utilisent déjà des outils ou processus de Threat Intelligence, et 36% prévoient de l’adopter dans l’année 88% déclarent connaître la Threat Intelligence, mais 33% n’en ont qu’une compréhension partielle, révélant un fort besoin de pédagogie Le manque de ressources qualifiées constitue le frein majeur pour 51% des organisations, devant les contraintes budgétaires (41%) En 2025, 56% des entreprises ont subi une cyberattaque, un quart d’entre elles à plusieurs reprises, renforçant l’urgence d’outils de détection avancés Une notoriété bien installée associée à un besoin de pédagogie 88% des répondants déclarent avoir déjà entendu parler de la TI, reflétant ainsi une forte présence du concept dans l’écosystème professionnel.
+
+## [Fraude à l'identité : l'industrialisation des attaques impose une autre gouvernance du risque](https://itsocial.fr/cybersecurite/cybersecurite-articles/fraude-a-lidentite-lindustrialisation-des-attaques-impose-une-autre-gouvernance-du-risque/)  
+*Source : itsocial.fr | Publication : 2025-11-20*
+
+- La fraude à l’identité change sous l’effet de l’IA générative et de l’industrialisation des réseaux criminels.
+- Une étude d’Entrust révèle une fragmentation des points de vulnérabilité, la montée en puissance des deepfakes et l’irruption de nouvelles pratiques d’ingénierie sociale.
+- L’heure n’est plus à la défense périmétrique mais à la mise en place d’une gouvernance continue de l’identité.
+- L’essor des technologies numériques, la généralisation de l’intelligence artificielle générative et l’hybridation des usages professionnels dessinent une nouvelle carte de la fraude à l’identité.
+
+## [MILIPOL 2025 : un salon dédié à la sûreté et à la sécurité intérieure des États](https://www.interieur.gouv.fr/actualites/dossiers-de-presse/milipol-2025-salon-dedie-a-surete-et-a-securite-interieure-des-etats)  
+*Source : interieur.gouv.fr | Publication : 2025-11-20*
+
+- civile, la sécurité privée, la protection des données, la lutte contre les cybermenaces et la cybercriminalité.
+- Depuis plusieurs années, le.
+
+## [États-Unis: cinq hommes reconnaissent avoir aidé des informaticiens nord-coréens à infiltrer ...](https://www.bfmtv.com/tech/cybersecurite/etats-unis-cinq-hommes-reconnaissent-avoir-aide-des-informaticiens-nord-coreens-a-infiltrer-des-entreprises-americaines-pour-financer-l-effort-militaire-de-kim-jong-un_AN-202511200817.html)  
+*Source : bfmtv.com | Publication : 2025-11-20*
+
+- États-Unis: cinq hommes reconnaissent avoir aidé des informaticiens nord-coréens à infiltrer des entreprises américaines pour financer l'effort militaire de Kim Jong-un Ils sont cinq, américains, et ont reconnu avoir participé à un vaste stratagème visant à aider des informaticiens nord-coréens à décrocher des emplois à distance dans des entreprises américaines, en violation de la loi.
+- Les procureurs fédéraux affirment qu’ils ont exploité de véritables fermes d’ordinateurs portables et mis leurs identités au service de candidats se faisant passer pour des travailleurs basés aux États-Unis.
+- Ces aveux surviennent alors que les autorités constatent une multiplication de réseaux similaires, pilotés par Pyongyang pour contourner les sanctions internationales.
+- Depuis près de cinq ans, la Corée du Nord mise sur ces campagnes clandestines afin de générer des millions de dollars de revenus professionnels et de cryptomonnaies destinés à financer notamment ses programmes militaires.
+
+## [Atos choisi pour une initiative de l'ECCC - EasyBourse](https://www.easybourse.com/services/news/1519469/atos-choisi-pour-une-initiative-eccc.html)  
+*Source : easybourse.com | Publication : 2025-11-20*
+
+- (Zonebourse.com) - Atos annonce que sa branche Eviden a remporté auprès du European Cybersecurity Competence Center and Network (ECCC) un appel à projet pour améliorer la cyber protection et la résilience des infrastructures critiques européennes.Cette initiative vise à 'développer une communauté forte et cohérente autour des enjeux de cybersécurité en renforçant la collaboration, le partage de connaissances et le déploiement de solutions innovantes en matière de cybersécurité à l'échelle européenne'.
+- Piloté par Eviden, le consortium CIPHER (Cybersecurity Intelligence, Protection and Holistic Enterprise Resilience), qui réunit 13 partenaires issus de 7 pays européens, contribuera directement à la mission de l'ECCC.Les solutions d'Eviden seront ainsi intégrées à une plateforme de tests de sécurité collaborative permettant aux fournisseurs européens de services essentiels d'évaluer leur stratégie de résistance aux cyber menaces.Copyright (c) 2025 Zonebourse.com - All rights reserved.
+
+## [Apprendre les gestes qui sauvent, prévenir les cambriolages et <b>cybermenaces</b> - La Dépêche](https://www.ladepeche.fr/2025/11/20/apprendre-les-gestes-qui-sauvent-prevenir-les-cambriolages-et-cybermenaces-la-journee-de-securite-citoyenne-du-montat-a-eu-du-succes-13061748.php)  
+*Source : ladepeche.fr | Publication : 2025-11-20*
+
+- Apprendre les gestes qui sauvent, prévenir les cambriolages et cybermenaces : la journée de sécurité citoyenne du Montat a eu du succès l'essentiel La journée de sécurité citoyenne du Montat a accueilli entre 65 et 80 personnes sur divers ateliers samedi 15 novembre.
+- Au menu : gestes qui sauvent, cambriolages, cybermenaces.
+- Samedi 15 novembre, la municipalité du Montat a organisé une journée de sensibilisation autour de deux thématiques majeures : l’adoption des bons réflexes en situation d’urgence avec la formation "gestes qui sauvent" ainsi que la prévention des risques de cambriolage et des cybermenaces.
+- Deux thématiques au cœur de l’actualité.
+
+## [<b>Cybercriminalité</b> aux Philippines : l'ancienne élue Alice Guo condamnée à la perpétuité](https://www.courrierinternational.com/article/trafic-cybercriminalite-aux-philippines-l-ancienne-elue-alice-guo-condamnee-a-la-perpetuite_237617)  
+*Source : courrierinternational.com | Publication : 2025-11-20*
+
+- Alice Guo, ancienne maire de la ville de Bamban, aux Philippines, adorée de ses administrés, ne livrera plus de paniers-repas à Noël.
+- Mais en recevra-t-elle durant son séjour en prison ?.
+- Rien n’est moins sûr, au vu de la lourdeur de sa condamnation : la perpétuité, une peine qui induit au moins quarante ans de prison en vertu du Code pénal philippin.
+- Elle a également été condamnée à verser une amende de 2 millions de pesos philippins (près de 30 000 euros).
+
+## [<b>Cybersécurité</b> : la CPME66 lance une task force et un numéro d'urgence pour les ... - L'Indépendant](https://www.lindependant.fr/2025/11/20/cybersecurite-la-cpme66-lance-une-task-force-et-un-numero-durgence-pour-les-entreprises-victimes-de-piratage-informatique-13063886.php)  
+*Source : lindependant.fr | Publication : 2025-11-20*
+
+- Cybersécurité : la CPME66 lance une task force et un numéro d’urgence pour les entreprises victimes de piratage informatique Ce lundi au Soler, la CPME66 a organisé une conférence locale pour sensibiliser les entreprises aux cybermenaces et à l’IA.
+- Experts et victimes d’attaques ont partagé leurs conseils et témoignages, révélant l’urgence d’agir.
+- Ce lundi 17 novembre 2025 s’est tenue à l’Idem au Soler, la première conférence sur la cybersécurité dans les Pyrénées-Orientales, organisée à l’initiative de la CPME66.
+- Son président, Fabrice Pruja, est parti d’un postulat simple : la première démarche pour régler un problème, c’est de reconnaître qu’il existe.
+
+## [Des chercheurs alertent : 3,5 milliards d'utilisateurs WhatsApp concernés par la - Futura](https://www.futura-sciences.com/tech/actualites/cybersecurite-chercheurs-alertent-35-milliards-utilisateurs-whatsapp-concernes-plus-grande-fuite-donnees-histoire-127731/)  
+*Source : futura-sciences.com | Publication : 2025-11-20*
+
+- Lorsqu'un numéro qui n'est pas dans vos contacts vous appelle, l'un des moyens de connaître l'identité de la personne est de saisir son numéro dans WhatsApp.
+- Si son propriétaire dispose d'un compte et a ajouté des informations, elles seront affichées, y compris sa photo.
+- Des chercheurs de l’université de Vienne, en Autriche, ont voulu savoir quelles étaient les limites de cette fonction, et ont découvert qu'il n'y en avait pas !.
+- Ils ont réussi à passer au crible tous les numéros de téléphone possibles et à extraire une grande quantité d'informations, concernant 3,5 milliards de comptes !.
+
+## [Menaces sur les municipales, espionnage… Face aux hackers, l'alerte rouge du patron de ...](https://www.leparisien.fr/high-tech/menaces-sur-les-municipales-espionnage-face-aux-hackers-lalerte-rouge-du-patron-de-la-cybersecurite-20-11-2025-BOZN4IXUUREEDJLR62LH55Z24I.php)  
+*Source : leparisien.fr | Publication : 2025-11-20*
+
+- Menaces sur les municipales, espionnage… Face aux hackers russes, l’alerte rouge du patron de la cybersécurité À l’occasion de la conférence European Cyber Week, Vincent Strubel, le patron de l’Anssi, garant de la cybersécurité de l’État, anticipe une intensification des offensives venues de l’Est.
+- C’est une vigie dans le cyberespace qui a encore augmenté son niveau d’alerte à l’aune des tensions géopolitiques.
+- L’Agence nationale de la sécurité des systèmes d’information (Anssi) veille sur les systèmes informatiques de l’État, les services essentiels et les grandes entreprises.
+- Son patron, Vincent Strubel, tire le signal d’alarme sur une intensification d’une menace russe qui ne se cache même plus.
+
+## [Digital Omnibus : &quot;La révision du RGPD proposée par la Commission européenne permet ... - JDN](https://www.journaldunet.com/intelligence-artificielle/1546163-digital-omnibus-la-revision-du-rgpd-que-propose-la-commission-europeenne-permet-de-stimuler-l-innovation-dans-l-ia/)  
+*Source : journaldunet.com | Publication : 2025-11-20*
+
+- Marc-Antoine Ledieu (Ledieu Avocats) Digital Omnibus : "La révision du RGPD proposée par la Commission européenne permet de stimuler l'innovation dans l'IA" Présenté par la Commission européenne ce 19 novembre, le Digital Omnibus vise à assouplir un RGPD jugé trop contraignant pour la croissance économique européenne.
+- Il doit être examiné par le Parlement européen.
+- JDN.
+- Pourquoi la Commission européenne propose-t-elle de modifier le RGPD ?.
+
+## [Le PM vietnamien rencontre le président de l'Assemblée populaire nationale d'Algérie](https://lecourrier.vn/le-pm-vietnamien-rencontre-le-president-de-lassemblee-populaire-nationale-dalgerie/1295771.html)  
+*Source : lecourrier.vn | Publication : 2025-11-20*
+
+- >> La 13e réunion du Comité intergouvernemental Vietnam - Algérie >> Les Premiers ministres vietnamien et algérien informent des résultats de leur entretien >> Les relations d'amitié traditionnelle Vietnam - Algérie >> Vietnam - Algérie : renforcement de la coopération dans le secteur pétrolier et énergétique Ibrahim Boughali a affirmé que la visite du chef du gouvernement vietnamien constituait un jalon important, contribuant au renforcement des relations bilatérales.
+- Rappelant l'amitié de longue date entre les deux pays, il a déclaré que la reconnaissance précoce de l'Algérie par le Vietnam avait jeté des bases solides pour leur coopération.
+- Il a noté que les échanges de délégations et le partage d'expériences entre ministères et collectivités locales s'étaient intensifiés, grâce à l'efficacité des mécanismes de consultation et de coordination.
+- Il a profité de cette occasion pour féliciter le Vietnam pour l'organisation réussie de la cérémonie d'ouverture à la signature de la Convention des Nations unies contre la cybercriminalité, soulignant son rôle crucial dans le renforcement de la cybersécurité pour de nombreux pays.
+
+## [Hiscox renforce la <b>cybersécurité</b> des TPE et PME - RiskAssur](https://www.riskassur-hebdo.com/actu01/actu_auto.php?adr=2011251005)  
+*Source : riskassur-hebdo.com | Publication : 2025-11-20*
+
+- Risk managers, assureurs, dirigeants : le guide stratégique que vous attendiez est enfin disponible La Maîtrise des Risques édition enrichie (juin 2025) Pour en savoir plus et/vous procurer cet ouvrage, cliquez ICI Hiscox renforce la cybersécurité des TPE et PME Dans un contexte où les attaques informatiques ne cessent de se multiplier et de se sophistiquer, la protection des petites et moyennes entreprises devient un enjeu vital.
+- C'est dans cette réalité de menace croissante que Hiscox, assureur spécialiste reconnu depuis trois décennies en France, dévoile sa nouvelle offre CyberClear Premium, destinée à renforcer la prévention, l’accompagnement et l'indemnisation des entreprises face aux risques numériques.
+- Avec 59 % des entreprises victimes d'une cyberattaque durant les douze derniers mois et un taux d'équipement cyber qui plafonne à 39 %, le marché souffre encore d'une sous-assurance manifeste.
+- En réponse, Hiscox enrichit sa gamme et propose une solution avancée, accessible et pensée pour les besoins croissants des TPE et PME.
+
+## [Perplexity a-t-elle caché une backdoor dans son navigateur IA Comet ? - Clubic](https://www.clubic.com/actualite-587746-perplexity-a-t-elle-cache-une-backdoor-dans-son-navigateur-ia-comet.html)  
+*Source : clubic.com | Publication : 2025-11-20*
+
+- Mais à quoi joue réellement Perplexity ?.
+- Des chercheurs en cybersécurité affirment avoir trouvé une API cachée.
+- Celle-ci permet d'exécuter des commandes sur les machines des utilisateurs, en contournant des décennies de protections mises en place par les navigateurs traditionnels.
+- Article mis à jour en bas de page SquareX, une entreprise spécialisée dans la sécurité des navigateurs, documente la découverte d'une interface de programmation MCP (Model Context Protocol) non mentionnée dans Comet.
+
+## [Comment les certifications en <b>cybersécurité</b> transforment la gestion des risques en avantage...](https://infos-it.fr/tech/7529/comment-les-certifications-en-cybersecurite-transforment-la-gestion-des-risques-en-avantage-strategique/)  
+*Source : infos-it.fr | Publication : 2025-11-20*
+
+- Table des matières 1 Former pour se protéger : la cybersécurité au cœur des priorités des organisations - 2 Pourquoi la formation en cybersécurité est devenue un enjeu majeur pour les entreprises ?.
+- - 3 Des formations adaptées à chaque profil pour renforcer la sécurité interne - 4 Comment intégrer durablement la formation cyber dans la stratégie d’entreprise ?.
+- - Former pour se protéger : la cybersécurité au cœur des priorités des organisations La multiplication des cybermenaces et la complexité croissante des infrastructures exposent les entreprises à des risques toujours plus élevés.
+- Former les équipes devient essentiel pour anticiper, détecter et répondre efficacement aux attaques.
+
+## [Eviden sélectionné par le European Cybersecurity Competence Center and ... - Markets data](https://markets.ft.com/data/announce/detail?dockey=1330-1001139887fr-0PCHU5DFJDE4TJ9VSJL1RR003R)  
+*Source : markets.ft.com | Publication : 2025-11-20*
+
+- Eviden sélectionné par le European Cybersecurity Competence Center and Network pour ses solutions de tests de la cyberrésistance des systèmes critiques Source: GlobeNewswireCommuniqué de presse Eviden sélectionné par le European Cybersecurity Competence Center and Network pour ses solutions de tests de la cyberrésistance des systèmes critiques Les solutions d’Eviden seront intégrées à une plateforme de tests de sécurité collaborative permettant aux fournisseurs européens de services essentiels d’évaluer leur stratégie de résistance aux cyber menaces Paris, France – 20 novembre 2025 – Eviden, la branche produits du Groupe Atos leader dans le calcul avancé, les produits de cybersécurité, les systèmes critiques de mission, et l’analyse vidéo augmentée par l’IA annonce aujourd’hui avoir remporté auprès du European Cybersecurity Competence Center and Network (ECCC1) un appel à projet pour améliorer la cyber protection et résilience des infrastructures critiques européennes.
+- Cette initiative de l’ECCC a pour objectif de développer une communauté forte et cohérente autour des enjeux de cybersécurité en renforçant la collaboration, le partage de connaissances et le déploiement de solutions innovantes en matière de cybersécurité à l’échelle européenne.
+- Le consortium CIPHER2 (Cybersecurity Intelligence, Protection and Holistic Enterprise Resilience) contribuera directement à la mission de l'ECCC visant à renforcer la résilience numérique de l'Europe en fournissant une plateforme standardisée et collaborative pour tester, valider et certifier la démarche de cybersécurité des opérateurs de services essentiels.
+- Piloté par Eviden, CIPHER réunit 13 partenaires issus de 7 pays européens — dont des opérateurs d'infrastructures critiques, des organisations de recherche et des PME spécialisées en cybersécurité — garantissant une approche solide et multisectorielle afin de faire progresser la cyberrésilience de l'Europe.
+
+## [Mailinblack noue un partenariat avec Bouygues Telecom Business](https://www.lejournaldesentreprises.com/breve/mailinblack-noue-un-partenariat-avec-bouygues-telecom-business-2131183)  
+*Source : lejournaldesentreprises.com | Publication : 2025-11-20*
+
+- Mailinblack (une centaine de collaborateurs, CA 2024 : 15 M€), l’éditeur marseillais de solutions de cybersécurité souveraines, annonce une collaboration stratégique avec Bouygues Telecom Business.
+- Les solutions de la PME marseillaise seront désormais intégrées à l’offre globale de cybersécurité de Bouygues Telecom Business pour protéger les ETI et administrations publiques contre la multiplication des menaces numériques.
+- "Ce nouveau partenariat s’inscrit dans la stratégie de distribution indirecte de nos solutions à travers un réseau de partenaires solides et reconnus", souligne Nicolas Stoyanov, directeur des partenariats chez Mailinblack.
+- À ce jour, Mailinblack revendique plus de 24 000 organisations et plus de 2 millions d’utilisateurs.
+
+## [La poésie est une arme... pour contourner la sécurité des LLMs | Le site de Korben](https://korben.info/jailbreak-ia-poesie-adversarielle-llm.html)  
+*Source : korben.info | Publication : 2025-11-20*
+
+- La poésie est une arme... pour contourner la sécurité des LLMs En bref Les IA de Google, OpenAI et Anthropic se font pirater 5 fois plus facilement avec des poèmes qu'avec du texte normal (taux de réussite passant de 8% à 43%) - Paradoxe absurde : les petits modèles d'IA résistent mieux aux attaques poétiques que les gros (GPT-5-Nano bloque tout, GPT-5 se fait avoir à 10%) - Vos alexandrins peuvent contourner les garde-fous des IA : 84% de réussite pour faire cracher du code malveillant en vers, les filtres de sécurité ne captent pas l'intention cachée derrière les métaphores - Hé bien les amis, on savait déjà que les LLM avaient quelques petites failles de sécurité, mais celle-là est quand même assez… poétique.
+- En effet, des chercheurs de DEXAI et de l’Université Sapienza de Rome viennent de découvrir que reformuler une requête malveillante sous la forme d’un poème permet de contourner les sécurités dans plus de 90% des cas chez certains fournisseurs d’IA.
+- L’équipe a ainsi testé la robustesse de 25 modèles de langage provenant de 9 fournisseurs majeurs : Google, OpenAI, Anthropic, DeepSeek, Qwen, Mistral, Meta, xAI et Moonshot et ils ont pour cela converti 1 200 requêtes potentiellement dangereuses en vers et comparé les résultats avec les mêmes demandes mais en prose classique.
+- Et là surprise !.
 
 ## [Xerox lance une solution unifiée de <b>cybersécurité</b> pour les PME, en partenariat avec Palo ...](https://www.zonebourse.com/actualite-bourse/xerox-lance-une-solution-unifiee-de-cybersecurite-pour-les-pme-en-partenariat-avec-palo-alto-networ-ce7d5ed9d980ff27)  
 *Source : zonebourse.com | Publication : 2025-11-19*
