@@ -1,5 +1,157 @@
-# Résumés – 2025-11-21
+# Résumés – 2025-11-22
 
+
+## [<b>Cybercriminalité</b> au Sénégal: démantèlement d'un réseau d'escroquerie sur l'export de ...](https://fr.news.yahoo.com/cybercriminalité-au-sénégal-démantèlement-d-175453632.html)  
+*Source : fr.news.yahoo.com | Publication : 2025-11-22*
+
+- Cybercriminalité au Sénégal: démantèlement d’un réseau d’escroquerie sur l’export de plantes médicinales Avec notre correspondante à Dakar, Pauline Le Troquier Les malfaiteurs ont soutiré au moins 338 millions de FCFA (soit 515 000 euros) à plusieurs victimes et ce bilan est encore susceptible d’augmenter au cours de l’enquête.
+- Ainsi, les victimes pensaient s’engager dans un commerce légal et prometteur.
+- Depuis 2022, une quarantaine de plaignants ont été entendus par la Division spéciale de cybersécurité (DSC).
+- Tous décrivent le même schéma, à savoir une prise de contact en ligne, une proposition d'affaire miraculeuse dans l’export de moringa, voacanga, aloe vera et autres plantes médicinales destinées à la fabrication de médicaments dans des laboratoires pharmaceutiques étrangers, un scénario mensonger qui parvient à piéger les victimes.
+
+## [&quot;Impossibles à ouvrir !&quot; : la police alerte sur ces smartphones prisés des criminels - Clubic](https://www.clubic.com/actualite-588202-impossibles-a-ouvrir-la-police-alerte-sur-ces-smartphones-prises-des-criminels.html)  
+*Source : clubic.com | Publication : 2025-11-22*
+
+- La police française s'insurge contre un système open source pour smartphone qui renforce énormément la sécurité de l'appareil.
+- Au point de compliquer leur travail.
+- Cet été, on vous parlait de la méfiance accrue de la police espagnole pour un modèle particulier de smartphones : les Google Pixel.
+- Ces appareils sont en effet capables d'accueillir un système d'exploitation extraordinairement sécurisé, qui protège la vie privée de son utilisateur.
+
+## [<b>Cybercriminalité</b> au Sénégal: démantèlement d'un réseau d'escroquerie sur l'export de ...](https://www.rfi.fr/fr/afrique/20251122-cybercriminalité-au-sénégal-démantèlement-d-un-réseau-d-escroquerie-sur-l-export-de-plantes-médicinales)  
+*Source : rfi.fr | Publication : 2025-11-22*
+
+- Cybercriminalité au Sénégal: démantèlement d’un réseau d’escroquerie sur l’export de plantes médicinales Au Sénégal, une affaire met en lumière le fléau des arnaques en ligne.
+- La police nationale a annoncé, jeudi 20 novembre, avoir mis la main, par le biais de La Division spéciale de cybersécurité, sur un puissant réseau d’escroquerie.
+- Les malfaiteurs poussaient leurs cibles à s’impliquer dans un faux business de plantes médicinales présenté comme lucratif.
+- Publié le : Avec notre correspondante à Dakar, Pauline Le Troquier Les malfaiteurs ont soutiré au moins 338 millions de FCFA (soit 515 000 euros) à plusieurs victimes et ce bilan est encore susceptible d’augmenter au cours de l’enquête.
+
+## [ESP: les anciens étudiants veulent contribuer aux politiques publiques et à l'innovation (présidente)](https://aps.sn/esp-les-anciens-etudiants-veulent-contribuer-aux-politiques-publiques-et-a-linnovation-presidente/)  
+*Source : aps.sn | Publication : 2025-11-22*
+
+- Dakar, 22 nov (APS) -Le Réseau des Alumni de l’École supérieure polytechnique (ESP) entend mobiliser l’expertise de ses membres pour accompagner les politiques publiques, soutenir l’innovation et contribuer à la transformation numérique du pays, a déclaré, samedi, sa présidente, Lissoune Ndiaye.
+- ‘’Notre vision est claire : mobiliser l’expertise de l’ESP pour contribuer aux politiques publiques, soutenir l’innovation et accompagner la transformation du pays.
+- Nous ne sommes pas seulement une association d’anciens étudiants mais un collectif d’ingénieurs, de gestionnaires, de chercheurs, d’entrepreneurs et d’experts déterminés à mettre leur savoir-faire au service de la nation”, a-t-elle affirmé.
+- Elle intervenait lors d’un forum sur le New Deal Technologique (NDT) sous le thème : ”Cybersécurité, data gouvernance et financement de l’innovation : comment bâtir un écosystème sécurisé, inclusif et durable au service du NDT”.
+
+## [Utilisateurs Apple, attention ! Cette arnaque surréaliste et imparable vise vos comptes personnels](https://www.clubic.com/actualite-588103-utilisateurs-apple-attention-cette-arnaque-surrealiste-et-imparable-vise-vos-comptes-personnels.html)  
+*Source : clubic.com | Publication : 2025-11-22*
+
+- Des escrocs exploitent une faille du système d'assistance d'Apple pour voler des comptes iCloud.
+- L'arnaque, de l'hameçonnage ultra-sophistiqué, utilise de vrais tickets officiels spour tromper les utilisateurs, même les plus avertis.
+- Un mercredi après-midi ordinaire, Eric Moret a failli perdre l'accès à toute sa vie numérique.
+- Après avoir reçu un code de vérification Apple non sollicité, des pirates avaient, trente minutes plus tard, obtenu l'accès à son compte iCloud, ses photos et ses e-mails.
+
+## [Tatouer les données de santé pour les identifier en cas de cyberattaque - Ouest-France](https://www.ouest-france.fr/bretagne/tatouer-les-donnees-de-sante-pour-les-identifier-en-cas-de-cyberattaque-55554b80-c621-11f0-ae43-bd19d28cf441)  
+*Source : ouest-france.fr | Publication : 2025-11-22*
+
+- .
+- Romain Lemoine, directeur du GCS Bretagne, et Gilles Larroche, chef de projet cybersécurité Orange cyberdéfense.
+- | OUEST-FRANCE.
+
+## [Attention, des arnaques via de fausses cagnottes exploitent la générosité des victimes](https://actu.orange.fr/france/attention-des-arnaques-via-de-fausses-cagnottes-exploitent-la-generosite-des-victimes-magic-CNT000002lQ5IP.html)  
+*Source : actu.orange.fr | Publication : 2025-11-22*
+
+- Attention, des arnaques via de fausses cagnottes exploitent la générosité des victimes © Pixabay De fausses cagnottes en ligne qui exploitent des faits d’actualité tragiques abusent de la générosité des victimes.
+- Ce type d’arnaque se multiplie notamment grâce à l’intelligence artificielle, comme le rapporte TF1.
+- Un type d’arnaque qui profite d’actualités tragiques afin de détourner des milliers d’euros.
+- Guerre, catastrophes naturelles, maladies… Les arnaqueurs ne reculent devant rien pour abuser de la générosité des victimes, comme le rapporte TF1.
+
+## [Comment regarder le GP de Las Vegas de F1 gratuitement - Cybernews](https://cybernews.com/fr/regarder-en-ligne/regarder-le-grand-prix-de-las-vegas-f1-22-11-2025/)  
+*Source : cybernews.com | Publication : 2025-11-22*
+
+- Grâce à une analyse approfondie et à des tests pratiques de VPN, nos experts en cybersécurité ont collaboré avec l'équipe de recherche pour rédiger.
+
+## [Le Qatar accueille le premier exercice arabe de <b>cybersécurité</b> - Divers - 22/11/2025 - كونا](https://www.kuna.net.kw/ArticleDetails.aspx?id=3261517&language=fr)  
+*Source : kuna.net.kw | Publication : 2025-11-22*
+
+- DOHA, 22 Novembre (KUNA) -- Le Qatar a accueilli, samedi, le premier exercice arabe de cybersécurité, avec la participation de 21 pays ainsi que du Secrétariat général du Conseil des ministres arabes de la cybersécurité.
+- L’initiative vise à renforcer la coopération entre les États arabes dans le domaine de la cybersécurité, à consolider l’action collective et à faciliter l’échange d’expertise, contribuant ainsi à une meilleure préparation et à une sécurité numérique accrue dans la région.
+- Le directeur général de l’Agence nationale qatarie de cybersécurité, Ahmed Al-Hammadi, a souligné que la nature des menaces transfrontalières ciblant l’infrastructure numérique régionale impose une nouvelle réalité sécuritaire nécessitant une préparation solide et une vigilance proactive.
+- Dans son discours d’ouverture, Al-Hammadi a indiqué que le scénario élaboré cette année par l’Agence qatarie avait été soigneusement conçu pour tenir compte des systèmes opérationnels propres aux institutions et centres nationaux de cybersécurité de chaque pays.
+
+## [Faire un sac d'urgence, préparer un abri… les civils polonais formés pour la première fois à la guerre](https://www.challenges.fr/monde/faire-un-sac-durgence-preparer-un-abri-les-civils-polonais-formes-pour-la-premiere-fois-a-la-guerre_631458)  
+*Source : challenges.fr | Publication : 2025-11-22*
+
+- Faire un sac d’urgence, préparer un abri… les civils polonais formés pour la première fois à la guerre A partir de ce 22 novembre, tout citoyen polonais pourra s’inscrire à une formation aux gestes de base de sécurité et de défense, sans devoir nécessairement s’engager dans l’armée.
+- Inédit, ce programme débute dans un contexte tendu, alors que le pays a subi un acte de sabotage attribué à la Russie le week-end du 15 novembre.
+- Pour la première fois, tout civil polonais peut se former aux bons réflexes à adopter en temps de guerre.
+- Ce 22 novembre, la phase pilote du programme « wGotowosci » – qui se traduit par « Être prêts » – est lancée par le ministère de la Défense nationale en coopération avec l’état-major des forces armées polonaises.
+
+## [Découvrez les 20 pires mots de passe de France en 2025, 123456 a été détrôné](https://www.01net.com/actualites/decouvrez-20-pires-mots-passe-france-2025-123456-detrone.html)  
+*Source : 01net.com | Publication : 2025-11-22*
+
+- Alors que la fin de l’année approche à grands pas, NordPass vient de dévoiler son nouveau classement des mots de passe les plus utilisés dans le monde.
+- Pour dresser la liste des 200 mots de passe les plus populaires, le gestionnaire développé par Nord Security a analysé « des fuites de données publiques récentes et des banques de mots de passe du Web clandestin ».
+- Les informations étudiées concernent les mots de passe utilisés entre septembre 2024 et septembre 2025.
+- À lire aussi : 1,3 milliard de mots de passe, 2 milliards d’adresses mail – une gigantesque base de données piratées fait surface Les 20 mots de passe les plus utilisés au monde Du côté des résultats mondiaux, on retrouve des mots de passe incontournables, comme 123456 ou encore password.
+
+## [Appel à une participation substantielle de Taïwan à INTERPOL Intensifions les efforts ...](https://www.lenational.org/post_article.php?tri=2833)  
+*Source : lenational.org | Publication : 2025-11-22*
+
+- Elle surveille attentivement les activités criminelles transnationales, notamment le terrorisme, la cybercriminalité et le crime organisé, et.
+
+## [Toto Wolff cède 15 % de ses parts de l'équipe Mercedes F1 au PDG de CrowdStrike, George Kurtz](https://lesnews.ca/sports/sports-mecaniques/f1/toto-wolff-cede-15-de-ses-parts-de-lequipe-mercedes-f1-au-pdg-de-crowdstrike-george-kurtz/)  
+*Source : lesnews.ca | Publication : 2025-11-22*
+
+- cybersécurité CrowdStrike.
+- Cette transaction fait de Kurtz un co-propriétaire d'une équipe valorisée à 6 milliards de dollars.
+- Wolff, qui.
+
+## [Les défis de l'accès à Internet à l'étranger - InfoTravel.fr](https://www.infotravel.fr/actualites/les-defis-de-lacces-a-internet-a-letranger/)  
+*Source : infotravel.fr | Publication : 2025-11-22*
+
+- Le Japon, les États-Unis et le Maroc sont les destinations les plus prisées par les Français pour les vacances de la Toussaint, selon les données de Saily.
+- Cependant, alors que les voyageurs se préparent à partir en vacances, les experts avertissent que des frais d’itinérance imprévus et une connexion Internet médiocre pourraient gâcher leur séjour.
+- Les destinations les plus prisées, mais une connectivité à risque “Les Français choisissent des destinations magnifiques et riches en culture.
+- Malheureusement, des infrastructures insuffisantes, une cybersécurité négligée ou le coût élevé des données dans ces destinations les empêchent de rester connectés”, explique Vykintas Maknickas, PDG de Saily, l’application eSIM de NordVPN.
+
+## [L'hôpital universitaire de Berne simule une cyberattaque en se déconnectant du web](https://www.20min.ch/fr/story/berne-l-hopital-se-coupe-du-web-pour-simuler-une-cyberattaque-103454981)  
+*Source : 20min.ch | Publication : 2025-11-22*
+
+- BerneL’hôpital se coupe du web pour simuler une cyberattaque L’hôpital universitaire a volontairement tiré la prise d’internet pendant deux heures.
+- Un test qui a démontré sa résilience face aux risques liés à l'informatique.
+- Que se passerait-il si un de nos grands hôpitaux universitaires devait être complètement coupé d’internet à cause d’une cyberattaque?.
+- L’hôpital de l’Île à Berne a la réponse.
+
+## [Gestion des mots de passe, messagerie… comment muscler ses outils de <b>cybersécurité</b>](https://www.lagazettedescommunes.com/1010797/gestion-des-mots-de-passe-messagerie-comment-muscler-ses-outils-de-cybersecurite/)  
+*Source : lagazettedescommunes.com | Publication : 2025-11-22*
+
+- Une « vraie prise de conscience », se souvient Frédéric Schmitt, le responsable de la sécurité des systèmes d’information.
+- En 2022, à l’Agence des territoires de la Vienne, l’audit mené par l’entreprise Orange Cyberdéfense, dans le cadre du programme de renforcement de la cybersécurité des collectivités, « France Relance », permet d’identifier un gros trou dans la raquette.
+- L’établissement public regroupant 334 collectivités ne propose pas de bon gestionnaire de mots de passe.
+- Ce type de logiciel permet pourtant de conserver de manière sécurisée des couples d’identifiant – mot de passe, une matière première très recherchée par les pirates.
+
+## [Apple : le support officiel utilisé comme appât par des escrocs - 24matins](https://www.24matins.fr/apple-le-support-officiel-utilise-comme-appat-par-des-escrocs-1398795)  
+*Source : 24matins.fr | Publication : 2025-11-22*
+
+- Apple : le support officiel utilisé comme appât par des escrocs Une nouvelle arnaque de phishing vise les utilisateurs Apple en exploitant de véritables tickets d’assistance pour subtiliser leurs identifiants.
+- Cette méthode sophistiquée inquiète les experts en cybersécurité, qui recommandent la vigilance face à toute demande inattendue.
+- Tl;dr Une arnaque sophistiquée cible les utilisateurs Apple en utilisant des notifications et emails apparemment officiels.
+- - Les fraudeurs simulent le support Apple pour obtenir des codes de double authentification et accéder aux comptes.
+
+## [Si la maturité numérique des entreprises wallonnes progresse, un nouveau défi majeur s ...](https://www.lalibre.be/economie/entreprises-startup/2025/11/21/si-la-maturite-numerique-des-entreprises-wallonnes-progresse-un-nouveau-defi-majeur-simpose-a-elles-AZCAILXF7ZFKDK74O5BWSCHJIM/)  
+*Source : lalibre.be | Publication : 2025-11-22*
+
+- Si la maturité numérique des entreprises wallonnes progresse, un nouveau défi majeur s'impose à elles Le nouveau baromètre de l'Agence du Numérique met en évidence les enjeux, pour les entreprises wallonnes, liés à la rupture technologique de l'intelligence artificielle.
+- Publié le 21-11-2025 à 13h02 - Mis à jour le 21-11-2025 à 14h21 - Comme elle le fait tous les deux ans, l'Agence du Numérique (ADN) a pris le pouls des entreprises wallonnes pour évaluer leur maturité numérique.
+- Près de 3 000 entreprises, de toutes tailles et de tous secteurs, ont été sondées en début d'année sur un large éventail d'usages et de comportements numériques (*).
+- De quoi évaluer, de manière objective, leur propension à prendre part à la "révolution numérique" et à en retirer, autant que possible, les avantages.
+
+## [Après une cyberattaque, le choc psychologique reste sous-estimé par les entreprises et les ...](https://www.latribune.fr/article/tech/55433995676785/apres-une-cyberattaque-le-choc-psychologique-reste-sous-estime-par-les-entreprises-et-les-collectivites)  
+*Source : latribune.fr | Publication : 2025-11-22*
+
+- Après une cyberattaque, le choc psychologique reste sous-estimé par les entreprises et les collectivités Ce contenu est réservé aux abonnés Les collectivités face aux cyberattaques, à l'European Cyber Week à Rennes.
+- Pascale Paoli Ce contenu est réservé aux abonnés Les collectivités face aux cyberattaques, à l'European Cyber Week à Rennes.
+- Pascale Paoli Quimper, Ploërmel, Brest, Mauron, Josselin : cette semaine, plusieurs mairies bretonnes ont été victimes d’une fuite massive de données personnelles d’administrés venus refaire leurs papiers d’identité.
+- En cause : une intrusion sur l’application en ligne dédiée aux rendez-vous, RDV 360, opérée par un prestataire extérieur.
+
+## [93ᵉ AG d'Interpol : le Maroc, pilier de la coopération policière mondiale](https://fr.hespress.com/450772-93ᵉ-ag-dinterpol-le-maroc-pilier-de-la-cooperation-policiere-mondiale.html)  
+*Source : fr.hespress.com | Publication : 2025-11-22*
+
+- En amont de l’ouverture officielle de la 93ᵉ Assemblée générale d’Interpol, prévue du 24 au 27 novembre 2025 à Marrakech, le président de l’organisation, le Général-major Ahmed Naser Al-Raisi, a tenu une conférence de presse ce vendredi 21 novembre 2025.
+- Devant les journalistes, il a mis en lumière le rôle stratégique du Maroc dans la sécurité internationale, saluant le Royaume comme un acteur indispensable et fiable de la coopération policière mondiale.
+- Le président d’Interpol a ouvert la conférence en rappelant que l’Assemblée générale revient au Maroc pour la deuxième fois dans l’histoire de l’organisation, un privilège qui traduit la confiance internationale placée dans le Royaume.
+- « Cette présence n’est pas fortuite », a-t-il assuré, mettant en avant la stabilité, la fiabilité et l’expertise du Maroc dans la coopération policière mondiale.
 
 ## [Biens de haute valeur : de l'inquiétude en matière de <b>cybercriminalité</b>](https://portail-assurance.ca/article/biens-de-haute-valeur-de-linquietude-en-matiere-de-cybercriminalite/)  
 *Source : portail-assurance.ca | Publication : 2025-11-21*
