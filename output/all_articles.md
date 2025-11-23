@@ -1,5 +1,160 @@
-# Résumés – 2025-11-22
+# Résumés – 2025-11-23
 
+
+## [Comment le Maroc est devenu un partenaire incontournable d'Interpol - Le Matin](https://lematin.ma/nation/comment-le-maroc-est-devenu-un-partenaire-incontournable-dinterpol/315074)  
+*Source : lematin.ma | Publication : 2025-11-23*
+
+- Le 21 novembre 2025, lors d’une conférence de presse, trois jours avant le lancement des travaux de la 93e Assemblée générale de l'Organisation internationale de police criminelle (OIPC-Interpol), qui s'ouvre ce lundi à Marrakech, le président d'Interpol a mis en avant des chiffres qui donnent le vertige.
+- Cinquante organisations criminelles démantelées.
+- Soixante-dix tonnes de drogues saisies pour une valeur de 12 milliards de dollars.
+- Plus de 17.500 arrestations de criminels majeurs.
+
+## [Windows a 40 ans : des premiers virus de boot aux <b>ransomwares</b>, un OS forgé par les attaques](https://www.clubic.com/actualite-587740-windows-a-40-ans-des-premiers-virus-de-boot-aux-ransomwares-un-os-forge-par-les-attaques.html)  
+*Source : clubic.com | Publication : 2025-11-23*
+
+- Pendant des années, l’histoire de la sécurité sur Windows s’est confondue avec celle des virus qui le malmenaient.
+- Retour sur quelques épisodes marquants qui ont façonné l’OS actuel.
+- Pendant les années 1990 et 2000, le terme « virus » a tellement collé à Windows qu’il a presque fini par définir la nature de l’OS aux yeux du grand public.
+- Un PC sous Windows, c’était une machine qui attrapait des saletés dès qu’on la connectait à Internet ou qu’on ouvrait la mauvaise pièce jointe.
+
+## [<b>Cybersécurité</b> : La Tunisie sur le qui-vive depuis le début de l'année - Le Quotidien](https://www.lequotidien.com.tn/fr/nationale/9035-cybersecurite-la-tunisie-sur-le-qui-vive-depuis-le-debut-de-l-annee)  
+*Source : lequotidien.com.tn | Publication : 2025-11-23*
+
+- Par Hassan GHEDIRI L’Agence nationale de la cyber-sécurité (ANCS) place le niveau d’alerte à son plus haut niveau en Tunisie et signale une multiplication inquiétante des vulnérabilités.
+- Sur le site web (ancs.tn), l’agence qui joue depuis des années un rôle de vigile, rappelle à tous ceux qui voudront bien l’entendre que l’audit de la sécurité des systèmes d’information (SI) en Tunisie est essentiel pour assurer la conformité aux lois locales, notamment celles relatives à la protection des données personnelles et à la cybersécurité.
+- L’audit est par ailleurs obligatoire pour les SI des organismes publics, des opérateurs de réseaux publics de télécommunications et les fournisseurs des services de télécommunications et d’internet ainsi que pour toutes les entreprises connectées aux réseaux et les hébergeurs de données numériques et autres infrastructures d’importance vitale.
+- Si vous consultez maintenant le site de l’agence, vous serez d’emblée frappés par la signalisation dynamique occupant le tiers de la page et affichant un niveau d’alerte national «Très élevé».
+
+## [Dkhissi : le Maroc, pilier régional de la sécurité et de la lutte contre la <b>cybercriminalité</b>](https://fr.hespress.com/450988-dkhissi-le-maroc-pilier-regional-de-la-securite-et-de-la-lutte-contre-la-cybercriminalite.html)  
+*Source : fr.hespress.com | Publication : 2025-11-23*
+
+- Ajoutez votre commentaire Conditions de publication : Les commentaires ne doivent pas être à caractère diffamatoire ou dénigrant à l'égard de l'auteur, des personnes, des sacralités, des religions ou de Dieu.
+- Ils ne doivent pas non plus comporter des insultes ou des propos incitant à la haine et à la discrimination.
+- 22:50 Ouarzazate : une clinique privée fermée pour manquements graves aux normes sanitaires - 21:06 Espagne : consulat mobile en faveur de la communauté marocaine de la ville de Ciudad Real - 19:53 Economie : Le Maroc, 5e puissance africaine en 2026 - 18:05 Nouveau référendum en Slovénie sur le suicide assisté - 16:52 Ligue des champions: le Barça, club le plus exposé aux suspensions - 15:11 Trois ports concentrent plus de 88 % du trafic portuaire national -.
+
+## [de la moitié (58 %) des enseignes victimes d'une attaque de <b>ransomware</b> versent la rançon ...](https://presseagence.fr/paris-plus-de-la-moitie-58-des-enseignes-victimes-dune-attaque-de-ransomware-versent-la-rancon-demandee-le-4-novembre/)  
+*Source : presseagence.fr | Publication : 2025-11-23*
+
+- PARIS : Plus de la moitié (58 %) des enseignes victimes d’u… Partager : PARIS : Plus de la moitié (58 %) des enseignes victimes d’une attaque de ransomware versent la rançon demandée, le 4 novembre À l’approche d’un Black Friday 2025 sous haute tension, alors que le retail se prépare à un pic d’activité sans précédent, les cybermenaces progressent tout aussi vite.
+- La nouvelle étude de Sophos révèle un secteur plus vulnérable que jamais face aux ransomwares, avec plus de la moitié des enseignes prêtes à payer pour récupérer leurs données.
+- Dans un contexte marqué par le doublement des demandes de rançon et l’augmentation des paiements, près de la moitié des entreprises du secteur attribuent les incidents liés aux ransomwares à des failles de sécurité dont elles ignoraient l’existence.
+- Sophos, l’un des premiers éditeurs mondiaux de solutions de sécurité innovantes conçues pour neutraliser les cyberattaques, publie ce jour la cinquième édition de son étude annuelle consacrée au secteur du retail.
+
+## [Tournus. Des entreprises du Tournugeois sensibilisées à la <b>cybersécurité</b> - Le JSL](https://www.lejsl.com/economie/2025/11/23/des-entreprises-du-tournugeois-sensibilisees-a-la-cybersecurite)  
+*Source : lejsl.com | Publication : 2025-11-23*
+
+- Tournus Des entreprises du Tournugeois sensibilisées à la cybersécurité Le GEST a été créé en 2017 et d’année en année augmente le nombre de ses adhérents.
+- À ce jour 18 chefs d’entreprise se réunissent de manière régulière chaque premier mercredi de chaque mois de 8 h 30 à 10 heures pour échanger sur les problématiques des métiers et deux fois par an élargissent leur public à d’autres responsables d’entreprise pour assister à une réunion thématique.
+- Si en mars dernier, un intervenant est venu expliquer l’intérêt d’embaucher des jeunes de moins de 25 ans, ce jeudi le.
+
+## [Les dangers cachés des VPN sans frais - Begeek](https://www.begeek.fr/les-dangers-caches-des-vpn-sans-frais-424505)  
+*Source : begeek.fr | Publication : 2025-11-23*
+
+- Les dangers cachés des VPN sans frais De plus en plus d’internautes cherchent à naviguer en toute sécurité sans se ruiner, mais l’attrait des VPN prétendument gratuits cache parfois de dangereux pièges.
+- Attention aux arnaques et aux fausses promesses de confidentialité en ligne.
+- Tl;dr Les VPN gratuits représentent un risque majeur pour la vie privée, car beaucoup collectent des données personnelles, intègrent des traceurs et exposent les utilisateurs à des fuites d’IP.
+- - Certains services gratuits ont été détournés par des réseaux criminels, transformant les appareils des utilisateurs en relais pour la cybercriminalité et les fraudes mondiales.
+
+## [<b>Cybersécurité</b> : les arnaques qui explosent en 2025 - IdealoGeek.fr](https://idealogeek.fr/cybersecurite-quelles-sont-les-arnaques-en-ligne-qui-ont-explose-en-france-et-dans-le-monde-cette-annee/)  
+*Source : idealogeek.fr | Publication : 2025-11-23*
+
+- En 2025, la cybersécurité française fait face à une vague d’arnaques d’une ampleur inédite.
+- Portées par l’IA générative, l’explosion du télétravail et l’interconnexion des services, les escroqueries en ligne se multiplient et gagnent en sophistication.
+- Phishing 2.0, deepfakes, ransomwares ou faux supports techniques… Retour sur les attaques qui ont particulièrement frappé les internautes et les organisations cette année.
+- Sommaire : Les attaques les plus répandues : état des lieux 2025 Les cybercriminels ne se contentent plus d’envoyer des emails mal rédigés ou d’exploiter des failles simples.
+
+## [Dkhissi : le Maroc, pilier régional de la sécurité et de la lutte contre la <b>cybercriminalité</b>](https://www.youtube.com/watch?v=VdcoUeVWd6o)  
+*Source : youtube.com | Publication : 2025-11-23*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Pourquoi une cyberattaque chez un fournisseur méconnu du grand public inquiète Wall Street](https://www.lesechos.fr/finance-marches/banque-assurances/pourquoi-une-cyberattaque-chez-un-fournisseur-meconnu-du-grand-public-inquiete-wall-street-2200379)  
+*Source : lesechos.fr | Publication : 2025-11-23*
+
+- Morgan Stanley Cybersécurité.
+- LesEchos-offrePremiumEntreprises.png.
+- Testez l'offre Premium Entreprises !.
+- Profitez d'un essai gratuit pour découvrir l.
+
+## [Lancement de nouvelles sessions de formation pour les magistrats - Horizons](https://www.horizons.dz/?p=392256)  
+*Source : horizons.dz | Publication : 2025-11-23*
+
+- Lancement de nouvelles sessions de formation pour les magistrats Le ministère de la Justice annonce la programmation de plusieurs sessions de formation au profit des magistrats, à compter de ce dimanche.
+- Le ministère de la Justice annonce la programmation de plusieurs sessions de formation au profit des magistrats, à l’intérieur et à l’extérieur du pays, et ce, à compter de ce dimanche, indique un communiqué.
+- Ces formations au profit des magistrats sont inscrites dans le cadre du renforcement des capacités, d’actualisation des connaissances et de la mise en phase avec les développements législatifs et réglementaires.
+- Des formations continues à l’ESM Dans le cadre des sessions de la formation continue en exercice à l’Ecole supérieure de la Magistrature (ESM), « 48 magistrats du Parquet prendront part à une session de formation portant sur la communication judiciaire, les 24, 25 et 26 novembre 2025, à l’ESM de Koléa », précise le communiqué.
+
+## [A l'Honneur... CyberProAI Israel, entreprise spécialisée dans l'intelligence artificielle ...](https://israelvalley.com/2025/11/23/a-lhonneur-cyberproai-israel-entreprise-specialisee-dans-lintelligence-artificielle-appliquee-a-la-cybersecurite/)  
+*Source : israelvalley.com | Publication : 2025-11-23*
+
+- Sept adolescents israéliens issus de la périphérie sociale et géographique du pays ont été sélectionnés pour participer à un nouveau programme international de cybersécurité réunissant des jeunes de Grèce et de Chypre.
+- Cette initiative, lancée en mémoire du sergent Uri Nehemia Ashkenazi, tombé à Rafah durant la guerre Israël-Hamas, vise à former une nouvelle génération d’experts tout en renforçant la coopération régionale.
+- Le projet est mené conjointement avec les autorités nationales de cybersécurité grecque (NCSA) et chypriote (DSA).
+- Très sélectif, il a retenu sept candidats parmi des centaines de postulants ayant passé une série d’évaluations exigeantes.
+
+## [Une série policière pour former les soignants contre les risques de cyberattaques dans les hôpitaux](https://www.lejdc.fr/dijon-21000/actualites/une-serie-policiere-pour-former-les-soignants-contre-les-risques-de-cyberattaques-dans-les-hopitaux_14786937/)  
+*Source : lejdc.fr | Publication : 2025-11-23*
+
+- Faits divers Article réservé aux abonnés Pour former les soignants aux risques de cybersécurité, l'Agence régionale de santé propose des séries inspirées de Netflix plutôt que des formations traditionnelles.
+- Une première en France.
+- La première série, Plan blanc, est déjà en ligne.
+- Elle compte six épisodes qui débutent comme une enquête policière.
+
+## ['Briss”, des séries immersives inspirées d'une cyberattaque pour sensibiliser les ... - macommune.info](https://www.macommune.info/briss-des-series-immersives-inspirees-dune-cyberattaque-pour-sensibiliser-les-professionnels-de-sante/)  
+*Source : macommune.info | Publication : 2025-11-23*
+
+- L’objectif est simple : sensibiliser les professionnels de santé aux enjeux de la cybersécurité avec la plateforme "Briss" et renforcer les réflexes, discernement et la coopération des équipes.
+- "En mêlant cinéma, neurosciences et émotion, BRISS transforme la formation en expérience collective.
+- Pionnière en Europe, elle associe sensibilisation, émotion et intelligence collective pour ancrer les bons réflexes", nous est-il précisé.
+- Une première européenne née en Bourgogne-Franche-Comté Avec BRISS, la Bourgogne-Franche-Comté devient la première région d’Europe à déployer une plateforme audiovisuelle à la fois éducative, immersive et participative dans le domaine de la santé.
+
+## [1,3 milliard de mots de passe divulgués, vérifiez votre compte dès maintenant - Vietnam.vn](https://www.vietnam.vn/fr/1-3-ty-mat-khau-ro-ri-kiem-tra-ngay-tai-khoan)  
+*Source : vietnam.vn | Publication : 2025-11-23*
+
+- Source : https://khoahocdoisong.vn/13-ty-mat-khau-ro-ri-kiem-tra-ngay-tai-khoan-post2149070630.html 1,3 milliard de mots de passe divulgués, vérifiez votre compte dès maintenant Une base de données géante contenant 1,3 milliard de mots de passe et 2 milliards d'adresses électroniques vient d'être découverte ; les utilisateurs doivent la vérifier immédiatement.
+- Comment (0) Top Interests Newest No data Même catégorie Un café d'Hanoï se transforme en décor européen, projette de la neige artificielle et attire les clients.
+- Le bilan humain « zéro mort » des habitants de la zone inondée de Khanh Hoa, le 5e jour des mesures de prévention des inondations Quatrième fois que je vois clairement et rarement la montagne Ba Den depuis Hô Chi Minh-Ville Laissez-vous émerveiller par les magnifiques paysages du Vietnam dans le clip vidéo Muc Ha Vo Nhan de Soobin.
+- Même auteur Patrimoine Chiffre Entreprise Actualités Système politique Locale gouttes de rosée pure du matin Hà Nội Mới9 phút trước.
+
+## [Lundi RP : 8 agences remportent des budgets - Image - CB News](https://www.cbnews.fr/conseil/lundi-rp-8-agences-remportent-budgets-4)  
+*Source : cbnews.fr | Publication : 2025-11-23*
+
+- Lundi RP : 8 agences remportent des budgets Série de mouvement de budgets au sein des agences RP.
+- Liste non exhaustive.
+- - MyNtic-PR, agence de relations presse dédiée au marché de l’IT, annonce le gain de 4 nouveaux budgets sur le marché français : l’éditeur Avanoo (ex Sonar Clarity-Cybersécurité), l’éditeur Yoozer (Cybersécurité-IAM), Paritel (Opérateur) et le constructeur d’imprimante MFP du marché en sous-traitance pour l’agence américaine 3 Across The Sea.
+- - Divaloca, agence spécialisée en relations presse & publics beauté et bien-être, accompagne désormais la stratégie de communication de Ginama, nouvelle marque de compléments alimentaires dédiés à la périménopause.
+
+## [KPMG publie le profil type du fraudeur, extrait de son étude mondiale 2025](https://www.globalsecuritymag.fr/kpmg-publie-le-profil-type-du-fraudeur-extrait-de-son-etude-mondiale-2025.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-23*
+
+- KPMG publie le profil type du fraudeur, extrait de son étude mondiale 2025 novembre 2025 par KPMG À l’occasion de la Semaine internationale de sensibilisation à la fraude, KPMG publie les résultats de son étude mondiale « Global profiles of the fraudster ».
+- Cette analyse repose sur 256 cas de fraudes impliquant au moins 669 individus à travers le monde au cours des cinq dernières années.
+- L’étude établit que le manque de supervision constitue le premier facteur de risque.
+- Une concentration des fraudes est observée dans le périmètre du CEO, ce qui s’explique par le niveau d’autorité associé à ces fonctions, sans impliquer directement la direction elle-même.
+
+## [La formation sur l'éducation financière et le numérique en zone rurale enregistre un record ... - AIP](https://www.aip.ci/election/article.php?id=281941)  
+*Source : aip.ci | Publication : 2025-11-23*
+
+- Côte d'Ivoire-AIP/ La formation sur l’éducation financière et le numérique en zone rurale enregistre un record de 270 participants Par AIP Sinematiali / 22 novembre 2025 à 06:40 / hier / Temps de lecture : 2 minSinematiali, 22 nov 2025 (AIP) – La population du département de Sinematiali s’est mobilisée pour participer au séminaire de formation sur l’éducation financière et l’usage des outils numériques, organisé autour du thème, « Former pour bâtir un avenir dans le numérique en zone rurale ».
+- L’activité s’est tenue du lundi 17 au vendredi 21 septembre 2025, simultanément à la salle polyvalente Fidèle Gboroton Sarassoro et à la Case à numérique de Sinematiali, enregistrant une participation record de 270 apprenants.
+- « Chers apprenants du département de Sinematiali, je voudrais d’abord vous féliciter parce que vous avez battu le record du nombre d’apprenants que détenait le département d’Adzopé avec 165 apprenants.
+- Or vous, vous êtes 270 », a déclaré le directeur du centre de formation de la SNDI, Kouassi Jean-Paul, représentant le directeur général de la Société nationale de développement informatique (SNDI), lors de la cérémonie de clôture.
+
+## [<b>Cybersécurité</b> auto: voitures connectées, alerte DEF CON - 32Cars.ru](https://www.32cars.ru/fr/ampposts/id3669-cybersecurite-auto-voitures-connectees-alerte-def-con)  
+*Source : 32cars.ru | Publication : 2025-11-23*
+
+- 11:07 23-11-2025 Voitures connectées: la cybersécurité, une bombe à retardement Les voitures connectées cumulent code et données; DEF CON expose des failles.
+- De GlobalPlatform à GM/OnStar, le secteur doit prioriser la cybersécurité.
+- Les automobiles modernes sont, de fait, devenues des ordinateurs roulants: connectées en permanence, mises à jour à distance et animées par des dizaines de millions de lignes de code.
+- Avec ces avantages est apparue une menace d’un genre nouveau: les cyberattaques.
+
+## [565 cas de fraude en ligne dans le Sulawesi du Sud sont dominés par la <b>cybercriminalité</b>](https://voi.id/fr/berita/536209)  
+*Source : voi.id | Publication : 2025-11-23*
+
+- ARTA - Direction spéciale des enquêtes criminelles (Dit Reskrimsus) Polda (Polda) de Sulawesi du Sud-Est (Sultra) a déclaré que la cybercriminalité dans la région de Bumi baia était dominée par une fraude en ligne qui atteignait 280 cas.
+- Sultra AKBP Reskrimsus Polda Reskrimsus Decky Hendra Wijaya a déclaré qu’il avait noté une tendance à une flambée significative des cas dans la gestion de la cybercriminalité au cours des 5 dernières années.
+- « Sur la base de données annuelles, la fraude en ligne et la diffamation sont devenus le type de rapport de la communauté la plus dominante », a déclaré Decky Hendra, cité par ANTARA, dimanche 23 novembre.
+- En 2021, la police de Sultra n’a enregistré que 265 cas de fraude en ligne et de diffamation.
 
 ## [<b>Cybercriminalité</b> au Sénégal: démantèlement d'un réseau d'escroquerie sur l'export de ...](https://fr.news.yahoo.com/cybercriminalité-au-sénégal-démantèlement-d-175453632.html)  
 *Source : fr.news.yahoo.com | Publication : 2025-11-22*
