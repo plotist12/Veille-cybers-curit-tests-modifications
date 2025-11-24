@@ -1,5 +1,142 @@
-# Résumés – 2025-11-23
+# Résumés – 2025-11-24
 
+
+## [Votre CA ne parle pas <b>cybersécurité</b>? C'est votre principal risque d'affaires en 2026](https://www.lesaffaires.com/dossiers/transformation-numerique-2025/votre-ca-ne-parle-pas-cybersecurite-cest-votre-principal-risque-daffaires-en-2026/)  
+*Source : lesaffaires.com | Publication : 2025-11-24*
+
+- Votre CA ne parle pas cybersécurité?.
+- C’est votre principal risque d’affaires en 2026 Les idées des Affaires|Publié à 7h30 | Mis à jour à 7h31Vaneck Duclair (Photo: courtoisie) Un texte de Vaneck Duclair, chercheur expert en gouvernance de la cybersécurité LES IDÉES DES AFFAIRES.
+- La scène se répète trop souvent au Québec : après une cyberattaque majeure, le conseil d’administration (CA) découvre qu’il n’avait jamais validé le plan de réponse à incident, que le RSSI (ou CISO) n’avait pas d’accès direct au CA, et que le budget cybersécurité était relégué à une simple ligne de dépense TI, souvent inférieure à 5% du budget informatique.
+- En 2026, cela ne sera plus une faiblesse : mais de la négligence stratégique engageant la responsabilité personnelle des administrateurs.
+
+## [Loi sur la <b>cybersécurité</b> 2025 : Pas de retard dans la lutte pour la protection des données](https://www.vietnam.vn/fr/luat-an-ninh-mang-2025-khong-the-cham-tre-trong-cuoc-chien-bao-ve-du-lieu)  
+*Source : vietnam.vn | Publication : 2025-11-24*
+
+- La sécurité des données est codifiée pour la première fois.
+- Le séminaire « Loi sur la cybersécurité 2025 : Un pas en avant pour la protection des données », organisé par l’Association nationale de cybersécurité, a affirmé une nouvelle approche : faire de la « sécurité des données » un élément essentiel de la protection de la cybersécurité nationale.
+- L’analyse des représentants du ministère de la Sécurité publique et des experts a démontré que le projet de loi comble non seulement le vide juridique, mais jette également les bases du développement de l’économie numérique et de la protection de la souveraineté numérique, dans un contexte où les données deviennent une ressource stratégique.
+- Le point le plus notable du projet de loi sur la cybersécurité 2025 est la définition claire de la notion de « sécurité des données » comme composante de la cybersécurité nationale.
+
+## [Digital Innovation Seasons | Alliancy](https://www.alliancy.fr/agenda/141078)  
+*Source : alliancy.fr | Publication : 2025-11-24*
+
+- Type d'évènement : Evènement partenaire - Date : 01/12/2025 - Lieu : Lille - Info supplémentaire : - Pour sa neuvième édition, le Digital Innovation Seasons – qui se tiendra du 1 au 5 décembre 2025 dans la métropole lilloise, mettra à l’honneur les technologies quantiques, l’intelligence artificielle et la cybersécurité.
+- Ouvert à tous, cet événement est organisé par le CITC (Centre d’Innovation des Technologies sans Contact) et rassemblera les acteurs de l’innovation autour de conférences, plénières, tables rondes, pitch startups, en présence d’invités d’honneur et d’experts de ces thématiques.
+- Au programme : 2 décembre > Pitchs – Tout est (presque) permis !.
+- : Rencontrez des startups innovantes prêtes à transformer leur secteur.
+
+## [Moto Sport de la Capitale victime d'une brèche de sécurité - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2209446/cybersecurite-attaque-motosport-rouym-noranda)  
+*Source : ici.radio-canada.ca | Publication : 2025-11-24*
+
+- Moto Sport de la Capitale victime d’une brèche de sécurité Moto Sport de la Capitale de Rouyn-Noranda demande à ses clients de demeurer aux aguets.
+- Photo : Radio-Canada / Jean-François Perron Les renseignements personnels de certains clients de Moto Sport de la Capitale de Rouyn-Noranda auraient été compromis.
+- Le concessionnaire de véhicules récréatifs vient de faire parvenir une communication écrite à à plus de 1700 clients.
+- Le 16 juin 2025, nous avons découvert qu’un tiers non autorisé avait accédé à nos systèmes informatiques.
+
+## [<b>Ransomwares</b> dans la distribution : face à des rançons records, les retailers résistent](https://itrnews.com/articles/207982/ransomwares-dans-la-distribution-face-a-des-rancons-records-les-retailers-resistent.html)  
+*Source : itrnews.com | Publication : 2025-11-24*
+
+- Veuillez activer Javascript.
+
+## [Amazon va investir 50 milliards de dollars dans des infrastructures IA pour accélérer les ... - bfmtv](https://www.bfmtv.com/tech/amazon/amazon-va-investir-50-milliards-de-dollars-dans-des-infrastructures-ia-pour-accelerer-les-missions-cruciales-de-la-cybersecurite-a-la-decouverte-de-nouveaux-medicaments-de-l-etat-americain_AD-202511240934.html)  
+*Source : bfmtv.com | Publication : 2025-11-24*
+
+- Amazon va investir 50 milliards de dollars dans des infrastructures IA pour accélérer les "missions cruciales, de la cybersécurité à la découverte de nouveaux médicaments", de l’Etat américain Amazon Web Services (AWS), filiale d'Amazon, va investir jusqu'à 50 milliards de dollars dans des centres de données spécialisés en intelligence artificielle (IA) et superordinateurs qui seront utilisés par le gouvernement américain, selon un communiqué publié lundi 24 novembre.
+- La mise en chantier est prévue en 2026 pour ce projet qui doit, selon le patron d'AWS, Matt Garman, cité dans le communiqué, "accélérer" les travaux du gouvernement des États-Unis "dans ses missions cruciales, de la cybersécurité à la découverte de nouveaux médicaments".
+- IA et superordinateurs AWS est déjà un prestataire majeur de l'État fédéral, principalement dans le domaine de l'informatique à distance (cloud), à hauteur de plusieurs milliards de dollars par an.
+- La filiale d'Amazon dédiée au cloud est devenue, en 2011, la première entreprise privée à bâtir des infrastructures d'informatique à distance spécifiquement pour le gouvernement américain.
+
+## [<b>Cybermenaces</b> : les collectivités en première ligne - Ouest-France](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/video-cybermenaces-les-collectivites-en-premiere-ligne-f5b5717f-993b-3435-846d-3e800654996f)  
+*Source : ouest-france.fr | Publication : 2025-11-24*
+
+- Souveraineté numérique et cybersécurité seront au menu ce mardi 25 novembre de l'Hexagone Tour, accueilli par la French Tech Locale au sein de "La.
+
+## [Maybelline NYC et Dix Sept Paris dans les rues de New York](https://www.cbnews.fr/marques/maybelline-nyc-dix-sept-paris-les-rues-new-york)  
+*Source : cbnews.fr | Publication : 2025-11-24*
+
+- Maybelline NYC et Dix Sept Paris dans les rues de New York Maybelline New York poursuit sa collaboration créative avec l'agence parisienne Dix Sept Paris et dévoile une campagne inspirée de la rue, pour célébrer le Tattoo Brow Peel Off Tint.
+- Cette dernière puise son inspiration dans l'esthétique emblématique du wild posting à New York: des murs recouverts de couches d'affiches déchirées, une typographie percutante, des collages colorés et l'énergie brute des rues authentiques de NYC.
+- La vidéo met en avant application du produit, sa transformation et sa tenue longue durée à travers un série de couches visuelles qui évoquent le geste même du peel-off.
+- La campagne est diffusée sur les plateformes sociales de la marque et sur les écrans digitaux dédiés points de vente.
+
+## [Tous les éléments d'un écosystème d'excellence en <b>cybersécurité</b> sont présents en Wallonie - L'Echo](https://www.lecho.be/partner/agence-du-numerique/digital-wallonia/tous-les-elements-d-un-ecosysteme-d-excellence-en-cybersecurite-sont-presents-en-wallonie/10637414.html)  
+*Source : lecho.be | Publication : 2025-11-24*
+
+- Tous les éléments d'un écosystème d'excellence en <b>cybersécurité</b> sont présents en Wallonie - L'Echo.
+
+## [Les pays arabes organisent le premier exercice de <b>cybersécurité</b> au Qatar](https://ami.mr/fr/archives/283782)  
+*Source : ami.mr | Publication : 2025-11-24*
+
+- À cet égard, le secrétaire général du Conseil des ministres arabes de la cybersécurité , Dr.
+- Brahim ben Saleh Al Vouraih, a félicité l'Agence nationale.
+
+## [<b>Cybersécurité</b>, données personnelles, foncier : les failles que les notaires veulent combler](https://medias24.com/2025/11/24/cybersecurite-donnees-personnelles-foncier-les-failles-que-les-notaires-veulent-combler-1583144/)  
+*Source : medias24.com | Publication : 2025-11-24*
+
+- Notaires et magistrats dévoilent à Béni Mellal les urgences à traiter pour renforcer la sécurité juridique face aux défis du numérique.
+- Cybersécurité ,.
+
+## [<b>Ransomware</b> : des blanchisseurs d'argent russes ont acheté une banque pour cacher leurs gains](https://www.lemagit.fr/actualites/366634662/Ransomware-des-blanchisseurs-dargent-russes-ont-achete-une-banque-pour-cacher-leurs-gains)  
+*Source : lemagit.fr | Publication : 2025-11-24*
+
+- RZ - stock.adobe.com Ransomware : des blanchisseurs d'argent russes ont acheté une banque pour cacher leurs gains Un réseau de blanchiment d'argent actif au Royaume-Uni a acheminé de l'argent, y compris les bénéfices d'attaques par ransomware, vers sa propre banque afin de contourner les sanctions imposées à la Russie.
+- Selon l’agence britannique de lutte contre la criminalité, la National Crime Agency (NCA), un réseau de blanchiment d’argent de plusieurs milliards de dollars, actif au Royaume-Uni, a acheté une banque au Kirghizstan, en Asie centrale, afin de faciliter le blanchiment des profits provenant de la cybercriminalité et d’autres activités criminelles, et de les convertir en cryptomonnaie (utilisée pour échapper aux sanctions imposées à la Russie, en soutien à la guerre menée par le régime de Poutine contre l’Ukraine).
+- Les échanges d’argent liquide contre des cryptomonnaies sont au cœur de l’écosystème criminel mondial.
+- En 2024, la NCA et ses partenaires européens et nord-américains ont pris des mesures sévères à l’encontre de deux réseaux russes de blanchiment d’argent, TGR et Smart, qui blanchissaient de l’argent pour le compte de plusieurs équipes de ransomware, dont Evil Corp, Conti et Ryuk, dans le cadre d’une série d’actions baptisée « Operation Destabilise ».
+
+## [Anne-Sophie Schvartz (Squad) : « Dans un LBO, il faut être orienté business » - Daf-Mag.fr](https://www.daf-mag.fr/fonction-finance-1242/gouvernance-strategie-2125/anne-sophie-schvartz-squad-dans-un-lbo-il-faut-etre-oriente-business-23355)  
+*Source : daf-mag.fr | Publication : 2025-11-24*
+
+- Deux mois après son arrivée chez Squad, pureplayer de la cybersécurité en forte croissance, Anne-Sophie Schvartz revient sur la spécificité d’une direction financière sous LBO et les enjeux de structuration d’un groupe engagé dans une ambitieuse stratégie de croissance.
+- Une carrière façonnée par la tech et les services Après une école de commerce classique, Anne-Sophie Schvartz se spécialise en finance.
+- « J’ai commencé par l’audit, puis le contrôle de gestion », raconte-t-elle.
+- Depuis plus de quinze ans, elle occupe des postes de direction financière « toujours dans des entreprises de service et technologiques ».
+
+## [De nouvelles formations en <b>cybersécurité</b> - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64164-de-nouvelles-formations-en-cybersecurite.html)  
+*Source : linformaticien.com | Publication : 2025-11-24*
+
+- A travers son entité Numeryx University, L'ESNNumeryx franchit une nouvelle étape en annonçant le lancement de 80 nouveaux cursus de formation.
+
+## [Digital Omnibus : Faut-il craindre la réforme qui bouscule le RGPD, l'encadrement de l'IA et ...](https://www.usine-digitale.fr/article/digital-omnibus-faut-il-craindre-la-reforme-qui-bouscule-le-rgpd-l-encadrement-de-l-ia-et-la-cybersecurite.N2241830)  
+*Source : usine-digitale.fr | Publication : 2025-11-24*
+
+- Verifying your browser before proceeding.
+- Incident ID: 0e0beb37-cyai-4554-b7f6-68967003c945.
+
+## [Anticiper et innover pour ne plus subir, le Graal de la <b>cybersécurité</b> - ITforBusiness.fr](https://www.itforbusiness.fr/anticiper-et-innover-pour-ne-plus-subir-le-graal-de-la-cybersecurite-97371)  
+*Source : itforbusiness.fr | Publication : 2025-11-24*
+
+- Secu Anticiper et innover pour ne plus subir, le Graal de la cybersécurité Par François Jeanne, publié le 24 novembre 2025 Des attaques qui se multiplient, des surfaces d’exposition qui s’élargissent, et une IA qui renforce l’arsenal des hackers… Ils pourraient baisser les bras, mais les RSSI ne lâchent rien.
+- C’est en utilisant la pression réglementaire comme un catalyseur, en diffusant la culture cyber dans l’entreprise et en rebâtissant inlassablement de nouvelles défenses, qu’ils espèrent et peuvent reprendre la main.
+- L’été sera chaud, disait le chanteur.
+- L’année prochaine, sûrement.
+
+## [Wipro conclut un partenariat stratégique avec la société de <b>cybersécurité</b> SquareX](https://www.zonebourse.com/actualite-bourse/wipro-conclut-un-partenariat-strategique-avec-la-societe-de-cybersecurite-squarex-ce7d5edcd18eff26)  
+*Source : zonebourse.com | Publication : 2025-11-24*
+
+- Wipro conclut un partenariat stratégique avec la société de cybersécurité SquareXLa branche d'investissement de Wipro , Wipro Ventures, a réalisé un investissement dans SquareX dans le cadre d'un partenariat stratégique avec cette entreprise spécialisée dans la sécurité.
+
+## [PME : les dispositifs publics et gratuits pour muscler sa <b>cybersécurité</b> - JDN](https://www.journaldunet.com/cybersecurite/1546257-pme-les-dispositifs-publics-et-gratuits-pour-muscler-sa-cybersecurite/)  
+*Source : journaldunet.com | Publication : 2025-11-24*
+
+- PME : les dispositifs publics et gratuits pour muscler sa cybersécurité Des programmes publics nationaux et régionaux fournissent des diagnostics et distribuent des subventions pour renforcer la cybersécurité des petites et moyennes entreprises.
+- La prise de conscience du risque cyber augmente chez les petites et moyennes entreprises (PME), qui sont les organisations les plus vulnérables face à la cybercriminalité.
+- C'est du moins ce qu'indique la 2e édition du baromètre national de la maturité cyber des PME et très petites entreprises (TPE) publiée en octobre 2025 par cybermalveillance.gouv.fr.
+- Selon ce baromètre, les entreprises interrogées en 2025 sont 44% à penser qu'elles sont fortement exposées aux cyberattaques, contre 38% en 2024.
+
+## [AG d'Interpol à Marrakech : La DGSN plaide pour des structures sécuritaires communes ...](https://www.leconomiste.com/flash-infos/ag-dinterpol-a-marrakech-la-dgsn-plaide-pour-des-structures-securitaires-communes-contre-la-cybercriminalite/)  
+*Source : leconomiste.com | Publication : 2025-11-24*
+
+- AG d'Interpol à Marrakech : La DGSN plaide pour des structures sécuritaires communes contre la cybercriminalité.
+- Par hgueye | Le 24/11/2025 - 16:32.
+
+## [<b>Cybersécurité</b> : entreprises peu prêtes face aux menaces - Compta Online](https://www.compta-online.com/cybersecurite-et-ia-ao8213)  
+*Source : compta-online.com | Publication : 2025-11-24*
+
+- Alors que l'instabilité géopolitique et les ruptures technologiques redessinent en profondeur les lignes de fracture du numérique, la cybersécurité s'impose plus que jamais comme un enjeu stratégique.
+- L'édition 2026 du rapport « Global digital trust insights » de PwC dresse un constat sans ambiguďté : malgré l'adoption croissante de l'intelligence artificielle comme catalyseur de défense, les organisations restent trčs loin du niveau de confiance attendu.
+- A peine 6% des entreprises se disent pleinement prętes ŕ affronter une cyberattaque ciblée.
+- Un chiffre vertigineux, surtout dans un contexte oů l'IA et l'informatique quantique amplifient les capacités offensives.
 
 ## [Comment le Maroc est devenu un partenaire incontournable d'Interpol - Le Matin](https://lematin.ma/nation/comment-le-maroc-est-devenu-un-partenaire-incontournable-dinterpol/315074)  
 *Source : lematin.ma | Publication : 2025-11-23*
