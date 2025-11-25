@@ -1,5 +1,149 @@
-# Résumés – 2025-11-24
+# Résumés – 2025-11-25
 
+
+## [The Korean Leaks : « du pur <b>ransomware</b> à... - Global Security Mag Online](https://www.globalsecuritymag.fr/the-korean-leaks-du-pur-ransomware-a.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-11-25*
+
+- The Korean Leaks : « du pur ransomware à... novembre 2025 par Bitdefender Ce 24 novembre après-midi (hier), Bitdefender a publié de nouvelles recherches sur la campagne ransomware « Korean Leaks », qui révèle comment Qilin, un groupe Ransomware-as-a-Service (RaaS) traditionnellement motivé par l’appât du gain, montre désormais des ambitions géopolitiques dans des attaques ciblées contre le secteur financier sud-coréen (des sociétés de gestions d’actifs principalement).
+- Cette recherche fournit l’une des analyses les plus complètes à ce jour de l’opération « Korean Leaks », combinant des informations issues du Data Leak Site de Qilin, de recherches OSINT et de données du dark web.
+- L’analyse de Bitdefender montre que Qilin a intégré des messages politiques et propagandistes dans ses notes de rançon - une tactique très inhabituelle pour un groupe financier - afin de présenter ces fuites sous forme de révélations de corruption et ce, afin d’éroder la confiance dans le système financier sud-coréen.
+- Qilin a ensuite tenté d’effacer ces communications, probablement à la demande d’affiliés, en nettoyant son Data Leak Site.
+
+## [Omnibus numérique : vers une simplification des règles de l'UE ? | vie-publique.fr](https://www.vie-publique.fr/en-bref/301038-omnibus-numerique-vers-une-simplification-des-regles-de-lue)  
+*Source : vie-publique.fr | Publication : 2025-11-25*
+
+- Le JavaScript n'est pas activé sur votre navigateur.
+- Le JavaScript n'est pas activé sur votre navigateur.
+- Pour vous permettre de naviguer correctement sur notre site, il est nécessaire qu'il soit activé.
+- Comment activer le JavaScript ?.
+
+## [Ghost in the Shell avait tout prévu avec 30 ans d'avance sur la <b>cybersécurité</b> - Numerama](https://www.numerama.com/pop-culture/2127053-ghost-in-the-shell-avait-tout-prevu-avec-30-ans-davance-sur-la-cybersecurite.html)  
+*Source : numerama.com | Publication : 2025-11-25*
+
+- Le film d’animation Ghost in the Shell, classique de l’univers cyberpunk et sorti le 22 novembre 1995 au Japon, fête tout juste ses 30 ans.
+- Derrière ce titre que l’on peut traduire par « le fantôme dans la coquille » (en japonais, le titre originel évoque plutôt les forces de police antiémeutes) se cache une histoire prémonitoire de l’avenir de la cybersécurité telle que nous la connaissons aujourd’hui, selon Techcrunch.
+- Le récit se déroule dans un monde ultra-connecté, où les humains ont des corps améliorés par la technologie.
+- Dans cet univers, le major Motoko Kusanagi, une enquêtrice cyborg membre d’une unité d’élite de la police, poursuit un pirate informatique de génie surnommé le Puppet Master.
+
+## [Cyber-extorsion : les ShinyHunter préparent leur <b>ransomware</b> - LeMagIT](https://www.lemagit.fr/actualites/366634831/Cyber-extorsion-les-ShinyHunter-preparent-leur-ransomware)  
+*Source : lemagit.fr | Publication : 2025-11-25*
+
+- Getty Images/iStockphoto Cyber-extorsion : les ShinyHunter préparent leur ransomware Le collectif aux contours flous connu pour l’extorsion simple sur la base d’ingénierie sociale suivie de vol de données apparaît préparer un tournant dans ses activités, avec le développement de son propre rançongiciel.
+- Le collectif aux contours flous des ShinyHunters, qui se fait désormais appeler « Scattered Lapsus$ Hunters » prépare-t-il un tournant ?.
+- Il est coonu pour sa spécialité : l’ingénierie sociale, suivant le mode opératoire dit « Scattered Spider ».
+- Elle est mise à profit pour établir des accès initiaux – jusqu’à corrompre des employés d’organisations cibles – et voler des données.
+
+## [Wallix acquiert la startup bretonne Malizen - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites-amp/wallix-acquiert-la-startup-bretonne-malizen-5847633)  
+*Source : bourse.fortuneo.fr | Publication : 2025-11-25*
+
+- Wallix annonce l'acquisition de la société française Malizen, spécialisée dans l'analyse de données de cybersécurité grâce à l'intelligence artificielle.
+- Implantée à Rennes, au coeur du Pôle d'excellence cyber où Wallix dispose d'un de ses centres de R&D, Malizen est une pépite technologique née d'un essaimage issu de travaux de recherche menés au centre Inria de Rennes (Institut national de recherche en sciences et technologies du numérique) par son dirigeant-fondateur, Christopher Humphries.
+- La société est spécialisée dans l'analyse du comportement des utilisateurs (User Behaviour Analytics) et joue un rôle stratégique dans la cybersécurité en permettant aux organisations de détecter et d'anticiper les menaces de manière proactive.
+- En s'appuyant sur l'intelligence artificielle, la solution permet d'analyser le comportement des utilisateurs pour détecter les anomalies et anticiper les risques cyber, offrant ainsi une visibilité accrue et une capacité d'action préventive renforcée.
+
+## [L'IA, nouvel accélérateur de la <b>cybercriminalité</b> industrielle en 2026 - ITRnews](https://itrnews.com/articles/208035/lia-nouvel-accelerateur-de-la-cybercriminalite-industrielle-en-2026.html)  
+*Source : itrnews.com | Publication : 2025-11-25*
+
+- Veuillez activer Javascript.
+
+## [L'IA, nouvel accélérateur de la <b>cybercriminalité</b> industrielle en 2026 - ITR Manager](https://itrmanager.com/articles/208035/lia-nouvel-accelerateur-de-la-cybercriminalite-industrielle-en-2026.html)  
+*Source : itrmanager.com | Publication : 2025-11-25*
+
+- Trend Micro, acteur majeur de la cybersécurité , dresse un bilan alarmant dans son rapport annuel "Perspectives 2026".
+- · Cibles privilégiées : Cloud,.
+
+## [Espionnage de nos smartphones : les bonnes pratiques de l'agence gouvernementale ... - Libération](https://www.liberation.fr/economie/economie-numerique/espionnage-de-nos-smartphones-les-bonnes-pratiques-de-lagence-gouvernementale-de-cybersecurite-pour-se-proteger-20251125_KKHTCNA4X5BWPPD5QXZ7ONXX2E/)  
+*Source : liberation.fr | Publication : 2025-11-25*
+
+- Le constat est unanime, rappelé encore il y a quinze jours dans la matinale de France Inter par Nicolas Lerner, le patron de la DGSE, le renseignement extérieur français : «Un téléphone, c’est un espion, c’est un mouchard que vous avez dans votre poche.» La formule n’a sans doute jamais été aussi vraie : parce que les applications mobiles s’invitent désormais dans tous les aspects de nos vies, ou peu s’en faut, parce que nous leur confions toujours plus de données, mais aussi parce que les capacités d’intrusion informatique n’ont jamais proliféré entre autant de mains, à la faveur du florissant commerce des logiciels espions.
+- Le rapport que l’Agence nationale de la sécurité des systèmes d’information (Anssi) consacre à l’«état de la menace depuis 2015» concernant les téléphones mobiles, à paraître ce mercredi 26 novembre et que Libération a lu en avant-première, expose, en une synthèse dense d’une quarantaine de pages, à la fois l’ampleur du problème et les «bonnes pratiques» à mettre en œuvre pour s’en protéger.
+- En mettant les phénomènes à leur juste place : si les tentatives d’hameçonnage des cybercriminels.
+
+## [<b>Ransomwares</b> : les cybercriminels frappent pendant les périodes de vulnérabilité - ITRnews](https://itrnews.com/articles/208031/ransomwares-les-cybercriminels-frappent-pendant-les-periodes-de-vulnerabilite.html)  
+*Source : itrnews.com | Publication : 2025-11-25*
+
+- Veuillez activer Javascript.
+
+## [Fin de Windows 10 : les huit leviers pour rester sécurisé en 2025 - Solutions-Numeriques](https://www.solutions-numeriques.com/fin-du-support-windows-10-getronics-appelle-les-entreprises-a-accelerer-leur-transition/)  
+*Source : solutions-numeriques.com | Publication : 2025-11-25*
+
+- Avec l’arrêt du support de Windows 10, les entreprises doivent composer avec un risque croissant : “celui d’un système qui continue de fonctionner, mais qui progressivement n’est plus protégé”.
+- Getronics alerte sur une zone grise particulièrement dangereuse, celle où un OS « marche encore », mais ne bénéficie plus des correctifs lui permettant de résister aux attaques les plus courantes.
+- Une zone d’autant plus critique que les environnements hybrides et multicloud amplifient aujourd’hui la moindre vulnérabilité non patchée.
+- Un risque progressif, mais inexorable L’entreprise qui repousse la migration ne fait pas face à un risque brutal, mais à une érosion continue du niveau de sécurité.
+
+## [BRISS, la plateforme de streaming dédiée à la prévention des risques humains et numériques](https://www.hospitalia.fr/BRISS-la-plateforme-de-streaming-dediee-a-la-prevention-des-risques-humains-et-numeriques_a4800.html)  
+*Source : hospitalia.fr | Publication : 2025-11-25*
+
+- BRISS est une plateforme de streaming pédagogique.
+- Elle aide les établissements de santé et du médico-social à prévenir les risques humains et numériques.
+- Ses séries immersives et ses docu-fictions transforment les crises en récits vivants et concrets.
+- Objectif : apprendre en regardant, comprendre en ressentant, renforcer les réflexes, le discernement et la coopération des équipes.
+
+## [Améliorer la réponse de l'Afrique face aux nouvelles <b>cybermenaces</b> - Portal](https://www.coe.int/fr/web/portal/-/strengthening-africa-s-response-to-emerging-cyber-threats)  
+*Source : coe.int | Publication : 2025-11-25*
+
+- Le Conseil de l'Europe coorganise le troisième Forum africain sur la cybercriminalité et les preuves électroniques à Nairobi.
+
+## [Trend Micro : « La <b>cybercriminalité</b> entièrement automatisée d'ici 2026 » - ITdaily.](https://itdaily.fr/nouvelles/securite/trend-micro-cybercriminalite-automatisee/)  
+*Source : itdaily.fr | Publication : 2025-11-25*
+
+- Trend Micro prévoit que les cybercriminels utiliseront des attaques entièrement automatisées, alimentées par des agents d’IA, d’ici 2026.
+- La période des listes et des prédictions pour la nouvelle année touche à sa fin.
+- L’entreprise de sécurité Trend Micro prédit que d’ici 2026, la cybercriminalité ne sera plus un acte humain, mais un système automatisé qui s’auto-alimente.
+- Grâce à l’intelligence artificielle et à l’automatisation, les attaquants pourront mener des campagnes complètes sans intervention humaine.
+
+## [WALLIX accélère sa stratégie IA avec l'acquisition de la startup française Malizen](https://www.actusnews.com/fr/amp/wallix/cp/2025/11/25/wallix-accelere-sa-strategie-ia-avec-l_acquisition-de-la-startup-francaise-malizen)  
+*Source : actusnews.com | Publication : 2025-11-25*
+
+- Paris, 25 novembre 2025 - WALLIX (Euronext ALLIX), leader des solutions de cybersécurité protégeant les identités et les accès aux environnements.
+
+## [WALLIX accélère sa stratégie IA avec l'acquisition de la startup française Malizen - 25/11/2025](https://www.actusnews.com/fr/wallix/cp/2025/11/25/wallix-accelere-sa-strategie-ia-avec-l_acquisition-de-la-startup-francaise-malizen)  
+*Source : actusnews.com | Publication : 2025-11-25*
+
+- cybersécurité grâce à l'intelligence artificielle.
+- L'IA au service de la cybersécurité proactive.
+- Implantée à Rennes, au cœur du Pôle d'excellence.
+
+## [Les poètes deviennent des menaces pour la <b>cybersécurité</b> : un jailbreak appelé « poésie antagoniste](https://intelligence-artificielle.developpez.com/actu/377927/Les-poetes-deviennent-des-menaces-pour-la-cybersecurite-un-jailbreak-appele-poesie-antagoniste-a-permis-de-tromper-des-IA-et-de-les-inciter-a-ignorer-leurs-garde-fous-Cela-a-fonctionne-dans-62-pourcent-des-cas/)  
+*Source : intelligence-artificielle.developpez.com | Publication : 2025-11-25*
+
+- Une nouvelle étude met en lumière les faiblesses des modèles de langage.
+- Des chercheurs découvrent un jailbreak « universel » pour presque toutes les IA et son fonctionnement semble étonnamment facile.
+- Leur étude révèle qu'il est possible de contourner les garde-fous de sécurité des IA en leur soumettant des « prompts dangereux » présentés sous forme de poésie.
+- Ce jailbreak permettrait de contourner les mesures de sécurité de l'IA dans près de 90 % des cas.
+
+## [poésie antagoniste » a permis de tromper des IA et de les inciter à ignorer leurs garde-fous ...](https://intelligence-artificielle.developpez.com/actu/377927/Les-poetes-deviennent-des-menaces-pour-la-cybersecurite-un-jailbreak-appele-poesie-antagoniste-a-permis-de-tromper-des-IA-et-de-les-inciter-a-ignorer-leurs-garde-fous-Cela-a-fonctionne-dans-62-pourcent-des-cas/?amp)  
+*Source : intelligence-artificielle.developpez.com | Publication : 2025-11-25*
+
+- Les poètes deviennent des menaces pour la cybersécurité : un jailbreak appelé « poésie antagoniste » a permis de tromper des IA et de les inciter à ignorer leurs garde-fous.
+- Cela a fonctionné dans 62 % des cas Le 2025-11-25 17:26:11, par Mathis Lucas, Chroniqueur Actualités Une nouvelle étude met en lumière les faiblesses des modèles de langage.
+- Des chercheurs découvrent un jailbreak « universel » pour presque toutes les IA et son fonctionnement semble étonnamment facile.
+- Leur étude révèle qu'il est possible de contourner les garde-fous de sécurité des IA en leur soumettant des « prompts dangereux » présentés sous forme de poésie.
+
+## [La Poste et La Banque des Territoires publient leur note de conjoncture data, IA et ...](https://siecledigital.fr/2025/11/25/la-poste-et-la-banque-des-territoires-publient-leur-note-de-conjoncture-data-ia-et-cybersecurite-dans-les-territoires/)  
+*Source : siecledigital.fr | Publication : 2025-11-25*
+
+- L’édition 2025 de la note de conjoncture « Data, intelligence artificielle et cybersécurité dans les territoires« , portée par La Banque des Territoires et le groupe La Poste, confirme une transformation numérique désormais assumée par les collectivités.
+- Longtemps cantonnés à des phases d’expérimentation, les usages s’étendent, se structurent et s’ancrent dans l’action publique.
+- Cette quatrième édition, réalisée avec l’Observatoire Data Publica, montre un paysage où la donnée devient une ressource stratégique, l’intelligence artificielle un levier opérationnel, et la cybersécurité un prérequis pour la confiance numérique… Les collectivités passent à l’action : l’IA s’impose comme un nouvel outil des politiques publiques L’année 2025 marque une étape décisive dans l’appropriation de l’IA par les territoires.
+- Les collectivités ne cherchent plus seulement à tester ces technologies : elles les intègrent de façon opérationnelle.
+
+## [Comment l'OFCS entend renforcer la cyberrésilience des entreprises | ICTjournal](https://www.ictjournal.ch/news/2025-11-25/comment-lofcs-entend-renforcer-la-cyberresilience-des-entreprises)  
+*Source : ictjournal.ch | Publication : 2025-11-25*
+
+- Comment l’OFCS entend renforcer la cyberrésilience des entreprises L’Office fédéral de la cybersécurité a développé une nouvelle méthode pour gérer les cyberrisques.
+- Les organisations et les entreprises peuvent tester la méthode de cybersécurité et de résilience (MCSR) et soumettre leurs commentaires jusqu'à fin janvier 2026.
+- L’Office fédéral de la cybersécurité (OFCS) a élaboré une nouvelle méthode de cybersécurité et de résilience (MCSR).
+- Celle-ci vise à aider les organisations et les entreprises, quelle que soit leur taille ou leur secteur, à renforcer de manière systématique leur cyberrésilience, indique l’autorité.
+
+## [Gigalis : la « confiance augmentée » des territoires - Challenges](https://www.challenges.fr/partenaires/gigalis-la-confiance-augmentee-des-territoires_631754)  
+*Source : challenges.fr | Publication : 2025-11-25*
+
+- Gigalis : la « confiance augmentée » des territoires Entre souveraineté numérique, mutualisation et innovation, Gigalis, impulsé par la région des Pays de la Loire, tisse une nouvelle doctrine de confiance technologique pour les acteurs publics et les territoires.
+- En 2023, plus de 180 collectivités françaises ont subi une cyberattaque majeure.
+- Certaines ont vu leur système d’information paralysé pendant des semaines, d’autres ont déboursé des millions pour restaurer leurs données.
+- Dans ce contexte d’insécurité numérique, un acteur public trace une voie singulière depuis Nantes : Gigalis , opérateur public régional incarne une souveraineté numérique territoriale.
 
 ## [Votre CA ne parle pas <b>cybersécurité</b>? C'est votre principal risque d'affaires en 2026](https://www.lesaffaires.com/dossiers/transformation-numerique-2025/votre-ca-ne-parle-pas-cybersecurite-cest-votre-principal-risque-daffaires-en-2026/)  
 *Source : lesaffaires.com | Publication : 2025-11-24*
