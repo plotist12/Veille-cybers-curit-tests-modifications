@@ -1,5 +1,151 @@
-# Résumés – 2025-11-25
+# Résumés – 2025-11-26
 
+
+## [Marrakech : Interpol exhorte les États à agir contre la <b>cybercriminalité</b> - Lebrief.ma](https://www.lebrief.ma/marrakech-interpol-exhorte-les-etats-a-agir-contre-la-cybercriminalite-100131792/)  
+*Source : lebrief.ma | Publication : 2025-11-26*
+
+- Marrakech : Interpol exhorte les États à agir contre la cybercriminalité Photo prise lors de la 93ᵉ Assemblée Générale d’Interpol à Marrakech © DR.
+- Réunis à Marrakech pour leur 93e Assemblée générale, les responsables d’Interpol ont encouragé les États membres à franchir un cap décisif dans la lutte contre les crimes numériques.
+- L’organisation a en effet adopté une résolution appelant à ratifier et appliquer la Convention des Nations unies destinée à encadrer et combattre la cybercriminalité, un texte jugé essentiel pour harmoniser les efforts internationaux face à des réseaux de plus en plus sophistiqués.
+- Cette résolution met en avant la nécessité d’un cadre global cohérent pour contrer les attaques informatiques et les fraudes en ligne.
+
+## [Des outils de formatage de code ont exposé des milliers de mots de passe - Korben](https://korben.info/code-beautifiers-fuite-credentials-banques-gouvernements.html)  
+*Source : korben.info | Publication : 2025-11-26*
+
+- et même une entreprise de cybersécurité.
+- On a même retrouvé les.
+- Les métiers de la cybersécurité avec Guardia.
+- Guardia School.
+
+## [Post de Institut des hautes études du ministère de l'Intérieur (IHEMI) - LinkedIn](https://fr.linkedin.com/posts/ihemi_cybercriminalité-désinformation-sécuriténumérique-activity-7399500021802430465-7r9c)  
+*Source : fr.linkedin.com | Publication : 2025-11-26*
+
+- 🇫🇷🤝🇪🇸 Séminaire franco-espagnol cybercriminalité et désinformation : des défis au cœur de la sécurité et de la démocratie Les 25 et 26 novembre 2025, alors que la France proposait une loi pour pénaliser la diffusion des deepfakes malveillants, l'Institut des hautes études du ministère de l'Intérieur (IHEMI) et le Secrétariat d’État à la sécurité du Ministerio del Interior espagnol ont organisé conjointement, à l’École militaire, un séminaire résolument ancré dans l’actualité.
+- L’objectif ?.
+- Renforcer la coopération entre nos deux pays pour mieux anticiper, contrer et prévenir les menaces liées à la cybercriminalité et à la désinformation — deux enjeux majeurs pour la sécurité et la démocratie.
+- Les cybermenaces et les campagnes de manipulation ne connaissent ni frontières ni nationalités.
+
+## [Wallix s'offre une pépite IA et met l'analyse comportementale au service de la <b>cybersécurité</b> ...](https://itrnews.com/articles/208044/wallix-soffre-une-pepite-ia-et-met-lanalyse-comportementale-au-service-de-la-cybersecurite-de-demain.html)  
+*Source : itrnews.com | Publication : 2025-11-26*
+
+- Veuillez activer Javascript.
+
+## [De l'informatique au ROI : Définir la <b>cybersécurité</b> pour le conseil d'administration | LeMagIT](https://www.lemagit.fr/tribune/De-linformatique-au-ROI-Definir-la-cybersecurite-pour-le-conseil-dadministration)  
+*Source : lemagit.fr | Publication : 2025-11-26*
+
+- Askhat - stock.adobe.com De l'informatique au ROI : Définir la cybersécurité pour le conseil d'administration L'alignement de la cybersécurité sur les indicateurs clés de performance de l'entreprise aide les responsables informatiques à démontrer leur valeur, à gérer les risques et à prendre des décisions éclairées.
+- En octobre 2025, Salesforce a été victime d'une brèche importante : des pirates informatiques ont affirmé avoir volé plus d'un milliard d'enregistrements de données provenant des clients de Salesforce.
+- Cette violation s'est transformée en une tentative de cyber-extorsion, les pirates ayant exigé de l'argent pour prévenir la divulgation des données sensibles.
+- Salesforce a toutefois refusé de payer et certains enregistrements ont été divulgués, notamment ceux de grandes entreprises telles que Fujifilm, Gap et Vietnam Airlines.
+
+## [ENTRETIEN. Vol de données, rançons, deepfakes… &quot;Avec l'IA, la force de frappe ... - La Dépêche](https://www.ladepeche.fr/2025/11/26/entretien-vol-de-donnees-rancons-deepfakes-avec-lia-la-force-de-frappe-des-cybercriminels-est-demultipliee-13075643.php)  
+*Source : ladepeche.fr | Publication : 2025-11-26*
+
+- ENTRETIEN.
+- Vol de données, rançons, deepfakes… "Avec l’IA, la force de frappe des cybercriminels est démultipliée" l'essentiel La France est aujourd’hui l’un des pays les plus ciblés par les cyberattaques.
+- Industrialisation des groupes criminels, montée en puissance de l’IA, vulnérabilité des PME… Jean-Félix Chevassu, directeur des offres cyber d’Adista*, rencontré au salon de cybersécurité CBC à Toulouse, décrypte un paysage où les menaces progressent plus vite que les défenses.
+- La Dépêche du Midi : Quel est aujourd’hui l’état de la menace cyber en France ?.
+
+## [Incitation pro-Hamas sur Facebook : la <b>cybersécurité</b> israelienne réagit dans l'immédiat](https://israj.media-j.com/article/45463/incitation-pro-hamas-sur-facebook-la-cybersecurite-israelienne-reagit-dans-limmediat)  
+*Source : israj.media-j.com | Publication : 2025-11-26*
+
+- Une résidente de 22 ans de Kfar Qassem a été inculpée après avoir publié sur Facebook des messages appelant à la “victoire sur les Juifs”, saluant le massacre du 7 octobre et glorifiant les “hommes de Gaza”, un terme couramment utilisé pour célébrer les terroristes du Hamas.
+- Les autorités israéliennes ont agi immédiatement, considérant ces publications comme une menace sécuritaire directe.
+- Depuis le 7 octobre, Israël a renforcé sa cybersurveillance pour faire du terrain numérique un espace sécurisé.
+- Le Shin Bet, la police et les unités cyber du ministère de la Sécurité nationale travaillent conjointement pour détecter et neutraliser en temps réel toute apologie du terrorisme.
+
+## [L'AG d'INTERPOL exhorte à ratifier la Convention de l'ONU sur la <b>cybercriminalité</b>](https://amp.medi1news.com/fr/article/373582.html)  
+*Source : amp.medi1news.com | Publication : 2025-11-26*
+
+- L’Assemblée générale d’INTERPOL, réunie à Marrakech pour sa 93ᵉ session, appelle les pays membres à ratifier et appliquer la Convention de l’ONU contre la cybercriminalité.
+- Dans une résolution adoptée entre le 24 et le 27 novembre, INTERPOL insiste sur la nécessité d’une approche internationale cohérente pour lutter contre la cybercriminalité.
+- L’organisation encourage une coopération renforcée et un partage systématique d’informations entre les pays membres et les services de police du monde entier.
+- L’Assemblée générale invite également les États à promouvoir les outils clés d’INTERPOL : les systèmes de communication sécurisée comme NEXUS, les notices et diffusions, l’analyse criminelle, le Programme de lutte contre la cybercriminalité, ainsi que les dispositifs de formation et d’assistance technique.
+
+## [HP va supprimer entre 4 000 et 6 000 emplois d'ici 2028 - L'Informaticien](https://www.linformaticien.com/magazine/biz-it/64174-hp-va-supprimer-entre-4-000-et-6-000-emplois-d-ici-2028.html)  
+*Source : linformaticien.com | Publication : 2025-11-26*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Biz'IT · HP va supprimer entre 4 000 et 6.
+
+## [Dans la défense, l'aéronautique et la <b>cybersécurité</b>, Thales est un groupe multiterrains pour ...](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/dans-la-defense-laeronautique-et-la-cybersecurite-thales-est-un-groupe-multiterrains-pour-aller-chercher-de-la-croissance-et-des-benefices-2201087)  
+*Source : investir.lesechos.fr | Publication : 2025-11-26*
+
+- Thales développe des équipements et systèmes de haute technologie pour trois marchés en croissance : la défense, l'aérospatiale et la cybersécurité.
+
+## [Les facteurs qui façonnent le Vietnam à l'ère d'ascension](https://lecourrier.vn/les-facteurs-qui-faconnent-le-vietnam-a-lere-dascension/1296205.html)  
+*Source : lecourrier.vn | Publication : 2025-11-26*
+
+- >> La communauté internationale invitée à soutenir Hô Chi Minh-Ville dans son développement >> Le Premier ministre reçoit des invités internationaux >> Le Vietnam pour une coopération fondée sur intérêts harmonisés et risques partagés Le monde est actuellement confronté à de nombreux défis, notamment la polarisation, la fragmentation, la concurrence stratégique, les conflits, la sécurité non traditionnelle, le changement climatique, les épidémies, le vieillissement de la population, l’épuisement des ressources, la cybersécurité, le développement de l’intelligence artificielle, a-t-il indiqué.
+- Pourtant le maintien de la paix, la promotion de la coopération pour le développement resteront la tendance majeure, le monde adapte son fonctionnement et se connecte pour y répondre; en particulier, la science, la technologie et l’innovation aident le monde à mieux réagir et à réaliser de nombreux progrès de développement, a-t-il poursuivi.
+- Le Vietnam, autrefois pauvre, arriéré, ravagé par les guerres, est devenu un pays en développement et a réussi à réduire la pauvreté de par son agriculture; un pays à revenu intermédiaire supérieur de par son industrie.
+- Le Vietnam a déterminé que la science et la technologie, l’innovation et la transformation numérique l’aideront à devenir un pays développé à revenu élevé d’ici 2045, a-t-il fait savoir, ajoutant que le pays se résout à atteindre cet objectif est extrêmement difficile.
+
+## [Black Friday Norton : jusqu'à 74 % de remise, mais quelle formule choisir - Les Numériques](https://www.lesnumeriques.com/antivirus/black-friday-norton-jusqu-a-74-de-remise-mais-quelle-formule-choisir-na245324.html)  
+*Source : lesnumeriques.com | Publication : 2025-11-26*
+
+- Black Friday Norton : jusqu’à 74 % de remise, mais quelle formule choisir ?.
+- Pour le Black Friday 2025, Norton propose jusqu’à 74 % de réduction sur ses formules 360.
+- Au menu : protection renforcée pour vos appareils, gestion des mots de passe, VPN, contrôle parental et outils avancés contre les escroqueries.
+- Face à la recrudescence des attaques informatiques, aux tentatives de phishing assistées par l’intelligence artificielle, et aux usurpations d’identité toujours plus crédibles, mieux vaut ne pas prendre la cybersécurité à la légère.
+
+## [Votre téléphone portable peut devenir un espion sans que vous le sachiez, mais vous ... - Clubic](https://www.clubic.com/actualite-588784-votre-telephone-portable-peut-devenir-un-espion-sans-que-vous-le-sachiez-mais-vous-pouvez-l-empecher.html)  
+*Source : clubic.com | Publication : 2025-11-26*
+
+- L'ANSSI, l'agence française de cybersécurité, publie ce mercredi son premier état des lieux sur la cybermenace ciblant les téléphones portables.
+- Celle-ci est bien réelle, destructrice, mais elle peut pourtant être évitée en prenant de simples habitudes.
+- L'Agence nationale de la sécurité des systèmes d'information (ANSSI) tire la sonnette d'alarme.
+- Dans un rapport publié ce 26 novembre 2025, l'ANSSI révèle avoir traité « depuis trois ans » de multiples compromissions de téléphones mobiles à des fins d'espionnage.
+
+## [Quand le droit rencontre la <b>cybersécurité</b> : Charlène raconte son aventure dans le club ...](https://factuel.univ-lorraine.fr/article/quand-le-droit-rencontre-la-cybersecurite-charlene-raconte-son-aventure-dans-le-club-orion-resaia/)  
+*Source : factuel.univ-lorraine.fr | Publication : 2025-11-26*
+
+- Temps de lecture : 5 minutes Étudiante en droit privé, Charlène a choisi de rejoindre RESAIA, un club ORION où le droit rencontre la tech.
+- Entre rencontres inspirantes, événements stimulants et opportunités concrètes , elle nous raconte comment ce club multidisciplinaire a enrichi son parcours universitaire et ouvert de nouvelles perspectives.
+- Factuel : Est-ce que tu peux te présenter et présenter ta formation ?.
+- Charlène : Bonjour Factuel, Je m’appelle Charlène de la Barrera, et je suis étudiante en droit privé à la Faculté de droit, d’économie et de gestion de Nancy.
+
+## [La révolution IA dans la <b>cybersécurité</b> : faut-il avoir peur ou s'en réjouir? - Geeko](https://geeko.lesoir.be/2025/11/26/la-revolution-ia-dans-la-cybersecurite-faut-il-avoir-peur-ou-sen-rejouir/)  
+*Source : geeko.lesoir.be | Publication : 2025-11-26*
+
+- Pour Vincent Defrenne, co-fondateur de la société de cyber sécurité NVISO, une chose est sûre : les prochains défis seront d'une ampleur inédite.
+
+## [Le conseil départemental sensibilise ses agents à la <b>cybersécurité</b> - Outre-mer la 1ère - Franceinfo](https://la1ere.franceinfo.fr/mayotte/le-conseil-departemental-sensibilise-ses-agents-a-la-cybersecurite-1647049.html)  
+*Source : la1ere.franceinfo.fr | Publication : 2025-11-26*
+
+- Ce mercredi, plusieurs agents du conseil départemental ont participé à des ateliers organisés par la direction numérique pour se familiariser avec les bonnes pratiques de sécurité informatique.
+- Fahari Saïd Omar, directeur du numérique et des systèmes d’information, insiste sur l’importance de développer une "culture cyber " parmi les agents.
+- Selon lui, après le passage du cyclone Chido "des données papiers sont parties à la poubelle" il est donc essentiel de se préparer à la protection des informations à travers la dématérialisation des données.
+- Le programme inclut des exercices interactifs comme "Question pour un champion" pour stimuler la réflexion et familiariser les participants aux cybermenaces, notamment le phishing.
+
+## [Un rapport de la GSMA met en lumière les défis réglementaires en matière de <b>cybersécurité</b> ...](https://www.webdisclosure.com/article/gsma-etr-un-rapport-de-la-gsma-met-en-lumiere-les-defis-reglementaires-en-matiere-de-cybersecurite-pour-les-operateurs-mobiles-BO13JbSuV8c)  
+*Source : webdisclosure.com | Publication : 2025-11-26*
+
+- on GSMA Un rapport de la GSMA met en lumière les défis réglementaires en matière de cybersécurité pour les opérateurs mobiles.
+- Le nouveau rapport de la GSMA, publié le 26 novembre 2025, souligne le fardeau financier que représente la fragmentation de la réglementation en matière de cybersécurité pour les opérateurs mobiles du monde entier.
+- Les dépenses consacrées aux activités essentielles de cybersécurité s'élèvent à 15-19 milliards de dollars par an, et devraient atteindre 40-42 milliards de dollars d'ici 2030.
+- Cette pression financière est liée à une réglementation incohérente et excessivement contraignante, qui détourne des ressources de la véritable gestion des risques et expose les opérateurs à des cybermenaces accrues.
+
+## [<b>Cybersécurité</b> : comment renforcer la sécurité des entreprises ? - bfmtv](https://www.bfmtv.com/economie/professionnels/cybersecurite-comment-renforcer-la-securite-des-entreprises_AB-202511260597.html)  
+*Source : bfmtv.com | Publication : 2025-11-26*
+
+- Cybersécurité : comment renforcer la sécurité des entreprises ?.
+- Cybercriminalité, attaques en série, opacité sur l’usage des données par les IA… Pour de nombreuses entreprises, la cybersécurité n’est plus un sujet secondaire mais une condition de survie.
+- PME, ETI, acteurs publics : tous sont exposés à des risques qui dépassent désormais le simple piratage de données.
+- « On observe une hausse de 40 % des cyberattaques en 2024 par rapport à 2023 », alerte Sigma.
+
+## [KawaiiGPT et WormGPT : l'IA devient un service d'attaque à la portée de tous - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/kawaiigpt-et-wormgpt-lia-devient-un-service-dattaque-a-la-portee-de-tous/)  
+*Source : itsocial.fr | Publication : 2025-11-26*
+
+- La prolifération de modèles de langage malveillants comme WormGPT et KawaiiGPT démontre que les capacités offensives de l’intelligence artificielle ne sont plus réservées à des acteurs étatiques ou à des cybercriminels experts.
+- Ces outils réduisent les barrières techniques, accélèrent l’exécution des attaques et industrialisent le crime numérique.
+- L’analyse de Unit 42 révèle une nouvelle phase du risque IA, où l’accessibilité devient le vecteur principal de la menace.
+- Les grands modèles de langage sont devenus des outils incontournables pour automatiser les tâches, analyser des corpus complexes ou produire du contenu à grande échelle.
+
+## [Conseil de l'Europe : le Maroc, modèle continental en lutte contre la <b>cybercriminalité</b>](https://www.leconomiste.com/flash-infos/conseil-de-leurope-le-maroc-modele-continental-en-lutte-contre-la-cybercriminalite/)  
+*Source : leconomiste.com | Publication : 2025-11-26*
+
+- Le responsable a relevé que les défis cyber sont désormais universels, allant des ransomwares à l'exploitation sexuelle des enfants en ligne, en.
 
 ## [The Korean Leaks : « du pur <b>ransomware</b> à... - Global Security Mag Online](https://www.globalsecuritymag.fr/the-korean-leaks-du-pur-ransomware-a.html)  
 *Source : globalsecuritymag.fr | Publication : 2025-11-25*
