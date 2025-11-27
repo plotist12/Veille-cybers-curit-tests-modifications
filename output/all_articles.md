@@ -1,5 +1,151 @@
-# Résumés – 2025-11-26
+# Résumés – 2025-11-27
 
+
+## [Des hackers ont mis à mal les sites internets critiques du pays… pour la bonne cause - RTL Info](https://www.rtl.be/actu/belgique/societe/des-hackers-ont-mis-mal-les-sites-internets-critiques-du-pays-pour-la-bonne/2025-11-27/article/771888)  
+*Source : rtl.be | Publication : 2025-11-27*
+
+- Partager: Pendant dix jours, des hackers éthiques (qui mettent leurs compétences informatiques au service du gouvernement) composés d’étudiants et de professionnels, ont été mobilisés pour une mission de la plus haute importance : déceler les failles présentes sur les sites officiels belges, y compris celui du ministère de la Défense.
+- Cette initiative, lancée par le Centre pour la Cybersécurité de Belgique (CCB), a permis d’identifier une centaine de failles.
+- Marine, une jeune experte en cybersécurité de 23 ans, a participé activement à cet exercice.
+- « C’est impossible de complètement sécuriser, mais on fait de notre mieux pour le faire au maximum », affirme-t-elle.
+
+## [5 métiers pour se reconvertir dans la <b>cybersécurité</b> - Nouvelle Vie Professionnelle](https://www.nouvelleviepro.fr/metiers-se-reconvertir-cybersecurite)  
+*Source : nouvelleviepro.fr | Publication : 2025-11-27*
+
+- S'informer - Focus métier - 5 métiers pour se reconvertir dans la cybersécurité La cybersécurité est un secteur qui recrute !.
+- Des centaines de métiers sont accessibles et compatibles avec un projet de reconversion professionnelle.
+- Vous voulez vous réorienter vers un métier d’avenir ?.
+- Voici 10 idées de métiers adaptés à un changement de carrière.
+
+## [Entre missions militaires et appui national : le vrai rôle de la Défense dans la <b>cybersécurité</b> belge](https://geeko.lesoir.be/2025/11/27/entre-missions-militaires-et-appui-national-le-vrai-role-de-la-defense-dans-la-cybersecurite-belge/)  
+*Source : geeko.lesoir.be | Publication : 2025-11-27*
+
+- Au coeur des turbulences numériques mondiales, la Belgique érige un rempart stratégique : une Force Cyber pensée pour aider à garantir la.
+
+## [Journée noire pour la <b>cybersécurité</b> : Israël visé par deux attaques en 24 heures - IsraJ](https://israj.media-j.com/article/45573/journee-noire-pour-la-cybersecurite-israel-vise-par-deux-attaques-en-24-heures)  
+*Source : israj.media-j.com | Publication : 2025-11-27*
+
+- Israël a été la cible, ces dernières 24 heures, de deux offensives cybernétiques d’ampleur, touchant à la fois l’espace public et des infrastructures sensibles.
+- La première a pris pour cible les écrans d’Urban Digital, société chargée du système d’affichage dans les stations de bus.
+- Pendant plus d’une heure, des écrans situés dans plusieurs villes – notamment Ashkelon et Modiin – ont diffusé de la musique arabe et des messages hostiles envers Israël et son gouvernement.
+- L’entreprise a confirmé la faille : la cyberintrusion a commencé vers 20h30 et s’est terminée à 21h40 après l’extinction complète des serveurs.
+
+## [Signaturit lance son wallet numérique conforme eIDAS 2.0 - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-actualites/signaturit-lance-son-wallet-numerique-conforme-eidas-2-0/)  
+*Source : itsocial.fr | Publication : 2025-11-27*
+
+- Les États membres de l’Union européenne s’apprêtent à généraliser le portefeuille européen d’identité numérique (EUDI Wallet).
+- Signaturit Group anticipe cette échéance en lançant sa propre solution conforme au règlement eIDAS 2.0.
+- Une initiative stratégique qui positionne l’entreprise comme acteur de référence pour les entreprises et les administrations en quête de conformité, de fluidité et de maîtrise de leur infrastructure d’identification numérique.
+- Le calendrier est fixé : à compter de fin 2026, chaque État membre devra disposer d’un portefeuille numérique interopérable, conforme au nouveau cadre eIDAS 2.0.
+
+## [Les Émirats arabes unis renforcent leur préparation nationale face aux menaces quantiques futures](https://www.wam.ae/fr/article/bmxh7dm-les-%C3%A9mirats-arabes-unis-renforcent-leur)  
+*Source : wam.ae | Publication : 2025-11-27*
+
+- DUBAÏ, 27 novembre 2025 (WAM) – Le Conseil de la cybersécurité des Émirats arabes unis a annoncé, lors du sommet CyberQ 2025 tenu à Abou Dhabi les.
+
+## [Protection des renseignements personnels et <b>cybersécurité</b> au Canada, aux États-Unis et ... - Fasken](https://www.fasken.com/fr/knowledge/2025/11/faskens-noteworthy-news-privacy-cybersecurity-in-canada-the-us-and-the-eu-november-2025)  
+*Source : fasken.com | Publication : 2025-11-27*
+
+- Il y a eu beaucoup de développements en matière de protection des renseignements personnels et de cybersécurité au cours du dernier mois.
+
+## [Des hackeurs éthiques identifient 96 points faibles dans les sites fédéraux - Data News](https://datanews.levif.be/actualite/securite/des-hackeurs-ethiques-identifient-96-points-faibles-dans-les-sites-federaux/)  
+*Source : datanews.levif.be | Publication : 2025-11-27*
+
+- Des hackeurs éthiques belges ont mis au jour 96 points faibles dans les sites fédéraux ces dernières semaines, soit un peu plus qu’en 2024, ressort-il des chiffres publiés mercredi par le Centre pour la Cybersécurité Belgique (CCB).
+- Le CCB organisait mercredi l’événement de clôture de son initiative #HackTheGovernment2025, une compétition de hacking éthique qui vise à tester la résilience des services fédéraux en ligne.
+- Ces deux dernières semaines, 71 participants, dont 39 professionnels et 32 étudiants, ont testé la sécurité de certains systèmes gouvernementaux, à la recherche de points faibles.
+- Parmi les services analysés cette année, on retrouve l’Office national des vacances annuelles, l’Agence fédérale des médicaments et des produits de santé, le Centre pour la cybersécurité lui-même, les services de police locale et fédérale et la Défense.
+
+## [Une brigade anti-<b>cybercriminalité</b> chargée de l'enquête sur le piratage à la Fédération ... - Franceinfo](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-a-la-federation-francaise-de-tir-et-vol-d-armes-une-brigade-anti-cybercriminalite-est-chargee-de-l-enquete_7643609.html)  
+*Source : franceinfo.fr | Publication : 2025-11-27*
+
+- Une brigade anti-cybercriminalité chargée de l'enquête sur le piratage à la Fédération française de tir et vol d'armes Les données personnelles de 250 000 actuels et 750 000 anciens adhérents de la FFTir ont été piratées "par la compromission d'un compte interne", expose le parquet de Paris.
+- Une brigade anti-cybercriminalité est chargée de l'enquête nationale sur un piratage massif de données de la fédération française de tir (FFTir), utilisées pour dérober des armes en France, relaie jeudi 27 novembre le parquet de Paris, sollicité par l'AFP.
+- Le week-end des 18 et 19 octobre, les données personnelles de 250 000 actuels et 750 000 anciens adhérents de la FFTir (numéro de licence, état civil, adresse postale, mail et numéro de téléphone) ont été piratées "par la compromission d'un compte interne", expose le parquet.
+- "L'intrusion a été découverte par le prestataire informatique le 20 octobre" qui en a informé la brigade de lutte contre la cybercriminalité (BL2C) le 23 octobre, poursuit le parquet de Paris, dont la section de lutte contre la cybercriminalité a été avisée.
+
+## [Promouvoir la coopération en matière de <b>cybersécurité</b> avec la communauté des ... - Vietnam.vn](https://www.vietnam.vn/fr/thuc-day-hop-tac-an-ninh-mang-voi-cong-dong-doanh-nghiep-chau-au)  
+*Source : vietnam.vn | Publication : 2025-11-27*
+
+- Étaient également présents à la réception le président de la Chambre de commerce européenne au Vietnam (EuroCham), Bruno Jaspaert.
+- Lors de la réception, le ministre Luong Tam Quang a eu le plaisir d'accueillir la délégation UE-ABC et EuroCham au Vietnam à l'occasion du 35e anniversaire de l'établissement des relations diplomatiques entre le Vietnam et l'Union européenne (28 novembre 1990 - 28 novembre 2025).
+- Le ministre Luong Tam Quang a souligné qu'après plus de trois décennies de coopération, les relations Vietnam-UE se sont développées de manière solide, globale et substantielle, fondées sur des valeurs communes, la confiance et une vision à long terme, et sont devenues un pilier de la politique étrangère et du développement économique du Vietnam.
+- Le ministre a déclaré qu'au cours de la période écoulée, les deux parties ont maintenu des échanges de délégations à tous les niveaux, mis en œuvre efficacement des accords de coopération bilatéraux tels que l'Accord de partenariat et de coopération global Vietnam-UE et l'Accord de libre-échange Vietnam-UE (EVFTA), obtenant de nombreux résultats positifs dans les domaines politique , économique et social.
+
+## [<b>Cybersécurité</b> : « L'IA va sophistiquer des fraudes qui existent depuis très longtemps - Isarta](https://isarta.com/infos/cybersecurite-lia-va-sophistiquer-des-fraudes-qui-existent-depuis-tres-longtemps/)  
+*Source : isarta.com | Publication : 2025-11-27*
+
+- Cybersécurité : « L’IA va sophistiquer des fraudes qui existent depuis très longtemps » Par Kévin Deniau 27 novembre 2025 La formatrice en prévention des fraudes et en cybersécurité chez CY-clic, Sarine Bedrossian, donne une nouvelle conférence sur les menaces et les bonnes pratiques de cybersécurité à l’heure de l’IA.
+- Entrevue pour déceler les nouveaux enjeux que posent des outils comme ChatGPT dans le monde professionnel.
+- Bonjour Sarine.
+- En quoi l’IA bouleverse les enjeux cybersécurité ?.
+
+## [<b>Cybersécurité</b> comportementale: IDEO Factory lance CyberAware, une académie digitale](https://aujourdhui.ma/high-tech/cybersecurite-comportementale-ideo-factory-lance-cyberaware-une-academie-digitale)  
+*Source : aujourdhui.ma | Publication : 2025-11-27*
+
+- Formation La première académie digitale 100% marocaine dédiée à la cybersécurité vient d’être créée par l’opérateur IDEO Factory.
+- La cybersécurité n’étant plus seulement une question de technologie mais de comportement humain.. IDEO Factory, spécialiste marocain du digital learning et de la sensibilisation à la cybersécurité, vient de lancer Cyber Aware, la première académie digitale 100% marocaine dédiée intégralement à la cybersécurité comportementale.
+- Conçue par des experts marocains pour les organisations marocaines, Cyber Aware a pour ambition de transformer la vigilance individuelle en un réflexe collectif, ancré dans les pratiques professionnelles quotidiennes.
+- L’appel est national.
+
+## [Vers un guichet unique pour mettre fin au casse-tête des notifications cyber](https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/vers-un-guichet-unique-pour-mettre-fin-au-casse-tete-des-notifications-cyber.3MKP3W3VDNA6DLZBXBLSTYOAQ4.html)  
+*Source : usine-digitale.fr | Publication : 2025-11-27*
+
+- A la Une Attendue depuis plusieurs semaines, la Commission européenne a finalement dévoilé le contenu de son “Digital Omnibus”, sa proposition de règlement visant à simplifier l’ensemble du cadre réglementaire européen sur le numérique.
+- Ce texte apporte un changement majeur dans la manière dont les entreprises devront déclarer leurs incidents de cybersécurité (intrusions, fuite de données...).
+- Pour faire simple, aujourd’hui, une même cyberattaque peut déclencher plusieurs obligations de notification.
+- Pour simplifier la vie quotidienne des entreprises, Bruxelles propose de tout regrouper dans un point d’entrée unique, porté par l’Agence de l’Union européenne pour la cybersécurité (Enisa).
+
+## [Piratage à la Fédération de tir sportif : un million de données volées et exploitées pour des ...](https://www.sudouest.fr/economie/cybersecurite/piratage-a-la-federation-de-tir-sportif-un-million-de-donnees-volees-et-exploitees-pour-des-cambriolages-cibles-26881263.php)  
+*Source : sudouest.fr | Publication : 2025-11-27*
+
+- Les données personnelles d’un million de membres ou anciens licenciés de la fédération française de tir sportif ont été volées et sont exploitées pour organiser des cambriolages.
+- Deux hommes ont été arrêtés Mi-octobre, la fédération française de tir sportif a été la cible d’une cyberattaque qui a permis le vol de données personnelles de 250 000 adhérents et de 750 000 anciens licenciés, ainsi que l’a confirmé le parquet de Paris cette semaine.
+
+## [Le géant de la bière Asahi admet une fuite massive de données et des bénéfices en berne](https://www.courrierinternational.com/article/cyberattaque-le-geant-de-la-biere-asahi-admet-une-fuite-massive-de-donnees-et-des-benefices-en-berne_237879)  
+*Source : courrierinternational.com | Publication : 2025-11-27*
+
+- La cyberattaque a eu lieu le 29 septembre, mais ce n’est que ce jeudi 27 novembre que le géant japonais de la bière Asahi a “révélé que ce piratage massif avait potentiellement entraîné la fuite des informations personnelles de plus de 1,9 million de ses clients”, relate le site de la BBC.
+- Dans un communiqué, l’entreprise expose “les résultats de son enquête sur l’attaque au rançongiciel qui a paralysé ses activités dans toutes ses usines au Japon et contraint ses employés à prendre les commandes à la main, avec un stylo et du papier”, poursuit le média public britannique.
+- Les données personnelles de tous ceux qui ont pris contact avec les services clients “ont probablement été exposées”, selon Asahi.
+- Un retour à la normale en février 2026 Deux mois après le piratage, le brasseur admet que “ses serveurs ne sont toujours pas revenus à la normale et que l’approvisionnement comme la distribution ne reprennent que progressivement”, ajoute Nikkei Asia – tout ne rentrera en ordre qu’“après février”.
+
+## [Promouvoir la coopération en matière de <b>cybersécurité</b> avec des entreprises européennes](https://fr.vietnamplus.vn/promouvoir-la-cooperation-en-matiere-de-cybersecurite-avec-des-entreprises-europeennes-post255466.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-11-27*
+
+- Hanoï (VNA) – Le général Luong Tam Quang, ministre de la Sécurité publique, a reçu le 27 novembre après-midi à Hanoï Jens Rübbert, président du Conseil d’affaires Europe–ASEAN (EU–ABC), et le président de la Chambre de commerce européenne au Vietnam (EuroCham), Bruno Jaspaert.
+- Le ministre de la Sécurité publique a salué la visite des représentants de l’EU–ABC et d’EuroCham, à l’occasion du 35ᵉ anniversaire de l’établissement des relations diplomatiques Vietnam–Union européenne (28 novembre 1990).
+- Il a souligné que, depuis plus de trois décennies, les relations Vietnam–UE s’étaient développées de manière forte, substantielle et globale, s’appuyant sur des valeurs communes, la confiance et une vision à long terme, devenant l’un des piliers de la politique extérieure et du développement économique du Vietnam.
+- Ces derniers temps, les deux parties ont maintenu des échanges réguliers et ont mis efficacement en œuvre les accords bilatéraux tels que l’Accord de partenariat et de coopération intégrale et l’Accord de libre-échange Vietnam–UE (EVFTA), obtenant des résultats positifs dans les domaines politique, économique et social, a-t-il estimé.
+
+## [Formation <b>cybersécurité</b> : Numeryx University muscle son offre](https://www.informatiquenews.fr/cybersecurite-numeryx-university-deploie-80-cursus-pour-armer-les-dsi-108163)  
+*Source : informatiquenews.fr | Publication : 2025-11-27*
+
+- ESN spécialisée dans la confiance numérique, Numeryx renforce son dispositif de formation cybersécurité avec Numeryx University et quatre vingt nouveaux cursus destinés aux entreprises.
+- Dans un contexte de pénurie de profils qualifiés et de durcissement réglementaire, l’objectif affiché est de donner aux DSI un levier structuré pour faire monter en compétence leurs équipes.
+- Numeryx est une ESN française positionnée sur la cybersécurité, les infrastructures et les services numériques, avec un portefeuille de services couvrant autant la sécurité et la confiance numérique que les réseaux, systèmes industriels et logiciels.En lançant 80 nouveaux cursus via Numeryx University, son organisme de formation interne, le groupe cherche clairement à se placer comme un partenaire de long terme pour les directions IT qui doivent à la fois sécuriser leurs environnements et fidéliser des profils rares.
+- Cette annonce intervient alors que le marché français de l’emploi cyber continue de se tendre.
+
+## [&quot;Nous répondons à un besoin urgent de souveraineté numérique et d'IA maîtrisée &quot;](https://www.lejournaldesentreprises.com/article/nous-repondons-un-besoin-urgent-de-souverainete-numerique-et-dia-maitrisee-2131758)  
+*Source : lejournaldesentreprises.com | Publication : 2025-11-27*
+
+- Cheops Technology organise ce 3 décembre son étape strasbourgeoise du Tour de France Cloud – IA – Cybersécurité.
+- Pourquoi cette tournée et pourquoi à Strasbourg ?.
+- Le Grand Est est l’un des territoires où la demande en cloud souverain et en cybersécurité progresse le plus vite, notamment du fait de la présence d’ETI industrielles et de nombreux acteurs publics.
+- Strasbourg et Nancy représentent pour nous deux agences importantes, avec une forte proportion de clients publics.
+
+## [Données piratées et vols d'armes: enquête nationale depuis Paris - Notre Temps](https://www.notretemps.com/depeches/donnees-piratees-et-vols-d-armes-enquete-nationale-depuis-paris-124621)  
+*Source : notretemps.com | Publication : 2025-11-27*
+
+- Données piratées et vols d'armes: enquête nationale depuis Paris Une brigade anti-cybercriminalité est chargée de l'enquête nationale sur un piratage massif de données de la Fédération française de tir (FFTir), utilisées pour dérober des armes en France, a indiqué jeudi le parquet de Paris, sollicité par l'AFP.
+- Le weekend des 18 et 19 octobre, les données personnelles de 250.000 actuels et 750.000 anciens adhérents de la FFTir (numéro de licence, état civil, adresse postale, mail et numéro de téléphone) ont été piratées "par la compromission d'un compte interne", expose le parquet.
+- "L'intrusion a été découverte par le prestataire informatique le 20 octobre" qui en a informé la brigade de lutte contre la cybercriminalité (BL2C) le 23 octobre, poursuit le parquet de Paris, dont la section de lutte contre la cybercriminalité a été avisée.
+- La BL2C est désormais chargée d'une enquête des chefs "d'accès et maintien non autorisés dans un système automatisé de données et extraction de données dans un système de traitement automatisé de données (ou STAD)", comme évoqué par des médias comme BFM ou franceinfo.
+
+## [Maroc : Le marché de la <b>cybersécurité</b> atteint $ 1,2 Mrd - APAnews](https://fr.apanews.net/science/maroc-le-marche-de-la-cybersecurite-atteint-12-mrd/)  
+*Source : fr.apanews.net | Publication : 2025-11-27*
+
+- L'industrie marocaine de la cybersécurité entre dans une phase décisive de son expansion, portée par la montée des cybermenaces , l'adoption rapide.
 
 ## [Marrakech : Interpol exhorte les États à agir contre la <b>cybercriminalité</b> - Lebrief.ma](https://www.lebrief.ma/marrakech-interpol-exhorte-les-etats-a-agir-contre-la-cybercriminalite-100131792/)  
 *Source : lebrief.ma | Publication : 2025-11-26*
