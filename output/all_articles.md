@@ -1,5 +1,159 @@
-# Résumés – 2025-11-27
+# Résumés – 2025-11-28
 
+
+## [Système d'alerte automatisé CodeRED — Incident externe de <b>cybersécurité</b> - Pointe-Claire](https://www.pointe-claire.ca/organisation-municipale/nouvelles-et-medias/actualites/systeme-dalerte-automatise-codered-incident-externe-de-cybersecurite)  
+*Source : pointe-claire.ca | Publication : 2025-11-28*
+
+- Renseignements Si vous avez des questions à ce sujet, veuillez contacter : Menu Your web browser is set to use English.
+- Recherches populaires : Info-stationnement Illumination du sapin Collectes Avis et alertes ProgrammationLa Ville de Pointe-Claire informe ses résidentes et résidents qu’un incident de cybersécurité est survenu chez OnSolve, l’entreprise responsable du système d’alerte automatisé « CodeRED » utilisé par la Ville pour informer les citoyennes et citoyens lors de situations d’urgence.
+- Ce système fonctionne de manière entièrement indépendante des systèmes municipaux.
+- Ainsi, aucune infrastructure technologique de la Ville n’a été touchée, et la situation est strictement limitée au fournisseur externe OnSolve.
+
+## [AUTOCRYPT annonce son intention d'étendre ses technologies de <b>cybersécurité</b> ... - PR Newswire](https://www.prnewswire.com/news-releases/autocrypt-annonce-son-intention-detendre-ses-technologies-de-cybersecurite-des-vehicules-electriques-a-la-region-mena-en-2026-302628277.html)  
+*Source : prnewswire.com | Publication : 2025-11-28*
+
+- AUTOCRYPT annonce son intention d'étendre ses technologies de cybersécurité des véhicules électriques à la région MENA en 2026 News provided by AUTOCRYPTNov 28, 2025, 14:10 ET SÉOUL, Corée du Sud, 28 nov.
+- 2025 /PRNewswire/ -- AUTOCRYPT, fournisseur de solutions de cybersécurité automobile de bout en bout, a annoncé qu'elle prévoyait de concentrer ses efforts en 2026 sur la mise en place d'un cadre de cybersécurité complet dans la région MENA, couvrant la fabrication et la recharge des véhicules.
+- Les technologies de cybersécurité exclusives de l'entreprise pour l'infrastructure automobile, notamment son système de gestion des clés (Key Management System, KMS), son infrastructure à clé publique (Public Key Infrastructure, PKI) et son système de gestion des stations de recharge (Charging Station Management System, CSMS) pour l'écosystème de la mobilité connectée, constitueront la base du cadre.
+- La région MENA au sens large est rapidement devenue un pôle émergent de la mobilité intelligente et des infrastructures numériques, et AUTOCRYPT indique que la région est impatiente d'adopter des technologies de transport sécurisées de nouvelle génération.
+
+## [Le PQ veut aussi la souveraineté numérique - Journal De Levis](https://www.journaldelevis.com/jdl/29/Politique.html?id=44127)  
+*Source : journaldelevis.com | Publication : 2025-11-28*
+
+- Accueil Menu Recherche Le député de Jean-Talon, Pascal Paradis, veut que le Québec soit aussi souverain numériquement.
+- Photo : Courtoisie - Assemblée nationale du Québec Le député de Jean-Talon et porte-parole du Parti québécois (PQ) en matière de cybersécurité et de numérique, Pascal Paradis, a fait une sortie vendredi pour déplorer que le gouvernement de la CAQ «ait abdiqué la souveraineté numérique du Québec».
+- C'est à la suite d'une décision du gouvernement caquiste touchant la gestion numérique de données que Pascal Paradis a lancé cette critique.
+- «On a appris cette semaine que le gouvernement de la CAQ fera héberger les données personnelles hautement sensibles des petits enfants québécois par une entreprise américaine soumise aux lois des États-Unis, dont le CLOUD Act qui permet aux autorités américaines d’accéder à ces données.
+
+## [Pourquoi le directeur <b>cybersécurité</b> de la NSA éteint son téléphone tous les soirs (et vous ...](https://sciencepost.fr/pourquoi-le-directeur-cybersecurite-de-la-nsa-eteint-son-telephone-tous-les-soirs-et-vous-devriez-faire-pareil/)  
+*Source : sciencepost.fr | Publication : 2025-11-28*
+
+- Il y a quelques années, la National Security Agency (NSA) aux États-Unis avait publié un document qui listait les bonnes habitudes à adopter pour protéger les données des smartphones.
+- Selon l’agence, redémarrer cet appareil une fois par semaine peut notamment représenter une barrière supplémentaire contre les attaques des hackers.
+- De bonnes pratiques pour une meilleure protection Depuis déjà de nombreuses années, les hackers redoublent d’ingéniosité pour pirater les particuliers, entreprises et institutions afin de dérober leurs données sensibles.
+- Il est donc essentiel de se prémunir contre les différentes attaques existantes.
+
+## [Restez en sécurité : le Canada est la cible privilégiée des pirates informatiques](https://www.lavoixdusud.com/publi-t/restez-en-securite-le-canada-est-la-cible-privilegiee-des-pirates-informatiques/)  
+*Source : lavoixdusud.com | Publication : 2025-11-28*
+
+- Restez en sécurité : le Canada est la cible privilégiée des pirates informatiques Le Canada vit une situation sans précédent : en 2025, les cyberattaques sont en forte croissante et comptabilisent 12 milliards de tentatives d’intrusion sur son sol, ce qui représente une croissance de 40% par rapport à l’année précédente.
+- Cette situation très grave touche tant les sociétés privées que les particuliers, et personne n’est réellement à l’abri.
+- Une inflation inquiétante des cybermenaces Les chiffres sont là et ils démontrent une situation très préoccupante de la cybersécurité au Canada.
+- Le pays se classe donc au 3e rang mondial des pays les plus attaqués, après les États-Unis et le Royaume-Uni.
+
+## [Le gouvernement wallon fait de la <b>cybersécurité</b> une de ses priorités - RTL Info](https://www.rtl.be/page-videos/belgique/societe/le-gouvernement-wallon-fait-de-la-cybersecurite-une-de-ses-priorites/2025-11-28/video/771996)  
+*Source : rtl.be | Publication : 2025-11-28*
+
+- Partager: Société politique vidéos Sujet par sujet cybercriminalité sécurité informatique Cybersécurité gouvernement wallon piratage informatique direct.
+
+## [Le PQ propose une législation sur la souveraineté numérique du Québec - Le Devoir](https://www.ledevoir.com/politique/quebec/937548/pq-propose-legislation-souverainete-numerique-quebec)  
+*Source : ledevoir.com | Publication : 2025-11-28*
+
+- Quelques jours après une controverse sur les données numériques du nouveau portail d’inscription aux garderies, le Parti québécois (PQ) enjoint au gouvernement Legault de légiférer pour assurer la souveraineté numérique du Québec.
+- Le porte-parole du PQ en matière de Cybersécurité et de Numérique, Pascal Paradis, estime que le gouvernement Legault a « abdiqué » sur ce dossier en confiant les données d’enfants québécois à une plateforme américaine.
+- Radio-Canada a rapporté plus tôt cette semaine que le nouveau portail d’inscription aux garderies, qui remplace la Place 0-5, était hébergé par l’entreprise américaine Salesforce.
+- Le portail précédent était hébergé par l’entreprise québécoise InMédia.
+
+## [Protégez-vous proactivement contre la <b>cybercriminalité</b> avec « 3 no-3 fast » - Vietnam.vn](https://www.vietnam.vn/fr/chu-dong-bao-ve-truoc-toi-pham-mang-voi-3-khong-3-nhanh)  
+*Source : vietnam.vn | Publication : 2025-11-28*
+
+- Cependant, c'est aussi à cette période que les cybercriminels sont les plus actifs, avec des méthodes de fraude sophistiquées et en constante évolution : usurpation d'identité de grandes marques, usurpation d'identité d'employés de plateformes de commerce électronique, arnaques aux « ventes exceptionnelles - remboursements virtuels », fraude aux paiements via portefeuilles électroniques, et même utilisation de deepfakes pour gagner la confiance des utilisateurs.
+- Identifier les arnaques Selon la National Cyber Security Association, les arnaques sur les plateformes d'achat en ligne commencent souvent par des actions très simples : un clic, un code QR, un appel vidéo … En quelques secondes d'inattention, on peut perdre ses données personnelles, ses comptes de réseaux sociaux, voire toutes ses finances.
+- M.
+- Vu Ngoc Son, responsable de la recherche, du conseil, du développement technologique et de la coopération internationale à l'Association nationale de cybersécurité, a souligné que la fraude en ligne est de plus en plus sophistiquée : usurpation d'identité de commerces réputés, piratage de comptes, demandes de dépôts et livraison de produits de mauvaise qualité.
+
+## [White Pearl Technology Group AB : Croissance intégrée dans la <b>cybersécurité</b>, les ... - Zonebourse](https://www.zonebourse.com/actualite-bourse/white-pearl-technology-group-ab-croissance-integree-dans-la-cybersecurite-les-infrastructures-int-ce7d51dad18ef121)  
+*Source : zonebourse.com | Publication : 2025-11-28*
+
+- White Pearl Technology Group AB (WPTG) annonce l&#039;intégration réussie de ses récentes acquisitions dans les infrastructures intelligentes, la création d&#039;une division Agri-Tech dédiée, ainsi que l&#039;expansion rapide de son portefeuille en cybersécurité au-delà de l&#039;annonce initiale d&#039;ITsMine début octobre.
+- La valeur combinée de ces nouveaux projets sécurisés a déjà généré environ 20 millions de SEK à court terme, au second semestre 2025, avec une croissance substantielle attendue à mesure que l&#039;intégration progresse.
+- Ce développement stratégique s&#039;est déjà traduit par de nouveaux contrats significatifs en Afrique du Sud et des victoires matérielles sur des projets au Burkina Faso (trois nouveaux projets solaires), au Kenya et en Zambie.
+- Une croissance supplémentaire est planifiée via de nouveaux partenariats stratégiques et une expansion géographique vers le Moyen-Orient et l&#039;Europe, avec une attention particulière portée à la Suède.Pour assurer la continuité, cette mise à jour fait suite à l&#039;accord précédemment annoncé entre WPTG et ITsMine, ainsi qu&#039;aux acquisitions d&#039;Afrison et de Premier Brands par le Groupe.
+
+## [<b>Cybersécurité</b> : un Centre de ressources pour aider les entreprises en Charente-Maritime](https://www.sudouest.fr/economie/economie-du-numerique/cybersecurite-un-centre-de-ressources-pour-aider-les-entreprises-en-charente-maritime-26891817.php)  
+*Source : sudouest.fr | Publication : 2025-11-28*
+
+- Un centre de ressources en cybersécurité s’installe dans le département.
+- Il est destiné à aider les entreprises à faire face aux menaces auxquelles elles sont exposées sur le numérique Vous connaissez l’Ansii ?.
+- Probablement pas, et vous n’êtes pas le ou la seul(e).
+- Créée en 2009, l’Agence nationale de la sécurité des systèmes d’information souffre toujours d’un net déficit de notoriété.
+
+## [Cybernight : l'événement <b>cybersécurité</b> &amp; CTF de l'Efrei](https://www.efrei.fr/article/cybernight-levenement-cybersecurite-ctf-de-lefrei/)  
+*Source : efrei.fr | Publication : 2025-11-28*
+
+- La Cybernight est l’un des événements majeurs de l’Efrei dédié à la cybersécurité et au format Capture The Flag (CTF).
+- Chaque année, plusieurs centaines d’étudiants, passionnés et experts cybersécurité se réunissent pour échanger, se former et relever des défis techniques liés à la cybersécurité.
+- La 7ème édition, qui a eu lieu le 23 novembre dernier, a rassemblé plus de 500 participants.
+- De quoi placer la Cybernight comme l’un des plus grands événements CTF inter-écoles de France.
+
+## [Black Friday, Noël... Voici comment éviter les arnaques - Capital.fr](https://www.capital.fr/conso/black-friday-noel-voici-comment-eviter-les-arnaques-1521347)  
+*Source : capital.fr | Publication : 2025-11-28*
+
+- Une période au cours de laquelle les escrocs sont à l’affût.
+- Alors que 78 % des Français envisagent d’effectuer des achats de Noël pendant le Black Friday pour profiter de nombreuses promotions.
+- Néanmoins, soyez vigilant car c’est le moment choisi pour monter des arnaques.
+- Les cybercriminels, grâce à l’intelligence artificielle générative notamment, peuvent désormais réaliser de fausses offres ou créer de fausses publicités sur les réseaux sociaux.
+
+## [La <b>cybersécurité</b> ne suffit plus, place à la cyber-résilience – par Olivier Pantaléo - l'Opinion](https://www.lopinion.fr/economie/la-cybersecurite-ne-suffit-plus-place-a-la-cyber-resilience-par-olivier-pantaleo)  
+*Source : lopinion.fr | Publication : 2025-11-28*
+
+- La cybersécurité ne suffit plus, place à la cyber-résilience – par Olivier Pantaléo Si l’on doutait encore du pouvoir de destruction d’une cyberattaque, le cas du groupe automobile Jaguar Land Rover met les choses au clair : quatre semaines d’interruption de production, plusieurs centaines de millions de livres de pertes, plus de 1 000 sous-traitants en difficulté.
+- Une situation assez critique pour que le gouvernement s’engage à soutenir les sous-traitants et offre une garantie de prêt de 1,5 milliard de livres à JLR.
+- Selon le Financial Times, la facture totale s’élève à 1,9 milliard de livres sterling : c’est l’incident cyber le plus coûteux de l’histoire du Royaume-Uni.
+- La leçon à tirer s’impose d’elle-même : empêcher les attaques ne suffit plus car il faut partir du principe que certaines d’entre elles réussiront à passer les défenses de l’entreprise.
+
+## [Panne AWS : un logiciel malveillant s'est propagé en silence dans 28 pays - Siècle Digital](https://siecledigital.fr/2025/11/28/panne-aws-un-logiciel-malveillant-sest-propage-en-silence-dans-28-pays/)  
+*Source : siecledigital.fr | Publication : 2025-11-28*
+
+- Au mois d’octobre, la panne mondiale d’Amazon Web Services (AWS) a paralysé une large partie du web, révélant par la même occasion une autre réalité : certains acteurs malveillants n’attendent que ce type de désorganisation pour frapper.
+- En effet, une enquête menée par FortiGuard Labs met en lumière l’émergence d’un botnet baptisé ShadowV2, apparu précisément durant cette fenêtre de vulnérabilité.
+- 📩 L’actu digitale évolue vite.
+- Restez à jour.
+
+## [Les enfants vietnamiens consultés pour le futur Programme national de <b>cybersécurité</b> 2026-2030](https://fr.vietnamplus.vn/les-enfants-vietnamiens-consultes-pour-le-futur-programme-national-de-cybersecurite-2026-2030-post255483.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-11-28*
+
+- Hanoï (VNA) - Le Département de la cybersécurité et de la lutte contre la criminalité technologique (A05) du ministère de la Sécurité publique a organisé ce jeudi une cérémonie destinée à recueillir les avis des enfants sur le futur Programme de protection et de soutien des enfants dans l'environnement numérique pour la période 2026-2030.
+- Selon le colonel Hà Van Bac, directeur adjoint dudit Département, près de 2 800 enfants issus de 16 villes et provinces ont été interrogés entre le 11 et le 20 novembre 2025, en partenariat avec l'Association vietnamienne pour la protection des droits de l'enfant, l'Union de la jeunesse communiste Hô Chi Minh et plusieurs organisations internationales.
+- Les résultats montrent que 27,1 % des enfants utilisent Internet moins d'une heure par jour, 50 % de une à trois heures, 18,8 % de quatre à six heures et 2,3 % plus de dix heures.
+- "Ces données nous offrent une photographie réaliste des usages et des risques.
+
+## [Formation régionale en <b>cybersécurité</b>: Une centaine de jeunes africains enrôlés - YouTube](https://www.youtube.com/watch?v=W5zcbpXoNqQ)  
+*Source : youtube.com | Publication : 2025-11-28*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Revue du Magazine d'Actualité #56 du 24 au 28 novembre | Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/actualite/articles/revue-du-magazine-dactualite-56-du-24-au-28-novembre-153569/)  
+*Source : techniques-ingenieur.fr | Publication : 2025-11-28*
+
+- Cette semaine, l’innovation s’invite dans tous les secteurs : des matériaux intelligents aux carburants alternatifs, en passant par la cybersécurité et la mobilité.
+- Une actualité riche qui illustre la transition technologique et environnementale en marche.
+- Version agrandie de l’A350 : signe d’un retour des avions gros-porteurs ?.
+- Airbus prépare une version allongée de l’A350, signe d’un regain d’intérêt pour les gros-porteurs.
+
+## [Créer un espace numérique sûr pour les femmes et les filles - VOV World](https://vovworld.vn/fr-CH/actualites/creer-un-espace-numerique-sur-pour-les-femmes-et-les-filles-1444839.vov)  
+*Source : vovworld.vn | Publication : 2025-11-28*
+
+- Créer un espace numérique sûr pour les femmes et les filles vendredi, 28 novembre 2025 | 18:16:19 (VOVWORLD) - Ce vendredi à Dà Lat, dans la province de Lâm Dông, plus de 600 délégués ont pris part à un meeting organisé dans le cadre du Mois d’action pour l’égalité des genres et la prévention des violences fondées sur le genre.
+- Les participants signent un engagement en faveur de l’égalité des sexes à l’ère numérique.
+- Photo: TTXVN Ce mois d’action, placé cette année sous le thème «Égalité de genre et sécurité des femmes et des filles à l’ère du numérique», s’inscrit dans un contexte marqué par la cérémonie d’ouverture à la signature de la Convention des Nations unies sur la lutte contre la cybercriminalité, qui a eu lieu à Hanoi fin octobre.
+- À cette occasion, de nombreuses activités ont été organisées dont une exposition de produits de communication sur l’égalité de genre, un atelier de création d’objets artisanaux porteurs de messages égalitaires, un montage de symboles du mois d’action et une parade dans les rues.
+
+## [Gigalis, le Groupement d'Intérêt Public des Pays de la Loire, adopte la protection anti-DDoS ...](https://itsocial.fr/cybersecurite/cybersecurite-actualites/gigalis-le-groupement-dinteret-public-des-pays-de-la-loire-adopte-la-protection-anti-ddos-et-post-quantique-avec-ims-networks/)  
+*Source : itsocial.fr | Publication : 2025-11-28*
+
+- Gigalis engage une refonte stratégique de la sécurité de son réseau régional en s’appuyant sur IMS Networks, Nokia et 6Cure.
+- L’initiative associe chiffrement optique résistant aux menaces post-quantiques et protection anti-DDoS, avec l’objectif de renforcer la souveraineté, la confidentialité et la continuité des services publics des Pays de la Loire.
+- La sécurisation du réseau optique du Groupement d’Intérêt Public Gigalis intervient au moment où les infrastructures publiques doivent gérer une pression croissante liée à la situation sécuritaire et aux risques liés à l’intensification des attaques par dénis de service.
+- Le groupement engage une transformation profonde afin d’affermir son socle technique d’opérateur régional de référence.
+
+## [Les attaques <b>ransomware</b> revigorées par les alliances de cybercriminels](https://www.lemondeinformatique.fr/actualites/lire-les-attaques-ransomware-revigorees-par-les-alliances-de-cybercriminels-98627.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-11-28*
+
+- Plusieurs raisons expliquent l'augmentation de 41% des attaques par ransomware constatée par NCC Group.
+- La société met en avant une recrudescence saisonnière, mais aussi le rapprochement entre groupes de cybercriminels.
+- Le plus actif est Qilin est responsable de 170 des 594 attaques (29 %) en octobre.
+- Sinobi et Akira suivent avec 15 % des campagnes.
 
 ## [Des hackers ont mis à mal les sites internets critiques du pays… pour la bonne cause - RTL Info](https://www.rtl.be/actu/belgique/societe/des-hackers-ont-mis-mal-les-sites-internets-critiques-du-pays-pour-la-bonne/2025-11-27/article/771888)  
 *Source : rtl.be | Publication : 2025-11-27*
