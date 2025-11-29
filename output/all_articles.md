@@ -1,5 +1,159 @@
-# Résumés – 2025-11-28
+# Résumés – 2025-11-29
 
+
+## [QNAP présente le héros QuTS h6.0 Beta avec une haute disponibilité grâce à deux NAS ...](https://samsungmagazine.eu/fr/2025/11/29/qnap-predstavuje-quts-hero-h6-0-beta-s-vysokou-dostupnosti-se-dvema-nas-nemennymi-snimky-a-dalsimi-funkcemi/)  
+*Source : samsungmagazine.eu | Publication : 2025-11-29*
+
+- QNAP® Systems, Inc., un innovateur de premier plan dans les solutions informatiques, de réseau et de stockage, a lancé aujourd'hui Héros QuTS h6.0 Beta, le tout dernier système d'exploitation NAS basé sur ZFS qui offre un nouveau niveau de résilience et d'intelligence pour les entreprises.
+- « Face à l'explosion des données et à la transformation des opérations commerciales grâce à l'IA, les entreprises ont besoin d'un stockage sécurisé, intelligent et évolutif », a déclaré Tim Lin, chef de produit chez QNAP.
+- « Le QuTS hero h6.0 illustre pourquoi QNAP demeure la solution NAS la plus complète pour l'ère de l'IA, en combinant résilience, cybersécurité et gestion intelligente des données sur une plateforme unifiée.
+- » Principales nouvelles fonctionnalités de QuTS hero h6.0 Beta✱ Haute disponibilité (HA) avec deux NAS Deux périphériques NAS forment un cluster HA actif-passif grâce à High Availability Manager.
+
+## [C'est bientôt la fin : profitez vite du VPN Surfshark à prix cassé - Le Parisien](https://www.leparisien.fr/guide-shopping/black-friday/cest-bientot-la-fin-profitez-vite-du-vpn-surfshark-a-prix-casse-29-11-2025-ICGAWOK6FBCZZKJ7SNCO22SJZI.php)  
+*Source : leparisien.fr | Publication : 2025-11-29*
+
+- Moins de 40€ C’est bientôt la fin : profitez vite du VPN Surfshark à prix cassé Les offres du Black Friday portant sur le VPN Surfshark vont bientôt se terminer.
+- Si vous n’avez pas encore souscrit à ce service de cybersécurité, capable de protéger de nombreux appareils pour un coût débutant à 1,99 euro par mois, ne tardez pas à vous rendre sur le site officiel de Surfshark.
+- Profitez d’une connexion sécurisée pour toutes vos activités en ligne, en équipant votre ordinateur du VPN Surfshark.
+- À prix réduit à l’occasion du Black Friday, les abonnements de 2 ans à ce service de cybersécurité vous donneront accès à 3 mois de protection supplémentaire sans frais.
+
+## [Le Maroc figure parmi les États vers lesquels l'Union européenne déploie ses programmes ...](https://barlamane.com/fr/le-maroc-figure-parmi-les-etats-vers-lesquels-lunion-europeenne-deploie-ses-programmes-numeriques-contre-la-cybercriminalite/)  
+*Source : barlamane.com | Publication : 2025-11-29*
+
+- cybercriminalité , les documents précisant que «l'Union européenne finance douze projets actifs consacrés à la cybercriminalité ou comportant des.
+
+## [Pourquoi vous devriez éteindre votre smartphone au lieu de le redémarrer - 01net.com](https://www.01net.com/actualites/pourquoi-vous-devriez-eteindre-votre-smartphone-plutot-redemarrer.html)  
+*Source : 01net.com | Publication : 2025-11-29*
+
+- Les experts en cybersécurité recommandent généralement de redémarrer régulièrement son smartphone.
+- La NSA (National Security Agency) conseille en effet aux utilisateurs de redémarrer leur smartphone au minimum deux fois par semaine.
+- Cette petite habitude permet de court-circuiter un virus qui serait parvenu à infecter votre smartphone.
+- Le redémarrage coupe net toutes les apps et tous les processus qui tournaient en tâche de fond sur le téléphone.
+
+## [Projet Andal-II : Forum sur la <b>cybersécurité</b> - Bamako - Bamada.net](https://bamada.net/projet-andal-ii-forum-sur-la-cybersecurite)  
+*Source : bamada.net | Publication : 2025-11-29*
+
+- Après sa première phase, sur la lutte contre la désinformation en période électorale, le projet ‘’Andal-Phase II’’, piloté par la plateforme Benbéré, s’engage dans la cybersécurité, la protection des données à caractère personnel et l’intelligence artificielle.
+- A cet effet, ils organisé cette semaine au Mémorial Modibo Keita un Forum sur la cybersécurité, la protection des données à caractère personnel et l’intelligence artificielle.
+- C’est sous le coup d’envoi de la vice-présidente de l’Autorité pour la protection des données à caractère personnel (APDP), Mme Assistant Benkaly, qu’est partie la phase-2 du projet Andal sur la cybersécurité, la protection des données à caractère personnel et l’intelligence artificielle.
+- Pendant toute une journée, des acteurs de médias, du droit et de la cybersécurité ont animé des panels et des groupes de travail afin de produire des recommandations.
+
+## [Nos données confiées aux Américains, faut-il s'en soucier? - Radio-Canada](https://ici.radio-canada.ca/info/videos/1-10534476/nos-donnees-confiees-aux-americains-faut-il-s-en-soucier)  
+*Source : ici.radio-canada.ca | Publication : 2025-11-29*
+
+- Nos données confiées aux Américains, faut-il s’en soucier?.
+- Le gouvernement de François Legault a choisi une plateforme américaine pour héberger le tout nouveau Portail d'inscription aux services de garde qui sera pleinement mis en service la semaine prochaine.
+- Le journaliste Thomas Gerbet l’a découvert grâce à des sources qui s'inquiètent de ce que les États-Unis pourraient faire des données des enfants et de leurs parents.
+- Cela suscite une réflexion sur l’importance de la souveraineté numérique.
+
+## [Pourquoi faut-il vous offrir ce VPN à -75% pour le Black Friday ? La réponse est ici - Clubic](https://www.clubic.com/bons-plans-588070-pourquoi-faut-il-vous-offrir-ce-vpn-a--75-pour-le-black-friday-la-reponse-est-ici.html)  
+*Source : clubic.com | Publication : 2025-11-29*
+
+- Le Black Friday 2025 bat son plein du côté des services en ligne.
+- Et, parmi les offres à ne vraiment pas manquer chez Clubic, celle de Proton pour sa solution Proton VPN Plus figure en très bonne place.
+- Un VPN performant à petit prix ?.
+- Vous avez la main en ce Black Friday 2025, avec la suite Proton VPN Plus disponible à seulement 2,49€/mois pour l'occasion.
+
+## [OFFRE DE STAGE A ATLANTIC FINANCIAL GROUP HOLDING (AFG HOLDING)](https://yop.l-frii.com/stages/offre-de-stage-a-atlantic-financial-group-holding-afg-holding-29-novembre-2025/)  
+*Source : yop.l-frii.com | Publication : 2025-11-29*
+
+- Holding Financière de Atlantic Group fondée par l’homme d’affaires Ivoirien Koné DOSSONGUI il y a plus de 40 ans , AFG est active dans le secteur bancaire francophone et compte aujourd’hui Six (6) filiales bancaires, cinq (5) filiales d’assurances, une banque d’affaires (AFG Capital) et une entité technologique (Digital Business Solutions).
+- POSTE : Stagiaire Cybersécurité (H/F) Direction : Direction de la Sécurité des Systèmes d’Information Groupe Reporte au : Directeur de la Sécurité des Systèmes d’Information Groupe Localisation du Poste : Abidjan, Côte d’Ivoire.
+- Date de Prise de fonction souhaitée : Immédiate Dans le cadre de sa forte croissance, AFG Holding recrute un(e) Stagiaire Cybersécurité (H/F).
+- Description de l’offre Sous la supervision de la Directrice de la Sécurité des SI (DSSI), le stagiaire contribuera aux activités suivantes : Renforcer le lien entre développement applicatif et sécurité (DevSecOps) ; - Participer à la mise en œuvre de contrôles techniques, de revues de conformité, et de campagnes de sensibilisation ; - Contribuer à l’évaluation de la maturité Cyber des filiales ; - Réaliser des analyses de vulnérabilités, des revues de sécurité et des reportings ; - Participer aux diagnostics de sécurité (scans, analyse de posture, cartographie des risques) ; - Contribuer au suivi des recommandations des revues générales Cybersécurité et à leur implémentation ; - Participer à des projets IT à travers le process Sec by Design (intégration de tests de sécurité) ; - Suivre la collecte des données des tableaux de bord de sécurité (vulnérabilités, incidents, conformité) ; - Participer aux actions de sensibilisation en Cybersécurité (supports, publications, messages) ; - Documenter les politiques, procédures ou chartes de sécurité en place ; Accompagner les filiales sur les sujets Cybersécurité (ex.
+
+## [<b>Cybersécurité</b> : un forum pour renforcer la défense numérique - Mali Actu](https://maliactu.net/cybersecurite-un-forum-pour-renforcer-la-defense-numerique/)  
+*Source : maliactu.net | Publication : 2025-11-29*
+
+- Brèves Cybersécurité : un forum pour renforcer la défense numérique Cybersécurité, données personnelles et IA: un forum à Bamako trace une feuille de route nationale Un rendez-vous majeur a été organisé au Mémorial Modibo Keita pour renforcer la cybersécurité au Mali.
+- La phase 2 du projet Andal a été lancée sous l’impulsion de l’Autorité pour la protection des données à caractère personnel (APDP), représentée par sa vice‑présidente, Mme Assistant Benkaly.
+- Les enjeux de la protection des données et de l’intelligence artificielle ont été placés au cœur des échanges, avec un accent sur les risques croissants pour les médias et le public.
+- Un espace de dialogue inclusif a été privilégié pour rassembler médias, société civile, autorités et experts.
+
+## [NordVPN ne fait pas de cadeau à ses concurrents et propose jusqu'à -74% sur son service](https://www.leparisien.fr/guide-shopping/black-friday/nordvpn-ne-fait-pas-de-cadeau-a-ses-concurrents-et-propose-jusqua-74-sur-son-service-29-11-2025-W33GVIRGL5CYBO6DGMMEEYFWEU.php)  
+*Source : leparisien.fr | Publication : 2025-11-29*
+
+- Moins de 40€ NordVPN ne fait pas de cadeau à ses concurrents et propose jusqu’à -74% sur son service Si votre ordinateur n’est pas encore protégé contre les cybermenaces, ne passez pas à côté des offres du Black Friday NordVPN.
+- Disponibles pendant quelques heures encore, ces promotions exceptionnelles vous permettront de sécuriser vos appareils connectés grâce à de multiples outils.
+- Capable de protéger jusqu’à dix appareils avec un seul abonnement, NordVPN préservera vos données lorsque vous naviguez sur le web.
+- Suffisamment réactif pour vous permettre de regarder des vidéos en streaming ou de jouer en ligne, ce VPN ultra-sécurisé est associé à un grand nombre de serveurs.
+
+## [Travailler au Luxembourg : zoom sur ces 5 métiers à plus de 5 200 € prisés par les recruteurs](https://www.mediavenir.fr/travailler-au-luxembourg-zoom-sur-ces-5-metiers-a-plus-de-5200-euros-prises-par-les-recruteurs/)  
+*Source : mediavenir.fr | Publication : 2025-11-29*
+
+- Le Grand-Duché attire chaque année des cadres français en quête de meilleure qualité de vie.
+- Porté par un marché de l’emploi au Luxembourg très dynamique, ce micro-État associe stabilité politique et poids financier hors norme.
+- Les offres dépassant 5 200 euros brut par mois ne se limitent plus aux dirigeants du secteur financier.
+- Ces fonctions affichent des salaires élevés, renforcés par des bonus, mais confrontent les nouveaux arrivants à des loyers parmi les plus chers d’Europe.
+
+## [Smartphones sous haute menace : Comment nos téléphones sont devenus le nouveau ...](https://www.usine-digitale.fr/cybersecurite/smartphones-sous-haute-menace-comment-nos-telephones-sont-devenus-le-nouveau-terrain-daffrontement-des-cybercriminels.LA3ME4FGYVA4ZFJHPA7IYGRZ5E.html)  
+*Source : usine-digitale.fr | Publication : 2025-11-29*
+
+- Le CERT-FR de l’Agence nationale de la sécurité des systèmes d’information (Anssi) a publié le 26 novembre un nouvel état de la menace dédié aux équipements mobiles.
+- Le document dresse une synthèse des compromissions observées ou analysées par l’agence au cours des 10 dernières années.
+- Il vise à présenter une vision globale des techniques d’intrusion, des vecteurs d’attaques et des acteurs impliqués.
+- Un vecteur central de la menace De manière générale, le rapport montre que le smartphone est devenu un vecteur central de la menace en raison de la diversité de ses surfaces d’attaque et de la quantité d’informations qu’il concentre.
+
+## [Vrai-faux architectes : ces escrocs nord-coréens qui infiltrent les filières du bâtiment occidentales](http://www.atlantico.fr/article/decryptage/vrai-faux-architectes-ces-escrocs-nord-coreens-qui-infiltrent-les-filieres-du-batiment-occidentales)  
+*Source : atlantico.fr | Publication : 2025-11-29*
+
+- Cybercrime.
+- (Image d'illustration) © Reuters.
+- 29 novembre 2025 Vrai-faux architectes : ces escrocs nord-coréens qui infiltrent les filières du bâtiment occidentales Des agents nord-coréens infiltreraient désormais des secteurs inattendus comme l’architecture ou le BTP pour contourner les défenses cyber occidentales, financer le régime et accéder à des données sensibles.
+- 4 min de lecture 0:00min 100% 100%.
+
+## [Des comportements inquiétants dans Apple Podcasts : l'app ouvre des émissions ... - 01net.com](https://www.01net.com/actualites/des-comportements-inquietants-dans-apple-podcasts-lapp-ouvre-des-emissions-douteuses-toute-seule.html)  
+*Source : 01net.com | Publication : 2025-11-29*
+
+- Depuis quelques mois, des utilisateurs de l’application Podcasts sont témoins d’un petit manège étrange.
+- Sur iOS comme sur Mac, elle s’ouvre toute seule et affiche des podcasts obscurs aux titres étranges, souvent liés à la religion ou à l’éducation… et parfois truffés de liens potentiellement malveillants, comme a pu le constater Joseph Cox de 404media.
+- Les pirates tâtent le terrain Ces podcasts n’ont jamais été recherchés par les utilisateurs, ils sont souvent un peu vieux et même complètement silencieux parfois.
+- D’autres renvoient vers des sermons religieux, des listes de lecture Spotify, ou même des titres comportant des caractères incompréhensibles.
+
+## [AUTOCRYPT annonce son intention d'étendre ses technologies de <b>cybersécurité</b> des ... - Le Lézard](https://www.lelezard.com/communique-22034126.html)  
+*Source : lelezard.com | Publication : 2025-11-29*
+
+- AUTOCRYPT, fournisseur de solutions de cybersécurité automobile de bout en bout, a annoncé qu'elle prévoyait de concentrer ses efforts en 2026 sur.
+
+## [PARIS : Free Pro lance sa nouvelle offre d'EDR Managé pour sécuriser les postes de travail des PME](https://presseagence.fr/paris-free-pro-lance-sa-nouvelle-offre-dedr-manage-pour-securiser-les-postes-de-travail-des-pme/)  
+*Source : presseagence.fr | Publication : 2025-11-29*
+
+- PARIS : Free Pro lance sa nouvelle offre d’EDR Managé pour… Partager : PARIS : Free Pro lance sa nouvelle offre d’EDR Managé pour sécuriser les postes de travail des PME Free Pro lance une nouvelle version de son EDR Managé (MDR) à destination des PME.
+- Avec cette solution de protection cyber renforcée des postes de travail, qui conjugue la puissance technologique de Trend Micro, acteur mondial de la cybersécurité, et l’expertise d’ITrust en cyber monitoring et détection de menaces, Free Pro poursuit son engagement de rendre la cybersécurité accessible, performante et simple d’usage.
+- Une solution de cybersécurité adaptée aux besoins des entreprises En réponse à l’explosion des menaces cyber, cette solution d’Endpoint Detection and Response (EDR) dédiée aux PME s’appuie sur les dernières avancées technologiques.
+- L’objectif : assurer une sécurité renforcée, fiable et robuste des PC (Mac, Windows, Linux), des serveurs (physiques ou virtuels), des smartphones et des tablettes utilisés par les collaborateurs.
+
+## [Le PQ propose de légiférer sur la souveraineté numérique du Québec](https://www.lechodemaskinonge.com/nouvelles-nationales/le-pq-propose-de-legiferer-sur-la-souverainete-numerique-du-quebec/)  
+*Source : lechodemaskinonge.com | Publication : 2025-11-29*
+
+- Le PQ propose de légiférer sur la souveraineté numérique du Québec QUÉBEC — Quelques jours après une controverse sur les données numériques du nouveau portail d’inscription aux garderies, le Parti québécois (PQ) enjoint au gouvernement Legault de légiférer pour assurer la souveraineté numérique du Québec.
+- Le porte-parole du PQ en matière de Cybersécurité et de Numérique, Pascal Paradis, estime que le gouvernement Legault a «abdiqué» sur ce dossier en confiant les données d’enfants québécois à une plateforme américaine.
+- Radio-Canada a rapporté plus tôt cette semaine que le nouveau portail d’inscription aux garderies, qui remplace la Place 0-5, était hébergé par l’entreprise américaine Salesforce.
+- Le portail précédent était hébergé par l’entreprise québécoise InMédia.
+
+## [Mois d'action pour un cyberespace sûr pour les femmes et les filles](https://lecourrier.vn/mois-daction-pour-un-cyberespace-sur-pour-les-femmes-et-les-filles/1296345.html)  
+*Source : lecourrier.vn | Publication : 2025-11-29*
+
+- >> Une étape historique dans la lutte mondiale contre la cybercriminalité >> Un tremplin pour lutter contre la cybercriminalité >> Lancement du Mois d'action pour l’égalité et la prévention des violences de genre Le thème de cette année, "Égalité des genres et sécurité des femmes et des filles à l’ère numérique", intervient alors que le Vietnam a récemment accueilli la cérémonie d’ouverture à la signature de la Convention des Nations unies sur la cybercriminalité.
+- Selon les organisateurs, la transformation numérique crée de nouvelles possibilités d’apprentissage et de connexion sociale, tout en exposant les femmes et les filles à des formes de harcèlement et de violence en ligne.
+- Depuis le début de l’année 2025, plus de 50 affaires de "kidnapping en ligne", visant principalement des jeunes femmes âgées de 18 à 22 ans, ont été traitées par les autorités.
+- La vice-présidente de l’Union des femmes du Vietnam, Nguyên Thi Minh Huong, a mis en avant les efforts déployés pour instaurer un environnement exempt de violence et d’abus, ainsi qu’un cyberespace sûr et convivial.
+
+## [Réseau Entreprendre Alsace se penche sur les risques de cyberattaques qui menacent les PME](https://www.lejournaldesentreprises.com/breve/reseau-entreprendre-alsace-se-penche-sur-les-risques-de-cyberattaques-qui-menacent-les-pme-2131919)  
+*Source : lejournaldesentreprises.com | Publication : 2025-11-29*
+
+- Réseau Entreprendre Alsace organise un petit-déjeuner, ce mardi 2 décembre, de 8 h 30 à 10 heures, dans les locaux du groupe d’experts-comptables Cofimé (254 collaborateurs ; 24,62 M€ de CA en 2024) à Colmar autour des enjeux liés à la cybersécurité à destination des PME.
+- Cet atelier sera animé par Dominique Badique, spécialiste cybersécurité chez Cofimé, ancien directeur des systèmes d’information (DSI) rompu aux réalités des PME.
+- Pour s’inscrire, c’est ici Réseau Entreprendre Alsace se penche sur les risques de cyberattaques qui menacent les PME Publié le 1 min de lecture À lire sur ces entreprises Fiches entreprises A lire dans le secteur Cybersécurité En Grand Est Interview # Cybersécurité.
+- Ailleurs en France 1 min de lecture Interview # Cybersécurité.
+
+## [Piratage massif à la Fédération française de tir : la brigade anti-<b>cybercriminalité</b> saisie](https://www.unrp.com/2025/11/28/piratage-massif-a-la-federation-francaise-de-tir-la-brigade-anti-cybercriminalite-saisie/)  
+*Source : unrp.com | Publication : 2025-11-29*
+
+- La brigade de lutte contre la cybercriminalité (BL2C) a été chargée d’une enquête nationale après la découverte d’un vaste piratage visant la Fédération française de tir (FFTir).
+- Selon le parquet de Paris, qui confirme les informations relayées jeudi 27 novembre, les données personnelles de près d’un million d’adhérents – 250 000 membres actuels et environ 750 000 anciens licenciés – ont été compromises.
+- Une intrusion facilitée par la compromission d’un compte interne Le piratage, survenu durant le week-end des 18 et 19 octobre, a permis aux auteurs d’accéder à un volume important d’informations sensibles : numéro de licence, état civil, coordonnées postales, adresses e-mail et numéros de téléphone.
+- L’intrusion a été détectée le 20 octobre par le prestataire informatique chargé des systèmes de la fédération.
 
 ## [Système d'alerte automatisé CodeRED — Incident externe de <b>cybersécurité</b> - Pointe-Claire](https://www.pointe-claire.ca/organisation-municipale/nouvelles-et-medias/actualites/systeme-dalerte-automatise-codered-incident-externe-de-cybersecurite)  
 *Source : pointe-claire.ca | Publication : 2025-11-28*
