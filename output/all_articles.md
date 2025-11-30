@@ -1,5 +1,155 @@
-# Résumés – 2025-11-29
+# Résumés – 2025-11-30
 
+
+## [Le groupe de <b>ransomware</b> DragonForce fait l'objet d'une enquête. - B2B Cyber Security](https://b2b-cyber-security.de/fr/ransomware-gruppe-dragonforce-unter-der-lupe/)  
+*Source : b2b-cyber-security.de | Publication : 2025-11-30*
+
+- Les origines du groupe de ransomware DragonForce (RaaS) restent floues.
+- Cependant, son développement rapide et son modèle agressif basé sur des affiliés sont manifestes.
+- Cela en fait une menace émergente qui doit être surveillée de près.
+- DragonForce a émergé pour la première fois en 2023 en tant que groupe de ransomware-as-a-service (RaaS) et avait déjà subi des changements importants avant qu'une vague d'attaques ne le fasse connaître du grand public en 2025.
+
+## [Internet : «La 5G ne produira son impact que si le Maroc corrige ses failles structurelles»](https://fnh.ma/article/actualite-economique/internet-5g-failles-structurelles)  
+*Source : fnh.ma | Publication : 2025-11-30*
+
+- Couverture, fracture territoriale, coût pour les ménages, infrastructures, cybersécurité, Direct-to-Cell…, Khalid Ziani, expert reconnu des télécommunications, livre une analyse sans concession des défis qui attendent encore le pays.
+- Propos recueillis par R. Mouhsine Finances News Hebdo: Le Maroc vise une couverture 5G de 70 à 85% de la population en 2030.
+- Cet objectif vous semble-t-il atteignable dans les conditions actuelles ?.
+- Khalid Ziani : Atteindre 70 à 85% de couverture populationnelle est probable, car la 5G se concentrera naturellement sur les grandes villes et les zones à forte densité.
+
+## [Cyberhebdo du 28 novembre 2025 : plusieurs collectivités touchées outre-Manche](https://www.lemagit.fr/actualites/366635452/Cyberhebdo-du-28-novembre-2025)  
+*Source : lemagit.fr | Publication : 2025-11-30*
+
+- Cyberhebdo du 28 novembre 2025 : plusieurs collectivités touchées outre-Manche Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans ce nouveau numéro du Cyberhebdo, votre rendez-vous hebdomadaire dédié à l’actualité des cyberattaques à travers le monde.
+- Au cours de la semaine écoulée, notre veille a recensé 10 incidents majeurs rapportés dans la presse internationale, touchant des organisations et institutions réparties dans sept pays : le Royaume-Uni (GBR), l’Italie (ITA), le Japon (JPN), l’Allemagne (DEU), Taïwan (TWN), l'Inde (IND) et les États-Unis (USA).
+- Fait marquant de cette édition : les États-Unis se distinguent une fois de plus comme la cible la plus fréquemment évoquée, concentrant à eux seuls 4 des 10 attaques recensées.
+
+## [« Tout le monde peut et va être attaqué » : en Vendée, les PME davantage touchées par les ...](https://www.ouest-france.fr/societe/cyberattaque/tout-le-monde-peut-et-va-etre-attaque-en-vendee-les-pme-davantage-touchees-par-les-cyberattaques-48ac31f2-cb92-11f0-8e72-0bb15ba0f998)  
+*Source : ouest-france.fr | Publication : 2025-11-30*
+
+- Aujourd'hui, le risque se déplace sur les PME, estime Ludovic de Carcouët, PDG de l'entreprise vendéenne de cybersécurité Digitemis.
+- Les.
+
+## [Monica Bonfanti: &quot;La police manque d'effectifs&quot; | Genève Home Informations - GHI](https://ghi.ch/articles/monica-bonfanti-la-police-manque-deffectifs)  
+*Source : ghi.ch | Publication : 2025-11-30*
+
+- Contexte géopolitique attisant des activités d’espionnage sur sol helvétique, explosion des brigandages dans un canton perçu comme un mât de Cocagne, flambée de la délinquance juvénile et de la cybercriminalité: la police genevoise est aux premières lignes.
+- La commandante Monica Bonfanti pilote l’action tentaculaire de ses troupes depuis près de vingt ans.
+- Rencontre avec une experte des sciences forensiques.
+- – Comment se déploie l’action de la police cantonale?.
+
+## [<b>Cybersécurité</b> : une montée progressive des compétences au Togo - Full-News](https://full-news.tg/cybersecurite-competences-togo/)  
+*Source : full-news.tg | Publication : 2025-11-30*
+
+- L’édition 2025 de la compétition nationale du hacking éthique Capture The Flag s’est achevée, samedi 29 novembre à Lomé.
+- A la phase finale, des jeunes hackeurs éthiques ont, en 24 heures sans arrêt, relevé plusieurs défis de sécurité numérique.
+- Pour l’Agence nationale de la cybersécurité (ANCY), le niveau de compétence commence par monter au plan national.
+- Pour des épreuves plus corsées qu’en 2024, les finalistes ont battu le record des points de l’année dernière.
+
+## [Piratage : qu'est-ce que la technique « ClickFix » ? | LeMagIT](https://www.lemagit.fr/conseil/Piratage-quest-ce-que-la-technique-ClickFix)  
+*Source : lemagit.fr | Publication : 2025-11-30*
+
+- janews094 - stock.adobe.com Piratage : qu’est-ce que la technique « ClickFix » ?.
+- La technique dite « ClickFix » qui consiste à berner un internaute pour lui faire exécuter une ligne de commande malveillante.
+- Aucun système d’exploitation n’est à l’abri d’une méthode d’infection redoutablement efficace.
+- C’est dans le courant du premier semestre 2024 qu’est apparue la technique désignée sous le terme de « ClickFix ».
+
+## [Voici une aide précieuse pour renforcer votre <b>cybersécurité</b> au quotidien - Clubic](https://www.clubic.com/bons-plans-587608-voici-une-aide-precieuse-pour-renforcer-votre-cybersecurite-au-quotidien.html)  
+*Source : clubic.com | Publication : 2025-11-30*
+
+- Norton a le bon goût de proposer des suites performantes pour renforcer votre cybersécurité, accompagnées de réductions supplémentaires dans le cadre de ce Black Friday 2025.
+- Voici comment en profiter !.
+- C'est une bonne nouvelle pour votre budget, qui plus est à l'approche des fêtes de fin d'année.
+- En effet, tout en conservant toutes les qualités de ses suites de cybersécurité, Norton vous fait profiter d'une réduction supplémentaire de 10€ supplémentaires.
+
+## [La police de Hyderabad spécialisée dans la <b>cybercriminalité</b> arrête des suspects liés à une ...](https://www.cryptopolitan.com/fr/hyderabad-police-arrest-suspects-scheme/)  
+*Source : cryptopolitan.com | Publication : 2025-11-30*
+
+- La police exhorte lesdentà solliciter des conseils financiers professionnels avant d'effectuer des investissements.
+- La police de la cybercriminalité d.
+
+## [Cyberguerre : attaques contre systèmes spatiaux en hausse pendant la guerre à Gaza ...](https://fr.euronews.com/next/2025/11/30/cyberguerre-attaques-contre-systemes-spatiaux-en-hausse-pendant-la-guerre-a-gaza-selon-un)  
+*Source : fr.euronews.com | Publication : 2025-11-30*
+
+- De nouvelles recherches révèlent qu’au cours de la période 2023-2025, plus de 237 opérations cyber ont ciblé les infrastructures spatiales.
+- Les satellites et les systèmes de communication spatiaux sont menacés par la cyberguerre, met en garde un nouveau rapport, qui fait état de 237 opérations cyber ayant visé le secteur spatial entre janvier 2023 et juillet 2025, pendant le conflit à Gaza.
+- L’analyse, publiée par le Center for Security Studies (CSS) de l’ETH Zurich, compile des informations, notamment des publications sur les réseaux sociaux, des articles de presse et des données issues de forums de cybercriminalité, sur des cyberattaques contre le secteur spatial israélien et des agences internationales.
+- La hausse la plus spectaculaire des cyberattaques contre l’espace s’est produite lors de l’affrontement entre Israël et l’Iran en juin 2025, lorsque 72 opérations ont été recensées en un seul mois.
+
+## [Sturnus, le nouveau cauchemar des utilisateurs Android - 24matins](https://www.24matins.fr/sturnus-le-nouveau-cauchemar-des-utilisateurs-android-1399222)  
+*Source : 24matins.fr | Publication : 2025-11-30*
+
+- Sturnus, le nouveau cauchemar des utilisateurs Android Ce malware sophistiqué cible les appareils Android du sud et du centre de l’Europe, s’installe en demandant des droits administrateur et simule de fausses mises à jour pour masquer ses activités malveillantes.
+- Tl;dr Le malware Sturnus infecte les appareils Android via des APK déguisés en applications populaires.
+- - Il espionne les messages chiffrés et vole les identifiants bancaires grâce à des techniques sophistiquées.
+- - La meilleure protection consiste à installer uniquement des applications officielles et à activer Google Play Protect.
+
+## [Numérique: 26% des dirigeants africains investissent dans l'IA, mais sous-estiment la ...](https://afrique.le360.ma/afrique-australe/numerique-26-des-dirigeants-africains-investissent-dans-lia-mais-sous-estiment-la-menace-quantique_HJT6VGAGRBE57AKK2BQN4MKTPE/)  
+*Source : afrique.le360.ma | Publication : 2025-11-30*
+
+- Pour la première fois, un ensemble significatif de dirigeants africains — précisément 26% — prévoit de consacrer plus de 20% de leurs investissements annuels à l’Intelligence artificielle (IA) dès l’année prochaine.
+- Ce niveau, particulièrement élevé au regard des standards internationaux, dépasse largement les 14% observés parmi les dirigeants mondiaux, selon le rapport.
+- L’édition 2025 du KPMG Africa CEO Outlook marque à ce titre une inflexion stratégique rare dans les enquêtes de conjoncture du continent.
+- La dynamique ne relève plus du discours: elle se traduit dans les décisions budgétaires.
+
+## [Le PQ propose de légiférer sur la souveraineté numérique du Québec - MSN](https://www.msn.com/fr-ca/actualites/quebec-canada/le-pq-propose-de-légiférer-sur-la-souveraineté-numérique-du-québec/ar-AA1RkXN7)  
+*Source : msn.com | Publication : 2025-11-30*
+
+- Cybersécurité et le Numérique», a-t-il soutenu.
+- De son côté, le gouvernement Legault a assuré que les données étaient en sécurité.
+- Le ministre de.
+
+## [Une alliance pirate historique : les hackers russes et nord-coréens s'unissent pour mener ...](https://www.01net.com/actualites/alliance-pirate-historique-hackers-russes-nord-coreens-unissent-mener-cyberattaques.html)  
+*Source : 01net.com | Publication : 2025-11-30*
+
+- Une union historique bouscule actuellement le monde de la cybercriminalité.
+- Pour la première fois, des cybercriminels mandatés par différentes puissances étrangères ont décidé d’unir leurs forces pour orchestrer des cyberattaques.
+- C’est la première fois que la collaboration concrète entre des groupes APT (« Advanced Persistent Threat ») russes et nord-coréens est documentée par des chercheurs en cybersécurité.
+- À lire aussi : Un hébergeur pirate a été démantelé – 250 serveurs utilisés par des cybercriminels ont été saisis L’alliance entre Gamaredon et Lazarus Les experts de Gendigital ont en effet découvert que Gamaredon, un gang de pirates russes, s’est associé à Lazarus, un redoutable groupe de cybercriminels en provenance la Corée du Nord.
+
+## [Perfectionner la loi, protéger les personnes dans l'espace numérique - Vietnam.vn](https://www.vietnam.vn/fr/hoan-thien-phap-ly-bao-ve-nguoi-dan-tren-khong-gian-so)  
+*Source : vietnam.vn | Publication : 2025-11-30*
+
+- Lors de la 10e session de la 15e Assemblée nationale, de nombreux projets de loi relatifs à la sécurité et à l'ordre public ont été examinés, notamment le projet de loi sur la cybersécurité.
+- À l'issue de ses commentaires, la plupart des délégués se sont accordés sur la nécessité de modifier la loi, soulignant qu'il s'agit d'une étape importante pour protéger la souveraineté numérique, la sécurité nationale et les droits légitimes des citoyens, dans un contexte où le cyberespace est devenu un élément essentiel de notre vie quotidienne.
+- Protection des systèmes d'information essentiels à la sécurité nationale La députée Le Thi Ngoc Linh, représentante de la province de Ca Mau à l'Assemblée nationale, a approuvé la proposition du gouvernement et le rapport d'examen de la Commission de la défense nationale, de la sécurité et des affaires étrangères de l'Assemblée nationale concernant le projet de loi sur la cybersécurité.
+- Elle a précisé que ce projet de loi vise à articuler étroitement la protection de la cybersécurité, la protection des systèmes d'information critiques pour la sécurité nationale et la sécurité des données avec les objectifs de développement socio -économique, de garantie des droits humains et civils, et de création des conditions permettant aux organismes, organisations et particuliers d'opérer dans le cyberespace.
+
+## [[L'actu des labos] La <b>cybercriminalité</b> : quels défis pour le droit pénal contemporain](https://www.univ-poitiers.fr/lactu-des-labos-la-cybercriminalite-quels-defis-pour-le-droit-penal-contemporain/)  
+*Source : univ-poitiers.fr | Publication : 2025-11-30*
+
+- A l'occasion de la journée mondiale de la cybersécurité , (re)découvrez la conférence de Jérôme Bossan qui interroge les évolutions indispensables.
+
+## [Cryptomonnaies Upbit : l'incroyable attaque des hackers nord-coréens du groupe Lazarus](https://infos-it.fr/nouvelles/7700/cryptomonnaies-upbit-l-incroyable-attaque-des-hackers-nord-coreens-du-groupe-lazarus/)  
+*Source : infos-it.fr | Publication : 2025-11-30*
+
+- Le marché des cryptomonnaies continue de susciter toutes les convoitises, surtout celles dont il se passerait bien.
+- Le 27 novembre 2025, la plateforme sud-coréenne Upbit, mastodonte asiatique de l’échange crypto, a été frappée par une cyberattaque retentissante.
+- Aux commandes ?.
+- Le groupe Lazarus, un nom qui fait trembler jusqu’aux experts en cybersécurité les plus chevronnés.
+
+## [Série télévisée « Le pare-feu de Chang'an » : - Vietnam.vn](https://www.vietnam.vn/fr/phim-truyen-hinh-tuong-lua-trang-an)  
+*Source : vietnam.vn | Publication : 2025-11-30*
+
+- Inspiré de faits réels et des succès de la police de Hanoï , le film se distingue par son récit intimiste, réaliste et authentique.
+- À travers une enquête palpitante, il met en garde, de manière percutante et opportune, contre les cryptomonnaies et la cybercriminalité, des fléaux qui s'insinuent aujourd'hui dans tous les aspects de notre vie.
+- Des faits réels aux films « Trang An Firewall », produit par la Radio-Télévision de Hanoï, est la première série télévisée vietnamienne à aborder de front les affaires de cybercriminalité, notamment celles liées aux cryptomonnaies et à la fraude en ligne.
+- La série met en scène une lutte acharnée entre la police et un vaste réseau de trafic de cryptomonnaies, inspirée de faits réels démantelés par la police de Hanoï fin 2024.
+
+## [<b>Cybersécurité</b> : Campagne de sensibilisation - Capmad.com](https://www.capmad.com/fr/news/education-fr/cybersecurite-campagne-de-sensibilisation/?q=time-is-running-out-to-close-continents-massive-infrastructure-and-climatefinance-gap--2025-africa-investment-forum-panel-warns&pr=363813&lang=en)  
+*Source : capmad.com | Publication : 2025-11-30*
+
+- Un internet plus sûr pour les enfants à Maurice.
+- Le gouvernement mauricien, à travers le Ministre des Technologies de l'information,.
+
+## [Calendrier de l'avent original 2025 homme : cap sur la surprise et le plaisir au masculin](https://www.carnetdebord.info/calendrier-de-l-avent-original-2025-homme-cap-sur-la-surprise-et-le-plaisir-au-masculin/)  
+*Source : carnetdebord.info | Publication : 2025-11-29*
+
+- Oublie les calendriers tristounets remplis de chocolats sans âme.
+- En 2025, le calendrier de l’avent original pour homme passe à la vitesse supérieure et promet une vraie montée d’adrénaline chaque matin de décembre.
+- Que tu cherches un cadeau homme qui fait mouche, des soins beauté homme pointus ou une édition limitée qui claque, prépare-toi à être surpris.
+- Les hommes aussi ont droit à leur lot de gourmandises, accessoires barbe affûtés ou boissons alcoolisées haut de gamme dans leur coffret cadeau.
 
 ## [QNAP présente le héros QuTS h6.0 Beta avec une haute disponibilité grâce à deux NAS ...](https://samsungmagazine.eu/fr/2025/11/29/qnap-predstavuje-quts-hero-h6-0-beta-s-vysokou-dostupnosti-se-dvema-nas-nemennymi-snimky-a-dalsimi-funkcemi/)  
 *Source : samsungmagazine.eu | Publication : 2025-11-29*
