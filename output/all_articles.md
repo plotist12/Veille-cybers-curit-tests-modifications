@@ -1,5 +1,153 @@
-# Résumés – 2025-11-30
+# Résumés – 2025-12-01
 
+
+## [Mailinblack nomme Justine De Ubeda au poste de Directrice Produit - ITRnews](https://itrnews.com/articles/208100/mailinblack-nomme-justine-de-ubeda-au-poste-de-directrice-produit.html)  
+*Source : itrnews.com | Publication : 2025-12-01*
+
+- Veuillez activer Javascript.
+
+## [Édito. À l'ère de la <b>cybercriminalité</b>, la méfiance est incontournable - Paris Normandie](https://www.paris-normandie.fr/id678924/article/2025-12-01/edito-lere-de-la-cybercriminalite-la-mefiance-est-incontournable)  
+*Source : paris-normandie.fr | Publication : 2025-12-01*
+
+- À l'ère de la cybercriminalité , la méfiance est incontournable.
+- Un nouveau vol de données touchant plus 1,6 million de Français a été révélé par.
+
+## [<b>Cybersécurité</b> : L'importance des réseaux dans la logistique comme risque](https://b2b-cyber-security.de/fr/cybersicherheit-hohe-vernetzung-in-der-logistik-als-risiko/)  
+*Source : b2b-cyber-security.de | Publication : 2025-12-01*
+
+- L'interconnexion croissante du secteur logistique s'avère à la fois un atout et un inconvénient.
+- L'amélioration de l'efficacité s'accompagne de menaces accrues pour la sécurité des données.
+- C'est pourquoi le secteur intègre de plus en plus la cybersécurité au niveau de la direction.
+- Près des trois quarts des entreprises de logistique interrogées considèrent désormais la cybersécurité comme un enjeu stratégique.
+
+## [Les navigateurs dopés à l'IA créent de nouvelles vulnérabilités - INCYBER NEWS](https://incyber.org/article/navigateurs-dopes-lia-creent-nouvelles-vulnerabilites/)  
+*Source : incyber.org | Publication : 2025-12-01*
+
+- Accueil - Gestion des risques - Les navigateurs dopés à l’IA créent de nouvelles vulnérabilités - Les navigateurs dopés à l’IA créent de nouvelles vulnérabilités Trois ans après le lancement commercial de ChatGPT d’OpenAI, l’IA générative a modifié en profondeur notre façon de rechercher de l’information en ligne.
+- Selon le dernier baromètre Heroiks Pulse via Toluna Start pour Peak Ace, 34 % des Français utilisent désormais l’intelligence artificielle pour leurs recherches, soit une progression de six points en quelques mois.
+- Le phénomène est encore plus marqué chez les 18-24 ans, plus de 60 % d’entre eux affirmant avoir modifié leurs pratiques.
+- Plutôt que de parcourir une liste de liens référencés par un moteur de recherche, un nombre croissant d’utilisateurs s’en remet à ChatGPT, Perplexity ou Google Gemini pour les questionner en langage naturel et obtenir immédiatement une réponse sous forme de synthèse.
+
+## [Les cybercriminels ont trouvé un nouveau terrain de jeu, ils piratent les chaînes logistiques ...](https://www.bfmtv.com/tech/cybersecurite/les-cybercriminels-ont-trouve-un-nouveau-terrain-de-jeu-ils-piratent-la-chaine-logistique-et-detournent-pour-des-millions-de-dollars-de-produits-chaque-annee_AV-202512010744.html)  
+*Source : bfmtv.com | Publication : 2025-12-01*
+
+- Les cybercriminels ont trouvé un nouveau terrain de jeu, ils piratent les chaînes logistiques et détournent pour des millions de dollars de produits chaque année La cybercriminalité n'a pas de limites et elle le prouve une nouvelle fois après des révélations du Wall Street Journal affirmant que la piraterie en ligne cherche à se concentrer sur le domaine du fret.
+- Les entreprises dédiées aux livraisons à grande échelle, par voie maritime, aérienne ou routière, sont en effet de plus en plus visées depuis 2020 et l'explosion des transports de biens en parallèle de la pandémie.
+- Les braquages, foulard sur le visage, pour détourner un train, un camion ou même un avion, sont-ils sur le point de disparaître?.
+- Peut-être, ils ont en tout cas pris une toute autre forme, qui mélange action dans le monde réel et intervention dans le cyberespace.
+
+## [Cybermalveillance : les données personnelles d'environ 1,6 million d'utilisateurs divulguées](https://www.liberation.fr/economie/economie-numerique/cybermalveillance-les-donnees-personnelles-denviron-16-million-dutilisateurs-divulguees-20251201_BSTQD7BBBJEHPKATYN2EHZAMRA/)  
+*Source : liberation.fr | Publication : 2025-12-01*
+
+- Les données personnelles d’environ 1,6 million de jeunes suivis par les missions locales pour les aider à trouver un emploi «sont susceptibles d’être divulguées» à la suite d’un piratage informatique, ont annoncé ce lundi 1er février France Travail et l’Union nationale des missions locales (UNML).
+- Les éléments concernés sont le nom et le prénom, la date de naissance, le numéro de sécurité sociale, l’identifiant France Travail, les adresses mail et postale, ainsi que le numéro de téléphone.
+- «Aucun mot de passe ni aucune coordonnée bancaire n’ont été extraits», précisent toutefois les deux organismes dans un communiqué conjoint.
+- Décryptage «Les premières investigations révèlent que le compte d’un agent, responsable gestion de compte d’une mission locale, a été piraté», détaille le communiqué qui précise que l’attaquant a ensuite pu «créer deux nouveaux comptes» qui lui ont permis de consulter «des dossiers des jeunes accompagnés».
+
+## [Ikos achète une société espagnole d'ingénierie informatique et de <b>cybersécurité</b>](https://www.ville-rail-transports.com/ferroviaire/ikos-achete-une-societe-espagnole-dingenierie-informatique-et-de-cybersecurite/)  
+*Source : ville-rail-transports.com | Publication : 2025-12-01*
+
+- Ikos achète une société espagnole d’ingénierie informatique et de cybersécurité La société de conseil en ingénierie ferroviaire Ikos a annoncé début octobre avoir acquis Sica, une entreprise espagnole d’expertise en logiciels, systèmes de gestion de l’énergie électrique et cybersécurité.
+- Ikos compte plus de 1 700 ingénieurs répartis dans 33 bureaux à travers 15 pays dont la France, l’Espagne, la Belgique, l’Allemagne, la Suisse, le Royaume-Uni, l’Italie, la Suède, les États-Unis, le Canada et récemment l’Irlande.
+- Le groupe met la main sur une société créée en 1995, employant 40 personnes et qui accompagne les grandes entreprises du secteur ferroviaire, de l’énergie, de l’industrie et de la cybersécurité en leur fournissant des systèmes de contrôle et de supervision électriques de nouvelle génération.
+- Cette société bénéficie d’une forte présence en Amérique du Sud notamment au Brésil dans le cadre d’un projet sur le métro de Sao Paulo.
+
+## [Cyber malveillance: France Travail a nouveau au centre d'une grosse fuite de données, les ...](https://www.bfmtv.com/tech/cybersecurite/cyber-malveillance-france-travail-a-nouveau-au-centre-d-une-grosse-fuite-de-donnees-les-informations-de-1-6-million-de-personnes-susceptibles-d-etre-divulguees_AD-202512010705.html)  
+*Source : bfmtv.com | Publication : 2025-12-01*
+
+- Cyber malveillance: France Travail a nouveau au centre d'une grosse fuite de données, les informations de 1,6 million de personnes "susceptibles d'être divulguées" Et une dernière pour finir l'année?.
+- Après avoir été au centre de l'attention à plusieurs reprises cette année, et pour la dernière fois en octobre dernier, France Travail est à nouveau sous les feux des projecteurs, aujourd'hui, lundi 1er décembre, L'agence nationale ainsi que le réseau des Missions Locales appellent ainsi à la vigilance.
+- Les équipes de France Travail ont ainsi détecté un acte de cyber malveillance, qui a "conduit à la consultation de données personnelles d'environ 1,6 million de jeunes suivis par le réseau des Missions Locales", soit qu'ils soient inscrits à France Travail, soit qu'ils aient été préinscris à une formation via l’outil Ouiform opéré par France Travail.
+- Une compte piraté, les données de 1,6 million de personnes concernées Les premières investigations révèlent que "le compte d’un agent, responsable de gestion de compte (RGC) d’une mission locale a été piraté".
+
+## [Les 30 ans des Trophées de l'Économie : Mailinblack, champion marseillais de la <b>cybersécurité</b>](https://www.laprovence.com/article/economie/6702922130578/les-30-ans-des-trophees-de-l-economie-mailinblack-champion-marseillais-de-la-cybersecurite)  
+*Source : laprovence.com | Publication : 2025-12-01*
+
+- Les 30 ans des Trophées de l’Économie : Mailinblack, champion marseillais de la cybersécurité Par G.V.L.
+- Thomas Kerjean, dirigeant de Mailinblack, la pépite marseillaise de la cybersécurité récompensée lors des Trophées de l’Économie 2021.
+- / PHOTO David ROSSI Marseille MailinBlack, dirigée par Thomas Kerjean, est devenue un acteur européen de la cybersécurité.
+- Le Trophée souligne son ancrage local et son développement rapide.
+
+## [Une plateforme de crypto-blanchiment démantelée à Zurich - Allnews](https://www.allnews.ch/content/news/une-plateforme-de-crypto-blanchiment-démantelée-à-zurich)  
+*Source : allnews.ch | Publication : 2025-12-01*
+
+- Elle visait le service illégal «Cryptomixer», soupçonné de faciliter la cybercriminalité et le blanchiment d'argent.
+- ransomware , des forums d'.
+
+## [<b>Cybercriminalité</b>, des attaques bien réelles - TV Magazine](https://tvmag.lefigaro.fr/programme-tv/programme/cybercriminalite-des-attaques-bien-reelles-f1703255864)  
+*Source : tvmag.lefigaro.fr | Publication : 2025-12-01*
+
+- Cybercriminalité, des attaques bien réelles Avis des internautes(1) Infos Résumé A l'instar des personnes privées, les banques, les gouvernements et des organisations internationales comme l'Otan sont les cibles d'un nombre croissant de cyberattaques.
+- En France et en Allemagne, les entreprises et institutions publiques font l'objet de tentatives de piratage en moyenne 670 fois par semaine.
+- Fabian Osmond, président de la société française de sécurité Cybi, a développé une solution spécialisée dans la recherche des failles numériques.
+- Son logiciel Scuba permet d'identifier les chemins d'accès potentiellement utilisables par les hackeurs.
+
+## [<b>Cybersécurité</b> : Coupang, “l'Amazon coréen”, victime d'une massive de données ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-coupang-lamazon-coreen-victime-dune-massive-de-donnees-personnelles-touchant-33-millions-de-clients.5QD3CYHRKBEFTAY4BKFFKKW6A4.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-01*
+
+- Coupang, une société de commerce électronique sud-coréenne connue pour son service de livraison ultra-rapide, a confirmé fin novembre 2025 une fuite massive de données ayant exposé les données personnelles de 33,7 millions de clients.
+- Il s’agit de l’un des pires incidents cyber jamais enregistrés dans le pays.
+- Nom, email, téléphone.
+- Selon les premières investigations, les informations compromises comprennent les noms, adresses mail, numéros de téléphone, adresses postales de livraison et, dans certains cas, les historiques de commandes.
+
+## [<b>Cybersécurité</b> : comment les attaquants détournent les chaînes de blocs - LeMagIT](https://www.lemagit.fr/actualites/366635438/Cybersecurite-comment-les-attaquants-detournent-les-chaines-de-blocs)  
+*Source : lemagit.fr | Publication : 2025-12-01*
+
+- Siarhei - stock.adobe.com Cybersécurité : comment les attaquants détournent les blockchains Furtivité et résilience.
+- Des attaquants dissimulent leur code malveillant au sein de contrats intelligents déployés sur des blockchains publiques.
+- C’est la technique du « EtherHiding ».
+- Mais ce n’est pas la seule.
+
+## [Comparatif : 4 boitiers qui musclent la <b>cybersécurité</b> des PME en cinq minutes - JDN](https://www.journaldunet.com/cybersecurite/1546415-comparatif-4-boitiers-qui-musclent-la-cybersecurite-des-pme-en-cinq-minutes/)  
+*Source : journaldunet.com | Publication : 2025-12-01*
+
+- Comparatif : 4 boitiers qui musclent la cybersécurité des PME en cinq minutes Eho.Box, SyLink Box, Detoxio et Egide sont des box qui promettent de sécuriser tout le réseau des petites et moyennes entreprises via un abonnement mensuel.
+- Et si la cybersécurité devenait simple, concrète et bon marché pour les petites et moyennes entreprises ?.
+- C'est la promesse des quatre boitiers de cybersécurité fournis par les entreprises françaises de cybersécurité Serenicity, Eho.Link, SYLink Technologie et Cyberzen.
+- Avec une taille presque équivalente à celle d'une box Internet, ils ont la capacité de protéger l'ensemble du périmètre réseau d'une très petite, petite ou moyenne entreprise (TPE et PME).
+
+## [Thales et le CEA : une coopération inédite pour renforcer la <b>cybersécurité</b> post-quantique française](https://www.cea.fr/presse/Pages/actualites-communiques/defense/Thales-CEA-cybersécurité-post-quantique.aspx)  
+*Source : cea.fr | Publication : 2025-12-01*
+
+- Pour accéder à toutes les fonctionnalités de ce site, vous devez activer JavaScript.
+- Voici les instructions pour activer JavaScript dans votre navigateur Web.
+- Communiqué de presse | Cybersécurité Alors que la révolution quantique impose de repenser les fondements de la cybersécurité, Thales, leader mondial des hautes technologies, et le CEA, organisme public de recherche au service de l’Etat pour assurer la souveraineté scientifique et technologique de la France, ont collaboré pour aboutir à l’évaluation et au renforcement des nouvelles générations d’algorithmes cryptographiques post-quantiques (PQC).
+- En 2025, Thales et le CEA ont démarré un projet commun dénommé GIVERNY dont l’objectif est d’explorer la résistance contre les attaques de deux algorithmes post-quantiques que sont le schéma de signature HAWK, proche du standard FN-DSA (Digital Signature Standard) du NIST et le schéma de signature FAEST, proche du standard AES (Advanced Encryption Standard).
+
+## [<b>Cybercriminalité</b>. Face à &quot;la numérisation de plus en plus importante de la société&quot;, les ...](https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/cybercriminalite-face-a-la-numerisation-de-plus-en-plus-importante-de-la-societe-les-petites-et-moyennes-entreprises-dans-le-viseur-des-hackers-3258514.html)  
+*Source : france3-regions.franceinfo.fr | Publication : 2025-12-01*
+
+- En France, comme en Pays de la Loire, les entreprises sont régulièrement visées par des cyberattaques.
+- Si le phénomène ciblait d'abord les grandes firmes, il concerne aujourd'hui les sociétés plus modestes et vulnérables.
+- Le 10 juillet dernier, l'entreprise Wibaie, implantée à Cholet, s'apprête à démarrer sa journée.
+- Soudain, un personnel d'astreinte est contacté par la société en charge de surveiller ses réseaux informatiques.
+
+## [Martine Gouriet, directrice transformation numérique, usages et innovation d'EDF, élue ...](https://www.lemondeinformatique.fr/actualites/lire-martine-gouriet-directrice-transformation-numerique-usages-et-innovation-d-edf-elue-personnalite-it-2025-du-monde-informatique-98652.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-12-01*
+
+- Après Bruno Marie-Rose, DSI de Paris 2024, les lecteurs du Monde Informatique ont élu Martine Gouriet, directrice transformation numérique, usages et innovation d’EDF en tant que Personnalité IT 2025.
+- « Je suis très fière et très honorée de succéder à Bruno Marie-Rose, une personne que j’admire beaucoup sur le plan sportif et professionnel.
+- Je pense aussi que cette distinction est la reconnaissance d’un travail personnel et collectif avec toutes les équipes d’EDF et les partenaires avec qui je travaille », a indiqué la lauréate dans un entretien à retrouver dans le LMI Mag du mois de décembre.
+- Au sein d’EDF, Martine Gouriet gère plusieurs sujets allant du déploiement et l’adoption de l’IA auprès des salariés en passant par le sujet de la souveraineté numérique.
+
+## [<b>Cybersécurité</b>: le marché marocain franchit 1,2 milliard de dollars sous l'effet de la montée ...](https://fr.le360.ma/economie/cybersecurite-le-marche-marocain-franchit-12-milliard-de-dollars-sous-leffet-de-la-montee-des_DJ3ZKQFIBFGXTATXURBEX2UIUM/)  
+*Source : fr.le360.ma | Publication : 2025-12-01*
+
+- La généralisation des usages digitaux, l’extension des surfaces d’attaque et les impératifs de conformité redessinent les priorités des entreprises comme des administrations, confrontées à une montée en puissance constante des cyberagressions.
+- Dans ce contexte, le rapport de Ken Research souligne l’ancrage géographique de cette croissance.
+- Cependant, la concentration économique et technologique de Casablanca en fait le principal moteur de la demande en solutions de sécurité avancées.
+- Rabat quant à elle, structure la demande publique, tandis que Tanger, dotée d’un pôle industriel en expansion, ajoute un troisième versant à une cartographie qui reflète les nouvelles vulnérabilités urbaines de l’économie marocaine.
+
+## [Thales et le CEA coopèrent pour renforcer la <b>cybersécurité</b> post-quantique - Boursier.com](https://www.boursier.com/actions/actualites/news/thales-et-le-cea-cooperent-pour-renforcer-la-cybersecurite-post-quantique-973141.html)  
+*Source : boursier.com | Publication : 2025-12-01*
+
+- Présentée à la European Cyber Week (ECW) 2025 à Rennes, du 17 au 20 novembre, cette avancée représente une contribution majeure à la souveraineté.
+
+## [Conférence de sécurité intérieure | La préfecture et les services de l'État en région Bretagne](https://www.prefectures-regions.gouv.fr/bretagne/Documents-publications/Securite-Conference-de-securite-interieure)  
+*Source : prefectures-regions.gouv.fr | Publication : 2025-12-01*
+
+- cybersécurité et de la gestion des crises.
+- Dans un contexte international marqué par le retour des conflits, l'augmentation des risques.
 
 ## [Le groupe de <b>ransomware</b> DragonForce fait l'objet d'une enquête. - B2B Cyber Security](https://b2b-cyber-security.de/fr/ransomware-gruppe-dragonforce-unter-der-lupe/)  
 *Source : b2b-cyber-security.de | Publication : 2025-11-30*
