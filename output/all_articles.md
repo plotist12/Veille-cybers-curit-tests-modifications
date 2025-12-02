@@ -1,5 +1,162 @@
-# Résumés – 2025-12-01
+# Résumés – 2025-12-02
 
+
+## [Les enjeux futurs de la gouvernance, de la géopolitique et de la <b>cybersécurité</b>](https://www.clubpatrimoine.com/contenus/geopolitique-cybersecurite)  
+*Source : clubpatrimoine.com | Publication : 2025-12-02*
+
+- Les enjeux futurs de la gouvernance, de la géopolitique et de la cybersécurité (Natixis IM) Jens Peers, CIO de Mirova US et gestionnaire de portefeuille de la stratégie Mirova Global Sustainable Equity, aborde l'importance de la transition en matière de gouvernance.
+- La gouvernance est l'une des quatre mégatendances – des changements structurels à long terme dans le monde – sur lesquels se concentre cette stratégie.
+- Bien qu'il semble s'agir d'un thème de niche, il s'entrecroise avec la géopolitique, créant à la fois des défis et des opportunités.
+- Il met en avant des thèmes d'investissement tels que la cybersécurité dans le contexte des tensions géopolitiques, ainsi que le passage vers des économies locales et des chaînes d'approvisionnement résilientes.
+
+## [Logiciel de sécurité testé sous macOS Sequoia 15.6 - B2B Cyber Security](https://b2b-cyber-security.de/fr/Logiciel-de-sécurité-testé-sous-macOS-Sequoia-15.6/)  
+*Source : b2b-cyber-security.de | Publication : 2025-12-02*
+
+- Dans le laboratoire AV-TEST, 13 produits de sécurité pour macOS (Sequoia 15.6) ont été testés.
+- Les 11 solutions autonomes et les deux solutions de sécurité pour terminaux ont obtenu de bons résultats.
+- Ce point est important car on observe depuis peu une recrudescence des logiciels malveillants ciblant macOS avec des signatures volées mais authentiques.
+- Il y a quelques mois à peine, le voleur de données Atomic macOS (AMOS) a fait son apparition à grande échelle.
+
+## [<b>Cybersécurité</b> et protection des données : un atelier organisé à Plœuc-L'Hermitage ce 4 décembre](https://www.letelegramme.fr/cotes-d-armor/ploeuc-l-hermitage-22150/cybersecurite-et-protection-des-donnees-un-atelier-organise-a-ploeuc-lhermitage-ce-4-decembre-6939736.php)  
+*Source : letelegramme.fr | Publication : 2025-12-02*
+
+- L’Agglo de Saint-Brieuc organise un atelier autour de la cybersécurité et de la protection des données, au pôle de proximité de Plœuc-L’Hermitage, ce jeudi 4 décembre.
+- Saint-Brieuc Armor Agglomération organise, le jeudi 4 décembre, un atelier intitulé « Cybersécurité : tous concernés ; adoptons les bons réflexes en partageant les bonnes pratiques », à Plœuc-L’Hermitage.
+- Rendez-vous est donné de 16 h à 18 h, au pôle de proximité du 11 A, rue de l’Église.
+- Au programme : « Apprenez à sécuriser vos données, à vous prévenir des cyberattaques et à vous protéger des menaces numériques », indique l’Agglo.
+
+## [Maîtrise du risque tiers : Citalid propose une modélisation quantitative orientée conformité](https://itsocial.fr/cybersecurite/cybersecurite-actualites/maitrise-du-risque-tiers-citalid-propose-une-modelisation-quantitative-orientee-conformite/)  
+*Source : itsocial.fr | Publication : 2025-12-02*
+
+- Citalid introduit un nouveau module dédié au risque cyber fournisseur qui combine la modélisation quantitative, le renseignement sur la menace et l’IA générative.
+- L’outil répond aux exigences accrues de maîtrise du risque tiers liées à NIS2 et DORA et cherche à offrir une lecture opérationnelle et financière des vulnérabilités de la chaîne d’approvisionnement numérique.
+- L’éditeur met en avant une approche fondée sur la donnée réelle pour dépasser les limites des déclaratifs traditionnels.
+- La pression réglementaire impose aux organisations européennes une connaissance beaucoup plus précise de l’exposition de leurs prestataires.
+
+## [Bertin Technologies, Thales, Wallix, Evitech… les dernières annonces... - AEF info](https://www.aefinfo.fr/depeche/741650-bertin-technologies-thales-wallix-evitech-les-dernieres-annonces-sur-les-technologies-et-services-de-securite/amp)  
+*Source : aefinfo.fr | Publication : 2025-12-02*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : Voici, en bref, une sélection d’actualités récentes relatives aux technologies et services de sécurité :Des fonds se positionnent pour racheter Bertin Technologies ;Thales et le CEA évaluent des algorithmes de cryptographie post-quantique ;Wallix acquiert une société spécialisée dans l’analyse de données de cybersécurité ;Stormshield veut continuer à se développer dans le secteur de la défense ;Evitech trouve un repreneur ;Vitaprotech change de nom et se réorganise ;Parrot conclut des accords avec des distributeurs en Europe et en Asie ;Sahar devient partenaire du Comité Richelieu….
+
+## [Comment le Français Breachunt protège de la menace des cleptogiciels - LeMagIT](https://www.lemagit.fr/conseil/Comment-le-francais-Breachunt-protege-de-la-menace-des-cleptogiciels)  
+*Source : lemagit.fr | Publication : 2025-12-02*
+
+- leowolfert - stock.adobe.com Comment le Français Breachunt protège de la menace des cleptogiciels Les identifiants compromis par les infostealers constituent une menace considérable encore mal comprise.
+- Mais la jeune pousse Breachunt en a fait son point focal pour protéger les entreprises.
+- Breachunt est une jeune pousse française fondée il y a 5 ans par Hugo Benoist, président d’OSINT FR, et Arnaud Garrigues, un ancien du ministère des Armées tombé dans la cybersécurité il y a un peu plus de dix ans.
+- L’entreprise se concentre sur la veille.
+
+## [Perspectives de la <b>cybersécurité</b> en 2026 - Centre d'analyse et de partage des informations de santé](https://health-isac.org/fr/Que-nous-réserve-la-cybersécurité-en-2026-/)  
+*Source : health-isac.org | Publication : 2025-12-02*
+
+- En 2025, les organisations d'infrastructures critiques du monde entier ont été confrontées à une vague de cybermenaces orchestrées par des acteurs malveillants motivés par l'espionnage ou le sabotage, des groupes de ransomware à motivation financière et des hacktivistes à motivation idéologique – et la situation ne cesse de s'aggraver.
+- Notre équipe de veille sur les menaces chez PwC prévoit que l'année 2026 sera marquée par des cyberopérations plus furtives, persistantes et axées sur l'usurpation d'identité, souvent liées à des conflits géopolitiques et idéologiques du monde réel.
+- Les adversaires privilégient de plus en plus l'authentification à l'intrusion, exploitant ainsi les comptes légitimes et les processus d'authentification pour accéder aux systèmes.
+- Les progrès de l'IA et la démocratisation des outils d'attaque facilitent la mise en œuvre de campagnes clandestines et de grande envergure par les acteurs malveillants.
+
+## [<b>Cybersécurité</b>, Protection des données à caractère personnel et Intelligence artificielle : Le ...](https://bamada.net/cybersecurite-protection-des-donnees-a-caractere-personnel-et-intelligence-artificielle-le-projet-andal-phase-2-de-benbere-a-organise-un-forum)  
+*Source : bamada.net | Publication : 2025-12-02*
+
+- Dans le cadre de la phase 2 du projet «Andal», la Plateforme Benbéré a organisé, le 25 novembre 2025, au Mémorial Modibo Kéita, un forum sur la cybersécurité, la protection des données à caractère personnel et l’intelligence artificielle.
+- Il a réuni journalistes, blogueurs, web activistes, entre autres.
+- Le Forum est financé par Internationale Media Support (IMS).
+- Il intervient dans le cadre de la phase 2 du projet « Andal », initié par la plateforme Benbéré.
+
+## [Budget 2026: des millions pour la sécurité, coupe dans l'administration fédérale | Allnews](https://www.allnews.ch/content/réglementation/budget-2026-des-millions-pour-la-sécurité-coupe-dans-l’administration)  
+*Source : allnews.ch | Publication : 2025-12-02*
+
+- La cybersécurité reçoit 10 millions de plus.
+- En revanche, l'adaptation des salaires du personnel passe à l'as.
+- Le Conseil des Etats, première Chambre.
+
+## [L'armée israélienne bannit Android et impose l'iPhone - OpexNews](https://opexnews.fr/armee-israelienne-tsahal-iphone-interdit-android-officiers/)  
+*Source : opexnews.fr | Publication : 2025-12-02*
+
+- Les Forces de défense israéliennes s’apprêtent à changer une pièce discrète mais stratégique de leur panoplie : le smartphone de leurs chefs.
+- Selon The Jerusalem Post, une directive va interdire les téléphones Android pour les communications officielles des officiers à partir du grade de lieutenant-colonel, sur les lignes fournies par Tsahal.
+- Seuls les iPhone resteront autorisés.
+- Derrière ce choix très concret, c’est une certaine idée de la cybersécurité opérationnelle qui se dessine.
+
+## [<b>Cybersécurité</b> : une conférence à l'IUT de Bayonne le 10 décembre - Placéco](https://www.placeco.fr/nouvelle-aquitaine/ecosysteme/article/cybersecurite-une-conference-a-liut-de-bayonne-le-10-decembre-9125)  
+*Source : placeco.fr | Publication : 2025-12-02*
+
+- Cybersécurité : une conférence à l’IUT de Bayonne le 10 décembre L’événement s’adresse aux acteurs économiques, aux collectivités et aux étudiants du territoire.
+- Crédits : Gazte Co La Jeune Chambre Économique du Pays Basque organise, avec la junior Gazte Co.
+- de l’IUT, une conférence sur la cybersécurité mercredi 10 décembre 2025 à 19 h à l’IUT de Bayonne.
+- L’événement s’adresse aux acteurs économiques, aux collectivités et aux étudiants du territoire.
+
+## [Une faille touchant Teams expose les entreprises au phishing - ICTjournal](https://www.ictjournal.ch/news/2025-12-02/une-faille-touchant-teams-expose-les-entreprises-au-phishing)  
+*Source : ictjournal.ch | Publication : 2025-12-02*
+
+- Une faille touchant Teams expose les entreprises au phishing Microsoft Teams présente un risque de sécurité dans la messagerie avec des utilisateurs externes, selon la société de cybersécurité Ontinue.
+- La fonctionnalité «Chat with Anyone» permettrait à des attaquants de contourner certaines protections de Microsoft Defender et de diffuser plus facilement du phishing ou des malwares.
+- Un billet de blog publié par Ontinue alerte sur un risque lié à l’accès invité dans Microsoft Teams.
+- La fonctionnalité «Chat with Anyone», déployée cette année, permet à un utilisateur d’engager une conversation avec n’importe quelle adresse e-mail, même si le destinataire ne possède pas de compte Teams.
+
+## [Cyberattaque : France Travail de nouveau piraté, les données de 1,6 million de jeunes ...](https://www.usine-digitale.fr/cybersecurite/cyberattaque-france-travail-de-nouveau-pirate-les-donnees-de-16-million-de-jeunes-potentiellement-exposees.ZG4Q4PNAXRGX5FWOUW4YBDJG2Y.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-02*
+
+- France Travail, ex-Pôle Emploi, et le réseau des Missions Locales - dispositif d’accompagnement des jeunes qui rencontrent des difficultés - ont annoncé le 1er décembre qu’une cyberattaque avait permis la consultation des données personnelles d’environ 1,6 million de jeunes.
+- Quatrième incident en deux ans L’incident survient alors que France Travail a déjà été touché par plusieurs attaques ces dernières années.
+- Il s’agit du quatrième incident en deux ans.
+- Le dernier remonte à octobre dernier au cours duquel les données de plus de 300 000 inscrits auraient été exfiltrées.
+
+## [<b>Cybersécurité</b>: le projet de loi transposant NIS 2 toujours en attente d'examen parlementaire](https://www.ticsante.com/story?ID=7976)  
+*Source : ticsante.com | Publication : 2025-12-02*
+
+- Le responsable était interrogé par Vincent Trely, président de l'Association pour la sécurité des systèmes d'information de santé (Apssis), à l'occasion de rencontres organisées par l'association à Paris.
+- La directive NIS 2 devait initialement être transposée en droit français avant le 17 octobre 2024.
+- Elle a été intégrée au projet de loi "relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité", qui doit également transposer la directive sur la résilience des entités critiques (dite "REC") et celle sur la résilience critique des banques (Dora).
+- Le projet a été présenté en conseil des ministres à l'automne 2024 et adopté par le Sénat, et attend désormais son examen à l'Assemblée nationale.
+
+## [Claudette McGowan | Asia Pacific Foundation of Canada.](https://www.asiapacific.ca/fr/networks/canwin/claudette-mcgowan-)  
+*Source : asiapacific.ca | Publication : 2025-12-02*
+
+- Claudette McGowan Claudette McGowan est une leader mondiale en technologies de l’information, reconnue pour ses plus de 20 ans de succès dans la transformation numérique et la mise en œuvre de plateformes et solutions en cybersécurité.
+- Elle a travaillé pour plusieurs organisations telles que Deloitte, Metropolitan Police Services, North York General Hospital, BMO (Banque de Montréal) et TD Bank.
+- Chez BMO, elle a occupé le poste de directrice des systèmes d'information de l’expérience employé en technologie d’entreprise et, chez TD, elle était directrice générale mondiale pour Protect Fusion & Cyber Experience.
+- Actuellement cheffe de la direction de Protexxa, Claudette dirige cette entreprise innovante en cybersécurité, qui propose la plateforme Protexxa Defender, une solution alimentée par l’intelligence artificielle permettant de détecter et corriger les vulnérabilités cyber chez les organisations et les particuliers.
+
+## [La Suisse et les États-Unis lancent le projet de recherche « A-VIPER - news.admin.ch](https://news.admin.ch/fr/newnsb/hhwjvgaubG9O3Y-EfeEkA)  
+*Source : news.admin.ch | Publication : 2025-12-02*
+
+- La Suisse et les États-Unis lancent le projet de recherche « A-VIPER » sur la détection automatisée des vulnérabilités logicielles Berne, 02.12.2025 — L’Office fédéral de l’armement armasuisse et l’U.S.
+- Air Force Research Laboratory (AFRL) ont lancé le projet de recherche « A-VIPER ».
+- Il est basé sur l’accord-cadre actuel entre le Département fédéral de la défense, de la protection de la population et des sports (DDPS) et le Département de la Défense des États-Unis (DoD) et vise à développer de manière décisive l’identification, l’analyse et la priorisation automatisées des vulnérabilités logicielles dans les systèmes critiques pour la sécurité.
+- Au cœur du projet se trouve le développement conjoint d’un environnement logiciel regroupant des outils d’analyse et des procédures techniques destinés à identifier les vulnérabilités, les étudier et les évaluer selon leur criticité.
+
+## [Pourquoi Hostinger est devenu un hébergeur incontournable en 2025 : IA, sécurité, vitesse ...](https://www.lepoint.fr/services/pourquoi-hostinger-est-devenu-un-hebergeur-incontournable-en-2025-ia-securite-vitesse-on-fait-le-point-02-12-2025-2604574_4345.php)  
+*Source : lepoint.fr | Publication : 2025-12-02*
+
+- Temps de lecture : 3 min Ajouter à mes favoris L'article a été ajouté à vos favoris - Google News - - En 2025, l'hébergement web change complètement de visage.
+- Le SEO évolue, l'IA bouleverse le trafic, les bots aspirent les pages, et Google impose de nouveaux standards de vitesse.
+- Résultat : les “hébergeurs pas chers” ne suffisent plus.
+- Il faut des performances, des protections réelles et une infrastructure moderne.
+
+## [<b>Cybersécurité</b> post-quantique : la feuille de route pour préparer sa transition - JDN](https://www.journaldunet.com/cybersecurite/1546445-cybersecurite-post-quantique-la-feuille-de-route-pour-preparer-sa-transition/)  
+*Source : journaldunet.com | Publication : 2025-12-02*
+
+- Cybersécurité post-quantique : la feuille de route pour préparer sa transition Pour se conformer aux exigences de l'Anssi, les entreprises doivent repérer leurs actifs cryptographiques obsolètes et les remplacer grâce à des solutions adaptées.
+- Le directeur général de l'Agence nationale de la sécurité des systèmes d'information (Anssi) a été clair lors de son discours aux Assises de la cybersécurité, le 8 octobre dernier : les entreprises doivent dès maintenant préparer leur transition post-quantique.
+- Pour les forcer, l'Anssi a décidé qu'elles ne pourront plus acquérir de solutions qui n'intègrent pas de cryptographie résistante à l'informatique quantique dès 2030.
+- Elle s'aligne sur les recommandations du National institute of standards and technology (Nist) qui conseille aux entreprises de commencer leur transition vers du chiffrement post-quantique dans son rapport Transition to post-quantum cryptography standards publié en 2024.
+
+## [Baromètre <b>cybersécurité</b> en Bretagne, les entreprises prennent l'ascendant, les collectivités ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/barometre-cybersecurite-en-bretagne-les-entreprises-prennent-lascendant-les-collectivites-a-la-traine/)  
+*Source : itsocial.fr | Publication : 2025-12-02*
+
+- La Bretagne se dote d’une vision de plus en plus précise des dynamiques de cybersécurité à l’échelle territoriale.
+- Selon la 2ᵉ édition du Baromètre Cybersécurité breton 2025, les organisations renforcent progressivement leur posture, même si les collectivités accusent un retard par rapport aux entreprises.
+- L’étude révèle une structuration lente mais tangible, marquée par des disparités en matière de gouvernance, de perception du risque et de moyens consacrés à la sécurité numérique.
+- La force du baromètre 2025 réside dans sa dimension territoriale assumée.
+
+## [Inde : Polémique autour de l'application de <b>cybersécurité</b> Sanchar Saathi imposée sur tous ...](https://ch.zonebourse.com/actualite-bourse/inde-polemique-autour-de-l-application-de-cybersecurite-sanchar-saathi-imposee-sur-tous-les-smartp-ce7d51d9d981f326)  
+*Source : ch.zonebourse.com | Publication : 2025-12-02*
+
+- L'obligation faite aux fabricants de smartphones en Inde de préinstaller une application de cybersécurité détenue par l'État sur tous les nouveaux appareils a déclenché une tempête politique, alimentant les craintes d'une surveillance gouvernementale dans la nation la plus peuplée du monde.
+- Cette application, baptisée Sanchar Saathi, ou « Partenaire de Communication », se trouve au coeur d'une controverse impliquant des géants technologiques tels qu'Apple, Samsung, Xiaomi et d'autres.
+- Ils disposent de 90 jours pour se conformer à la directive.
+- Actuellement disponible sur les boutiques d'applications Apple et Android, Sanchar Saathi est présentée comme un outil de sécurité centré sur le citoyen.
 
 ## [Mailinblack nomme Justine De Ubeda au poste de Directrice Produit - ITRnews](https://itrnews.com/articles/208100/mailinblack-nomme-justine-de-ubeda-au-poste-de-directrice-produit.html)  
 *Source : itrnews.com | Publication : 2025-12-01*
