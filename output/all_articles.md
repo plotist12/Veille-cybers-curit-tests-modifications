@@ -1,5 +1,147 @@
-# Résumés – 2025-12-03
+# Résumés – 2025-12-04
 
+
+## [Le rôle du comité d'audit face aux cyberrisques en évolution - KPMG International](https://kpmg.com/ca/fr/home/insights/2025/11/how-audit-committees-are-leading-amid-evolving-cyber-risks.html)  
+*Source : kpmg.com | Publication : 2025-12-04*
+
+- L’intensification des attaques basées sur l’intelligence artificielle (IA) a amené la cybersécurité au-delà du domaine des technologies de l’information, devenant un enjeu central de confiance, de réputation et de gouvernance.
+- Selon notre plus récent sondage annuel Perspective des chefs de la directioni, la cybersécurité demeure une préoccupation majeure pour les chefs de la direction canadiens.1 Bien que la plupart des organisations reconnaissent l’importance de la cybersécurité, les comités d’audit ont un rôle central à jouer dans la surveillance et l’orientation des pratiques en matière de cybersécurité.
+- Le contexte des menaces évolue Les auteurs de cybermenaces sont tellement occupés qu’ils ne prennent plus de pause comme avant et utilisent des agents conversationnels alimentés par l’IA pour gérer les négociations entourant leurs attaques de routine par rançongiciel.
+- Ils deviennent également plus agressifs et demandent des rançons plus élevées, des tactiques qui portent leurs fruits et encouragent encore plus la criminalité.
+
+## [Note de conjoncture 2025 du groupe La Poste et de La Banque des Territoires](https://www.courrierdesmaires.fr/article/note-de-conjoncture-2025-du-groupe-la-poste-et-de-la-banque-des-territoires-les-collectivites-franchissent-un-cap-dans-l-ia-la-donnee-et-la-cybersecurite.59462)  
+*Source : courrierdesmaires.fr | Publication : 2025-12-04*
+
+- Verifying your browser before proceeding.
+- Incident ID: 8efa7114-cjkr-47e7-9875-15f551d63fda.
+
+## [<b>Cybersécurité</b> : des ETI plus matures ? | LeMagIT](https://www.lemagit.fr/actualites/366635812/Cybersecurite-des-ETI-plus-matures)  
+*Source : lemagit.fr | Publication : 2025-12-04*
+
+- mehaniq41 - stock.adobe.com Cybersécurité : des ETI plus matures ?.
+- Les entreprises de taille intermédiaire concentrent une bonne part de l’activité économique française, et ne sont pas épargnées par les cyber-menaces.
+- Mais elles semble avoir une approche plus mature que les PME.
+- Cette analyse ne peut se faire sans un point sémantique et statistique quand on parle de TPE/PME et ETI pour la clarté et la compréhension commune des chiffres : rappelons que d’après la loi de modernisation de l’économie française de 2008, les TPE ou « microentreprises » comptent moins de 10 salariés, (elles emploient 18 % des salariés du secteur non agricole en 2022, selon la Dares), les PME 10 à 249 salariés et sont au nombre de 140 000 (28 % des salariés EQTP, selon l'Insee).
+
+## [<b>Cybercriminalité</b> en Guinée : un réseau d'arnaqueurs démantelé après avoir volé plus de ...](https://guineenews.org/2025/12/04/cybercriminalite-en-guinee-un-reseau-darnaqueurs-demantele-apres-avoir-vole-plus-de-900-millions-gf/)  
+*Source : guineenews.org | Publication : 2025-12-04*
+
+- Ce jeudi 4 décembre, la Direction Générale de la Police Nationale a frappé un grand coup.
+- Grâce au travail de la Direction Centrale de la Police Judiciaire (DCPJ), un réseau spécialisé dans le vol et l’escroquerie ciblant les gérants de kiosques Orange Money a été démantelé, révélant un mode opératoire particulièrement sophistiqué et redoutablement efficace.
+- Selon la chargée de communication de la Police nationale, le Capitaine Rama Baldé, les malfaiteurs agissaient en équipe.
+- Ils repéraient d’abord un kiosque, puis envoyaient un premier duo effectuer un retrait, un dépôt symbolique ou passer une simple commande.
+
+## [Narf Industries remporte un contrat de <b>cybersécurité</b> de 4 millions de dollars avec une ... - Bourse](https://ch.zonebourse.com/actualite-bourse/narf-industries-remporte-un-contrat-de-cybersecurite-de-4-millions-de-dollars-avec-une-agence-gouver-ce7d51dfdd80f321)  
+*Source : ch.zonebourse.com | Publication : 2025-12-04*
+
+- Narf Industries remporte un contrat de cybersécurité de 4 millions de dollars avec une agence gouvernementale américaine— Le groupe britannique de cybersécurité Narf Industries a obtenu un contrat de deux ans d'une valeur de 3,6 millions de dollars avec une agence américaine de recherche et développement dont.
+
+## [METAVISIO - THOMSON Computing signe un partenariat stratégique avec Kaspersky ... - Actusnews](https://www.actusnews.com/fr/amp/metavisio/cp/2025/12/04/metavisio-thomson-computing-signe-un-partenariat-strategique-avec-kaspersky-et-integrera-un-an-de-kaspersky-premium-a-l_ensemble)  
+*Source : actusnews.com | Publication : 2025-12-04*
+
+- cybersécurité.
+- À partir de décembre 2025, l'ensemble des ordinateurs Thomson commercialisés incluront un an d'accès à Kaspersky Premium, la suite.
+
+## [des « esclaves » par centaines de milliers qui tissent les arnaques en ligne - YouTube](https://www.youtube.com/watch?v=Fqjhowezy3Y)  
+*Source : youtube.com | Publication : 2025-12-04*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [<b>Cybersécurité</b> pour systèmes embarqués : dSpace rachète dissecto - VIPress.net](https://vipress.net/cybersecurite-pour-systemes-embarques-dspace-rachete-dissecto/)  
+*Source : vipress.net | Publication : 2025-12-04*
+
+- Cybersécurité pour systèmes embarqués : dSpace rachète dissecto Le portefeuille de solutions de simulation et de validation de dSpace s’élargit pour y inclure désormais des flux de tests de sécurité automatisés de bout en bout pour l’ensemble du processus de développement des systèmes embarqués.
+- Le groupe allemand dSpace, fournisseur de solutions de simulation et de validation, annonce l’acquisition de son compatriote dissecto pour un montant qui n’a pas été dévoilé.
+- Grâce à cette acquisition, dSpace complète son portefeuille produit pour y inclure désormais des solutions de cybersécurité pour les systèmes embarqués, afin que ses clients des secteurs de l’automobile, de l’agriculture, de la santé et de la production puissent bénéficier de flux de test de sécurité automatisés, performants et de bout en bout, tout au long du processus de développement.
+- Les technologies de dissecto – en particulier HydraVision, le cadre de test de cybersécurité évolutif pour le développement de véhicules – seront à l’avenir intégrées aux solutions de développement et de test existantes de dSpace.
+
+## [Rang-du-Fliers : une ministre en visite à Exalta (ex-InTech médical) pour évoquer la fibre et ...](https://www.nordlittoral.fr/269873/article/2025-12-04/rang-du-fliers-une-ministre-en-visite-exalta-ex-intech-medical-pour-evoquer-la)  
+*Source : nordlittoral.fr | Publication : 2025-12-04*
+
+- Grâce à cet outil qui utilise l'IA, c'est quasiment instantané ».
+- La ministre apprécie.
+- La cybersécurité au centre des attentions.
+- Un autre sujet est.
+
+## [Agoratech 2025 : Le Maroc réunit l'élite publique et privée pour penser la <b>cybersécurité</b> et la ...](https://mobile.telquel.ma/2025/12/04/agoratech-2025-le-maroc-reunit-lelite-publique-et-privee-pour-penser-la-cybersecurite-et-la-souverainete-numerique_1963910)  
+*Source : mobile.telquel.ma | Publication : 2025-12-04*
+
+- Initié par la Fédération APEBI, l'événement place la cybersécurité , la souveraineté numérique et les infrastructures technologiques au centre d'un.
+
+## [Jean-Sylvain Chavanne rejoint la direction de BZHunt - Bretagne Économique](https://www.bretagne-economique.com/actualites/jean-sylvain-chavanne-rejoint-la-direction-de-bzhunt/)  
+*Source : bretagne-economique.com | Publication : 2025-12-04*
+
+- Expert reconnu de la cybersécurité appliquée aux environnements critiques, notamment en milieu hospitalier et public, Jean-Sylvain Chavanne rejoint l’entreprise BZHunt, spécialisée dans l’anticipation et la prévention des risques cyber.
+- Habitué aux situations de crise comme aux transformations profondes, Jean-Sylvain Chavanne possède une connaissance fine des menaces, des chaînes d’attaque et des enjeux opérationnels du monde réel.
+- Son approche repose sur une conviction forte : « la cybersécurité est avant tout un travail d’anticipation et d’entraînement ».
+- Au sein de l’équipe BZHunt, la nouvelle recrue aura pour mission d’accélérer le développement des offres de gouvernance cyber et de gestion de crise ; ainsi que de renforcer les processus internes afin d’accompagner la croissance de BZHunt.
+
+## [<b>Cybersécurité</b> : Les PME paient leur transformation numérique au prix fort avec une ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-les-pme-paient-leur-transformation-numerique-au-prix-fort-avec-une-explosion-des-attaques.WWGQ6TXXEBFXBM4TWO7XWL3BKQ.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-04*
+
+- “Les PME paient le prix fort de leur transformation numérique”, résume le Security Navigator, une étude annuelle menée par Orange Cyberdefense, présentée ce 4 décembre 2025.
+- Elle repose sur une analyse menée par une vingtaine d’experts issus des 32 centres opérationnels de sécurité de la filiale d’Orange spécialisée dans la sécurité informatique.
+- Les PME particulièrement vulnérables Les chiffres sont particulièrement inquiétants : deux petites et moyennes entreprises (PME) sur trois ont été victimes d’une cyberattaque en 2025.
+- Leur numérisation accélérée combinée à un manque de ressources dédiées à la cybersécurité accroît mécaniquement leur vulnérabilité.
+
+## [Cyberattaque : Leroy Merlin victime d'une importante fuite de données de centaines de ...](https://www.liberation.fr/economie/economie-numerique/cyberattaque-leroy-merlin-victime-dune-importante-fuite-de-donnees-de-centaines-de-milliers-de-clients-20251204_4Y3QGXXPGVAPLMUMTG7U6WU7VM/)  
+*Source : liberation.fr | Publication : 2025-12-04*
+
+- Dans un contexte de multiplications des cyberattaques contre les entreprises, l’enseigne de bricolage Leroy Merlin s’ajoute désormais à la liste.
+- Les données personnelles associées aux comptes de fidélité de plusieurs centaines de milliers de clients ont ainsi été corrompues, a fait savoir l’entreprise ce jeudi 4 décembre.
+- Selon l’enseigne de la galaxie Mulliez, les informations bancaires et les mots de passe des comptes clients ne sont toutefois pas concernés.
+- Ce sont des «données de contact» qui ont été touchées, comme les noms et prénoms, numéros de téléphone, adresses email et postales.
+
+## [Nouveau kidnapping dans les cryptos : un homme violemment agressé - Capital.fr](https://www.capital.fr/crypto/nouveau-kidnapping-dans-les-cryptos-un-homme-violemment-agresse-1521562)  
+*Source : capital.fr | Publication : 2025-12-04*
+
+- Nouvel enlèvement spectaculaire lié aux cryptos.
+- Les faits se sont déroulés ce mercredi 3 novembre à Eaubonne, petite ville du nord du Val-d’Oise.
+- Vers 15h40, un homme de 53 ans a été violemment kidnappé devant son pavillon par quatre individus cagoulés, gantés et vêtus de noir, selon des sources policières citées par RTL.
+- La victime a été forcée à monter dans un utilitaire, qui a rapidement quitté les lieux.
+
+## [À Bannalec, L@ssourie propose un module <b>cybersécurité</b> et gestion des mots de passe](https://www.letelegramme.fr/finistere/bannalec-29380/l-at-ssourie-propose-un-module-cybersecurite-et-gestion-des-mots-de-passe-6940845.php)  
+*Source : letelegramme.fr | Publication : 2025-12-04*
+
+- Dans le but d’aider les personnes dans la gestion du quotidien et faire face aux cyberattaques, le club informatique L@ssourie de Bannalec propose un module cybersécurité et gestion des mots de passe.
+- « Ce module, de deux séances de deux heures, est programmé ces lundis 8 et 15 décembre de 15 h à 17 h », a annoncé la présidente Sylviane Pichon.
+- « La cybercriminalité explose, portée par des outils malveillants désormais accessibles à tous.
+- Faux sites officiels, arnaques lors d’achats en ligne, extorsion via webcam, faux supports techniques ou hameçonnage (SMS, mails, colis, appels de faux conseillers bancaires) se multiplient.Les données personnelles volées (identité, contacts, biométrie, numéros officiels) sont revendues pour quelques centimes sur le dark web, tandis que les attaques, facilitées par l’Intelligence artificielle, atteignent 600 millions par jour.
+
+## [<b>Cybercriminalité</b> : une menace grandissante sur les téléphones mobiles - Vie publique](https://www.vie-publique.fr/en-bref/301185-smartphones-des-cibles-de-choix-pour-les-cybercriminels)  
+*Source : vie-publique.fr | Publication : 2025-12-04*
+
+- L'Agence nationale de la sécurité des systèmes d’information (Anssi) vient de publier un état de la cybermenace sur les équipements téléphoniques mobiles depuis 2015.
+- Dans le rapport publié le 26 novembre 2025, l’Agence revient sur les technologies exploitées par les cybercriminels, les objectifs poursuivis (surveillance, espionnage), l'identité des acteurs (États, entreprises privées agissant pour le compte d’un État…) et les cibles potentielles.
+- Le rapport s'appuie sur les incidents traités par l'Anssi mais aussi sur les remontées des éditeurs de sécurité, des organisations non gouvernementales ou encore émanant de sources ouvertes.
+- Différentes formes de vulnérabilité des smartphones Les téléphones mobiles, par leurs capacités logicielles et matérielles et par les technologies employées offrent de multiples portes d’entrée pour la collecte de renseignements et la surveillance.
+
+## [<b>Cybersécurité</b> : les extorsions en ligne en hausse en 2025, selon un rapport - Le Parisien](https://www.leparisien.fr/high-tech/cybersecurite-les-extorsions-en-ligne-en-hausse-en-2025-selon-un-rapport-04-12-2025-Q2S6FIBSARENPF3CCI7SFFEB6E.php)  
+*Source : leparisien.fr | Publication : 2025-12-04*
+
+- Cybersécurité : les extorsions en ligne en hausse en 2025, selon un rapport Les PME, déjà visées d’après les précédents rapports, représentent désormais deux tiers (67%) des victimes.
+- Les États-Unis et le Canada restent les premières cibles, suivies des pays européens.
+- Le nombre de victimes d’extorsions en ligne a de nouveau augmenté en 2025, avec une représentation élevée des petites et moyennes entreprises (PME), selon le rapport annuel publié jeudi par Orange Cyberdefense, branche cybersécurité du groupe Orange.
+- Entre octobre 2024 et septembre 2025, le nombre de victimes a bondi de 44,5% par rapport à la même période l’année précédente, atteignant plus de 6 100 organisations.
+
+## [Le «pure-player» de la <b>cybersécurité</b> Wallix fourbit ses armes dans l'IA agentique avec l ...](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/le-pure-player-de-la-cybersecurite-wallix-fourbit-ses-armes-dans-lia-agentique-avec-lacquisition-de-la-startup-malizen-2202749)  
+*Source : investir.lesechos.fr | Publication : 2025-12-04*
+
+- Wallix met un pied dans un marché porteur d'immenses promesses, celui de l'IA agentique.
+- Le «pure-player» français de la cybersécurité le fait par le.
+
+## [« 19 000 entreprises françaises ont subi une attaque » : comment la <b>cybercriminalité</b> s'industrialise](https://www.ouest-france.fr/societe/cyberattaque/19-000-entreprises-francaises-ont-subi-une-attaque-comment-la-cybercriminalite-sindustrialise-652acb10-d022-11f0-8aae-c226ab82a7d1)  
+*Source : ouest-france.fr | Publication : 2025-12-04*
+
+- Orange Cyberdefense publie jeudi 4 décembre 2025 le « Security navigator 2026 », véritable thermomètre de la menace cyber en France.
+
+## [Rançon, cryptomonnaie, fils à Dubaï… Ce que l'on sait de l'enlèvement de l'homme ...](https://fr.news.yahoo.com/rançon-cryptomonnaie-fils-à-dubaï-010117159.html)  
+*Source : fr.news.yahoo.com | Publication : 2025-12-04*
+
+- Rançon, cryptomonnaie, fils à Dubaï… Ce que l’on sait de l’enlèvement de l’homme retrouvé nu au bord d’une route cryptomonnaies - Enlevé en plein jour à Eaubonne par un commando cagoulé, un cadre quinquagénaire a été maltraité dans le cadre d’une tentative d’extorsion liée aux cryptomonnaies visant son fils, un jeune expert en cybersécurité installé à Dubaï Un quinquagénaire enlevé en plein après-midi à Eaubonne (Val-d’Oise) a été retrouvé quelques heures plus tard, nu et grièvement blessé, au bord d’une route près de Louvres.
+- Selon les premières informations, les ravisseurs cherchaient à obtenir une rançon auprès de son fils de 19 ans, installé à Dubaï et connu pour ses compétences pointues en cybersécurité.
+- Voici ce que l’on sait de cette affaire aux multiples zones d’ombre.
+- Un enlèvement en plein jour Lundi, vers 15h30, quatre hommes cagoulés surgissent alors que la victime, un cadre du secteur médical, vient de sortir de chez elle.
 
 ## [L'Inde retire l'obligation d'installer une application gouvernementale de <b>cybersécurité</b> sur les ...](https://ch.zonebourse.com/actualite-bourse/l-inde-retire-l-obligation-d-installer-une-application-gouvernementale-de-cybersecurite-sur-les-smar-ce7d51deda88f520)  
 *Source : ch.zonebourse.com | Publication : 2025-12-03*
