@@ -1,5 +1,149 @@
-# Résumés – 2025-12-04
+# Résumés – 2025-12-05
 
+
+## [<b>Cybersécurité</b> : Jean-Sylvain Chavanne nommé directeur des opérations de BZHunt](https://www.lejournaldesentreprises.com/breve/cybersecurite-jean-sylvain-chavanne-nomme-directeur-des-operations-de-bzhunt-2132469)  
+*Source : lejournaldesentreprises.com | Publication : 2025-12-05*
+
+- À l’occasion de ses cinq ans, BZHunt (15 salariés, 1 M€ de CA en 2024), entreprise finistérienne spécialisée dans la recherche de failles de sécurité dans les systèmes informatiques, a nommé Jean-Sylvain Chavanne en tant que directeur des opérations.
+- Cette nomination marque une nouvelle étape stratégique pour l’entreprise, qui vise à accélérer le développement de ses activités en matière de gouvernance cyber.
+- Fort de plus de dix années d’expérience dans la stratégie et la sécurisation des environnements numériques, Jean-Sylvain Chavanne bénéficie d’une expertise mêlant enjeux techniques, réglementaires et organisationnels.
+- Dans ses nouvelles fonctions, Jean-Sylvain Chavanne aura pour missions d’accélérer le développement des offres de gouvernance cyber et de gestion de crise, en capitalisant sur son expérience opérationnelle et ses retours d’expérience.
+
+## [Quand HP fait de la <b>cybersécurité</b> une fonction du matériel - AMC architecture](https://www.amc-archi.com/article/quand-hp-fait-de-la-cybersecurite-une-fonction-du-materiel,96100)  
+*Source : amc-archi.com | Publication : 2025-12-05*
+
+- Quand HP fait de la cybersécurité une fonction du matériel La menace informatique n’est plus une éventualité mais une certitude.
+- Pour les cabinets d’architecture de toutes tailles, HP rend la stratégie de cyberdéfense simple en intégrant la sécurité au cœur de ses ordinateurs, workstations et imprimantes.
+- Avec HP Wolf Security, les équipements sont capables de protéger et réparer, et deviennent ainsi les premiers remparts d’une protection continue.
+- Dans le quotidien de nombreuses entreprises, les outils numériques se fondent généralement dans le décor.
+
+## [Cyberattaques : pourquoi la résilience est désormais la meilleure défense pour les ... - JDN](https://www.journaldunet.com/cybersecurite/1546515-cyberattaques-pourquoi-la-resilience-est-desormais-la-meilleure-defense-pour-les-entreprises-francaises/)  
+*Source : journaldunet.com | Publication : 2025-12-05*
+
+- Cyberattaques : pourquoi la résilience est désormais la meilleure défense pour les entreprises françaises Dans un monde où les cyberattaques ne sont plus l'exception mais la norme, il devient urgent pour les organisations de repenser leur approche de la cybersécurité.
+- En France, comme ailleurs, les entreprises ne peuvent plus se contenter d’une stratégie fondée sur le « zéro incident ».
+- Malgré des investissements records en cybersécurité, 88 % des organisations ont subi un incident impliquant un mouvement latéral¹, c’est-à-dire une progression furtive des attaquants à travers les systèmes d’information, échappant aux défenses périmétriques traditionnelles.
+- Ces chiffres sont sans appel : la prévention, même optimisée, ne suffit plus.
+
+## [Achats en ligne : la plateforme AliExpress est-elle sûre ? - WeLiveSecurity](https://www.welivesecurity.com/fr/cybersecurite/achats-en-ligne-la-plateforme-aliexpress-est-elle-sure/)  
+*Source : welivesecurity.com | Publication : 2025-12-05*
+
+- Qu'est-ce qu'AliExpress ?.
+- AliExpress est un Marché mondial en ligne lancé en 2010 dans le cadre de Groupe Alibaba, l'une des plus grandes entreprises de commerce électronique.
+- Contrairement aux détaillants traditionnels, elle met en relation les acheteurs avec des vendeurs indépendants proposant une large gamme de produits, de l'électronique à la mode en passant par la décoration intérieure et les pièces industrielles.
+- En tant que plateforme ouverte, la qualité des produits et services peut varier selon le vendeur.
+
+## [Cyberhebdo du 5 décembre 2025 : des organisations affectées dans au moins 7 pays](https://www.lemagit.fr/actualites/366636032/Cyberhebdo-du-5-decembre-2025-des-organisations-affectees-dans-au-moins-7-pays)  
+*Source : lemagit.fr | Publication : 2025-12-05*
+
+- Cyberhebdo du 5 décembre 2025 : des organisations affectées dans au moins 7 pays Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- La semaine écoulée a une nouvelle fois mis en lumière la diversité et la persistance de la menace cyber à l’échelle internationale.
+- Notre veille a permis d’identifier sept cyberattaques rapportées dans les médias, touchant des organisations et institutions réparties dans sept pays : Pays-Bas (NLD), Slovaquie (SVK), Philippines (PHL), Suède (SWE), Porto Rico (PRI), Royaume-Uni (GBR) et États-Unis (USA).
+- Cette édition du Cyberhebdo revient en détail sur ces incidents, leurs impacts et les enseignements à en tirer pour la communauté en cybersécurité.
+
+## [Maurice accueillera le U.S.-Africa Summit, tandis que scandales et <b>cybercriminalité</b> secouent le pays](https://lexpress.mu/s/maurice-accueillera-le-us-africa-summit-tandis-que-scandales-et-cybercriminalite-secouent-le-pays-552205)  
+*Source : lexpress.mu | Publication : 2025-12-05*
+
+- En parallèle, la cybercriminalité connaît une explosion inquiétante avec 5 233 cas recensés en 2025, dominés par le harcèlement en ligne et les.
+
+## [L'INPI et l'Afnic renforce leur partenariat - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cloud/64225-l-inpi-et-l-afnic-renforce-leur-partenariat.html)  
+*Source : linformaticien.com | Publication : 2025-12-05*
+
+- Ransomware : les jours d'après · Cloud · L'INPI et l'Afnic renforce leur partenariat.
+- Détails: Bertrand Garé: 5 décembre 2025.
+- Les deux institutions.
+
+## [Suppressions de postes à Lannion : plutôt que des investissements, « Nokia a mis l'accent ...](https://www.ouest-france.fr/economie/social/suppressions-de-postes-a-lannion-plutot-que-des-investissements-nokia-a-mis-laccent-sur-les-plans-sociaux-f80b7ed0-d1ca-11f0-a0f2-b2a4fbd1e8d9)  
+*Source : ouest-france.fr | Publication : 2025-12-05*
+
+- Notamment avec les 97 emplois prévus en cybersécurité.
+- Le.
+
+## [<b>Cybersécurité</b>: le Crédit Agricole du Maroc mobilise ses clients corporate à Casablanca](https://snrtnews.com/fr/article/cybersecurite-le-credit-agricole-du-maroc-mobilise-ses-clients-corporate-a-casablanca)  
+*Source : snrtnews.com | Publication : 2025-12-05*
+
+- Lors de la rencontre, les experts cybersécurité du GCAM ont dressé un état des lieux des menaces actuelles, marquées par une sophistication croissante.
+
+## [MédecinDirect : un groupe cybercriminel revendique le vol de données de santé de plus de ...](https://www.liberation.fr/checknews/medecindirect-un-groupe-cybercriminel-revendique-le-vol-de-donnees-de-sante-de-plus-de-320-000-patients-20251205_GZI76N4XJZGHPJCM7LVSWAO7XU/)  
+*Source : liberation.fr | Publication : 2025-12-05*
+
+- Quelques semaines seulement après la cyberattaque ayant visé le logiciel de gestion Weda, utilisé par des milliers de médecins en France, un nouvel «incident de sécurité informatique» majeur touche des praticiens et patients français.
+- Il concerne cette fois-ci l’une des principales plateformes de téléconsultation en France : MédecinDirect, qui permet notamment de consulter un généraliste ou un spécialiste à toute heure du jour ou de la nuit, afin d’obtenir une réponse, par écrit, en moins d’une heure.
+- Dans un mail envoyé à de nombreux utilisateurs du site (et qui arrive généralement dans la boîte «spam», selon les constatations de CheckNews), la plateforme détaille : «Un tiers non autorisé a accédé à vos données de santé.
+- Nos experts en cybersécurité ont su mettre fin à cet incident dès sa détection le 28 novembre 2025.» A la différence d’autres fuites de données, qui ont trait généralement à des informations à caractère personnel, le problème ici est qu’elle concerne des données de santé, particulièrement sensibles par nature.
+
+## [Les agences américaines et canadiennes de <b>cybersécurité</b> mettent en garde contre BRICKSTORM](https://www.solutions-numeriques.com/les-agences-americaines-et-canadiennes-de-cybersecurite-mettent-en-garde-contre-brickstorm/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-05*
+
+- Les agences américaines et canadiennes de cybersécurité alertent sur BRICKSTORM, un backdoor utilisé par des acteurs liés à l’État chinois pour maintenir un accès discret et durable aux environnements VMware.
+- Une menace qui touche en priorité les infrastructures vCenter et ESXi.
+- Un accès persistant au cœur du vCenter BRICKSTORM est un programme conçu pour s’installer directement dans les serveurs VMware vCenter, le point central de gestion de la virtualisation.
+- Une fois en place, il permet aux attaquants d’accéder aux machines virtuelles, de récupérer certains éléments sensibles et même de créer des instances cachées.
+
+## [PARIS : Trois spécialistes de la <b>cybersécurité</b> sur quatre affirment avoir été confrontés à l ...](https://presseagence.fr/paris-trois-specialistes-de-la-cybersecurite-sur-quatre-affirment-avoir-ete-confrontes-a-lepuisement-professionnel/)  
+*Source : presseagence.fr | Publication : 2025-12-05*
+
+- PARIS : Trois spécialistes de la cybersécurité sur quatre a… Partager : PARIS : Trois spécialistes de la cybersécurité sur quatre affirment avoir été confrontés à l’épuisement professionnel Selon une étude de Sophos, 76 % des experts en cybersécurité ont subi un burnout en 2024, mettant en danger la sécurité des entreprises.
+- Ce sondage souligne l’importance pour les organisations d’alléger la charge des équipes.
+- Trois spécialistes de la cybersécurité sur quatre affirment avoir été confrontés à l’épuisement professionnel en 2024.
+- Une récente étude de Sophos dévoile que, dans le domaine de la cybersécurité, le « burnout » représente un facteur de risque majeur pour les entreprises et leurs équipes.
+
+## [<b>Cybersécurité</b>: Crédit Agricole du Maroc organise les « Corporate Talks – CyberAwareness](https://h24info.ma/economie/entreprises/cybersecurite-credit-agricole-du-maroc-organise-les-corporate-talks-cyberawareness/)  
+*Source : h24info.ma | Publication : 2025-12-05*
+
+- Le Groupe Crédit Agricole du Maroc (GCAM) a organisé, en partenariat avec Mastercard, une rencontre autour des enjeux de la cybersécurité et ce au.
+
+## [Cloudflare tombe en panne en intervenant sur une faille critique - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/cloudflare-panne-faille-critique-224711/amp)  
+*Source : silicon.fr | Publication : 2025-12-05*
+
+- Ce matin, sur la Toile, il était plus probable que d’habitude de tomber sur des erreurs 500.
+- En cause, un problème chez Cloudflare.
+- Sans commune mesure, néanmoins, avec l’incident du 18 novembre ; en tout cas par sa durée : moins d’une heure*.
+- L’entreprise en a d’abord attribué la cause à une mise à jour de son WAF.
+
+## [Quand les professionnels de la <b>cybersécurité</b> se retrouvent… sur le green](https://www.solutions-numeriques.com/quand-les-professionnels-de-la-cybersecurite-se-retrouvent-sur-le-green/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-05*
+
+- Il existe des communautés professionnelles inattendues.
+- Celle-ci en fait partie.
+- Aux détours d’échanges de mail, nous découvrons Golf & Cybersécurité, une association qui rassemble une trentaine de professionnels du secteur qui partagent deux passions : la cybersécurité et le golf.
+- Fournisseurs de services, éditeurs, consultants ou responsables cyber côté entreprise, tous se retrouvent un week-end par mois pour des compétitions amicales où l’ambiance prime autant que la performance.
+
+## [<b>Cybersécurité</b> : le Crédit Agricole du Maroc et Mastercard s'allient pour contrer les menaces](https://medias24.com/2025/12/05/cybersecurite-le-credit-agricole-du-maroc-et-mastercard-sallient-pour-contrer-les-menaces-1590219/)  
+*Source : medias24.com | Publication : 2025-12-05*
+
+- Cybersécurité : le Crédit Agricole du Maroc et Mastercard s'allient pour contrer les menaces.
+- À l'occasion du "Corporate Talks-CyberAwareness.
+
+## [Gradium lève 60 M€ pour son IA vocale - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/tendances/941-ia/64219-gradium-leve-60-m-pour-son-ia-vocale.html)  
+*Source : linformaticien.com | Publication : 2025-12-05*
+
+- Spécialisée dans l'intelligence artificielle vocale, Gradium a levé 60 millions d'euros.
+- Un tour de seed parmi les plus importants en Europe pour.
+
+## [Comment ce pirate repenti infiltrait banques et universités avant de devenir consultant en ...](https://www.leparisien.fr/economie/votre-argent/fraude-bancaire/comment-ce-pirate-repenti-infiltrait-banques-et-universites-avant-de-devenir-consultant-en-cybersecurite-05-12-2025-2R4YF2IE7JDY3AFFLV55K6VNO4.php)  
+*Source : leparisien.fr | Publication : 2025-12-05*
+
+- Comment ce pirate repenti infiltrait banques et universités avant de devenir consultant en cybersécurité Ancien pirate, aujourd’hui hacker éthique, Guillaume Deterville audite 300 sociétés par an.
+- Pour Le Parisien, il raconte les méthodes des pirates, les failles les plus courantes et la fragilité de nos identités numériques.
+- Adolescent, il s’amusait à pénétrer le système informatique de banques africaines, d’universités américaines ou encore d’organisations de défense, par pur goût du défi intellectuel.
+- Aujourd’hui, Guillaume Deterville, 27 ans, met ses talents au service des entreprises.
+
+## [En Thaïlande, la police saisit 270 millions d'euros de biens liés aux centres d'arnaques](https://www.courrierinternational.com/article/societe-en-thailande-la-police-saisit-270-millions-d-euros-de-biens-lies-aux-centres-d-arnaques_238179)  
+*Source : courrierinternational.com | Publication : 2025-12-05*
+
+- Dix milliards de bahts, soit 270 millions d’euros… C’est, selon le quotidien Khaosod, la valeur des actifs saisis par la police thaïlandaise dans le cadre d’un coup de filet contre les centres d’arnaques en ligne présents à la frontière avec le Cambodge.
+- Le Premier ministre, Anutin Charnvirakul, a présenté le 3 décembre, durant une conférence de presse, les résultats de cette opération, qui “a visé des ressortissants thaïlandais soupçonnés de collaborer avec des organisations criminelles basées au Cambodge”.
+- Les perquisitions, menées dans une cinquantaine de localités, ont permis de saisir toutes sortes de biens comme des yachts de luxe, des véhicules haut de gamme, des terrains constructibles et, bien sûr, des comptes bancaires.
+- L’un des réseaux visés par ces perquisitions serait une émanation du groupe Prince, l’un des principaux conglomérats du Cambodge, “qualifié de ‘réseau criminel d’ampleur internationale’” par les États-Unis et le Royaume-Uni en octobre.
+
+## [Thierry Happe (Netexplo) : « Il faut cultiver la lucidité des collaborateurs, pas leurs peurs](https://www.itforbusiness.fr/il-faut-cultiver-la-lucidite-des-collaborateurs-pas-leurs-peurs-thierry-happe-predictive-cyberlab-97905)  
+*Source : itforbusiness.fr | Publication : 2025-12-05*
+
+- Secu Thierry Happe (Netexplo) : « Il faut cultiver la lucidité des collaborateurs, pas leurs peurs » Par François Jeanne, publié le 05 décembre 2025 À l’origine de l’Observatoire Netexplo, Thierry Happe s’attaque cette fois à la cybersécurité avec son Predictive Cyberlab.
+- Face à la complexification des cyberattaques, il prône un changement radical : faire de chaque collaborateur un acteur engagé, capable d’anticiper et de réagir aux menaces.
+- Son approche remplace la culpabilisation pour susciter plutôt intérêt, compréhension et action, au bureau comme dans la vie personnelle.
+- Entretien avec Thierry Happe, Président et fondateur du Predictive Cyberlab Avec l’objectif de détecter les usages et les tendances émergentes autour du numérique, Thierry Happe a lancé puis dirigé pendant 15 ans l’Observatoire Netexplo en partenariat avec l’Unesco, 24 entreprises du CAC 40, et un réseau de 22 universités dans le monde.
 
 ## [Le rôle du comité d'audit face aux cyberrisques en évolution - KPMG International](https://kpmg.com/ca/fr/home/insights/2025/11/how-audit-committees-are-leading-amid-evolving-cyber-risks.html)  
 *Source : kpmg.com | Publication : 2025-12-04*
