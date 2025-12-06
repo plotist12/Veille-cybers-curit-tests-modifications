@@ -1,5 +1,165 @@
-# Résumés – 2025-12-05
+# Résumés – 2025-12-06
 
+
+## [CyberAwareness : le Crédit Agricole du Maroc place la <b>cybersécurité</b> au cœur de son ...](http://ledesk.ma/encontinu/cyberawareness-le-credit-agricole-du-maroc-place-la-cybersecurite-au-coeur-de-son-accompagnement-des-entreprises/)  
+*Source : ledesk.ma | Publication : 2025-12-06*
+
+- CyberAwareness : le Crédit Agricole du Maroc place la cybersécurité au cœur de son accompagnement des entreprises Le Groupe Crédit Agricole du Maroc (GCAM) a organisé, en partenariat avec Mastercard, une rencontre dédiée aux enjeux de la cybersécurité au profit de sa clientèle corporate.
+- Tenu le 5 décembre à Casablanca, le « Corporate Talks – CyberAwareness » a réuni plus de 150 clients du Groupe, parmi lesquels des dirigeants d’entreprises, des responsables financiers, des décideurs IT et des représentants d’institutions nationales.
+- L’objectif affiché est de proposer aux entreprises un espace d’échange stratégique sur les risques cyber qui pèsent désormais directement sur la performance, la continuité d’activité et la compétitivité des organisations.
+- Cette initiative traduit l’ambition du Crédit Agricole du Maroc d’accompagner durablement ses clients dans un environnement digital où la maîtrise des risques est devenue un levier de confiance, de résilience et de développement.
+
+## [&quot;Sécurité, rapidité, fonctionnalités&quot; : ce VPN est le meilleur selon cet expert indépendant de ...](https://www.degrouptest.com/actualite/-securite-rapidite-fonctionnalites-ce-vpn-est-le-meilleur-selon-cet-expert-independant-de-la-cybersecurite)  
+*Source : degrouptest.com | Publication : 2025-12-06*
+
+- Les meilleurs VPN du marché au banc d'essai Dans le domaine de la cybersécurité, West Coast Labs se distingue par son indépendance.
+- Cette particularité lui permet de réaliser des tests et des programmes de recherche en affichant une parfaite objectivité.
+- À l'heure de comparer les principaux VPN du marché, West Coast Labs a mis au point un protocole permettant de montrer les qualités et les défauts de chacun d'entre eux dans des conditions réelles d'utilisation.
+- Les VPN ont été comparé côte à côte sur les aspects suivants : Fonctionnalité VPN, - Performances et vitesses, - Sécurité et protection contre les fuites, - Accessibilité des sites Web, - Vitesse de connexion au VPN, - Impact du VPN sur les ressources de l'appareil.
+
+## [Schœneck. Des travaux sur la <b>cybersécurité</b>, éthique numérique et fake news](https://www.republicain-lorrain.fr/education/2025/12/06/des-travaux-sur-la-cybersecurite-ethique-numerique-et-fake-news)  
+*Source : republicain-lorrain.fr | Publication : 2025-12-06*
+
+- Schœneck Des travaux sur la cybersécurité, éthique numérique et fake news Dans le cadre du dispositif des cordées de la réussite, des élèves de collège et de lycée ont bénéficié, au E-Lab du lycée Condorcet , d’ateliers autour du numérique et... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteLe Républicain Lorrain, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Républicain Lorrain, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant LRLCLIENTS@republicain-lorrain.fr ou consulter les liens suivants : Protection des données, CGU du site et Contact.
+
+## [Asus confirme avoir été touché par une cyberattaque de manière inattendue - Clubic](https://www.clubic.com/actualite-590473-asus-confirme-avoir-ete-touche-par-une-cyberattaque-de-maniere-inattendue.html)  
+*Source : clubic.com | Publication : 2025-12-06*
+
+- Le fabricant taïwanais ASUS confirme qu'un de ses fournisseurs a subi une cyberattaque compromettant du code source lié au traitement d'image de certains appareils photo de smartphones.
+- L'entreprise assure toutefois que ses produits, systèmes internes et données utilisateurs n'ont pas été affectés.
+- À la suite de la revendication du piratage par le groupe de rançongiciel Everest, qui affirme avoir dérobé plus d'un téraoctet de données appartenant au constructeur électronique, ASUS a officiellement reconnu qu'un incident de sécurité informatique a touché l'un de ses partenaires de la chaîne d'approvisionnement.
+- L’intrusion a affecté le code source du traitement d’image de certains appareils photo de téléphones mobiles, selon les précisions communiquées par le géant taïwanais.
+
+## [Arnaque aux faux abonnements gratuits dans les transports publics - ZATAZ](https://www.zataz.com/arnaque-aux-faux-abonnements-gratuits-dans-les-transports-publics/)  
+*Source : zataz.com | Publication : 2025-12-06*
+
+- Arnaque aux faux abonnements gratuits dans les transports publics Plus de 200 faux sites de transports publics mis en place par des pirates informatiques.
+- Ils vous promettent des cartes de bus pour 2 €.
+- Les messages sont toujours les mêmes, générés par l’intelligence artificielle.
+- ZATAZ a pu repérer pas moins de 200 faux sites web de régies de transports hexagonales.
+
+## [Hackers, police, tueurs à gage… : les tentatives d'extorsion explosent à cause des fuites de données](https://www.01net.com/actualites/hackers-police-tueurs-gage-tentatives-extorsion-explosent-cause-fuites-donnees.html)  
+*Source : 01net.com | Publication : 2025-12-06*
+
+- Les chercheurs de Kaspersky ont constaté une recrudescence des « tentatives d’extorsion par e-mail ».
+- Les experts russes lient l’explosion des opérations d’extorsion aux multiples fuites de données personnelles enregistrées ces dernières années.
+- Une nette accélération des violations a été enregistrée dans le monde entre 2023 et 2025, en France comme à l’international.
+- À lire aussi : L’arnaque aux faux PV fait des ravages en France – gare aux QR codes déposés sur votre pare-brise De l’extorsion basée sur des données volées Dans l’Hexagone, la CNIL a enregistré 5 629 notifications de violations de données personnelles en 2024, soit environ 20 % de plus qu’en 2023.
+
+## [Disty Technologies : une valeur de croissance qui s'aligne sur la vague IA, gaming et <b>cybersécurité</b>](https://fnh.ma/article/actualite-financiere-maroc/disty-technologies-salon-epargne-trajectoire)  
+*Source : fnh.ma | Publication : 2025-12-06*
+
+- Importateur et distributeur IT de référence au Maroc, Disty Technologies aborde 2026 avec une visibilité renforcée.
+- Son PDG, Younes El Himdy, a détaillé au Salon de l’épargne une trajectoire portée par le renouvellement des parcs informatiques, l’essor des PC «IA-ready», le développement du gaming, les premières infrastructures d’intelligence artificielle et, bientôt, la cybersécurité.
+- Disty Technologies reste fidèle à son positionnement de base : un Pure player IT dont la croissance suit et amplifie celle de la consommation d’informatique au Maroc.
+- Tant que le pays achète plus d’ordinateurs, de serveurs et de solutions technologiques, le distributeur a un terrain de jeu naturel.
+
+## [Cyberattaque : cette société bayeusaine lutte contre ce fléau qui touche de plus en plus les ...](https://actu.fr/normandie/bayeux_14047/cyberattaque-cette-societe-bayeusaine-lutte-contre-ce-fleau-qui-touche-de-plus-en-plus-les-entreprises_63528961.html)  
+*Source : actu.fr | Publication : 2025-12-06*
+
+- « En Normandie, sur 37 000 entreprises, 15 000 ont subi des attaques.
+- La France est le 4ᵉ pays le plus touché, notamment ses PME (petites et moyennes entreprises), moins protégées.
+- » Les cyberattaques, c’est le combat qu’a décidé de mener Alexis Cadel, 33 ans, gérant de Guarde, cabinet de conseil en sécurité, installé à Bayeux (Calvados) depuis septembre 2024.
+- À lire aussi Dans les locaux de l’espace de coworking Triangle, lui et son équipe – composée d’Héloïse Levavasseur, chargée de développement commercial, et de Yanis Des Gray, administrateur système – accompagnent les entreprises normandes dans la protection de leur système informatique.
+
+## [Remise de 200 cadeaux pour soutenir les membres aveugles de 5 communes - Vietnam.vn](https://www.vietnam.vn/fr/trao-200-suat-qua-ho-tro-hoi-vien-nguoi-mu-tai-5-xa)  
+*Source : vietnam.vn | Publication : 2025-12-06*
+
+- Le programme a distribué 200 cadeaux à des personnes aveugles dans 5 communes : Phu Loc, Chan May - Lang Co, Vinh Loc, Hung Loc et Loc An.
+- Chaque cadeau avait une valeur de 700 000 VND, dont 500 000 VND en espèces et en produits de première nécessité, contribuant ainsi à améliorer leur quotidien et à les aider à surmonter les difficultés qu’elles rencontrent.
+- Un représentant du département de la cybersécurité et de la prévention de la cybercriminalité de la police de Hué a déclaré que l'accompagnement et le soutien aux personnes défavorisées constituent une priorité constante pour son unité.
+- Les sponsors ont également exprimé l'espoir que ce programme contribuera à diffuser un esprit de solidarité, encourageant la communauté à poursuivre son engagement et à se mobiliser pour aider les personnes aveugles et celles en situation de précarité.
+
+## [8 ans de cyberattaques sur Windows : Microsoft corrige enfin une faille exploitée par ... - 01net.com](https://www.01net.com/actualites/8-ans-cyberattaques-windows-microsoft-corrige-enfin-faille-exploitee-pirates-russes-chinois-sud-coreens.html)  
+*Source : 01net.com | Publication : 2025-12-06*
+
+- C’est l’histoire d’une faille découverte en 2017, que Microsoft a refusé de corriger… avant de changer d’avis très récemment.
+- Il y a sept ans, les chercheurs de Trend Micro ont découvert que des pirates utilisent des fichiers raccourcis Windows (.lnk) piégés dans le cadre de cyberattaques.
+- Ces fichiers piégés servent à télécharger et à déployer des virus sur l’ordinateur visé.
+- Pour masquer la commande malveillante insérée dans le fichier, les cybercriminels se servent d’espaces ou de caractères invisibles.
+
+## [Cyberattaques : les PME de plus en plus visées - Europe 1](https://www.europe1.fr/societe/cyberattaques-les-pme-de-plus-en-plus-visees-874051)  
+*Source : europe1.fr | Publication : 2025-12-06*
+
+- Cyberattaques : les PME de plus en plus visées Selon un rapport annuel d'Orange Cyberdefense, le "Security navigator 2026", les petites et moyennes entreprises (PME) sont de plus en plus visées par les cyberattaques, devenues des cibles pour les hackers.
+- Au total, 19.000 entreprises dans le monde ont été attaquées.
+- Les PME, portes d'entrées préférées des hackers.
+- C'est l'un des principaux enseignements du rapport annuel d'Orange Cyberdefense, le "Security navigator 2026".
+
+## [Inde : une application gouvernementale relance les débats sur la protection des données](https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-samedi-06-decembre-2025-8938001)  
+*Source : radiofrance.fr | Publication : 2025-12-06*
+
+- Le gouvernement indien a renoncé, mercredi, à imposer l'installation sur tous les nouveaux téléphones portables d'une application de cybersécurité conçue par le gouvernement de Narendra Modi pour aider les utilisateurs à retrouver leurs portables en cas de vol ou de perte, rapporte le quotidien indien The Hindu, avec l'enregistrement des numéros IMEI, sorte de carte d'identité de chaque téléphone.
+- Cette appli cherche à identifier toute utilisation suspecte : piratage informatique, cybercriminalité, assure New Delhi.
+- Les fabricants de smartphones tels que Apple, Samsung, Xiaomi, Vivo notamment, avaient 90 jours pour préinstaller sur les nouveaux téléphones cette application, baptisée "Sanchar Saathi" ("partenaire de communication" en langue hindie), précise la Deutsche Welle.
+- Elle aide à localiser, à bloquer les appareils perdus ou volés : 700 000 téléphones ont ainsi pu être récupérés depuis le lancement de l'application en janvier, indique Reuters.
+
+## [Avinash Takoory, expert en <b>cybersécurité</b> : «Les contenus diffusés sans consentement ne ...](https://defimedia.info/avinash-takoory-expert-en-cybersecurite-les-contenus-diffuses-sans-consentement-ne-disparaissent-jamais-dun-clic)  
+*Source : defimedia.info | Publication : 2025-12-06*
+
+- À Maurice, une jeunesse hyperconnectée se retrouve sans défense face aux faux profils, sextorsion, cyberharcèlement et diffusion d’images intimes.
+- Pour l’expert en cybersécurité Avinash Takoory, le pays fait face à une violence numérique fulgurante.
+- Il insiste pour la mise en place d’un bouclier de prévention.
+- Comment définiriez-vous la cybercriminalité aujourd’hui à Maurice ?.
+
+## [L'UE inflige une amende de 120 millions d'euros à X, la plateforme d'Elon Musk](https://www.lesaffaires.com/dossiers/cybersecurite-inspirer-confiance-pour-se-developper/lue-inflige-une-amende-de-120-millions-deuros-a-x-la-plateforme-delon-musk/)  
+*Source : lesaffaires.com | Publication : 2025-12-06*
+
+- L’UE inflige une amende de 120 millions d’euros à X, la plateforme d’Elon Musk La Presse Canadienne|Publié hier à 12h30(Photo: La Presse Canadienne / Associated Press / Noah Berger) Les autorités de l’Union européenne ont infligé vendredi une amende de 120 millions d’euros (195 millions de dollars canadiens) à X, le réseau social d’Elon Musk, pour non-respect de la réglementation européenne sur les services numériques.
+- La Commission européenne a rendu cette décision à la suite d’une enquête ouverte il y a deux ans sur X, en vertu du règlement sur les services numériques, qui régit les 27 États membres.
+- Ce règlement, également connu sous le nom de DSA, impose aux plateformes une plus grande responsabilité en matière de protection des utilisateurs européens et de suppression des contenus et produits préjudiciables ou illégaux sur leurs sites, sous peine de lourdes amendes.
+- La Commission a indiqué sanctionner X, anciennement Twitter, pour trois infractions distinctes aux exigences de transparence du DSA.
+
+## [MedecinDirect, la plateforme de téléconsultation, confirme avoir été victime d'un piratage ...](https://www.bfmtv.com/tech/cybersecurite/medecin-direct-la-plateforme-de-consultation-confirme-avoir-ete-victime-d-un-piratage-majeur-les-donnees-medicales-de-285-000-patients-sont-concernees_AV-202512050829.html)  
+*Source : bfmtv.com | Publication : 2025-12-06*
+
+- MedecinDirect, la plateforme de téléconsultation, confirme avoir été victime d'un piratage majeur, les données médicales de 285.000 patients sont concernées Pas un jour, sans un piratage.
+- Après l'attaque contre Leroy Merlin et le dernier acte de cybermalveillance à l'encontre de France Travail, c'est au tour de la plateforme de téléconsultation MedecinDirect d'être victime d'un cyberattaque.
+- Une information évoquée par Libération et qui nous a été confirmée par la société elle-même.
+- Beaucoup de personnes concernées, des données médicales compromises MedecinDirect, qui se présente comme la plateforme leader dans le secteur de la téléconsultation, nous a par ailleurs informé que pas moins de 285.000 patients sont concernés.
+
+## [le logiciel malveillant chinois BRICKSTORM met en état d'alerte les autorités américaines](https://www.numerama.com/cyberguerre/2136043-intrusions-en-cours-et-sabotages-potentiels-le-logiciel-malveillant-chinois-brickstorm-met-en-etat-dalerte-les-autorites-americaines.html)  
+*Source : numerama.com | Publication : 2025-12-06*
+
+- En septembre 2025, les chercheurs de Google Threat Intelligence avaient prévenu : « On entendra parler de cette campagne pendant un an.
+- » Moins de trois mois plus tard, l’alerte vient désormais des autorités américaines.
+- La CISA a publié le 4 décembre 2025 un rapport sur les activités malveillantes liées au logiciel BRICKSTORM.
+- Cette backdoor est déployée dans des campagnes visant des organisations de premier ordre, notamment des entreprises technologiques et des entités gouvernementales.
+
+## [Kontron et congatec s'allient pour des solutions embarquées sécurisées et modulaires](https://www.ecinews.fr/fr/kontron-et-congatec-sallient-pour-des-solutions-embarquees-securisees-et-modulaires/)  
+*Source : ecinews.fr | Publication : 2025-12-06*
+
+- Kontron et congatec s’allient pour des solutions embarquées sécurisées et modulaires Actualité générale | Par NicolasFeste Kontron, leader mondial des technologies IoT et embarquées, et congatec, spécialiste des solutions edge computing, annoncent une collaboration stratégique pour proposer des plateformes embarquées modulaires et sécurisées.
+- Au cœur de cette alliance : l’intégration de KontronOS, le système d’exploitation Linux durci de Kontron, avec les blocs matériels et logiciels aReady.COM de congatec.
+- Cette approche intégrée vise à simplifier et accélérer le développement de solutions conformes à la norme IEC 62443, garantissant une cybersécurité avancée pour les systèmes critiques.
+- Points clés : KontronOS préinstallé et sous licence sur les modules aReady.COM.
+
+## [<b>Cybersécurité</b> : Crédit agricole et Mastercard en quête de solutions innovantes](https://www.lopinion.ma/Cybersecurite-Credit-agricole-et-Mastercard-en-quete-de-solutions-innovantes_a74665.html)  
+*Source : lopinion.ma | Publication : 2025-12-06*
+
+- Le Groupe Crédit Agricole du Maroc (GCAM) a organisé, en partenariat avec Mastercard, une rencontre autour des enjeux de la cybersécurité et ce au profit de sa clientèle corporate.
+- Tenu ce 5 Décembre à Casablanca, le « Corporate Talks – CyberAwareness »a réuni plus de 150 clients du Groupe, dirigeants d’entreprises, responsables financiers, décideurs IT et représentants d’institutions nationales, confirmant la volonté du Groupe d’offrir à ses clients et partenaires un espace d’échange stratégique sur les enjeux cyber qui impactent aujourd’hui la performance, la continuité d’activité et la compétitivité des organisations, indique un communiqué du groupe, ajoutant que cette initiative traduit l’ambition du Groupe d’accompagner durablement ses clients dans un environnement digital où la maîtrise des risques devient un facteur déterminant de confiance, de résilience et de développement.
+- Selon la même source, les experts cybersécurité du Groupe Crédit Agricole du Maroc ont présenté un état des lieux des menaces actuelles, en partageant des tendances émergentes, des retours d’expérience et des cas concrets observés au Maroc comme à l’international.
+- Ils ont rappelé que ces attaques, de plus en plus ciblées et sophistiquées, peuvent impacter directement l’activité des entreprises.
+
+## [Le retour du malware ClayRat : ce virus désactive Play Protect avant de piller vos données](https://www.01net.com/actualites/retour-malware-clayrat-virus-desactive-play-protect-avant-piller-donnees.html)  
+*Source : 01net.com | Publication : 2025-12-06*
+
+- Les chercheurs du zLabs team ont débusqué un nouveau malware taillé pour pirater les smartphones Android, ClayRat.
+- Identifié pour la première fois en octobre 2025, le virus est caché dans le code de fausses applications partagées sur Internet.
+- Pour propager le malware, les pirates ont glissé ClayRat dans des fichiers APK malveillants, parfois hébergés sur des services comme Dropbox.
+- Il s’agit de fausses applications populaires, comme YouTube.
+
+## [Cloudflare victime d'une nouvelle panne ce vendredi 5 décembre 2025 - mesinfos](https://mesinfos.fr/cloudflare-victime-d-une-nouvelle-panne-ce-vendredi-5-decembre-2025-235442.html)  
+*Source : mesinfos.fr | Publication : 2025-12-05*
+
+- Cloudflare est un acteur clé en tant que réseau de livraison de contenu (CDN), protection DDoS et accélérateur de sites, gérant le trafic pour des millions de domaines.
+- Cette interruption, survenue vers 10 heures, a affecté de nombreux services, bien que tout soit rapidement revenu à la normale.
+- Qu’est-ce que Cloudflare et pourquoi ces pannes récurrentes ?.
+- Cloudflare sert d'intermédiaire invisible entre les utilisateurs et les serveurs, optimisant la vitesse, bloquant les bots malveillants et assurant la sécurité des sites web.
 
 ## [<b>Cybersécurité</b> : Jean-Sylvain Chavanne nommé directeur des opérations de BZHunt](https://www.lejournaldesentreprises.com/breve/cybersecurite-jean-sylvain-chavanne-nomme-directeur-des-operations-de-bzhunt-2132469)  
 *Source : lejournaldesentreprises.com | Publication : 2025-12-05*
