@@ -1,5 +1,138 @@
-# Résumés – 2025-12-06
+# Résumés – 2025-12-07
 
+
+## [Asus : un <b>ransomware</b> a dérobé des données sensibles sur ses smartphones - DroidSoft](https://droidsoft.fr/2025/12/07/asus-un-ransomware-a-derobe-des-donnees-sensibles-sur-ses-smartphones/)  
+*Source : droidsoft.fr | Publication : 2025-12-07*
+
+- L’entreprise taïwanaise Asus a confirmé avoir été la cible d’une cyberattaque menée par un groupe de pirates russes.
+- L’incident, qui touche l’un de ses fournisseurs, a entraîné le vol de données confidentielles liées au code source des caméras intégrées dans ses smartphones.
+- Le gang Everest a revendiqué être derrière cette attaque.
+- Une attaque ciblant les fournisseurs d’Asus Selon Asus, la cible n’était pas son infrastructure interne, mais celle d’un fournisseur stratégique.
+
+## [Cyberattaques, une menace à 9.500 milliards de dollars: réunion d'experts pour alerter et agir](https://fr.le360.ma/economie/cyberattaques-une-menace-a-9500-milliards-de-dollars-reunion-dexperts-pour-alerter-et-agir_RA3CVSSZTFCNZEKISV4KQQRLJI/)  
+*Source : fr.le360.ma | Publication : 2025-12-07*
+
+- Dans un contexte mondial marqué par l’explosion des attaques numériques et la sophistication croissante des cybercriminels, le Crédit agricole du Maroc et Mastercard ont organisé, le 5 décembre au Four Seasons de Casablanca, une grande matinée de sensibilisation dédiée à la cybersécurité.
+- Intitulée «Cyber awareness corporate talks», cette rencontre a réuni clients, institutionnels, experts nationaux et internationaux autour d’un constat sans équivoque: la cybercriminalité n’est plus une menace diffuse, mais une réalité quotidienne dont le coût global a atteint 9.500 milliards de dollars en 2024, faisant de cette activité criminelle l’une des plus lucratives au monde, devant même le narcotrafic.
+- L’ambition de l’événement était claire: comprendre l’ampleur des risques, partager les bonnes pratiques, présenter des outils concrets de protection et démontrer, à travers une simulation grandeur nature, les réflexes à adopter face à une attaque.
+- Cette initiative s’inscrit au cœur de la stratégie du Crédit agricole du Maroc pour renforcer la confiance numérique, alors que les usages digitaux explosent dans le Royaume.
+
+## [Le Crédit Agricole du Maroc fait de la <b>cybersécurité</b> un axe central de son soutien aux entreprises](https://www.lenouvelliste.ma/le-credit-agricole-du-maroc-fait-de-la-cybersecurite-un-axe-central-de-son-soutien-aux-entreprises/)  
+*Source : lenouvelliste.ma | Publication : 2025-12-07*
+
+- Dans un contexte de multiplication des menaces informatiques, le Crédit Agricole du Maroc (GCAM), en partenariat avec Mastercard, a organisé le 5 décembre à Casablanca une conférence consacrée aux risques cyber, destinée aux grandes entreprises.
+- plus de 150 clients du Groupe, parmi lesquels des dirigeants d’entreprises, des responsables financiers, des décideurs IT et des représentants d’institutions nationales.
+- Intitulée « Corporate Talks – CyberAwareness », cette initiative visait à sensibiliser les acteurs économiques à l’impact croissant des cyberattaques sur la performance des organisations.
+- Les intervenants, experts internes et invités, ont mis en lumière l’évolution rapide des menaces numériques, de plus en plus ciblées et sophistiquées, ainsi que leurs conséquences sur les données, les systèmes et la réputation des entreprises.
+
+## [Explorer Le Fonctionnement Interne De L'Expérience Premium Card Sur Bclub](https://lejournaltech.fr/explorer-le-fonctionnement-interne-de-lexperience-premium-card-sur-bclub/)  
+*Source : lejournaltech.fr | Publication : 2025-12-07*
+
+- Dans le monde numérique clandestin, certains marchés offrent des services spécialisés destinés à des utilisateurs sélectionnés.
+- bclub login est l’une de ces plateformes, connue pour son « premium card experience », qui donne accès à des actifs et outils numériques de grande valeur.
+- Bien que la participation à ces plateformes soit illégale bclub.tk login, comprendre leur fonctionnement peut aider les particuliers et les organisations à reconnaître les risques potentiels et à renforcer l’importance de la cybersécurité.
+- Qu’est-ce que l’Expérience Premium Card ?.
+
+## [<b>Cybercriminalité</b> mobile : un rapport de l'Anssi alerte sur une menace en constante progression](https://infodujour.fr/technologie/82958-cybercriminalite-mobile-un-rapport-de-lanssi-alerte-sur-une-menace-en-constante-progression)  
+*Source : infodujour.fr | Publication : 2025-12-07*
+
+- Longtemps considérés comme de simples outils de communication, les téléphones mobiles sont aujourd’hui de véritables ordinateurs miniatures, omniprésents dans la vie quotidienne.
+- Ils renferment photos, documents professionnels, coordonnées bancaires, accès à des messageries… Autant de données qui attisent la convoitise des cybercriminels.
+- C’est à ce titre que l’Agence nationale de la sécurité des systèmes d’information (Anssi) vient de publier une synthèse inédite sur l’évolution des attaques visant les smartphones depuis 2015.
+- Dix ans d’observation, des centaines d’incidents analysés, et une conclusion claire : la menace s’intensifie et s’organise.
+
+## [ZATAZ » French Gen Z 2.0: what their digital habits really show](https://www.zataz.com/french-gen-z-2-0-what-their-digital-habits-really-show/)  
+*Source : zataz.com | Publication : 2025-12-07*
+
+- French Gen Z 2.0: what their digital habits really show Over two months in northern France, more than 2,000 teenagers spoke openly about their digital lives.
+- AI, social networks, parents, teachers: an unfiltered snapshot.
+- Between September and late November 2025, I spoke with more than 2,000 students across dozens of schools in the Hauts-de-France region, from Dunkirk to Lille, Seclin, Orchies and the Robotik 2025 fair.
+- From a structured sample of 340 teenagers, 170 girls and 170 boys, randomly selected in 68 classes, a very clear picture emerges of their digital habits: pervasive use of artificial intelligence, heavy reliance on social networks, significant exposure to cyber risks, and a widening gap with adults, both parents and teachers.
+
+## [<b>Cybersécurité</b> : les 10 plus grandes menaces qui planent sur 2026 - 01net.com](https://www.01net.com/actualites/cybersecurite-menaces-planent-2026.html)  
+*Source : 01net.com | Publication : 2025-12-07*
+
+- L’année 2025 touche à sa fin.
+- Alors que l’année 2026 pointe le bout de son nez, le monde de la cybersécurité se prépare aux défis qui se présentent à lui.
+- Comme tous les ans, de nombreux chercheurs ont en effet dressé la liste des grandes menaces qui planent sur Internet.
+- On a répertorié les tendances les plus importantes.
+
+## [Pourquoi les fans de jeux vidéo sont devenus la cible préférée des hackers - L'Express](https://www.lexpress.fr/economie/high-tech/pourquoi-les-fans-de-jeux-video-sont-devenus-la-cible-preferee-des-hackers-HCMCV6TCCFGIBBN6ZNJACO5QKU/)  
+*Source : lexpress.fr | Publication : 2025-12-07*
+
+- On trouve de tout sur les forums de hackers russophones.
+- Des kits de phishing, des accès pour pénétrer dans les infrastructures d’entreprises, des registres d’adresses mails, voire des offres d’emploi pour écrire des virus… Un catalogue qui comprend également des "logs", soit des dossiers d'informations volées à des utilisateurs par des virus spécialisés appelés "infostealers".
+- Ces logs peuvent contenir les mots de passe de la victime, son historique de connexion, des photos personnelles… Et des détails sur ce qui a conduit à l'installation de l'infostealer sur l'ordinateur.
+- C’est en analysant des dizaines de milliers de ces logs que l'entreprise de cybersécurité Flare a détecté une tendance étonnante : les gamers font partie des cibles préférées des cybercriminels.
+
+## [Russie : une liste blanche pour l'internet mobile en cas coupure de connexion - ZATAZ](https://www.zataz.com/russie-une-liste-blanche-pour-linternet-mobile-en-cas-coupure-de-connexion/)  
+*Source : zataz.com | Publication : 2025-12-07*
+
+- Russie : une liste blanche pour l’internet mobile en cas coupure de connexion !.
+- Moscou élargit discrètement une liste de sites russes accessibles même lors des coupures ciblées d’internet mobile, au nom de la sécurité et de la protection des infrastructures critiques.
+- Le ministère russe du Développement numérique a conçu, avec les services de sécurité et les opérateurs, une architecture d’exception qui garantit l’accès à certains services russes lorsque l’internet mobile est coupé pour des raisons de sécurité.
+- Banques, places de marché, sites gouvernementaux, services de livraison, réseaux sociaux et grandes plateformes vidéo composent ce socle numérique présenté comme indispensable à la vie quotidienne et au fonctionnement des infrastructures critiques.
+
+## [L'affaire de la diffusions de fausses nouvelles sur Ridwan Kamil par Lisa Mariana est ...](https://voi.id/fr/berita/540257)  
+*Source : voi.id | Publication : 2025-12-07*
+
+- JAKARTA - Le sous-chef I de la division de la cybercriminalité de la police judiciaire, Kombes Rizki Agung Prakoso, a déclaré que le cas de diffamément qui a été réport́ par l’ancien gouverneur de Java occidental Ridwan Kamil contre le selebgram Lisa Mariana est toujours en cours d’examen à la division de la cybercriminalité de la police judiciaire.
+- Rizki a déclaré que la gestion de cette affaire de diffamée, était à l’étape 1 ou le transfert des dossiers aux procureurs de haut niveau de Java occidental.
+- Il a insisté sur le fait que les détectives remplissent actuellement les directives du procureur.
+- « Il y a toujours des indications du procureur (doit être complété, red.
+
+## [Résilience numérique : un consensus national - la vérité](https://www.laverite.ma/resilience-numerique-un-consensus-national/)  
+*Source : laverite.ma | Publication : 2025-12-07*
+
+- Résilience numérique : un consensus national Par Yassine Andaloussi À l’heure où le Maroc accélère sa transformation digitale, un consensus solide émerge : le pays doit impérativement renforcer sa résilience numérique pour garantir une protection totale des données personnelles et stratégiques.
+- Institutions publiques, entreprises, experts en cybersécurité et société civile partagent désormais la conviction qu’une approche holistique est indispensable afin de faire face à des menaces toujours plus sophistiquées.
+- Ces dernières années, l’administration marocaine a multiplié les initiatives visant à digitaliser les services publics, simplifier les procédures et automatiser les échanges de données.
+- Cette dynamique s’accompagne toutefois d’un risque accru : celui de voir des informations sensibles exposées, détournées ou exploitées par des acteurs malveillants.
+
+## [AV-Comparatives triomphe à l'édition 2025 du « Tiroler Innovationspreis » - Le Lézard](https://www.lelezard.com/communique-22043313.html)  
+*Source : lelezard.com | Publication : 2025-12-07*
+
+- INNSBRUCK, Autriche, 6 décembre 2025 /PRNewswire/ -- L'autorité indépendante de test de cybersécurité AV-Comparatives a reçu la plus haute.
+
+## [Crypto : Le site de la memecoin PEPE redirige vers un lien malveillant - Cointribune](https://www.cointribune.com/crypto-le-site-de-la-memecoin-pepe-redirige-vers-un-lien-malveillant/)  
+*Source : cointribune.com | Publication : 2025-12-07*
+
+- Crypto : Le site de la memecoin PEPE redirige vers un lien malveillant Alors que 2025 tire sa révérence, l’univers crypto peine à souffler.
+- Dans un climat saturé de volatilité et de scandales, une chose persiste : les hacks.
+- Dernier épisode en date ?.
+- Le site officiel de PEPE, célèbre memecoin, a été compromis.
+
+## [Les étudiants de l'université Duy Tan se font remarquer sur la scène internationale](https://www.vietnam.vn/fr/sinh-vien-dai-hoc-duy-tan-ghi-dau-tai-san-choi-quoc-te)  
+*Source : vietnam.vn | Publication : 2025-12-07*
+
+- Se déroulant à Téhéran, la capitale iranienne, cette compétition de cybersécurité met en compétition des équipes s'affrontant sur des simulations réalistes de sécurité informatique.
+- Organisée par le gouvernement iranien à grande échelle et avec professionnalisme, elle attire 12 000 participants de 65 pays (soit le double du nombre de participants en 2024), réunissant plus de 1 100 experts en technologies de 16 pays.
+- L'équipe DTU - 4lias, composée de 4 membres : Nguyen Ba Khanh, Le Khac Huy (spécialisé en sécurité de l'information), Vo Tuan Anh (spécialisé en ingénierie des réseaux), Nguyen Tri Tam (étudiant en master de sécurité de l'information), est devenue la seule représentante du Vietnam lors de la finale des Iran Tech Olympics CTF 2025.
+- Les équipes participantes s'affrontent dans les principales catégories : intelligence artificielle, cybersécurité, programmation, robotique, drones et internet des objets.
+
+## [Crypto : Le site de la memecoin PEPE redirige vers un lien malveillant - TradingView](https://fr.tradingview.com/news/cointribune:8606bb8b6b858:0/)  
+*Source : fr.tradingview.com | Publication : 2025-12-06*
+
+- Crypto : Le site de la memecoin PEPE redirige vers un lien malveillant Alors que 2025 tire sa révérence, l’univers crypto peine à souffler.
+- Dans un climat saturé de volatilité et de scandales, une chose persiste : les hacks.
+- Dernier épisode en date ?.
+- Le site officiel de PEPE, célèbre memecoin, a été compromis.
+
+## [Schmidt et Cuisinella piratés : ce qu'il faut retenir du énième couac cyber français](https://www.thesiteoueb.net/actualite/amp-article-9344-schmidt-et-cuisinella-pirates-ce-qu-il-faut-retenir-du-enieme-couac-cyber-francais.html)  
+*Source : thesiteoueb.net | Publication : 2025-12-06*
+
+- Tiens, encore un piratage à la française ?.
+- Alors que l’affaire France Travail, Médecin Direct et celle de Leroy Merlin sont à peine digérées, voilà que deux grandes marques d’ameublement de cuisine, Schmidt et Cuisinella, viennent s’ajouter à la longue liste des victimes de la cybercriminalité.
+- Le scénario est malheureusement classique : une intrusion, un accès non autorisé à des données clients, et un e-mail d’alerte qui se veut rassurant, mais qui confirme que, oui, nos coordonnées de contact sont désormais en « libre circulation ».
+- On fait le point sur ce nouvel épisode, ses conséquences directes, et surtout, ce qu’il faut faire pour protéger le peu qu’il nous reste d’intimité numérique, si ce n’est pas déjà trop tard.
+
+## [Al Barid Bank : la <b>cybersécurité</b> au cœur des priorités (VIDEO) - LeSiteinfo.com](https://www.lesiteinfo.com/economie/661597-al-barid-bank-la-cybersecurite-au-coeur-des-priorites-video.html?amp)  
+*Source : lesiteinfo.com | Publication : 2025-12-06*
+
+- https:\/\/www.youtube.com\/watch?v=JnCtRjHCnIo Alors que le numérique devient un levier incontournable de développement économique et de souveraineté, le Maroc mise sur le renforcement de ses infrastructures stratégiques, au premier rang desquelles les data centers.
+- Organisée par Horizon Press dans le cadre de son cycle Le Cercle des ÉCO, une table ronde riche en enseignements, tenue en partenariat avec Orange Maroc, a permis de faire le tour d’un secteur en pleine effervescence, à la lumière des échanges entre acteurs institutionnels et industriels de renom.
+- El Mostafa Ezzougari, directeur du pôle SI, organisation et AMOA à Al Barid Bank, confirme que les cybermenaces se multiplient, notamment à travers l’ingénierie sociale et les tentatives de fraude.
+- «Les institutions financières doivent faire face à ces attaques et investir dans des dispositifs de sécurité, de supervision et dans la formation», explique-t-il.
 
 ## [CyberAwareness : le Crédit Agricole du Maroc place la <b>cybersécurité</b> au cœur de son ...](http://ledesk.ma/encontinu/cyberawareness-le-credit-agricole-du-maroc-place-la-cybersecurite-au-coeur-de-son-accompagnement-des-entreprises/)  
 *Source : ledesk.ma | Publication : 2025-12-06*
