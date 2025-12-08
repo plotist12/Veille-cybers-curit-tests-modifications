@@ -1,5 +1,152 @@
-# Résumés – 2025-12-07
+# Résumés – 2025-12-08
 
+
+## [Andersen Consulting renforce ses capacités de <b>cybersécurité</b> avec l'arrivée de S-RM](https://www.businesswire.com/news/home/20251208494165/fr)  
+*Source : businesswire.com | Publication : 2025-12-08*
+
+- Basé au Royaume-Uni, S-RM fournit des services intégrés couvrant le cyber-conseil, le forensique numérique, la réponse aux incidents, la veille d'.
+
+## [<b>Cybersécurité</b> et épuisement professionnel : un phénomène massif et en aggravation](https://itrnews.com/articles/208181/cybersecurite-et-epuisement-professionnel-un-phenomene-massif-et-en-aggravation.html)  
+*Source : itrnews.com | Publication : 2025-12-08*
+
+- Veuillez activer Javascript.
+
+## [Bkav est un partenaire mondial prestigieux de Microsoft en matière de <b>cybersécurité</b>.](https://www.vietnam.vn/fr/bkav-la-doi-tac-an-ninh-mang-uy-tin-toan-cau-cua-microsoft)  
+*Source : vietnam.vn | Publication : 2025-12-08*
+
+- L'antivirus Microsoft Defender est intégré à Windows pour protéger les utilisateurs contre les menaces de base.
+- Toutefois, pour renforcer la protection et répondre aux besoins de sécurité plus poussés des ordinateurs d'entreprise, Microsoft recommande une liste d'éditeurs de solutions de cybersécurité réputés dont les produits sont compatibles avec Windows.
+- La liste de recommandations de Microsoft aide les utilisateurs à identifier clairement les logiciels qualifiés et vérifiés, notamment dans un contexte de marché où circulent encore de nombreux logiciels contrefaits d'origine inconnue.
+- M.
+
+## [Proofpoint finalise l'acquisition de Hornetsecurity - Global Security Mag Online](https://www.globalsecuritymag.fr/proofpoint-finalise-l-acquisition-de-hornetsecurity.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-12-08*
+
+- Proofpoint finalise l’acquisition de Hornetsecurity décembre 2025 par LA REDACTION DE GS MAG Proofpoint, Inc. a finalisé l’acquisition du groupe Hornetsecurity, fournisseur européen de premier plan de solutions de cybersécurité pour Microsoft 365 basées sur l’IA, incluant protection email, protection des données, conformité et sensibilisation, destinées aux MSP et aux petites et moyennes entreprises.
+- La clôture de l’opération constitue une étape clé de la stratégie de Proofpoint visant à étendre sa plateforme de sécurité centrée sur l’humain à des organisations de toutes tailles, grâce à une approche conçue spécifiquement pour les MSP.
+- Fort de la présence de Hornetsecurity sur le marché européen et d’un réseau de partenaires servant plus de 125 000 clients via plus de 12 000 MSP et partenaires de distribution, Proofpoint élargit considérablement son empreinte et ses capacités au sein du segment petites et moyennes entreprises.
+- La solution phare de Hornetsecurity, 365 Total Protection, est la plateforme de sécurité cloud la plus complète pour les environnements M365.
+
+## [<b>Cybersécurité</b>: Le Maroc face à une menace devenue structurelle - L'Economiste](https://www.leconomiste.com/cybersecurite-le-maroc-face-a-une-menace-devenue-structurelle/)  
+*Source : leconomiste.com | Publication : 2025-12-08*
+
+- Cybersécurité : Le Maroc face à une menace devenue structurelle.
+- Par Akram OUBACHIR | Edition N°:7151 Le 08/12/2025.
+- L'accueil du Maroc de la Coupe d.
+
+## [Deeptech : « Une base solide dans la région » (Gérard Martinez, Aktantis) - - Gomet'](https://gomet.net/deeptech-une-base-solide-dans-la-region-gerard-martinez-aktantis/)  
+*Source : gomet.net | Publication : 2025-12-08*
+
+- A la veille des « Rencontres Business 2025 » organisées par le pôle Aktantis, Gérard Martinez, son directeur, répond aux questions de Gomet’ sur le développement des technologies dans la région, en particulier de la cybersécurité et de l’IA.
+- L’événement se tient mardi 9 décembre au Mucem.
+- Deux cents acteurs deeptech (innovations de rupture) de l’écosystème régional (de Sophia Antipolis à Toulouse en passant par les Bouches-du-Rhône) sont attendus.
+- C’est un événement clé pour Aktantis, auparavant Pôle SCS, qui fête ses 20 ans.
+
+## [Le Centre national de coordination en <b>cybercriminalité</b> de la GRC et le Centre antifraude du ...](https://www.lelezard.com/communique-22044705.html)  
+*Source : lelezard.com | Publication : 2025-12-08*
+
+- OTTAWA, ON, le 8 déc.
+- 2025 /CNW/ - Le Centre national de coordination en cybercriminalité (CNC3) de la Gendarmerie royale du Canada (GRC) et le.
+
+## [Spie : Spie a réalisé l'acquisition de Cyqueo en Allemagne - BFM Bourse](https://www.tradingsat.com/spie-FR0012757854/actualites/spie-spie-a-realise-l-acquisition-de-cyqueo-en-allemagne-1152177.html)  
+*Source : tradingsat.com | Publication : 2025-12-08*
+
+- (Zonebourse.com) - Spie annonce l'acquisition de Cyqueo en Allemagne.
+- Cette opération permet à Spie d'élargir son portefeuille dans le secteur en pleine croissance de la cybersécurité.
+- Cyqueo, basé à Munich, est un fournisseur de solutions spécialisé en cybersécurité.
+- L'entreprise dispose d'un vaste réseau de partenaires, d'une expertise approfondie en Zero Trust, sécurité cloud, protection des terminaux et services de sécurité managés.
+
+## [SPIE acquiert l'entreprise de <b>cybersécurité</b> Cyqueo en Allemagne - Ideal Investisseur](https://www.ideal-investisseur.fr/actions-b/spie-acquiert-lentreprise-de-cyberscurit-cyqueo-en-allemagne/10252.html)  
+*Source : ideal-investisseur.fr | Publication : 2025-12-08*
+
+- Continuer avec Google Continuer avec Facebook Continuer avec Apple Rubrique en collaboration avec SPIE a annoncé l'acquisition de Cyqueo, une entreprise allemande spécialisée en cybersécurité, pour renforcer son offre dans ce domaine stratégique.
+- (Ideal-investisseur.fr) - D'après le communiqué de presse, SPIE, le leader européen des services multi-techniques, a acquis Cyqueo, une société basée à Munich et spécialisée dans la cybersécurité.
+- Cyqueo est reconnue pour ses solutions en Zero Trust, sécurité cloud, protection des terminaux, et services de sécurité managés.
+- L'entreprise compte environ 1,6 million d'utilisateurs protégés et dispose d'une expertise notable, avec une moyenne de 16 certifications par collaborateur.
+
+## [Spie se renforce dans la <b>cybersécurité</b> avec le rachat de Cyqueo en Allemagne - Investir](https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/spie-se-renforce-dans-la-cybersecurite-avec-le-rachat-de-cyqueo-en-allemagne-2203507)  
+*Source : investir.lesechos.fr | Publication : 2025-12-08*
+
+- cybersécurité.
+- "Fondée en 2003 par Philipp et Patric Liebold, Cyqueo emploie 28 personnes et a réalisé un chiffre d'….
+
+## [Fuite de données chez Lockbit : un chercheur expose l'infrastructure du roi des <b>ransomwares</b>](https://www.01net.com/actualites/fuite-donnees-lockbit-chercheur-expose-infrastructure-roi-ransomwares.html)  
+*Source : 01net.com | Publication : 2025-12-08*
+
+- Lockbit 5, la dernière version du redoutable ransomware, vient d’être exposée.
+- Une partie de l’infrastructure du gang criminel, considéré comme le roi de l’extorsion, a été divulguée par un chercheur en cybersécurité, Rakesh Krishnan.
+- À lire aussi : Un hébergeur pirate a été démantelé – 250 serveurs utilisés par des cybercriminels ont été saisis Pluie de données sur Lockbit En faisant des recherches, l’expert a fini par dénicher un serveur lié à LockBit 5.0.
+- Ce serveur était protégé par une page de protection DDoS avec la mention explicite de « LOCKBITS.5.0 », ce qui a permis au chercheur de comprendre qu’il était sur la bonne piste.
+
+## [Spie se renforce dans la <b>cybersécurité</b> en Allemagne - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites/spie-se-renforce-dans-la-cybersecurite-en-allemagne-5236326)  
+*Source : bourse.fortuneo.fr | Publication : 2025-12-08*
+
+- Spie acquiert Cyqueo en Allemagne.
+- Avec cette opération, Spie élargit son portefeuille dans le secteur en pleine croissance de la cybersécurité et renforce ses capacités de conseil et d'intégration de solutions de sécurité pour des infrastructures informatiques complexes.
+- Fondée en 2003 par Philipp et Patric Liebold, Cyqueo emploie 28 personnes et a réalisé un chiffre d'affaires d'environ 20 millions d'euros en 2024.
+- Cyqueo, basé à Munich, est un fournisseur de solutions spécialisé en cybersécurité.
+
+## [SPIE acquiert Cyqueo et renforce son expertise en <b>cybersécurité</b> en Allemagne](https://www.spie.com/fr/journalistes/actualites/spie-acquiert-cyqueo-et-renforce-son-expertise-en-cybersecurite-en-allemagne)  
+*Source : spie.com | Publication : 2025-12-08*
+
+- Cergy, le 8 décembre 2025 – SPIE, leader européen indépendant des services multi-techniques dans les domaines de l’énergie et des communications, annonce l’acquisition de Cyqueo en Allemagne.
+- Avec cette opération, SPIE élargit son portefeuille dans le secteur en pleine croissance de la cybersécurité et renforce ses capacités de conseil et d’intégration de solutions de sécurité pour des infrastructures informatiques complexes.
+- Cyqueo, basé à Munich, est un fournisseur de solutions spécialisé en cybersécurité.
+- L’entreprise dispose d’un vaste réseau de partenaires, d’une expertise approfondie en Zero Trust, sécurité cloud, protection des terminaux et services de sécurité managés, ainsi que de relations clients de longue date avec des organisations de taille moyenne et grande.
+
+## [Comment simuler une attaque <b>ransomware</b> en 1 heure avec vos équipes - Clubic](https://www.clubic.com/dossier-589759-simuler-une-attaque-ransomware-en-1-heure-avec-vos-equipes.html)  
+*Source : clubic.com | Publication : 2025-12-08*
+
+- Les attaques par ransomwares frappent toutes les entreprises, grandes ou petites.
+- Elles peuvent bloquer les serveurs, chiffrer les fichiers, exfiltrer des données sensibles et in fine, coûter cher, très cher aux entreprises.
+- Offre partenaire Protection avancée des e-mails, des calendriers, des mots de passe, du réseau… de votre entreprise grâce à la suite d'applications professionnelles sécurisées.
+- Offre partenaire C'est une menace qui n'a rien de fantôme.
+
+## [Spie acquiert Cyqueo - Option Finance](https://www.optionfinance.fr/info-financiere-en-continu/d/2025-12-08-spie-acquiert-cyqueo.html)  
+*Source : optionfinance.fr | Publication : 2025-12-08*
+
+- (AOF) - Spie, acteur européen indépendant des services multi-techniques dans les domaines de l’énergie et des communications, annonce l’acquisition de Cyqueo en Allemagne.
+- Spie élargit son portefeuille dans le secteur en pleine croissance de la cybersécurité et renforce ses capacités de conseil et d’intégration de solutions de sécurité pour des infrastructures informatiques complexes.
+- Fondée en 2003 par Philipp et Patric Liebold, Cyqueo emploie 28 personnes et a réalisé un chiffre d'affaires d'environ 20 millions d'euros en 2024.
+- Aucun détail financier sur cette opération n'a été divulgué.
+
+## [L'Association nationale de <b>cybersécurité</b> met en place une « ligne de défense » à Hô Chi Minh-Ville](https://www.vietnam.vn/fr/hiep-hoi-an-ninh-mang-quoc-gia-thiet-lap-phong-tuyen-tai-tp-ho-chi-minh)  
+*Source : vietnam.vn | Publication : 2025-12-08*
+
+- Lors de la cérémonie de lancement de la branche sud de l'Agence nationale de cybersécurité (NCA), qui s'est tenue à Hô Chi Minh-Ville le 8 décembre après-midi, le général de division Le Xuan Minh, directeur du département de la cybersécurité et de la prévention de la cybercriminalité (A05) du ministère de la Sécurité publique, a déclaré que le Vietnam avait récemment réalisé de nombreux progrès remarquables dans les domaines de la science, de la technologie, de l'innovation et de la transformation numérique.
+- Toutefois, les menaces en matière de cybersécurité ont également connu une forte augmentation, affectant directement la sécurité nationale et l'ordre social.
+- Selon le général de division Le Xuan Minh, Hô Chi Minh-Ville est le plus grand centre économique , financier, commercial et technologique du pays, où se concentrent de nombreux systèmes d'infrastructures numériques importants, des entreprises technologiques, des établissements d'enseignement et une vaste communauté d'utilisateurs.
+- Cette région présente également de nombreux risques en matière de cybersécurité, notamment des campagnes de fraude sophistiquées, des intrusions, des vols de données et des usurpations d'identité utilisant les nouvelles technologies.
+
+## [SPIE acquiert Cyqueo et renforce son expertise en <b>cybersécurité</b> en Allemagne - Le Soleil](https://www.lesoleil.com/communiques-de-presse/2025/12/08/spie-acquiert-cyqueo-et-renforce-son-expertise-en-cybersecurite-en-allemagne-PZED3CQA3FBXRKZ6ZNVFEISD5I/)  
+*Source : lesoleil.com | Publication : 2025-12-08*
+
+- Cyqueo, basé à Munich, est un fournisseur de solutions spécialisé en cybersécurité.
+- L’entreprise dispose d’un vaste réseau de partenaires, d’une expertise approfondie en Zero Trust, sécurité cloud, protection des terminaux et services de sécurité managés, ainsi que de relations clients de longue date avec des organisations de taille moyenne et grande.
+- Actuellement, 1,6 million d’utilisateurs sont protégés grâce aux solutions de Cyqueo, qui dispose d’un niveau de certification exceptionnellement élevé.
+- Avec une moyenne d’environ 16 certifications pertinentes par collaborateur, l’entreprise figure parmi les fournisseurs de cybersécurité les mieux qualifiés sur le marché allemand.
+
+## [<b>Cybersécurité</b> : Entre BYOD non maîtrisé et malwares sophistiqués, le smartphone s'impose ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-entre-byod-non-maitrise-et-malwares-sophistiques-le-smartphone-simpose-comme-langle-mort-du-cyber-risque.V4TRQKL27JEFPHDF4NV643VPSQ.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-08*
+
+- Cybersécurité : Entre BYOD non maîtrisé et malwares sophistiqués, le smartphone s’impose comme l’angle mort du cyber-risque Le smartphone occupe désormais une place centrale dans les usages professionnels.
+- Pourtant, son niveau de protection est loin de refléter son importance.
+- Les experts sont unanimes : les cyberattaques visant les téléphones explosent.
+- Or, ils sont massivement non gérés dans un cadre hybride.
+
+## [Le National rallonge à son tour le budget de l'armée de 70 millions - RFJ](https://www.rfj.ch/rfj/Actualite/Suisse/Le-National-rallonge-a-son-tour-le-budget-de-l-armee-de-70-millions.html)  
+*Source : rfj.ch | Publication : 2025-12-08*
+
+- Les députés sont par contre unanimes sur la cybersécurité : il faut investir davantage dans ce domaine clé.
+- Ils ont, tout comme les Etats, voté.
+
+## [L'humain doit-il disparaître de la chaîne de <b>cybersécurité</b>? - Data News - Datanews Vif](https://datanews.levif.be/actualite/securite/lhumain-doit-il-disparaitre-de-la-chaine-de-cybersecurite/)  
+*Source : datanews.levif.be | Publication : 2025-12-08*
+
+- Au troisième trimestre 2025, Check Point Research a recensé en moyenne 1 249 cyberattaques par semaine et par organisation belge, soit près du double en cinq ans.
+- Parallèlement, ces attaques deviennent plus rapides et plus complexes, et sont de plus en plus souvent pilotées par l’IA Générative et Agentique.
+- Cette évolution met la pression sur les équipes de sécurité traditionnelles, qui prennent encore beaucoup de décisions manuellement.
+- La question n’est donc pas de savoir si l’IA jouera un rôle dans la cybersécurité, mais comment le rôle de l’humain évoluera dans un environnement de plus en plus rapide et automatisé.
 
 ## [Asus : un <b>ransomware</b> a dérobé des données sensibles sur ses smartphones - DroidSoft](https://droidsoft.fr/2025/12/07/asus-un-ransomware-a-derobe-des-donnees-sensibles-sur-ses-smartphones/)  
 *Source : droidsoft.fr | Publication : 2025-12-07*
