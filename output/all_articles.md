@@ -1,5 +1,158 @@
-# Résumés – 2025-12-08
+# Résumés – 2025-12-09
 
+
+## [<b>Cybersécurité</b> &amp; IA : l'école IPSSI forme aux métiers d'avenir - midilibre.fr](https://www.midilibre.fr/2025/12/09/cybersecurite-ia-lecole-ipssi-forme-aux-metiers-davenir-13100486.php)  
+*Source : midilibre.fr | Publication : 2025-12-09*
+
+- Cybersécurité & IA : l'école IPSSI forme aux métiers d'avenir Dans un contexte où les entreprises manquent massivement de talents en cybersécurité et en intelligence artificielle, l’école IPSSI s’impose comme un acteur incontournable de l’enseignement supérieur informatique à Montpellier et dans la France entière.
+- L’IPSSI propose une formation complète en Cybersécurité & Intelligence Artificielle, accessible après le bac, pensée pour accompagner les étudiants du niveau débutant au statut d’expert.
+- Les diplômes préparés sont reconnus par l’État (RNCP niveau 6 et 7), une garantie de sérieux et de lisibilité pour les familles comme pour les employeurs.
+- Cette reconnaissance témoigne aussi de l’adéquation des programmes aux besoins actuels du marché du travail.
+
+## [Telex : Les ventes de H200 Nvidia en Chine validées, Claude Code s'invite sur Slack, Les ...](https://www.lemondeinformatique.fr/actualites/lire-telex-les-ventes-de-h200-nvidia-en-chine-validees-claude-code-s-invite-sur-slack-les-ransomwares-sur-les-hyperviseurs-en-hausse-98752.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-12-09*
+
+- - Les ventes de H200 Nvidia en Chine validées.
+- Après un échange avec le président Xi Jinping, Donald Trump a donné son accord pour l’exportation des GPU H200 en Chine.
+- Les ventes se feront néanmoins à des sociétés agréées et les Etats-Unis prélèveront 25% de la transaction.
+- Pour mémoire, Nvidia avait développé la puce H20 spécifiquement pour le marché chinois, mais les autorités locales avaient récemment émis des réserves sur la sécurité des GPU.
+
+## [Alexandre Fayeulle - agglo-boulonnais.fr](https://www.agglo-boulonnais.fr/information/paroles-dacteurs/alexandre-fayeulle-2942)  
+*Source : agglo-boulonnais.fr | Publication : 2025-12-09*
+
+- Alexandre Fayeulle Publié le Nous sommes tous vulnérables.
+- Cette simple phrase pourrait résumer la pensée d’Alexandre Fayeulle.
+- C’est d’ailleurs autour de cette conviction qu’il a fondé le projet Vulnérable, avec l’ambition de changer le regard porté sur la vulnérabilité.
+- Il rassemble citoyens, entreprises, associations, chercheurs, médias autour de ce même sujet et avec la même volonté de faire bouger les choses.
+
+## [Le Cesin et Exatrust dévoilent leur Cyber Panorama des solutions souveraines - ChannelNews](https://www.channelnews.fr/le-cesin-et-exatrust-devoilent-leur-cyber-panorama-des-solutions-souveraines-153415)  
+*Source : channelnews.fr | Publication : 2025-12-09*
+
+- Le Club des Experts de la Sécurité de l’Information et du Numérique (CESIN) et l’association Hexatrust dévoilent le Cyber Panorama, un outil opérationnel conçu pour aider les organisations à naviguer dans le paysage complexe de la cybersécurité française et européenne.
+- Visant à réduire la dépendance numérique, l’outil est conçu pour simplifier l’identification et l’adoption de solutions souveraines et de confiance.
+- Il offre une cartographie claire des offres, permettant aux entreprises, aux administrations et aux collectivités de s’orienter vers les technologies développées par l’écosystème français de la cybersécurité.
+- Cette première édition recense les solutions de plus de 300 acteurs.
+
+## [Spie se renforce dans la <b>cybersécurité</b> - Batiactu](https://www.batiactu.com/edito/spie-se-renforce-dans-cybersecurite-73131.php)  
+*Source : batiactu.com | Publication : 2025-12-09*
+
+- ACQUISITION.
+- Le groupe français Spie, spécialiste des services multi-techniques dans les domaines de l'énergie et des communications, annonce l'acquisition d'une entreprise allemande spécialisée dans la cybersécurité.
+- Spie vient d'acquérir Cyqueo, un expert allemand de la cybersécurité.
+- Il vous reste 78% à découvrir.
+
+## [Les acteurs de la <b>cybersécurité</b> sont ils eux-mêmes correctement protégés ? - Placeco](https://www.placeco.fr/nouvelle-aquitaine/opinion/article/les-acteurs-de-la-cybersecurite-sont-ils-eux-memes-correctement-proteges-8815)  
+*Source : placeco.fr | Publication : 2025-12-09*
+
+- Les acteurs de la cybersécurité sont ils eux-mêmes correctement protégés ?.
+- Gérard Rougier est spécialisé dans le courtage spécialisé en cyberassurances Prévention / Accompagnement / Indemnisation.
+- Il est impératif d’auditer ses contrats.
+- Crédit : Google Photos Ils sécurisent les données des autres, mais leurs propres assurances pourraient s’avérer inadaptées.
+
+## [L'Association nationale de <b>cybersécurité</b> crée un rempart à Hô Chi Minh-Ville](https://fr.vietnamplus.vn/lassociation-nationale-de-cybersecurite-cree-un-rempart-a-ho-chi-minh-ville-post255969.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-12-09*
+
+- Hô Chi Minh-Ville (VNA) – Face à la sophistication croissante des cyberattaques et à la recrudescence des fraudes en ligne de haute technologie, l’Association nationale de cybersécurité (ANC) a inauguré officiellement 8 décembre après-midi son antenne méridionale à Hô Chi Minh-Ville.
+- Lors de la cérémonie de lancement, le général de brigade Lê Xuân Minh, directeur du Département de la cybersécurité et de la prévention de la cybercriminalité (A05) du ministère de la Sécurité publique, a souligné que si le Vietnam a réalisé des progrès considérables en matière de science, de technologie, d’innovation et de transformation numérique, les cyber-risques ont connu une forte augmentation, affectant directement la sécurité nationale et l’ordre social.
+- Il a précisé que Hô Chi Minh-Ville, principal pôle économique, financier, commercial et technologique du Vietnam, abrite des infrastructures numériques critiques, des entreprises technologiques, des instituts de recherche et une importante communauté d’utilisateurs d’Internet.
+- La ville est également un foyer de cybermenaces, notamment les campagnes d’hameçonnage, le vol de données, les intrusions dans les systèmes et l’usurpation d’identité par intelligence artificielle.
+
+## [Le Cesin et Hexatrust lancent un panorama des solutions cyber françaises,... - AEF info](https://www.aefinfo.fr/depeche/742408-le-cesin-et-hexatrust-lancent-un-panorama-des-solutions-cyber-francaises-concu-comme-un-outil-d-aide-a-l-achat)  
+*Source : aefinfo.fr | Publication : 2025-12-09*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : Le Cesin et Hexatrust annoncent, mardi 9 décembre 2025, le lancement du "cyber panorama", recensant les entreprises françaises qui éditent des solutions de cybersécurité.
+- Conçu comme un "outil d’aide à l’achat" pour les RSSI, il vise à "rééquilibrer le marché" et à réduire la dépendance aux solutions étrangères, souligne le président d’Hexatrust, Jean-Noël de Galzain.
+- "L’offre française est une des meilleures en Europe, sinon la plus dynamique et la plus foisonnante.".
+
+## [<b>Cybersécurité</b> : la FFCyber vous donne rendez-vous pour sa Grande Soirée d'Hiver](https://www.solutions-numeriques.com/cyber-securite-la-ffcyber-vous-donne-rendez-vous-pour-sa-grande-soiree-dhiver/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-09*
+
+- La Fédération Française de la Cybersécurité, qui rassemble entreprises, organisations professionnelles et acteurs individuels du secteur, poursuit sa mission : soutenir l’ensemble de la filière, promouvoir l’image de la cybersécurité en France et faire émerger ne voix forte et cohérente sur les défis majeurs Dans cette dynamique, la Fédération annonce son événement majeur de fin d’année : la Grande Soirée d’Hiver, programmée le jeudi 18 décembre 2025 à partir de 18h30, au siège de SMABTP, à Paris- 15ème Un moment fort pour notre écosystème autour de la cybersécurité, placé sous le signe des échanges, des perspectives et de la convivialité.
+- Ouverture par David OFER, Président de la Fédération Française de la Cybersécurité.
+- Présentation du dispositif Cyber Bat par Qualifelec, Organisme de qualification.
+- Animation par Vanessa PEREZ.
+
+## [<b>Cybersécurité</b> industrielle : un pilier stratégique pour l'industrie du futur - L'Usine Nouvelle](https://www.usinenouvelle.com/cybersecurite/cybersecurite-industrielle-un-pilier-strategique-pour-lindustrie-du-futur.7NLXPJBP3VFU5J2AHHVOZUN4ZY.html)  
+*Source : usinenouvelle.com | Publication : 2025-12-09*
+
+- Cybersécurité industrielle : un pilier stratégique pour l’industrie du futur Sans cybersécurité, la transformation digitale industrielle devient une promesse fragile.
+- À l’heure où l’industrie accélère sa digitalisation, la protection des systèmes ne se limite pas à l’informatique mais s’étend aux moyens industriels : elle garantit la continuité de production, la qualité des produits et la confiance des clients.
+- Sans elle, les gains de performance et d’agilité promis par l’industrie 4.0 sont compromis.
+- Les plus lus : Cybersécurité Cybersécurité industrielle : un pilier stratégique pour l’industrie du futur - Une forteresse ultra-sécurisée où travaillent 2700 salariés : Airbus Defence and Space est un pilier industriel des Yvelines - Cybermenaces : «Les grandes entreprises ne sont pas à l’abri, il faut se préparer», alerte Vincent Strubel, directeur général de l’ANSSI - Cybersécurité : chez TotalEnergies, une mise à l'épreuve permanente de la sécurité informatique avec Synacktiv - A la tête du Campus cyber, Farida Poulain devra relancer ce totem de la cybersécurité voulu par E.Macron - La compagnie aérienne russe Aeroflot visée par une cyberattaque revendiquée par des hackers pro-ukrainiens - Ils recrutent des talents Chez Framatome, façonnons les réacteurs nucléaires de demain !Le témoignage Un avenir énergétique 100% électrique et bas carbone ?.
+
+## [« CYBERATTAQUES ET POIGNÉES DE MAINS » : la saga d'un champion de la <b>cybersécurité</b>](https://www.solutions-numeriques.com/cyberattaques-et-poignees-de-mains-la-saga-dun-champion-de-la-cybersecurite/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-09*
+
+- « En 2025, I-TRACING fête ses 20 ans !.
+- Cette société, Laurent Charvériat et moi en avons eu l’idée sur un coin de table ».
+- Théodore-Michel Vrangos raconte dans son livre, Cyberattaques et poignées de mains, les coulisses d’une ex-start-up, devenue un champion en cybersécurité, avec bientôt 1000 salariés, 150M de CA, une filiale dans 7 pays et une croissance annuelle moyenne enviable de 25% à 30%!.
+- Fruit d’entretiens avec la journaliste Florence Bouchy, l’ouvrage raconte à la première personne les épisodes de la vie de I-TRACING.
+
+## [Retour sur la 4ᵉ édition du Wavestone Product &amp; OT Cybersecurity Day](https://www.wavestone.com/fr/news/wavestone-product-ot-cybersecurity-day-2025/)  
+*Source : wavestone.com | Publication : 2025-12-09*
+
+- Retour sur la 4ᵉ édition du Wavestone Product & OT Cybersecurity Day 9 décembre 2025 · News En bref Des sessions enrichissantes aux retombées concrètes Le 25 novembre 2025, notre bureau de Paris a accueilli plus de 50 clients pour une journée entièrement dédiée à la cybersécurité industrielle et produits.
+- Cette édition, riche en échanges, en enseignements et en retours d’expérience, a été rendue possibles grâce à l’engagement de toutes les équipes impliquées.
+- La journée s’est articulée autour de 9 ateliers thématiques et d’une session plénière, couvrant les sujets clés qui façonnent aujourd’hui la cybersécurité OT et produit : Pilotage de la cybersécurité via les plateformes offboard - Piratage de l’usine connectée - OT Purple Teaming - Synergies réglementaires dans un paysage en évolution - Cryptographie post-quantique (PQC) - IAM pour l’OT - Exercices de crise cyber sur des sites industriels - Cyber Resilience Act - Construction et animation d’une communauté cyber OT - Lors de la session plénière, avec Gérôme Billois, nous avons exploré les défis auxquels les PSO et les CISOs industriels devront faire face d’ici 2030, ainsi que les leviers stratégiques nécessaires pour concevoir une approche robuste dans un paysage de menaces en rapide évolution.
+- Un évènement collectif Nous tenons à remercier les intervenants, les clients et toutes les personnes ayant contribué à cette édition.
+
+## [<b>Cybersécurité</b> : les acteurs avancent non sans faille (partie 1) - CFNEWS](https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Cybersecurite-les-acteurs-avancent-non-sans-faille-partie-1-551329)  
+*Source : cfnews.net | Publication : 2025-12-09*
+
+- Cet article est réservé à nos abonnés.
+- 99% reste à lire Pour accéder à cet article, à l'ensemble du site ainsi qu'à nos bases de données, découvrez nos formules d'abonnement.
+- Accès intégral gratuit - Sans engagement Pour accéder à cet article, à l'ensemble du site ainsi qu'à nos bases de données, découvrez nos formules d'abonnement.
+
+## [Forensics of Intelligent Systems », un programme de recherche conjoint visant à sécuriser l ...](https://www.ledevoir.com/communiques-de-presse/940203/atos-partenaires-recherche-academiques-allemands-premier-plan-lancent-forensics-of-intelligent-systems-programme-recherche-conjoint-visant-securiser-ia-contre-manipulation)  
+*Source : ledevoir.com | Publication : 2025-12-09*
+
+- Communiqué de presse Atos et des partenaires de recherche académiques allemands de premier plan lancent « Forensics of Intelligent Systems », un programme de recherche conjoint visant à sécuriser l'IA contre la manipulation Halle (Saale), Allemagne et Paris, France – 9 décembre 2025 – Atos, un leader mondial de la transformation digitale sécurisée et accélérée par l’IA, annonce avoir signé un contrat avec Agentur für Innovation in der Cybersicherheit GmbH (Agence pour l’innovation en cybersécurité) pour l’établissement du projet de recherche « Forensic of Intelligent systems » ou « Forensique des systèmes intelligents » qui sera localisé Halle, Saale.
+- Ce programme de recherche sera déployé en collaboration avec l'Institut Fraunhofer pour la sécurité appliquée et intégrée (AISEC), l'Institut Fraunhofer pour l'analyse intelligente et les systèmes d'information (IAIS), l'Institut pour la sécurité Internet de l'Université de Westphalie et l'Université de Cologne.
+- Lancement du programme de recherche « Forensics of Intelligent Systems » (FIS) avec les trois équipes de projet dont les approches de recherche ont prévalu dans le domaine de neuf concepts courts.
+- Décembre 2025.
+
+## [Cyberattaques contre les collectivités : comment mieux coordonner la réponse territoriale](https://www.journaldunet.com/cybersecurite/1546579-cyberattaques-contre-les-collectivites-comment-mieux-coordonner-la-reponse-territoriale/)  
+*Source : journaldunet.com | Publication : 2025-12-09*
+
+- Cyberattaques contre les collectivités : comment mieux coordonner la réponse territoriale Seules 14 % des collectivités se déclarent prêtes à faire face à une cyberattaque.
+- Cette vulnérabilité appelle une meilleure articulation entre les ressources de l'État et les besoins des territoires.
+- Dans la nuit du 31 décembre 2024, quinze sites internet de communes françaises ont été rendus inaccessibles par des attaques par déni de service.
+- Marseille, Bordeaux, Nantes, Nice, Montpellier figuraient parmi les cibles.
+
+## [<b>Cybersécurité</b> : les acteurs avancent non sans faille (partie 1) - CFNEWS](https://www.cfnews.net/Enquetes-bilans/Enquetes/Cybersecurite-les-acteurs-avancent-non-sans-faille-partie-1-549985)  
+*Source : cfnews.net | Publication : 2025-12-09*
+
+- Cet article est réservé à nos abonnés.
+- 98% reste à lire Pour accéder à cet article, à l'ensemble du site ainsi qu'à nos bases de données, découvrez nos formules d'abonnement.
+- Accès intégral gratuit - Sans engagement Pour accéder à cet article, à l'ensemble du site ainsi qu'à nos bases de données, découvrez nos formules d'abonnement.
+
+## [Poltronesofà, <b>ransomware</b> et données clients oubliées : et voilà - ZATAZ](https://www.zataz.com/poltronesofa-ransomware-et-donnees-clients-oubliees-et-voila/)  
+*Source : zataz.com | Publication : 2025-12-09*
+
+- Poltronesofà, ransomware et données clients oubliées : et voilà !.
+- Victime d’un rançongiciel fin octobre 2025, Poltronesofà expose des années de données clients, révélant un autre enjeu clé : la gestion concrète du cycle de vie des informations.
+- Poltronesofà a reconnu, fin novembre, avoir subi une attaque de type ransomware le 27 octobre 2025, avec chiffrement de serveurs et vol d’un volume significatif de données clients.
+- Les informations compromises incluent des identités, des coordonnées et des numéros d’identification fiscale, exposant les personnes concernées à des risques de fraude, d’hameçonnage ciblé et de tentatives d’accès non autorisé à divers comptes.
+
+## [Stellantis et Bolt s'associent pour développer des véhicules autonomes - Les Echos](https://www.lesechos.fr/industrie-services/automobile/stellantis-et-bolt-sassocient-pour-developper-des-vehicules-autonomes-2203595)  
+*Source : lesechos.fr | Publication : 2025-12-09*
+
+- cybersécurité ».
+- Dans la même veine, en octobre, Stellantis avait annoncé un partenariat dans le domaine des robotaxis avec le géant américain de.
+
+## [Un consortium européen choisi pour sécuriser les institutions européennes - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/64234-un-consortium-europeen-choisi-pour-securiser-les-institutions-europeennes.html)  
+*Source : linformaticien.com | Publication : 2025-12-09*
+
+- Un consortium composé de Capgemini, Airbus Protect, PwC et NVISO a été choisi par l'exécutif européen pour la fourniture de services de cybersécurité ,.
+
+## [La pénurie de compétences est directement liée aux pertes financières engendrées par les ... - IBM](https://www.ibm.com/fr-fr/think/insights/skills-shortage-directly-tied-to-financial-loss-in-data-breaches)  
+*Source : ibm.com | Publication : 2025-12-09*
+
+- Le déficit de compétences dans le secteur de la cybersécurité continue de s’aggraver, avec de graves conséquences pour les organisations du monde entier.
+- Selon le rapport sur le Coût d’une violation de données d’IBM de 2024, plus de la moitié des organisations victimes de violations sont désormais confrontées à de graves pénuries de personnel de sécurité, soit une augmentation considérable de 26,2 % par rapport à l’année précédente.
+- Et cela coûte cher.
+- Ce déficit de compétences ajoute en moyenne 1,76 million de dollars US de coûts supplémentaires liés aux violations.
 
 ## [Andersen Consulting renforce ses capacités de <b>cybersécurité</b> avec l'arrivée de S-RM](https://www.businesswire.com/news/home/20251208494165/fr)  
 *Source : businesswire.com | Publication : 2025-12-08*
