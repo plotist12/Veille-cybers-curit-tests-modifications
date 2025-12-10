@@ -1,5 +1,153 @@
-# Résumés – 2025-12-09
+# Résumés – 2025-12-10
 
+
+## [un outil opérationnel pour guider les organisations vers des solutions souveraines - ITRnews](https://itrnews.com/articles/208214/le-cyber-panorama-un-outil-operationnel-pour-guider-les-organisations-vers-des-solutions-souveraines.html)  
+*Source : itrnews.com | Publication : 2025-12-10*
+
+- Veuillez activer Javascript.
+
+## [<b>Cybercriminalité</b> - Prostitution 2.0 : un vaste réseau de contenus pornographiques et de ...](https://www.dakaractu.com/Cybercriminalite-Prostitution-2-0-un-vaste-reseau-de-contenus-pornographiques-et-de-prostitution-en-ligne-demantele-par_a267431.html)  
+*Source : dakaractu.com | Publication : 2025-12-10*
+
+- La Division spéciale de lutte contre la cybercriminalité (DSC) vient de frapper un grand coup dans la traque des dérives numériques.
+- Au terme d’une opération minutieuse de surveillance du cyberespace, les enquêteurs ont mis au jour un réseau structuré utilisant un site pornographique et des groupes privés Telegram pour diffuser des contenus explicitement pornographiques et promouvoir des activités de prostitution.
+- Tout est parti de la découverte d’une plateforme en ligne spécialisée – un site internet renfermant des vidéos explicites – et d’un ensemble de groupes Telegram servant à la fois de relais, de vitrines publicitaires et de canaux de mise en relation entre « prestataires » et clients.
+- Le dispositif était administré depuis l’étranger par un individu opérant sous pseudonyme, coordonnant l’ensemble de l’activité.
+
+## [Orange recrute une pointure française de la <b>cybersécurité</b>, et sa mission sera ô combien importante](https://www.clubic.com/actualite-591082-orange-recrute-une-pointure-francaise-de-la-cybersecurite-et-sa-mission-sera-o-combien-importante.html)  
+*Source : clubic.com | Publication : 2025-12-10*
+
+- Le groupe Orange a jeté son dévolu sur Guillaume Poupard, aujourd'hui chez Docaposte mais surtout connu pour son passage très réussi à la tête de l'ANSSI, l'agence française cyber.
+- Il rejoindra l'opérateur dans les prochaines semaines.
+- Depuis qu'il a quitté son poste de directeur général de l'Agence nationale de la sécurité des systèmes d'information (ANSSI) fin 2022, Guillaume Poupard a été souvent courtisé, jusqu'à être annoncé comme ministre potentiel.
+- Mais depuis début 2023, celui qui est aussi docteur en cryptographie fait les beaux jours de Docaposte, la filiale numérique de La Poste.
+
+## [&quot;Pour l'adrénaline…&quot; un homme condamné pour possession de milliers d'images ... - La Dépêche](https://www.ladepeche.fr/2025/12/10/pour-ladrenaline-un-homme-condamne-pour-possession-de-milliers-dimages-pedopornographiques-13102414.php)  
+*Source : ladepeche.fr | Publication : 2025-12-10*
+
+- "Pour l’adrénaline…" un homme condamné pour possession de milliers d’images pédopornographiques l'essentiel La cybercriminalité s’est retrouvée au cœur d’un procès à Toulouse.
+- Un homme de 32 ans a reconnu avoir détenu des milliers d’images pédopornographiques.
+- Le tribunal a prononcé 18 mois de sursis probatoire et une interdiction de contact avec les enfants pendant 10 ans.
+- Le tribunal correctionnel de Toulouse examine ce mercredi une affaire sensible de cybercriminalité.
+
+## [Des fichiers informatiques rendus illisibles : une maison de retraite des Deux-Sèvres victime ...](https://www.lanouvellerepublique.fr/deux-sevres/commune/champdeniers-saint-denis/le-chiffrement-de-certains-fichiers-une-maison-de-retraite-des-deux-sevres-victime-d-une-cyberattaque-par-rancongiciel-1765374244)  
+*Source : lanouvellerepublique.fr | Publication : 2025-12-10*
+
+- L'info en continu Les plus lus L’Ehpad de la Résidence du parc, à Champdeniers-Saint-Denis, a été victime d’une cyberattaque, a fait savoir l’établissement dans un communiqué mercredi 10 décembre 2025.
+- « La direction a immédiatement activé son plan de gestion de crise et mobilisé l’ensemble des ressources nécessaires pour protéger les résidents et leurs données », indique la résidence, où vivent 90 personnes.
+- « Le 8 décembre 2025, l’équipe de l’établissement a détecté une intrusion malveillante dans le système d’information, précise le communiqué.
+- Cette attaque de type rançongiciel (ransomware) a entraîné le chiffrement de certains fichiers et une potentielle exfiltration de données personnelles.
+
+## [Tendances Tech au Canada 2025 : IA, Tech Propre &amp; <b>Cybersécurité</b>](https://leyton.com/ca/insights/articles/tendances-tech-au-canada-2025-ia-technologies-propres-et-cybersecurite/)  
+*Source : leyton.com | Publication : 2025-12-10*
+
+- Comment le conseil en subventions axé sur le client de Leyton ... Chaque organisation a des objectifs, des défis et des ambitions de croissance uniques.
+- Un conseil.
+- Les tendances Tech au Canada en 2025 sont définies par une puissante innovation domestique et une voie claire vers un leadership mondial dans des domaines spécialisés clés.
+- Bien que l’adoption des technologies fondamentales reflète les tendances mondiales, les entreprises canadiennes sont particulièrement bien placées pour tirer parti de leur écosystème de recherche en IA mature et d’un engagement accéléré envers les technologies propres.
+
+## [<b>Ransomware</b> : un business à plusieurs milliards de dollars | LeMagIT](https://www.lemagit.fr/actualites/366636084/Ransomware-un-business-a-plusieurs-milliards-de-dollars)  
+*Source : lemagit.fr | Publication : 2025-12-10*
+
+- Getty Images Ransomware : un business à plusieurs milliards de dollars Selon l’administration américaine, plus de deux milliards de dollars de rançons ont été versées entre 2022 et 2024 à la suite de cyberattaques avec rançongiciel.
+- Avec un record en 2023 pour 1 512 incidents rapportés.
+- Combien pèse l’économie mafieuse du ransomware ?.
+- Cela se chiffre en milliards de dollars, selon le réseau de lutte contre les crimes financiers (Financial Crimes Enforcement Network, ou FinCEN) du ministère américain du Trésor.
+
+## [<b>Ransomwares</b> sur les hyperviseurs : augmentation de 3 à 25 pour cent - ITdaily.](https://itdaily.fr/nouvelles/securite/ransomwares-hyperviseurs/)  
+*Source : itdaily.fr | Publication : 2025-12-10*
+
+- Les hyperviseurs sont de plus en plus victimes d’attaques par ransomware.
+- Les chercheurs de la société de sécurité Huntress tirent la sonnette d’alarme concernant une forte augmentation des attaques par ransomware sur les hyperviseurs, rapporte The Register.
+- Au cours du premier semestre, seuls trois pour cent des incidents de ransomware passaient par l’hyperviseur, mais à l’automne, ce chiffre est passé à 25 pour cent.
+- Les hyperviseurs comme angle mort Selon Huntress, les attaquants ciblent les hyperviseurs mal sécurisés.
+
+## [Spie acquiert Cyqueo pour renforcer son offre en <b>cybersécurité</b> - Ideal Investisseur](https://www.ideal-investisseur.fr/actions-b/spie-acquiert-cyqueo-pour-renforcer-son-offre-en-cyberscurit/10354.html)  
+*Source : ideal-investisseur.fr | Publication : 2025-12-10*
+
+- Spie, le groupe de services multi-techniques, annonce l'acquisition de Cyqueo en Allemagne pour étendre ses capacités dans le domaine de la cybersécurité.
+- D'après le communiqué de Spie, le groupe a acquis Cyqueo, une société spécialisée dans les solutions de cybersécurité basée à Munich.
+- Cette opération permet à Spie de renforcer son portefeuille dans le secteur de la cybersécurité, un domaine en pleine croissance, en renforçant ses capacités de conseil et d’intégration de solutions de sécurité pour des infrastructures informatiques complexes.
+- Expertise avancée de Cyqueo Cyqueo se distingue par son réseau de partenaires étendu et son expertise en Zero Trust, sécurité cloud, protection des terminaux et services de sécurité managés.
+
+## [Orange recrute Guillaume Poupard, homme fort de la cyberdéfense en France | Les Echos](https://www.lesechos.fr/tech-medias/hightech/orange-recrute-guillaume-poupard-homme-fort-de-la-cyberdefense-en-france-2204069)  
+*Source : lesechos.fr | Publication : 2025-12-10*
+
+- cybersécurité de l'Etat.
+- Le polytechnicien prendra ses fonctions au 1 er février 2026 comme « Chief trust officer », d'après nos informations.
+
+## [Pau : au lycée Saint-John Perse, des étudiants sensibilisent les enseignants à la <b>cybersécurité</b>](https://www.larepubliquedespyrenees.fr/sciences-et-technologie/web-et-internet/pau-au-lycee-saint-john-perse-des-etudiants-sensibilisent-les-enseignants-a-la-cybersecurite-26886064.php)  
+*Source : larepubliquedespyrenees.fr | Publication : 2025-12-10*
+
+- Pau : au lycée Saint-John Perse, des étudiants sensibilisent les enseignants à la cybersécurité Échanges de rôles à Saint-John Perse : des étudiants en BTS ont appris aux professeurs du lycée à gérer leurs mots de passe pour renforcer leur sécurité numérique.
+- Dans un monde où les cyberattaques se multiplient et mettent en danger les données des entreprises, des hôpitaux, des institutions, des particuliers, il est important que chacun connaisse les différents types d’attaques et s’en prémunisse.
+
+## [Données : la faille béante en <b>cybersécurité</b> ! - Beaboss.fr](https://www.beaboss.fr/digital-1074/cybersecurite-2020/donnees-lautre-faille-beante-de-la-cybersecurite-53961)  
+*Source : beaboss.fr | Publication : 2025-12-10*
+
+- La pression monte, et certains le disent sans détour : 71 % des décideurs IT français estiment que l’explosion des données a accru l’exposition de leur entreprise aux cybermenaces.
+- Et ce n’est qu’un début.
+- Selon la même étude menée par OnePoll pour Splunk, 72 % anticipent un risque encore plus élevé d’ici trois ans.
+- Rien de très surprenant quand on regarde les projections : le volume mondial de données devrait atteindre 393,9 zettabytes, quasiment le double de ce qui était prévu pour 2025 selon IDC.
+
+## [64 millions de données volées : un hacker de 19 ans est soupçonné du piratage de 9 entreprises](https://www.01net.com/actualites/64-millions-donnees-volees-hacker-19-ans-soupconne-piratage-9-entreprises.html)  
+*Source : 01net.com | Publication : 2025-12-10*
+
+- Un jeune homme de 19 ans vient d’être appréhendé par la Police nationale espagnole à Barcelone.
+- Le suspect est soupçonné de « cybercriminalité, d’accès non autorisé à des données confidentielles et de violation de la vie privée ».
+- Le jeune pirate aurait compromis les systèmes informatiques de neuf entreprises différentes.
+- Une fois dans le système, le hacker a dérobé un impressionnant total de 64 millions de données.
+
+## [La nécessaire vigilance des systèmes OT/IOT et embarqués - Solutions-Numeriques](https://www.solutions-numeriques.com/communiques/la-necessaire-vigilance-des-systemes-ot-iot-et-embarques/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-10*
+
+- La forte exposition aux cyberrisques des acteurs industriels et organisations utilisant des systèmes OT/IOT et embarqués est au cœur de l’actualité.
+- Dans ce contexte, il est fondamental de prendre en compte cet état de fait et de repenser en profondeur sa gouvernance cyber pour éviter toute compromission qui pourrait avoir des conséquences importantes.
+- Mais comment faire et quels fondamentaux mettre en œuvre ?.
+- Sécurité des industries 4.0/5.0 Protéger l’avenir des infrastructures critiques est indispensable.
+
+## [[100% PME] Oumaira Baira : les PME sont en première ligne des cyberattaques - YouTube](https://www.youtube.com/watch?v=krb3FKCjSmY)  
+*Source : youtube.com | Publication : 2025-12-10*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2025 Google LLC.
+
+## [Le Cesin et Hexatrust recensent les solutions souveraines en <b>cybersécurité</b>](https://www.lemondeinformatique.fr/actualites/lire-le-cesin-et-hexatrust-recensent-les-solutions-souveraines-en-cybersecurite-98765.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-12-10*
+
+- A l’heure où les entreprises s’interrogent sur la dépendance numérique aux outils notamment américains, le club des experts de la sécurité de l’information et du numérique (Cesin) et l’association Hexatrust qui regroupe plusieurs entreprises spécialisées dans le cloud et la cybersécurité ont décidé d’apporter un éclairage spécifique sur les propositions des entreprises françaises.
+- Baptisée Cyber Panorama, l’initiative vise à consolider de manière graphique l’ensemble des offres de cybersécurité de l’écosystème français.
+- Dans le détail, ce panorama adopte la structure du framework du NIST et les solutions sont réparties selon les six fonctions du cadre : gouverner, identifier, protéger, répondre et récupérer.
+- Par exemple, on retrouve dans le volet détection des sociétés comme Sekost, Yogosha (spécialisé dans le bug bounty), Patrowl ou Gatewatcher (qui fournit des sondes).
+
+## [L'Assemblée nationale adopte plusieurs lois sur la <b>cybersécurité</b>, l'éducation et la presse](https://fr.vietnamplus.vn/lassemblee-nationale-adopte-plusieurs-lois-sur-la-cybersecurite-leducation-et-la-presse-post256021.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-12-10*
+
+- Hanoï (VNA) – Dans le cadre de sa 10ᵉ session, l’Assemblée nationale a adopté le 10 décembre plusieurs lois concernant la cybersécurité, l’éducation et la presse.
+- Avec 434 voix favorables sur 443, soit 91,75 % des députés présents, la Loi sur la cybersécurité a été approuvée.
+- Composée de huit chapitres avec 45 articles, elle entrera en vigueur le 1ᵉʳ juillet 2026, permettant d’établir un cadre juridique solide, de renforcer la capacité à défendre la souveraineté nationale dans le cyberespace et de favoriser un développement durable de l’économie numérique.
+- La Loi sur la presse (modifiée), comprenant quatre chapitres avec 51 articles, a été adoptée avec 437 voix pour sur 440.
+
+## [Hexatrust et le CESIN rendent public un guide opérationnel - L'INFORMATICIEN &amp; L'INFO ...](https://www.linformaticien.com/magazine/cybersecurite/64246-hexatrust-et-le-cesin-rendent-public-un-guide-operationnel.html)  
+*Source : linformaticien.com | Publication : 2025-12-10*
+
+- Les deux institutions ont édité un panorama des solutions souveraines den cybersécurité.
+- le CESIN et Hexatrust annoncent le lancement du Cyber.
+
+## [Industrie sous tension : comment bâtir une vraie résilience cyber dans les systèmes critiques](https://www.alliancy.fr/industrie-sous-tension-comment-batir-une-vraie-resilience-cyber-dans-les-systemes-critiques)  
+*Source : alliancy.fr | Publication : 2025-12-10*
+
+- Renforcer la résilience cyber des systèmes industriels, où inertie technique et exposition croissante se percutent, devient urgent.
+- La directive NIS2 accélère cette transformation en imposant un niveau de sécurité inédit aux services essentiels.
+- La vanne qui déraille, le territoire qui vacille : voilà le scénario désormais redouté par les acteurs industriels et territoriaux.
+- Dans les réseaux d’eau, d’énergie ou de transport, “un système OT (technologie opérationnelle) s’installe pour 20 ou 30 ans et ne bouge presque pas”, là où l’IT se réinvente tous les trois ans, comme l’a rappelé Nicolas Broutin, chef du bureau coordination sectorielle à l’ANSSI.
+
+## [Airbus décroche un contrat pouvant aller jusqu'à 50 millions d'euros pour intégrer l'IA dans ...](https://www.usine-digitale.fr/aeronautique-spatial/airbus/airbus-decroche-un-contrat-pouvant-aller-jusqua-50-millions-deuros-pour-integrer-lia-dans-les-systemes-militaires-francais.GDKPLL4ZQVCHFIVBUNMBOVCKKI.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-10*
+
+- Airbus décroche un contrat pouvant aller jusqu’à 50 millions d’euros pour intégrer l’IA dans les systèmes militaires français Pas de temps à perdre pour la transformation des armées.
+- La stratégie ministérielle sur l’IA de défense initiée en mars 2024 se concrétise aujourd’hui avec un contrat de taille passé auprès d’Airbus Defence and Space.
+- Les plus lus : Airbus Airbus décroche un contrat pouvant aller jusqu’à 50 millions d’euros pour intégrer l’IA dans les systèmes militaires français - Souveraineté numérique : Pourquoi Airbus, Dassault Systèmes, Orange, OVHcloud et 7 autres champions européens font alliance - Airbus, Thales et Leonardo s'allient pour concurrencer Starlink en Europe - Cyberdéfense : L'armée française commande des simulateurs d'entraînement à Airbus - Skynopy lève 15 millions d'euros pour sa solution de connectivité pour satellites - Airbus va s'appuyer sur la plateforme 3DExperience de Dassault Systèmes pour tous ses programmes - Cherche talents numériques Témoignage : faire carrière dans le nucléaire, une mauvaise idée ?Le témoignage Le nucléaire suscite souvent des idées reçues : secteur réservé aux ingénieurs, journées confinées en centrales, missions où tout se passe sur papier.
+- Pourtant, de nombreuses entreprises, comme Assystem, première entreprise d’ingénierie nucléaire en Europe, démontrent que la réalité est tout autre, comme en témoignent Adeline, Victor et Gaëlle.
 
 ## [<b>Cybersécurité</b> &amp; IA : l'école IPSSI forme aux métiers d'avenir - midilibre.fr](https://www.midilibre.fr/2025/12/09/cybersecurite-ia-lecole-ipssi-forme-aux-metiers-davenir-13100486.php)  
 *Source : midilibre.fr | Publication : 2025-12-09*
