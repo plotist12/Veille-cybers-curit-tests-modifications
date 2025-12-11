@@ -1,5 +1,153 @@
-# Résumés – 2025-12-10
+# Résumés – 2025-12-11
 
+
+## [<b>Cybersécurité</b> en PME : Pourquoi la sécurité est l'affaire de tous - Global Security Mag](https://www.globalsecuritymag.fr/cybersecurite-en-pme-pourquoi-la-securite-est-l-affaire-de-tous.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-12-11*
+
+- Cybersécurité en PME : Pourquoi la sécurité est l’affaire de tous décembre 2025 par Sergio Ficara chez Eureka Solutions Dans l’imaginaire collectif, la cybersécurité évoque encore des salles obscures remplies de serveurs, des lignes de code à perte de vue et des ingénieurs penchés sur des écrans clignotants.
+- En réalité, le danger se trouve souvent bien plus près, parfois à un simple clic.
+- Et les PME, longtemps persuadées d’être trop modestes pour attirer les cybercriminels, représentent désormais des cibles privilégiées.
+- Leur taille, leur dépendance à leurs outils numériques et l’absence de politiques de sécurité structurées en font des proies idéales.
+
+## [Des « activités suspectes » obligent le ministère de l'Intérieur à renforcer sa <b>cybersécurité</b>](https://www.sudouest.fr/economie/cybersecurite/des-activites-suspectes-obligent-le-ministere-de-l-interieur-a-renforcer-sa-cybersecurite-27067036.php)  
+*Source : sudouest.fr | Publication : 2025-12-11*
+
+- Le ministère de l’Intérieur a décidé de renforcer ses mesures de sécurité informatique après la découverte d’activités suspectes ciblant ses serveurs de messagerie Une enquête a été ouverte après la découverte de « l’existence d’activités suspectes visant des serveurs de messagerie » du ministère de l’Intérieur et des mesures ont été mises en œuvre afin de « circonscrire la menace », a indiqué la place Beauvau jeudi, confirmant une information de « BFMTV ».
+- Beauvau a dit avoir « découvert l’existence d’activités suspectes visant des serveurs de messagerie ».
+- « L’identification de l’origine et l’ampleur exacte de ces actions sont en cours d’analyse », a-t-on précisé au ministère de l’Intérieur.
+
+## [Après avoir découvert des activités &quot;suspectes&quot; visant ses serveurs de messageries ... - lindependant](https://www.lindependant.fr/2025/12/11/apres-avoir-decouvert-des-activites-suspectes-visant-ses-serveurs-de-messageries-le-ministere-de-linterieur-met-en-place-plusieurs-actions-pour-13105400.php)  
+*Source : lindependant.fr | Publication : 2025-12-11*
+
+- Après avoir découvert des activités "suspectes" visant ses serveurs de messageries, le ministère de l’Intérieur met en place "plusieurs actions" pour renforcer sa cybersécurité "L’identification de l’origine et l’ampleur exacte de ces actions sont en cours d’analyse", a précisé le service de presse du ministère de l’Intérieur.
+- Une enquête a été ouverte après la découverte "d’activités suspectes" visant les serveurs de messagerie du ministère de l’Intérieur, a-t-on appris ce jeudi 11 décembre.
+- Le ministère de l’Intérieur a confirmé ce jeudi 11 décembre avoir récemment découvert l’existence d’activités suspectes menaçant ses serveurs de messagerie.
+- "L’identification de l’origine et l’ampleur exacte de ces actions sont en cours d’analyse", a précisé le service de presse de Beauvau à BFMTV.
+
+## [Guillaume Poupard quitte Docaposte pour piloter la stratégie de souveraineté numérique d'Orange](https://www.usine-digitale.fr/cybersecurite/guillaume-poupard-quitte-docaposte-pour-piloter-la-strategie-de-souverainete-numerique-dorange.334WFQKTRFHXZOFBLI2X3MSYVU.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-11*
+
+- Orange se dote d’une figure majeure de la cybersécurité française pour accélérer sa stratégie dans la souveraineté numérique et le développement d’offres de confiance.
+- Le groupe a annoncé ce 11 décembre la nomination de Guillaume Poupard au poste de Chief Trust Officer à compter du 1er février 2026.
+- Cette fonction est rattachée directement à Christel Heydemann, directrice générale d’Orange.
+- A noter qu’Orange Business dispose déjà de son propre Chief Trust Officer, une fonction interne à la branche B2B, distincte de celle créée aujourd’hui au niveau du groupe de télécoms.
+
+## [Spie réalise l'acquisition de 93 % d'Artemys - EasyBourse](https://www.easybourse.com/international/news/1520775/spie-realise-acquisition-93-artemys.html)  
+*Source : easybourse.com | Publication : 2025-12-11*
+
+- (Zonebourse.com) - Spie signe un accord pour l'acquisition de 93 % d'Artemys, un expert de la transformation numérique en France.
+- Artemys regroupe plusieurs entités spécialisées dans la conception, la gestion et la transformation des systèmes d'information de ses clients.
+- Le groupe dispose d'un portefeuille de clients diversifié notamment dans les secteurs des services financiers, de l'énergie, et du luxe.
+- Artemys a généré en 2024 une production d'environ 82 millions d'euros.
+
+## [INFO BFMTV. Des activités suspectes forcent le ministère de l'Intérieur à renforcer sa ...](https://fr.news.yahoo.com/info-bfmtv-activités-suspectes-forcent-185542633.html)  
+*Source : fr.news.yahoo.com | Publication : 2025-12-11*
+
+- INFO BFMTV.
+- Des activités suspectes forcent le ministère de l'Intérieur à renforcer sa cybersécurité pour "circonscrire la menace" Une "menace" de cybersécurité.
+- Le ministère de l'Intérieur confirme à BFMTV ce jeudi 11 décembre avoir découvert l’existence d’activités suspectes visant ses serveurs de messagerie.
+- Selon nos informations, cette découverte est récente.
+
+## [INC Ransom, Lynx, Sinobi : trois marques, un seul groupe de <b>ransomware</b> | LeMagIT](https://www.lemagit.fr/actualites/366636182/INC-Ransom-Lynx-Sinobi-trois-marques-un-seul-groupe-de-ransomware)  
+*Source : lemagit.fr | Publication : 2025-12-11*
+
+- Shutter2U - stock.adobe.com INC Ransom, Lynx, Sinobi : trois marques, un seul groupe de ransomware Les liens entre INC Ransom et Lynx ont été bien documentés.
+- Un lien entre Lynx et Sinobi, a été fortement soupçonné, notamment du fait de similarité dans le code de leurs rançongiciels.
+- Mais ils partagent aussi des éléments d’infrastructure.
+- Trois marques pour un seul groupe ?.
+
+## [INFO BFMTV. Des activités suspectes forcent le ministère de l'Intérieur à renforcer sa ...](https://www.bfmtv.com/police-justice/info-bfmtv-des-activites-suspectes-forcent-le-ministere-de-l-interieur-a-renforcer-sa-cybersecurite-pour-circonscrire-la-menace_AN-202512110893.html)  
+*Source : bfmtv.com | Publication : 2025-12-11*
+
+- INFO BFMTV.
+- Des activités suspectes forcent le ministère de l'Intérieur à renforcer sa cybersécurité pour "circonscrire la menace" Une "menace" de cybersécurité.
+- Le ministère de l'Intérieur confirme à BFMTV ce jeudi 11 décembre avoir découvert l’existence d’activités suspectes visant ses serveurs de messagerie.
+- Selon nos informations, cette découverte est récente.
+
+## [<b>Cybersécurité</b> : le nombre d'attaques en baisse en novembre, selon NÚKIB](https://francais.radio.cz/cybersecurite-le-nombre-dattaques-en-baisse-en-novembre-selon-nukib-8871581)  
+*Source : francais.radio.cz | Publication : 2025-12-11*
+
+- Cybersécurité : le nombre d’attaques en baisse en novembre, selon NÚKIB Le nombre d’incidents cybernétiques en Tchéquie était inférieur à la moyenne en novembre.
+- L’Office national pour la cybersécurité et la sécurité de l’information (NÚKIB) en a enregistré 15, comme il l’a indiqué sur son site web.
+- En octobre, il avait enregistré une vingtaine d’attaques.
+- Pour l'ensemble de 2024, 268 incidents cybernétiques ont été recensés, soit six de plus que l’année précédente.
+
+## [Orange recrute Guillaume Poupard, l'ex-directeur général de l'ANSSI - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/orange-recrute-guillaume-poupard-l-ex-directeur-general-de-l-anssi-20251211)  
+*Source : lefigaro.fr | Publication : 2025-12-11*
+
+- Orange recrute Guillaume Poupard, l’ex-directeur général de l’ANSSI Personnalité de référence dans le monde français de la cybersécurité, il aura pour mission de définir et incarner la stratégie d’Orange en matière de souveraineté et de confiance.
+- Passer la publicité Passer la publicitéUne recrue de poids pour accélérer sur le marché de la cybersécurité et de la confiance numérique.
+- Orange est allé chercher Guillaume Poupard, l’ancien directeur général de l’ANSSI, pour épauler sa directrice générale Christel Heydemann sur ses choix stratégiques dans ces domaines cruciaux pour l’avenir du groupe français.
+- Parti chez Docaposte après la fin de son mandat à la tête de l’agence nationale pour la sécurité des systèmes d’information, Guillaume Poupard prendra ses nouvelles fonctions de «Chief Trust Officer» à partir du 1er février 2026.
+
+## [Bpifrance lance, en partenariat avec NUMEUM, la première promotion de l'Accélérateur ...](https://presse.bpifrance.fr/bpifrance-lance-en-partenariat-avec-numeum-la-premiere-promotion-de-laccelerateur-esn-dedie-aux-entreprises-des-services-numeriques)  
+*Source : presse.bpifrance.fr | Publication : 2025-12-11*
+
+- Paris, le 11 décembre 2025 - Matthieu HESLOUIN, Directeur Exécutif en charge du Conseil chez Bpifrance, et Boris MATHIEUX, responsable du collège ESN & ICT de NUMEUM, ont lancé hier la première promotion de l'Accélérateur Entreprises de Services Numériques (ESN).
+- Composé de 25 PME, ce programme démarre dans un contexte de transformation profonde de leur secteur.
+- Les Entreprises de Services Numériques (ESN) font face à une transformation profonde de leur secteur.
+- L'essor de l'intelligence artificielle, la nécessité de créer de la valeur au-delà du volume, la guerre des talents ou encore la montée des exigences réglementaires en cybersécurité redéfinissent les priorités stratégiques du secteur.
+
+## [Le CEFCYS met en lumière 18 talents féminins de la cyber 2025 - ITforBusiness.fr](https://www.itforbusiness.fr/trophees-de-la-femme-cyber-2025-le-cefcys-met-en-lumiere-18-talents-feminins-de-la-cyber-98144)  
+*Source : itforbusiness.fr | Publication : 2025-12-11*
+
+- Secu Trophées de la Femme Cyber 2025 : le CEFCYS met en lumière 18 talents féminins de la cyber Par Thierry Derouet, publié le 11 décembre 2025 Le CEFCYS a remis à la Salle Gaveau les Trophées Mondiaux de la Femme Cyber 2025, distinguant 18 talents féminins de la cybersécurité pour répondre à un secteur où les femmes ne représentent encore que 17 % des effectifs.
+- Le lundi 8 décembre, la Salle Gaveau a accueilli la 6ᵉ édition des Trophées Mondiaux de la Femme Cyber 2025 organisés par le CEFCYS.
+- Dix-huit lauréates, françaises et internationales, ont été distinguées par un jury présidé par Bruno Prévost, VP CTO, VP AI et conférencier, lors d’une soirée placée sous le haut marrainage d’Aurore Bergé, ministre déléguée chargée de l’Égalité entre les femmes et les hommes et de la Lutte contre les discriminations, et de Clara Chappaz, ancienne ministre déléguée chargée de l’Intelligence artificielle et du Numérique.
+- Pour un secteur qui manque de talents et où seulement 17 % des professionnels sont des femmes selon une étude citée par le CEFCYS, ces trophées sont plus qu’un symbole : ils donnent des noms, des visages et des parcours à ce vivier de compétences que DSI, RSSI et DRH peinent encore à attirer et fidéliser.
+
+## [SPIE acquiert 93 % d'Artemys pour renforcer son offre numérique - idéal investisseur](https://www.ideal-investisseur.fr/actions-b/spie-acquiert-93-dartemys-pour-renforcer-son-offre-numrique/10443.html)  
+*Source : ideal-investisseur.fr | Publication : 2025-12-11*
+
+- SPIE, acteur majeur dans les services multi-techniques, a signé un accord pour acquérir 93 % de l'entreprise Artemys, spécialisée dans la transformation numérique en France, selon le communiqué.
+- D'après les informations fournies, SPIE, un leader dans le domaine des services multi-techniques, a enregistré un chiffre d'affaires consolidé de 9,9 milliards d'euros pour l'année 2024, avec un EBITA atteignant 712 millions d'euros.
+- La société compte 55 000 collaborateurs et se concentre sur la décarbonation de l'économie ainsi que sur la transformation numérique responsable.
+- Acquisition stratégique d'Artemys SPIE a annoncé avoir signé un accord pour acquérir 93 % d'Artemys, société fondée en 1989 et spécialisée dans la transformation des systèmes d'information.
+
+## [DroidLock, le <b>ransomware</b> Android qui peut modifier votre code PIN et prendre le contrôle ...](https://www.clubic.com/actualite-591241-droidlock-le-ransomware-android-qui-peut-modifier-votre-code-pin-et-prendre-le-controle-total-de-votre-smartphone.html)  
+*Source : clubic.com | Publication : 2025-12-11*
+
+- Une nouvelle campagne d’attaques sème la pagaille sur Android, poussant un malware capable de verrouiller l’écran, voler les identifiants, changer le code PIN et piloter l’appareil à distance.
+- Un mélange de ransomware, d’espion et d’outil d’administration abusive, qui repose sur de faux écrans système pour piéger les utilisateurs et utilisatrices.
+- Une fausse mise à jour, une permission acceptée un peu trop vite et votre smartphone ne vous appartient plus vraiment.
+- Le ransomware DroidLock, repéré par les équipes de sécurité de Zimperium, prospère sur ce terrain en exploitant les services d’accessibilité pour déployer des mises à jour factices, récupérer des mots de passe, enregistrer l’activité de l’écran, modifier le code PIN et bloquer totalement l’accès au smartphone.
+
+## [La <b>cybersécurité</b>, nouveau pilier de la souveraineté européenne - JDN](https://www.journaldunet.com/cybersecurite/1546651-la-cybersecurite-nouveau-pilier-de-la-souverainete-europeenne/)  
+*Source : journaldunet.com | Publication : 2025-12-11*
+
+- La cybersécurité, nouveau pilier de la souveraineté européenne La souveraineté européenne ne se joue plus seulement aux frontières physiques.
+- Elle se construit aujourd'hui dans les réseaux, les data centers et les algorithmes, là où se décident la résilience.
+- L’Europe a longtemps pensé sa souveraineté à travers l’énergie, la défense ou la monnaie.
+- Mais à l’heure où la donnée, l’IA et le cloud façonnent les rapports de force mondiaux, la cybersécurité s’impose comme un nouveau pilier stratégique.
+
+## [Le site de l'ANSSI évolue pour plus de lisibilité](https://cyber.gouv.fr/actualites/le-site-de-lanssi-evolue-pour-plus-de-lisibilite/)  
+*Source : cyber.gouv.fr | Publication : 2025-12-11*
+
+- En tant qu'autorité nationale en matière de cybersécurité et de cyberdéfense, l'Agence nationale de la sécurité des systèmes d'information (ANSSI).
+
+## [CERT-FR - ANSSI](https://cyber.gouv.fr/nous-connaitre/lagence/organisation/cert-fr/)  
+*Source : cyber.gouv.fr | Publication : 2025-12-11*
+
+- Partager la connaissance sur les menaces de cybersécurité.
+- A ce titre, le CERT-FR peut être amené à (Ouvre une nouvelle fenêtre) contacter les.
+
+## [<b>Cybersécurité</b> : Malgré des investissements constants, l'Europe n'arrive pas à atteindre ses objectifs](https://www.usine-digitale.fr/cybersecurite/cybersecurite-malgre-des-investissements-constants-leurope-narrive-pas-a-atteindre-ses-objectifs.PTYC2HQY4RGAROIPMLBTADVKCM.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-11*
+
+- Les Etats européens n’ont jamais autant investi dans la sécurité informatique mais cet effort budgétaire ne se traduit pas encore par une capacité opérationnelle proportionnelle.
+- C’est le constat qui ressort de la sixième édition du NIS Investments 2025 publiée par l’Agence de l’Union européenne pour la cybersécurité (Enisa).
+- Son objectif est de mesurer la manière dont les organisations européennes investissent dans la cybersécurité et dans quelle mesure ces investissements permettent de mettre en œuvre les obligations réglementaires, en particulier celles de NIS 2.
+- L’étude repose sur un questionnaire adressé à plus de 1000 organisations soumises à NIS 2.
+
+## [Crowdstrike : du solide mais le dossier est très (trop) cher… - Investir - Les Echos](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/crowdstrike-du-solide-mais-le-dossier-est-tres-trop-cher-2204261)  
+*Source : investir.lesechos.fr | Publication : 2025-12-11*
+
+- Le PDG de Crowdstrike alerte sur l'utilisation croissante de l'IA par les cybercriminels, rendant la cybersécurité plus cruciale que jamais.
+
+## [Panoramas de la <b>cybermenace</b> - ANSSI](https://cyber.gouv.fr/nous-connaitre/publications/panoramas-de-la-cybermenace/)  
+*Source : cyber.gouv.fr | Publication : 2025-12-11*
+
+- Les cybermenaces font partie intégrante de la vie numérique : pour s'en protéger, il est essentiel de bien comprendre la […].
 
 ## [un outil opérationnel pour guider les organisations vers des solutions souveraines - ITRnews](https://itrnews.com/articles/208214/le-cyber-panorama-un-outil-operationnel-pour-guider-les-organisations-vers-des-solutions-souveraines.html)  
 *Source : itrnews.com | Publication : 2025-12-10*
