@@ -1,5 +1,160 @@
-# Résumés – 2025-12-11
+# Résumés – 2025-12-12
 
+
+## [L'agence française cyber alerte sur les multiples vulnérabilités qui frappent un acteur réputé ...](https://www.clubic.com/actualite-591418-l-agence-francaise-cyber-alerte-sur-les-multiples-vulnerabilites-qui-frappent-un-acteur-repute-du-cloud-prive.html)  
+*Source : clubic.com | Publication : 2025-12-12*
+
+- L'ANSSI et le CERT-FR alertent en cette fin de semaine sur une vulnérabilité critique dans les produits de l'entreprise Mitel, entre autres failles.
+- La brèche majeure expose de nombreux utilisateurs professionnels à des cyberattaques.
+- En France, l'alerte a été diffusée le jeudi 11 décembre par l’Agence nationale de la sécurité des systèmes d’information (ANSSI).
+- Le CERT-FR y pointe, au milieu de « multiples vulnérabilités », une faille sérieuse dans l'écosystème Mitel.
+
+## [<b>CYBERSÉCURITÉ</b> // Vigilance – appels frauduleux en cours - Les communes illiwap](https://station.illiwap.com/fr/public/95078/actu/cybersecurite-vigilance-appels-frauduleux-en-cours)  
+*Source : station.illiwap.com | Publication : 2025-12-12*
+
+- CYBERSÉCURITÉ // Vigilance – appels frauduleux en cours Nous souhaitons vous informer qu’une vague d’appels téléphoniques frauduleux est actuellement en cours à l’échelle nationale.
+- Il est possible que vous receviez des appels provenant de numéros connus et légitimes Ces appels frauduleux se présentent sous la forme d’un message vocal robotisé indiquant : « En raison d'une utilisation anormale de votre ligne, celle-ci va être suspendue dans 2 heures.
+- Appuyez sur 9 pour en savoir plus.
+- » Il s’agit d’une arnaque.
+
+## [Cyberattaque au ministère de l'Intérieur : « Pas de trace de compromission grave](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-au-ministere-de-l-interieur-pas-de-trace-de-compromission-grave-assure-laurent-nunez-27071159.php)  
+*Source : sudouest.fr | Publication : 2025-12-12*
+
+- Le ministre de l’Intérieur, Laurent Nuñez, se veut rassurant après la cyberattaque visant les serveurs de messagerie du ministère, soulignant le renforcement des mesures de sécurité Laurent Nuñez a affirmé vendredi qu’il n’y avait « pas de trace de compromission grave » des messageries du ministère de l’Intérieur qui ont fait l’objet d’une attaque informatique.
+- « Il y a un assaillant qui a pu pénétrer sur un certain nombre de fichiers.
+- On a mis en place les procédures de protection habituelles », a dit le ministre de l’Intérieur sur RTL.
+
+## [L'Intelligence économique comme facteur de performance de la <b>cybersécurité</b> : une voie ...](https://www.ege.fr/lintelligence-economique-comme-facteur-de-performance-de-la-cybersecurite-une-voie-vers-laccroissement-de-puissance-de-le-france-et-de-ses-entreprises)  
+*Source : ege.fr | Publication : 2025-12-12*
+
+- L’Intelligence économique comme facteur de performance de la cybersécurité : une voie vers l’accroissement de puissance de le France et de ses entreprises La pensée stratégique occidentale du vingtième siècle a accouché de la « stratégie totale » : un modèle où toutes les forces d’une nation ont un rôle à jouer, le principe de sûreté permettant d’empêcher l’adversaire de restreindre la liberté d’action.
+- Transposé au contexte de l’économie contemporaine, la stratégie de cybersécurité, alignée avec la stratégie de l'entreprise, contribue à sa sûreté et crée de la liberté d’action.
+- Toutefois, la méthodologie de l’intelligence économique révèle un état de guerre économique et démontre que l’approche prévalente en cybersécurité, dite « technico-financière », crée des dépendances restreignant in fine cette liberté d’action.
+- Mais l’intelligence économique renseigne également sur les solutions possibles pour que la cybersécurité contribue toujours mieux à la liberté d’action de l’entreprise, dont la recherche d’une souveraineté numérique au premier chef.
+
+## [Ministère de l'Intérieur : intrusion sur les systèmes de messagerie | LeMagIT](https://www.lemagit.fr/actualites/366636359/Ministere-de-lInterieur-intrusion-sur-les-systemes-de-messagerie)  
+*Source : lemagit.fr | Publication : 2025-12-12*
+
+- vichie81 - Fotolia Ministère de l’Intérieur : intrusion sur les systèmes de messagerie Beauvau a reconnu, hier 11 décembre au soir, « l’existence d’activités suspectes visant des serveurs de messagerie ».
+- Et d’avoir lancé une vaste rotation des mots de passe assortie d’un renforcement de l’authentification.
+- Nos confrères d’INF la Rochelle révélaient l’information les premiers, hier 11 décembre à 19h45 : le ministère de l’Intérieur avait découvert « l’existence d’activités suspectes visant ses serveurs de messagerie ».
+- Selon nos confrères, « les serveurs informatiques, notamment, vont être redémarrés, tandis qu’il a été demandé aux policiers de changer leurs mots de passe sur l’ensemble des systèmes ».
+
+## [CEFCYS : Encourager les femmes à rejoindre les métiers de la <b>cybersécurité</b> | Studyrama](https://www.studyrama.com/formations/specialites/cybersecurite/metiers-cybersecurite-jeunes-femmes)  
+*Source : studyrama.com | Publication : 2025-12-12*
+
+- Pourquoi avoir lancé les trophées du CEFCYS ?.
+- Le CEFCYS, le CErcle des Femmes dans la CYberSécurité, est une association à but non lucratif créée en 2016, qui a pour objectif la valorisation et la professionnalisation des femmes dans le domaine de la cybersécurité, mais aussi la valorisation des métiers de la cybersécurité auprès des jeunes et des femmes en reconversion.
+- Les trophées ont été créés pour mettre en lumière ces femmes remarquables.
+- Pour cette 6e édition et à la demande de nombreux pays, nous avons ouvert la compétition au niveau mondial.
+
+## [Contenus porno et arnaques crypto: aux États-Unis, des sites web gouvernementaux sont ...](https://www.bfmtv.com/tech/cybersecurite/sites-porno-et-arnaques-crypto-aux-etats-unis-des-sites-web-gouvernementaux-sont-infectes-par-des-fichiers-pdf-et-des-liens-malveillants_AV-202512120422.html)  
+*Source : bfmtv.com | Publication : 2025-12-12*
+
+- Contenus porno et arnaques crypto: aux États-Unis, des sites web gouvernementaux sont infectés par des fichiers PDF et des liens malveillants Quand le gouvernement des États-Unis fait la promotion d'applications pornographiques.
+- Comme le rapporte 404media, des dizaines de sites web gouvernementaux et universitaires de villes et d'organismes publics aux États-Unis ont été victimes d'une cyberattaque... et affichent des contenus pornographiques.
+- Au total, au moins 38 agences gouvernementales réparties dans 18 États ont été la cible de cyberattaques ces dernières semaines, selon le chercheur Brian Penny.
+- Les pirates ont utilisé la technique de l'empoisonnement SEO, une méthode qui consiste à ajouter massivement des pages ou des liens sur le site piraté.
+
+## [Les serveurs de messagerie du ministère de l'Intérieur visés par une cyberattaque, une ...](https://www.usine-digitale.fr/cybersecurite/les-serveurs-de-messagerie-du-ministere-de-linterieur-vises-par-une-cyberattaque-une-enquete-est-en-cours.V3HEQZUUFRC7JI5HM7HZPXI7OE.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-12*
+
+- Les serveurs de messagerie du ministère de l’Intérieur ont été touchés par une cyberattaque.
+- L’information, révélée par BFMTV, a été confirmée par Laurent Nuñez, le ministre de l’Intérieur, au micro de RTL.
+- Aucune trace de compromission grave “Il y a eu une attaque informatique, a-t-il déclaré.
+- Un assaillant a pu pénétrer sur un certain nombre de fichiers”.
+
+## [Enseignante-chercheuse ou enseignant-chercheur en ia et <b>cybersécurité</b> - cdi Palaiseau](https://choisirleservicepublic.gouv.fr/offre-emploi/enseignante-chercheuse-ou-enseignant-chercheur-en-ia-et-cybersecurite---cdi-reference-2025-2134863/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2025-12-12*
+
+- Enseignante-chercheuse ou Enseignant-Chercheur en IA et Cybersécurité - CDI Référence : 2025-2134863 Fonction publique : Fonction publique de l'État - Employeur : TELECOM Paris - Localisation : Palaiseau - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Non renseigné - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie A (cadre) - Management Non renseigné - Télétravail possible Non renseigné - Vos missions en quelques mots In a highly topical context where the simultaneous rise of artificial intelligence (AI) and cybersecurity is profoundly transforming digital systems and creating a growing need for expertise at their intersection, AI has become at once a tool, a target, a threat, and a lever for protection.
+- This is why the Computer Science and Networks Department (INFRES), and in particular the Cybersecurity and Cryptography team (C2), needs to be strengthened through the recruitment of an Assistant/Associate Professor in AI and cybersecurity, capable of working in this field with the many teams of the School, such as Autonomous Critical Embedded Systems (ACES) and Data, Intelligence and Graphs (DIG) within INFRES, or Statistics, Signal and Learning (S2A) within IDS, as well as with other teams of the Institut Polytechnique de Paris at École Polytechnique or Télécom SudParis.
+- This recruitment aims to reinforce education and research on these emerging challenges by integrating cross-disciplinary skills ranging from machine learning techniques to the security of systems and data.
+
+## [Aladdin : quel est ce redoutable virus qui contourne toutes les règles en matière d'arnaque ...](https://www.cnews.fr/vie-numerique/2025-12-12/aladdin-quel-est-ce-redoutable-virus-qui-contourne-toutes-les-regles-en)  
+*Source : cnews.fr | Publication : 2025-12-12*
+
+- Des experts en cybersécurité ont découvert l'existence d'une nouvelle menace visant les ordinateurs et les smartphones.
+- Cette dernière, baptisée «.
+
+## [Atos, plus forte hausse du SBF 120 à la clôture de la séance du vendredi 12 décembre 2025](https://www.boursorama.com/bourse/actualites-amp/atos-plus-forte-hausse-du-sbf-120-a-la-cloture-de-la-seance-du-vendredi-12-decembre-2025-dc84f115d9a7b49ff05c5cc66efe31c0)  
+*Source : boursorama.com | Publication : 2025-12-12*
+
+- Atos, plus forte hausse du SBF 120 à la clôture de la séance du vendredi 12 décembre 2025 information fournie par AOF 12/12/2025 à 17:52 (AOF) - Atos (+9,97% à 55,26 euros) Atos a bondi, enregistrant une cinquième séance de suite dans le vert.
+- Le secteur des services du numérique est entouré depuis plusieurs jours.
+- Mardi, le groupe a annoncé avoir signé un contrat avec Agentur für Innovation in der Cybersicherheit GmbH (Agence pour l'innovation en cybersécurité) pour l'établissement du projet de recherche "Forensique des systèmes intelligents" qui sera localisé à Halle, en Allemagne.
+- Le projet, conduit avec des partenaires académiques allemands de premier plan, prévoit de développer des méthodes et prototypes visant à permettre une détection juridiquement fiable des manipulations sur des systèmes d'IA en apprentissage continu.
+
+## [2026 : l'IA agentique souhaite une bonne année à la <b>cybersécurité</b> - ZDNET](https://www.zdnet.fr/blogs/green-si/2026-lia-agentique-souhaite-une-bonne-annee-a-la-cybersecurite-486424.htm)  
+*Source : zdnet.fr | Publication : 2025-12-12*
+
+- Cette semaine GreenSI a passé une heure fascinante avec David Grout, CTO de Mandiant (Google Cloud Security) pour l'Europe, à décortiquer le rapport Cybersecurity Forecast 2026.
+- Et si on devait résumer en une phrase ce qui nous attend : Les attaquants ne vont plus simplement utiliser l'IA, ils vont l'industrialiser.
+- Et, on l'espère, nous (les défenseurs) aussi.
+- Quand les SI se sont lancés sur Internet et dans le Cloud dans les années 2010, GreenSI n'est pas sûr que tous les DSI auraient signé s'ils avaient eu la vision de 15 ans plus tard.
+
+## [Face à une &quot;menace grandissante&quot;, la Suisse revoit sa stratégie de défense | RTS](https://www.rts.ch/info/suisse/2025/article/la-suisse-renforce-sa-defense-face-aux-menaces-geopolitiques-croissantes-29089144.html)  
+*Source : rts.ch | Publication : 2025-12-12*
+
+- Résumé de l’article Le plan, en consultation jusqu'en mars 2026, vise à améliorer la cybersécurité, les effectifs de l'armée et les processus d'acquisition Malgré sa neutralité, la Suisse, exposée aux tensions européennes, doit aussi anticiper des scénarios de guerre.
+- Martin Pfister rappelle que la Confédération fait partie intégrante du continent qu'elle et ne peut se croire à l’abri.
+- Face à une "menace grandissante", la Suisse revoit sa stratégie de défense Les travaux ont déjà été lancés compte tenu des dangers actuels.
+- Le ministre de la Défense Martin Pfister a mentionné devant la presse les incertitudes géopolitiques actuelles et les attaques hybrides survenues sur le continent européen.
+
+## [Microsoft ouvre son bug bounty au code tiers - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/microsoft-bug-bounty-224826/amp)  
+*Source : silicon.fr | Publication : 2025-12-12*
+
+- Microsoft vise plus large avec son programme bug bounty.
+- Le voilà désormais susceptible d’indemniser la découverte de failles dans des dépendances.
+- Il s’engage plus précisément à récompenser les signalements de vulnérabilités critiques qui touchent directement ses services en ligne indépendamment de la provenance du code concerné – si ce dernier n’est pas déjà couvert par un bug bounty.
+- Autre évolution : tous les services en ligne de Microsoft sont maintenant inclus par défaut, sans restriction de périmètre.
+
+## [La <b>cybersécurité</b> évoquée aux Rendez-vous des entrepreneurs - Courrier picard](https://premium.courrier-picard.fr/id681861/article/2025-12-12/la-cybersecurite-evoquee-aux-rendez-vous-des-entrepreneurs)  
+*Source : premium.courrier-picard.fr | Publication : 2025-12-12*
+
+- Le Rendez-vous des entrepreneurs de la CCI Amiens-Picardie avec le Courrier picard a abordé le thème de la cybersécurité au sein des entreprises.
+- Une.
+
+## [Franc succès pour la 4e édition de la Cyberwal in Galaxia Academy - Idelux](https://www.idelux.be/fr/franc-succes-pour-la-4e-edition-de-la-cyberwal-galaxia-academy)  
+*Source : idelux.be | Publication : 2025-12-12*
+
+- Franc succès pour la 4e édition de la Cyberwal in Galaxia Academy , Euro Space Center Publics cibles Pour répondre aux défis croissants de la cybercriminalité, la Wallonie s’est dotée d’une stratégie globale et ambitieuse soutenue par le Plan de relance wallon.
+- C’est là qu’est née l’école internationale de cybersécurité : Cyberwal in Galaxia Academy.
+- Plus de 200 participants étaient présents lors de la 4e édition qui s'est déroulée du 8 au 12 décembre à l'Euro Space Center sur le parc Galaxia à Transinne.
+- Un rendez-vous devenu incontournable pour les acteurs publics et privés de la cybersécurité.
+
+## [Jean-Christophe Zerbini prend la direction générale de l'Agence du numérique en santé](https://www.aefinfo.fr/depeche/742631-jean-christophe-zerbini-prend-la-direction-generale-de-l-agence-du-numerique-en-sante)  
+*Source : aefinfo.fr | Publication : 2025-12-12*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : Jean-Christophe Zerbini est depuis le 8 décembre 2025 directeur général de l’Agence du numérique en santé, succédant à Annie Prévot.
+- Il veut une agence "plus lisible et proche du terrain", avec un fort enjeu sur l’identification électronique et l’interopérabilité, malgré un contexte budgétaire contraint.
+- Professionnel de la cybersécurité, il a occupé plusieurs postes de direction d’hôpital, notamment en charge des systèmes d’information (Annecy, Auch), puis de directeur du GIP e-santé Occitanie.
+
+## [Détection, honeypot, dissuasion : l'homologue britannique de l'Anssi livre le résultat de ses ...](https://www.usine-digitale.fr/cybersecurite/detection-honeypot-dissuasion-lhomologue-britannique-de-lanssi-livre-le-resultat-de-ses-experimentations-pour-dejouer-les-cyberattaques.2ORPRUGXJRFB3DOQ55NN7P4MKI.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-12*
+
+- Le National Cyber Security Centre (NCSC), l’agence britannique de cybersécurité, a publié le 11 décembre 2025 un premier retour d’expérience sur un an d’essais de solutions de “cyber deception” ou cyber-tromperie, aussi appelée technologies de tromperie.
+- Piéger les hackers Il s’agit d’un pan de la cybersécurité qui regroupe l’ensemble des techniques défensives visant à détecter les intrusions en attirant les hackers dans des pièges.
+- On parle d’honeypot (pot de miel), de faux comptes ou encore d’environnements factices.
+- Le principe du honeypot est le suivant : créer un système qui ressemble à une vraie cible vulnérable mais qui est, en réalité, contrôlé et surveillé.
+
+## [Cyberwal Academy (Transinne) : &quot;C'est ensemble que nous devons avoir une stratégie ... - L'Avenir](https://www.lavenir.net/regions/luxembourg/2025/12/12/cyberwal-academy-transinne-cest-ensemble-que-nous-devons-avoir-une-strategie-en-cybersecurite-souligne-le-commandant-de-la-force-cyber-254MR4QNJ5D2FOFRBDFFXKO4YI/)  
+*Source : lavenir.net | Publication : 2025-12-12*
+
+- Cyberwal Academy (Transinne) : "C'est ensemble que nous devons avoir une stratégie en cybersécurité", souligne le commandant de la Force Cyber Le Général-major Pierre Ciparisse, nouveau commandant de la Force Cyber de la Défense belge, était l'un des orateurs de la 4e "Cyberwal in Galaxia Academy" à Transinne Publié le 12-12-2025 à 06h15 - Mis à jour le 12-12-2025 à 16h12 - Le pôle spatial de Transinne accueille jusqu'à ce vendredi la 4e édition de la "Cyberwal in Galaxia Academy" dédiée à la cybersécurité.
+- Cette "école" réunit spécialistes en la matière, monde académique, entreprises et acteurs publics pour des conférences et formations.
+- Pour cette nouvelle édition, la Défense était invitée.
+- Car depuis 2022, la Défense belge a intégré une Force Cyber coexistant désormais avec les quatre autres composantes (Force terrestre, Force aérienne, la Marine et la composante médicale).
+
+## [IA en <b>cybersécurité</b> : qui mène vraiment le jeu ? - ITforBusiness.fr](https://www.itforbusiness.fr/ia-en-cybersecurite-qui-mene-vraiment-le-jeu-98197)  
+*Source : itforbusiness.fr | Publication : 2025-12-12*
+
+- Data / IA IA en cybersécurité : qui mène vraiment le jeu ?.
+- Par Laurent Delattre, publié le 12 décembre 2025 De la fraude hyper-personnalisée aux malwares polymorphes et aux agents autonomes, l’intelligence artificielle redéfinit en profondeur le paysage de la cybersécurité.
+- Face à des attaques industrialisées par l’IA, la défense se réinvente avec copilotes SOC, automatisation et prédiction, mais doit aussi sécuriser ses propres modèles pour éviter un nouveau point de rupture.
+- La cybersécurité repose sur un déséquilibre redoutable : d’un côté, des attaquants qui frappent quand ils veulent, comme ils veulent, là où ils veulent, en choisissant les conditions les plus propices ; de l’autre, des défenseurs qui doivent tout protéger, partout, tout le temps, alors même que la surface d’attaque s’étend inexorablement avec le SI et sa complexité.
 
 ## [<b>Cybersécurité</b> en PME : Pourquoi la sécurité est l'affaire de tous - Global Security Mag](https://www.globalsecuritymag.fr/cybersecurite-en-pme-pourquoi-la-securite-est-l-affaire-de-tous.html)  
 *Source : globalsecuritymag.fr | Publication : 2025-12-11*
