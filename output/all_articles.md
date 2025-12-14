@@ -1,5 +1,159 @@
-# Résumés – 2025-12-13
+# Résumés – 2025-12-14
 
+
+## [Cyberattaque contre l'iPhone : 2 failles Apple sont à l'origine d'une « attaque extrêmement ...](https://www.01net.com/actualites/cyberattaque-iphone-2-failles-apple-origine-attaque-extremement-sophistiquee.html)  
+*Source : 01net.com | Publication : 2025-12-14*
+
+- Apple a découvert deux nouvelles vulnérabilités au sein des « versions d’iOS antérieures à iOS 26 ».
+- Comme l’explique le géant de Cupertino dans son bulletin de sécurité, les deux failles sont des brèches de type « zero day ».
+- Il s’agit de vulnérabilités qui ont été activement exploitées par des pirates avant qu’Apple ne puisse déployer un correctif.
+- En l’occurrence, les deux vulnérabilités ont été utilisées dans le cadre d’une cyberattaque.
+
+## [« Les Filles dans la tech » : une journée pour sensibiliser 160 collégiennes manchoises aux ...](https://www.ouest-france.fr/normandie/granville-50400/les-filles-dans-la-tech-une-journee-pour-sensibiliser-160-collegiennes-manchoises-aux-filieres-technologiques-d629017a-d526-11f0-a7e2-d7ba2afec4fd)  
+*Source : ouest-france.fr | Publication : 2025-12-14*
+
+- Une opération pour sensibiliser les jeunes filles à la filière Cybersécurité , informatique et réseaux, électronique (Ciel).
+- Par.
+
+## [« Les Filles dans la tech » : une journée pour sensibiliser 160 collégiennes manchoises aux](https://saint-lo.maville.com/actu/actudet_--les-filles-dans-la-tech-une-journee-pour-sensibiliser-160-collegiennes-manchoises-aux-filieres-technologiques-_dep-7108946_actu.Htm)  
+*Source : saint-lo.maville.com | Publication : 2025-12-14*
+
+- Mardi 9 décembre 2025, 160 collégiennes, venues de six établissements publics du secteur granvillais, ont participé au challenge « Les Filles dans la tech », au lycée la Morandière à Granville (Manche).
+- Une opération pour sensibiliser les jeunes filles à la filière Cybersécurité, informatique et réseaux, électronique (Ciel).
+- Mardi 9 décembre 2025, dans plusieurs salles du bâtiment M du lycée La Morandière, ça phosphorait à l’occasion de l’événement Les Filles de la tech, organisé par la filière BTS du lycée granvillais (Manche).
+- Voir aussi : VIDÉO.
+
+## [Le Brésil démantèle un réseau de blanchiment d'argent en cryptomonnaies d'une valeur de ...](https://www.cryptopolitan.com/fr/brazil-busts-500m-crypto-laundering-ring/)  
+*Source : cryptopolitan.com | Publication : 2025-12-14*
+
+- Bitcoin.
+- 2.
+- Le Brésil démantèle un réseau de cybercriminalité lié aux cryptomonnaies d'une valeur de 164 millions de dollars.
+- Partager le lien:.
+
+## [Le piège des agents IA : les modes de défaillance cachés des systèmes autonomes ... - Unite.AI](https://www.unite.ai/fr/the-ai-agents-trap-the-hidden-failure-modes-of-autonomous-systems-no-one-is-preparing-for/)  
+*Source : unite.ai | Publication : 2025-12-14*
+
+- Intelligence Artificielle Le piège des agents IA : les modes de défaillance cachés des systèmes autonomes auxquels personne ne se prépare Dans la course à la création d'agents d'IA toujours plus autonomes, la communauté s'est fortement concentrée sur l'amélioration de leurs capacités et la démonstration de leurs prouesses.
+- De nouveaux benchmarks témoignent régulièrement d'une exécution des tâches plus rapide et de démonstrations impressionnantes, comme des agents réservant avec succès des voyages complexes ou générant des bases de code complètes.
+- Cependant, cette focalisation sur les capacités de l'IA occulte souvent les conséquences graves et potentiellement risquées que ces systèmes peuvent engendrer.
+- Nous concevons rapidement des systèmes autonomes très sophistiqués sans comprendre en profondeur comment et pourquoi ces systèmes peuvent dysfonctionner de manière inédite et profonde.
+
+## [<b>Cybersécurité</b> 2026 : l'IA agentique, un ami qui ne vous veut pas que du bien - Forbes.fr](https://www.forbes.fr/technologie/cybersecurite-2026-lia-agentique-un-ami-qui-ne-vous-veut-pas-que-du-bien/)  
+*Source : forbes.fr | Publication : 2025-12-14*
+
+- Une tribune écrite par Yaz Bekkar, Principal Consulting Architect XDR, EMEA, Barracuda Networks Un paysage de menace totalement transformé Aujourd’hui, les attaquants ne se contentent plus d’« utiliser » l’IA, mais s’en servent comme d’un véritable opérateur, capable de piloter une campagne de bout en bout.
+- À terme, elle mènera la reconnaissance, rassemblera les données nécessaires, concevra des leurres très convaincants, testera des chemins d’intrusion, observera les réactions des défenses, puis ajustera en temps réel ses tactiques et son timing.
+- Couplée à des plateformes criminelles spécialisées, elle analysera d’énormes volumes de données pour identifier des vulnérabilités à exploiter automatiquement, tout en générant des malwares polymorphes capables de réécrire leur propre code pour contourner signatures et détections comportementales.
+- Les interactions entre agents multiples, coordonnés pour un même objectif, ouvriront aussi la voie au détournement ou à l’empoisonnement de ces échanges.
+
+## [Vos objets connectés ont-ils secrètement rejoint une armée de bots ? Voici comment le ...](https://www.numerama.com/cyberguerre/2141183-vos-objets-connectes-ont-ils-secretement-rejoint-une-armee-de-bots-voici-comment-le-tester-en-2-minutes.html)  
+*Source : numerama.com | Publication : 2025-12-14*
+
+- Ces derniers mois, le record de la plus grande attaque DDoS de l’histoire tombe à un rythme effréné, porté par la montée en puissance d’armées de botnets capables de synchroniser des flux massifs de requêtes pour submerger les serveurs de leurs cibles.
+- Pour rappel, un botnet est un ensemble de machines « zombies » infectées par un malware et pilotées à distance depuis une même infrastructure de commande.
+- Il peut s’agir d’ordinateurs, mais aussi d’objets connectés bien plus modestes, comme des caméras, des lampes, des enceintes ou de l’électroménager, souvent compromis via des vulnérabilités connues ou des mots de passe beaucoup trop faibles.
+- Certaines de ces armées géantes comme celles baptisée Aisuru rassembleraient à elles seules plusieurs millions de machines disséminées partout dans le monde.
+
+## [Souveraineté numérique et <b>cybersécurité</b> au menu du Café citoyen de Saint-Laurent d'Aigouze](https://voir-plus.com/2025/12/14/souverainete-numerique-et-cybersecurite-au-menu-du-cafe-citoyen-de-saint-laurent-daigouze/)  
+*Source : voir-plus.com | Publication : 2025-12-14*
+
+- Café Citoyen n°96 : Souveraineté numérique & cybersécurité Jeudi 18 décembre 2025 – 18h30 à Saint-Laurent-d’Aigouze « Souveraineté numérique », « cybersécurité »… des mots qui paraissent abstraits, mais qui nous concernent toutes et tous au quotidien.
+- Téléphones, ordinateurs, entreprises, hôpitaux, administrations : nul n’est à l’abri des cyberattaques, de plus en plus nombreuses et sophistiquées.
+- » C’est pour éclairer ce sujet essentiel qu’aura lieu le 96ème Café Citoyen, à l’initiative de Mathieu Candel, habitant de Saint-Laurent-d’Aigouze et correspondant Midi-Libre.
+- L’événement se tiendra le jeudi 18 décembre à 18h30, à la Bodega A Las Siete de la Tarde (face à la mairie).
+
+## [Plus de 200 scientifiques internationaux discutent de solutions pour promouvoir la ... - Vietnam.vn](https://www.vietnam.vn/fr/hon-200-nha-khoa-hoc-quoc-te-thao-luan-giai-phap-thuc-day-nghien-cuu-du-lieu-lon)  
+*Source : vietnam.vn | Publication : 2025-12-14*
+
+- CSoNet est un forum interdisciplinaire de premier plan, réunissant des chercheurs et des experts de tous les domaines des réseaux de données massives, notamment : l'informatique en réseau à plusieurs milliards de dollars, l'analyse des réseaux de données, l'exploration de données, la sécurité, la confidentialité et l'apprentissage profond.
+- CSoNet 2025 vise à aborder des problèmes informatiques émergents mais critiques, en se concentrant sur les plateformes fondamentales, le développement technologique théorique et les applications pratiques liées à l'analyse, à la modélisation et à l'apprentissage profond des réseaux de données massives.
+- L'atelier a réuni près de 200 scientifiques , experts et chercheurs vietnamiens et internationaux, notamment des États-Unis, du Royaume-Uni, de France, de Chine, d'Italie, d'Australie, d'Inde et du Danemark.
+- Les participants ont principalement abordé les enjeux liés au big data, à l'intelligence artificielle (IA) et à la cybersécurité.
+
+## [Luxembourg: Clusil teste la <b>cybersécurité</b> avec des clés USB semées dans l'espace public](https://www.lessentiel.lu/fr/story/au-luxembourg-pour-tester-la-cybersecurite-ils-ont-seme-des-cles-usb-103468264)  
+*Source : lessentiel.lu | Publication : 2025-12-14*
+
+- Au LuxembourgPour tester la cybersécurité, ils ont semé des clés USB Afin de tester les risques que pouvait prendre le public, une ASBL a semé des clés USB dans l’espace public.
+- En toute discrétion, cet été, le Club de la sécurité des systèmes d’information Luxembourg (CLUSIL) a semé la panique au sein d’une organisation avec des clés USB.
+- Cette dernière, ayant trouvé des clés essaimées dans l’espace public par le CLUSIL, a «déclenché une réunion d’urgence en moins de 45 minutes, isolé les supports, copié leur contenu sur un disque et placé le tout dans un coffre, avant de contacter un CERT (centre d’alerte et de réaction aux attaques informatiques)», relate Cédric Mauny, président de l’ASBL, en ajoutant que «c’est un très bon réflexe de leur part».
+- Le CLUSIL avait dispersé 250 clés à travers le pays, des gares aux parcs en passant par des centres d’affaires.
+
+## [Prostitution 2.0 : Comment la Dsc a démantelé un vaste réseau à Dakar - Le Soleil](https://lesoleil.sn/actualites/societe-fait-divers/prostitution-2-0-comment-la-dsc-a-demantele-un-vaste-reseau-a-dakar/)  
+*Source : lesoleil.sn | Publication : 2025-12-14*
+
+- La Division spéciale de la cybersécurité a, jeudi dernier, démantelé à Dakar, un vaste réseau de prostitution opérant via un site pornographique et des groupes Telegram.
+- Trois suspects sont arrêtés et présentés au procureur.
+- L’enquête ouverte suit son cours.
+- La Division spéciale de la cybercriminalité (Dsc) a frappé un grand coup.
+
+## [Selon Bloomberg News, ServiceNow est sur le point d'acheter la startup Armis spécialisée ...](https://www.boursorama.com/bourse/actualites/selon-bloomberg-news-servicenow-est-sur-le-point-d-acheter-la-startup-armis-specialisee-dans-la-cybersecurite-pour-un-montant-pouvant-atteindre-7-milliards-de-dollars-b9bd5771398a666d2b7eef521cd24d86)  
+*Source : boursorama.com | Publication : 2025-12-14*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Mise à jour avec les détails du rapport Bloomberg et le contexte à partir du paragraphe 2) ServiceNow NOW.N est en pourparlers avancés pour acheter Armis, une startup de cybersécurité qui avait envisagé une introduction en bourse l'année prochaine, dans une transaction qui pourrait être évaluée à 7 milliards de dollars, a rapporté Bloomberg News samedi, citant des personnes familières avec la situation.
+- L'accord pourrait être annoncé dans les prochains jours , mais les négociations pourraient échouer ou un autre soumissionnaire potentiel pourrait se manifester, a ajouté le rapport.
+- ServiceNow et Armis n'ont pas répondu immédiatement à la demande de commentaire de Reuters en dehors des heures de bureau.
+- La société américano-israélienne de cybersécurité Armis a levé 435 millions de dollars lors de sa levée de fonds en novembre, ce qui valorise l'entreprise à 6,1 milliards de dollars.
+
+## [Togo: <b>Cybersécurité</b> au féminin - allAfrica.com](https://fr.allafrica.com/stories/202512130170.html)  
+*Source : fr.allafrica.com | Publication : 2025-12-14*
+
+- Face à l'accélération de la transformation numérique et à la multiplication des cybermenaces, le Togo muscle progressivement ses moyens d'action.
+- Les autorités, à travers l'Agence nationale de la cybersécurité (ANCy) et l'Agence Togo Digital (ATD), lancent un programme de formation gratuite destiné à renforcer les compétences en cybersécurité.
+- Cette initiative s'inscrit dans une stratégie plus large de résilience numérique, alors que les entreprises, les administrations et les infrastructures critiques sont de plus en plus exposées aux risques liés aux attaques informatiques, aux fuites de données et aux intrusions malveillantes.
+- Le programme portera sur trois grandes certifications reconnues à l'international, couvrant des compétences stratégiques et opérationnelles essentielles.
+
+## [Bénin / Direction Générale des Eaux, Forêts et Chasse : concours de recrutement sur titre de ...](https://yop.l-frii.com/formations/benin-direction-generale-des-eaux-forets-et-chasse-concours-de-recrutement-sur-titre-de-221-fonctionnaires-specialistes/)  
+*Source : yop.l-frii.com | Publication : 2025-12-14*
+
+- (A diffuser 02 fois par jour du 12 au 24 décembre 2025 à Cotonou et à Parakou) Le Directeur général des Eaux, Forêts et Chasse communique : Il est organisé au titre de l’année 2025, un concours de recrutement sur titre de deux cent vingt-un (221) Fonctionnaires spécialistes destinés à exercer des fonctions stratégiques ou opérationnelles dans les domaines de compétences recherchées par l’administration des Eaux, Forêts et Chasse.
+- Il s’agit de : cent quatre-vingt-six (186) spécialistes dans le corps des gardes forestiers, dont : cent quatre-vingts (180) spécialistes en gardiennage et sécurisation des aires protégées et six (06) conducteurs de véhicules administratifs;, Vingt-cinq (25) spécialistes dans le corps des contrôleurs, dont : un (01) spécialiste en Informatique et numérique ; un (01) spécialiste en Gestion des Ressources Humaines (GRH); un (01) spécialiste en Planification et statistique ; deux (02) spécialistes en Éducation physique et sportive; douze (12) spécialistes en Audit et finances; six (06) spécialistes en secrétariat; un (01) Archiviste; un (01) spécialiste en Santé.
+- dix (10) spécialistes dans le corps des conservateurs, dont : deux (02) spécialistes en Informatique et numérique (un (01) en sécurité informatique et un (01) en Systèmes d’Information et Réseaux Informatiques); un (01) spécialiste en Gestion des Ressources Humaines; deux (02) spécialistes en Planification et statistique (un (01) en planification et suivi-évaluation et un (01) en statistiques ou biométrie); un (01) spécialiste en Éducation physique et sportive;.
+
+## [Mettez votre PC à jour : Microsoft corrige 57 failles lors du Patch Tuesday de décembre 2025](https://www.servicesmobiles.fr/mettez-votre-pc-a-jour-microsoft-corrige-57-failles-lors-du-patch-tuesday-de-decembre-2025-108858)  
+*Source : servicesmobiles.fr | Publication : 2025-12-14*
+
+- Mettez votre PC à jour : Microsoft corrige 57 failles lors du Patch Tuesday de décembre 2025 Microsoft déploie en ce mois de décembre 2025 une nouvelle vague de correctifs destinés à renforcer la sécurité des ordinateurs sous Windows.
+- Au total, 57 vulnérabilités ont été corrigées dans le cadre du traditionnel Patch Tuesday.
+- Tl;dr Microsoft corrige 57 failles, dont 3 zero-days.
+- - Vulnérabilités majeures touchent Windows, GitHub Copilot, PowerShell.
+
+## [Le téléphérique urbain de Créteil, nouveau trait d'union du Val-de-Marne | CarnetdeBord](https://www.carnetdebord.info/le-telepherique-urbain-de-creteil-nouveau-trait-d-union-du-val-de-marne/)  
+*Source : carnetdebord.info | Publication : 2025-12-14*
+
+- Créteil et Villeneuve-Saint-Georges viennent de franchir un cap inédit pour l’Île-de-France.
+- Le tout premier téléphérique urbain régional débarque dans le paysage, bousculant la routine des déplacements quotidiens.
+- Inauguré le 13 décembre, ce câble C1 agite déjà la curiosité, avec ses promesses de trajets plus courts, de confort aérien et de métamorphose urbaine.
+- Sommaires Un projet de mobilité inédit pour l’Île-de-France Suspendu à 4,5 kilomètres au-dessus des rues, le téléphérique urbain C1 n’a rien d’un simple accessoire touristique.
+
+## [Lancement d'une campagne de communication pour sensibiliser les femmes au cyberespace.](https://www.vietnam.vn/fr/phat-dong-chien-dich-truyen-thong-nang-cao-nhan-thuc-cua-phu-nu-tren-khong-gian-mang)  
+*Source : vietnam.vn | Publication : 2025-12-14*
+
+- Dans son discours d'ouverture, la vice-présidente de l'Union des femmes du Vietnam, Nguyen Thi Minh Huong, a déclaré : « La cérémonie de lancement s'est tenue durant les derniers jours du Mois d'action pour l'égalité des sexes et la prévention et la réponse à la violence sexiste en 2025 ; immédiatement après le vote de l'Assemblée nationale, le 10 décembre, en faveur de la loi amendée sur la cybersécurité – une étape importante dans la mise en place du cadre juridique de la gestion de la cybersécurité, contribuant à la protection de la souveraineté numérique, de l'ordre social et de la sécurité, ainsi que des intérêts des citoyens et des entreprises dans l'environnement en ligne.
+- » Le 25 octobre dernier (il y a exactement 50 jours), le Vietnam a organisé avec succès la signature de la « Convention de Hanoï », la Convention des Nations Unies contre la cybercriminalité.
+- Cette initiative de l’Union des femmes du Vietnam répond aux efforts collectifs du pays pour promouvoir l’émancipation des femmes et l’égalité des sexes dans le contexte de la transformation numérique.
+- Selon Mme Nguyen Thi Minh Huong, en octobre, dans les directives relatives au mouvement féministe et aux activités de l'Union des femmes, la secrétaire générale To Lam a également proposé de faire évoluer le mouvement « Construire une famille avec 5 interdits et 3 espaces propres » en « 5 interdits, 3 espaces propres et 3 espaces de sécurité », où les 3 espaces de sécurité représentent la sécurité, la tranquillité d'esprit et le bien-être.
+
+## [Selon Bloomberg News, ServiceNow est sur le point d'acheter la startup Armis spécialisée ...](https://www.boursorama.com/bourse/actualites-amp/selon-bloomberg-news-servicenow-est-sur-le-point-d-acheter-la-startup-armis-specialisee-dans-la-cybersecurite-pour-un-montant-pouvant-atteindre-7-milliards-de-dollars-b9bd5771398a666d2b7eef521cd24d86)  
+*Source : boursorama.com | Publication : 2025-12-14*
+
+- Selon Bloomberg News, ServiceNow est sur le point d'acheter la startup Armis spécialisée dans la cybersécurité pour un montant pouvant atteindre 7 milliards de dollars information fournie par Reuters 14/12/2025 à 02:02 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Mise à jour avec les détails du rapport Bloomberg et le contexte à partir du paragraphe 2) ServiceNow NOW.N est en pourparlers avancés pour acheter Armis, une startup de cybersécurité qui avait envisagé une introduction en bourse l'année prochaine, dans une transaction qui pourrait être évaluée à 7 milliards de dollars, a rapporté Bloomberg News samedi, citant des personnes familières avec la situation.
+- L'accord pourrait être annoncé dans les prochains jours , mais les négociations pourraient échouer ou un autre soumissionnaire potentiel pourrait se manifester, a ajouté le rapport.
+- ServiceNow et Armis n'ont pas répondu immédiatement à la demande de commentaire de Reuters en dehors des heures de bureau.
+- La société américano-israélienne de cybersécurité Armis a levé 435 millions de dollars lors de sa levée de fonds en novembre, ce qui valorise l'entreprise à 6,1 milliards de dollars.
+
+## [Revue de la presse SenePlus du samedi 13 décembre 2025](https://www.seneplus.com/article/revue-de-la-presse-seneplus-du-samedi-13-decembre-2025)  
+*Source : seneplus.com | Publication : 2025-12-14*
+
+- Sur le terrain des libertés publiques et de la cybersécurité , Libération révèle : « La DSC traque les correspondants de “Kocc” », soulignant l.
+
+## [Envoi de sextapes : la Division spéciale de <b>cybercriminalité</b> traque les correspondants de ... - actusen](https://actusen.sn/envoi-de-sextapes-la-division-speciale-de-cybercriminalite-traque-les-correspondants-de-kocc-barma/)  
+*Source : actusen.sn | Publication : 2025-12-14*
+
+- - Advertisement - Du nouveau dans l’affaire ‘’Kocc Barma’’.
+- Selon ‘’Libération’’ dans sa livraison de ce samedi, les enquêteurs ont mis la main sur toutes les adresses ayant envoyé des vidéos ou images à l’administrateur des sites babiporno, boydakar et seneporno.
+- Le journal ajoute également qu’un premier suspect, qui avait envoyé la vidéo nue de son ex-copine pour la détruire, a été cueilli dans un restaurant de la Corniche puis inculpé, hier par le doyen des juges.
+- ‘’Libération’’ parle d’une vague d’arrestations suite à la délégation judiciaire du magistrat instructeur.
 
 ## [Des toilettes connectées soulèvent des enjeux de protection des données personnelles](https://www.rts.ch/info/sciences-tech/2025/article/toilettes-connectees-vos-donnees-intimes-en-danger-29089854.html)  
 *Source : rts.ch | Publication : 2025-12-13*
