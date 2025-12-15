@@ -1,5 +1,152 @@
-# Résumés – 2025-12-14
+# Résumés – 2025-12-15
 
+
+## [<b>Cybersécurité</b> des PME : quand l'IA change les règles du jeu - Le Monde Informatique](https://www.lemondeinformatique.fr/livre-blanc/cybersecurite-des-pme-quand-l-ia-change-les-regles-du-jeu -9442-tag-41.html)  
+*Source : lemondeinformatique.fr | Publication : 2025-12-15*
+
+- Les cyberattaques n’ont jamais été aussi sophistiquées.
+- Portées par l’IA, les campagnes de phishing deviennent quasi indétectables, les ransomwares plus adaptatifs et les deepfakes plus ciblés, exposant directement les PME à des risques accrus.
+- Mais l’IA n’est pas qu’un risque : bien maîtrisée, elle devient un atout stratégique de protection.
+- Dans ce guide, découvrez les 5 menaces majeures amplifiées par l’IA et les bonnes pratiques à activer pour sécuriser votre organisation.
+
+## [Cato Networks Ali Bouzidi Senior Channel Manager France - ChannelBiz |](https://www.channelbiz.fr/2025/12/15/cato-networks-nomme-ali-bouzidi-senior-channel-account-manager-en-france/)  
+*Source : channelbiz.fr | Publication : 2025-12-15*
+
+- Cato Networks annonce la nomination d’Ali Bouzidi au poste de Senior Channel Account Manager pour accompagner le développement de son activité channel en France.
+- Cato Networks, leader du SASE, annonce la nomination d’Ali Bouzidi au poste de Senior Channel Account Manager.
+- Cette arrivée vient renforcer l’équipe channel de Cato Networks en France.
+- Ali Bouzidi aura pour mission d’accompagner la croissance de Cato Networks sur le marché français, notamment par le développement de partenariats avec les acteurs de la cybersécurité et par le soutien des déploiements de la plateforme SASE de l’entreprise.
+
+## [À Saint-Renan, la Maison France Services organise, ce jeudi 18 décembre, une réunion sur ...](https://www.letelegramme.fr/finistere/saint-renan-29290/a-saint-renan-la-maison-france-services-organise-ce-jeudi-18-decembre-une-reunion-sur-la-cybersecurite-6948325.php)  
+*Source : letelegramme.fr | Publication : 2025-12-15*
+
+- Une réunion d’information sur la retraite a eu lieu mardi dernier à Saint-Renan, organisée par la Maison France Services.
+- Cette dernière va accueillir, jeudi 18 décembre, un atelier sur la cybersécurité.
+- La Maison France Services de Saint-Renan, implantée dans les locaux du Centre départemental d’action sociale (CDAS), organisait, le mardi 9 décembre 2025, une réunion d’information sur la retraite.
+- Cette dernière était animée par Ludovic Joly, conseiller à la Carsat Bretagne de Rennes.
+
+## [Un café citoyen ouvert à tous pour comprendre la <b>cybersécurité</b> - midilibre.fr](https://www.midilibre.fr/2025/12/15/un-cafe-citoyen-ouvert-a-tous-pour-comprendre-la-cybersecurite-13111547.php)  
+*Source : midilibre.fr | Publication : 2025-12-15*
+
+- Un café citoyen ouvert à tous pour comprendre la cybersécurité Souveraineté numérique, cybersécurité… Des termes dont on entend beaucoup parler mais dont on ne sait pas forcément ce qu’ils veulent dire exactement.
+- Souveraineté numérique, cybersécurité… Des termes souvent entendus mais dont on ne comprend pas forcément la signification exacte.
+- Ces sujets seront l’objet du 93e café citoyen qui se tiendra jeudi 18 décembre à 18 h 30 à Saint-Laurent d’Aigouze avec trois intervenants de la société Interstis Solutions.
+- Une entreprise qui accompagne dans la sécurité numérique plus de 1 500 structures en France (dont de nombreuses collectivités locales notamment) représentant 800 000 utilisateurs.
+
+## [« Poutine ne doit avoir aucun doute » quant à notre soutien à l'Ukraine : le premier discours ...](https://www.lesechos.fr/monde/europe/poutine-ne-doit-avoir-aucun-doute-quant-a-notre-soutien-a-lukraine-le-premier-discours-pugnace-de-la-cheffe-du-mi6-britannique-2204932)  
+*Source : lesechos.fr | Publication : 2025-12-15*
+
+- cybersécurité , qui pointait notamment les menaces venant de Russie, de Chine, d'Iran ou de Corée du Nord.
+- Alors que Donald Trump accentue sa.
+
+## [Ministère de l'Intérieur : l'intrusion revendiquée par les opérateurs de BreachForums](https://www.lemagit.fr/actualites/366636399/Ministere-de-lInterieur-lintrusion-revendiquee-par-les-operateurs-de-BreachForums)  
+*Source : lemagit.fr | Publication : 2025-12-15*
+
+- A.G.
+- photographe - Fotolia Ministère de l’Intérieur : l’intrusion revendiquée par les opérateurs de BreachForums Les opérateurs de ce forum ont indiqué avoir « pleinement compromis » le ministère de l’Intérieur et accédé aux données de police de plus de 16,4 millions de personnes.
+- Le tout en prétendant utiliser son serveur d’email.
+- Le forum bien connu des cybercriminels – ainsi que des forces de l’ordre et des chercheurs, notamment - BreachForums est une énième fois de retour.
+
+## [Ce constructeur inaugure en Chine le plus grand centre de recherche et développement au ...](https://www.autojournal.fr/actu/constructeur-inaugure-chine-plus-grand-centre-recherche-developpement-monde-securite-automobile-399738.html)  
+*Source : autojournal.fr | Publication : 2025-12-15*
+
+- Ce constructeur inaugure en Chine le plus grand centre de recherche et développement au monde en matière de sécurité automobile Le Geely Safety Centre est officiellement lancé par le constructeur chinois Geely.
+- Une infrastructure qui bat tous les records.
+- Les constructeurs chinois ne cessent de se développer.
+- Cela passe par des véhicules à des prix attractifs mais aussi à un investissement massif dans les infrastructures.
+
+## [Delinea : Perspectives 2026 - Global Security Mag Online](https://www.globalsecuritymag.fr/delinea-perspectives-2026.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-12-15*
+
+- Delinea : Perspectives 2026 décembre 2025 par Delinea L’année 2026 marque l’avènement d’une société où l’Intelligence Artificielle redéfinit fondamentalement la cybersécurité.
+- D’une part, elle agit comme un catalyseur de puissance géopolitique.
+- D’autre part, l’adoption rapide et souvent non encadrée de ces outils au sein des entreprises laisse la porte ouverte à de nouvelles vulnérabilités.
+- Face à l’évolution rapide de ces menaces, capables de surpasser la détection humaine, la sécurité axée sur l’identité devient un impératif stratégique.
+
+## [La défense et la <b>cybersécurité</b> au cœur de la stratégie européenne - L'Echo](https://www.lecho.be/partner/outlook/h1_26/la-defense-et-la-cybersecurite-au-c-ur-de-la-strategie-europeenne/10640559.html)  
+*Source : lecho.be | Publication : 2025-12-15*
+
+- La défense et la <b>cybersécurité</b> au cœur de la stratégie européenne - L'Echo.
+
+## [2026 : la résilience, nouveau socle de la <b>cybersécurité</b> - JDN](https://www.journaldunet.com/cybersecurite/1546745-2026-la-resilience-nouveau-socle-de-la-cybersecurite/)  
+*Source : journaldunet.com | Publication : 2025-12-15*
+
+- 2026 : la résilience, nouveau socle de la cybersécurité Il y a quelque chose de fascinant dans la façon dont les certitudes se sont effondrées en 2025.
+- Pour de multiples raisons les entreprises ont cru pouvoir rester loin des crises cyber en prenant toutes les mesures de protection : construire des murs toujours plus hauts, multiplier les verrous, déléguer au cloud la responsabilité de leur sécurité.
+- Las, en 2025, c’est 14% d’attaques en plus et 67% des entreprises touchées.
+- L'évidence a fini par s’imposer : l'intrusion n'était plus une menace, mais une fatalité.
+
+## [<b>Cybercriminalité</b> : les fichiers de police piratés ? - Le Parisien](https://www.leparisien.fr/faits-divers/cybercriminalite-les-fichiers-de-police-pirates-15-12-2025-SL3KA5I3RRBQRBRLSQMXKOBVL4.php)  
+*Source : leparisien.fr | Publication : 2025-12-15*
+
+- Cybercriminalité : les fichiers de police piratés ?.
+- Des hackers se vantaient ce week-end d’avoir accédé à des millions de données confidentielles du ministère de l’Intérieur.
+- Des hackers ont-ils eu accès aux fichiers de police français ?.
+- C’est en tout cas ce qu’a revendiqué ce week-end BreachForums, un site spécialisé dans le vol et la revente de données volées.
+
+## [<b>Cybersécurité</b> &amp; collectivités : l'enjeu souvent sous-estimé des périphériques USB](https://www.solutions-numeriques.com/communiques/cybersecurite-collectivites-lenjeu-souvent-sous-estime-des-peripheriques-usb/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-15*
+
+- Au regard des nombreux services délivrés aux citoyens, le secteur public est aujourd’hui fortement exposé au risque Cyber.
+- Dans ce contexte, au sein des collectivités, et plus particulièrement dans les services sensibles comme la police municipale, les menaces cyber ne viennent pas toujours de là où on les attend.
+- Ainsi, une simple clé USB peut devenir un cheval de Troie numérique et impacter le fonctionnement des services et contribuer à exfiltrer des données sensibles.
+- C’est précisément dans ce contexte que la mise en œuvre d’une gouvernance cyber reposant sur des dispositifs industriels doit être une priorité absolue.
+
+## [Partenariat entre Suse et evroc - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cloud/64260-partenariat-entre-suse-et-evroc.html)  
+*Source : linformaticien.com | Publication : 2025-12-15*
+
+- Ransomware : les jours d'après · Cloud · Partenariat entre Suse et evroc.
+- Détails: Bertrand Garé: 15 décembre 2025.
+- Le fournisseur de Cloud européen.
+
+## [Des cybercriminels utilisent un faux film de Leonardo DiCaprio pour diffuser un malware](https://www.bitdefender.com/fr-fr/blog/hotforsecurity/des-cybercriminels-utilisent-un-faux-film-de-leonardo-dicaprio-pour-diffuser-un-malware)  
+*Source : bitdefender.com | Publication : 2025-12-15*
+
+- Les chercheurs en cybersécurité de Bitdefender ont découvert qu'un faux fichier torrent du nouveau film de Leonardo DiCaprio, One Battle After Another, cache une série complexe de scripts conçus pour infecter les utilisateurs Windows avec un puissant cheval de Troie nommé Agent Tesla.
+- Lorsque les gens téléchargent des films, ils s'attendent à obtenir un fichier vidéo.
+- Au lieu de cela, le torrent contient un ensemble caché de scripts PowerShell qui décompressent, décodent et exécutent une charge utile malveillante résidant en mémoire.
+- Les criminels utilisent des films populaires car le nombre de personnes qui les recherchent alors qu'ils sont encore à l'affiche est plus élevé.
+
+## [La notation de l'action ServiceNow maintenue à &quot;Surperformance&quot; par RBC dans le ... - Investing.com](https://m.fr.investing.com/news/analyst-ratings/la-notation-de-laction-servicenow-maintenue-a-surperformance-par-rbc-dans-le-contexte-des-discussions-avec-armis-93CH-3188123?ampMode=1)  
+*Source : m.fr.investing.com | Publication : 2025-12-15*
+
+- cybersécurité.
+- Cet objectif représente une hausse potentielle ... cybersécurité Armis pour environ 7 milliards de dollars, avec une annonce.
+
+## [POINT DE VUE. « Éducation et formation au numérique : ne laissons pas la jeunesse ...](https://www.ouest-france.fr/reflexion/point-de-vue/point-de-vue-education-et-formation-au-numerique-ne-laissons-pas-la-jeunesse-demunie-face-a-lia-82bf04c4-d8fc-11f0-9f4a-0c1392737a7e)  
+*Source : ouest-france.fr | Publication : 2025-12-15*
+
+- Une formation à la Cybersécurité dans un établissement d'enseignement supérieur de Bretagne.
+- | ARCHIVES OUEST FRANCE/ MARC OLLIVIER.
+
+## [Après avoir coupé les budgets de ses agences, l'administration Trump s'apprêterait à &quot;ouvrir ...](https://www.bfmtv.com/tech/cybersecurite/apres-avoir-coupe-les-budgets-de-ses-agences-l-administration-trump-s-appreterait-a-ouvrir-la-boite-de-pandore-et-a-confier-ses-operations-de-cyberguerre-a-des-entreprises-privees_AV-202512150620.html)  
+*Source : bfmtv.com | Publication : 2025-12-15*
+
+- Après avoir coupé les budgets de ses agences, l’administration Trump s’apprêterait à "ouvrir la boîte de Pandore" et à confier ses opérations de cyberguerre à des entreprises privées La question revient au centre de tous les débats: aux États-Unis, la cyberguerre se prépare… mais avec quels moyens?.
+- Pour l’administration Trump, la réponse pourrait se trouver du côté du secteur privé.
+- En effet, elle prévoit de recourir à des entreprises privées pour mener des cyberattaques contre des adversaires étrangers, élargissant ainsi un domaine jusque-là réservé aux agences de renseignement.
+- Selon des sources proches des milieux du renseignement consultées par Bloomberg, cette initiative s’inscrit dans une nouvelle stratégie nationale de cybersécurité visant à mobiliser le privé contre les pirates informatiques et les attaques sur les infrastructures critiques.
+
+## [MAX - L'app russe obligatoire qui transforme votre smartphone en mouchard du FSB](https://korben.info/max-app-surveillance-russie-ukraine-fsb.html)  
+*Source : korben.info | Publication : 2025-12-15*
+
+- MAX - L'app russe obligatoire qui transforme votre smartphone en mouchard du FSB · Articles récents · Les métiers de la cybersécurité avec Guardia.
+
+## [Ce que Google prépare pour 2026 : AluminiumOS, AI Mode, GEO… - BDM](https://www.blogdumoderateur.com/google-prepare-2026/)  
+*Source : blogdumoderateur.com | Publication : 2025-12-15*
+
+- Ce que Google prépare pour 2026 : AluminiumOS, AI Mode, GEO… L’écosystème Google se prépare à des transformations majeures en 2026 : AluminiumOS, AI Mode, Gemini 3.5, GEO… Tour d’horizon des évolutions attendues !.
+- L’année 2026 s’annonce comme un tournant pour l’écosystème Google.
+- Entre la fusion d’Android et ChromeOS avec AluminiumOS, l’arrivée très attendue de l’AI Mode en France, l’évolution de Gemini et l’émergence du GEO comme nouveau standard du référencement, le géant de Mountain View multiplie les chantiers stratégiques.
+- Sans oublier des menaces cybersécurité croissantes que la firme elle-même documente dans son rapport annuel.
+
+## [Sécurité punitive et IA de l'ombre, les angles morts de la <b>cybersécurité</b> moderne - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/securite-punitive-et-ia-de-lombre-les-angles-morts-de-la-cybersecurite-moderne/)  
+*Source : itsocial.fr | Publication : 2025-12-15*
+
+- La généralisation de l’IA dans les environnements de travail n’a pas réduit le risque humain en cybersécurité.
+- Elle en a déplacé les contours, élargi la surface d’attaque et mis en évidence les limites structurelles des approches historiques centrées sur la conformité, la sensibilisation générique et la sanction.
+- La question n’est plus de savoir si l’humain constitue un facteur de risque, mais comment les organisations peuvent enfin le piloter de manière opérationnelle à l’ère des agents IA.
+- Chaque cycle technologique promet une réduction de la part d’erreur humaine dans les incidents de sécurité.
 
 ## [Cyberattaque contre l'iPhone : 2 failles Apple sont à l'origine d'une « attaque extrêmement ...](https://www.01net.com/actualites/cyberattaque-iphone-2-failles-apple-origine-attaque-extremement-sophistiquee.html)  
 *Source : 01net.com | Publication : 2025-12-14*
