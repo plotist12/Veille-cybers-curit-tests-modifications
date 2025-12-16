@@ -1,5 +1,153 @@
-# Résumés – 2025-12-15
+# Résumés – 2025-12-16
 
+
+## [Itesoft et Certificall unifient collecte documentaire et preuve numérique certifiée - IT Social](https://itsocial.fr/cybersecurite/cybersecurite-actualites/itesoft-et-certificall-unifient-collecte-documentaire-et-preuve-numerique-certifiee/)  
+*Source : itsocial.fr | Publication : 2025-12-16*
+
+- Le partenariat permet d’intégrer des capacités avancées de collecte et de contrôle documentaire à l’offre de preuve numérique certifiée.
+- Cette solution conjointe apporte aux entreprises une plateforme unifiée capable de traiter, de vérifier et de certifier l’authenticité des données critiques, avec une valeur juridique conforme aux standards européens eIDAS.
+- La solution cible en priorité les secteurs exposés à la fraude documentaire, notamment l’assurance, le BTP, la logistique et l’immobilier.
+- La numérisation des processus opérationnels repose désormais sur l’automatisation intelligente et sur la fiabilité des données collectées.
+
+## [<b>Cybersécurité</b> : le Portugal protège enfin les chercheurs face à la loi - Armees.com](https://armees.com/cybersecurite-le-portugal-protege-enfin-les-chercheurs-face-a-la-loi/)  
+*Source : armees.com | Publication : 2025-12-16*
+
+- Le 4 décembre 2025, le Parlement portugais a adopté une réforme majeure de sa loi sur la cybercriminalité, plaçant la cybersécurité au cœur de sa stratégie nationale.
+- Cette évolution législative vise explicitement à protéger les chercheurs en sécurité informatique, longtemps exposés à des risques pénaux malgré leur rôle central dans la détection des failles.
+- Pour les autorités, cette décision répond à une urgence opérationnelle, dans un contexte de menaces numériques croissantes visant aussi bien les infrastructures civiles que les systèmes liés à la défense.
+- Cybersécurité et loi : le Portugal crée un cadre légal protecteur pour les chercheurs La réforme adoptée par le Portugal introduit un principe clé pour la cybersécurité : la reconnaissance de l’intérêt public de la recherche en sécurité informatique.
+
+## [Quand la géopolitique redéfinit le rôle du RSSI - Solutions-Numeriques](https://www.solutions-numeriques.com/quand-la-geopolitique-redefinit-le-role-du-rssi/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-16*
+
+- Au 13ᵉ Congrès annuel du CESIN, organisé à Reims, plus de 180 responsables cybersécurité ont dressé un constat sans détour : la cybersécurité ne peut plus être pensée hors sol.
+- Dépendances technologiques, tensions internationales, guerre informationnelle et fragilité des chaînes de valeur imposent une transformation profonde du rôle du RSSI, désormais acteur central de la souveraineté organisationnelle.
+- La cybersécurité, reflet des rapports de force mondiaux Le constat posé par les participants est sans ambiguïté.
+- « La cybersécurité est aussi un prolongement quotidien des rapports de force internationaux, des dépendances économiques et des stratégies d’influence qui s’exercent sur les entreprises », souligne la synthèse des ateliers.
+
+## [Escroquerie en ligne, hameçonnage, vol d'informations, usurpation d'identité… : 32 réseaux ...](https://www.elmoudjahid.dz/fr/actualite/escroquerie-en-ligne-hameconnage-vol-d-informations-usurpation-d-identite-32-reseaux-de-cybercriminalite-demanteles-245107)  
+*Source : elmoudjahid.dz | Publication : 2025-12-16*
+
+- Escroquerie en ligne, hameçonnage, vol d'informations, usurpation d'identité… : 32 réseaux de cybercriminalité démantelés.
+- 197 individus arrêtés.
+- Ces.
+
+## [<b>Cybercriminalité</b> : 32 réseaux d'escroquerie démantelés - L'Algérie Aujourd'hui](https://lalgerieaujourdhui.dz/cybercriminalite-32-reseaux-descroquerie-demanteles/)  
+*Source : lalgerieaujourdhui.dz | Publication : 2025-12-16*
+
+- يتم التحقّق من أن طلبك ليس طلباً آلياً... Verifying that you are not a robot... Please wait few seconds...الرجاء الإنتظار بضعة ثوان DZSecurity.
+
+## [Les pirates recherchent des données clients. Serez-vous leur prochaine cible? - Deloitte](https://www.deloitte.com/ca/fr/Industries/consumer/perspectives/retail-reimagined-cybersecurity-in-retail.html)  
+*Source : deloitte.com | Publication : 2025-12-16*
+
+- Principaux points à retenir : Vous avez peut-être une clientèle fidèle.
+- Mais si elle estime que ses données sont en danger, vous risquez de perdre sa confiance.
+- Les consommateurs étant de plus en plus préoccupés par la confidentialité de leurs données.
+- En conséquence, les détaillants doivent se demander s’ils sont prêts à répondre à une cyberattaque.
+
+## [Cyberattaque contre le ministère de l'Intérieur : une vengeance numérique contre l'Hexagone ?](https://www.solutions-numeriques.com/cyberattaque-contre-le-ministere-de-linterieur-une-vengeance-numerique-contre-lhexagone/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-16*
+
+- Quelques jours après l’attaque ayant visé les serveurs de messagerie du ministère de l’Intérieur, une revendication est apparue sur le forum clandestin BreachForums.
+- Publiée sous le pseudonyme “Indra”, elle évoque une compromission étendue des systèmes et la menace de divulgation de données sensibles.
+- Des affirmations qui interviennent alors que les autorités françaises poursuivent leurs investigations et que les zones d’ombre restent nombreuses.
+- Une revendication difficile à vérifier La revendication, apparue samedi 13 décembre sur BreachForums avant d’être partiellement supprimée, fait état d’une “compromission complète” du ministère et d’un ultimatum en vue de négociations.
+
+## [<b>Ransomware</b> : pour protéger votre réputation, évitez de payer la rançon | LeMagIT](https://www.lemagit.fr/actualites/366636517/Ransomware-pour-proteger-votre-reputation-evitez-de-payer-la-rancon)  
+*Source : lemagit.fr | Publication : 2025-12-16*
+
+- zephyr_p - stock.adobe.com Ransomware : pour protéger votre réputation, évitez de payer la rançon Une étude menée par Max Smeets, expert en ransomware, montre que les entreprises qui paient les rançons demandées par les cybercriminels sont plus susceptibles d’attirer l’attention de la presse.
+- Cela peut paraître contre-intuitif, mais les entreprises qui paient des rançons aux cybercriminels dans l’espoir de restaurer leurs systèmes informatiques et de garder l’incident secret risquent de subir une publicité plus négative que celles qui refusent de le faire.
+- C’est en tout cas ce que suggère une analyse des données saisies par la National Crime Agency (NCA) dans le cadre de l’opération Cronos menée contre l’enseigne LockBit.
+- Max Smeets, auteur du livre Ransom War, a bénéficié d’un accès supervisé à ces données, et a examiné les données de LockBit qui ont plus récemment fait l’objet d’une fuite.
+
+## [BreachForums : un vrai-faux retour ? | LeMagIT](https://www.lemagit.fr/actualites/366636476/BreachForums-un-vrai-faux-retour)  
+*Source : lemagit.fr | Publication : 2025-12-16*
+
+- LALAKA - stock.adobe.com BreachForums : un vrai-faux retour ?.
+- Les opérateurs de ce forum ont indiqué avoir « pleinement compromis » le ministère de l’Intérieur.
+- Mais est-ce bien sérieux et qui se cache effectivement derrière cette revendication ?.
+- Enquête.
+
+## [Backdoor VShell : outil d'espionnage informatique chinois présent sur plus de 1 500 serveurs](https://b2b-cyber-security.de/fr/backdoor-vshell-china-cyberspionage-tool-auf-ueber-1-500-servern/)  
+*Source : b2b-cyber-security.de | Publication : 2025-12-16*
+
+- Campagne mondiale de cyberespionnage utilisant la porte dérobée VShell : le spécialiste européen de la cybersécurité NVISO a mis au jour une vaste campagne de cyberespionnage.
+- Plus de 1 500 serveurs sur lesquels VShell était installé ont été touchés.
+- Ce logiciel malveillant, lié à des acteurs sinophones, a été utilisé pour infiltrer des agences gouvernementales, des établissements de santé, des installations militaires et des organismes de recherche.
+- Cette campagne a touché, entre autres, des agences gouvernementales et des institutions en Europe.
+
+## [GDIT remporte un contrat de <b>cybersécurité</b> de 285 millions € en Virginie - Investing.com](https://fr.investing.com/news/company-news/gdit-remporte-un-contrat-de-cybersecurite-de-285-millions--en-virginie-93CH-3190338)  
+*Source : fr.investing.com | Publication : 2025-12-16*
+
+- cybersécurité du Commonwealth de Virginie, a annoncé la société mardi.
+- Ce contrat s'ajoute aux revenus de General Dynamics, qui a déclaré 51,51.
+
+## [Cyberattaque contre le ministère de l'Intérieur : ce que l'on sait sur l'intrusion à ce stade](https://www.numerama.com/cyberguerre/2143599-cyberattaque-contre-le-ministere-de-linterieur-ce-que-lon-sait-sur-lintrusion-a-ce-stade.html)  
+*Source : numerama.com | Publication : 2025-12-16*
+
+- Alors que la France s’apprête à entrer dans la période des fêtes de fin d’année, la cybersécurité de l’État semble pénétrer une zone de turbulences.
+- Après une première alerte ayant touché des agents de la fonction publique en novembre, le ministère de l’Intérieur a officialisé ce 16 décembre les détails techniques de l’intrusion dont il est victime.
+- Dans une communication transmise à la presse, la place Beauvau confirme avoir subi une « intrusion malveillante » débutant par ses serveurs de messagerie.
+- Si les premières investigations menées avec l’ANSSI montrent qu’un « nombre limité de boîtes de messagerie professionnelle » a été consulté, les conséquences sont plus profondes.
+
+## [REMPAR25 : un kit post-exercice pour tester la gestion de crise cyber dans votre entreprise](https://www.solutions-numeriques.com/rempar25-un-kit-post-exercice-pour-tester-la-gestion-de-crise-cyber-dans-votre-entreprise/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-16*
+
+- L’exercice national de grande ampleur piloté par l’ANSSI, REMPAR25 a mobilisé près de 5 700 professionnels autour d’un scénario de black-out numérique systémique.
+- Au-delà du retour d’expérience, l’agence met désormais à disposition un kit opérationnel permettant aux organisations de rejouer l’exercice en interne.
+- Un levier concret pour éprouver ses dispositifs de gestion de crise cyber, au-delà des équipes IT.
+- Un kit clé en main pour organiser un exercice de crise cyber en interne C’est l’information à retenir : REMPAR25 ne se limite pas qu’à un exercice national ponctuel.
+
+## [PornHub : une fuite de données impacte certains abonnés Premium, le groupe ...](https://www.solutions-numeriques.com/pornhub-une-fuite-de-donnees-impacte-certains-abonnes-premium-le-groupe-shinyhunters-derriere-lextorsion/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-16*
+
+- Une récente violation de données chez Mixpanel, fournisseur d’analytique tiers de PornHub, a exposé des informations sensibles de certains utilisateurs Premium.
+- Bien que PornHub assure que ses systèmes ne sont pas responsables, le groupe d’extorsion ShinyHunters revendique le vol de 94 Go de données.
+- Un incident lié à Mixpanel Le 12 décembre 2025, PornHub a confirmé qu’un incident de cybersécurité lié à son fournisseur d’analyse de données Mixpanel avait affecté certains de ses abonnés Premium.
+- L’entreprise a rapidement précisé que cet incident ne provenait pas de ses propres systèmes et que des informations sensibles comme les mots de passe, les détails de paiement ou les informations financières étaient restées sécurisées.
+
+## [Kindle : voici comment un simple livre piégé suffit à vider votre compte Amazon - 01net.com](https://www.01net.com/actualites/kindle-voici-comment-un-simple-livre-piege-suffit-a-vider-votre-compte-amazon.html)  
+*Source : 01net.com | Publication : 2025-12-16*
+
+- C’est un objet qui traîne souvent sur la table de nuit, connecté en permanence au Wi-Fi et lié directement à votre carte bancaire.
+- La liseuse Kindle, sous ses airs inoffensifs, peut devenir une porte d’entrée redoutable pour les hackers.
+- C’est la démonstration faite par Valentino Ricotta, un ingénieur de chez Thalium (la division sécurité de Thales à Rennes), lors de la conférence Black Hat Europe à Londres.
+- Sa méthode ?.
+
+## [Freelabz : La <b>cybersécurité</b> offensive à la portée des TPE et PME - Le Figaro](https://www.lefigaro.fr/economie/freelabz-la-cybersecurite-offensive-a-la-portee-des-tpe-et-pme-20251216)  
+*Source : lefigaro.fr | Publication : 2025-12-16*
+
+- Freelabz : La cybersécurité offensive à la portée des TPE et PME Dans un contexte où les cyberattaques se multiplient, la cybersécurité n’est plus un luxe réservé aux grandes entreprises.
+- Olivier Cervello et Wally Chaibi, cofondateurs de Freelabz, démocratisent le pentest pour les TPE et PME, alliant expertise, innovation et engagement pour protéger les données sensibles.
+- Redéfinir la cybersécurité offensive Olivier Cervello et Wally Chaibi ne se présentent pas seulement comme des experts en cybersécurité : ils incarnent une nouvelle génération qui rend le domaine accessible à tous.
+- Ancien ingénieur DevOps pour Olivier et administrateur système et réseau pour Wally, ils ont uni leurs parcours complémentaires pour fonder Freelabz, une entreprise stéphanoise spécialisée dans le pentest.
+
+## [Sailfish OS 5 - L'OS qui vous libère d'Android et d'iOS | Le site de Korben](https://korben.info/sailfish-os-5-jolla-smartphone-linux-alternative.html)  
+*Source : korben.info | Publication : 2025-12-16*
+
+- Sailfish OS 5 - L'OS qui vous libère d'Android et d'iOS En bref Sailfish OS : le seul OS Linux qui a survécu 13 ans en refusant de devenir Android, et 5000 fous l'ont déjà précommandé - Pendant que Google et Apple vous pistent, ces Finlandais vous offrent un commutateur physique pour éteindre le micro et le Bluetooth quand vous voulez - Jolla a raté sa tablette en 2014, presque coulé, mais revient en 2026 avec un téléphone à batterie remplaçable que personne ne demandait et tout le monde veut - Vous en avez marre d'être coincé entre Android et iOS ?.
+- Genre vraiment marre, au point de vouloir un truc complètement différent ?.
+- Hé bien les Finlandais de Jolla sont de retour avec Sailfish OS 5 et un nouveau téléphone prévu pour 2026.
+- Et comme leur campagne de financement participatif a explosé les objectifs en moins de deux semaines, je me suis dit que ça méritait bien un petit article.
+
+## [Stations blanches USB : bouclier cyber des collectivités - InformatiqueNews.fr](https://www.informatiquenews.fr/cybersecurite-et-collectivites-lenjeu-souvent-sous-estime-des-peripheriques-usb-christophe-bourel-tyrex-cyber-108563)  
+*Source : informatiquenews.fr | Publication : 2025-12-16*
+
+- Le malware n’a pas besoin d’Internet : il peut arriver en poche, sur une clé USB.
+- Les stations blanches de décontamination font le sas de sécurité avant d’entrer dans le SI des collectivités, y compris côté police municipale : scan, désinfection, blocage des menaces avant de s’implanter sur un poste critique.
+- Dans les collectivités, elles passent du gadget d’initiés à l’achat prioritaire.
+- Au regard des nombreux services délivrés aux citoyens, le secteur public est aujourd’hui fortement exposé au risque Cyber.
+
+## [Red Cat choisit SpiderOak pour l'évaluation de la <b>cybersécurité</b> du système d'exploitation ...](https://www.zonebourse.com/actualite-bourse/red-cat-choisit-spideroak-pour-l-evaluation-de-la-cybersecurite-du-systeme-d-exploitation-blue-uas-d-ce7d50dedd81f225)  
+*Source : zonebourse.com | Publication : 2025-12-16*
+
+- Red Cat choisit SpiderOak pour l'évaluation de la cybersécurité du système d'exploitation Blue UAS de la plateforme Black WidowRed Cat Holdings a sélectionné SpiderOak pour réaliser une évaluation de la cybersécurité de son système aérien sans pilote Blue pour sa plateforme de reconnaissance à courte portée.
+
+## [L'articulation avec le RGS - ANSSI](http://cyber.gouv.fr/reglementation/reglementation-identite-confiance-numerique/securite-echanges-voie-electronique/reglement-eidas/articulation-rgs/)  
+*Source : cyber.gouv.fr | Publication : 2025-12-16*
+
+- Cybersécurité des systèmes d'information · Réglementation sur l'identité et la confiance numérique · Cybersécurité des produits · Nous rejoindre.
 
 ## [<b>Cybersécurité</b> des PME : quand l'IA change les règles du jeu - Le Monde Informatique](https://www.lemondeinformatique.fr/livre-blanc/cybersecurite-des-pme-quand-l-ia-change-les-regles-du-jeu -9442-tag-41.html)  
 *Source : lemondeinformatique.fr | Publication : 2025-12-15*
