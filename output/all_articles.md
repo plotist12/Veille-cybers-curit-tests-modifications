@@ -1,5 +1,156 @@
-# Résumés – 2025-12-16
+# Résumés – 2025-12-17
 
+
+## [Le Français Sopra Steria veut racheter non pas une, mais deux entreprises sur le spatial et ...](https://www.clubic.com/actualite-592039-le-francais-sopra-steria-veut-racheter-non-pas-une-mais-deux-entreprises-sur-le-spatial-et-la-cybersecurite.html)  
+*Source : clubic.com | Publication : 2025-12-17*
+
+- Sopra Steria indique mercredi négocier l'acquisition de Starion et Nexova, deux spécialistes européens du spatial et de la cybersécurité.
+- Le géant français veut créer un champion continental.
+- Le groupe technologique français Sopra Steria a annoncé ce mercredi 17 décembre 2025 être entré en négociations exclusives pour acquérir Starion et Nexova, deux acteurs de référence en systèmes spatiaux et cybersécurité.
+- Portée par CS Group, sa filiale spécialisée dans les systèmes critiques qui bénéficiera du rachat, l'opération vise à constituer une masse critique de 200 millions d'euros de chiffre d'affaires et 1 600 employés dans ces secteurs stratégiques.
+
+## [Cyberattaque à Beauvau : un suspect de 22 ans interpellé ce mercredi - Libération](https://www.liberation.fr/societe/police-justice/cyberattaque-a-beauvau-un-suspect-de-22-ans-interpelle-20251217_BE5FQSXBRFCR3IOVM37NE5OU3A/)  
+*Source : liberation.fr | Publication : 2025-12-17*
+
+- Premières avancées dans le cadre de l’enquête ouverte après le piratage des serveurs du ministère de l’Intérieur.
+- Un homme âgé de 22 ans a été interpellé mercredi 17 décembre et placé en garde à vue, a annoncé la procureure de Paris, Laure Beccuau, dans un communiqué.
+- Le suspect interpellé «est déjà connu des services de justice pour avoir été condamné pour des faits similaires en 2025», a précisé la procureure.
+- Selon des informations du Parisien, citant le parquet, cette arrestation a eu lieu à Limoges.
+
+## [« Incident de <b>cybersécurité</b> » sur Pornhub : des pirates menacent de publier les données ...](https://www.leparisien.fr/high-tech/incident-de-cybersecurite-sur-pornhub-des-pirates-menacent-de-publier-les-donnees-personnelles-dutilisateurs-17-12-2025-4YRE7LPDHVCYROYEU2D3FYC55E.php)  
+*Source : leparisien.fr | Publication : 2025-12-17*
+
+- « Incident de cybersécurité » sur Pornhub : des pirates menacent de publier les données personnelles d’utilisateurs Le collectif « ShinyHunters » réclame « une rançon en Bitcoin » contre ces informations volées, quand le site pornographique minimise de son côté l’ampleur de la brèche.
+- Ils auraient accès à l’historique de recherche, à la géolocalisation, aux habitudes de visionnage ou encore à l’adresse mail.
+- « Nous exigeons une rançon en Bitcoin pour empêcher la publication des données [de Pornhub] et supprimer ces données », a alors menacé le groupe cybercriminel ShinyHunters auprès de l’agence de presse britannique Reuters.
+- Pornhub a reconnu un « incident de cybersécurité », comme l’a révélé BleepingComputer.
+
+## [SFR a, à nouveau, été victime d'un vol de données massif: plusieurs millions d'abonnés ...](https://www.bfmtv.com/tech/cybersecurite/sfr-a-a-nouveau-ete-victime-d-un-vol-de-donnees-massif-plusieurs-millions-d-abonnes-sont-potentiellement-concernes_AV-202512170935.html)  
+*Source : bfmtv.com | Publication : 2025-12-17*
+
+- SFR a, à nouveau, été victime d’un vol de données massif: plusieurs millions d’abonnés sont potentiellement concernés Un an après avoir été victime d'une cyberattaque, SFR a de nouveau vu certaines des données de ses clients être compromises.
+- Dans un mail envoyé à certains de ses abonnés, l'opérateur fait état d'un "accès non autorisé" à un "outil informatique utilisé pour gérer les interventions de raccordement de nos clients sur le réseau fixe.".
+- Contacté par Tech&Co, SFR a confirmé cette fuite mais n'a pas souhaité donner le nombre de personnes touchées.
+- Les clients concernés doivent être tous contactés d'ici demain.
+
+## [<b>Cybercriminalité</b> au Maroc: plus de 13.600 affaires liées aux technologies modernes traitées en 2025](https://lareleve.ma/176467/)  
+*Source : lareleve.ma | Publication : 2025-12-17*
+
+- Le même bilan fait état de 415 personnes interpellées et déférées devant la justice pour leur implication dans des crimes liés à la cybercriminalité.
+
+## [Piratage du ministère de l'Intérieur : un suspect de 22 ans interpellé à Limoges - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/piratage-du-ministere-de-l-interieur-un-suspect-de-22-ans-interpelle-a-limoges-20251217)  
+*Source : lefigaro.fr | Publication : 2025-12-17*
+
+- Piratage du ministère de l’Intérieur : un suspect de 22 ans interpellé à Limoges Cet individu, déjà connu des services de justice, est né en 2003 et a été condamné pour des faits similaires en 2025.
+- Passer la publicité Passer la publicitéRebondissement dans l’affaire du piratage des serveurs du ministère de l’Intérieur.
+- Un suspect soupçonné d’être en lien avec le piratage a été interpellé à Limoges ce mercredi 17 décembre, a appris Le Figaro de sources concordantes.
+- Cet individu, déjà connu des services de justice, est né en 2003 et a été condamné pour des faits similaires en 2025.
+
+## [Cyberattaque contre le ministère de l'Intérieur : &quot;Ce qui s'est passé est très grave&quot;, admet ...](https://www.laprovence.com/article/societe/45768526644396/cyberattaque-contre-le-ministere-de-linterieur-ce-qui-sest-passe-est-tres-grave-admet-laurent-nunez)  
+*Source : laprovence.com | Publication : 2025-12-17*
+
+- Cyberattaque contre le ministère de l'Intérieur : "Ce qui s'est passé est très grave", admet Laurent Nuñez Par La Provence (avec AFP) Une semaine après l’assassinat de Mehdi Kessaci, le ministre de l’Intérieur Laurent Nuñez et celui de la Justice Gérald Darmanin sont ce jeudi à Marseille - 201125PLN02 / Photo LAURENSON Philippe Le ministre de l'Intérieur, Laurent Nuñez, a qualifié ce mercredi 17 décembre à l'Assemblée nationale de "très grave" l'attaque informatique ayant visé son ministère, annonçant des mesures de restriction immédiates pour les agents, dont la double authentification systématique.
+- Interpellé lors de la séance des questions au gouvernement par la députée Marie-Agnès Poussier-Winsback (Horizons) sur l'ampleur de l'attaque, le ministre a reconnu la sévérité de l'intrusion malveillante survenue la semaine dernière.
+- La faille de sécurité a été rendue possible par un manque "d'hygiène numérique", des mots de passe permettant l'accès à des fichiers protégés ayant été échangés "en clair" sur des messageries professionnelles compromises, a détaillé M. Nuñez dans l'hémicycle.
+- L'intrusion a permis à un ou plusieurs hackers de consulter des fichiers "extrêmement sensibles", notamment le fichier de Traitement d'antécédents judiciaires (TAJ) et le Fichier des personnes recherchées (FPR), essentiels au travail des forces de l'ordre.
+
+## [Piratage du ministère de l'Intérieur: &quot;On serait face à des jeunes cybercriminels français ...](https://www.bfmtv.com/police-justice/video-piratage-du-ministre-de-l-interieur-on-serait-face-a-des-jeunes-cybercriminels-francais-affirme-clement-domingo-expert-en-cybersecurite_VN-202512170763.html)  
+*Source : bfmtv.com | Publication : 2025-12-17*
+
+- Piratage du ministère de l'Intérieur: "On serait face à des jeunes cybercriminels français" affirme Clément Domingo, expert en cybersécurité Le ministère de l'Intérieur confirme à BFMTV ce jeudi 11 décembre avoir découvert l’existence d’activités suspectes visant ses serveurs de messagerie.
+- Selon nos informations, cette découverte est récente.
+- Une enquête a été ouverte face à la "menace" pour la cybersécurité du ministère de l'Intérieur.
+- Des mesures pour renforcer les protections ont également été mises en place.
+
+## [Piratage du ministère de l'Intérieur : une centaine de fiches du traitement des antécédents ...](https://www.leparisien.fr/faits-divers/piratage-du-ministere-de-linterieur-pres-dune-centaine-de-fiches-du-traitement-des-antecedents-judiciaires-derobees-17-12-2025-I5UJAC467ZE7VPGZ4AARH5BQXY.php)  
+*Source : leparisien.fr | Publication : 2025-12-17*
+
+- Piratage du ministère de l’Intérieur : une centaine de fiches du traitement des antécédents judiciaires dérobées, un suspect interpellé INFO LE PARISIEN.
+- Alors que l’enquête se poursuit, l’ampleur de l’attaque reste difficile à évaluer.
+- C’est un mélange entre le jeu du chat et de la souris et celui du poker menteur.
+- Un « jeu » auquel se livrent depuis une semaine un groupe de hackers et le ministère de l’Intérieur.
+
+## [La complexité des systèmes d'information hospitaliers : un risque pour la souveraineté ...](https://www.portail-ie.fr/univers/2025/complexite-systeme-information-hospitalier/)  
+*Source : portail-ie.fr | Publication : 2025-12-17*
+
+- Si la pandémie de Covid-19 a agi comme un révélateur de la valeur stratégique de notre système de santé, elle a également exposé une certaine fragilité concernant la menace cyber.
+- Les systèmes d’information hospitaliers (SIH) sont devenus les cibles privilégiées d’une guerre hybride où se mêlent cybercriminalité et opérations de déstabilisation.
+- En 2024, Le CERT Santé mettait en lumière les 749 incidents cyber à l’encontre des établissements de santé.
+- Une rentabilité criminelle supérieure à celle des données bancaires La motivation première reste pécuniaire, alimentée par une économie souterraine florissante.
+
+## [Sopra Steria négocie l'acquisition de Starion et Nexova pour renforcer CS Group](https://www.ideal-investisseur.fr/actions-b/sopra-steria-ngocie-lacquisition-de-starion-et-nexova-pour-renforcer-cs-group/10770.html)  
+*Source : ideal-investisseur.fr | Publication : 2025-12-17*
+
+- Sopra Steria annonce être en négociations exclusives pour racheter Starion et Nexova au profit de sa filiale CS Group.
+- L'opération doit permettre de constituer un ensemble d'environ 200 millions d'euros de chiffre d'affaires dans le spatial et la cybersécurité, selon le groupe.
+- Les deux sociétés concernées, détenues par le même actionnaire privé, emploient environ 700 collaborateurs répartis dans neuf pays européens, dont l'Allemagne, l'Italie, la France, le Royaume-Uni et l'Espagne.
+- Starion se positionne comme un spécialiste de l'ingénierie des systèmes pour le spatial, la défense et les infrastructures critiques, intervenant sur l'ensemble du cycle de vie des missions spatiales.
+
+## [« Je ne pensais pas qu'elle consommait autant » : voici ce que coûte vraiment votre box ...](https://www.pleinevie.fr/conso-argent/je-ne-pensais-pas-quelle-consommait-autant-voici-ce-que-coute-vraiment-votre-box-internet-qui-est-branchee-en-permanence-182189.html)  
+*Source : pleinevie.fr | Publication : 2025-12-17*
+
+- « Je ne pensais pas qu’elle consommait autant » : voici ce que coûte vraiment votre box internet qui est branchée en permanence Elle reste branchée toute la journée, silencieuse, presque invisible.
+- Pourtant, votre box internet grignote des euros sur votre facture d’électricité, chaque nuit, chaque week-end, sans que vous n’y prêtiez attention.
+- À l’heure où les prix de l’énergie pèsent lourd sur le budget des foyers, cette consommation cachée mérite qu’on s’y attarde.
+- Une box internet consomme entre 150 et 300 kWh par an, selon l’ADEME, ce qui représente un coût estimé entre 30 et 60 euros par an.
+
+## [Sopra Steria : Projet d'acquisition de Starion et Nexova, spécialistes européens de l ...](https://www.afp.com/fr/infos/sopra-steria-projet-dacquisition-de-starion-et-nexova-specialistes-europeens-de-lingenierie)  
+*Source : afp.com | Publication : 2025-12-17*
+
+- Regulatory News: Sopra Steria (Euronext Paris : SOP), acteur majeur de la Tech en Europe, annonce être en négociations exclusives en vue de l’acquisition de Starion et Nexova pour le compte de sa filiale CS Group.
+- Cette opération vise à créer un acteur industriel européen de référence dans les services numériques souverains et sécurisés pour les secteurs du spatial et de la cybersécurité.
+- Détenues par le même actionnaire privé, Starion et Nexova apporteraient à Sopra Steria, dans le secteur spatial, des expertises complémentaires de premier plan et permettraient d’atteindre une taille critique d’environ 200 M€ de chiffre d’affaires et 1 600 collaborateurs, renforçant significativement sa position dans les systèmes critiques et les missions spatiales.
+- Le marché spatial européen, estimé à une vingtaine de milliards d’euros en Europe en 2025, devrait enregistrer une croissance annuelle à deux chiffres dans les années à venir.
+
+## [Sopra Steria prêt à acquérir Starion et Nexova - ITRnews](https://itrnews.com/articles/208304/sopra-steria-pret-a-acquerir-starion-et-nexova.html)  
+*Source : itrnews.com | Publication : 2025-12-17*
+
+- Veuillez activer Javascript.
+
+## [Cyberattaque du ministère de l'Intérieur : « Dans la chaîne de sécurité, le maillon faible, c ...](https://www.lopinion.fr/economie/cyberattaque-du-ministere-de-linterieur-dans-la-chaine-de-securite-le-maillon-faible-cest-lhumain)  
+*Source : lopinion.fr | Publication : 2025-12-17*
+
+- Cyberattaque du ministère de l’Intérieur : « Dans la chaîne de sécurité, le maillon faible, c’est l’humain » Le ministre de l’Intérieur, Laurent Nuñez, a annoncé mercredi matin que son ministère avait fait l’objet d’une cyberattaque et que des fichiers importants avaient été consultés.
+- Cette attaque interroge la cybersécurité des plus hautes institutions de l’Etat Les faits - Thierry Berthier, cofondateur de l’association Hub France IA et expert en cybersécurité et en robotique, analyse cette attaque et en tire les enseignements.
+- Mathématiquement, en informatique, la sécurité absolue n’existe pas, même dans les organismes les plus protégés.
+- Il propose plusieurs leviers d’action pour apprendre à vivre avec cette menace permanente.
+
+## [<b>Cybersécurité</b> 2026 : les organisations sous la pression des Jeux et de l'IA](https://www.globalsecuritymag.fr/cybersecurite-2026-les-organisations-sous-la-pression-des-jeux-et-de-l-ia.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-12-17*
+
+- Cybersécurité 2026 : les organisations sous la pression des Jeux et de l’IA décembre 2025 par Mimecast Mimecast annonce ses prédictions en matière de menaces cyber pour l’année 2026.
+- L’année prochaine sera sans conteste celle de la ruée vers l’or... L’or olympique bien sûr, mais aussi les montagnes d’or sur lesquelles sont assis les hyperscalers et autres fournisseurs d’infrastructures d’IA qui font tourner la tête des cybercriminels.
+- Face à ces enjeux, les professionnels de la sécurité n’auront d’autre choix que de repenser en profondeur leurs stratégies de défense.
+- Les experts en cybersécurité de Mimecast décortiquent les changements à venir en 2026 et ce que les entreprises devraient faire pour s’y préparer.
+
+## [Victor Calissano est nommé directeur du bureau d'Almond Aix-en-Provence - ITR Manager](https://itrmanager.com/articles/208294/victor-calissano-est-nomme-directeur-du-bureau-dalmond-aix-en-provence.html)  
+*Source : itrmanager.com | Publication : 2025-12-17*
+
+- Cybersécurité.
+- En 2019, il intègre Sogeti en tant qu'ingénieur commercial cybersécurité , avant de rejoindre Capgemini en 2022 comme Practice.
+
+## [Forum Solutions <b>Cybersécurité</b>, Cloud, IA le 8 et 9 avril à Paris Porte de Versailles](https://www.solutions-numeriques.com/agenda/forum-solutions-cybersecurite-cloud-ia-le-8-et-9-avril-a-paris-porte-de-versailles/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-17*
+
+- Cette 4ème édition sera marquée par une présence encore plus importante des acteurs clés du secteur mais aussi par une ligne éditoriale axée sur la convergence des thématiques et des fonctions représentées sur nos salons : Digital workplace, Cloud, IA, cyber, Process documentaire.
+- Les visiteurs pourront ainsi assister à de nombreuses tables rondes et ateliers/retours d’expérience pour apprendre, comprendre et mettre en place les solutions proposées par nos intervenants experts.
+- Ils étaient 800 auditeurs en mars 2025 : nous en attendons +1000 cette année !.
+- Les 8 & 9 avril 2026 – Paris Porte de Versailles Site de l'organisateur : https://www.salon-cloud-security.com/.
+
+## [Toulouse (Université)/ Lancement du projet OSMOSE, soutenu par France 2030](https://ouillade.eu/agenda/toulouse-universite-lancement-du-projet-osmose-soutenu-par-france-2030-une-nouvelle-dynamique-pour-la-cybersecurite-en-occitanie/328653)  
+*Source : ouillade.eu | Publication : 2025-12-17*
+
+- L’Université de Toulouse lance officiellement le projet OSMOSE, lauréat de l’appel à manifestation d’intérêt « Compétence et métiers d’avenir » (AMI CMA) de France 2030 visant à renforcer la montée en compétences en cybersécurité en Occitanie.
+- Réunissant vingt-et-un partenaires et doté d’un budget global de vingt-sept millions d’€uros, OSMOSE bénéficie d’un soutien de six millions d’€uros dans le cadre de France 2030 pour une durée de cinq ans.
+- Le projet ambitionne de former un large public, des collégiens aux professionnels, grâce à des modules innovants, à un vivier de formateurs et à des plateformes de simulation cyber-range :.
+
+## [Obsidenc - Du chiffrement parano en Rust pour vos dossiers sensibles | Le site de Korben](https://korben.info/obsidenc-chiffrement-rust-dossiers-argon2-2.html)  
+*Source : korben.info | Publication : 2025-12-17*
+
+- Obsidenc - Du chiffrement parano en Rust pour vos dossiers sensibles En bref Obsidenc : le chiffrement paranoïaque qui vous traite comme si la NSA campait devant votre disque dur - Pendant que les géants du cloud vous vendent du rêve, ce petit outil en Rust vous offre une forteresse que même les GPU les plus puissants ne viendront pas à bout - Minimum 20 caractères obligatoires, refus des raccourcis symlinks, limite d'1 million de fichiers : bienvenue dans l'univers où la sécurité n'accepte aucun compromis - Vous avez des dossiers sensibles que vous aimeriez chiffrer avant de les balancer sur un cloud ou un disque externe ?.
+- Ça tombe bien, je vous ai trouvé un petit outil en Rust qui va vous plaire.
+- Obsidenc , c'est son nom, est un utilitaire de chiffrement que son créateur qualifie de "paranoid-grade".
+- Et après avoir jeté un œil au code source, je peux vous dire que c'est pas du marketing puisque ce truc archive votre répertoire en TAR et le chiffre avec XChaCha20-Poly1305, un algorithme AEAD moderne qui assure à la fois la confidentialité et l'intégrité de vos données.
 
 ## [Itesoft et Certificall unifient collecte documentaire et preuve numérique certifiée - IT Social](https://itsocial.fr/cybersecurite/cybersecurite-actualites/itesoft-et-certificall-unifient-collecte-documentaire-et-preuve-numerique-certifiee/)  
 *Source : itsocial.fr | Publication : 2025-12-16*
