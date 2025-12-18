@@ -1,5 +1,161 @@
-# Résumés – 2025-12-17
+# Résumés – 2025-12-18
 
+
+## [Cyberattaque au ministère de l'Intérieur : une attaque revendiquée, un suspect interpellé ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-au-ministere-de-l-interieur-une-attaque-revendiquee-un-suspect-interpelle-ce-que-l-on-sait-27145938.php)  
+*Source : sudouest.fr | Publication : 2025-12-18*
+
+- Derrière la cyberattaque qui a touché le ministère de l’Intérieur, l’ombre d’une vengeance plane.
+- Un internaute, qui a revendiqué cette attaque sans réelle preuve, dit avoir agi pour venger cinq hackers arrêtés en France La cyberattaque du ministère de l’Intérieur a été qualifiée de « très grave » sur les ondes de « Franceinfo » par Laurent Nuñez, ministre de l’Intérieur.
+- Si un suspect a été interpellé mercredi 17 décembre en fin de journée, un message publié sur un forum de revente de données indique que cette cyberattaque pourrait avoir été commise pour venger l’arrestation de cinq hackers en France, dont l’un d’entre eux est considéré comme l’un des pirates informatiques les plus doués du monde.
+
+## [Les crypto-actifs émergent comme un élément central de l'économie numérique.](https://fr.vietnamplus.vn/les-crypto-actifs-emergent-comme-un-element-central-de-leconomie-numerique-post256389.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2025-12-18*
+
+- Hanoi (VNA) - L’Association nationale de cybersécurité (ANC), en collaboration avec la Télévision du Vietnam (VTV) et la Commission d’État des valeurs mobilières du Vietnam (SSC), et avec la participation d’OKX Global et de Tether, a organisé jeudi 18 décembre à Hanoi un séminaire spécialisé sur le fonctionnement et la supervision du marché des crypto-actifs.
+- Lors de cet événement, Vu Duy Hiên, secrétaire général adjoint et chef de bureau de l’Association nationale de cybersécurité, a déclaré que les crypto-actifs n’étaient plus seulement un nouvel instrument financier, mais étaient devenus un élément clé de l’infrastructure économique numérique mondiale.
+- La technologie blockchain, grâce à sa vérification transparente, ses transactions quasi instantanées et la réduction des coûts d’intermédiation, ouvre la voie à de nombreuses applications dans les domaines de la finance, de la logistique, de la gestion d’actifs et des services publics.
+- Dans ce contexte, la décision du Vietnam de lancer un projet pilote de marché des crypto-actifs est à la fois nécessaire et en phase avec les tendances mondiales en matière d’innovation financière, a-t-il affirmé.
+
+## [<b>Cybersécurité</b> et IA en temps réel, une transformation bien plus ample qu'un simple ...](https://itsocial.fr/cybersecurite/cybersecurite-tribunes/cybersecurite-et-ia-en-temps-reel-une-transformation-bien-plus-ample-quun-simple-changement-doutillage/)  
+*Source : itsocial.fr | Publication : 2025-12-18*
+
+- L’automatisation des cyberattaques atteint aujourd’hui un seuil où les défenses héritées peinent à suivre.
+- Bénéficiant de la finesse et de la volumétrie d’une ingénierie assistée par l’IA, les attaques atteignent un niveau de furtivité et de sophistications jamais atteint.
+- Les entreprises sont contraintes de repenser leur modèle de sécurité, non seulement sous l’angle technologique mais aussi sous celui de la gouvernance, des compétences et de la coordination écosystémique.
+- Bonne nouvelle : la combinaison entre intelligence artificielle générative, traitement en continu des données et coopération européenne ouvre de nouvelles perspectives, à condition que les fondations soient établies avec rigueur.
+
+## [Principales menaces de <b>cybersécurité</b> - IBM](https://www.ibm.com/fr-fr/think/insights/cyberattack-concerns)  
+*Source : ibm.com | Publication : 2025-12-18*
+
+- Les cyberattaques sont de plus en plus sophistiquées.
+- Découvrez les préoccupations des leaders du secteur pour l’avenir, ainsi que trois approches que les entreprises peuvent adopter pour renforcer leurs défenses.
+- Newsletter Think Rejoignez les responsables de la sécurité qui font confiance à la Newsletter Think pour obtenir des informations ciblées autour de l’IA, de la cybersécurité, des données et de l’automatisation.
+- Apprenez rapidement grâce à des tutoriels et des fiches explicatives d’experts, envoyés directement dans votre boîte de réception.
+
+## [Guerre contre les <b>ransomwares</b> : le FBI fait tomber un nouveau maillon clé de l'industrie criminelle](https://www.01net.com/actualites/guerre-contre-ransomwares-fbi-fait-tomber-nouveau-maillon-cle-industrie.html)  
+*Source : 01net.com | Publication : 2025-12-18*
+
+- E-Note, un service de blanchiment de cryptomonnaies, vient d’être démantelé par les forces de l’ordre américaines.
+- Le service est soupçonné d’avoir blanchi plus de 70 millions de dollars entre 2017 et 2025.
+- Les cryptomonnaies provenaient d’opérations orchestrées par des ransomwares ou d’autres crimes numériques d’envergure.
+- Le service était en ligne depuis 2010.
+
+## [<b>Ransomware</b> : la GenAI, une accélération plus qu'une transformation | LeMagIT](https://www.lemagit.fr/actualites/366636736/Ransomware-la-GenAI-une-acceleration-plus-quune-transformation)  
+*Source : lemagit.fr | Publication : 2025-12-18*
+
+- Aliaksandr Marko - stock.adobe.c Ransomware : la GenAI, une accélération plus qu’une transformation Selon les équipes des SentinelLabs, les grands modèles de langage constituent moins la révolution crainte par certains dans les menaces de cybersécurité qu’un catalyseur.
+- Le 8 septembre dernier, l’école de management Sloan du prestigieux MIT publiait un article selon lequel « 80 % des attaques avec ransomware utilisent désormais l’intelligence artificielle ».
+- L’affirmation, pour tonitruante qu’elle fut, s’est avérée erronée.
+- Est-ce pour autant à dire que l’IA générative, grands modèles de langage (LLM) en tête, n’a rien changé à la menace des rançongiciels ?.
+
+## [&quot;Une petite <b>cybercriminalité</b> qui monte en puissance&quot; : qui se cache derrière le piratage du ...](https://www.tf1info.fr/high-tech/une-petite-cybercriminalite-qui-monte-en-puissance-qui-se-cache-derriere-le-piratage-du-ministere-de-l-interieur-2413654.html)  
+*Source : tf1info.fr | Publication : 2025-12-18*
+
+- Un homme de 22 ans a été interpellé mercredi et placé en garde à vue dans le cadre de l'enquête sur le piratage des serveurs du ministère de l'Intérieur.
+- - TF1info a interrogé deux spécialistes en sécurité informatique pour en savoir plus sur le profil des jeunes hackers coutumiers de ce genre d'opérations.
+- - Tout est parti, comme souvent en matière de piratage, d'une erreur humaine, en l’occurrence dans le cas présent un échange de mot de passe "en clair" dans une boîte de messagerie.
+- Une maladresse aux lourdes conséquences, puisqu'un pirate informatique a pu grâce à cela s'introduire "pendant plusieurs jours" (nouvelle fenêtre) dans les systèmes informatiques du ministère de l'Intérieur.
+
+## [ProtonVPN : le vrai bon plan <b>cybersécurité</b> de cette fin d'année ? - Le Point](https://www.lepoint.fr/services/protonvpn-le-vrai-bon-plan-cybersecurite-de-cette-fin-dannee-NQWDRX67VFGHFCUAFEB2SLHHNY/)  
+*Source : lepoint.fr | Publication : 2025-12-18*
+
+- Sur un marché du VPN dominé par des acteurs très visibles et très marketing, ProtonVPN avance à contre-courant.
+- Développé par l’équipe à l’origine de Proton Mail, le service s’est construit autour d’un objectif clair : proposer un outil de protection numérique centré sur la confidentialité, la transparence et le respect des données personnelles.
+- En ce moment, le logiciel affiche en outre un tarif ultra réduit, faisant de lui l’un des plus attractifs du marché.
+- Une offre de fin d’année qui rend ProtonVPN encore plus accessible Basé en Suisse, ProtonVPN bénéficie d’un cadre juridique réputé pour la protection de la vie privée.
+
+## [Ils hackent Pornhub, volent les données des clients Premium et font chanter le site en ... - BFM](https://www.bfmtv.com/tech/actualites/cybersecurite/ils-hackent-pornhub-volent-les-donnees-des-clients-premium-et-font-chanter-le-site-en-exigeant-une-rancon-pour-ne-pas-diffuser-des-informations-tres-personnelles-et-explicites_AN-202512180786.html)  
+*Source : bfmtv.com | Publication : 2025-12-18*
+
+- Ils hackent Pornhub, volent les données des clients Premium et font chanter le site en exigeant une rançon pour ne pas diffuser des informations très personnelles et explicites Une menace à ne pas prendre à la légère.
+- Victime d'un piratage, Pornhub fait désormais face à une tentative d'extorsion de la part de ses auteurs.
+- Le 12 décembre, le célèbre site pornographique a révélé avoir subi une fuite de données.
+- "Un récent incident de cybersécurité impliquant les données d'un fournisseur tiers de services d'analyse de données a eu des répercussions sur certains utilisateurs de Pornhub Premium (...) Les mots de passe, les données de paiement et les informations financières sont toujours sécurisées et n'ont pas été exposées", a-t-il indiqué sur une page dédiée à cet incident.
+
+## [Sword Group intègre le consortium Atos pour un contrat européen de <b>cybersécurité</b>](https://www.ideal-investisseur.fr/actions-b/bsword-group-intgre-le-consortium-atos-pour-un-contrat-europen-de-cyberscurit-b/10849.html)  
+*Source : ideal-investisseur.fr | Publication : 2025-12-18*
+
+- Le groupe Sword a été sélectionné comme membre du consortium dirigé par Atos dans le cadre du contrat-cadre FREIA Lot 1, attribué par la Direction Générale des Services Numériques de la Commission européenne.
+- Le contrat, d'un montant total d'environ 300 millions d'euros, vise à renforcer les capacités de cybersécurité des institutions européennes.
+- Selon le communiqué, Sword Group prévoit de contribuer à hauteur de 10 à 15 % du montant global du contrat-cadre FREIA Lot 1, soit une participation comprise entre 30 et 45 millions d'euros.
+- Ce contrat a été lancé dans le cadre du système d'achat dynamique CLOUD II et concerne les services d'opérations techniques pour la DG DIGIT.
+
+## [Quand le consultant devient la cible : enseignements tirés de la cyberattaque contre Credera](https://www.acronis.com/fr/blog/posts/when-the-consultant-becomes-the-target-lessons-from-the-credera-cyberattack-for-msps-and-enterprise-defense/)  
+*Source : acronis.com | Publication : 2025-12-18*
+
+- Fin septembre 2025, l'actualité a révélé que Credera, cabinet de conseil et d'expertise technologique, avait subi une violation de données ayant entraîné l'exposition d'informations sensibles liées à ses clients.
+- Et ce n'étaient pas des clients anodins : Credera collabore notamment avec Mercedes et AT&T.
+- Cet incident met en lumière un vecteur de menace critique et en forte croissance : les hackers ciblent de plus en plus les partenaires, consultants et fournisseurs de la chaîne logistique pour atteindre des organisations plus vastes et mieux protégées.
+- Pour les fournisseurs de services managés (MSP) comme pour les entreprises, l'affaire Credera fait figure d'avertissement.
+
+## [<b>Cybersécurité</b> : Cisco met en garde contre une campagne de cyberattaque chinoise ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-cisco-met-en-garde-contre-une-campagne-de-cyberattaque-chinoise-touchant-ses-equipements-reseaux.JCS5AYBJSRGE3BBBLZ3RDIZFNE.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-18*
+
+- Cisco a publié une alerte critique mercredi 17 décembre concernant certains de ses équipements réseaux.
+- Ils sont sous le coup d’une campagne de cyberattaque qui profite de certains ports ouverts pour faire tourner Cisco Secure Email and Web Manager ainsi que Cisco AsyncOS Software for Cisco Secure Email Gateway.
+- Les malfaiteurs profitent d’une vulnérabilité dans la fonctionnalité “Spam Quarantine” pour exécuter des commandes avec un accès root sur le système d’exploitation des équipements concernés, et Cisco indique avoir détecté des mesures permettant aux hackers de conserver un accès longue durée chez certaines des victimes.
+- Pour que les équipements soient vulnérables, il faut que “Span Quarantine” soit activée (elle ne l’est pas par défaut) et qu’elle puisse être accessible depuis Internet (ce n’est pas nécessaire à son fonctionnement).
+
+## [La CPME mobilisée pour les PME au Cyber Show Paris](https://www.cpme.fr/agenda/evenements-nationaux/la-cpme-au-cyber-show-paris)  
+*Source : cpme.fr | Publication : 2025-12-18*
+
+- Aujourd’hui, les PME sont une cible privilégiée des cyberattaques en raison de ressources souvent limitées et d’un manque d’accompagnement adapté.
+- C’est dans ce contexte que la CPME participe au Cyber Show Paris, les 28 et 29 janvier 2026.
+- Venez rencontrer nos équipes sur notre stand, pour échanger concrètement sur vos problématiques : compréhension des obligations (dont la directive NIS 2), prévention des risques, bonnes pratiques, solutions accessibles et accompagnement possible pour les dirigeants et leurs entreprises.
+- Temps fort du salon : 28 janvier - 14h00 à 15h15 Marc Bothorel, référent cybersécurité de la CPME, interviendra lors de la table ronde : « Confiance cyber : comment naviguer dans l’océan réglementaire ?.
+
+## [<b>Cybersécurité</b> : atteindre l'équilibre - Global Security Mag Online](https://www.globalsecuritymag.fr/cybersecurite-atteindre-l-equilibre.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-12-18*
+
+- Cybersécurité : atteindre l’équilibre décembre 2025 par Simon AMIOT – Consultant Avant-Vente Cyber chez Stordata La cybersécurité a changé.
+- Poncif ?.
+- Peut-être.
+- Mais est-on bien certain de savoir mesurer toutes les implications de cette étonnante évolution ?.
+
+## [ESET Research analyse les <b>cybermenaces</b> du second semestre 2025 - We Live Security](https://www.welivesecurity.com/fr/dernieres-recherches/eset-research-analyse-les-cybermenaces-du-second-semestre-2025/)  
+*Source : welivesecurity.com | Publication : 2025-12-18*
+
+- Au second semestre 2025, les logiciels malveillants utilisant l’intelligence artificielle sont passés du stade expérimental à des applications concrètes.
+- ESET a ainsi repéré PromptLock, considéré comme le premier ransomware s'appuyant sur l'IA, capable de créer automatiquement des scripts malveillants.
+- Bien que l’IA serve encore majoritairement à produire des contenus d’hameçonnage ou d’escroquerie plus convaincants, PromptLock et quelques autres menaces basées sur l’IA marquent le début d’une nouvelle génération de cybermenaces.
+- Les opérateurs derrière les arnaques à l’investissement Nomani ont affiné leurs techniques.
+
+## [Annecy. Spatial et <b>cybersécurité</b> : deux projets d'acquisition stratégiques pour Sopra Steria](https://www.ledauphine.com/economie/2025/12/18/spatial-et-cybersecurite-deux-projets-d-acquisition-strategiques-pour-sopra-steria)  
+*Source : ledauphine.com | Publication : 2025-12-18*
+
+- Annecy Spatial et cybersécurité : deux projets d’acquisition stratégiques pour Sopra Steria Le projet devrait être finalisé au 1er semestre 2026.
+- Sopra Steria, acteur majeur de la Tech en Europe, annonce être en négociations exclusives en vue de l’acquisition de Starion et Nexova pour le compte de sa filiale CS Group (intégrateur de systèmes critiques, filiale à 100 % de Sopra Steria).
+- “Cette.
+
+## [Fraude bancaire : une experte en <b>cybersécurité</b> décrypte les pièges des hackers](https://www.leparisien.fr/economie/votre-argent/fraude-bancaire/fraude-bancaire-une-experte-en-cybersecurite-decrypte-les-pieges-des-hackers-18-12-2025-7IY2P4M3AJFIXDMRBF5RXRF34I.php)  
+*Source : leparisien.fr | Publication : 2025-12-18*
+
+- Fraude bancaire : une experte en cybersécurité décrypte les pièges des hackers Usurpation d’identité, faux SMS, appels truqués, voix clonées… Les arnaques numériques se perfectionnent à grande vitesse.
+- Dans cette vidéo, Alix, consultante en cybersécurité, dévoile les méthodes les plus courantes utilisées par les cybercriminels et livre ses conseils pour ne pas tomber dans leurs pièges.
+- Vous pensez que votre mot de passe est sécurisé ?.
+- Que seul un proche pourrait vous écrire sur WhatsApp ?.
+
+## [<b>Cybersécurité</b> : Google désactive son outil de surveillance du dark web | Les Echos](https://www.lesechos.fr/tech-medias/hightech/cybersecurite-google-desactive-son-outil-de-surveillance-du-dark-web-2205726)  
+*Source : lesechos.fr | Publication : 2025-12-18*
+
+- Cybersécurité : Google désactive son outil de surveillance du dark web.
+- Alors que les fuites de données se multiplient, Google met fin à son outil.
+
+## [Analyse de l'AmCache - ANSSI](https://cyber.gouv.fr/nous-connaitre/publications/publications-scientifiques/analyse-de-lamcache/)  
+*Source : cyber.gouv.fr | Publication : 2025-12-18*
+
+- Anciens parcours de cybersécurité.
+- Offre de services.
+- Formations ... Cybersécurité des produits · Nous rejoindre · Contact · Incident.
+- Voir le fil.
+
+## [WatchGuard unifie identité, terminaux et accès dans un bundle Zero Trust prêt à déployer](https://itsocial.fr/cybersecurite/cybersecurite-actualites/watchguard-unifie-identite-terminaux-et-acces-dans-un-bundle-zero-trust-pret-a-deployer/)  
+*Source : itsocial.fr | Publication : 2025-12-18*
+
+- WatchGuard officialise un Bundle Zero Trust unifié, pensé pour lever les obstacles qui freinent l’adoption de ce modèle de sécurité dans les PME et chez les fournisseurs de services gérés.
+- En réunissant identité, terminaux, accès et corrélation XDR dans une architecture cloud unique, l’éditeur entend transformer une promesse stratégique ancienne en dispositif déployable et exploitable au quotidien.
+- Le Zero Trust ne souffre pas d’un déficit de notoriété, mais d’un excès de complexité.
+- Depuis plus de dix ans, les entreprises empilent des briques d’authentification forte, de protection des points terminaux, de contrôle d’accès et de segmentation réseau, sans parvenir à en faire un système cohérent.
 
 ## [Le Français Sopra Steria veut racheter non pas une, mais deux entreprises sur le spatial et ...](https://www.clubic.com/actualite-592039-le-francais-sopra-steria-veut-racheter-non-pas-une-mais-deux-entreprises-sur-le-spatial-et-la-cybersecurite.html)  
 *Source : clubic.com | Publication : 2025-12-17*
