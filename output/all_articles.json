@@ -1,5 +1,185 @@
 [
   {
+    "id": "c25973a27d",
+    "title": "Makop <b>ransomware</b> : GuLoader et élévation de privilèges ciblant des entreprises indiennes",
+    "link": "https://www.acronis.com/fr/tru/posts/makop-ransomware-guloader-and-privilege-escalation-in-attacks-against-indian-businesses/",
+    "source": "acronis.com",
+    "pub_date": "2025-12-19",
+    "summary": "- Auteurs : Ilia Dafchev, Darrel Virtusio Résumé Makop, une souche de ransomware dérivée de Phobos, continue d'exploiter les systèmes RDP vulnérables tout en ajoutant de nouveaux composants à sa boîte à outils traditionnelle, tels que des exploits d'élévation de privilèges locaux et des malware chargeurs.\n- - En règle générale, l'attaque débute par l'exploitation du protocole RDP, suivie de la réaffectation de scanners réseau, d'outils de déplacement latéral et d'exploits d'élévation de privilèges.\n- Elle se poursuit par le chiffrement ou s'arrête si les attaquants ne parviennent pas à contourner la solution de sécurité en place.\n- - Les attaquants utilisent un ensemble d'outils disponibles sur le marché, notamment des scanners réseau, des outils de désactivation des antivirus et de nombreux exploits d'élévation de privilèges locaux, ainsi que des noms de fichiers trompeurs pour éviter d'être détectés.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "6ea348668b",
+    "title": "Codage assisté : avec GPT-5.2 Codex, OpenAI met l'accent sur le contexte long - IT SOCIAL",
+    "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/codage-assiste-avec-gpt-5-2-codex-openai-met-laccent-sur-le-long-contexte-et-lexecution-fiable-des-taches/",
+    "source": "itsocial.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- OpenAI introduit GPT-5.2 Codex, une déclinaison spécialisée de son modèle GPT-5.2 dédiée au génie logiciel et à la cybersécurité défensive.\n- Le modèle promet une meilleure compréhension de longs contextes, une exécution plus fiable de tâches complexes et une gestion avancée d’environnements techniques réels.\n- Le déploiement débute dès maintenant pour les utilisateurs Codex, avant une ouverture via API.\n- GPT-5.2 Codex s’inscrit dans une stratégie clairement assumée d’industrialisation des usages de l’IA appliquée au développement logiciel et aux opérations techniques avancées.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "57428cd3a3",
+    "title": "Des hackers pro-russes ont tenté de mener une attaque massive contre le gouvernement belge",
+    "link": "https://www.7sur7.be/belgique/des-hackers-pro-russes-ont-tente-de-mener-une-attaque-massive-contre-le-gouvernement-belge~a87d486f/",
+    "source": "7sur7.be",
+    "pub_date": "2025-12-19",
+    "summary": "- Secutec, la société de cybersécurité qui surveille les infrastructures critiques en Belgique pour le compte du Centre belge de cybersécurité , a dressé.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "f671f1e449",
+    "title": "Vigidomaine veut démocratiser la prévention en <b>cybersécurité</b> auprès des TPE et PME",
+    "link": "https://www.lyon-entreprises.com/actualites/article/vigidomaine-veut-democratiser-la-prevention-en-cybersecurite-aupres-des-tpe-et-pme",
+    "source": "lyon-entreprises.com",
+    "pub_date": "2025-12-19",
+    "summary": "- Vigidomaine veut démocratiser la prévention en cybersécurité auprès des TPE et PME Basée à Lyon, la startup Vigidomaine développe une approche proactive de la cybersécurité destinée aux TPE et PME.\n- Spécialisée dans la surveillance des noms de domaine et des configurations critiques, l’entreprise entend rendre la prévention des risques numériques plus accessible, à l’heure où les cyberattaques se multiplient.\n- Des entreprises encore vulnérables face aux risques numériques En 2024, 5 629 violations de données ont été recensées en France, soit en moyenne 15 entités touchées par jour.\n- Contrairement à une idée répandue, les petites structures ne sont pas épargnées.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "05c349486e",
+    "title": "Le numérique français : marché à deux vitesses, reprise espérée en 2026 - LeMagIT",
+    "link": "https://www.lemagit.fr/actualites/366636660/Le-numerique-francais-marche-a-deux-vitesses-reprise-esperee-en-2026",
+    "source": "lemagit.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- mehaniq41 - stock.adobe.com Le numérique français : marché à deux vitesses, reprise espérée en 2026 Le secteur du numérique français a traversé une année 2025 compliquée, marquée par une croissance globale modeste et fragmentée.\n- Le logiciel s’envole de +8,2 %, mais les activités de services subissent une contraction historique.\n- L’année 2025 s’est déroulée dans un climat d’instabilité (politique et géopolitique), qui a freiné les investissements dans l’économie globale.\n- La performance du secteur numérique s’inscrit dans ce décor, dominé par trois angoisses stratégiques, résume Véronique Torner, la présidente de Numeum.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "a6e47cf931",
+    "title": "<b>CYBERSÉCURITÉ</b>. Attention à vos données de santé - La Nouvelle République",
+    "link": "https://www.lanouvellerepublique.fr/indre-et-loire/cybersecurite-attention-a-vos-donnees-de-sante-1766167571",
+    "source": "lanouvellerepublique.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- CYBERSÉCURITÉ.\n- Attention à vos données de santé Gloria Wanet, consultante et formatrice en cybersécurité, habite à Montlouis-sur-Loire.\n- Elle partage son savoir-faire pour mieux comprendre les enjeux de la cybersécurité.\n- Dans ce numéro, elle aborde la protection des données de santé.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "c21e667878",
+    "title": "Cyberattaque du ministère des Sports : « 3,5 millions de foyers concernés » - Sud Ouest",
+    "link": "https://www.sudouest.fr/economie/cybersecurite/3-5-millions-de-foyers-concernes-le-ministere-des-sports-vise-par-une-cyberattaque-27162580.php",
+    "source": "sudouest.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- Dans un communiqué publié ce vendredi, le ministère des Sports indique avoir été victime d’une « exfiltration de données issue de l’un de ses systèmes d’information » Une deuxième cyberattaque après celle qui a touché le ministère de l’Intérieur le 11 décembre dernier ?.\n- Dans un communiqué publié ce vendredi, le ministère des Sports indique avoir « pris connaissance d’une exfiltration de données issue de l’un de ses systèmes d’information ».",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "0ba81e21fd",
+    "title": "« Les PME viennent nous voir pour leur simplifier la vie » : Free Pro lance un EDR managé ...",
+    "link": "https://www.solutions-numeriques.com/les-pme-viennent-nous-voir-pour-leur-simplifier-la-vie-free-pro-lance-un-edr-manage-dedie-aux-pme/",
+    "source": "solutions-numeriques.com",
+    "pub_date": "2025-12-19",
+    "summary": "- Free Pro annonce une nouvelle version de son EDR managé (MDR) destinée aux PME françaises, combinant la technologie de Trend Micro et la supervision 24/7 du SOC ITrust (Paris/Toulouse).\n- L’occasion de faire le point sur la stratégie cyber du groupe iliad, la place de l’IA dans la détection et la réponse à incident, et les critères réels d’adoption côté PME.\n- Denis Laforgue (directeur stratégie et produits, Free Pro) et Jacinthe Postille (directrice marketing et communication, ITrust) répondent à nos questions.\n- SNC : En quoi cette nouvelle version de votre EDR managé s’inscrit-elle dans la montée en puissance cyber du groupe iliad ?.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "e5967ccc21",
+    "title": "Anker Prime 160W : minuscule, écran tactile, écran.... c'est le chargeur GaN USB-C le plus ...",
+    "link": "https://korben.info/anker-prime-160w-minuscule-ecran-tactile-ecran-cest-le-chargeur-gan-usb-c-le-plus-dingue-que-jai-eu-loccasion-de-tester.html",
+    "source": "korben.info",
+    "pub_date": "2025-12-19",
+    "summary": "- Anker Prime 160W : minuscule, écran tactile, écran.... c'est le chargeur GaN USB-C le plus dingue que j'ai eu l'occasion de tester En bref Un chargeur avec écran tactile qui vous espionne : Anker Prime affiche en temps réel votre consommation énergétique, mais qui d'autre regarde vos données via l'appli Bluetooth ?.\n- - Le grand bluff de la miniaturisation : 160W dans la taille d'une boîte d'AirPods, mais pourquoi personne ne parle de l'autonomie thermique réelle après 8 heures de charge continue ?.\n- - Trois chargeurs éliminés pour un seul à 100 euros : le deal parfait pour les nomades digitaux, ou l'arnaque silencieuse des accessoires \"indispensables\" qu'on regrette d'acheter ?.\n- - – Article invité, rédigé par Vincent Lautier, contient des liens affiliés Amazon – Bon vous commencez à le savoir, j’ai une passion sans nom pour les câbles et les chargeurs USB-C.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "b70383a599",
+    "title": "« 5 à 10 ans d'avance sur l'industrie », cet immense réseau-laboratoire chinois entre dans ...",
+    "link": "https://www.numerama.com/cyberguerre/2145623-5-a-10-ans-davance-sur-lindustrie-cet-immense-reseau-laboratoire-chinois-entre-dans-une-nouvelle-dimension.html",
+    "source": "numerama.com",
+    "pub_date": "2025-12-19",
+    "summary": "- Sans surprise, China Daily est dithyrambique sur les capacités du CENI.\n- Après une batterie de tests menés sur ce réseau pour certifier ses performances, le média d’État assure le 18 décembre 2025 que ce projet colossal permet de transmettre, « en seulement 1,6 heure », un volume de données qui aurait nécessité « 699 jours de transmission via l’Internet traditionnel ».\n- Ce transfert record de 72 To aurait été réalisé entre un radiotélescope sphérique situé dans la province du Guizhou, dans le sud-ouest de la Chine, et l’université des sciences et technologies de Huazhong, dans la province du Hubei, en Chine centrale, soit une distance d’environ 1 000 km.\n- Pourtant, même si le média chinois compare ce débit à celui de l’internet traditionnel que nous utilisons tous, le CENI n’a pas vocation, du moins à moyen terme, à entrer en concurrence avec ce dernier, mais plutôt à marcher dans les pas d’autres réseaux d’expérimentation comme ARPANET ou GENI avant lui.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "6f377cd364",
+    "title": "Des hackers menacent de divulguer les données personnelles d'utilisateurs du service ...",
+    "link": "https://www.ouest-france.fr/societe/cyberattaque/des-hackers-menacent-de-divulguer-les-donnees-personnelles-dutilisateurs-du-service-premium-de-pornhub-2f32ba0e-dcf2-11f0-b79a-b8d473b922b8",
+    "source": "ouest-france.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- L'entreprise évoque, quant à elle, une faille liée à un prestataire externe et appelle ses abonnés à la vigilance.\n- Dans.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "b6d5afa32b",
+    "title": "«Attention à l'exploitation émotionnelle» : Loup d'Intermarché, Noël... Les faux sites se ...",
+    "link": "https://www.cnews.fr/vie-numerique/2025-12-19/attention-lexploitation-emotionnelle-loup-dintermarche-noel-les-faux-sites",
+    "source": "cnews.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- cybersécurité , ce 19 décembre.\n- Des sites plutôt convaincants.\n- La supercherie fonctionne bien car les sites sont plutôt convaincants, construits sur.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "bc1ed43d9e",
+    "title": "Madagascar élabore une feuille de route nationale en matière de <b>cybersécurité</b>",
+    "link": "https://www.agenceecofin.com/actualites-numerique/1912-134478-madagascar-elabore-une-feuille-de-route-nationale-en-matiere-de-cybersecurite",
+    "source": "agenceecofin.com",
+    "pub_date": "2025-12-19",
+    "summary": "- (Agence Ecofin) - Madagascar poursuit la structuration de son dispositif de cybersécurité engagé en 2023 avec la création d’une instance nationale.\n- Les autorités s’attachent aujourd’hui à définir un cadre juridique visant à renforcer la protection des systèmes d’information et des données.\n- Madagascar a officiellement enclenché la semaine dernière le processus d’élaboration de sa stratégie nationale de cybersécurité à l’issue d’un atelier de lancement organisé à Antananarivo, réunissant autorités publiques, experts du numérique et partenaires techniques.\n- Cette rencontre marque une étape structurante dans la volonté du pays de se doter d’un cadre cohérent pour sécuriser son espace numérique, alors que les usages digitaux progressent rapidement dans l’administration, les services financiers et l’économie.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "b3a5374a12",
+    "title": "Région Sud en action ! : La <b>cybersécurité</b> - BFM",
+    "link": "https://www.bfmtv.com/marseille/replay-emissions/bfm-marseille-dans-les-territoires/video-region-sud-en-action-la-cybersecurite_VN-202512190748.html",
+    "source": "bfmtv.com",
+    "pub_date": "2025-12-19",
+    "summary": "- Région Sud en action !.\n- : La cybersécurité Pour aider les petites entreprises et les collectivités à faire face à la montée des cyberattaques, la Région Sud a mis en place un dispositif unique : la Cellule Urgence Cyber Région Sud.\n- Accessible gratuitement 24h/24 et 7j/7, cette cellule permet à tout organisme victime d’une attaque informatique d’être immédiatement mis en relation avec des experts capables d’intervenir, de diagnostiquer la situation et d’accompagner la reprise d’activité.\n- Depuis 2020, la Région Sud déploie une stratégie ambitieuse en matière de cybersécurité grâce au programme Move2Digital, dont l’objectif est de renforcer la capacité opérationnelle du territoire face aux nouvelles menaces numériques.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "64bb024572",
+    "title": "Le ministère des Sports cyberattaqué à son tour, les données de plus de 3 millions de foyers ...",
+    "link": "https://actu.orange.fr/france/le-ministere-des-sports-cyberattaque-a-son-tour-les-donnees-de-plus-de-3-millions-de-foyers-concernees-magic-CNT000002mgz3P.html",
+    "source": "actu.orange.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- Le ministère des Sports cyberattaqué à son tour, les données de plus de 3 millions de foyers concernées © Unsplash - Image d'illustration de cybercriminalité.\n- Le ministère des Sports, de la Jeunesse et de la Vie associative a annoncé, vendredi 19 décembre, avoir été visé par une cyberattaque.\n- 3,5 millions de foyers pourraient être concernés.\n- Après le ministère de l’Intérieur, le ministère des Sports, de la Jeunesse et de la Vie associative a confirmé, par un communiqué consulté par plusieurs médias dont BFMTV vendredi 19 décembre, avoir été la cible d’une cyberattaque.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "9edea5eff7",
+    "title": "La gestion des patchs : d'une routine administrative à un impératif stratégique - JDN",
+    "link": "https://www.journaldunet.com/cybersecurite/1546873-la-gestion-des-patchs-d-une-routine-administrative-a-un-imperatif-strategique/",
+    "source": "journaldunet.com",
+    "pub_date": "2025-12-19",
+    "summary": "- La gestion des patchs : d'une routine administrative à un impératif stratégique Avec une stratégie d'automatisation efficace, la gestion des patchs devient un levier essentiel pour renforcer la sécurité et la résilience face aux cybermenaces.\n- Autrefois considérée comme une simple opération de maintenance, la gestion des patchs constitue aujourd’hui une ligne de défense cruciale contre les cybermenaces.\n- Pourtant, de nombreuses organisations continuent de la négliger ou de la mettre en œuvre de manière inadaptée, s’exposant ainsi à des risques considérables.\n- De façon très simple, la gestion des patchs consiste à distribuer et appliquer des mises à jour sur les logiciels, systèmes d’exploitation, applications et équipements réseau afin de corriger les vulnérabilités.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "aab889c394",
+    "title": "Cyberattaque: le ministère des Sports, de la Jeunesse et de la Vie associative annonce être ... - BFM",
+    "link": "https://www.bfmtv.com/tech/cybersecurite/cyberattaque-le-ministere-des-sports-de-la-jeunesse-et-de-la-vie-associative-annonce-etre-victime-d-une-exfiltration-de-donnees-3-5-millions-de-foyers-concernes_AN-202512190595.html",
+    "source": "bfmtv.com",
+    "pub_date": "2025-12-19",
+    "summary": "- Cyberattaque: le ministère des Sports, de la Jeunesse et de la Vie associative annonce être victime d'\"une exfiltration de données\", \"3,5 millions de foyers concernés\" Sale temps pour la cybersécurité française, sale année, même.\n- Après le ministère de l'Intérieur, celui des Sports, de la Jeunesse et de la Vie associative vient de confirmer avoir été attaqué.\n- Dans un communiqué, il indique avoir \"pris connaissance d’une exfiltration de données\", issue de l’un de ses systèmes d’information.\n- Le ministère précise par ailleurs que \"dès la détection de l’incident, les équipes techniques spécialisées du ministère ont été mobilisées afin de vérifier la nature et l’ampleur des données concernées, et de mettre en œuvre les mesures de sécurité adaptées pour faire cesser toute fuite de données\".",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "ec43519f37",
+    "title": "La résilience se joue aussi là où travaillent les salariés distants, loin du SI - IT SOCIAL",
+    "link": "https://itsocial.fr/cybersecurite/cybersecurite-articles/la-resilience-se-joue-aussi-la-ou-travaillent-les-salaries-distants-souvent-loin-du-si/",
+    "source": "itsocial.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- La généralisation du travail à distance a déplacé une partie de la sécurité informatique hors des murs de l’entreprise.\n- L’utilisateur télétravailleur est désormais un maillon essentiel de la continuité opérationnelle et, par son exposition plus directe, un point d’entrée convoité par les cybercriminels.\n- Les analyses publiées par NordVPN pour 2026 éclairent cette fragilité humaine et technique pour la résilience des organisations.\n- La généralisation du travail à distance a déplacé une partie critique de la sécurité informatique hors des murs de l’entreprise.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "148b4b9bca",
+    "title": "Cyberattaques en pagaille : pourquoi ça fuite de partout en ce moment ? - Le Parisien",
+    "link": "https://www.leparisien.fr/high-tech/cyberattaques-en-pagaille-pourquoi-ca-fuite-de-partout-en-ce-moment-18-12-2025-DRQPRBNKQNAGNBIPB7DOPM4A2U.php",
+    "source": "leparisien.fr",
+    "pub_date": "2025-12-19",
+    "summary": "- Cyberattaques en pagaille : pourquoi ça fuite de partout en ce moment ?.\n- Ces dernières semaines les cyberattaques visant les entreprises et organismes ont augmenté sur le territoire français, provoquant parfois la mise en ligne d’informations personnelles de clients.\n- Leroy Merlin, SFR… Les fuites de données n’en finissent plus.\n- Le dernier en date concernerait des millions de bénéficiaires de la CAF — bien que la CAF a dit n’avoir constaté « aucune intrusion ni faille » dans ses systèmes.",
+    "added_on": "2025-12-19"
+  },
+  {
+    "id": "aca18ba3b1",
+    "title": "À Redu, l'ESA se dote d'un bunker pour ses activités de <b>cybersécurité</b> spatiale - TV Lux",
+    "link": "https://www.tvlux.be/actu/info/economie/a-redu-l-esa-se-dote-d-un-bunker-pour-ses-activites-de-cybersecurite-spatiale_50378",
+    "source": "tvlux.be",
+    "pub_date": "2025-12-19",
+    "summary": "- Le Centre européen de sécurité et d’éducation spatiale (ESEC) de l'Agence Spatiale Européenne s'apprête à intégrer le bunker-cocon qui a spécialement été conçu pour abriter ses opérations de surveillance en matière de cybersécurité spatiale depuis Redu (Libin).\n- Il aura fallu 18 mois à l’ESEC, le Centre européen de sécurité et d’éducation spatiale, basé à Redu pour construire ce bunker qui va abriter ses opérations sensibles en matière de cybersécurité spatiale.\n- Cet espace, véritable cage de Faraday, est isolé du monde pour mieux le surveiller.\n- Voici le saint des saints : une chambre d’opérations avec un écran où seront figurées en temps réel les attaques recensées sur les différents systèmes informatiques.",
+    "added_on": "2025-12-19"
+  },
+  {
     "id": "cf82a9a47b",
     "title": "Cyberattaque au ministère de l'Intérieur : une attaque revendiquée, un suspect interpellé ...",
     "link": "https://www.sudouest.fr/economie/cybersecurite/cyberattaque-au-ministere-de-l-interieur-une-attaque-revendiquee-un-suspect-interpelle-ce-que-l-on-sait-27145938.php",
