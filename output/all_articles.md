@@ -1,5 +1,159 @@
-# Résumés – 2025-12-19
+# Résumés – 2025-12-20
 
+
+## [Cyberattaque au ministère de l'Intérieur : le suspect mis en examen et placé en détention provisoire](https://www.liberation.fr/societe/police-justice/cyberattaque-au-ministere-de-linterieur-le-suspect-mis-en-examen-et-place-en-detention-provisoire-20251220_IDZBR6JK5BF5LDAQAHL2DQMLLE/)  
+*Source : liberation.fr | Publication : 2025-12-20*
+
+- CybercriminalitéCybersécurité Ministère de l'IntérieurLaurent Nuñez.
+- Dans la même rubrique.
+- Justice · Cyberattaque au ministère de l'Intérieur : le.
+
+## [<b>Cybersécurité</b> et mécanismes de surveillance : la « clé » pour garantir la sécurité du marché ...](https://www.vietnam.vn/fr/an-ninh-mang-va-co-che-giam-sat-chia-khoa-van-hanh-thi-truong-tai-san-so-an-toan)  
+*Source : vietnam.vn | Publication : 2025-12-20*
+
+- La scène au séminaire.
+- Le 18 décembre 2025, à Hanoï , l'Association nationale de cybersécurité (NCA), la Commission d'État des valeurs mobilières (SSC) et la Télévision vietnamienne (VTV) ont organisé conjointement un séminaire approfondi sur le thème « Exploitation et surveillance du marché des actifs numériques ».
+- Cet événement s'est déroulé dans le contexte de la récente publication par le gouvernement de la résolution n° 05/2025/NQ-CP relative à la mise en œuvre pilote du marché des cryptomonnaies pour une période de cinq ans.
+- La publication de cette résolution est considérée comme une étape cruciale, ouvrant la voie à un cadre de test contrôlé (bac à sable) pour le marché des actifs numériques au Vietnam.
+
+## [<b>Cybersécurité</b>: ne baissez pas trop la garde pendant le congé des Fêtes - Les Affaires](https://www.lesaffaires.com/dossiers/transformation-numerique-2025/cybersecurite-ne-baissez-pas-trop-la-garde-pendant-le-conge-des-fetes/)  
+*Source : lesaffaires.com | Publication : 2025-12-20*
+
+- CybersÃ©curitÃ©: ne baissez pas trop la garde pendant le congÃ© des FÃªtes Les idÃ©es des Affaires|PubliÃ© il y a 30 minutes | Mis Ã jour il y a 29 minutesVaneck Duclair (Photo: courtoisie) Un texte de Vaneck Duclair, chercheur expert en gouvernance de la cybersÃ©curitÃ© LES IDÃES DES AFFAIRES.
+- Pendant que les Ã©quipes ralentissent, que les conseils dâadministration ajournent leurs travaux et que les dirigeants profitent â Ã juste titre â dâun moment de rÃ©pit, un autre calendrier, lui, ne prend pas congÃ©Â : celui des cyberattaques.
+- Chaque annÃ©e, la pÃ©riode des FÃªtes devient un terrain de jeu privilÃ©giÃ© pour les acteurs malveillants.
+- Non pas parce que les technologies sont plus vulnÃ©rables en dÃ©cembre, mais parce que les organisations le sont.
+
+## [Cyberattaque massive contre la CAF : des millions de données personnelles compromises](https://lenergeek.com/2025/12/20/cyberattaque-massive-contre-la-caf-des-millions-de-donnees-personnelles-compromises/)  
+*Source : lenergeek.com | Publication : 2025-12-20*
+
+- Un grave épisode de cybersécurité secoue la France.
+- Durant la nuit du 17 au 18 décembre, un fichier volumineux contenant des millions de données personnelles a été publié sur un forum criminel en ligne, BreachForums.
+- Ce type d’attaque n’est pas sans précédent, mais l’ampleur de la fuite la rend particulièrement préoccupante.
+- Avec un fichier de 15 Go comprenant 22 445 764 entrées, ce piratage est qualifié par le site Les Numériques d’« événement d’une gravité sans précédent ».
+
+## [Voici les 7 arnaques majeures de Noël qui ciblent les Français - 01net.com](https://www.01net.com/actualites/gare-8-arnaques-noel-ciblent-francais.html)  
+*Source : 01net.com | Publication : 2025-12-20*
+
+- La période des fêtes de Noël est le moment de l’année préféré des cybercriminels.
+- Alors que les internautes préparent paisiblement leurs réveillons et recherchent leurs cadeaux, ils multiplient les arnaques.
+- Une étude de Norton montre que les arnaques en ligne grimpent de plus de 50 % au début de la saison des achats de Noël.
+- Les chercheurs de Tehtris soulignent même que la période des fêtes de fin d’année représente environ un quart des escroqueries commises en l’espace d’une année.
+
+## [IA : arme de déstabilisation massive ? - La question qui fâche - France 24](https://www.france24.com/fr/émissions/la-question-qui-fâche/20251219-ia-arme-de-déstabilisation-massive)  
+*Source : france24.com | Publication : 2025-12-20*
+
+- IA : arme de déstabilisation massive ?.
+- Pour afficher ce contenu YouTube, il est nécessaire d'autoriser les cookies de mesure d'audience et de publicité.
+- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
+
+## [TikTok sous surveillance : Un influenceur arrêté par la <b>Cybercriminalité</b> pour... - Senenews](https://www.senenews.com/actualites/tiktok-sous-surveillance-un-influenceur-arrete-par-la-cybercriminalite-pour_569841.html)  
+*Source : senenews.com | Publication : 2025-12-20*
+
+- TikTok sous surveillance : Un influenceur arrêté par la Cybercriminalité pour… La Division spéciale de cybersécurité (DSC) a procédé à l’interpellation de Cheikh Ahmadou Sakho, 21 ans, connu sur TikTok sous un pseudonyme jugé provocateur.
+- Se présentant comme boulanger, le jeune homme a été arrêté puis déféré ce vendredi pour outrage public à la pudeur, diffusion de contenus contraires aux bonnes mœurs et racolage actif sur les réseaux sociaux.
+- Selon le journal Libération, l’affaire s’inscrit dans le cadre de la veille permanente menée par la DSC sur les plateformes numériques.
+- Les enquêteurs ont repéré un compte TikTok très suivi, animé par des diffusions en direct nocturnes au contenu jugé obscène.
+
+## [Technologies : le grand tournant 2025-2026 - Finances News Hebdo](https://fnh.ma/article/alaune/tech-2025-2026)  
+*Source : fnh.ma | Publication : 2025-12-20*
+
+- L’année 2025 n’a pas produit qu’une rupture spectaculaire.
+- Elle a fait mieux, en installant durablement la technologie au cœur du fonctionnement économique mondial.
+- Réseaux, cloud, données, cybersécurité, semi-conducteurs et intelligence artificielle ont cessé d’évoluer en silos.
+- Ensemble, ils ont formé un système.
+
+## [Belgique : des cyberattaques pro-russes ont visé des institutions gouvernementales avant ...](https://www.aa.com.tr/fr/monde/belgique-des-cyberattaques-pro-russes-ont-visé-des-institutions-gouvernementales-avant-un-sommet-de-l-ue/3776369)  
+*Source : aa.com.tr | Publication : 2025-12-20*
+
+- Sélection du rédacteur France : la Cnil sanctionne des candidats pour des manquements sur la protection des données lors des élections de 2024 Des centaines de milliers de personnes assistent aux funérailles de Hadi, figure populaire du soulèvement au Bangladesh France : les agriculteurs maintiennent la pression et poursuivent les blocages malgré les appels à une « trêve de Noël » ❝ La Türkiye est un partenaire d’avenir ❞, affirme Malik Ben Achour, appelant à une Europe plus autonome en matière de défense et à une coopération renforcée avec Ankara, notamment à travers des investissements conjoints Evenements Marquants La Suisse approuve un mandat de négociation pour rejoindre le mécanisme de solidarité migratoire de l'Union européenne France : les discriminations fondées sur la religion s’ancrent dans le quotidien Paris : des librairies dénoncent une censure politique pour avoir mis en avant des livres sur la Palestine Est de la RDC : Un accord sous l’égide des États-Unis peut-il vraiment apporter une paix durable ?.
+- (Analyse).
+
+## [Cyberattaques : pourquoi la menace pèse avant tout sur les citoyens - JDD](https://www.lejdd.fr/Societe/cyberattaques-pourquoi-la-menace-pese-avant-tout-sur-les-citoyens-165171)  
+*Source : lejdd.fr | Publication : 2025-12-20*
+
+- Cyberattaques : pourquoi la menace pèse avant tout sur les citoyens DÉCRYPTAGE.
+- Le ministère de l’Intérieur, celui des Sport.
+- En quelques jours, l'Hexagone a subi deux cyberattaques d'ampleur, causant une fuite de milliers de données.
+- Si les institutions sont ciblées, ce sont avant tout les Français qui en subissent les conséquences.
+
+## [« Ghost Pairing » : voici les 5 étapes qui permettent aux hackers de voler des comptes ...](https://www.numerama.com/cyberguerre/2146251-ghost-pairing-voici-les-5-etapes-qui-permettent-aux-hackers-de-voler-des-comptes-whatsapp.html)  
+*Source : numerama.com | Publication : 2025-12-20*
+
+- Vous êtes-vous déjà demandé ce qui se serait passé si vous n’aviez pas repéré de loin cette tentative de phishing relativement grossière ?.
+- Il est parfois difficile de visualiser concrètement comment une cyberattaque provoque ses dégâts.
+- Les intrusions de longue haleine ou l’exploitation de vulnérabilités sur des périphériques oubliés impressionnent par leur sophistication, mais n’ont pas toujours le même impact sur nos comportements que la campagne mise en lumière à la mi-décembre 2025 par les équipes de Gen.
+- Ici, pas de malware à infiltrer, pas de mots de passe à déchiffrer : tout repose sur de l’ingénierie sociale, un lien de phishing et le détournement d’une fonctionnalité parfaitement légitime de WhatsApp.
+
+## [Anthropic lance une norme de compétences pour ses agents, poursuivant ainsi sa stratégie ...](https://www.unite.ai/fr/anthropic-opens-agent-skills-standard-continuing-its-pattern-of-building-industry-infrastructure/)  
+*Source : unite.ai | Publication : 2025-12-20*
+
+- Outils Anthropic lance une norme de compétences pour ses agents, poursuivant ainsi sa stratégie de développement des infrastructures du secteur.
+- Anthropic a publié Agent Skills en tant que norme ouverte le 18 décembre, rendant ainsi disponible spécification et SDK at agentskills.io que toute plateforme d'IA puisse adopter.
+- Cette initiative s'inscrit dans la stratégie d'Anthropic, qui consiste à développer une infrastructure sectorielle plutôt que des barrières à l'entrée propriétaires — la même approche qui a permis au protocole MCP (Model Context Protocol) de s'imposer.
+- Microsoft, OpenAI, Atlassian, Figma, Cursor et GitHub ont déjà adopté cette norme.
+
+## [MiniMed, l'activité diabète de Medtronic, dépose une demande d'introduction en bourse aux ...](https://fr.tradingview.com/news/reuters.com,2025:newsml_L8N3XP1PQ:0/)  
+*Source : fr.tradingview.com | Publication : 2025-12-20*
+
+- MiniMed, l'activité diabète de Medtronic, dépose une demande d'introduction en bourse aux États-Unis par Arasu Kannagi Basil Le groupe MiniMed de Medtronic MDT a déposé une demande d'introduction en bourse aux Etats-Unis vendredi, alors que le fabricant d'appareils médicaux va de l'avant avec la scission de ses activités liées au diabète.
+- Alors que les marchés de capitaux devraient connaître un ralentissement jusqu'aux fêtes de fin d'année, les sociétés émettrices préparent le terrain en vue d'un lancement potentiel au début de l'année 2026, lorsque le marché des introductions en bourse reprendra de l'activité.
+- Le distributeur de carburant ARKO Petroleum et le développeur de médicaments Aktis Oncology ont également déposé publiquement des documents en vue d'une introduction en bourse à New York vendredi.
+- Les introductions en bourse cotées aux États-Unis ont levé 75,3 milliards de dollars au 17 décembre, ce qui représente la plus grosse collecte annuelle depuis 2021, selon les données de Dealogic.
+
+## [Arnaque au flagrant délit : comment de faux policiers piègent les Français - 01net.com](https://www.01net.com/actualites/arnaque-flagrant-delit-comment-faux-policiers-piegent-francais.html)  
+*Source : 01net.com | Publication : 2025-12-20*
+
+- La Gendarmerie nationale tire la sonnette d’alarme au sujet d’une recrudescence de l’arnaque au flagrant délit.
+- Dans le cadre de cette escroquerie, de faux policiers vont entrer en contact avec la cible pour l’informer qu’un « fraudeur est en train d’utiliser » ses cartes bancaires.
+- Pour endormir la méfiance de la victime, les escrocs se font passer pour « un représentant des forces de l’ordre », comme la gendarmerie, la police ou un commissaire de justice.
+- Ils vont ainsi mettre la pression sur l’interlocuteur en affirmant qu’un voleur est en train de siphonner le compte.
+
+## [Le Campus Cyber et Sopra Steria se lient contre la manipulation de l'information](https://www.linformaticien.com/magazine/cybersecurite/64285-le-campus-cyber-et-sopra-steria-se-lient-contre-la-manipulation-de-l-information.html)  
+*Source : linformaticien.com | Publication : 2025-12-20*
+
+- Cette démarche vise à étudier la création, au sein du Campus Cyber, d'un espace dédié à la Lutte contre les Manipulations de l'Information (LMI),.
+
+## [Thales et Google Cloud décrochent le sésame du cloud souverain français - Le Revenu](https://www.lerevenu.com/reussir-bourse/avis-des-pros/thales-google-premier-cloud-souverain-certifie-en-france/)  
+*Source : lerevenu.com | Publication : 2025-12-20*
+
+- Chaque jour, du lundi au samedi, recevez le plus punchy et pertinent de l’info des marchés.
+- Leur coentreprise S3NS vient d'obtenir la certification SecNumCloud 3.2, le graal de la cybersécurité hexagonale.
+- Une première pour une alliance franco-américaine qui pourrait changer la donne.
+- Le 18 décembre 2025 marque un tournant pour la souveraineté numérique française.
+
+## [IA et <b>cybercriminalité</b>: ESET alerte sur l'explosion des menaces - Leconomiste Maghrebin](https://www.leconomistemaghrebin.com/2025/12/19/ia-et-cybercriminalite-eset-alerte-sur-lexplosion-des-menaces/)  
+*Source : leconomistemaghrebin.com | Publication : 2025-12-20*
+
+- L’IA passe du génie à la escroqueries rusées, qui l’aurait cru!.
+- En effet selon le dernier rapport de ESET Recherche en date du du 18 décembre 2025, les ransomwares se codent tout seuls et les escrocs deepfakes vous ruinent en un clic.
+- Au second semestre 2025, les cybermenaces font un bond dans l’ère de l’IA, avec des applications bien concrètes.
+- ESET a détecté PromptLock, pionnier des ransomwares boostés à l’IA qui génèrent automatiquement des scripts malveillants.
+
+## [Le « monsieur sécurité » d'IBM revient sur ses prévisions pour 2024](https://www.ibm.com/fr-fr/think/news/jeff-crume-cybersecurity-predictions)  
+*Source : ibm.com | Publication : 2025-12-20*
+
+- En décembre dernier, Jeff Crume, ingénieur émérite chez IBM, affectueusement surnommé « le monsieur sécurité » sur YouTube, a partagé ses prévisions concernant les tendances en matière de cybersécurité pour 2024.
+- Qu’en est-il aujourd’hui ?.
+- Nous avons contacté J. Crume pour revenir sur ses prévisions et discuter de la manière dont l’IA contribue, et dans certains cas nuit, à la cybersécurité.
+- J. Crume : Oui, j’ai vu de plus en plus de sites proposer des clés d’accès comme alternative.
+
+## [Cryptomonnaies : la Corée du Nord bat un triste record - L'Essentiel de l'Éco](https://lessentieldeleco.fr/4905-cryptomonnaies-la-coree-du-nord-bat-un-triste-record/)  
+*Source : lessentieldeleco.fr | Publication : 2025-12-20*
+
+- Afficher le sommaire Masquer le sommaire En 2025, la Corée du Nord a volé pour 2 milliards de dollars en cryptomonnaies.
+- C’est le chiffre avancé par Chainalysis, société spécialisée dans l’analyse de transactions blockchain.
+- Le montant représente une progression nette par rapport à 2024, où les vols attribués à des groupes nord-coréens atteignaient déjà 1,34 milliard de dollars.
+- Cette envolée marque une année record pour le pays, malgré un nombre réduit d’incidents recensés.
+
+## [Les nouvelles du marché du vendredi 19 décembre - Les Affaires](https://www.lesaffaires.com/bourse/revue-des-marches/les-nouvelles-du-marche-du-vendredi-19-decembre-2025/)  
+*Source : lesaffaires.com | Publication : 2025-12-20*
+
+- Les nouvelles du marchÃ© du vendredi 19 dÃ©cembre Refinitiv|PubliÃ© Ã 8h36(Illustration: Camille Charbonneau) LâESSENTIEL DE LâACTUALITÃ â¢ ByteDance de Chine accepte un accord pour cÃ©der le contrÃ´le de l’application TikTok amÃ©ricaine Ã une nouvelle co-entreprise.
+- Le propriÃ©taire chinois de TikTok, ByteDance, a signÃ© jeudi des accords contraignants pour cÃ©der le contrÃ´le des opÃ©rations amÃ©ricaines de l’application de vidÃ©os courtes Ã un groupe d’investisseurs, incluant Oracle, dans une Ã©tape importante pour Ã©viter une interdiction amÃ©ricaine et mettre fin Ã des annÃ©es d’incertitude.Â â¢ EXCLUSIF-Les Ãtats-Unis lancent un examen des ventes de puces d’IA avancÃ©es de Nvidia Ã la Chine, selon des sources.
+- L’administration du prÃ©sident amÃ©ricain Donald Trump a lancÃ© un examen qui pourrait aboutir aux premiers envois vers la Chine des deuxiÃ¨mes puces d’IA les plus puissantes de Nvidia, ont dÃ©clarÃ© cinq sources, concrÃ©tisant sa promesse d’autoriser ces ventes controversÃ©es.Â â¢ BlackBerry relÃ¨ve la borne infÃ©rieure de ses prÃ©visions de chiffre d’affaires annuel grÃ¢ce Ã la demande en cybersÃ©curitÃ©.
+- BlackBerry a relevÃ© jeudi la borne infÃ©rieure de ses prÃ©visions de chiffre d’affaires pour l’exercice 2026, signalant une forte demande pour ses logiciels de cybersÃ©curitÃ© alors que les entreprises augmentent leurs dÃ©penses pour contrer des cyberattaques de plus en plus sophistiquÃ©es.Â â¢ Les avions MD-11 clouÃ©s au sol pourraient coÃ»ter 175 millions de dollars amÃ©ricains ($US) Ã FedEx en haute saison, pesant sur le rÃ©sultat Ã court terme.
 
 ## [Makop <b>ransomware</b> : GuLoader et élévation de privilèges ciblant des entreprises indiennes](https://www.acronis.com/fr/tru/posts/makop-ransomware-guloader-and-privilege-escalation-in-attacks-against-indian-businesses/)  
 *Source : acronis.com | Publication : 2025-12-19*
