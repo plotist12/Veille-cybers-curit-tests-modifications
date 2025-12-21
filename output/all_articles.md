@@ -1,5 +1,155 @@
-# Résumés – 2025-12-20
+# Résumés – 2025-12-21
 
+
+## [Vantage Markets récompensée pour son innovation en <b>cybersécurité</b> par Trend Micro](https://www.webdisclosure.com/article/vantage-etr-vantage-markets-recompensee-pour-son-innovation-en-cybersecurite-par-trend-micro-AgHYdQ3cfly)  
+*Source : webdisclosure.com | Publication : 2025-12-21*
+
+- on Vantage Vantage Markets récompensée pour son innovation en cybersécurité par Trend Micro Vantage Markets a reçu le prix du partenariat d'innovation de Trend Micro Incorporated.
+- Cette distinction souligne la collaboration stratégique de Vantage Markets avec ce leader mondial de la cybersécurité, visant à renforcer sa cyber-résilience.
+- Le prix met en avant le partage d'informations en temps réel et le déploiement de solutions de sécurité avancées au sein de Vantage Markets, une plateforme de trading de premier plan basée en Australie.
+- Depuis le début de leur partenariat en 2021, Vantage Markets a renforcé ses capacités de sécurité en tirant parti des technologies de Trend Micro pour une fonction de sécurité globale.
+
+## [Cyberviolence : protéger sans interdire, le Maroc table sur la «majorité numérique graduée](https://lematin.ma/nation/cyberviolence-le-maroc-table-sur-la-majorite-numerique-graduee/320326)  
+*Source : lematin.ma | Publication : 2025-12-21*
+
+- Les chiffres donnent le vertige.
+- Sur les 7,5 millions de mineurs âgés de 6 à 17 ans que compte le Maroc, environ 2,1 millions utilisent potentiellement des plateformes comme Roblox, Fortnite ou Free Fire.
+- Parmi eux, 1,85 million évoluent dans ces univers virtuels sans la moindre supervision parentale effective.
+- Pendant ce temps, la cybercriminalité explose : 765 affaires en 2017, 8.333 en 2024.
+
+## [ShinyHunters menace Pornhub : chantage aux clients premium - ZATAZ](https://www.zataz.com/shinyhunters-menace-pornhub-chantage-aux-clients-premium/)  
+*Source : zataz.com | Publication : 2025-12-21*
+
+- ShinyHunters menace Pornhub : chantage aux clients premium ShinyHunters affirme détenir des données de clients premium de Pornhub et exige une rançon en bitcoin.
+- L’affaire relance la question des fuites sensibles, entre preuve d’accès et pression psychologique.
+- Le groupe ShinyHunters menace de publier des données attribuées à d’anciens clients premium, payants, de Pornhub si le site ne paie pas une rançon en bitcoin.
+- Les pirates disent avoir volé ces informations et promettent de les effacer en échange du paiement, selon des propos rapportés par Reuters.
+
+## [L'Éthiopie numérique 2030 a pour objectif de renforcer les capacités technologiques du pays](https://www.ena.et/web/fre/w/fre_7971900)  
+*Source : ena.et | Publication : 2025-12-21*
+
+- L’Éthiopie numérique 2030 a pour objectif de renforcer les capacités technologiques du pays : Hauts responsables.
+- - ENA Français L’Éthiopie numérique 2030 a pour objectif de renforcer les capacités technologiques du pays : Hauts responsables.
+- Addis-Abeba, le 21 décembre 2025 (ENA) : - De hauts fonctionnaires gouvernementaux ont noté que la stratégie Éthiopie numérique 2030 devrait stimuler la transformation économique en hissant le pays à un niveau de capacités technologiques supérieur.
+- Le Premier ministre Abiy Ahmed a officiellement lancé la stratégie Éthiopie numérique 2030, soulignant qu'elle s'appuyait sur les enseignements et les réussites des cinq dernières années.
+
+## [CAN Maroc 2025 : programme, calendrier, classements et résultats](https://www.infomagazine.ma/sport/can-maroc-2025-programme-calendrier-classements-et-resultats-13429-2025/)  
+*Source : infomagazine.ma | Publication : 2025-12-21*
+
+- La Coupe d’Afrique des nations 2025 se déroule du 21 décembre 2025 au 18 janvier 2026 au Maroc.
+- Cette 35e édition réunit 24 sélections africaines, réparties en six groupes lors de la phase de poules.
+- Suivre la CAN 2025 : calendrier, résultats et classement en direct sur InfoMagazine, avec des mises à jour en continu, les horaires des matchs, les scores en temps réel et l’évolution des groupes tout au long du tournoi.
+- Phase de groupes – Programme des matchs Groupe A Dimanche 21 décembre – 20h : 🇲🇦 Maroc vs 🇰🇲 Comores - Lundi 22 décembre – 15h : 🇲🇱 Mali vs 🇿🇲 Zambie - Vendredi 26 décembre – 21h : 🇲🇦 Maroc vs 🇲🇱 Mali - Vendredi 26 décembre – 18h30 : 🇿🇲 Zambie vs 🇰🇲 Comores - Lundi 29 décembre – 20h : 🇲🇦 Maroc vs 🇿🇲 Zambie - Lundi 29 décembre – 20h : 🇰🇲 Comores vs 🇲🇱 Mali - Groupe B Lundi 22 décembre – 18h : 🇿🇦 Afrique du Sud vs 🇦🇴 Angola - Lundi 22 décembre – 21h : 🇪🇬 Égypte vs 🇿🇼 Zimbabwe - Vendredi 26 décembre – 13h30 : 🇦🇴 Angola vs 🇿🇼 Zimbabwe - Vendredi 26 décembre – 16h : 🇪🇬 Égypte vs 🇿🇦 Afrique du Sud - Lundi 29 décembre – 17h : 🇪🇬 Égypte vs 🇦🇴 Angola - Lundi 29 décembre – 17h : 🇿🇼 Zimbabwe vs 🇿🇦 Afrique du Sud - Groupe C Mardi 23 décembre – 18h30 : 🇳🇬 Nigeria vs 🇹🇿 Tanzanie - Mardi 23 décembre – 21h : 🇹🇳 Tunisie vs 🇺🇬 Ouganda - Samedi 27 décembre – 18h30 : 🇺🇬 Ouganda vs 🇹🇿 Tanzanie - Samedi 27 décembre – 21h : 🇳🇬 Nigeria vs 🇹🇳 Tunisie - Mardi 30 décembre – 17h : 🇳🇬 Nigeria vs 🇺🇬 Ouganda - Mardi 30 décembre – 17h : 🇹🇿 Tanzanie vs 🇹🇳 Tunisie - Groupe D Mardi 23 décembre – 13h30 : 🇨🇩 RDC vs 🇧🇯 Bénin - Mardi 23 décembre – 16h : 🇸🇳 Sénégal vs 🇧🇼 Botswana - Samedi 27 décembre – 13h30 : 🇧🇯 Bénin vs 🇧🇼 Botswana - Samedi 27 décembre – 16h : 🇨🇩 RDC vs 🇸🇳 Sénégal - Mardi 30 décembre – 20h : 🇧🇼 Botswana vs 🇨🇩 RDC - Mardi 30 décembre – 20h : 🇧🇯 Bénin vs 🇸🇳 Sénégal - Groupe E Mercredi 24 décembre – 13h30 : 🇧🇫 Burkina Faso vs 🇬🇶 Guinée équatoriale - Mercredi 24 décembre – 16h : 🇩🇿 Algérie vs 🇸🇩 Soudan - Dimanche 28 décembre – 16h : 🇬🇶 Guinée équatoriale vs 🇸🇩 Soudan - Dimanche 28 décembre – 18h30 : 🇩🇿 Algérie vs 🇧🇫 Burkina Faso - Mercredi 31 décembre – 17h : 🇬🇶 Guinée équatoriale vs 🇩🇿 Algérie - Mercredi 31 décembre – 17h : 🇧🇫 Burkina Faso vs 🇸🇩 Soudan - Groupe F Mercredi 24 décembre – 18h30 : 🇨🇮 Côte d’Ivoire vs 🇲🇿 Mozambique - Mercredi 24 décembre – 21h : 🇨🇲 Cameroun vs 🇬🇦 Gabon - Dimanche 28 décembre – 13h30 : 🇬🇦 Gabon vs 🇲🇿 Mozambique - Dimanche 28 décembre – 21h : 🇨🇲 Cameroun vs 🇨🇮 Côte d’Ivoire - Mercredi 31 décembre – 20h : 🇨🇲 Cameroun vs 🇲🇿 Mozambique - Mercredi 31 décembre – 20h : 🇨🇮 Côte d’Ivoire vs 🇬🇦 Gabon - Classements et règles de qualification Les équipes sont départagées selon le nombre de points, les confrontations directes, la différence de buts, le nombre de buts marqués, puis le tirage au sort.
+
+## [Diapo. Collège royal de l'enseignement militaire supérieur | le360.ma](https://fr.le360.ma/politique/diapo-college-royal-de-lenseignement-militaire-superieur_L7LO5BZBCNFBZCSN2QMYY2KYOY/)  
+*Source : fr.le360.ma | Publication : 2025-12-21*
+
+- Le Roi lors de la cérémonie d'ouverture du CREMS, le 28 juin 2000.
+- Le prince héritier Moulay El Hassan lors de la cérémonie de fin d'année 2023.
+- Le prince héritier Moulay El Hassan lors de la cérémonie de fin d'année 2023.
+- Prise d'armes en l'honneur du prince héritier Moulay El Hassan lors de la cérémonie de fin d'année 2023.
+
+## [Un individu arrêté pour avoir escroqué 144 millions FCFA à une femme sur les réseaux sociaux](https://senego.com/un-individu-arrete-pour-avoir-escroque-144-millions-fcfa-a-une-femme-sur-les-reseaux-sociaux_1904671.html)  
+*Source : senego.com | Publication : 2025-12-21*
+
+- La Plateforme de Lutte Contre la Cybercriminalité (PLCC) a interpellé un individu pour avoir escroqué un montant de 150 511 euros, soit 144 millions de Francs CFA sur les réseaux sociaux.
+- Selon la PLCC, tout a commencé par un simple message sur les réseaux sociaux et avec le temps L.M.
+- est parvenu à renforcer sa relation avec I.F.R sa victime.
+- Alors que Mme I.F.R vit à l’étranger, elle finit par se laisser convaincre par L.M et l’amour prend le dessus sur la distance.
+
+## [Voici les mots de passe les plus communs de l'année | Brève - Radio-Canada](https://ici.radio-canada.ca/info/breve/14779/mdp-mot-de-passe-cybersecurite-populaire-2025)  
+*Source : ici.radio-canada.ca | Publication : 2025-12-21*
+
+- Voici les mots de passe les plus communs de l’année PHOTO : getty images/istockphoto / lukbar Si l’un de vos mots de passe figure parmi le palmarès, vous êtes plus à risque d’une cyberattaque.
+- Vous naviguez sur le site de Radio-Canada Nous et un nombre restreint de nos partenaires publicitaires utilisons des témoins pour recueillir certaines de vos données et les utilisons afin d’améliorer votre expérience et de vous présenter des contenus et des publicités personnalisés.
+- Si vous n’êtes pas à l’aise avec l’utilisation de ces informations, veuillez revoir les paramètres de confidentialité de votre appareil et de votre navigateur(nouvelle fenêtre) avant de poursuivre votre visite.
+- En savoir plus(nouvelle fenêtre)L’actualité simple et rapide Gagnez du temps, lisez la brève!.
+
+## [Méfiez-vous des arnaques et des fraudes pendant les Fêtes, selon des experts - Noovo Info](https://www.noovo.info/nouvelles/societe/article/mefiez-vous-des-arnaques-et-des-fraudes-pendant-les-fetes-selon-des-experts/)  
+*Source : noovo.info | Publication : 2025-12-21*
+
+- Chaque année, les Canadiens perdent des centaines de millions de dollars à cause d’escrocs, mais les experts affirment que ces crimes connaissent une recrudescence pendant les Fêtes, lorsque les gens sont pressés, distraits et vulnérables.
+- Ce texte est une traduction d’un article de CTV News.
+- Terry Cutler, expert en cybersécurité, explique que les fraudeurs ciblent les acheteurs lorsque ceux-ci baissent leur garde.
+- «Parce qu’ils [les acheteurs] veulent faire vite, dit-il.
+
+## [Archives des <b>Cybersécurité</b> - Campus by CCI Nièvre](https://campus.byccinievre.fr/domaine/cybersecurite/)  
+*Source : campus.byccinievre.fr | Publication : 2025-12-21*
+
+- Cybersécurité BTS CIEL – Cybersécurité Informatique et réseaux Cybersécurité BTS CIEL – Cybersécurité Informatique et réseaux Cybersécurité Bachelor – Administrateur Systèmes, Réseaux et Cybersécurité – Formation en 1 an Cybersécurité Bachelor – Administrateur Systèmes, Réseaux et Cybersécurité – Formation en 3 ans Afin d'analyser le trafic de notre site Web, activer les fonctionnalités liées aux réseaux sociaux, et vous proposer un contenu personnalisé, nous avons besoin que vous acceptiez que les cookies soient placés par votre navigateur.
+- Cela impliquera le traitement de vos informations personnelles, y compris votre adresse IP et votre comportement de navigation.
+- Pour plus d'informations, veuillez consulter notre Politique de cookies Voulez-vous accepter ces cookies ?.
+
+## [Qui est Melvin L., mis en examen pour le piratage du ministère de l'intérieur ? - Le Monde](https://www.lemonde.fr/pixels/article/2025/12/20/qui-est-melvin-l-mis-en-examen-pour-le-piratage-du-ministere-de-l-interieur_6658968_4408996.html)  
+*Source : lemonde.fr | Publication : 2025-12-21*
+
+- Un risque de récidive considéré comme « très important », des mis en cause qui ont développé « une expérience certaine » dans leur domaine et qui s’imaginent « plus malins que tout le monde »… Le 30 avril, devant les juges de la 13e chambre correctionnelle de Paris, la substitut du procureur Audrey Gerbaud a dressé un portrait inquiétant d’un groupe de sept jeunes hommes accusés d’avoir multiplié les vols et les extorsions par des attaques en « SIM swapping », des détournements de lignes téléphoniques.
+- Huit mois plus tard, ses réquisitions résonnent avec l’actualité judiciaire.
+- L’un des protagonistes clés de cette histoire, Melvin L., a été mis en examen et placé en détention provisoire, samedi 20 décembre, dans l’affaire du piratage du ministère de l’intérieur.
+- Il est notamment poursuivi pour « maintien frauduleux en bande organisée dans un système de traitement automatisé de données à caractère personnel mis en œuvre par l’Etat », ainsi que pour « participation à une association de malfaiteurs », a appris Le Monde de source judiciaire.
+
+## [Google Cloud signe le plus gros contrat de <b>cybersécurité</b> de son histoire - Clubic](https://www.clubic.com/actualite-592402-google-cloud-signe-le-plus-gros-contrat-de-cybersecurite-de-son-histoire.html)  
+*Source : clubic.com | Publication : 2025-12-21*
+
+- Le géant Google Cloud et Palo Alto Networks ont annoncé au début du week-end un partenariat colossal proche des 10 milliards de dollars.
+- L'accord, historique, vise à sécuriser l'infrastructure cloud, face aux menaces de l'ère de l'intelligence artificielle.
+- Le chiffre est vertigineux, et pour cause, Google Cloud a officialisé vendredi son plus gros contrat de services de sécurité, signé avec Palo Alto Networks, pour un montant qui frôle les 10 milliards de dollars sur plusieurs années.
+- L'annonce tombe à point nommé puisque selon le State of Cloud Report de décembre 2025, 99% des entreprises ont essuyé au moins une cyberattaque ciblant leur infrastructure IA au cours de l'année écoulée.
+
+## [Les plateformes de <b>cybersécurité</b> surperforment en 2025. Qui d'autre pourra gagner l'an prochain](https://fr.investing.com/news/stock-market-news/les-plateformes-de-cybersecurite-surperforment-en-2025-qui-dautre-pourra-gagner-lan-prochain--3196603)  
+*Source : fr.investing.com | Publication : 2025-12-21*
+
+- Investing.com - Les actions de nombreuses entreprises de cybersécurité ont bondi cette année, alors que l'intelligence artificielle alimente une.
+
+## [Municipales 2026 : les candidats alertés sur les manipulations et les <b>cybermenaces</b>](https://www.ladepeche.fr/2025/12/21/municipales-2026-les-candidats-alertes-sur-les-manipulations-et-les-cybermenaces-13121616.php)  
+*Source : ladepeche.fr | Publication : 2025-12-21*
+
+- Municipales 2026 : les candidats alertés sur les manipulations et les cybermenaces l'essentiel La France fait face à une intensification des ingérences numériques.
+- À l’approche des élections municipales, les autorités, de Viginum à la CNCCFP, alertent sur les risques de manipulation du débat public et appellent les candidats à se préparer.
+- Alors que le ministère de l’intérieur a fait cette semaine l’objet d’un cyberpiratage visant des fichiers sensibles – le Traitement d’antécédents judiciaires (TAJ) et le Fichier des personnes recherchées (FPR) – et que d’autres organismes publics ont aussi été visés, la France a également été victime d’une fake news, en l’occurrence une vidéo générée par intelligence artificielle annonçant un coup d’état militaire dans le pays.
+- En déplacement à Marseille dans le cadre de sa tournée nationale entamée le 12 novembre à La Dépêche sur « La démocratie face aux réseaux sociaux et aux algorithmes », Emmanuel Macron a vivement dénoncé cette opération qui illustre le niveau de la cybermenace – attaques ou ingérences étrangères – à des fins de déstabilisation.
+
+## [En 2025, les exits en Israël ont atteint 59 Mds de $ grâce à l'accord Wiz](https://fr.timesofisrael.com/en-2025-les-exits-en-israel-ont-atteint-59-mds-de-grace-a-laccord-wiz/)  
+*Source : fr.timesofisrael.com | Publication : 2025-12-21*
+
+- Cette forte hausse est due à l'acquisition par Google, pour 32 milliards de dollars, de la licorne de la cybersécurité Wiz, la plus importante.
+
+## [Elena, ex-candidate Miss France au casting de « Pandore » : « On a été jetés dans l'arène ! »](https://www.parismatch.com/People/elena-ex-candidate-miss-france-au-casting-de-pandore-on-a-ete-jetes-dans-larene-261706)  
+*Source : parismatch.com | Publication : 2025-12-21*
+
+- Elena, ex-candidate Miss France au casting de « Pandore » : « On a été jetés dans l’arène !.
+- » INTERVIEW - Le nouveau jeu d'aventure et de stratégie de M6 sera lancé le 22 décembre.
+- Parmi les douze premiers candidats, figure une ancienne reine de beauté, finaliste de l'élection Miss France 2024.
+- Rencontre.
+
+## [Comment la <b>cybersécurité</b> protège les données des passagers en vol privé ?](https://lepetitjournal.com/dublin/comment-la-cybersecurite-protege-les-donnees-des-passagers-en-vol-prive-430250)  
+*Source : lepetitjournal.com | Publication : 2025-12-20*
+
+- Le secteur de l’aviation privée, longtemps perçu comme une bulle discrète et protégée, n’échappe pas à cette réalité.
+- Aujourd’hui, les passagers de jets privés et d’hélicoptères exigent aussi une sécurité numérique irréprochable.
+- Lorsqu’un dirigeant d’entreprise finalise une acquisition à 30 000 pieds d’altitude, ou qu’un diplomate échange des informations sensibles pendant un vol transatlantique, la moindre faille de sécurité peut avoir des conséquences majeures.
+- C’est pourquoi des acteurs de l'aviation d'affaires comme Aeroaffaires, leader européen de la location de jets privés et d’hélicoptères, intègrent la cybersécurité à chaque maillon de la chaîne client, de la réservation au débarquement.
+
+## [Sécurité informatique : une riposte décentralisée pour contenir le risque cyber - LesEco.ma](https://leseco.ma/maroc/securite-informatique-une-riposte-decentralisee-pour-contenir-le-risque-cyber.html)  
+*Source : leseco.ma | Publication : 2025-12-20*
+
+- Sécurité informatique : une riposte décentralisée pour contenir le risque cyber Une récente attaque, menée via des modules JavaScript largement diffusés, a conduit à l’exfiltration de «secrets» depuis des dépôts GitHub publics.
+- En réponse, le collectif CyberSec Morocco s’est mobilisé pour proposer un dispositif de vérification destiné à aider les développeurs à évaluer leur exposition.
+- Les 17 et 18 septembre 2024, l’explosion coordonnée de bipeurs et talkies-walkies associés au Hezbollah au Liban, largement attribuée par de nombreux récits et enquêtes au Mossad – le service de renseignement israélien-, a suscité de fortes réactions notamment dans des milieux diplomatiques et sécuritaires.
+- De par son ampleur et son caractère spectaculaire, l’épisode a surtout mis en lumière une innovation dans le modus operandi des offensives menées par les services de renseignement, à savoir une opération préparée en amont de la chaîne d’approvisionnement des terminaux de communication, à un stade où l’attaque serait, a priori, difficile à déceler.
+
+## [Un Ukrainien plaide coupable d'avoir ciblé des entreprises américaines avec un rançongiciel](https://www.cryptopolitan.com/fr/ukrainian-pleads-guilty-over-us-ransomware/)  
+*Source : cryptopolitan.com | Publication : 2025-12-20*
+
+- Un ressortissant ukrainien a plaidé coupable de multiples crimes en raison de son implication dans une série d'attaques de ransomware ciblant des.
+
+## [OBDAYS 2025 : Sonatel célèbre 40 ans d'innovation au service d'un ... - DAKARACTU.COM](https://www.dakaractu.com/OBDAYS-2025-Sonatel-celebre-40-ans-d-innovation-au-service-d-un-numerique-audacieux-et-souverain_a267682.amp.html)  
+*Source : dakaractu.com | Publication : 2025-12-20*
+
+- La troisième édition des Orange Business Days (OBDAYS 2025) s’est tenue dans un contexte symbolique, marquant les 40 ans de Sonatel, acteur historique et majeur du développement du numérique au Sénégal.
+- Placée sous le thème : « Avec vous depuis 40 ans pour un numérique audacieux, responsable et au cœur de vos enjeux », cette édition a mis en lumière les grandes tendances technologiques que sont l’intelligence artificielle, le Cloud, la cybersécurité et les Smart Services.
+- Organisé par le groupe Sonatel en collaboration avec ses partenaires, l’événement s’impose, depuis trois ans, comme un cadre stratégique d’échanges et de réflexion entre les acteurs publics, privés et institutionnels du secteur numérique.
+- S’exprimant, le Directeur général du groupe Sonatel, Brelotte Ba, a rappelé la portée des OBDAYS.
 
 ## [Cyberattaque au ministère de l'Intérieur : le suspect mis en examen et placé en détention provisoire](https://www.liberation.fr/societe/police-justice/cyberattaque-au-ministere-de-linterieur-le-suspect-mis-en-examen-et-place-en-detention-provisoire-20251220_IDZBR6JK5BF5LDAQAHL2DQMLLE/)  
 *Source : liberation.fr | Publication : 2025-12-20*
