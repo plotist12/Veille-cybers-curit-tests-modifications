@@ -1,5 +1,157 @@
-# Résumés – 2025-12-21
+# Résumés – 2025-12-22
 
+
+## [Le Nigéria arrête un développeur de phishing, RaccoonO365, lié à des attaques contre ...](https://health-isac.org/fr/Le-Nigéria-arrête-un-développeur-de-phishing--raccoono365--lié-à-des-attaques-contre-Microsoft-365./)  
+*Source : health-isac.org | Publication : 2025-12-22*
+
+- Les autorités nigérianes ont annoncé l'arrestation de trois « suspects de fraude sur Internet de haut niveau » qui auraient participé à des attaques de phishing ciblant de grandes entreprises, dont le principal développeur du système de phishing en tant que service (PhaaS) RaccoonO365.
+- Une action civile intentée par Microsoft et Santé-ISAC En septembre, les accusés Joshua Ogundipe et quatre autres personnes non identifiées ont été accusés d'avoir organisé une opération cybercriminelle en « vendant, distribuant, achetant et mettant en œuvre » le kit de phishing pour faciliter le spear-phishing sophistiqué et siphonner des informations sensibles.
+
+## [<b>Cybersécurité</b> : La Poste victime d'une attaque informatique - Armees.com](https://armees.com/cybersecurite-la-poste-victime-dune-attaque-informatique/)  
+*Source : armees.com | Publication : 2025-12-22*
+
+- Lundi matin, La Poste a été touchée par une cyberattaque de type DDoS qui a paralysé plusieurs de ses services, dont ceux de La Banque Postale.
+- L’incident, survenu à l’approche des fêtes de fin d’année et dans un contexte de transformations profondes du secteur de la Défense et de l’industrie terrestre de l’armement, met de nouveau en lumière la vulnérabilité des infrastructures numériques françaises face à des attaques coordonnées.
+- Une attaque informatique d’ampleur contre La Poste La Poste vient de vivre l’un de ses incidents informatiques les plus marquants de l’année.
+- Tôt lundi matin, ses infrastructures numériques ont cessé de fonctionner, provoquant un accès impossible à de nombreux services.
+
+## [ChannelBiz vous souhaite de joyeuses fêtes](https://www.channelbiz.fr/2025/12/22/channelbiz-vous-souhaite-de-joyeuses-fetes/)  
+*Source : channelbiz.fr | Publication : 2025-12-22*
+
+- La rédaction de ChannelBiz vous souhaite de joyeuses fêtes et vous donne rendez-vous en 2026 afin de poursuivre l’exploration du marché français de la distribution IT.
+- La rédaction de ChannelBiz vous souhaite de joyeuses fêtes et vous donne rendez-vous en 2026 afin de poursuivre l’exploration du marché français de la distribution IT.
+- Dans cette perspective, voici un aperçu des thématiques que la rédaction suivra tout au long de l’année.
+- Cybersécurité et services managés La cybersécurité s’impose plus que jamais comme un pilier de l’IT moderne.
+
+## [Cyberhebdo du 19 décembre 2025 : toujours aucune trêve en vue - LeMagIT](https://www.lemagit.fr/actualites/366636616/Cyberhebdo-du-19-decembre-2025)  
+*Source : lemagit.fr | Publication : 2025-12-22*
+
+- Cyberhebdo du 19 décembre 2025 : toujours aucune trêve en vue Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans ce nouveau numéro du Cyberhebdo, votre rendez-vous hebdomadaire pour faire le point sur l’actualité des cyberattaques à travers le monde.
+- Au cours de la semaine écoulée, pas moins de 13 incidents majeurs ont été rapportés dans les médias internationaux, touchant des organisations et institutions réparties dans 10 pays : Royaume-Uni, Venezuela, Canada, Mexique, Brésil, Vietnam, Allemagne, Chili, États-Unis et Irlande.
+- Les États-Unis se distinguent cette semaine comme le pays le plus ciblé, avec trois attaques recensées sur leur territoire.
+
+## [La Poste victime d'une attaque informatique, ses services en ligne &quot;inaccessibles&quot;](https://www.france24.com/fr/france/20251222-cyberattaque-la-poste-victime-attaque-informatique-services-en-ligne-inaccessibles-colis-courriers-noël)  
+*Source : france24.com | Publication : 2025-12-22*
+
+- La Poste victime d'une attaque informatique, ses services en ligne "inaccessibles" Les services en ligne du groupe La Poste sont inaccessibles, lundi, à la suite d'une attaque informatique.
+- À quelques jours de Noël, la distribution des colis et des courriers est perturbée mais reste "assurée à ce stade".
+- Publié le : Le groupe La Poste est victime d'une attaque informatique, lundi 22 décembre, rendant inaccessibles ses services en ligne.
+- La distribution des colis et des courriers est perturbée, mais La Poste affirme qu'elle reste "assurée à ce stade".
+
+## [Le ministère des Sports touché par une exfiltration de données - Solutions-Numeriques](https://www.solutions-numeriques.com/le-ministere-des-sports-touche-par-une-exfiltration-de-donnees/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-22*
+
+- Le ministère des Sports, de la Jeunesse et de la Vie associative confirme une exfiltration de données touchant l’un de ses systèmes d’information.
+- Environ 3,5 millions de foyers seraient concernés.
+- Au-delà de l’incident lui-même, l’épisode met une nouvelle fois en lumière les fragilités structurelles de certains SI publics face à des menaces devenues industrielles.
+- Un incident confirmé, encore peu documenté Le ministère des Sports, de la Jeunesse et de la Vie associative a officiellement reconnu une exfiltration de données issue de l’un de ses systèmes d’information.
+
+## [<b>Cybersécurité</b> : qu'est-ce qu'une attaque par déni de service, ou «DDOS» ? - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/qu-est-ce-qu-une-attaque-par-deni-de-services-ou-ddos-20251222)  
+*Source : lefigaro.fr | Publication : 2025-12-22*
+
+- Cybersécurité : qu’est-ce qu’une attaque par déni de service, dont a été victime La Poste ?.
+- DÉCRYPTAGE - Perpétrées par des attaquants au profil très divers, elles ont pour but de saturer un site ou des services numériques afin de les rendre indisponibles.
+- Passer la publicitéElles sont aussi vieilles que les premiers sites internet, très basiques d’un point de vue technique, mais redoutablement efficaces pour perturber des services en ligne.
+- Et La Poste en a fait les frais aujourd’hui.
+
+## [Cyberattaques, opérations d'espionnage et d'influence… Comment la Russie cherche à ...](https://www.usine-digitale.fr/cybersecurite/cyberattaques-operations-despionnage-et-dinfluence-comment-la-russie-cherche-a-submerger-les-services-de-securite-europeens.2DXL6WXUFFD3ZJFL5YKNUTMG3E.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-22*
+
+- 145 : c’est, en trois ans, le nombre d’incidents recensés par l’agence Associated Press comme faisant partie d’une vaste campagne de déstabilisation menée par la Russie en Europe, d’après plusieurs responsables occidentaux.
+- Ces actes de différentes natures (cyberattaques, opérations de cyberespionnage, d’influence, de vandalisme, de mise en place d’explosifs ou de sabotage de lignes de transport) visent à accomplir le seul et même objectif : provoquer le déploiement de ressources de sécurité partout sur le continent et ainsi réduire considérablement les moyens d’enquête initialement prévus.
+- De nombreuses opérations transfrontalières Il s’agit là d’un élément clé dans la stratégie de guerre hybride orchestrée par Moscou depuis le début de l’invasion en Ukraine.
+- Selon l’agence de presse, la réalisation de telles opérations ne coûterait que très peu à la Russie, cette dernière faisant souvent appel à des étrangers au lourd passé criminel.
+
+## [Où vont vos impôts: Québec remet 280 M$ dans son vieux réseau internet... après s'en être ...](https://www.tvanouvelles.ca/2025/12/22/ou-vont-vos-impots--quebec-remet-280-m-dans-son-vieux-reseau-internet-apres-sen-etre-paye-un-neuf)  
+*Source : tvanouvelles.ca | Publication : 2025-12-22*
+
+- Québec a remis 280 M$ dans son vieux réseau de télécommunication même s’il vient tout juste de s’en payer un neuf à très gros prix.
+- • À lire aussi: Où vont vos impôts: le ministère de la Sécurité publique fait une découverte coûteuse Le juteux contrat a été discrètement octroyé à Telus au début du mois de décembre afin de maintenir le réseau désuet dont le gouvernement cherche à se débarrasser depuis 2017.
+- Le nouveau système, nommé «Réseau gouvernemental de télécommunication», a pourtant été achevé en mars dernier, après huit ans de travail et d’importants dépassements de coûts.
+- Selon les estimations initiales, Québec prévoyait dépenser 8,2 M$ dans ce chantier informatique, mais la facture s’est plutôt élevée à 46,9 M$ (+472%), en raison de changements apportés au projet en cours de route et d’inéluctables retards dans la réalisation des travaux.
+
+## [France Universités et l'Ofac s'associent pour lutter contre la <b>cybercriminalité</b>... - AEF info](https://www.aefinfo.fr/depeche/743170-france-universites-et-l-ofac-s-associent-pour-lutter-contre-la-cybercriminalite-dans-les-universites)  
+*Source : aefinfo.fr | Publication : 2025-12-22*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : France Universités et l’Office anti-cybercriminalité (Ofac) de la direction nationale de la police judiciaire ont signé une convention de partenariat, jeudi 18 décembre 2025, pour intensifier la lutte contre la cybercriminalité dans les universités, annoncent-elles par voie de communiqué le 19 décembre.
+- Entre 2023 et 2024, les incidents et tentatives de déstabilisations à l’encontre des universités ont augmenté de sept points selon l’Anssi.
+- Cette association vise à "structurer et renforcer la coopération entre les établissements d’enseignement supérieur et les services spécialisés de l’État en matière cyber".
+
+## [La Poste victime d'une attaque DDoS ? - Solutions-Numeriques](https://www.solutions-numeriques.com/la-poste-victime-dune-attaque-ddos/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-22*
+
+- Le groupe La Poste et sa filiale bancaire ont subi ce lundi 22 décembre une attaque par déni de service distribué (DDoS), rendant de nombreux services indisponibles à quelques jours des fêtes.
+- Des services numériques rendus indisponibles pendant plusieurs heures Les perturbations ont débuté dans la matinée, avec des difficultés d’accès aux sites et applications de La Poste, de La Banque Postale, ainsi qu’à plusieurs services associés, dont Colissimo et Digiposte.
+- D’après les informations publiées par Clubic, l’origine de l’incident est une attaque DDoS, visant à saturer les infrastructures par un afflux massif de requêtes.
+- Le groupe a confirmé cette hypothèse et indiqué que l’attaque avait été contenue par ses équipes techniques.
+
+## [L'Europe, géant réglementaire aux pieds d'argile - ITforBusiness.fr](https://www.itforbusiness.fr/l-europe-geant-reglementaire-aux-pieds-d-argile-98584)  
+*Source : itforbusiness.fr | Publication : 2025-12-22*
+
+- Secu L’Europe, géant réglementaire aux pieds d’argile Par Aude Leroy, publié le 22 décembre 2025 Officiellement, la cybersécurité européenne existe depuis la création en 2004 de l’Agence européenne chargée de la sécurité des réseaux et de l’information (ENISA).
+- Depuis, d’autres initiatives ont vu le jour comme le Centre européen de lutte contre la cybercriminalité (EC3), le réseau CyCLONe ou encore des normes de cybersécurité de l’Union européenne, sans oublier le règlement européen sur la cyberrésilience de 2024.
+- Mais sur le terrain, la réalité est plus floue.
+- L’ Europe dispose d’une large palette de textes en matière de cybersécurité.
+
+## [Distribution des courriers perturbée, suivi de colis en ligne indisponible - Libération](https://www.liberation.fr/economie/economie-numerique/distribution-des-courriers-perturbee-suivi-de-colis-en-ligne-indisponible-ce-que-lon-sait-de-la-cyberattaque-a-la-poste-20251222_TEMEKWGLLBGMZODXZKT2ITVCXA/)  
+*Source : liberation.fr | Publication : 2025-12-22*
+
+- Dans certains bureaux, le service «peut être temporairement dégradé», souligne La Poste.
+- Cybercriminalité.
+
+## [Interpol : 574 suspects arrêtés en Afrique dans une vaste opération anti-<b>cybercriminalité</b>](https://www.leconomiste.com/flash-infos/interpol-574-suspects-arretes-en-afrique-dans-une-vaste-operation-anti-cybercriminalite/)  
+*Source : leconomiste.com | Publication : 2025-12-22*
+
+- cybercriminalité en Afrique, indique l'Organisation internationale de police criminelle.
+- Cette opération, dénommée “Sentinel”, a été menée sur un.
+
+## [Cyberattaque à La Poste : services inaccessibles, livraison colis perturbée - Mesinfos.fr](https://mesinfos.fr/cyberattaque-a-la-poste-nombreux-services-en-ligne-inaccessibles-la-livraison-de-colis-perturbee-236552.html)  
+*Source : mesinfos.fr | Publication : 2025-12-22*
+
+- Cybersécurité : quel est l'état de la menace en France ?.
+- "Concernant La Banque Postale, les paiements en ligne restent possibles avec une.
+
+## [Orange aide les entreprises à anticiper la menace quantique - Hello Future](https://hellofuture.orange.com/fr/parlons-tech-24-cybersecurite-confiance-intelligence-artificielle-a-quoi-ressemblera-le-monde-post-quantique/)  
+*Source : hellofuture.orange.com | Publication : 2025-12-22*
+
+- ● Ils détaillent comment la cryptographie post-quantique (PQC) et la distribution de clefs quantique (QKD) peuvent faire face aux menaces quantiques, et quel sera l’impact du machine learning quantique sur la détection des menaces.
+- ● Face à l'urgence de la "crypto-agilité", découvrez comment les entreprises et les chercheurs se préparent à protéger les infrastructures critiques et à préserver la souveraineté numérique.
+- Parlons Tech, épisode 24 avec : Paulette Gavignet, Ingénieur de Recherche en Réseaux Optiques et Communications Quantiques chez Orange Innovation à Lannion - Benjamin Vigouroux.
+- Vice President, Digital Infrastructure chez Orange Business - Grégoire Barrué, chercheur en IA et IA quantique appliquée à la cybersécurité chez Orange - L’avènement de l’ordinateur quantique promet des avancées majeures dans de nombreux secteurs, mais fait peser une menace systémique sur la sécurité actuelle des données.
+
+## [Une première : l'alliance Google-Thalès du Cloud reçoit la plus haute certification de ...](https://www.01net.com/actualites/une-premiere-lalliance-google-thales-du-cloud-recoit-la-plus-haute-certification-de-cybersecurite-de-letat.html)  
+*Source : 01net.com | Publication : 2025-12-22*
+
+- Surprise ?.
+- Le 17 décembre dernier, S3NS, la co-entreprise fondée par le groupe français de défense Thalès et le géant du cloud Google, a reçu officiellement la certification SecNumCloud 3.2 de l’Agence nationale pour la sécurité des systèmes d’information (ANSSI).
+- Ce label est la plus haute certification en termes de cybersécurité de l’État français, destiné à protéger les données sensibles de l’espionnage économique ou étatique.
+- S3NS, société de droit français détenue en majorité par Thalès, est la toute première entreprise impliquant un géant américain à recevoir ce Graal.
+
+## [La Banque Postale victime d'une cyberattaque: son site web et son application sont ... - BFM](https://www.bfmtv.com/tech/cybersecurite/banque-postale-banque-populaire-et-caisse-d-epargne-les-sites-web-et-applications-de-ces-trois-banques-sont-inaccessibles-depuis-plusieurs-heures_AN-202512220332.html)  
+*Source : bfmtv.com | Publication : 2025-12-22*
+
+- La Banque Postale est victime d'une cyberattaque: son site web et son application sont encore partiellement inaccessibles Un problème dont de nombreux Français se seraient bien passés à l'approche de Noël.
+- Ce lundi matin, et après un week-end compliqué par des problèmes d'accès, la Banque Postale semble à nouveau souffrir de perturbations techniques lourdes qui empêchent les utilisateurs d'accéder à ses services et à leurs comptes.
+- Un problème confirmé par la filiale du groupe La Poste sur X.
+- "Depuis tôt ce matin, un incident affecte l'accès à votre banque en ligne et à l'app mobile.
+
+## [Le Dr Roland Meier devient le chef de l'équipe <b>Cybersécurité</b> - Armasuisse](https://www.ar.admin.ch/fr/le-dr-roland-meier-devient-le-chef-de-lequipe-cybersecurite)  
+*Source : ar.admin.ch | Publication : 2025-12-22*
+
+- Le Dr Roland Meier devient le chef de l’équipe Cybersécurité Le 1er janvier 2026, le Dr Roland Meier prend la tête de l’équipe Cybersécurité du domaine spécialisé Cyberdefence au sein d’armasuisse Sciences et Technologies (S+T).
+- Il succède ainsi au Dr Bernhard Tellenbach.
+- Le domaine spécialisé Cyberdefence lui adresse ses sincères félicitations pour son nouveau poste.
+- Julian Martin, domaine spécialisé Cyberdefence, domaine de compétences armasuisse Sciences et Technologies L’équipe Cybersécurité étudie les cybermenaces et les vulnérabilités, met au point des méthodes pour combattre ces menaces ou remédier à ces points faibles, conçoit de nouveaux systèmes sécurisés et signale les failles de sécurité aux services compétents.
+
+## [IT : 2026, la fin des architectures confortables - Solutions-Numeriques](https://www.solutions-numeriques.com/it-2026-la-fin-des-architectures-confortables/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-22*
+
+- À l’approche de 2026, les lignes de force du numérique se recomposent.
+- Intelligence artificielle passée à l’épreuve du réel, architectures IT sous contrainte, cybersécurité industrialisée, chaînes de dépendance devenues critiques : les promesses cèdent la place aux arbitrages.
+- Pour cette série de prédictions, Solutions Numériques & Cybersécurité s’appuie sur l’analyse croisée de 26 contributions issues d’acteurs technologiques, de laboratoires de recherche, d’éditeurs, de cabinets d’analystes et de responsables terrain.
+- Une tentative de remise en perspective, pour comprendre comment ces tendances se combinent, se contredisent parfois, et redéfinissent le paysage numérique à l’horizon 2026.
 
 ## [Vantage Markets récompensée pour son innovation en <b>cybersécurité</b> par Trend Micro](https://www.webdisclosure.com/article/vantage-etr-vantage-markets-recompensee-pour-son-innovation-en-cybersecurite-par-trend-micro-AgHYdQ3cfly)  
 *Source : webdisclosure.com | Publication : 2025-12-21*
