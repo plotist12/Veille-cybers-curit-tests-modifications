@@ -1,5 +1,150 @@
-# Résumés – 2025-12-22
+# Résumés – 2025-12-23
 
+
+## [« Ça va être un carnage » : comment la justice se prépare à une déferlante d'affaires de ...](https://www.lefigaro.fr/actualite-france/ca-va-etre-un-carnage-comment-la-justice-se-prepare-a-une-deferlante-d-affaires-de-cybercriminalite-20251223)  
+*Source : lefigaro.fr | Publication : 2025-12-23*
+
+- « Ça va être un carnage » : comment la justice se prépare à une déferlante d’affaires de cybercriminalité DÉCRYPTAGE - Le tribunal judiciaire de Paris a réorganisé sa chaîne pénale pour faire face à ce phénomène criminel en forte expansion.
+- Passer la publicité« Ça va être un carnage », prédit Élise Tréguer, vice-présidente chargée de l’instruction au service criminalité financière et cybercriminalité du pôle financier de Paris.
+- En charge de dossiers cyber complexes, elle fut l’une des rares magistrates à le rejoindre dès 2020, quand personne ne pouvait imaginer que les outils cyber inonderaient toute la sphère criminelle.
+- « C’est encore un peu plus le cas aujourd’hui avec l’arrivée de l’intelligence artificielle qui l’infuse déjà.
+
+## [La Poste cyberattaquée : «A deux jours de Noël, c'est vraiment prôner la loi de l ...](https://www.liberation.fr/economie/economie-numerique/la-poste-cyberattaquee-a-deux-jours-de-noel-cest-vraiment-proner-la-loi-de-lemmerdement-maximum-20251223_F63BDTO3NBHZXKKVJQZSWLEWQA/)  
+*Source : liberation.fr | Publication : 2025-12-23*
+
+- «Libération» fait le point sur la nature de cet acte malveillant avec Adrien Merveille, spécialiste en cybersécurité.
+- Cybercriminalité.
+
+## [Panne toujours en cours à La Poste, la cyberattaque revendiquée par un groupe de hackers ...](https://actu.orange.fr/france/panne-toujours-en-cours-a-la-poste-la-cyberattaque-revendiquee-par-un-groupe-de-hackers-pro-russes-magic-CNT000002mjguj.html)  
+*Source : actu.orange.fr | Publication : 2025-12-23*
+
+- Panne toujours en cours à La Poste, la cyberattaque revendiquée par un groupe de hackers pro-russes © Capture d'écran vidéo BFMTV Alors que les problèmes persistent sur les sites de La Banque Postale, Colissimo et Digiposte, les services en ligne de La Poste, mardi 23 décembre, le parquet de Paris a indiqué que la cyberattaque qui avait provoqué cette panne avait été revendiquée.
+- Une enquête a été ouverte.
+- La Banque Postale, Colissimo et Digiposte, qui ne sont autres que la liste des sites de La Poste, ont été victimes d'une cyberattaque lundi 22 décembre.
+- L'ensemble des services en ligne a été totalement inaccessible pendant toute une journée.
+
+## [ServiceNow se porte acquéreur d'Armis - ITRnews - Le premier quotidien des marchés numériques](https://itrnews.com/articles/208350/servicenow-se-porte-acquereur-darmis.html)  
+*Source : itrnews.com | Publication : 2025-12-23*
+
+- Veuillez activer Javascript.
+
+## [<b>Cybersécurité</b> : l'intégration des plateformes redéfinira la protection face aux menaces IA en 2026](https://itrmanager.com/articles/208351/cybersecurite-lintegration-des-plateformes-redefinira-la-protection-face-aux-menaces-ia-en-2026.html)  
+*Source : itrmanager.com | Publication : 2025-12-23*
+
+- ransomware , phishing assisté par l'IA, campagnes parrainées par des États, et un manque de préparation face à la rapidité d'évolution des cybermenaces.
+
+## [ServiceNow va acquérir Armis pour 7,75 milliards $ dans une initiative de <b>cybersécurité</b>](https://fr.investing.com/news/company-news/servicenow-va-acquerir-armis-pour-775-milliards--dans-une-initiative-de-cybersecurite-93CH-3198956)  
+*Source : fr.investing.com | Publication : 2025-12-23*
+
+- cybersécurité Armis.
+- DA Davidson a également abaissé son objectif de cours à 1.100 $ contre 1.250 $ mais a conservé une recommandation d'achat.
+
+## [Vols de données CB : la menace persistante des skimmers - LeMagIT](https://www.lemagit.fr/actualites/366636640/Vols-de-donnees-CB-la-menace-persistante-des-skimmers)  
+*Source : lemagit.fr | Publication : 2025-12-23*
+
+- abimagestudio - stock.adobe.com Vols de données CB : la menace persistante des skimmers Ces implants logiciels font bien moins parler d’eux qu’en 2018 après la compromission du site Web de British Airways.
+- Pour autant, la menace reste bien présente, tapie parfois longtemps avant d’être débusquée.
+- Ce 19 décembre 2025, OUTDOORsmart!.
+- qui opère le site Web Campfire Collective, adresse des notifications à ses clients.
+
+## [AVIS D'EXPERT – Entre bâton réglementaire et levier stratégique : que faire du CRA ?](https://www.solutions-numeriques.com/avis-dexpert-entre-baton-reglementaire-et-levier-strategique-que-faire-du-cra/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-23*
+
+- Adopté fin 2024, le Cyber Resilience Act (CRA) marque une nouvelle étape dans la régulation européenne de la cybersécurité, en imposant des exigences inédites sur les produits numériques mis sur le marché.
+- Entre contrainte réglementaire et opportunité stratégique, ce texte oblige les acteurs à repenser leurs pratiques de conception, de gouvernance et de gestion des risques.
+- Dans cet avis d’expert, Stéphane Dubreuil, Directeur du conseil cyber chez Softeam Consulting, filiale conseil et services de Docaposte, livre son analyse et ses clés de lecture pour transformer le CRA en levier de compétitivité plutôt qu’en simple obligation.
+- Le règlement relatif aux exigences de cybersécurité applicables aux produits comportant des éléments numériques (CRA), a été adopté il y a un an (le 23 octobre 2024).
+
+## [Cyberattaque contre La Poste : « On va vers une banalisation du hacking des infrastructures ...](https://www.lepoint.fr/high-tech-internet/cyberattaque-contre-la-poste-on-va-vers-une-banalisation-du-hacking-des-infrastructures-critiques-Y4BPEQ2CZRCPTAVR4DNHAGYFCI/)  
+*Source : lepoint.fr | Publication : 2025-12-23*
+
+- Depuis le début de la semaine, le groupe La Poste est victime d’une cyberattaque de grande ampleur.
+- En pleine période d’envoi de cadeaux, le portail Web du groupe et les services de La Banque postale ont été mis hors d’usage par une attaque informatique.
+- Le groupe a rapidement confirmé être victime d’une attaque de type « DDoS » (déni de service distribué), une technique visant à saturer les serveurs pour les rendre inopérants.
+- L’impact ne s’est pas limité au monde virtuel : en agence, des automates ont également montré des signes de faiblesse, perturbant physiquement la chaîne logistique nationale.
+
+## [La Poste toujours sous attaque DDoS : « toutes les équipes sont mobilisées »](https://www.solutions-numeriques.com/la-poste-toujours-sous-attaque-ddos-toutes-les-equipes-sont-mobilisees/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-23*
+
+- L’attaque par déni de service distribué (DDoS) visant les infrastructures de La Poste est toujours en cours, a confirmé le groupe à Solutions Numériques & Cybersécurité.
+- Dans une communication publiée sur ses réseaux sociaux hier en début d’après-midi, La Poste évoque un « incident réseau majeur » affectant l’ensemble de ses systèmes d’information.
+- Le groupe indique que plusieurs services numériques sont actuellement indisponibles, parmi lesquels les plateformes en ligne et applications mobiles de La Banque Postale, le site laposte.fr, Digiposte ainsi que le service d’Identité Numérique La Poste.
+- L’entreprise précise toutefois que certains services bancaires restent opérationnels.
+
+## [« Quand l'Etat sabote sa propre souveraineté numérique… » | Les Echos](https://www.lesechos.fr/idees-debats/cercle/quand-letat-sabote-sa-propre-souverainete-numerique-2206540)  
+*Source : lesechos.fr | Publication : 2025-12-23*
+
+- Cybersécurité · Service public.
+- Mais ce qui frappe le plus encore dans cette affaire, ce n'est pas tant l'attaque elle-même - les cybermenaces.
+
+## [Un partenariat entre le lycée Vauban, à Brest, et la Marine Nationale pour former des BTS ...](https://www.ouest-france.fr/bretagne/brest-29200/un-partenariat-entre-le-lycee-vauban-a-brest-et-la-marine-nationale-pour-former-des-bts-en-cybersecurite-et-reseaux-64806df8-e01e-11f0-a5b5-a973653e79ef)  
+*Source : ouest-france.fr | Publication : 2025-12-23*
+
+- Des apprentis de la Marine nationale sont formés au lycée Vauban, à Brest (Finistère) où ils préparent un BTS CIEL ( cybersécurité , informatique et.
+
+## [Cyberattaque contre La Poste : la panne toujours en cours, certains services en ligne de retour](https://actu.orange.fr/france/cyberattaque-contre-la-poste-la-panne-toujours-en-cours-certains-services-en-ligne-de-retour-magic-CNT000002mjguj.html)  
+*Source : actu.orange.fr | Publication : 2025-12-23*
+
+- Panne toujours en cours à La Poste, la cyberattaque revendiquée par un groupe de hackers pro-russes © Capture d'écran vidéo BFMTV Alors que les problèmes persistent sur les sites de La Banque Postale, Colissimo et Digiposte, les services en ligne de La Poste, mardi 23 décembre, le parquet de Paris a indiqué que la cyberattaque qui avait provoqué cette panne avait été revendiquée.
+- Une enquête a été ouverte.
+- La Banque Postale, Colissimo et Digiposte, qui ne sont autres que la liste des sites de La Poste, ont été victimes d'une cyberattaque lundi 22 décembre.
+- L'ensemble des services en ligne a été totalement inaccessible pendant toute une journée.
+
+## [Quand un simple fichier JPG devient destructeur, ce que révèle la faille CVE-2025-50165](https://itsocial.fr/cybersecurite/cybersecurite-actualites/quand-un-simple-fichier-jpg-devient-destructeur-ce-que-revele-la-faille-cve-2025-50165/)  
+*Source : itsocial.fr | Publication : 2025-12-23*
+
+- La réévaluation par Eset Research de la vulnérabilité critique CVE-2025-50165 replace le risque à son véritable niveau, tout en rappelant une réalité dérangeante pour les entreprises.
+- Un simple fichier JPG, format réputé banal et anodin, peut déclencher une exécution de code à distance lorsque certaines conditions techniques sont réunies.
+- La faille affecte Windows Imaging Component et met en cause des mécanismes internes de traitement d’image au cœur de l’écosystème Windows.
+- Le fait que cette vulnérabilité repose sur un format aussi courant que le JPG lui donne une portée symbolique forte.
+
+## [Cyberassurance Comment se protéger et à quel prix ? - Beaboss.fr](https://www.beaboss.fr/digital-1074/cybersecurite-2020/cyberassurance-comment-se-proteger-et-a-quel-prix-54043/amp)  
+*Source : beaboss.fr | Publication : 2025-12-23*
+
+- Le constat est sans appel : près de la moitié des grandes entreprises et ETI françaises ont subi une cyberattaque dans l’année1.
+- Résultat, les indemnisations ont bondi de 43 % pour atteindre 55 millions d’euros en 20242.
+- Si 6 entreprises françaises sur 10 disposent désormais d’une couverture cyber contre 4 sur 10 il y a deux ans2, beaucoup hésitent encore.
+- Gwenaëlle Martinet, Directrice de l’offre Cyber chez Docaposte, explique : « Ceux qui n’ont pas été attaqués se disent “ça ne m’arrivera pas, je suis trop petit” ».
+
+## [L'écosystème cybercriminel se professionnalise autour des outils d'IA - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/lecosysteme-cybercriminel-se-professionnalise-autour-des-outils-ia/)  
+*Source : itsocial.fr | Publication : 2025-12-23*
+
+- Google décrit une évolution tangible dans l’usage de l’intelligence artificielle par les acteurs de la menace.
+- L’IA ne sert plus uniquement à accélérer des tâches techniques, elle structure désormais des chaînes offensives complètes, du hameçonnage jusqu’à l’automatisation d’opérations complexes.
+- Cette réalité place les entreprises et les responsables sécurité devant un paysage de risques qui se transforme rapidement.
+- Google Cloud observe depuis sa plateforme d’IA un panorama exceptionnellement étendu des activités numériques mondiales.
+
+## [Du déficit de talents à la crise des compétences, le marché cyber arrive à maturité mais ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/du-deficit-de-talents-a-la-crise-des-competences-le-marche-cyber-arrive-a-maturite-mais-reste-toujours-vulnerable/)  
+*Source : itsocial.fr | Publication : 2025-12-23*
+
+- Après plusieurs années dominées par la question des volumes d’effectifs, le débat se déplace désormais vers la qualité et la nature des compétences disponibles.
+- Si la profession continue de croître et si l’écosystème se diversifie, les organisations constatent que le véritable risque ne réside plus uniquement dans le manque de personnel, mais dans l’absence de capacités opérationnelles adaptées aux menaces actuelles.
+- L’écart persistant entre besoins, maturité et compétences structure un paysage où l’investissement humain est aussi stratégique que l’investissement technologique.
+- Depuis plusieurs années, la pénurie de professionnels de la cybersécurité est présentée comme l’un des principaux risques structurels pour les entreprises.
+
+## [ServiceNow Signe L'une Des Plus Grosses Acquisitions De La <b>Cybersécurité</b> Israélienne](https://www.i24news.tv/fr/actu/economie/artc-servicenow-signe-l-une-des-plus-grosses-acquisitions-de-la-cybersecurite-israelienne)  
+*Source : i24news.tv | Publication : 2025-12-23*
+
+- ServiceNow signe l’une des plus grosses acquisitions de la cybersécurité israélienne Cette acquisition stratégique illustre la consolidation accélérée du secteur et renforce la place d’Israël comme pôle mondial de l’innovation en cybersécurité.
+- La société américaine ServiceNow a annoncé l’acquisition de Armis, pépite israélienne de la cybersécurité, pour un montant de 7,75 milliards de dollars, a rapporté Calcalist.
+- Une opération majeure qui intervient à peine un mois après une levée de fonds spectaculaire d’Armis, valorisée alors à 6,1 milliards de dollars.
+- Fondée en 2016 par Yevgeny Dibrov et Nadir Izrael, Armis s’est imposée comme un acteur clé de la protection des infrastructures critiques et de la gestion des surfaces d’attaque numériques.
+
+## [Cyberattaque contre La Poste : une enquête ouverte par le parquet de Paris - France Bleu](https://www.francebleu.fr/infos/faits-divers-justice/cyberattaque-contre-la-poste-une-enquete-ouverte-par-le-parquet-de-paris-2024161)  
+*Source : francebleu.fr | Publication : 2025-12-23*
+
+- La cyberattaque contre La Poste revendiquée par un groupe de hackers pro-russe, une enquête ouverte Publié le Mis à jour le Une enquête a été ouverte pour "des faits d’entrave au fonctionnement d’un système de traitement automatisé de données" après la cyberattaque qui a touché le goupe La Poste, indique le parquet de Paris mardi.
+- Cette attaque a été revendiquée par le groupe de hackers pro-russe Noname057(016).
+- Après la cyberattaque qui a touché La Poste, ce lundi, une enquête a été ouverte pour "des faits d’entrave au fonctionnement d’un système de traitement automatisé de données", indique le parquet de Paris à franceinfo, qui précise que "l’enquête est dirigée par la section cybercriminalité du parquet de Paris et a été confiée à la brigade de lutte contre la cybercriminalité".
+- L'accès aux comptes bancaires et le suivi des colis de La Poste est perturbé, à quelques jours de Noël.
+
+## [Dans l'ombre de Kocc Barma, la toile se resserre : un deuxième relais tombe sous les filets ...](https://www.dakaractu.com/Dans-l-ombre-de-Kocc-Barma-la-toile-se-resserre-un-deuxieme-relais-tombe-sous-les-filets-de-la-cybersecurite_a267744.html)  
+*Source : dakaractu.com | Publication : 2025-12-23*
+
+- L’enquête tentaculaire autour de l’affaire Kocc Barma connaît un nouveau rebondissement.
+- Selon Libération, la Division spéciale de cybersécurité (DSC) a procédé à l’arrestation d’un deuxième individu présenté comme un « correspondant » d’El Hadji Babacar Dioum, plus connu sous le pseudonyme de Kocc Barma, figure centrale d’un vaste réseau de diffusion de contenus intimes et de chantage numérique.
+- D’après les informations rapportées par Libération dans son édition de ce mardi 23 décembre, le mis en cause est soupçonné d’avoir transmis des vidéos à caractère intime au cerveau du réseau, en utilisant l’adresse électronique liée à la plateforme illicite.
+- Un rôle clé dans la chaîne de diffusion, qui confirme l’existence d’un système structuré reposant sur des relais actifs et conscients.
 
 ## [Le Nigéria arrête un développeur de phishing, RaccoonO365, lié à des attaques contre ...](https://health-isac.org/fr/Le-Nigéria-arrête-un-développeur-de-phishing--raccoono365--lié-à-des-attaques-contre-Microsoft-365./)  
 *Source : health-isac.org | Publication : 2025-12-22*
