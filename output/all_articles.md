@@ -1,5 +1,152 @@
-# Résumés – 2025-12-24
+# Résumés – 2025-12-25
 
+
+## [Le piège BitLocker : comment des pirates ont retourné Windows contre cette administration](https://www.clubic.com/actualite-592825-le-piege-bitlocker-comment-des-pirates-ont-retourne-windows-contre-cette-administration.html)  
+*Source : clubic.com | Publication : 2025-12-25*
+
+- Une attaque par ransomware a récemment frappé l’Administration nationale des eaux roumaines à es pirates ont exploité BitLocker, intégré à Windows, pour verrouiller près de 1 000 systèmes.
+- L’incident a perturbé le système d’information, sans affecter l’exploitation hydraulique.
+- Le week-end dernier, la Direction nationale de la cybersécurité roumaine a été alertée d’une cyberattaque touchant l’Administration nationale « Apele Române ».
+- En quelques heures, des centaines de postes et de serveurs étaient devenus inaccessibles.
+
+## [La Poste : le groupe NoName057 (16) qui revendique la cyberattaque, accusé par ... - MSN](https://www.msn.com/fr-fr/actualite/france/la-poste-le-groupe-noname057-16-qui-revendique-la-cyberattaque-accusé-par-washington-d-émaner-d-une-organisation-proche-du-kremlin/ar-AA1T0Nhb?cvid=694d921e06374f44a5c8a678fa98bd2d&ocid=mobilepwa)  
+*Source : msn.com | Publication : 2025-12-25*
+
+- cybersécurité.
+- Dans plusieurs messages publiés sur Telegram mardi 23.
+- La section de lutte contre la cybercriminalité du parquet de Paris a.
+
+## [Cyberattaque à La Poste : la direction annonce la reprise normale de ses activités](https://www.liberation.fr/societe/police-justice/cyberattaque-a-la-poste-la-direction-annonce-la-reprise-normale-de-ses-activites-20251225_QNN5MFNRZNEY5GMJTQSU3PHLSI/)  
+*Source : liberation.fr | Publication : 2025-12-25*
+
+- De plus, les éléments transmis par l'entreprise de cybersécurité Sekoia à nos collègues de CheckNews ont établi que le seul site de La Poste qui.
+
+## [Promouvoir la responsabilité des plateformes en ligne dans la protection des enfants ... - Vietnam.vn](https://www.vietnam.vn/fr/thuc-day-trach-nhiem-cua-nen-tang-truc-tuyen-trong-bao-ve-tre-em-tren-khong-gian-mang)  
+*Source : vietnam.vn | Publication : 2025-12-25*
+
+- Des représentants d'organismes de réglementation, d'organisations internationales, de plateformes technologiques et du secteur créatif ont participé à cette table ronde.
+- Cet événement s'inscrit dans le cadre de la campagne « Not Alone », qui vise à créer un espace de dialogue multiforme pour concrétiser l'esprit de la Convention de Hanoï , en protégeant les personnes vulnérables, notamment les enfants et les adolescents, contre les menaces de plus en plus complexes de la cybercriminalité.
+- Défis mondiaux et responsabilités partagées.
+- Avec l'essor d'Internet et des réseaux sociaux, les enfants et les adolescents sont confrontés à de nombreux nouveaux risques.
+
+## [Cyberattaque de La Poste: c'est quoi un DDoS, cette &quot;attaque par déni de service&quot; qui rend ...](https://www.bfmtv.com/tech/cybersecurite/cyberattaque-de-la-poste-c-est-quoi-un-d-do-s-cette-attaque-par-deni-de-service-qui-rend-inaccessibles-autant-de-sites-et-services-en-ligne_AV-202512250204.html)  
+*Source : bfmtv.com | Publication : 2025-12-25*
+
+- Cyberattaque de La Poste: c’est quoi un DDoS, cette "attaque par déni de service" qui rend inaccessibles autant de sites et services en ligne?.
+- Depuis lundi matin et pendant presque trois jours, la quasi intégralité des services en ligne grand public de La Poste ont été victimes d'une cyberattaque qui les a rendus totalement inaccessibles, puis accessibles de manière instable.
+- Et si une forme de normalité apparente règne désormais, l'attaque est toujours en cours.
+- L'attaque en question est un déni de service (DoS, en anglais, pour Denial of Service), et même un DDoS, pour dénis de service distribués.
+
+## [Alerte phishing chez Ledger : les pirates ne font pas de cadeau pendant Noël - Clubic](https://www.clubic.com/actualite-592795-alerte-phishing-chez-ledger-les-pirates-ne-font-pas-de-cadeau-pendant-noel.html)  
+*Source : clubic.com | Publication : 2025-12-25*
+
+- La période des fêtes voit traditionnellement fleurir les tentatives de phishing.
+- Ledger alerte sur plusieurs campagnes actives qui ciblent ses clients, par e-mail, faux sites, applications piégées ou courrier postal.
+- Les escrocs profitent du relâchement de fin d’année pour pousser les utilisateurs à commettre une erreur irréversible.
+- A l'image de la traditionnelle bûche de Noël ou des cotillons de la Saint-Sylvestre, les tentatives de phishing font désormais partie des traditions des fêtes de fin d'année.
+
+## [#<b>cybersécurité</b> #renforcée #<b>cybersécurité</b> #prévention | Jérôme COPIN - LinkedIn](https://fr.linkedin.com/posts/jérôme-copin-247386b9_cybersécurité-renforcée-cybersécurité-activity-7409627682545496064-gZ10)  
+*Source : fr.linkedin.com | Publication : 2025-12-25*
+
+- 🎄 Belles fêtes de fin d’année à toutes et à tous !.
+- 🎄 Que ces moments soient placés sous le signe du partage, de la sérénité… et d’une #cybersécurité #renforcée 🔐 Profitez-en pour lever le pied, débrancher un peu (sauf les mises à jour critiques 😉) et rester vigilants face aux arnaques de saison.
+- Quant aux hackers ☠️, inutile de leur rappeler qu’en cette période de fêtes, il faut aussi qu'ils se méfient 🤣 du colis qui ne rentre pas dans la boîte aux lettres… Pour ma part, je vous retrouverai en 2026 avec quelques belles surprises 🎁 en perspectives.
+- La #Cybersécurité par la #prévention !.
+
+## [Askul Corp va demander une prolongation du délai de dépôt de son rapport semestriel en ...](https://www.zonebourse.com/actualite-bourse/askul-corp-va-demander-une-prolongation-du-delai-de-depot-de-son-rapport-semestriel-en-raison-d-une-ce7e59dadc81f220)  
+*Source : zonebourse.com | Publication : 2025-12-25*
+
+- Askul Corp va demander une prolongation du délai de dépôt de son rapport semestriel en raison d'une attaque par ransomware Publié le 25/12/2025 à 07:43 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © Reuters - 2025 Partager.
+
+## [Généatique est désormais disponible sur&amp;nbsp;Mac - ITRnews](https://itrnews.com/articles/208353/geneatique-est-desormais-disponible-sur-mac.html)  
+*Source : itrnews.com | Publication : 2025-12-25*
+
+- Veuillez activer Javascript.
+
+## [Kaspersky ICS CERT, la branche de recherche en <b>cybersécurité</b>, partage ses tendances et ...](https://www.tunisie-tribune.com/2025/12/24/kaspersky-ics-cert-la-branche-de-recherche-en-cybersecurite-partage-ses-tendances-et-perspectives-pour-le-secteur-en-2026/)  
+*Source : tunisie-tribune.com | Publication : 2025-12-25*
+
+- Tunisie-Tribune (Kaspersky) – L’année 2025 a été marquée par une pression constante sur les environnements industriels, avec une complexification croissante des menaces mondiales.
+- Le Kaspersky Security Bulletin révèle que la proportion de systèmes de contrôle industriels (ICS) ciblés par des malwares est restée significative, autour de 21,9% au T1 2025, avant de baisser légèrement à 20% au T3 2025.
+- Cette tendance témoigne d’une amélioration progressive des défenses en matière de cybersécurité au sein des organisations industrielles.
+- On observe toutefois des disparités régionales notables : l’Afrique, l’Asie du Sud-Est, l’Asie de l’Est, le Moyen-Orient et l’Asie du Sud enregistrent les taux les plus élevés d’ICS touchés Menaces par secteurs d’activité Les secteurs industriels ont été exposés de manière inégale aux attaques.
+
+## [Emmanuel Macron dénonce une atteinte à la souveraineté numérique européenne après ...](https://www.solutions-numeriques.com/emmanuel-macron-denonce-une-atteinte-a-la-souverainete-numerique-europeenne-apres-des-sanctions-des-etats-unis/)  
+*Source : solutions-numeriques.com | Publication : 2025-12-25*
+
+- En visant plusieurs figures européennes engagées dans la régulation du numérique, Washington transforme un débat juridique en rapport de force politique.
+- Paris et Bruxelles dénoncent une tentative d’intimidation qui dépasse les cas individuels et interroge directement l’autonomie réglementaire européenne.
+- Une décision américaine inédite Le département d’État américain a pris la décision d’interdire l’entrée aux États-Unis à ces cinq personnalités européennes impliquées dans la régulation du numérique.
+- Sont concernés Thierry Breton, ancien commissaire européen au Marché intérieur, Imran Ahmed, directeur du Centre for Countering Digital Hate, Josephine Ballon et Anna-Lena von Hodenberg, codirectrices de l’ONG allemande HateAid, ainsi que Clare Melford, dirigeante du Global Disinformation Index, lit-on chez AP News.
+
+## [Un séminaire à l'Université Ibb sur les menaces techniques et cybernétiques](https://saba.ye/fr/news3414058.htm)  
+*Source : saba.ye | Publication : 2025-12-25*
+
+- Agence de Presse Yéménite.
+- Accueil Chef de la révolution le président Locales Internationale L‘agression Américain saoudienne Economie Le Développement et les initiatives English | فارسي | Español | Deutsch | عـربـي |.
+- Rechercher | Recherche avancée Caricatures Galerie photo Locales Le Yémen, Terre de Foi, se soulève pour défendre le Coran : Le Rédacteur Politique [25 December 2025] Le directeur général de la police de la circulation ordonne la préparation d'une étude sur l'affectation de taxis-bus réservés aux femmes dans la capitale, Sanaa.
+- [25 December 2025] Le ministre de l'Économie par intérim visite des usines en activité et en difficulté à Sanaa [25 December 2025] Al-Farrah : Les menaces des criminels ennemis israéliens Netanyahu et Katz n’intimideront pas le Yémen et ne modifieront pas sa position [25 December 2025] CBY met en garde contre toute transaction avec QNet et des entités similaires.
+
+## [​<b>Cybercriminalité</b> : Comment Pyongyang essaie de pénétrer les entreprises US](https://www.lopinion.ma/​Cybercriminalite-Comment-Pyongyang-essaie-de-penetrer-les-entreprises-US_a75269.html)  
+*Source : lopinion.ma | Publication : 2025-12-24*
+
+- Le géant américain Amazon a annoncé avoir bloqué plus de 1.800 candidatures nord-coréennes, alors que Pyongyang est accusée de contourner les sanctions de l'ONU en faisant embaucher à l'étranger des salariés télétravaillant depuis le pays.
+- Des Nord-Coréens "cherchent à obtenir des emplois en télétravail dans l'informatique auprès d'entreprises du monde entier, en particulier aux Etats-Unis", a affirmé le responsable sécurité d'Amazon Stephen Schmidt la semaine dernière, sur LinkedIn.
+- Selon lui, l'entreprise a vu une augmentation de près d'un tiers de ces candidatures au cours de l'année.
+- Derrière ces profils se trouvent des "laptop farms": des locaux remplis d'ordinateurs installés physiquement aux Etats-Unis, mais contrôlés depuis un autre pays, a expliqué Stephen Schmidt.
+
+## [Alexandra Hawrylyszyn sur la panne qui touche le site de La Poste - Vidéo Dailymotion](https://www.dailymotion.com/video/x9wctxu)  
+*Source : dailymotion.com | Publication : 2025-12-24*
+
+- Skip to player Skip to main content Watch fullscreen Alexandra Hawrylyszyn sur la panne qui touche le site de La Poste.
+
+## [La cyberattaque contre La Poste perd en intensité à deux jours de Noël - La Gazette France](https://www.lagazettefrance.fr/article/la-cyberattaque-contre-la-poste-perd-en-intensite-a-deux-jours-de-noel)  
+*Source : lagazettefrance.fr | Publication : 2025-12-24*
+
+- La cyberattaque contre La Poste perd en intensité à deux jours de Noël La cyberattaque, revendiquée par des hackers prorusses, qui a touché La Poste à quelques jours de Noël était "toujours en cours" mardi soir, mais avait.
+- La cyberattaque, revendiquée par des hackers prorusses, qui a touché La Poste à quelques jours de Noël était "toujours en cours" mardi soir, mais avait "perdu en intensité", selon l'opérateur postal.
+- Le parquet de Paris a indiqué à l'AFP qu'il avait ouvert une enquête "pour des faits d'entrave au fonctionnement d'un système de traitement automatisé de données", confiée à l'Unité nationale cyber (UNC) et la Direction générale de la sécurité intérieure (DGSI).
+- L'attaque informatique est survenue lundi, au début de la première semaine des fêtes de fin d'année, période la plus dense pour La Poste.
+
+## [DXS affirme avoir contenu l'incident de <b>cybersécurité</b> et reste vigilant - Zonebourse](https://www.zonebourse.com/actualite-bourse/dxs-affirme-avoir-contenu-l-incident-de-cybersecurite-et-reste-vigilant-ce7e59dadd88f127)  
+*Source : zonebourse.com | Publication : 2025-12-24*
+
+- DXS International PLC - fournisseur de solutions d&#039;information médicale et de systèmes d&#039;aide à la décision clinique basé dans le Leicestershire, en Angleterre - annonce avoir contenu un incident de cybersécurité, tout en restant &quot;vigilant&quot; grâce à la mise en place de mesures supplémentaires de surveillance et de sécurité.
+- DXS avait signalé l&#039;incident, qui a touché ses serveurs de bureau, jeudi dernier.
+- L&#039;entreprise avait alors précisé ne pas s&#039;attendre à ce que l&#039;incident ait un impact négatif significatif sur sa situation financière ou sur ses prévisions de marché pour l&#039;exercice se terminant le 30 avril.Cours actuel de l&#039;action : 1,25 pence sur AquisÉvolution sur 12 mois : baisse de 29 %Par Roya Shahidi, journaliste Alliance NewsCommentaires et questions à newsroom@alliancenews.comCopyright 2025 Alliance News Ltd.
+- Tous droits réservés.
+
+## [Cyberattaque contre La Poste: la situation s'améliore à la veille de Noël - La Gazette France](https://www.lagazettefrance.fr/article/cyberattaque-contre-la-poste-la-situation-s-ameliore-a-la-veille-de-noel)  
+*Source : lagazettefrance.fr | Publication : 2025-12-24*
+
+- Pour Baptiste Robert, chercheur en cybersécurité.
+- Étiquettes: Paris(FR) Baptiste Robert logistique Cybercriminalité Internet Ukraine France.
+
+## [3 questions sur NoName057, le groupe de hackers pro-russes qui a en partie revendiqué la ...](https://www.lepopulaire.fr/paris-75000/faits-divers/3-questions-sur-noname057-le-groupe-de-hackers-pro-russes-qui-a-en-partie-revendique-la-cyberattaque-contre-la-poste_14804784/)  
+*Source : lepopulaire.fr | Publication : 2025-12-24*
+
+- Écouter l'article NoName057 (16).
+- C'est le nom du groupe de hackers pro-russes qui a revendiqué une partie de la cyberattaque contre le groupe La Poste, ce mardi 23 décembre 2025.
+- Une information confirmée par le parquet de Paris.
+- "L’Unité nationale cyber (UNC) et la Direction générale de la sécurité intérieure (DGSI) ont été saisis de l’enquête ouverte pour des faits d’entrave au fonctionnement d’un système de traitement automatisé de données", rapporte Le Figaro.
+
+## [Résumé de l'exercice de réponse aux incidents de <b>cybersécurité</b> de 2025 - Vietnam.vn](https://www.vietnam.vn/fr/tong-ket-dien-tap-thuc-chien-ung-cuu-su-co-an-ninh-mang-nam-2025)  
+*Source : vietnam.vn | Publication : 2025-12-24*
+
+- Étaient présents à la conférence le lieutenant-colonel Ta Hoang Thong, chef adjoint du département 7 du Bureau de prévention et de contrôle de la cybersécurité et de la criminalité de haute technologie ( ministère de la Sécurité publique ) ; des représentants des départements, agences, localités et entreprises publiques de la province ; des officiers de police de diverses unités et localités ; et des membres du sous-comité provincial de cybersécurité.
+- Dans son discours d'ouverture à la conférence, le colonel Le Huu Tuan a souligné que le développement rapide des sciences et des technologies, ainsi que la transformation numérique, ont fortement stimulé le développement socio-économique , mais ont également engendré de nombreux risques et défis en matière de cybersécurité.
+- Le cyberespace est de plus en plus exploité par des forces hostiles et des cybercriminels pour porter atteinte à la sécurité nationale et à l'ordre public.
+- Par conséquent, garantir la cybersécurité est une priorité absolue et permanente, étroitement liée au développement des sciences et des technologies, à l'innovation et à la transformation numérique dans la province.
+
+## [Deux séminaires organisés à l'Université de Sa'dah sur la <b>cybersécurité</b> et les classements ...](https://www.saba.ye/fr/news3613768.htm)  
+*Source : saba.ye | Publication : 2025-12-24*
+
+- Agence de Presse Yéménite.
+- Accueil Chef de la révolution le président Locales Internationale L‘agression Américain saoudienne Economie Le Développement et les initiatives English | فارسي | Español | Deutsch | عـربـي |.
+- Rechercher | Recherche avancée Caricatures Galerie photo Locales Le Yémen, Terre de Foi, se soulève pour défendre le Coran : Le Rédacteur Politique [25 December 2025] Le directeur général de la police de la circulation ordonne la préparation d'une étude sur l'affectation de taxis-bus réservés aux femmes dans la capitale, Sanaa.
+- [25 December 2025] Le ministre de l'Économie par intérim visite des usines en activité et en difficulté à Sanaa [25 December 2025] Al-Farrah : Les menaces des criminels ennemis israéliens Netanyahu et Katz n’intimideront pas le Yémen et ne modifieront pas sa position [25 December 2025] CBY met en garde contre toute transaction avec QNet et des entités similaires.
 
 ## [<b>Cybersécurité</b> et souveraineté numérique avec Interstis solutions - midilibre.fr](https://www.midilibre.fr/2025/12/24/cybersecurite-et-souverainete-numerique-avec-interstis-solutions-13129920.php)  
 *Source : midilibre.fr | Publication : 2025-12-24*
