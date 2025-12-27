@@ -1,5 +1,120 @@
-# Résumés – 2025-12-26
+# Résumés – 2025-12-27
 
+
+## [Niger. «Nous n'avons aucune chance devant un un juge»: journalistes et webactivistes ...](https://afrique.le360.ma/medias/niger-nous-navons-aucune-chance-devant-un-un-juge-journalistes-et-webactivistes-rejettent-la-loi-sur_QX44KJGDSFB5TII76UWOEACFPY/)  
+*Source : afrique.le360.ma | Publication : 2025-12-27*
+
+- Au Niger‚ la question de la liberté d’expression est au centre des débats publics, notamment la loi sur la cybercriminalité qui porte un coup dur sur ce droit fondamental qu’est la liberté d’expression.
+- En 2024, le gouvernement a modifié la loi de 2019 sur la répression de la cybercriminalité qui prévoit une peine d’emprisonnement de un à trois ans et une amende de un à cinq million de fcfa pour toute personne reconnue coupable de diffamation ou d’injures par un moyen de communication électronique.
+- En outre, il est prévu une peine de prison de deux à cinq ans et une amende de deux millions à cinq millions de fcfa, en cas de commission de diffusion de données de nature à troubler l’ordre public ou à porter atteinte à la dignité humaine.
+- Lire aussi : Cybersécurité: les 7 pays africains les mieux outillés «Il y’a des aspects limitatifs de la liberté d’expression notamment avec ce qu’on a appelé les lois liberticides, qui sont des loi limitatives de l’espace civique», explique Illiassou Boubacar, acteur de la société civile.
+
+## [Mondial Relay victime d'une cyberattaque dont l'ampleur reste impossible à mesurer](https://www.liberation.fr/economie/economie-numerique/mondial-relay-victime-dune-cyberattaque-dont-lampleur-reste-impossible-a-mesurer-20251227_OPZ3N443RNAXBNOPPKOKOFBJHM/)  
+*Source : liberation.fr | Publication : 2025-12-27*
+
+- Moyens de paiement et coordonnées bancaires ont été protégés, selon l'entreprise qui indique avoir déposé plainte.
+- Cybersécurité.
+
+## [Vous utilisez un Mac ? Cette offre de <b>cybersécurité</b> peut vous éviter de gros problèmes (-60%)](https://www.clubic.com/bons-plans-592774-vous-utilisez-un-mac-cette-offre-de-cybersecurite-peut-vous-eviter-de-gros-problemes--60.html)  
+*Source : clubic.com | Publication : 2025-12-27*
+
+- Les virus, malwares et tentatives de phishing ciblant macOS explosent ces derniers mois.
+- Pour y faire face, Intego Mac Premium Bundle X9 revient avec une remise exceptionnelle de 60 %, offrant une protection complète du Mac à prix réduit.
+- Pourquoi les Mac sont de plus en plus ciblés par les cybermenaces ?.
+- Longtemps considérés comme plus sûrs, les Mac attirent désormais autant les cybercriminels que les PC.
+
+## [« WarGames » : le film qui alerta l'Amérique sur la <b>cybersécurité</b> - Le Point](https://www.lepoint.fr/pop-culture/wargames-le-film-qui-alerta-lamerique-sur-la-cybersecurite-6VVLPEC67ZHGNECACV6A3P63PQ/)  
+*Source : lepoint.fr | Publication : 2025-12-27*
+
+- Une anecdote célèbre sur WarGames fut détaillée en 2016 par le journaliste américain Fred Kaplan dans son livre Dark Territory : The Secret History of Cyber War.
+- Grand fan du film, qu’il s’est fait projeter dans son lodge de Camp David au lendemain de sa sortie en salle, fixée au 3 juin 1983, Ronald Reagan est alors si impressionné par son réalisme que, cinq jours plus tard, lors d’une réunion à la Maison-Blanche avec les secrétaires d’État, de la Défense et du Trésor, des généraux et 16 membres du Congrès, il pose deux questions à brûle-pourpoint : « Est-ce que ce genre de choses pourrait vraiment arriver ?.
+- Est-ce que quelqu’un pourrait s’introduire dans nos ordinateurs les plus sensibles ?.
+- » Une semaine après, la réponse argumentée d’un officier ne va pas vraiment stopper les sueurs froides reaganiennes : « Monsieur le Président, le problème est bien pire que vous ne le pensez.
+
+## [Mondial Relay a aussi été victime d'une cyberattaque mardi 23 décembre - Orange Actu](https://actu.orange.fr/france/mondial-relay-a-aussi-ete-victime-d-une-cyberattaque-mardi-23-decembre-magic-CNT000002mneVZ.html)  
+*Source : actu.orange.fr | Publication : 2025-12-27*
+
+- Mondial Relay a aussi été victime d’une cyberattaque mardi 23 décembre © Flemal JL/Belpress/ANDBZ/ABACAPRESS.COM Les hackers ont volé les données des usagers, selon Infinity Area et Radio France.
+- La cyberattaque a été identifiée grâce aux mécanismes de surveillance du site.
+- Comme La Poste, Mondial Relay a également été touché par une cyberattaque.
+- Mardi 23 décembre, la société de livraison a subi un vol de données, révèle l’Agence de Radio France, qui confirme ainsi une information du site Infinity Area.
+
+## [« Il n'y avait même pas mon nom dans l'adresse mail », comment une cyberattaque ... - Numerama](https://www.numerama.com/cyberguerre/2149763-il-ny-avait-meme-pas-mon-nom-dans-ladresse-mail-comment-une-cyberattaque-grotesque-a-siphonne-le-salaire-dun-depute-belge.html)  
+*Source : numerama.com | Publication : 2025-12-27*
+
+- Mathieu Michel n’a pas reçu sa paye de novembre.
+- Du moins, pas du premier coup.
+- Ce député libéral belge, ancien secrétaire d’État à la digitalisation, a dévoilé cette affaire à peine croyable le jeudi 25 décembre auprès d’un média local.
+- Un simple mail frauduleux a suffi pour détourner sa rémunération : « Un individu a envoyé un e-mail à la Chambre pour demander de verser mon salaire sur un nouveau compte bancaire », explique-t-il.
+
+## [Faux médicaments, contrefactions... Ecoutez Amit Weigman, expert en <b>cybersécurité</b> chez ...](https://israelvalley.com/2025/12/27/faux-medicaments-contrefactions-ecoutez-amit-weigman-expert-en-cybersecurite-chez-check-point-base-a-tel-aviv/)  
+*Source : israelvalley.com | Publication : 2025-12-27*
+
+- Des sites de vente de faux médicaments amaigrissants se multiplient à grande vitesse.
+- Portées par l’intelligence artificielle, ces arnaques gagnent en crédibilité et en volume.
+- Une menace à la fois financière et sanitaire.
+- Les visuels et les promesses sont alléchants, et pourtant, le produit est dangereux.
+
+## [L'Ombre du numérique : un manuel de <b>cybersécurité</b> accessible à tous](https://www.leconomistemaghrebin.com/2025/12/27/ombre-du-numerique-cybersecurite/)  
+*Source : leconomistemaghrebin.com | Publication : 2025-12-27*
+
+- Les éditions Arabesques publient un nouvel ouvrage intitulé « L’Ombre du numérique », écrit par Issam Rihan.
+- Le livre, disponible en langue française et en langue arabe, se présente comme un guide consacré à la sécurité en ligne.
+- L’ouvrage aborde plusieurs thématiques liées aux technologies contemporaines, notamment le réseautage, l’intelligence artificielle et les objets connectés.
+- L’auteur y examine les menaces associées à ces outils et met l’accent sur la question de la souveraineté des données personnelles dans le contexte numérique actuel.
+
+## [L'ingénierie sociale devient la première menace contre les cryptos - TradingView](https://fr.tradingview.com/news/cointribune:2594f7adab858:0/)  
+*Source : fr.tradingview.com | Publication : 2025-12-27*
+
+- L’ingénierie sociale devient la première menace contre les cryptos Les pertes liées aux cryptos ont franchi la barre des 2,5 milliards de dollars en 2025, marquant un tournant dans les méthodes employées par les cybercriminels.
+- Désormais, l’ingénierie sociale s’impose comme la technique privilégiée pour dérober des fonds, selon un récent rapport sectoriel.
+- Lisez-nous sur Google NewsEn bref Les attaques visant les cryptomonnaies ont généré plus de 2,5 milliards de dollars de pertes en 2025.
+- - L’ingénierie sociale devient la méthode dominante pour compromettre la valeur totale verrouillée (TVL).
+
+## [LONDRES : Cybernews - Pourquoi les licenciements massifs et l'intégration précipitée de l ...](https://presseagence.fr/londres-cybernews-pourquoi-les-licenciements-massifs-et-lintegration-precipitee-de-lia-constituent-une-menace-pour-la-cybersecurite/)  
+*Source : presseagence.fr | Publication : 2025-12-27*
+
+- LONDRES : Cybernews – Pourquoi les licenciements mass… Partager : LONDRES : Cybernews – Pourquoi les licenciements massifs et l’intégration précipitée de l’IA constituent une menace pour la cybersécurité Un article d’opinion de Jurgita Lapienytė, rédactrice en chef chez Cybernews.
+- « Les licenciements massifs, les gels des embauches, l’incertitude du marché et l’intégration précipitée de l’IA exposent les entreprises aux cyberattaques.
+- Les leaders visionnaires, cependant, peuvent voir la situation actuelle comme une rare opportunité de recruter des talents entre deux missions », soutient Jurgita.
+- Veuillez trouver l’article d’opinion ci-dessous, et n’hésitez pas à publier l’intégralité ou à extraire des citations spécifiques de Jurgita.
+
+## [La Thaïlande et le Cambodge conviennent d'un « cessez-le-feu immédiat » - Le Soir](https://www.lesoir.be/719056/article/2025-12-27/la-thailande-et-le-cambodge-conviennent-dun-cessez-le-feu-immediat)  
+*Source : lesoir.be | Publication : 2025-12-27*
+
+- contre la cybercriminalité et la libération par Bangkok de 18 soldats cambodgiens après 72 heures de cessez-le-feu effectif.
+
+## [La Chine s'oppose fermement aux actions dangereuses du Japon dans le cyberespace ...](http://french.xinhuanet.com/20251226/506430a3ddb54708a434d91e42b574f9/c.html)  
+*Source : french.xinhuanet.com | Publication : 2025-12-27*
+
+- BEIJING, 26 décembre (Xinhua) -- La Chine s'oppose fermement aux actions dangereuses du Japon dans le cyberespace et exhorte vivement le Japon à respecter sa Constitution pacifiste et à défendre les règles et l'ordre internationaux existants par des actions concrètes, a déclaré vendredi le porte-parole du ministère des Affaires étrangères Lin Jian.
+- "Toute action inappropriée de la part du Japon qui porterait atteinte à la souveraineté, à la sécurité et aux intérêts de développement de la Chine provoquerait à coup sûr une réponse solennelle de la Chine", a déclaré le porte-parole lors d'un point de presse quotidien, en réponse au changement d'orientation du Japon en matière d'offensive cybernétique.
+- Selon des médias, le Cabinet du Japon a récemment adopté une nouvelle stratégie en matière de cybersécurité, autorisant la police et les forces d'autodéfenses du pays à prendre des contre-mesures proactives en cas de cyberattaques.
+- En mai dernier, le Japon a également adopté une soi-disant loi sur la cyberdéfense active, autorisant explicitement le gouvernement japonais à infiltrer ou à désactiver de manière préventive les dispositifs réseau des auteurs présumés d'attaques.
+
+## [Un cadre juridique pour accélérer le virage numérique - Le Courrier du VietNam](https://lecourrier.vn/un-cadre-juridique-pour-accelerer-le-virage-numerique/1308080.html)  
+*Source : lecourrier.vn | Publication : 2025-12-26*
+
+- >> Les députés s'attaquent aux obstacles et améliorent l'efficacité de l'utilisation des terres >> Résolution 57 : la transformation numérique se diffuse jusqu’à chaque citoyen >> Résolution 57 : de nouvelles opportunités pour les entreprises du numérique Adoptée le 11 décembre 2025 par l’Assemblée nationale de la XVᵉ législature lors de sa 10ᵉ session, avec 433 voix favorables sur 442, la Loi sur la transformation numérique constitue un tournant majeur dans la construction d’une nation digitale.
+- Elle entrera en vigueur le 1ᵉʳ juillet 2026.
+- Composé de huit chapitres et de 48 articles, ce texte établit pour la première fois au Vietnam - et, selon certains observateurs, de manière inédite à l’échelle mondiale - un cadre juridique global pour l’espace numérique national.
+- Il définit de manière systémique les concepts, principes, responsabilités et mécanismes de gouvernance de cet univers connecté.
+
+## [Le CEA, un levier d'ingénierie pour la souveraineté numérique européenne - IT SOCIAL](https://itsocial.fr/tech-digital/tech-digital-articles/cea-list-un-levier-dingenierie-pour-la-souverainete-numerique-europeenne/)  
+*Source : itsocial.fr | Publication : 2025-12-26*
+
+- Dans un paysage technologique retourné par les recompositions géopolitiques, le CEA List montre comment un institut de recherche peut devenir un véritable levier de souveraineté numérique.
+- IA responsable, cybersécurité certifiable, jumeaux numériques, continuité edge to cloud et calcul quantique composent une trame cohérente où la recherche publique se transforme en infrastructure stratégique au service des industriels français et européens.
+- Au moment où les relations transatlantiques se tendent et où la dépendance aux technologies américaines devient un risque assumé dans les discours politiques, CEA List revendique un positionnement cristallin.
+- L’institut rassemble environ 1 000 ingénieurs et techniciens, dispose d’un budget de plus de 130 millions d’euros et s’appuie sur un portefeuille de 2 122 brevets, avec près de 80 nouveaux dépôts pour la seule année 2024.
+
+## [<b>Cybercriminalité</b> dans l'industrie pétrolière et gazière : Ces menaces qui pèsent sur le Sénégal](https://www.pressafrik.com/Cybercriminalite-dans-l-industrie-petroliere-et-gaziere-Ces-menaces-qui-pesent-sur-le-Senegal_a299238.html)  
+*Source : pressafrik.com | Publication : 2025-12-26*
+
+- Réseau social Activités Membres (18) Connectez-vous S'inscrire CAN 2025 : le Nigéria s’impose (3-2) face à la Tunisie et se qualifie pour les huitièmes Dakar : six (6) individus arrêtés et 272 bouteilles de gaz saisies par la Brigade de Recherches La Russie revendique la prise de Myrnohrad et de Hulyaipole, dans l'est de l'Ukraine Lutte contre le trafic de stupéfiants : Saisie de 10 kg de chanvre indien à Karang Emigration irrégulière : la Marine nationale secourt 93 migrants au large de Dakar Décès de Khar Mbaye Madiaga : l’hommage du ministère de la Culture à la cantatrice Décès de Khar Mbaye Madiaga : Macky Sall salue une « icône » dont l’œuvre restera gravée dans la mémoire collective CAN 2025 : le Sénégal et la RD Congo se neutralisent (1-1) CAN 2025 : Sadio Mané égalise pour le Sénégal (1-1) CAN 2025 - Sénégal – RDC : des “Lions” séduisants mais inefficaces en première période Politique Politique Procès Khalifa Sall Société Sport Dossiers Economie Afrique Monde People People People Mode Amour Videos Gallerie Publicité Cybercriminalité dans l’industrie pétrolière et gazière : Ces menaces qui pèsent sur le Sénégal Accueil Envoyer à un ami Version imprimable Partager Une vaste opération de lutte contre la cybercriminalité, menée par les autorités sénégalaises, en coordination avec Interpol à déjouer une tentative de fraude informatique visant à détourner 7,9 millions de dollars, soit environ 4,85 milliards de francs CFA.
+- Cette opération visait une grande compagnie pétrolière du pays.
+- L’information a été rendue publique le 22 décembre 2025 par l’organisation policière internationale.
+- Selon le communiqué d’Interpol, les cybercriminels avaient réussi à infiltrer les systèmes de messagerie interne de l’entreprise en usurpant l’identité de cadres dirigeants, une technique connue sous le nom de « fraude au président » (BEC – Business Email Compromise).
 
 ## [Cyberattaque : La Poste assure que tous ses services sont «disponibles - Libération](https://www.liberation.fr/economie/conso/cyberattaque-la-poste-assure-que-tous-ses-services-sont-disponibles-20251226_FT6PHL3MPNHTXLFIPRHW2NBGCE/)  
 *Source : liberation.fr | Publication : 2025-12-26*
