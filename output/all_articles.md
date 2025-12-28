@@ -1,5 +1,96 @@
-# Résumés – 2025-12-27
+# Résumés – 2025-12-28
 
+
+## [La protection des données de santé, une priorité stratégique de l'Etat](https://www.aps.dz/fr/algerie/sante-et-environnement/mjq1mwxx-la-protection-des-donnees-de-sante-une-priorite-strategique-de-l-etat)  
+*Source : aps.dz | Publication : 2025-12-28*
+
+- La protection des données de santé, une priorité stratégique de l'Etat dimanche 28 décembre 2025 19:10 327 ALGER- Le ministre de la Santé, M. Mohamed Seddik Ait Messaoudene, a indiqué, dimanche à Alger, que le dossier de la cybersécurité et de la protection des données de santé figure parmi les priorités stratégiques de l'Etat algérien.
+- Articles connexes.
+
+## [ServiceNow s'apprête à acquérir Armis pour 7,75 milliards de dollars - EmarketerZ](https://www.emarketerz.fr/servicenow-sapprete-a-acquerir-armis-pour-775-milliards-de-dollars/)  
+*Source : emarketerz.fr | Publication : 2025-12-28*
+
+- ServiceNow a annoncé son intention d’acquérir Armis pour un montant de 7,75 milliards de dollars en espèces.
+- Cette acquisition stratégique vise à renforcer l’offre de ServiceNow en matière de cybersécurité et de gestion des risques, en intégrant les technologies avancées d’Armis dans ses solutions existantes.
+- Découvrez les détails de cette transaction majeure et les perspectives qu’elle ouvre pour le secteur de la sécurité informatique.
+- Les 3 infos à ne pas manquer ServiceNow a signé un accord pour acquérir Armis pour 7,75 milliards de dollars.
+
+## [La robustesse de NordVPN a été auditée par cet expert de la <b>cybersécurité</b> - DegroupTest](https://www.degrouptest.com/actualite/la-robustesse-de-nordvpn-a-ete-auditee-par-cet-expert-de-la-cybersecurite)  
+*Source : degrouptest.com | Publication : 2025-12-28*
+
+- Pour qu'un VPN soit garant de la sécurité de nos informations personnelles, encore faut-il qu'il soit lui-même irréprochable.
+- C'est pour cette raison que les principaux VPN du marché font régulièrement auditer leurs process par des firmes spécialisées afin de vérifier la pertinence de leurs modes de fonctionnement et les faire évoluer le cas échéant.
+- Dernièrement, c'est NordVPN qui a été passé au crible.
+- Voici les résultats obtenus.
+
+## [CSM - Francophone -<b>Cybersécurité</b> - SaaS - Paris (75) - Indeed.com](https://fr.indeed.com/viewjob?jk=71ecdf7dcd6be944)  
+*Source : fr.indeed.com | Publication : 2025-12-28*
+
+- : Notre client est une scale-up innovante, qui édite une solution SaaS en cybersécurité combinant assurance et prévention pour aider les entreprises à.
+
+## [Cyberattaque : des clients de Mondial Relay victimes d'une fuite de données - Europe 1](https://www.europe1.fr/societe/cyberattaque-des-clients-de-mondial-relay-victimes-dune-fuite-de-donnees-876624)  
+*Source : europe1.fr | Publication : 2025-12-28*
+
+- Cyberattaque : des clients de Mondial Relay victimes d'une fuite de données Après La Poste trois jours avant Noël, Mondial Relay est à son tour victime d'une cyberattaque.
+- La société a indiqué, ce samedi, avoir détecté "des accès non autorisés à sa plateforme" qui ont pu exposer des informations personnelles de ses clients.
+- Le livreur de colis Mondial Relay a indiqué ce samedi 27 décembre avoir "récemment" détecté "des accès non autorisés à sa plateforme" qui ont pu exposer des informations personnelles de ses clients.
+- Les clients "potentiellement exposés" ont été informés de cette fuite de données par Mondial Relay.
+
+## [Cyberattaques au Togo : se protéger du phishing et des arnaques numériques en période de fêtes](https://lenouveaureporter.com/cyberattaques-au-togo-se-proteger-du-phishing-et-des-arnaques-numeriques-en-periode-de-fetes/)  
+*Source : lenouveaureporter.com | Publication : 2025-12-28*
+
+- La cybersécurité s’impose désormais comme une question de sécurité publique.
+- Au Togo, les chiffres parlent d’eux-mêmes.
+- En 3 ans, plus de 2 milliards de francs CFA ont été extorqués à travers des techniques d’arnaque de plus en plus élaborées, dont le phishing et ses dérivés.
+- Selon les chiffres communiqués par l’Agence nationale de la cybersécurité (ANCy), ce 16 décembre, lors de sa rencontre annuelle avec la Presse, la cyberattaque continue de faire des victimes.
+
+## [Quand l'IA vient polluer les sondages | Atlantico.fr](https://atlantico.fr/article/decryptage/quand-lia-vient-polluer-les-sondages)  
+*Source : atlantico.fr | Publication : 2025-12-28*
+
+- © Intelligence Artificielle.
+- (Image d'illustration).
+- 28 décembre 2025 Quand l’IA vient polluer les sondages L’intelligence artificielle est désormais capable de se faire passer pour des répondants humains quasi indétectables.
+- Une évolution qui menace directement la fiabilité des sondages et pose une question centrale : peut-on encore mesurer l’opinion publique à l’ère des IA génératives ?.
+
+## [Sécurité financière numérique : nous ne pouvons pas nous permettre de prendre du retard.](https://www.vietnam.vn/fr/an-ninh-tai-chinh-so-khong-the-cham-mot-nhip)  
+*Source : vietnam.vn | Publication : 2025-12-28*
+
+- Selon le lieutenant-général Nguyen Minh Chinh, vice-président permanent de l'Association nationale de cybersécurité, le secteur financier et bancaire joue un rôle essentiel dans l' économie et figure parmi les secteurs les plus touchés par la transformation numérique, de manière précoce, rapide et profonde.
+- Le Vietnam entre dans une ère de forte transformation numérique touchant tous les secteurs.
+- La banque en ligne, les paiements numériques, la finance numérique et les marchés d'actifs numériques offrent de nombreuses perspectives de développement, favorisent l'innovation et améliorent la qualité des services aux citoyens et aux entreprises.
+- Toutefois, ces opportunités s'accompagnent de défis majeurs en matière de cybersécurité et de sécurité de l'information, notamment le risque de fraudes et d'escroqueries de haute technologie de plus en plus sophistiquées, complexes et transfrontalières.
+
+## [Ghana : Fraude au transfert d'argent mobile, 141 suspects arrêtés à Accra, 38 ordinateurs et ... - koaci](https://www.koaci.com/article/2025/12/27/ghana/societe/ghana-fraude-au-transfert-dargent-mobile-141-suspects-arretes-a-accra-38-ordinateurs-et-150-telephones-saisis_193212.html)  
+*Source : koaci.com | Publication : 2025-12-28*
+
+- Ghana : Fraude au transfert d'argent mobile, 141 suspects arrêtés à Accra, 38 ordinateurs et 150 téléphones saisis Des suspects arrêtés et des appareils saisis (ph) Les services de sécurité au Ghana ont arrêté 141 personnes soupçonnées de cybercriminalité lors d'une opération coordonnée menée tôt le samedi 27 décembre à Tabora et Lashibi, dans la région du Grand Accra.
+- L’opération, menée sur la base de renseignements par l’Autorité ghanéenne de cybersécurité (CSA), en collaboration avec la Police, la Sécurité nationale et les Services d’immigration, a permis de démanteler des organisés impliqués dans des fraudes aux transferts électroniques d'argent mobile (MoMo) et des escroqueries aux faux ordres de virement.
+- Selon le ministre de la Communication, de la Numérisation et de l'Innovation, Samuel Nartey George, 100 personnes ont été arrêtées à Tabora et les 41 autres à Lashibi.
+- Les suspects sont soupçonnés d'être impliqués dans diverses activités cybercriminelles, notamment la fraude au paiement mobile, les escroqueries sentimentales, l'extorsion sexuelle, la compromission de messageries professionnelles et la fraude par virement bancaire.
+
+## [Les maires ont été sensibilisés à la <b>cybersécurité</b> - midilibre.fr](https://www.midilibre.fr/2025/12/28/les-maires-ont-ete-sensibilises-a-la-cybersecurite-13133714.php)  
+*Source : midilibre.fr | Publication : 2025-12-28*
+
+- Les maires ont été sensibilisés à la cybersécurité La communauté de communes Grand Orb a organisé une conférence des maires dédiée à la cybersécurité.
+- Cette thématique est devenue incontournable pour les collectivités locales, confrontées à une hausse constante des cyberattaques.
+- En introduction, le président de Grand Orb, Pierre Mathieu, a précisé l’objectif de la rencontre : "Il ne s’agit pas de faire de nous des experts en informatique, mais de nous rendre acteurs et protecteurs de nos collectivités dans ce domaine essentiel.".
+- La rencontre s’est tenue en présence du sous-préfet de Béziers, Jacques Lucbereilh, qui a rappelé la nécessité de se protéger contre les "guerres hybrides auxquelles le monde entier est aujourd’hui confronté".
+
+## [L'empreinte de la Convention de Hanoï et la lutte mondiale contre la <b>cybercriminalité</b>.](https://www.vietnam.vn/fr/dau-an-cong-uoc-ha-noi-va-cuoc-chien-toan-cau-chong-toi-pham-mang)  
+*Source : vietnam.vn | Publication : 2025-12-28*
+
+- Convention de Hanoï : Construire un ordre numérique fondé sur le droit et la confiance C’est également dans ce domaine que les menaces non traditionnelles à la sécurité augmentent à un rythme sans précédent.
+- La cybercriminalité n’est plus un incident isolé, mais est devenue une industrie clandestine transnationale qui exploite les technologies de pointe pour voler des données, attaquer les infrastructures critiques, manipuler l’opinion publique, commettre des fraudes financières et nuire aux groupes vulnérables.
+- Des centaines de milliers de cyberattaques sont recensées chaque jour dans le monde, causant chaque année des pertes économiques se chiffrant en milliers de milliards de dollars.
+- Toutefois, le préjudice le plus grave réside dans l'érosion de la confiance numérique, fondement de toute transformation digitale.
+
+## [Le Maroc se dote d'une stratégie nationale pour endiguer le piratage audiovisuel](https://fr.hespress.com/455426-le-maroc-se-dote-dune-strategie-nationale-pour-endiguer-le-piratage-audiovisuel.html)  
+*Source : fr.hespress.com | Publication : 2025-12-28*
+
+- Réunis à Rabat à l’occasion du tout premier séminaire international consacré à la lutte contre le piratage audiovisuel, les principaux acteurs institutionnels et professionnels ont franchi une étape majeure dans la protection des contenus culturels et sportifs.
+- Cette rencontre, organisée avec l’appui du Bureau marocain des droits d’auteur et droits voisins (BMDAV), de l’INPI France, de la Motion Picture Association (MPA) et de l’Alliance for Creativity and Entertainment (ACE), a abouti à l’adoption d’une feuille de route nationale destinée à structurer l’action du Maroc dans ce domaine stratégique.
+- Placée sous le haut patronage du ministre de la Jeunesse, de la Culture et de la Communication, Mehdi Bensaid, la réunion a rassemblé des représentants des autorités publiques, des régulateurs, des services spécialisés dans la cybercriminalité, des magistrats, ainsi que des partenaires internationaux, avec le soutien de la Confédération africaine de football, de l’Union européenne et d’INTERPOL.
+- L’objectif était clair : bâtir un cadre coordonné pour faire face à un phénomène qui menace à la fois la création, l’économie numérique et la sécurité en ligne.
 
 ## [Niger. «Nous n'avons aucune chance devant un un juge»: journalistes et webactivistes ...](https://afrique.le360.ma/medias/niger-nous-navons-aucune-chance-devant-un-un-juge-journalistes-et-webactivistes-rejettent-la-loi-sur_QX44KJGDSFB5TII76UWOEACFPY/)  
 *Source : afrique.le360.ma | Publication : 2025-12-27*
