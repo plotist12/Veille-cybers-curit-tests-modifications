@@ -1,5 +1,160 @@
-# Résumés – 2025-12-28
+# Résumés – 2025-12-29
 
+
+## [Industrie de l'arnaque en ligne : en Birmanie, «ceux qui ne rapportent pas assez d'argent se ...](https://www.liberation.fr/international/asie-pacifique/industrie-de-larnaque-en-ligne-en-birmanie-ceux-qui-ne-rapportent-pas-assez-dargent-se-font-tabasser-20251229_F7WREWJYBBGQPCRAW4NLHXYLJI/)  
+*Source : liberation.fr | Publication : 2025-12-29*
+
+- BirmanieThaïlandeChineÉtats-UnisRépression transnationaleInterpol Cybercriminalité.
+- Dans la même rubrique.
+- Reportage · Industrie de l'arnaque en ligne.
+
+## [Un site français de batteries d'ordinateurs et téléphones victime d'une cyberattaque - Clubic](https://www.clubic.com/actualite-593086-un-site-francais-de-batteries-d-ordinateurs-et-telephones-victime-d-une-cyberattaque-il-previent-ses-clients.html)  
+*Source : clubic.com | Publication : 2025-12-29*
+
+- Spécialiste français des batteries et chargeurs, le site web Batteriedeportable a subi une intrusion informatique le mois dernier.
+- Ces dernières heures, les clients ont été informés de l'attaque, car victimes d'un vol de données personnelles.
+- C'est forcément un e-mail que personne n'aime recevoir.
+- Dimanche 28 décembre 2025, le e-commerçant Batteriedeportable a prévenu ses clients que leurs données personnelles ont été compromises lors d'une cyberattaque survenue... en novembre.
+
+## [<b>Ransomwares</b> : des pertes estimées à plus de 18 milliards de dollars en 2025 - ITRnews](https://itrnews.com/articles/208356/ransomwares-des-pertes-estimees-a-plus-de-18-milliards-de-dollars-en-2025.html)  
+*Source : itrnews.com | Publication : 2025-12-29*
+
+- Veuillez activer Javascript.
+
+## [Industrie : Kaspersky et VDC Research estiment à plus de 18 milliards de dollars les pertes ...](https://www.globalsecuritymag.fr/industrie-kaspersky-et-vdc-research-estiment-a-plus-de-18-milliards-de-dollars.html)  
+*Source : globalsecuritymag.fr | Publication : 2025-12-29*
+
+- Industrie : Kaspersky et VDC Research estiment à plus de 18 milliards de dollars les pertes potentielles dues aux ransomwares en 2025 décembre 2025 par Kaspersky, en collaboration avec VDC Research Kaspersky, en collaboration avec VDC Research, annonce qu’au cours des trois premiers trimestres de 2025, les attaques par ransomware visant les entreprises industrielles auraient généré plus de 18 milliards de dollars de pertes.
+- Ce chiffre ne reflète que le coût direct de l’inactivité de la main d’œuvre durant les temps d’arrêt, les impacts opérationnel et financier dépassant largement ce montant.
+- Ces estimations couvrent les régions de l’Asie Pacifique, d’Europe, du Moyen Orient, d’Afrique, de la CEI et d’Amérique Latine, et sont basées sur le nombre d’entreprises où des tentatives de ransomware ont été détectées et évitées, le nombre total d’entreprises manufacturières dans chaque région, le nombre d’heures passées à l’arrêt après une attaque, le nombre moyen d’employés par entreprise ainsi que la rémunération horaire moyenne.
+- Selon les données du Kaspersky Security Network, entre janvier et septembre 2025, le Moyen-Orient (7%) et l’Amérique Latine (6,5%) arrivent en tête du classement régional des détections de ransomware dans des entreprises industrielles, suivis de l’Asie Pacifique (6,3%), l’Afrique (5,8%), la CEI (5,2%) et l’Europe (3,8%).
+
+## [Traite d'êtres humains : en Asie, l'emprise tentaculaire des centres de cyberfraude](https://www.liberation.fr/international/asie-pacifique/traite-detres-humains-en-asie-lemprise-tentaculaire-des-centres-de-cyberfraude-20251229_ZUEW4ATATJAGHDIJXRUQ7GQCC4/)  
+*Source : liberation.fr | Publication : 2025-12-29*
+
+- CambodgeThaïlandeRépression transnationaleChineONUBirmaniePhilippines Cybercriminalité.
+- Dans la même rubrique.
+- Enquête · Traite d'êtres humains : en.
+
+## [On estime que la <b>cybercriminalité</b> causera des pertes de près de 40 billions de VND entre ...](https://www.vietnam.vn/fr/toi-pham-mang-gay-thiet-hai-gan-40-000-ty-dong-giai-doan-2020-2025)  
+*Source : vietnam.vn | Publication : 2025-12-29*
+
+- Le 29 décembre, à l'Académie de police populaire, le ministère de la Sécurité publique, en coordination avec le Bureau du gouvernement , la Banque d'État du Vietnam et le ministère des Sciences et des Technologies, a organisé une conférence scientifique nationale sur le thème « Prévenir et combattre l'appropriation frauduleuse de biens dans le cyberespace ».
+- Le lieutenant-général Tran Quoc To, vice-ministre de la Sécurité publique, et Pham Tien Dung, vice-gouverneur de la Banque d'État du Vietnam, ont coprésidé l'atelier.
+- Dans son discours d'ouverture lors de l'atelier, le lieutenant-général, professeur et docteur Tran Minh Huong, directeur de l'Académie de police populaire, a souligné que ces dernières années, et en particulier depuis la pandémie de COVID-19, la cyberfraude et le vol de biens sont devenus une préoccupation majeure pour de nombreux pays à travers le monde.
+- La cyberfraude et le vol de biens ont un impact direct sur la sécurité et l'ordre public au Vietnam.
+
+## [Le Ghana change d'échelle dans la lutte contre la <b>cybercriminalité</b> - Agence Ecofin](https://www.agenceecofin.com/actualites-numerique/2912-134577-le-ghana-change-d-echelle-dans-la-lutte-contre-la-cybercriminalite)  
+*Source : agenceecofin.com | Publication : 2025-12-29*
+
+- (Agence Ecofin) - La cybercriminalité continue de gagner du terrain en Afrique.
+- Selon Interpol, les incidents de cybersécurité sur le continent auraient entraîné des pertes financières estimées à plus de 3 milliards de dollars entre 2019 et 2025.
+- Au Ghana, cette dynamique se traduit depuis plusieurs semaines par une intensification notable des opérations de répression.
+- Les autorités ghanéennes ont annoncé, le samedi 27 décembre, avoir mené une opération de démantèlement de réseaux de cybercriminalité ayant conduit à l’arrestation de 141 suspects, a indiqué le ministre des Communications, Sam George.
+
+## [Change Healthcare révèle avoir versé 22 millions d'USD pour un <b>ransomware</b> | IBM](https://www.ibm.com/fr-fr/think/news/change-healthcare-22-million-ransomware-payment)  
+*Source : ibm.com | Publication : 2025-12-29*
+
+- Andrew Witty, PDG de UnitedHealth Group, s’est retrouvé à répondre devant le Congrès le 1er mai concernant l’attaque par ransomware contre Change Healthcare survenue en février.
+- Pendant l’audience, il a admis que son organisation avait payé la demande de ransomware de l’attaquant.
+- Il a été rapporté que les pirates informatiques BlackCat, également connue sous le nom d’ALPHV, avaient reçu un paiement de 22 millions de dollars sous forme de bitcoins.
+- Bien qu’ils aient payé le ransomware, M. Witty a indiqué que Change Healthcare n’avait pas récupéré ses données.
+
+## [Ces hackers pensaient leur <b>ransomware</b> inviolable… jusqu'à ce qu'ils découvrent ... - Science et vie](https://www.science-et-vie.com/technos-et-futur/ces-hackers-pensaient-leur-ransomware-inviolable-jusqua-ce-quils-decouvrent-quils-avaient-laisse-la-cle-de-chiffrement-en-evidence-221839.html)  
+*Source : science-et-vie.com | Publication : 2025-12-29*
+
+- Ces hackers pensaient leur ransomware inviolable… jusqu’à ce qu’ils découvrent qu’ils avaient laissé la clé de chiffrement en évidence Alors que certains groupes cybercriminels perfectionnent leurs attaques, d'autres trébuchent sur des détails inattendus.
+- Le dernier malware du collectif CyberVolk illustre ce paradoxe, entre sophistication apparente et défaillance flagrante.
+- Les attaques informatiques sont de plus en plus faciles à lancer, même pour des personnes peu expérimentées.
+- Des groupes organisés conçoivent des outils prêts à l’emploi, diffusés en ligne comme de simples services.
+
+## [Webinaire - Accélération technologique : les métiers émergents - CIDJ](https://www.cidj.com/centre-de-formation/webinaires-decouverte-des-metiers/webinaire-acceleration-technologique-les-metiers-emergents)  
+*Source : cidj.com | Publication : 2025-12-29*
+
+- Webinaire - Accélération technologique : les métiers émergents En bref Quels sont les métiers émergents aujourd’hui ?.
+- - Focus sur les métiers de la cybersécurité, la réalité virtuelle et l’intelligence artificielle - Réponses aux questions fréquentes et ressources pour vous accompagner - Date, durée et horaires › Jeudi 15 janvier 2026 - 1h30 à distance, le lien Zoom vous sera envoyé la veille du webinaire.
+- - 9h30-11h - Objectifs du webinaire › Des webinaires consacrés à la découverte des métiers : formations, spécialisations, emploi, compétences.
+- - Public concerné › Tous publics.
+
+## [<b>Cybersécurité</b> : ServiceNow débourse 7,75 milliards $ pour Armis | LeMagIT](https://www.lemagit.fr/actualites/366636730/Cybersecurite-ServiceNow-rachete-Armis-775-milliards-de-dollars)  
+*Source : lemagit.fr | Publication : 2025-12-29*
+
+- nirutft - stock.adobe.com Cybersécurité : ServiceNow débourse 7,75 milliards $ pour Armis ServiceNow annonce l’acquisition du spécialiste de la sécurité cyber.
+- Cette opération doit permettre à l’éditeur issu de l’ITSM d’étendre son offre et son empreinte dans la cybersécurité.
+- ServiceNow a annoncé ce jeudi qu’il allait racheter Armis pour 7,75 milliards de dollars en cash.
+- Armis est un acteur de la sécurité à la fois cyber et physique, qui couvre aussi bien les environnements IT que OT.
+
+## [Ubisoft coupe l'accès à Rainbow Six Siege en urgence après une compromission majeure](https://www.clubic.com/actualite-593029-ubisoft-coupe-l-acces-a-rainbow-six-siege-en-urgence-apres-une-compromission-majeure.html)  
+*Source : clubic.com | Publication : 2025-12-29*
+
+- Dur weekend pour Ubisoft.
+- L’éditeur a dû mettre Rainbow Six Siege hors ligne après une intrusion dans ses systèmes internes et engager une restauration complète du jeu.
+- Si vous n’avez pas pu accéder à Rainbow Six Siege ce weekend, vous n’êtes pas seul.
+- Ubisoft a été contraint de couper les serveurs de son FPS ce samedi, après une intrusion ayant permis à des tiers de manipuler des outils d’administration critiques du jeu.
+
+## [5 stratégies pour protéger votre petite entreprise contre les cybercriminels - Forbes.fr](https://www.forbes.fr/technologie/5-strategies-pour-proteger-votre-petite-entreprise-contre-les-cybercriminels/)  
+*Source : forbes.fr | Publication : 2025-12-29*
+
+- La société de gestion des risques RiskRecon a analysé dix ans de données sur les violations de sécurité et constate que plusieurs événements du quatrième trimestre, notamment Thanksgiving et Noël, enregistrent systématiquement un taux de cyberattaques supérieur à la moyenne.
+- Comment les dirigeants de petites entreprises peuvent se protéger contre les cyberattaques Considérer la cybersécurité comme essentielle à la croissance Aucune solution informatique n’est jugée plus cruciale pour le développement des petites entreprises que la cybersécurité, devançant même les systèmes de comptabilité, de paiement ou de marketing.
+- Selon la dernière enquête Forbes Research Small Business Survey (réalisée en mars-avril), 80 % des dirigeants de petites entreprises estiment que la cybersécurité est essentielle à la croissance, la plaçant en tête parmi 10 outils stratégiques.
+- Reconnaître que les petites entreprises sont davantage exposées aux attaques Les dirigeants de petites entreprises interrogés dans le cadre de l’étude ont signalé une forte augmentation d’une année sur l’autre du nombre de cyberattaques dont ils ont été la cible, passant de 47 % il y a un an à 69 % en 2025.
+
+## [La <b>cybermenace</b> croît rapidement pour les banques de la zone EMEA - ITdaily.](https://itdaily.fr/nouvelles/securite/cybermenca-roit-banques-emea/)  
+*Source : itdaily.fr | Publication : 2025-12-29*
+
+- Le secteur financier en Europe, au Moyen-Orient et en Afrique (EMEA) est de plus en plus confronté à des cyberattaques.
+- La cybermenace qui pèse sur le secteur bancaire dans la zone EMEA croît rapidement.
+- C’est ce qui ressort du rapport Cyber Risk in Finance and Banking Across EMEA de la société de cybersécurité KnowBe4.
+- Les banques et les institutions financières font désormais partie des secteurs les plus attaqués, ce qui entraîne d’importants risques financiers, opérationnels et de réputation.
+
+## [Ingénierie sociale : HP alerte sur une nouvelle cyberattaque sophistiquée - Futura](https://www.futura-sciences.com/tech/actualites/cybersecurite-ingenierie-sociale-hp-alerte-nouvelle-cyberattaque-sophistiquee-129505/)  
+*Source : futura-sciences.com | Publication : 2025-12-29*
+
+- HP met en garde contre une nouvelle attaque très réaliste qui n'exploite aucune faille de sécurité, mais s'appuie sur l'ingénierie sociale.
+- Concrètement, les auteurs de l'attaque transmettent un PDF par e-mail.
+- Ils visent avant tout les entreprises, et font passer le message pour la suite d'un échange sur des produits.
+- Le PDF ne contient aucun code malveillant, mais utilise les logos d'Adobe pour paraître officiel, et indique qu'il s'agit d'un document confidentiel, avec un bouton à cliquer pour le visionner sur le site d'Adobe.
+
+## [Les entreprises technologiques vietnamiennnes s'engagent dans le “Make in Vietnam”](https://lecourrier.vn/les-entreprises-technologiques-vietnamiennnes-sengagent-dans-le-make-in-vietnam/1308349.html)  
+*Source : lecourrier.vn | Publication : 2025-12-29*
+
+- >> Le Vietnam, une destination attractive pour les flux de capitaux technologiques >> Les dix événements scientifiques et technologiques les plus marquants de 2025 >> Rehausser le niveau de la sous-traitance industrielle Lors de la récente Conférence sur le Plan de mise en œuvre 2026, le PDG de VNPT, Huynh Quang Liêm, a révélé que le groupe concentrait ses efforts sur le développement de technologies stratégiques telles que l’intelligence artificielle (IA), le cloud computing, la cybersécurité, la 5G/6G et les semi-conducteurs.
+- VNPT a également lancé une stratégie en matière d’intelligence artificielle (IA) pour la période 2026-2030, visant à positionner le Vietnam comme un leader dans ces technologies et à renforcer sa compétitivité internationale.
+- Les leaders du secteur à l’avant-garde du développement technologique Parallèlement, Viettel, autre entreprise technologique majeure du Vietnam, poursuit ses efforts dans le développement de la 5G, une technologie dans laquelle elle a déjà réalisé des progrès significatifs, et renforce ses capacités de production de semi-conducteurs.
+- L’entreprise se prépare à investir dans le développement des technologies 5G/6G avancées et à travailler sur la production de puces d’IA et d’autres composants spécialisés d’ici 2030.
+
+## [30% des smartphones Android sont obsolètes et vulnérables avec 1 milliard de victimes potentielles](https://www.clubic.com/actualite-592999-des-smartphones-android-sont-obsoletes-et-vulnerables-avec-1-milliard-de-victimes-potentielles.html)  
+*Source : clubic.com | Publication : 2025-12-29*
+
+- Un rapport du spécialiste en cybersécurité Zimperium révèle qu'un smartphone Android sur deux ne fonctionne pas avec la dernière version de son système.
+- En fait, du côté d'Android, près d'un smartphone sur trois serait même obsolète.
+- On estime qu'un milliard d'utilisateurs se retrouveraient vulnérables et sans défense face aux attaques.
+- La fragmentation persiste au sein de l'écosystème Android et malgré les efforts de Google, les failles de sécurité se multiplient, c'est en tout cas ce que point le cabinet Zimperium dans un récent rapport.
+
+## [Diplomatie 2025: le Vietnam façonne une nouvelle position stratégique - Vovworld.vn](https://vovworld.vn/fr-CH/chronique-du-jour/diplomatie-2025-le-vietnam-faconne-une-nouvelle-position-strategique-1453207.vov)  
+*Source : vovworld.vn | Publication : 2025-12-29*
+
+- Diplomatie 2025: le Vietnam façonne une nouvelle position stratégique Anh Huyên - lundi, 29 décembre 2025 | 18:30:50 (VOVWORLD) - L’année 2025 s’impose comme l’une des plus réussies de la diplomatie vietnamienne depuis le début des années 2020.
+- Le pays a renforcé ses partenariats internationaux et conclu de nombreux accords de coopération stratégique, renforçant ainsi sa position, son rôle et son prestige sur la scène internationale.
+- Ces avancées traduisent une diplomatie proactive et flexible dans un contexte mondial en pleine mutation.
+- Des résultats marquants Photo: VGP L’année 2025 a été marquée par une nette intensification des activités diplomatiques de haut niveau.
+
+## [Roblox Executors : Tout est amusant jusqu'à ce que quelqu'un se fasse pirater](https://www.welivesecurity.com/fr/education-a-la-cybersecurite/roblox-executors-tout-est-amusant-jusqua-ce-que-quelquun-se-fasse-pirater/)  
+*Source : welivesecurity.com | Publication : 2025-12-29*
+
+- Chaque jour, des dizaines de millions de jeunes se connectent à Roblox pour créer, échanger et s’affronter.
+- Mais une communauté aussi vaste attire aussi d’autres acteurs : des cybercriminels qui camouflent des logiciels malveillants derrière des « outils de triche » censés offrir des gains faciles.
+- On trouve une multitude de discussions sur Discord, Reddit, YouTube et ailleurs, où ces outils sont présentées comme inoffensives.
+- Et comme Roblox séduit énormément les enfants et les ados, l’appât du gain ou des cadeaux est souvent difficile à ignorer.
+
+## [Données personnelles : L'Union européenne prolonge jusqu'en 2031 la libre circulation ...](https://www.usine-digitale.fr/cybersecurite/data-protection/donnees-personnelles-lunion-europeenne-prolonge-jusquen-2031-la-libre-circulation-avec-le-royaume-uni.NXIJ3ECRAJFKRK43A26LFNIMEQ.html)  
+*Source : usine-digitale.fr | Publication : 2025-12-29*
+
+- A l’approche de l’échéance du 27 décembre 2025, Bruxelles a renouvelé les deux décisions d’adéquation permettant la libre circulation des données personnelles entre l’Union européenne et le Royaume-Uni.
+- Jusqu’en 2031 Ce renouvellement, adopté le 19 décembre, prolonge jusqu’en décembre 2031 un régime clé pour les échanges entre les deux rives de la Manche, dans un contexte post-Brexit marqué par une recomposition des réglementations.
+- Pour l’Union européenne, l’enjeu est double : préserver la fluidité des données, indispensable au bon fonctionnement de larges pans de l’économie numérique, tout en s’assurant que Londres ne s’éloigne pas des standards en matière de protection des données.
+- Pour rappel, une décision d’adéquation est un acte par lequel la Commission européenne reconnaît qu’un pays tiers offre un niveau de protection des données personnelles équivalent à celui proposé par le Règlement général sur la protection des données (RGPD).
 
 ## [La protection des données de santé, une priorité stratégique de l'Etat](https://www.aps.dz/fr/algerie/sante-et-environnement/mjq1mwxx-la-protection-des-donnees-de-sante-une-priorite-strategique-de-l-etat)  
 *Source : aps.dz | Publication : 2025-12-28*
