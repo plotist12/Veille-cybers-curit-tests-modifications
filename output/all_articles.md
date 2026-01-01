@@ -1,5 +1,157 @@
-# Résumés – 2025-12-31
+# Résumés – 2026-01-01
 
+
+## [Nouvelle cyberattaque de la Poste : sur RTL, un expert en <b>cybersécurité</b> assure qu'il est &quot;très ...](https://www.rtl.fr/actu/economie-consommation/nouvelle-cyberattaque-de-la-poste-sur-rtl-un-expert-en-cybersecurite-assure-qu-il-est-tres-probable-que-ce-soit-la-russie-7900583940)  
+*Source : rtl.fr | Publication : 2026-01-01*
+
+- - 02m21s 2 min de lecture Je m'abonne à la newsletter « Économie » "Il est très probable que ce soit la Russie.
+- Mais aujourd'hui, nous, on n'en est pas sûr.".
+- Sur RTL, Clément David, expert en cybersécurité et en data et CEO de Theodo Cloud, revient sur la nouvelle cyberattaque qui a touché les services de la Poste ce jeudi 1er janvier.
+- Les sites été paralysés une grande partie de la journée, seulement quelques jours après une précédence attaque massive qui avait perturbé le suivi des colis pendant la période de Noël.
+
+## [Kenya: vers la création d'une agence de <b>cybersécurité</b> pour contrer les menaces numériques](https://afrique.le360.ma/politique/kenya-vers-la-creation-dune-agence-de-cybersecurite-pour-contrer-les-menaces-numeriques_5VJNUYPYTBHGFPPDKTIYVD7ZKI/)  
+*Source : afrique.le360.ma | Publication : 2026-01-01*
+
+- Le projet, déjà approuvé en Conseil des ministres, sera soumis au Parlement après consultation du ministère de l’Intérieur, a précisé M. Tanui, soulignant que la cybersécurité se veut un défi mondial qui exige des structures adaptées.
+- Cette initiative intervient après une attaque numérique massive qui avait récemment paralysé des dizaines de sites du gouvernement kenyan, rendant inaccessibles de nombreux services publics en ligne.
+- La nouvelle agence vise à renforcer la coordination nationale face aux cybermenaces et à compléter le rôle d’institutions existantes, notamment le Bureau du commissaire à la protection des données (ODPC), chargé de la protection des données personnelles.
+- Au-delà de la sécurité, la cybersécurité représente une opportunité d’emplois pour les jeunes dans un contexte de pénurie mondiale de compétences, a souligné le secrétaire principal, affirmant que le Kenya ambitionne de devenir une plaque tournante de la cybersécurité, notamment avec l’essor de l’intelligence artificielle.
+
+## [Les filières les plus recherchées par les employeurs canadiens - L'Étudiant Outaouais](https://letudiantoutaouais.ca/filieres-recherchees-canada/)  
+*Source : letudiantoutaouais.ca | Publication : 2026-01-01*
+
+- Loader Please wait while your request is being verified.
+
+## [<b>Cybersécurité</b> en entreprise : 8 tendances de risques dopés par l'IA à surveiller en 2026](https://www.clubic.com/dossier-593215-cybersecurite-en-entreprise-8-tendances-de-risques-dopes-par-l-ia-a-surveiller-en-2026.html)  
+*Source : clubic.com | Publication : 2026-01-01*
+
+- Phishing sur mesure, deepfakes, agents offensifs, Shadow AI… L’IA a mis un coup d’accélérateur à la menace cyber, et 2026 s’annonce chargée pour les entreprises.
+- Offre partenaire Protection avancée des e-mails, des calendriers, des mots de passe, du réseau… de votre entreprise grâce à la suite d'applications professionnelles sécurisées.
+- Offre partenaire Qu’on se le dise, l’IA ne réinvente pas les cyberattaques, mais elle en améliore le rendement.
+- Plus de variantes, plus vite, plus crédibles, avec une capacité à s’ajuster en continu pour trouver la faille exploitable.
+
+## [25 organismes publics bientôt formés en <b>cybersécurité</b> : Objectif : évaluer et renforcer les ...](https://www.lequotidien.com.tn/fr/societe/9364-25-organismes-publics-bientot-formes-en-cybersecurite-objectif-evaluer-et-renforcer-les-capacites-a-affronter-les-attaques)  
+*Source : lequotidien.com.tn | Publication : 2026-01-01*
+
+- Par Hassan GHEDIRI L’ANCS espère faire de la prévention cybernétique la préoccupation principale de tous les acteurs publics et privés appelés à se mobiliser pour préserver la souveraineté numérique nationale… Face à une intensification sans précédent des cyberattaques dans le monde et qui tend à mettre à rude épreuve les systèmes de défense en Tunisie, l’Agence nationale de la cybersécurité (ANCS) tentera de renforcer la résilience cybernétique des organismes publics.
+- Pour ce faire, des journées d’exercices cybernétiques seront organisées au mois de février avec pour objectif la qualification des compétences de 75 agents chargés des systèmes informatiques au sein des organismes et structures publics qui sont le premier rempart de la sécurité.
+- Selon un appel à candidature lancé au mois de décembre et destiné à sélectionner des collaborateurs spécialisés en cybersécurité auxquels sera confiée la mission de développer la prise de conscience des risques cybernétiques et les capacités de prévention et la riposte aux attaques.
+- Par cette action l’ANCS espère faire de la prévention des menaces informatiques une préoccupation principale de tous les opérateurs publics et privés qui doivent se mobiliser pour préserver la souveraineté des services numériques essentiels.
+
+## [Frais bancaires, découvert, retraits et virements, <b>cybersécurité</b>... Ce qui change pour les ...](https://www.frandroid.com/services/banque-en-ligne/2922791_frais-bancaires-decouvert-retraits-et-virements-cybersecurite-ce-qui-change-pour-les-banques-en-ligne-en-2026)  
+*Source : frandroid.com | Publication : 2026-01-01*
+
+- Les 1er janvier voient leur valse d’augmentations et de nouvelles mesures arriver : SMIC, électricité, prix du timbre et du pass Navigo, contrôle technique, etc… Les banques en lignes sont également concernées, autant pour les nouvelles mesures… que les augmentations.
+- Mais il n’y a pas que du mauvais dans cette liste de changements, fort heureusement.
+- Les meilleures banques en ligne Les frais bancaires encore en hausse Cette année, l’Observatoire des Tarifs Bancaires annonçait que ceux-ci avaient augmenté de 3,1 % cette année.
+- En 2026, il faut s’attendre à de nouvelles hausses, elles atteindraient en moyenne 2,4 % selon cette enquête de Panorabanques commandée par Le Monde.
+
+## [Les cyberattaques qui ont marqué l'année 2025 et les leçons à en tirer - L'Usine Digitale](https://www.usine-digitale.fr/cybersecurite/les-cyberattaques-qui-ont-marque-lannee-2025-et-les-lecons-a-en-tirer.MLPTV4YZ2JGDDM4ERBAMBMYY6Q.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-01*
+
+- Les années passent et malheureusement se ressemblent en matière de sécurité informatique.
+- Les entités publiques et privées françaises ont été prises pour cible par des hackers avec des conséquences parfois gravissimes.
+- France Travail, des failles à répétition Chez France Travail, anciennement Pôle emploi, les leçons ne semblent pas avoir été retenues.
+- C’est en mars 2024 que l’organisme public a annoncé avoir été touché par une attaque informatique d’ampleur pour la première fois.
+
+## [La Poste victime d'une nouvelle cyberattaque, de nombreux services inaccessibles](https://www.liberation.fr/societe/la-poste-victime-dune-nouvelle-cyberattaque-20260101_CFH6YNTHRZCHTDPG63WSDOZLLI/)  
+*Source : liberation.fr | Publication : 2026-01-01*
+
+- Des chercheurs en cybersécurité invitaient toutefois à être prudent avec cette revendication considérée comme tardive et pouvant être opportuniste.
+
+## [Stages PFE <b>cybersécurité</b> ouverts chez Inetum - Dreamjob.ma](https://www.dreamjob.ma/stage/stages-pfe-cybersecurite-ouverts-chez-inetum/)  
+*Source : dreamjob.ma | Publication : 2026-01-01*
+
+- Inetum recrute des stagiaires PFE en cybersécurité à Casablanca, en stage de fin d’études.
+- Les postes s’adressent à des étudiants en dernière année souhaitant se spécialiser dans la sécurité des systèmes d’information et la protection des infrastructures IT.
+- Inetum est une entreprise internationale de services et de solutions digitales, réunissant plus de 27 000 collaborateurs répartis dans 19 pays.
+- Le groupe a réalisé un chiffre d’affaires de 2,4 milliards d’euros en 2024 et accompagne des organisations publiques et privées issues de nombreux secteurs dans leurs projets de transformation numérique.
+
+## [La Poste est victime d'une nouvelle cyberattaque : ses services en ligne sont touchés](https://www.01net.com/actualites/la-poste-est-victime-dune-nouvelle-cyberattaque-ses-services-en-ligne-sont-touches.html)  
+*Source : 01net.com | Publication : 2026-01-01*
+
+- Quelques jours seulement après une première cyberattaque majeure qui a mis sur le flanc les services en ligne de La Poste, le groupe français annonce être victime d’une nouvelle attaque en ce 1er janvier.
+- Un message sur le site explique la situation sans toutefois préciser la nature de cette nouvelle agression, ni la durée estimée de l’indisponibilité de certains services : “Ceci engendre des difficultés d’accès ou de fonctionnement de nos services en ligne.
+- Le suivi de colis est indisponible mais sans en empêcher la livraison : la distribution des colis et des courriers continue à s’effectuer ainsi que la remise des instances en bureau de poste” Il s’agit donc de la seconde cyberattaque majeure dont La Poste est victime en quelques jours d’intervalle seulement.
+- La première avait eu lieu juste avant le 25 décembre et avait mis à mal la livraison de plusieurs centaines de colis.
+
+## [Les services en ligne de La Poste de nouveau visés par une &quot;cyberattaque&quot; | La Gazette France](https://www.lagazettefrance.fr/article/les-services-en-ligne-de-la-poste-de-nouveau-vises-par-une-cyberattaque)  
+*Source : lagazettefrance.fr | Publication : 2026-01-01*
+
+- Les services en ligne de La Poste de nouveau visés par une "cyberattaque" Le site de La Poste et celui de la Banque Postale sont de nouveau difficilement accessibles jeudi matin du fait d'une "cyberattaque", indique un message sur le site, quelques jours après une autre attaque qui avait perturbé le.
+- Le site de La Poste et celui de la Banque Postale sont de nouveau difficilement accessibles jeudi matin du fait d'une "cyberattaque", indique un message sur le site, quelques jours après une autre attaque qui avait perturbé le suivi des colis pendant la période de Noël.
+- Cette précédente attaque par déni de service, qui consiste à faire saturer les serveurs d'un service en ligne pour empêcher ou ralentir son accès, avait été revendiquée par un groupe de hackers pro-russes.
+- Sa durée était inhabituellement longue pour une attaque de ce genre: elle avait débuté le lundi 22 décembre et des perturbations avaient perduré jusqu'au vendredi.
+
+## [Menace de 2026 : L'essor des <b>ransomwares</b> pilotés par l'IA - EmarketerZ](https://www.emarketerz.fr/menace-de-2026-lessor-des-ransomwares-pilotes-par-lia/)  
+*Source : emarketerz.fr | Publication : 2026-01-01*
+
+- Le ransomware PromptLock utilise un modèle de langage pour générer des scripts malveillants en temps réel.
+- · PromptLock s'adapte et modifie ses.
+
+## [De nouveau victime d'une cyberattaque, La Poste voit ses services indisponibles - l'Opinion](https://www.lopinion.fr/economie/de-nouveau-victime-dune-cyberattaque-la-poste-voit-ses-services-indisponibles)  
+*Source : lopinion.fr | Publication : 2026-01-01*
+
+- De nouveau victime d’une cyberattaque, La Poste voit ses services indisponibles Rebelote.
+- Les services du groupe La Poste sont à nouveau indisponibles ce 1er janvier, relate Libération.
+- Celles et ceux qui ont souhaité visiter le site web du groupe ce jeudi ont pu lire le message d’erreur : « la Poste subit actuellement une nouvelle attaque informatique qui empêche le fonctionnement des services en ligne de laposte.fr.
+- Soyez assurés que les équipes techniques sont pleinement mobilisées pour rétablir au plus vite les accès à nos services en ligne ».
+
+## [Monoculture numérique et cyberattaques : le cocktail dangereux - 24matins](https://www.24matins.fr/monoculture-numerique-et-cyberattaques-le-cocktail-dangereux-1400778)  
+*Source : 24matins.fr | Publication : 2026-01-01*
+
+- Monoculture numérique et cyberattaques : le cocktail dangereux L’évolution rapide des technologies, de la désinformation en ligne aux cyberattaques dopées à l’intelligence artificielle, bouleverse le paysage de la cybersécurité.
+- À l’horizon 2026, les organisations devront relever des défis inédits et redoubler de vigilance.
+- Tl;dr La centralisation autour de quelques géants du cloud et des outils en ligne rend Internet plus vulnérable aux incidents massifs.
+- - La désinformation et la mauvaise hygiène numérique exposent les utilisateurs aux cyberattaques, amplifiées par l’essor de l’IA générative.
+
+## [Après la cyberattaque de Noël, La Poste de nouveau paralysée pour le Nouvel An](https://www.lesechos.fr/industrie-services/tourisme-transport/apres-la-cyberattaque-de-noel-la-poste-de-nouveau-paralysee-pour-le-nouvel-an-2207340)  
+*Source : lesechos.fr | Publication : 2026-01-01*
+
+- La Poste Cybersécurité Paris.
+- LesEchos-offrePremiumEntreprises.png.
+- Testez l'offre Premium Entreprises !.
+- Profitez d'un essai gratuit pour découvrir l.
+
+## [Comment mafias, gangs et autres cartels ont fait des cyberattaques un business plus lucratif ...](https://www.lamontagne.fr/paris-75000/faits-divers/comment-mafias-gangs-et-autres-cartels-ont-fait-des-cyberattaques-un-business-plus-lucratif-que-le-narcotrafic_14806560)  
+*Source : lamontagne.fr | Publication : 2026-01-01*
+
+- Maître de conférences en mathématiques à l’Université de Limoges, Thierry Berthier est l’un des meilleurs experts français en cybersécurité et cyberdéfense.
+- Le conférencier au London Speaker Bureau décrypte l’explosion des cyberattaques, un phénomène mondial qui génère désormais plus d’argent que le narcotraffic.
+- Cette cyberattaque qu’a subie La Poste et dont on a beaucoup parlé pour avoir perturbé la distribution des colis avant Noël est-elle révélatrice d’une montée en puissance du phénomène ?.
+- La montée en puissance est régulière, avec des nouveaux groupes qui se forment.
+
+## [Catastrophe, La Poste et La Banque Postale touchés par une cyberattaque ce jeudi 1er janvier 2026](https://www.clubic.com/actualite-593269-catastrophe-la-poste-et-la-banque-postale-touches-par-une-cyberattaque-ce-jeudi-1er-janvier-2026.html)  
+*Source : clubic.com | Publication : 2026-01-01*
+
+- Moins de 10 jours après la précédente cyberattaque, le groupe La Poste en subit une aujourd'hui même, jour du Nouvel An.
+- Cette dernière, qui a débuté dans la nuit, affecte plusieurs activités de l'entreprise.
+- La malédiction continue pour La Poste.
+- Dans la nuit du 31 décembre au 1er janvier 2026, à 3h30 exactement, le groupe La Poste a été, comme il l'a lui-même confirmé, victime d'une cyberattaque.
+
+## [La Poste et Banque Postale paralysées : ce qu'on sait de la nouvelle cyberattaque](https://www.numerama.com/cyberguerre/2151467-nouvelle-cyberattaque-contre-la-poste-et-la-banque-postale-les-sites-sont-inaccessibles.html)  
+*Source : numerama.com | Publication : 2026-01-01*
+
+- 2026 commence à peu près comme 2025 s’est terminé pour le groupe La Poste.
+- Pour la deuxième fois en une semaine, les services en ligne du groupe, notamment le site laposte.fr et l’espace client de La Banque Postale, sont paralysés par une cyberattaque de grande ampleur.
+- Impossible, donc, de suivre un colis ou de gérer ses comptes en ligne.
+- Un message d’alerte s’affiche à nouveau lorsque l’on tente d’accéder aux différents services du groupe, quelques jours seulement après un premier incident qui avait déjà perturbé le suivi des colis entre le 22 et le 26 décembre, en pleine période de Noël.
+
+## [Vœux du nouvel an 2026 : les mots justes pour dire beaucoup - Carnet de bord](https://www.carnetdebord.info/voeux-du-nouvel-an-2026-les-mots-justes-pour-dire-beaucoup/)  
+*Source : carnetdebord.info | Publication : 2026-01-01*
+
+- Quand janvier pointe le bout de son nez, tout le monde dégaine sa petite formule prête à l’emploi pour saluer la nouvelle année.
+- Mais décrocher des vœux du nouvel an qui font mouche, ça ne s’improvise pas.
+- Oubliez les messages insipides envoyés à la chaîne !.
+- Ce moment vaut mieux qu’un banal « Bonne année ».
+
+## [Les métiers tech en 2026 : le futur du travail à l'ère numérique - Rotek](https://rotek.fr/metiers-tech-2026-futur-travail-lere-numerique/)  
+*Source : rotek.fr | Publication : 2026-01-01*
+
+- Le monde du travail est en pleine métamorphose.
+- Alors que l’automatisation, la digitalisation et l’intelligence artificielle gagnent du terrain, les métiers tech en 2026 ne sont plus de simples options : ils deviennent les piliers de l’économie moderne.
+- En 2026, une chose est sûre : ceux qui maîtrisent les outils numériques auront une longueur d’avance.
+- Longtemps perçus comme réservés aux geeks ou aux ingénieurs, les métiers tech sont aujourd’hui plus accessibles que jamais.
 
 ## [Kenya : vers l'établissement d'une Agence de <b>cybersécurité</b> pour la protection des données](https://www.agenceecofin.com/actualites-numerique/3112-134609-kenya-vers-letablissement-dune-agence-de-cybersecurite-pour-la-protection-des-donnees)  
 *Source : agenceecofin.com | Publication : 2025-12-31*
