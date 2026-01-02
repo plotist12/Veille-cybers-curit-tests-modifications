@@ -1,5 +1,185 @@
 [
   {
+    "id": "3188f36f79",
+    "title": "Le chef de la <b>cybersécurité</b> belge met en garde face à la dépendance des Européens aux ...",
+    "link": "https://www.lalibre.be/international/europe/2026/01/02/le-chef-de-la-cybersecurite-belge-met-en-garde-face-a-la-dependance-des-europeens-aux-infrastructures-numeriques-americaines-3EG6CQ5JKZD43GXBSL3UIM76SY/",
+    "source": "lalibre.be",
+    "pub_date": "2026-01-02",
+    "summary": "- Le chef de la cybersécurité belge met en garde face à la dépendance des Européens aux infrastructures numériques américaines Miguel De Bruycker, le directeur du Centre belge de cybersécurité, avertit sur les risques de dépendance de l'Europe vis-à-vis des États-Unis concernant les infrastructures numériques.\n- Publié le 02-01-2026 à 21h31 - Dans un entretien avec le Financial Times, le directeur du Centre belge de cybersécurité (CCB), Miguel De Bruycker, s'inquiète de la dépendance des Européens vis-à-vis des États-Unis concernant la gestion de leurs données numériques.\n- Il pointe également l'important retard des Européens sur les infrastructures numériques.\n- Selon lui, il serait impossible de stocker l'intégralité des données en Europe à cause de la domination des entreprises américaines dans le domaine.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "243477c745",
+    "title": "Des millions de réunions Zoom, Teams et Meet ciblées par une vaste campagne d'espionnage",
+    "link": "https://www.clubic.com/actualite-593389-des-millions-de-reunions-zoom-teams-et-meet-ciblees-par-une-vaste-campagne-d-espionnage.html",
+    "source": "clubic.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Derrière des extensions de navigateur utiles et bien notées, une opération de longue haleine a aspiré des millions de données liées à des réunions professionnelles.\n- Les chercheurs de Koi Security viennent de documenter une nouvelle campagne d’espionnage, baptisée Zoom Stealer, qui exploite des extensions de navigateur bien notées pour surveiller les réunions en ligne.\n- Au cœur de l’opération, une petite vingtaine de modules Chrome, Edge et Firefox très populaires et parfaitement fonctionnels, chargés de transformer chaque webinaire ou visio en source de renseignement sur les entreprises qui les organisent.\n- Offre partenaire Protection avancée des e-mails, des calendriers, des mots de passe, du réseau… de votre entreprise grâce à la suite d'applications professionnelles sécurisées.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "82464ec5ac",
+    "title": "Gestion des fournisseurs : définition et conseils pour l'améliorer - Workday Blog",
+    "link": "https://blog.workday.com/fr-fr/gestion-des-fournisseurs.html",
+    "source": "blog.workday.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Gestion des fournisseurs : définition et conseils pour l'améliorer Les fournisseurs ont un impact direct sur les performances quotidiennes de l'entreprise et sur l'exposition aux risques.\n- Gérer ces relations de manière disciplinée et structurée renforce la performance et crée un réseau de tiers plus résilient.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "eeeafb58a3",
+    "title": "Cyberattaque contre la Poste : un révélateur de la «guerre hybride» menée par la Russie",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/cyberattaque-contre-la-poste-un-revelateur-de-la-guerre-hybride-menee-par-la-russie-20260102_THFQF46X35HLJIWBSPJSHVLI6Y/",
+    "source": "liberation.fr",
+    "pub_date": "2026-01-02",
+    "summary": "- De nombreux experts en cybersécurité ont douté de la véracité de cette revendication.\n- Selon eux, NoName057 (016) aurait plutôt procédé à une.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "c70a16d303",
+    "title": "Microsoft va bientôt renforcer la sécurité de Teams par défaut - Clubic",
+    "link": "https://www.clubic.com/actualite-593362-microsoft-va-bientot-renforcer-la-securite-de-teams-par-defaut.html",
+    "source": "clubic.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Fini les réglages laissés de côté ou les options de sécurité jamais activées.\n- Microsoft s’apprête à imposer plusieurs protections clés dans Teams pour réduire les risques liés au phishing et aux malwares, y compris pour les organisations les moins outillées.\n- À partir du 12 janvier 2026, Microsoft renforcera les réglages de sécurité par défaut de Teams.\n- Certaines protections intégrées à la messagerie, jusqu’ici facultatives, seront activées automatiquement pour toutes les organisations utilisant encore les paramètres standards.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "79c40467b0",
+    "title": "Aurora OS.js – Un OS virtuel et jeu de hacking directement dans votre navigateur - Korben",
+    "link": "https://korben.info/aurora-os-js-simulation-hacking-navigateur.html",
+    "source": "korben.info",
+    "pub_date": "2026-01-02",
+    "summary": "- Aurora OS.js – Un OS virtuel et jeu de hacking directement dans votre navigateur En bref Aurora OS.js : Comment des développeurs transforment votre navigateur en terrain de jeu pour apprendre le piratage éthique sans risquer votre vraie machine - Le prochain multijoueur persistant où vous pourrez hacker les autres joueurs arrive bientôt : bienvenue dans l'ère où la cybersécurité devient un sport de compétition - Un système d'exploitation complet tourne maintenant dans un onglet Chrome grâce à React 19 et TypeScript 5 : pourquoi Microsoft et Apple devraient s'inquiéter - Et si l'OS lui-même ÉTAIT le jeu ?.\n- C'est exactement le concept derrière Aurora OS.js , un projet open source complètement barré qui simule un système d'exploitation complet dans votre navigateur... avec des mécaniques de jeu de hacking intégrées.\n- Le truc, c'est que ce n'est pas juste une démo technique.\n- Aurora OS.js embarque un vrai système de fichiers virtuel avec stockage persistant, un terminal avec des commandes type Linux (ls, cd, cat, mkdir...), un gestionnaire de fenêtres, un bloc-notes avec coloration syntaxique, et toute une architecture modulaire pour les applications.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "115f82ee9e",
+    "title": "<b>Cybersécurité</b> : De la menace à la réponse opérationnelle - L'Usine Digitale",
+    "link": "https://www.usine-digitale.fr/cybersecurite/cybersecurite-de-la-menace-a-la-reponse-operationnelle.HNOGZ244E5AXVIGQ3PPBVVR5XQ.html",
+    "source": "usine-digitale.fr",
+    "pub_date": "2026-01-02",
+    "summary": "- La cybersécurité, ou sécurité informatique, désigne l’ensemble des pratiques visant à prévenir, détecter et répondre aux incidents qui pourraient perturber les activités d’une organisation en compromettant ses systèmes.\n- La cybersécurité est devenue indispensable en raison de la numérisation des organisations, qui s’appuient désormais sur des environnements hybrides et interconnectés (cloud, API, IoT, télétravail) augmentant fortement la surface d’attaque.\n- Cette transformation a profondément modifié l’architecture des systèmes d’information : les applications ne sont plus hébergées dans un périmètre fermé.\n- Le recours massif au télétravail et aux terminaux non maîtrisés expose davantage les identités et les points d’accès, tandis que la généralisation des objets connectés multiplie les portes d’entrée potentielles.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "8a99825ae2",
+    "title": "Coup d'arrêt à une fraude bancaire passant par la publicité - ZATAZ",
+    "link": "https://www.zataz.com/etats-unis-coup-darret-a-une-fraude-bancaire-par-pubs/",
+    "source": "zataz.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Coup d’arrêt à une fraude bancaire passant par la publicité Saisie d’un domaine et d’une base de données liés à une fraude d’usurpation de comptes bancaires, dopée par des publicités de moteurs de recherche comme Google et Bing.\n- Selon le ministère de la Justice, la saisie du domaine web3adspanels et de sa base de données perturbe une opération d’account takeover ayant visé des Américains via de fausses annonces Google et Bing.\n- Le site servait de panneau de contrôle pour stocker et gérer des identifiants bancaires volés.\n- Le FBI recense au moins 19 victimes, dont deux entreprises en Géorgie, pour environ 28 millions $ (25,8 millions €) de pertes tentées et 14,6 millions $ (13,5 millions €) confirmés.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "ce14a62c2a",
+    "title": "La Poste est submergée par la nouvelle cyberattaque qu'elle subit - Clubic",
+    "link": "https://www.clubic.com/actualite-593401-des-milliards-de-tentatives-par-seconde-la-poste-est-submergee-par-la-nouvelle-cyberattaque-qu-elle-subit.html",
+    "source": "clubic.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Un peu plus de vingt-quatre heures après une nouvelle cyberattaque, La Poste en subit toujours les effets.\n- Ce vendredi 2 janvier, les équipes cyber du groupe ont pris la parole, en donnant des chiffres impressionnants.\n- La Poste ne peut que déplorer d'être encore une fois attaquée.\n- Le groupe, victime d'une nouvelle cyberattaque survenue à peine quelques heures après le passage à la nouvelle année, voit encore plusieurs de ses activités perturbées.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "71a1c708e1",
+    "title": "Défis de sécurité non traditionnels : quand les cybercriminels et les terroristes créent des",
+    "link": "https://www.vietnam.vn/fr/thach-thuc-an-ninh-phi-truyen-thong-khi-toi-pham-mang-va-khung-bo-tao-ra-bien-chung",
+    "source": "vietnam.vn",
+    "pub_date": "2026-01-02",
+    "summary": "- Menace alarmante de comportements « symbiotiques ».\n- Ces dernières années, la cybercriminalité est passée d'une menace purement technique à une force profondément imbriquée avec les organisations extrémistes, les groupes terroristes et les réseaux criminels transnationaux, devenant ainsi un puissant outil criminel.\n- Selon l'Institut interrégional de recherche des Nations Unies sur la criminalité et la justice (UNICRI), l'organisation autoproclamée État islamique (EI) est une organisation terroriste de premier plan dans ce domaine.\n- Depuis la fin des années 2000, l'EI utilise des techniques professionnelles de montage vidéo et de graphisme pour créer des contenus extrémistes et diffuser de fausses informations visant à endoctriner les musulmans sympathisants.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "591d78c8f4",
+    "title": "Comment se protéger des arnaques en ligne - Le Phare de Ré",
+    "link": "https://www.pharedere.com/actualite-20083-comment-se-proteger-des-arnaques-en-ligne",
+    "source": "pharedere.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Sara Jardinier Faux mails, SMS piégés, comptes piratés… Les arnaques numériques se multiplient et touchent désormais tout le monde, du simple utilisateur de smartphone au professionnel connecté.\n- Pour aider le public à y.\n- Réagir à cet article L'espace des commentaires est ouvert aux inscrits.\n- Connectez-vous ou créez un compte pour pouvoir commenter cet article.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "6e1e62f2b6",
+    "title": "Une « banque » pirate de la <b>cybercriminalité</b> fermée - ZATAZ",
+    "link": "https://www.zataz.com/une-banque-pirate-de-la-cybercriminalite-fermee/",
+    "source": "zataz.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Une « banque » pirate de la cybercriminalité fermée Un service clandestin, décrit comme une plateforme transnationale de blanchiment et de retrait, a été démantelé.Une « banque » qui soutenait des groupes cybercriminels à l’échelle mondiale.\n- Les forces de l’ordre biélorusses annoncent avoir démantelé un service financier transnational utilisé pour dissimuler et retirer des fonds issus d’attaques informatiques et d’autres délits numériques.\n- Le ministère de l’Intérieur affirme que des circuits illégaux ont été neutralisés et que plus de 100 millions de roubles biélorusses (29 millions d’euros) ont été saisis puis transférés à l’État.\n- L’enquête, ouverte en 2018 à partir d’informations de partenaires étrangers, dont la police américaine, aurait permis de reconstituer un réseau complexe de transactions et une infrastructure serveur dédiée.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "c81d4e9d5e",
+    "title": "Le stress des RSSI, une réalité avec laquelle composer en 2026 - ITforBusiness.fr",
+    "link": "https://www.itforbusiness.fr/le-stress-des-rssi-une-realite-avec-laquelle-composer-en-2026-98811",
+    "source": "itforbusiness.fr",
+    "pub_date": "2026-01-02",
+    "summary": "- Secu Le stress des RSSI, une réalité avec laquelle composer en 2026 Par Thierry Derouet, publié le 02 janvier 2026 Toujours en alerte, confrontés à des menaces qui se renouvellent sans cesse et à une avalanche de contraintes réglementaires, les RSSI vivent dans un état de tension permanente.\n- Faut-il s’en inquiéter, ou au contraire voir dans ce stress un moteur de vigilance ?.\n- Leurs témoignages racontent en tout cas une profession sur le fil.\n- «La menace est omniprésente», rappelait encore l’Agence nationale de la sécurité des systèmes d’information (ANSSI) dans son dernier panorama.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "f0853f8454",
+    "title": "PS5 : le &quot;piratage du siècle&quot; vient de frapper Sony et il est physiquement impossible à corriger",
+    "link": "https://www.clubic.com/actualite-593359-ps5-le-piratage-du-siecle-vient-de-frapper-sony-et-il-est-physiquement-impossible-a-corriger.html",
+    "source": "clubic.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Le dernier jour de 2025, des clés cryptographiques internes à la PlayStation 5 ont été diffusées sur des plateformes techniques.\n- Ces clés contrôlent la séquence de démarrage la plus profonde de la console.\n- Un problème matériel irréversible pour Sony.\n- C'est une Saint-Sylvestre cauchemardesque pour Sony.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "298742b60f",
+    "title": "Rétro actualités - MARS 2025 - Le Reflet du Lac",
+    "link": "https://www.lerefletdulac.com/actualites/retro-actualites-mars-2025/",
+    "source": "lerefletdulac.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Rétro actualités – MARS 2025 En pleine crise politique, le député d’Orford Gilles Bélanger accède au cabinet ministériel de la CAQ, à titre de ministre de la Cybersécurité et du Numérique.\n- Il aura notamment le mandat de remettre de l’ordre dans un ministère éclaboussé par le fiasco du projet SAAQclic… Le retrait de cases de stationnement aux abords de l’école Saint-Jean-Bosco donne des maux de tête à de nombreux parents depuis le début de l’année scolaire.\n- Ces espaces ont été convertis en piste cyclable, de sorte qu’il est maintenant interdit de s’y garer.\n- Le mécontentement des parents amènera la Ville à revoir ses plans et à “libérer” huit cases entre le 1er novembre et le 1er mai, durant la période où la pratique du vélo est mise sur pause… Chef du Service de sécurité incendie d’Austin depuis 1998, Paul Robitaille prend sa retraite après plus de 45 ans de service.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "900af1b757",
+    "title": "Après un incident d'ampleur inédite à Noël, La Poste de nouveau confrontée à une ...",
+    "link": "https://www.usine-digitale.fr/cybersecurite/apres-un-incident-dampleur-inedite-a-noel-la-poste-de-nouveau-confrontee-a-une-cyberattaque-sur-ses-services-en-ligne.FYLV7KJK4FHIBDEHTR3K72P4MQ.html",
+    "source": "usine-digitale.fr",
+    "pub_date": "2026-01-02",
+    "summary": "- L’année 2026 a mal commencé pour le groupe La Poste.\n- Il a annoncé ce 1er janvier être de nouveau victime d’une attaque informatique, quelques jours seulement après un premier incident qui avait affecté l’accès à certains de ses services en ligne.\n- Des difficultés d’accès et de fonctionnement Cette nouvelle attaque a provoqué “des difficultés d’accès et de fonctionnement”, rapporte Franceinfo citant le groupe postal.\n- Le suivi des colis a notamment été touché, sans toutefois affecter leur acheminement.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "35f66c6000",
+    "title": "&quot;80% des entreprises ne sont pas préparées aux attaques en ligne&quot; : pourquoi les ... - RTL",
+    "link": "https://www.rtl.fr/actu/economie-consommation/80-des-entreprises-ne-sont-pas-preparees-aux-attaques-en-ligne-pourquoi-les-entreprises-francaises-sont-encore-vulnerables-aux-cyberattaques-7900583979",
+    "source": "rtl.fr",
+    "pub_date": "2026-01-02",
+    "summary": "- - 03m55s 2 min de lecture Je m'abonne à la newsletter « Économie » La Poste, victime d'une seconde cyberattaque en deux semaines.\n- Outre le suivi des colis, le coffre-fort sécurisé Digiposte a aussi été indisponible, durant une grande partie de la journée du 1er janvier.\n- De nombreux clients ne pouvaient par exemple plus confirmer leur paiement en ligne via l'application.\n- La cybersécurité est devenue un enjeu majeur pour les entreprises.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "20618f725b",
+    "title": "Les entreprises face au risque cyber - Vidéo Dailymotion",
+    "link": "https://www.dailymotion.com/video/x9wwxpm",
+    "source": "dailymotion.com",
+    "pub_date": "2026-01-02",
+    "summary": "- Skip to player Skip to main content Watch fullscreen Les entreprises face au risque cyber rtl.fr.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "2ad9531fd5",
+    "title": "le chef de la <b>cybersécurité</b> belge estime que l'Europe &quot;a perdu l'accès à Internet&quot; - BFM",
+    "link": "https://www.bfmtv.com/tech/cybersecurite/si-je-veux-que-mes-informations-soient-stockees-a-100-dans-l-ue-continuez-de-rever-le-chef-de-la-cybersecurite-belge-estime-que-l-europe-a-perdu-l-acces-a-internet_AV-202601020287.html",
+    "source": "bfmtv.com",
+    "pub_date": "2026-01-02",
+    "summary": "- \"Si je veux que mes informations soient stockées à 100% dans l’UE… continuez de rêver\": le chef de la cybersécurité belge estime que l'Europe \"a perdu l'accès à Internet\" La guerre contemporaine ne se joue plus uniquement sur les champs de bataille.\n- Elle s’étend désormais aux serveurs, aux réseaux électriques, aux plateformes numériques, aux réseaux sociaux et aux systèmes satellitaires.\n- Dans ce nouvel espace de confrontation, la donnée, l’algorithme et l’infrastructure sont devenus des armes stratégiques.\n- À cette guerre diffuse s’ajoute donc un enjeu central: la souveraineté numérique.",
+    "added_on": "2026-01-02"
+  },
+  {
+    "id": "ebfdc39ac0",
+    "title": "JOTT, redressement et piège Google : l'arnaque éclair - ZATAZ",
+    "link": "https://www.zataz.com/jott-redressement-et-piege-google-larnaque-eclair/",
+    "source": "zataz.com",
+    "pub_date": "2026-01-02",
+    "summary": "- JOTT, redressement et piège Google : l’arnaque éclair Une info vue à la télé, une recherche Google, un site « en tête ».\n- En quelques minutes, l’achat devient un doute, puis une fraude.\n- Le signal cyber tient parfois à un détail.\n- Explication et alerte ZATAZ.",
+    "added_on": "2026-01-02"
+  },
+  {
     "id": "a44ad9dfcb",
     "title": "Nouvelle cyberattaque de la Poste : sur RTL, un expert en <b>cybersécurité</b> assure qu'il est &quot;très ...",
     "link": "https://www.rtl.fr/actu/economie-consommation/nouvelle-cyberattaque-de-la-poste-sur-rtl-un-expert-en-cybersecurite-assure-qu-il-est-tres-probable-que-ce-soit-la-russie-7900583940",
