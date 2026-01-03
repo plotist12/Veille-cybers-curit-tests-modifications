@@ -1,5 +1,146 @@
-# Résumés – 2026-01-02
+# Résumés – 2026-01-03
 
+
+## [Crypto : « Des centaines » de portefeuilles EVM vidés lors d'une attaque mystérieuse](https://fr.tradingview.com/news/cointelegraph:e2bb3874db858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-03*
+
+- Crypto : « Des centaines » de portefeuilles EVM vidés lors d’une attaque mystérieuse Un attaquant a vidé « des centaines » de portefeuilles crypto sur des blockchains compatibles Ethereum Virtual Machine (EVM), siphonnant de petites sommes chez chaque victime.
+- L’enquêteur on-chain ZachXBT décrit une exploitation large mais de faible montant par portefeuille.
+- Le vecteur exact de l’attaque n’a pas encore été confirmé, et les investigations sont toujours en cours.
+- Selon ZachXBT, les pertes restent limitées à l’échelle individuelle, chaque portefeuille ayant perdu moins de 2 000 dollars.
+
+## [Venezuela : Trump dit avoir « capturé » Nicolas Maduro (médias) - APAnews](https://fr.apanews.net/security/venezuela-trump-dit-avoir-capture-nicolas-maduro-medias/)  
+*Source : fr.apanews.net | Publication : 2026-01-03*
+
+- Maroc : la cybercriminalité au cœur des menaces en 2024.
+- 03 janvier 2026 | 14:58.
+- Algérie : une allocution à la nation aux promesses récurrentes.
+- 03.
+
+## [IA et <b>cybersécurité</b> : les nouveaux risques qui inquiètent la tech française](https://economiesetcie.com/ia-cybersecurite-risques-tech/)  
+*Source : economiesetcie.com | Publication : 2026-01-03*
+
+- À mesure que l’intelligence artificielle s’invite dans les messageries, les CRM, les outils RH et même les postes de travail, la sécurité informatique française change de nature.
+- Les attaques ne deviennent pas forcément “nouvelles” dans leur principe, mais elles gagnent en cadence, en réalisme et en capacité d’adaptation.
+- Dans les entreprises, la frontière entre erreur humaine, manipulation et compromission technique se brouille : un appel “urgent” d’un dirigeant, une demande de virement au ton impeccable, un assistant connecté à une base documentaire trop généreuse… et l’incident bascule de l’anecdote à la crise.
+- Le sujet inquiète d’autant plus la technologie française qu’elle doit conjuguer innovation, souveraineté, conformité et pénurie de talents, tout en faisant face à des adversaires qui industrialisent les menaces numériques.
+
+## [Le Royaume-Uni récompense un agent de la NCA pour son rôle dans le démantèlement de LockBit](https://www.cryptopolitan.com/fr/united-kingdom-awards-nca-officer-lockbit/)  
+*Source : cryptopolitan.com | Publication : 2026-01-03*
+
+- ransomware LockBit.
+- Webb occupait un rôle stratégique, où il supervisait l'opération Cronos, qui a conduit à la déstabilisation du groupe de.
+
+## [Piratage de Trust Wallet : les attaquants avaient pris le contrôle des outils de développement - Clubic](https://www.clubic.com/actualite-593449-piratage-de-trust-wallet-les-attaquants-avaient-pris-le-controle-des-outils-de-developpement.html)  
+*Source : clubic.com | Publication : 2026-01-03*
+
+- Quelques jours après le braquage de plusieurs milliers de crypto wallets, Trust Wallet a commencé à livrer sa version des faits.
+- Le piratage de son extension Chrome pourrait être lié à une attaque visant non pas le module lui-même, mais les outils utilisés pour le développer et le distribuer.
+- Le piratage de l’extension Chrome de Trust Wallet, révélé fin décembre, n’avait rien d’un incident isolé.
+- Dans une mise au point publiée début janvier, l’éditeur a expliqué que l’attaque trouvait son origine en amont, du côté de ses outils de développement.
+
+## [Maroc : la <b>cybercriminalité</b> au cœur des menaces en 2024 - APAnews](https://fr.apanews.net/security/maroc-la-cybercriminalite-au-coeur-des-menaces-en-2024/)  
+*Source : fr.apanews.net | Publication : 2026-01-03*
+
+- Le rapport 2024 du Parquet général marocain met en évidence une montée préoccupante de la cybercriminalité et l'usage croissant des cryptomonnaies.
+
+## [«Tout le monde est concerné» : 2025, année noire pour les fuites de données – Libération](https://www.liberation.fr/checknews/tout-le-monde-est-concerne-2025-annee-noire-pour-les-fuites-de-donnees-20260103_HEGX7BVNIZCEZDGAOKEYWSJFDA/)  
+*Source : liberation.fr | Publication : 2026-01-03*
+
+- Avec parfois, en jeu, des informations confidentielles ou des institutions stratégiques.
+- Cybercriminalité ... CybercriminalitéCybersécurité Données.
+
+## [Optimisme hightech en Israël? Avi Hasson, PDG de Startup Nation Central, parle des atouts du pays.](https://israelvalley.com/2026/01/03/optimisme-incroyable-en-israel-avi-hasson-pdg-de-startup-nation-central-resume-en-quelques-mots-lavenir-du-pays/)  
+*Source : israelvalley.com | Publication : 2026-01-03*
+
+- Maya Eisen-Zafrir, de LeumiTech: « les capacités et la réputation acquises au cours des dernières dizaines d’années dans le domaine du cyber-espace, combinées au leadership dont nous faisons preuve dans le domaine de l’IA, constituent un multiplicateur de force et un atout stratégique pour Israël ».
+- « La révolution de l’IA ne se contente pas de dynamiser le marché, elle génère aussi de nouveaux besoins en matière de protection des données et de respect de la vie privée », a-t-elle ajouté.
+- Les investisseurs internationaux ont conservé un rôle dominant dans l’écosystème technologique israélien en 2025, représentant 60 % du nombre total d’investisseurs, selon les données de Startup Nation Central.
+- « 2025 n’a pas marqué un simple retour à la normale, mais un basculement vers une maturité accrue », a déclaré Avi Hasson, PDG de Startup Nation Central.
+
+## [Les dates des soldes d'hiver en 2026 - infoDSI](https://infodsi.com/articles/208361/les-dates-des-soldes-dhiver-en-2026.html)  
+*Source : infodsi.com | Publication : 2026-01-03*
+
+- Veuillez activer Javascript.
+
+## [Crypto : Libération anticipée pour Ilya Lichtenstein, auteur du braquage Bitfinex](https://fr.tradingview.com/news/cointelegraph:b32dbf42eb858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-03*
+
+- Crypto : Libération anticipée pour Ilya Lichtenstein, auteur du braquage Bitfinex Après avoir été reconnu coupable du plus grand piratage de Bitcoin jamais enregistré, Ilya Lichtenstein vient d’être libéré plus tôt que prévu.
+- Cette remise en liberté, rendue possible par le First Step Act, une loi signée sous l’administration Trump, soulève des interrogations sur l’application des politiques de réduction de peine à des cybercriminels de haut vol.
+- Le pirate de Bitfinex retrouve la liberté grâce à une loi de 2018 En 2016, l’exchange crypto Bitfinex subit un vol massif : près de 120 000 BTC sont siphonnés de ses portefeuilles.
+- Derrière ce coup digne d’un film de braquage numérique, on retrouve Ilya Lichtenstein et sa complice Heather Morgan, aussi connue sous le pseudonyme musical de Razzlekhan.
+
+## [Crypto : Des centaines de portefeuilles EVM vidés dans une attaque mystérieuse](https://fr.tradingview.com/news/cointribune:81ab035e8b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-03*
+
+- Crypto : Des centaines de portefeuilles EVM vidés dans une attaque mystérieuse À peine le calendrier affiche-t-il janvier 2026 que les hackers ont déjà ouvert le bal.
+- Et pas avec un piratage discret ou isolé.
+- Non.
+- Cette fois, ce sont des centaines de portefeuilles sur réseaux EVM qui ont été vidés, en silence, avec méthode.
+
+## [Hacker de Bitfinex, Ilya Lichtenstein, annonce sa libération anticipée grâce à l - LesNews](https://lesnews.ca/digital/meta/cryptos/hacker-de-bitfinex-ilya-lichtenstein-annonce-sa-liberation-anticipee-grace-a-l-acte-de-premiere-chance-de-trump/)  
+*Source : lesnews.ca | Publication : 2026-01-03*
+
+- En effet, alors que les réformes sont louées pour leur potentiel d'humanisation du système judiciaire, les enjeux qui entourent la cybersécurité et.
+
+## [États-Unis : deux experts cyber plaident coupable pour des attaques par rançongiciel](https://incyber.org/article/etats-unis-deux-experts-cyber-plaident-coupable-pour-attaques-par-rancongiciel/)  
+*Source : incyber.org | Publication : 2026-01-03*
+
+- États-Unis : deux experts cyber plaident coupable pour des attaques par rançongiciel Articles du même auteur : 1 4 Deux professionnels américains de la cybersécurité ont plaidé coupable devant la justice de leur pays, fin décembre 2025, pour leur implication dans des attaques par rançongiciel.
+- Ils sont accusés d’avoir agi, avec un troisième complice non identifié, comme affiliés d’ALPHV/BlackCat, un gang de RaaS (Ransomware-as-a-Service) dissous en 2024.
+- Les forces de l’ordre ont arrêté les deux hommes à l’automne 2025.
+- Ryan Goldberg, 40 ans, travaillait pour Sygni, une société de réponse aux incidents.
+
+## [Données de santé : la Cnil sanctionne Nexpublica d'une amende de 1,7 million d'euros](https://incyber.org/article/donnees-sante-cnil-sanctionne-nexpublica-amende-1-7-million-euros/)  
+*Source : incyber.org | Publication : 2026-01-03*
+
+- Données de santé : la Cnil sanctionne Nexpublica d’une amende de 1,7 million d’euros Articles du même auteur : 1 3 4 02.01.26 Cybercriminalité La Poste et La Banque Postale à nouveau frappées par une cyberattaque Lire 01.
+
+## [Plusieurs grandes pages de fans ont simultanément perdu leurs photos de profil](https://www.vietnam.vn/fr/loat-fanpage-lon-dong-loat-mat-anh-dai-dien-chuyen-gia-noi-gi)  
+*Source : vietnam.vn | Publication : 2026-01-03*
+
+- Ces derniers jours, de nombreuses pages de fans Facebook ont simultanément supprimé leur photo de profil, ce qui a entraîné la diffusion sur les réseaux sociaux d'informations suggérant qu'il s'agit d'un moyen d'éviter les risques de cyberattaques et de piratage administratif.
+- S'adressant à un journaliste de Tuoi Tre Online , M. Nguyen Tien Dat, représentant de l'unité de gestion de la page fan Theanh28 Entertainment, a déclaré que les informations ci-dessus ne reflètent pas la situation réelle.
+- Il pourrait s'agir d'une erreur de la part de Facebook, car de nombreuses pages de fans ont rencontré des problèmes de droits d'auteur avec leurs propres images.
+- « Nous avons découvert ce bug le 23 décembre 2025, cependant, comme le processus de signalement a coïncidé avec une période de vacances, nous n'avons pas encore reçu de soutien de l'équipe Meta (la société mère de Facebook) », a déclaré M. Dat.
+
+## [Un logiciel malveillant ciblant les services de livraison de repas vole des données personnelles.](https://www.vietnam.vn/fr/ma-doc-danh-cap-du-lieu-ca-nhan-nham-vao-dich-vu-giao-do-an)  
+*Source : vietnam.vn | Publication : 2026-01-03*
+
+- Les données personnelles et financières des consommateurs du secteur du commerce de détail sont exposées à de nombreuses menaces.
+- C’est la conclusion des experts en sécurité de Kaspersky, après avoir analysé le paysage de la cybersécurité dans les secteurs du commerce de détail et du commerce électronique en 2025.
+- Selon le rapport 2025 de l'entreprise sur la cybersécurité, faire ses courses et commander des repas via des applications mobiles est devenu une habitude quotidienne pour les utilisateurs.
+- Cependant, la réalité de 2025 montre que même en téléchargeant des applications apparemment légitimes depuis les boutiques d'applications officielles, la sécurité des utilisateurs n'est pas garantie.
+
+## [Piratage d'envergure à l'OFII : la <b>cybersécurité</b> française prise de court | Europe Infos](https://www.europe-infos.fr/cyberattaque/7377/piratage-d-envergure-a-l-ofii-la-cybersecurite-francaise-prise-de-court/)  
+*Source : europe-infos.fr | Publication : 2026-01-03*
+
+- Sommaire 1 Une fuite massive révélée dès le 1er janvier - 2 Comment l’attaque a-t-elle pu surprendre l’administration ?.
+- - 3 Quelles conséquences pour les personnes concernées ?.
+- - 4 Réactions et boucliers informatiques remis à l’épreuve - 5 Questions fréquentes sur la fuite de données à l’OFII - 6 Sources - L’Office Français de l’Immigration et de l’Intégration (OFII) vient de subir un piratage informatique massif.
+- À peine 2026 commencée, une fuite de données touche plus de 2,1 millions de personnes, leurs informations personnelles se retrouvant en libre accès sur un forum du dark web.
+
+## [Égypte : vers l'exportation de smartphones dès 2026, un nouvel atout pour l'industrie tech](https://afriqueitnews.com/tech-media/egypte-vers-exportation-smartphones-des-2026-nouvel-atout-pour-industrie-tech/)  
+*Source : afriqueitnews.com | Publication : 2026-01-03*
+
+- L’Égypte se prépare à franchir un cap stratégique dans sa politique de développement industriel et numérique : le pays vise à commencer l’exportation de smartphones dès 2026, marquant ainsi une évolution majeure pour son secteur des technologies de l’information et de la communication (TIC).
+- Selon le ministre égyptien des Communications et des Technologies de l’information, Amr Talaat, l’Égypte prévoit de produire 15 millions de téléphones mobiles en 2026 pour approvisionner non seulement le marché local, mais aussi des marchés internationaux.
+- Cette ambition s’appuie sur une montée en puissance de la production locale, qui devrait dépasser les 10 millions de dispositifs fabriqués en 2025.
+- L’objectif affiché inclut un taux de 40 % de valeur ajoutée locale, reflétant les efforts du pays pour renforcer ses capacités industrielles et attirer des marques internationales dans la fabrication sur place.
+
+## [RDC : Itot Africa, une référence montante de l'EdTech africaine - CIOMAG](https://cio-mag.com/rdc-itot-africa-une-reference-montante-de-ledtech-africaine/)  
+*Source : cio-mag.com | Publication : 2026-01-03*
+
+- Itot Africa intègre, pour la troisième année consécutive (2023, 2024 et 2025), le classement Africa EdTech 50 établi par HolonIQ, plateforme internationale d’intelligence de marché spécialisée dans l’éducation et les compétences, qui valorise les startups les plus innovantes de l’éducation numérique en Afrique subsaharienne.
+- Cette nouvelle reconnaissance vient conforter la solidité du modèle porté par la start-up congolaise, reposant sur des formations à la demande, alignées sur les besoins des apprenants et orientées vers l’innovation pédagogique, l’inclusion numérique et l’employabilité.
+- (Cio Mag) – Elle constitue une véritable fierté pour la République démocratique du Congo.
+- Itot Africa, jeune pousse basée à Lubumbashi, dans la façade sud-est du pays, s’est récemment illustrée en intégrant le prestigieux classement Africa EdTech 50 de HolonIQ.
+
+## [Kioti Tractor : DD-USA fournit une mise à jour sur un incident de <b>cybersécurité</b> | Zonebourse](https://www.zonebourse.com/actualite-bourse/kioti-tractor-dd-usa-fournit-une-mise-a-jour-sur-un-incident-de-cybersecurite-ce7e59d9dc8ef026)  
+*Source : zonebourse.com | Publication : 2026-01-03*
+
+- Kioti Tractor : DD-USA fournit une mise à jour sur un incident de cybersécurité Publié le 02/01/2026 à 20:17 Reuters - Traduit par Zonebourse - Voir l'original Avertissement légal Contactez-nous pour toute demande de correction Partager © Reuters - 2026 Partager.
 
 ## [Le chef de la <b>cybersécurité</b> belge met en garde face à la dépendance des Européens aux ...](https://www.lalibre.be/international/europe/2026/01/02/le-chef-de-la-cybersecurite-belge-met-en-garde-face-a-la-dependance-des-europeens-aux-infrastructures-numeriques-americaines-3EG6CQ5JKZD43GXBSL3UIM76SY/)  
 *Source : lalibre.be | Publication : 2026-01-02*
