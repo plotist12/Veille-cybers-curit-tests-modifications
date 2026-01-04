@@ -1,5 +1,136 @@
-# Résumés – 2026-01-03
+# Résumés – 2026-01-04
 
+
+## [IA, identité numérique et sécurité en mutation - ITRmanager](https://itrmanager.com/articles/208365/ia-identite-numerique-et-securite-en-mutation.html)  
+*Source : itrmanager.com | Publication : 2026-01-04*
+
+- cybersécurité , en raison des risques considérables qu'elle pose pour la sécurité des données à l'échelle mondiale.
+- Le paysage de la cybersécurité.
+
+## [La nouvelle arnaque sur WhatsApp pirate les comptes sans voler de mot de passe](https://itrnews.com/articles/208364/la-nouvelle-arnaque-sur-whatsapp-pirate-les-comptes-sans-voler-de-mot-de-passe.html)  
+*Source : itrnews.com | Publication : 2026-01-04*
+
+- Veuillez activer Javascript.
+
+## [Les détenteurs de cryptos sont confrontés à une vague d'attaques aussi brutale qu'invisible](https://fr.tradingview.com/news/cointelegraph:5e9e25a84b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-04*
+
+- Les détenteurs de cryptos sont confrontés à une vague d’attaques aussi brutale qu’invisible Derrière l’image décentralisée et sécurisée des cryptos, une menace bien réelle s’installe : celle des agressions physiques contre les détenteurs de portefeuilles numériques.
+- Ces attaques, appelées “wrench attacks”, ne relèvent plus de cas isolés mais d’un phénomène mondial en croissance.
+- Comprendre leur origine, leur évolution et les moyens de s’en prémunir devient indispensable à mesure que les actifs crypto se démocratisent.
+- Ce que sont vraiment les “wrench attacks” en crypto Le terme “wrench attack” désigne une agression physique dont l’objectif est de forcer une personne à révéler ses clés privées.
+
+## [Né en Indre-et-Loire, Skyfall Protection promet le blocage d'une cyberattaque en moins d'un ...](https://www.lanouvellerepublique.fr/tours/ne-en-indre-et-loire-skyfall-protection-promet-le-blocage-d-une-cyberattaque-en-moins-d-un-quart-d-heure-1767556008)  
+*Source : lanouvellerepublique.fr | Publication : 2026-01-04*
+
+- Né en Indre-et-Loire, Skyfall Protection promet le blocage d’une cyberattaque en moins d’un quart d’heure AbonnésCet article est réservé aux abonnés numériques.
+- AbonnésCet article est réservé aux abonnés numériques.
+- Le ministère de l’Intérieur, puis celui des Sports et, enfin, La Poste.
+- En quinze jours, au mois de décembre 2025, tous ont été ciblés par des cyberattaques.
+
+## [La Banque Postale, la CAF, Ameli : le coût astronomique des cyberattaques pour l'économie ...](https://www.presse-citron.net/banque-postale-caf-ameli-cout-astronomique-cyberattaques-economie-francaise/)  
+*Source : presse-citron.net | Publication : 2026-01-04*
+
+- La France est devenue l’un des terrains de jeux préférés des cybercriminels.
+- La Poste paralysée en pleine période de Noël, la CAF victime d’une fuite massive touchant des millions d’allocataires, le ministère de l’Intérieur infiltré : le pays encaisse les coups sans parvenir à colmater les brèches.
+- Et cela a un impact catastrophique sur l’économie.
+- Le chiffre a de quoi donner des sueurs froides.
+
+## [Télécharger un ebook peut devenir fatal pour vos données : des livres turcs et arabes piégés](https://www.algerie360.com/telecharger-un-ebook-peut-devenir-fatal-pour-vos-donnees-des-livres-turcs-et-arabes-pieges/)  
+*Source : algerie360.com | Publication : 2026-01-04*
+
+- Les cybercriminels redoublent d’ingéniosité pour piéger les internautes.
+- Selon une enquête menée par la Global Research & Analysis Team (GReAT) de Kaspersky, une campagne de malware-as-a-service (MaaS) vise actuellement les lecteurs de livres numériques en Turquie, en Égypte, au Bangladesh et en Allemagne.
+- Les attaquants dissimulent des logiciels malveillants sophistiqués derrière l’apparence de livres turcs et arabes à succès, incitant des centaines de victimes à télécharger des fichiers capables de dérober mots de passe, portefeuilles de cryptomonnaies et autres données sensibles stockées sur leurs ordinateurs.
+- De faux ebooks utilisés comme vecteurs d’infection Les chercheurs de Kaspersky GReAT ont identifié une campagne reposant sur LazyGo, un nouveau loader développé en langage Go.
+
+## [Nouvelle fuite de données de santé liée à Doctolib : de nombreuses infos de patients ...](https://www.clubic.com/actualite-593533-nouvelle-fuite-de-donnees-de-sante-liee-a-doctolib-de-nombreux-infos-de-patients-francais-sur-le-dark-web.html)  
+*Source : clubic.com | Publication : 2026-01-04*
+
+- Une fuite de données liée à Doctolib vient d'être publiée sur un forum cybercriminel.
+- Plus de 150 000 informations personnelles de patients de deux établissements français circulent désormais en ligne.
+- 2026 démarre sur les chapeaux de roue pour la cybercriminalité française.
+- Ce dimanche 4 janvier, un hacker a déposé sur BreachForums une archive contenant les données personnelles de dizaines de milliers de patients.
+
+## [Piratage à l'Agence spatiale européenne : enquête sur un vol massif de données](https://www.europe-infos.fr/cyberattaque/7371/piratage-a-l-agence-spatiale-europeenne-enquete-sur-un-vol-massif-de-donnees/)  
+*Source : europe-infos.fr | Publication : 2026-01-04*
+
+- Sommaire 1 Révélation officielle et mesures immédiates - 2 Vol de données et menaces revendiquées - 3 L’enquête progresse et les partenaires alertés - 4 Communication sous contrôle et gestion de la crise - 5 Quelle portée pour la filière spatiale européenne ?.
+- - 6 Informations pratiques sur la sécurité des données ESA - 7 Questions fréquentes sur le piratage ESA - 8 Sources - Fin 2025, l’Agence spatiale européenne (ESA) a été frappée par une cyberattaque majeure.
+- Un groupe de hackers a réussi à s’infiltrer dans plusieurs serveurs, déclenchant une vague d’inquiétude dans le secteur spatial et jetant la lumière sur les failles potentielles de la sécurité des données sensibles gérées par l’agence.
+- Retour sans détour sur les faits marquants, les réactions officielles et les impacts pour toute la filière.
+
+## [&quot;Chaque attaque bloquée est une victoire, peu importe le logo affiché à l'écran&quot; - Interview ...](https://www.clubic.com/actualite-590896-chaque-attaque-bloquee-est-une-victoire-peu-importe-le-logo-affiche-a-l-ecran---interview-bitdefender.html)  
+*Source : clubic.com | Publication : 2026-01-04*
+
+- Entre des campagnes de scams de plus en plus travaillées à l'aide de l'IA et des ransomwares toujours plus sournois, plus que jamais les antivirus deviennent des logiciels indispensables.
+- Et face à la diversité des menaces, ils se transforment en super-apps, multipliant les outils de défense.
+- Sur ce secteur, l'éditeur roumain Bitdefender a su se faire une place de choix et nous explique tous les enjeux du marché.
+- À quoi ressembleront les menaces en 2026 ?.
+
+## [Télétravail : le talon d'Achille de la <b>cybersécurité</b> des entreprises - Forbes.fr](https://www.forbes.fr/technologie/teletravail-le-talon-dachille-de-la-cybersecurite-des-entreprises/)  
+*Source : forbes.fr | Publication : 2026-01-04*
+
+- Une tribune signée par Adrien Gendre, CPO chez Hornetsecurity Les risques numériques à la maison Le premier défi du télétravail se situe dans l’infrastructure même du foyer.
+- La majorité des réseaux Wi-Fi domestiques restent insuffisamment sécurisés : mots de passe faibles, absence d’isolement réseau, routeurs non mis à jour.
+- Ces failles constituent des portes d’entrée privilégiées pour les hackers.
+- À cela s’ajoute la multiplication des objets personnels (smartphones, tablettes, ordinateurs) et la présence croissante d’objets connectés (assistants vocaux, caméras, thermostats).
+
+## [Expert en nouvelles technologies, voici les 3 applications indispensables pour bloquer les ...](https://www.mobigeeks.fr/expert-en-nouvelles-technologies-voici-les-3-applications-indispensables-pour-bloquer-les-cyberattaques/)  
+*Source : mobigeeks.fr | Publication : 2026-01-04*
+
+- Expert en cybersécurité.
+- Dans mon expérience, c'est souvent ce seul outil qui empêche un ransomware de chiffrer des années de fichiers.
+
+## [Perspectives. En 2026, IsraelValley mettra en avant, sur Radio J, la <b>cybersécurité</b>, IA, Deep ...](https://israelvalley.com/2026/01/04/perspectives-en-2026-israelvalley-mettra-en-avant-sur-radio-j-la-cybersecurite-ia-deep-tech-agritech-health-tech/)  
+*Source : israelvalley.com | Publication : 2026-01-04*
+
+- High-tech et économie israélienne, retrouvez la chronique du président d’Honneur de la chambre de commerce Israel-France Daniel Rouach tous les lundis à 7h05 dans le 6/9 d’Ilana Ferhadian sur RadioJ.
+- Le high-tech israélien est un succès retentissant, surnommé la « Startup Nation« , grâce à un écosystème solide (universités, recherche, armée, capital-risque) qui favorise l’innovation, générant de nombreuses startups (licornes), des levées de fonds importantes et des acquisitions majeures (ex: Wiz par Google), même face aux défis géopolitiques actuels, avec des secteurs clés comme la cybersécurité, l’IA, la santé et la défense.
+- Facteurs Clés du Succès : L’Unité 8200 : Cette unité d’élite de renseignement militaire forme des talents exceptionnels en cybersécurité, qui deviennent des fondateurs de startups à succès.
+- - Écosystème Collaboratif : Forte collaboration entre universités, instituts de recherche et entreprises privées.
+
+## [Entreprises - Rencontres de la <b>cybersécurité</b>, le 28 janvier - Les Annonces Landaises](https://www.annonces-landaises.com/actualites/entreprises-rencontres-de-la-cybersecurite-le-28-janvier/)  
+*Source : annonces-landaises.com | Publication : 2026-01-04*
+
+- Quand 60 % des PME font faillite dans les 18 mois suivant une attaque informatique, « la cybersécurité doit désormais faire partie des priorités de tous les acteurs économiques », souligne la chambre de commerce et d’industrie des Landes qui propose le 28 janvier la troisième édition de ses Rencontres de la cybersécurité dédiée aux solutions concrètes pour mieux protéger son entreprise.
+- Au programme : retours d’expérience pour comprendre les menaces réelles ; méthodes et outils pour renforcer la sécurité numérique et échanges avec des experts proches des besoins du territoire.
+- Inscription sur Rencontres de la cybersécurité 2026 Mercredi 28 janvier, de 8 h 30 à 10 h – CCI des Landes – 293 avenue du Maréchal-Foch – Mont-de-marsan.
+
+## [Escroquerie en ligne et faux concours, attention aux arnaques ! Algérie Poste avertit ses usagers](https://www.algerie360.com/escroquerie-en-ligne-et-faux-concours-attention-aux-arnaques-algerie-poste-avertit-ses-usagers/)  
+*Source : algerie360.com | Publication : 2026-01-04*
+
+- Dans un communiqué rendu public ce samedi, l’établissement public Algérie Poste a appelé ses usagers à la plus grande vigilance face à la multiplication de tentatives d’escroquerie en ligne.
+- L’institution alerte sur l’émergence de pages et de liens suspects circulant sur les réseaux sociaux, usurpant son identité visuelle pour abuser de la confiance des citoyens.
+- Selon le communiqué, des cybercriminels utilisent des techniques de « phishing » (hameçonnage) en promettant des gains fictifs, des concours ou des offres exceptionnelles.
+- L’objectif est d’inciter les clients à cliquer sur des liens malveillants afin de subtiliser leurs données personnelles ou leurs coordonnées bancaires.
+
+## [<b>Cybersécurité</b> : changement de paradigme avec l'intelligence artificielle - PressReader](https://www.pressreader.com/france/la-tribune-dimanche-france-9bp7/20260104/281651081477112)  
+*Source : pressreader.com | Publication : 2026-01-04*
+
+- Cybersécurité : changement de paradigme avec l'intelligence artificielle · Hameçonnage par sms, faux conseillers bancaires, deepfake : la créativité.
+
+## [Et si votre Wi-Fi suivait votre posture - ZATAZ](https://www.zataz.com/et-si-votre-wi-fi-suivait-votre-posture/)  
+*Source : zataz.com | Publication : 2026-01-03*
+
+- Et si votre Wi-Fi suivait votre posture Un dépôt promet d’estimer la posture humaine via des signaux Wi-Fi, sans caméra.
+- Une prouesse technique qui déplace surtout la frontière entre confort connecté et surveillance invisible.
+- Ruvnet/wifi-densepose est un projet open source sous licence MIT qui affirme produire une estimation de posture « DensePose » à partir de données Wi-Fi, sans flux vidéo.
+- L’idée, suivre un environnement à partir des ondes produites par le wi-fi.
+
+## [Bitcoin : Libération anticipée du hacker Ilya Lichtenstein - TradingView](https://fr.tradingview.com/news/cointribune:1c4e2bb39b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-03*
+
+- Bitcoin : Libération anticipée du hacker Ilya Lichtenstein Ilya Lichtenstein, impliqué dans le vol d’environ 119 756 BTC sur Bitfinex, dit avoir été libéré de prison plus tôt que prévu grâce au First Step Act, une loi adoptée sous Donald Trump.
+- Il n’aura passé qu’un peu plus d’un an derrière les barreaux, alors qu’il avait été condamné à cinq ans.
+- Lisez-nous sur Google NewsEn bref Ilya Lichtenstein, impliqué dans le vol des BTC sur Bitfinex en 2016, a annoncé sa libération anticipée.
+- - Il affirme avoir bénéficié du First Step Act, une loi signée sous Donald Trump qui permet des réductions de peine - Une sortie rapide, une loi qui traînait déjà dans le décor Ilya Lichtenstein, figure centrale du hack des bitcoins sur Bitfinex en 2016, dit être sorti de prison avant terme grâce au First Step Act.
+
+## [130 millions de dommages: Un cybercriminel ukrainien se fait pincer la justice en Suisse](https://www.msn.com/fr-ch/actualite/other/130-millions-de-dommages-un-cybercriminel-ukrainien-se-fait-pincer-la-justice-en-suisse/ar-AA1K1DSr?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1)  
+*Source : msn.com | Publication : 2026-01-03*
+
+- Un cybercriminel ukrainien de 51 ans fait face à la justice zurichoise pour dix attaques par ransomware.
+- Accusé d'extorsion et de blanchiment.
 
 ## [Crypto : « Des centaines » de portefeuilles EVM vidés lors d'une attaque mystérieuse](https://fr.tradingview.com/news/cointelegraph:e2bb3874db858:0/)  
 *Source : fr.tradingview.com | Publication : 2026-01-03*
