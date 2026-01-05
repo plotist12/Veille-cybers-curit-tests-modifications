@@ -1,5 +1,156 @@
-# Résumés – 2026-01-04
+# Résumés – 2026-01-05
 
+
+## [BeaconBeagle : une plateforme gratuite de suivi des balises et des serveurs Cobalt Strike](https://www.lemagit.fr/actualites/366636791/BeaconBeagle-une-plateforme-gratuite-de-suivi-des-balises-et-des-serveurs-Cobalt-Strike)  
+*Source : lemagit.fr | Publication : 2026-01-05*
+
+- Framestock - stock.adobe.com BeaconBeagle : une plateforme gratuite de suivi des balises et des serveurs Cobalt Strike Olivier Ferrand vient d’ouvrir BeaconBeagle, une plateforme gratuite permettant de suivre les serveurs de commande et de contrôle Cobalt Strike, ainsi que les balises.
+- De quoi améliorer sa protection contre les cyberattaques.
+- « Cobalt Strike reste l’un des outils les plus couramment utilisés par les acteurs malveillants.
+- Lorsque des incidents surviennent, la partie difficile est rarement de “trouver un indicateur” – il s’agit de comprendre comment cela se connecte à d’autres activités, à quel point elle est récente, et ce qu’elle implique pour la détection et la réponse ».
+
+## [L'IA devient la compétence numéro un sur le marché du travail - Siècle Digital](https://siecledigital.fr/2026/01/05/lia-devient-la-competence-numero-un-sur-le-marche-du-travail/)  
+*Source : siecledigital.fr | Publication : 2026-01-05*
+
+- Après la data, le cloud ou la cybersécurité, l’intelligence artificielle apparaît désormais comme un passage obligatoire pour les entreprises comme pour les salariés.
+- Et derrière cette tendance qui semble effacer l’hypothèse de la fin du travail annoncée par Sam Altman pour le moment, il ne s’agit plus d’un discours prospectif… Une demande en compétences IA en forte accélération Selon les premiers enseignements du Global State of the Skills Economy Report publié par Cornerstone OnDemand, l’intelligence artificielle s’installe en tête des compétences les plus recherchées à l’échelle mondiale.
+- En un an, la demande liée à maîtrise de l’IA a progressé de 245%, reléguant des compétences historiquement dominantes comme la communication au second plan.
+- 📩 L’actu digitale évolue vite.
+
+## [Des données de santé publiées sur BreachForums - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/cybersecurite/64300-des-donnees-de-sante-publiees-sur-breachforums.html)  
+*Source : linformaticien.com | Publication : 2026-01-05*
+
+- 2026 démarre fort en cybersécurité.
+- En ce début du mois de janvier, ce ne sont pas moins de 150 000 dossiers patients contenant des données.
+
+## [Mme Cherfi visite le siège du Service central de lutte contre la <b>cybercriminalité</b> de la Sûreté nationale](https://www.aps.dz/fr/algerie/societe/mk1gli4z-mme-cherfi-visite-le-siege-du-service-central-de-lutte-contre-la-cybercriminalite-de-la-surete-nationale)  
+*Source : aps.dz | Publication : 2026-01-05*
+
+- Mme Cherfi visite le siège du Service central de lutte contre la cybercriminalité de la Sûreté nationale ALGER - La Déléguée nationale à la protection de l'enfance, Meriem Cherfi, accompagnée d'une délégation, a effectué, lundi, une visite au siège du Service central de lutte contre la cybercriminalité de la Sûreté nationale, dans le cadre de la coordination et de la coopération institutionnelle en matière de cybersécurité, a indiqué un communiqué de la Direction générale de la Sûreté nationale (DGSN).
+- "Lors de cette visite, effectuée en compagnie de cadres de ses services, au siège du Service central de lutte contre la cybercriminalité relevant de la Direction de la police judiciaire, Mme Cherfi s'est enquise des missions de ce service, notamment celles liées aux mécanismes et aux méthodes de protection des mineurs contre les différents crimes et agressions commis à leur encontre via le cyberespace", a ajouté la même source.
+- Cette visite s'inscrit dans le cadre des préparatifs de l'Organe national de la protection et de la promotion de l'enfance (ONPPE) pour le lancement d'une cellule de veille cybernétique visant à assurer une veille numérique via les technologies de l'information et de la communication, et à détecter les dépassements et les actes portant atteinte à la sécurité et à l'intégrité de l'enfant, par le repérage, la surveillance et le constat de contenus numériques contenant des violations des droits de l'enfant, note le communiqué.
+
+## [Comment les États-Unis ont utilisé cyberattaques et renseignement électronique pour ... - BFM](https://www.bfmtv.com/tech/cybersecurite/comment-les-etats-unis-ont-utilise-cyberattaques-et-renseignement-electronique-pour-preparer-et-faciliter-la-capture-de-nicolas-maduro_AN-202601050697.html)  
+*Source : bfmtv.com | Publication : 2026-01-05*
+
+- Comment les États-Unis ont utilisé cyberattaques et renseignement électronique pour préparer et faciliter la capture de Nicolás Maduro C’est un coup de tonnerre.
+- Vendredi soir à 22h46 à Washington (samedi 4h46, heure de Paris), Donald Trump a donné son feu vert à l’opération "Absolute Resolve", visant à capturer Nicolás Maduro, président de la République bolivarienne du Venezuela depuis 2013 et en conflit ouvert avec Washington depuis plusieurs mois.
+- Plus de 150 appareils, avions de chasse, de reconnaissance, drones et hélicoptères, ont décollé de bases terrestres et maritimes.
+- Les aéronefs transportant la "force d’extraction" spéciale ont survolé l’océan à basse altitude dans l’obscurité, tandis que les chasseurs assuraient la couverture aérienne.
+
+## [Pornhub : 100 millions de comptes exposés après une fuite inédite - L'Essentiel de l'Éco](https://lessentieldeleco.fr/5201-pornhub-100-millions-de-comptes-exposes-apres-une-fuite-inedite/)  
+*Source : lessentieldeleco.fr | Publication : 2026-01-05*
+
+- Afficher le sommaire Masquer le sommaire C’est un signal faible qui hurle très fort.
+- La fin de l’année 2025 a vu un choc discret mais potentiellement dévastateur : le piratage de Pornhub.
+- Le site canadien, mastodonte mondial du porno en ligne, s’est fait dérober des données liées à 100 millions de comptes.
+- Pas une attaque technique spectaculaire, pas de ransomwares destructeurs, mais une faille silencieuse qui ouvre sur une menace d’un autre ordre.
+
+## [Doctolib dément toute intrusion ou fuite de données - INCYBER NEWS](https://incyber.org/article/doctolib-dement-toute-intrusion-ou-fuite-donnees/)  
+*Source : incyber.org | Publication : 2026-01-05*
+
+- Doctolib dément toute intrusion ou fuite de données Articles du même auteur : 1 05.01.26 Cybersécurité Patrick Touak nommé à la tête du ComCyber-MI Lire 01.
+- 3.
+
+## [Trust Wallet revient sur le « piratage de Noël » de ses portefeuilles de cryptomonnaies](https://incyber.org/article/trust-wallet-revient-sur-piratage-noel-portefeuilles-cryptomonnaies/)  
+*Source : incyber.org | Publication : 2026-01-05*
+
+- Trust Wallet revient sur le « piratage de Noël » de ses portefeuilles de cryptomonnaies Articles du même auteur : 1 05.01.26 Cyber + Doctolib dément toute intrusion ou fuite de données Lire 01.
+- 2 05.01.26 Cybersécurité Patrick Touak nommé à la tête du ComCyber-MI Lire 01.
+- 4.
+
+## [Quand le DDoS devient systémique : retour sur la double attaque contre le groupe La Poste](https://www.solutions-numeriques.com/quand-le-ddos-devient-systemique-retour-sur-la-double-attaque-contre-le-groupe-la-poste/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-05*
+
+- Si le groupe La Poste avait terminé l’année 2025 sous le feu d’une attaque par déni de service distribué (DDoS), il semblerait qu’il ait démarré l’année 2026 sous le même type d’assaut massif.
+- À peine une semaine après un incident majeur pendant la période de Noël, une seconde vague de saturation aurait de nouveau paralysé le 1er janvier plusieurs services en ligne du groupe postal.
+- Selon le communiqué officiel du groupe La Poste, une attaque informatique d’envergure aurait été détectée le 1er janvier 2026 à 3h15 du matin, ciblant les systèmes d’information du groupe et saturant les services en ligne de La Poste et de La Banque Postale.
+- Une attaque DDoS d’ampleur inédite selon La Poste Cette offensive consisterait en plusieurs milliards de tentatives de connexion par seconde générées depuis des millions d’adresses IP compromises, ce qui suggère un mécanisme de type DDoS orchestré au travers de botnets d’objets connectés et de machines infectées.
+
+## [Yosra Jarraya, Co-fondatrice et CEO d'Astran Yosra Jarraya, Co-fondatrice et CEO d'Astran](https://www.ecommercemag.fr/retail-1220/yosra-jarraya-co-fondatrice-et-ceo-dastran-54944)  
+*Source : ecommercemag.fr | Publication : 2026-01-05*
+
+- L’essentiel de votre parcours ?.
+- « Rien ne me prédestinait à diriger une entreprise dans la tech, surtout sur un sujet aussi technique que la cybersécurité ».
+- Diplômée d’HEC Paris et de Panthéon-Sorbonne, Yosra Jarraya débute comme avocate d’affaires chez Davis Polk & Wardwell, spécialisée dans les opérations de M&A.
+- Elle devient ensuite secrétaire générale de La Financière Lov pendant six ans.
+
+## [<b>Cybersécurité</b> de l'État : une fuite de données portant sur 2,1 millions de dossiers de l'OFII évoquée](https://www.solutions-numeriques.com/cyber-securite-de-letat-une-fuite-de-donnees-portant-sur-21-millions-de-dossiers-de-lofii-evoquee/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-05*
+
+- Une information non confirmée par les autorités mais largement relayée depuis ce 1ᵉʳ janvier circule sur plusieurs plateformes spécialisées et réseaux sociaux : une publication diffusée sur le forum clandestin BreachForums ferait état d’une exfiltration massive de données en provenance du portail officiel etrangers-en-france.interieur.gouv.fr, qui héberge notamment l’outil administratif de l’Administration Numérique des Étrangers en France (ANEF).
+- Une annonce qui secoue déjà la sphère cybersécurité Selon les éléments partagés dans ce message, un acteur se présentant comme ayant compromis l’ANEF aurait mis en ligne une base d’environ 1 Go contenant plus de 2,1 millions de lignes de données administratives et personnelles prétendument exfiltrées.
+- Les premiers échantillons analysés par des observateurs externes, notamment Christophe Boutry, consultant expert en analyse criminelle et investigations numériques, montrent une cohérence technique avec les structures de données utilisées par l’administration française, formats de numéros, libellés juridiques conformes, codes postaux correspondant à des préfectures, ce qui donne un minimum de crédibilité à l’attaque.
+- Nous rappelons qu’à ce stade, aucune communication officielle n’a été diffusée par le ministère de l’Intérieur, l’OFII ou toute autre autorité compétente pour confirmer l’incident ou en préciser les circonstances.
+
+## [Jusqu'à six mois de prison ferme pour les cyberharceleurs de Brigitte Macron](https://ici.radio-canada.ca/nouvelle/2217991/france-prison-cyberharceleurs-brigitte-macron)  
+*Source : ici.radio-canada.ca | Publication : 2026-01-05*
+
+- Jusqu’à six mois de prison ferme pour les cyberharceleurs de Brigitte Macron Brigitte Macron, qui n'a pas fait acte de présence au procès, avait déclaré aux enquêteurs en 2024 que la rumeur la présentant comme une femme transgenre avait eu un très fort retentissement sur son entourage et sur elle-même.
+- (Photo d'archives) Photo : Reuters / Gonzalo Fuentes « Une volonté de nuire » : les cyberharceleurs de Brigitte Macron, accusés d'avoir diffusé ou relayé insultes et rumeurs liées à son genre et à son écart d'âge avec le président français, ont été condamnés lundi à Paris à des peines allant jusqu'à six mois de prison ferme, la plupart écopant de sursis.
+- La relation entre Emmanuel Macron, 48 ans, et sa femme Brigitte, 72 ans, rencontrée lorsqu'elle enseignait le théâtre dans son lycée, fait l'objet d'une diffusion massive de fausses informations que le couple s'est finalement décidé à combattre sur le plan judiciaire en France et aux États-Unis.
+- Huit autres des dix prévenus ont été condamnés à des peines de quatre à huit mois de prison avec sursis pour avoir publié ou relayé dans des termes malveillants, dégradants et insultants des propos sur le genre et la prétendue pédocriminalité de la première dame, a détaillé le président du tribunal Thierry Donard lors du délibéré.
+
+## [28e régime, AI Act, Data Act… ces nouvelles réglementations qui vont toucher les start-up](https://www.lesechos.fr/start-up/ecosysteme/28e-regime-ai-act-data-act-ces-nouvelles-reglementations-qui-vont-toucher-les-start-up-2207730)  
+*Source : lesechos.fr | Publication : 2026-01-05*
+
+- A partir de 2026, le Cyber Resilience Act (CRA) imposera de nouvelles obligations de cybersécurité aux fabricants, importateurs et distributeurs de.
+
+## [<b>Cybersécurité</b> : l'Occitanie muscle son offre de formation - ToulEmploi](https://www.toulemploi.fr/Cybersecurite-l-Occitanie-muscle-son-offre-de-formation,49821)  
+*Source : toulemploi.fr | Publication : 2026-01-05*
+
+- L’Occitanie renforce son écosystème cyber avec le lancement du projet Osmose.
+- Porté par l’Université de Toulouse, ce programme structurant, lauréat de l’AMI Compétences et métiers d’avenir de France 2030, bénéficie d’un budget global de 27 millions d’euros, dont 6 millions de soutien public.
+- Objectif : accélérer la montée en compétences en cybersécurité à l’échelle régionale.
+- Réunissant 21 partenaires académiques, institutionnels et industriels*, Osmose vise un public très large, des collégiens aux professionnels en activité ou en reconversion.
+
+## [<b>Cybersécurité</b> : bonnes pratiques et bonnes résolutions avec Diane Rambaldini (Crossing Skills)](https://www.voyages-d-affaires.com/cybersecurite-bonnes-resolutions-rambaldini)  
+*Source : voyages-d-affaires.com | Publication : 2026-01-05*
+
+- Comment ont évolué les menaces en matière de cybersécurité ces dernière années ?.
+- Diane Rambaldini – Les menaces restent les mêmes.
+- Il y a toujours le cybercriminel qui va être dans les environs, et qui va chercher à arnaquer l’utilisateur, à voler ses infos.
+- Il y a toujours bien sûr potentiellement le voleur réel du téléphone : les vols d’outils numériques ont totalement explosé, avec notamment des ventes de pièces détachées.
+
+## [Orange propose un service gratuit qui vérifie les liens que les internautes estiment suspects](https://www.clubic.com/actualite-593560-orange-propose-un-service-gratuit-qui-verifie-les-liens-que-les-internautes-estiment-suspects.html)  
+*Source : clubic.com | Publication : 2026-01-05*
+
+- Orange Cybersecure met à disposition des internautes un outil gratuit pour vérifier la fiabilité des liens suspects.
+- Il a déjà largement été éprouvé, avec 530 000 vérifications effectuées contre le phishing et les arnaques en ligne.
+- Les solutions contre les tentatives de phishing ne sont jamais trop nombreuses, voilà pourquoi Orange Cyberdefense propose un service de vérification d'URL, accessible à tous les internautes.
+- Le portail cybersecurite.orange.fr analyse en temps réel ou après examen manuel d'un expert la fiabilité des liens reçus par SMS, e-mail ou messagerie.
+
+## [&quot;Être primé au CES Las Vegas agit comme un panneau lumineux sur l'autoroute ... - La Montagne](https://www.lamontagne.fr/clermont-ferrand-63000/economie/etre-prime-au-ces-las-vegas-agit-comme-un-panneau-lumineux-sur-lautoroute-minalogic-propulse-les-start-ups-dauvergne-rhone-alpes_14807893/)  
+*Source : lamontagne.fr | Publication : 2026-01-05*
+
+- Damien Cohen est responsable des parcours intelligence artificielle et cybersécurité chez Minalogic, pôle de compétitivité du numérique en Auvergne-Rhône-Alpes.
+- Depuis 12 ans, ce cluster accompagne les entreprises régionales au Consumer Electronics Show (CES) de Las Vegas.
+- Quelle mission vous a confié la Région??.
+- La Région pilote le pavillon collectif au CES.
+
+## [<b>Cybersécurité</b>: de la menace silencieuse à la priorité stratégique | Paperjam News](https://paperjam.lu/article/de-la-menace-silencieuse-a-la-priorite-strategique)  
+*Source : paperjam.lu | Publication : 2026-01-05*
+
+- Alors que l’IA et les outils numériques transforment le fonctionnement des organisations, de nouvelles questions se posent en matière de compétences, de structures et de leadership.
+- À travers cette série de douze articles, découvrez les forces qui redéfinissent la main-d’œuvre numérique au Luxembourg et les approches qui gagnent du terrain dans tout le pays.
+- Les cyberattaques augmentent rapidement.
+- Quelles sont les principales menaces actuelles et quel est leur impact sur le recrutement et les besoins en compétences?.
+
+## [<b>Cybersécurité</b> : Doctolib assure qu'aucun de ses systèmes n'a été compromis et dément ...](https://www.usine-digitale.fr/sante/cybersecurite-doctolib-assure-quaucun-de-ses-systemes-na-ete-compromis-et-dement-toute-fuite-de-donnees.CJTK3K23AZDTTEZ45GP27UFPC4.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-05*
+
+- La presse française s’est affolée, à tort, de voir une base de données publiée sur un forum cybercriminel, issue soi-disant de Doctolib.
+- Cette diffusion d’informations, repérée le 4 janvier 2026, a rapidement nourri l’idée d’une compromission de la plateforme de prise de rendez-vous médicaux.
+- Une interprétation erronée, que l’entreprise a formellement démentie.
+- Doctolib étranger à cette fuite Contacté par nos soins, Doctolib se montre clair : l’entreprise n’est pas à l’origine de cette fuite de données et aucun de ses systèmes n’a été compromis.
+
+## [Alerte Chrome, Edge et Firefox : un empire de l'espionnage chinois a été découvert](https://www.01net.com/actualites/alerte-chrome-edge-firefox-empire-espionnage-chinois-decouvert.html)  
+*Source : 01net.com | Publication : 2026-01-05*
+
+- Le mois dernier, les chercheurs de Koi Security ont découvert que 145 extensions Chrome et Edge avaient pris l’habitude de siphonner l’historique, les cookies et les recherches des internautes.
+- L’opération, qui s’est étalée sur plus de sept ans, a été baptisée ShadyPanda par les experts.
+- Plus de 5,6 millions d’utilisateurs ont été touchés.
+- Peu après, les chercheurs chinois ont attribué une autre campagne malveillante, intitulée GhostPoster, au même acteur malveillant.
 
 ## [IA, identité numérique et sécurité en mutation - ITRmanager](https://itrmanager.com/articles/208365/ia-identite-numerique-et-securite-en-mutation.html)  
 *Source : itrmanager.com | Publication : 2026-01-04*
