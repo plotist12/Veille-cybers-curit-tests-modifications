@@ -1,5 +1,159 @@
-# Résumés – 2026-01-05
+# Résumés – 2026-01-06
 
+
+## [Flavien Vottero, <b>Cybersécurité</b> : le piège de l'inflation des normes - Xerfi Canal](https://www.xerficanal.com/strategie-management/emission/Flavien-Vottero-Cybersecurite-le-piege-de-l-inflation-des-normes_3754560.html)  
+*Source : xerficanal.com | Publication : 2026-01-06*
+
+- La cybersécurité , autrefois domaine d'ingénieurs et de stratèges, bascule dans la bureaucratie.
+- Ma thèse est simple : une bulle réglementaire émerge.
+
+## [DIG AI : le dark LLM qui industrialise la <b>cybercriminalité</b> - DCOD | Cybersécurité](https://dcod.ch/2026/01/06/dig-ai-dark-llm-cybercrime-2026/)  
+*Source : dcod.ch | Publication : 2026-01-06*
+
+- Hébergé sur Tor, DIG AI accélère la production de contenus illicites et de malwares.
+- Analyse de ce modèle qui défie les régulations internationales.
+- TL;DR : L’essentiel Des analystes de la cybersécurité ont observé fin 2025 une forte accélération de l’usage criminel de DIG AI, avec un pic pendant les fêtes de fin d’année, période où l’activité illégale mondiale a atteint un record.
+- - Cette plateforme d’intelligence artificielle, hébergée sur le réseau Tor et présentée comme un « dark LLM », fournit des conseils allant de la fabrication d’explosifs à la création de contenus pédocriminels hyperréalistes, particulièrement difficiles à repérer par les forces de l’ordre.
+
+## [Comment le fameux «écran bleu de la mort» de Windows est devenu l'arme des hackers ...](https://www.numerama.com/cyberguerre/2154163-comment-le-fameux-ecran-bleu-de-la-mort-de-windows-est-devenu-larme-des-hackers-pour-pirater-des-hotels.html)  
+*Source : numerama.com | Publication : 2026-01-06*
+
+- S’il a su évoluer au fil du temps et des différentes versions de Windows, arborant parfois un émoji de déception, l’« écran bleu de la mort » (communément abrégé en BSoD, pour Blue Screen of Death) reste, dans l’imaginaire collectif, tout sauf bon signe.
+- Et même s’il est désormais voué à devenir noir, ce message bleu aux lettres blanches annonçant une erreur fatale continue de déclencher la panique de l’utilisateur, qui cherche à le faire disparaître au plus vite pour revenir à la normale.
+- Et ça, les hackers l’ont bien compris.
+- Les chercheurs en cybersécurité de Securonix ont ainsi révélé, le 5 janvier 2026, une campagne cybercriminelle détectée pendant la période cruciale des fêtes de fin d’année, ciblant plusieurs établissements hôteliers européens en exploitant précisément ce mécanisme de peur.
+
+## [Le patron de l'ANSSI répond aux critiques sur la qualification SecNumCloud de l'offre ... - Clubic](https://www.clubic.com/actualite-593893-le-patron-de-l-anssi-repond-aux-critiques-sur-la-qualification-secnumcloud-de-l-offre-hybride-de-s3ns.html)  
+*Source : clubic.com | Publication : 2026-01-06*
+
+- Vincent Strubel, directeur général de l'ANSSI, l'agence française de cybersécurité, a clarifié mardi les enjeux de la qualification SecNumCloud, après la polémique née de la certification de S3NS, filiale de Thales associée à Google Cloud.
+- Le 19 décembre dernier, l'entreprise S3NS, fruit de l'alliance entre le géant hexagonal Thales et l'Américain Google Cloud, a vu son offre de cloud « hybride » PREMI3NS décrocher la plus exigeante des certifications du cloud européen par l'ANSSI, baptisée SecNumCloud 3.2.
+- La qualification a enflammé le débat sur la souveraineté numérique en France, ce qui pousse Vincent Strubel à réagir.
+- Dans un post publié sur LinkedIn ce mardi 6 janvier, le directeur général de l'Agence nationale de la sécurité des systèmes d'information remet les pendules à l'heure.
+
+## [Une équipe étudiante termine troisième à la finale régionale d'une compétition ...](https://nouvelles.ulaval.ca/2026/01/06/une-equipe-etudiante-termine-troisieme-a-la-finale-regionale-dune-competition-pancanadienne-de-cybersecurite-19a5b855-0c38-43c6-8d19-d20a8fa0705b)  
+*Source : nouvelles.ulaval.ca | Publication : 2026-01-06*
+
+- 6 janvier 2026 Une équipe étudiante termine troisième à la finale régionale d'une compétition pancanadienne de cybersécurité Cette équipe de l'Université Laval, qui a fait face à une vingtaine d'autres concurrentes, a rétabli des systèmes critiques, analysé des pannes de réseau et sécurisé des infrastructures Le 22 novembre à l'Université du Québec à Montréal, 21 équipes étudiantes universitaires et collégiales québécoises ont concouru à la finale régionale du CyberSci, une importante compétition pancanadienne de cybersécurité.
+- À l'issue de la journée, l'équipe de l'Université Laval a obtenu la troisième place.
+- Ce jour-là, le CyberSci a attiré quelque 400 étudiantes et étudiants rassemblés dans 6 villes.
+- En bref, une compétition de cybersécurité comprend de multiples défis, la résolution de ceux-ci donne des points et l'équipe avec le plus de points gagne.
+
+## [2025 : l'année où les échecs de <b>cybersécurité</b> se propagent à la sécurité physique](https://www.lemagit.fr/tribune/2025-lannee-ou-les-echecs-de-cybersecurite-se-propagent-a-la-securite-physique)  
+*Source : lemagit.fr | Publication : 2026-01-06*
+
+- Dark Illusion - stock.adobe.com 2025 : l’année où les échecs de cybersécurité se propagent à la sécurité physique En France, l’année passée a été marquée par un nombre inégalé de fuites de données personnelles.
+- Avec des conséquences bien concrètes jusque pour la sécurité physique des personnes.
+- L’an dernier, les violations de données personnelles se sont multipliées, en France, à un rythme sans précédent : il y en a eu largement plus d’une centaine.
+- Et c’est sans compter les vols de données dans le cadre d’une cyberattaque avec rançongiciel, que les données dérobées alors aient été divulguées ou pas.
+
+## [Nicolas Arpagian devient Directeur de la stratégie de Jizô AI - Global Security Mag Online](https://www.globalsecuritymag.fr/nicolas-arpagian-devient-directeur-de-la-strategie-de-jizo-ai.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-01-06*
+
+- Nicolas Arpagian devient Directeur de la stratégie de Jizô AI janvier 2026 par LA REDACTION DE GS MAG Jizô AI annonce la nomination de Nicolas Arpagian en tant que Directeur de la stratégie.
+- A ce poste, il contribuera la croissance et à la notoriété de l’entreprise qui propose une plateforme d’observabilité des réseaux et permet aux décideurs d’anticiper, d’identifier et de bloquer les cyberattaques en s’appuyant sur les technologies d’intelligence artificielle (IA).
+- Reconnu comme un acteur de référence sur le marché de la cybersécurité, Nicolas Arpagian exerçait jusqu’à présent les fonctions de Vice-Président du cabinet de conseil Headmind Partners.
+- Il fut auparavant Directeur de la stratégie en cybersécurité de Trend Micro Europe et Vice-Président en charge de la Stratégie, des Affaires Publiques et de la RSE d’Orange Cyberdefense pendant près de sept ans.
+
+## [Etude de marché : l'IA au service de la détection et de la réponse à incident - ANSSI](https://cyber.gouv.fr/enjeux-technologiques/intelligence-artificielle/etude-de-marche-lia-au-service-de-la-detection-et-de-la-reponse-a-incident/)  
+*Source : cyber.gouv.fr | Publication : 2026-01-06*
+
+- Etude de marché : l’IA au service de la détection et de la réponse à incident L’ANSSI a mené une étude de marché concernant l’usage et les impacts potentiels de l’Intelligence Artificielle (IA) dans le domaine de la détection et de la réponse à incident.
+- A ce titre, 18 éditeurs ont accepté de participer à cette étude et de répondre aux questions de l’ANSSI.
+- Les résultats de l’étude ont été présentés lors d’ateliers au Forum InCyber d’avril 2025.
+- L’Agence partage à présent le support de ces travaux pour permettre une meilleure connaissance des pratiques actuelles.
+
+## [Cyberattaques : les 11 incidents majeurs du 6 jan 2026](https://dcod.ch/2026/01/06/cyberattaques-les-11-incidents-majeurs-du-6-jan-2026/)  
+*Source : dcod.ch | Publication : 2026-01-06*
+
+- Voici le tour d’horizon des cyberattaques marquantes de la semaine : cibles visées, méthodes employées et premières conséquences déjà connues.
+- Faits marquants de la semaine Ubisoft a confirmé la compromission de Rainbow Six Siege, avec prise de contrôle de fonctions critiques (bannissement d’utilisateurs, déblocage d’objets) et distribution de 2 milliards de crédits virtuels, entraînant l’arrêt des serveurs et du marché intégré.
+- - Un acteur se présentant sous le pseudonyme « victim » revendique une fuite massive de données chez Tokyo FM Broadcasting au Japon, une intrusion observée le 1er janvier 2025 qui aurait exposé les informations personnelles de millions de personnes.
+- - Le groupe Transparent Tribe mène une nouvelle campagne contre des entités gouvernementales, académiques et stratégiques indiennes, en utilisant un cheval de Troie d’accès à distance diffusé via un fichier de raccourci Windows déguisé en document PDF légitime.
+
+## [Vosges. Un an après sa sortie de prison, le hackeur vosgien repenti Sébastien Raoult s ...](https://www.vosgesmatin.fr/faits-divers-justice/2026/01/06/un-an-apres-sa-sortie-de-prison-le-hackeur-vosgien-repenti-sebastien-raoult-s-oriente-vers-la-cybersecurite)  
+*Source : vosgesmatin.fr | Publication : 2026-01-06*
+
+- Vosges Un an après sa sortie de prison, le hackeur vosgien repenti Sébastien Raoult s’oriente vers la… cybersécurité Son passé judiciaire est en train de se transformer en carte de visite.
+- Mais sa situation, aussi bien personnelle que professionnelle, c’est son père, Paul Raoult, qui la résume le mieux : « Peut-être qu’à un moment, il a ouvert la mauvaise porte et il a compris qu’il ne fallait pas rester dans cette pièce.
+- » En une.
+
+## [<b>Cybersécurité</b> : à Lyon, Vigidomaine veut rendre la prévention accessible aux TPE et PME](https://www.lyon-entreprises.com/actualites/article/cybersecurite-a-lyon-vigidomaine-veut-rendre-la-prevention-accessible-aux-tpe-et-pme)  
+*Source : lyon-entreprises.com | Publication : 2026-01-06*
+
+- Cybersécurité : à Lyon, Vigidomaine veut rendre la prévention accessible aux TPE et PME Face à la multiplication des cyberattaques et des tentatives de fraude numérique, une startup lyonnaise entend s’attaquer à un angle mort persistant de la cybersécurité des petites et moyennes entreprises : la prévention.
+- Vigidomaine développe une approche proactive, pédagogique et économiquement accessible, ciblant les failles les plus courantes des organisations.
+- Des entreprises sous-estimant encore leur exposition Contrairement à une idée répandue, les TPE et PME ne sont pas épargnées par les cybermenaces.
+- Moins visibles, elles constituent néanmoins des cibles ou des points d’entrée vers des structures plus importantes.
+
+## [Se protéger du piratage lors d'un évènement : les réflexes essentiels - FrenchWeb](https://www.frenchweb.fr/se-proteger-du-piratage-lors-dun-evenement-les-reflexes-essentiels/459472)  
+*Source : frenchweb.fr | Publication : 2026-01-06*
+
+- Se protéger du piratage lors d’un évènement : les réflexes essentiels 📩 Pour nous contacter: redaction@fw.media Salons internationaux, conférences tech, sommets économiques : jamais les événements professionnels n’ont concentré autant de données, d’identités et de connexions numériques sur un laps de temps aussi court.
+- Pour les visiteurs qu’ils soient dirigeants, investisseurs, journalistes, cadres de l’entreprise, ces lieux sont devenus des zones de friction cyber, où la vigilance individuelle conditionne directement le niveau de risque.
+- L’enjeu n’est plus seulement la sécurité de l’infrastructure mise en place par l’organisateur.
+- Il concerne désormais les comportements numériques des participants eux-mêmes.
+
+## [Le COMCYBER signe une convention de partenariat avec deux lycées de Bretagne et Loire ...](https://www.defense.gouv.fr/comcyber/actualites/comcyber-signe-convention-partenariat-deux-lycees-bretagne-loire-atlantique)  
+*Source : defense.gouv.fr | Publication : 2026-01-06*
+
+- Le COMCYBER signe une convention de partenariat avec deux lycées de Bretagne et Loire-Atlantique Fin 2025, le Commandement de la cyberdéfense a signé deux conventions de partenariat avec le lycée Victor et Hélène Basch à Rennes et le lycée Appert à Orvault (44).
+- Pour le colonel Frédérick, chef du pôle Innovation et Ressources, représentant le COMCYBER, « ces partenariats contribuent à promouvoir les métiers de la cyberdéfense auprès des étudiants et renforcent le lien armées-jeunesse ».
+- Pour les lycées, les deux proviseurs affichent une même volonté : construire un partenariat étayé pour la réussite des jeunes, leur insertion et l’ouverture vers des opportunités professionnelles.
+- BTS SIO, BTS CIEL et certificat de certification CIEL : développer des actions conjointes pour les élèves Avec le lycée Victor et Hélène Basch à Rennes, la convention concerne le BTS SIO (services informatiques aux organisations), convention signée avec le proviseur en présence du représentant de la direction académique des services de l’Éducation nationale d’Ille-et-Vilaine.
+
+## [Il pirate 50 entreprises : en 2026, l'authentification multifacteur n'est plus une option - Clubic](https://www.clubic.com/actualite-593845-il-pirate-50-entreprises-en-2026-l-authentification-multi-facteurs-n-est-plus-une-option.html)  
+*Source : clubic.com | Publication : 2026-01-06*
+
+- Un cybercriminel a compromis une cinquantaine d'entreprises à travers le monde en exploitant des identifiants volés par des logiciels malveillants.
+- C'est l'absence d'authentification multifacteur sur les plateformes de partage de fichiers qui a rendu ces intrusions possibles.
+- Offre partenaire Protection avancée des e-mails, des calendriers, des mots de passe, du réseau… de votre entreprise grâce à la suite d'applications professionnelles sécurisées.
+- Offre partenaire L'acteur Zestix, également connu sous le pseudonyme Sentap, a mis en vente sur le dark web des données provenant d'environ 50 organisations internationales.
+
+## [<b>Cybersécurité</b>: l'ère des menaces pilotées par l'IA - Techerati](https://www.techerati.com/fr/hub-actualités/cybersecurite-lere-des-menaces-pilotees-par-lia/)  
+*Source : techerati.com | Publication : 2026-01-06*
+
+- Cybersécurité: l’ère des menaces pilotées par l’IA Écrit par Jérôme Marin il y a 6 jours L’intelligence artificielle transforme en profondeur la cybercriminalité.
+- Attaques autonomes, deepfakes ultra-ciblés et capacités d’évasion inédites redessinent le champ de bataille numérique.
+- Les experts en cybersécurité s’accordent sur un point: la prochaine vague de menaces sera largement pilotée par l’intelligence artificielle générative.
+- Et en particulier, par l’IA agentique, ces systèmes autonomes capables d’orchestrer des attaques complexes avec peu ou pas d’intervention humaine.
+
+## [DSI : les lignes de force de l'IT à l'horizon 2026](https://www.solutions-numeriques.com/dsi-les-lignes-de-force-de-lit-a-lhorizon-2026/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-06*
+
+- Les priorités IT des directions des systèmes d’information pour 2026 se resserrent autour d’un triptyque : cybersécurité, création de valeur et maîtrise opérationnelle.
+- Le dernier panorama publié par Abraxio met en lumière une fonction DSI sous contrainte, mais plus stratégique que jamais, sommée de protéger sans ralentir et d’innover sans fragiliser.
+- Une fonction DSI sous tension permanente Les DSI abordent 2026 avec un niveau de pression qui ne retombe pas.
+- Menaces cyber en hausse, exigences réglementaires renforcées, attentes métiers immédiates : l’équation reste difficile à résoudre.
+
+## [Kontigo remboursera 340 000 $ en USDC après la violation de portefeuille atteignant plus ...](https://fr.tradingview.com/news/invezz:bd6c818f5b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-06*
+
+- Kontigo remboursera 340 000 $ en USDC après la violation de portefeuille atteignant plus de 1 000 utilisateurs Kontigo, une néo-banque basée à San Francisco destinée principalement aux utilisateurs latino-américains, a confirmé qu’elle remboursera intégralement les clients touchés par une récente faille de sécurité qui a vidé plus de 340 000 $ en stablecoins des portefeuilles liés aux utilisateurs.
+- Dans une déclaration publique publiée le 5 janvier, la société a indiqué avoir identifié un accès non autorisé affectant une partie des fonds de ses utilisateurs.
+- Kontigo a déclaré avoir « immédiatement isolé les systèmes concernés » et activé des protocoles internes en réponse à la faille.
+- Une enquête est en cours pour évaluer l’ampleur complète de l’incident, a-t-elle ajouté.
+
+## [L'intelligence média et la cybersécurité au rendez-vous de l'Eurovision 2025 - Mediakwest](https://mediakwest.com/social-listening-et-cybersecurite-eurovision-2025/)  
+*Source : mediakwest.com | Publication : 2026-01-06*
+
+- À Bâle, les organisateurs ont fait le choix d’une approche intégrée combinant social listening et cybersécurité.
+- Retour d’expérience sur le dispositif mis en place par Senthorus et Onclusive pour anticiper et contenir les risques réputationnels… Un événement culturel à très forte surface d’attaque Avec plus de 180 millions de téléspectateurs et une visibilité mondiale, l’Eurovision constitue un terrain particulièrement sensible sur le plan informationnel.
+- L’édition 2025 n’a pas échappé à la règle, dans un contexte marqué par la polarisation des opinions, la circulation massive de contenus sur les réseaux sociaux et l’émergence de nouvelles formes de manipulation numérique.
+- Pour les organisateurs, le défi … Abonnez-vous dès maintenant Accédez en illimité à tous les articles aux dossiers, aux magazines, aux newsletters exclusives… Je m'abonne Déja un compte?.
+
+## [Stage nouvelles technologies, data et <b>cybersécurité</b> h/f à Paris - Village de la Justice](https://www.village-justice.com/annonces/stage-nouvelles-technologies-data-et-cybersécurité/offres/413618)  
+*Source : village-justice.com | Publication : 2026-01-06*
+
+- - La veille légale stratégique (intelligence artificielle, Data, cyber sécurité , objets connectés, signature électronique, etc.) ; - La rédaction de.
+
+## [<b>Cybersécurité</b> post-quantique : Thales sécurise la puce Samsung Electronics, primée au CES* 2026](https://www.thalesgroup.com/fr/actualites-du-groupe/communiques-de-presse/cybersecurite-post-quantique-thales-securise-la-puce)  
+*Source : thalesgroup.com | Publication : 2026-01-06*
+
+- Cybersécurité post-quantique : Thales sécurise la puce Samsung Electronics, primée au CES* 2026 Le système d’exploitation sécurisé de Thales (OS) équipe la puce de sécurité de Samsung, lauréate du prix CES 2026, ‘Best Cybersecurity Innovation’.
+- - Cette puce est le premier élément sécurisé embarqué à intégrer la cryptographie post-quantique (PQC), protégeant les appareils connectés face aux cybermenaces liées à l’essor de l’informatique quantique.
+- - Les logiciels et l’OS ‘quantum-résistants’ de Thales contribuent à sécuriser durablement les données et les appareils connectés.
+- - Les ordinateurs quantiques ouvriront de nouvelles perspectives technologiques mais représenteront un défi majeur pour la cybersécurité.
 
 ## [BeaconBeagle : une plateforme gratuite de suivi des balises et des serveurs Cobalt Strike](https://www.lemagit.fr/actualites/366636791/BeaconBeagle-une-plateforme-gratuite-de-suivi-des-balises-et-des-serveurs-Cobalt-Strike)  
 *Source : lemagit.fr | Publication : 2026-01-05*
