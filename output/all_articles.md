@@ -1,5 +1,161 @@
-# Résumés – 2026-01-06
+# Résumés – 2026-01-07
 
+
+## [Conférence – Sensibilisation à la <b>cybersécurité</b> - Ville de Blainville](https://blainville.ca/evenements/conference-sensibilisation-la-cybersecurite)  
+*Source : blainville.ca | Publication : 2026-01-07*
+
+- Conférence – Sensibilisation à la cybersécurité 24 février 2026 À l’ère du numérique, les arnaques en ligne sont devenues de plus en plus sophistiquées, ciblant aussi bien les particuliers que les entreprises.
+- Cette activité de sensibilisation vise à éduquer les participants sur les différentes formes de cyberarnaques, à leur fournir des outils pratiques pour les reconnaître, et à les aider à adopter les bons réflexes pour se protéger efficacement.
+- Pour les 16 ans et plus.
+- Inscription requise.
+
+## [Plus de 150 000 données de patients diffusés sur un forum de piratage informatique](https://www.ouest-france.fr/societe/faits-divers/plus-de-150-000-donnees-de-patients-diffuses-sur-un-forum-de-piratage-informatique-28cd7524-ebe2-11f0-b3e3-e584d3ee0112)  
+*Source : ouest-france.fr | Publication : 2026-01-07*
+
+- cybersécurité.
+- Photo d'illustration.
+- | SOUMIL KUMAR / PIXABAY.
+- fermer.
+
+## [Le MIT a mis à jour les mesures de <b>cybersécurité</b> pour les navires nationaux, les ports et les ...](https://www.informare.it/news/gennews/2026/20260012-MIT-aggiorna-misure-cybersecurity-x-navi-portifr.asp)  
+*Source : informare.it | Publication : 2026-01-07*
+
+- 8 janvier 2026 - Année XXX Journal indépendant d'économie et de politique des transports.
+- Cette page a été automatiquement traduit par Nouvelles originales.
+- Le MIT a mis à jour les mesures de cybersécurité pour les navires nationaux, les ports et les installations portuaires Une circulaire a été publiée qui, entre autres, introduit la formation du personnel Roma 7 Janvier 2026 Le ministère des Infrastructures et des Transports, à travers le Commandement général du Corps de l’Autorité portuaire - Garde Coastal et l’Autorité du NIS - Secteur des transports, annoncé la publication de la nouvelle Circulaire n° 177/2025 intitulée « Risque cybernétique maritime.
+- Mise à jour des mesures de sécurité pour les navires domestiques, l’ISM (Company) ISM) et les opérateurs de facilités portuaires » qui vont entrer dans le pleinement en vigueur à partir du 1er novembre 2026.
+
+## [tech&amp;fest 2026 structure ses débats autour de quatre thématiques clés de la souveraineté ...](https://www.lyon-entreprises.com/actualites/article/techfest-2026-structure-ses-debats-autour-de-quatre-thematiques-cles-de-la-souverainete-technologique)  
+*Source : lyon-entreprises.com | Publication : 2026-01-07*
+
+- tech&fest 2026 structure ses débats autour de quatre thématiques clés de la souveraineté technologique Pour sa troisième édition, tech&fest place la souveraineté au centre de sa programmation.
+- Les 4 et 5 février 2026 à Alpexpo Grenoble, l’événement réunira les acteurs de la recherche, de l’industrie, des institutions et de l’entrepreneuriat autour de quatre grandes thématiques stratégiques, pensées comme des leviers de compétitivité et de résilience pour les territoires.
+- La souveraineté comme fil conducteur de l’édition 2026 Dans un contexte marqué par l’accélération des ruptures technologiques, la pression sur les ressources et une fragmentation géopolitique croissante, tech&fest 2026 entend proposer une grille de lecture structurée des enjeux de souveraineté.
+- Porté par Le Dauphiné Libéré et le Groupe EBRA, l’événement s’affirme comme un espace de dialogue entre recherche publique, industrie, décideurs et entrepreneurs.
+
+## [Vague de piratage de comptes sur Whatsapp, la BCLCC appelle à la vigilance - leFaso.net](https://lefaso.net/spip.php?article143591)  
+*Source : lefaso.net | Publication : 2026-01-07*
+
+- Burkina/ Cybersécurité : Vague de piratage de comptes sur Whatsapp, la BCLCC appelle à la vigilance Le Service d’assistance technique et de veille technologique de la Brigade centrale de lutte contre la cybercriminalité (BCLCC) enregistre une recrudescence de cas de piratages de comptes WhatsApp.
+- En effet, des individus malintentionnés ciblent les internautes en usurpant l’identité de personnalités religieuses ou en exploitant des comptes Facebook préalablement piratés, dans le but de compromettre des comptes WhatsApp et d’escroquer les proches et contacts des victimes.
+- Le mode opératoire consiste à contacter les victimes à partir de comptes usurpés ou piratés, en leur proposant une prétendue intégration à un groupe WhatsApp dédié à la prière ou à des activités religieuses.
+- Sous ce prétexte, les cyberescrocs sollicitent les numéros de téléphone whatsApp des victimes.
+
+## [Ces extensions Chrome installées sur 900 000 navigateurs espionnaient vos conversations ...](https://www.clubic.com/actualite-594031-ces-extensions-chrome-installees-sur-900-000-navigateurs-espionnaient-vos-conversations-chatgpt.html)  
+*Source : clubic.com | Publication : 2026-01-07*
+
+- Deux extensions IA très bien notées sur le Chrome Web Store envoyaient en douce les conversations ChatGPT et DeepSeek de leurs utilisateurs et utilisatrices vers des serveurs contrôlés par des attaquants.
+- Depuis la fin de l’année 2025, les extensions de navigateur s’invitent un peu trop souvent dans les rapports d’incidents liés aux IA génératives, à l’image d’Urban VPN Proxy, officiellement mise en avant sur le Chrome Web Store et téléchargée des millions de fois, capable d’intercepter chaque interaction avec ChatGPT, Claude ou Gemini sous couvert d’une fonction de « protection IA » censée détecter les données sensibles dans les prompts et alerter l’utilisateur ou l’utilisatrice avant l’envoi.
+- Les deux modules épinglés aujourd’hui par OX Security s’inscrivent dans la même tendance, mais avec une logique plus franchement malveillante.
+- Ils ne se contentent pas de collecter des métriques marketing, ils exfiltrent directement les conversations et l’historique de navigation vers une infrastructure contrôlée par des cybercriminels.
+
+## [7 escroqueries en ligne visant les aînés - Mes finances d'abord - Royal Bank](https://www.rbcroyalbank.com/fr-ca/mes-finances-dabord/academie-financiere/cybersecurite/comprendre-la-cybersecurite/7-escroqueries-en-ligne-visant-les-aines/)  
+*Source : rbcroyalbank.com | Publication : 2026-01-07*
+
+- Nous assistons à une hausse des escroqueries en ligne visant les aînés, dont les fraudeurs exploitent la confiance, le sentiment d’urgence et les émotions pour voler de l’argent et des renseignements personnels.
+- - Au cours des dernières années, les pertes signalées par les aînés canadiens représentant des escroqueries comme l’hameçonnage, la fraude au soutien technique et l’« escroquerie des grands-parents » se chiffrent à des millions de dollars.
+- - En reconnaissant les tactiques d’escroquerie les plus courantes et en adoptant de bonnes habitudes en matière de cybersécurité, les aînés et leurs aidants peuvent réduire considérablement le risque d’être victimes de cyberfraude.
+- - La fraude visant les aînés peut prendre de nombreuses formes et constitue un problème croissant, au Canada comme ailleurs dans le monde.
+
+## [Les principales cyberattaques de 2026 : pourquoi elles seront plus crédibles et plus difficiles ...](https://lematin.ma/societe/pourquoi-les-cyberattaques-de-2026-seront-plus-difficiles-a-detecter/323201/amp)  
+*Source : lematin.ma | Publication : 2026-01-07*
+
+- Société Hajjar El Haïti 07 Janvier 2026.
+- Microsoft recense 12,6 millions de tentatives de cyberattaques contre le Maroc en 2024 Porté par l’explosion de l’IA générative, la prolifération des identités synthétiques et des techniques d’intrusion toujours plus furtives, le Maroc fait désormais face à une vague de cyberattaques d’une ampleur inédite.
+- Le Rapport de défense numérique 2025 de Microsoft révèle une intensification des offensives visant les institutions publiques, les infrastructures critiques et les entreprises stratégiques, plaçant le Royaume parmi les cibles principales en Afrique du Nord.
+
+## [INCYBER Defense Col. René Innos – Commandement Cyber estonien](https://incyber.org/article/incyber-defense-col-rene-innos-commandement-cyber-estonien/)  
+*Source : incyber.org | Publication : 2026-01-07*
+
+- Accueil - Cyber stabilité - INCYBER Defense Col.
+- René Innos – Commandement Cyber estonien - INCYBER Defense Col.
+- René Innos – Commandement Cyber estonien L’Estonie est largement reconnue comme pionnière en matière de cyberdéfense militaire.
+- Pourriez-vous présenter brièvement le Commandement Cyber – sa création, son évolution et son rôle actuel au sein des Forces de défense estoniennes ?.
+
+## [DG ANSSI sur SecNumCloud : « Pas une médaille en chocolat » - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/le-patron-de-lanssi-sur-secnumcloud-pas-une-medaille-en-chocolat-225051/amp)  
+*Source : silicon.fr | Publication : 2026-01-07*
+
+- La qualification SecNumCloud 3.2 de l’offre PREMI3NS de S3NS, fin 2025, a déclenché une vague de controverses dans le paysage IT.
+- Suffisamment pour que Vincent Strubel, le directeur général de l’ANSSI, prenne la plume pour publier une longue tribune sur LinkedIn.
+- Un exercice de déminage pédagogique pour répondre aux « interrogations voire (aux) incompréhensions sur ce que fait et ne fait pas la qualification SecNumCloud ».
+- Premier rappel du patron de l’agence nationale de cybersécurité : SecNumCloud n’est ni une décision arbitraire, ni un choix politique.
+
+## [Les 10 meilleures alternatives à ChatGPT en 2026 - DataScientest](https://datascientest.com/meilleures-alternatives-chatgpt)  
+*Source : datascientest.com | Publication : 2026-01-07*
+
+- En 2026, ChatGPT demeure l’un des outils les plus performants en matière d’intelligence artificielle conversationnelle.
+- Cependant, son coût et certaines limitations peuvent pousser les utilisateurs à chercher des alternatives intéressantes.
+- Pourquoi alors évoquer les potentielles alternatives à ce mastodonte ?.
+- Car ChatGPT a un défaut, aux yeux de certains : pour bénéficier sans limitation des prouesses avancées de cette IA générative, il est nécessaire de souscrire un abonnement, actuellement à partir de 20 $, et jusqu’à 200 $ par mois!.
+
+## [SNS Security annonce l'acquisition de Gwelltek et donne naissance à SNS Group](https://www.globalsecuritymag.fr/sns-security-annonce-l-acquisition-de-gwelltek-et-donne-naissance-a-sns-group.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-01-07*
+
+- SNS Security annonce l’acquisition de Gwelltek et donne naissance à SNS Group janvier 2026 par LA REDACTION DE GS MAG SNS Security annonce l’acquisition stratégique de la société Gwelltek, entreprise francilienne experte dans l’intégration des solutions de cybersécurité.
+- Forte de plus de 15 ans d’expérience, Gwelltek accompagne aujourd’hui une trentaine de clients, principalement basés à Paris et en Île-de-France, et s’appuie sur des partenariats technologiques de premier plan avec Palo Alto Networks, Fortinet, Elastic, Purplemet et XM Cyber.
+- Cette opération constitue la seconde acquisition pour la pépite montpelliéraine et marque une nouvelle étape structurante avec la création de SNS Group.
+- Fondée en 2002, SNS Security n’a cessé de se développer pour devenir l’un des principaux acteurs français de la cybersécurité.
+
+## [<b>Ransomware</b> : comment LockBit met en scène son retour - LeMagIT](https://www.lemagit.fr/actualites/366637075/Ransomware-comment-LockBit-met-en-scene-son-retour)  
+*Source : lemagit.fr | Publication : 2026-01-07*
+
+- Ransomware : comment LockBit met en scène son retour Sous sa nouvelle bannière LockBit 5.0, l’enseigne a publié plus d’une centaine de revendications courant décembre 2025.
+- La majorité d’entre elles constituent du recyclage.
+- Mais certaines revendications concernent des attaques toutes récentes.
+- Tout commence le 7 décembre.
+
+## [Samsung et Thales s'unissent pour la <b>cybersécurité</b> post-quantique des puces - VIPress.net](https://vipress.net/samsung-et-thales-sunissent-pour-la-cybersecurite-post-quantique-des-puces/)  
+*Source : vipress.net | Publication : 2026-01-07*
+
+- Samsung et Thales s’unissent pour la cybersécurité post-quantique des puces Signée Samsung System LSI, la première puce embarquée intégrant la cryptographie post-quantique (PQC) au niveau du silicium, tout juste primée au CES de Las Vegas dans la catégorie ‘Best Cybersecurity Innovation’, exploite l’OS sécurisé et les bibliothèques PQC de Thales.
+- Parmi les technologies à venir les plus prometteuses, les ordinateurs quantiques ouvriront immanquablement la voie à de nouvelles perspectives technologiques mais représenteront, parallèlement, un défi majeur pour la cybersécurité en mettant à mal les méthodes de chiffrement actuelles.
+- C’est dans ce contexte que l’édition 2026 du CES (Consumer Electronics Show), qui se déroule actuellement à Las Vegas (Nevada), vient de récompenser Samsung System LSI dans la catégorie ‘Best Cybersecurity Innovation’ pour sa puce de sécurité post-quantique S3SSE2A, présentée comme le premier élément sécurisé embarqué intégrant la cryptographie post-quantique (PQC) au niveau du silicium afin de protéger les appareils connectés face aux cybermenaces liées à l’essor de l’informatique quantique.
+- Une innovation que Thales n’a pas tardé à saluer, la puce à cryptographie post-quantique du Coréen exploitant le système d’exploitation (OS) sécurisé et les technologies de cryptographie résistantes au quantique de Thales.
+
+## [LONDRES : IA arment des gangs de <b>ransomware</b> pour la récolte historique de 2025, 2026 ...](https://presseagence.fr/londres-ia-arment-des-gangs-de-ransomware-pour-la-recolte-historique-de-2025-2026-pourrait-etre-pire/)  
+*Source : presseagence.fr | Publication : 2026-01-07*
+
+- LONDRES : IA arment des gangs de ransomware pour la récolte… Partager : LONDRES : IA arment des gangs de ransomware pour la récolte historique de 2025, 2026 pourrait être pire 2025 a été une année majeure pour les gangs de ransomware.
+- Ils ont fait des milliers de victimes, dont 776 à Qilin.
+- L’IA a facilité les attaques avec des malwares bon marché et de faux e-mails.
+- Dans l’article d’opinion ci-dessous, Jurgita Lapienytė, rédactrice en chef chez Cybernews, avertit que l’IA a boosté les gangs de ransomware en 2025, et que 2026 pourrait être bien pire.
+
+## [DG ANSSI sur SecNumCloud : « Pas une médaille en chocolat » - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/le-patron-de-lanssi-sur-secnumcloud-pas-une-medaille-en-chocolat-225051)  
+*Source : silicon.fr | Publication : 2026-01-07*
+
+- La qualification SecNumCloud 3.2 de l’offre PREMI3NS de S3NS, fin 2025, a déclenché une vague de controverses dans le paysage IT.
+- Suffisamment pour que Vincent Strubel, le directeur général de l’ANSSI, prenne la plume pour publier une longue tribune sur LinkedIn.
+- Un exercice de déminage pédagogique pour répondre aux « interrogations voire (aux) incompréhensions sur ce que fait et ne fait pas la qualification SecNumCloud ».
+- « Ce n’est pas une médaille en chocolat » Premier rappel du patron de l’agence nationale de cybersécurité : SecNumCloud n’est ni une décision arbitraire, ni un choix politique.
+
+## [Flash DGSI sur l'IA : un état des lieux plus qu'une révélation](https://www.solutions-numeriques.com/flash-dgsi-sur-lia-un-etat-des-lieux-plus-quune-revelation/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-07*
+
+- Dans un « flash ingérence économique » publié en décembre 2025, la DGSI alerte sur les risques liés à l’usage professionnel de l’intelligence artificielle.
+- Fuites de données, dépendance aux outils étrangers, deepfakes ou décisions automatisées non maîtrisées.
+- Si le constat est largement partagé, le document illustre surtout une réalité plus profonde.
+- L’IA est déjà massivement utilisée dans les entreprises, souvent sans cadre, ni stratégie, ni alternatives crédibles.
+
+## [Sallanches : un site cybercriminel met en ligne les données de 50 000 patients](https://www.lemessager.fr/649346881/article/2026-01-07/sallanches-un-site-cybercriminel-met-en-ligne-les-donnees-de-50-000-patients)  
+*Source : lemessager.fr | Publication : 2026-01-07*
+
+- Ce dimanche 4 janvier 2026, le chercheur spécialisé en cybersécurité Baptiste Robert a révélé que des données d'un cabinet d'ophtalmologie de.
+
+## [Cloud de confiance : l'ANSSI remet les pendules à l'heure sur SecNumCloud](https://www.solutions-numeriques.com/cloud-de-confiance-lanssi-remet-les-pendules-a-lheure-sur-secnumcloud/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-07*
+
+- La qualification SecNumCloud obtenue par S3NS, la coentreprise entre Thales et Google Cloud, a relancé le débat sur la souveraineté du cloud en Europe.
+- Dans un billet de clarification, Vincent Strubel, directeur général de l’ANSSI, rappelle ce que garantit réellement SecNumCloud… et ce qu’elle ne couvre pas, notamment en matière de dépendances technologiques extra-européennes.
+- L’obtention fin 2025 de la qualification SecNumCloud par S3NS, offre de cloud dite « hybride » reposant sur une technologie américaine opérée par un acteur européen, a cristallisé les tensions autour de la notion de cloud de confiance.
+- Face aux interprétations parfois contradictoires, Vincent Strubel, directeur général de ANSSI, a pris la parole pour clarifier le périmètre exact de la qualification.
+
+## [Les dons dématérialisés aux personnes sans-abri, une solution face au manque de monnaie](https://actu.orange.fr/france/les-dons-dematerialises-aux-personnes-sans-abri-une-solution-face-au-manque-de-monnaie-magic-CNT000002mwo2O.html)  
+*Source : actu.orange.fr | Publication : 2026-01-07*
+
+- Les dons dématérialisés aux personnes sans-abri, une solution face au manque de monnaie © Pexels - sans abri Une association permet de donner de l'argent à un sans-abri grâce à une carte bleue et à un QR code.
+- Le dispositif, expérimenté dans 12 villes, pallie le manque de monnaie.
+- Qui n'a pas déjà voulu donner de l'argent à une personne sans-abri alors qu'elle n'avait pas de monnaie sur elle ?.
+- Cette situation est courante, puisqu'avec la généralisation de la carte bleue, du paiement sans contact ou avec son téléphone, l'utilisation de la monnaie est de plus en plus rare.
 
 ## [Flavien Vottero, <b>Cybersécurité</b> : le piège de l'inflation des normes - Xerfi Canal](https://www.xerficanal.com/strategie-management/emission/Flavien-Vottero-Cybersecurite-le-piege-de-l-inflation-des-normes_3754560.html)  
 *Source : xerficanal.com | Publication : 2026-01-06*
