@@ -1,5 +1,158 @@
-# Résumés – 2026-01-07
+# Résumés – 2026-01-08
 
+
+## [Priorités de la DSI en 2026 : back to basics ! - CIO-online](https://www.cio-online.com/actualites/lire-priorites-de-la-dsi-en-2026-back-to-basics-16761.html)  
+*Source : cio-online.com | Publication : 2026-01-08*
+
+- Priorités de la DSI en 2026 : back to basics !.
+- Cybersécurité, résilience et relations avec les métiers.
+- Un baromètre auprès de quelques DSI français montrent le retour au premier plan de classiques de la fonction.
+- Contexte budgétaire oblige.
+
+## [La course folle pour sécuriser les LLM continue, ChatGPT doit colmater une brèche qu'on ...](https://www.numerama.com/cyberguerre/2156137-la-course-folle-pour-securiser-les-llm-continue-chatgpt-doit-colmater-une-breche-quon-pensait-reglee.html)  
+*Source : numerama.com | Publication : 2026-01-08*
+
+- Microsoft le concédait une nouvelle fois en juillet 2025 : l’injection de prompt est « un risque inhérent » au LLM.
+- Il n’empêche que les acteurs de la cybersécurité restent déterminés à explorer toutes les variantes possibles de cette faille, en particulier celles pouvant conduire à des fuites massives de données sensibles.
+- Cette histoire débute à l’automne 2025, lorsque l’entreprise de cybersécurité Radware révèle ShadowLeak, une attaque par injection indirecte qui exploite l’agent Deep Research de ChatGPT.
+- Ce mode de recherche, disponible dans les versions récentes du chatbot, permet à l’IA de parcourir le web mais aussi des connecteurs comme Gmail ou Google Drive pour produire un rapport détaillé à partir des données de l’utilisateur.
+
+## [Dirigeants, vous vouliez décider vite. En 2026, il faudra décider juste. - Alliancy](https://www.alliancy.fr/dirigeants-vous-vouliez-decider-vite-en-2026-il-faudra-decider-juste)  
+*Source : alliancy.fr | Publication : 2026-01-08*
+
+- La vitesse n’est plus le bon critère.
+- Face aux dépendances technologiques et aux risques qu’elles embarquent, les dirigeants découvrent que décider vite peut coûter cher et que décider juste devient un acte stratégique.
+- Pendant des années, la décision technologique a été une affaire d’efficacité.
+- Aller plus vite que le marché, déployer avant les concurrents, capter les effets d’échelle.
+
+## [Le programme Mastercard Business Builder stimule la croissance de Creator](https://www.mastercard.com/ca/fr/news-and-trends/press/2025/february/mastercard-business-builder-program-fuels-creator-growth.html)  
+*Source : mastercard.com | Publication : 2026-01-08*
+
+- 20 février 2025 | Purchase, NY 20 février 2025 | Purchase, NY Aujourd'hui, Mastercard a dévoilé ses cartes de débit et de crédit Business Builder, spécialement conçues pour répondre aux besoins des créateurs.
+- L'expansion de l'économie des créateurs a transformé les créateurs individuels en entreprises, brouillant les frontières entre la passion créative et la propriété d'une petite entreprise.
+- Les cartes Business Builder sont conçues pour offrir une série d'avantages puissants qui aident les entrepreneurs à lancer et à développer leur entreprise, avec des ressources intentionnelles conçues pour les besoins des créateurs.
+- Des données récentes montrent que 73% des membres de la génération Z et des milléniaux préfèrent travailler comme créateurs, entrepreneurs ou propriétaires de petites entreprises plutôt que des rôles corporatifs traditionnels.
+
+## [Mastercard Open Banking améliore l'expérience d'ouverture de comptes numériques de ...](https://www.mastercard.com/ca/fr/news-and-trends/press/2024/february/mastercard-open-banking-enhances-the-debit-and-prepaid-digital-account-opening-experience.html)  
+*Source : mastercard.com | Publication : 2026-01-08*
+
+- 28 février 2024 | Purchase, N.Y.
+- Aujourd’hui, Mastercard a annoncé le programme Open Banking for Account Opening, offrant un ensemble fondamental de produits bancaires ouverts comme avantage clé pour les émetteurs de débit grand public et petites entreprises de Mastercard, ainsi que pour les émetteurs prépayés grand public aux États-Unis.
+- Le programme améliore le processus d’ouverture de compte numérique en vérifiant la propriété, en réduisant l’abandon de comptes, en diminuant les rendements de fonds insuffisants (FSN) et en minimisant la saisie manuelle des identifiants de paiement.
+- Une étude d’Insider Intelligence a révélé que l’adoption de la banque mobile par la génération Z continue d’augmenter fortement de 12,4% d’une année à l’autre, passant de 20,7 millions en 2020 à 47,8 millions en 2026.
+
+## [Le boom de l'IA sécuritaire triple la valeur d'une startup israélienne en un an](https://fr.timesofisrael.com/le-boom-de-lia-securitaire-triple-la-valeur-dune-startup-israelienne-en-un-an/)  
+*Source : fr.timesofisrael.com | Publication : 2026-01-08*
+
+- Les fondateurs de la startup de cybersécurité Cyera : Yotam Segev (à gauche) et Tamar Bar-Ilan.
+- » Cybersécurité.
+- (NicoElNino via iStock).
+
+## [Le Cambodge extrade vers la Chine le magnat Chen Zhi, accusé de cyberescroquerie](https://www.courrierinternational.com/article/cybercriminalite-le-cambodge-extrade-vers-la-chine-le-magnat-chen-zhi-accuse-de-cyberescroquerie_239100)  
+*Source : courrierinternational.com | Publication : 2026-01-08*
+
+- Dans le cadre de la lutte contre la cybercriminalité, le Cambodge a annoncé l’extradition vers la Chine de Chen Zhi et de trois autres ressortissants chinois recherchés par les autorités chinoises.
+- Ainsi s’achève le destin peu ordinaire de cet homme de 38 ans qui a fait fortune en quelques années au Cambodge, en y établissant un empire financier et commercial colossal, le groupe Prince.
+- En octobre, les États-Unis avaient qualifié le conglomérat opérant dans tous les secteurs économiques – de la banque à l’assurance en passant par l’immobilier et le tourisme – d’“organisation criminelle transnationale”.
+- Un montant record de 15 milliards de dollars d’actifs a été saisi, et toute interaction commerciale avec des entités du groupe et ses dirigeants est désormais interdite par les autorités américaines.
+
+## [CrowdStrike rachète la startup de <b>cybersécurité</b> SGNL pour 740 millions de dollars afin de ...](https://www.zonebourse.com/actualite-bourse/crowdstrike-rachete-la-start-up-de-cybersecurite-identitaire-sgnl-pour-740-millions-de-dollars-afin-ce7e59ddd18df52c)  
+*Source : zonebourse.com | Publication : 2026-01-08*
+
+- CrowdStrike a annoncé jeudi l&#039;acquisition de la startup spécialisée dans la sécurité des identités SGNL, pour un montant de 740 millions de dollars, dans le but de renforcer ses outils de cybersécurité et d&#039;aider ses clients à contrer les menaces alimentées par l&#039;intelligence artificielle.La société de cybersécurité entend tirer profit de la technologie de &quot;l&#039;identité continue&quot; de SGNL pour empêcher les pirates d&#039;exploiter les identités des utilisateurs comme points d&#039;entrée pour le vol de données, grâce à des évaluations permanentes, alors que les entreprises accordent de plus en plus d&#039;accès autonome à des agents IA.CrowdStrike s&#039;est lancé sur le marché de la sécurité des identités avec l&#039;acquisition de Preempt Security en 2020.
+- Son activité dans ce secteur a généré plus de 435 millions de dollars de revenus récurrents annuels au deuxième trimestre de l&#039;exercice fiscal 2026.&quot;Nous avons déjà une activité importante dans ce domaine.
+- Et maintenant, ce que SGNL nous apporte, c&#039;est véritablement une structure d&#039;identité.
+- Si l&#039;on considère l&#039;environnement des menaces, les adversaires ne s&#039;introduisent plus par effraction ; ils se connectent et abusent des identités&quot;, a déclaré George Kurtz, PDG de CrowdStrike, à Reuters.Fondée en 2021 par Scott Kriz et Erik Gustavson, SGNL propose une plateforme de sécurité des identités qui gère l&#039;accès en temps réel afin de protéger les identités humaines, machines et IA sur les systèmes cloud et d&#039;entreprise.SGNL dispose d&#039;une &quot;petite équipe&quot;, et tous ses membres rejoindront CrowdStrike.
+
+## [Qu'est-ce qui effraie le plus chez les pirates ? Nous avons posé la question aux internautes](https://www.bitdefender.com/fr-fr/blog/hotforsecurity/quest-ce-qui-effraie-le-plus-chez-les-pirates-nous-avons-pose-la-question-aux-internautes)  
+*Source : bitdefender.com | Publication : 2026-01-08*
+
+- La plupart des gens ne s'inquiètent pas beaucoup du fait que des pirates informatiques puissent voler leurs photos ou lire leurs e-mails.
+- Ce qui les empêche de dormir la nuit est beaucoup plus fondamental et beaucoup plus humain : la peur pour leur argent, leur identité et leur contrôle.
+- Un simple smartphone peut donner accès à des comptes bancaires, des plateformes d'investissement, des portefeuilles cryptographiques, des dossiers fiscaux, des portails médicaux et des années d'histoire personnelle.
+- Bien qu'ils sachent ce qui est en jeu, de nombreux consommateurs considèrent encore la cybersécurité comme facultative, quelque chose à prendre en compte seulement après que le problème se soit posé.
+
+## [Le Vietnam et le Cambodge mènent des opérations contre des réseaux d'escroquerie en ligne - RFI](https://www.rfi.fr/fr/asie-pacifique/20260108-le-vietnam-et-le-cambodge-mènent-des-opérations-contre-des-réseaux-d-escroquerie-en-ligne)  
+*Source : rfi.fr | Publication : 2026-01-08*
+
+- Le Vietnam et le Cambodge mènent des opérations contre des réseaux d'escroquerie en ligne La police vietnamienne a démantelé dans cinq municipalités, dont la capitale Hanoï, un vaste réseau de jeux d'argent et de fraude en ligne, le 31 décembre 2025.
+- Trente-cinq personnes accusées d'escroquerie ont été arrêtées pour un préjudice estimé à 300 millions d'euros.
+- Au Cambodge, les autorités ont également mené une opération arrêtant et extradant un magnat accusé de mener plusieurs centres de cyberescroquerie.
+- Publié le : Modifié le : Au Vietnam, le gang sévissait sur les réseaux sociaux en proposant à la vente des produits jamais livrés.
+
+## [<b>Ransomware</b> : 2025, l'année de la reprise en France | LeMagIT](https://www.lemagit.fr/actualites/366636811/Ransomware-2025-lannee-de-la-reprise-en-France)  
+*Source : lemagit.fr | Publication : 2026-01-08*
+
+- Natee Meepian - stock.adobe.com Ransomware : 2025, l’année de la reprise en France L’année 2024 s’était avérée singulièrement calme, sur le front des rançongiciels, dans l’Hexagone.
+- La parenthèse olympique refermée, l’offensive apparaît avoir repris significativement.
+- Mais les victimes semblent moins enclines à porter plainte.
+- Sur plusieurs mois en 2024, les demandes d’assistance auprès de Cybmalveillance.gouv.fr pour cyberattaque avec ransomware suivaient une tendance inattendue : un véritable repli, marqué, de la menace, dans l’Hexagone.
+
+## [10 idées de business en ligne rentables pour 2026 - Big Media](https://bigmedia.bpifrance.fr/nos-dossiers/10-idees-de-business-en-ligne-rentables-pour-2026)  
+*Source : bigmedia.bpifrance.fr | Publication : 2026-01-08*
+
+- 10 idées de business en ligne rentables pour 2026 Temps de lecture: 8 - 9 min - Dossier - Commerce - Entrepreneuriat - Articles - - Temps de lecture: 8 - 9 min - Alors que l'on assiste à une évolution de l'écosystème numérique, l’année 2026 marque un tournant pour l’entrepreneuriat français.
+- Loin de la ruée vers l’or des années 2010, le marché arrive à maturité notamment grâce à l’intelligence artificielle générative qui se spécialise, tandis que l’économie circulaire devient la norme.
+- Pour les porteurs de projets, la réussite n'est plus seulement synonyme de technologie, mais aussi dans la capacité à résoudre des problèmes avec un impact positif.
+- Big média vous propose une sélection d’idées de business en ligne pour entreprendre avec succès en 2026.
+
+## [SNS Security rachète l'intégrateur Gwelltek et fonde SNS Group - ChannelNews](https://www.channelnews.fr/sns-security-rachete-lintegrateur-gwelltek-et-fonde-sns-group-153862)  
+*Source : channelnews.fr | Publication : 2026-01-08*
+
+- SNS Security, spécialiste montpelliérain des services managés de cybersécurité, annonce l’acquisition de l’intégrateur francilien spécialisé en cybersécurité Gwelltek.
+- Cette seconde opération de croissance externe, après le rachat de SaycurIT en septembre 2025, constitue une étape particulièrement structurante puisqu’elle donne aussi naissance à SNS Group.
+- Gwelltek, forte de 15 ans d’expérience, accompagne une trentaine de clients principalement en Île-de-France et autour des technologies de Palo Alto Networks, Fortinet, Elastic, Purplemet et XM Cyber.
+- L’intégration de Gwelltek complète les expertises de SNS Security et SaycurIT, formant un groupe unifié autour de services managés, d’intégration et de conseil en cybersécurité.
+
+## [Phishing: les pirates exploitent la demande en e-vignettes 2026 | ICTjournal](https://www.ictjournal.ch/news/2026-01-08/phishing-les-pirates-exploitent-la-demande-en-e-vignettes-2026)  
+*Source : ictjournal.ch | Publication : 2026-01-08*
+
+- Phishing: les pirates exploitent la demande en e-vignettes 2026 À l’approche de l’expiration de la vignette autoroutière 2025, les cybercriminels exploitent la forte demande pour l’e-vignette 2026.
+- L'office fédéral de la cybersécurité (OFCS) met en garde contre des courriels de phishing prétendant que l’e-vignette d’un véhicule a été temporairement bloquée.
+- Des fraudeurs diffusent actuellement des courriels de phishing liés à l’e-vignette pour les autoroutes suisses.
+- À l’approche de l’échéance du 31 janvier 2026 pour la validité de la vignette 2025, ils exploitent la demande accrue en nouvelles e-vignettes.
+
+## [L'EDR du Français HarfangLab réussit l'exploit d'être le premier certifié par les autorités ...](https://www.clubic.com/actualite-594187-l-edr-du-francais-harfanglab-reussit-l-exploit-d-etre-le-premier-certifie-par-les-autorites-cyber-allemande-et-francaise.html)  
+*Source : clubic.com | Publication : 2026-01-08*
+
+- L'éditeur français HarfangLab devient le premier EDR certifié par le BSI allemand, l'autorité cyber locale.
+- Une double consécration européenne après celle Française de l'ANSSI, qui confirme l'excellence de sa technologie de cybersécurité.
+- Pour HarfangLab, on peut autant parler d'une reconnaissance que d'une consécration.
+- Clubic vous l'apprend en exclusivité, l'entreprise française, spécialisée dans la cybersécurité, annonce ce jeudi 7 janvier avoir décroché la très convoitée certification BSZ du BSI allemand, l'Office fédéral de la sécurité des technologies de l’information d'outre-Rhin.
+
+## [BlackCat : Deux experts <b>cybersécurité</b> extorquent 1,2M$](https://dcod.ch/2026/01/08/blackcat-experts-cybersecurite-extorquent/)  
+*Source : dcod.ch | Publication : 2026-01-08*
+
+- Menace interne : deux experts cybersécurité arrêtés pour avoir orchestré des attaques BlackCat.
+- Comment ont-ils piégé leurs propres clients pour s’enrichir ?.
+- TL;DR : L’essentiel Un gestionnaire de réponse aux incidents et un négociateur de rançongiciels ont reconnu avoir détourné leurs compétences pour extorquer des entreprises américaines en 2023.
+- Au lieu de neutraliser les menaces, ils utilisaient leur accès privilégié pour déployer des attaques chiffrées.
+
+## [L'EDR d'HarfangLab certifié par le BSI - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64322-l-edr-d-harfanglab-certifie-par-le-bsi.html)  
+*Source : linformaticien.com | Publication : 2026-01-08*
+
+- La certification de cybersécurité des solutions numériques permet aux éditeurs d'obtenir une confirmation, et une validation, de la part d'auditeurs.
+
+## [<b>Cybersécurité</b> : Après une reconnaissance en France, le régulateur allemand certifie l'outil ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-apres-une-reconnaissance-en-france-le-regulateur-allemand-certifie-loutil-de-protection-des-terminaux-dharfanglab.ONQRJ7A2BNAAXMC7WEJE7ER3YI.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-08*
+
+- HarfangLab, éditeur français spécialisé dans la cybersécurité, annonce ce 8 janvier 2026 avoir obtenu en décembre la certification BSZ délivrée par l’agence fédérale allemande de cybersécurité, le Bundesamt für Sicherheit in der Informationstechnik (BSI).
+- Un outil pour détecter et bloquer les attaques Cette reconnaissance porte sur l’agent Windows de sa solution “Hurukai”, un logiciel installé sur les postes de travail et les serveurs pour détecter et bloquer les attaques informatiques en temps réel.
+- HarfangLab devient ainsi le premier éditeur français à faire certifier en Allemagne ce type d’outil, après une première reconnaissance obtenue en France par l’Agence nationale de la sécurité des systèmes d’information (Anssi).
+- Identifier les nouvelles menaces Ce type de logiciel appartient à la catégorie des EDR, Endpoint Detection and Response, des outils conçus pour surveiller en permanence l’activité des terminaux d’une organisation.
+
+## [CrowdStrike rachète SGNL pour 740 millions de dollars afin de renforcer sa <b>cybersécurité</b> ...](https://www.tradingsat.com/actualites/informations-societes/crowdstrike-rachete-sgnl-pour-740-millions-de-dollars-afin-de-renforcer-sa-cybersecurite-axee-sur-les-identites-1153814.html)  
+*Source : tradingsat.com | Publication : 2026-01-08*
+
+- (Zonebourse.com) - CrowdStrike a annoncé jeudi l'acquisition de la start-up SGNL, spécialisée dans la gestion des identités numériques, pour un montant de 740 millions de dollars.
+- Basée à Palo Alto et fondée en 2021, SGNL a été soutenue par Cisco Investments et le fonds de capital-risque de Microsoft.
+- Cette opération vise à intégrer les technologies de SGNL à la plateforme Falcon de CrowdStrike, afin d'améliorer la gestion des accès et l'analyse des risques en temps réel, tant pour les utilisateurs que pour les systèmes d'intelligence artificielle.
+- Cette stratégie d'expansion intervient dans un contexte de multiplication des cyberattaques ciblant les systèmes d'authentification, souvent facilitées par des outils d'IA.
+
+## [<b>Cybersécurité</b> : SNS Security acquiert la société Gwelltek et devient SNS Group | La Lettre M](https://www.lalettrem.fr/actualites/cybersecurite-sns-security-acquiert-la-societe-gwelltek-et-devient-sns-group)  
+*Source : lalettrem.fr | Publication : 2026-01-08*
+
+- Hérault Numérique Cybersécurité : SNS Security acquiert la société Gwelltek et devient SNS Group L’entreprise de services du numérique (ESN) montpelliéraine spécialisée dans la cybersécurité SNS S (...) [123 mots] David Danielzik / danielzik@lalettrem.net.
 
 ## [Conférence – Sensibilisation à la <b>cybersécurité</b> - Ville de Blainville](https://blainville.ca/evenements/conference-sensibilisation-la-cybersecurite)  
 *Source : blainville.ca | Publication : 2026-01-07*
