@@ -1,5 +1,153 @@
-# Résumés – 2026-01-08
+# Résumés – 2026-01-09
 
+
+## [<b>Cybersécurité</b> : l'armée de terre recrute des &quot;geeks&quot; - YouTube](https://www.youtube.com/watch?v=py0jug59WSw)  
+*Source : youtube.com | Publication : 2026-01-09*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Les menaces de <b>cybersécurité</b> gagnent en complexité dans le secteur des transports](https://www.transportroutier.ca/nouvelles/les-menaces-de-cybersecurite-gagnent-en-complexite-dans-le-secteur-des-transports/)  
+*Source : transportroutier.ca | Publication : 2026-01-09*
+
+- Les menaces de cybersécurité gagnent en complexité dans le secteur des transports Le secteur nord-américain des transports fait face à un environnement de cybermenaces plus complexe que jamais, alors que les cybercriminels font preuve d’une sophistication et d’une spécialisation croissantes.
+- «Les acteurs malveillants ne considèrent plus la chaîne logistique du transport comme une cible périphérique, mais comme un secteur mature et à forte valeur ajoutée, justifiant des investissements importants en temps, en ressources et en expertise spécialisée en raison de son fort potentiel de gains», indique la National Motor Freight Traffic Association (NMFTA) dans son rapport Cybersecurity Trends 2026.
+- Des groupes qui opéraient auparavant de façon indépendante forment désormais des alliances spécialisées, ce qui accélère le rythme et l’efficacité des cyberattaques.
+- Les syndicats criminels les plus avancés fonctionnent comme de véritables entreprises, avec des réseaux de recrutement, des programmes de formation et des équipes spécialisées.
+
+## [Nomination de Lionel Chmilewsky au poste de Directeur général (CEO) d'Ekinops](https://www.actusnews.com/fr/amp/ekinops/cp/2026/01/09/nomination-de-lionel-chmilewsky-au-poste-de-directeur-general-ceo-d_ekinops)  
+*Source : actusnews.com | Publication : 2026-01-09*
+
+- Auparavant, il était CEO de Corero Network Security plc., société leader de solutions de cybersécurité anti-DDoS, cotée à la bourse de Londres, où il.
+
+## [Cyberhebdo du 9 janvier 2026 : comme un air de trêve - LeMagIT](https://www.lemagit.fr/actualites/366637046/Cyberhebdo-du-9-janvier-2026-comme-un-air-de-treve)  
+*Source : lemagit.fr | Publication : 2026-01-09*
+
+- Cyberhebdo du 9 janvier 2026 : comme un air de trêve Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- La semaine écoulée a une nouvelle fois mis en lumière la diversité et la persistance de la menace cyber à l’échelle internationale.
+- Notre veille a permis d’identifier cinq cyberattaques majeures rapportées dans les médias, touchant des organisations et institutions réparties dans cinq pays : le Royaume-Uni (GBR), les États-Unis (USA), l’Australie (AUS), Taïwan (TWN) et l’Afrique du Sud (ZAF).
+- Fait notable, l’Australie est le pays le plus représenté cette semaine, avec un cas rapporté.
+
+## [Soupçonné d'avoir participé à un groupe de <b>ransomware</b>, Daniil Kasatkin serait libre](https://www.lemagit.fr/actualites/366637175/Soupconne-davoir-participe-a-un-groupe-de-ransomware-Daniil-Kasatkin-serait-libre)  
+*Source : lemagit.fr | Publication : 2026-01-09*
+
+- ekaterina_belova - Fotolia Soupçonné d’avoir participé à un groupe de ransomware, Daniil Kasatkin serait libre Interpelé en France durant l’été 2025, Daniil Kasatkin aurait été libéré, selon le FSB.
+- Il est soupçonné d’avoir œuvré comme négociateur pour un gang de rançongiciel.
+- Sa libération serait survenue contre celle du chercheur français Laurent Vinatier.
+- Échange de bons procédés ?.
+
+## [Ekinops nomme Lionel Chmilewsky à la direction générale - Ideal Investisseur](https://www.ideal-investisseur.fr/actions-b/ekinops-nomme-lionel-chmilewsky-la-direction-gnrale/11783.html)  
+*Source : ideal-investisseur.fr | Publication : 2026-01-09*
+
+- Le conseil d'administration d'Ekinops a annoncé la nomination de Lionel Chmilewsky au poste de directeur général du groupe, effective à compter du 12 janvier 2026.
+- Philippe Moulin, qui occupait ce poste à titre transitoire, devient directeur général adjoint en charge des opérations.
+- Selon le communiqué, Lionel Chmilewsky dispose d'une expérience internationale notamment au Royaume-Uni et aux États-Unis dans les secteurs de la technologie, des télécommunications et de la cybersécurité.
+- Le groupe indique qu'il occupait précédemment le poste de président et directeur général de TrustBuilder, société européenne spécialisée dans la protection des identités numériques et la gestion des accès.
+
+## [Lionel Chmilewsky nouveau Directeur général du Groupe Ekinops - Bretagne Économique](https://www.bretagne-economique.com/actualites/lionel-chmilewsky-nouveau-directeur-general-du-groupe-ekinops/)  
+*Source : bretagne-economique.com | Publication : 2026-01-09*
+
+- Fort d’une solide expérience internationale notamment au Royaume-Uni et aux Etats-Unis dans les secteurs de la tech, des télécommunications et de la cybersécurité, « Lionel Chmilewsky est reconnu pour sa capacité à conduire des stratégies de croissance et de transformation complexes ainsi qu’à bâtir et piloter des équipes multinationales performantes », indique le groupe Ekinops dont le siège est basé à Lannion dans les Côtes d’Armor.
+- Avant de rejoindre Ekinops, Lionel Chmilewsky a notamment occupé le poste de Président et Directeur général du groupe TrustBuilder leader européen SaaS en cybersécurité, spécialisé dans la protection des identités numériques et la gestion des accès.
+- Auparavant, il était CEO de Corero Network Security plc., société leader de solutions de cybersécurité anti-DDoS.
+- Mise en oeuvre du plan Bridge Le nouveau directeur général d’Ekinops a également été CEO de Cambridge Broadband Networks et de Comverse IP Communications.
+
+## [Ekinops : Lionel Chmilewsky nommé directeur général - 09/01/2026 à 18:19 - Boursorama](https://www.boursorama.com/bourse/actualites-amp/ekinops-lionel-chmilewsky-nomme-directeur-general-0c5ccf52679513005c925be0208a295e)  
+*Source : boursorama.com | Publication : 2026-01-09*
+
+- Ekinops : Lionel Chmilewsky nommé directeur général information fournie par Zonebourse 09/01/2026 à 18:19 Le conseil d'administration d'Ekinops, fournisseur de solutions de télécommunications et de cybersécurité SASE pour les opérateurs de télécommunications et les entreprises, annonce la nomination de Lionel Chmilewsky au poste de directeur général (CEO) du groupe a compter du 12 janvier 2026.
+- Sous la direction de Lionel Chmilewsky, Ekinops poursuivra la mise en oeuvre de son plan stratégique "Bridge", axé sur l'innovation, la satisfaction client, le positionnement sur de nouveaux marchés en forte croissance, ainsi que la mise en place de nouveaux leviers de croissance et de création de valeur durable.
+- Fort d'une solide expérience internationale notamment au Royaume-Uni et aux Etats-Unis dans les secteurs de la tech, des télécommunications et de la cybersécurité, Lionel Chmilewsky a conduit des stratégies de croissance et de transformation complexes, bâti et piloté des équipes multinationales.
+- Avant de rejoindre Ekinops, Lionel Chmilewsky a notamment occupé le poste de président et directeur général du groupe TrustBuilder leader européen SaaS en cybersécurité, spécialisé dans la protection des identités numériques et la gestion des accès.
+
+## [Ekinops : Lionel Chmilewsky nommé directeur général - EasyBourse](https://www.easybourse.com/international/news/1522095/ekinops-lionel-chmilewsky-nomme-directeur-general.html)  
+*Source : easybourse.com | Publication : 2026-01-09*
+
+- (Zonebourse.com) - Le conseil d'administration d'Ekinops, fournisseur de solutions de télécommunications et de cybersécurité SASE pour les opérateurs de télécommunications et les entreprises, annonce la nomination de Lionel Chmilewsky au poste de directeur général (CEO) du groupe a compter du 12 janvier 2026.
+- Sous la direction de Lionel Chmilewsky, Ekinops poursuivra la mise en oeuvre de son plan stratégique "Bridge", axé sur l'innovation, la satisfaction client, le positionnement sur de nouveaux marchés en forte croissance, ainsi que la mise en place de nouveaux leviers de croissance et de création de valeur durable.
+- Fort d'une solide expérience internationale notamment au Royaume-Uni et aux Etats-Unis dans les secteurs de la tech, des télécommunications et de la cybersécurité, Lionel Chmilewsky a conduit des stratégies de croissance et de transformation complexes, bâti et piloté des équipes multinationales.
+- Avant de rejoindre Ekinops, Lionel Chmilewsky a notamment occupé le poste de président et directeur général du groupe TrustBuilder leader européen SaaS en cybersécurité, spécialisé dans la protection des identités numériques et la gestion des accès.
+
+## [Ekinops recrute Lionel Chmilewsky comme nouveau Directeur général - Boursier.com](https://www.boursier.com/actions/actualites/news/ekinops-recrute-lionel-chmilewsky-comme-nouveau-directeur-general-975836.html)  
+*Source : boursier.com | Publication : 2026-01-09*
+
+- (Boursier.com) — Le fournisseur de solutions de télécommunications et de cybersécurité pour les opérateurs et les entreprises Ekinops a annoncé la.
+
+## [Information Services Group évaluera les fournisseurs de services et solutions en <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/information-services-group-evaluera-les-fournisseurs-de-services-et-solutions-en-cybersecurite-ce7e59d3db81f52d)  
+*Source : zonebourse.com | Publication : 2026-01-09*
+
+- Information Services Group a lancé une étude visant à évaluer les fournisseurs de services en cybersécurité afin d&#039;aider les entreprises à protéger leurs données sensibles sur des architectures hybrides et à renforcer leur résilience face aux cybermenaces.
+- Les résultats de cette étude seront publiés dans une série de rapports complets ISG Provider Lens®?, intitulés Cybersécurité -- Services et Solutions, dont la parution est prévue en juillet 2026.Ces rapports porteront sur les entreprises proposant des services de sécurité stratégique, des services techniques de sécurité, une gestion des vulnérabilités basée sur les risques, des plateformes logicielles liées à la cybersécurité ainsi que d&#039;autres solutions et services connexes.
+- Les décideurs pourront s&#039;appuyer sur ces informations pour évaluer leurs relations actuelles avec les fournisseurs, envisager de nouveaux partenariats et explorer les offres disponibles, tandis que les conseillers ISG utiliseront ces données pour recommander des prestataires à leurs clients acheteurs.
+- Les entreprises de tous secteurs sont confrontées à une pression croissante pour sécuriser des architectures informatiques complexes et distribuées et répondre aux attaques alimentées par l&#039;intelligence artificielle.En collaboration avec les conseillers mondiaux d&#039;ISG, l&#039;équipe de recherche produira sept segments représentant les services et solutions de cybersécurité les plus recherchés par les entreprises, sur la base de l&#039;expérience d&#039;ISG auprès de ses clients.
+
+## [Flare dévoile une analyse inédite sur le <b>ransomware</b> SafePay : Les PME au cœur d'une ...](https://www.globalsecuritymag.fr/flare-devoile-une-analyse-inedite-sur-le-ransomware-safepay-les-pme-au-coeur-d.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-01-09*
+
+- Flare dévoile une analyse inédite sur le ransomware SafePay : Les PME au cœur d’une économie de l’extorsion ciblée janvier 2026 par Flare Flare publie les résultats d’une analyse détaillée, portant sur 500 enregistrements de fuites de données liés au ransomware SafePay.
+- Cette étude met en lumière une stratégie de ciblage méticuleuse visant les entreprises à même de payer une rançon, mais dans l’incapacité de supporter une interruption prolongée de leur activité.
+- Une montée en puissance fulgurante et un modèle de double extorsion Apparu fin 2024, le groupe SafePay a connu une croissance rapide et a gagné en dangerosité tout au long de 2025, s’imposant comme l’un des acteurs les plus actifs du paysage cybercriminel.
+- Son mode opératoire repose sur un modèle de double extorsion : exfiltration de données sensibles, chiffrement des systèmes afin de paralyser les opérations, puis publication des informations sur des sites hébergés sur Tor en cas d’échec des négociations.
+
+## [xAI lève 20 milliards de dollars et accélère ses ambitions dans l'IA - L'Informaticien](https://www.linformaticien.com/magazine/biz-it/64323-xai-leve-20-milliards-de-dollars-et-accelere-ses-ambitions-dans-l-ia.html)  
+*Source : linformaticien.com | Publication : 2026-01-09*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Biz'IT · xAI lève 20 milliards de dollars.
+
+## [Wavestone a des ambitions aux Etats-Unis | Investir - Les Echos](https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/wavestone-a-des-ambitions-aux-etats-unis-2208682)  
+*Source : investir.lesechos.fr | Publication : 2026-01-09*
+
+- IA et cybersécurité.
+- Mais pas au détriment de celles pour la cybersécurité , qui apporte 12% des facturations.
+- Elle obtient une croissance de 3 à 5%.
+
+## [Frapper petit pour encaisser gros : ce nouveau <b>ransomware</b> piège méthodiquement les TPE et PME](https://www.clubic.com/actualite-594514-frapper-petit-pour-encaisser-gros-ce-nouveau-ransomware-piege-methodiquement-les-tpe-et-pme.html)  
+*Source : clubic.com | Publication : 2026-01-09*
+
+- Nom encore discret il y a quelques mois, SafePay est en train de se faire une place dans l’univers du ransomware à force d’attaques en série, non pas contre les entreprises du CAC 40, mais contre les TPE, PME et prestataires de services qui font tourner l’économie du quotidien.
+- Un ciblage méticuleux de structures solvables mais fragiles qui en fait une menace à suivre de près.
+- Les équipes de Flare viennent de publier une radioscopie de SafePay, un groupe de ransomware apparu fin 2024 et devenu, en quelques mois, l’un des plus actifs de l’écosystème.
+- Derrière ce nom plus rassurant qu’il ne le devrait, on trouve une machine de double extorsion qui combine chiffrement, chantage, leaks et ciblage économique très précis, concentré sur un tissu de TPE, PME et prestataires de services coincés entre l’impossibilité d’encaisser un arrêt prolongé et le risque qu’une fuite de données vire aux problèmes réglementaires et contractuels plus coûteux qu'une rançon.
+
+## [Cyberattaques : la France relâche le basketteur russe soupçonné d'extorsion par <b>ransomware</b>](https://www.01net.com/actualites/cyberattaques-france-relache-basketteur-russe-soupconne-extorsion-ransomware.html)  
+*Source : 01net.com | Publication : 2026-01-09*
+
+- L’été dernier, Daniil Kasatkin, un basketteur professionnel russe, a été arrêté par la police à l’aéroport de Roissy-Charles de Gaulle.
+- Placé en détention à la demande des États-Unis, l’athlète est soupçonné d’avoir collaboré avec un gang de ransomware impliqué dans 900 cyberattaques à l’encontre d’institutions américaines.
+- Le jeune homme aurait notamment participé aux négociations des rançons.
+- Il faisait l’objet d’un mandat d’arrêt américain pour « complot en vue de commettre une fraude informatique » et « complot de fraude informatique».
+
+## [Alerte : Attention aux faux conseillers se faisant passer pour Bpifrance](https://www.bpifrance.fr/nos-actualites/alerte-attention-aux-faux-conseillers-se-faisant-passer-pour-bpifrance)  
+*Source : bpifrance.fr | Publication : 2026-01-09*
+
+- Alerte : Attention aux faux conseillers se faisant passer pour Bpifrance Vous pouvez être sollicités par de faux conseillers prétendant représenter Bpifrance.
+- Soyez vigilants !.
+- Il peut s’agir d'une tentative de phishing et de fausses collectes en cours.
+- Actus - Cybersécurité - Bpifrance - Nationale - - Temps de lecture: 1 min - Attention !.
+
+## [Nouvelle année, nouveaux réflexes pour votre sécurité numérique](https://blog.nordnet.com/cybersecurite-et-identite-numerique/nouvelle-annee-reflexes-securite-numerique/)  
+*Source : blog.nordnet.com | Publication : 2026-01-09*
+
+- Aller à la salle, manger plus sainement, réduire le temps d’écran… ça vous parle ?.
+- Nous prenons tous (ou presque) de bonnes résolutions lors du passage à la nouvelle année.
+- Et si cette fois, vous ajoutiez à votre liste une résolution qui ne demande ni jogging, ni cure de légumes ?.
+- Renforcer votre sécurité numérique par exemple ?.
+
+## [JCOP : quand l'analyse de fichiers devient un réflexe natif dans les outils de l'État](https://www.solutions-numeriques.com/jcop-quand-lanalyse-de-fichiers-devient-un-reflexe-natif-dans-les-outils-de-letat/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-09*
+
+- L’analyse automatique de fichiers s’invite directement dans les services numériques de l’État.
+- En intégrant JeCliqueOuPas (JCOP) par API dans des plateformes comme France Transfert, la DINUM et l’ANSSI font le choix d’une cybersécurité intégrée aux usages, opérée sur un socle souverain et sans dépendance aux éditeurs étrangers.
+- De l’outil réflexe à la brique technique Depuis 2022, JCOP permet aux agents de l’État d’analyser un fichier avant ouverture afin d’évaluer son caractère potentiellement malveillant.
+- La nouveauté tient moins à la technologie qu’à son mode de déploiement.
+
+## [Sophianet et Webtimemedias : nos meilleurs voeux technos 2026](https://www.sophianet.com/article/sophianet-webtimemedias-meilleurs-voeux-technos-2026)  
+*Source : sophianet.com | Publication : 2026-01-09*
+
+- Bonjour et meilleurs voeux pour 2026.
+- Côté professionnel, nous en avons tous besoin dans cette période de changements fulgurants, en plein basculement dans la nouvelle ère numérique qui s’ouvre.
+- En ce début d’année, un souvenir aussi m’est revenu en tête.
+- Fin 2019, j’avais été marqué, lors de l’inauguration du nouveau site d’IBM à Sophia Antipolis (l’ex-Ilog), par la présentation d’un de leurs projets : la gestion d’équipes hybrides associant des humains à des Intelligences Artificielles.
 
 ## [Priorités de la DSI en 2026 : back to basics ! - CIO-online](https://www.cio-online.com/actualites/lire-priorites-de-la-dsi-en-2026-back-to-basics-16761.html)  
 *Source : cio-online.com | Publication : 2026-01-08*
