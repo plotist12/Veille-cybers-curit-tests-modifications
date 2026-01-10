@@ -1,5 +1,162 @@
-# Résumés – 2026-01-09
+# Résumés – 2026-01-10
 
+
+## [« Le système de messagerie électronique du gouvernement arménien a été piraté, et les ...](https://www.armenews.com/le-systeme-de-messagerie-electronique-du-gouvernement-armenien-a-ete-pirate-et-les-donnees-divulguees-sont-mises-en-vente-affirme-lavocate-gohar-meloyan/)  
+*Source : armenews.com | Publication : 2026-01-10*
+
+- Votre panier est actuellement vide !.
+- Votre publicité ici (Pendant 7 jours) – par ©armenews.com L’avocate Gohar Meloyan a écrit sur sa page Facebook : « Selon une source reconnue dans le domaine de la cybersécurité, le système de messagerie du gouvernement arménien a été piraté, entraînant une fuite massive de données, mises en vente sur divers forums de cybercriminalité.
+- D’après les informations diffusées, la fuite comprend environ 8 millions de fichiers de communications d’État sensibles.
+- Les autorités compétentes doivent confirmer ou infirmer ces informations au plus vite et, en cas de confirmation, prendre les mesures appropriées : Si ces informations sont avérées, c’est un nouveau signal d’alarme grave : nos données personnelles, nos documents d’État et militaires confidentiels ne sont ni menacés ni protégés.
+
+## [Italie: Cloudflare, condamnée à une amende, menace de ne pas fournir ses services pour ...](https://fr.tradingview.com/news/afp:8bc02632db4f2:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-10*
+
+- Italie: Cloudflare, condamnée à une amende, menace de ne pas fournir ses services pour les JO-2026 L'entreprise américaine Cloudflare a menacé d'interrompre ses services de sécurité en Italie, y compris pour les Jeux olympiques d'hiver, après y avoir été condamnée à une amende de 14 millions d'euros (16 millions de dollars) pour n'avoir pas lutté contre le piratage en ligne.
+- Cloudflare est une plateforme qui fournit des services de sécurité, de gestion et d'optimisation du trafic pour les sites internet et les applications.
+- L'autorité indépendante italienne de régulation des communications, l'Agcom, a annoncé jeudi la sanction pour "violation continue de la loi anti-piratage", des contenus signalés par le système "Piracy Shield" (bouclier anti-piratage) n'ayant pas été désactivés.
+- Ce système permet aux détenteurs des droits d'événements diffusés en direct de signaler les contenus piratés par le biais d'une plateforme automatisée, les fournisseurs étant tenus de bloquer ces contenus incriminés dans un délai de 30 minutes.
+
+## [Craintes d'une répression brutale en Iran, où la mobilisation ne faiblit pas - Orange Actu](https://actu.orange.fr/monde/craintes-d-une-repression-brutale-en-iran-ou-la-mobilisation-ne-faiblit-pas-CNT000002mzv1r.html)  
+*Source : actu.orange.fr | Publication : 2026-01-10*
+
+- Nouvelle manifestation à Téhéran, craintes d'une répression brutale Une nouvelle manifestation contre le pouvoir a débuté samedi soir dans la capitale iranienne, les inquiétudes grandissant sur une brutale répression dans le pays coupé du monde par un blocage d'internet.
+- Des ONG ont signalé des dizaines de morts depuis le début du mouvement fin décembre, alors que la République islamique fait face à une mobilisation inédite depuis trois ans et l'un de ses plus grands défis depuis sa proclamation en 1979.
+- Selon une vidéo authentifiée par l'AFP, une manifestation a débuté tard samedi soir dans un quartier du nord de Téhéran.
+- Des feux d'artifice ont été tirés au-dessus de la place Punak tandis que des manifestants tapaient sur des casseroles et scandaient des slogans en soutien à la dynastie Pahlavi, chassée par le Révolution islamique en 1979.
+
+## [PARIS : Former pour performer, comment bien bâtir un plan de formation <b>cybersécurité</b> efficace](https://presseagence.fr/paris-former-pour-performer-comment-bien-batir-un-plan-de-formation-cybersecurite-efficace/)  
+*Source : presseagence.fr | Publication : 2026-01-10*
+
+- PARIS : Former pour performer, comment bien bâtir un plan d… Partager : PARIS : Former pour performer, comment bien bâtir un plan de formation cybersécurité efficace ?.
+- Et si la vraie faille de sécurité, c’était l’absence de stratégie de formation.
+- Nous n’avons de cesse de le dire, le répéter, les cybermenaces explosent en volume et en sophistication.
+- 2025 impose une prise de conscience : la cybersécurité ne relève plus uniquement de la technologie, mais avant tout de la compétence humaine.
+
+## [Cyberattaque : l'hôpital privé de la Miotte a déposé plainte - Le Trois](https://letrois.info/societe/cyberattaque-lhopital-prive-de-la-miotte-a-depose-plainte/)  
+*Source : letrois.info | Publication : 2026-01-10*
+
+- En juin 2025 (lire notre article) et en janvier 2026 (lire notre article), des hackers ont revendiqué sur une plateforme du darkweb la vente de lignes de données de patients de l’hôpital privé de la Miotte, à Belfort.
+- « À ce stade, aucune preuve de fuite ou d’accès non autorisé à des données personnelles issues de nos systèmes d’information n’a été établie », assure l’établissement hospitalier, dans un communiqué de presse envoyé ce vendredi après-midi.
+- Qui complète : « Les premières analyses techniques, menées avec le soutien d’experts en cybersécurité, n’indiquent pas, à ce jour, de trace confirmée d’exfiltration depuis notre infrastructure informatique.
+- » L’hôpital privé de la Miotte, qui appartient au groupe Vivalto Santé, indique que « des vérifications complémentaires » sont menées pour « élargir [le] champ d’analyse [et] comprendre l’origine exacte de la situation signalée ».
+
+## [Iran: la mobilisation ne faiblit pas, craintes d'une répression brutale - Orange Actu](https://actu.orange.fr/monde/iran-la-mobilisation-ne-faiblit-pas-craintes-d-une-repression-brutale-CNT000002mzv1r.html)  
+*Source : actu.orange.fr | Publication : 2026-01-10*
+
+- Nouvelle manifestation à Téhéran, craintes d'une répression brutale Une nouvelle manifestation contre le pouvoir a débuté samedi soir dans la capitale iranienne, les inquiétudes grandissant sur une brutale répression dans le pays coupé du monde par un blocage d'internet.
+- Des ONG ont signalé des dizaines de morts depuis le début du mouvement fin décembre, alors que la République islamique fait face à une mobilisation inédite depuis trois ans et l'un de ses plus grands défis depuis sa proclamation en 1979.
+- Selon une vidéo authentifiée par l'AFP, une manifestation a débuté tard samedi soir dans un quartier du nord de Téhéran.
+- Des feux d'artifice ont été tirés au-dessus de la place Punak tandis que des manifestants tapaient sur des casseroles et scandaient des slogans en soutien à la dynastie Pahlavi, chassée par le Révolution islamique en 1979.
+
+## [Cloudflare menace d'interrompre ses services en Italie pour les JO - Watson](https://www.watson.ch/fr/international/italie/739138153-cloudflare-menace-d-interrompre-ses-services-en-italie-pour-les-jo)  
+*Source : watson.ch | Publication : 2026-01-10*
+
+- Cloudflare menace d’interrompre ses services en Italie pour les JO L'entreprise américaine Cloudflare a menacé d'interrompre ses services de sécurité en Italie, y compris pour les Jeux olympiques d'hiver, après y avoir été condamnée à une amende de 14 millions d'euros pour n'avoir pas lutté contre le piratage en ligne.
+- Cloudflare est une plateforme qui fournit des services de sécurité, de gestion et d'optimisation du trafic pour les sites internet et les applications.
+- L'autorité indépendante italienne de régulation des communications, l'Agcom, a annoncé jeudi la sanction pour «violation continue de la loi anti-piratage», des contenus signalés par le système «Piracy Shield» (bouclier anti-piratage) n'ayant pas été désactivés.
+- Ce système permet aux détenteurs des droits d'événements diffusés en direct de signaler les contenus piratés par le biais d'une plateforme automatisée, les fournisseurs étant tenus de bloquer ces contenus incriminés dans un délai de 30 minutes.
+
+## [Tether et l'ONUDC collaborent pour renforcer la <b>cybersécurité</b> en Afrique - Phemex](https://phemex.com/fr/news/article/tether-and-unodc-collaborate-to-enhance-cybersecurity-in-africa-52629)  
+*Source : phemex.com | Publication : 2026-01-10*
+
+- Tether s'est associé au Bureau des Nations Unies contre la drogue et le crime (ONUDC) pour renforcer la cybersécurité et promouvoir l'utilisation sécurisée des cryptomonnaies à travers l'Afrique.
+- Cette initiative vise à éduquer les jeunes et les groupes vulnérables afin de réduire les risques de fraude liée aux cryptomonnaies, en accord avec la vision de l'ONU pour l'Afrique 2030 en matière de finance numérique sécurisée.
+- Cette collaboration répond à la menace croissante de la fraude liée aux cryptomonnaies, mise en lumière par les récentes découvertes d'Interpol concernant 260 millions de dollars d'activités illicites en monnaies numériques et fiduciaires.
+- Le partenariat, dirigé par le PDG de Tether, Paolo Ardoino, et la représentante régionale de l'ONUDC, Sylvie Bertrand, met l'accent sur l'éducation et l'innovation.
+
+## [Des Iraniens dans les rues de Téhéran malgré le blocage d'internet - Orange Actu](https://actu.orange.fr/monde/des-iraniens-dans-les-rues-de-teheran-malgre-le-blocage-d-internet-CNT000002mywCn.html)  
+*Source : actu.orange.fr | Publication : 2026-01-10*
+
+- Des Iraniens dans les rues de Téhéran malgré le blocage d'internet Des Iraniens ont défilé dans plusieurs villes dont Téhéran vendredi soir, au treizième jour du plus important mouvement de contestation contre le pouvoir depuis plus de trois ans qui a poussé les autorités de la République islamique à imposer une coupure nationale d'internet.
+- Malgré la répression, des habitants ont défilé sur plusieurs artères de la capitale, selon une vidéo vérifiée par l'AFP et des images publiées sur les réseaux sociaux malgré le blocage des communications.
+- Certains frappaient sur des casseroles et scandaient des slogans hostiles au pouvoir, dont "mort à Khamenei", en référence au guide suprême iranien.
+- Dans ce quartier de Sadatabad, dans le nord-ouest de Téhéran, ils étaient soutenus par un concert de klaxons d'automobilistes, selon la vidéo authentifiée.
+
+## [Des Milliers D'Israéliens Ciblés Par Des Messages Menaçants Attribués À L'Iran - i24NEWS](https://www.i24news.tv/fr/actu/international/moyen-orient/artc-des-milliers-d-israeliens-cibles-par-des-messages-menacants-attribues-a-l-iran)  
+*Source : i24news.tv | Publication : 2026-01-10*
+
+- i24NEWS - International - Moyen-Orient - Des milliers d’Israéliens ciblés par des messages menaçants attribués à l’Iran - Des milliers d’Israéliens ciblés par des messages menaçants attribués à l’Iran Selon des experts en cybersécurité, ces envois s’inscrivent dans une opération d’intimidation attribuée à l’Iran, combinant piratages, fuites de données et pression psychologique.
+- Des milliers d’Israéliens ont reçu samedi après-midi un message SMS rédigé en anglais et envoyé depuis un numéro étranger, probablement britannique.
+- « Nous arrivons.
+- Regardez le ciel à minuit », indiquait le texte, dans une formulation évoquant une menace de frappes, rappelant les attaques de missiles survenues lors de la guerre de douze jours entre Israël et l’Iran.
+
+## [Des individus usurpent l'identité de la FIF et détournent plusieurs équipements sportifs](https://www.seneweb.com/fr/news/Sport/des-individus-usurpent-lidentite-de-la-fif-et-detournent-plusieurs-equipements-sportifs_n_480028.html)  
+*Source : seneweb.com | Publication : 2026-01-10*
+
+- Des individus usurpent l’identité de la FIF et détournent plusieurs équipements sportifs Alors que la Coupe d’Afrique des Nations (CAN) 2025 se joue actuellement au Maroc, la Fédération Ivoirienne de Football (FIF) subit une usurpation d’identité à Abidjan.
+- Des individus mal intentionnés ont réussi à usurper l’identité de la FIF et soutirer plusieurs équipements sportifs à une entreprise étrangère.
+- Selon les informations livrées par la Plateforme de lutte contre la cybercriminalité (PLCC), des individus ont réussi à usurper l’identité de la FIF et faire un faux partenariat avec la société D.T.T.
+- LTD, spécialisée dans la fabrication d’équipements sportifs.
+
+## [Radio J. En 2026 Tel-Aviv s'attend à une pluie d'exits. Pourquoi en Israël les exits dans l ...](https://israelvalley.com/2026/01/10/radio-j-pourquoi-en-israel-il-nexiste-aucun-tabou-autour-de-la-vente-de-pepites-locales-a-des-groupes-etrangers/)  
+*Source : israelvalley.com | Publication : 2026-01-10*
+
+- Israël voit régulièrement ses jeunes entreprises tech, excellant en cybersécurité et IA, être rachetées par des géants mondiaux, comme l’illustre l’exit record de Wiz en 2025, avec des secteurs clés comme la défense (Elbit, IAI), les fintechs (Lemonade) et l’IA (Armis, Gong) générant des acquisitions majeures, montrant la forte intégration de cet écosystème dans le paysage tech international.
+- Wiz : Une vente massive en 2025, illustrant le succès continu dans la cybersécurité, un domaine fort en Israël.
+- - Mobileye : Leader mondial dans les technologies de conduite autonome, une pépite israélienne valorisée.
+- - CyberArk, Monday.com, Wix, Gong : Des « licornes » (entreprises valorisées à plus d’un milliard de dollars) qui ont connu une forte croissance et attirent les investissements.
+
+## [Des millions d'appareils Bluetooth sont encore vulnérables, 6 mois après la découverte de 3 ...](https://www.01net.com/actualites/millions-appareils-bluetooth-encore-vulnerables-6-mois-apres-decouverte-3-failles-critiques.html)  
+*Source : 01net.com | Publication : 2026-01-10*
+
+- Un trio de vulnérabilités a été découvert sur les puces Bluetooth d’Airoha, un fournisseur majeur de composants pour casques et écouteurs sans fil.
+- Les puces concernées sont massivement utilisées sur les accessoires vendus par des marques phares, comme Sony, JBL, Marshall, Bose, Jabra, Beyerdynamic, JLab, Teufel, Earis/EarisMax, et MoerLabs.
+- Parmi les produits vulnérables, on trouve notamment les WH-1000XM5, les WF-1000XM5, les Jabra Elite 8 Active, les JBL Endurance Race 2 / Live Buds 3, les Bose QuietComfort, les Marshall Major V ou encore les Amiron 300 de chez Beyerdynamic.
+- Près de 30 références disponibles sur le marché sont touchées.
+
+## [<b>Ransomware</b> 2025–2026, la concentration s'accélère - ZATAZ](https://www.zataz.com/ransomware-2025-2026-la-concentration-saccelere/)  
+*Source : zataz.com | Publication : 2026-01-10*
+
+- Ransomware 2025–2026, la concentration s’accélère L’année 2025 confirme une mutation silencieuse du ransomware, plus concentré, plus industriel, tandis que janvier 2026 marque un reflux mesuré, interprété par ZATAZ comme une pause tactique, non un recul durable.
+- L’analyse consolidée des campagnes de ransomware entre 2025 et janvier 2026 révèle une hyper-concentration autour de quelques groupes dominants.
+- Qilin, Akira, Play, Incransom et Lynx cumulent l’essentiel des attaques documentées, laissant peu d’espace aux acteurs secondaires.
+- Cette structuration s’accompagne d’une forte volatilité opérationnelle, alternant pics massifs et périodes de quasi-silence.
+
+## [Promouvoir le développement d'un écosystème de confiance numérique durable.](https://www.vietnam.vn/fr/thuc-day-xay-dung-he-sinh-thai-niem-tin-so-ben-vung)  
+*Source : vietnam.vn | Publication : 2026-01-10*
+
+- Première assemblée générale depuis la création de la Digital Trust Alliance, cet événement permet de résumer les principales activités mises en œuvre lors de la phase de formation et offre également aux membres un forum pour échanger des idées, s'accorder sur une orientation stratégique et prioriser le contenu des prochaines étapes de développement.
+- La conférence a été marquée par la présence et la collaboration des membres de la Digital Trust Alliance, dont de nombreuses personnalités réputées ayant une influence positive sur la vie sociale, telles que l'artiste du peuple Xuan Bac, le chanteur Tung Duong, le rappeur Den, MC Khanh Vy, Mlle Bao Ngoc... ainsi que de nombreux artistes, KOL et représentants de la communauté de création de contenu dans l'espace numérique.
+- Dans son discours d'ouverture à la conférence, le colonel Nguyen Hong Quan, directeur adjoint du département de la cybersécurité et de la prévention de la criminalité de haute technologie (A05, ministère de la Sécurité publique ), a déclaré que la confiance n'avait jamais été une question aussi urgente qu'aujourd'hui, car la désinformation peut se propager à des millions de personnes en quelques secondes.
+- « D’un simple clic, une personne peut devenir victime d’une fraude, subir un préjudice ou perdre son sentiment de sécurité dans l’espace même où elle passe ses journées.
+
+## [<b>Cybermenace</b> : attention aux attaques personnalisées - Stratégies](https://www.strategies.fr/actualites/culture-tech/LQ5575561C/cybermenace-attention-aux-attaques-personnalisees.html)  
+*Source : strategies.fr | Publication : 2026-01-10*
+
+- Face à l'essor des fuites de données en 2025, les spécialistes redoutent une recrudescence des menaces personnalisées en 2026, favorisées par.
+
+## [Un jeune homme arrêté pour le piratage de la Fédération française de Tir - Clubic](https://www.clubic.com/actualite-594541-un-jeune-homme-arrete-pour-le-piratage-de-la-federation-francaise-de-tir.html)  
+*Source : clubic.com | Publication : 2026-01-10*
+
+- On commence à y voir un peu plus clair dans le piratage, à l'automne dernier, de la Fédération française de Tir.
+- Un suspect vient ainsi d'être arrêté.
+- Et il ne venait pas de l'étranger !.
+- Au mois d'octobre dernier, la France apprenait qu'une nouvelle victime des pirates en ligne venait s'ajouter à la longue liste des entités hackées dans le pays, à savoir : la Fédération française de Tir.
+
+## [L'Alliance pour la confiance numérique a tenu sa première conférence générale, lançant ...](https://www.vietnam.vn/fr/lien-minh-niem-tin-so-to-chuc-hoi-nghi-toan-the-lan-thu-nhat-chinh-thuc-ra-mat-ban-lanh-dao)  
+*Source : vietnam.vn | Publication : 2026-01-10*
+
+- Étaient présents à la conférence : le colonel Nguyen Hong Quan, directeur adjoint du département de la cybersécurité et de la prévention de la criminalité de haute technologie du ministère de la Sécurité publique ; le lieutenant-colonel Nguyen Tien Cuong, chef du secrétariat général de l’Alliance pour la confiance numérique ; le lieutenant-général Nguyen Minh Chinh, vice-président permanent de l’Association nationale de la cybersécurité ; M.
+- Vu Duy Hien, chef de bureau de l’Association nationale de la cybersécurité ; et l’artiste du peuple Nguyen Xuan Bac, directeur du département des arts du spectacle.
+- Du côté des médias, on retrouvait M. Nguyen Tat Hong Duong, rédacteur en chef du magazine Vietnam Cyber Security ; le colonel Nguyen Anh Tuan, directeur adjoint du département de la communication de la sécurité publique et directeur de la télévision de la sécurité publique (ANTV) ; et le Dr Vu Hoai Nam, rédacteur en chef du journal Vietnam Law.
+- La conférence a bénéficié du soutien de représentants d'organisations partenaires, de membres de la Digital Trust Alliance, dont de nombreuses personnalités réputées et influentes du monde social telles que le chanteur Tung Duong, le rappeur Den, MC Khanh Vy, Miss Bao Ngoc,... ainsi que de nombreux artistes, influenceurs et représentants de la communauté de création de contenu dans l'espace numérique.
+
+## [<b>Cybersécurité</b> et <b>cybermenaces</b> : plus de 51 000 cas en 2025, 293 arrestations en Italie](https://www.agenzianova.com/fr/news/cybersicurezza-e-minacce-informatiche-piu-di-51-mila-casi-nel-2025-293-arresti-in-italia/)  
+*Source : agenzianova.com | Publication : 2026-01-10*
+
+- Au 21 décembre 2025, l'Unité de police postale et de cybersécurité avait traité 51 560 affaires – dans les domaines de la protection des personnes en ligne, notamment celle des mineurs, de la protection des actifs des particuliers, des entreprises et des institutions contre la cybercriminalité financière, de la lutte contre le cyberterrorisme et de la protection des infrastructures d'information critiques – avec 293 arrestations, 7 590 signalements et 2 157 perquisitions.
+- Ces chiffres proviennent du rapport 2025 de la police postale sur la cybercriminalité.
+- En 2025, la cybersécurité a connu une complexification croissante, avec des attaques sophistiquées, des rançongiciels, des fraudes en ligne et des crimes contre les personnes qui ont affecté la vie des citoyens et les services essentiels.
+- Dans ce contexte, la Police postale a mis en œuvre une approche intégrée axée sur la prévention, les contre-enquêtes et le renforcement des capacités afin de former un personnel hautement qualifié et de renforcer la résilience collective, contribuant ainsi, de concert avec d'autres partenaires institutionnels, à renforcer la capacité de réponse du pays.
+
+## [Municipales à Montluçon : Louis Brun à la tête de la liste d'union des communistes et des ...](https://www.lamontagne.fr/montlucon-03100/actualites/municipales-a-montlucon-louis-brun-a-la-tete-de-la-liste-d-union-des-communistes-et-des-radicaux-pour-une-autre-offre-a-gauche_14810612/)  
+*Source : lamontagne.fr | Publication : 2026-01-10*
+
+- Écouter l'article Ils défendent "une autre offre à gauche, complémentaire" : le Parti communiste et le PRG (Parti radical de gauche) lancent officiellement leur campagne des municipales, en dévoilant leur tête de liste.
+- Une liste nommée Un avenir ici et maintenant ensemble et façonnée "à l’image de Montluçon, avec toutes les professions représentées, du chef d’entreprise à l’ancien directeur de l’hôpital, aux salariés du public comme du privé", explique Louis Brun (PCF), lors d’une conférence de presse tenue jeudi 8 janvier, en marge des vœux de son parti.
+- Ce militant de longue date de 28 ans se lance dans sa deuxième élection (la précédente en 2020, à Lurcy-Lévis), aux côtés de l’expérimentée Marie-Claude Léguillon, présidente départementale du PRG.
+- "Naturel de partir ensemble" L’ancienne conseillère régionale met en avant des valeurs communes, comme la défense de la République ou la laïcité.
 
 ## [<b>Cybersécurité</b> : l'armée de terre recrute des &quot;geeks&quot; - YouTube](https://www.youtube.com/watch?v=py0jug59WSw)  
 *Source : youtube.com | Publication : 2026-01-09*
