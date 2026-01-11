@@ -1,5 +1,151 @@
-# Résumés – 2026-01-10
+# Résumés – 2026-01-11
 
+
+## [Alix Merle, Xerfi - <b>Cybersécurité</b> : sous les normes, la croissance](https://www.xerficanal.com/economie/emission/Alix-Merle-Cybersecurite-sous-les-normes-la-croissance_3754553.html)  
+*Source : xerficanal.com | Publication : 2026-01-11*
+
+- Comment les acteurs de la cybersécurité peuvent-ils tirer parti des nouvelles menaces et réglementations ?.
+- Ce marché reste pour l'heure en.
+
+## [Ekinops : Lionel Chmilewsky prend les rênes, quel enjeu pour l'action ? - Le Revenu](https://www.lerevenu.com/reussir-bourse/coeur-operations/ekinops-lionel-chmilewsky-nouveau-directeur-general-bourse/)  
+*Source : lerevenu.com | Publication : 2026-01-11*
+
+- Chaque jour, du lundi au samedi, recevez le plus punchy et pertinent de l’info des marchés.
+- Secoué en Bourse, Ekinops se réorganise.
+- Le spécialiste des télécoms et de la cybersécurité confie les rênes à Lionel Chmilewsky pour relancer la croissance et rassurer les investisseurs.
+- Ekinops change de capitaine pour accélérer son redressement boursier, avec l’arrivée de Lionel Chmilewsky comme directeur général à compter du 12 janvier 2026 et la nomination de Philippe Moulin au poste de directeur général adjoint en charge des opérations.
+
+## [ITchannel : Le quotidien des marchés verticaux](https://itchannel.info/articles/208409/katun-nomme-cinzia-gandini-au-poste-de-directrice-generale-europe-moyen-orient-afrique.html)  
+*Source : itchannel.info | Publication : 2026-01-11*
+
+- Veuillez activer Javascript.
+
+## [ITchannel : Le quotidien des marchés verticaux](https://itchannel.info/articles/208408/35-startups-participent-a-ledition-2026-du-cybersecurity-startup-accelerator.html)  
+*Source : itchannel.info | Publication : 2026-01-11*
+
+- Veuillez activer Javascript.
+
+## [Iran : malgré la coupure d'Internet, voici comment les manifestants parviennent à ... - Ouest-France](https://www.ouest-france.fr/monde/iran/iran-malgre-la-coupure-dinternet-voici-comment-les-manifestants-parviennent-a-transmettre-des-videos-a-letranger-f16c3244-eee0-11f0-a051-5e965463f148)  
+*Source : ouest-france.fr | Publication : 2026-01-11*
+
+- cybersécurité , sur X.
+- Samedi soir, les lignes de téléphonie mobile ont également été coupées, explique l'Agence France-Presse (AFP).
+- Selon des.
+
+## [<b>Cybersécurité</b> : les 12 actualités majeures du 11 jan 2026](https://dcod.ch/2026/01/11/cybersecurite-les-12-actualites-majeures-du-11-jan-2026/)  
+*Source : dcod.ch | Publication : 2026-01-11*
+
+- Faits marquants de la semaine Une fuite de données liée à une exposition de l’interface de programmation d’Instagram en 2024 aurait dévoilé des informations sensibles de 17,5 millions d’utilisateurs, désormais en vente sur le dark web et déjà associées à des vagues de demandes de réinitialisation de mot de passe.
+- - Un hacker déguisé en Pink Ranger a mis hors ligne en direct sur scène plusieurs sites de groupuscules suprémacistes blancs, transformant une performance publique en opération de démantèlement ciblé d’infrastructures web extrémistes.
+- - Un membre du gouvernement suisse dénonce les opérations d’influence russes, citant une vidéo manipulée tournée à Genève diffusée de manière coordonnée sur sept plateformes et l’activisme intensif de Russia Today et Pravda dans le pays.
+- - Jaguar Land Rover révèle qu’une cyberattaque survenue en septembre 2025 a provoqué un effondrement de 43% de ses volumes de ventes en gros au troisième trimestre, illustrant l’impact opérationnel direct d’un incident numérique majeur sur une chaîne industrielle.
+
+## [Tourisme et <b>cybersécurité</b> : Center Parcs victime d'une cyberattaque : noms, adresses...](https://infos-it.fr/nouvelles/8381/tourisme-et-cybersecurite-center-parcs-victime-dune-cyberattaque-noms-adresses-et-paiements-exposes/)  
+*Source : infos-it.fr | Publication : 2026-01-11*
+
+- Une cyberattaque vient de frapper Center Parcs, mettant en péril les données personnelles de 20 000 de ses clients.
+- En 2023, le groupe a été la cible d’une intrusion numérique qui soulève de nombreuses questions sur la sécurité des systèmes informatiques dans le secteur touristique.
+- Ce type d’incident devient de plus en plus fréquent et touche des entreprises de toutes tailles, soulignant la nécessité pour les entreprises de renforcer leurs mesures de protection.
+- Table des matières 1 Cyberattaque chez Center Parcs : les données de 20 000 clients piratées, le secteur du tourisme sous tension - 2 Les détails de l’attaque - 3 Implications pour le secteur touristique - 4 Les réponses de Center Parcs - 5 Comparaison avec d’autres incidents similaires - 6 Les leçons à tirer et les mesures à prendre - 7 À retenir - 8 Questions fréquentes - 9 Sources - Cyberattaque chez Center Parcs : les données de 20 000 clients piratées, le secteur du tourisme sous tension La brèche a été découverte à temps pour éviter des conséquences plus graves, mais elle illustre la vulnérabilité des infrastructures numériques face à des cybercriminels de plus en plus sophistiqués.
+
+## [«Il ne s'agit pas d'un piratage classique» : qu'est-ce que le «Ghost Pairing» - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/il-ne-s-agit-pas-d-un-piratage-classique-qu-est-ce-que-le-ghost-pairing-cette-nouvelle-arnaque-sur-whatsapp-20260111)  
+*Source : lefigaro.fr | Publication : 2026-01-11*
+
+- «Il ne s’agit pas d’un piratage classique» : qu’est-ce que le «Ghost Pairing», cette nouvelle arnaque sur WhatsApp ?.
+- Un nouveau type d’attaque consiste à prendre le contrôle d’un compte WhatsApp... sans que l’utilisateur s’en rende compte.
+- Passer la publicité Passer la publicitéGare aux demandes de contacts invitant à cliquer sur un lien sur WhatsApp.
+- Deux spécialistes en cybersécurité, Luis Corrons et Martin Chlumecky, ont mis en lumière une nouvelle forme d’attaque dans un article publié en décembre dernier sur le blog de la société Gen Digital, spécialisée en cybersécurité, comme le rapporte Le Parisien.
+
+## [Datacenters IA : L'OSINT traque les mégastructures cachées - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/01/11/datacenters-ia-osint-megastructure/)  
+*Source : dcod.ch | Publication : 2026-01-11*
+
+- La course à l’IA s’accélère : des chercheurs cartographient par satellite les datacenters secrets qui saturent désormais le réseau électrique mondial.
+- TL;DR : L’essentiel Meta construit « Prometheus », un centre de données à 18 milliards de dollars dans l’Ohio consommant 691 mégawatts, détecté par satellite grâce à l’analyse visuelle de ses tentes résistantes aux intempéries et équipements de refroidissement.
+- - Le projet « Stargate », soutenu par la Maison-Blanche, prévoit 500 milliards de dollars d’investissements pour 20 centres de données totalisant 10 gigawatts, soit l’équivalent de la production électrique de dix centrales nucléaires réunies.
+- - Pour alimenter « Colossus 2 » à Memphis et ses 110 000 GPU opérationnels, des turbines à gaz ont été installées de l’autre côté de la frontière du Mississippi, une stratégie visant probablement à accélérer les approbations administratives.
+
+## [Instagram : une faille de sécurité majeure expose les données de 17,5 millions de comptes](https://www.mediaterranee.com/1172026-instagram-une-faille-de-securite-majeure-expose-les-donnees-de-175-millions-de-comptes.html)  
+*Source : mediaterranee.com | Publication : 2026-01-11*
+
+- Instagram : une faille de sécurité majeure expose les données de 17,5 millions de comptes La firme de cybersécurité Malwarebytes a révélé cette semaine une fuite de données massive touchant 17,5 millions de comptes Instagram.
+- Les informations personnelles des utilisateurs, incluant adresses email, numéros de téléphone et localisations physiques, circulent désormais librement sur les forums de hackers.
+- Meta, la maison mère du réseau social, n'a toujours pas réagi officiellement.
+- C'est un coup dur pour le géant des réseaux sociaux.
+
+## [Agissons ensemble pour un espace numérique plus sûr, plus fiable et plus humain pour ...](https://www.vietnam.vn/fr/cung-hanh-dong-vi-mot-khong-gian-so-an-toan-dang-tin-cay-va-nhan-van-hon-cho-cong-dong)  
+*Source : vietnam.vn | Publication : 2026-01-11*
+
+- Ainsi, la conférence inaugurale a réuni près de 200 membres, parmi lesquels des représentants d'organismes publics, de grandes entreprises, de plateformes numériques, d'organisations sociales, ainsi que de nombreux artistes, influenceurs et créateurs de contenu influents du cyberespace.
+- Cet événement devrait favoriser une coopération étroite entre les membres de l'Alliance afin de bâtir un environnement numérique sûr, sain et fiable au Vietnam.
+- Dans son discours d'ouverture, le colonel Nguyen Hong Quan, directeur adjoint du Département de la cybersécurité et de la prévention de la cybercriminalité (A05, ministère de la Sécurité publique) et vice-président de l'Alliance pour la confiance numérique, a souligné : les membres de l'Alliance ont une mission particulière : construire, promouvoir et protéger la confiance dans l'environnement numérique, réaffirmant ainsi leur engagement à œuvrer ensemble pour un espace numérique plus sûr, plus fiable et plus humain pour tous.
+- La confiance n'a peut-être jamais été un enjeu aussi crucial qu'aujourd'hui.
+
+## [Instagram, frappé par une fuite massive de données - TRT Français](https://www.trtfrancais.com/article/0bde7a888c27/amp)  
+*Source : trtfrancais.com | Publication : 2026-01-11*
+
+- Instagram, frappé par une fuite massive de données Un ensemble de données diffusées sur le dark web contiendrait des noms d’utilisateur, noms complets, adresses e-mail, numéros de téléphone, adresses physiques partielles et d’autres coordonnées.
+- Les données personnelles d’au moins 17,5 millions d’utilisateurs d’Instagram auraient ainsi été compromises et partagées sur le dark web, suscitant de vives inquiétudes quant à la protection de la vie privée et à la sécurité de la plateforme, selon plusieurs médias.
+- La société de cybersécurité Malwarebytes a indiqué que le jeu de données divulgué comprend des noms d’utilisateur, noms complets, adresses e-mail, numéros de téléphone, adresses physiques partielles et d’autres informations de contact, rapporte le Daily Mail samedi.
+- Aucun mot de passe ne figurerait dans ces données, mais les experts avertissent que ces informations peuvent néanmoins être exploitées à des fins d’usurpation d’identité ou de fraude financière.
+
+## [Le risque cyber Cyberattaques, <b>cybersécurité</b>, cyberdéfense Le cyber et la <b>cybersécurité</b> ... - LinkedIn](https://fr.linkedin.com/posts/jphdenis_le-risque-cyber-cyberattaques-cybersécurité-activity-7416049673955811328-tx_Q)  
+*Source : fr.linkedin.com | Publication : 2026-01-11*
+
+- ✨ 📖 Le risque cyber Cyberattaques, cybersécurité, cyberdéfense Le cyber et la cybersécurité sont contingents à une organisation.
+- Ils revêtent une importance croissante dans notre quotidien professionnel quel que soit le secteur d’activité d’une entreprise ou d’un service public ; mais également dans notre quotidien individuel en tant que personne et citoyen.
+- L’usage numérique omniprésent et la digitalisation quasi systématique des données entraînent des risques de fraude, des atteintes à la confidentialité, etc.
+- Ces nouvelles pratiques dématérialisées basées souvent sur un partage instantané de données ont des impacts forts sur l’activité des organisations et peuvent engendrer des dysfonctionnements sans précédent.
+
+## [Fuite de données ENI : les informations de 50 000 entreprises françaises piratées](https://www.01net.com/actualites/fuite-donnees-eni-informations-50-000-entreprises-francaises-piratees.html)  
+*Source : 01net.com | Publication : 2026-01-11*
+
+- ENI, un groupe énergétique italien disponible en France, a subi une fuite de données.
+- Fin du mois dernier, les pirates de Lapsus ont revendiqué le vol d’un répertoire de 89 463 enregistrements de clients français sur BreachForums, la plaque tournante des données compromises.
+- L’annonce est accompagnée de captures d’écran et d’échantillons destinés à prouver les dires des cybercriminels.
+- Les données ne sont pas masquées ni anonymisées, ce qui les rend immédiatement exploitables dans le cadre d’attaques phishing ou d’arnaques.
+
+## [<b>Cybersécurité</b> : Les données de 17,5 millions d'utilisateurs d'Instagram exposées sur le dark web](https://senego.com/cybersecurite-les-donnees-de-175-millions-dutilisateurs-dinstagram-exposees-sur-le-dark-web_1911647.html)  
+*Source : senego.com | Publication : 2026-01-11*
+
+- Les données personnelles de près de 17,5 millions d’utilisateurs du réseau social Instagram se retrouvent exposées sur le dark web.
+- Cette brèche de sécurité majeure, révélée ce samedi, suscite de vives inquiétudes concernant la protection de la vie privée et la sécurité numérique à l’échelle mondiale.
+- Selon les informations relayées par l’agence Anadolu, qui cite la société de cybersécurité Malwarebytes et le Daily Mail, le fichier divulgué contient des noms d’utilisateurs, des identités complètes, des adresses e-mail, des numéros de téléphone ainsi que des adresses physiques partielles.
+- Bien que les mots de passe ne figurent pas dans cette fuite, les experts soulignent que ces éléments suffisent pour orchestrer des usurpations d’identité ou des fraudes financières ciblées.
+
+## [Iran : nouvelles manifestations cette nuit contre le régime à Téhéran, la coupure d'internet ...](https://www.ouest-france.fr/monde/iran/iran-nouvelle-manifestation-contre-le-pouvoir-a-teheran-e050a3b0-ee67-11f0-a051-5e965463f148)  
+*Source : ouest-france.fr | Publication : 2026-01-11*
+
+- Décidée jeudi par le régime iranien, cette coupure du réseau dure désormais depuis 60 heures selon l'ONG de surveillance de la cybersécurité Netblocks.
+
+## [Fuite massive de données sur Instagram : les informations personnelles de plus de 17 ...](https://www.aa.com.tr/fr/mode-de-vie/fuite-massive-de-données-sur-instagram-les-informations-personnelles-de-plus-de-17-millions-d-utilisateurs-exposées/3796221)  
+*Source : aa.com.tr | Publication : 2026-01-11*
+
+- Fuite massive de données sur Instagram : les informations personnelles de plus de 17 millions d’utilisateurs exposées - Un ensemble de données diffusé sur le dark web contiendrait des adresses e-mail, des numéros de téléphone et des adresses partielles, selon des informations de presse Ankara AA / Ankara / Merve Berker Les données personnelles d’au moins 17,5 millions d’utilisateurs d’Instagram, platform de réseau social américain, auraient été compromises et partagées sur le dark web, suscitant de vives inquiétudes quant à la protection de la vie privée et à la sécurité de la plateforme, ont rapporté les médias samedi.
+- Selon la société de cybersécurité Malwarebytes, l’ensemble de données divulgué comprend des noms d’utilisateur, noms complets, adresses e-mail, numéros de téléphone, adresses physiques partielles, ainsi que d’autres coordonnées, rapporte le Daily Mail.
+- Bien qu’aucun mot de passe ne figure dans la fuite, les experts avertissent que ces informations peuvent néanmoins être exploitées à des fins d’usurpation d’identité ou de fraude financière.
+- La brèche aurait été initialement liée à une vulnérabilité de l’API d’Instagram en 2024, selon le média spécialisé en cybersécurité CyberInsider.
+
+## [Manifestations en Iran : coupure d'internet depuis plus de 60 heures - Le Soir](https://www.lesoir.be/721608/article/2026-01-11/manifestations-en-iran-coupure-dinternet-depuis-plus-de-60-heures)  
+*Source : lesoir.be | Publication : 2026-01-11*
+
+- cybersécurité Netblocks.
+- Elle se poursuit depuis plus de 60 heures, écrit sur le réseau social X l'organisation, estimant que « cette mesure de.
+
+## [Arnaque à la fausse carte bancaire : une nouvelle escroquerie envahit les boîtes aux lettres ...](https://www.01net.com/actualites/arnaque-fausse-carte-bancaire-nouvelle-escroquerie-envahit-boites-lettres-france.html)  
+*Source : 01net.com | Publication : 2026-01-11*
+
+- Les pirates prennent de plus en plus souvent d’assaut les boîtes aux lettres.
+- L’an dernier, la France a déjà essuyé plusieurs vagues d’escroqueries glissées directement dans les boîtes aux lettres des victimes.
+- Dans la plupart des pièges recensés, les cybercriminels utilisent des QR codes, apposés en bas d’une lettre qui semble légitime.
+- Ce QR code est taillé pour rediriger la cible sur un site web malveillant.
+
+## [Innovation 2026 : Opportunités IA pour startups françaises - Économies &amp; Cie](https://economiesetcie.com/innovation-2026-startups-ia/)  
+*Source : economiesetcie.com | Publication : 2026-01-11*
+
+- Dans les couloirs des incubateurs parisiens, dans les bureaux vitrés de la French Tech à Bordeaux ou au cœur des labos hospitaliers lyonnais, une même conviction circule : l’innovation par l’intelligence artificielle n’est plus un pari, mais un moteur économique.
+- Ce qui change aujourd’hui, c’est la nature des promesses.
+- Les entreprises ne demandent plus des démonstrations spectaculaires, elles exigent des résultats : du temps gagné, des décisions mieux informées, des risques réduits et des produits livrés plus vite.
+- Pour les startups françaises, le terrain est paradoxalement fertile : d’un côté, la pression géopolitique sur les puces et les contraintes énergétiques forcent à l’efficacité ; de l’autre, la régulation européenne et l’exigence de confiance créent un marché où une approche « souveraine » et auditable devient un avantage compétitif.
 
 ## [« Le système de messagerie électronique du gouvernement arménien a été piraté, et les ...](https://www.armenews.com/le-systeme-de-messagerie-electronique-du-gouvernement-armenien-a-ete-pirate-et-les-donnees-divulguees-sont-mises-en-vente-affirme-lavocate-gohar-meloyan/)  
 *Source : armenews.com | Publication : 2026-01-10*
