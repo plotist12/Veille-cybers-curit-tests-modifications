@@ -1,5 +1,165 @@
-# Résumés – 2026-01-11
+# Résumés – 2026-01-12
 
+
+## [François Bidondo devient responsable cyber et infrastructure de Sonepar - CIO-online](https://www.cio-online.com/actualites/lire-francois-bidondo-devient-responsable-cyber-et-infrastructure-de-sonepar-16775.html)  
+*Source : cio-online.com | Publication : 2026-01-12*
+
+- François Bidondo devient responsable cyber et infrastructure de Sonepar RSSI de la RATP depuis 4 ans, François Bidondo rejoint le spécialiste de la distribution d'équipements électriques, en tant que responsable cybersécurité et infrastructures.
+- PublicitéRSSI groupe de la RATP depuis novembre 2022, François Bidondo rejoint le groupe Sonepar en tant que vice-président en charge de la cybersécurité et de l'infrastructure, sous la responsabilité de Jérémie Profeta, membre du comité de direction du leader mondial de la distribution d'équipements électriques en charge de la transformation.
+- François Bidondo a une longue expérience de la cybersécurité.
+- Après avoir passé près de 5 ans au sein de ce département chez BNP Paribas (à l'IT du groupe puis au sein de la banque d'affaires), il a rejoint Alstom jusqu'à en devenir le directeur cybersécurité en 2021.
+
+## [<b>Cybermenaces</b> : conséquences de la surrégulation - DSIH](https://dsih.fr/articles/6137/cybermenaces-consequences-de-la-surregulation)  
+*Source : dsih.fr | Publication : 2026-01-12*
+
+- Publicité en cours de chargement... Cybermenaces : conséquences de la surrégulation Ce qui est particulièrement frappant lorsque l’on passe une bonne partie de son temps à zapper sur les chaînes YouTube, c’est l’écart entre la vision des commentateurs géopolitiques de la situation et celle des investisseurs/financiers/boursicoteurs en tout genre (et je ne parle, pour la seconde catégorie, que des chaînes sérieuses, pas celles des gugusses qui vous promettent de vous enrichir depuis Dubaï avec les cryptos en 30 minutes de taf par jour).
+- Pour les premiers, si Trump envahit le Groenland, c’est la fin de l’Otan, la fin de tout, la fin du monde.
+- Gloups !.
+- Pour les seconds en revanche, la seule question qui mérite d’être posée est : Dans quoi investir ses sous, toute guerre ou situation géopolitique tendue induisant des modifications dans la hiérarchie des secteurs porteurs (armement, santé, etc.) ?.
+
+## [CrowdStrike et Nord Security annoncent un partenariat stratégique pour redéfinir la ... - Zonebourse](https://www.zonebourse.com/actualite-bourse/crowdstrike-et-nord-security-annoncent-un-partenariat-strategique-pour-redefinir-la-cybersecurite-de-ce7e58dad08df321)  
+*Source : zonebourse.com | Publication : 2026-01-12*
+
+- CrowdStrike et Nord Security ont annoncé un partenariat stratégique visant à redéfinir la cybersécurité des petites et moyennes entreprises (PME).
+- Cette collaboration associe la plateforme Falcon®?.
+- native en intelligence artificielle de CrowdStrike aux solutions d&#039;accès sécurisé et de gestion des identifiants de Nord Security, afin d&#039;offrir une protection de niveau entreprise, simple, accessible et adaptée à toutes les structures.Face aux contraintes de budget limité et de manque d&#039;expertise en cybersécurité, l&#039;enquête « State of SMB Cybersecurity » de CrowdStrike révèle que seulement 36% des PME investissent dans de nouveaux outils, et à peine 11% ont adopté des défenses alimentées par l&#039;IA.
+- Parallèlement, les cybercriminels ciblent de plus en plus les petites organisations avec des attaques de niveau entreprise.
+
+## [Claude for Healthcare : l'IA d'Anthropic face au défi des données de santé](https://www.solutions-numeriques.com/claude-for-healthcare-lia-danthropic-face-au-defi-des-donnees-de-sante/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-12*
+
+- En lançant Claude for Healthcare, Anthropic étend l’usage de son agent conversationnel à des données médicales sensibles.
+- Si l’éditeur met en avant le consentement et le contrôle utilisateur, cette évolution ravive les interrogations sur la protection effective des données personnelles dans les systèmes d’IA.
+- Des données de santé accessibles, sous conditions Avec Claude for Healthcare, Anthropic permet aux utilisateurs de connecter volontairement leurs données de santé à son agent conversationnel, grâce à des intégrations tierces comme Apple Health.
+- L’intérêt ?.
+
+## [Attaque réelle par clonage vocal utilisant l'IA : étude de cas d'un exercice | LeMagIT](https://www.lemagit.fr/actualites/366637181/Attaque-reelle-par-clonage-vocal-utilisant-lIA-etude-de-cas-dun-exercice)  
+*Source : lemagit.fr | Publication : 2026-01-12*
+
+- fizkes - stock.adobe.com Attaque réelle par clonage vocal utilisant l’IA : étude de cas d’un exercice Grâce à l’IA, les campagnes d’ingénierie sociale sont plus efficaces que jamais.
+- Dans cette étude de cas de « red team », découvrez comment le clonage vocal a permis de tromper un utilisateur professionnel expérimenté.
+- En tant que hacker éthique, je teste les cyberdéfenses des organisations et, tout comme les acteurs malveillants, je sais que l’ingénierie sociale reste l’une des méthodes les plus efficaces pour obtenir un accès non autorisé à des environnements informatiques privés.
+- Le mode opératoire Scattered Spider a fait ses preuves à plusieurs reprises dans des attaques d’ingénierie sociale visant les services d’assistance informatique de grandes entreprises, notamment les géants des casinos Caesars Entertainment et MGM Resorts, ainsi que le détaillant britannique Marks & Spencer.
+
+## [<b>Cybersécurité</b> : L'Anssi et la Dinum industrialisent l'analyse de fichiers de l'État dans une ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-lanssi-et-la-dinum-industrialisent-lanalyse-de-fichiers-de-letat-dans-une-approche-security-as-a-service.3B6BXVGXYZHRXM7KBHHYNS3T5U.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-12*
+
+- Développé par l’Agence nationale de la sécurité des systèmes d’information (Anssi) en collaboration avec la start-up bretonne Glimps, “JeCliqueOuPas” (CLOP) est un service d’analyse automatisé de fichiers permettant de détecter des fichiers malveillants.
+- Lutter contre les fichiers malveillants Cette plateforme permet aux agents publics de soumettre un fichier afin d’obtenir un diagnostic simple sur son caractère malveillant ou non, tout en garantissant que les données contenues dans ce fichier ne seront pas réutilisées par des tiers.
+- D’après les derniers chiffres de la Direction interministérielle du numérique (Dinum), le service analyse 80 000 fichiers par jour.
+- JCOP est hébergé sur une infrastructure certifiée “SecNumCloud” et compatible “Hébergeur de données de santé” (HDS).
+
+## [Cyberdélinquance chez les adolescents : comment surveiller nos enfants ? - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/cyberdelinquance-chez-les-adolescents-comment-surveiller-nos-enfants-27193430.php)  
+*Source : sudouest.fr | Publication : 2026-01-12*
+
+- Nombre de parents n’arrivent pas à contrôler les activités de leur progéniture sur le Net.
+- Voici quelques conseils pour éviter de mauvaises surprises Son fils est un hacker.
+- Voilà ce qu’a découvert un habitant du Sud-Gironde alors qu’il était perquisitionné à 6 heures du matin.
+- La preuve que les parents peuvent tomber de haut au sujet des activités que leurs enfants exercent en ligne.
+
+## [Menaces télécoms : Kaspersky anticipe que les risques de 2025 persisteront en 2026 ...](https://www.globalsecuritymag.fr/menaces-telecoms-kaspersky-anticipe-que-les-risques-de-2025-persisteront-en.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-01-12*
+
+- Menaces télécoms : Kaspersky anticipe que les risques de 2025 persisteront en 2026, accentués par l’arrivée de nouvelles technologies janvier 2026 par Kaspersky Ce nouveau volet du Kaspersky Security Bulletin examine les tendances qui ont façonné la cybersécurité dans le secteur des télécommunications en 2025 et celles susceptibles de perdurer en 2026.
+- Les activités APT (1), la compromission de la chaîne d’approvisionnement, les perturbations dues aux attaques DDoS et les arnaques à la carte SIM ont continué de mettre la pression sur les opérateurs en 2025, tandis que le déploiement de nouvelles technologies engendre de nouveaux risques opérationnels.
+- En 2025, les opérateurs télécoms ont été confrontés à quatre grandes catégories de menaces.
+- Les intrusions ciblées (APT) ont continué de se concentrer sur l’obtention d’accès furtifs aux environnements des opérateurs à des fins d’espionnage à long terme, notamment pour exploiter leur position privilégiée au sein du réseau.
+
+## [La Fédération Française de tennis annonce avoir été victime d'un &quot;acte de ... - BFM](https://www.bfmtv.com/tech/cybersecurite/la-federation-francaise-de-tennis-annonce-avoir-ete-victime-d-un-acte-de-cybermalveillance-les-donnees-sensibles-de-1-2-million-de-personnes-piratees_AV-202601120744.html)  
+*Source : bfmtv.com | Publication : 2026-01-12*
+
+- La Fédération Française de tennis annonce avoir été victime d'un "acte de cybermalveillance", les données sensibles de 1,2 million de personnes piratées Après le tir sportif - qui avait donné lieu à des cambriolages - ou encore le tennis de table, c'est une autre fédération française qui annonce avoir été victime d'un "acte de cybermalveillance".
+- Dans un courriel envoyé à ses adhérents, la Fédération Française de tennis annonce que ce piratage a affecté "une plateforme utilisée par les clubs".
+- Cela a permis aux cybercriminels d'accéder "de manière non autorisée" à certaines données de membres, plus de 1,2 million de personnes seraient concernées.
+- Les données compromises sont nombreuses et sensibles: Nom - Prénom - Adresse postale - Adresse e-mail - Numéro de téléphone - Numéro de licence - Aucun mot de passe et donnée bancaire n'ont en revanche fuité.
+
+## [NIST : Le plan de bataille pour sécuriser les agents IA autonomes - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/01/12/nist-agents-ia-autonomes/)  
+*Source : dcod.ch | Publication : 2026-01-12*
+
+- TL;DR : L’essentiel Le NIST sollicite l’expertise mondiale jusqu’en janvier 2026 pour blinder les agents IA autonomes, capables d’exécuter du code et de manipuler des infrastructures critiques sans supervision humaine constante.
+- - Le nouveau profil « Cyber AI » s’articule autour de trois piliers stratégiques (Sécuriser, Défendre, Contrecarrer) pour intégrer les risques spécifiques aux agents IA dans le cadre de cybersécurité existant (CSF 2.0).
+- - Les experts alertent sur des vecteurs d’attaque inédits, notamment des malwares générés par des agents IA résidant uniquement en mémoire et des campagnes de phishing hyper-ciblées contournant les détections classiques.
+- - La traçabilité des données devient l’enjeu central, le NIST recommandant de traiter la provenance des jeux d’entraînement des agents IA avec la même rigueur que la chaîne logistique logicielle.
+
+## [Un comptable, piégé par le ClickFix, compromet toute la <b>cybersécurité</b> de son entreprise ...](https://www.clubic.com/actualite-594778-un-comptable-piege-par-le-clickfix-compromet-toute-la-cybersecurite-de-son-entreprise-sans-le-savoir.html)  
+*Source : clubic.com | Publication : 2026-01-12*
+
+- Une PME industrielle pourtant protégée par EDR, pare-feu et authentification multifacteur a failli perdre tous ses accès bancaires, en se faisant piéger par une cyberattaque dite ClickFix.
+- Une menace cyber de plus en plus exploitée par les attaquants.
+- L'attaque racontée par le PDG de la société EscapeVelocity, société d'infogérance parisienne, est un véritable cas d'école pour les amateurs de sensibilisation à la cybersécurité.
+- Mickaël Sabbah détaille dans un post LinkedIn l'alerte qui concerne le comptable d'une PME industrielle, cliente d'Escape Velocity.
+
+## [« Qui sème le vent récolte la tempête », Cloudflare menace ouvertement la <b>cybersécurité</b> ...](https://www.numerama.com/cyberguerre/2158251-qui-seme-le-vent-recolte-la-tempete-cloudflare-menace-ouvertement-la-cybersecurite-des-jo-dhiver-2026-en-italie.html)  
+*Source : numerama.com | Publication : 2026-01-12*
+
+- C’est un fait : il y a des précautions à prendre lorsque l’on inflige une amende à un géant de la tech.
+- Surtout lorsque l’entreprise en question joue un rôle clé dans la cybersécurité mondiale.
+- L’Italie en fait actuellement l’expérience.
+- À moins d’un mois des Jeux olympiques de Milan-Cortina (6 au 22 février 2026), l’AGCOM (l’Autorité italienne de régulation des communications) a annoncé, le 8 janvier, sa décision d’infliger à Cloudflare une amende équivalente à 1 % de son chiffre d’affaires annuel, soit un peu plus de 14 millions d’euros.
+
+## [Cyberattaque contre Colis Privé: les données de plus de 10 millions de Français en accès ...](https://www.bfmtv.com/tech/cybersecurite/cyberattaque-contre-colis-prive-les-donnees-de-plus-de-10-millions-de-francais-en-acces-libre-sur-le-dark-web-attention-aux-attaques-de-cyber-hameconnage_AV-202601120682.html)  
+*Source : bfmtv.com | Publication : 2026-01-12*
+
+- Cyberattaque contre Colis Privé: les données de plus de 10 millions de Français en accès libre sur le dark web, attention aux attaques de cyber-hameçonnage En novembre dernier, Colis Privé informait ses clients, par mail, qu'il avait été victime d'un "incident ayant entraîné un accès non autorisé et limité à certaines données sur une partie de nos systèmes".
+- Un peu moins de deux mois plus tard, l'affaire connaît un rebondissement inquiétant.
+- Au moment de l'annonce, le transporteur de colis détaillait que les nom, prénom, adresses postale et électronique ainsi que les numéros de téléphone avaient été compris, comme le relayait le hacker éthique Clément Domingo.
+- En revanche, "aucune donnée bancaire, aucun mot de passe ni aucune information sensible n'est concernée", avait-il assuré.
+
+## [Routage complexe et usurpation d'identité, exposition accrue aux risques d'hameçonnage ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/routage-complexe-et-usurpation-didentite-exposition-accrue-aux-risques-dhameconnage-et-dusurpation/)  
+*Source : itsocial.fr | Publication : 2026-01-12*
+
+- La sophistication des campagnes d’hameçonnage observées depuis 2025 met en évidence une transformation des modes opératoires des attaquants, qui exploitent les chaînons faibles de l’architecture de messagerie pour contourner les protections classiques.
+- Ce mouvement découle directement de la généralisation des environnements cloud, du recours à des relais tiers et de la complexification des chaînes de routage, facteurs qui multiplient les points de défaillance potentiels et réduisent la visibilité des équipes de sécurité sur l’ensemble du flux des courriels.
+- Le récent rapport technique de Microsoft Threat Intelligence illustre ce phénomène à travers des attaques massives orchestrées par des groupes spécialisés dans le hameçonnage, utilisant des configurations de relais ou des connecteurs tiers pour envoyer des messages frauduleux qui passent les contrôles SPF et DKIM.
+- Cette faille n’est pas liée à une vulnérabilité logicielle, mais à une gestion imparfaite des politiques d’authentification et à des paramétrages parfois inadaptés aux contextes hybrides, notamment lorsque les enregistrements MX ne pointent pas directement vers la plateforme de messagerie principale.
+
+## [Cyber resilience act : les quatre étapes clés pour avoir un produit conforme dès maintenant](https://www.journaldunet.com/cybersecurite/1547165-cyber-resilience-act-les-quatre-etapes-cles-pour-avoir-un-produit-conforme-des-maintenant/)  
+*Source : journaldunet.com | Publication : 2026-01-12*
+
+- Cyber resilience act : les quatre étapes clés pour avoir un produit conforme dès maintenant Le cyber resilience act, qui instaure des normes de cybersécurité pour tous les produits numériques, s'applique à partir de cet été.
+- Il est conseillé aux fabricants de les faire évaluer dès maintenant.
+- L'application du cyber resilience act (CRA) approche à grands pas.
+- Dès l'été 2026, ce règlement européen, adopté en 2024, instaurera des exigences de cybersécurité pour tout produit matériel ou logiciel comportant des éléments numériques (PEN) sur le territoire européen.
+
+## [Diagnostic des véhicules protégés par passerelle sécurisée : Volvo rejoint la liste des ...](https://www.auto-infos.fr/article/diagnostic-des-vehicules-proteges-par-passerelle-securisee-volvo-rejoint-la-liste-des-marques-accessibles-via-texa.290236)  
+*Source : auto-infos.fr | Publication : 2026-01-12*
+
+- Avec l’intégration de Volvo dans la liste des marques compatibles avec son service de diagnostic authentifié, TEXA étend l’accès des ateliers indépendants aux véhicules protégés par passerelle sécurisée.
+- Cette évolution, incluse dans la dernière version de son logiciel IDC6, illustre les enjeux croissants d’accès aux systèmes électroniques des véhicules récents, dans un contexte de généralisation des dispositifs de cybersécurité imposés par les constructeurs.
+- Avec la dernière mise à jour de son logiciel de diagnostic IDC6 CAR (version 2025.12), TEXA étend l’accès aux fonctions de diagnostic électronique authentifié aux véhicules Volvo équipés de systèmes de protection des calculateurs (secure gateway).
+- Cette évolution permet aux ateliers utilisateurs de la solution italienne de réaliser des opérations de diagnostic sans restriction sur les modèles de la marque suédoise, dans le cadre de leur abonnement TEXPACK CAR et via un compte myTEXA actif.
+
+## [Rapports truffés d'erreurs : l'IA utilisée en coulisses par l'agence européenne de <b>cybersécurité</b>](https://www.solutions-numeriques.com/rapports-truffes-derreurs-lia-utilisee-en-coulisses-par-lagence-europeenne-de-cybersecurite/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-12*
+
+- Deux rapports récents de l’agence européenne de cybersécurité se sont révélés contenir des sources inventées de toutes pièces.
+- Une enquête universitaire pointe une utilisation discrète de l’intelligence artificielle, sans garde-fous suffisants.
+- L’agence européenne reconnaît des erreurs humaines et des défaillances dans son processus éditorial.
+- Des rapports officiels mis en défaut Les documents en cause ont été publiés à l’automne dernier par ENISA.
+
+## [<b>Cybersécurité</b> : Torq lève 140 millions de dollars pour aider les SOC à automatiser la ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-torq-leve-140-millions-de-dollars-pour-aider-les-soc-a-automatiser-la-gestion-des-incidents-grace-a-des-agents-ia.UEJR4QWJV5GZTPHFF3N4VW36HI.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-12*
+
+- Avec l’explosion du volume d’alertes de sécurité, les centres d’opérations de sécurité, SOC en anglais pour Security Operations Center, sont sous tension permanente.
+- Face à ce constat, Torq a développé un outil capable d’automatiser le coeur du fonctionnement opérationnel des SOC en s’appuyant sur des agents IA capables de prendre des décisions et d’agir.
+- 332 millions de dollars au total Pour accélérer le déploiement de sa technologie, la jeune pousse basée à Tel Aviv en Israël vient de lever 140 millions de dollars (119 millions d’euros environ) en série D, portant le total des montants levés à 332 millions de dollars.
+- Le tour de table a été mené par Merlin Ventures, un fonds spécialisé en cybersécurité.
+
+## [Résilience numérique, orchestrer humains et IA pour contrer les nouvelles menaces](https://itsocial.fr/cybersecurite/cybersecurite-articles/resilience-numerique-orcherstrer-humains-et-ia-pour-contrer-les-nouvelles-menaces/)  
+*Source : itsocial.fr | Publication : 2026-01-12*
+
+- « On ne change pas une équipe qui gagne » : la posture des attaquants, selon Mimecast, demeure pragmatique.
+- Le rapport publié ce mois-ci par l’éditeur insiste sur cette logique de rentabilité.
+- Les cybercriminels capitalisent sur la stabilité des comportements humains et la persistance du courriel comme vecteur universel.
+- Mimecast anticipe qu’en 2026, le courriel sera à l’origine de 90 % des incidents majeurs, dopé par l’usage de l’IA pour orchestrer des campagnes ciblées.
+
+## [Recomposition structurelle du marché tech européen face à l'instabilité de l'alliance transatlantique](https://itsocial.fr/cybersecurite/cybersecurite-articles/recomposition-structurelle-du-marche-technologique-europeen-face-a-linstabilite-des-alliances-transatlantiques/)  
+*Source : itsocial.fr | Publication : 2026-01-12*
+
+- À partir de notre observatoire de journalistes, le marché européen des technologies de l’informatique B2B apparaît comme engagé dans une phase de restructuration profonde.
+- Mais contrairement aux restructurations des périodes de crise, celle-ci est portée par une dynamique d’expansion transfrontalière et une adaptation darwinienne des acteurs locaux aux nouveau paysage géopolitique et ses exigences de sécurité et de résilience juridique.
+- La dépendance européenne aux technologies américaines reste massive fin 2025.
+- Selon les données consolidées par Synergy Research Group, plus de 70 % du marché européen du cloud public est toujours capté par Amazon Web Services, Microsoft Azure et Google Cloud, tandis que la quasi-totalité des accélérateurs graphiques utilisés pour l’intelligence artificielle provient de Nvidia, soumis aux contrôles d’exportation imposés par le département du Commerce des États-Unis depuis 2023.
 
 ## [Alix Merle, Xerfi - <b>Cybersécurité</b> : sous les normes, la croissance](https://www.xerficanal.com/economie/emission/Alix-Merle-Cybersecurite-sous-les-normes-la-croissance_3754553.html)  
 *Source : xerficanal.com | Publication : 2026-01-11*
