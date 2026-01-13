@@ -1,5 +1,153 @@
-# Résumés – 2026-01-12
+# Résumés – 2026-01-13
 
+
+## [Sekost et ImsCloud unissent leurs forces pour démocratiser le diagnostic <b>cybersécurité</b> ... - ITRnews](https://itrnews.com/articles/208453/sekost-et-imscloud-unissent-leurs-forces-pour-democratiser-le-diagnostic-cybersecurite-aupres-des-msp.html)  
+*Source : itrnews.com | Publication : 2026-01-13*
+
+- Veuillez activer Javascript.
+
+## [Le phishing par deepfake est déjà là, mais peu sont préparés | LeMagIT](https://www.lemagit.fr/tribune/Le-phishing-par-deepfake-est-deja-la-mais-peu-sont-prepares)  
+*Source : lemagit.fr | Publication : 2026-01-13*
+
+- Sergei Krestinin/Stocksy - stock Le phishing par deepfake est déjà là, mais peu sont préparés Les attaques de phishing avec deepfake sont là, les pirates utilisant l'IA pour tromper et escroquer les utilisateurs finaux et leurs employeurs.
+- Découvrez ce que vous pouvez faire pour protéger vos organisations.
+- La cybercriminalité liée aux deepfakes est en hausse, les cybercriminels exploitant l'IA pour tromper et escroquer des cibles peu méfiantes, notamment des utilisateurs professionnels.
+- Les deepfakes utilisent le deep learning, une catégorie d'IA qui s'appuie sur les réseaux neuronaux, pour générer des contenus synthétiques sous forme d'images, de vidéos et d'enregistrements audio.
+
+## [<b>Cybersécurité</b> des hôpitaux en Belgique : le rapport alarmant du SPF Santé publique](https://www.lesoir.be/722170/article/2026-01-13/cybersecurite-des-hopitaux-en-belgique-le-rapport-alarmant-du-spf-sante-publique)  
+*Source : lesoir.be | Publication : 2026-01-13*
+
+- La cybersécurité dans trois hôpitaux belges sur quatre doit être renforcée de toute urgence.
+- C'est ce qu'a affirmé mardi le SPF Santé publique, après.
+
+## [Le SPF Santé publique tire la sonnette d'alarme : la <b>cybersécurité</b> de trois hôpitaux sur ...](https://www.rtl.be/actu/belgique/societe/le-spf-sante-publique-tire-la-sonnette-dalarme-la-cybersecurite-de-trois/2026-01-13/article/776425)  
+*Source : rtl.be | Publication : 2026-01-13*
+
+- Partager: La cybersécurité dans trois hôpitaux belges sur quatre doit être renforcée de toute urgence.
+- C’est ce qu’a affirmé mardi le SPF Santé publique, après la cyberattaque dont a été la cible l’hôpital AZ Monica d’Anvers.
+- L’ASBL SHIELD, qui a réalisé une analyse de sécurité, continuera à accompagner les hôpitaux belges au cours des prochains mois afin d’améliorer leur sécurité.
+- Selon le SPF Santé publique, dans le contexte géopolitique actuel, les cyberattaques sont de plus en plus souvent utilisées comme arme.
+
+## [Un chiffre interpellant: la <b>cybersécurité</b> de trois hôpitaux sur quatre laisse à désirer en Belgique](https://www.lavenir.net/actu/belgique/2026/01/13/un-chiffre-interpellant-la-cybersecurite-de-trois-hopitaux-sur-quatre-laisse-a-desirer-en-belgique-WEVHHWTQQ5ENNA733XVGFNOMYA/)  
+*Source : lavenir.net | Publication : 2026-01-13*
+
+- Un chiffre interpellant: la cybersécurité de trois hôpitaux sur quatre laisse à désirer en Belgique La cybersécurité dans trois hôpitaux belges sur quatre doit être renforcée de toute urgence.
+- C'est ce qu'a affirmé mardi le SPF Santé publique, après la cyberattaque dont a été la cible l'hôpital AZ Monica d'Anvers.
+- Publié le 13-01-2026 à 19h32 - Mis à jour le 13-01-2026 à 19h39 - L'ASBL SHIELD, qui a réalisé une analyse de sécurité, continuera à accompagner les hôpitaux belges au cours des prochains mois afin d'améliorer leur sécurité.
+- Selon le SPF Santé publique, dans le contexte géopolitique actuel, les cyberattaques sont de plus en plus souvent utilisées comme arme.
+
+## [Souveraineté numérique : Tenexa annonce un partenariat avec Delos](https://www.solutions-numeriques.com/communiques/souverainete-numerique-tenexa-annonce-un-partenariat-avec-delos/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-13*
+
+- Tenexa fait évoluer son offre et annonce un partenariat structurant avec Delos, concepteur d’une suite bureautique augmentée par l’intelligence artificielle, intégrée au cœur des usages quotidiens des collaborateurs (emails, recherche web sécurisée, analyse et synthèse de documents, préparation de présentations et de réunions).
+- À travers ce partenariat, Tenexa pourra distribuer et intégrer dans ses offres la marketplace de Delos.
+- La promesse de ce partenariat étant de proposer une alternative solide à Copilot et aux usages ChatGPT « stand-alone », avec un modèle souverain pensé pour l’entreprise.
+- Dans ce contexte, une équipe dédiée sera mobilisée au sein de Tenexa pour diffuser ces nouvelles offres à grande échelle.
+
+## [Être préparé, c'est être plus fort : BE PREPARED Toolkit - VBO FEB](https://www.vbo-feb.be/fr/nouvelles/etre-prepare-cest-etre-plus-fort-be-prepared-toolkit/)  
+*Source : vbo-feb.be | Publication : 2026-01-13*
+
+- Les risques qui semblaient courants il y a quelques décennies ont aujourd’hui disparu.
+- De nouveaux risques, souvent inattendus, surgissent.
+- Et ils ont un impact majeur sur le fonctionnement global d’une entreprise.
+- Avec un toolkit pratique, élaboré par une série d’experts, nous fournissons aux entreprises des outils pour se préparer de manière optimale aux situations de crise et… les gérer.
+
+## [Votre box alimente peut-être à un botnet, et cet outil gratuit permet de le vérifier - Clubic](https://www.clubic.com/actualite-594979-votre-box-alimente-peut-etre-a-un-botnet-et-cet-outil-gratuit-permet-de-le-verifier.html)  
+*Source : clubic.com | Publication : 2026-01-13*
+
+- On répète depuis des mois qu’il faut mettre à jour ses box, routeurs et objets connectés pour éviter les botnets, sans toujours expliquer comment vérifier si l’on héberge déjà un bot.
+- GreyNoise tente d’apporter une réponse avec IP Check, un outil en ligne gratuit.
+- Les récentes attaques DDoS contre La Poste, fin décembre 2025 et début janvier 2026, reposaient sur des milliers d’équipements détenus par des particuliers, peu ou pas mis à jour, enrôlés dans un réseau distribué pour saturer des services à distance.
+- En bref, un botnet.
+
+## [BFM Crypto, le Club : <b>Cybersécurité</b>, quels risques pour la crypto ? - 13/01](https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-cybersecurite-quels-risques-pour-la-crypto-13-01_VN-202601130631.html)  
+*Source : bfmtv.com | Publication : 2026-01-13*
+
+- BFM Crypto, le Club : Cybersécurité, quels risques pour la crypto ?.
+- - 13/01 Mardi 13 janvier, le lancement de la première carte bancaire de Bitstack, la situation sécuritaire par rapport à la crypto, et la sécurité de nos données avec la directive DAC8, ont été abordés par Remi D’Alise, fondateur de Protégez vos cryptos, Alexandre Roubaud, fondateur et CEO de Bitstack, et Paul Gédéon, évaluateur en sécurité des objets connectés et responsable blockchain chez Red Alert Labs, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business.
+- Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.
+- | Durée : 26:56.
+
+## [<b>Cybersécurité</b> : quels risques pour la crypto ? - BFM](https://www.bfmtv.com/crypto/video-cybersecurite-quels-risques-pour-la-crypto_VN-202601130627.html)  
+*Source : bfmtv.com | Publication : 2026-01-13*
+
+- BFM-CryptoCybersécurité : quels risques pour la crypto ?Paul Gedeon revient sur les risques cyber pour les détenteurs de cryptoHier à 15h29 | Durée : 3:09PartagerX.
+
+## [« La fraude e-commerce n'est plus opportuniste, elle est structurée et industrielle » Laure ...](https://www.solutions-numeriques.com/la-fraude-e-commerce-nest-plus-opportuniste-elle-est-structuree-et-industrielle-laure-littler-pdg-de-oneytrust/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-13*
+
+- À l’occasion de la publication de son Panorama 2025 de la fraude e-commerce en France, Oneytrust dresse un constat sans appel.
+- La fraude est devenue industrielle, portée par des réseaux organisés et par l’usage massif de l’intelligence artificielle.
+- Nous avons échangé avec Laure Littler, PDG, pour comprendre comment les méthodes des fraudeurs évoluent, pourquoi les contrôles traditionnels atteignent leurs limites, et comment les e-commerçants peuvent concilier lutte contre la fraude et expérience client fluide.
+- SNC : Votre panorama montre que la fraude e-commerce atteint désormais un niveau industriel, avec plus d’un milliard d’euros de pertes en France.
+
+## [Nouvelle levée de Wasabi - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/957-levees-de-fonds/64340-nouvelle-levee-de-wasabi.html)  
+*Source : linformaticien.com | Publication : 2026-01-13*
+
+- Ransomware : les jours d'après · Levées de fonds · Nouvelle levée de Wasabi.
+- Détails: Bertrand Garé: 13 janvier 2026.
+- Le spécialiste du stockage objet.
+
+## [Cyberattaques : la résilience est votre meilleure défense ! - Beaboss.fr](https://www.beaboss.fr/digital-1074/cybersecurite-2020/cyberattaques-la-resilience-est-votre-meilleure-defense-54051)  
+*Source : beaboss.fr | Publication : 2026-01-13*
+
+- Ces chiffres sont sans appel : la prévention, même optimisée, ne suffit plus.
+- Il faut désormais anticiper non seulement l’attaque, mais surtout ses effets, préparer la réponse, contenir sa propagation et l’isoler pour maintenir la continuité des opérations.
+- C’est pourquoi, aujourd’hui, la cyber-résilience s’impose comme l’arme maîtresse des entreprises françaises.
+- Le cyber psychologue Dr Erik Huffman affirme que les entreprises devraient aborder la cybersécurité comme la ceinture de sécurité en voiture.
+
+## [Pourquoi les entreprises doivent intégrer des exigences de <b>cybersécurité</b> dans leurs ...](https://www.journaldunet.com/cybersecurite/1547171-pourquoi-les-entreprises-doivent-integrer-des-exigences-de-cybersecurite-dans-leurs-contrats-fournisseurs/)  
+*Source : journaldunet.com | Publication : 2026-01-13*
+
+- Pourquoi les entreprises doivent intégrer des exigences de cybersécurité dans leurs contrats fournisseurs Les entreprises doivent intégrer des exigences de cybersécurité contractuelles auprès des fournisseurs pour éviter que des vulnérabilités critiques ne paralysent toute la chaîne d'approvisionnement.
+- En matière de gestion des risques de la chaîne d'approvisionnement, sécuriser ses propres infrastructures ne suffit plus.
+- Même les mesures de protection les plus élaborées peuvent s'avérer insuffisantes lorsqu'un fournisseur critique devient le point de rupture de votre chaîne de valeur interconnectée.
+- Les récentes attaques dans la grande distribution parlent d’elles-mêmes : les entreprises doivent transformer leur approche de la sécurisation de la supply chain en intégrant contractuellement des exigences de cybersécurité complètes.
+
+## [Proofpoint nomme un nouveau directeur régional pour la Suisse et l'Autriche | ICTjournal](https://www.ictjournal.ch/news/2026-01-13/proofpoint-nomme-un-nouveau-directeur-regional-pour-la-suisse-et-lautriche)  
+*Source : ictjournal.ch | Publication : 2026-01-13*
+
+- Proofpoint nomme un nouveau directeur régional pour la Suisse et l'Autriche Proofpoint a nommé Douglas Chechele nouveau directeur de la région alpine.
+- L'ancien directeur de Veeam Suisse succède dans ses nouvelles fonctions de directeur des ventes à Roger Gomol, qui dirigeait jusqu'à présent les activités suisses et autrichiennes en tant que Country Manager.
+- L'entreprise de cybersécurité Proofpoint a nommé Douglas Chechele nouveau directeur régional pour la Suisse et l'Autriche.
+- Il a pris ses fonctions sous le nouveau titre de directeur des ventes pour la région alpine début janvier 2026, comme l'indique son profil LinkedIn.
+
+## [BFM Crypto, le Club : <b>Cybersécurité</b>, quels risques pour la crypto ? – 13/01](https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-cybersecurite-quels-risques-pour-la-crypto-13-01_EN-202601130633.html)  
+*Source : bfmtv.com | Publication : 2026-01-13*
+
+- Podcast BFM Crypto, le Club : Cybersécurité, quels risques pour la crypto ?.
+- – 13/01 BFM Crypto, le Club : Cybersécurité, quels risques pour la crypto ?.
+- – 13/01 26:55 Mardi 13 janvier, le lancement de la première carte bancaire de Bitstack, la situation sécuritaire par rapport à la crypto, et la sécurité de nos données avec la directive DAC8, ont été abordés par Remi D’Alise, fondateur de Protégez vos cryptos, Alexandre Roubaud, fondateur et CEO de Bitstack, et Paul Gédéon, évaluateur en sécurité des objets connectés et responsable blockchain chez Red Alert Labs, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business.
+- Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.
+
+## [BFM Crypto, le Club : <b>Cybersécurité</b>, quels risques pour la crypto ? - YouTube](https://www.youtube.com/watch?v=Qlz3x6yO9NE)  
+*Source : youtube.com | Publication : 2026-01-13*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Octroi de bourses d'études et sensibilisation à la <b>cybersécurité</b> pour les étudiants de ... - Vietnam.vn](https://www.vietnam.vn/fr/trao-hoc-bong-tuyen-truyen-an-ninh-mang-cho-hoc-sinh-phia-tay-lam-dong)  
+*Source : vietnam.vn | Publication : 2026-01-13*
+
+- Dans différentes localités, Mme Ton Thi Ngoc Hanh, présidente de l'Association provinciale de Lam Dong pour la promotion de l'apprentissage, accompagnée des dirigeants de l'Association et de représentants des comités du Parti et des autorités locales des communes, a remis 70 bourses d'études, d'une valeur de 1 million de VND chacune, à des étudiants issus de milieux défavorisés qui ont surmonté des difficultés et obtenu de bons résultats scolaires.
+- Ce financement provient du Fonds vietnamien pour la protection de l'enfance et vise à aider et à encourager les élèves issus de milieux défavorisés à persévérer pour surmonter les difficultés et exceller dans leurs études.
+- Au cours de ce programme, élèves, enseignants et parents ont également assisté à une présentation des représentants du département PA05 (Cybersécurité et prévention de la cybercriminalité) de la police provinciale de Lam Dong.
+- Ces derniers ont diffusé des informations sur les méthodes et techniques utilisées pour escroquer et voler des biens en ligne, et notamment sur la nouvelle tactique d'enlèvement en ligne.
+
+## [Incertitude géopolitique et IA pourquoi les directions du risque doivent revoir leurs modèles](https://itsocial.fr/cybersecurite/cybersecurite-articles/incertitude-geopolitique-et-ia-pourquoi-les-directions-du-risque-doivent-revoir-leurs-modeles/)  
+*Source : itsocial.fr | Publication : 2026-01-13*
+
+- L’année 2025 marque une rupture nette pour les métiers du risque.
+- L’indice mondial d’incertitude, quasiment multiplié par neuf en vingt ans, traduit l’instauration d’une volatilité permanente, où chaque événement géopolitique ou économique peut déstabiliser l’ensemble des compartiments de l’organisation.
+- Ce nouvel environnement fait voler en éclats la logique séquentielle et cloisonnée du risk management traditionnel.
+- Les mécanismes de contagion entre risques – politique, crédit, chaîne logistique, cyber – obligent à passer d’un pilotage par silo à une orchestration transversale et dynamique, seule à même d’anticiper et de contenir les enchaînements de crises.
+
+## [AI et <b>cybersécurité</b> : promesse ou une menace ? - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1547201-ai-et-cybersecurite-promesse-ou-une-menace/)  
+*Source : journaldunet.com | Publication : 2026-01-13*
+
+- AI et cybersécurité : promesse ou une menace ?.
+- L'intelligence artificielle soulève des défis majeurs.
+- En 2026, le débat devra évoluer de " L'IA est-elle bonne ou mauvaise ? ".
+- à " Comment encadrer et gérer responsablement son pouvoir ?.
 
 ## [François Bidondo devient responsable cyber et infrastructure de Sonepar - CIO-online](https://www.cio-online.com/actualites/lire-francois-bidondo-devient-responsable-cyber-et-infrastructure-de-sonepar-16775.html)  
 *Source : cio-online.com | Publication : 2026-01-12*
