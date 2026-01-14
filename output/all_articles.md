@@ -1,5 +1,150 @@
-# Résumés – 2026-01-13
+# Résumés – 2026-01-14
 
+
+## [Les 5 meilleures actions de <b>cybersécurité</b> selon Piper Sandler pour 2026 - Investing.com](https://fr.investing.com/news/stock-market-news/les-5-meilleures-actions-de-cybersecurite-selon-piper-sandler-pour-2026-93CH-3221852)  
+*Source : fr.investing.com | Publication : 2026-01-14*
+
+- Ces entreprises se démarquent dans un paysage concurrentiel où l'innovation et l'exécution sont primordiales.
+- Le secteur de la cybersécurité reste.
+
+## [Cyberattaque à l'AZ Monica : quatre autres hôpitaux belges touchés par une fuite de données](https://www.lesoir.be/722387/article/2026-01-14/cyberattaque-laz-monica-quatre-autres-hopitaux-belges-touches-par-une-fuite-de)  
+*Source : lesoir.be | Publication : 2026-01-14*
+
+- cybersécurité Secutec.
+- La fuite a entraîné la publication de 71.000 données personnelles et d'inscription de patients et de prestataires de soins.
+
+## [EKINOPS - Chiffre d'affaires annuel de 105 M EUR en 2025 - 14/01/2026 - 18H00 - Actusnews](https://www.actusnews.com/fr/amp/ekinops/cp/2026/01/14/chiffre-d_affaires-annuel-de-105-m-eur-en-2025-arr-de-15-8-m-eur-au-31-decembre-2025)  
+*Source : actusnews.com | Publication : 2026-01-14*
+
+- cybersécurité SASE pour les opérateurs de télécommunications et les entreprises, publie son chiffre d'affaires annuel consolidé au titre de l.
+
+## [La start-up belge de <b>cybersécurité</b> Aikido atteint le statut de licorne grâce à une nouvelle ...](https://www.zonebourse.com/actualite-bourse/la-start-up-belge-de-cybersecurite-aikido-atteint-le-statut-de-licorne-grace-a-une-nouvelle-levee-de-ce7e58d8de8cf422)  
+*Source : zonebourse.com | Publication : 2026-01-14*
+
+- STOCKHOLM, 14 janv.
+- - La société belge Aikido Security a levé 60 millions de dollars auprès d&#039;investisseurs menés par le fonds de capital-investissement spécialisé dans la technologie DST Global, pour une valorisation d&#039;un milliard de dollars, a annoncé mercredi la start-up de cybersécurité.
+- Elle devient ainsi l&#039;une des premières nouvelles licornes européennes de 2026.Fondée en 2022, la solution logicielle d&#039;Aikido aide les développeurs à détecter et à traiter automatiquement les risques.
+- Parmi ses clients figurent le développeur d&#039;applications mobiles et de jeux Niantic, la fintech Revolut et la plateforme de streaming musical SoundCloud.« Aikido se concentre sur les développeurs.
+
+## [Un nouveau rapport Cloudflare met en garde contre le « plafond de verre technique](https://www.cloudflare.com/fr-fr/press/press-releases/2026/new-cloudflare-report-warns-of-a-technical-glass-ceiling-stifling-ai-growth/)  
+*Source : cloudflare.com | Publication : 2026-01-14*
+
+- Un nouveau rapport Cloudflare met en garde contre le « plafond de verre technique » qui étouffe la croissance de l'IA et affaiblit la cybersécurité Un nouveau rapport Cloudflare met en garde contre le « plafond de verre technique » qui étouffe la croissance de l'IA et affaiblit la cybersécurité Nouvelle étude : les entreprises qui modernisent leurs applications sont trois fois plus susceptibles de bénéficier de l’IA, tandis que celles qui conservent des systèmes hérités font face à des risques de sécurité accrus et une pénurie de développeurs Nouvelle étude : les entreprises qui modernisent leurs applications sont trois fois plus susceptibles de bénéficier de l’IA, tandis que celles qui conservent des systèmes hérités font face à des risques de sécurité accrus et une pénurie de développeurs San Francisco, CA, 14 janvier 2026 – Cloudflare, Inc. (NYSE : NET), le leader du cloud de connectivité, a publié aujourd’hui son premier rapport 2026 sur l’innovation en matière d’applications.
+- Les conclusions du rapport révèlent une nette division : les entreprises qui privilégient la modernisation des applications (c’est-à-dire la mise à jour des piles technologiques pour sortir des systèmes obsolètes) sont en mesure d’utiliser l’IA avec succès et de rester sécurisées, tandis que celles qui sont confrontées à la dette technique prennent du retard et font face à une augmentation des coûts.
+- Enfin, le rapport souligne que la modernisation des applications n’est plus seulement un objectif informatique : c’est la clé qui permet aux organisations, tous secteurs confondus, de conserver un avantage concurrentiel.
+- L’urgence de la modernisation des applications est claire : si une entreprise ne parvient pas à se moderniser, elle ne se contente pas de rester à la même place, elle recule, à mesure que le reste du marché accélère.
+
+## [Renforcement de la <b>cybersécurité</b> dans les hôpitaux belges : une réponse coordonnée ... - Tinynews](https://www.tinynews.be/renforcement-de-la-cybersecurite-dans-les-hopitaux-belges-une-reponse-coordonnee-a-un-risque-critique/amp/)  
+*Source : tinynews.be | Publication : 2026-01-14*
+
+- Le gouvernement fédéral belge annonce une stratégie consolidée de renforcement de la cybersécurité des hôpitaux à travers une collaboration sectorielle structurée, visant à répondre à une menace qui devient, selon les autorités, de plus en plus pressante pour le secteur de la santé.
+- Ce plan s’appuie sur un rapport détaillé sur l’état de la cybersécurité et une coopération accrue entre les établissements hospitaliers, l’ASBL SHIELD et le SPF Santé publique.
+- Selon le rapport Statut de la cybersécurité dans les hôpitaux belges, élaboré par l’ASBL SHIELD avec le soutien du SPF Santé publique, une majorité d’hôpitaux doit encore renforcer significativement ses défenses pour atteindre des niveaux de sécurité conformes aux exigences actuelles.
+- Le rapport révèle d’importantes disparités entre établissements : environ un hôpital sur quatre se rapproche ou atteint le niveau requis en matière de cybersécurité, tandis que les hôpitaux plus petits et les établissements psychiatriques accusent un retard notable, en grande partie en raison de ressources et d’expertises limitées.
+
+## [5 stratégies pour se défendre face au risque croissant des <b>ransomwares</b>](https://www.lemondeinformatique.fr/livre-blanc/5-strategies-pour-se-defendre-face-au-risque-croissant-des-ransomwares-9470-tag-41.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-01-14*
+
+- Chaque année, l’impact des attaques par ransomware sur la continuité des activités s’intensifie.
+- Les interruptions opérationnelles, les pertes financières, les atteintes à la réputation et les conséquences juridiques placent les organisations sous une pression croissante.
+- Malgré des investissements massifs en cybersécurité, le ransomware reste une menace persistante, portée par des acteurs sophistiqués, opportunistes et organisés.
+- Ce livre blanc, rédigé en anglais, analyse pourquoi le ransomware continue de prospérer et identifie les défis liés à la sécurisation d’environnements complexes.
+
+## [<b>Ransomware</b> : devez-vous payer la rançon ? - Clubic](https://www.clubic.com/dossier-594280-ransomware-devez-vous-payer-la-rancon-analyse-legale-et-pratique.html)  
+*Source : clubic.com | Publication : 2026-01-14*
+
+- Quelle que soit leur taille, toutes les entreprises peuvent, un jour ou l’autre, et parfois à plusieurs reprises, être victimes d’une attaque par ransomware.
+- Après le choc, vient le temps de la décision : payer ou non la rançon, et surtout, dans quel cadre légal et opérationnel agir.
+- Offre partenaire Protection avancée des e-mails, des calendriers, des mots de passe, du réseau… de votre entreprise grâce à la suite d'applications professionnelles sécurisées.
+- Offre partenaire Si vous avez déjà subi une cyberattaque par ransomware, alors vous pourriez raconter à vos confrères ou partenaires comment cela s'est passé.
+
+## [<b>Cybersécurité</b> mauritanienne &quot;made in USA&quot;](https://www.leconomistemaghrebin.com/2026/01/14/cybersecurite-mauritanienne-made-in-usa/)  
+*Source : leconomistemaghrebin.com | Publication : 2026-01-14*
+
+- Une délégation américaine avait déjà été reçue en novembre dernier par les autorités pour discuter de coopération dans le numérique.
+- Les axes comprenaient l’infrastructure numérique, le commerce électronique, les capacités nationales et la cybersécurité.
+- La Mauritanie ambitionne d’intégrer davantage les outils numériques dans sa gestion publique pour moderniser les services, renforcer la transparence administrative et stimuler le développement économique et social.
+- Pour ce faire, le gouvernement de Moctar Ould Diay explore des perspectives de partenariats avec les Etats‑Unis d’Amérique en matière de renforcement de la cybersécurité et de protection des infrastructures numériques sensibles, rapporte Agence Ecofin.
+
+## [bconnex x Lookout : une réponse managée et performante aux menaces mobiles actuelles](https://www.solutions-numeriques.com/communiques/bconnex-x-lookout-une-reponse-managee-et-performante-aux-menaces-mobiles-actuelles/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-14*
+
+- À l’ère de la mobilité généralisée, les terminaux mobiles représentent une surface d’attaque critique pour les organisations.
+- Ces dernières années, les cybercriminels ont adapté leurs techniques pour cibler directement les utilisateurs via leurs smartphones, exploitant des vecteurs comme le phishing mobile, le smishing, les attaques par QR code ou encore les applications malveillantes.
+- Face à ce constat, bconnex renforce son positionnement en cybersécurité mobile grâce à une collaboration stratégique avec Lookout, acteur de référence sur le marché de la Mobile Threat Defense (MTD).
+- Des menaces en constante évolution : le facteur humain au centre de la cible Les menaces actuelles ne se contentent plus d’exploiter des vulnérabilités techniques.
+
+## [EDR, MDR, MSP : pourquoi la <b>cybersécurité</b> se joue désormais sur l'accompagnement et l'humain](https://itrnews.com/articles/208473/edr-mdr-msp-pourquoi-la-cybersecurite-se-joue-desormais-sur-laccompagnement-et-lhumain.html)  
+*Source : itrnews.com | Publication : 2026-01-14*
+
+- Veuillez activer Javascript.
+
+## [Pourquoi ServiceNow rachète Armis pour 7,75 milliards - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/pourquoi-servicenow-rachete-armis-pour-775-milliards-225145/amp)  
+*Source : silicon.fr | Publication : 2026-01-14*
+
+- Annoncée juste avant les fêtes de Noël, l’acquisition d’Armis, spécialiste de la sécurité cyber-physique d’origine israélienne fondée en 2015, pour 7,75 milliards $ en cash, marque la plus importante transaction de ServiceNow à ce jour.
+- L’opération, qui doit être boucler au second semestre, vise à tripler l’empreinte cybersécurité de ServiceNow, qui a dépassé 1 milliard $ de ventes au troisième trimestre 2025, en étendant sa nouvelle plateforme unifiée de » Cyber Exposure Management » à des secteurs critiques comme la fabrication, la santé et les infrastructures.
+- Fondée sur une approche « agentless », Armis s’est imposée comme un acteur clé de la découverte en temps réel des actifs et de la gestion de l’exposition cyber.
+- Sa plateforme couvre l’ensemble des environnements IT, OT, IoT et les dispositifs médicaux connectés, offrant une visibilité continue sur la surface d’attaque cyber-physique.
+
+## [Pourquoi ServiceNow rachète Armis pour 7,75 milliards - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/pourquoi-servicenow-rachete-armis-pour-775-milliards-225145)  
+*Source : silicon.fr | Publication : 2026-01-14*
+
+- Annoncée juste avant les fêtes de Noël, l’acquisition d’Armis, spécialiste de la sécurité cyber-physique d’origine israélienne fondée en 2015, pour 7,75 milliards $ en cash, marque la plus importante transaction de ServiceNow à ce jour.
+- L’opération, qui doit être boucler au second semestre, vise à tripler l’empreinte cybersécurité de ServiceNow, qui a dépassé 1 milliard $ de ventes au troisième trimestre 2025, en étendant sa nouvelle plateforme unifiée de » Cyber Exposure Management » à des secteurs critiques comme la fabrication, la santé et les infrastructures.
+- Complémentarité des technologies Fondée sur une approche « agentless », Armis s’est imposée comme un acteur clé de la découverte en temps réel des actifs et de la gestion de l’exposition cyber.
+- Sa plateforme couvre l’ensemble des environnements IT, OT, IoT et les dispositifs médicaux connectés, offrant une visibilité continue sur la surface d’attaque cyber-physique.
+
+## [Vol de données : amendes de 27 millions d'euros pour Free Mobile et 15 millions pour ... - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/vol-de-donnees-amendes-de-27-millions-d-euros-pour-free-mobile-et-15-millions-pour-free-qui-denonce-une-severite-inedite-27410213.php)  
+*Source : sudouest.fr | Publication : 2026-01-14*
+
+- La Cnil a sanctionné les deux entreprises du groupe Iliad, pour des « manquements » de sécurité concernant les données de leurs abonnés suite au piratage de plus de 24 millions de contrats en octobre 2024 La Commission nationale de l’informatique et des libertés (Cnil) a infligé 27 millions d’euros d’amende à Free Mobile et 15 millions à Free après un vol massif de données confidentielles de clients en 2024, selon une décision publiée mercredi au Journal officiel.
+
+## [Free et Free Mobile lourdement mis à l'amende pour le vol de données de clients en 2024](https://www.ledauphine.com/science-et-technologie/2026/01/14/free-et-free-mobile-lourdement-mis-a-l-amende-pour-un-vol-de-donnees-en-2024)  
+*Source : ledauphine.com | Publication : 2026-01-14*
+
+- Cybersécurité Free et Free Mobile lourdement mis à l'amende pour le vol de données de clients en 2024 Les deux entreprises, qui appartiennent au groupe Iliad, devront s'acquitter d'amendes de 15 et 27 millions d'euros.
+- La Commission nationale de l'informatique et des libertés (Cnil) a infligé 27 millions d'euros d'amende à Free Mobile et 15 millions à Free après un vol massif de données de clients en 2024, une décision parue ce mercredi au Journal officiel.
+- Dans le détail, la Cnil a sanctionné ces deux entreprises, qui appartiennent au groupe Iliad, pour des « manquements » de sécurité concernant les données confidentielles de leurs abonnés dans le cadre d'un piratage ayant touché plus de 24 millions de contrats en octobre 2024.
+- La Commission a également ordonné à Free et Free Mobile de « mettre en œuvre les mesures techniques et organisationnelles appropriées, dans un délai de trois mois, afin de garantir un niveau de sécurité adapté au risque ».
+
+## [La mise en œuvre du &quot;filtre anti-arnaques&quot; va finalement être confiée... - AEF info](https://www.aefinfo.fr/depeche/744127-la-mise-en-oeuvre-du-filtre-anti-arnaques-va-finalement-etre-confiee-a-l-office-anti-cybercriminalite-a-le-henanff)  
+*Source : aefinfo.fr | Publication : 2026-01-14*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : Le "filtre anti-arnaques", promesse d’Emmanuel Macron lors de la campagne présidentielle de 2022, va être mis en œuvre par l’Office anti-cybercriminalité, annonce Anne Le Hénanff, ministre déléguée à l’IA et au Numérique, lors d’une audition à l’Assemblée nationale, mardi 13 janvier 2026.
+- Il était initialement prévu que ce dispositif administratif de filtrage des sites malveillants, prévu par la loi "visant à sécuriser et réguler l’espace numérique", soit géré par Cybermalveillance.gouv.fr.
+- La ministre s’est engagée à publier rapidement les textes d’application de cette loi.
+
+## [Cyberattaque contre le ministère de l'Intérieur : une incroyable négligence est à l'origine de l'intrusion](https://www.01net.com/actualites/cyberattaque-contre-ministere-interieur-incroyable-negligence-origine-intrusion.html)  
+*Source : 01net.com | Publication : 2026-01-14*
+
+- Le mois dernier, le ministère de l’Intérieur a subi une cyberattaque.
+- Lors de l’attaque, qualifiée de « très grave » par Beauvau, des hackers ont consulté des fichiers de police sensibles, comme le TAJ (Traitement des antécédents judiciaires) ou le FPR (Fichier des Personnes Recherchées).
+- Les investigations menées par Beauvau ont démontré qu’une centaine de fiches du TAJ ont été exfiltrées par les cybercriminels.
+- Alors que l’enquête se poursuit, avec l’arrestation d’un jeune pirate de 22 ans à Limoges, Laurent Nuñez, l’actuel ministre de l’Intérieur, a été auditionné devant la commission des lois du Sénat au sujet de l’attaque.
+
+## [De France Travail à Leroy Merlin, ces vols de données qui ont marqué l'année 2025](https://www.lesechos.fr/tech-medias/hightech/de-france-travail-a-leroy-merlin-ces-vols-de-donnees-qui-ont-marque-lannee-2025-2209639)  
+*Source : lesechos.fr | Publication : 2026-01-14*
+
+- cybersécurité spécialisé dans la mesure et gestion de ce risque, qui vient de publier une étude sur le sujet.
+- Selon celui-ci, 88 millions de.
+
+## [L'IA, la cryptographie post-quantique et le satellite transforment la <b>cybersécurité</b> des télécoms](https://itsocial.fr/cybersecurite/cybersecurite-articles/lia-la-cryptographie-post-quantique-et-le-satellite-transforment-la-cybersecurite-des-telecoms/)  
+*Source : itsocial.fr | Publication : 2026-01-14*
+
+- Les réseaux télécoms constituent aujourd’hui l’autre infrastructure nerveuse de l’économie numérique, outre les infrastructures terrestres du cloud.
+- Les entreprises, les administrations, les utilisateurs, et les fournisseurs de services comptent sur leur disponibilité pour la production, la logistique, la finance et les usages collaboratifs.
+- Lorsque ces réseaux deviennent vulnérables, l’effet dépasse largement la simple interruption de service et se transforme en risque macro-économique, industriel et géopolitique.
+- Dans ce paysage, le rapport 2025–2026 du Global Research & Analysis Team de Kaspersky est un véritable révélateur de vulnérabilités en puissance.
+
+## [Quentin Le Thiec (Cert Santé) : « Les médecins doivent se former à la <b>cybersécurité</b> et s'y intéresser](http://www.lequotidiendumedecin.fr/hopital/securite-des-soins/quentin-le-thiec-cert-sante-les-medecins-doivent-se-former-la-cybersecurite-et-sy-interesser)  
+*Source : lequotidiendumedecin.fr | Publication : 2026-01-14*
+
+- Quentin Le Thiec (Cert Santé) : « Les médecins doivent se former à la cybersécurité et s’y intéresser » 0 RéactionsCommenter - Partager sur Facebook Facebook - Partager sur X.
+- - Partager sur Linkedin Linkedin - Partager par mail Mail - « Pompier du numérique », Quentin Le Thiec est pilote en réponse aux incidents cyber au Cert santé.
+- Ce service d’appui à la gestion des cybermenaces, rattaché à l’Agence du numérique en santé, veille sur les établissements de santé et médico-sociaux.
+- L’expert revient sur les cyberattaques récentes ayant visé des plateformes ou structures de santé et invite les médecins à être plus vigilants dans leurs pratiques.
 
 ## [Sekost et ImsCloud unissent leurs forces pour démocratiser le diagnostic <b>cybersécurité</b> ... - ITRnews](https://itrnews.com/articles/208453/sekost-et-imscloud-unissent-leurs-forces-pour-democratiser-le-diagnostic-cybersecurite-aupres-des-msp.html)  
 *Source : itrnews.com | Publication : 2026-01-13*
