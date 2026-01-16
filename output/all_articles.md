@@ -1,5 +1,161 @@
-# Résumés – 2026-01-15
+# Résumés – 2026-01-16
 
+
+## [Porsche-Livraisons 2025 en baisse de 10%, entre faible demande en Chine et règles ...](https://www.easybourse.com/international/news/1522499/porsche-livraisons-2025-en-baisse-10-entre-faible-demande-en-chine-regles-cybersecurite-en-europe.html)  
+*Source : easybourse.com | Publication : 2026-01-16*
+
+- Porsche-Livraisons 2025 en baisse de 10%, entre faible demande en Chine et règles cybersécurité en Europe 16 janvier (Reuters) - Porsche a fait état vendredi d'une baisse de 10% de ses ?livraisons de véhicules dans le monde en 2025, dans le sillage de ses concurrents Mercedes et BMW ?qui ont également publié des chiffres en baisse.
+- Le constructeur allemand de voitures de sport a déclaré ?avoir livré 279.449 véhicules en 2025, contre ?310.718 unités en 2024.
+- Alors que la croissance sur le marché nord-américain est restée stable, ?les ventes de ?Porsche en Chine, en Allemagne et dans ?le reste de l'Europe ont respectivement chuté de 26%, 16% et 13%.
+- Le constructeur a déclaré dans un ?communiqué que le déclin en Europe est dû aux réglementations européennes en matière de cybersécurité.
+
+## [ARINC MUSE, système mutualisé de Collins Aerospace, perturbe des vols dans toute l'Europe](https://www.acronis.com/fr/tru/posts/arincs-common-use-passenger-processing-system-muse-disruption-impacts-flights-across-europe/)  
+*Source : acronis.com | Publication : 2026-01-16*
+
+- Plusieurs grands aéroports européens, dont Heathrow, Bruxelles, Berlin et Dublin, ont signalé des perturbations affectant les systèmes d'enregistrement, d'embarquement et les bornes libre-service.
+- Ces interruptions ont été causées par l’attaque qui a visé MUSE, la plateforme de traitement des passagers de Collins Aerospace, utilisée dans de nombreux aéroports internationaux.
+- Auteur : Acronis Ce que l'on sait (et ce que l'on ignore encore) sur la cyberattaque visant les aéroports européens Résumé Plusieurs grands aéroports européens, dont Heathrow, Bruxelles, Berlin et Dublin, ont signalé des perturbations affectant les systèmes d'enregistrement, d'embarquement et les bornes libre-service.
+- Ces interruptions ont été causées par l’attaque qui a visé MUSE, la plateforme de traitement des passagers de Collins Aerospace, utilisée dans de nombreux aéroports internationaux.
+
+## [Cette action sous-évaluée de 17% à surveiller en 2026 - Les Affaires](https://www.lesaffaires.com/bourse/actualites-boursieres/cette-action-sous-evaluee-de-17-a-surveiller-en-2026/)  
+*Source : lesaffaires.com | Publication : 2026-01-16*
+
+- Cette action sous-évaluée de 17% à surveiller en 2026 Morningstar|Publié à 12h30 | Mis à jour à 12h32Palo Alto se lance dans deux acquisitions, mais vise néanmoins des marges de flux de trésoreries disponibles ajustées de 40% ou plus d’ici l’exercice 2028, contre 38% pour l’exercice 2025.
+- (Photo: Adobe Stock) Palo Alto Networks (PANW, 186$US) est dans une impasse: l’action de ce chef de file incontesté de la cybersécurité est restée stable en 2025.
+- Certes, la croissance des ventes a ralenti.
+- Néanmoins, nous estimons que l’action est à acheter, car elle se négocie à 17% en dessous de notre estimation de juste valeur de 225$US.
+
+## [Mettez à jour vos casques et enceintes Bluetooth: une faille permet à des hackers de ... - BFM](https://www.bfmtv.com/tech/cybersecurite/mettez-a-jour-vos-casques-et-enceintes-bluetooth-une-faille-permet-a-des-hackers-de-prendre-le-controle-de-centaines-de-millions-d-appareils-et-meme-d-ecouter-vos-conversations-ou-de-vous-localiser_AV-202601160792.html)  
+*Source : bfmtv.com | Publication : 2026-01-16*
+
+- Mettez à jour vos casques et enceintes Bluetooth: une faille permet à des hackers de prendre le contrôle de centaines de millions d’appareils et même d’écouter vos conversations ou de vous localiser A grand pouvoir, grande faille de sécurité?.
+- En lançant son protocole Fast pair en 2017, Google a grandement fluidifié la connexion entre un smartphone sous Android et un objet connecté, notamment les casques, les écouteurs et les enceintes Bluetooth.
+- Mais voilà, aussi pratique soit-il, il est victime d'une faille de sécurité qui permet à des personnes malintentionnées de savoir ce que vous écoutez, de vous écouter et même de vous localiser.
+- Des chercheurs en sécurité du Cosic (Computer Security and Industrial Cryptography) de l'université catholique belge de Louvain ont en effet révélé une série de vulnérabilités au sein de 17 accessoires audio utilisant Fast Pair et vendus par une dizaine d'entreprises qui ont pignon sur rue dont Google, Jabra, JBL, Logitech, Marshall, Nothing, Sony ou encore Xiaomi.
+
+## [Les Forces armées canadiennes offrent un cours sur les opérations de <b>cybersécurité</b> ... - Canada.ca](https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/01/les-forces-armees-canadiennes-offrent-un-cours-sur-les-operations-de-cybersecurite-militaires-aux-forces-armees-des-philippines.html)  
+*Source : canada.ca | Publication : 2026-01-16*
+
+- Les Forces armées canadiennes offrent un cours sur les opérations de cybersécurité militaires aux Forces armées des Philippines Communiqué de presse Le 16 janvier 2025 – Ottawa – Défense nationale/Forces armées canadiennes Le Commandement des cyberopérations des Forces armées canadiennes (COMCYBERFAC) donnera le Cours sur les opérations de cybersécurité militaires (MCSOC) à ses homologues aux Philippines du 19 au 23 janvier 2026.
+- Parrainé par le Programme d’instruction et de coopération militaires (PICM) du ministère de la Défense nationale et mené en partenariat avec le ministère de la Défense nationale des Philippines, ce cours améliore la cyberrésilience dans la région et renforce la coopération en matière de défense dans l’Indo-Pacifique.
+- Le MCSOC est un cours d’introduction de cinq jours qui présente des informations de base sur les cyberopérations défensives.
+- On met l’accent sur les compétences pratiques qui permettent de détecter et d’évaluer les cyberactivités malveillantes ciblant les réseaux gouvernementaux et militaires, ainsi que d’y réagir.
+
+## [<b>Cybersécurité</b> : La mairie d'Aubagne s'est fait hacker LR de rien | Le Canard enchaîné](https://www.lecanardenchaine.fr/politique/52883-le-mairie-d-aubagne-se-fait-hacker-lr-de-rien)  
+*Source : lecanardenchaine.fr | Publication : 2026-01-16*
+
+- Par Jérôme Canard Pendant plus d’un an, le LR Gérard Gazay a caché à ses administrés qu’un petit malin avait réussi à détourner en un simple clic le fruit de la cession d’un terrain municipal.
+- Soit 1,6 million d’euros qui se sont envolés, faute de contrôles suffisants… La commune d’Aubagne, dans les Bouches-du-Rhône, a beau afficher une dette colossale de 133 millions d’euros - l’une des plus élevées de France pour une commune de 47 000 habitants -, elle persiste à faire preuve d’une singulière nonchalance avec l’argent public… A l’automne 2023, la mairie décide de vendre au conseil départemental, pour 1,6 million d’euros, un terrain situé juste à côté de la caserne des pompiers.
+- La vente se déroule normalement… jusqu’à ce qu’un hacker s’introduise dans la boîte mail d’une assistante de la mairie et modifie le RIB de la commune.
+- Manque de bol, le notaire ne s’aperçoit pas que la domiciliation bancaire a changé, et le comptable public n’est pas présent le jour de la vente.
+
+## [L'usine connectée au cœur du Salon Global Industrie 2026 - IT SOCIAL](https://itsocial.fr/logiciel-agilite/logiciel-agilite-actualites/lusine-connectee-au-coeur-du-salon-global-industrie-2026/)  
+*Source : itsocial.fr | Publication : 2026-01-16*
+
+- Global Industrie 2026 fait de l’usine connectée le point d’ancrage de son édition, illustrant la transformation numérique à l’œuvre dans les filières industrielles françaises et européennes.
+- Du 30 mars au 2 avril à Paris Nord Villepinte, le salon met en lumière les plateformes d’IoT industriel, la convergence des systèmes de production et la valorisation de la donnée, tout en intégrant les enjeux de compétences et de souveraineté technologique.
+- L’usine connectée s’impose comme l’un des principaux axes de modernisation du secteur industriel.
+- En combinant la numérisation des équipements, l’automatisation avancée et l’analyse de données en temps réel, les industriels cherchent à optimiser la production, sécuriser les flux et renforcer la traçabilité.
+
+## [Dans la tête de l'adversaire : anticiper les attaques grâce à la Threat Intelligence - it social](https://itsocial.fr/cybersecurite/cybersecurite-livres-blancs/dans-la-tete-de-ladversaire-anticiper-les-attaques-grace-a-la-threat-intelligence-lb-landing-kaspersky/)  
+*Source : itsocial.fr | Publication : 2026-01-16*
+
+- Reprendre l’avantage face aux cyberattaquants suppose, pour les responsables de la sécurité, de détecter les menaces en amont, un enjeu auquel répondent aujourd’hui les techniques modernes de veille des cybermenaces.
+- La cybersécurité n’est plus une bataille opposant pare-feux et logiciels malveillants.
+- Il s’agit aujourd’hui d’une « course à l’armement » dans laquelle des équipes défensives sous pression affrontent des adversaires bien organisés.
+
+## [L'IA générative produit &quot;une élévation structurelle du niveau de la... - AEF info](https://www.aefinfo.fr/depeche/744319-l-ia-generative-produit-une-elevation-structurelle-du-niveau-de-la-cybermenace-panorama-du-clusif)  
+*Source : aefinfo.fr | Publication : 2026-01-16*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : "2025 est l’année de la concrétisation des premières réelles attaques dans le domaine de l’intelligence artificielle", constate Gérôme Billois, partner cybersecurity and digital trust chez Wavestone, à l’occasion de la présentation du "Panocrim" du Clusif, jeudi 15 janvier 2026.
+- L’IA permet "le renouveau des attaques classiques" et "ouvre aussi de nouvelles surfaces d’attaque", observe-t-il.
+- Marc-Antoine Brillant, chef de Viginum, constate lui aussi "un usage croissant de l’IA générative" par des puissances étrangères "pour mener de la désinformation", notamment en période électorale.
+
+## [Blue sur le chemin de SecNumCloud - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64354-blue-sur-le-chemin-de-secnumcloud.html)  
+*Source : linformaticien.com | Publication : 2026-01-16*
+
+- Le fournisseur de services en ligne annonce l'octroi du jalon J0 par l'ANSSI pour son offre IaaS « Blue Secure Cloud ».
+
+## [Ce fichier ZIP presque impossible à analyser cache un malware bien connu - Clubic](https://www.clubic.com/actualite-595573-ce-fichier-zip-presque-impossible-a-analyser-cache-un-malware-bien-connu.html)  
+*Source : clubic.com | Publication : 2026-01-16*
+
+- De retour fin 2025, Gootloader change de tactique.
+- Le malware s’appuie désormais sur une archive ZIP volontairement malformée pour faire trébucher les outils d’analyse, sans jamais empêcher l’exécution du script malveillant qu’elle transporte.
+- Actif depuis 2020, Gootloader se contente d’un rôle précis dans l’économie du ransomware, celui de l’intrusion initiale.
+- Une fois le système compromis, l’accès est cédé à d’autres acteurs plus visibles, souvent spécialisés dans le chiffrement et l’extorsion.
+
+## [Promouvoir la coopération en matière de <b>cybersécurité</b> et de transformation numérique avec ...](https://www.vietnam.vn/fr/thuc-day-hop-tac-an-ninh-mang-chuyen-doi-so-voi-lien-hop-quoc)  
+*Source : vietnam.vn | Publication : 2026-01-16*
+
+- Lors de la réunion, le ministre Luong Tam Quang a souhaité la bienvenue à M. Amandeep Singh Gill au ministère vietnamien de la Sécurité publique et a salué le rôle et les efforts des Nations Unies pour aider les pays, dont le Vietnam, à atteindre les objectifs de développement durable.
+- Le ministre Luong Tam Quang a déclaré que le gouvernement vietnamien promeut activement la science et la technologie, l'innovation et la transformation numérique, les intégrant progressivement comme nouveaux piliers du modèle de développement du pays.
+- Sur cette base, le ministre Luong Tam Quang a affirmé que le ministère vietnamien de la Sécurité publique privilégie toujours la coopération et une étroite coordination avec les agences des Nations Unies afin de renforcer les capacités de lutte contre la criminalité transnationale, de maintien de la paix , de promotion de l'égalité des sexes et de l'autonomisation des femmes, et de lutte contre le terrorisme… « Le ministère de la Sécurité publique remercie sincèrement les Nations Unies pour leur étroite coopération avec le Vietnam dans l'organisation réussie de la cérémonie de signature de la Convention des Nations Unies contre la cybercriminalité (Convention de Hanoï) en octobre 2025, considérant cela comme une étape importante dans le renforcement de la coopération internationale en matière de cybersécurité », a souligné le ministre Luong Tam Quang.
+- Soulignant l'exigence que « la transformation numérique aille de pair avec la sécurité », le ministre Luong Tam Quang a demandé aux Nations Unies de continuer à promouvoir au Vietnam des projets visant une transformation numérique sûre et inclusive, en mettant l'accent sur l'amélioration des compétences numériques et de la sécurité numérique communautaire, tout en développant les capacités en matière de cybersécurité et de protection des données.
+
+## [Vous recevez un SMS louche suivi d'un appel ? Attention à la redoutable arnaque à la ... - Actu.fr](https://actu.fr/economie/vous-recevez-un-sms-louche-suivi-d-un-appel-attention-a-la-redoutable-arnaque-a-la-double-detente_63707151.html)  
+*Source : actu.fr | Publication : 2026-01-16*
+
+- Les escrocs ne manquent pas d’air pour inventer de nouvelles manières de vous berner.
+- La dernière en date ?.
+- La bien nommée arnaque à la « double détente », qui combine un SMS et un appel pour tenter de vous soutirer de l’argent ou des informations confidentielles.
+- Plusieurs médias ont ainsi fait état de certaines personnes ayant subi cette attaque – ou du moins une tentative -, avec des sommes soutirées qui montent jusqu’à 2 400 euros.
+
+## [L'OFCS au WEF 2026 : une enceinte multilatérale pour discuter de cyberrésilience - Admin](https://www.bsv.admin.ch/fr/newnsb/ohUuhoYxBNyyO62WDAnkP)  
+*Source : bsv.admin.ch | Publication : 2026-01-16*
+
+- L’OFCS au WEF 2026 : une enceinte multilatérale pour discuter de cyberrésilience Berne, 16.01.2026 — La participation de Florian Schütz au Forum économique mondial 2026 (World Economic Forum, WEF) permet à l’Office fédéral de la cybersécurité (OFCS) de profiter de cette plateforme internationale pour approfondir le dialogue avec les milieux politiques, économiques et techniques sur des questions centrales pour la cybersécurité.
+- Pendant le WEF, l’OFCS organise notamment une session consacrée au leadership dans les technologies clés et à la souveraineté numérique dans le contexte actuel de tensions géopolitiques.
+- Comme les années précédentes, il apporte aussi son appui à l’organisation du WEF pour la protection du cyberespace.
+- La cybersécurité sera un thème important au WEF 2026 en général.
+
+## [Le Vietnam et l'ONU intensifient leur partenariat en matière de <b>cybersécurité</b>](https://lecourrier.vn/le-vietnam-et-lonu-intensifient-leur-partenariat-en-matiere-de-cybersecurite/1309618.html)  
+*Source : lecourrier.vn | Publication : 2026-01-16*
+
+- >> Vietnam - ONU : ensemble pour construire un avenir meilleur pour l’humanité >> Le voyage du dirigeant vietnamien va consolider les relations Vietnam - ONU >> Vietnam - ONU : une vision commune plaçant le citoyen au cœur du développement Lors d'une rencontre à Hanoï le 16 janvier avec Amandeep Singh Gill, secrétaire général adjoint des Nations unies et envoyé spécial du secrétaire général de l'ONU pour la technologie, Luong Tam Quang a indiqué que les conseils et l'assistance de l'ONU peuvent aider les pays en développement à accéder rapidement aux avancées scientifiques et technologiques et à renforcer progressivement leurs propres capacités technologiques.
+- Il a salué le rôle et les efforts de l'ONU pour soutenir les pays, dont le Vietnam, dans la réalisation des objectifs de développement durable (ODD).
+- Il a ajouté que le gouvernement vietnamien promeut activement la science et la technologie, l'innovation et la transformation numérique, les intégrant progressivement comme un nouveau pilier du modèle de développement du pays.
+- Le ministère de la Police accorde une grande importance à une coopération étroite avec les agences des Nations unies afin de renforcer les capacités de lutte contre la criminalité transnationale, le maintien de la paix, la promotion de l'égalité des sexes et l'autonomisation des femmes, ainsi que la lutte contre le terrorisme, a déclaré Luong Tam Quang.
+
+## [<b>Cybersécurité</b>, IA souveraine et cloud stratégique : l'État et les entreprises sous pression](https://www.alliancy.fr/cybersecurite-ia-souveraine-et-cloud-strategique-letat-et-les-entreprises-sous-pression-11268834-98e2-4ec7-a726-fdad4d2aae45)  
+*Source : alliancy.fr | Publication : 2026-01-16*
+
+- E-mail Profil Instagram Profil LinkedIn Site web Profil Twitter Chaîne YouTube 16 janvier 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [La <b>Cybercriminalité</b> arrête un consultant russe, que se préparait-il au Sénégal ? - Senenews](https://www.senenews.com/premium/la-cybercriminalite-arrete-un-consultant-russe-que-se-preparait-il-au-senegal_572837.html)  
+*Source : senenews.com | Publication : 2026-01-16*
+
+- La Cybercriminalité arrête un consultant russe, que se préparait-il au Sénégal ?.
+- Une enquête sur une affaire complexe de modification frauduleuse de données informatiques et de blanchiment de capitaux a conduit les autorités sénégalaises à interpeller quatre individus, dont un consultant russe, un consultant fiscal sénégalais, un gérant de société ivoirien et une professionnelle du marketing digital.
+- PCAN 2025 : L’intimité du vestiaire sénégalais dévoilée, comment Pape Thiaw a éliminé l’Egypte (vidéo) PRéforme de l’éducation : La refondation de l’école sénégalaise enclenchée, ce qui va changer PLa Cybercriminalité arrête un consultant russe, que se préparait-il au Sénégal ?.
+- PDette sénégalaise : Le FMI recadre Ousmane Sonko, après ses nouvelles déclarations » La rédaction vous conseille → Sénégal : 3 personnes arrêtées pour un site porno et prostitution en ligne, 2000 vidéos interdites saisies par la DSC - → CYBERCRIMINALITÉ : La DSC démantèle un vaste réseau d’escroquerie et défère deux individus !.
+
+## [Lionel Chmilewsky prend la direction d'Ekinops - Distributique.com](https://www.distributique.com/actualites/lire-lionel-chmilewsky-prend-la-direction-d-ekinops-36893.html)  
+*Source : distributique.com | Publication : 2026-01-16*
+
+- Durant sa carričre, Lionel Chmilewsky a dirigé de nombreuses sociétés au niveau national et international.
+- (Crédit Ekinops)) DG par intérim d'Ekinops durant une courte période, Philippe Moulin passe le relais ŕ Lionel Chmilewsky, qui dispose d'une forte expérience managériale.
+- Ekinops, le fournisseur de solutions de télécommunications et de cybersécurité SASE pour les opérateurs de télécommunications et les entreprises, change de DG avec l'arrivé aux manettes de Lionel Chmilewsky.
+- Nommé par le conseil d'administration de l'entreprise sous la houlette de son président Hugues Lepic, Lionel Chmilewsky remplace Philippe Moulin, qui a assuré la période de transition et qui va continuer ŕ exercer son rôle de directeur des opérations au sein de la structure.
+
+## [« Où habite l'utilisateur ? », comment Microsoft Copilot a pu révéler vos infos en un seul clic](https://www.numerama.com/cyberguerre/2160773-ou-habite-lutilisateur-comment-microsoft-copilot-a-pu-reveler-vos-infos-en-un-seul-clic.html)  
+*Source : numerama.com | Publication : 2026-01-16*
+
+- Les chercheurs ont décidé de le baptiser Reprompt.
+- Il s’agit là d’un flux d’attaque qui permet à un hacker de contourner tous les garde-fous mis en place par Microsoft pour protéger son outil d’IA Copilot.
+- Du moins le permettait, car les équipes de Varonis précisent dans leur étude parue le 14 janvier 2026, que Microsoft a reconnu le problème et l’a depuis corrigé.
+- Reste que ce procédé souligne une constante qui interroge la cybersécurité des outils basés sur des grands modèles de langage (LLM) : leur incapacité à correctement distinguer un prompt légitime d’utilisateur de celui d’un attaquant.
+
+## [45 millions de dossiers français exposés : cette base de données géante menace la vie ...](https://www.phonandroid.com/45-millions-de-dossiers-francais-exposes-cette-base-de-donnees-geante-menace-la-vie-privee-des-citoyens.html)  
+*Source : phonandroid.com | Publication : 2026-01-16*
+
+- 45 millions de dossiers français exposés : cette base de données géante menace la vie privée des citoyens Des experts en cybersécurité ont fait une découverte qui fait froid dans le dos : une base de données massive, compilant les informations personnelles de millions de Français, a été exposée sur un serveur cloud non sécurisé.
+- Un incident d’une ampleur rare qui menace directement la vie privée et l’identité numérique de ces citoyens.
+- Une équipe de chercheurs en cybersécurité de Cybernews a fait une découverte pour le moins inquiétante : une vaste base de données ouverte a exposé pendant une durée indéterminée les informations de millions de citoyens français sur un serveur cloud non protégé situé dans l’Hexagone.
+- Selon les experts, cette base hétéroclite aurait été constituée par « un courtier en données » ou « un collecteur criminel », qui aurait fusionné le fruit de plusieurs fuites de données.
 
 ## [<b>Cybersécurité</b> : un marché en plein boom ! | Les Echos Etudes](https://www.lesechos-etudes.fr/blog/espace-presse-22/cybersecurite-un-marche-en-plein-boom-13323)  
 *Source : lesechos-etudes.fr | Publication : 2026-01-15*
