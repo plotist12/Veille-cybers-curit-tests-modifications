@@ -1,5 +1,155 @@
-# Résumés – 2026-01-16
+# Résumés – 2026-01-17
 
+
+## [Crypto : Il perd 292 millions à cause d'un piège psychologique redoutable - TradingView](https://fr.tradingview.com/news/cointelegraph:53e28d06eb858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-17*
+
+- Crypto : Il perd 292 millions à cause d’un piège psychologique redoutable Un simple échange avec un faux service client a suffi à provoquer l’une des pertes les plus massives de l’histoire crypto.
+- Ce drame numérique, qui mêle ruse psychologique et technologie décentralisée, remet en question la sécurité réelle des wallets physiques, aussi sophistiqués soient-ils.
+- Un vol d’une ampleur historique facilité par une faille humaine Le 10 janvier 2026, aux alentours de 23h UTC, un détenteur de cryptomonnaies a été victime d’une attaque d’ingénierie sociale d’une rare efficacité.
+- Pensant s’adresser à un support technique officiel de Trezor, via un prétendu service nommé "Value Wallet", l’utilisateur a divulgué sa phrase de récupération.
+
+## [Dans l'Eure, des lycéens de seconde ont visité l'entreprise Schneider Electric - Actu.fr](https://actu.fr/normandie/les-andelys_27016/dans-leure-des-lyceens-de-seconde-ont-visite-lentreprise-schneider-electric_63707106.html)  
+*Source : actu.fr | Publication : 2026-01-17*
+
+- Quinze élèves de seconde inscrits en Bac pro spécialité Métiers de l’électricité et ses environnements connectés (MELEC) du lycée Jean-Moulin des Andelys (Eure) ont eu l’opportunité de découvrir l’environnement professionnel d’une grande entreprise.
+- Fin novembre, ils ont visité l’entreprise Schneider Electric du Vaudreuil, comme une dizaine d’élèves de première l’année précédente.
+- À lire aussi Les lycéens ont présenté jeudi 18 décembre 2025 ce qu’ils avaient retenu et appris lors de cette visite, notamment des temps d’échanges organisés avec des employés.
+- Équipés de diapositives et de quelques notes, ils ont restitué leurs connaissances dans une de leur salle de cours, sous les yeux avisés de plusieurs représentants de l’entreprise d’électricité.
+
+## [Le WEF 2026 &amp; son rapport &quot;Global Cybersecurity Outlook&quot; à Davos - Global Security Mag](https://www.globalsecuritymag.fr/le-wef-2026-son-rapport-global-cybersecurity-outlook-a-davos-les-deux.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-01-17*
+
+- Le WEF 2026 & son rapport "Global Cybersecurity Outlook" à Davos : les deux commentaires de Tenable janvier 2026 par Bernard Montel, Directeur Technique EMEA de Tenable À l’occasion de l’ouverture lundi prochain du Forum économique mondial (WEF) à Davos, qui réunira dirigeants politiques, chefs d’entreprise et figures majeures de la tech autour des grands enjeux géopolitiques, économiques et technologiques, le World Economic Forum a publié cette semaine la dernière édition de son Global Cybersecurity Outlook.
+- Ce rapport analyse la manière dont l’adoption accélérée de l’intelligence artificielle, la fragmentation géopolitique et l’aggravation des inégalités en matière de cybersécurité redessinent le paysage mondial des risques.
+- À mesure que les attaques deviennent plus rapides, plus complexes et plus inégalement réparties, les organisations et les gouvernements font face à une pression croissante pour s’adapter, et ce, dans un contexte marqué par des enjeux persistants de souveraineté et des écarts de capacités d’action toujours plus importants.
+- S’appuyant sur les retours de dirigeants internationaux, le rapport propose des enseignements concrets pour orienter les stratégies, les investissements et les politiques publiques.
+
+## [Tournée au CHU de Besançon, une mini-série sensibilise aux risques de cyberattaque dans ...](https://www.lesechos.fr/pme-regions/bourgogne-franche-comte/tournee-au-chu-de-besancon-une-mini-serie-sensibilise-aux-risques-de-cyberattaque-dans-les-hopitaux-2210283)  
+*Source : lesechos.fr | Publication : 2026-01-17*
+
+- cybermenaces.
+- Objectif : sensibiliser autrement aux risques systémiques qui pèsent sur l'hôpital, en matière de cybersécurité.
+- « Les mécanismes d.
+
+## [La police provinciale de Lam Dong assure proactivement la <b>cybersécurité</b> en prévision du ...](https://www.vietnam.vn/fr/cong-an-lam-dong-chu-dong-giu-vung-an-ninh-mang-truoc-them-dai-hoi-xiv-cua-dang)  
+*Source : vietnam.vn | Publication : 2026-01-17*
+
+- La police provinciale de Lam Dong déploie actuellement des forces en service 24h/24 et 7j/7 et effectue une surveillance dans le cyberespace.
+- Combattez de manière proactive dès le début et à distance.
+- Le 14e Congrès national du Parti est un événement politique particulièrement important pour le pays, car il définit l'orientation stratégique de son développement pour la nouvelle période.
+- Parallèlement aux préparatifs du congrès, les forces hostiles et réactionnaires continuent d'intensifier leurs activités subversives en utilisant des méthodes et des tactiques de plus en plus sophistiquées et complexes, notamment dans le cyberespace.
+
+## [YNeuro, cette start-up française qui veut remplacer les mots de passe par l'authentification neuronale](https://www.lefigaro.fr/secteur/high-tech/yneuro-cette-start-up-francaise-qui-veut-remplacer-les-mots-de-passe-par-l-authentification-neuronale-20260117)  
+*Source : lefigaro.fr | Publication : 2026-01-17*
+
+- YNeuro, cette start-up française qui veut remplacer les mots de passe par l’authentification neuronale TEST - Le Figaro a pu expérimenter NeuroID, la solution de la start-up tricolore YNeuro, qui souhaite remplacer les autres modes d’identification.
+- Une technologie non invasive, déroutante et prometteuse, déjà commercialisée.
+- Passer la publicitéLes mots de passe, empreintes digitales et méthodes de reconnaissance faciale vont-ils devenir obsolètes ?.
+- Début janvier, au CES 2026 de Las Vegas, l’un des plus importants événements tech au monde, la start-up française YNeuro a officialisé la commercialisation de NeuroID, une technologie d’identification basée sur la signature neuronale des individus, à destination des professionnels.
+
+## [ONU : renforcer la gouvernance technologique mondiale - Vietnam](https://lecourrier.vn/vietnam-onu-renforcer-la-gouvernance-technologique-mondiale/1309627.html)  
+*Source : lecourrier.vn | Publication : 2026-01-17*
+
+- >> Maintien de la paix : le Vietnam affirme un rôle croissant au sein des missions de l’ONU >> Le Vietnam continue d’affirmer son rôle, sa position et son identité au sein des Nations unies >> Le Vietnam et l'ONU intensifient leur partenariat en matière de cybersécurité Lors de la rencontre, Dang Hoàng Giang a salué le rôle des Nations Unies dans la promotion de la coopération en matière de sciences et de technologies, en particulier les efforts déployés pour la mise en œuvre du Pacte numérique mondial, contribuant à orienter la gouvernance technologique mondiale vers une approche inclusive, sûre et durable.
+- Il a souligné que le Vietnam considère le renforcement des capacités et l’accroissement de l’autonomie en sciences, technologies, innovation et transformation numérique comme une priorité stratégique.
+- Se félicitant de la participation du Secrétaire général adjoint à la 6e Conférence ministérielle numérique de l’ASEAN (ADGMIN 6), organisée à Hanoï, le vice-ministre a mis en avant le rôle central des Nations unies et de l’ASEAN dans la promotion du multilatéralisme et le renforcement de la coopération internationale en matière de sciences et de technologies, afin de garantir que les processus technologiques soient mis en œuvre de manière transparente et inclusive, dans le respect du droit international et au bénéfice de tous.
+- Dang Hoàng Giang a proposé que les Nations unies renforcent l’implication du secteur privé dans le domaine des sciences et des technologies, notamment par l’organisation de forums d’entreprises technologiques placés sous le parrainage et avec le soutien des Nations unies et de l’ASEAN.
+
+## [#panocrim #cyber #<b>cybersecurité</b> #protéiformes #carrefour #google #tech | Julien Pillot - LinkedIn](https://fr.linkedin.com/posts/jpillot_panocrim-cyber-cybersecurité-activity-7417841520013369344-DkL1)  
+*Source : fr.linkedin.com | Publication : 2026-01-17*
+
+- 🔥 Cybercriminalité : 2025, l'année où les digues ont cédé En marge de #Panocrim (Clusif), nous avons croisé nos regards et réflexions sur l'état du risque #cyber sur le plateau de Smart Tech (BSMART 4Change), toujours animé par l'excellente Delphine Sabattier (avec la super Emilie Rausch à la production).
+- Tandis que les non moins excellents Henri d'AGRAIN (Cigref) et Olivier Morel (Snowpack / HEXATRUST) ont apporté un éclairage technique et dressé un état des lieux exhaustif, j'ai tenu pour ma part à apporter quelques éléments de compréhension macro-économiques, notamment : ▶️ Des dépenses en #cybersecurité qui augmentent - signe d'une certaine prise de conscience du marché- mais nettement moins vite que le montant total des préjudices subis par les acteurs.
+- ▶️ Cet écart à toutes les chances de se creuser à court-moyen terme.
+- En cause : la baisse des coûts et l'accessibilité accrue (pour ne pas dire enfantine) des outils techniques permettant de mener des actions de cybermalveillance #protéiformes plus ou moins coordonnées, plus ou moins intenses, et de plus ou moins grande ampleur.
+
+## [Arnaques en ligne : cet outil d'Orange est capable de repérer les liens piégés - 01net.com](https://www.01net.com/actualites/arnaques-ligne-outil-orange-capable-reperer-liens-pieges.html)  
+*Source : 01net.com | Publication : 2026-01-17*
+
+- Cybersecure, la solution de cybersécurité d’Orange destinée à tous les Français, s’enrichit avec une nouvelle fonctionnalité.
+- Le portail, qui a vu le jour en 2024 en réponse à l’explosion des fuites de données en France, permet désormais de détecter les arnaques en ligne sur base d’un simple lien.
+- À lire aussi : Orange, Free, SFR et Bouygues vont continuer de stocker vos données, et ils n’ont pas le choix Comment savoir si un lien est piégé ?.
+- La plupart des menaces qui planent sur les internautes reposent sur l’envoi d’un lien malveillant.
+
+## [Les agences cyber de sept pays occidentaux alertent sur la <b>cybersécurité</b> OT - incyber news](https://incyber.org/article/agences-cyber-sept-pays-occidentaux-alertent-sur-cybersecurite-ot/)  
+*Source : incyber.org | Publication : 2026-01-17*
+
+- Les agences cyber de sept pays occidentaux alertent sur la cybersécurité OT Articles du même auteur : 1 17.01.26 Cybercriminalité Le conglomérat sud-coréen Kyowon victime d’une attaque par rançongiciel Lire 02.
+- 2 15.01.26 Souveraineté numérique Souveraineté numérique : AWS lance son European Sovereign Cloud Lire 02.
+- 3 4 13.01.26 Secops L’EDR d’HarfangLab certifié par l’agence fédérale allemande de cybersécurité Lire 01.
+
+## [Laurent Nuñez détaille la cyberattaque contre le ministère de l'Intérieur - INCYBER NEWS](https://incyber.org/article/laurent-nunez-detaille-cyberattaque-contre-ministere-interieur/)  
+*Source : incyber.org | Publication : 2026-01-17*
+
+- Laurent Nuñez détaille la cyberattaque contre le ministère de l’Intérieur Articles du même auteur : 1 17.01.26 Cybercriminalité Le conglomérat sud-coréen Kyowon victime d’une attaque par rançongiciel Lire 02.
+- 2 3 15.01.26 Souveraineté numérique Souveraineté numérique : AWS lance son European Sovereign Cloud Lire 02.
+- 4.
+
+## [Le conglomérat sud-coréen Kyowon victime d'une attaque par rançongiciel - incyber news](https://incyber.org/article/conglomerat-sud-coreen-kyowon-victime-attaque-par-rancongiciel/)  
+*Source : incyber.org | Publication : 2026-01-17*
+
+- Le conglomérat sud-coréen Kyowon victime d’une attaque par rançongiciel Articles du même auteur : 1 2 15.01.26 Souveraineté numérique Souveraineté numérique : AWS lance son European Sovereign Cloud Lire 02.
+- 3 4 13.01.26 Secops L’EDR d’HarfangLab certifié par l’agence fédérale allemande de cybersécurité Lire 01.
+
+## [L'arnaque au QR code évolue : voici la technique qui la rend encore plus dangereuse](https://www.presse-citron.net/larnaque-au-qr-code-evolue-voici-la-technique-qui-la-rend-encore-plus-dangereuse/)  
+*Source : presse-citron.net | Publication : 2026-01-17*
+
+- C’est un véritable jeu du chat et de la souris.
+- Comme les solutions de cybersécurité sont de plus en plus performantes pour détecter les liens malveillants dans les e-mails, des cybercriminels tentent de piéger leurs cibles avec des QR codes.
+- Cette variante du phishing, appelée quishing, consiste à envoyer un code à scanner par la cible, à la place d’un lien traditionnel, afin de déjouer les systèmes de protection.
+- Mais, comme les développeurs de ces systèmes sont aussi réactifs, des cybercriminels utilisent déjà une autre parade : au lieu d’envoyer le QR code malveillant sous forme d’image, ils dessinent celui-ci en utilisant du code HTML.
+
+## [Frédéric Fautrier nommé directeur général du département de l'Intérieur](https://lagazettedemonaco.com/actualites/politique/frederic-fautrier-nomme-directeur-general-du-departement-de-linterieur)  
+*Source : lagazettedemonaco.com | Publication : 2026-01-17*
+
+- You need to enable JavaScript to run this app.
+
+## [Les préoccupations de sécurité et les licenciements pèsent sur le prix de Polygon (POL)](https://fr.tradingview.com/news/invezz:963e9ce14b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-17*
+
+- Les préoccupations de sécurité et les licenciements pèsent sur le prix de Polygon (POL) Polygon (POL) a connu un début d’année difficile, les préoccupations de sécurité et la réduction de la main-d’œuvre pesant sur le sentiment du marché.
+- Au cours des dernières 24 heures, le prix de Polygon a chuté de 5,6 %, sous-performant par rapport au marché crypto plus large, qui n’a connu qu’une baisse de 1,52 %.
+- Malgré un fort gain sur 30 jours de 31,31 %, ce recul reflète des pressions croissantes à court terme sur le réseau blockchain.
+- Préoccupations de sécurité et risques écosystémiques L’écosystème Polygon a récemment été critiqué après qu’un groupe de ransomware, DeadLock, a détourné les contrats intelligents publics Polygon pour héberger des adresses de serveurs proxy.
+
+## [Comment le malware Gootloader exploite le format ZIP pour tromper les antivirus](https://www.phonandroid.com/comment-le-malware-gootloader-exploite-le-format-zip-pour-tromper-les-antivirus.html)  
+*Source : phonandroid.com | Publication : 2026-01-17*
+
+- Comment le malware Gootloader exploite le format ZIP pour tromper les antivirus Caché dans des dossiers ZIP, le malware Gootloader parvient à tromper la vigilance des solutions antivirus pour infecter nos appareils.
+- Gootloader est une famille de logiciels malveillants dont le but principal est d'infecter les appareils des utilisateurs avec des ransomwares.
+- Ce type de programme vole des données ou bloque l'accès à la machine, et les victimes doivent passer à la caisse si elles souhaitent récupérer l'accès à leur dispositif ou éviter que leurs informations personnelles ne soient revendues sur le dark web.
+- Gootloader est connu depuis plusieurs années déjà, mais il a effectué une réapparition remarquée en novembre 2025, sous une autre forme, qui empêche les antivirus de le détecter, et donc de le bloquer avant qu'il puisse agir.
+
+## [Un nouveau directeur général pour Ekinops, groupe de télécommunications implanté à Lannion](https://www.ouest-france.fr/high-tech/un-nouveau-directeur-general-pour-ekinops-groupe-de-telecommunications-implante-a-lannion-05d9ca7a-f2f1-11f0-9160-764ed90b3d12)  
+*Source : ouest-france.fr | Publication : 2026-01-17*
+
+- Lionel Chmilewsky aura pour mission de poursuivre la mise en œuvre du plan stratégique Bridge qui implique un positionnement sur la cybersécurité.
+- Le.
+
+## [Iran : l'ONG Netblocks observe une «très légère» reprise d'Internet - Le Figaro](https://www.lefigaro.fr/international/iran-l-ong-netblock-observe-une-tres-legere-reprise-d-internet-20260117)  
+*Source : lefigaro.fr | Publication : 2026-01-17*
+
+- Iran : l’ONG Netblocks observe une «très légère» reprise d'Internet L’ONG de surveillance de la cybersécurité Netblocks a annoncé samedi avoir décelé une «très légère» reprise de l’activité Internet en Iran après plus de 200 heures de coupure en lien avec le mouvement de contestation.
+- Passer la publicité Passer la publicitéL'ONG de surveillance de la cybersécurité Netblocks a annoncé samedi avoir décelé une «très légère» reprise de l'activité Internet en Iran après plus de 200 heures de coupure en lien avec le mouvement de contestation.
+- «Les mesures montrent une très légère augmentation de la connectivité en Iran ce matin passé la marque des 200 heures», indique cette organisation sur ses réseaux sociaux.
+- Toutefois «la connectivité générale reste à environ 2% des niveaux habituels et il n'y a pas de signe de reprise significative», ajoute-t-elle.
+
+## [Vœux 2026, <b>Cybersécurité</b>, Livre blanc, Souveraineté des infrastructures et Événements IA...](https://fr.linkedin.com/pulse/vœux-2026-cybersécurité-livre-blanc-souveraineté-des-infrastructures-tlo5e)  
+*Source : fr.linkedin.com | Publication : 2026-01-17*
+
+- 👀 Vœux 2026, Cybersécurité, Livre blanc, Souveraineté des infrastructures et Événements IA.
+- Bienvenue dans la Newsletter de janvier de Meritis.
+- Tous les mois, nos experts choisissent un sujet innovant et vous disent tout !.
+- #Data #Finance #Cloud #SoftwareEngineering et #GestionDeProjet 💡 Le groupe Meritis vous adresse ses meilleurs vœux pour cette année 2026 Dans un contexte de transformations profondes et de choix structurants, les organisations doivent plus que jamais arbitrer avec clarté, sécuriser leurs trajectoires et maîtriser l’impact de leurs décisions technologiques.
+
+## [Brèche de sécurité dans un CIUSS : « rien d'étonnant », dit un expert | OHdio](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/2274760/employes-un-ciusss-ont-eu-acces-aux-donnees-bancaires-leurs-collegues)  
+*Source : ici.radio-canada.ca | Publication : 2026-01-17*
+
+- « Je n’en suis pas tombé en bas de ma chaise en apprenant ça », lance l’expert en cybersécurité Jean-Philippe Décarie-Mathieu, qui convient toute de même que cette brèche est choquante.
+- Pendant six ans, des informations très sensibles ont pu être consultées par des gens qui n’étaient pas autorisés à le faire, notamment le nom, le numéro d’employé, le numéro de transit bancaire et d’autres détails.
+- Cette fuite ne surprend pas Jean-Philippe Décarie-Mathieu, qui considère le milieu de la santé comme problématique en ce qui concerne la protection des informations privées.
+- « Il n’y a jamais d’argent pour la cybersécurité… jusqu’à ce qu’un problème arrive.
 
 ## [Porsche-Livraisons 2025 en baisse de 10%, entre faible demande en Chine et règles ...](https://www.easybourse.com/international/news/1522499/porsche-livraisons-2025-en-baisse-10-entre-faible-demande-en-chine-regles-cybersecurite-en-europe.html)  
 *Source : easybourse.com | Publication : 2026-01-16*
