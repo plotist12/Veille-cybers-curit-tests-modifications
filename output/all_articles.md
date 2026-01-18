@@ -1,5 +1,159 @@
-# Résumés – 2026-01-17
+# Résumés – 2026-01-18
 
+
+## [Crypto : 80 % des projets piratés s'effondrent, mais 2026 pourrait inverser la tendance](https://fr.tradingview.com/news/cointelegraph:7e785ba46b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-18*
+
+- Crypto : 80 % des projets piratés s'effondrent, mais 2026 pourrait inverser la tendance Près de quatre projets crypto sur cinq ne se relèvent jamais après un piratage.
+- Bien plus que les pertes financières, c’est la confiance des utilisateurs qui s’effondre.
+- Pourtant, une dynamique nouvelle pourrait changer la donne dès 2026.
+- Une crise de confiance plus que de cybersécurité Lorsqu’un protocole décentralisé est attaqué, l’enjeu immédiat dépasse la simple question des fonds dérobés.
+
+## [PARIS : <b>Cybersécurité</b> - Le malware « SantaStealer » et les arnaques à l'IA menacent les soldes](https://presseagence.fr/paris-cybersecurite-le-malware-santastealer-et-les-arnaques-a-lia-menacent-les-soldes/)  
+*Source : presseagence.fr | Publication : 2026-01-18*
+
+- PARIS : Cybersécurité – Le malware « SantaStealer » e… Partager : PARIS : Cybersécurité – Le malware « SantaStealer » et les arnaques à l’IA menacent les soldes Les experts de Cybernews alertent sur la persistance de menaces sophistiquées nées durant les fêtes.
+- Si la période des achats de Noël est désormais derrière nous, les cybercriminels, eux, ne prennent pas de vacances.
+- En ce début d’année 2026, les menaces identifiées en décembre continuent de peser lourdement sur l’économie numérique.
+- Stefanie Schappert, journaliste senior pour le média spécialisé Cybernews, dresse un bilan inquiétant de la saison : la générosité des consommateurs s’est transformée en opportunité de prédation pour les pirates informatiques, une tendance qui se confirme en ce mois de janvier.
+
+## [La <b>cybersécurité</b> au cœur de cet évènement du lycée Monge de Charleville-Mézières](https://www.lardennais.fr/id779659/article/2026-01-18/la-cybersecurite-au-coeur-de-cet-evenement-du-lycee-monge-de-charleville)  
+*Source : lardennais.fr | Publication : 2026-01-18*
+
+- Pour accéder au BTS SIO, il faut être titulaire d'un baccalauréat général, technologique ou professionnel avec une composante scientifique et/ou.
+
+## [<b>Cybersécurité</b>: Pontega Capital s'apprête à acquérir 55% de Sekera Services](https://www.leconomiste.com/cybersecurite-pontega-capital-sapprete-a-acquerir-55-de-sekera-services/)  
+*Source : leconomiste.com | Publication : 2026-01-18*
+
+- Cybersécurité : Pontega Capital s'apprête à acquérir 55% de Sekera Services.
+- Par Khadija SKALLI | Edition N°:7178 Le 18/01/2026.
+- La suite de cet.
+
+## [<b>Cybersécurité</b> : la résilience, nouvel avantage compétitif des entreprises françaises - Forbes France](https://www.forbes.fr/technologie/cybersecurite-la-resilience-nouvel-avantage-competitif-des-entreprises-francaises/)  
+*Source : forbes.fr | Publication : 2026-01-18*
+
+- Une contribution de Damien Gbiorczyk, expert en cyber-résilience chez Illumio Mais cette promesse ne tient plus face à la réalité économique.
+- En 2024, près de 65 % des entreprises françaises ont subi au moins un incident cyber, selon Cybermalveillance.gouv.
+- La même année, l’ANSSI a observé une hausse de plus de 30 % des attaques par rançongiciel, touchant désormais massivement les PME et les collectivités locales.
+- La cybermenace n’est plus marginale : elle est devenue structurelle.
+
+## [A La Louvière, le CHU Tivoli face aux nouvelles menaces : &quot;Il y a régulièrement des ... - L'Avenir](https://www.lavenir.net/regions/mons-centre/la-louviere/2026/01/18/a-la-louviere-le-chu-tivoli-face-aux-nouvelles-menaces-il-y-a-regulierement-des-tentatives-de-cyberattaque-PCLZ2MHUXVBHTI3OUMR4OPGNJA/)  
+*Source : lavenir.net | Publication : 2026-01-18*
+
+- A La Louvière, le CHU Tivoli face aux nouvelles menaces : "Il y a régulièrement des tentatives de cyberattaque" La cybersécurité est devenue un enjeu essentiel de nos hôpitaux.
+- Exemple au CHU Tivoli où le problème n'est pas pris à la légère.
+- Publié le 18-01-2026 à 12h01 - Les hôpitaux sont en première ligne.
+- Pas seulement face aux maladies, mais aussi face aux cyberattaques.
+
+## [Vie privée en ligne : se protéger contre le vol d'identité avec un VPN - Les Numériques](https://www.lesnumeriques.com/vpn/vie-privee-en-ligne-se-proteger-contre-le-vol-d-identite-avec-un-vpn-a247034.html)  
+*Source : lesnumeriques.com | Publication : 2026-01-18*
+
+- Vie privée en ligne : se protéger contre le vol d’identité avec un VPN Protégez vos données personnelles et limitez les risques de vol d’identité grâce aux solutions de cybersécurité telles que le VPN ou Proton Drive.
+- Les meilleurs VPN du moment À cette ère d’hyperconnectivité, l'usage d'internet expose inévitablement nos données confidentielles à des risques de fuites, de vol et d'usage abusif.
+- L'identité numérique devient particulièrement vulnérable.
+- En outre, la multiplication de nouveaux outils tech facilitent les escroqueries et les cas d'usurpation d'image.
+
+## [Nouvelle année, nouvelles <b>cybermenaces</b> : comment rester en sécurité en ligne en 2026](https://www.neozone.org/astuces/nouvelle-annee-nouvelles-cybermenaces-comment-rester-en-securite-en-ligne-en-2026/)  
+*Source : neozone.org | Publication : 2026-01-18*
+
+- Les cybercriminels s’améliorent, et pas dans le bon sens !.
+- - Le phishing a pris un coup de jeune : adieu les mails mal écrits !.
+- - L’IA aide les arnaqueurs à créer des faux sites et des messages réalistes.
+- - Protégez-vous avec des mots de passe costauds et des mises à jour régulières.
+
+## [Jonathan James - Le plus jeune hacker emprisonné aux USA | Posts | Le site de Korben](https://korben.info/jonathan-james-plus-jeune-hacker-emprisonne-usa.html)  
+*Source : korben.info | Publication : 2026-01-18*
+
+- Je pense que Jonathan James aurait mérité mieux que cette fin tragique.
+- Il aurait pu devenir un expert en cybersécurité , un consultant, un formateur.
+
+## [40 000 victimes et plus de 2,5 milliards FCFA détournés : la DSC démantèle ... - LACTUACHO.COM](https://www.lactuacho.com/40-000-victimes-et-plus-de-25-milliards-fcfa-detournes-la-dsc-demantele-une-escroquerie-en-ligne-dampleur-historique/)  
+*Source : lactuacho.com | Publication : 2026-01-18*
+
+- La Division spéciale de la cybersécurité (DSC) a levé le voile sur l’une des plus vastes escroqueries numériques jamais enregistrées au Sénégal.
+- Baptisée SEYP Sénégal, cette fraude transnationale, savamment organisée depuis l’étranger, a fait près de 40 000 victimes et occasionné un préjudice financier dépassant les 2,5 milliards de francs CFA.
+- Créée en 2018 et rattachée à la Direction de la police judiciaire, la Division spéciale de la cybersécurité (DSC) s’est imposée comme un maillon central dans la lutte contre la cybercriminalité au Sénégal.
+- Courant l’année 2025, cette unité spécialisée a élucidé plusieurs infractions complexes, dont l’une des plus retentissantes reste la fraude en ligne dénommée SEYP Sénégal, selon la revue Main courante, publication semestrielle de la Police nationale relayée par le quotidien EnQuête.
+
+## [Pourquoi les PDG et les DSI sont divisés sur les risques cybernétiques liés à l'IA](https://fr.tradingview.com/news/invezz:334dfc251b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-18*
+
+- Pourquoi les PDG et les DSI sont divisés sur les risques cybernétiques liés à l’IA L’intelligence artificielle transforme la cybersécurité plus rapidement que de nombreuses entreprises ne peuvent ajuster leurs défenses.
+- Elle aide les organisations à détecter les menaces plus tôt, à automatiser les réponses et à corriger les vulnérabilités plus rapidement.
+- Mais ces mêmes outils sont également utilisés par les cybercriminels pour amplifier les attaques, créer un phishing plus intelligent et exploiter rapidement les faiblesses.
+- Une nouvelle enquête menée par l’assureur d’entreprise Axis Capital met en lumière comment ce changement crée une division notable au sein de l’équipe dirigeante.
+
+## [Garantir une <b>cybersécurité</b> absolue pour le 14e Congrès national du Parti. - Vietnam.vn](https://www.vietnam.vn/fr/bao-dam-tuyet-doi-an-ninh-mang-phuc-vu-dai-hoi-xiv-cua-dang)  
+*Source : vietnam.vn | Publication : 2026-01-18*
+
+- Non contents de déformer et de diffamer des individus, ces derniers ont également falsifié des documents d'organismes centraux, diffusant de fausses informations sur des mesures disciplinaires prises à l'encontre de fonctionnaires, dans le but de semer la confusion et d'éroder la confiance du public.
+- Parallèlement, ils ont lancé des cyberattaques ciblées contre les systèmes d'information critiques du Parti et de l'État.
+- En réponse à cette situation, le ministère de la Sécurité publique a mis en œuvre de manière proactive de nombreux plans et stratégies clés pour prévenir et combattre efficacement les cyberattaques et l'espionnage, garantissant ainsi la sécurité absolue des systèmes d'information nationaux critiques au service du 14e Congrès national du Parti communiste vietnamien.
+- Plus précisément, le Département de la cybersécurité et de la prévention de la cybercriminalité, en coordination avec le Centre national de cybersécurité, a mis en œuvre un ensemble complet de solutions opérationnelles et techniques modernes.
+
+## [Phishing, faux colis, escroqueries : les dangers après la fuite de données chez ... - Europe Infos](https://www.europe-infos.fr/cyberattaque/7577/phishing-faux-colis-escroqueries-les-dangers-apres-la-fuite-de-donnees-chez-relais-colis-et-mondial-relay/)  
+*Source : europe-infos.fr | Publication : 2026-01-18*
+
+- Sommaire Relais Colis, l’un des leaders de la livraison en France, se retrouve au cœur d’une tempête numérique.
+- En 2025, une cyberattaque massive a exposé des données personnelles de ses utilisateurs.
+- Pas de données financières compromises, mais le danger est ailleurs : le risque d’arnaques à la livraison explose.
+- Dans un monde où les escroqueries en ligne deviennent monnaie courante, cette attaque souligne la vulnérabilité des systèmes de livraison et la sophistication croissante des cybercriminels.
+
+## [40 MILLE VICTIMES - 2,5 MILLIARDS FCFA DÉTOURNÉS : Une fraude géante mise à nu](https://www.enqueteplus.com/content/40-mille-victimes-25-milliards-fcfa-détournés-une-fraude-géante-mise-à-nu)  
+*Source : enqueteplus.com | Publication : 2026-01-18*
+
+- Une fraude géante mise à nu Les éléments de la Division spéciale de la cybersécurité (DSC) ont mis au jour, dans la plus grande discrétion, l’une des plus grandes fraudes de l’année 2025.
+- Connue sous le nom de SEYP Sénégal, cette escroquerie en ligne a fait près de 40 000 victimes et permis le détournement de plus de 2,5 milliards de francs CFA.
+- Le chef de la DSC revient sur l’opération hors norme.
+- Créée en 2018, la Division spéciale de la cybersécurité (DSC) est une entité de la Direction de la police judiciaire spécialisée dans la lutte contre la criminalité et la délinquance liées au cyberespace.
+
+## [<b>Cybercriminalité</b> en Afrique : L'opération «Sentinel» frappe un grand coup avec 574 arrestations](https://lequotidien.sn/cybercriminalite-en-afrique-loperation-sentinel-frappe-un-grand-coup-avec-574-arrestations/)  
+*Source : lequotidien.sn | Publication : 2026-01-17*
+
+- Sous la coordination d’Interpol, une offensive d’envergure, menée dans 19 pays africains, a permis de démanteler des réseaux criminels sophistiqués.
+- Entre saisies de millions de dollars et neutralisation de serveurs, les Forces de l’ordre freinent l’expansion du rançongiciel et de l’extorsion numérique sur le continent.
+- Un coup d’arrêt à une menace en pleine expansion.
+- L’opération Sentinel, menée du 27 octobre au 27 novembre, a révélé l’ampleur de la cybercriminalité en Afrique.
+
+## [Real Time Situational Awareness - Avant de Cliquer - Contact](https://avantdecliquer.com/rta/)  
+*Source : avantdecliquer.com | Publication : 2026-01-17*
+
+- Bénéficiez de nos solutions Real Time Situational Awareness : détection, communication, sensibilisation.
+- Grâce à un ensemble de fonctionnalités (extension navigateur, agent Windows, etc.) nous sensibilisons en temps réel l’utilisateur selon ses actions quotidiennes, le tout en fonction du contexte de votre organisation et des ses canaux de communication (Slack, Teams, etc.).
+- Vous êtes pressé de devenir partenaire ?.
+- Appelez-nous au 02 79 49 15 77 ou envoyez un e-mail à contact@avantdecliquer.com Pourquoi devenir partenaire ?.
+
+## [Microsoft et la police européenne ont fermé avec succès RedVDS, le centre mondial de la ...](https://voi.id/fr/teknologi/551740)  
+*Source : voi.id | Publication : 2026-01-17*
+
+- JAKARTA - Microsoft et la police européenne ont fermé RedVDS, un site fournissant une infrastructure pour diverses actions de cybercriminalité.
+- Dans cette opération, Microsoft a réussi à saisir un site Web jugé dangereux.
+- En lançant de PC Mag, le domaine principal de RedVDS est utilisé pour faciliter des attaques de piratage dans le monde entier.
+- La plate-forme RedVDS est connue pour opérer depuis 2017 en offrant un accès à des machines virtuelles Windows à un prix modique.
+
+## [Les tarifs bancaires vont augmenter de 3% en moyenne au 1er février - Capital](https://www.capital.fr/votre-argent/les-tarifs-bancaires-vont-augmenter-de-3-en-moyenne-au-1er-fevrier-1522918)  
+*Source : capital.fr | Publication : 2026-01-17*
+
+- Les frais bancaires vont encore augmenter.
+- L’association nationale de consommateurs et usagers CLCV (Consommation, logement et cadre de vie) a analysé les tarifs appliqués par les banques en 2026 en comparaison à ceux de 2025.
+- Elle constate une augmentation moyenne de 3% au 1er fevrier 2026.
+- Mais cette hausse annuelle n’est pas isolée.
+
+## [Windows 11 : reprendre le contrôle de ses favoris Edge et anticiper la fin des Collections](https://www.linformatique.org/gestion-favoris-edge-windows-11-guide/)  
+*Source : linformatique.org | Publication : 2026-01-17*
+
+- Avec la fin du support de Windows 10 actée, Microsoft Edge sous Windows 11 est devenu la clé de voûte de nos environnements numériques.
+- Si la synchronisation et la restauration native ont fiabilisé le navigateur, l’année 2026 marque un tournant stratégique : l’incertitude pesant sur la fonctionnalité « Collections » oblige les utilisateurs à revoir leur organisation.
+- Voici comment structurer durablement vos ressources web.
+- L’essentiel - Accéder et piloter : la méthode rapide - Hygiène numérique : nettoyer et sécuriser - Stratégie 2026 : abandonner les Collections ?.
+
+## [Micro-entrepreneurs 2026 : Opportunités et nouvelles règles - Economie et Cie](https://economiesetcie.com/opportunites-micro-entrepreneurs-2026/)  
+*Source : economiesetcie.com | Publication : 2026-01-17*
+
+- Sur le marché français, les micro-entrepreneurs avancent en terrain paradoxal : jamais les outils n’ont été aussi puissants pour lancer une activité seul, et jamais l’environnement n’a semblé aussi normé.
+- Entre l’essor de l’intelligence artificielle, la montée des exigences de cybersécurité, la transition écologique accélérée et la santé numérique qui s’installe dans le quotidien, les opportunités 2026 se dessinent clairement pour qui sait lire les signaux.
+- Mais ces perspectives ne se résument pas à “trouver une idée” : elles se jouent aussi dans la maîtrise des réglementations, de la fiscalité, des obligations numériques et de la relation client, devenue plus volatile et plus exigeante.
+- Dans ce paysage, on peut suivre le fil d’une histoire simple : celle de Lina, graphiste devenue indépendante, et de Karim, ancien technicien informatique reconverti.
 
 ## [Crypto : Il perd 292 millions à cause d'un piège psychologique redoutable - TradingView](https://fr.tradingview.com/news/cointelegraph:53e28d06eb858:0/)  
 *Source : fr.tradingview.com | Publication : 2026-01-17*
