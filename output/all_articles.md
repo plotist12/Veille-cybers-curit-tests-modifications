@@ -1,5 +1,151 @@
-# Résumés – 2026-01-18
+# Résumés – 2026-01-19
 
+
+## [Cathy Alegria, Xerfi - Comment passer de simple fournisseur à partenaire stratégique ...](https://www.xerficanal.com/economie/emission/Cathy-Alegria-Comment-passer-de-simple-fournisseur-a-partenaire-strategique-oom-sur-le-marche-de-la-dematerialisation_3754513.html)  
+*Source : xerficanal.com | Publication : 2026-01-19*
+
+- cybersécurité , de valorisation des données et de conseil.
+- #66e8e1 ÉCONOMIE Cybersécurité : sous les normes, la croissance Alix Merle 12/01/2026.
+
+## [Les entreprises ne consultent pas la <b>cybersécurité</b> avant de prendre des décisions stratégiques](https://tiinside.com.br/fr/19/01/2026/Les-entreprises-ne-consultent-pas-la-cybersécurité-avant-de-prendre-des-décisions-stratégiques./)  
+*Source : tiinside.com.br | Publication : 2026-01-19*
+
+- Une autre étude d'EY, intitulée « Perspectives sur le leadership mondial en cybersécurité », indique que la cybersécurité est responsable de 11 % à 20.
+
+## [Systancia annonce la nomination de Xavier Lefaucheux au poste de Chief Revenue Officer](https://www.globalsecuritymag.fr/systancia-annonce-la-nomination-de-xavier-lefaucheux-au-poste-de-chief-revenue.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-01-19*
+
+- Systancia annonce la nomination de Xavier Lefaucheux au poste de Chief Revenue Officer janvier 2026 par LA REDACTION DE GS MAG Portée par une dynamique de croissance rentable amplifiée en 2025, Systancia renforce son équipe de direction avec l’arrivée de Xavier Lefaucheux au poste de Chief Revenue Officer, avec l’objectif d’accélérer la réussite de cyberelements en Europe et sur les marchés stratégiques de la cybersécurité.
+- En 2025, Systancia a amplifié sa trajectoire de croissance rentable, avec une rentabilité en nette progression, portée par le succès de cyberelements, plateforme IAM Zero Trust nativement SaaS, qui a généré une forte augmentation des revenus SaaS.
+- Cette dynamique repose sur la capacité de cyberelements à déployer en 3 minutes une plateforme permettant à toute organisation de sécuriser les accès à ses environnements IT et OT.
+- C’est dans ce contexte de forte accélération que Systancia renforce sa gouvernance en accueillant Xavier Lefaucheux au poste de Chief Revenue Officer.
+
+## [Edox muscle sa stratégie <b>cybersécurité</b> en intégrant Sxipher dès 2026 - ITchannel](https://itchannel.info/articles/208510/edox-muscle-sa-strategie-cybersecurite-en-integrant-sxipher-des-2026.html)  
+*Source : itchannel.info | Publication : 2026-01-19*
+
+- Veuillez activer Javascript.
+
+## [<b>Cybersécurité</b> en santé : les formations APSSIS 2026 au cœur … - DSIH](https://dsih.fr/articles/6143/cybersecurite-en-sante-les-formations-apssis-2026-au-cur-des-enjeux-reglementaires-et-organisationnels)  
+*Source : dsih.fr | Publication : 2026-01-19*
+
+- Publicité en cours de chargement... Cybersécurité en santé : les formations APSSIS 2026 au cœur des enjeux réglementaires et organisationnels Des formations ancrées dans les enjeux du secteur santé La cybersécurité des systèmes d’information constitue un enjeu central pour les établissements de santé, confrontés à la fois à une intensification des menaces et à un renforcement des obligations réglementaires.
+- La directive européenne NIS 2, en cours de déploiement, illustre cette évolution en élargissant le périmètre des organisations concernées et en renforçant les exigences en matière de gouvernance et de gestion des risques.
+- Dans ce contexte, l’APSSIS (Association pour la Sécurité des Systèmes d’Information de Santé) propose en 2026 plusieurs formations consacrées à la sécurité des systèmes d’information de santé, en lien avec les problématiques rencontrées par les acteurs du secteur.
+- NIS 2 et EBIOS RM au cœur des contenus Les programmes de formation intègrent notamment les enjeux liés à la directive NIS 2, tant sur le plan organisationnel que réglementaire.
+
+## [L'Europe veut mieux lutter contre la tech chinoise... mais ne sait toujours pas comment](https://www.01net.com/actualites/leurope-veut-mieux-lutter-contre-la-tech-chinoise-mais-peine-a-trouver-un-consensus-sur-la-methode.html)  
+*Source : 01net.com | Publication : 2026-01-19*
+
+- Mieux se protéger de l’espionnage économique et des cyberattaques : mardi 20 janvier, la Commission européenne présentera la révision du Cybersecurity Act, son règlement sur la cybersécurité.
+- Comme la Chine l’a récemment fait, en excluant du pays les logiciels de cybersécurité considérés comme non fiables, la future législation européenne cherche aussi à interdire les sociétés à risque des marchés sensibles ou stratégiques.
+- L’objectif : se prémunir de pressions de pays tiers et de dépendance dangereuse, en plus de l’espionnage et des attaques informatiques.
+- Reste à savoir quels fournisseurs et quels marchés seront concernés : un sujet politiquement brûlant qui a déjà poussé la Commission européenne à retarder d’une semaine la présentation du texte.
+
+## [Vulnérabilité Workflow n8n | CVE-2026-21858 - Stormshield](https://www.stormshield.com/fr/actus/alerte-securite-cve-2026-21858/)  
+*Source : stormshield.com | Publication : 2026-01-19*
+
+- Une vulnérabilité critique impactant la plateforme d’automatisation de workflow n8n et identifiée par la référence CVE-2026-21858, a été publiée le 07 janvier 2026.
+- Elle obtient un score CVSS v3.1 de 10,0.
+- Il convient de porter une attention particulière à CVE-2026-21858, car des preuves de concept sont disponibles publiquement.
+- Le vecteur initial de la vulnérabilité n8n La vulnérabilité CVE-2026-21858 permet à un attaquant non-authentifié une lecture arbitraire de fichiers stockés sur la plateforme, ce qui peut mener jusqu’à l’usurpation d’une session administrateur.
+
+## [<b>Cybercriminalité</b> et finance numérique : un atelier régional soutenu par les États-Unis à Maurice](https://defimedia.info/cybercriminalite-et-finance-numerique-un-atelier-regional-soutenu-par-les-etats-unis-maurice)  
+*Source : defimedia.info | Publication : 2026-01-19*
+
+- La cérémonie de lancement de l’atelier régional sur la cybercriminalité, les actifs virtuels et les preuves numériques s’est tenue le 19 janvier à l’Integrated Customs Clearance Centre à Plaine-Magnien.
+- Cet atelier est organisé par le ministère américain de la Justice (DOJ), à travers le Bureau du développement, de l’assistance et de la formation des procureurs à l’étranger (OPDAT), en collaboration avec le Bureau fédéral d’enquête américain (FBI).
+- L’initiative vise à renforcer les capacités des participants en matière d’enquêtes et de poursuites liées à la cybercriminalité, aux actifs virtuels et aux preuves numériques.
+- Elle repose sur le partage de bonnes pratiques, d’expériences concrètes et sur des exercices pratiques destinés à améliorer la compréhension des mécanismes financiers numériques et des méthodes d’investigation associées.
+
+## [Une brise salvatrice : l'actu IT B2B de 2025 en dessins | LeMagIT](https://www.lemagit.fr/actualites/366637555/Une-brise-salvatrice-lactu-IT-B2B-de-2025-en-dessins)  
+*Source : lemagit.fr | Publication : 2026-01-19*
+
+- FranÃ§ois Cointe-LeMagIT Une brise salvatrice : l’actu IT B2B de 2025 en dessins Pour diriger les projets IT, il ne faut pas étudier que les bonnes pratiques, il y a aussi un côté obscur de l’informatique, le côté des bugs… celui des technologies qui multiplient les promesses qu’elles peinent à tenir, malgré les risques d’enlisement.
+- Les technologies changent et progressent, les hommes, eux, ne changent pas.
+- Se souvenir de ce qui n’a pas marché, c’est anticiper sur ce qui ne marchera pas demain.
+- Aussi, pour se souvenir du temps qui passe et des bugs qui s’effacent, voici pour notre 15e album la rétrospective de l’année 2025 à travers les dessins parus dans Le MagIT.
+
+## [Sekost signe son premier accord de distribution avec ImsCloud - ChannelBiz |](https://www.channelbiz.fr/2026/01/19/sekost-signe-son-premier-accord-de-distribution-avec-imscloud/)  
+*Source : channelbiz.fr | Publication : 2026-01-19*
+
+- L’éditeur français de solutions de diagnostic de cybersécurité franchit une nouvelle étape dans sa stratégie de croissance en s’associant à ImsCloud, hébergeur et distributeur MSP.
+- Sekost, éditeur français de solutions de diagnostic de cybersécurité, annonce la signature de son premier contrat de distribution avec ImsCloud.
+- Ce partenariat intervient quelques mois après l’intégration de Sekost au sein du groupe YesWeHack, officialisée en septembre 2025, et marque une étape importante dans la stratégie de déploiement de l’éditeur auprès des prestataires IT et MSP dès 2026.
+- Un partenariat structurant pour adresser l’écosystème MSP En tant que distributeur 100% indirect, ImsCloud accompagne un large réseau de prestataires IT dans la construction d’offres cloud, sécurité et services managés.
+
+## [3 millions d'euros détournés : de l'importance de verrouiller sa session quand on s'absente ...](https://www.clubic.com/actualite-595843-millions-d-euros-detournes-de-l-importance-de-verrouiller-sa-session-quand-on-s-absente-de-son-poste.html)  
+*Source : clubic.com | Publication : 2026-01-19*
+
+- À Bayonne, un employé municipal a profité d'ordinateurs laissés ouverts et sans surveillance pour détourner près de 3 millions d’euros sur plusieurs années.
+- Une affaire édifiante qui rappelle à quel point une simple négligence numérique peut avoir de lourdes conséquences.
+- Ce sont des pauses déjeuner qui ont couté très cher à la municipalité d'Anglet.
+- La ville côtière, située dans le département des Pyrénées-Atlantique, a en effet été escroquée par l'un de ses propres agents municipaux.
+
+## [Du pentest annuel au CTEM : pourquoi tester sa sécurité une fois par an ne suffit plus - JDN](https://www.journaldunet.com/cybersecurite/1547299-du-pentest-annuel-au-ctem-pourquoi-tester-sa-securite-une-fois-par-an-ne-suffit-plus/)  
+*Source : journaldunet.com | Publication : 2026-01-19*
+
+- Du pentest annuel au CTEM : pourquoi tester sa sécurité une fois par an ne suffit plus Tester sa cybersécurité une fois par an, c'est comme faire un bilan de santé et attendre 12 mois pour vérifier que le traitement fonctionne.
+- Le continuous threat exposure management (CTEM) change la donne.
+- Scénario classique : une entreprise réalise son audit de sécurité annuel.
+- Le pentesteur identifie une dizaine de vulnérabilités critiques, rédige son rapport avec des recommandations de correction.
+
+## [283.000 victimes potentielles: le site de la carte avantage jeunes de Bourgogne-Franche ... - BFM](https://www.bfmtv.com/tech/cybersecurite/283-000-victimes-potentielles-le-site-de-la-carte-avantage-jeunes-de-bourgogne-franche-comte-a-ete-pirate-de-nombreuses-donnees-personnelles-dans-la-nature_AV-202601190741.html)  
+*Source : bfmtv.com | Publication : 2026-01-19*
+
+- 283.000 victimes potentielles: le site de la carte avantage jeunes de Bourgogne-Franche-Comté a été piraté, de nombreuses données personnelles dans la nature Le 8 janvier 2026, le site avantagesjeunes.com, qui permet d'accéder à des bons plans (cinéma, spectacles...) en Bourgogne-Franche-Comté pour les habitants de la région de moins de 30 ans, a été victime d'un piratage.
+- Une cyberattaque qui a permis de récupérer les données de plusieurs centaines de milliers d'utilisateurs de cette carte.
+- Cela concerne les noms, prénoms, numéros de téléphone, adresses mail et postale d'usagers.
+- Ces données sont actuellement en vente sur un forum du dark web, alors que le pirate annonce détenir les informations de 282.906 utilisateurs.
+
+## [Passe Ton Hack d'Abord 2026 : top départ pour près de 10 000 lycéens et étudiants](https://www.defense.gouv.fr/comcyber/actualites/passe-ton-hack-dabord-2026-top-depart-10-000-lyceens-etudiants)  
+*Source : defense.gouv.fr | Publication : 2026-01-19*
+
+- Passe Ton Hack d’Abord 2026 : top départ pour près de 10 000 lycéens et étudiants !.
+- Du 19 janvier au 6 février 2026 se déroule la 4e édition du challenge Passe Ton Hack d’Abord.
+- Au total, près de 10 000 lycéens et étudiants en BTS ou classes préparatoires prennent part à ce challenge cette année.
+- Organisé par le Commandement de la cyberdéfense (COMCYBER) du ministère des Armées et des anciens combattants et par la Direction générale de l’enseignement scolaire (DGESCO) du ministère de l’Éducation nationale, le challenge « Passe Ton Hack d’Abord » est le premier CTF scolaire en France à avoir été créé.
+
+## [<b>Cybersécurité</b> : entre CISO et CEO, les priorités divergent - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/cybersecurite-ciso-ceo-225231)  
+*Source : silicon.fr | Publication : 2026-01-19*
+
+- En matière de cyber, selon qu’on est CEO ou CISO, on privilégiera la prévention des pertes financières ou la résilience opérationnelle.
+- Rien d’exceptionnel dans ce constat.
+- Mais il trouve une illustration notable dans le dernier rapport Global Cybersecurity Outlook du Forum économique mondial.
+- D’une année à l’autre, les principales inquiétudes exprimées ont effectivement divergé entre les deux fonctions.
+
+## [CyberCamp Santé - Agence du Numérique en Santé](https://esante.gouv.fr/agenda/cybercamp-sante-1)  
+*Source : esante.gouv.fr | Publication : 2026-01-19*
+
+- Le rendez-vous pour croiser les expertises et repartir avec des solutions concrètes face aux enjeux de la cybercriminalité !.
+- Dans le cadre de Tech 4 Health, la 5ème édition du CyberCamp Santé se tiendra prochainement.
+- Le CyberCamp Santé est l’événement national consacré à la gestion des risques cyber dans les établissements de santé.
+- Depuis 2020, il rassemble une communauté unique : directeurs de systèmes d’information, RSSI, directions générales, ingénieurs biomédicaux, experts institutionnels et spécialistes de la cybersécurité.
+
+## [<b>Cybersécurité</b> dans les hôpitaux universitaires Question n°565 du 19 janvier 2026](https://www.pfwb.be/documents-parlementaires/document-qe-001839838)  
+*Source : pfwb.be | Publication : 2026-01-19*
+
+- Découvrir le Parlement Agenda L'activité parlementaire Les députés Ressources éducatives Prix décernés Actualité Visites Contact Aller à la page Recherche globale Documents Question écrite (2025-2026) Question écrite (2025-2026) Cybersécurité dans les hôpitaux universitaires Question n°565 du 19 janvier 2026 Déposé au parlement le 2026-01-19 Auteur(e)s Valérie Bluge Député(e).
+
+## [WhisperPair : Google Fast Pair détourné pour vous espionner - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/01/19/whisperpair-google-fast-pair-espion/)  
+*Source : dcod.ch | Publication : 2026-01-19*
+
+- TL;DR : L’essentiel Des chercheurs de l’université KU Leuven en Belgique ont identifié des vulnérabilités critiques affectant dix-sept modèles d’accessoires audio de dix marques majeures, dont Sony, JBL et Anker.
+- - Contrairement aux spécifications de sécurité, ces appareils permettent une connexion forcée avec un nouvel émetteur même lorsqu’ils sont déjà appairés, ouvrant la porte au piratage via Bluetooth.
+- - L’exploitation la plus grave permet à un attaquant de s’enregistrer comme propriétaire via le réseau Find Hub de Google pour suivre la position géographique de la victime en temps réel.
+- - Google a déployé des correctifs de certification, mais les chercheurs ont contourné certaines protections en quelques heures, rendant la mise à jour manuelle du firmware indispensable pour les utilisateurs.
+
+## [Explosion des accès machines : quels leviers pour la sécurité et la conformité ? - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/explosion-des-acces-machines-quels-leviers-pour-la-securite-et-la-conformite/)  
+*Source : itsocial.fr | Publication : 2026-01-19*
+
+- La multiplication des identités machines bouleverse l’équilibre de la cybersécurité d’entreprise.
+- À mesure que les systèmes automatisés et les agents IA prolifèrent, la gestion des accès non humains s’impose comme un défi stratégique majeur.
+- Selon KPMG et CyberArk, le nombre d’identités machines dépasse désormais de plus de quatre‑vingts fois celui des identités humaines, générant des risques souvent invisibles mais porteurs de conséquences.
+- L’automatisation des processus métiers, l’essor du cloud natif et l’intégration d’agents IA redéfinissent l’architecture des systèmes d’information.
+
+## [&quot;Des opérations visant la patronne de la DGSI&quot; : la <b>cybermenace</b> change de visage](https://www.sciencesetavenir.fr/high-tech/informatique/des-operations-allant-jusqu-a-viser-la-patronne-de-la-dgsi-la-cybermenace-entre-dans-une-nouvelle-ere-politique_190460)  
+*Source : sciencesetavenir.fr | Publication : 2026-01-19*
+
+- Dans son bilan annuel de la cybermenace , le Clusif a mis en avant avec une ampleur inédite l'usage du numérique à des fins de déstabilisation et.
 
 ## [Crypto : 80 % des projets piratés s'effondrent, mais 2026 pourrait inverser la tendance](https://fr.tradingview.com/news/cointelegraph:7e785ba46b858:0/)  
 *Source : fr.tradingview.com | Publication : 2026-01-18*
