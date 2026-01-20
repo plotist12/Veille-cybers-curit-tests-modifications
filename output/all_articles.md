@@ -1,5 +1,157 @@
-# Résumés – 2026-01-19
+# Résumés – 2026-01-20
 
+
+## [Digital Omnibus : une simplification qui bouscule la gouvernance des SI - CIO-online](https://www.cio-online.com/actualites/lire-digital-omnibus-une-simplification-qui-bouscule-la-gouvernance-des-si-16790.html)  
+*Source : cio-online.com | Publication : 2026-01-20*
+
+- Digital Omnibus : une simplification qui bouscule la gouvernance des SI Le règlement « Digital Omnibus » présenté par la Commission européenne le 19 novembre dernier ouvre une nouvelle phase du droit du numérique : consolidation des règles sur les données, assouplissement ciblé du RGPD et rationalisation des notifications de cybersécurité.
+- Pour les entreprises, cette réforme n'est pas qu'un chantier juridique - elle redéfinit directement la gouvernance des systèmes d'information.
+- PublicitéCes dernières années, les entreprises européennes font face à une superposition de textes structurants - RGPD, Data Act, NIS 2, DORA, Data Governance Act, Open Data, ePrivacy - dont l'empilement a complexifié la conformité, sans toujours améliorer la sécurité ou la compétitivité des acteurs numériques européens.
+- Le 19 novembre 2025, la Commission européenne a présenté une proposition de règlement omnibus numérique (en anglais « Digital Omnibus »), qui viserait à rationaliser ce paysage normatif en consolidant, simplifiant et harmonisant plusieurs instruments clés du droit du numérique.
+
+## [Seclab cible la <b>cybersécurité</b> industrielle – 20/01 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/seclab-cible-la-cybersecurite-industrielle-20-01_EN-202601200989.html)  
+*Source : bfmtv.com | Publication : 2026-01-20*
+
+- Podcast Seclab cible la cybersécurité industrielle – 20/01 Seclab cible la cybersécurité industrielle – 20/01 9:58 Ce mardi 20 janvier, Michel Vanden Berghe, président directeur général de Seclab, s’est penché sur la cybersécurité industrielle, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- Autres épisodes Ce mardi 20 janvier, Frédéric Simottel a reçu Michel Vanden Berghe, président directeur général de Seclab, Olivier Biton, directeur de la Transformation technologique de Crédit Agricole S.A. ; Christophe Grosbost, directeur stratégie de l'IMA Innovation Makers Alliance ; Emmanuel Vignon, président de Theodo Data & IA ; Stéphan Roder, président de AI Builders ; Erik Campanini, associé chez Alixio Group et Pauline Tolila, directrice commerciale et marketing chez Younited, dans l'émission Tech&Co Business sur BFM Business.
+- Retrouvez l'émission le samedi et réécoutez la en podcast.
+
+## [Seclab cible la <b>cybersécurité</b> industrielle - 20/01 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-seclab-cible-la-cybersecurite-industrielle-20-01_VN-202601200990.html)  
+*Source : bfmtv.com | Publication : 2026-01-20*
+
+- Seclab cible la cybersécurité industrielle - 20/01 Ce mardi 20 janvier Michel Vanden Berghe, président directeur général de Seclab, s’est penché sur la cybersécurité industrielle, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 9:58.
+
+## [SCC France renforce sa stratégie en matière de <b>cybersécurité</b> - ITRmanager](https://itrmanager.com/articles/208524/scc-france-renforce-sa-strategie-en-matiere-de-cybersecurite.html)  
+*Source : itrmanager.com | Publication : 2026-01-20*
+
+- cybersécurité et de réponse aux enjeux de souveraineté, fondée sur des solutions maîtrisées, hébergées et opérées en France : la création d'une.
+
+## [C'est du sérieux ! L'Europe se blinde contre les <b>cybermenaces</b> avec de nouvelles règles et ...](https://www.clubic.com/actualite-596248-c-est-du-serieux-l-europe-se-blinde-contre-les-cybermenaces-avec-de-nouvelles-regles-et-decisions-fortes.html)  
+*Source : clubic.com | Publication : 2026-01-20*
+
+- La Commission européenne a présenté mardi un nouveau paquet cybersécurité.
+- Symbolisée par la révision du Cybersecurity Act, la démarche doit renforcer la protection des infrastructures critiques de la zone.
+- Les cyberattaques ne cessent de frapper l'Europe.
+- Avec hôpitaux paralysés, des réseaux électriques menacés et des données bancaires exposées, le quotidien numérique du continent, et on le sait mieux que quiconque en France, ressemble à un jeu du chat et de la souris permanent avec des hackers toujours plus audacieux.
+
+## [Au service du numérique – Remplacer les enquêtes en ligne par des entretiens clients](https://www.solutions-numeriques.com/au-service-du-numerique-remplacer-les-enquetes-en-ligne-par-des-entretiens-clients/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-20*
+
+- Un questionnaire annuel, anonyme, en ligne : tout le monde l’a fait.
+- Wavestone aussi.
+- Et Wavestone en est revenu.
+- À la place, le cabinet a installé une pratique systématique d’entretiens courts, menés au bon moment, par les bonnes personnes.
+
+## [Au service du numérique – Quand les cabinets transforment leurs modèles](https://www.solutions-numeriques.com/au-service-du-numerique-quand-les-cabinets-transforment-leurs-modeles/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-20*
+
+- On pourrait croire que les sociétés de services avancent au rythme des missions.
+- En réalité, elles se réinventent en continu, sur les compétences, l’innovation, la RSE, la relation client, la communication.
+- Le Prix des Sociétés de Services, organisé par Napta et La Lettre du Conseil, met des projecteurs là où, d’habitude, tout se passe en coulisses.
+- Dans la série « Au service du numérique », Solutions Numériques & Cybersécurité s’appuie sur le Prix des Sociétés de Services organisé par Napta & La Lettre du Conseil pour mettre en lumière des initiatives concrètes, souvent invisibles à l’extérieur des cabinets.
+
+## [Armis aide le distributeur alimentaire italien Multicedi à renforcer sa <b>cybersécurité</b>](https://www.businesswire.com/news/home/20260120542356/fr)  
+*Source : businesswire.com | Publication : 2026-01-20*
+
+- Armis, entreprise spécialisée dans la gestion de l'exposition aux cybermenaces et la sécurité, a annoncé aujourd'hui que Multicedi,.
+
+## [<b>Cybersécurité</b> : l'UE durcit le ton face aux équipementiers chinois - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/cybersecurite-lue-va-durcir-le-ton-face-aux-equipementiers-chinois-225273)  
+*Source : silicon.fr | Publication : 2026-01-20*
+
+- La Commission européenne a dévoilé son projet de révision du Cybersecurity Act qui prévoit l’élimination progressive des équipements fournis par des entreprises jugées à haut risque dans les secteurs critiques.
+- Sans nommer explicitement de pays ou d’entreprises, ces mesures devraient principalement affecter les géants chinois des télécommunications Huawei et ZTE.
+- « Avec ce nouveau paquet cybersécurité, nous disposerons des moyens nécessaires pour mieux protéger nos chaînes d’approvisionnement critiques en technologies de l’information et de la communication, mais aussi pour combattre les cyberattaques de manière décisive », affirme Henna Virkkunen, la commissaire européenne chargée du numérique.
+- Le texte s’appliquera à dix-huit secteurs clés identifiés par la Commission, parmi lesquels les équipements de détection, les véhicules connectés et automatisés, les systèmes d’approvisionnement en électricité et en eau, les drones, les services de cloud computing, les dispositifs médicaux ou encore les semi-conducteurs.
+
+## [<b>Cybersécurité</b> : l'industrie du jeu vidéo invitée à rejoindre l'Alliance Cyber - AFJV](https://afjv.com/news/11895_cybersecurite-industrie-jeux-video-alliance-cyber.htm)  
+*Source : afjv.com | Publication : 2026-01-20*
+
+- Cybersécurité : l'industrie du jeu vidéo invitée à rejoindre la première édition de l'Alliance Cyber Invitation réservée aux professionnels du jeu vidéo - les 4 et 5 février 2026 à Paris Face à la multiplication des menaces numériques, la cybersécurité est devenue un enjeu stratégique majeur pour l'industrie du jeu vidéo.
+- Piratage de comptes, usurpation d'identité, triche organisée, cyberharcèlement, fraude ou encore atteintes aux données personnelles concernent aujourd'hui aussi bien les joueurs que les studios, éditeurs et plateformes.
+- C'est dans ce contexte qu'est lancée la première édition de l'Alliance Cyber, un événement dédié à la lutte contre les abus numériques, qui se tiendra les 4 et 5 février 2026 à Paris.
+- Les responsables cybersécurité des entreprises référencées dans les annuaires de l'AFJV auront la possibilité de participer à ces deux journées mêlant conférences, ateliers collaboratifs et échanges entre pairs.
+
+## [Le plan de l'UE visant à éliminer progressivement les technologies à haut risque s'attire les ...](https://www.boursorama.com/bourse/actualites-amp/le-plan-de-l-ue-visant-a-eliminer-progressivement-les-technologies-a-haut-risque-s-attire-les-foudres-de-l-entreprise-chinoise-huawei-bfece22af75b3b520463f6ebc4f70347)  
+*Source : boursorama.com | Publication : 2026-01-20*
+
+- Le plan de l'UE visant à éliminer progressivement les technologies à haut risque s'attire les foudres de l'entreprise chinoise Huawei information fournie par Reuters 20/01/2026 à 18:06 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * La Commission européenne annonce de nouvelles mesures en matière de cybersécurité * Inclut l'élimination progressive des équipements provenant de fournisseurs "à haut risque" * Les restrictions proposées visent les technologies chinoises (Ajout des commentaires de Huawei et de Connect Europe) par Foo Yun Chee L'UE prévoit d'éliminer progressivement les composants et les équipements provenant de fournisseurs à haut risque dans les secteurs critiques, selon un projet de proposition publié par Bruxelles mardi, une décision critiquée par la société chinoise Huawei, qui devrait figurer parmi les entreprises concernées.
+- Ces mesures, présentées par la Commission européenne dans le cadre de la révision de la loi européenne sur la cybersécurité, font suite à l'augmentation des cyberattaques et des ransomwares, ainsi qu'aux préoccupations croissantes concernant l'ingérence étrangère, l'espionnage et la dépendance de l'Europe à l'égard de fournisseurs de technologies non européens.
+- La Commission, l'organe exécutif de l'Europe des 27, n'a cité aucun nom d'entreprise ou de pays.
+- L'Europe a toutefois renforcé sa surveillance des technologies chinoises.
+
+## [Proposition de directive en ce qui concerne les mesures de simplification et l'alignement sur ...](https://digital-strategy.ec.europa.eu/fr/library/proposal-directive-regards-simplification-measures-and-alignment-cybersecurity-act)  
+*Source : digital-strategy.ec.europa.eu | Publication : 2026-01-20*
+
+- Le train de mesures introduit des mesures visant à simplifier le respect des règles de cybersécurité de l’UE et des exigences en matière de gestion des risques pour les entreprises exerçant leurs activités dans l’UE, en complément du point d’entrée unique pour la notification des incidents proposé dans l’omnibus numérique.
+- Des modifications ciblées de la directive SRI 2 visent à accroître la clarté juridique en simplifiant les règles de compétence, en rationalisant la collecte de données sur les attaques par ransomware et en facilitant la surveillance des entités transfrontières, l’ENISA jouant un rôle de coordination renforcé.
+- Vous pouvez télécharger la proposition et son annexe ci-dessous.
+- Téléchargements 1.
+
+## [Pourquoi les ESN sont accusées de saboter la souveraineté numérique - JDN](https://www.journaldunet.com/cybersecurite/1547361-comment-les-esn-sabotent-la-souverainete-numerique/)  
+*Source : journaldunet.com | Publication : 2026-01-20*
+
+- Pourquoi les ESN sont accusées de saboter la souveraineté numérique Les entreprises de services du numérique (ESN) sont accusées de privilégier les éditeurs extra-européens malgré une demande croissante de solutions souveraines.
+- Les entreprises de services du numérique (ESN) freinent la souveraineté numérique.
+- C'est, en tout cas, ce que pensent de plus en plus d'acteurs de la cybersécurité française.
+- Une ESN, comme Cap Gemini ou Sopra Steria, est une entreprise qui fournit des prestations de conseil et de développement de technologies de l'information à d'autres entreprises.
+
+## [Proposition de règlement relatif au règlement de l'UE sur la <b>cybersécurité</b>](https://digital-strategy.ec.europa.eu/fr/library/proposal-regulation-eu-cybersecurity-act)  
+*Source : digital-strategy.ec.europa.eu | Publication : 2026-01-20*
+
+- La proposition de révision du règlement sur la cybersécurité fait partie de ce train de mesures.
+- Il vise à accroître les capacités et la résilience en matière de cybersécurité et à prévenir la fragmentation du marché unique numérique de l’UE.
+- Elle renforce également la sécurité des chaînes d'approvisionnement des technologies de l'information et de la communication (TIC) de l'UE.
+- Il garantit que les produits qui parviennent aux citoyens de l’UE sont cybersécurisés dès la conception grâce à un processus de certification plus simple.
+
+## [La Commission renforce la résilience et les capacités de l'UE en matière de <b>cybersécurité</b>](https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/la-commission-renforce-la-resilience-et-les-capacites-de-lue-en-matiere-de-cybersecurite-2026-01-20_fr?prefLang=en)  
+*Source : luxembourg.representation.ec.europa.eu | Publication : 2026-01-20*
+
+- L'Europe est confrontée quotidiennement à des cyberattaques et à des attaques hybrides contre des services essentiels et des institutions démocratiques, menées par des groupes étatiques et criminels sophistiqués.
+- La Commission européenne a proposé aujourd'hui un nouveau train de mesures sur la cybersécurité afin de renforcer encore la résilience et les capacités de l'UE en matière de cybersécurité face à ces menaces croissantes.
+- Le train de mesures comprend une proposition de révision du règlement sur la cybersécurité, qui renforce la sécurité des chaînes d'approvisionnement des technologies de l'information et de la communication (TIC) de l'UE.
+- Il garantit que les produits qui parviennent aux citoyens de l'UE sont cybersécurisés dès la conception grâce à un processus de certification plus simple.
+
+## [<b>Cybermenace</b> politique, vache maniant des outils et voix de Henri IV : l'actu des sciences](https://www.sciencesetavenir.fr/ultrabreves/cybermenace-politique-vache-maniant-des-outils-et-voix-de-henri-iv-l-actu-des-sciences-en-ultrabreves_190492)  
+*Source : sciencesetavenir.fr | Publication : 2026-01-20*
+
+- L'actualité scientifique du 20 janvier 2026, c'est : En Informatique : "Des opérations allant jusqu’à viser la patronne de la DGSI" : la cybermenace entre dans une nouvelle ère politique.
+- La présentation annuelle du Clusif a indiqué que les cybermenaces entraient dans une nouvelle ère : celle de la manipulation d’opinion et de l'influence géopolitique.
+- - Sur les deux élections de 2024, plus de 25 tentatives d’ingérences numériques étrangères, visant à influencer le débat public, ont été identifiées.
+- - A coups de faux comptes en ligne, de bots, de médias à l’identité usurpée ou de comptes d’influenceurs, les outils numériques sont désormais utilisés à des fins de désinformation et de déstabilisation politique.
+
+## [Trend Micro corrige des failles de sécurité critiques | ICTjournal](https://www.ictjournal.ch/news/2026-01-20/trend-micro-corrige-des-failles-de-securite-critiques)  
+*Source : ictjournal.ch | Publication : 2026-01-20*
+
+- Trend Micro corrige des failles de sécurité critiques Trend Micro a publié début janvier 2026 une mise à jour de sécurité pour Apex Central.
+- Le fournisseur japonais de solutions de cybersécurité corrige ainsi trois vulnérabilités, dont certaines de gravité élevée à critique.
+- Trend Micro a comblé trois failles de sécurité dans sa plateforme de gestion on-premise Apex Central (version 7190).
+- À cet effet, l’entreprise met à disposition la mise à jour «Critical Patch Build 7190» dans son centre de téléchargement, comme indiqué dans son bulletin de sécurité.
+
+## [WEF <b>Cybersécurité</b> 2026 : L'IA arme la fraude et menace l'économie](https://dcod.ch/2026/01/20/wef-cybersecurite-2026-ia-fraude/)  
+*Source : dcod.ch | Publication : 2026-01-20*
+
+- TL;DR : L’essentiel La fraude cybernétique détrône désormais les ransomwares comme préoccupation majeure des PDG, avec 73% des répondants touchés personnellement ou via leur réseau en 2025, marquant un tournant stratégique critique pour l’économie numérique.
+- - Les vulnérabilités liées à l’IA ont explosé plus vite que toute autre catégorie, 87% des organisations rapportant une hausse, tandis que les agents autonomes orchestrent désormais des campagnes d’espionnage complètes de bout en bout.
+- - La confiance dans la défense nationale s’effrite, 31% des leaders doutant de la protection des infrastructures critiques, illustré par le piratage d’un barrage norvégien libérant soudainement 500 litres d’eau par seconde.
+- - L’iniquité cyber s’aggrave, les petites structures étant deux fois moins résilientes, alors que les attaques sur la chaîne logistique, comme celle paralysant Jaguar Land Rover durant cinq semaines, coûtent des milliards.
+
+## [Cyberattaques et IA : les nouveaux angles morts du risque d'entreprise en 2026](https://incyber.org/article/cyberattaques-et-ia-les-nouveaux-angles-morts-du-risque-dentreprise-en-2026/)  
+*Source : incyber.org | Publication : 2026-01-20*
+
+- Cyberattaques et IA : les nouveaux angles morts du risque d’entreprise en 2026 Articles du même auteur : 1 17.01.26 Cyber stabilité Laurent Nuñez détaille la cyberattaque contre le ministère de l’Intérieur Lire 02.
+- 2 17.01.26 Cybercriminalité Le conglomérat sud-coréen Kyowon victime d’une attaque par rançongiciel Lire 02.
+- 3 4 15.01.26 Souveraineté numérique Souveraineté numérique : AWS lance son European Sovereign Cloud Lire 02.
+
+## [&quot;Passe ton Hack d'Abord&quot; : le plus grand défi cyber de France est de retour jusqu'au 6 février](https://www.vousnousils.fr/2026/01/20/passe-ton-hack-dabord-le-plus-grand-defi-cyber-de-france-est-de-retour-jusquau-6-fevrier-699650)  
+*Source : vousnousils.fr | Publication : 2026-01-20*
+
+- Ce lundi 19 janvier, le ministère de l’Éducation nationale, a annoncé la 4e édition du défi challenge cyber « Passe Ton Hack d’Abord ».
+- Le défi est organisé par le Commandement de la cyberdéfense (COMCYBER) du ministère des Armées et des anciens combattants et par la Direction générale de l’enseignement scolaire (DGESCO).
+- L’événement se déroulera du 19 janvier au 6 février 2026.
+- Au total, ce sont près 10 000 lycéens et étudiants en BTS et classes préparatoires qui prendront part au défi.
 
 ## [Cathy Alegria, Xerfi - Comment passer de simple fournisseur à partenaire stratégique ...](https://www.xerficanal.com/economie/emission/Cathy-Alegria-Comment-passer-de-simple-fournisseur-a-partenaire-strategique-oom-sur-le-marche-de-la-dematerialisation_3754513.html)  
 *Source : xerficanal.com | Publication : 2026-01-19*
