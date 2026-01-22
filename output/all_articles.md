@@ -1,5 +1,154 @@
-# Résumés – 2026-01-21
+# Résumés – 2026-01-22
 
+
+## [L'effrayante stratégie des hackers : quand les outils de confiance deviennent des chevaux de Troie](https://www.clubic.com/actualite-596680-l-effrayante-strategie-des-hackers-quand-les-outils-de-confiance-deviennent-des-chevaux-de-troie.html)  
+*Source : clubic.com | Publication : 2026-01-22*
+
+- Des cybercriminels détournent des logiciels de gestion informatique légitimes, pour pirater des entreprises.
+- La campagne, sophistiquée et décortiquée par KnowBe4, transforme des outils professionnels de confiance en véritables chevaux de Troie invisibles.
+- Comme nous l'apprend en exclusivité KnowBe4, des hackers sont parvenus à perfectionner une technique redoutable qui consiste à voler des identifiants par phishing, puis utiliser ces derniers pour déployer des logiciels de gestion informatique authentiques.
+- Ces outils dits RMM (Remonte Monitoring and Management), très prisés des équipes IT, deviennent alors des portes dérobées indétectables.
+
+## [GN et Bureau Veritas signent un protocole d'entente pour une collaboration en matière de ...](https://www.venturesquare.net/fr/1034389/)  
+*Source : venturesquare.net | Publication : 2026-01-22*
+
+- ZIEN, Inc., une société de plateforme de sécurité connectée intelligente, a annoncé le 14 janvier 2026 avoir signé un protocole d'accord (MOU) avec Bureau Veritas, une société mondiale de test, de certification et d'inspection, pour une coopération dans le domaine de la cybersécurité des produits.
+- Cet accord a été conclu pour répondre au besoin croissant de cybersécurité dans l'Internet des objets et les produits intelligents, conjugué au renforcement des réglementations internationales telles que la directive européenne RED et le Cyber Resilience Act (CRA).
+- Les deux entreprises prévoient de mettre en place un système de coopération complet, englobant la certification de cybersécurité des produits, la vérification des technologies, le conseil en sécurité des entreprises et l'intégration de solutions.
+- Le champ de la coopération comprend : ▲ l’analyse des vulnérabilités et la vérification technologique pour l’Internet des objets et les produits intelligents ; ▲ la coopération en matière de certification et de tests pour répondre aux réglementations mondiales en matière de sécurité ; ▲ la découverte d’un modèle commercial commun combinant la solution d’automatisation de la sécurité IoT basée sur l’IA de GN et les capacités de certification mondiales de Bureau Veritas ; ▲ le soutien à la certification de cybersécurité pour les exportations à l’étranger des entreprises nationales.
+
+## [Quishing : Les QR Codes deviennent colorés, stylisés et risqués - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/01/22/quishing-les-qr-codes-deviennent-colores-stylises-et-risques/)  
+*Source : dcod.ch | Publication : 2026-01-22*
+
+- TL;DR : L’essentiel Le quishing représente désormais 22% des attaques par QR code, une menace en hausse de 248%.
+- Les pirates exploitent la confiance des utilisateurs, dont la plupart scannent sans vérifier la destination, exposant massivement leurs données personnelles.
+- - Les designs « fancy » altèrent la structure via des modules arrondis ou des logos centraux.
+- Cette complexité visuelle permet aux codes malveillants de contourner l’inspection automatisée des passerelles de messagerie, conçues pour lire du texte et non des images.
+
+## [Crises et ruptures: vers un nouvel ordre international? - ULaval nouvelles - Université Laval](https://nouvelles.ulaval.ca/2026/01/22/crises-et-ruptures-vers-un-nouvel-ordre-international-9bff59a1-87df-4e3f-ba7a-6aa573c98200)  
+*Source : nouvelles.ulaval.ca | Publication : 2026-01-22*
+
+- 22 janvier 2026 Crises et ruptures: vers un nouvel ordre international?.
+- Droits de la personne, défense nationale, cybersécurité et gouvernance énergétique étaient au cœur des discussions de la table ronde de la rentrée hivernale organisée par l’École supérieure d’études internationales Dans cette nouvelle ère géopolitique qui se dessine, où la puissance prime de plus en plus sur la coopération, qu'advient-il de l'ordre mondial que l'Occident a mis en place après la Deuxième Guerre mondiale?.
+- C'est la question qu'ont débattue les quatre panélistes invitées à la récente table ronde organisée par l'École supérieure d'études internationales (ESEI).
+- Sur le thème «Perspectives 2026: sécurité et transformations du nouvel ordre mondial», l'événement tombait à point, comme l'a souligné le directeur de l'ESEI, Jonathan Paquin, également modérateur de cette discussion.
+
+## [Vincent Lomba, d'Alcatel-Lucent Enterprise, rejoint le groupe consultatif de l'ENISA - ITchannel](https://itchannel.info/communiques-de-presse/48929/vincent-lomba-dalcatel-lucent-enterprise-rejoint-le-groupe-consultatif-de-lenisa)  
+*Source : itchannel.info | Publication : 2026-01-22*
+
+- Veuillez activer Javascript.
+
+## [Le Tour de France numérique a fait étape à Blois - La Nouvelle République](https://www.lanouvellerepublique.fr/blois/le-tour-de-france-numerique-a-fait-etape-a-blois-1769107160)  
+*Source : lanouvellerepublique.fr | Publication : 2026-01-22*
+
+- Le Tour de France numérique a fait étape à Blois Facturation électronique, visibilité en ligne, cybersécurité… Pour accompagner les entreprises locales dans leur transition, des experts sont venus à leur rencontre ce jeudi 22 janvier 2026 à Blois.
+- L’occasion de rappeler l’importance de la résilience numérique et d’un réseau fiable.
+- Lancé à l’initiative de la direction générale des entreprises, rattachée au ministère de l’Économie et des Finances, le « Tour France Num » a fait étape à Blois ce jeudi 22 janvier à la Cité du numérique.
+- Une première en région Centre-Val de Loire, que l’on doit à France Num et à la CPME qui avaient invité les entrepreneurs du département à participer à divers échanges et ateliers.
+
+## [Au moins 10,5 millions de victimes et 3,5 millions d'euros d'amende: Intersport sanctionné ... - BFM](https://www.bfmtv.com/tech/cybersecurite/au-moins-10-5-millions-de-victimes-et-3-5-millions-d-euros-d-amende-intersport-sanctionne-lourdement-pour-avoir-revendu-les-donnees-personnelles-de-ses-clients-a-des-fins-publicitaires_AN-202601220855.html)  
+*Source : bfmtv.com | Publication : 2026-01-22*
+
+- Au moins 10,5 millions de victimes et 3,5 millions d’euros d’amende: Intersport sanctionné lourdement pour avoir revendu les données personnelles de ses clients à des fins publicitaires La Cnil avait souhaité conserver l'anonymat de l'entreprise concernée, mais son nom n'a pas tardé à être connu.
+- Le 30 décembre 2025, Intersport s'est vu infliger une lourde amende de 3,5 millions d'euros a-t-on appris d'une décision rendue publique ce 22 janvier 2026.
+- L'organisme chargé des données personnelles explique sa sanction par la transmission des données de membres de son programme de fidélité à un réseau social (Facebook) "à des fins de ciblage publicitaire", et ce, sans le consentement préalable des utilisateurs concernés.
+- Une société qui n'est pas clairement nommée, mais que Christophe Boutry, spécialiste en cybersécurité et ancien de la DGSI, a retrouvé: il s'agit d'Intersport.
+
+## [LockTransfer et LockFiles – La sécurité des fichiers en entreprise, version française | Posts](https://korben.info/lockself-locktransfer-lockfiles-securite-fichiers-entreprise.html)  
+*Source : korben.info | Publication : 2026-01-22*
+
+- Le truc que votre DSI redoute vraiment : découvrir où vos collègues envoient les vrais fichiers sensibles; Un ransomware vous paralyse, mais vos.
+
+## [<b>Cybersécurité</b> : Bruxelles simplifie NIS2 et intègre un volet souveraineté](https://www.banquedesterritoires.fr/cybersecurite-bruxelles-simplifie-nis2-et-integre-un-volet-souverainete?pk_campaign=newsletter_quotidienne&pk_kwd=2026-01-22&pk_source=Actualités_Localtis&pk_medium=newsletter_quotidienne)  
+*Source : banquedesterritoires.fr | Publication : 2026-01-22*
+
+- Cybersécurité : Bruxelles simplifie NIS2 et intègre un volet souveraineté Un "paquet cyber "présenté le 20 janvier par la Commission européenne comprend une révision du règlement sur la cybersécurité (Cybersecurity act, 2019), pour y intégrer une dimension souveraineté, et fait quelques ajustements à la directive NIS2 sur la sécurité des entités critiques.
+- Votée en 2022, cette dernière directive est toujours en attente de transposition en France.
+- La Commission adapte le règlement sur la cybersécurité pour contrer les dépendances économiques et risques géopolitiques.
+- Priorité est donnée à la sécurisation des chaînes d'approvisionnement des 18 secteurs critiques définis par NIS2 (transports, santé, énergie, télécoms…).
+
+## [Davos 2026 : Santé des femmes, IA et <b>cybersécurité</b> au cœur des défis mondiaux](https://maroc-diplomatique.net/davos-2026-sante-des-femmes-ia-et-cybersecurite-au-coeur-des-defis-mondiaux/)  
+*Source : maroc-diplomatique.net | Publication : 2026-01-22*
+
+- Davos 2026 : Santé des femmes, IA et cybersécurité au cœur des défis mondiaux À l’occasion du Forum économique mondial 2026, qui se tient à Davos du 19 au 23 janvier, plusieurs enjeux structurants s’imposent au cœur des débats internationaux.
+- De la santé des femmes à l’intelligence artificielle, en passant par la cybersécurité, ces thématiques apparaissent désormais comme des révélateurs majeurs des fragilités du système mondial, mais aussi comme de puissants leviers de transformation et de résilience.
+- À l’issue de la troisième journée du Forum économique mondial, les constats s’imposent avec force.
+- Malgré une espérance de vie plus élevée, les femmes passent en moyenne 25 % de leur existence en mauvaise santé.
+
+## [Espionnage : le Bluetooth, victime collatérale des tensions autour du Groenland - France 24](https://www.france24.com/fr/europe/20260122-espionnage-bluetooth-danemark-tensions-etats-unis-services-securite-trump-groenland)  
+*Source : france24.com | Publication : 2026-01-22*
+
+- Espionnage : le Bluetooth, victime collatérale des tensions autour du Groenland L’agence danoise de renseignement a mis en garde contre des vulnérabilités du Bluetooth qui pourraient permettre à des espions américains d’écouter les conversations téléphoniques des autorités danoises ou groenlandaises.
+- La preuve que les services de renseignement européens considèrent dorénavant leur "allié" américain d'hier comme un rival ?.
+- Publié le : Peur sur le Bluetooth ?.
+- Le service de renseignement danois a conseillé, lundi 19 janvier, aux autorités et à la police du Danemark de désactiver le Bluetooth sur leurs smartphones, tablettes et tous les autres périphériques.
+
+## [Les 8 principales prévisions en matière de <b>cybersécurité</b> pour 2026 | LeMagIT](https://www.lemagit.fr/actualites/366637562/Les-8-principales-previsions-en-matiere-de-cybersecurite-pour-2026)  
+*Source : lemagit.fr | Publication : 2026-01-22*
+
+- KOHb - Getty Images Les 8 principales prévisions en matière de cybersécurité pour 2026 Les responsables de la sécurité informatique prévoient que l’IA va encore transformer la cybersécurité en 2026.
+- Des chaînes d’outils défensifs basés sur l’IA agentique aux risques liés aux serveurs MCP, découvrez les changements attendus.
+- Si vous regardez dans notre boule de cristal de la cybersécurité pour le reste de l’année 2026, vous ne serez probablement pas surpris de voir apparaître un acronyme familier : IA.
+- La nouveauté cette année, c’est que, trois ans après l’irruption de ChatGPT dans la conscience collective, les RSSI se penchent désormais comme jamais auparavant sur les détails des menaces et des opportunités liées à l’IA.
+
+## [<b>Cybersécurité</b>, paiement des factures… La Ville de Falaise et la DGFIP signent une convention](https://caen.maville.com/actu/actudet_-cybersecurite-paiement-des-factures...-la-ville-de-falaise-et-la-dgfip-signent-une-convention-pour-s-ameliorer-_dep-7156614_actu.Htm)  
+*Source : caen.maville.com | Publication : 2026-01-22*
+
+- Mercredi 21 janvier 2026, la Ville de Falaise (Calvados) et la Direction générale des finances publiques (DGFIP) ont signé une convention.
+- Elle vise à fixer un cap de travail pour les deux entités.
+- La direction générale des finances publiques (DGFIP) du Calvados et la Ville de Falaise travaillent déjà ensemble par la force des choses mais les deux entités tenaient à officialiser leur excellente collaboration via une convention.
+- C’est chose faite depuis le mercredi 21 janvier 2026.
+
+## [RansomHub aurait volé des secrets industriels à un sous-traitant majeur d'Apple](https://incyber.org/article/ransomhub-aurait-vole-secrets-industriels-sous-traitant-majeur-apple/)  
+*Source : incyber.org | Publication : 2026-01-22*
+
+- RansomHub aurait volé des secrets industriels à un sous-traitant majeur d’Apple Articles du même auteur : 2 21.01.26 Cyber + Anthropic viserait une levée de fonds record à 25 milliards de dollars Lire 01.
+- 3 20.01.26 Cybercriminalité Perquisitions chez deux membres présumés de Black Basta Lire 01.
+
+## [<b>Cybersécurité</b> dans l'artisanat : une entreprise sur trois voit des lacunes - Organisator](https://www.organisator.ch/fr/excellence-operationnelle/2026-01-22/cybersicherheit-im-handwerk-jeder-dritte-betrieb-sieht-defizite/)  
+*Source : organisator.ch | Publication : 2026-01-22*
+
+- Cybersécurité dans l'artisanat : une entreprise sur trois voit des lacunes Une récente enquête de Sophos menée auprès de 200 entreprises artisanales montre que les cybercriminels sont bien préparés : Alors que 64 % d'entre elles se sentent bien préparées aux cyberincidents, 36 % estiment avoir encore du retard à rattraper.
+- Le secteur de l'habillement, du textile et du cuir est particulièrement concerné, puisque près de 29 % des entreprises estiment être mal préparées.
+- Les systèmes numériques, les applications en réseau et les méthodes de travail mobiles caractérisent aujourd'hui les processus dans les ateliers, sur les chantiers et dans l'administration des entreprises artisanales.
+- Dans le cadre d'une enquête menée auprès des entreprises artisanales et proches de l'artisanat, Sophos s'est penché sur la question de savoir comment la cybersécurité est organisée et comment les entreprises évaluent leur propre préparation.
+
+## [Mise à jour concernant l'initiative en matière de <b>cybersécurité</b> du BSF - Canada](https://ised-isde.canada.ca/site/bureau-surintendant-faillites/fr/lintention-syndics-autorises-insolvabilite/mise-jour-concernant-linitiative-matiere-cybersecurite-bsf)  
+*Source : ised-isde.canada.ca | Publication : 2026-01-22*
+
+- Le 22 janvier 2026 Les menaces croissantes liées à la cybersécurité et l’augmentation des fraudes au Canada mettent en évidence le besoin de renforcer les protections au sein du système d’insolvabilité.
+- La cybersécurité est une priorité pour le Bureau du surintendant des faillites (BSF) comme le soulignent les plans d’activités de 2024-2025 et de 2025-2026.
+- Le présent avis fait le point sur l’initiative en matière de cybersécurité du BSF et présente les prochaines étapes.
+- Au cours de la dernière année, le BSF a consulté des parties prenantes internes et externes pour trouver des façons de renforcer la cybersécurité et de traiter les nouvelles menaces dans le domaine de l’insolvabilité.
+
+## [Thoma Bravo : le géant qui redessine la carte du logiciel mondial](https://www.silicon.fr/business-1367/thoma-bravo-le-geant-qui-redessine-la-carte-du-logiciel-mondial-225314/amp)  
+*Source : silicon.fr | Publication : 2026-01-22*
+
+- Oubliez les levées de fonds de quelques millions dans la Silicon Valley.
+- Chez Thoma Bravo, on joue dans la catégorie des poids lourds mondiaux.
+- Au 1er janvier 2026, les chiffres donnent le vertige : le fonds gère 184 milliards $ d’actifs et a réalisé plus de 565 acquisitions depuis sa création (en 2003), pour une valeur transactionnelle cumulée dépassant les 285 milliards $.
+- Cette puissance de feu est le fruit d’une spécialisation monomaniaque : le logiciel d’entreprise.
+
+## [<b>Cybersécurité</b>, paiement des factures… La Ville de Falaise et la DGFIP signent une ... - Ouest-France](https://www.ouest-france.fr/normandie/falaise-14700/cybersecurite-paiement-des-factures-la-ville-de-falaise-et-la-dgfip-signent-une-convention-pour-sameliorer-d4da59e6-f771-11f0-89fe-d868311a6ee2)  
+*Source : ouest-france.fr | Publication : 2026-01-22*
+
+- Mercredi 21 janvier 2026, la Ville de Falaise (Calvados) et la Direction générale des finances publiques (DGFIP) ont signé une convention.
+
+## [Répression en Iran: la télévision d'Etat piratée pour diffuser des messages pro-manifestants ... - BFM](https://www.bfmtv.com/tech/cybersecurite/repression-en-iran-la-television-d-etat-piratee-pour-diffuser-des-messages-pro-manifestants-et-appeler-a-l-insurrection-de-la-police_AV-202601220496.html)  
+*Source : bfmtv.com | Publication : 2026-01-22*
+
+- Répression en Iran: la télévision d'Etat piratée pour diffuser des messages pro-manifestants et appeler à l'insurrection de la police Si internet est toujours coupé en Iran, la répression, elle, s'intensifie pour faire taire le soulèvement en cours dans plusieurs villes de la République islamique.
+- Mais des pirates ont réussi à s'en prendre à la télévision publique, qui a brièvement été interrompue pour diffuser des messages en faveur du soulèvement.
+- Repéré par l'Associated Press, ce piratage a permis de diffuser des messages de soutien au prince exilé du pays, Reza Pahlavi, fils du dernier chah d'Iran, mais également des vidéos montrant de supposés policiers ayant fait défection.
+- Si aucune preuve n'est apportée, ils affirment que d'autres membres des autorités ont "déposé les armes et prêté un serment d'allégeance au peuple".
+
+## [Tech &amp; Fest : Célébrer le meilleur de l'innovation, ensemble ! | Alliancy](https://www.alliancy.fr/communaute/evenements/2026/02/04/e2adac21-4bd3-453f-9041-f98d79d2cf10)  
+*Source : alliancy.fr | Publication : 2026-01-22*
+
+- E-mail Profil Instagram Profil LinkedIn Site web Profil Twitter Chaîne YouTube 22 janvier 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
 
 ## [Tendances 2026 pour la sécurité des identités et des accès - JDN](https://www.journaldunet.com/cybersecurite/1547425-tendances-2026-pour-la-securite-des-identites-et-des-acces/)  
 *Source : journaldunet.com | Publication : 2026-01-21*
