@@ -1,5 +1,153 @@
-# Résumés – 2026-01-22
+# Résumés – 2026-01-23
 
+
+## [Cyberhebdo du 23 janvier : une semaine intense | LeMagIT](https://www.lemagit.fr/actualites/366637564/Cyberhebdo-du-23-janvier-une-semaine-intense)  
+*Source : lemagit.fr | Publication : 2026-01-23*
+
+- Cyberhebdo du 23 janvier : une semaine intense Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- La semaine écoulée a été marquée par une recrudescence notable des cyberattaques à l’échelle internationale, avec 11 incidents majeurs rapportés dans la presse spécialisée et généraliste.
+- Les médias ont relayé des attaques touchant cinq pays : l’Espagne (ESP), Taïwan (TWN), le Royaume-Uni (GBR), la Belgique (BEL) et surtout l’Allemagne (DEU), qui se distingue cette semaine comme la cible la plus fréquemment évoquée, avec pas moins de 6 cas recensés.
+- Cette concentration d’attaques en Allemagne souligne la pression croissante exercée sur les infrastructures et les entreprises du pays, dans un contexte de menaces persistantes et de sophistication accrue des modes opératoires.
+
+## [Projet de renforcement de la <b>cybersécurité</b> portuaire maritime - Informare.it](https://www.informare.it/news/gennews/2026/20260098-Progetto-rafforzamento-sicurezza-informatica-marittimo-portualefr.asp)  
+*Source : informare.it | Publication : 2026-01-23*
+
+- 24 janvier 2026 - Année XXX Journal indépendant d'économie et de politique des transports.
+- Cette page a été automatiquement traduit par Nouvelles originales.
+- Projet de renforcement de la cybersécurité portuaire maritime Les partenaires sont France Cyber Maritime, FEPORT et la Fédération de la Mer Brest/Bruxelles/Roma 23 Janvier 2026 Fin 2025, la Commission européenne a officiellement a signé un accord de subvention avec un consortium composé de France Cyber Maritime, FEPORT et le cluster maritime italien / Fédération de la Mer suite à leur candidature réussie à l’appel à propositions pour le projet SAFEDIGIMAR.
+- Le projet, qui a été décerné dans le cadre du programme Digital Europe Dans le cadre de l’action de déployment DIGITAL-ECCC-2024-DEPLOY-CYBER-07-CYBERSEC-02, fera la promotion mise en œuvre des mesures liées au NIS 2 et sera développée Solutions sur mesure pour renforcer votre posture en cybersécurité écosystème.
+
+## [2031, un point de non-retour pour la <b>cybersécurité</b> - Institut quantique - Université de Sherbrooke](https://www.usherbrooke.ca/iq/fr/actualites/nouvelles/details/57362)  
+*Source : usherbrooke.ca | Publication : 2026-01-23*
+
+- 2031, un point de non-retour pour la cybersécurité Le Pôle d’expertises en cybersécurité Intact souhaite renforcer la résilience numérique au sein des organisations, mais pourquoi est-ce si important?.
+- Quels défis les attendent?.
+- Le Pr Marc Frappier, Directeur scientifique du Pôle, s’intéresse à un enjeu des plus actuels : la cybersécurité post-quantique.
+- Parce que oui, l’avènement des ordinateurs quantiques représente un défi de taille pour les systèmes informatiques actuels.
+
+## [La <b>cybersécurité</b> ne sera bientôt plus un enjeu TI - | Grenier aux nouvelles](https://www.grenier.qc.ca/chroniques/53591/la-cybersecurite-ne-sera-bientot-plus-un-enjeu-ti)  
+*Source : grenier.qc.ca | Publication : 2026-01-23*
+
+- Pendant longtemps, la cybersécurité a été considérée comme un sujet exclusivement technique.
+- Encore aujourd’hui, lorsque l’on demande aux PME si elles sont cyberprotégées, la réponse est presque toujours la même : « On a des TI qui s’en occupent.
+- » Cette vision est en train de devenir obsolète.
+- Il faut comprendre que le rôle d’une équipe TI a ses limites.
+
+## [1Password déploie l'arme ultime contre le phishing : pourquoi il faut l'activer - Clubic](https://www.clubic.com/actualite-596758-password-deploie-l-arme-ultime-contre-le-phishing-pourquoi-il-faut-l-activer.html)  
+*Source : clubic.com | Publication : 2026-01-23*
+
+- Le gestionnaire de mots de passe 1Password vient d'introduire un dispositif de sécurité supplémentaire pour contrer les tentatives d'hameçonnage.
+- Cette protection intervient au moment précis où l'utilisateur s'apprête à transmettre ses identifiants à un site potentiellement malveillant.
+- En l'état, les gestionnaires de mots de passe constituent déjà une barrière efficace contre le phishing en refusant de remplir automatiquement les identifiants sur les sites frauduleux.
+- Cependant, cette défense comporte une faille : rien n'empêche un utilisateur de copier-coller manuellement ses codes d'accès, contournant ainsi cette première ligne de protection.
+
+## [Près de 150 millions de mots de passe Gmail, Facebook, Netflix ou Binance étaient en ...](https://www.lefigaro.fr/secteur/high-tech/pres-de-150-millions-de-mots-de-passe-gmail-facebook-netflix-ou-binance-etaient-en-acces-libre-sur-internet-20260123)  
+*Source : lefigaro.fr | Publication : 2026-01-23*
+
+- Près de 150 millions de mots de passe Gmail, Facebook, Netflix ou Binance étaient en accès libre sur Internet Cette base de données a été repérée par un chercheur en cybersécurité, qui a réussi à la faire supprimer.
+- Passer la publicité Passer la publicitéC’est une faille d’ampleur.
+- Le chercheur en cybersécurité Jeremiah Fowler a débusqué une vaste base de données renfermant près de 149 millions d’identifiants volés, associés à leurs mots de passe, pour divers services en ligne très populaires.
+- D’après l’expert, celle-ci était disponible en accès libre sur Internet, sans mot de passe ni chiffrage.
+
+## [Une startup israélienne lève 150 millions de dollars pour sécuriser les actifs critiques des ...](https://fr.timesofisrael.com/une-startup-israelienne-leve-150-millions-de-dollars-pour-securiser-les-actifs-critiques-des-usines-et-hopitaux/)  
+*Source : fr.timesofisrael.com | Publication : 2026-01-23*
+
+- Une startup israélienne lève 150 millions de dollars pour sécuriser les actifs critiques des usines et hôpitaux Les fonds iront au développement de la plateforme logicielle de Claroty, qui protège usines, industries et hôpitaux contre les cybermenaces sur l'eau, dans les pipelines et sur les chaînes d'approvisionnement Sharon Wrobel est journaliste spécialisée dans les technologies pour le Times of Israel.
+- Jeudi, la société de cybersécurité fondée en Israël Claroty a annoncé la levée de 150 millions de dollars pour étendre sa plateforme logicielle, qui sert à protéger les usines et industries des tentatives de piratage de leurs infrastructures physiques critiques.
+- Le tour de table à l’issue duquel la société de cybersécurité a été valorisée à 3 milliards de dollars est l’oeuvre de Golub Growth, une filiale du prêteur privé américain Golub Capital.
+- Ce nouvel investissement porte à près de 900 millions de dollars le montant des fonds levés à ce jour par Claroty, avec des investisseurs tels que le géant japonais de l’investissement SoftBank, Bessemer Venture Partners, le sud-coréen LG, Schneider Electric, Siemens ou encore Team8.
+
+## [Sam Altman d'OpenAI annonce de prochains lancements Codex et un focus sur la ...](https://fr.investing.com/news/stock-market-news/sam-altman-dopenai-annonce-de-prochains-lancements-codex-et-un-focus-sur-la-cybersecurite-93CH-3235050)  
+*Source : fr.investing.com | Publication : 2026-01-23*
+
+- Dans un message sur X, Altman a déclaré qu'OpenAI approche du "niveau élevé de Cybersécurité " sur son cadre de préparation, indiquant que l'entreprise.
+
+## [Faut-il interdire le paiement des <b>ransomwares</b> ? Ce que le débat britannique change (ou ...](https://www.journaldunet.com/cybersecurite/1547451-faut-il-interdire-le-paiement-des-ransomwares-ce-que-le-debat-britannique-change-ou-pas-pour-les-organisations-francaises/)  
+*Source : journaldunet.com | Publication : 2026-01-23*
+
+- Faut-il interdire le paiement des ransomwares ?.
+- Ce que le débat britannique change (ou pas) pour les organisations françaises Plutôt que payer une rançon, mieux vaut protéger son "noyau vital", disposer de sauvegardes réellement restaurables et se préparer aux crises cyber.
+- Au Royaume‑Uni, le gouvernement prépare une interdiction du paiement des ransomwares dans le secteur public et pour les opérateurs d’infrastructures critiques.
+- Il envisage aussi un nouveau régime de notification préalable : toute organisation qui souhaiterait payer une rançon devrait en informer l’État.
+
+## [<b>Cybersécurité</b> : des attaques moins nombreuses mais plus graves pour les entreprises françaises](https://www.alliancy.fr/cybersecurite-des-attaques-moins-nombreuses-mais-plus-graves-pour-les-entreprises-francaises-1f8a6403-7aff-4e25-a1f3-b040cc5568b8)  
+*Source : alliancy.fr | Publication : 2026-01-23*
+
+- E-mail Profil Instagram Profil LinkedIn Site web Profil Twitter Chaîne YouTube 23 janvier 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [Moins de cyberattaques, mais des impacts toujours plus lourds : Comment la <b>cybersécurité</b> ...](https://www.usine-digitale.fr/cybersecurite/moins-de-cyberattaques-mais-des-impacts-toujours-plus-lourds-comment-la-cybersecurite-devient-un-enjeu-de-souverainete-de-gouvernance-et-de-dependance-aux-tiers.S6X42GIJWZAPLLLDTIZ6B5ZV64.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-23*
+
+- Le 11e baromètre du Club des Experts de la Sécurité de l’Information et du Numérique (Cesin), réalisé par OpinionWay, dresse un constat qui peut sembler paradoxal.
+- Moins d’attaques réussies, des impacts toujours massifs En 2025, la proportion d’entreprises françaises déclarant avoir subi au moins une attaque informatique “significative” recule à 40%, contre 47% en 2024 et 65% en 2019.
+- Pour autant, lorsque l’attaque aboutit, ses conséquences restent massives : 81% des entreprises déclarent un impact réel sur leur activité.
+- La cybersécurité semble ainsi rentrer dans une nouvelle phase : elle ne relève plus d’une simple montée en puissance technique mais également d’un pilotage stratégique des dépendances.
+
+## [Cellnex vend Towerlink à Vauban Infra fibre - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/933-reseau/64383-cellnex-vend-towerlink-a-vauban-infra-fibre.html)  
+*Source : linformaticien.com | Publication : 2026-01-23*
+
+- Ransomware : les jours d'après · Réseau · Cellnex vend Towerlink à Vauban Infra fibre.
+- Détails: 23 janvier 2026.
+- Cellnex, par l'intermédiaire de sa.
+
+## [L'Union européenne va renforcer la <b>cybersécurité</b> de ses chaînes d'approvisionnement](https://incyber.org/article/union-europeenne-va-renforcer-cybersecurite-ses-chaines-dapprovisionnement/)  
+*Source : incyber.org | Publication : 2026-01-23*
+
+- L’Union européenne va renforcer la cybersécurité de ses chaînes d’approvisionnement Articles du même auteur : 1 23.01.26 Secops Assurance cyber : Stoïk lève 20 millions d’euros Lire 01.
+- 2 4 21.01.26 Cyber + Anthropic viserait une levée de fonds record à 25 milliards de dollars Lire 01.
+
+## [La moitié des vulnérabilités connues persistent malgré la généralisation de la visibilité](https://itsocial.fr/cybersecurite/cybersecurite-articles/la-moitie-des-vulnerabilites-connues-persistent-malgre-la-generalisation-de-la-visibilite/)  
+*Source : itsocial.fr | Publication : 2026-01-23*
+
+- Check Point Software Technologies lance Exposure Management et publie le rapport « State of Exposure Management 2026 ».
+- L’éditeur y chiffre le décalage croissant entre la visibilité sur les vulnérabilités et la capacité réelle à les corriger, en qualifiant ce nouvel angle mort comme le « temps de persistance de l’exposition ».
+- Pour Check Point, les organisations disposent aujourd’hui d’une visibilité sans précédent sur leurs risques, mais cette avancée ne se traduit pas mécaniquement par une réduction du nombre d’incidents.
+- Dans son rapport, l’éditeur insiste : « La visibilité, à elle seule, ne réduit pas le risque » et observe que l’exécution reste le principal défi des équipes sécurité.
+
+## [<b>Cybersécurité</b> 2025 : les attaques bondissent de 152 % - E-commerce Mag](https://www.ecommercemag.fr/techno-ux-1226/cybersecurite-2025-les-attaques-bondissent-de-152-55387)  
+*Source : ecommercemag.fr | Publication : 2026-01-23*
+
+- Les menaces liées à la cybersécurité sont de plus en plus pressantes.
+- Entre novembre 2024 et octobre 2025, 8,25 % des organisations du retail et du e-commerce ont été la cible de ransomware, selon Kaspersky.
+- Plus inquiétant encore, le nombre de consommateurs B2B uniques touchés par ces attaques a bondi de 152 % par rapport à l’année 2023.
+- Une recrudescence qui s’explique principalement par la propagation du logiciel malveillant Trojan-Ransom.Win32.Dcryptor.
+
+## [Cartographier les dépendances IT, nouveau chantier de la cyber-résilience](https://www.solutions-numeriques.com/cartographier-les-dependances-it-nouveau-chantier-de-la-cyber-resilience/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-23*
+
+- Pour mieux anticiper et piloter les risques cyber liés à leurs chaînes technologiques, plusieurs grands groupes français ont adopté un référentiel commun de cartographie des dépendances IT.
+- Cette démarche s’inscrit dans une tendance plus large en Europe, qui considère désormais la dépendance numérique comme un enjeu majeur de résilience et de cybersécurité.
+- Un outil pour mesurer et gouverner le risque numérique Face à la complexité croissante des chaînes d’approvisionnement numériques, plusieurs grandes organisations, dont la Caisse des Dépôts, RTE, Docaposte, SNCF ou CMA-CGM, travaillent à un Indice de Résilience Numérique (IRN), conçu pour traduire les dépendances IT en métriques exploitables dans la gouvernance d’entreprise.
+- Ce référentiel vise à rendre visible et mesurable une forme de risque souvent difficile à appréhender dans les tableaux de bord classiques.
+
+## [La startup de <b>cybersécurité</b> Claroty (Tel-Aviv) a levé $150 millions. - IsraelValley](https://israelvalley.com/2026/01/23/la-startup-de-cybersecurite-claroty-tel-aviv-a-leve-150-millions/)  
+*Source : israelvalley.com | Publication : 2026-01-23*
+
+- Une startup israélienne lève 150 millions de dollars pour sécuriser les actifs critiques des usines et hôpitaux Les fonds iront au développement de la plateforme logicielle de Claroty, qui protège usines, industries et hôpitaux contre les cybermenaces sur l’eau, dans les pipelines et sur les chaînes d’approvisionnement Jeudi, la société de cybersécurité fondée en Israël Claroty a annoncé la levée de 150 millions de dollars pour étendre sa plateforme logicielle, qui sert à protéger les usines et industries des tentatives de piratage de leurs infrastructures physiques critiques.
+- Le tour de table à l’issue duquel la société de cybersécurité a été valorisée à 3 milliards de dollars est l’oeuvre de Golub Growth, une filiale du prêteur privé américain Golub Capital.
+- Ce nouvel investissement porte à près de 900 millions de dollars le montant des fonds levés à ce jour par Claroty, avec des investisseurs tels que le géant japonais de l’investissement SoftBank, Bessemer Venture Partners, le sud-coréen LG, Schneider Electric, Siemens ou encore Team8.
+- Claroty a été fondée en 2014 par Amir Zilberstein, associé gérant chez Team8, l’entrepreneur en série Benny Porat et l’entrepreneure du secteur de la cybersécurité Galina Antova.
+
+## [Ce danger qui vous guette si vous utilisez le wifi gratuit dans certaines gares - Sudinfo](https://www.sudinfo.be/id1097825/article/2026-01-22/ce-danger-qui-vous-guette-si-vous-utilisez-le-wifi-gratuit-dans-certaines-gares)  
+*Source : sudinfo.be | Publication : 2026-01-23*
+
+- Interrogé à la Chambre, le ministre fédéral de la Mobilité a fait le point sur la cybersécurité pour les usagers du rail ... cybersécurité pour les.
+
+## [« C'est le seul fonds européen qui a gagné aux Etats-Unis » : comment Index est rentré ...](https://www.lesechos.fr/start-up/ecosysteme/cest-le-seul-fonds-europeen-qui-a-gagne-aux-etats-unis-comment-index-est-rentre-dans-la-cour-des-grands-du-capital-risque-2211575)  
+*Source : lesechos.fr | Publication : 2026-01-23*
+
+- 2025 a été un cru exceptionnel en matière de sortie : l'acquisition de la star de la cybersécurité Wiz par Google (qui lui rapporte 4,1 milliards.
+
+## [Cyber Resilience Act : l'Europe soutient les PME qui doivent s'y conformer - MR](https://www.mr.be/cyber-resilience-act-leurope-soutient-les-pme-qui-doivent-sy-conformer/)  
+*Source : mr.be | Publication : 2026-01-23*
+
+- L’Union européenne, avec la participation active du Centre pour la Cybersécurité Belgique, lance un appel à candidature nommé SECURE pour aider les PME à se conformer aux nouvelles règles européennes en matière de cybersécurité.
+- Le premier appel à candidatures pour obtenir un financement sera lancé le 28 janvier prochain.
+- Il offre aux PME européennes la possibilité d’obtenir jusqu’à 30.000 € par projet (par cofinancement à 50 %) afin de mettre en œuvre des mesures concrètes de cybersécurité conformes à la Cyber Resilience Act (CRA).
+- Eléonore SIMONET, Ministre des Classes moyennes, des Indépendants et des PME : « Il s’agit d’une belle opportunité pour les PME : fabricants, importateurs, distributeurs de produits comportant des éléments numériques et les développeurs de logiciels.
 
 ## [L'effrayante stratégie des hackers : quand les outils de confiance deviennent des chevaux de Troie](https://www.clubic.com/actualite-596680-l-effrayante-strategie-des-hackers-quand-les-outils-de-confiance-deviennent-des-chevaux-de-troie.html)  
 *Source : clubic.com | Publication : 2026-01-22*
