@@ -1,5 +1,162 @@
-# Résumés – 2026-01-23
+# Résumés – 2026-01-24
 
+
+## [Angola: La <b>cybersécurité</b>, une exigence de la souveraineté nationale - Députée Elisandra Coelho](https://fr.allafrica.com/stories/202601240021.html)  
+*Source : fr.allafrica.com | Publication : 2026-01-24*
+
+- Luanda — La députée Elisandra Coelho, du groupe parlementaire MPLA, a déclaré ce vendredi à Luanda que la cybersécurité n'est plus un luxe technologique, mais une nécessité pour la souveraineté et la sécurité nationale.
+- S'exprimant lors de la 6e séance plénière ordinaire de la 4e session législative de la 5e législature de l'Assemblée nationale, qui a examiné et approuvé le projet de loi sur la cybersécurité, la parlementaire a affirmé que la souveraineté d'un État se défend également dans l'espace numérique.
+- Par conséquent, elle estime que l'Angola doit affirmer son autorité, sa sécurité et son avenir dans ce domaine, car il s'agit d'un « nouveau champ de bataille invisible, silencieux, mais extrêmement puissant ».
+- « Un pays qui ne maîtrise pas son espace numérique ne maîtrise pas son destin.
+
+## [Le faux bon plan des extensions IA qui exfiltrent du code à grande échelle - Clubic](https://www.clubic.com/actualite-596944-le-faux-bon-plan-des-extensions-ia-qui-exfiltrent-du-code-a-grande-echelle.html)  
+*Source : clubic.com | Publication : 2026-01-24*
+
+- ChatGPT – 中文版 et ChatMoss sont des extensions disponibles sur le Visual Studio Code Marketplace, destinées à fournir des suggestions et complétions de code.
+- Mais ce que l’utilisateur ne sait pas, c’est que le contenu des fichiers ouverts est envoyé vers des serveurs distants situés en Chine sans avertissement ni consentement.
+- Les équipes de Koi Security ont analysé ChatGPT – 中文版 et ChatMoss et documenté leur mécanisme de transfert de fichiers.
+- Ces extensions, disponibles sur le Visual Studio Code Marketplace, fournissent des suggestions et complétions de code.
+
+## [En Iran, la coupure générale d'internet dure, et empêche de travailler - The Times of Israël](https://fr.timesofisrael.com/en-iran-la-coupure-generale-dinternet-dure-et-empeche-de-travailler/)  
+*Source : fr.timesofisrael.com | Publication : 2026-01-24*
+
+- En Iran, la coupure générale d’internet dure, et empêche de travailler Une coupure qui, selon l'estimation de l'ONG de surveillance de la cybersécurité NetBlocks, entraîne un manque à gagner élevé : plus de 31 millions d'euros quotidiennement Coupé du monde depuis deux semaines à cause du blocage d’internet en Iran, Amir, créateur de contenu, passe ses journées sur les rares sites d’information accessibles sur l’intranet local, à la recherche d’indices sur la date du rétablissement de la connexion.
+- Amir, qui n’a pas souhaité donné son nom de famille, a 32 ans.
+- Il gagne sa vie en faisant sur internet des critiques de jeux vidéos et de films, mais depuis la coupure inédite imposée par les autorités le 8 janvier, il n’a rien pu produire et s’inquiète pour son avenir.
+- « Tout mon travail repose sur internet, je ne me vois pas survivre sans », décrit Amir, qui tient plusieurs comptes sur Instagram et YouTube.
+
+## [Burkina : La Brigade centrale de lutte contre la <b>cybercriminalité</b> (BCLCC) alerte sur de ... - leFaso.net](https://lefaso.net/spip.php?article143963)  
+*Source : lefaso.net | Publication : 2026-01-24*
+
+- Burkina : La Brigade centrale de lutte contre la cybercriminalité (BCLCC) alerte sur de fausses plateformes d’investissement Ces derniers temps, la Brigade centrale de lutte contre la cybercriminalité (BCLCC) dit avoir constaté la multiplication de fausses plateformes d’investissement en ligne, largement diffusées sur les réseaux sociaux.
+- Elle a, à cet effet, interpellé les internautes sur sa page Facebook.
+- Derrière des promesses de profits rapides et de gains élevés se cachent en réalité de véritables réseaux d’arnaque, mis en place par des cybercriminels dont l’objectif est de tromper la vigilance des internautes afin de leur soutirer de l’argent.
+- Ces plateformes frauduleuses se présentent comme des entreprises crédibles en usurpant parfois l’identité de grandes marques ou de sociétés bien connues, opérant dans des secteurs variés tels que l’énergie solaire, l’agroalimentaire, le commerce en ligne, l’automobile ou encore l’immobilier.
+
+## [Québec encadre l'usage de l'IA dans la fonction publique | La Presse - LaPresse.ca](https://www.lapresse.ca/actualites/politique/2026-01-24/quebec-encadre-l-usage-de-l-ia-dans-la-fonction-publique.php)  
+*Source : lapresse.ca | Publication : 2026-01-24*
+
+- Québec encadre l’usage de l’IA dans la fonction publique (Montréal) Le ministère québécois de la Cybersécurité et du Numérique (MCN) adopte des mesures afin d’encadrer l’utilisation de l’intelligence artificielle générative (IAG) par les organismes publics.
+- Ces balises s’inscrivent dans les meilleures pratiques, selon des experts, qui redoutent tout de même une mise en œuvre difficile.
+- Quelques jours avant Noël, Québec a annoncé dans un communiqué l’entrée en vigueur d’une « indication d’application ».
+- Ce document contient des mesures pour l’usage de l’IAG dans l’administration publique.
+
+## [Pourquoi mon filtre antispam fonctionne-t-il si mal ? - The Conversation](https://theconversation.com/pourquoi-mon-filtre-antispam-fonctionne-t-il-si-mal-273053)  
+*Source : theconversation.com | Publication : 2026-01-24*
+
+- Comment les spams passent-ils au travers des multiples couches de protection annoncées comme presque infranchissables par les entreprises et par les chercheurs en cybersécurité ?.
+- Les escroqueries existent depuis fort longtemps, du remède miracle vendu par un charlatan aux courriers dans la boîte aux lettres nous promettant monts et merveilles plus ou moins fantasques.
+- Mais le Web a rendu ces canaux moins intéressants pour les arnaqueurs.
+- Les e-mails de spam et le « phishing » (hameçonnage) se comptent aujourd’hui en millions d’e-mails par an et ont été la porte d’entrée pour des incidents majeurs, comme les fuites d’e-mails internes d’Emmanuel Macron lors de sa campagne présidentielle en 2017, mais aussi le vol de 81 millions de dollars (plus de 69 millions d’euros) à la banque du Bangladesh en 2016.
+
+## [Entreprises Web3 invitées à renforcer la <b>cybersécurité</b> | Phemex News](https://phemex.com/fr/news/article/web3-companies-urged-to-enhance-cybersecurity-measures-55739)  
+*Source : phemex.com | Publication : 2026-01-24*
+
+- Il est conseillé aux entreprises Web3 de renforcer leurs protocoles de cybersécurité afin de prévenir d'éventuelles violations.
+- Les recommandations clés incluent la mise en place d'une authentification à deux facteurs lors des processus de connexion, en utilisant des applications d'authentification, des clés matérielles ou des clés d'accès pour réduire les fuites d'identifiants et le détournement de comptes.
+- De plus, tous les ordinateurs de travail doivent être chiffrés, protégés par mot de passe ou équipés de verrous à empreinte digitale, et configurés pour se verrouiller automatiquement lorsqu'ils sont laissés sans surveillance.
+- Les opérations critiques telles que l'accès aux clés, les autorisations de déploiement et les comptes financiers doivent être effectuées sur des appareils de confiance, avec des confirmations de signature par clé matérielle.
+
+## [Tous les articles qui parlent de Kolawole Osinowo - Afrimag](https://afrimag.net/personnes/kolawole-osinowo/)  
+*Source : afrimag.net | Publication : 2026-01-24*
+
+- dimanche 25 janvier 2026 Récemment : Protection des données | Souveraineté numérique : le Burkina Faso rapatrie son «cerveau» administratif - Afrique de l’Ouest | Électricité hors réseau : Izili accélère son positionnement avec le rachat stratégique de Qotto - Nigeria | Cybermenaces : le pays fait face à une vague annoncée de ransomwares et de phishing en 2026 - Chine-Afrique | Echanges : le déficit abyssal de la balance commerciale - CAN-2025 | Le Maroc fier d’avoir contribué au rayonnement de l’Afrique et de son football (Roi Mohammed VI) - RD-Congo | Minéraux critiques : le deal que Kinshasa propose aux Américains - Notation de crédit | Afreximbank rompt avec Fitch Ratings - RD-Congo | Le come-back de Kinshasa sur le marché financier international -.
+
+## [Cyberattaques dans le Sport : golf, chasse, volley, tennis… Pourquoi les fédérations sont ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaques-dans-le-sport-golf-chasse-volley-tennis-pourquoi-les-federations-sont-elles-ciblees-par-les-pirates-27559276.php)  
+*Source : sudouest.fr | Publication : 2026-01-24*
+
+- Golf, chasse, volley, tennis : plusieurs fédérations sportives ont été victimes de piratages massifs ces derniers jours et ces dernières semaines.
+- Des millions de licenciés sont concernés par ces vols de données Le sport français est secoué par une série de cyberattaques sans précédent.
+- Ces derniers jours, plusieurs fédérations viennent de subir des piratages massifs, entraînant la fuite de données personnelles de millions de licenciés.
+- Les attaques les plus récentes touchent notamment le golf, la chasse et le volley, mais avant elles, ces dernières semaines, les fédérations de tir sportif, de football ou de tennis ont elles aussi été prises pour cibles, confirmant une tendance inquiétante qui s’étend à toutes les disciplines.
+
+## [« Je suis expert en <b>cybersécurité</b> bancaire et voici les réflexes simples qui évitent la majorité ...](https://www.lepoint.fr/argent/je-suis-expert-en-cybersecurite-bancaire-et-voici-les-reflexes-simples-qui-evitent-la-majorite-des-6M5PMRTEGBFBRBW3NZFHEYUC2Q/)  
+*Source : lepoint.fr | Publication : 2026-01-24*
+
+- 85 % des Français redoutent un piratage de leurs données bancaires, 81 % les arnaques en ligne.
+- Ces chiffres sont issus d’un sondage réalisé par Toluna Harris Interactive et la Fédération bancaire française, en juin 2025.
+- La bonne nouvelle, selon l’étude : « la notoriété des principales escroqueries continue de progresser » et les réflexes « s’améliorent ».
+- Nous avons sollicité François Lefebvre, directeur adjoint de la Fédération bancaire française, qui a pris le temps de nous donner 6 conseils, afin d’aider le grand public à lutter contre ces arnaques.
+
+## [La Poste a affronté la plus grande cyberattaque DDoS jamais enregistrée en France - Clubic](https://www.clubic.com/actualite-596890-la-poste-a-affronte-la-plus-grande-cyberattaque-ddos-jamais-enregistree-en-france.html)  
+*Source : clubic.com | Publication : 2026-01-24*
+
+- Philippe Bertrand, le directeur de la sécurité de La Poste, est revenu sur la terrible cyberattaque subie il y a quelques semaines, qui a paralysé une partie des activités du groupe.
+- Une première en France, par son intensité.
+- La Poste n'a pas encore beaucoup communiqué depuis l'attaque informatique de type DDoS à rallonge survenue à cheval entre la fin de l'année 2025 et le début de l'année 2026.
+- Philippe Bertrand, directeur de la sécurité globale du groupe, a livré en fin de semaine son analyse sans concession de l'offensive subie.
+
+## [Le cerveau du plus grand braquage de cryptos de l'histoire cherche du boulot en <b>cybersécurité</b>](https://www.numerama.com/cyberguerre/2166405-le-cerveau-du-plus-grand-braquage-de-cryptos-de-lhistoire-cherche-du-boulot-en-cybersecurite.html)  
+*Source : numerama.com | Publication : 2026-01-24*
+
+- « Ancien hacker sur le chemin de la rédemption », ainsi débute la bio LinkedIn d’Ilya Lichtenstein.
+- Si ce nom vous dit quelque chose, c’est normal : cet homme de 38 ans a été jugé pour avoir orchestré le piratage de la plateforme Bitfinex en 2016 et d’avoir blanchi, avec sa femme Heather Morgan, près de 120 000 bitcoins volés, soit près de 10 milliards d’euros.
+- Arrêté en 2022, le couple avait alors plaidé coupable et bénéficié d’une libération anticipée après sa coopération avec les autorités.
+- Sorti de prison en janvier 2026, Ilya Lichtenstein souhaite désormais reconstruire sa vie, ce qui passera nécessairement par le fait de retrouver du travail.
+
+## [6 milliards de mots de passe piratés : les virus voleurs de données ont fait un carnage en 2025](https://www.01net.com/actualites/6-milliards-mots-passe-pirates-virus-voleurs-donnees-carnage-2025.html)  
+*Source : 01net.com | Publication : 2026-01-24*
+
+- Les chercheurs de Specops viennent de publier leur rapport annuel consacré aux mots de passe compromis.
+- L’étude révèle tout d’abord que plus de six milliards de mots de passe ont été piratés par des logiciels malveillants tout au long de l’année dernière.
+- La majorité des vols ont été perpétrée par des malwares de type « infostealer ».
+- Il s’agit de malwares qui infectent des ordinateurs pour aspirer toutes les données qu’ils peuvent y trouver, comme des mots de passe enregistrés, des cookies, des mails et d’autres informations personnelles.
+
+## [La Société Niger-Transit « NITRA » désormais nationalisée - Agence Nigérienne de Presse](https://anp.ne/niger-la-societe-niger-transit-nitra-desormais-nationalisee/)  
+*Source : anp.ne | Publication : 2026-01-24*
+
+- Niamey, 23 janv(ANP)-Le Gouvernement du Niger réuni en Conseil des ministres sous la présidence du Chef de l’État, le Général d’Armée Abdourahamane Tiani a décidé, ce 23 janvier 2026 de nationaliser la Société Niger –Transit « Nitra ».
+- Selon le communiqué final du gouvernement dont copie est parvenue à l’ANP, cette nationalisation s’inscrit dans une vision politique de souveraineté économique et de maitrise nationale des infrastructures critiques.
+- « En effet, dans le contexte actuel de reconstruction économique, de recomposition géopolitique régionale et de sécurisation des chaînes d’approvisionnement, il est indispensable que l’État ait le contrôle intégral de cet outil stratégique afin de garantir l’accessibilité et la disponibilité continue des produits de première nécessité, dans des conditions de qualité et de coûts maitrisés », a-t-il expliqué.
+- La même source précise que « La nationalisation de la NITRA s’inscrit aussi dans une logique de redressement économique et de sauvegarde de cet actif stratégique national dont la détérioration prolongée des équilibres financiers, conjuguée à l’absence d’investissement et de recapitalisation des actionnaires privés a conduit à une érosion structurelle du capital plaçant l’entreprise dans un état de vulnérabilité incompatible avec son rôle systémique dans la logistique nationale ».
+
+## [La contrebassiste d'origine martiniquaise Sélène Saint-Aimé et le batteur ... - Outremers360](https://outremers360.com/bassin-atlantique-appli/la-contrebassiste-dorigine-martiniquaise-selene-saint-aime-et-le-batteur-guadeloupeen-arnaud-dolmen-a-laffiche-dalbi-jazz-festival-2026)  
+*Source : outremers360.com | Publication : 2026-01-24*
+
+- Sélène Saint-Aimé, chanteuse et contrebassiste, figure incontournable de la scène jazz contemporaine, et Arnaud Dolmen, l’un des batteurs les plus en vue de sa génération, multi primé, seront parmi les temps forts de la programmation d’Albi Jazz Festival qui aura lieu du 25 au 31 janvier 2026.
+- Une semaine de musique, de fêtes et de rencontres où se croisent, dans une ambiance festive et chaleureuse, des artistes incontournables de la scène jazz française et internationale, à l’instar de la contrebassiste d’origine martiniquaise et du batteur guadeloupéen, et de jeunes talents qui dessinent déjà les musiques de demain.
+- Les festivals de jazz existent aussi en hiver.
+- C’est le cas d’Albi Jazz Festival qui propose chaque année depuis sept ans une semaine de musique, de fêtes et de rencontres où artistes et publics se croisent dans une ambiance chaleureuse et conviviale.
+
+## [OpenAI Codex : Agent Logiciel Et Risque <b>Cybersécurité</b> - Pause Hardware](https://pausehardware.com/openai-codex-agent-ingenierie-risque/)  
+*Source : pausehardware.com | Publication : 2026-01-24*
+
+- Sam Altman a annoncé sur X le lancement d’un « mois Codex » chez OpenAI, avec une première salve de produits attendue la semaine prochaine.
+- Codex ne se limite plus à un simple API de complétion : l’éditeur le positionne comme un véritable environnement d’ingénierie logicielle, combinant modèles, outils et enchaînements de tâches sous la forme d’un agent logiciel opérationnel.
+- OpenAI prévient que les nouveaux modèles Codex atteignent pour la première fois le niveau « High » de risque cybersécurité dans son Preparedness Framework, juste en dessous du palier « Critical ».
+- En clair, les capacités franchissent le seuil où l’IA peut lever des verrous techniques existants côté attaque, de l’assistance à la création d’outils d’offensive à l’automatisation d’opérations de bout en bout, jusqu’à la découverte et l’exploitation autonome de vulnérabilités jugées exploitables.
+
+## [Des pare-feu FortiGate compromis en quelques secondes par des attaques automatisées](https://www.clubic.com/actualite-596809-des-pare-feu-fortigate-compromis-en-quelques-secondes-par-des-attaques-automatisees.html)  
+*Source : clubic.com | Publication : 2026-01-24*
+
+- Depuis mi-janvier, des pare-feu FortiGate sont visés par une campagne automatisée mêlant export de configuration, création de comptes et accès à distance.
+- Un mode opératoire qui rappelle la vague d’attaques observée en décembre, sur fond de failles SSO et de patch à l'efficacité questionnée.
+- Nouvelle zone de turbulences pour les pare-feu FortiGate.
+- Depuis le 15 janvier, les chercheurs d’Arctic Wolf disent observer une campagne d’attaques automatisées, avec un enchaînement très rapide entre l’accès initial, les modifications de configuration et l’exfiltration de données sensibles.
+
+## [Intégrer le risque cyber au document unique d'évaluation des risques professionnels](https://www.naudrh.com/2026/01/integrer-le-risque-cyber-au-document-unique-d-evaluation-des-risques-professionnels.html)  
+*Source : naudrh.com | Publication : 2026-01-24*
+
+- La prise en compte des risques de cyberattaque est devenue essentielle pour les entreprises, car ces menaces peuvent compromettre non seulement la sécurité des données, mais aussi le bon fonctionnement des activités et la protection des personnes.
+- Certaines cyberattaques peuvent entraîner des conséquences directes sur la sécurité physique des salariés, par exemple lorsqu'un piratage perturbe les systèmes de contrôle d'accès aux locaux, expose des machines industrielles à des dysfonctionnements ou encore compromet les dispositifs de sécurité incendie.
+- Anticiper ces risques, les évaluer et mettre en place des mesures dédiées permet de réduire les impacts humains, juridiques et financiers, assurant ainsi la pérennité de l'entreprise et la sécurité des salariés.
+- L'évaluation des risques professionnels, réalisée par l'employeur, doit couvrir l'ensemble des risques pour la sécurité et la santé physique et mentale auxquels les salariés sont exposés dans l'entreprise.
+
+## [l'edge computing» : comment Fortinet et Capgemini façonnent l'avenir de la <b>cybersécurité</b> ...](https://livreblanc.silicon.fr/resource/securiser-ledge-computing-comment-fortinet-et-capgemini-faconnent-lavenir-de-la-cybersecurite-ot)  
+*Source : livreblanc.silicon.fr | Publication : 2026-01-24*
+
+- La sécurité des systèmes OT entre dans un moment décisif.
+- Les systèmes industriels qui fonctionnaient autrefois de manière isolés sont désormais profondément connectés — aux plateformes cloud, aux dispositifs IIoT, aux outils de maintenance à distance et à l’IT d’entreprise.
+- Le résultat ?.
+- Le traditionnel « air gap » a disparu, les incidents cyber augmentent rapidement, et de nombreuses organisations opèrent à l’aveugle, à l’intérieur de réseaux construits il y a des décennies, bien avant que la cybersécurité ne devienne un sujet.
+
+## [Alerte aux textos frauduleux: pourquoi le Canada est un terreau fertile - 98.5 Montréal](https://www.985fm.ca/audio/751792/alerte-aux-textos-frauduleux-pourquoi-le-canada-est-un-terreau-fertile)  
+*Source : 985fm.ca | Publication : 2026-01-24*
+
+- L'expert en cybersécurité Steve Waterhouse met en garde contre la recrudescence des fraudes à l'emploi par textos.
+- Ces arnaques ciblent souvent des personnes vulnérables en leur offrant des revenus attrayants pour des tâches simples, avant de les piéger dans un engrenage financier coûteux.
+- L'expert souligne que la légèreté des peines au Canada encourage les fraudeurs.
+- Écoutez Steve Waterhouse, expert en cybersécurité, expliquer le tout, vendredi, à La commission.
 
 ## [Cyberhebdo du 23 janvier : une semaine intense | LeMagIT](https://www.lemagit.fr/actualites/366637564/Cyberhebdo-du-23-janvier-une-semaine-intense)  
 *Source : lemagit.fr | Publication : 2026-01-23*
