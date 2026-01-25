@@ -1,5 +1,139 @@
-# Résumés – 2026-01-24
+# Résumés – 2026-01-25
 
+
+## [E-commerce et <b>cybersécurité</b> : l'IA transforme les risques pour les consommateurs](https://itchannel.info/articles/208585/e-commerce-et-cybersecurite-lia-transforme-les-risques-pour-les-consommateurs.html)  
+*Source : itchannel.info | Publication : 2026-01-25*
+
+- Veuillez activer Javascript.
+
+## [<b>Cybersécurité</b> : le ministère de la Santé peine à attirer les cabinets IT pour son SOC](https://ledesk.ma/enoff/cybersecurite-le-ministere-de-la-sante-peine-a-attirer-les-cabinets-it-pour-son-soc/)  
+*Source : ledesk.ma | Publication : 2026-01-25*
+
+- Dans un contexte de montée des risques cyber et de gestion croissante de données sensibles, ce projet était présenté comme une étape structurante pour.
+
+## [Tain-l'Hermitage. La <b>cybersécurité</b> en question ou comment mieux se prévenir des hackers](https://www.ledauphine.com/culture-loisirs/2026/01/25/la-cybersecurite-en-question-ou-comment-mieux-se-prevenir-des-hackers)  
+*Source : ledauphine.com | Publication : 2026-01-25*
+
+- Tain-l’Hermitage La cybersécurité en question ou comment mieux se prévenir des hackers Depuis un an, Éric Faure (57 ans), responsable informatique dans l’entreprise des brioches Pasquier et qui vient de créer l’entreprise de conseil en informatique auprès des entreprises et collectivités “Optimiz-si”.
+
+## [Passe ton hack d'abord : des lycéens de Granville se lancent dans un concours national ...](https://www.ouest-france.fr/normandie/granville-50400/passe-ton-hack-dabord-des-lyceens-de-granville-se-lancent-dans-un-concours-national-autour-de-la-cybersecurite-ead9ef06-f909-11f0-a56a-6539f5ca53c3)  
+*Source : ouest-france.fr | Publication : 2026-01-25*
+
+- de cybersécurité avec des défis à relever) , invite les participants à résoudre des énigmes mêlant programmation, sécurité informatique, investigation.
+
+## [<b>Cybercriminalité</b> : le ministère de la Justice veut bétonner l'arsenal législatif - Le Matin.ma](https://lematin.ma/nation/cybercriminalite-le-ministere-de-la-justice-muscle-larsenal-legislatif/326238)  
+*Source : lematin.ma | Publication : 2026-01-25*
+
+- Face à l’explosion des usages numériques et à la montée des menaces cybernétiques, le Maroc se retrouve confronté à une criminalité en ligne de plus en plus sophistiquée, allant du chantage électronique à la diffamation, en passant par les atteintes à la vie privée et les escroqueries numériques.
+- Une évolution qui met à l’épreuve le cadre juridique existant, souvent jugé éclaté et parfois insuffisant pour suivre la rapidité des transformations technologiques.
+- C’est dans ce contexte que le ministère de la Justice affirme vouloir renforcer l’arsenal législatif national afin de mieux encadrer les infractions commises dans l’espace digital et d’apporter une réponse plus cohérente et plus efficace à ces nouvelles formes de criminalité.
+- En effet, comme le rappelle le ministre, l’exploitation des technologies et des plateformes numériques soulève aujourd’hui de multiples interrogations, en raison de la multiplication d’actes criminels commis via Internet et les nouveaux outils de communication.
+
+## [Année Record Pour La <b>Cybersécurité</b> Israélienne - i24NEWS](https://www.i24news.tv/fr/actu/economie/technologie/artc-annee-record-pour-la-cybersecurite-israelienne)  
+*Source : i24news.tv | Publication : 2026-01-25*
+
+- Année record pour la cybersécurité israélienne L’année 2025 marque un tournant historique pour la cybersécurité israélienne, avec un volume record d’opérations de cession et d’introductions en Bourse totalisant plus de 72 milliards de dollars.
+- L’année 2025 s’impose comme l’une des plus marquantes de l’histoire de la cybersécurité israélienne, avec des chiffres sans précédent en matière d’exits et de levées de capitaux.
+- Selon un rapport conjoint publié par Cybertech Global et la société de recherche IVC, les entreprises israéliennes du secteur ont enregistré des exits cumulés de 72,6 milliards de dollars, soit une progression spectaculaire de plus de 1 500 % par rapport à 2024.
+- Parallèlement, les levées de fonds ont atteint un niveau record de 8,27 milliards de dollars.
+
+## [Sécurité du cloud : les entreprises dépassées par l'accélération des menaces pilotées par l'IA](https://itrnews.com/articles/208579/securite-du-cloud-les-entreprises-depassees-par-lacceleration-des-menaces-pilotees-par-lia.html)  
+*Source : itrnews.com | Publication : 2026-01-25*
+
+- Veuillez activer Javascript.
+
+## [Plus de 2 milliards de cyberattaques ciblent la banque centrale allemande chaque année.](https://www.vietnam.vn/fr/hon-2-ty-vu-tan-cong-mang-nham-vao-ngan-hang-trung-uong-duc-moi-nam)  
+*Source : vietnam.vn | Publication : 2026-01-25*
+
+- Selon le correspondant de l'agence de presse vietnamienne en Allemagne, la banque centrale allemande (Bundesbank) est confrontée à un défi sans précédent, l'institution financière subissant plus de 2 milliards de cyberattaques chaque année.
+- Le président de la Bundesbank, Joachim Nagel, a déclaré que le système informatique de la banque était le plus ciblé.
+- Selon lui, en moyenne, plus de 5 000 cyberattaques sont lancées chaque minute contre la Bundesbank, soit environ 2,5 milliards d'attaques par an.
+- Face à la recrudescence des attaques informatiques, Nagel a déclaré que la banque avait renforcé ses systèmes de défense au maximum afin de garantir une sécurité optimale, empêchant ainsi la plupart des attaques grâce à ses pare-feu.
+
+## [PARIS : <b>Cybersécurité</b> - Une approche d'audit hybride en vedette au Cyber Show 2026](https://presseagence.fr/paris-cybersecurite-une-approche-daudit-hybride-en-vedette-au-cyber-show-2026/)  
+*Source : presseagence.fr | Publication : 2026-01-25*
+
+- PARIS : Cybersécurité – Une approche d’audit hy… Partager : PARIS : Cybersécurité – Une approche d’audit hybride en vedette au Cyber Show 2026 Le groupe Constellation et sa filiale Login Sécurité participent au Cyber Show Paris pour promouvoir une méthode d’audit mêlant technique et organisationnel.
+- Face à une menace numérique grandissante, les stratégies de défense des entreprises doivent évoluer.
+- C’est le message que porteront le groupe Constellation et sa filiale spécialisée Login Sécurité lors de la prochaine édition du Cyber Show Paris (https://www.cybershowparis.fr/), qui se tient les 29 et 30 janvier 2026 à l’Espace Champerret.
+- Présents sur le stand E18, ces acteurs du numérique entendent démontrer l’importance d’une vision décloisonnée de la cybersécurité.
+
+## [La NASA développe une technologie blockchain pour assurer la sécurité des vols](https://www.notebookcheck.biz/La-NASA-developpe-une-technologie-blockchain-pour-assurer-la-securite-des-vols.1212048.0.html)  
+*Source : notebookcheck.biz | Publication : 2026-01-25*
+
+- La NASA développe une technologie blockchain pour assurer la sécurité des vols Les cybercriminels sont de plus en plus intelligents.
+- Mais la NASA a plusieurs longueurs d'avance.
+- Elle a développé une technologie blockchain qui permet de sécuriser les données de vol.
+- Les données de vol comprennent les plans de vol, les informations relatives à l'enregistrement des aéronefs et la télémétrie.
+
+## [Piratage d'État : quand la Chine et la Russie s'engouffrent dans les serveurs VMware non mis à jour](https://www.clubic.com/actualite-596959-piratage-d-etat-quand-la-chine-et-la-russie-s-engouffrent-dans-les-serveurs-vmware-non-mis-a-jour.html)  
+*Source : clubic.com | Publication : 2026-01-25*
+
+- Broadcom a corrigé une faille de VMware vCenter Server en juin 2024.
+- Des attaquants l'exploitent aujourd'hui, et la CISA américaine vient de l'ajouter à son catalogue des vulnérabilités utilisées en conditions réelles.
+- Le fournisseur de semi-conducteurs et de télécommunication Broadcom a publié vendredi une mise à jour de son avis de sécurité du 18 juin 2024.
+- L'entreprise confirme que la CVE-2024-37079 fait l'objet d'attaques concrètes.
+
+## [<b>Cybersécurité</b> : l'Europe muscle son arsenal, il était temps - Journal du Geek](https://www.journaldugeek.com/2026/01/25/cybersecurite-leurope-muscle-son-arsenal-il-etait-temps/)  
+*Source : journaldugeek.com | Publication : 2026-01-25*
+
+- La cybersécurité n’est plus un sujet cantonné aux spécialistes.
+- Attaques contre des hôpitaux, tentatives d’ingérence étrangère, campagnes de rançongiciels : l’Union européenne considère désormais ces menaces comme des risques directs pour son économie, ses institutions démocratiques et ses infrastructures essentielles.
+- C’est dans ce contexte que la Commission européenne a présenté un vaste paquet législatif destiné à renforcer la résilience numérique du continent.
+- La cybersécurité prise au sérieux par Bruxelles Dans les télécoms, le texte prolonge les travaux engagés ces dernières années autour de la sécurité des réseaux mobiles.
+
+## [Arnaque LeBonCoin : ce faux mail de paiement peut vous coûter cher - 01net.com](https://www.01net.com/actualites/arnaque-leboncoin-ce-faux-mail-de-paiement-peut-vous-couter-cher.html)  
+*Source : 01net.com | Publication : 2026-01-25*
+
+- Une nouvelle arnaque se propage actuellement sur LeBonCoin, le site de petites annonces préféré des Français.
+- La Gendarmerie de la Côte-d’Or, en Bourgogne‑Franche‑Comté, tire la sonnette d’alarme et met en garde les internautes à la recherche de bonnes affaires en ligne.
+- L’alerte, massivement relayée par la presse nationale, évoque une escroquerie reposant sur « Transaction sécurisée », le système de paiement en ligne sécurisé de LeBonCoin.
+- Lancé il y a six ans, le système « permet d’effectuer des transactions simples et sécurisées (inférieures à 2 500 €) pour vos échanges entre particuliers directement depuis votre messagerie », explique LeBonCoin sur site web.
+
+## [Space Hellas : un titre de niche télécoms / IT qui attire l'attention malgré une liquidité limitée](https://www.ad-hoc-news.de/boerse/news/ueberblick/space-hellas-un-titre-de-niche-telecoms-it-qui-attire-l-attention/68518213)  
+*Source : ad-hoc-news.de | Publication : 2026-01-25*
+
+- Space Hellas : un titre de niche télécoms / IT qui attire l’attention malgré une liquidité limitée 25.01.2026 - 13:23:39Au sein d’un marché européen dominé par les grands noms des télécoms et du numérique, Space Hellas S.A. reste un titre de niche, peu liquide, mais étroitement suivi par une poignée d’investisseurs spécialisés.
+- Le titre Space Hellas (ISIN GRS457003007), coté à Athènes, profite d’un regain d’attention lié à l’accélération des investissements numériques en Grèce et dans la région, alors que la société poursuit son positionnement d’intégrateur à forte valeur ajoutée dans les réseaux, la cybersécurité, le cloud et les solutions IT pour les administrations et les grandes entreprises.
+- Les dernières séances ont été marquées par des échanges modestes en volume, caractéristiques de ce dossier, mais avec une orientation globalement neutre à légèrement positive, portée par un flux constant de contrats et d’annonces commerciales.
+- Les intervenants restent toutefois partagés entre le potentiel de croissance lié aux grands programmes de transformation digitale et le risque inhérent à la taille réduite du groupe, à son exposition au secteur public grec et à la volatilité de ses marges.
+
+## [Automatisation : Le pari gagnant des fabricants face à la mondialisation - Economie et Cie](https://economiesetcie.com/manufacturier-automatisation-competitivite/)  
+*Source : economiesetcie.com | Publication : 2026-01-25*
+
+- Dans les ateliers comme dans les salles de contrôle, un même constat s’impose : la concurrence ne se joue plus seulement sur le prix, mais sur la vitesse d’exécution, la qualité mesurable et la capacité à reconfigurer une ligne en quelques heures.
+- Les entreprises du secteur manufacturier font face à des clients plus volatils, des exigences environnementales plus strictes et des chaînes d’approvisionnement secouées par les tensions géopolitiques et énergétiques.
+- Dans ce contexte de marché globalisé, l’automatisation n’est plus un projet “modernisation” parmi d’autres : elle devient une condition de survie industrielle, et souvent le levier le plus direct pour protéger la marge.
+- Robots, capteurs, logiciels de pilotage, vision par ordinateur, jumeaux numériques : la technologie s’invite partout, avec une promesse simple en apparence — produire mieux, plus vite, avec moins d’aléas — et des implications profondes sur le travail, l’organisation et l’innovation.
+
+## [Cyber Émission du 24 janvier : nos logiciels de <b>cybersécurité</b> gratuits à télécharger.](https://www.youtube.com/watch?v=YtXbeUISijY)  
+*Source : youtube.com | Publication : 2026-01-25*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Relizane : Arrestation de 9 personnes pour <b>cybercriminalité</b> - El Watan](https://elwatan.dz/relizane-arrestation-de-9-personnes-pour-cybercriminalite/)  
+*Source : elwatan.dz | Publication : 2026-01-25*
+
+- يتم التحقّق من أن طلبك ليس طلباً آلياً... Verifying that you are not a robot... Please wait few seconds...الرجاء الإنتظار بضعة ثوان DZSecurity.
+
+## [Interdiction des réseaux sociaux aux mineurs : comment la France s'apprête à passer à l'acte](https://www.lesechos.fr/tech-medias/hightech/interdiction-des-reseaux-sociaux-aux-mineurs-comment-la-france-sapprete-a-passer-a-lacte-2211705)  
+*Source : lesechos.fr | Publication : 2026-01-25*
+
+- « L'interdiction des réseaux sociaux aux mineurs n'est pas une solution, abonde Yasmine Douadi, spécialiste en cybersécurité au sein du cabinet.
+
+## [Automatiser la gestion des incidents de <b>cybersécurité</b>](https://www.ekhbary.com/news/1769309796-12573.html)  
+*Source : ekhbary.com | Publication : 2026-01-25*
+
+- Monday, 26 January 2026 | About Us | Contact Us Français العربية English Français ✓ Русский Türkçe हिन्दी 中文 Italiano Deutsch Kurdî 한국어 Español Português Kiswahili Nederlands فارسی ⚡ Breaking ● Migration centre de données SDEK : Un transfert inédit par avion ● Systeme Electric automatise la SKA Arena ● Perte de données ChatGPT: Un scientifique perd deux ans de travail ● Intel: Hausse des prix des processeurs pour PC face à la demande IA ● Manette de jeu Anbernic: Capteur de Fréquence Cardiaque Révolutionnaire ● Nvidia H200 Chine : Pékin autorise les géants tech, sous condition ● Nani, 39 ans, rejoint Aktobe ● Olivia Attwood et Bradley Dack : Séparation confirmée après une apparition publique ● Mass Start Biathlon Hommes : Qui dominera à Nove Mesto ?.
+- ● Ski de fond Coupe du Monde: La Norvège règne en maître à Goms Ekhbary Main Menu Home Moyen-Orient Actualités d'Égypte Actualités d'Arabie Saoudite Actualités Mondiales Arts et Célébrités Sports Technologie et Sciences Variétés About Us Contact Us Select Language العربية English Français Русский Türkçe हिन्दी 中文 Italiano Deutsch Kurdî 한국어 Español Português Kiswahili Nederlands فارسی.
+
+## [Cyberattaque contre la Fédération française de golf : les données de 450 000 membres ...](https://www.europe-infos.fr/cyberattaque/7614/cyberattaque-contre-la-federation-francaise-de-golf-les-donnees-de-450-000-membres-dont-bernard-arnault-piratees-et-mises-en-vente/)  
+*Source : europe-infos.fr | Publication : 2026-01-25*
+
+- Sommaire 1 La Fédération française de golf piratée : vol de données, célébrités touchées et implications - 2 La nature des données volées - 3 Les célébrités parmi les victimes - 4 Comparaison avec d’autres piratages récents - 5 Les conséquences pour la Fédération française de golf - 6 Les mesures prises et à venir - 7 À retenir - 8 Questions fréquentes - 9 Sources - Le monde du golf français est en émoi.
+- La Fédération française de golf (FFG), qui représente 450 000 adhérents, a été victime d’un piratage de grande envergure.
+- Les données dérobées, incluant celles de personnalités, ont été mises en vente en ligne.
+- Cet incident, confirmé par la FFG, soulève des questions sur la sécurité des données personnelles dans le milieu sportif.
 
 ## [Angola: La <b>cybersécurité</b>, une exigence de la souveraineté nationale - Députée Elisandra Coelho](https://fr.allafrica.com/stories/202601240021.html)  
 *Source : fr.allafrica.com | Publication : 2026-01-24*
