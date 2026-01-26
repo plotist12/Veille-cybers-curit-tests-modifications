@@ -1,5 +1,160 @@
-# Résumés – 2026-01-25
+# Résumés – 2026-01-26
 
+
+## [Khaled Bagban, DSI de Metro : « Le plus grand défi de l'IA est l'adoption des outils »](https://www.cio-online.com/actualites/lire-khaled-bagban-dsi-de-metro--le-plus-grand-defi-de-l-ia-est-l-adoption-des-outils-16800.html)  
+*Source : cio-online.com | Publication : 2026-01-26*
+
+- Khaled Bagban, DSI de Metro : « Le plus grand défi de l'IA est l'adoption des outils » Le géant international de la distribution alimentaire Metro déploie une stratégie d'IA centralisée, basée sur la technologie, mais aussi l'acculturation des équipes.
+- C'est aussi le cas pour ses démarches cyber et de résilience face aux risques géopolitiques.
+- Entretien avec Khaled Bagban, DSI de Metro.
+- PublicitéCIO : L'IA est actuellement un sujet incontournable.
+
+## [JO Milan Cortina 2026 : La <b>cybermenace</b> vise l'or - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/01/26/jo-milan-cortina-2026-cybermenace/)  
+*Source : dcod.ch | Publication : 2026-01-26*
+
+- TL;DR : L’essentiel Après un WEF sans incident, la menace bascule vers les Jeux de Milan Cortina.
+- Avec 3 milliards de spectateurs, l’événement offre une tribune idéale aux hacktivistes cherchant à diffuser leurs messages politiques par le sabotage numérique.
+- - Des groupes étatiques comme APT28 exploitent la concentration de diplomates pour l’espionnage stratégique.
+- Au-delà du vol de données, ils analysent les défenses adverses in situ pour affiner leurs futures offensives contre des cibles gouvernementales.
+
+## [Cyberattaque à la Fédération française de golf : quand le sport devient une cible comme les autres](https://www.solutions-numeriques.com/cyberattaque-a-la-federation-francaise-de-golf-quand-le-sport-devient-une-cible-comme-les-autres/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-26*
+
+- La Fédération française de golf a confirmé avoir subi une intrusion dans son système d’information ayant conduit à l’extraction de données personnelles de licenciés.
+- Si l’incident semble circonscrit et sans impact financier direct, il rappelle une réalité désormais bien installée : aucune organisation, même éloignée des secteurs dits “critiques”, n’échappe à la pression cyber.
+- Une intrusion détectée, une communication sous contrainte réglementaire L’alerte est venue directement de la Fédération française de golf, par un message adressé à ses licenciés.
+- Un accès non autorisé à l’un de ses systèmes a permis l’extraction de données à caractère personnel, comprenant notamment l’identité, les coordonnées et des informations administratives liées aux licences.
+
+## [149 millions de comptes volés : L'industrie crypto dans la ligne de mire d'un malware furtif](https://fr.tradingview.com/news/cointelegraph:bf1e22ff8b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-26*
+
+- 149 millions de comptes volés : L’industrie crypto dans la ligne de mire d’un malware furtif Une fuite de données sans précédent touche de plein fouet l’écosystème crypto.
+- 149 millions d’identifiants ont été découverts par un chercheur en cybersécurité, exposant les utilisateurs de Binance, Facebook, Gmail et bien d’autres plateformes.
+- Derrière cette opération, un malware discret mais redoutablement efficace : l’infostealer.
+- Explication d’un phénomène qui dépasse largement le cadre d’un simple vol de données.
+
+## [Cyberattaques : les entreprises françaises mieux armées mais toujours sous pression](https://www.silicon.fr/cybersecurite-1371/cyberattaques-les-entreprises-francaises-mieux-armees-mais-toujours-sous-pression-225366)  
+*Source : silicon.fr | Publication : 2026-01-26*
+
+- 40% des entreprises interrogées ont subi au moins une cyberattaque significative en 2025, selon les chiffres de la 11ème édition du baromètre CESIN (Club des Experts de la Sécurité de l’Information et du Numérique) réalisé avec OpinionWay.
+- Un chiffre qui pourrait sembler rassurant au premier abord, puisqu’il s’inscrit dans une tendance baissière observée depuis plusieurs années.
+- Mais les 397 directeurs cybersécurité et responsables de la sécurité des systèmes d’information (RSSI) interrogés sont formels : cette diminution ne signifie pas que la menace recule mais plutôt d’une amélioration progressive des capacités de détection et de prévention.
+- Car lorsqu’une attaque réussit à franchir les défenses, les dégâts sont considérables.
+
+## [<b>Cybersécurité</b> 2026 : l'ère des investissements massifs face aux menaces - JSTM](https://jstm.org/cybersecurite-investissements-2026/)  
+*Source : jstm.org | Publication : 2026-01-26*
+
+- Les budgets de cybersécurité n’ont plus rien d’accessoire : ils se négocient désormais au même niveau que les plans de continuité, les investissements cloud et les projets métiers structurants.
+- La raison est simple : la menace croissante ne se contente plus d’“attaquer l’informatique”, elle bloque la production, détourne la facturation, expose la protection des données et fragilise la confiance des clients.
+- Entre télétravail devenu norme, multiplication des objets connectés, APIs partout et dépendance au SaaS, la surface d’attaque s’étire à l’échelle de l’écosystème.
+- Dans ce contexte, des directions générales revoient leur modèle de risque, accélèrent l’industrialisation des contrôles, et exigent des preuves mesurables : temps de détection, capacité de restauration, maîtrise des accès, gestion des tiers.
+
+## [Cyberattaque en Pologne : un système de piratage russe inédit a failli provoquer un black ...](https://www.valeursactuelles.com/monde/cyberattaque-en-pologne-un-systeme-de-piratage-russe-inedit-a-failli-provoquer-un-black-out-du-pays)  
+*Source : valeursactuelles.com | Publication : 2026-01-26*
+
+- Des centaines de milliers de Polonais ont failli se retrouver dans le noir.
+- Durant la dernière semaine de décembre 2025, le réseau électrique polonais est passé tout près d’un scénario catastrophe, après l’offensive d’un puissant logiciel malveillant inédit, baptisé « DynoWiper », destiné à « détruire les fichiers sur les systèmes informatiques visés et à les rendre inopérants », rapporte Reuters.
+- Selon des chercheurs en cybersécurité cités par des agences de presse internationales, cette opération a été attribuée au groupe de hackers « Sandworm », une unité liée au renseignement militaire russe.
+- Ce groupe est déjà connu pour ses cyberattaques destructrices menées au service du Kremlin.
+
+## [Rapport annuel sur les menaces – Secteur de la santé 2026 - Health-ISAC](https://health-isac.org/fr/Rapport-annuel-sur-les-menaces-pesant-sur-le-secteur-de-la-santé-2026/)  
+*Source : health-isac.org | Publication : 2026-01-26*
+
+- Rapport annuel sur les menaces – Secteur de la santé 2026 Principales menaces pesant sur les organisations du point de vue du renseignement sur les cybermenaces (CTI), et risques uniques pour le secteur mondial de la santé Health-ISAC a publié le Paysage des menaces pesant sur le secteur de la santé mondial en 2026 rapport aux membres le 21 janvier 2026.
+- Le rapport présente des informations tirées de la base de données Health-ISAC sur les événements liés aux ransomwares, du programme de partage d'indicateurs, de la sécurité physique et de l'initiative d'alertes ciblées, illustrant les impacts ressentis par la communauté face aux principales menaces pesant sur le secteur mondial de la santé en 2025.
+- Le rapport présente des analyses fondées sur des données provenant de Base de données des événements de ransomware Health-ISAC, Sûreté du matériel évaluations, et les Alertes ciblées initiative, qui a distribué plus de Avertissements 1,200 au secteur en 2025.
+- Ces résultats mettent en évidence les impacts ressentis par la communauté face aux principales menaces, notamment la montée en puissance des attaques basées sur l'IA et les vulnérabilités importantes de la chaîne d'approvisionnement.
+
+## [Au Cambodge, l'exode de milliers d'étrangers fuyant les centres de cyberarnaque](https://www.courrierinternational.com/article/criminalite-au-cambodge-l-exode-de-milliers-d-etrangers-fuyant-les-centres-de-cyberarnaque_239775)  
+*Source : courrierinternational.com | Publication : 2026-01-26*
+
+- Au Cambodge, un véritable exode est en cours.
+- Des milliers d’étrangers employés dans des activités illégales de cyberescroquerie fuient en masse les zones dans lesquelles ils opéraient pour se diriger vers la capitale, Phnom Penh.
+- Ce phénomène, constate le média cambodgien Kiri Post, concerne en particulier les ressortissants chinois et “coïncide avec l’arrestation récente et l’extradition du président du groupe Prince, Chen Zhi, vers la Chine”.
+- Ce dernier est poursuivi pour fraude et blanchiment d’argent dans son pays d’origine, mais aussi aux États-Unis et en Grande-Bretagne.
+
+## [Souveraineté numérique : L'Europe confrontée à sa dépendance technologique aux Etats ...](https://www.usine-digitale.fr/souverainete/souverainete-numerique-leurope-confrontee-a-sa-dependance-technologique-aux-etats-unis-alors-que-son-economie-est-a-la-merci-de-washington.I763644BR5AUTC7JKGHG3BEYN4.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-26*
+
+- L’économie numérique européenne repose aujourd’hui sur un équilibre fragile, largement conditionné par l’accès à des technologies et à des services majoritairement contrôlés par des acteurs américains.
+- Tant que ces flux restent ouverts, tout fonctionne : les entreprises produisent, les administrations assurent leurs missions, les hôpitaux soignent, les données circulent.
+- Or, celui qui contrôle l’accès aux infrastructures, du matériel aux logiciels en passant par les plateformes numériques essentielles, détient un pouvoir direct sur la continuité même de l’activité économique européenne.
+- L’UE fortement dépendante des Etats-Unis et de la Chine C’est précisément ce que le Parlement européen reconnaît de façon explicite dans sa résolution du 22 janvier dernier sur la souveraineté technologique et les infrastructures numériques.
+
+## [Administratrice / Administrateur Systèmes et Réseaux en charge de la <b>cybersécurité</b>](https://choisirleservicepublic.gouv.fr/offre-emploi/administratrice--administrateur-systemes-et-reseaux-en-charge-de-la-cybersecurite-reference-2026-2172269/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2026-01-26*
+
+- Administratrice / Administrateur Systèmes et Réseaux en charge de la cybersécurité Référence : 2026-2172269 Fonction publique : Fonction publique de l'État - Employeur : Autorité de la Concurrence Autorité de la concurrence - Localisation : 11 rue de l'Echelle, 75001 Paris - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Expert - Rémunération Fourchette indicative pour les contractuels Selon exp.
+- à partir de 50K€ € brut/an Fourchette indicative pour les fonctionnaires Grille MEFSIN - Catégorie Catégorie A (cadre) - Management Non - Télétravail possible Oui - Vos missions en quelques mots Vous intervenez sur l’ensemble du périmètre de la cybersécurité opérationnelle (prévention, détection et réponse aux incidents) avec un haut niveau de maîtrise technique et en étroite coordination avec les autres acteurs du système d’information.
+- Vos principales missions sont les suivantes : · Administrer, sécuriser et maintenir les systèmes informatiques, en particulier les environnements UNIX / Linux, ainsi que les infrastructures Windows critiques.
+
+## [<b>Cybersécurité</b> ERP : comment protéger son système contre les hackers](https://www.solutions-numeriques.com/communiques/cybersecurite-erp-comment-proteger-son-systeme-contre-les-hackers/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-26*
+
+- L’ERP est souvent décrit comme le cœur numérique de l’entreprise.
+- Il centralise les données, orchestre les processus et relie les différents métiers autour d’un socle commun.
+- Cette position stratégique en fait une cible de choix pour les cybercriminels.
+- Un système ERP compromis, c’est potentiellement toute la chaîne de valeur qui vacille : production, logistique, facturation, gestion client.
+
+## [Les experts contestent la <b>cybersécurité</b> des écluses et des ponts néerlandais - Flows](https://fr.flows.be/divers/2026/01/les-experts-contestent-la-cybersecurite-des-ecluses-et-des-ponts-neerlandais/)  
+*Source : fr.flows.be | Publication : 2026-01-26*
+
+- Pour armer le secteur néerlandais de l'eau contre les cybermenaces , TNO a effectué des analyses en chaîne.
+- En raison notamment de la vétusté des.
+
+## [Cloud : l'Europe renonce à imposer des critères de souveraineté - Les Echos](https://www.lesechos.fr/tech-medias/hightech/cloud-leurope-renonce-a-imposer-des-criteres-de-souverainete-2211928)  
+*Source : lesechos.fr | Publication : 2026-01-26*
+
+- cybersécurité.
+- Ce contenu est réservé aux abonnés Premium et Premium Entreprises.
+- Entreprises et professionnels : transformez l'information en.
+
+## [PARIS : <b>Cybersécurité</b> en entreprise, pourquoi les journalistes et les agences doivent ...](https://presseagence.fr/paris-cybersecurite-en-entreprise-pourquoi-les-journalistes-et-les-agences-doivent-chiffrer-leurs-communications/)  
+*Source : presseagence.fr | Publication : 2026-01-26*
+
+- PARIS : Cybersécurité en entreprise, pourquoi les journalis… Partager : PARIS : Cybersécurité en entreprise, pourquoi les journalistes et les agences doivent chiffrer leurs communications Les rédactions, agences de presse et services de communication traitent quotidiennement des informations sensibles.
+- Les sources confidentielles, les documents internes, les échanges préparatoires ou les données personnelles sont au cœur du travail journalistique et institutionnel.
+- Avec la multiplication des cyberattaques et des tentatives d’ingérence numérique, la question de la sécurisation des communications professionnelles devient centrale.
+- Cette exposition accrue concerne aussi bien les grandes structures que les petites rédactions indépendantes.
+
+## [Étude Fortinet sur la sécurité du cloud : une complexité au détriment de la résilience - Evoke](https://news.evokepr.be/etude-fortinet-sur-la-securite-du-cloud--une-complexite-au-detriment-de-la-resilience)  
+*Source : news.evokepr.be | Publication : 2026-01-26*
+
+- Étude Fortinet sur la sécurité du cloud : une complexité au détriment de la résilience 80% des entreprises dépassées par la rapidité des menaces IA Diegem, le 26 janvier 2026 – Alors que de plus en plus d’entreprises se projettent dans un avenir sous l’égide de l’IA, la sécurité du cloud devient plus que jamais un facteur clé de leur succès, si ce n’est de leur survie.
+- L’adoption rapide de l’IA transforme radicalement la gestion des environnements cloud et étend la surface d’attaque à un rythme qui distance les modèles de sécurité traditionnels et la capacité des équipes à protéger les environnements modernes.
+- C’est dans ce contexte que Fortinet publie son dernier rapport sur la sécurité du cloud.
+- Un décalage structurel qui pèse sur la gestion des menaces Point d’orgue des conclusions de l’étude Fortinet sur la sécurité du cloud, une complexité dans le cloud qui s’accentue en raison d’un décalage structurel entre cet environnement moderne rapide et la capacité des équipes de sécurité à juguler les menaces grâce à une visibilité, une détection et une réponse en temps réel aux menaces.
+
+## [Chronopost renouvelle ses engagements environnementaux - E-commerce Mag](https://www.ecommercemag.fr/ecommerce-green-1346/rse-2324/chronopost-renouvelle-ses-engagements-environnementaux-et-vise-jusqua-26-de-co₂-dici-2027-55436/amp)  
+*Source : ecommercemag.fr | Publication : 2026-01-26*
+
+- Dans le cadre de ces chartes, Chronopost s’engage à réduire de 20 % les émissions de CO₂ de ses véhicules moyens propres (Objectif CO₂) et jusqu’à 26 % pour les véhicules de ses partenaires (EVcom), par rapport à 2024.
+- Pour Mickaël Cartron, Responsable RSE de Chronopost, ces engagements permettent de « mesurer, piloter et accélérer la trajectoire de décarbonation », tout en renforçant la confiance des clients et partenaires.
+- Pour atteindre ces objectifs, Chronopost multiplie les initiatives opérationnelles.
+- Sur le dernier kilomètre, 1 660 véhicules à faibles émissions (électriques et vélos) sont déjà en circulation, avec un déploiement continu sur l’ensemble du territoire.
+
+## [Organisé à Toulouse, l'un des plus grands événements dédiés à la <b>cybersécurité</b> s'ouvre à l'Europe](https://lopinion.com/articles/economie/32106_toulouse-evenements-cybersecurite-europe)  
+*Source : lopinion.com | Publication : 2026-01-26*
+
+- Organisé à Toulouse, l'un des plus grands événements dédiés à la cybersécurité s'ouvre à l’Europe Organisé à Toulouse, l'un des grands événements dédiés à la cybersécurité s'ouvre à l’Europe après une 7e saison réussie.
+- C'est l'un des événements majeurs dédiés à la cybersécurité en France.
+- Avec plus de 220 exposants, 3.000 visiteurs et une délégation de décideurs venus de cinq pays européens (Autriche, Estonie, Finlande, Espagne et Pologne), le Cybersecurity Business Convention (CBC) 2025, organisé en novembre dernier au MEETT de Toulouse, confirme son statut de rendez-vous incontournable de la cybersécurité.
+- La vocation du CBC s’ouvre progressivement à l’échelle européenne Cette ouverture à l’international marque une nouvelle étape dans le développement du CBC, qui a enregistré une hausse de fréquentation de 30 % par rapport à l’édition précédente.
+
+## [Genetec présente les bonnes pratiques de protection des données pour les équipes de ... - Le Devoir](https://www.ledevoir.com/communiques-de-presse/950907/genetec-presente-bonnes-pratiques-protection-donnees-equipes-securite-physique-occasion-journee-protection-donnees)  
+*Source : ledevoir.com | Publication : 2026-01-26*
+
+- MONTRÉAL, 26 janv.
+- 2026 (GLOBE NEWSWIRE) — À l’occasion de la Journée de la protection des données, Genetec Inc. (“Genetec”), le leader mondial des logiciels de sécurité physique d’entreprise, partage aujourd’hui une série de bonnes pratiques visant à aider les organisations à protéger les données sensibles issues de leurs systèmes de sécurité physique, tout en conservant l’efficacité de leurs opérations.
+- Les systèmes de sécurité génèrent de grands volumes de données, notamment des images vidéo, des enregistrements de contrôle d’accès et des informations relatives à des plaques d’immatriculation.
+- Ces données jouent un rôle de plus en plus important au quotidien dans les opérations de sécurité et les enquêtes, et les organisations font face à une pression croissante pour les gérer de manière responsable, dans un contexte marqué par l’évolution des réglementations sur le respect de la vie privée, l’augmentation des cybermenaces et des attentes de transparence toujours plus fortes.
+
+## [địt mẹ mày Morphisec - Quand les auteurs de malware narguent les chercheurs en sécu](https://korben.info/malware-morphisec-insult-vietnam-stealer.html)  
+*Source : korben.info | Publication : 2026-01-26*
+
+- Et pas n'importe quelle insulte, une qui vise directement Morphisec , un éditeur de solutions de cybersécurité.
+- Le message "địt mẹ mày Morphisec" (je.
 
 ## [E-commerce et <b>cybersécurité</b> : l'IA transforme les risques pour les consommateurs](https://itchannel.info/articles/208585/e-commerce-et-cybersecurite-lia-transforme-les-risques-pour-les-consommateurs.html)  
 *Source : itchannel.info | Publication : 2026-01-25*
