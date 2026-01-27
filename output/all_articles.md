@@ -1,5 +1,154 @@
-# Résumés – 2026-01-26
+# Résumés – 2026-01-27
 
+
+## [Brest Métropole sécurise ses SI interconnectés et ouverts - CIO-online](https://www.cio-online.com/actualites/lire-brest-metropole-securise-ses-si-interconnectes-et-ouverts-16805.html)  
+*Source : cio-online.com | Publication : 2026-01-27*
+
+- Brest Métropole sécurise ses SI interconnectés et ouverts Les SI d'une collectivité comme Brest Métropole sont par nature interconnectés et ouverts aux prestataires ou à plusieurs communes.
+- Pour en assurer la protection cyber, elle a opté pour une solution de cybersécurité offensive.
+- PublicitéL'établissement public de coopération intercommunale (EPCI) de Brest Métropole regroupe huit communes (Brest, Bohars, Gouesnou, Guilers, Guipavas, Le Relecq-Kerhuon, Plougastel-Daoulas et Plouzané), où vivent environ 400 000 habitants.
+- Et la métropole dispose d'une Direction des systèmes d'information et télécommunications (DSIT) composée de 62 agents, mutualisée avec six de ces huit communes.
+
+## [Wallix One Console : une interface unifiée pour piloter la <b>cybersécurité</b> des entreprises](https://itrmanager.com/articles/208614/wallix-one-console-une-interface-unifiee-pour-piloter-la-cybersecurite-des-entreprises.html)  
+*Source : itrmanager.com | Publication : 2026-01-27*
+
+- cybersécurité.
+- Cette nouvelle interface unique permet aux organisations de piloter l'ensemble de leurs outils Wallix depuis un seul point de.
+
+## [La Commission européenne va remettre à plat la <b>cybersécurité</b> de l'Union](https://lettreaudiovisuel.com/la-commission-europeenne-va-remettre-a-plat-la-cybersecurite-de-lunion/)  
+*Source : lettreaudiovisuel.com | Publication : 2026-01-27*
+
+- Des propositions vont être examinées par le Parlement européen et le Conseil de l'UE une fois approuvées, elles pourront être appliquées dans l'ensemble des pays-membres.
+- La Commission européenne a proposé de réviser le règlement sur la cybersécurité de 2019, qui établit le cadre pour la certification de cybersécurité des produits, services et processus numériques à […] L’accès complet à cet article est réservé à nos abonnés.
+- Débloquez ce contenu en choisissant une formule : 🔒 Accédez à tous nos contenus exclusifs !.
+- Abonnement à la semaine 50 € / Semaine Abonnement mensuel 170 € / Mois Abonnement trimestriel 480 € / 3 Mois Abonnement semestriel 900 € / 6 Mois Abonnement annuel 1 700 € / An Déjà abonné ?.
+
+## [Data Privacy Day 2026. Protéger les données, une priorité pour tous | DigitalWallonia.be](https://www.digitalwallonia.be/fr/publications/data-privacy-day-2026/)  
+*Source : digitalwallonia.be | Publication : 2026-01-27*
+
+- Le 28 janvier 2026, l'Europe célèbre le Data Privacy Day, une journée consacrée à la protection des données personnelles et à la vie privée dans l'univers numérique.
+- Initiée par le Conseil de l'Europe en 2006, cette journée vise à sensibiliser les consommateurs aux risques liés à l'utilisation de leurs données personnelles en ligne et à les informer sur leurs droits.
+- Plusieurs événements sont organisés du 28 au 29 janvier 2026 pour aborder les enjeux de la protection des données.
+- 28 janvier – Bruxelles : Data Protection Day 2026 : Reset or refine?.
+
+## [Événements <b>cybersécurité</b> en Suisse : la liste exclusive des 15 dates à ne pas manquer](https://dcod.ch/2026/01/27/evenements-cybersecurite-suisse-t1-2026/)  
+*Source : dcod.ch | Publication : 2026-01-27*
+
+- TL;DR : L’essentiel Cet article exclusif couvre la période du 27 janvier au 31 mars 2026.
+- Il offre aux professionnels et passionnés une visibilité totale sur l’agenda suisse, filtrant le bruit médiatique pour ne retenir que les opportunités stratégiques, techniques et politiques validées.
+- - L’analyse décode en profondeur deux sommets majeurs, les Swiss Cyber Security Days et Insomni’hack, tout en intégrant les meetups essentiels de Zurich à Genève pour une large couverture de l’écosystème de la sécurité informatique.
+- - Bien que consolidées avec rigueur, ces informations doivent être vérifiées sur les sites officiels des organisateurs.
+
+## [Une start-up de <b>cybersécurité</b> devient la 40ᵉ licorne d'Israël](https://fr.timesofisrael.com/une-start-up-de-cybersecurite-devient-la-40ᵉ-licorne-disrael/)  
+*Source : fr.timesofisrael.com | Publication : 2026-01-27*
+
+- Une start-up de cybersécurité devient la 40ᵉ licorne d’Israël Valorisée à 1,5 milliard de dollars, Upwind a développé une plateforme cloud protégeant les systèmes logiciels, à l'heure où les entreprises migrent vers le cloud et l'IA Sharon Wrobel est journaliste spécialisée dans les technologies pour le Times of Israel.
+- Spécialisée dans la cybersécurité, la start-up israélienne Upwind Security a annoncé lundi avoir levé 250 millions de dollars auprès d’investisseurs, ce qui lui confère une valorisation de 1,5 milliard de dollars.
+- Ce nouvel investissement fait de cette start-up de Tel Aviv une nouvelle « licorne » israélienne, c’est-à-dire une entreprise valorisée à 1 milliard de dollars ou plus.
+- Selon les données de l’Autorité de l’Innovation israélienne, Israël comptait 39 licornes technologiques à la fin de l’année 2025.
+
+## [Microsoft corrige en urgence une faille zero-day dans Office, déjà activement exploitée](https://www.clubic.com/actualite-597379-microsoft-corrige-en-urgence-une-faille-zero-day-dans-office-deja-activement-exploitee.html)  
+*Source : clubic.com | Publication : 2026-01-27*
+
+- Microsoft vient de sonner l’alerte sur l’exploitation active d’une faille zero-day dans Office et de proposer des mesures de protection.
+- Selon votre version et votre configuration, il faudra peut-être mettre la main à la pâte.
+- Redmond n’a pas attendu le prochain rendez-vous mensuel pour réagir.
+- L’éditeur a confirmé l’exploitation active d’une faille zero-day dans Office (CVE-2026-21509), qui repose sur l’ouverture d’un document piégé et peut conduire à l’exécution de code sur la machine de la victime.
+
+## [<b>Ransomware</b> : un déchiffreur défectueux laisse les victimes de Sicarii dans l'incertitude](https://www.lemagit.fr/actualites/366637741/Ransomware-un-dechiffreur-defectueux-laisse-les-victimes-de-Sicarii-dans-lincertitude)  
+*Source : lemagit.fr | Publication : 2026-01-27*
+
+- Afiq Sam - stock.adobe.com Ransomware : un déchiffreur défectueux laisse les victimes de Sicarii dans l’incertitude Une erreur de codage dans cette nouvelle souche de ransomware empêche les victimes de récupérer leurs données, même si elles coopèrent avec les pirates informatiques.
+- Une erreur de codage, probablement due à une utilisation excessive des outils de codage basés sur l’intelligence artificielle (IA), a rendu une nouvelle souche de ransomware extrêmement dangereuse, selon les chercheurs du Ransomware Research Center (RRC) de Halcyon.
+- L’enseigne Sicarii de ransomware en mode service (RaaS) a émergé de la cybercriminalité clandestine en décembre 2025, lorsqu’elle a commencé à rechercher des affiliés sur le dark web.
+- Mais aujourd’hui, l’analyse technique réalisée par l’équipe de Halcyon a permis d’identifier une faille critique dans le traitement des clés de chiffrement de Sicarii, qui rend impossible le déchiffrement des systèmes affectés, tant pour les victimes que pour les cybercriminels.
+
+## [Avis négatifs, chantage, raid numérique : le cyberharcèlement, nouveau fléau des TPE et PME - JDN](https://www.journaldunet.com/cybersecurite/1547541-avis-negatifs-chantage-raid-numerique-le-cyberharcelement-nouveau-fleau-des-tpe-et-pme/)  
+*Source : journaldunet.com | Publication : 2026-01-27*
+
+- Avis négatifs, chantage, raid numérique : le cyberharcèlement, nouveau fléau des TPE et PME Les TPE et PME sont de plus en plus victimes de cyberharcèlement.
+- Celui-ci provient d'acteurs variés et revêt différentes formes, allant d'avis négatifs sur Google à des pressions sur ses dirigeants.
+- Le cyberharcèlement ne vise pas seulement les individus.
+- Les entreprises sont elles aussi concernées.
+
+## [VIDÉO. « Passe ton hack d'abord » : 800 lycéens bretons cogitent sur des défis de <b>cybersécurité</b>](https://www.ouest-france.fr/education/video-passe-ton-hack-d-abord-800-lyceens-bretons-cogitent-sur-des-defis-de-cybersecurite-21899fc5-25b0-49ac-9cc7-d51094673fb9)  
+*Source : ouest-france.fr | Publication : 2026-01-27*
+
+- Vingt-deux défis informatiques à surmonter, tous liés au monde cyber.
+- De la ligne de codes à décrypter à l'image à identifier.
+- Des épreuves à la.
+
+## [L'attaque par <b>ransomware</b> perturbe les services de la ville de Sanxenxo en Espagne](https://www.binance.com/fr/square/post/01-27-2026-ransomware-attack-disrupts-sanxenxo-city-services-in-spain-35649456703089)  
+*Source : binance.com | Publication : 2026-01-27*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [&quot;Une opération au cœur même de Downing Street&quot;: de Boris Johnson à Rishi Sunak ... - BFM](https://www.bfmtv.com/tech/cybersecurite/une-operation-au-c-ur-meme-de-downing-street-de-boris-johnson-a-rishi-sunak-comment-la-chine-a-pirate-les-telephones-de-hauts-responsables-gouvernementaux-britanniques-pendant-des-annees_AN-202601270529.html)  
+*Source : bfmtv.com | Publication : 2026-01-27*
+
+- "Une opération au cœur même de Downing Street": de Boris Johnson à Rishi Sunak, comment la Chine a piraté les téléphones de hauts responsables gouvernementaux britanniques pendant des années Une nouvelle affaire de cyberespionnage d’État.
+- La Chine aurait piraté pendant plusieurs années les téléphones portables de hauts responsables de Downing Street, compromettant des communications sensibles au sein du pouvoir britannique, selon une vaste enquête menée par le Telegraph.
+- Des cyberattaques attribuées à des acteurs soutenus par Pékin auraient ciblé, entre 2021 et 2024, des proches collaborateurs de Boris Johnson, Liz Truss et Rishi Sunak, sans que l’on sache si les Premiers ministres eux-mêmes ont été touchés.
+- D’après des sources du renseignement américain, l’opération d’espionnage chinoise baptisée "Salt Typhoon" serait toujours en cours, laissant craindre que l'actuel Premier ministre britannique Keir Starmer et ses proches collaborateurs aient également été exposés.
+
+## [Les entreprises peinent à gérer leurs certificats, et la réduction TLS va accroître les risques d ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/les-entreprises-peinent-a-gerer-leurs-certificats-et-la-reduction-tls-va-accroitre-les-risques-dinterruption/)  
+*Source : itsocial.fr | Publication : 2026-01-27*
+
+- La réduction progressive de la durée de vie des certificats TLS publics, engagée dès 2026 pour converger vers 47 jours, change la nature même de la gestion des PKI.
+- Ce raccourcissement transforme une contrainte de conformité en charge d’exploitation permanente.
+- L’étude mondiale « Trends in PKI Security » du Ponemon Institute montre que la majorité des organisations ne disposent ni de la visibilité, ni de l’automatisation, ni des compétences nécessaires pour absorber ce changement.
+- La PKI, les infrastructures à clés publiques, reste l’un des socles invisibles de la sécurité des échanges informatiques.
+
+## [Libraesva et Cyber Guru annoncent une union stratégique pour créer un leader européen ...](https://www.businesswire.com/news/home/20260127076891/fr)  
+*Source : businesswire.com | Publication : 2026-01-27*
+
+- Cyber Guru et Libraesva annoncent aujourd'hui une combinaison stratégique réunissant deux entreprises italiennes de cybersécurité hautement.
+
+## [Le Kenya se tourne vers l'Union européenne pour renforcer sa <b>cybersécurité</b>](https://www.agenceecofin.com/actualites-numerique/2701-135218-le-kenya-se-tourne-vers-l-union-europeenne-pour-renforcer-sa-cybersecurite)  
+*Source : agenceecofin.com | Publication : 2026-01-27*
+
+- Les autorités kényanes ont lancé, le lundi 26 janvier, le projet Kenya Cyber Resilience (KCR), destiné à renforcer la sécurité, la résilience et la.
+
+## [Cyberattaque dans le sport : la Fédération française de natation également touchée en décembre](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-dans-le-sport-la-federation-francaise-de-natation-egalement-touchee-en-decembre-27601599.php)  
+*Source : sudouest.fr | Publication : 2026-01-27*
+
+- Après la Fédération française de tennis et le ministère des Sports, c’est autour de la Natation d’annoncer avoir été victime d’une cyberattaque.
+- Des données personnelles des licenciés ont été exposées, mais « aucune donnée bancaire » n’était concernée La Fédération française de natation a déposé plainte après avoir été la cible en décembre dernier d’une cyberattaque et d’un vol de données visant sa plateforme de gestion administrative, a-t-on appris mardi auprès de l’instance.
+- L’attaque a eu lieu dans la nuit du 6 au 7 décembre 2025, a écrit la Fédération dans un communiqué envoyé en décembre aux membres de son réseau.
+
+## [<b>Cybersécurité</b> : attention aux coûts cachés des cyberattaques - Big Media - Bpifrance](https://bigmedia.bpifrance.fr/nos-actualites/cybersecurite-attention-aux-couts-caches-des-cyberattaques)  
+*Source : bigmedia.bpifrance.fr | Publication : 2026-01-27*
+
+- Cybersécurité : attention aux coûts cachés des cyberattaques Pour les entrepreneurs français, les cyberattaques pèsent bien au-delà du risque informatique : elles sapent silencieusement la productivité.
+- Le Baromètre Cyber 2026 de Mailinblack, révèle que ce n'est pas tant le volume des attaques qui menace les entreprises, mais leur impact invisible sur les équipes.
+- - Temps de lecture: 2 min - Ransomwares, phishing, arnaques au président.
+- Si ces attaques font régulièrement la une, elles cachent surtout une réalité plus insidieuse.
+
+## [Enjeux de <b>cybersécurité</b> - signature de la convention de partenariat entre MOBILIANS et ...](https://www.mobilians.fr/presse/communiques-de-presse/enjeux-de-cybersecurite-signature-de-la-convention-de-partenariat-entre-mobilians-et-hexatrust/)  
+*Source : mobilians.fr | Publication : 2026-01-27*
+
+- Enjeux de cybersécurité - signature de la convention de partenariat entre MOBILIANS et HEXATRUST Ce mardi 27 janvier, MOBILIANS, l’organisation représentative des Services de l’Automobile et de la Mobilité, et HEXATRUST, l’association de référence dans le domaine du numérique de confiance et de la cybersécurité, ont officialisé la signature d’une convention de partenariat, en présence de leurs présidents respectifs, Francis Bartholomé et Jean-Noël de Galzain.
+- Cet accord stratégique s’inscrit pleinement dans la mission de Mobilians visant à accompagner et à protéger ses adhérents face aux enjeux croissants de cybersécurité.
+- Acteur majeur de la promotion de la souveraineté numérique, HEXATRUST œuvre au développement de solutions innovantes et à la défense des intérêts du secteur auprès des pouvoirs publics.
+- Son catalogue de solutions couvre l’ensemble des besoins en cybersécurité et cloud de confiance, pour accompagner la transformation numérique des organisations et répondre aux enjeux de conformité, de protection contre les cybermenaces et de résilience.
+
+## [Les campagnes d'hameçonnage et de rançongiciel suivent les rythmes de travail des organisations](https://itsocial.fr/cybersecurite/cybersecurite-articles/les-campagnes-dhameconnage-et-de-rancongiciel-suivent-les-rythmes-de-travail-des-organisations/)  
+*Source : itsocial.fr | Publication : 2026-01-27*
+
+- Les offensives ne visent plus des infrastructures abstraites.
+- Elles ciblent des situations concrètes, validations tardives, consultations sur mobile, travail de nuit, déplacements professionnels.
+- Selon le Baromètre Cyber 2026 de Mailinblack, 3 % des courriels analysés sont malveillants et chaque utilisateur reçoit en moyenne 23 attaques par an.
+- Ce volume permanent crée une fatigue attentionnelle mesurable.
+
+## [<b>Cybersécurité</b> : nouveau label pour les électriciens - Batiweb](https://www.batiweb.com/actualites/numerique-bim/cyberbat-une-nouvelle-demarche-pour-la-cybersecurite-48132)  
+*Source : batiweb.com | Publication : 2026-01-27*
+
+- CyberBat, une nouvelle démarche pour la cybersécurité Publié le 27 janvier 2026, mis à jour le 27 janvier 2026 à 16h05, par Virginie Kroun Alors que systèmes de vidéosurveillance, recharge de véhicule électrique, réseau IP, IoT industriel et autres gagnent le bâtiment, le risque cyber s’affiche.
+- « Une compromission informatique peut entraîner une interruption d’activité, une atteinte aux biens ou aux personnes, ou encore engager la responsabilité de l’installateur », lit-on dans un communiqué de l’association Qualifelec et la Fédération Française de la Cybersécurité (FFCyber), daté du 20 janvier.
+- D’où la naissance de Maîtrise CyberBat, démarche de qualification concernant les TPE et PME spécialisées dans les installations électriques, énergétiques et numériques.
+- Le rôle du label : « structurer les bonnes pratiques, sans complexité inutile ni exigences disproportionnées ».
 
 ## [Khaled Bagban, DSI de Metro : « Le plus grand défi de l'IA est l'adoption des outils »](https://www.cio-online.com/actualites/lire-khaled-bagban-dsi-de-metro--le-plus-grand-defi-de-l-ia-est-l-adoption-des-outils-16800.html)  
 *Source : cio-online.com | Publication : 2026-01-26*
