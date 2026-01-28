@@ -1,5 +1,157 @@
-# Résumés – 2026-01-27
+# Résumés – 2026-01-28
 
+
+## [les entreprises subissent 2 000 attaques par semaine, dopées par l'intelligence artificielle - ITchannel](https://itchannel.info/articles/208633/cybersecurite-les-entreprises-subissent-2-000-attaques-par-semaine-dopees-par-lintelligence-artificielle.html)  
+*Source : itchannel.info | Publication : 2026-01-28*
+
+- Veuillez activer Javascript.
+
+## [Cybersecurity Act 2 en Europe : « EUCS parlera sécurité. Pas souveraineté. - Next.ink](https://next.ink/221516/cybersecurity-act-2-en-europe-eucs-parlera-securite-pas-souverainete/)  
+*Source : next.ink | Publication : 2026-01-28*
+
+- Cybersecurity Act 2 en Europe : « EUCS parlera sécurité.
+- Pas souveraineté.
+- » Un pour tous, tous pour rien Ce n’est pas une surprise, mais une confirmation : la proposition de règlement de la Commission européenne relative au règlement de l’UE sur la cybersécurité ne s’intéresse pas aux questions de souveraineté, alors que c’était réclamé par de nombreuses entreprises et institutions.
+- Le 28 janvier à 16h45 8 min Sécurité Sécurité EUCS ou European Union Cybersecurity Certification Scheme for Cloud Services dans sa version longue est un projet de certification porté par l’Europe.
+
+## [2026, un tournant pour la <b>cybersécurité</b> des entreprises : IA autonome, deepfakes et ... - infoDSI](https://infodsi.com/articles/208622/2026-un-tournant-pour-la-cybersecurite-des-entreprises-ia-autonome-deepfakes-et-risque-quantique.html)  
+*Source : infodsi.com | Publication : 2026-01-28*
+
+- Veuillez activer Javascript.
+
+## [[Info VA] Courbevoie : un militaire interpellé pour vol et recel de matériel du ministère des Armées](https://www.valeursactuelles.com/societe/info-va-courbevoie-un-militaire-interpelle-pour-vol-et-recel-de-materiel-du-ministere-des-armees)  
+*Source : valeursactuelles.com | Publication : 2026-01-28*
+
+- Trois individus, dont un militaire, ont été interpellés pour vol et recel de matériel appartenant au ministère des Armées, à Courbevoie, dans les Hauts-de-Seine, ce mardi 27 janvier, vers 20 h 50, selon nos informations.
+- L’armée de terre lance l’exercice Alligator 25 pour préparer ses unités amphibies au combatObservant des comportements suspects à proximité de deux véhicules, la police municipale a requis la brigade anti-criminalité (BAC).
+- Les agents ont alors surpris un homme qui transportait des objets entre les deux voitures, pendant qu’un autre surveillait les lieux.
+- Les policiers ont procédé au contrôle des deux individus sur la voie publique et d’un troisième, situé dans le second véhicule.
+
+## [Paiement d'une rançon après une cyberattaque | « Il n'y a aucune garantie que les criminels ...](https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-01-28/paiement-d-une-rancon-apres-une-cyberattaque/il-n-y-a-aucune-garantie-que-les-criminels-vont-tenir-parole.php)  
+*Source : lapresse.ca | Publication : 2026-01-28*
+
+- Paiement d’une rançon après une cyberattaque « Il n’y a aucune garantie que les criminels vont tenir parole » Les autorités fédérales mettent en garde les organisations qui espèrent se tirer d’affaire en payant une rançon aux pirates informatiques après une cyberattaque, alors qu’un nombre record de victimes de « rançongiciel » ont été répertoriées au pays l’an dernier.
+- « Il n’y a aucune garantie que les criminels vont tenir parole quand vous payez la rançon », prévient Sami Khoury, agent supérieur pour la cybersécurité du gouvernement du Canada, en entrevue avec La Presse.
+- M. Khoury a présenté mercredi un nouveau rapport du Centre canadien pour la cybersécurité qui révèle que depuis 2022, le nombre d’attaques par rançongiciel a augmenté en moyenne de 26 % chaque année.
+- Les derniers chiffres ne sont pas encore disponibles pour l’année 2025, mais il est déjà évident pour l’organisme fédéral qu’un nombre record d’incidents sera encore relevé.
+
+## [Données sensibles : l'Europe ne veut pas exclure les géants du Cloud américains](https://www.01net.com/actualites/donnees-sensibles-leurope-ne-veut-pas-exclure-les-geants-du-cloud-americains.html)  
+*Source : 01net.com | Publication : 2026-01-28*
+
+- Une mesure à contre-courant ?.
+- Malgré le contexte géopolitique et les velléités de l’Union européenne (UE) de s’affranchir des géants américains dans le numérique, Bruxelles a renoncé, le 20 février dernier, à exclure par principe Google, Microsoft et Amazon, les trois géants du cloud plus que dominants en Europe, de ses hébergeurs de données les plus sensibles et stratégiques.
+- Lors de la présentation de la révision de son règlement sur la cybersécurité (le « Cybersecurity Act ») qui avait lieu le 20 janvier dernier, la Commission européenne a tranché, rapportait le média spécialisé Contexte, le 21 janvier dernier.
+- Elle n’inclura pas, par principe, des critères de souveraineté dans l’EUCS (pour « European Union Cybersecurity Certification Scheme for Cloud Services »), un label garantissant des normes de cybersécurité communes à toute l’Europe.
+
+## [<b>Ransomware</b> : les forces de l'ordre américaines mettent la main sur le trésor de RAMP | LeMagIT](https://www.lemagit.fr/actualites/366637935/Ransomware-les-forces-de-lordre-americaines-mettent-la-main-sur-le-tresor-de-RAMP)  
+*Source : lemagit.fr | Publication : 2026-01-28*
+
+- Ransomware : les forces de l’ordre américaines mettent la main sur le trésor de RAMP Le forum RAMP, largement fréquenté par les cybercriminels praticiens du rançongiciel est tombé.
+- Son nom de domaine principal a été saisi et son site Tor affiche le même message, suggérant fortement que les serveurs ont été atteints.
+- Ramp n’est plus.
+- Créé initialement les opérateurs de feu-Babuk au début de l’été 2021, ce forum comptait parmi les principaux points de ralliement des acteurs du rançongiciel, en particulier après que XSS, un autre forum fréquenté notamment par les cybercriminels, ait dit non au ransomware.
+
+## [Dossier : éviter les pièges du Greenwashing (et comment faire réellement du Green IT)](https://www.lemagit.fr/essentialguide/Dossier-comment-eviter-les-pieges-du-Greenwashing-et-faire-reellement-du-Green-IT)  
+*Source : lemagit.fr | Publication : 2026-01-28*
+
+- Dossier : éviter les pièges du Greenwashing (et comment faire réellement du Green IT) Introduction Face à l’explosion de l’empreinte environnementale du numérique, les discours « verts » se multiplient dans l’IT.
+- Mais entre engagements affichés, méthodologies hétérogènes et zones d’ombre, les directions informatiques doivent composer avec un risque croissant de greenwashing.
+- Ce dossier rassemble plusieurs enquêtes, analyses et retours d’expérience publiés pour vous aider à distinguer les démarches crédibles des promesses marketing, et à identifier des leviers d’action concrets pour un Green IT mesurable.
+- Comment évaluer la sincérité des démarches des partenaires ?.
+
+## [Rubrik commente la Journée de la protection des données - Global Security Mag Online](https://www.globalsecuritymag.fr/rubrik-commente-la-journee-de-la-protection-des-donnees.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-01-28*
+
+- Rubrik commente la Journée de la protection des données janvier 2026 par Rodolphe Barnault, VP Europe du Sud de la société de cybersécurité Rubrik Aujourd’hui 28 janvier, marque la Journée de la protection des données.
+- À cette occasion, je souhaite partager avec vous un commentaire de Rodolphe Barnault, VP Europe du Sud de la société de cybersécurité Rubrik.
+- À l’ère des attaques exploitant les identités numériques, la protection des données repose avant tout sur la maîtrise des accès et des usages, devenue un enjeu central de gouvernance.
+- « La Journée de la protection des données nous rappelle que la préservation de la vie privée constitue un droit fondamental.
+
+## [Les criminels utilisent l'IA pour commettre des attaques par rançongiciel - L'actualité](https://lactualite.com/actualites/les-criminels-utilisent-lia-pour-commettre-des-attaques-par-rancongiciel/)  
+*Source : lactualite.com | Publication : 2026-01-28*
+
+- OTTAWA — Dans un nouveau rapport, le Centre canadien pour la cybersécurité avertit que les criminels qui détiennent des données contre rançon utilisent des outils d’intelligence artificielle qui leur permettent de cibler plus facilement leurs victimes.
+- Le rapport indique que la menace des logiciels de rançon au Canada «continue de s’accroître et d’évoluer rapidement», les acteurs malveillants adoptant des tactiques sophistiquées.
+- De nombreuses organisations canadiennes, notamment des entreprises, des hôpitaux et des universités, ont été prises en otage numériquement ces dernières années par des cybercriminels qui ont verrouillé leurs données, exigeant le paiement d’une rançon pour libérer les fichiers.
+- Dans certains cas, les cybercriminels volent des données sensibles et menacent ensuite de les rendre publiques si la rançon n’est pas payée.
+
+## [Reevo s'empare du SOC espagnol de Hispasec - Distributique](https://www.distributique.com/actualites/lire-reevo-s-empare-du-soc-espagnol-de-hispasec-36926.html)  
+*Source : distributique.com | Publication : 2026-01-28*
+
+- « Hispasec deviendra notre tremplin pour nous développer en Espagne et atteindre un chiffre d'affaires européen de 200 millions d'euros », explique Julien Antoine de Reevo.
+- L'italien Reevo renforce un peu plus sa présence en Europe en rachetant la société espagnole Hispasec spécialisée dans la cybersécurité.
+- Reevo enrichit son offre de services de sécurité managés avec le rachat de l'entreprise espagnole Hispasec qui revendique déjŕ plus de 300 clients en Espagne et en Amérique latine.
+- C'est le premier rachat du groupe italien de l'autre côté des Pyrénées, Hispasec proposant ŕ destination des PME des services d'audits, de tests, de simulations, de SOC et de défenses basées sur l'IA.
+
+## [Vol de vos données personnelles : 8 règles pour vous prémunir contre le piratage sur internet](https://www.ladepeche.fr/2026/01/28/vol-de-vos-donnees-personnelles-8-regles-pour-vous-premunir-contre-le-piratage-sur-internet-13193015.php)  
+*Source : ladepeche.fr | Publication : 2026-01-28*
+
+- Vol de vos données personnelles : 8 règles pour vous prémunir contre le piratage sur internet l'essentiel En cette journée européenne de la protection des données, le Clusif, association de référence de la cybersécurité en France, nous partage des conseils afin d’éviter une fuite de données personnelles.
+- En cette journée européenne de la protection des données, Florence Puybareau, directrice du Clusif, association de référence de la cybersécurité en France, nous partage des conseils afin d’éviter une fuite de données personnelles.
+- Choissisez des mots de passe complexes et différents Évitez les 4 fois 0.
+- Essayez d’avoir un mot de passe complexe qui mélange chiffres, lettres, majuscules, minuscules, caractères spécifiques.
+
+## [PARIS : <b>Cybersécurité</b> - I-TRACING accède au rang de partenaire Diamond de Palo Alto Networks](https://presseagence.fr/paris-cybersecurite-i-tracing-accede-au-rang-de-partenaire-diamond-de-palo-alto-networks/)  
+*Source : presseagence.fr | Publication : 2026-01-28*
+
+- PARIS : Cybersécurité – I-TRACING accède au rang de p… Partager : PARIS : Cybersécurité – I-TRACING accède au rang de partenaire Diamond de Palo Alto Networks Le spécialiste européen de la cyberdéfense obtient la certification NextWave Diamond Innovator, validant son excellence sur les technologies de Palo Alto Networks.
+- C’est une étape majeure pour le premier pure-player européen de la cybersécurité.
+- I-TRACING (https://www.i-tracing.com/) vient d’annoncer l’obtention du statut « NextWave Diamond Innovator » auprès du géant technologique Palo Alto Networks.
+- Cette distinction marque l’entrée du groupe français dans un cercle très restreint de partenaires mondiaux, sélectionnés pour leur haut niveau de performance et d’engagement commercial.
+
+## [Baromètre CESIN 2025 : moins d'attaques visibles, un risque cyber plus systémique](https://www.solutions-numeriques.com/barometre-cesin-2025-moins-dattaques-visibles-un-risque-cyber-plus-systemique/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-28*
+
+- La 11ᵉ édition du baromètre annuel du CESIN, réalisé avec OpinionWay, dessine un paysage cyber paradoxal.
+- Les attaques significatives reculent en volume, mais leurs effets s’alourdissent, tandis que la menace se diffuse bien au-delà du périmètre technique.
+- Gouvernance, dépendances cloud, tiers, IA et géopolitique structurent désormais le risque.
+- Une baisse relative des attaques, mais des conséquences toujours critiques Quatre entreprises sur dix déclarent avoir subi au moins une cyberattaque significative en 2025.
+
+## [Publication par le Centre pour la <b>cybersécurité</b> de la vue d'ensemble des menaces ... - Canada.ca](https://www.canada.ca/fr/securite-telecommunications/nouvelles/2025/12/publication-par-le-centre-pour-la-cybersecurite-de-la-vue-densemble-des-menaces-par-rancongiciel-de-2025-a-2027.html)  
+*Source : canada.ca | Publication : 2026-01-28*
+
+- Publication par le Centre pour la cybersécurité de la vue d’ensemble des menaces par rançongiciel de 2025 à 2027 Communiqué de presse Le 28 janvier 2026 – Ottawa, Ontario Aujourd’hui, le Centre canadien pour la cybersécurité (Centre pour la cybersécurité), qui relève du Centre de la sécurité des communications Canada (CST), a publié une vue d’ensemble des menaces par rançongiciel de 2025 à 2027, sa plus récente évaluation des menaces par rançongiciel qui ciblent le Canada.
+- Le contexte actuel des rançongiciels est un écosystème de menaces très sophistiquées, connectées entre elles et en constante évolution.
+- Comprendre les tendances actuelles et émergentes est essentiel pour aider les Canadiennes et Canadiens à mieux se préparer et à atténuer efficacement les risques liés aux rançongiciels.
+- Le rapport du Centre pour la cybersécurité aborde l’historique des rançongiciels, les tendances émergentes et prévisionnelles, les répercussions des rançongiciels sur le Canada et les organisations canadiennes, et réfute et les mythes courants et les idées fausses.
+
+## [Ilham Ikbal, l'ambition africaine d'une pionnière de la <b>cybersécurité</b> - TelQuel](https://mobile.telquel.ma/2026/01/28/ilham-ikbal-lambition-africaine-dune-pionniere-de-la-cybersecurite_1972830)  
+*Source : mobile.telquel.ma | Publication : 2026-01-28*
+
+- Elle forge son expertise pendant dix ans avant de fonder ElySec International, cabinet spécialisé en cybersécurité.
+- Pionnière d'un domaine devenu.
+
+## [Cyber-résilience, les architectures de sécurité doivent intégrer détection et restauration dans ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/cyber-resilience-les-architectures-de-securite-doivent-integrer-detection-et-restauration-dans-une-meme-architecture/)  
+*Source : itsocial.fr | Publication : 2026-01-28*
+
+- Les entreprises françaises ne manquent ni d’outils de sécurité ni de dispositifs de détection.
+- Ce qui fait défaut, selon le rapport Cyber-résilience 2025 de Cohesity, ce sont des capacités éprouvées pour restaurer rapidement, coordonner les équipes et reprendre l’activité après une attaque réussie.
+- L’étude met en évidence un fossé croissant entre prévention et résilience, avec des impacts financiers, organisationnels et réglementaires.
+- La plupart des études en cybersécurité évaluent l’exposition au risque.
+
+## [Mots de passe compromis, les infostealers transforment l'identité en surface d'attaque](https://itsocial.fr/cybersecurite/cybersecurite-articles/mots-de-passe-compromis-les-infostealers-transforment-lidentite-en-surface-dattaque/)  
+*Source : itsocial.fr | Publication : 2026-01-28*
+
+- D’incident ponctuel, le vol d’identifiants est devenu une chaîne industrielle.
+- Alimentée par des maliciels spécialisés, des bases agrégées et un marché de la revente désormais organisé, cette économie parallèle repose sur plus de six milliards de mots de passe collectés en douze mois.
+- Le Breached Password Report 2026 de Specops montre comment cette industrialisation transforme durablement la surface d’attaque des entreprises.
+- Specops Software, filiale du groupe Outpost24, a analysé plus de six milliards de mots de passe collectés entre janvier et décembre 2025 par son équipe de Threat Intelligence.
+
+## [La <b>cybercriminalité</b> s'« industrialise » de plus en plus. - Vietnam.vn](https://www.vietnam.vn/fr/toi-pham-mang-dang-co-xu-huong-cong-nghiep-hoa)  
+*Source : vietnam.vn | Publication : 2026-01-28*
+
+- La performance et la rapidité détermineront le changement.
+- Parce que l'intelligence artificielle (IA), l'automatisation et les chaînes d'approvisionnement de la cybercriminalité sont devenues si sophistiquées, rendant les intrusions plus rapides et plus faciles que jamais, les attaquants passeront moins de temps à inventer de nouveaux outils et se concentreront plutôt sur le perfectionnement et l'automatisation des techniques qui ont déjà prouvé leur efficacité.
+- Le système d'IA gérera la reconnaissance, accélérera l'infiltration, analysera les données volées et orchestrera les négociations de rançon.
+- Simultanément, des cybercriminels automatisés sur le dark web exécuteront l'ensemble du processus d'attaque avec une supervision humaine minimale.
+
+## [Journée européenne de la protection des données - ICI - France Bleu](https://www.francebleu.fr/emissions/les-experts-ici-rcfm/journee-europeenne-de-la-protection-des-donnees-4244780)  
+*Source : francebleu.fr | Publication : 2026-01-28*
+
+- Émission Les experts, ICI RCFM Journée européenne de la protection des données Diffusé le Publié le Le 28 janvier 2026, c’est la Journée européenne de la protection des données.
+- À cette occasion, appliquez les bonnes pratiques pour protéger vos informations personnelles, professionnelles et bancaires.
+- Pour en parler, nous recevons Boris Brunel, expert en cybersécurité.
+- Notre invité nous partage des conseils et des astuces pour renforcer nos données informatiques.
 
 ## [Brest Métropole sécurise ses SI interconnectés et ouverts - CIO-online](https://www.cio-online.com/actualites/lire-brest-metropole-securise-ses-si-interconnectes-et-ouverts-16805.html)  
 *Source : cio-online.com | Publication : 2026-01-27*
