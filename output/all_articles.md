@@ -1,5 +1,157 @@
-# Résumés – 2026-01-28
+# Résumés – 2026-01-29
 
+
+## [« Libérer la parole » : A Agen, le Congrès national des élus au numérique met l'accent sur ...](https://www.sudouest.fr/occitanie/liberer-la-parole-a-agen-la-7e-edition-du-congres-national-des-elus-au-numerique-met-l-accent-sur-la-cybersecurite-27631021.php)  
+*Source : sudouest.fr | Publication : 2026-01-29*
+
+- Cathy Excoffier, directrice déléguée chez Orange, et Charlotte Collonge, de l’association e-Enfance, se sont exprimées au sujet du cyberharcèlement, lors de la 7e édition du Congrès national des élus au numérique qui se tient au Parc des expositions d’Agen, ces 29 et 30 janvier « Il n’y a pas de profil type du harceleur ou du harcelé.
+- Tout le monde peut être touché.
+- » Dans la salle du Parc des expositions, l’heure est au débat pour les 300 lycéens agenais venus parler des enjeux du cyberharcèlement avec Cathy Excoffier, directrice déléguée RSE chez Orange.
+- La représentante du réseau... « Il n’y a pas de profil type du harceleur ou du harcelé.
+
+## [Portail national, prévention, formation... La France présente sa nouvelle stratégie en matière ...](https://www.rtl.fr/actu/sciences-tech/portail-national-prevention-formation-la-france-presente-sa-nouvelle-strategie-en-matiere-de-cybersecurite-7900595394)  
+*Source : rtl.fr | Publication : 2026-01-29*
+
+- 2 min de lecture Je m'abonne à la newsletter « Infos » Face à la montée des cyberattaques, la France revoit sa stratégie nationale de cybersécurité.
+- La nouvelle orientation, présentée jeudi 29 janvier par la ministre déléguée au Numérique, Anne Le Hénanff, s'appuiera notamment sur la création d'un portail national d'information contre les attaques en ligne, a annoncé l'exécutif.
+- Ce portail sera créé "afin d'accompagner un large public", le grand public comme les entreprises, dans un contexte d'augmentation des cyberattaques, a indiqué le gouvernement dans un communiqué.
+- Le 17Cyber, guichet unique des menaces numériques mis en ligne fin 2024, sera intégré dans ce nouveau portail.
+
+## [Six étudiants du Département d'informatique participeront au plus grand exercice européen ...](https://www.usherbrooke.ca/pole-cybersecurite/actualites/nouvelles/details/57439)  
+*Source : usherbrooke.ca | Publication : 2026-01-29*
+
+- Grâce à l’appui du Pôle d’expertises en cybersécurité Intact et de la Banque Nationale Six étudiants du Département d’informatique participeront au plus grand exercice européen de simulation d’une cyberguerre Chaque année depuis six ans, plus de 100 personnes étudiantes et spécialistes issues de différentes universités et institutions d’enseignement de la région de Lorraine, en France, se réunissent dans le cadre du grand événement de simulation Cyber Humanum Est – un laboratoire de cyberdéfense grandeur nature hautement innovant, où se croisent enjeux technologiques, humains, géopolitiques et stratégiques.
+- L’Université de Sherbrooke est la toute première université canadienne à recevoir une invitation à cette expérience européenne fondée sur la réalité géopolitique actuelle, parrainée par l’armée et l’État français.
+- Appuyés par la Banque Nationale du Canada, qui a offert de payer les frais de déplacement et d’hébergement de la délégation sherbrookoise, six étudiants du Département d’informatique sélectionnés par le Pôle d’expertises en cybersécurité Intact se joindront donc aux différentes équipes d’universitaires et de chercheurs français participant à cette simulation, auxquels se grefferont aussi des militaires et des acteurs privés et publics.
+- Confrontés à des scénarios de cyberattaques inspirés de crises géopolitiques réelles, les participants vivront des simulations ultraréalistes de piratage de systèmes informatiques étatiques, de pressions informationnelles, de perturbations d’infrastructures critiques, d’arbitrages complexes entre sécurité, gouvernance et stabilité internationale, etc.
+
+## [<b>Cybersécurité</b> : le gouvernement lance un guichet unique sur un paysage inchangé](https://www.banquedesterritoires.fr/cybersecurite-le-gouvernement-lance-un-guichet-unique-sur-un-paysage-inchange)  
+*Source : banquedesterritoires.fr | Publication : 2026-01-29*
+
+- Cybersécurité : le gouvernement lance un guichet unique sur un paysage inchangé La stratégie nationale de cybersécurité 2026-2030, présentée le 28 janvier 2026 sur le Campus cyber aquitain, annonce un guichet unique sur la cybersécurité.
+- Ce nouvel outil viendra coiffer un écosystème cyber qu'il n'est pas prévu de restructurer.
+- Le gouvernement mise sur la prévention et l'anticipation, la question du financement étant renvoyée à plus tard.
+- Pessac plutôt que Paris.
+
+## [Pour évaluer les performances en <b>cybersécurité</b> des réseaux électriques, l'Acer publie des ...](https://www.contexte.com/fr/actualite/energie/pour-evaluer-les-performances-en-cybersecurite-des-reseaux-electriques-lacer-publie-des-lignes-directrices_253047)  
+*Source : contexte.com | Publication : 2026-01-29*
+
+- briefingénergie Réseaux.
+- Pour évaluer les performances en cybersécurité des réseaux électriques, l’Acer publie des lignes directrices Via ce document publié.
+
+## [« La <b>cybersécurité</b> est un impératif vital » : la ministre du Numérique dévoile la stratégie du ...](https://www.sudouest.fr/economie/cybersecurite/la-cybersecurite-est-un-imperatif-vital-la-ministre-du-numerique-devoile-la-strategie-du-gouvernement-27631158.php)  
+*Source : sudouest.fr | Publication : 2026-01-29*
+
+- Ce jeudi, c’est depuis Bordeaux qu’Anne Le Hénanff, ministre déléguée à l’IA et au Numérique, a dévoilé les contours de la stratégie nationale sur la cybersécurité, sur fond d’attaques quasi permanentes Les cyberattaques n’arrivent pas qu’aux autres.
+- Dernièrement, France Travail, La Poste, mais aussi des hôpitaux, des entreprises de toute taille, de toute nature en font les frais quasi quotidiennement.
+- Les objectifs et les motivations de cette cybercriminalité ont des contours encore flous.
+- Mais c’est bien une guerre sans visage qui est en cours, où il est question de récupération de données, de déstabilisation… L’année 2025 restera une année record : 348 000 atteintes numériques, soit une hausse de 75 % sur les cinq dernières années.
+
+## [Le paysage de la <b>cybersécurité</b> est prêt pour une période d'évolution - Allnews](https://www.allnews.ch/content/points-de-vue/le-paysage-de-la-cybersécurité-est-prêt-pour-une-période-d’évolution)  
+*Source : allnews.ch | Publication : 2026-01-29*
+
+- Karolis Arbaciauskas, chef de produit chez NordPass, une entreprise de cybersécurité , nous offre son point de vue d'expert pour l'année à venir.
+- «L'.
+
+## [La Stratégie nationale de <b>cybersécurité</b> pour 2026-2030](https://www.entreprises.gouv.fr/la-dge/actualites/la-strategie-nationale-de-cybersecurite-pour-2026-2030)  
+*Source : entreprises.gouv.fr | Publication : 2026-01-29*
+
+- La Stratégie nationale de cybersécurité pour 2026-2030 Face aux menaces numériques en constante augmentation, le Gouvernement a dévoilé sa stratégie nationale de cybersécurité pour 2026-2030.
+- Objectif : faire de la France une puissance cyber de premier plan.
+- La cybersécurité est une des priorités stratégiques du Gouvernement pour la souveraineté, la sécurité nationale et la protection de la démocratie.
+- En quoi consiste la stratégie nationale de cybersécurité 2026-2030 ?.
+
+## [Renforcer la <b>cybersécurité</b>, la sécurité de l'information et la sécurité des données au sein du ...](https://www.vietnam.vn/fr/tang-cuong-bao-dam-an-ninh-mang-bao-mat-thong-tin-an-ninh-du-lieu-trong-he-thong-chinh-tri)  
+*Source : vietnam.vn | Publication : 2026-01-29*
+
+- La directive n° 57-CT/TW indique que, ces derniers temps, en application des politiques, résolutions et conclusions du Comité central du Parti, du Bureau politique et du Secrétariat, la cybersécurité, la sécurité de l'information et la sécurité des données ont fait l'objet d'une attention et d'un encadrement particuliers de la part des comités et organisations du Parti à tous les niveaux ; la prise de conscience de l'importance de la cybersécurité a été renforcée ; le cadre juridique a été progressivement amélioré ; les capacités techniques de certains organismes en matière de cybersécurité ont été renforcées ; et la coopération internationale dans le domaine de la cybersécurité a franchi des étapes importantes, contribuant ainsi à hisser le Vietnam à un rang élevé dans l'indice mondial de cybersécurité.
+- La cybersécurité, la sécurité de l'information et la sécurité des données ont fait l'objet d'une attention particulière dans le cadre du processus national de transformation numérique et de la mise en œuvre de l'administration électronique, contribuant ainsi à améliorer l'efficacité des agences et des organisations du système politique après les restructurations, les fusions, les regroupements, les ajustements des limites administratives et la mise en œuvre du modèle de gouvernement local à deux niveaux.
+- La directive du Comité central du Parti souligne que, dans un contexte où les données deviennent une ressource stratégique, où l'intelligence artificielle se développe rapidement et où le cyberespace se transforme en nouveau champ de bataille, garantir la cybersécurité, la sécurité des données et la confidentialité des informations n'est pas qu'une simple tâche technique, mais un enjeu de sécurité nationale, de souveraineté nationale, de stabilité politique et sociale et de compétitivité nationale.
+- Le Vietnam est confronté à de graves défis qui menacent sa sécurité nationale, l'ordre public et la sûreté de ses citoyens.
+
+## [Stratégie nationale de <b>cybersécurité</b> : enfin ou trop tard ? | LeMagIT](https://www.lemagit.fr/actualites/366637972/Strategie-nationale-de-cybersecurite-enfin-ou-trop-tard)  
+*Source : lemagit.fr | Publication : 2026-01-29*
+
+- viperagp - stock.adobe.com Stratégie nationale de cybersécurité : enfin ou trop tard ?.
+- La ministre du Numérique et de l'IA vient de présenter la stratégie nationale de cybersécurité millésime 2026.
+- Une cuvée qui laisse en bouche un goût doux-amer entre idées, dont certaines déjà mises en œuvre par d’autres, et reprise de certaines attendues de longue date.
+- Et toujours sans budget.
+
+## [<b>Cybersécurité</b> : ces RSSI qui collaborent avec le renseignement français - JDN](https://www.journaldunet.com/cybersecurite/1547603-cybersecurite-ces-rssi-qui-collaborent-avec-le-renseignement-francais/)  
+*Source : journaldunet.com | Publication : 2026-01-29*
+
+- Cybersécurité : ces RSSI qui collaborent avec le renseignement français Certains RSSI entretiennent une relation avec la Direction générale de la sécurité intérieure pour bénéficier d'informations utiles à l'exercice de leurs fonctions.
+- En raison des données sensibles qu'ils manipulent, certains responsables de la sécurité des systèmes d'information (RSSI) entretiennent d'étroits liens avec les services de renseignement français, et en particulier la Direction générale de la sécurité intérieure (DGSI).
+- Et pour cause, la DGSI est responsable des menaces visant le territoire national, du contre-espionnage, des ingérences étrangères et de la cyberdéfense intérieure.
+- "En général, les RSSI concernés sont plutôt ceux de multinationales ou de petites entreprises mais sensibles", précise un RSSI d'une société de conseil souhaitant rester anonyme, et qui a longtemps cultivé des relations avec la DGSI dans le cadre d'anciennes fonctions.
+
+## [SecNumCloud, miroir d'un débat qui dépasse la <b>cybersécurité</b> | Alliancy](https://www.alliancy.fr/secnumcloud-miroir-dun-debat-qui-depasse-la-cybersecurite-2c5c2dce-8424-4e90-9294-2df483c8abd3)  
+*Source : alliancy.fr | Publication : 2026-01-29*
+
+- E-mail Profil Instagram Profil LinkedIn Site web Profil Twitter Chaîne YouTube 29 janvier 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [SCC France monte en puissance sur la <b>cybersécurité</b> - Distributique](https://www.distributique.com/actualites/lire-scc-france-monte-en-puissance-sur-la-cybersecurite-36928.html)  
+*Source : distributique.com | Publication : 2026-01-29*
+
+- Sébastien Giai Checa, responsable cybersécurité et datacenter chez SCC France, participe ŕ structurer l’offre de cybersécurité du prestataire de services depuis plus de deux ans.
+- L'expertise en matičre de cybersécurité se renforce chez SCC France, notamment vers les services managés, son SOC, pleinement opérationnel en est un exemple.
+- SCC France monte en puissance dans le domaine de la cybersécurité, notamment sur la partie services managés qui vient en complément de son savoir-faire autour du déploiement des solutions de sécurité.
+- « Depuis de nombreuses années, SCC France commercialise et déploie des offres de sécurité auprčs de ses clients.
+
+## [<b>Cybersécurité</b> 2026-2030 : cinq piliers pour une ambition cyber… sans chiffrage | Alliancy](https://www.alliancy.fr/cybersecurite-2026-2030-cinq-piliers-pour-une-ambition-cyber-sans-chiffrage-32332c5e-b3ce-4eea-ade7-268c55c570a7)  
+*Source : alliancy.fr | Publication : 2026-01-29*
+
+- E-mail Profil Instagram Profil LinkedIn Site web Profil Twitter Chaîne YouTube 29 janvier 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [Contre-attaques, recrutement de femmes… Que préconise la stratégie nationale sur la ...](https://www.ouest-france.fr/societe/cyberattaque/contre-attaques-recrutement-de-femmes-que-preconise-la-strategie-nationale-sur-la-cybersecurite-publiee-ce-jeudi-ccf1adc2-fd13-11f0-b421-129bd2858122)  
+*Source : ouest-france.fr | Publication : 2026-01-29*
+
+- C'est pour les contrer que la France vient de se doter d'une stratégie de cybersécurité , présentée ce jeudi depuis... le Campus Cyber Nouvelle-.
+
+## [Face à l'explosion des cyberattaques, la France change de stratégie - 01net.com](https://www.01net.com/actualites/face-a-lexplosion-des-cyberattaques-la-france-change-de-strategie.html)  
+*Source : 01net.com | Publication : 2026-01-29*
+
+- « La cybersécurité ne doit plus être une affaire de techniciens, mais l’affaire de tous les citoyens ».
+- Ce jeudi 29 janvier, la ministre déléguée au Numérique et à l’IA Anne Le Hénanff présente la nouvelle stratégie du gouvernement en matière de cybersécurité à Bordeaux, devant une entreprise pharmaceutique victime, comme tant d’autres, d’une cyberattaque d’envergure.
+- Moins d’un an après la présentation par Bruno Retailleau, alors ministre de l’Intérieur, de sa feuille de route en matière de cybersécurité, la femme politique décrit un nouveau plan national « plus global ».
+- Il s’appliquera cette fois à toute la société, que cela soit le SGDSN (Secrétariat général de la Défense et de la Sécurité nationale qui dépend du Premier ministre), l’ANSSI, les services de l’État mais aussi les collectivités territoriales, les entreprises et même… les particuliers.
+
+## [Les eurodéputés alertés sur les risques d'espionnage liés aux voitures chinoises](https://euractiv.fr/news/les-eurodeputes-alertes-sur-les-risques-despionnage-lies-aux-voitures-chinoises/)  
+*Source : euractiv.fr | Publication : 2026-01-29*
+
+- Les eurodéputés alertés sur les risques d’espionnage liés aux voitures chinoises Les voitures modernes sont des « smartphones sur roues » et constituent des véhicules parfaits pour nous espionner, a déclaré jeudi 29 janvier une experte polonaise lors d’une audition parlementaire, avertissant qu’une action commune de l’UE était nécessaire pour contrer la Chine en particulier.
+- Paulina Uznańska, chercheuse au Centre d’études orientales (OSW) de Varsovie, a averti les membres des commissions de l’Industrie (ITRE) et de la Défense (SEDE) du Parlement européen que les voitures connectées pourraient être utilisées pour des cyberattaques.
+- « Peu importe qui les produit, peu importe leur pays d’origine, ces voitures peuvent être piratées », a-t-elle expliqué.
+- Collecte de données Les voitures intelligentes sont équipées de toutes sortes de capteurs, de caméras et de radars, et sont connectées à Internet, a souligné Paulina Uznańska.
+
+## [<b>Cybersécurité</b> : la Stratégie nationale 2026-2030 dévoilée - economie.gouv](https://www.economie.gouv.fr/actualites/cybersecurite-la-strategie-nationale-2026-2030-devoilee)  
+*Source : economie.gouv.fr | Publication : 2026-01-29*
+
+- Pilier n°3 : entraver l'expansion de la cybermenace.
+- Activer l'ensemble des leviers pour décourager les agressions cyber.
+- Mobiliser les acteurs privés.
+
+## [<b>Cybersécurité</b> : révision du règlement de 2019 pour renforcer les capacités de l'UE](https://www.vie-publique.fr/en-bref/301798-cybersecurite-lue-veut-renforcer-ses-capacites-contre-les-menaces)  
+*Source : vie-publique.fr | Publication : 2026-01-29*
+
+- La révision du règlement sur la cybersécurité, présentée par la Commission européenne le 20 janvier 2026, intègre une dimension de souveraineté.
+- Cette révision ajuste également la directive NIS2 (sécurité des réseaux et des systèmes d'information) dont l'objectif est de renforcer le niveau de cybersécurité des économies et des administrations des pays membres de l'Union européenne (UE).
+- Entrée en vigueur en 2022, cette dernière directive est toujours en attente de transposition en France.
+- Contrer les dépendances économiques et les risques internationaux La Commission a donné la priorité à la sécurisation des chaînes d'approvisionnement des 18 secteurs critiques définis par NIS2 (transports, santé, énergie, télécoms…) afin de mieux protéger les infrastructures critiques des attaques organisées par des États et des groupes criminels.
+
+## [Les ministères appelés à renforcer la <b>cybersécurité</b> de leurs infrastructures - Acteurs Publics](https://acteurspublics.fr/articles/les-ministeres-appeles-a-renforcer-la-cybersecurite-de-leurs-infrastructures/)  
+*Source : acteurspublics.fr | Publication : 2026-01-29*
+
+- La ministre du Numérique et de l’Intelligence artificielle, Anne Le Hénanff, présente ce jeudi 29 janvier, à Bordeaux, la stratégie nationale de cybersécurité pour la période 2026 - 2030.
+- Le projet, qui s’axe sur cinq piliers, et dont l’enveloppe reste tributaire des évolutions budgétaires, embarque des évolutions attendues au sein des ministères et pour les agents publics.
+- Les attentes en termes de sécurité des systèmes d’information des ministères ont ainsi vocation à être rehaussées.
+- La situation est d’autant plus tendue que diverses cyberattaques ont touché des services de l’État.
 
 ## [les entreprises subissent 2 000 attaques par semaine, dopées par l'intelligence artificielle - ITchannel](https://itchannel.info/articles/208633/cybersecurite-les-entreprises-subissent-2-000-attaques-par-semaine-dopees-par-lintelligence-artificielle.html)  
 *Source : itchannel.info | Publication : 2026-01-28*
