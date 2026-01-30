@@ -1,5 +1,148 @@
-# Résumés – 2026-01-29
+# Résumés – 2026-01-30
 
+
+## [Proximus Nviso et EY décrochent un contrat pour la cyber-force de l'armée belge](https://datanews.levif.be/actualite/belgique/secteur-public/proximus-nviso-et-ey-decrochent-un-contrat-pour-la-cyber-force-de-larmee-belge/)  
+*Source : datanews.levif.be | Publication : 2026-01-30*
+
+- La Défense a sélectionné, entre autres, le groupe télécom Proximus, l'expert en cybersécurité Nviso et le consultant EY Belgium pour poursuivre le.
+
+## [Un « bombardement sans précédent » : un botnet a lancé une nouvelle cyberattaque record](https://www.01net.com/actualites/un-bombardement-sans-precedent-un-botnet-a-lance-une-nouvelle-cyberattaque-record.html)  
+*Source : 01net.com | Publication : 2026-01-30*
+
+- Cloudflare vient de publier son « rapport sur les menaces DDoS » (Distributed Denial of Service) pour le 4ᵉ trimestre de l’année 2025.
+- La société recense une forte hausse des attaques par déni de service par rapport au 3ᵉ trimestre, avec plus de 30 % d’offensives supplémentaires.
+- Sur l’ensemble de 2025, il y a eu 47,1 millions d’attaques DDoS dans le monde, soit 121 % de plus par rapport à 2024, avec en moyenne 5 376 attaques par heure.
+- Les principales sources de trafic malveillant identifiées se trouvent dans des pays comme le Bangladesh, l’Équateur et l’Indonésie, tandis que les organisations les plus ciblées sont situées en Chine, à Hong Kong, en Allemagne, au Brésil et aux États‑Unis.
+
+## [Le botnet Aisuru signe un nouveau record DDoS à 31,4 Tb/s - Clubic](https://www.clubic.com/actualite-598132-le-botnet-aisuru-signe-un-nouveau-record-ddos-a-31-4-tb-s.html)  
+*Source : clubic.com | Publication : 2026-01-30*
+
+- Quelques semaines après le pic à 29,7 Tb/s observé par Cloudflare, le botnet Aisuru signe une nouvelle offensive culminant à plus de 30 Tb/s et des centaines de millions de requêtes par seconde.
+- Une campagne visant surtout les télécoms, absorbée sans incident visible, qui confirme la normalisation des attaques multitérabits.
+- Aisuru continue de faire grimper les compteurs.
+- Dans son dernier rapport, Cloudflare est revenu sur une campagne attribuée au botnet, stoppée le 19 décembre 2025, dont l’un des pics a atteint 31,4 Tb/s au niveau réseau, tandis que les volets HTTP dépassaient les 200 millions de requêtes par seconde.
+
+## [« Cela leur permettait d'infecter l'appareil en un clic ! » : la faille cyber corrigée par Microsoft ...](https://www.challenges.fr/la-verticale-cyber/cela-leur-permettait-dinfecter-lappareil-en-un-clic-la-faille-cyber-corrigee-par-microsoft-illustre-la-dangerosite-des-zero-day_638522)  
+*Source : challenges.fr | Publication : 2026-01-30*
+
+- « Cela leur permettait d’infecter l’appareil en un clic !.
+- » : la faille cyber corrigée par Microsoft illustre la dangerosité des « zero day » Vulnérabilité grave, correctif publié en urgence : Microsoft a dû réagir en urgence pour limiter les dégâts de la faille de cybersécurité dite « zero day » découverte dans sa suite Office.
+- Des failles qu’explique Georgy Kucherin, chercheur chez Kaspersky.
+- Microsoft Office aurait-il laissé une porte ouverte aux cyberattaquants ?.
+
+## [Cyberattaque au Japon : Asahi Breweries paralysée par Qilin - Portail de l'IE](https://www.portail-ie.fr/univers/2026/cyberattaque-au-japon-asahi-breweries-paralysee-par-qilin/)  
+*Source : portail-ie.fr | Publication : 2026-01-30*
+
+- Le 29 septembre 2025, une cyberattaque d’ampleur a paralysé une trentaine de centres de production et d’usines du groupe Asahi Breweries, le géant japonais de la brasserie.
+- L’attaque a été revendiquée le 7 octobre 2025 par l’organisation Qilin.
+- Cette organisation cybercriminelle russophone, spécialisée dans les ransomwares, a été créée en 2022.
+- Asahi, une cible stratégique pour les cybercriminels Asahi est le plus grand groupe brassicole du Japon et le septième mondial.
+
+## [Cyberhebdo du 30 janvier 2026 : au Mexique, une attaque aux conséquences ... - LeMagIT](https://www.lemagit.fr/actualites/366638177/Cyberhebdo-du-30-janvier-2026)  
+*Source : lemagit.fr | Publication : 2026-01-30*
+
+- Cyberhebdo du 30 janvier 2026 : au Mexique, une attaque aux conséquences potentiellement durables Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- La semaine écoulée a une nouvelle fois mis en lumière la diversité et l’ampleur des menaces cyber qui pèsent sur les organisations à travers le monde.
+- Au total, huit cyberattaques majeures ont été rapportées dans les médias internationaux, touchant des pays aussi variés que Singapour (SGP), Taïwan (TWN), l’Espagne (ESP), le Mexique (MEX), l’Autriche (AUT) et les États-Unis (USA).
+- Les États-Unis sont le pays le plus représenté cette semaine, avec deux incidents recensés.
+
+## [<b>Cybersécurité</b> de façade, souveraineté abandonnée : L'énorme renoncement européen sur le cloud](https://www.usine-digitale.fr/cybersecurite/cybersecurite-de-facade-souverainete-abandonnee-lenorme-renoncement-europeen-sur-le-cloud.76RAUPR3BJHUDGDD2JRQBEUB5U.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-30*
+
+- Dans un contexte international explosif, marqué par les menaces de Donald Trump envers les partenaires historiques des Etats-Unis, la Commission européenne vient de baisser les bras sur un dossier hautement sensible : le schéma de certification des services cloud, communément désigné sous le nom d’EUCS.
+- Exit les questions de souveraineté Avec sa proposition de révision du Cybersecurity Act, Bruxelles acte un choix clair : plutôt que de transformer la certification européenne en un outil de souveraineté numérique, elle se limite à encadrer la sécurité technique et opérationnelle des services, laissant volontairement de côté les questions juridiques et de dépendances extraterritoriales.
+- Il faut revenir quelques années en arrière pour comprendre les enjeux autour de ce dossier.
+- C’est en 2019 que la première version du Cybersecurity Act voit le jour.
+
+## [Anne Le Hénanff est l'invitée politique de la matinale - YouTube](https://www.youtube.com/watch?v=3VfMKmeHnrM)  
+*Source : youtube.com | Publication : 2026-01-30*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [L'humain reste la première faille de <b>cybersécurité</b> - YouTube](https://www.youtube.com/watch?v=_qn_szLw5lg)  
+*Source : youtube.com | Publication : 2026-01-30*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Face aux menaces cyber, la France veut « activer l'ensemble des leviers », y compris l'attaque - Next](https://next.ink/222122/face-aux-menaces-cyber-la-france-veut-activer-lensemble-des-leviers-y-compris-lattaque/)  
+*Source : next.ink | Publication : 2026-01-30*
+
+- Face aux menaces cyber, la France veut « activer l’ensemble des leviers », y compris l’attaque À coup de cyberxanax, cyberdiazépam, cyberlorazépam… Dans un contexte intense de tension géopolitique, la France dévoile sa stratégie cyber.
+- Il y a bien évidemment le renforcement des défenses, mais également la volonté d’entraver l’expansion des cyberattaques par tous les moyens, y compris « par les capacités nationales cyberoffensives ».
+- Le 30 janvier à 17h09 8 min Droit Droit Le gouvernement a publié hier sa stratégie nationale de cybersécurité pour 2026 à 2030, qui est présentée comme « une priorité nationale ».
+- À lire après avoir (re)lu notre compte rendu du discours de Vincent Strubel aux Assises de la cybersécurité à Monaco.
+
+## [<b>Cybersécurité</b> : L'État confie enfin le filtre anti-arnaque à l'OFAC - ZDNET](https://www.zdnet.fr/actualites/cybersecurite-letat-confie-enfin-le-filtre-anti-arnaque-a-lofac-489136.htm)  
+*Source : zdnet.fr | Publication : 2026-01-30*
+
+- L'Office anti-cybercriminalité (OFAC) prend officiellement les commandes du projet de filtre anti-arnaque.
+- Questionnée par les parlementaires, la ministre du numérique Anne Le Henanff a évoqué le sort du dispositif.
+- Elle a précisé ce cap en marge de la présentation de la stratégie nationale de cybersécurité.
+- Le document place ce filtre au cœur du huitième objectif national : mobiliser le secteur privé pour la défense cyber de la nation.
+
+## [La stratégie nationale de <b>cybersécurité</b> passe le Campus Cyber sous silence - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/strategie-nationale-cybersecurite-2026-225447/amp)  
+*Source : silicon.fr | Publication : 2026-01-30*
+
+- Avec seulement 3 magistrats traitant les dossiers de cybercriminalité, la France accuse une véritable carence sur le volet judiciaire.
+- La CSNP (Commission supérieure du numérique et des postes) avait fait ce diagnostic au printemps 2021.
+- Il était inscrit dans une série de recommandations sur la sécurité numérique.
+- En toile de fond, la stratégie nationale pour la cybersécurité, annoncée quelques semaines plus tôt.
+
+## [La chasse rétroactive est ouverte - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64413-la-chasse-retroactive-est-ouverte.html)  
+*Source : linformaticien.com | Publication : 2026-01-30*
+
+- GLIMPS annonce aujourd'hui le lancement de Fortress, une plateforme souveraine d'analyse massive conçue pour traquer les cybermenaces passées.
+
+## [<b>Cybersécurité</b> : une nouvelle stratégie nationale sans leviers immédiats - INCYBER NEWS](https://incyber.org/article/cybersecurite-une-nouvelle-strategie-nationale-sans-leviers-immediats/)  
+*Source : incyber.org | Publication : 2026-01-30*
+
+- Cybersécurité : une nouvelle stratégie nationale sans leviers immédiats Articles du même auteur : 2 29.01.26 Cybercriminalité Les réseaux chinois contrôlent 20 % du blanchiment des cryptomonnaies Lire 01.
+- 3 29.01.26 Gestion des risques WhatsApp se dote d’une fonctionnalité anti-spyware Lire 01.
+- 4.
+
+## [Le phénomène Moltbot inquiète les experts en <b>cybersécurité</b> - Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-le-phenomene-moltbot-inquiete-les-experts-en-cybersecurite-99215.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-01-30*
+
+- En quelques semaines, les développeurs ont adopté un agent IA du nom de Moltbot.
+- Il était auparavant connu sous le nom Clawdbot, mais sous la pression d’Anthropic, fournisseur de Claude, l’agent a changé de nom.
+- Il vient même encore de changer d'appellation pour devenir Openclaw.
+- Concrètement, il s’agit d’un projet open source créé par Peter Steinberger sous licence MIT et installable en local sur un PC.
+
+## [Meta active un mode de sécurité renforcé sur WhatsApp face à la montée des attaques par ...](https://www.solutions-numeriques.com/meta-active-un-mode-de-securite-renforce-sur-whatsapp-face-a-la-montee-des-attaques-par-messagerie/)  
+*Source : solutions-numeriques.com | Publication : 2026-01-30*
+
+- Meta déploie sur WhatsApp une nouvelle option de sécurité avancée destinée à limiter les attaques ciblées par messagerie.
+- Un mouvement qui illustre l’évolution des menaces, désormais largement fondées sur l’ingénierie sociale plutôt que sur les malwares traditionnels.
+- Un « mode strict » pour réduire la surface d’attaque Selon TechCrunch, WhatsApp commence à déployer une nouvelle fonctionnalité baptisée « Paramètres de compte stricts ».
+- Cette option, activable manuellement, applique automatiquement les réglages de confidentialité les plus restrictifs afin de protéger les utilisateurs exposés, comme les journalistes, les personnalités publiques ou les militants.
+
+## [<b>Cybermenaces</b> : l'attaque devient une chaîne industrielle, allant du cloud à l'OT - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/cybermenaces-lattaque-devient-une-chaine-industrielle-allant-du-cloud-a-lot/)  
+*Source : itsocial.fr | Publication : 2026-01-30*
+
+- D’attaque opportuniste, la cybermenace s’est transformée en 2025 en une chaîne industrielle articulant cloud public, équipements réseau, applications Web et systèmes OT.
+- Le rapport Forescout « 2025 Threat Roundup » met en évidence un basculement vers l’exploitation automatisée des vulnérabilités, une dilution géographique des infrastructures d’attaque et une exposition croissante des environnements industriels et de santé.
+- Le rapport analyse plus de 900 millions d’événements collectés via des pots de miel spécialisés, des milliers d’échantillons de maliciels analysés, ainsi qu’une base de près de 900 groupes de menace.
+- Les données sont issues d’environnements hybrides – IT, OT, IoT, IoMT – reproduisant la diversité des actifs exposés dans les organisations.
+
+## [IPIDEA : comment Google a perturbé une infrastructure clé de la <b>cybercriminalité</b>](https://les-smartgrids.fr/ipidea-comment-google-a-perturbe-une-infrastructure-cle-de-la-cybercriminalite/)  
+*Source : les-smartgrids.fr | Publication : 2026-01-30*
+
+- Le 28 janvier 2026, Google a annoncé le démantèlement coordonné du réseau IPIDEA, présenté comme l’un des plus grands fournisseurs mondiaux de proxy résidentiels.
+- L’opération, pilotée par le Google Threat Intelligence Group, illustre l’évolution des menaces sur Internet : des infrastructures hybrides, à la frontière entre services commerciaux légitimes et abus massifs, capables de détourner à grande échelle des ressources informatiques grand public.
+- Google décortique l’architecture technique du réseau IPIDEA Google décrit IPIDEA comme une infrastructure distribuée conçue pour agréger des appareils compromis ou instrumentalisés afin d’en faire des points de sortie réseau.
+- Contrairement aux botnets traditionnels, IPIDEA reposait sur une logique de services.
+
+## [Accompagnement <b>cybersécurité</b> - Temesis](https://www.temesis.com/expertises/rgpd/accompagnement/accompagnement-cybersecurite/)  
+*Source : temesis.com | Publication : 2026-01-30*
+
+- Accompagnement cybersécurité Notre équipe cybersécurité vous accompagne afin de définir les mesures adéquates pour sécuriser votre projet ou votre système d’information.
+- À chaque étape, bénéficiez de conseils avisés tant organisationnels que techniques.
+- N’hésitez pas à nous contacter afin que nous puissions définir ensemble la prestation la plus adaptée à vos besoins.
+
+## [Webinar Sophos - NIS2 : la <b>cybersécurité</b> de la supply chain devient une responsabilité stratégique](https://www.linformaticien.com/magazine/info-partenaire/64408-webinar-sophos-nis2-la-cybersecurite-de-la-supply-chain-devient-une-responsabilite-strategique.html)  
+*Source : linformaticien.com | Publication : 2026-01-30*
+
+- Les attaques visant la supply chain figurent aujourd'hui parmi les menaces cyber les plus rapides et les plus complexes à maîtriser.
 
 ## [« Libérer la parole » : A Agen, le Congrès national des élus au numérique met l'accent sur ...](https://www.sudouest.fr/occitanie/liberer-la-parole-a-agen-la-7e-edition-du-congres-national-des-elus-au-numerique-met-l-accent-sur-la-cybersecurite-27631021.php)  
 *Source : sudouest.fr | Publication : 2026-01-29*
