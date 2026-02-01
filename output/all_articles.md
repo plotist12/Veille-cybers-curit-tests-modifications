@@ -1,5 +1,108 @@
-# Résumés – 2026-01-31
+# Résumés – 2026-02-01
 
+
+## [Budget 2026 : « l'effort militaire », la seule enveloppe en hausse, au détriment de l ...](https://www.humanite.fr/politique/budget/budget-2026-leffort-militaire-la-seule-enveloppe-en-hausse-au-detriment-de-leducation-lhopital-et-autres-elements-vitaux)  
+*Source : humanite.fr | Publication : 2026-02-01*
+
+- Le ministère de la Défense est le seul portefeuille à s’en sortir avec une enveloppe en hausse de 6,7 milliards d’euros par rapport à 2025.
+- C’est une habitude des responsables politiques français : se revendiquer du général de Gaulle dès qu’il s’agit du régalien.
+- À la tribune de l’Assemblée nationale, vendredi 30 janvier, alors qu’il engageait un troisième et dernier 49.3 pour faire adopter son budget, le premier ministre n’a pas échappé à la règle.
+
+## [<b>Cybersécurité</b> : « Quelqu'un est entré dans notre intimité »… Victime d'un détournement de ...](https://www.sudouest.fr/economie/economie-du-numerique/cybersecurite-quelqu-un-est-entre-dans-notre-intimite-victime-d-un-detournement-de-fonds-flore-temoigne-27546530.php)  
+*Source : sudouest.fr | Publication : 2026-02-01*
+
+- La jeune femme qui maîtrise pourtant parfaitement les nouvelles technologies a été victime d’un détournement de fonds de ses comptes bancaires à la suite d’un hameçonnage Flore* est née dans les années 1980, elle a grandi avec Internet et maîtrise plutôt bien les nouvelles technologies.
+- D’ailleurs, elle travaille dans une start-up à Bordeaux.
+- Pourtant, il y a un peu plus de deux ans, elle a été victime d’une arnaque au faux conseiller bancaire.
+- Une escroquerie particulièrement bien montée qui les a impliqués elle et son mari simultané... Flore* est née dans les années 1980, elle a grandi avec Internet et maîtrise plutôt bien les nouvelles technologies.
+
+## [Gabon : l'État sème la confusion en dupliquant les missions de l'ANINF | Gabonmediatime.com](https://gabonmediatime.com/gabon-letat-seme-la-confusion-en-dupliquant-les-missions-de-laninf/)  
+*Source : gabonmediatime.com | Publication : 2026-02-01*
+
+- Gabon : l’État sème la confusion en dupliquant les missions de l’ANINF La création annoncée d’une nouvelle Direction générale en charge des infrastructures numériques et des fréquences, aux attributions largement similaires à celles de l’ANINF, soulève de sérieuses interrogations.
+- Au-delà d’un simple ajustement administratif, cette duplication institutionnelle risque d’installer une confusion durable, un gaspillage budgétaire et une perte de lisibilité pour tout l’écosystème numérique gabonais.
+- Le décret pris en Conseil des ministres le 18 décembre 2025, portant création de la Direction générale du Développement des Infrastructures numériques et de la Cybersécurité (DGDINC), marque un tournant pour le moins déroutant dans la gouvernance du numérique au Gabon.
+- Placée sous l’autorité du ministère en charge de l’Économie numérique, cette nouvelle structure se voit confier, entre autres, le suivi du spectre des fréquences et des radiocommunications aux niveaux national et international.
+
+## [Le verdict est tombé : voici les 2 VPN les plus rapides et les plus légers - DegroupTest](https://www.degrouptest.com/actualite/le-verdict-est-tombe-voici-les-2-vpn-les-plus-rapides-et-les-plus-legers)  
+*Source : degrouptest.com | Publication : 2026-02-01*
+
+- Des vitesses de connexion hallucinantes En ajoutant un serveur intermédiaire entre l'appareil de l'utilisateur et le service consulté, les VPN parviennent à mieux protéger les utilisateurs en masquant notamment leur adresse IP et en créant un tunnel sécurisé qui protège le trafic de l'utilisateur.
+- Néanmoins, ce fonctionnement a un inconvénient : il rallonge le trajet parcouru par les données, ce qui a pour conséquence potentielle de ralentir la vitesse de connexion des utilisateurs.
+- Heureusement, les meilleurs VPN du marché travaillent constamment à optimiser leurs protocoles de chiffrement et la qualité de leurs serveurs pour réduire cet impact.
+- C'est d'ailleurs ce qu'a voulu mesurer le spécialiste de la cybersécurité Westcoast Labs.
+
+## [Stratégie nationale française de <b>cybersécurité</b> 2026–2030 : des effets pour La Réunion et Mayotte](https://imazpress.com/actus-reunion/strategie-nationale-francaise-de-cybersecurite-2026-2030-des-effets-pour-la-reunion-et-mayotte)  
+*Source : imazpress.com | Publication : 2026-02-01*
+
+- La stratégie nationale française de cybersécurité 2026–2030, publiée fin janvier 2026 par le Secrétariat général de la défense et de la sécurité nationale (SGDSN) sous l’autorité du Premier ministre, a été présentée publiquement par Anne Le Hénanff, ministre déléguée chargée de l’intelligence artificielle et du numérique, depuis le Campus Cyber Nouvelle-Aquitaine à Bordeaux.
+- Nous publions ci-dessous le communiqué (Photo : www.imazpress.com) Cette présentation intervient dans un contexte marqué par une intensification des cyberattaques et des campagnes de déstabilisation, touchant aussi bien de grandes entreprises que des PME, des services publics, des ministères et des collectivités territoriales.
+- Elle confirme que la cybersécurité est désormais un enjeu systémique, dépassant largement le cadre technique.
+- - Cinq piliers pour répondre aux enjeux des cinq prochaines années - Pour répondre aux défis à venir, la stratégie nationale repose sur cinq piliers structurants : - La montée en compétences, via la formation et le recrutement, - Le renforcement de la cyber-résilience, - L’entraînement et la préparation à la gestion de crise, - La maîtrise des fondements numériques et des innovations, - La coopération à l’échelle européenne et internationale.
+
+## [Israël dans le &quot;Top 5&quot; des pays leaders en matière de licornes, La start-up Upwind de <b>cyber</b> ...](https://israelvalley.com/2026/02/01/radio-j-la-40ᵉ-licorne-disrael-la-start-up-upwind-security-tel-aviv-de-cyber-securite/)  
+*Source : israelvalley.com | Publication : 2026-02-01*
+
+- L’Estonie suivie d’ Israël et Singapour sont les pays qui comptent le plus de Licornes par tête d’habitant.
+- Et la guerre au Moyen-Orient n’a pas fait chuter le nombre de startup israéliennes qui excellent et qui pourraient devenir Licornes prochainement.
+- La dernière licorne en date: une start-up de cybersécurité, UpWind, devient la 43ᵉ licorne d’Israël.
+- Selon nos sources à New-York, Israël abrite 43 « licornes » (start-ups valorisées à plus d’un milliard de dollars).
+
+## [Les pannes de réseau causent des dommages aux entreprises. - Vietnam.vn](https://www.vietnam.vn/fr/su-co-mang-gay-thiet-hai-cho-doanh-nghiep)  
+*Source : vietnam.vn | Publication : 2026-02-01*
+
+- Cependant, un fossé persiste entre les équipes de sécurité et les dirigeants d'entreprise.
+- Tandis que les professionnels de la sécurité se concentrent sur l'atténuation des risques, les dirigeants doivent concilier les exigences de sécurité et les objectifs globaux de l'entreprise.
+- Ce manque d'alignement engendre souvent des priorités conflictuelles et explique pourquoi de nombreuses initiatives en matière de cybersécurité ne bénéficient pas d'investissements suffisants.
+- Kaspersky a lancé un calculateur de coûts de cybersécurité pour les systèmes d'exploitation industriels.
+
+## [AURA : Ce poison numérique rend le vol de données IA inutile - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/02/01/aura-poison-numerique-donnees-ia/)  
+*Source : dcod.ch | Publication : 2026-02-01*
+
+- TL;DR : L’essentiel Des chercheurs ont mis au point une méthode défensive nommée AURA, capable de corrompre les graphes de connaissances volés.
+- Cette technique réduit la précision des systèmes pirates à environ 5 %, transformant un butin de grande valeur en une coquille vide inexploitable.
+- - Contrairement aux solutions de chiffrement classiques trop lentes pour l’IA en temps réel, ce système injecte des leurres sémantiques invisibles.
+- Les tests montrent que même après des tentatives de nettoyage sophistiquées, plus de 80 % des données empoisonnées persistent dans la base dérobée.
+
+## [MARSEILLE : <b>Cybersécurité</b>, anticiper, protéger, innover - Presse Agence](https://presseagence.fr/marseille-cybersecurite-anticiper-proteger-innover/)  
+*Source : presseagence.fr | Publication : 2026-02-01*
+
+- MARSEILLE : Cybersécurité, anticiper, protéger, innover Partager : MARSEILLE : Cybersécurité, anticiper, protéger, innover Dans ce contexte, la Région Sud agit de manière concrète et continue pour renforcer la cybersécurité sur l’ensemble du territoire et accompagner les entreprises, les collectivités et les citoyens.
+- Une filière d’excellence Avec plus de 100 entreprises expertes dans le domaine, la Région Sud est un véritable pôle d’excellence en matière de cybersécurité.
+- Elle capitalise notamment sur son héritage en tant que berceau historique de la carte à puce, grâce à la présence de grands industriels comme Thales DIS, STMicroelectronics, NXP, Docaposte et IN Groupe.
+- Des groupes majeurs comme Airbus Helicopter, Naval Group, FDJ, CMA CGM et Amadeus sont également d’importants consommateurs de solutions de cybersécurité.
+
+## [Komdigi demande aux jeunes générations de maîtriser à la fois la <b>cybersécurité</b> et l'IA](https://voi.id/fr/amp/555325)  
+*Source : voi.id | Publication : 2026-02-01*
+
+- Komdigi demande aux jeunes générations de maîtriser à la fois la cybersécurité et l'IA JAKARTA - Le ministère de la Communication et du Numérique a exprímé la détermination du gouvernement à preparer les jeunes générations capables de maîtriser la securité cybernétique et l’intelligence artificielle (IA) en meméme temps.
+- Le vice-ministre de la communication Nezar Patria a affirmé que ces efforts visaient à faire face à l’augmentation des menaces numériques qui sont de plus en plus personnelles et massives aujourd’hui et à l’avenir.
+- Car il est conscient que l'échelle des attaques croît maintenant beaucoup plus vite que la capacité de défense, tant sur les systèmes des institutions que sur les appareils personnels des citoyens.
+- « L’émergence de cette capacité d’attaque est beaucoup plus grande que la capacité de défense.
+
+## [Le parcours de l'innovation : le logiciel Kibana pour la surveillance de la sécurité réseau.](https://www.vietnam.vn/fr/hanh-trinh-sang-tao-phan-mem-kibana-giam-sat-an-toan-thong-tin-mang)  
+*Source : vietnam.vn | Publication : 2026-01-31*
+
+- Face à cette situation, le logiciel Kibana, développé par le lieutenant-colonel Huynh Nguyen Kossel, officier informatique du département des technologies de l'information (quartier général de la région militaire 7), s'est avéré très efficace pour surveiller la cybersécurité dans la région militaire 7.
+- Récemment, lors d'un exercice de cyberdéfense, le département des technologies de l'information (quartier général de la 7e région militaire) a installé le logiciel Kibana sur le serveur de gestion du réseau militaire et a détecté des signes de collecte et de surveillance d'informations au sein du système.
+- De plus, des cyberattaques menées par des pirates informatiques cherchant à déchiffrer des mots de passe et des attaques de logiciels malveillants menées par les forces adverses ont été détectées, permettant ainsi à la région militaire de prendre des contre-mesures opportunes.
+- Lorsqu'il est utilisé, le logiciel Kibana permet aux serveurs de visualiser les données.
+
+## [Vous avez un compte ManoMano ? Attention aux mails et appels suspects suite au piratage](https://www.lesnumeriques.com/societe-numerique/vous-avez-un-compte-manomano-attention-aux-mails-et-appels-suspects-suite-au-piratage-n250809.html)  
+*Source : lesnumeriques.com | Publication : 2026-01-31*
+
+- Vous avez un compte ManoMano ?.
+- Attention aux mails et appels suspects suite au piratage La fuite n'est pas dans les tuyauAprès une cyberattaque visant l'un de ses sous-traitants, ManoMano prévient ses clients : certaines données personnelles ont pu être consultées.
+- Aucune intrusion directe sur les comptes, mais un risque accru de tentatives de fraude.
+- Si vous avez un compte chez ManoMano, une boutique de vente en ligne régulièrement présente dans les tableaux de prix de nos comparatifs, il va falloir redoubler d'attention dans les prochains jours.
+
+## [Méga-fuite mondiale : des milliards de comptes compromis chez les géants du numérique](https://www.carnetdebord.info/mega-fuite-mondiale-des-milliards-de-comptes-compromis-chez-les-geants-du-numerique/)  
+*Source : carnetdebord.info | Publication : 2026-01-31*
+
+- Il y a des chiffres qui filent la migraine, et celui-ci mériterait presque une palme : plus de 16 milliards d’identifiants collectés, jetés en pâture sur des forums où la morale est aussi absente que la frontière.
+- Cette fuite de données inédite s’abat sur les géants du numérique, exposant sans fard les comptes Gmail, réseaux sociaux ou services bancaires à un chaos méthodique.
+- Derrière ce raz-de-marée de données piratées, c’est l’intimité numérique de millions de personnes qui se retrouve soudainement à découvert, prête à être exploitée par n’importe quel cybercriminel doté d’un minimum de jugeote.
+- L’alerte dépasse très largement le bug habituel dont on se remet avec une mise à jour et trois tweets d’excuse.
 
 ## [Streaming musical : cette plateforme victime de fuites, êtes-vous concerné ? - Clubic](https://www.clubic.com/actualite-598378-streaming-musical-cette-plateforme-victime-de-fuites-etes-vous-concerne.html)  
 *Source : clubic.com | Publication : 2026-01-31*
