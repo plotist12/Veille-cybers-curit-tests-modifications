@@ -1,5 +1,148 @@
-# Résumés – 2026-02-01
+# Résumés – 2026-02-02
 
+
+## [<b>Cybersécurité</b> en santé : 2026, une année charnière pour penser la résilience collective](https://dsih.fr/articles/6162/cybersecurite-en-sante-2026-une-annee-charniere-pour-penser-la-resilience-collective)  
+*Source : dsih.fr | Publication : 2026-02-02*
+
+- Cybersécurité en santé : 2026, une année charnière pour penser la résilience collective Alors que la sécurité des systèmes d’information de santé progresse sous l’effet de nouvelles exigences réglementaires, l’année 2026 s’inscrit dans une dynamique de vigilance accrue.
+- Espionnage numérique, cybercriminalité, activisme, ingérences étrangères ou encore fuites massives de données continuent de façonner un paysage de menaces complexe, dans lequel les établissements de santé demeurent des cibles sensibles.
+- « Les cadres se renforcent, c’est une évolution nécessaire, mais cela ne signifie pas que le risque disparaît », observe Vincent Trély, président de l’APSSIS.
+- Selon lui, les enseignements des dernières années montrent une continuité et une professionnalisation des attaques : « Ce que nous avons observé en 2025 s’inscrit dans une dynamique de fond.
+
+## [Antoine Damiens, Product Manager de VirtualBrowser - ITRnews](https://itrnews.com/articles/208669/antoine-damiens-product-manager-de-virtualbrowser.html)  
+*Source : itrnews.com | Publication : 2026-02-02*
+
+- Veuillez activer Javascript.
+
+## [Antoine Damiens, Product Manager de VirtualBrowser - ITRmanager](https://itrmanager.com/articles/208669/antoine-damiens-product-manager-de-virtualbrowser.html)  
+*Source : itrmanager.com | Publication : 2026-02-02*
+
+- cybersécurité et de s'entourer de profils reconnus pour soutenir son développement.
+- Avec plus de 15 ans d'expérience dans la cybersécurité B2B.
+
+## [Jeux d'hiver 2026 : Attention aux arnaques... - Sports - Orange](https://sports.orange.fr/plus-de-sport/sports-hiver/article/jeux-d-hiver-2026-attention-aux-arnaques-exclu-CNT000002n7iQo.html)  
+*Source : sports.orange.fr | Publication : 2026-02-02*
+
+- Mathieu Warnier, Media365 : publié le lundi 02 février 2026 à 20h15 Alors que les Jeux d'hiver organisés à Milan-Cortina s'ouvrent ce vendredi, l'accès aux billets pour les épreuves peut s'avérer problématique en raison des arnaques qui pullulent à l'approche de l'événement.
+- Le grand moment approche à grand pas.
+- Ce vendredi, le Stade San Siro accueillera la cérémonie d'ouverture des Jeux d'hiver de Milan-Cortina, qui donnera le coup d'envoi de deux semaines d'épreuves dans les Alpes italiennes sur quatre sites différents.
+- Un rendez-vous qui va attirer des centaines de milliers de spectateurs avec près d'un million et demi de billets qui ont été mis sur le marché depuis le lancement de la billetterie en février 2025.
+
+## [A quelques jours de Noël, Cloudflare a empêché le net de s'effondrer en absorbant &quot;la plus ...](https://www.bfmtv.com/tech/cybersecurite/a-quelques-jours-de-noel-cloudflare-a-empeche-le-net-de-s-effondrer-en-absorbant-la-plus-grand-attaque-en-deni-de-service-de-l-histoire_AN-202602020742.html)  
+*Source : bfmtv.com | Publication : 2026-02-02*
+
+- A quelques jours de Noël, Cloudflare a empêché le net de s’effondrer en absorbant "la plus grand attaque" en déni de service de l’histoire Certaines cyberattaques ont frappé le grand public... tandis que d’autres n’ont retenu l’attention que de quelques chercheurs.
+- Le 19 décembre 2025, une cyberattaque massive a frappé plusieurs entreprises, principalement des télécoms et des sociétés informatiques, ainsi que l’infrastructure de Cloudflare.
+- Baptisée "La nuit avant Noël" par les chercheurs, elle serait devenue "la plus grande attaque publiquement divulguée" à ce jour par la firme.
+- Selon Bleeping Computer, l’attaque a généré un débit de 31,4 Tb/s, ce qui signifie que 31.400 milliards de bits ont été envoyés chaque seconde vers les cibles.
+
+## [Valentin a choisi Limoges pour ses études : «Les prix n'ont rien à voir avec Paris»](https://etudiant.lefigaro.fr/article/etudes/valentin-a-choisi-limoges-pour-ses-etudes-les-prix-n-ont-rien-a-voir-avec-paris-20260202/)  
+*Source : etudiant.lefigaro.fr | Publication : 2026-02-02*
+
+- Valentin Auvray est en deuxième année de bachelor cybersécurité à l'école d'ingénieurs du groupe 3iL, à Limoges.
+- « J'étais en terminale STI2D et j.
+
+## [Conscio Technologies présente son livre blanc « Sensibilisation <b>Cybersécurité</b> – plan d'action 2026](https://www.globalsecuritymag.fr/conscio-technologies-presente-son-livre-blanc-sensibilisation-cybersecurite.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-02*
+
+- Conscio Technologies présente son livre blanc « Sensibilisation Cybersécurité – plan d’action 2026 » février 2026 par LA REDACTION DE GS MAG Conscio Technologies présente son livre blanc « Sensibilisation Cybersécurité – plan d’action 2026 », un ouvrage pratique permettant de lancer et mettre en place un plan de sensibilisation efficace.
+- Former, c’est transmettre.
+- Transformer, c’est provoquer un changement réel, observable, durable.
+- Ce white paper est un plan d’action 2026 clé en main, aligné sur les mécanismes du cerveau, la réalité des organisations, et les enjeux du RSSI d’aujourd’hui.
+
+## [Le Gouvernement refonde la stratégie nationale de <b>cybersécurité</b> pour 2026-2030](https://genethique.org/complement/le-gouvernement-refonde-la-strategie-nationale-de-cybersecurite-pour-2026-2030/)  
+*Source : genethique.org | Publication : 2026-02-02*
+
+- Le Gouvernement refonde la stratégie nationale de cybersécurité pour 2026-2030 découvrez également Le média bioéthique, science et société Gènéthique décrypte les enjeux éthiques des avancées scientifiques et médicales contemporaines.
+- Notre mission : rendre accessibles les grandes questions bioéthiques qui façonnent notre avenir commun.
+- humains : notre nouvelle chaine, qui questionne le progrès pour préserver l’humain.
+- Dans un format très pédagogique, découvrez une vidéo ci-contre.
+
+## [TD SYNNEX signe un accord de distribution européen avec HarfangLab - ChannelBiz |](https://www.channelbiz.fr/2026/02/02/td-synnex-signe-un-accord-de-distribution-europeen-avec-harfanglab/)  
+*Source : channelbiz.fr | Publication : 2026-02-02*
+
+- TD SYNNEX France annonce un partenariat de distribution européen avec HarfangLab, spécialiste français de l’EDR.
+- TD SYNNEX France signe un accord de distribution en Europe avec HarfangLab.
+- Le partenariat entre la division Advanced Solutions de TD SYNNEX et HarfangLab vise à répondre aux enjeux de fiabilité et de souveraineté.
+- Il concernera particulièrement les partenaires européens et leurs clients.
+
+## [les spécificités de La Réunion et Mayotte insuffisamment prises en compte, selon l'OCOI](https://www.zinfos974.com/cybersecurite-les-specificites-de-la-reunion-et-mayotte-insuffisamment-prises-en-compte-selon-locoi/)  
+*Source : zinfos974.com | Publication : 2026-02-02*
+
+- L'Observatoire de la Cybersécurité de l'Océan Indien s'est penché sur les conséquences concrètes de cette stratégie pour les territoires ultramarins.
+
+## [<b>Cybersécurité</b> : une nouvelle feuille de route stratégique aux implications majeures pour les ...](https://www.processalimentaire.com/procedes/cybersecurite-une-nouvelle-feuille-de-route-strategique-aux-implications-majeures-pour-les)  
+*Source : processalimentaire.com | Publication : 2026-02-02*
+
+- Cybersécurité Face à l’intensification et à la professionnalisation des cybermenaces, le Gouvernement a dévoilé le 29 janvier 2026 la Stratégie nationale de cybersécurité 2026-2030, présentée par Anne Le Hénanff, ministre du numérique, aux côtés de l’Agence nationale de la sécurité des systèmes d’information (Anssi).
+
+## [Première acuqisition pour Ekimetrics - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/64418-premiere-acuqisition-pour-ekimetrics.html)  
+*Source : linformaticien.com | Publication : 2026-02-02*
+
+- Dans le cadre du lancement de son plan stratégique "Elevate" Ekimetrics annonce l'acquisition d'Actable, spécialiste américain de l'analytics.
+
+## [&quot;On a appris à manipuler les gens&quot; : quand les membres du renseignement militaire ... - JDN](https://www.journaldunet.com/cybersecurite/1547679-ces-ex-du-renseignement-militaire-qui-dopent-la-cybersecurite-privee/)  
+*Source : journaldunet.com | Publication : 2026-02-02*
+
+- "On a appris à manipuler les gens" : quand les membres du renseignement militaire rejoignent la cybersécurité privée Certains anciens agents du renseignement militaire profitent de leur expérience pour innover, entreprendre et mettre en pratique leurs connaissances convoitées dans le privé.
+- Après avoir passé des années dans l'ombre du renseignement, certains militaires décident de bouleverser leur vie en revenant à la vie civile.
+- C'est le cas d'anciens agents spécialisés dans la cybersécurité, qui souhaitent profiter des nombreux débouchés porteurs que propose le privé en la matière.
+- Une telle transition ne s'effectue toutefois pas sans peine.
+
+## [Open VSX touché par une attaque supply chain via des extensions malveillantes](https://www.solutions-numeriques.com/open-vsx-touche-par-une-attaque-supply-chain-via-des-extensions-malveillantes/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-02*
+
+- Une attaque sur la chaîne d’approvisionnement logicielle a ciblé le registre d’extensions Open VSX.
+- Des acteurs malveillants sont parvenus à compromettre le compte d’un développeur légitime afin de diffuser des versions piégées de plusieurs extensions, intégrant le malware GlassWorm.
+- Le registre Open VSX ciblé à cause d’un compte développeur compromis Des chercheurs en cybersécurité ont révélé les détails d’une attaque de type supply chain visant le registre Open VSX Registry, utilisé notamment par des environnements de développement compatibles avec VS Code.
+- Le 30 janvier 2026, quatre extensions existantes, publiées par un développeur reconnu sous le pseudonyme « oorzc », ont été mises à jour avec des versions malveillantes.
+
+## [Clearview AI, l'entreprise aux 100 millions d'euros d'amendes en Europe - INCYBER NEWS](https://incyber.org/article/clearview-ai-lentreprise-aux-100-millions-deuros-damendes-en-europe/)  
+*Source : incyber.org | Publication : 2026-02-02*
+
+- Spécialisée dans la reconnaissance faciale, Clearview AI est une entreprise américaine fondée en 2017.
+- Son modèle repose sur la constitution d’une base de données biométriques massive.
+- Sur son site, Clearview AI revendique plus de 70 milliards d’images.
+- Ces clichés sont extraits de plateformes sociales, de sites d’actualité, de blogs, de plateformes vidéo et d’annuaires professionnels.
+
+## [Notepad++ au centre d'une campagne de cyberattaques - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/notepad-plus-plus-225512/amp)  
+*Source : silicon.fr | Publication : 2026-02-02*
+
+- Notepad++ a un nouvel hébergeur.
+- Son développeur en fait part dans le cadre d’un point de situation concernant une attaque subie l’an dernier.
+- Entre juin et novembre, des utilisateurs ont été ciblés par l’intermédiaire de WinGUp, le gestionnaire de mises à jour intégré.
+- Ce dernier ne récupère pas directement les updates.
+
+## [EDIH La Réunion : un dispositif de <b>cybersécurité</b> public qui vous accompagne du diagnostic ...](https://www.zinfos974.com/edih-la-reunion-un-dispositif-de-cybersecurite-public-qui-vous-accompagne-du-diagnostic-au-financement-avec-lappui-de-prestataires-prives-locaux-et-qualifies/)  
+*Source : zinfos974.com | Publication : 2026-02-02*
+
+- Ne pas rester seul : appui public + réseau de prestataires locaux de confiance.
+- Le parcours en 3 étapes.
+- 1) Diagnostic cybersécurité gratuit (outil.
+
+## [Catastrophe, il active le Wi-Fi Direct de l'imprimante de son entreprise, qui se fait voler 12 ...](https://www.clubic.com/actualite-598513-catastrophe-il-active-le-wi-fi-direct-de-l-imprimante-de-l-entreprise-qui-se-fait-voler-12-go-de-secrets-industriels.html)  
+*Source : clubic.com | Publication : 2026-02-02*
+
+- Une imprimante mal sécurisée aurait permis le vol de 12 Go de données industrielles sensibles.
+- Le Wi-Fi Direct activé par un employé bienveillant s'est transformé en brèche fatale pour la cybersécurité de son entreprise.
+- S'il est impossible de voler des objets physiques à l'aide d'une connexion internet, dérober des plans numérisés peut très bien se faire en quelques clics.
+- C'est ce qui est arrivé, en pleine nuit à deux heures du matin, dans une usine française.
+
+## [WiFi invité : un point d'entrée réseau devenu stratégique - Solutions-Numeriques](https://www.solutions-numeriques.com/wifi-invite-un-point-dentree-reseau-devenu-strategique/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-02*
+
+- Longtemps considéré comme un simple service d’appoint, le WiFi invité devient un enjeu stratégique pour les entreprises et les collectivités.
+- Lancom Systems et Weblib annoncent un partenariat visant à proposer une solution européenne de WiFi invité, pensée pour concilier sécurité, conformité réglementaire et simplicité de déploiement dans des environnements distribués.
+- Le WiFi invité, un angle mort persistant de la sécurité Dans les points de vente, les établissements recevant du public ou les organisations multisites, le WiFi invité est souvent traité comme une brique secondaire de l’infrastructure réseau.
+- Pourtant, il constitue un point d’entrée potentiel vers le système d’information, tout en exposant les organisations à des enjeux de conformité, de traçabilité et de protection des données personnelles.
+
+## [Notepad++ au centre d'une campagne de cyberattaques - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/notepad-plus-plus-225512)  
+*Source : silicon.fr | Publication : 2026-02-02*
+
+- Notepad++ a un nouvel hébergeur.
+- Son développeur en fait part dans le cadre d’un point de situation concernant une attaque subie l’an dernier.
+- Entre juin et novembre, des utilisateurs ont été ciblés par l’intermédiaire de WinGUp, le gestionnaire de mises à jour intégré.
+- Ce dernier ne récupère pas directement les updates.
 
 ## [Budget 2026 : « l'effort militaire », la seule enveloppe en hausse, au détriment de l ...](https://www.humanite.fr/politique/budget/budget-2026-leffort-militaire-la-seule-enveloppe-en-hausse-au-detriment-de-leducation-lhopital-et-autres-elements-vitaux)  
 *Source : humanite.fr | Publication : 2026-02-01*
