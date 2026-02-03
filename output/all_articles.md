@@ -1,5 +1,150 @@
-# Résumés – 2026-02-02
+# Résumés – 2026-02-03
 
+
+## [L'unité de lutte contre la <b>cybercriminalité</b> de Paris perquisitionne les bureaux de X, Musk est ...](https://www.boursorama.com/bourse/actualites/l-unite-de-lutte-contre-la-cybercriminalite-de-paris-perquisitionne-les-bureaux-de-x-musk-est-convoque-d6b9fe593504747c4dd55b339a0eb629)  
+*Source : boursorama.com | Publication : 2026-02-03*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Musk et l'ancien directeur général convoqués pour témoigner le 20 avril * L'enquête sur la prétendue partialité des algorithmes a commencé au début de l'année 2025 * L'enquête a depuis été élargie pour inclure le chatbot d'IA Grok * L'Europe et les États-Unis s'opposent de plus en plus sur la Big Tech et la liberté d'expression * L'organisme britannique de surveillance de la vie privée lance également une enquête sur Grok (Ajout du commentaire d'Elon Musk au paragraphe 6) par Inti Landauro et Sudip Kar-Gupta La police française a perquisitionné les bureaux du réseau social X d'Elon Musk mardi et les procureurs ont ordonné que le milliardaire de la technologie soit interrogé dans le cadre d'une enquête élargie, , alors que les autorités européennes s'intéressent de plus en plus à la plateforme.
+- La perquisition de l'unité de lutte contre la cybercriminalité du parquet de Paris et la convocation d'Elon Musk - qui pourraient accroître les tensions entre l'Europe et les États-Unis sur la Big Tech et la liberté d'expression - sont liées à une enquête qui dure depuis un an sur des soupçons d'abus d'algorithmes et d'extraction frauduleuse de données par X ou ses dirigeants.
+- L'organisme britannique de protection de la vie privée a quant à lui ouvert une enquête officielle sur Grok, le chatbot d'IA de Musk, au sujet du traitement des données personnelles et de sa capacité à produire des images et du contenu vidéo à caractère sexuel préjudiciable.
+- "Le parquet de Paris tente manifestement d'exercer des pressions sur la direction de X aux États-Unis en ciblant notre entité française et nos employés, qui ne sont pas au cœur de cette enquête", a déclaré X dans un communiqué.
+
+## [<b>Cybercriminalité</b> : X dénonce un « acte judiciaire abusif » reposant « sur des motivations politiques »](https://www.sudouest.fr/economie/reseaux-sociaux/cybercriminalite-x-denonce-un-acte-judiciaire-abusif-reposant-sur-des-motivations-politiques-apres-la-perquisition-en-france-27702457.php)  
+*Source : sudouest.fr | Publication : 2026-02-03*
+
+- Le réseau social X a dénoncé mardi un « acte judiciaire abusif » reposant « sur des motivations politiques », après la perquisition menée dans ses locaux français.
+- « Les allégations ayant justifié cette perquisition sont infondées et X réfute catégoriquement avoir commis la moindre infraction », a affirmé le réseau social dans un post.
+- Dans un second message aussi posté sur son réseau social, l’homme le plus riche du monde, également patron et actionnaire du constructeur automobile Tesla, de la société spatiale SpaceX et de la start-up d’intelligence artificielle xAI, a estimé que les autorités françaises feraient mieux de lutter contre la délinquance sexuelle.
+- Les autorités judiciaires françaises ont perquisitionné ce jour les bureaux parisiens de X dans le cadre d’une enquête pénale reposant sur des motivations politiques et faisant suite à des allégations de manipulation d’algorithmes et de prétendues extractions frauduleuses de données.
+
+## [Infinigate face aux attentes des MSP en <b>cybersécurité</b> managée. - ITforBusiness.fr](https://www.itforbusiness.fr/infinigate-face-aux-attentes-des-msp-en-cybersecurite-managee-99716)  
+*Source : itforbusiness.fr | Publication : 2026-02-03*
+
+- ChannelScope Infinigate face aux attentes des MSP en cybersécurité managée.
+- Par Frédéric Bergonzoli, publié le 03 février 2026 L’édition 2026 du salon dédié au channel est pour le distributeur un temps fort pour réaffirmer son engagement auprès des MSP et intégrateurs face à la pénurie de compétences cyber.
+- Au menu proposé à ces partenaires, MDR, XDR et services managés.
+- Alors que les événements professionnels se raréfient, IT Partners conserve son statut de rendez-vous incontournable pour les acteurs de la tech et de la distribution.
+
+## [Les bureaux parisiens du réseau social « X » ont été perquisitionnés, Elon Musk convoqué ...](https://www.humanite.fr/medias/elon-musk/les-bureaux-parisiens-du-reseau-social-x-ont-ete-perquisitionnes-elon-musk-convoque-par-la-justice)  
+*Source : humanite.fr | Publication : 2026-02-03*
+
+- Les bureaux parisiens du réseau social d’Elon Musk « X » ont été perquisitionnés ce mardi 2 février dans le cadre d’une enquête pour cybercriminalité menée par le parquet de Paris.
+- Les locaux parisiens du réseau social X ont été perquisitionnés ce mardi 2 février par la section de lutte contre la cybercriminalité du parquet de Paris.
+- Cette opération s’inscrit dans le cadre d’une enquête judiciaire ouverte en janvier 2025, visant le fonctionnement de la plateforme depuis son rachat.
+
+## [Le parquet de Paris perquisitionne les bureaux français de la société X d'Elon Musk](https://www.youtube.com/watch?v=7T660SCdRzo)  
+*Source : youtube.com | Publication : 2026-02-03*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Les locaux de X perquisitionnés à Paris, Elon Musk convoqué en « audition libre - RTL Info](https://www.rtl.be/actu/monde/france/les-locaux-de-x-perquisitionnes-paris-elon-musk-convoque-en-audition-libre-le/2026-02-03/article/778591)  
+*Source : rtl.be | Publication : 2026-02-03*
+
+- Partager: Une perquisition est « diligentée dans les locaux français » de la plate-forme X par la section de lutte contre la cybercriminalité du parquet de Paris, a indiqué ce dernier mardi sur ses réseaux sociaux.
+- Par ailleurs, le parquet de Paris a convoqué Elon Musk en « audition libre » le 20 avril.
+- Les investigations de ce mardi sont menées avec l’unité nationale cyber de la gendarmerie et Europol dans le cadre d’une enquête ouverte en janvier 2025, poursuit le parquet de Paris qui indique quitter le réseau social.
+- Une enquête étendue à Grok L’enquête visant X a été ouverte depuis juillet, après de premiers signalements d’une possible utilisation de l’algorithme X à des fins d’ingérence étrangère.
+
+## [<b>Cybercriminalité</b> : Elon Musk convoqué en avril par la justice française, perquisition chez X en France](https://www.letelegramme.fr/france/cybercriminalite-elon-musk-convoque-en-avril-par-la-justice-francaise-perquisition-chez-x-en-france-6977013.php)  
+*Source : letelegramme.fr | Publication : 2026-02-03*
+
+- Le parquet de Paris a convoqué le 20 avril Elon Musk, patron de X, dont les locaux français sont perquisitionnés pour diverses dérives présumées.
+- Le parquet de Paris a convoqué le 20 avril le milliardaire Elon Musk, patron de la plateforme X, dont les locaux français sont actuellement perquisitionnés pour diverses dérives présumées, a indiqué ce mardi la procureure de Paris dans un communiqué.
+- Elon Musk est convoqué, ainsi que Linda Yaccarino, ancienne directrice générale de X, le 20 avril « aux fins d’auditions libres », « en leur qualité de gérant de fait et de droit de la plateforme X au moment des faits », précise la procureure Laure Beccuau.
+- En parallèle, « une perquisition est diligentée ce jour (ce mardi, NDLR) dans les locaux français de la plateforme X », a précisé la magistrate.
+
+## [Agents IA : deux tiers des entreprises les jugent plus dangereux que les humains pour la sécurité](https://www.solutions-numeriques.com/agents-ia-deux-tiers-des-entreprises-les-jugent-plus-dangereux-que-les-humains-pour-la-securite/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-03*
+
+- Selon une étude Keyfactor menée avec Wakefield Research, l’essor de l’IA agentique révèle une fragilité majeure des modèles de sécurité actuels.
+- Identité, gouvernance et capacité d’arrêt des systèmes autonomes apparaissent désormais comme les angles morts les plus critiques de la cybersécurité d’entreprise.
+- Une autonomie qui met à l’épreuve les fondations de la sécurité L’IA agentique n’est plus cantonnée à l’assistance ou à l’optimisation ponctuelle.
+- Elle agit, initie des actions, accède à des systèmes critiques et interagit avec d’autres agents, parfois sans supervision humaine directe.
+
+## [<b>Cybercriminalité</b>. <b>Cybercriminalité</b>: Elon Musk convoqué le 20 avril à Paris | La Liberté](https://www.laliberte.ch/articles/cybercriminalite-elon-musk-convoque-le-20-avril-a-paris-1296640)  
+*Source : laliberte.ch | Publication : 2026-02-03*
+
+- Elon Musk, propriétaire de la plateforme X, et l'ancienne directrice générale de X, Linda Yaccarino, sont convoqués le 20 avril en "auditions libres" par le parquet de Paris, indique ce dernier mardi dans un communiqué.
+- La plateforme X est visée par une enquête partie d'un signalement début 2025 pour des algorithmes jugés biaisés.
+- L'enquête a été élargie depuis après d'autres signalements dénonçant le fonctionnement de Grok, intelligence artificielle de la plateforme, ayant conduit à la diffusion de contenus négationnistes et de deepfakes à caractère sexuel.
+- Des perquisitions ont été diligentées dans les locaux français de X dans ce cadre, toujours selon le parquet de Paris.
+
+## [<b>Cybersécurité</b> : Les 20 événements majeurs en France en 2026](https://dcod.ch/2026/02/03/cybersecurite-evenements-france-2026/)  
+*Source : dcod.ch | Publication : 2026-02-03*
+
+- TL;DR : L’essentiel Cet article exclusif couvre le premier semestre 2026, de février à juin.
+- Il offre aux professionnels et décideurs une visibilité totale sur l’agenda français, en filtrant le bruit médiatique pour ne retenir que les 20 événements et conférences incontournables de la cybersécurité.
+- - L’analyse décrypte les rendez-vous incontournables comme le Forum InCyber (FIC) ou le Paris Cyber Summit, tout en intégrant les événements sectoriels critiques (Santé, Espace, Maritime) pour une couverture exhaustive des enjeux de conformité NIS 2 et d’IA agentique.
+- - Bien que consolidées avec rigueur, ces informations doivent être vérifiées sur les sites officiels des organisateurs.
+
+## [Milestone Avocats crée un nouveau pôle Données personnelles &amp; <b>Cybersécurité</b> avec l ...](https://www.decideurs-juridiques.com/nominations-juridiques/63446-milestone-avocats-cree-un-nouveau-pole-donnees-personnelles-cybersecurite-avec-l-arrivee-de-fanny-gauthier-en-tant-qu-associee.html)  
+*Source : decideurs-juridiques.com | Publication : 2026-02-03*
+
+- L'avocate accompagne des acteurs de la tech et du numérique sur l'ensemble de leurs problématiques de données personnelles et de cybersécurité ainsi.
+
+## [<b>Cybercriminalité</b> : le parquet de Paris perquisitionne les locaux français de X - l'Opinion](https://www.lopinion.fr/economie/cybercriminalite-le-parquet-de-paris-perquisitionne-les-locaux-francais-de-x)  
+*Source : lopinion.fr | Publication : 2026-02-03*
+
+- Cybercriminalité : le parquet de Paris perquisitionne les locaux français de X Nul n’est au-dessus des lois, y compris un géant de la tech.
+- Les locaux parisiens de la plateforme X font l’objet d’une perquisition, mardi 3 février, qui suit l’enquête ouverte par la section de lutte contre la cybercriminalité du parquet de Paris, en présence d’Europol et avec l’UNCyber de la gendarmerie, notent Les Echos.
+- C’est à la suite d’un signalement, notamment du député (Ensemble pour la République) des Côtes-d’Armor, Eric Bothorel, que l’enquête de la justice française a été ouverte.
+- X fait face à des suspicions quant à ses algorithmes d’affichage de contenus, qui auraient été modifiés pour procéder à des ingérences étrangères.
+
+## [<b>Cybercriminalité</b> : perquisition en cours dans les locaux de X à Paris, Musk convoqué par la justice](https://www.tf1info.fr/justice-faits-divers/videos/video-cybercriminalite-perquisition-en-cours-dans-les-locaux-de-x-a-paris-musk-convoque-par-la-justice-90332-2422475.html)  
+*Source : tf1info.fr | Publication : 2026-02-03*
+
+- Publié le 1 février 2026 à 12h00 Description Cybercriminalité : perquisition en cours dans les locaux de X à Paris, Musk convoqué par la justice Publié hier à 13h30 Une perquisition est en cours ce mardi dans les locaux français du réseau social X, a annoncé le parquet de Paris.
+- Elon Musk et l'ancienne patronne de la plateforme, Linda Yaccarino, sont convoqués par la justice en "auditions libres" le 20 avril prochain.
+- Durée: 01:27 (1mn27s) - Durée: 01:16 (1mn16s)Publié hier à 21h05 - Durée: 00:57 (57s)Publié hier à 12h15 - Durée: 00:25 (25s)Publié le 2 février 2026 à 9h25 - Durée: 02:38 (2mn38s)Publié hier à 20h30 - Durée: 01:14 (1mn14s)Publié le 2 février 2026 à 12h00 - Durée: 01:20 (1mn20s)Publié hier à 10h30 - Durée: 01:33 (1mn33s)Publié le 2 février 2026 à 19h00 - Durée: 00:55 (55s)Publié le 2 février 2026 à 18h55 - Durée: 01:12 (1mn12s)Publié le 2 février 2026 à 21h10 -.
+
+## [<b>Cybercriminalité</b> : Elon Musk convoqué le 20 avril en « audition libre », les locaux français ...](https://www.lavoixdunord.fr/1671153/article/2026-02-03/cybercriminalite-elon-musk-convoque-le-20-avril-en-audition-libre-les-locaux)  
+*Source : lavoixdunord.fr | Publication : 2026-02-03*
+
+- Ce mardi, une perquisition a été « diligentée dans les locaux français » de la plateforme X par la section de lutte contre la cybercriminalité du.
+
+## [Emploi, environnement, <b>cybersécurité</b>... Ce qu'il faut retenir du dernier rapport sur la sécurité ...](https://www.cnews.fr/vie-numerique/2026-02-03/emploi-environnement-cybersecurite-ce-quil-faut-retenir-du-dernier-rapport)  
+*Source : cnews.fr | Publication : 2026-02-03*
+
+- L'intelligence artificielle ne cesse d'émerveiller, tout comme elle préoccupe.
+- Un bilan de la situation de l'IA, en ce début d'année 2026 alarme à.
+
+## [Le cloud, la <b>cybersécurité</b> et l'IA au top des priorités des prestataires IT romands | ICTjournal](https://www.ictjournal.ch/etudes/2026-02-03/le-cloud-la-cybersecurite-et-lia-au-top-des-priorites-des-prestataires-it-romands)  
+*Source : ictjournal.ch | Publication : 2026-02-03*
+
+- Le cloud, la cybersécurité et l’IA au top des priorités des prestataires IT romands Les prestataires IT romands anticipent une croissance plus mesurée pour 2026, tant en termes de revenus que d’effectifs, selon notre nouvelle enquête annuelle.
+- Les résultats montrent en outre que l'intelligence artificielle devient un moteur clé aux côtés du cloud et de la cybersécurité.
+- Les fournisseurs IT actifs en Suisse romande restent majoritairement optimistes quant à l’évolution de leur activité pour 2026, mais leur niveau de confiance recule sensiblement par rapport aux années précédentes.
+- C’est ce que révèle notre sondage annuel mené auprès de 172 prestataires.
+
+## [La justice française perquisitionne dans les locaux de X et convoque Elon Musk | Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/la-justice-francaise-perquisitionne-dans-les-locaux-de-x-et-convoque-elon-musk-2213629)  
+*Source : lesechos.fr | Publication : 2026-02-03*
+
+- Cybersécurité · Réseaux sociaux.
+- L'opération fait suite à l'enquête ouverte en janvier 2025 par la section de lutte contre la cybercriminalité.
+
+## [Fiscalité, <b>cybersécurité</b>, bornes de recharge : Mobilians actif sur les trois chantiers](https://www.auto-infos.fr/article/fiscalite-cybersecurite-bornes-de-recharge-mobilians-actif-sur-les-trois-chantiers.290598)  
+*Source : auto-infos.fr | Publication : 2026-02-03*
+
+- Entre arbitrages fiscaux dans le PLF 2026, montée des risques cyber et recrudescence des vols de câbles sur les bornes de recharge, Mobilians multiplie les prises de position et les partenariats opérationnels.
+- Sur trois fronts distincts — fiscalité automobile, cybersécurité et sécurisation des infrastructures de recharge — Mobilians met en avant à la fois des résultats obtenus auprès des pouvoirs publics et de nouveaux dispositifs d’accompagnement, tout en signalant des zones de fragilité pour les entreprises du secteur.
+- Premier dossier : le Projet de loi de finances 2026, en voie d’adoption définitive.
+- Le syndicats des services de l'automobile indique avoir été « entendu sur plusieurs propositions structurantes pour les services de l’automobile », à l’issue d’une phase de mobilisation marquée par plus de 200 rendez-vous avec ministères et parlementaires.
+
+## [L'unité de lutte contre la <b>cybercriminalité</b> du procureur de Paris perquisitionne les bureaux ...](https://www.boursorama.com/bourse/actualites/l-unite-de-lutte-contre-la-cybercriminalite-du-procureur-de-paris-perquisitionne-les-bureaux-de-x-elon-musk-est-convoque-d6b9fe593504747c4dd55b339a0eb629)  
+*Source : boursorama.com | Publication : 2026-02-03*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Musk et l'ancien directeur général convoqués pour témoigner le 20 avril * L'enquête sur la prétendue partialité des algorithmes a commencé au début de l'année 2025 * L'enquête a depuis été élargie pour inclure le chatbot d'IA Grok * L'Europe et les États-Unis s'opposent de plus en plus sur la Big Tech et la liberté d'expression * L'organisme britannique de surveillance de la vie privée lance également une enquête sur Grok (Ajout du commentaire d'Elon Musk au paragraphe 6) par Inti Landauro et Sudip Kar-Gupta La police française a perquisitionné les bureaux du réseau social X d'Elon Musk mardi et les procureurs ont ordonné que le milliardaire de la technologie soit interrogé dans le cadre d'une enquête élargie, , alors que les autorités européennes s'intéressent de plus en plus à la plateforme.
+- La perquisition de l'unité de lutte contre la cybercriminalité du parquet de Paris et la convocation d'Elon Musk - qui pourraient accroître les tensions entre l'Europe et les États-Unis sur la Big Tech et la liberté d'expression - sont liées à une enquête qui dure depuis un an sur des soupçons d'abus d'algorithmes et d'extraction frauduleuse de données par X ou ses dirigeants.
+- L'organisme britannique de protection de la vie privée a quant à lui ouvert une enquête officielle sur Grok, le chatbot d'IA de Musk, au sujet du traitement des données personnelles et de sa capacité à produire des images et du contenu vidéo à caractère sexuel préjudiciable.
+- "Le parquet de Paris tente manifestement d'exercer des pressions sur la direction de X aux États-Unis en ciblant notre entité française et nos employés, qui ne sont pas au cœur de cette enquête", a déclaré X dans un communiqué.
+
+## [<b>Cybercriminalité</b>: la justice française met la pression sur X et convoque Musk - Noovo Info](https://www.noovo.info/nouvelles/technologie/article/cybercriminalite-la-justice-francaise-met-la-pression-sur-x/)  
+*Source : noovo.info | Publication : 2026-02-03*
+
+- Coup de tonnerre dans l’univers cyber: Elon Musk, propriétaire du réseau social X, est convoqué pour être entendu le 20 avril par la justice française dans l’enquête sur les dérives présumées de sa plateforme, dont les locaux français sont en cours de perquisition.
+- Linda Yaccarino, ancienne directrice générale de X, est également convoquée à cette date.
+- Cette ex-responsable et Elon Musk sont visés «en leur qualité de gérant de fait et de droit de la plateforme X au moment des faits», précise mardi la procureure de Paris Laure Beccuau dans un communiqué.
+- En parallèle, une perquisition est «diligentée» dans «les locaux français» de la plateforme X, ajoute la magistrate.
 
 ## [<b>Cybersécurité</b> en santé : 2026, une année charnière pour penser la résilience collective](https://dsih.fr/articles/6162/cybersecurite-en-sante-2026-une-annee-charniere-pour-penser-la-resilience-collective)  
 *Source : dsih.fr | Publication : 2026-02-02*
