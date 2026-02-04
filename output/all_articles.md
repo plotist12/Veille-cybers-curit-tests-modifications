@@ -1,5 +1,153 @@
-# Résumés – 2026-02-03
+# Résumés – 2026-02-04
 
+
+## [Soupçons d'espionnage au profit de la Chine : quatre personnes arrêtées en Gironde, elles ...](https://www.ladepeche.fr/2026/02/04/soupcons-despionnage-au-profit-de-la-chine-quatre-personnes-arretees-en-gironde-elles-auraient-collecte-des-donnees-militaires-13207783.php)  
+*Source : ladepeche.fr | Publication : 2026-02-04*
+
+- Soupçons d’espionnage au profit de la Chine : quatre personnes arrêtées en Gironde, elles auraient collecté des données militaires l'essentiel Quatre personnes, dont deux ressortissants chinois, ont été arrêtées dans le département de la Gironde, dans le cadre d’une enquête pour espionnage présumé au profit de la Chine.
+- Une enquête judiciaire ouverte pour espionnage.
+- Dans la nuit du 31 janvier au 1er février, les autorités françaises ont interpellé quatre personnes en Gironde, suspectées d’activités d’espionnage au profit de la Chine, selon le parquet de Paris.
+- À lire aussi : Un mini-drone espion de la taille d’un moustique : espionnage, sauvetage… l’innovation technologique surprenante conçue par la Chine La division cybercriminalité du parquet a ouvert une enquête judiciaire sur cette affaire, confiée aux juges d’instruction français.
+
+## [&quot;Passer de la sécurité numérique à la sécurité physique est plus facile que l'inverse&quot; : ces ...](https://www.journaldunet.com/cybersecurite/1547755-passer-de-rssi-a-la-securite-physique-est-plus-facile-que-l-inverse-comment-les-rssi-deviennent-aussi-cso/)  
+*Source : journaldunet.com | Publication : 2026-02-04*
+
+- "Passer de la sécurité numérique à la sécurité physique est plus facile que l'inverse" : ces RSSI qui deviennent aussi CSO De plus en plus d'organisations cherchent à rapprocher sécurité physique et cybersécurité, une convergence souvent portée par des RSSI devenus CSO.
+- L'incendie qui a détruit le data center d'OVH en mars 2021 a révélé de manière éclatante les liens étroits qui existent entre la sécurité physique et la sécurité logique.
+- Il a en effet mis à mal la cybersécurité de nombreuses entreprises en provoquant l'indisponibilité de services web et une perte irrémédiable de données stockées.
+- Il a aussi confirmé la pertinence des organisations qui "appréhendent la sécurité de manière holistique, autant sur l'aspect logique que physique", observe Eric Singer, chief security officer (CSO) chez Ingenico.
+
+## [De nombreux groupes de hackers exploitent l'IA générative pour leurs cyberattaques ... - Clubic](https://www.clubic.com/actualite-599041-de-nombreux-groupes-de-hackers-exploitent-l-ia-generative-pour-leurs-cyberattaques-confirme-l-anssi.html)  
+*Source : clubic.com | Publication : 2026-02-04*
+
+- L'ANSSI a publié mercredi sa synthèse sur les menaces liées à l'intelligence artificielle générative.
+- Les groupes de pirates sont désormais très nombreux à l'utiliser pour automatiser leurs cyberattaques.
+- Qu'il s'agisse de ChatGPT pour rédiger du code malveillant, de Gemini pour espionner des cibles stratégiques, ou des deepfakes à la chaîne pour usurper des identités, l'usage de l'IA générative est courant chez les hackers.
+- L'ANSSI, l'agence cyber française, vient de publier mercredi 4 février sa première synthèse sur cette menace, « comme un teaser, en attendant le panorama général de la menace 2025 en cours de finalisation », dit son patron Vincent Strubel.
+
+## [La parabole, la maison en Gironde et les ingénieurs : enquête de la DGSI sur une affaire ...](https://www.leparisien.fr/faits-divers/la-parabole-la-maison-en-gironde-et-les-ingenieurs-enquete-de-la-dgsi-sur-une-affaire-sensible-despionnage-chinois-04-02-2026-75ZINEQTAJHV5IX6D3FHVV4GU4.php)  
+*Source : leparisien.fr | Publication : 2026-02-04*
+
+- La parabole, la maison en Gironde et les ingénieurs : enquête de la DGSI sur une affaire sensible d’espionnage chinois INFO LE PARISIEN.
+- Quatre suspects, dont deux ingénieurs chinois, ont été interpellés samedi en Gironde par la DGSI dans le cadre d’une enquête pilotée par la section cyber du parquet de Paris.
+- Au cœur des investigations : une mystérieuse antenne retrouvée dans un jardin et ayant servi à des captations satellitaires sensibles.
+- Postes de police clandestins, tentatives de rapatriement forcé de ressortissants, étudiants-espions ou encore laboratoires scientifiques et entreprises infiltrés… Les opérations d’ingérence et d’espionnage émanant de la Chine commises sur le sol français sont aussi pernicieuses que variées.
+
+## [Quatre personnes suspectées d'espionnage au profit de Pékin interpellées en Gironde](https://www.liberation.fr/societe/police-justice/quatre-personnes-suspectees-despionnage-au-profit-de-pekin-interpellees-en-gironde-20260204_5U2FL6QOOZCR7FIXND4I6F34P4/)  
+*Source : liberation.fr | Publication : 2026-02-04*
+
+- cybercriminalité du parquet de Paris.
+- Une information judiciaire a été ouverte ce mercredi par la section de lutte contre la cybercriminalité du.
+
+## [JO d'hiver 2026 : l'Italie a déjoué une série de cyberattaques russes visant les jeux](https://www.sudouest.fr/economie/cybersecurite/jo-d-hiver-2026-l-italie-a-dejoue-une-serie-de-cyberattaques-russes-visant-les-jeux-27709631.php)  
+*Source : sudouest.fr | Publication : 2026-02-04*
+
+- Les attaques visaient plusieurs sites liés aux Jeux olympiques, dont des hôtels.
+- Elles ont toutes étaient déjouées selon le ministère des Affaires étrangères Deux jours avant la cérémonie d’ouverture, l’Italie a déjoué une série de cyberattaques russes contre des sites liés aux Jeux olympiques d’hiver de Milan Cortina, a annoncé mercredi le ministre des Affaires étrangères Antonio Tajani.
+
+## [Fraude à la carte grise : des hackers ont créé des milliers de faux certificats d'immatriculation](https://www.01net.com/actualites/fraude-immatriculation-hackers-milliers-cartes-grises-piratant-garagistes.html)  
+*Source : 01net.com | Publication : 2026-02-04*
+
+- Une fraude à l’immatriculation a été identifiée en France.
+- Dans un communiqué publié le mois dernier, la Fédération Nationale de l’Automobile (FNA) indique que la cyberattaque vise le Système d’immatriculation des véhicules (SIV), à savoir la grande base de données nationale qui gère tous les numéros d’immatriculation et cartes grises en France.
+- L’organisation professionnelle, qui représente les entrepreneurs de l’automobile en France, révèle que le SIV souffre de « graves défaillances de sécurisation ».
+- À lire aussi : Nouvelle fuite massive – 45 millions de données françaises exposées sur Internet, dont des infos bancaires Une vingtaine de garages piratés En exploitant ces failles de sécurité, des hackers sont parvenus à pirater les comptes de 22 garages français.
+
+## [Microsoft réorganise sa direction <b>cybersécurité</b>, Hayete Gallot remplace Charlie Bell](https://www.optionfinance.fr/info-financiere-en-continu/d/2026-02-04-microsoft-reorganise-sa-direction-cybersecurite-hayete-gallot-remplace-charlie-bell.html)  
+*Source : optionfinance.fr | Publication : 2026-02-04*
+
+- (Zonebourse.com) - Microsoft a annoncé mercredi un remaniement à la tête de sa division cybersécurité.
+- Hayete Gallot fait son retour au sein du groupe pour succéder à Charlie Bell, qui occupait cette fonction depuis 2021.
+- Bell devient désormais ingénieur contributeur individuel, un poste axé sur la qualité de l'ingénierie, tout en continuant de rapporter directement à Satya Nadella.
+- Ce changement, préparé de longue date selon le directeur général, intervient dans un contexte où Microsoft cherche à consolider sa stratégie sécurité tout en répondant aux attentes croissantes liées à l'essor de l'intelligence artificielle.
+
+## [Audit de la gouvernance de la <b>cybersécurité</b> et de la gestion du cyberrisque](https://www.osfi-bsif.gc.ca/fr/propos-du-bsif/rapports-publications/audit-gouvernance-cybersecurite-gestion-du-cyberrisque)  
+*Source : osfi-bsif.gc.ca | Publication : 2026-02-04*
+
+- Audit de la gouvernance de la cybersécurité et de la gestion du cyberrisque Table des matières 1.
+- Contexte - 2.
+- Résumé des résultats de l’audit et principales constatations - 3.
+- Principales constatations 3.1 Processus de gouvernance et de supervision - 3.2 Remise en question et évaluations de la gestion du risque - 3.3 Gestion fondée sur le risque - 3.4 Planification de la dotation et gestion des talents - 3.5 Renforcement de la responsabilisation et de l’agilité des fonctions de DPI et de DPS - 3.6 Autres questions – Formation et sensibilisation - - Annexe A – Notation des recommandations - Annexe B – Acronymes et termes importants - Annexe C – L’audit - 1.
+
+## [JO-2026: l'Italie déjoue une série de cyberattaques russes : Actualités - Orange](https://actu.orange.fr/monde/jo-2026-l-italie-dejoue-une-serie-de-cyberattaques-russes-CNT000002n9XFt.html)  
+*Source : actu.orange.fr | Publication : 2026-02-04*
+
+- JO-2026: l'Italie déjoue une série de cyberattaques "d'origine russe" L'Italie a déjoué une série de cyberattaques "d'origine russe" contre les Jeux olympiques d'hiver de Milan Cortina, a annoncé mercredi le gouvernement, à deux jours de l'ouverture officielle de l'évènement, qui mobilise un important dispositif de sécurité.
+- "Nous avons déjoué une cyberattaque (qui) visait plusieurs sites du ministère des Affaires étrangères, à commencer par celui de Washington (l'ambassade d'Italie, NDLR), ainsi que certains lieux liés aux Jeux olympiques de Milan Cortina, notamment des hôtels de la région de Cortina d'Ampezzo", a déclaré mercredi le chef de la diplomatie italienne Antonio Tajani au cours d'un déplacement dans la capitale américaine.
+- "Il s'agit d'actions d'origine russe", a-t-il ajouté, cité par les médias, sans donner plus de détails.
+- Le ministère a ensuite précisé à l'AFP que cette cyberattaque avait "touché 120 sites" au total et "été neutralisée avec succès".
+
+## [Microsoft réorganise sa direction <b>cybersécurité</b>, Hayete Gallot remplace Charlie Bell](https://www.boursorama.com/bourse/actualites/microsoft-reorganise-sa-direction-cybersecurite-hayete-gallot-remplace-charlie-bell-224a5b0b89b65a56aa220867ceff1953)  
+*Source : boursorama.com | Publication : 2026-02-04*
+
+- Microsoft réorganise sa direction cybersécurité, Hayete Gallot remplace Charlie Bell information fournie par Zonebourse 04/02/2026 à 18:54 Hayete Gallot, passée par Microsoft entre 2009 et 2024, était récemment présidente de l'expérience client chez Google Cloud.
+- Elle prend la tête du pôle cybersécurité avec le titre de vice-présidente exécutive, rattachée à la direction générale.
+- Son profil alliant expertise produit et relation client est présenté comme un atout stratégique pour une division qui a récemment été mise à l'épreuve.
+- En 2023, Microsoft avait été ciblé par une cyberattaque attribuée à la Chine, ayant compromis les comptes de responsables américains, un incident qui avait conduit à des critiques officielles et à un renforcement des procédures internes.
+
+## [L'économie française encore insuffisamment préparée face aux cyberattaques dopées à l'IA](https://www.globalsecuritymag.fr/l-economie-francaise-encore-insuffisamment-preparee-face-aux-cyberattaques.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-04*
+
+- février 2026 par Nicolas Ippolito, French Country Area Manager chez l'entreprise de cybersécurité Horizon3.ai.
+- « L'économie française est beaucoup.
+
+## [Et si avec la plateforme d'IA Moltbook, la mort d'Internet n'était plus un mythe - l'Opinion](https://www.lopinion.fr/economie/et-si-avec-la-plateforme-dia-moltbook-la-mort-dinternet-netait-plus-un-mythe)  
+*Source : lopinion.fr | Publication : 2026-02-04*
+
+- Et si, avec la plateforme d’IA Moltbook, la mort d’Internet n’était plus un mythe ?.
+- La plateforme Moltbook permet à des agents IA de s’exprimer sans intervention humaine.
+- De quoi donner du poids à une théorie : le Net tel qu’on le connaît vivrait peut-être ses dernières heures Les faits - En 2024, 51% du trafic mondial sur la toile était généré par des robots, selon la société de cybersécurité Imperva.
+- Un réseau social réservé aux agents d’intelligence artificielle.
+
+## [Une centaine d'étudiants participent au plus grand exercice de <b>cybersécurité</b> de France](https://www.youtube.com/watch?v=UTlWEsgS4gI)  
+*Source : youtube.com | Publication : 2026-02-04*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [tech &amp; fest 2026 : une première journée dense, entre souveraineté technologique ...](https://www.lyon-entreprises.com/actualites/article/techfest-2026-une-premiere-journee-dense-entre-souverainete-technologique-innovation-et-demonstrations-concretes)  
+*Source : lyon-entreprises.com | Publication : 2026-02-04*
+
+- tech & fest 2026 : une première journée dense, entre souveraineté technologique, innovation et démonstrations concrètes Pour sa troisième édition, tech & fest a ouvert ses portes ce mardi 4 février 2026 avec une ambition clairement affichée : placer la souveraineté technologique au cœur des réflexions.
+- Dès cette première journée, l’événement a confirmé son changement d’échelle en réunissant décideurs publics, industriels, chercheurs, startups, investisseurs et de nombreux exposants venus présenter des solutions concrètes.
+- La souveraineté comme fil conducteur des échanges Sur les différentes scènes et agoras, la souveraineté s’est imposée comme un thème transversal.
+- Intelligence artificielle, quantique, cybersécurité, données, robotique ou microélectronique ont été abordés sous l’angle de l’autonomie stratégique et de la capacité européenne à maîtriser ses technologies clés.
+
+## [REPORTAGE. « La cyber, c'est pas magique »: ces lycéens normands ont planché sur la ...](https://www.ouest-france.fr/normandie/caen-14000/des-lyceens-normands-ont-planche-sur-la-cybersecurite-a-luniversite-de-caen-0a0594b8-01b9-11f1-a4d5-a5b4e6d7fa65)  
+*Source : ouest-france.fr | Publication : 2026-02-04*
+
+- Lundi 26 janvier, 90 lycéens, en classe de première, issus des lycées Jean-Monnet de Mortagne-au-Perche (Orne) et de La Morandière à Granville.
+
+## [Spécial IT Partners 2026 : Montée en puissance d'AGS Next, désormais filiale du groupe AGS](https://www.distributique.com/actualites/lire-special-it-partners-2026-montee-en-puissance-d-ags-next-desormais-filiale-du-groupe-ags-36950.html)  
+*Source : distributique.com | Publication : 2026-02-04*
+
+- Bruno Bonny dirige l’activité distribution d’AGS Next et est aussi directeur associé pour le groupe AGS (Athena Global Services).
+- (Crédit AGS) Depuis le 1er janvier 2026, AGS Next est la filiale distribution du groupe AGS et référence 5 marques pour arriver ŕ terme ŕ une douzaine.
+- Sur IT Partners, le distributeur a montré entre autres la solution UcaaS de Bicom Systems dont les équipes étaient présentes.
+- Présent sur IT Partners, en tant que co-exposant avec l'éditeur Bicom Systems spécialisé dans les communications unifiées, le groupe AGS (Athena Global Services, importateur exclusif d'Eset en France) vient d'officialiser la filialisation d'AGS Next, sa structure dédiée ŕ la distribution d'offres ŕ valeur ajoutée lancée il y a un an selon Bruno Bonny, PDG d'AGS Next et directeur associé pour le groupe AGS.
+
+## [JO 2026 : ce que l'on sait des cyberattaques russes visant les Jeux olympiques d'hiver de ...](https://www.cnews.fr/monde/2026-02-04/jo-2026-actions-dorigine-russe-infrastructures-hotelieres-visees-ce-que-lon-sait)  
+*Source : cnews.fr | Publication : 2026-02-04*
+
+- cybersécurité sont actifs sur les principaux sites.
+- [REUTERS/Claudia Greco ].
+- Par CNEWS.
+- Publié le 04/02/2026 à 16:12 - Mis à jour le 04/02/2026 à.
+
+## [IT Partners 2026 : unyc lance son offre EDR pour les PME - ChannelBiz |](https://www.channelbiz.fr/2026/02/04/it-partners-2026-unyc-lance-son-offre-edr-pour-les-pme/)  
+*Source : channelbiz.fr | Publication : 2026-02-04*
+
+- Associée aux solutions de sauvegarde d’unyc, cette offre EDR complète la gamme cybersécurité de la plateforme.
+- A l’occasion de la 20ème édition d’IT Partners, unyc, plateforme B2B de services IT, Télécom et Cybersécurité, présente sa nouvelle offre EDR (Endpoint Detection and Response), accessible via son interface Atlas.
+- Cette solution permet aux partenaires de répondre aux besoins de protection renforcée de leurs clients face aux cyberattaques.
+- Les PME insuffisamment préparées Selon le baromètre 2025 de Cybermalveillance.gouv.fr, 80 % des TPE-PME reconnaissent ne pas être préparées aux cyberattaques ou ignorent leur niveau de protection.
+
+## [<b>Cybersécurité</b> Microsoft : 4 priorités IA pour blinder votre défense](https://dcod.ch/2026/02/04/cybersecurite-microsoft-4-priorites-ia/)  
+*Source : dcod.ch | Publication : 2026-02-04*
+
+- TL;DR : L’essentiel L’intégration d’agents d’intelligence artificielle dans les processus de sécurité a permis aux administrateurs d’exécuter leurs tâches de validation d’accès 43% plus rapidement selon une étude récente.
+- - L’automatisation des contrôles a également amélioré la précision des interventions de 48%, réduisant le risque d’erreur humaine face à des menaces de plus en plus sophistiquées.
+- - Les entreprises jonglent actuellement avec une moyenne de cinq solutions d’identité et quatre outils réseau distincts, une fragmentation qui crée des angles morts exploitables par les cybercriminels.
+- - L’explosion du nombre d’agents IA autonomes, ou « agent sprawl », impose désormais de gérer ces entités numériques avec la même rigueur et les mêmes protocoles d’identité que les employés humains.
 
 ## [L'unité de lutte contre la <b>cybercriminalité</b> de Paris perquisitionne les bureaux de X, Musk est ...](https://www.boursorama.com/bourse/actualites/l-unite-de-lutte-contre-la-cybercriminalite-de-paris-perquisitionne-les-bureaux-de-x-musk-est-convoque-d6b9fe593504747c4dd55b339a0eb629)  
 *Source : boursorama.com | Publication : 2026-02-03*
