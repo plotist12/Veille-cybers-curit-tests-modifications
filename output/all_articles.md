@@ -1,5 +1,152 @@
-# Résumés – 2026-02-04
+# Résumés – 2026-02-05
 
+
+## [Nouvelle menace Windows : de faux économiseurs d'écran prennent le contrôle de votre PC](https://www.01net.com/actualites/nouvelle-menace-windows-de-faux-economiseurs-decran-prennent-le-controle-de-votre-pc.html)  
+*Source : 01net.com | Publication : 2026-02-05*
+
+- Windows est à nouveau dans le viseur des pirates.
+- Les chercheurs de ReliaQuest ont découvert une campagne malveillante qui exploite les fichiers d’économiseur d’écran Windows pour piéger les internautes.
+- La cyberattaque repose en effet sur des fichiers .scr, qui permettent normalement d’installer un économiseur d’écran sur l’ordinateur.
+- À lire aussi : Microsoft enterre un protocole de sécurité Windows créé en 1993 Un fichier déguisé en facture Les pirates commencent par entrer en contact avec leur cible par mail.
+
+## [L'alliance romande Kyos–RegData lance une offre de <b>cybersécurité</b> de niveau bancaire ...](https://www.ictjournal.ch/news/2026-02-05/lalliance-romande-kyos-regdata-lance-une-offre-de-cybersecurite-de-niveau-bancaire)  
+*Source : ictjournal.ch | Publication : 2026-02-05*
+
+- L’alliance romande Kyos–RegData lance une offre de cybersécurité de niveau bancaire pour les PME Kyos SA et RegData SA annoncent le lancement de Kustodyan, une nouvelle offre de cybersécurité destinée aux éditeurs SaaS suisses et européens.
+- La solution vise à rendre accessible aux PME une protection des données de niveau bancaire, jusqu’ici principalement réservée aux grandes organisations.
+- Près de trois ans après l’annonce de leur alliance, Kyos SA et RegData SA concrétisent leur collaboration avec cette plateforme pensée pour répondre aux contraintes spécifiques des fournisseurs SaaS.
+- Selon les deux entreprises romandes, ces acteurs sont exposés aux mêmes cybermenaces que les grands groupes, sans disposer des ressources nécessaires pour déployer des dispositifs de sécurité avancés en interne.
+
+## [Altman d'OpenAI Annonce un Jalonnement en <b>Cybersécurité</b> avec le Modèle Codex](https://www.binance.com/fr/square/post/36059203228098)  
+*Source : binance.com | Publication : 2026-02-05*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [Avec Open XDR, Eset orchestre une <b>cybersécurité</b> multimarques - ITforBusiness.fr](https://www.itforbusiness.fr/avec-open-xdr-eset-orchestre-une-cybersecurite-multimarques-100145)  
+*Source : itforbusiness.fr | Publication : 2026-02-05*
+
+- ChannelScope Avec Open XDR, Eset orchestre une cybersécurité multimarques Par Vincent Verhaeghe, publié le 05 février 2026 Eset renforce son accompagnement des revendeurs MSP en 2026 avec une stratégie centrée sur centralisation des outils, expertise humaine et transparence.
+- Avec l’Open XDR, l’éditeur européen mise sur la souveraineté et la simplicité pour permettre aux partenaires de sécuriser leurs clients sans multiplier les solutions.
+- L’offre Open XDR d’Eset n’est pas en soi un nouveau produit, mais une c’est une évolution majeure de la console d’administration.
+- « Open XDR confère à notre solution la capacité d’ingérer et centraliser les logs de technologies tierces et à les traduire dans notre langage, pour que le partenaire puisse tout gérer depuis un seul outil » explique Thierry Defois, directeur des opérations chez Eset France.
+
+## [Portrait des utilisations de l'intelligence artificielle dans l'administration publique](https://www.quebec.ca/gouvernement/numerique/intelligence-artificielle-dans-ladministration-publique/portrait)  
+*Source : quebec.ca | Publication : 2026-02-05*
+
+- Le ministère de la Cybersécurité et du Numérique MCN rend public le ... cybersécurité.
+- On remarque que les grandes initiatives en IA dans le.
+
+## [Après avoir vendu de la drogue pour plus de 100 millions de dollars, volé et fait chanter ses ...](https://www.bfmtv.com/tech/cybersecurite/apres-avoir-vendu-de-la-drogue-pour-plus-de-100-millions-de-dollars-vole-et-fait-chanter-ses-clients-le-fondateur-d-incognito-market-un-site-du-dark-web-vient-d-etre-condamne-a-30-ans-de-prison_AN-202602050783.html)  
+*Source : bfmtv.com | Publication : 2026-02-05*
+
+- Après avoir vendu de la drogue pour plus de 100 millions de dollars, volé et fait chanter ses clients, le fondateur d’Incognito Market, un site du dark web, vient d’être condamné à 30 ans de prison La justice américaine vient de frapper fort contre l’un des plus grands marchés de stupéfiants du dark web.
+- Rui-Siang Lin, opérateur de la plateforme clandestine Incognito Market, a été condamné mardi 3 février 2026 à 30 ans de prison par un tribunal fédéral de New York pour "association de malfaiteurs en vue de la distribution de stupéfiants, blanchiment d'argent et association de malfaiteurs en vue de la vente de médicaments falsifiés et mal étiquetés".
+- Pour Jay Clayton, le procureur fédéral du district sud de New York, Rui-Siang Lin est "l’un des trafiquants de drogue les plus prolifiques au monde".
+- Selon l’accusation, le site aurait permis d'écouler plus de 105 millions de dollars de drogues entre 2020 et 2024, principalement via des transactions en cryptomonnaie.
+
+## [Le COMCYBERFAC dispense une formation en <b>cybersécurité</b> aux Forces armées des Philippines](https://www.canada.ca/fr/ministere-defense-nationale/feuille-derable/defense/2026/02/comcyberfac-dispense-formation-cybersecurite.html)  
+*Source : canada.ca | Publication : 2026-02-05*
+
+- Le COMCYBERFAC dispense une formation en cybersécurité aux Forces armées des Philippines Le 5 février 2026 – Nouvelles de la Défense Temps de lecture estimé – 3:15 Par le major Christopher Daniel, officier supérieur des affaires publiques du COMCYBERFAC Légende Le capitaine Shivom Sharman, du COMCYBERFAC, dispense une formation sur la gestion des cyberincidents dans le cadre du cours sur les opérations de cybersécurité militaire à Manille.
+- À une époque où les cybermenaces franchissent les frontières plus vite que jamais, des partenariats solides comptent autant que des défenses robustes.
+- Du 19 au 23 janvier 2026, le Commandement Cyber des Forces armées canadiennes (COMCYBERFAC) a dispensé le cours sur les opérations militaires de cybersécurité aux Philippines, réunissant des professionnels canadiens et philippins du domaine cybermilitaire afin de renforcer leurs compétences défensives, d'approfondir leur coopération et de soutenir la sécurité partagée dans la région indo-pacifique.
+- Organisé dans le cadre du Programme d’instruction et de coopération militaires du ministère de la Défense nationale et en partenariat avec le ministère de la Défense nationale des Philippines, le cours était axé sur le renforcement des capacités pratiques de cyberdéfense et l'amélioration de l'interopérabilité entre le COMCYBERFAC et les Forces armées des Philippines.
+
+## [Cyberattaque contre Apple Pay : méfiez-vous des mails envoyés par Apple, une campagne ...](https://www.01net.com/actualites/cyberattaque-contre-apple-pay-mails-apple-phishing-cours.html)  
+*Source : 01net.com | Publication : 2026-02-05*
+
+- Une attaque phishing visant les utilisateurs Apple est en cours.
+- Comme le rapportent nos confrères d’Apple Insider, la cyberattaque cible spécifiquement Apple Pay, la solution de paiement intégrée aux appareils de la marque.
+- Pour berner leurs victimes, les cybercriminels imitent les véritables alertes de fraude envoyées par Apple.
+- Dans le mail, ils prétextent en effet une transaction Apple Play bloquée ou une activité suspecte pour créer un sentiment d’urgence chez l’utilisateur.
+
+## [Amazon est confronté à des problèmes de <b>cybersécurité</b>… À cause de l'IA ! - Softonic](https://fr.softonic.com/articles/amazon-est-confronte-a-des-problemes-de-cybersecurite-a-cause-de-lia)  
+*Source : fr.softonic.com | Publication : 2026-02-05*
+
+- Infos Amazon est confronté à des problèmes de cybersécurité… À cause de l'IA !.
+- Des découvertes récentes de l’équipe de recherche sur les menaces de Sysdig mettent en évidence un changement alarmant dans la manière dont les acteurs malveillants utilisent l’intelligence artificielle (IA) pour mener des attaques dans le cloud.
+- Selon le rapport, les attaquants ont considérablement réduit le cycle d’attaque dans le cloud de plusieurs heures à quelques minutes, en utilisant des outils d’IA tels que des modèles de langage pour automatiser la collecte d’informations et la génération de code malveillant.
+- Amazon contre l’IA ?.
+
+## [<b>Ransomware</b> : 0apt, zéro pointé ? | LeMagIT](https://www.lemagit.fr/actualites/366638796/Ransomware-0apt-zero-pointe)  
+*Source : lemagit.fr | Publication : 2026-02-05*
+
+- Lemonsoup14 - stock.adobe.com Ransomware : 0apt, zéro pointé ?.
+- Apparue tout récemment, l’enseigne a multiplié les revendications à haute fréquence.
+- Mais aucune d’entre elles n’apparaît fondée, à ce stade.
+- Une sorte de « vaporware » appliqué à la cybercriminalité.
+
+## [Mont-de-Marsan : la <b>cybersécurité</b> sur le devant de la scène avec le rendez-vous Mars@hack](https://www.sudouest.fr/newsletter-mont-de-marsan/mont-de-marsan-la-cybersecurite-sur-le-devant-de-la-scene-avec-le-rendez-vous-marsathack-27480987.php)  
+*Source : sudouest.fr | Publication : 2026-02-05*
+
+- La Chambre de commerce et d’industrie des Landes accueillera le mardi 10 mars cet événement dédié à la cybersécurité, organisé par Mont-de-Marsan Agglomération et ses partenaires C’est un rendez-vous désormais connu des passionnés de cybersécurité, Mars@hack aura lieu le mardi 10 mars 2026 à la Chambre de commerce et d... C’est un rendez-vous désormais connu des passionnés de cybersécurité, Mars@hack aura lieu le mardi 10 mars 2026 à la Chambre de commerce et d’industrie (CCI) des Landes.
+- Cette journée est organisée par Mont-de-Marsan Agglomération, la BA 118, Campus Landes et l’IUT montois Réseaux et télécommunications et a pour but de rassembler professionnels du domaine, entrepreneurs, indépendants, étudiants ou passionnés de hacking.
+
+## [Wallix vise une amélioration de sa rentabilité en 2026 - EasyBourse](https://www.easybourse.com/international/news/1523949/wallix-vise-une-amelioration-sa-rentabilite-en-2026.html)  
+*Source : easybourse.com | Publication : 2026-02-05*
+
+- (Zonebourse.com) - Le spécialiste des solutions de cybersécurité a vu son revenu mensuel récurrent (MRR) progresser de 29,1% au 31 décembre 2025, confirmant une dynamique commerciale soutenue.Sur l'ensemble de l'exercice, Wallix signe un chiffre d'affaires annuel record de 40,6 millions d'euros, en hausse de 19,2%.
+- La rentabilité s'est nettement améliorée au second semestre, avec un résultat d'exploitation désormais proche de l'équilibre sur 2025.
+- Pour 2026, la société anticipe la poursuite de la croissance, des investissements maîtrisés et une nouvelle amélioration de la rentabilité.Dans un environnement politique, géopolitique et économique toujours plus incertain, Wallix réaffirme sa volonté de bâtir un champion européen de la cybersécurité.
+- Le groupe, qui entend renforcer une offre de référence, de confiance, 100% européenne, en Europe comme à l'international, publiera ses résultats annuels 2025 le 18 mars prochain.Copyright (c) 2026 Zonebourse.com - All rights reserved.
+
+## [PARIS : <b>Cybersécurité</b> - Zenoo intègre la technologie NFC pour renforcer la vérification d'identité](https://presseagence.fr/paris-cybersecurite-zenoo-integre-la-technologie-nfc-pour-renforcer-la-verification-didentite/)  
+*Source : presseagence.fr | Publication : 2026-02-05*
+
+- PARIS : Cybersécurité – Zenoo intègre la technologie… Partager : PARIS : Cybersécurité – Zenoo intègre la technologie NFC pour renforcer la vérification d’identité Face à la recrudescence de la fraude et au durcissement réglementaire, la plateforme Zenoo s’associe à Signicat pour déployer une vérification d’identité par lecture de puce électronique.
+- Les entreprises européennes naviguent actuellement entre deux impératifs contradictoires : offrir une expérience client fluide et répondre à des exigences de sécurité de plus en plus strictes.
+- C’est dans ce contexte, marqué par l’arrivée prochaine de la nouvelle réglementation anti-blanchiment d’argent (AMLR) de l’Union européenne, que la plateforme d’orchestration « sans code » Zenoo (https://www.zenoo.com) annonce ce mardi l’intégration de la technologie ReadID développée par Signicat.
+- Un coût exorbitant pour les entreprises.
+
+## [<b>Cybersécurité</b> : Bouygues Telecom mise sur la marque blanche pour conquérir le marché des PME](https://www.zdnet.fr/actualites/cybersecurite-bouygues-telecom-mise-sur-la-marque-blanche-pour-conquerir-le-marche-des-pme-489625.htm)  
+*Source : zdnet.fr | Publication : 2026-02-05*
+
+- Face à une menace cyber qui sature le quotidien des TPE et des PME, Bouygues Telecom change d'échelle.
+- Avec le lancement de Bouygues Telecom Pro Intégration, l'opérateur déploie un catalogue de services managés en marque blanche, avec des partenariats avec des spécialistes comme CrowdStrike et des prestataires IT locaux.
+- Une réponse industrielle à l'explosion de la menace En s'appuyant sur les données de l'ANSSI, l'opérateur rappelle que 80 % des PME françaises ont fait face à au moins une tentative d'attaque en 2025.
+- Et les demandes d'assistance ont bondi de 20 % en un an selon cybermalveillance.gouv.fr.
+
+## [Bitche. Face aux <b>cybermenaces</b>, la gendarmerie joue la carte de la prévention](https://www.republicain-lorrain.fr/societe/2026/02/05/face-aux-cybermenaces-la-gendarmerie-joue-la-carte-de-la-prevention)  
+*Source : republicain-lorrain.fr | Publication : 2026-02-05*
+
+- Bitche Face aux cybermenaces, la gendarmerie joue la carte de la prévention Il ne reste plus une chaise de libre, en ce mercredi après-midi, dans la petite salle située à l’étage de la médiathèque communautaire de Bitche.
+- Face à cet auditoire très largement composé de seniors s’avance l’adjudant Guillaume Favreau.
+- Venu de la brigade de gendarmerie locale, l’officier a deux heures devant lui pour sensibiliser ses auditeurs aux cybermenaces.
+- « Notre service informatique a été sollicité pour animer.
+
+## [Après un exercice 2025 d'hyper croissance, WALLIX Group se projette dans un nouveau ...](https://www.actusnews.com/fr/telechargement/wallix/2026/02/05/96468-wallix-ca-2025_vf.pdf)  
+*Source : actusnews.com | Publication : 2026-02-05*
+
+- Paris, 5 février 2026 - WALLIX (Euronext ALLIX), leader des solutions de cybersécurité protégeant les identités et les accès aux environnements.
+
+## [CrowdStrike signe un protocole d'accord avec Aramco pour renforcer la <b>cybersécurité</b> en ...](https://ch.zonebourse.com/actualite-bourse/crowdstrike-signe-un-protocole-d-accord-avec-aramco-pour-renforcer-la-cybersecurite-en-arabie-saoudi-ce7e5ad8d88fff24)  
+*Source : ch.zonebourse.com | Publication : 2026-02-05*
+
+- CrowdStrike a annoncé la signature d&#039;un protocole d&#039;accord (MoU) en Arabie saoudite avec Aramco.
+- Ce partenariat vise à ouvrir la voie à des investissements à long terme de CrowdStrike dans la cybersécurité, afin de contribuer à l&#039;émergence d&#039;un modèle de sécurité unifié à l&#039;échelle du Royaume, protégeant les infrastructures critiques et accélérant la transformation du pays par l&#039;intelligence artificielle.
+- Cette collaboration témoigne du leadership de l&#039;Arabie saoudite dans l&#039;adoption sécurisée de l&#039;IA, la création de standards d&#039;excellence adaptés au marché local et la contribution à la lutte contre les cyberattaques.Cette annonce marque également la première étape d&#039;un engagement commun des deux entreprises en faveur d&#039;une collaboration, d&#039;une innovation et d&#039;un développement des compétences sur le long terme, en cohérence avec la Vision 2030 de l&#039;Arabie saoudite.
+- Les discussions visent à renforcer la posture de cybersécurité d&#039;Aramco et du Royaume, stimulant l&#039;innovation, la croissance et la protection dans la région.
+
+## [Données externalisées : un guide pour reprendre la main - Solutions-Numeriques](https://www.solutions-numeriques.com/donnees-externalisees-un-guide-pour-reprendre-la-main/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-05*
+
+- La question des données externalisées ne relève plus du simple choix d’architecture.
+- La publication d’un guide consacré aux risques liés aux réglementations extraterritoriales propose un cadre de lecture et de décision à un sujet longtemps traité de manière fragmentaire.
+- Externaliser, c’est aussi arbitrer un risque juridique, industriel et stratégique.
+- Externaliser, c’est choisir un cadre juridique Le guide part d’un constat simple : dans le cloud, la donnée n’est pas protégée par sa localisation, mais exposée par la juridiction du prestataire qui la traite.
+
+## [<b>Cybersécurité</b> : les élections municipales, proies de l'ingérence étrangère ? - YouTube](https://www.youtube.com/watch?v=044QJbXn3b8)  
+*Source : youtube.com | Publication : 2026-02-05*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [<b>Cybersécurité</b> : la Fédération française de voile victime d'une fuite de données massive](https://www.sudouest.fr/economie/cybersecurite/cybersecurite-la-federation-francaise-de-voile-victime-d-une-fuite-de-donnees-massive-27724924.php)  
+*Source : sudouest.fr | Publication : 2026-02-05*
+
+- La Fédération française de voile annonce une fuite de données affectant des centaines de milliers de licenciés et ex-licenciés, sans compromission des données bancaires ou médicales La Fédération française de voile a indiqué jeudi avoir subi une « fuite de données » concernant « plusieurs centaines de milliers » de licenciés et ex-licenciés, affirmant qu’aucune donnée bancaire ou médicale n’avait été compromise.
+- La fédération « a récemment identifié une fuite de données affectant sa plateforme de gestion des licences », qui « résulte de l’utilisation frauduleuse d’un compte club compromis.
 
 ## [Soupçons d'espionnage au profit de la Chine : quatre personnes arrêtées en Gironde, elles ...](https://www.ladepeche.fr/2026/02/04/soupcons-despionnage-au-profit-de-la-chine-quatre-personnes-arretees-en-gironde-elles-auraient-collecte-des-donnees-militaires-13207783.php)  
 *Source : ladepeche.fr | Publication : 2026-02-04*
