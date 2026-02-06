@@ -1,5 +1,160 @@
-# Résumés – 2026-02-05
+# Résumés – 2026-02-06
 
+
+## [Riot, la start-up française qui débusquent les SMS piégés, va changer de dimension en 2026 - Clubic](https://www.clubic.com/actualite-599302-riot-la-start-up-francaise-qui-debusquent-les-sms-pieges-va-changer-de-dimension-en-2026.html)  
+*Source : clubic.com | Publication : 2026-02-06*
+
+- La start-up française de cybersécurité Riot annonce un plan de recrutement ambitieux pour 2026, avec 150 nouvelles recrues.
+- Un tiers des postes visera des talents européens qui rejoindront son hub parisien.
+- Quand une scale-up française de la cybersécurité protège déjà deux millions d'employés dans le monde, elle ne compte pas s'arrêter en si bon chemin.
+- Riot, jeune entreprise prometteuse que nous avions pu rencontrer aux Assises en marge du lancement de son outil de simulation de smishing pour démasquer les SMS piégés, annonce ce vendredi 6 février un plan de recrutement important.
+
+## [Des enjeux à relever par les entreprises en 2026, selon la directrice générale de la CCI Loiret](https://www.larep.fr/orleans-45000/economie/des-enjeux-a-relever-par-les-entreprises-en-2026-selon-la-directrice-generale-de-la-cci-loiret_14825761/)  
+*Source : larep.fr | Publication : 2026-02-06*
+
+- Écouter l'article Sandrine Battistella, directrice générale de la CCI Loiret, a fait part d'un chiffre d'affaires des entreprises en hausse de 2,3 % entre le troisième trimestre 2025 et 2024 : +4,7 % dans l'industrie, +4,4 % dans l'hébergement restauration et -3,4 % dans la construction.
+- Il s'est immatriculé 6.053 nouvelles entreprises l'an dernier, dans le département, dont de nombreux autoentrepreneurs.
+- C'est plus qu'en 2024.
+- Pendant ce temps, les défaillances, enregistrées par le tribunal de commerce d'Orléans, ont augmenté de 6 %.
+
+## [PARIS : <b>Cybersécurité</b> - Pourquoi les casinos en ligne sont devenus des forteresses numériques](https://presseagence.fr/paris-cybersecurite-pourquoi-les-casinos-en-ligne-sont-devenus-des-forteresses-numeriques/)  
+*Source : presseagence.fr | Publication : 2026-02-06*
+
+- PARIS : Cybersécurité – Pourquoi les casinos en ligne… Partager : PARIS : Cybersécurité – Pourquoi les casinos en ligne sont devenus des forteresses numériques Il fut un temps — pas si lointain — où le mot casino évoquait surtout des tapis verts, des jetons graisseux, un croupier blasé et une caméra de surveillance qui clignote au plafond.
+- Aujourd’hui, le décor a changé.
+- Le tapis est virtuel.
+- Les jetons sont des lignes de code.
+
+## [<b>Cybersécurité</b> : la France doit former ses jeunes plus tôt - l'Opinion](https://www.lopinion.fr/economie/cybersecurite-la-france-doit-former-ses-jeunes-plus-tot)  
+*Source : lopinion.fr | Publication : 2026-02-06*
+
+- Cybersécurité : la France doit former ses jeunes plus tôt A l’heure où les attaques informatiques se multiplient, le secteur de la cyberdéfense peine à recruter.
+- Pour le rendre plus attractif, une sensibilisation pourrait être repensée et s’imposer dès le secondaire « La jeunesse est l’avenir de la nation ».
+- En 2026, dans le secteur de la cybersécurité, cette affirmation prend tout son sens.
+- Fin janvier, le gouvernement a dévoilé sa « Stratégie nationale de cybersécurité 2026-2030 » qui repose sur cinq piliers.
+
+## [&quot;Influencer les populations pour qu'elles s'allient à notre cause&quot; : à Nancy, des étudiants s ...](https://www.radiofrance.fr/franceinfo/podcasts/le-choix-de-franceinfo/le-choix-franceinfo-du-vendredi-06-fevrier-2026-3505556)  
+*Source : radiofrance.fr | Publication : 2026-02-06*
+
+- Comment former et recruter des experts en cybersécurité ?.
+- Dans un contexte où les attaques informatiques se multiplient, l'Université de Lorraine a organisé avec le ministère des Armées un exercice grandeur nature de cyberguerre, à Nancy, pendant trois jours, du lundi 2 au mercredi 4 février.
+- Il s'agit du plus grand événement de ce type en France.
+- Tout était fait pour que cet exercice soit le plus réaliste possible, avec des tentes militaires, de vrais soldats présents, deux nuits sur place et des rations de combat.
+
+## [RAMP saisi : Le FBI neutralise le forum russe du <b>ransomware</b>](https://dcod.ch/2026/02/06/ramp-saisi-fbi-forum-russe-ransomware/)  
+*Source : dcod.ch | Publication : 2026-02-06*
+
+- TL;DR : L’essentiel Le FBI a coordonné le démantèlement complet du forum russe RAMP, l’une des dernières places de marché du dark web autorisant explicitement le commerce et la promotion de rançongiciels à l’échelle mondiale.
+- - La saisie des serveurs offre aux enquêteurs un accès probable aux données critiques, menaçant de désanonymiser des milliers d’utilisateurs via leurs adresses IP, historiques de messages et identifiants de connexion.
+- - Cette structure clandestine très rentable, générant 250 000 dollars par an, imposait un droit d’entrée de 500 dollars pour filtrer une communauté de plus de 14 000 cybercriminels professionnels.
+- - Le site avait émergé en 2021 comme refuge pour les gangs, suite au bannissement des rançongiciels par les autres forums criminels après l’attaque médiatisée contre l’oléoduc Colonial Pipeline.
+
+## [GPT-5.3 Codex vs Claude Opus 4.6 : Anthropic et OpenAI jouent au jeu des 7 différences](https://www.lemagit.fr/actualites/366638786/GPT-53-Codex-vs-Claude-Opus-46-Anthropic-et-OpenAI-jouent-au-jeu-des-7-differences)  
+*Source : lemagit.fr | Publication : 2026-02-06*
+
+- Anthony Hall - stock.adobe.com GPT-5.3 Codex vs Claude Opus 4.6 : Anthropic et OpenAI jouent au jeu des 7 différences Les deux fournisseurs de LLM se rendent coup pour coup en matière d’IA agentique.
+- Les lancements concomitants de Claude Opus 4.6 et GPT-5.3 Codex en sont la preuve.
+- Et à la clé, une plus grande confusion pour les décideurs IT.
+- Anthropic et OpenAI retournent à leur bataille trimestrielle.
+
+## [Nordic Capital envisage la vente de la société de <b>cybersécurité</b> Conscia pour 2 milliards](https://fr.investing.com/news/company-news/nordic-capital-envisage-la-vente-de-la-societe-de-cybersecurite-conscia-pour-2-milliards--93CH-3259593)  
+*Source : fr.investing.com | Publication : 2026-02-06*
+
+- Conscia est spécialisée dans la cybersécurité et les services gérés pour l'infrastructure informatique.
+- L'entreprise emploie plus de 1.700 personnes.
+
+## [L'Esaip et le CHU d'Angers veulent rapprocher santé et ingénierie pour... - AEF info](https://www.aefinfo.fr/depeche/745521-l-esaip-et-le-chu-d-angers-veulent-rapprocher-sante-et-ingenierie-pour-favoriser-l-emergence-de-projets-innovants)  
+*Source : aefinfo.fr | Publication : 2026-02-06*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : L’Esaip et le CHU d’Angers ont signé le 6 janvier 2026 une convention de collaboration visant à rapprocher le monde de la santé et celui de l’ingénierie, "afin de favoriser l’émergence de projets innovants au service des professionnels de santé, des patients et du système de soins".
+- La convention facilitera le développement de projets co-construits par des équipes du CHU d’Angers et des élèves-ingénieurs de l’Esaip.
+- Ces projets porteront sur la conception, la modélisation, le prototypage et le test de solutions technologiques appliquées au champ de la santé.
+
+## [NÚKIB : le nombre de cyberattaques en baisse en 2025 - Radio Prague International](https://francais.radio.cz/nukib-le-nombre-de-cyberattaques-en-baisse-en-2025-8876886)  
+*Source : francais.radio.cz | Publication : 2026-02-06*
+
+- NÚKIB : le nombre de cyberattaques en baisse en 2025 L’Office national pour la cybersécurité et la sécurité de l’information (NÚKIB) a recensé l’an dernier le plus faible nombre d’incidents cybernétiques des trois dernières années, avec 203 cas.
+- Environ un quart d’entre eux étaient constitués de cyberattaques de type DDoS, a précisé le directeur du NÚKIB, Lukáš Kintr.
+- En 2024, l’office avait enregistré 268 incidents cybernétiques, un niveau jusqu’alors inédit.
+- « Cette baisse s’explique en grande partie par la diminution très nette du nombre d’incidents signalés liés aux attaques DDoS menées par des hacktivistes.
+
+## [Complètement aux fraises, ces hackers ont créé un <b>ransomware</b> impossible à déchiffrer](https://www.numerama.com/cyberguerre/2175133-completement-aux-fraises-ces-hackers-ont-cree-un-ransomware-impossible-a-dechiffrer.html)  
+*Source : numerama.com | Publication : 2026-02-06*
+
+- C’est une triste réalité que de nombreuses victimes de ransomware connaissent : rien n’assure qu’après le paiement de la rançon, les hackers déchiffrent réellement les systèmes verrouillés.
+- Mais dans cette affaire, nulle place au doute.
+- Même s’ils le voulaient, les hackers du groupe Nitrogen seraient en réalité incapables de procéder au déchiffrement.
+- La faute à une erreur de programmation relevée par les équipes de Coveware le 2 février 2026.
+
+## [Achats publics numériques : une doctrine pour clarifier les choix de l'État](https://www.solutions-numeriques.com/achats-publics-numeriques-une-doctrine-pour-clarifier-les-choix-de-letat/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-06*
+
+- L’État formalise sa doctrine d’achat numérique.
+- Une circulaire du Premier ministre vient fixer un cadre de décision destiné à orienter les administrations dans leurs choix technologiques, entre solutions existantes, développement interne et recours au marché.
+- Une doctrine pour rationaliser les choix numériques de l’État La clarification était attendue.
+- En définissant une doctrine explicite pour les achats numériques, l’État entend mettre fin à des arbitrages parfois opaques ou redondants, tout en renforçant la sécurité juridique des décisions.
+
+## [Escroquerie, espionnage, sabotage… le multivers du hackeur russe - L'Humanité](https://www.humanite.fr/social-et-economie/cybercriminalite/escroquerie-espionnage-sabotage-le-multivers-du-hackeur-russe)  
+*Source : humanite.fr | Publication : 2026-02-06*
+
+- De la cyberattaque de La Poste qui a ralenti la distribution de colis pendant les fêtes aux campagnes de désinformation sur la guerre en Ukraine, les actions des groupes de pirates russes sont aussi diverses que leurs motivations.
+- Depuis longtemps, des Russes occupent les premières places des cybercriminels les plus recherchés par toutes les polices du monde.
+- C’est dire s’ils sont prolifiques.
+- Et la France est l’un des pays les plus ciblés par leurs exactions, derrière les États-Unis et l’Ukraine, qui restent loin devant.
+
+## [Zscaler étend sa protection aux navigateurs - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64438-zscaler-etend-sa-protection-aux-navigateurs.html)  
+*Source : linformaticien.com | Publication : 2026-02-06*
+
+- L'éditeur de solutions de sécurité Zero Trust met la main sur SquareX Ltd., un spécialiste de la sécurité des navigateurs.
+
+## [<b>Cybersécurité</b> : Bye bye Microsoft… Les données de santé françaises bientôt chez un Européen](https://www.20minutes.fr/sante/4200055-20260206-cybersecurite-bye-bye-microsoft-donnees-sante-francaises-bientot-chez-europeen)  
+*Source : 20minutes.fr | Publication : 2026-02-06*
+
+- Cybersécurité : Bye bye Microsoft… Les données de santé françaises bientôt chez un Européen yes we france•Les données de santé françaises, sensibles, vont quitter Microsoft, soumis aux lois américaines20 Minutes avec AFP Des données trop sensibles pour quitter le territoire européen.
+- Le grand entrepôt français de données de santé pour la recherche, le Health Data Hub, lancé en 2019 ne sera à l’avenir plus hébergé dans les centres de données de Microsoft.
+- Il va rejoindre un nouvel opérateur souverain et européen échappant aux lois américaines, a annoncé le gouvernement vendredi.
+- Dès lundi, une procédure sera lancée pour trouver un nouvel hébergeur, qui sera choisi parmi des opérateurs de cloud qualifié « SecNumCloud », selon les trois ministères de la Santé, de la Réforme de l’État et du Numérique.
+
+## [Vous utilisez une extension IA ? Une sur deux collecte vos données sans que vous le sachiez](https://siecledigital.fr/2026/02/05/la-moitie-des-extensions-ia-de-google-chrome-aspire-vos-donnees/)  
+*Source : siecledigital.fr | Publication : 2026-02-06*
+
+- Ces derniers mois, l’IA s’est imposée dans les extensions de navigateur, en promettant gains de productivité et une assistance en temps réel.
+- Entre la correction de texte, l’aide au code, la transcription audio et les résumés automatiques, ces outils sont devenus quasi-indispensables pour de nombreux internautes.
+- Mais derrière cette promesse d’efficacité se cache une réalité plus opaque… Plus d’une extension IA sur deux collecte des données Selon une étude d’Incogni qui a analysé 442 extensions de Google Chrome estampillées « IA » entre le 5 et le 7 janvier 2026, 52% d’entre elles collectent au moins un type de données utilisateur.
+- 📩 L’actu digitale évolue vite.
+
+## [Kaspersky lance l'OT Calculator - Global Security Mag Online](https://www.globalsecuritymag.fr/kaspersky-lance-l-ot-calculator.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-06*
+
+- Kaspersky lance l’OT Calculator février 2026 par LA REDACTION DE GS MAG Le nouvel outil en ligne de Kaspersky a été développé pour les organisations industrielles afin qu’elles puissent évaluer les coûts potentiels associés à une sécurité insuffisante des technologies opérationnelles (OT).
+- En proposant des prévisions financières détaillées, l’OT Calculator permet aux cadres supérieurs de prendre des décisions éclairées concernant les investissements en sécurité.
+- La dépendance croissante des organisations industrielles aux systèmes interconnectés rend la cybersécurité essentielle à leur résilience et à leur rentabilité.
+- VDC Research a d’ailleurs révélé que l’an dernier, plus de 60 % de ces entreprises ont subi des coûts significatifs suite à des atteintes à leur cybersécurité.
+
+## [<b>Cybersécurité</b> - Une culture à piloter au niveau de la direction - La Vie Economique](https://www.vie-economique.com/actualites/cybersecurite-une-culture-a-piloter-au-niveau-de-la-direction/)  
+*Source : vie-economique.com | Publication : 2026-02-06*
+
+- Pourquoi observe-t-on une telle explosion des attaques cyber ces dernières années ?.
+- Serge Touré : Plusieurs facteurs expliquent cette hausse.
+- En France, l’ANSSI a traité 4 386 événements de sécurité en 2024, soit une augmentation de 15 % en un an.
+- La tendance sera a minima équivalente pour 2025.
+
+## [Fuite de données à la Fédération Française de Voile : un scénario désormais familier pour ...](https://www.solutions-numeriques.com/fuite-de-donnees-a-la-federation-francaise-de-voile-un-scenario-desormais-familier-pour-le-monde-sportif/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-06*
+
+- Une nouvelle fédération sportive rejoint la liste des victimes de fuites de données.
+- La Fédération Française de Voile a confirmé début février un incident touchant sa plateforme de gestion des licences, impliquant des données personnelles de plusieurs centaines de milliers de licenciés.
+- Une exploitation frauduleuse d’un compte club à la Fédération Française de Voile Le 5 février 2026, la Fédération Française de Voile a identifié une fuite de données affectant sa plateforme de gestion des licences.
+- Selon les éléments communiqués, l’incident ne résulte pas d’une intrusion directe dans l’infrastructure informatique de la fédération, ni d’une compromission des mécanismes d’authentification globaux.
+
+## [En immersion dans l'exercice Cyber Humanum Est édition 2026 - Ministère des Armées](https://www.defense.gouv.fr/comcyber/actualites/immersion-lexercice-cyber-humanum-est-edition-2026)  
+*Source : defense.gouv.fr | Publication : 2026-02-06*
+
+- En immersion dans l’exercice Cyber Humanum Est édition 2026 Du 2 au 4 février 2026, près de 250 étudiants, enseignants chercheurs, militaires et acteurs privés ont participé à la 6e édition de Cyber Humanum Est sur le campus de Telecom Nancy.
+- Organisé par la base de Défense de Nancy et l’université de Lorraine, sous l’égide du Commandement de la cyberdéfense (COMCYBER), cet exercice les a plongés dans un scénario mêlant cyberdéfense, stratégie et gestion de crise.
+- Sous les tentes militaires dressées dans un gymnase du campus de Telecom Nancy, règne une certaine effervescence.
+- Alignés devant leurs écrans scintillants, des étudiants scrutent les flux réseau, les journaux d’évènements et les alertes de sécurité.
 
 ## [Nouvelle menace Windows : de faux économiseurs d'écran prennent le contrôle de votre PC](https://www.01net.com/actualites/nouvelle-menace-windows-de-faux-economiseurs-decran-prennent-le-controle-de-votre-pc.html)  
 *Source : 01net.com | Publication : 2026-02-05*
