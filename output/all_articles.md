@@ -1,5 +1,159 @@
-# Résumés – 2026-02-06
+# Résumés – 2026-02-07
 
+
+## [Qui en veut aux données sensibles du Sénégal ? | Socialnetlink](https://www.socialnetlink.org/2026/02/07/qui-en-veut-aux-donnees-sensibles-du-senegal/)  
+*Source : socialnetlink.org | Publication : 2026-02-07*
+
+- La série noire des cyberattaques et le plan de riposte qui s’impose Depuis quelques mois, le Sénégal fait face à une succession d’alertes cyber visant des structures au cœur de l’État : la DGID, en charge de la fiscalité, la DAF, responsable des fichiers et de l’identité, et désormais Sénégal Numérique / SENUM SA, acteur central de l’hébergement et de l’infrastructure numérique publique.
+- À mesure que l’administration se digitalise, la donnée devient un actif stratégique, et par conséquent une cible de premier ordre.
+- La transformation numérique accélérée de l’administration sénégalaise a profondément renforcé la valeur de la donnée publique.
+- Données fiscales, identitaires et administratives concentrent aujourd’hui de l’information, du pouvoir et de l’influence.
+
+## [Arnaques, appels frauduleux, piratages… les trois bons conseils d'un gendarme pour éviter ...](https://www.lardennais.fr/id784934/article/2026-02-07/arnaques-appels-frauduleux-piratages-les-trois-bons-conseils-dun-gendarme-pour)  
+*Source : lardennais.fr | Publication : 2026-02-07*
+
+- L'adjudant Franck Zennaro, référent cybersécurité de la section opérationnelle de lutte contre les cybermenaces au sein de la gendarmerie des Ardennes.
+
+## [Les Etats-Unis multiplient par 36 leurs chances de dominer un marché qui pèsera 21,5 ...](https://media24.fr/2026/02/07/les-etats-unis-multiplient-par-36-leurs-chances-de-dominer-un-marche-qui-pesera-215-milliards-deuros-pour-laviation-dici-5-ans-le-carburant-durable/)  
+*Source : media24.fr | Publication : 2026-02-07*
+
+- Une accélération en vue pour les Carburants durables d’aviation.
+- L’aéronautique est à la recherche de rédemption verte.
+- Si les avions électriques ou à hydrogène sont dans les cartons depuis quelques années, leur incapacité (pour le moment) à gagner en autonomie en font des pistes intéressantes mais encore en rodage.
+- Le secteur cherche donc à multiplier ses options et pense également aussi aux façon de « verdir » son carburant.
+
+## [Constater le ferme engagement du Vietnam en faveur de la protection des droits de l'homme ...](https://www.vietnam.vn/fr/hien-thuc-hoa-cam-ket-manh-me-cua-viet-nam-ve-bao-ve-quyen-con-nguoi-trong-ky-nguyen-so)  
+*Source : vietnam.vn | Publication : 2026-02-07*
+
+- Au Vietnam, ce message est clairement illustré par deux événements marquants : la signature de la Convention des Nations Unies contre la cybercriminalité (Convention de Hanoï) et la réélection du Vietnam au Conseil des droits de l’homme avec un très large soutien.
+- Ceci témoigne des efforts déployés par le Vietnam pour protéger la dignité humaine face aux nouveaux défis de l’ère numérique.
+- Le ministre vietnamien de la Sécurité publique , Luong Tam Quang, signe la Convention des Nations Unies sur la lutte contre la cybercriminalité.
+- Photo : Phuong Hoa/VNA.
+
+## [Arnaques aux sentiments, faux Card Stop, hacking… la <b>cybercriminalité</b> continue d'inquiéter ...](https://www.sudinfo.be/id1105880/article/2026-02-07/arnaques-aux-sentiments-faux-card-stop-hacking-la-cybercriminalite-continue)  
+*Source : sudinfo.be | Publication : 2026-02-07*
+
+- En province de Luxembourg, cinq de nos chefs de corps le confirment : la cybercriminalité ne faiblit pas.
+- Et l'intelligence artificielle pourrait.
+
+## [Cyberattaque au Sénégal, mesure-t-on la gravité ? (Par Ismaila Ndiaye) - Senenews](https://www.senenews.com/actualites/contribution-chronique/cyberattaque-au-senegal-mesure-t-on-la-gravite-par-ismaila-ndiaye_575377.html)  
+*Source : senenews.com | Publication : 2026-02-07*
+
+- Cyberattaque au Sénégal, mesure-t-on la gravité ?.
+- (Par Ismaila Ndiaye) Les récentes attaques contre plusieurs systèmes informatiques gouvernementaux — DGID, DAF, Sénégal Numérique — posent une question simple : où est la cellule de crise ?.
+- Car les chiffres sont là, et ils sont alarmants.
+- En 2024, plus de 10 millions de cybermenaces ont été détectées et bloquées au Sénégal, selon Kaspersky.
+
+## [Onze startups israéliennes parmi les 30 start-ups mondiales les plus prometteuses en cyber.](https://israelvalley.com/2026/02/07/onze-startups-israeliennes-parmi-parmi-les-30-start-ups-mondiales-les-plus-prometteuses-en-cybersecurite/)  
+*Source : israelvalley.com | Publication : 2026-02-07*
+
+- Onze entreprises israéliennes ont été sélectionnées parmi les 30 start-ups mondiales les plus prometteuses dans le domaine de la cybersécurité pour faire face aux menaces les plus graves, alors que l’adoption rapide des outils d’intelligence artificielle (IA) engendre des risques en constante évolution, selon le classement « Rising in Cyber 2025 » établi par Notable Capital.
+- Lancé par la société de capital-risque américaine Notable Capital, Rising in Cyber 2025 est un classement annuel indépendant des entreprises les plus innovantes dans le domaine de la cybersécurité.
+- Il est établi en fonction de leur capacité à résoudre les problèmes critiques auxquels les équipes de sécurité sont confrontées.
+- Ce classement est établi en collaboration avec la Bourse de New York et la banque américaine Morgan Stanley.
+
+## [Entre espionnage et messages à décoder, huit élèves relèvent un challenge de ...](https://www.lanouvellerepublique.fr/bressuire/entre-espionnage-et-messages-a-decoder-huit-eleves-relevent-un-challenge-de-cybersecurite-a-bressuire-1770469732)  
+*Source : lanouvellerepublique.fr | Publication : 2026-02-07*
+
+- Entre espionnage et messages à décoder, huit élèves relèvent un challenge de cybersécurité à Bressuire AbonnésCet article est réservé aux abonnés numériques.
+- AbonnésCet article est réservé aux abonnés numériques.
+- Huit élèves de spécialité Numérique et système informatique (NSI) et quinze étudiants de BTS Services informatiques aux organisations (SIO) du lycée et du campus Saint-Joseph de Bressuire se sont lancés dans un beau défi de cybersécurité,.
+- Cet article a été tronqué.
+
+## [Tunisie, leader dans le monde arabe en matière d'intelligence artificielle](https://www.lapresse.tn/2026/02/07/tunisie-leader-dans-le-monde-arabe-en-matiere-dintelligence-artificielle/)  
+*Source : lapresse.tn | Publication : 2026-02-07*
+
+- La Tunisie figure parmi les premiers pays arabes à avoir pris conscience de l’importance de l’intelligence artificielle (IA), en tant que pilier fondamental de la transformation numérique et du développement économique, selon le Rapport économique arabe publié par le Fonds monétaire arabe (FMA) le 5 février 2026.
+- Le rapport a consacré un chapitre clé pour mettre en relief le rôle de l’IA dans la promotion de l’inclusion financière et de l’innovation dans les pays arabes, dans un contexte de transformations technologiques mondiales accélérées.
+- Dès 2018, la Tunisie a lancé une ambitieuse stratégie nationale pour l’intelligence artificielle, visant à soutenir l’innovation, la recherche scientifique et à bâtir une société du savoir intégrée.
+- Cette stratégie s’est concentrée sur le développement d’un écosystème de données ouvertes, considéré comme un élément essentiel pour alimenter les applications d’IA, soutenir la transparence et stimuler l’innovation.
+
+## [Le pape Léon XIV alerte sur l'« esclavage numérique » lié à la <b>cybercriminalité</b>](https://vantbefinfo.com/le-pape-leon-xiv-alerte-sur-l-esclavage-numerique-lie-a-la-cybercriminalite/)  
+*Source : vantbefinfo.com | Publication : 2026-02-07*
+
+- Le pape Léon XIV alerte sur l’« esclavage numérique » lié à la cybercriminalité Le pape Léon XIV met en garde contre l’essor de formes modernes de traite des êtres humains, notamment l’« esclavage numérique », à l’occasion de la Journée mondiale de prière et de sensibilisation contre la traite.
+- Le pape Léon XIV dénonce la montée de ce qu’il appelle l’« esclavage numérique », un phénomène par lequel des personnes sont contraintes de participer à des activités criminelles telles que les escroqueries en ligne ou le trafic de drogue, dans un message publié à l’occasion de la Journée mondiale de prière et de sensibilisation contre la traite des êtres humains.
+- Ces pratiques, souligne-t-il, ne constituent pas des faits isolés mais les symptômes d’une culture fondée sur la domination et le mépris de la vie humaine.
+- Le souverain pontife renouvelle à cette occasion « l’appel urgent de l’Église à lutter contre ce grave crime contre l’humanité et à y mettre fin ».
+
+## [Sénégal: le DAF, un département du ministère de l'Intérieur, touché par une cyberattaque](https://www.rfi.fr/fr/afrique/20260207-sénégal-le-daf-un-département-du-ministère-de-l-intérieur-touché-par-une-cyberattaque)  
+*Source : rfi.fr | Publication : 2026-02-07*
+
+- Sénégal: le DAF, un département du ministère de l'Intérieur, touché par une cyberattaque Après le site des impôts en octobre dernier, cette fois c’est le département de l’automatisation des fichiers (DAF) qui a été touché par une cyberattaque.
+- Cet organisme particulièrement sensible, rattaché au ministère de l’Intérieur permet, entre autres, de délivrer les cartes nationales d’identité.
+- Publié le : Modifié le : Avec notre correspondante à Dakar, Léa-Lisa Westerhoff L'étendue des données piratées est pour l'heure inconnue mais les spécialistes en cybersécurité sont formels : l'attaque informatique sur le département de l'automatisation des fichiers (DAF) est particulièrement grave.
+- Elle l'est notamment car ce service rattaché au ministère de l'Intérieur dirige et sécurise toutes les données biométriques des citoyens sénégalais : les cartes nationales d'identité, le fichier électoral et la modernisation de l'état civil.
+
+## [La « recette d'un désastre » : OpenClaw, la nouvelle IA du moment, est une catastrophe de ...](https://www.01net.com/actualites/openclaw-nouvelle-ia-moment-catastrophe-cybersecurite.html)  
+*Source : 01net.com | Publication : 2026-02-07*
+
+- OpenClaw, une IA open source et autonome imaginée par un développeur autrichien, fait un carton sur Internet.
+- En se connectant à des modèles d’IA, l’agent est capable de piloter votre ordinateur à votre place.
+- Vous pouvez lui demander de naviguer sur le web, de gérer vos mails ou de générer des fichiers, en toute autonomie.
+- Pour converser avec l’assistant, il faut passer par une application de messagerie instantanée, comme WhatsApp ou Telegram.
+
+## [Xinbi speeds its shift under law-enforcement pressure - ZATAZ](https://www.zataz.com/xinbi-speeds-its-shift-under-law-enforcement-pressure/)  
+*Source : zataz.com | Publication : 2026-02-07*
+
+- Xinbi speeds its shift under law-enforcement pressure Under mounting enforcement pressure, Xinbi is moving off Telegram toward SafeW and rolling out XinbiPay.
+- In the background sits a key laundering hub tied to scams and Chinese cybercrime syndicates.
+- Xinbi, a Chinese-language marketplace long built on Telegram, is reorganizing to withstand crackdowns.
+- It is now promoting SafeW, a messaging app marketed as more secure, while launching an affiliated wallet service, XinbiPay, also referred to as NewPay.
+
+## [Le ministère des Armées va ouvrir ses données à certaines start-up cyber, et il recherche ... - Clubic](https://www.clubic.com/actualite-599473-le-ministere-des-armees-va-ouvrir-ses-donnees-a-certaines-start-up-cyber-et-il-recherche-des-candidats.html)  
+*Source : clubic.com | Publication : 2026-02-07*
+
+- Le ministre des Armées a décidé d'ouvrir les portes de sa Cyber Defense Factory, une plateforme qui propose un accès privilégié à des données militaires aux meilleurs candidats, et une expertise opérationnelle pour tester des solutions de cybersécurité.
+- Voilà une initiative intéressante du ministère des Armées, que cette Cyber Defense Factory.
+- La plateforme, portée par l'Agence Innovation Défense et le Commandement de la cyberdéfense, nichée près de Rennes, ouvre ses candidatures aux acteurs de l'innovation cyber, apprend-on ce vendredi 6 février.
+- Les start-up, ETI et laboratoires du secteur peuvent désormais prétendre à un accompagnement militaire inédit pour muscler leurs solutions face aux cybermenaces.
+
+## [Attaques informatiques: les nouveaux risques du transport pour les assureurs - RFI](https://www.rfi.fr/fr/podcasts/chronique-transports/20260206-attaques-informatiques-les-nouveaux-risques-du-transport-pour-les-assureurs)  
+*Source : rfi.fr | Publication : 2026-02-07*
+
+- Attaques informatiques: les nouveaux risques du transport pour les assureurs Publié le : C'est un record qui dure !.
+- Pour la 5ᵉ année consécutive, les attaques informatiques occupent le haut du podium des risques du transport.
+- L'assureur international Allianz publie son nouveau rapport annuel.
+- Le traumatisme du Covid-19 est oublié puisque l'interruption brutale d'activité disparait du tableau.
+
+## [La plus grande fuite de données de l'histoire du Sénégal ? Ce que l'on sait de la ... - Jeune Afrique](https://www.jeuneafrique.com/1763081/politique/la-plus-grande-fuite-de-donnees-de-lhistoire-du-senegal-ce-que-lon-sait-de-la-cyberattaque-qui-a-vise-la-daf/)  
+*Source : jeuneafrique.com | Publication : 2026-02-07*
+
+- La plus grande fuite de données de l’histoire du Sénégal ?.
+- Ce que l’on sait de la cyberattaque qui a visé la DAF La Direction de l’automatisation des fichiers, rattachée au ministère de l’Intérieur, a été piratée au début de 2026.
+- Ce qui est officiellement décrit comme un incident pourrait constituer, de par son ampleur, une intrusion « historique ».
+- Publié le 6 février 2026 Lecture : 4 minutes.
+
+## [Cyberhebdo du 6 février 2026 : comme un air de reprise dans la douleur | LeMagIT](https://www.lemagit.fr/actualites/366638849/Cyberhebdo-du-6-fevrier-2026-comme-un-air-de-reprise-dans-la-douleur)  
+*Source : lemagit.fr | Publication : 2026-02-07*
+
+- Cyberhebdo du 6 février 2026 : comme un air de reprise dans la douleur Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- La semaine écoulée a une nouvelle fois mis en lumière la diversité et l’ampleur des menaces cyber qui pèsent sur les organisations à travers le monde.
+- Au total, 11 cyberattaques ont été rapportées dans les médias internationaux, touchant des acteurs publics et privés dans huit pays : Taïwan (TWN), Allemagne (DEU), États-Unis (USA), Italie (ITA), Canada (CAN), Roumanie (ROU), Belgique (BEL) et Malte (MLT).
+- L’Italie se distingue cette semaine comme le pays le plus ciblé, avec trois incidents majeurs recensés.
+
+## [Souveraineté numérique : Le grand virage de l'Etat peut-il vraiment fonctionner ?](https://www.usine-digitale.fr/souverainete/souverainete-numerique-le-grand-virage-de-letat-peut-il-vraiment-fonctionner.NASN2K4MSBACZIS5KCJZJPSYYU.html)  
+*Source : usine-digitale.fr | Publication : 2026-02-07*
+
+- C’est l’heure de la désintoxication, selon les dires d’Anne Le Hénanff, ministre délégué au Numérique, et David Amiel, ministre délégué chargé à la Fonction publique.
+- Après des années d’atermoiements, l’Etat affirme vouloir réduire sa dépendance aux solutions américaines et reprendre la main sur ses infrastructures critiques.
+- Un revirement qui doit beaucoup à l’évolution du contexte, marqué par le durcissement des tensions géopolitiques avec les Etats-Unis faisant resurgir la crainte d’une exposition aux lois extraterritoriales et de possibles coupures de services.
+- Une hiérarchie d’achat clarifiée par l’État Dans ce contexte, le gouvernement a annoncé sa nouvelle doctrine en matière d’achats publics dans le numérique, détaillée dans une circulaire ministérielle.
+
+## [Commvault ajoute une cyber-résilience supplémentaire à Google Cloud - ITdaily.](https://itdaily.fr/nouvelles/securite/commvault-cyber-resilience-google-cloud/)  
+*Source : itdaily.fr | Publication : 2026-02-07*
+
+- Commvault étend sa collaboration avec Google pour accroître la cyber-résilience des environnements cloud.
+- Commvault ajoute de nouvelles fonctionnalités pour Google Cloud afin de renforcer la protection des données client et d’améliorer la cyber-résilience des entreprises.
+- Cette initiative intervient à un moment où les organisations migrent de plus en plus vers le cloud, ce qui accroît le besoin de solutions de sécurité robustes contre les menaces telles que les ransomwares.
+- Selon une étude de SentinelOne, 80 % des organisations interrogées dans le monde ont constaté une augmentation des attaques cloud.
+
+## [Archimed soutenu par BPI France et IRD Invest - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/biz-it/64439-archimed-soutenu-par-bpi-france-et-ird-invest.html)  
+*Source : linformaticien.com | Publication : 2026-02-07*
+
+- Ransomware : les jours d'après · Biz'IT · Archimed soutenu par BPI France et IRD Invest.
+- Détails: Bertrand Garé: 6 février 2026.
+- L'éditeur a reçu des.
 
 ## [Riot, la start-up française qui débusquent les SMS piégés, va changer de dimension en 2026 - Clubic](https://www.clubic.com/actualite-599302-riot-la-start-up-francaise-qui-debusquent-les-sms-pieges-va-changer-de-dimension-en-2026.html)  
 *Source : clubic.com | Publication : 2026-02-06*
