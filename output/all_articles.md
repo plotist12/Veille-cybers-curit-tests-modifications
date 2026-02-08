@@ -1,5 +1,100 @@
-# Résumés – 2026-02-07
+# Résumés – 2026-02-08
 
+
+## [<b>Cybersécurité</b> : comment détecter un piratage et réagir efficacement - Valeurs actuelles](https://www.valeursactuelles.com/societe/cybersecurite-comment-detecter-un-piratage-et-reagir-efficacement)  
+*Source : valeursactuelles.com | Publication : 2026-02-08*
+
+- Les cyberattaques se sont multipliées ces dernières années en France, plaçant de nombreuses entreprises dans le viseur des cybercriminels.
+- C’était le cas lors du piratage de Free avec des millions d’IBAN qui se sont retrouvés dans la nature.
+- Ces offensives ont conduit au vol des données personnelles de millions de Français, rendant d’autant plus nécessaire l’adoption de bons réflexes en cas d’incident.
+- Notifications de connexion depuis des pays où vous ne vous êtes jamais rendu, demandes de réinitialisation de mot de passe non sollicitées, transactions bancaires suspectes, nouvel appareil repéré à l’étranger, messages envoyés en votre nom ou paramètres modifiés sans votre accord : ces signaux sont autant d’alertes indiquant qu’un tiers a pu accéder à vos comptes.
+
+## [Penser l'IA publique avant de la déployer - CIOMAG](https://cio-mag.com/penser-lia-publique-avant-de-la-deployer/)  
+*Source : cio-mag.com | Publication : 2026-02-08*
+
+- Pourquoi l’intelligence artificielle est d’abord une question d’État [Tribune] L’intelligence artificielle s’est imposée en un temps record au sommet des agendas publics.
+- Nous vivons un moment de bascule historique : l’IA redéfinit déjà les contours de nos économies, de nos administrations et du rapport entre l’État et le citoyen.
+- Face à cette transformation, une alternative s’impose clairement : subir une innovation importée ou assumer la responsabilité d’en être les architectes.
+- Pour ma part, ma position est claire : lorsque l’intelligence artificielle entre dans le champ de l’action publique, elle cesse d’être un sujet technique.
+
+## [<b>Cybersécurité</b> : les 10 actualités majeures du 8 fév 2026](https://dcod.ch/2026/02/08/cybersecurite-les-10-actualites-majeures-du-8-fev-2026/)  
+*Source : dcod.ch | Publication : 2026-02-08*
+
+- Faits marquants de la semaine Les agences de sécurité allemandes BfV et BSI alertent sur une campagne malveillante, probablement soutenue par un État, exploitant l’application Signal pour mener des opérations de hameçonnage ciblant des personnalités politiques, militaires et des journalistes de haut niveau.
+- - Des responsables européens estiment que deux engins spatiaux russes ont intercepté les communications d’au moins une douzaine de satellites clés, avec un risque de compromission d’informations sensibles mais aussi de manipulation de trajectoires, voire de mise en danger physique de ces satellites.
+- - Le gouvernement norvégien accuse le groupe de pirates Salt Typhoon, lié à la Chine, d’une campagne de cyberespionnage visant des entreprises du pays, illustrant la pression persistante des opérations de renseignement économique étatiques en Europe du Nord.
+- - OpenAI déploie Trusted Access for Cyber, basé sur GPT-5.3-Codex, un cadre d’accès vérifié permettant d’exploiter la découverte automatisée de plus de 500 vulnérabilités critiques tout en restreignant l’usage offensif via des vérifications d’identité et des contrôles en temps réel.
+
+## [IA Gen et <b>cybersécurité</b> agentique : les DSI ivoiriens explorent des stratégies pour bâtir des ...](https://cio-mag.com/ia-gen-et-cybersecurite-agentique-les-dsi-ivoiriens-explorent-des-strategies-pour-batir-des-organisations-performantes/)  
+*Source : cio-mag.com | Publication : 2026-02-08*
+
+- À Abidjan, le Club DSI Côte d’Ivoire et Werin Group ont réuni des experts pour explorer l’avenir de l’intelligence artificielle.
+- Entre gouvernance des données et agents autonomes, les décideurs ont partagé des stratégies pour bâtir des organisations performantes, sécurisées et innovantes.
+- (CIO Mag) – Le jeudi 5 février 2026 à Abidjan, Werin Group, acteur majeur de l’accompagnement digital, a organisé en partenariat avec le Club DSI Côte d’Ivoire un afterwork technique ayant permis de décrypter les enjeux fondamentaux de l’intelligence artificielle (IA) générative et de la cybersécurité agentique dans un écosystème en pleine mutation.
+- En ouverture de cette soirée, Alaa Idine Bayyi, Managing Director de Werin Group, a rappelé la philosophie de cette rencontre qui a pour but d’éviter les écueils d’une technologie sans boussole.
+
+## [Ain. <b>Cybersécurité</b> en entreprise : « La question n'est pas de savoir si on sera attaqué, mais quand »](https://www.leprogres.fr/economie/2026/02/09/cybersecurite-en-entreprise-la-question-n-est-pas-de-savoir-si-on-sera-attaque-mais-quand)  
+*Source : leprogres.fr | Publication : 2026-02-08*
+
+- Ain Cybersécurité en entreprise : « La question n’est pas de savoir si on sera attaqué, mais quand » Les représentants des entreprises de l’Ain étaient invités par le Medef à une matinée d’information sur la cybersécurité, ce vendredi 6 février.
+- La rencontre a eu lieu dans les locaux de l’entreprise Koesio, spécialiste du numérique, à Saint-Denis-lès-Bourg.
+- Comme l’a expliqué en préambule Olivier Burtin, le représentant de.
+
+## [Android : ce malware espion vous piège avec une fausse conversation WhatsApp](https://www.01net.com/actualites/android-ce-malware-espion-vous-piege-avec-une-fausse-conversation-whatsapp.html)  
+*Source : 01net.com | Publication : 2026-02-08*
+
+- Une vaste opération d’espionnage vise les smartphones Android.
+- Découverte par les chercheurs d’ESET, la campagne s’appuie sur une application malveillante.
+- L’application se présente comme une plateforme de rencontres en ligne directement connectée à WhatsApp.
+- L’app est massivement diffusée sur Internet sous la forme de fichiers APK.
+
+## [Le nouveau projet de loi chinois sur la <b>cybercriminalité</b> renforcerait les pouvoirs de la police ...](https://www.epochtimes.fr/le-nouveau-projet-de-loi-chinois-sur-la-cybercriminalite-renforcerait-les-pouvoirs-de-la-police-et-la-censure-3173725.html)  
+*Source : epochtimes.fr | Publication : 2026-02-08*
+
+- Strasbourg : le jardinet du mythique salon de thé « Au Fond du jardin » menacé de disparaître, la Ville clarifie la situation Vers une explosion des coûts et des risques accrus à cause du solaire et du renouvelable, selon un document confidentiel d’EDF Le Congrès chinois contourne le cas des généraux purgés, soulevant des questions sur l’emprise de Xi sur l’armée, selon des sources internes Fraude sociale : le Sénat veut permettre à France Travail de vérifier les relevés téléphoniques des chômeurs Selon les estimations, la coalition de Takaichi en passe de remporter une large majorité à la Chambre basse japonaise Le nouveau projet de loi chinois sur la cybercriminalité renforcerait les pouvoirs de la police et la censure Des experts en droit estiment que ce texte pourrait durcir la censure d’internet, étendre l’application de la loi au delà des frontières chinoises et transférer le contrôle du cyberespace vers la police.
+- Durée de lecture: 11 Min.
+- Durée de lecture: 11 Min.
+- Au‑delà des frontières chinoises Appel au retrait du projet Criminaliser l’accès à l’information Effet boomerang potentiel pour Xi Articles actuels de l’auteur.
+
+## [Garantir la <b>cybersécurité</b> dans le développement des actifs numériques. - Vietnam.vn](https://www.vietnam.vn/fr/bao-dam-an-ninh-mang-trong-phat-trien-tai-san-so)  
+*Source : vietnam.vn | Publication : 2026-02-08*
+
+- C’est le principal point souligné par les experts lors de l’atelier « L’ère des actifs numériques : cadre juridique et cybersécurité 2026 », organisé conjointement par l’Institut vietnamien pour le développement de l’économie numérique, le Centre pour les startups créatives du département des sciences et technologies de Hô Chi Minh-Ville et plusieurs autres organismes le 8 février.
+- L'un des principaux sujets d'intérêt de l'atelier était la mise en œuvre de nouvelles réglementations juridiques relatives aux actifs numériques à partir de 2026, marquant un changement significatif dans la gestion, la protection et le développement du marché des actifs numériques au Vietnam, contribuant à un environnement d'investissement plus transparent et durable.
+- Selon M. Tran Quy, directeur de l'Institut vietnamien pour le développement de l'économie numérique, cette dernière représente environ 22 % du PIB mondial.
+- Les pays d'Asie du Sud-Est se distinguent comme des régions de premier plan grâce à leur capacité à surmonter les limitations des infrastructures financières traditionnelles.
+
+## [Créer un « bouclier » pour protéger les investisseurs en actifs numériques. - Vietnam.vn](https://www.vietnam.vn/fr/xay-dung-la-chan-bao-ve-nha-dau-tu-tai-san-so)  
+*Source : vietnam.vn | Publication : 2026-02-08*
+
+- Le 8 février, le séminaire « L’ère des actifs numériques : cadre juridique et cybersécurité 2026 » s’est tenu au Centre d’innovation et d’entrepreneuriat de Hô Chi Minh-Ville, organisé par New World Group Asset Management en collaboration avec le Centre d’innovation et d’entrepreneuriat de Hô Chi Minh-Ville, l’Institut pour le développement de l’économie numérique et la communauté technologique Ecotech – Techfest Vietnam.
+- La conférence s'est tenue dans un contexte où 2026 est considérée comme une étape cruciale pour l'économie numérique, date à laquelle les actifs numériques ne seront plus un concept nouveau mais une composante essentielle de l'économie mondiale.
+- Aux perspectives de forte croissance s'ajoutent d'importants défis liés à la cybersécurité, à la protection des investisseurs et à l'urgence d'un cadre juridique transparent et cohérent.
+- Lors de cet atelier, des experts en économie numérique, en droit et en technologie ont partagé de nombreuses études, analyses et expériences concernant les tendances en matière de développement des actifs numériques, les risques de cybersécurité et les orientations pour la mise en place d'un cadre juridique adapté au contexte vietnamien et aux pratiques internationales.
+
+## [Enlèvements, rackets, menaces... faut-il renoncer à sa cryptomonnaie ? - France 24](https://www.france24.com/fr/vidéo/20260207-enlèvements-rackets-menaces-faut-il-renoncer-à-sa-cryptomonnaie)  
+*Source : france24.com | Publication : 2026-02-08*
+
+- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
+- Enlèvements, rackets, menaces... faut-il renoncer à sa cryptomonnaie ?.
+- Entretien Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+
+## [Les assureurs africains affichent les gains de maturité numérique les plus rapides, selon un ...](https://techcabal.com/fr/2026/02/07/rapport-sur-la-maturité-numérique-de-l'AFIS/)  
+*Source : techcabal.com | Publication : 2026-02-07*
+
+- Les assureurs africains ont enregistré les progrès les plus rapides du continent en matière de maturité numérique au cours de l'année écoulée, réduisant ainsi l'écart avec les fintech, tandis que le secteur financier se concentre désormais davantage sur l'efficacité opérationnelle et la rentabilité que sur l'expansion rapide, selon le rapport sur l'industrie financière africaine publié par Deloitte, un cabinet de conseil et de services professionnels de premier plan à l'échelle mondiale.
+- Sommet financier africain (AFIS).
+- Le rapportUne étude, basée sur des entretiens avec des cadres supérieurs de plus de 70 institutions financières à travers l'Afrique, montre que plus de la moitié des institutions se considèrent désormais comme numériquement matures, 54 % d'entre elles faisant état de capacités numériques avancées, contre 48 % en 2024.
+- L'importance croissante accordée à la maturité numérique indique que les institutions financières africaines dépassent le stade de l'expérimentation numérique et considèrent la technologie comme une infrastructure essentielle à la rentabilité, au contrôle des risques et à la conformité réglementaire, alors que la hausse des coûts, les menaces de cybersécurité et le durcissement des conditions de financement poussent le secteur vers des opérations plus disciplinées et efficaces.
+
+## [Mise en garde contre les arnaques deepfake utilisant de fausses voix et usurpant l'identité ...](https://www.vietnam.vn/fr/canh-bao-lua-dao-deepfake-gia-giong-gia-hinh-nguoi-quen-dip-tet)  
+*Source : vietnam.vn | Publication : 2026-02-07*
+
+- Le risque de formation d'une « économie criminelle » Dans un contexte de développement rapide de l'intelligence artificielle (IA), la cybercriminalité et la criminalité de haute technologie gagnent en sophistication et s'étendent au-delà des frontières, constituant un défi mondial pour la sécurité de l'information.
+- Au Vietnam, la fin de l'année et le Nouvel An lunaire demeurent la période de pointe pour les escroqueries en ligne.
+- L'essor de la technologie deepfake par les cybercriminels durant le Nouvel An lunaire 2026 s'intensifie dangereusement.
+- Selon M.
 
 ## [Qui en veut aux données sensibles du Sénégal ? | Socialnetlink](https://www.socialnetlink.org/2026/02/07/qui-en-veut-aux-donnees-sensibles-du-senegal/)  
 *Source : socialnetlink.org | Publication : 2026-02-07*
