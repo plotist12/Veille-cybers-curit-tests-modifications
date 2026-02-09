@@ -1,5 +1,150 @@
-# Résumés – 2026-02-08
+# Résumés – 2026-02-09
 
+
+## [Les services de renseignement allemands alertent sur des tentatives de piratage de ... - BFM](https://www.bfmtv.com/tech/cybersecurite/les-services-de-renseignement-allemands-alertent-sur-des-tentatives-de-piratage-de-comptes-signal-les-comptes-whatsapp-pourraient-egalement-etre-cibles_AN-202602090861.html)  
+*Source : bfmtv.com | Publication : 2026-02-09*
+
+- Les services de renseignement allemands alertent sur des tentatives de piratage de comptes Signal, les comptes Whatsapp pourraient également être ciblés C'est une alerte préoccupante.
+- Les services de renseignement allemands alertent sur des attaques de phishing ciblant des personnalités de haut rang ou dites d'intérêt (politiciens, militaires, diplomates, journalistes) via des applications comme Signal, orchestrées par des acteurs probablement soutenues par des États.
+- Les attaquants se font passer pour le service d’assistance afin d’accéder aux conversations et aux contacts des victimes, principalement des personnalités de haut rang.
+- "L’objectif est d’accéder subrepticement aux conversations individuelles et de groupe, ainsi qu’aux listes de contacts des personnes concernées", explique une note du renseignement.
+
+## [Devenir propriétaires plutôt que locataires de technologies - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-lia-nest-pas-sans-danger/devenir-proprietaires-plutot-que-locataires-de-technologies/)  
+*Source : lesaffaires.com | Publication : 2026-02-09*
+
+- Devenir propriÃ©taires plutÃ´t que locataires de technologies Martin Berthiaume|PubliÃ© Ã 11h56(Photo: 123RF) EXPERT INVITÃ.
+- Le discours du premier ministre Mark Carney Ã Davos met les bons mots sur l’urgence de la souverainetÃ© technologique.
+- Nos gouvernements en parlent de plus en plus.
+- Pourtant, un paradoxe persiste.
+
+## [NXO annonce l'acquisition du Groupe IDNA - ITR Mobiles](https://itrmobiles.com/articles/208753/nxo-annonce-lacquisition-du-groupe-idna.html)  
+*Source : itrmobiles.com | Publication : 2026-02-09*
+
+- Veuillez activer Javascript pour accéder au site web.
+
+## [NXO annonce l'acquisition du Groupe IDNA - ITRnews](https://itrnews.com/articles/208753/nxo-annonce-lacquisition-du-groupe-idna.html)  
+*Source : itrnews.com | Publication : 2026-02-09*
+
+- Veuillez activer Javascript.
+
+## [Risques numériques et réglementaires : les entreprises françaises en équilibre entre ... - ITRnews](https://itrnews.com/articles/208749/risques-numeriques-et-reglementaires-les-entreprises-francaises-en-equilibre-entre-confiance-et-vigilance.html)  
+*Source : itrnews.com | Publication : 2026-02-09*
+
+- Veuillez activer Javascript.
+
+## [OpenAI Lance GPT-5.3-Codex avec des Fonctionnalités de <b>Cybersécurité</b> Améliorées](https://www.binance.com/fr/square/post/289889321880882)  
+*Source : binance.com | Publication : 2026-02-09*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [#<b>cybersecurite</b> #gouvernance #risques #strategie #transformationdigitale | BSMART 4Change](https://fr.linkedin.com/posts/bsmarttv_cybersecurite-gouvernance-risques-activity-7426582407845380096-jru2)  
+*Source : fr.linkedin.com | Publication : 2026-02-09*
+
+- 🚨 La cybersécurité n’est plus une option 🎙 Dorothée Decrop rappelle dans SMART TECH avec Delphine Sabattier une évidence encore trop souvent sous-estimée : la cybersécurité est un enjeu structurant pour les entreprises.
+- Parce qu’aujourd’hui l’activité repose entièrement sur les données et les systèmes d’information, ignorer la cyber revient à fragiliser le fonctionnement même de l’organisation.
+- 👉 La sécurité numérique n’est donc plus un sujet périphérique, mais un élément central des choix stratégiques et de la gouvernance.
+- #cybersecurite #gouvernance #risques #strategie #transformationdigitale Emilie Rausch Je suis d'accord avec l'intervention de la dame !.
+
+## [Ce petit outil open source pourrait bien vous sauver des attaques ClickFix - Clubic](https://www.clubic.com/actualite-599614-ce-petit-outil-open-source-pourrait-bien-vous-sauver-des-attaques-clickfix.html)  
+*Source : clubic.com | Publication : 2026-02-09*
+
+- Dans un terminal, on copie-colle des commandes pour aller vite, parfois même pour exécuter un script en une ligne.
+- Une habitude parfois à risque, que Tirith cherche à encadrer avant tout téléchargement malheureux.
+- Développé par un chercheur indépendant répondant au pseudonyme Sheeki, Tirith se présente comme un outil léger, multiplateforme, conçu pour analyser les commandes exécutées dans un shell (bash, zsh, fish, PowerShell), en particulier celles collées depuis le presse-papiers, et repérer ce qui peut trahir une commande malveillante.
+- Le genre de garde-fou qui tombe à pic face aux arnaques de type ClickFix, qui cherchent à vous inciter à télécharger et exécuter un script sans que vous ayez le temps de comprendre ce qui se passe.
+
+## [Défense : Thales prévoit la création de 1 000 emplois en France en 2026 - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/defense-thales-prevoit-la-creation-de-1-000-emplois-en-france-en-2026-27789520.php)  
+*Source : sudouest.fr | Publication : 2026-02-09*
+
+- Le groupe Thales annonce une nouvelle vague de recrutements massifs, portée par la croissance dans les secteurs de la défense, de la cybersécurité et de l’aérospatiale Thales envisage de créer 2 000 emplois dans le monde, dont 1 000 en France en 2026, poursuivant sa vague de recrutements massifs, a déclaré lundi Clément de Villepin, le directeur des ressources humaines du groupe de haute technologie et de défense.
+- « Au sein du groupe, il s’agit d’une croissance nette d’environ 2 000 collaborateurs par an dont environ 1 000 en France.
+- C’est un chiffre à peu près constant depuis trois ans », a-t-il précisé.
+- Thales a annoncé lundi matin dans un communiqué qu’il comptait « recruter plus de 9 000 nouveaux collaborateurs dans le monde » en 2026 après en avoir recruté 8 800 l’an dernier.
+
+## [NXO se renforce sur la <b>cybersécurité</b> avec le rachat du groupe iDNA - ChannelNews](https://www.channelnews.fr/nxo-se-renforce-sur-la-cybersecurite-avec-le-rachat-du-groupe-idna-154719)  
+*Source : channelnews.fr | Publication : 2026-02-09*
+
+- L’intégrateur NXO poursuit le renforcement de ses expertises en cybersécurité avec l’acquisition du cabinet de conseil et d’ingénierie en cybersécurité Groupe iDNA.
+- Réalisant environ 4 M€ de chiffre d’affaires, iDNA devient une filiale de NXO tout en conservant son identité, son autonomie opérationnelle et l’intégralité de ses équipes, composées d’une quarantaine d’experts en cybersécurité.
+- Fondé en 2011 et basé à Paris, le groupe iDNA est reconnu pour ses compétences en réseaux, datacenters et cybersécurité, intervenant aussi bien sur la conception des architectures que sur leur sécurisation et leur exploitation.
+- Son intégration vient renforcer les capacités de conseil et d’accompagnement de NXO en amont des projets, notamment sur les environnements hybrides et les infrastructures critiques.
+
+## [OpenClaw et Moltbook livrent un accès total aux systèmes hôtes - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/02/09/openclaw-moltbook-acces-total/)  
+*Source : dcod.ch | Publication : 2026-02-09*
+
+- TL;DR : L’essentiel Une vulnérabilité critique de score 8.8 permet aux attaquants de contourner l’authentification et les conteneurs Docker pour exécuter des commandes arbitraires directement sur la machine hôte via un simple lien malveillant.
+- - Une erreur de configuration sur la base de données Supabase a exposé les clés API d’environ 1,5 million d’enregistrements, permettant la manipulation totale de n’importe quel agent présent sur le réseau social.
+- - Le mécanisme de sécurité échoue car le navigateur de la victime sert de pont, autorisant les connexions sortantes vers le serveur de l’attaquant même si l’instance est configurée pour écouter uniquement en local.
+- - Cette vague d’incidents révèle une tendance au développement rapide où les interfaces graphiques priment sur les requêtes SQL sécurisées, laissant des infrastructures entières sans politiques de sécurité au niveau des lignes.
+
+## [CARTE. Thales va recruter 3300 personnes en France, &quot;du CAP au doctorat&quot; - Actu.fr](https://actu.fr/societe/carte-thales-va-recruter-3300-personnes-en-france-du-cap-au-doctorat-le-detail-des-offres-par-region_63812566.html)  
+*Source : actu.fr | Publication : 2026-02-09*
+
+- Leader mondial des hautes technologies pour la Défense, l’Aérospatial et la Cybersécurité & Digital, le groupe français Thales va entamer une grosse campagne de recrutement : plus de 9000 emplois sont à pourvoir dans le monde, après les 8800 postes pourvus en 2025.
+- Pour la France, on parle de 3300 personnes recherchées pour des postes nécessitant des diplômes allant « du CAP au doctorat », comme le précise Thales auprès d’actu.fr.
+- Le groupe français nous détaille les offres par régions.
+- À lire aussi Des centaines d’offres par région « En France, Thales va recruter 3 300 personnes, dont 1 630 en Ile-de-France, 290 en Bretagne, 280 en Nouvelle Aquitaine, 270 en Provence-Alpes-Côte d’Azur, 250 en Occitanie, 220 en Centre-Val de Loire, 180 en Auvergne-Rhône-Alpes et 130 dans les Pays de la Loire », précise l’entreprise auprès d’actu.fr.
+
+## [Défense, aéronautique, <b>cybersécurité</b>... Thales recrute massivement dans tous ses métiers](https://www.lefigaro.fr/societes/defense-aeronautique-cybersecurite-thales-recrute-massivement-dans-tous-ses-metiers-20260209)  
+*Source : lefigaro.fr | Publication : 2026-02-09*
+
+- Défense, aéronautique, cybersécurité... Thales recrute massivement dans tous ses métiers Le groupe français prévoit d’embaucher 9000 nouveaux collaborateurs dans le monde, dont 3300 en France pour accompagner le dynamisme de son activité.
+- Passer la publicitéThales continue à recruter massivement.
+- Cette année, le groupe français de défense et de hautes technologies prévoit d’embaucher pas moins de 9000 nouveaux collaborateurs dans le monde, dont 3300 (en CDI) en France.
+- Cela, après une année 2025 marquée par l’arrivée de 8800 nouvelles recrues.
+
+## [Une stratégie nationale de <b>cybersécurité</b> dotée de &quot;cinq piliers&quot; mais sans budget pour le moment](https://www.ticsante.com/story?ID=8076)  
+*Source : ticsante.com | Publication : 2026-02-09*
+
+- Ce plan national, porté par le premier ministre, Sébastien Lecornu, doit fixer le "cap du gouvernement" en matière de cybersécurité pour les quatre prochaines années.
+- Il est piloté par le secrétariat général de la défense et de la sécurité nationale (SGDSN) et associera l'ensemble des services de l'Etat, dont l'Agence nationale de la sécurité des systèmes d'information (Anssi), ainsi que "toutes les parties prenantes", dont les collectivités territoriales, les entreprises et les citoyens, a détaillé le cabinet de la ministre, lors d'une conférence téléphonique le 28 janvier.
+- La stratégie repose sur cinq piliers et 14 objectifs, qui seront précisés et déclinés "sous six mois" par chacun des ministères et services concernés dans des feuilles de route.
+- Leur mise en œuvre sera "régulièrement suivie au niveau interministériel", est-il précisé dans la stratégie.
+
+## [Le <b>ransomware</b> Nitrogen corrompt les serveurs ESXi sans retour possible](https://dcod.ch/2026/02/09/ransomware-nitrogen-esxi/)  
+*Source : dcod.ch | Publication : 2026-02-09*
+
+- TL;DR : L’essentiel Le groupe cybercriminel Nitrogen, actif depuis 2023 et issu du code source Conti 2, a opéré une transition vers l’extorsion en septembre 2024.
+- Bien que moins prolifique que d’autres acteurs du secteur, cette variante représente une menace critique pour les infrastructures virtualisées.
+- - Une écriture mémoire défaillante écrase accidentellement quatre octets de la clé publique lors du processus de chiffrement des fichiers.
+- Cette corruption technique, interne au processus, empêche la génération ultérieure du secret partagé indispensable à la récupération des données.
+
+## [Le nombre de cyberattaques signalées contre les infrastructures critiques suisses augmente](https://www.ictjournal.ch/news/2026-02-09/le-nombre-de-cyberattaques-signalees-contre-les-infrastructures-critiques-suisses)  
+*Source : ictjournal.ch | Publication : 2026-02-09*
+
+- Le nombre de cyberattaques signalées contre les infrastructures critiques suisses augmente Depuis avril 2025, l’OFCS a recensé plus de 260 attaques visant des infrastructures critiques.
+- Les secteurs public, des technologies de l’information et des télécommunications, ainsi que de la finance et des assurances sont particulièrement touchés.
+- Depuis l’introduction de l’obligation de déclaration en avril 2025, l’Office fédéral de la cybersécurité (OFCS) a recensé plus de 260 cyberattaques visant des infrastructures critiques à début février 2026.
+- La porte-parole de l’OFCS, Gisela Kipfer a indiqué au journal Blick, que le secteur public, les technologies de l’information et des télécommunications, ainsi que la finance et les assurances figurent parmi les secteurs les plus exposés.
+
+## [Pilotage de la <b>cybersécurité</b> : sortir du réflexe défensif pour décider sous contrainte - it social](https://itsocial.fr/cybersecurite/cybersecurite-articles/pilotage-de-la-cybersecurite-sortir-du-reflexe-defensif-pour-decider-sous-contrainte/)  
+*Source : itsocial.fr | Publication : 2026-02-09*
+
+- Contrairement à la majorité des publications sur la cybersécurité et les risques numériques, le Baromètre 2026 de la maturité du pilotage de la DSI publié par Abraxio ne reprend pas la rhétorique anxiogène.
+- Il ne cherche ni à démontrer que « les attaques se multiplient » ni à alerter sur une catastrophe imminente.
+- Son apport est ailleurs.
+- Il met en lumière un angle mort plus structurel, plus inconfortable et, à bien des égards, plus stratégique pour les organisations.
+
+## [Cyberattaque contre La Sapienza : l'enseignement supérieur européen face à une menace ...](https://www.usine-digitale.fr/cybersecurite/cyberattaque-contre-la-sapienza-lenseignement-superieur-europeen-face-a-une-menace-grandissante.VLFV4PC76JAM5NVN5Z3XZODHDU.html)  
+*Source : usine-digitale.fr | Publication : 2026-02-09*
+
+- ransomware.
+- Face à cette menace, elle a volontairement suspendu une partie de ses services informatiques pour contenir les conséquences de l.
+
+## [Adeunis fait évoluer son capteur de télérelève des compteurs - La Revue EIN](https://www.revue-ein.com/actualite/adeunis-fait-evoluer-son-capteur-de-telereleve-des-compteurs)  
+*Source : revue-ein.com | Publication : 2026-02-09*
+
+- Les nouveautés concernent l’optimisation énergétique, la cybersécurité, une installation encore plus simple, une maintenance facilitée… Adeunis a fait évoluer son capteur à 2 entrées impulsionnelles Pulse NB-IoT/LTE-M dédié à la télérelève des compteurs d’eau et d’électricité afin qu’il couvre davantage de besoins terrain.
+- Parmi les nouvelles fonctionnalités du modèle ARF8428AA, le fabricant met en avant, entre autres, une optimisation énergétique en toutes conditions – le PSM (Power Saving Mode) virtuel est actif par défaut, même si le réseau ne supporte pas le mode, avec bascule automatique dès disponibilité – , une fiabilité des données et une autonomie optimisée.
+- La capacité d’historisation est augmentée jusqu’à 800 valeurs, selon la configuration, ce qui permet de sécuriser davantage les données en cas d’aléas du réseau et de réduire la fréquence des transmissions.
+- Le capteur intègre également une meilleure résilience radio, avec l’intégration du Nordic nRF9151 pour une connectivité NB-IoT/LTE-M plus robuste et pérenne, la cybersécurité (conformité EN 18031-1 avec accès NFC sécurisé par token) et une connectivité serveur étendue.
+
+## [Reliance Global Group s'envole suite à l'acquisition d'une société de <b>cybersécurité</b> ...](https://fr.investing.com/news/earnings/reliance-global-group-senvole-suite-a-lacquisition-dune-societe-de-cybersecurite-quantique-93CH-3261396)  
+*Source : fr.investing.com | Publication : 2026-02-09*
+
+- Reliance Global Group s'envole suite à l'acquisition d'une société de cybersécurité quantique.
 
 ## [<b>Cybersécurité</b> : comment détecter un piratage et réagir efficacement - Valeurs actuelles](https://www.valeursactuelles.com/societe/cybersecurite-comment-detecter-un-piratage-et-reagir-efficacement)  
 *Source : valeursactuelles.com | Publication : 2026-02-08*
