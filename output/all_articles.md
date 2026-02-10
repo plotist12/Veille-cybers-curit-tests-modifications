@@ -1,5 +1,160 @@
-# Résumés – 2026-02-09
+# Résumés – 2026-02-10
 
+
+## [Rapport GTIG : les <b>cybermenaces</b> s'intensifient contre les industriels de la défense](https://www.globalsecuritymag.fr/rapport-gtig-les-cybermenaces-s-intensifient-contre-les-industriels-de-la.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-10*
+
+- Rapport GTIG : les cybermenaces s’intensifient contre les industriels de la défense février 2026 par Le Google Threat Intelligence Group (GTIG) Le Google Threat Intelligence Group (GTIG) a publié Beyond the Battlefield : Threats to the Defense Industrial Base, un nouveau rapport qui analyse comment les conflits modernes se jouent de plus en plus à travers des opérations cyber visant les entreprises de défense, leurs fournisseurs et leurs collaborateurs, et non plus uniquement les systèmes militaires.
+- Fondé sur les renseignements opérationnels du GTIG, ce rapport met en lumière les principaux enseignements suivants : Les entreprises de défense développant des technologies de nouvelle génération sont ciblées, en particulier celles travaillant sur des systèmes d’aéronefs sans pilote (UAS) utilisés dans la guerre entre la Russie et l’Ukraine.
+- Des acteurs liés à la Russie ciblent directement ces entreprises et usurpent l’identité des produits de défense afin de compromettre du personnel militaire ; Les employés sont devenus une surface d’attaque majeure, les acteurs malveillants exploitant les processus de recrutement, les messageries personnelles et les modes de travail à distance afin de contourner les contrôles de sécurité traditionnels des entreprises ; L’espionnage lié à la Chine constitue la menace étatique la plus active en volume, avec un accent croissant sur l’exploitation des équipements et appareils en périphérie du réseau afin d’obtenir un accès furtif et de long terme aux organisations de défense ; Le risque lié à la chaîne d’approvisionnement demeure une vulnérabilité critique, le secteur industriel au sens large, y compris les fournisseurs à double usage, étant fortement ciblé, alors même que les entreprises de défense ne représentent qu’une part plus limitée des activités de ransomware, ce qui menace la capacité à augmenter la production de défense en période de crise.
+- En ce qui concerne plus spécifiquement l’Europe : Des activités d’espionnage russes ont ciblé des entreprises européennes de défense, avec un cluster suspecté, UNC5976, qui mène depuis janvier 2025 des campagnes de phishing usurpant l’identité de sous-traitants de la défense et de fournisseurs de télécommunications, en s’appuyant sur des infrastructures imitant des entreprises au Royaume-Uni, en Allemagne, en France, en Suède et en Norvège ; Des activités d’hacktivistes pro-russes se sont concentrées sur l’utilisation de drones par l’Ukraine, avec des actions observées fin 2025 et liées à des opérations cyber autour des UAS sur le terrain, reflétant à la fois l’importance opérationnelle des drones et les tentatives de groupes d’hacktivistes de revendiquer un impact dans le monde réel.
+
+## [En première ligne de la <b>cybercriminalité</b> - Africa Defense Forum](https://adf-magazine.com/fr/2026/02/en-premiere-ligne-de-la-cybercriminalite/)  
+*Source : adf-magazine.com | Publication : 2026-02-10*
+
+- Les pays africains, avec la croissance rapide de leur population en ligne et leurs cyberdéfenses historiquement faibles, sont en première ligne des cyberattaques.
+- Cette position les transforme en signal d’avertissement et modèle potentiel pour développer des méthodes visant à confronter de telles attaques.
+- « L’Afrique a une opportunité unique d’être un leader pour combattre les nouvelles menaces et aider à façonner l’avenir de la cyberdéfense », a écrit Kerissa Varma, conseillère principale de la sécurité de Microsoft pour l’Afrique, dans une récente analyse.
+- L’infrastructure en ligne de l’Afrique est bombardée quotidiennement par des centaines de milliers de tentatives de cyberattaques, avec l’Éthiopie, le Nigeria et le Soudan du Sud sujets au plus grand nombre d’attaques signalées en 2025.
+
+## [La <b>cybersécurité</b>, un budget sanctuarisé par les entreprises - ITRnews](https://itrnews.com/articles/208769/la-cybersecurite-un-budget-sanctuarise-par-les-entreprises.html)  
+*Source : itrnews.com | Publication : 2026-02-10*
+
+- Veuillez activer Javascript.
+
+## [Ottawa et Gatineau misent ensemble sur la <b>cybersécurité</b> - Le Droit](https://www.ledroit.com/franco/2026/02/10/ottawa-et-gatineau-misent-ensemble-sur-la-cybersecurite-UHCYS73TVBB4PJJEL2ZDQOZD4E/)  
+*Source : ledroit.com | Publication : 2026-02-10*
+
+- Jusqu’ici organisé à Montréal, l’événement se présente comme un grand rendez-vous de la cybersécurité et de la résilience numérique, réunissant décideurs, experts et entreprises autour de conférences, panels et vitrines technologiques.
+- Les organisateurs visent environ 3000 professionnels, 200 conférenciers et 150 partenaires, avec 35 pays représentés.
+- Au-delà de l’événement, les deux élus y voient un levier économique.
+- «L’objectif est de positionner la région d’Ottawa–Gatineau comme centre d’innovation en matière de défense au Canada», a martelé Mark Sutcliffe.
+
+## [Bell signe un accord avec SAP pour de l'infonuagique souverain - Les Affaires](https://www.lesaffaires.com/dossiers/cybersecurite-lia-nest-pas-sans-danger/bell-signe-un-accord-avec-sap-pour-de-linfonuagique-souverain/)  
+*Source : lesaffaires.com | Publication : 2026-02-10*
+
+- Bell signe un accord avec SAP pour de l’infonuagique souverain La Presse Canadienne|PubliÃ© Ã 11h23 | Mis Ã jour Ã 12h29(Photo: La Presse Canadienne / Christopher Katsarov) Bell Canada et SAP Canada ont signÃ© un accord visant Ã dÃ©velopper conjointement une solution infonuagique complÃ¨te gÃ©rÃ©e au Canada destinÃ©e aux administrations publiques et aux secteurs rÃ©glementÃ©s canadiens qui exigent un contrÃ´le strict des informations sensibles.
+- En vertu dâun protocole dâentente, les deux entreprises mettront en place une solution infonuagique entiÃ¨rement basÃ©e au Canada afin de garantir que les donnÃ©es sensibles du gouvernement, des citoyens et des organisations restent au pays.
+- Ce partenariat combinera le rÃ©seau national sÃ©curisÃ©, la puissance de calcul et la couverture des centres de donnÃ©es du RÃ©seau dâIA tissÃ© de Bell avec la solution Sovereign Cloud On-Site (SCOS) de SAP.
+- Il vise Ã soutenir la conformitÃ© aux exigences en matiÃ¨re de rÃ©sidence et de souverainetÃ© des donnÃ©es.
+
+## [La <b>cybercriminalité</b> au centre du sentiment d'insécurité neuchâtelois - ArcInfo](https://www.arcinfo.ch/neuchatel-canton/la-cybercriminalite-au-centre-du-sentiment-dinsecurite-neuchatelois-1486686)  
+*Source : arcinfo.ch | Publication : 2026-02-10*
+
+- Votre publicité ici avec IMPACT_medias La cybercriminalité au centre du sentiment d’insécurité neuchâtelois Une grande partie de la population se sent en sécurité dans le canton de Neuchâtel.
+- Il n’en reste pas moins que le sentiment d’insécurité progresse.
+- C’est ce qui ressort d’un sondage.
+- Votre publicité ici avec IMPACT_medias.
+
+## [L'UE autorise Google à racheter la firme de <b>cybersécurité</b> Wiz pour 32 milliards de dollars](https://www.lefigaro.fr/societes/l-ue-autorise-google-a-racheter-la-firme-de-cybersecurite-wiz-pour-32-milliards-de-dollars-20260210)  
+*Source : lefigaro.fr | Publication : 2026-02-10*
+
+- L’UE autorise Google à racheter la firme de cybersécurité Wiz pour 32 milliards de dollars Il s’agit de la plus grosse opération de rachat jamais effectuée par le géant américain.
+- Passer la publicité Passer la publicitéL'Union européenne a donné mardi son feu vert au rachat par Google de l'entreprise américaine de cybersécurité Wiz, la plus grosse acquisition jamais annoncée par le géant de la tech, sans y poser de conditions.
+- La Commission européenne a expliqué dans un communiqué avoir conclu «que la transaction ne soulèverait pas de problèmes de concurrence» en Europe, et avoir donc accordé son autorisation sans aucune réserve.
+- Le groupe de Mountain View avait annoncé en mars 2025 vouloir acquérir cette start-up spécialisée dans les services de sécurité axés sur le cloud, pour un montant de 32 milliards de dollars.
+
+## [Neuchâtel: 85% des habitants se sentent en sécurité malgré la <b>cybercriminalité</b> - 24 Heures](https://www.24heures.ch/neuchatel-85-des-habitants-se-sentent-en-securite-malgre-la-cybercriminalite-813511420141)  
+*Source : 24heures.ch | Publication : 2026-02-10*
+
+- Sondage cantonal Un sondage rÃ©vÃ¨le que 85% des habitants se sentent en sÃ©curitÃ©.
+- Mais 60% craignent dÃ©sormais la cybercriminalitÃ©.
+- Les NeuchÃ¢telois se sentent globalement en sÃ©curitÃ© dans leur canton, mais les inquiÃ©tudes liÃ©es Ã la criminalitÃ© numÃ©rique explosent.
+- C'est ce que rÃ©vÃ¨le le sondage cantonal sur la sÃ©curitÃ© dont les rÃ©sultats viennent d'Ãªtre publiÃ©s par le Canton de NeuchÃ¢tel sur son site internet.
+
+## [L'UE Autorise Google À Racheter La Firme De <b>Cybersécurité</b> Wiz - i24NEWS](https://www.i24news.tv/fr/actu/economie/technologie/artc-l-ue-autorise-google-a-racheter-la-firme-de-cybersecurite-wiz)  
+*Source : i24news.tv | Publication : 2026-02-10*
+
+- L’UE autorise Google à racheter la firme de cybersécurité Wiz Il s’agit de la plus importante acquisition jamais réalisée par le géant américain des technologies.
+- La Commission européenne a donné son feu vert, sans conditions, au rachat de la société de cybersécurité Wiz par Google, pour un montant record de 32 milliards de dollars.
+- Il s’agit de la plus importante acquisition jamais réalisée par le géant américain des technologies.
+- Dans un communiqué, Bruxelles a estimé que cette opération « ne soulève pas de problèmes de concurrence » sur le marché européen, permettant ainsi à Google de finaliser ce rachat stratégique.
+
+## [Pourquoi vous devriez éteindre votre téléphone au lieu de le redémarrer ?](https://www.journaldugeek.com/2026/02/10/pourquoi-vous-devriez-eteindre-votre-telephone-au-lieu-de-le-redemarrer/)  
+*Source : journaldugeek.com | Publication : 2026-02-10*
+
+- Les limites du redémarrage traditionnel Pendant longtemps, les spécialistes en cybersécurité ont encouragé les utilisateurs à redémarrer régulièrement leurs appareils mobiles pour éviter de potentielles cyberattaques.
+- La NSA, agence nationale de sécurité américaine, préconise elle-même cette pratique, à effectuer selon elle au moins deux fois par semaine.
+- L’objectif ?.
+- Empêcher d’éventuels programmes malveillants d’infiltrer le système de votre téléphone.
+
+## [Derrière les contrôles de conformité : l'état réel des entreprises tech en 2026 - Techerati](https://www.techerati.com/fr/hub-actualités/derriere-les-controles-de-conformite-letat-reel-des-entreprises-tech-en-2026/)  
+*Source : techerati.com | Publication : 2026-02-10*
+
+- Derrière les contrôles de conformité : l’état réel des entreprises tech en 2026 Écrit par Guillaume Almalech-Asmanoff il y a 7 heures Dans la tech, les contrôles de conformité ne se limitent plus à pointer des cases sur une feuille ou à valider une checklist administrative.
+- En 2026, ils révèlent des faiblesses structurelles profondes dans la manière dont les entreprises – des scale-ups SaaS aux géants du cloud – conçoivent leurs produits, leurs opérations et leur gouvernance.
+- Cette année, ce ne sont pas seulement les régulateurs qui poussent les entreprises à réévaluer leurs pratiques : les audits internes, les clients, les partenaires et même les assureurs exigent des preuves concrètes de maîtrise des risques numériques et de résilience opérationnelle.
+- Ce qu’ils découvrent derrière les portes des DSI n’est pas toujours rassurant.
+
+## [Du piratage au trafic : Comment la DAF compromise, pourrait alimenter un marché noir de ...](https://www.dakaractu.com/Du-piratage-au-trafic-Comment-la-DAF-compromise-pourrait-alimenter-un-marche-noir-de-documents_a268999.html)  
+*Source : dakaractu.com | Publication : 2026-02-10*
+
+- Le Sénégal fait face à ce qui pourrait être la pire cyberattaque de son histoire.
+- Après le piratage de la Direction de l’Automatisation des Fichiers (DAF), le groupe de cybercriminels connu sous le nom de “The Green Blood” a publié une nouvelle série de documents d’une sensibilité extrême, selon l’expert en cybersécurité Clément Domingo, alias SaxX.
+- Parmi les informations rendues publiques figurent « des extraits de naissance, des copies de cartes d’identité nationale, des extraits de copies littérales, des extraits du registre des actes de naissance… et j’en passe », détaille l’expert.
+- Cette fuite massive touche non seulement les 18 millions de Sénégalais, mais également des ressortissants d’autres pays présents dans les fichiers de l’administration sénégalaise.
+
+## [Séminaire national à Alger sur le renforcement des capacités dans le domaine de la <b>cybersécurité</b>](https://www.aps.dz/fr/algerie/education-et-technologie/mlgt5zhf-seminaire-national-a-alger-sur-le-renforcement-des-capacites-dans-le-domaine-de-la-cybersecurite)  
+*Source : aps.dz | Publication : 2026-02-10*
+
+- Séminaire national à Alger sur le renforcement des capacités dans le domaine de la cybersécurité mardi 10 février 2026 17:41 ALGER - Le ministère de la Formation et de l'Enseignement professionnels a organisé, mardi à Alger, en coordination avec l'Agence de la sécurité des systèmes d'information, un séminaire national sur le renforcement des capacités dans le domaine de la cybersécurité.
+- Articles connexes.
+
+## [Etats-Unis : les Français vont aussi devoir fournir leur historique numérique pour entrer sur ...](https://www.linfo.re/la-reunion/societe/etat-unis-les-francais-vont-aussi-devoir-fournir-leur-historique-numerique-pour-entrer-sur-le-territoire)  
+*Source : linfo.re | Publication : 2026-02-10*
+
+- Pour voyager aux Etats-Unis, il faudra maintenant fournir l'historique de son identité numérique.
+- Pour les voyageurs interrogés, cette nouvelle mesure a du mal à passer.
+- "Je ne vois pas vraiment l'intérêt de donner toutes ces données, juste pour voyager, que ce soit pour un voyage d'une semaine ou deux semaines", "Après, s'il faut le faire, on le fera.
+- Contre la liberté d'expression, de pensée, voire de religion", "De base, je n'avais pas prévu de voyager aux Etats-Unis, vu le président qui est au pouvoir.
+
+## [Semaine 6 : « Subscription Bombing » – Quand la boîte mail est bombardée - Ncsc.admin.ch](https://www.ncsc.admin.ch/ncsc/fr/home/aktuell/im-fokus/2026/wochenrueckblick_6.html)  
+*Source : ncsc.admin.ch | Publication : 2026-02-10*
+
+- 10.02.2026 - Au cours de la semaine écoulée, l’OFCS a reçu un nombre accru de signalements concernant un phénomène qui, à première vue, ressemble à du spam massif, mais qui constitue en réalité une manœuvre de diversion ciblée de la part de cybercriminels : Le « Subscription Bombing ».
+- Imaginez recevoir, en l’espace de quelques minutes, des centaines voire des milliers d’e-mails de confirmation, par exemple pour des inscriptions à des newsletters provenant de sites web du monde entier.
+- L’objectif de cette attaque n’est pas de vous importuner : les attaquants exploitent ce flot d’e-mails pour dissimuler un seul message critique.
+- Dans la plupart des cas, les auteurs ont déjà obtenu l’accès à un compte de la victime (par exemple à l’e-banking ou à des boutiques en ligne) et y ont déclenché une transaction.
+
+## [NXO annonce l'acquisition du Groupe IDNA - Solutions-Numeriques](https://www.solutions-numeriques.com/communiques/nxo-annonce-lacquisition-du-groupe-idna/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-10*
+
+- NXO annonce l’acquisition du Groupe iDNA (iDNA et AURA iT), spécialiste du conseil et de l’ingénierie en cybersécurité, effective au 05 février 2026.
+- IDNA, basée à Paris, est un expert de la cybersécurité, spécialisé dans la protection des SI en particulier pour les infrastructures critiques, environnements industriels et bâtiments.
+- IDNA accompagne ses clients à 360° à travers l’ensemble du cycle de gestion des risques cyber, en combinant audit, conseil stratégique, opérationnel et en gouvernance, mise en œuvre de solutions, ainsi que des services managés pour assurer le maintien en condition de sécurité.
+- IDNA propose des solutions sur mesure, parfaitement adaptées aux enjeux actuels de cybersécurité afin de répondre aux exigences réglementaires toujours plus strictes sur des secteurs sensibles (LPM, NIS2).
+
+## [Près de 120 M€ ont été consacrés au renforcement de la <b>cybersécurité</b>... - AEF info](https://www.aefinfo.fr/depeche/745714-pres-de-120-m-ont-ete-consacres-au-renforcement-de-la-cybersecurite-des-etablissements-de-sante)  
+*Source : aefinfo.fr | Publication : 2026-02-10*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : À date, 120 M€ ont été engagés dans le cadre du programme "Care" (Cyber accélération et résilience des établissements), lancé fin 2023 pour renforcer la cybersécurité des établissements de santé, indique le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées, mardi 10 février 2026.
+- Selon lui, les établissements ayant bénéficié de ce programme "présentent des progrès significatifs" :" les hôpitaux sont ainsi passés de 11 % à 4 % des cibles de rançongiciels" de 2023 à 2024, selon les chiffres de l’Anssi.
+- Interrogé par AEF info sur le nombre de bénéficiaires, le ministère n’a pas répondu.
+
+## [Tripla renforce son positionnement stratégique avec la nomination d'Alexandre Murakami ...](https://tiinside.com.br/fr/10/02/2026/Tripla-renforce-son-positionnement-stratégique-avec-Alexandre-Murakami-au-poste-de-directeur-exécutif-des-solutions-et-de-la-cybersécurité./)  
+*Source : tiinside.com.br | Publication : 2026-02-10*
+
+- Tripla, entreprise brésilienne leader dans les technologies, la cybersécurité et les solutions de conformité, annonce la nomination d'Alexandre Murakami au poste de Directeur des Solutions et de la Cybersécurité.
+- Cette nomination renforce le positionnement stratégique de l'entreprise à un moment de consolidation et d'expansion de ses activités auprès de clients et partenaires majeurs de l'écosystème technologique.
+- Avec plus de vingt ans d'expérience dans la cybersécurité et les technologies de l'information, Murakami prend la direction des unités Infrastructure, SmartOPs, Cybersécurité et GRC, dans le but d'orchestrer l'évolution du portefeuille de solutions propriétaires de Tripla, telles que Trisky, Cyberwatch et Autoritas, ainsi que de renforcer les partenariats stratégiques et d'étendre les opérations de l'entreprise dans des environnements d'entreprise hautement complexes et critiques.
+- L'arrivée de Murakami consolide la performance de Tripla dans les projets stratégiques menés auprès de grandes organisations, renforçant ainsi sa présence dans des environnements d'entreprise complexes.
+
+## [Thales recrute et ouvre 290 postes en Bretagne](https://www.bretagne-economique.com/actualites/thales-recrute-et-ouvre-290-postes-en-bretagne/)  
+*Source : bretagne-economique.com | Publication : 2026-02-10*
+
+- Depuis cinq ans, le groupe Thales recrute en moyenne 8 000 personnes par an.
+- Cette année, la campagne est accentuée par une croissance plus soutenue des trois secteurs d’activité de ce géant français de l’électronique et des hautes technologies, que sont la défense, l’aérospatial et le digital (cybersécurité).
+- C’est pourquoi, en 2026, Thales prévoit d’embaucher plus de 9000 nouveaux collaborateurs, dont 3 300 en France.
+- Sur ces 3 300 ouvertures de postes, la Bretagne arrive en deuxième position des régions de France les plus dotées, avec 290 offres d’emploi proposées (derrière l’Ile de France avec 1630 et devant la Nouvelle Aquitaine avec 280).
+
+## [L'UE autorise le rachat par Google de la firme de <b>cybersécurité</b> Wiz - LaPresse.ca](https://www.lapresse.ca/affaires/entreprises/2026-02-10/l-ue-autorise-le-rachat-par-google-de-la-firme-de-cybersecurite-wiz.php)  
+*Source : lapresse.ca | Publication : 2026-02-10*
+
+- L’UE autorise le rachat par Google de la firme de cybersécurité Wiz (Bruxelles) L’Union européenne a donné mardi son feu vert au rachat par Google de l’entreprise américaine de cybersécurité Wiz, la plus grosse acquisition jamais annoncée par le géant des technologies, sans y poser de conditions.
+- La Commission européenne a expliqué dans un communiqué avoir conclu « que la transaction ne soulèverait pas de problèmes de concurrence » en Europe, et avoir donc accordé son autorisation sans aucune réserve.
+- Le groupe de Mountain View avait annoncé en mars 2025 vouloir acquérir cette jeune pousse spécialisée dans les services de sécurité axés sur l’infonuagique, pour un montant de 32 milliards de dollars.
+- Jusqu’alors, la plus grosse opération du géant californien remontait à 2012, avec la reprise de Motorola Mobility, ancienne division équipement de Motorola, pour 12,5 milliards de dollars.
 
 ## [Les services de renseignement allemands alertent sur des tentatives de piratage de ... - BFM](https://www.bfmtv.com/tech/cybersecurite/les-services-de-renseignement-allemands-alertent-sur-des-tentatives-de-piratage-de-comptes-signal-les-comptes-whatsapp-pourraient-egalement-etre-cibles_AN-202602090861.html)  
 *Source : bfmtv.com | Publication : 2026-02-09*
