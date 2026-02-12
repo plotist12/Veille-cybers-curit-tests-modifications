@@ -1,5 +1,148 @@
-# Résumés – 2026-02-11
+# Résumés – 2026-02-12
 
+
+## [Chambly et ses voisines unies contre la <b>cybercriminalité</b> - L'Écho du Thelle](https://www.lechoduthelle.fr/chambly-et-ses-voisines-unies-contre-la-cybercriminalite-fevrier-2026/)  
+*Source : lechoduthelle.fr | Publication : 2026-02-12*
+
+- Le CISPDR a présenté ses résultats 2025.
+- Si les vols et cambriolages reculent, les escroqueries financières explosent, poussant les acteurs locaux à adapter leurs stratégies.
+- Le Conseil intercommunal de sécurité et de prévention de la délinquance et de la radicalisation* (CISPDR), qui fédère huit communes du Syndicat intercommunal à vocation unique (SIVU) dédié à la sécurité (Belle-Eglise, Chambly, Dieudonné, Ercuis, Fresnoy-en-Thelle, Le Mesnil-en-Thelle, Morangles et Puiseux-le-Hauberger), s’est réuni mardi 27 janvier 2026 à l’initiative de David Lazarus, maire de Chambly et président du SIVU.
+- Co-présidée par Emma Dorangeon, substitut du parquet de Senlis, et Jérémy Kopec, représentant la Préfecture de l’Oise, cette rencontre a également vu la participation de Pierre Desliens, président de la communauté de communes Thelloise.
+
+## [En 2026, Thales prévoit de recruter plus de 200 salariés dans le Loiret](https://www.larep.fr/ferte-saint-aubin-45240/economie/en-2026-thales-prevoit-de-recruter-plus-de-200-salaries-dans-le-loiret_14829023/)  
+*Source : larep.fr | Publication : 2026-02-12*
+
+- Écouter l'article Thales bénéficie de la hausse des budgets de la défense liée à la guerre en Ukraine et au contexte géopolitique.
+- En 2026, le "leader mondial des hautes technologies pour la défense, l’aérospatial et la cybersécurité et digital" prévoit de réaliser 9.000 recrutements à travers le monde, dont 3.300 en France, a-t-il indiqué dans un communiqué de presse.
+- Et ce, après avoir déjà accueilli 8.800 nouveaux salariés en 2025.
+- Parmi ces embauches : 120 concernent le site de La Ferté-Saint-Aubin, spécialisé dans la production de systèmes d’armements terrestres et aéroportés ainsi que dans les systèmes de protection des forces (recherche et développement, assemblage, production, essais, services supports) ; - 90 visent le site de Fleury-les-Aubrais, dédié à la production et à l’intégration de systèmes de défense aérienne ainsi qu’aux services associés.
+
+## [L'adoption de l'IA agentique est une priorité pour 87 % des équipes de sécurité, selon une ...](https://www.globalsecuritymag.fr/l-adoption-de-l-ia-agentique-est-une-priorite-pour-87-des-equipes-de-securite.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-12*
+
+- L’adoption de l’IA agentique est une priorité pour 87 % des équipes de sécurité, selon une étude d’Ivanti février 2026 par Ivanti Ivanti annonce les résultats de son rapport 2026 sur l’état de la cybersécurité : Combler le fossé.
+- S’appuyant sur les retours de plus de 1 200 professionnels de la cybersécurité à travers le monde, le rapport met en évidence un fossé qui se creuse rapidement entre les menaces cybernétiques croissantes et la capacité des organisations à se défendre.
+- L’IA transforme la cybersécurité pour les défenseurs comme pour les attaquants, mais les défenseurs estiment qu’ils prennent l’avantage.
+- Le rapport indique que les professionnels de la sécurité sont 2,4 fois plus susceptibles de croire que les défenseurs utilisent l’IA aussi efficacement que les cybercriminels, voire plus efficacement.
+
+## [Steven COCKS est le nouveau président de l'Agence Caribéenne pour la <b>Cybersécurité</b>](https://actu-medias.info/2026/02/steven-cocks-accyb.html)  
+*Source : actu-medias.info | Publication : 2026-02-12*
+
+- Steven COCKS a été nommé président de l'Agence Caribéenne pour la Cybersécurité (ACCYB) depuis le 1er janvier 2026.
+- Sous sa présidence, l’ACCYB réaffirme ses ambitions : renforcer la résilience numérique des acteurs publics et privés ; - développer la coopération inter-régionale ; - accompagner la transformation digitale en toute sécurité.
+- -.
+
+## [Sénégal numérique signale des tentatives de cyberattaques et restreint temporairement ...](https://www.enqueteplus.com/content/cybersécurité-sénégal-numérique-signale-des-tentatives-de-cyberattaques-et-restreint)  
+*Source : enqueteplus.com | Publication : 2026-02-12*
+
+- Sénégal numérique signale des tentatives de cyberattaques et restreint temporairement certains services La Société nationale Sénégal Numérique (SENUM) S.A. a annoncé avoir été la cible de tentatives de cyberattaques visant ses systèmes d’information au cours des derniers jours.
+- L’information a été rendue publique à travers un communiqué daté du 9 février 2026.
+- Selon la Direction de Sénégal Numérique, ces incidents surviennent dans un contexte marqué par une recrudescence des menaces cyber ciblant les infrastructures étatiques et les structures stratégiques du pays.
+- Face à cette situation, des mesures préventives et conservatoires ont été immédiatement mises en œuvre.
+
+## [Tain-l'Hermitage. <b>Cybersécurité</b> : le problème est “entre la chaise et le clavier”](https://www.ledauphine.com/societe/2026/02/12/cybersecurite-le-probleme-est-entre-la-chaise-et-le-clavier)  
+*Source : ledauphine.com | Publication : 2026-02-12*
+
+- Tain-l’Hermitage Cybersécurité : le problème est “entre la chaise et le clavier” Pour animer cette conférence, Eric Faure, responsable informatique dans l’entreprise des brioches Pasquier, avait invité Mireille Clapot, membre de l’autorité de régulation des communications électroniques de la Poste et de la.
+
+## [La société de <b>cybersécurité</b> Palo Alto a choisi de ne pas lier les pirates à Pékin par crainte ...](https://www.zonebourse.com/actualite-bourse/la-societe-de-cybersecurite-palo-alto-a-choisi-de-ne-pas-lier-les-pirates-a-pekin-par-crainte-de-rep-ce7e5ad3dd89f227)  
+*Source : zonebourse.com | Publication : 2026-02-12*
+
+- La société de cybersécurité Palo Alto a choisi de ne pas lier les pirates à Pékin par crainte de représailles, selon des sources Publié le 12/02/2026 à 19:01 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager © Reuters - 2026 Partager.
+
+## [Alerte sur l'iPhone : Apple met en garde contre une cyberattaque « extrêmement sophistiquée »](https://www.01net.com/actualites/faille-iphone-apple-met-garde-contre-cyberattaque-extremement-sophistiquee.html)  
+*Source : 01net.com | Publication : 2026-02-12*
+
+- Une faille de sécurité zero day a été découverte sur l’iPhone.
+- La vulnérabilité a été débusquée par les chercheurs du Threat Analysis Group (TAG) de Google.
+- Alerté par les chercheurs de Google, Apple indique que la faille a été activement exploitée dans le cadre d’une cyberattaque visant les utilisateurs d’iPhone.
+- « Apple a pris connaissance d’un rapport indiquant que cette vulnérabilité aurait pu être exploitée dans le cadre d’une attaque extrêmement sophistiquée contre des individus ciblés sur des versions d’iOS antérieures à iOS 26 », explique Apple dans son bulletin de sécurité.
+
+## [Darty : une cyberattaque siphonne les données de 80 000 clients - Clubic](https://www.clubic.com/actualite-600262-darty-une-cyberattaque-siphonne-les-donnees-de-80-000-clients.html)  
+*Source : clubic.com | Publication : 2026-02-12*
+
+- L'enseigne française spécialisée dans l'électroménager est à son tour victime d'un piratage.
+- Cette fois, ce sont 80 000 clients qui voient leurs données tomber entre les mains de hackers !.
+- C'est une épidémie qui ne semble pas avoir de fin.
+- Les grandes entreprises françaises sont en effet chacune leur tour la cible de cyberattaques, qui permettent à chaque fois de récolter des données personnelles.
+
+## [Des acteurs du numérique en santé souhaitent revoir la gouvernance de la <b>cybersécurité</b>](https://www.hospimedia.fr/actualite/articles/20260212-e-sante-des-acteurs-du-numerique-en-sante)  
+*Source : hospimedia.fr | Publication : 2026-02-12*
+
+- 18h09 Article Les nouvelles recommandations sur l'enfant autiste soulignent l'importance du parcours Par Manuel Magrez aujourd'hui à 18h09 Découvrez Hospimedia pendant 7 jours, c’est gratuit et sans engagement•Vous avez déjà un compte ?.
+- Se connecter 749 incidents de sécurité numérique en 2024 et un peu moins de 800 en 2025 selon les chiffres bientôt publiés par le Computer emergency response team (Cert Santé).
+- Ces signalement ont impliqué 71 interventions d'appui technique des équipes de l'Agence du ….
+
+## [Cleptogiciels : Lumma fait un retour en force - LeMagIT](https://www.lemagit.fr/actualites/366638868/Cleptogiciels-Lumma-fait-un-retour-en-force)  
+*Source : lemagit.fr | Publication : 2026-02-12*
+
+- freshidea - stock.adobe.com Cleptogiciels : Lumma fait un retour en force Touché, mais pas coulé au printemps 2025, l’infostealer Lumma a sensiblement repris du poil de la bête depuis la fin de l’année.
+- Actuellement, sa distribution s’appuie largement sur la technique dite « ClickFix » et CastleLoader.
+- Fin mai 2025, Microsoft annonçait une vaste opération contre le cleptogiciel (ou infostealer et maliciel dérobeur) Lumma.
+- L’éditeur expliquait alors que « plus de 1 300 domaines saisis par Microsoft, ou transférés à ce dernier (y compris 300 domaines pour lesquels les forces de l’ordre ont pris des mesures avec l’aide d’Europol), seront redirigés vers les sinkholes de Microsoft.
+
+## [Note de marché IDC : les exigences de souveraineté des données dans l'UE façonnent un ...](https://www.bitdefender.com/fr-fr/blog/businessinsights/idc-eu-data-sovereignty-cybersecurity-cloud-partnership/)  
+*Source : bitdefender.com | Publication : 2026-02-12*
+
+- La souveraineté numérique est désormais un impératif stratégique pour de nombreuses organisations européennes.
+- Selon une récente note de marché IDC¹, "la souveraineté n’est plus seulement considérée comme une question contractuelle, mais comme un enjeu d’architecture et de faisabilité technique.".
+- IDC ajoute : "En matière d’adoption, les premières années de ce que l’on pourrait appeler la ‘dynamique européenne de souveraineté’ ont été marquées par le lancement d’offres souveraines par les fournisseurs de services cloud.
+- Selon l’étude IDC Worldwide Digital Sovereignty, environ 30 % des organisations européennes utilisaient des solutions de cloud souverain en 2023 et 2024 ; en 2025, ce chiffre a grimpé à 40 %, et 31 % supplémentaires prévoient d’y recourir.".
+
+## [Thales va créer 180 postes en Auvergne-Rhône-Alpes - MSN](https://www.msn.com/fr-fr/finance/autres/thales-va-créer-180-postes-en-auvergne-rhône-alpes/ar-AA1W3tu6)  
+*Source : msn.com | Publication : 2026-02-12*
+
+- Leader mondial sur les marchés de la défense, l'aérospatial et la cybersécurité , le géant français prévoit de créer 9 000 postes dans le monde, dont 3.
+
+## [Granby: les échos du conseil municipal](https://www.granbyexpress.com/actualites/granby-les-echos-du-conseil-municipal-11/)  
+*Source : granbyexpress.com | Publication : 2026-02-12*
+
+- Granby: les échos du conseil municipal MUNICIPAL.
+- Voici quelques points traités récemment par les membres du conseil municipal de Granby.
+- Cybersécurité Victimes potentielles pour des cybercriminels, les villes et les municipalités doivent se prémunir contre les attaques informatiques de plus en plus fréquentes.
+- «Depuis plusieurs années, la Division des technologies de l’information met en oeuvre divers outils spécialisés pour gérer les risques, notamment des pare-feu, des antivirus et l’authentification à deux facteurs.
+
+## [Check Point Software revoit à la hausse ses perspectives de bénéfices en raison de ... - Boursorama](https://www.boursorama.com/bourse/actualites-amp/check-point-software-revoit-a-la-hausse-ses-perspectives-de-benefices-en-raison-de-la-montee-en-puissance-des-cybermenaces-liees-a-l-ia-2e5fc58a826f277469c497cf87e8f85d)  
+*Source : boursorama.com | Publication : 2026-02-12*
+
+- Check Point Software revoit à la hausse ses perspectives de bénéfices en raison de la montée en puissance des cybermenaces liées à l'IA information fournie par Reuters 12/02/2026 à 15:55 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Les bénéfices trimestriels augmentent alors que les entreprises dépensent davantage pour la cybersécurité * Les attaques menées par l'IA stimulent la demande de protection avancée des réseaux * L'entreprise prévoit une croissance du chiffre d'affaires en 2026 dans un contexte d'escalade des menaces (Ajout de puces, modification du titre, ajout de détails sur les perspectives pour 2026 aux paragraphes 1 et 12) par Steven Scheer Check Point Software Technologies CHKP.O a dépassé les attentes de bénéfices du quatrième trimestre jeudi et a déclaré que l'augmentation de la demande de protection contre les cybermenaces induites par l'IA contribuerait à porter son chiffre d'affaires 2026 à près de 3 milliards de dollars.
+- On s'attend à ce que les entreprises dépensent davantage pour la cybersécurité en raison des craintes que l'IA dote les pirates de nouveaux moyens plus sophistiqués d'attaquer les réseaux et de perturber les entreprises.
+- Le directeur général Nadav Zafrir a déclaré aux journalistes: "Nous voyons chaque jour de nouveaux vecteurs d'attaque et de nouvelles capacités ... qui créent des vulnérabilités et des menaces sans précédent.".
+- "L'infrastructure des entreprises est désormais vulnérable car la nature même des attaques est en train de changer.
+
+## [Menace quantique : l'ANSSI sonne le tocsin - INCYBER NEWS](https://incyber.org/article/menace-quantique-lanssi-sonne-tocsin/)  
+*Source : incyber.org | Publication : 2026-02-12*
+
+- Accueil - Transformation numérique - Menace quantique : l’ANSSI sonne le tocsin - Menace quantique : l’ANSSI sonne le tocsin Vous avez aimé l’IA ?.
+- Vous allez adorer le quantique !.
+- Des ordinateurs et des processeurs dotés d’une vitesse et d’une capacité de calcul phénoménales qui leur permettent d’affaiblir à la vitesse de la lumière tous les protocoles de chiffrement actuels.
+- La menace est bien réelle.
+
+## [GitGuardian lève 50 M$ pour industrialiser la gouvernance des identités machines et ...](https://www.solutions-numeriques.com/gitguardian-leve-50-m-pour-industrialiser-la-gouvernance-des-identites-machines-et-securiser-les-agents-ia/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-12*
+
+- La scale-up française positionnée sur la sécurité des secrets et la gouvernance des identités non humaines boucle un tour de table de 50 millions de dollars mené par Insight Partners.
+- Le financement marque une nouvelle étape dans son positionnement sur la gouvernance des identités non humaines et la sécurisation des agents IA.
+- Un point d’inflexion pour les identités machines GitGuardian annonce une levée de fonds de série C de 50 millions de dollars, menée par Insight Partners aux côtés de Quadrille Capital, ainsi que des investisseurs historiques Eurazeo, Sapphire, Balderton et la BPI.
+- L’opération vise à renforcer son positionnement sur la sécurité des secrets, la gouvernance des identités non humaines (NHI) et la protection des agents IA, dans un contexte de croissance exponentielle des identités machines.
+
+## [Charleroi : un appel à projets de la Défense pour sécuriser les objets connectés - RTBF](https://www.rtbf.be/article/charleroi-un-appel-a-projets-de-la-defense-pour-securiser-les-objets-connectes-11678156)  
+*Source : rtbf.be | Publication : 2026-02-12*
+
+- La Défense va consacrer près de 2 millions d’euros à un programme de lutte contre la cybercriminalité, dédié spécialement aux objets connectés.
+- Son nom : Strike IT.
+- Ce mercredi 11 février, pour les entreprises intéressées, elle tenait sa première séance d’information chez A6K, le centre technologique et d’accélération des start-up de Charleroi.
+- 12 projets seront chacun financé à hauteur de 150.000 euros.
+
+## [L'Algérie mise sur la formation en <b>cybersécurité</b> pour créer des compétences locales](https://www.agenceecofin.com/actualites-services/1202-135746-l-algerie-mise-sur-la-formation-en-cybersecurite-pour-creer-des-competences-locales)  
+*Source : agenceecofin.com | Publication : 2026-02-12*
+
+- (Agence Ecofin) - Face à la recrudescence des attaques numériques ciblant les citoyens, les administrations et les entreprises, les autorités.
+
+## [Andersen Consulting élargit sa plateforme à l'Amérique du Nord avec l'acquisition de Kezber](https://www.businesswire.com/news/home/20260211714306/fr)  
+*Source : businesswire.com | Publication : 2026-02-12*
+
+- SAN FRANCISCO--(BUSINESS WIRE)--Andersen Consulting développe son offre en matière de transformation d'entreprise et de cybersécurité grâce à.
 
 ## [<b>Cybersécurité</b> : le dangereux décalage entre perception du risque et réalité des attaques](https://itrnews.com/articles/208798/cybersecurite-le-dangereux-decalage-entre-perception-du-risque-et-realite-des-attaques.html)  
 *Source : itrnews.com | Publication : 2026-02-11*
