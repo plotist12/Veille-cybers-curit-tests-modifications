@@ -1,5 +1,161 @@
-# Résumés – 2026-02-12
+# Résumés – 2026-02-13
 
+
+## [Souveraineté numérique | Québec veut renforcer son indépendance numérique - LaPresse.ca](https://www.lapresse.ca/affaires/techno/2026-02-13/souverainete-numerique/quebec-veut-renforcer-son-independance-numerique.php)  
+*Source : lapresse.ca | Publication : 2026-02-13*
+
+- Souveraineté numérique Québec veut renforcer son indépendance numérique La souveraineté numérique du Québec devient une priorité du gouvernement Legault.
+- Son ministre de la Cybersécurité et du Numérique a dévoilé vendredi matin sa volonté de « renforcer l’autonomie numérique de l’État » pour se défaire de « la dépendance envers des fournisseurs étrangers ».
+- Devant la Chambre de commerce de Gatineau, Gilles Bélanger a présenté les grandes lignes de ce que le gouvernement appelle son « Énoncé de politique de souveraineté numérique et d’approvisionnement en technologie de l’information ».
+- Le gouvernement se dégage ainsi une marge de manœuvre de 1,4 milliard pour contourner sa propre Loi sur les contrats des organismes publics.
+
+## [Québec dévoile sa stratégie pour s'émanciper des géants technologiques - Le Devoir](https://www.ledevoir.com/politique/canada/956199/quebec-devoile-strategie-emanciper-geants-technologiques)  
+*Source : ledevoir.com | Publication : 2026-02-13*
+
+- Pour se détacher des géants technologiques, le gouvernement du Québec a dévoilé vendredi les orientations de sa stratégie d’indépendance numérique.
+- Le plan ?.
+- Miser sur les infrastructures en sol québécois et canadien.
+- « De nos jours, les géants technologiques possèdent un ascendant crucial sur nos données sensibles, nos communications et nos infrastructures », a déclaré le ministre de la Cybersécurité et du Numérique, Gilles Bélanger.
+
+## [Des images supprimées mais pas effacées: comment le FBI a récupéré les vidéos d'une ... - BFM](https://www.bfmtv.com/tech/cybersecurite/des-images-supprimees-mais-pas-effacees-comment-le-fbi-a-recupere-les-videos-d-une-sonnette-google-nest-apres-l-enlevement-de-la-mere-d-une-journaliste-americaine-de-nbc-news_AV-202602130812.html)  
+*Source : bfmtv.com | Publication : 2026-02-13*
+
+- Des images supprimées mais pas effacées: comment le FBI a récupéré les vidéos d'une sonnette Google Nest après l'enlèvement de la mère d'une journaliste américaine de NBC News Effacer les preuves ne veut pas dire les supprimer.
+- Le suspect dans l'affaire de l'enlèvement de Nancy Guthrie, la mère d'une des présentatrices star de la télévision américaine de NBC News, en a fait l'expérience.
+- Comme le rapporte The Verge, le directeur du FBI, Kash Patel, a annoncé mardi 10 février 2026 que les enquêteurs avaient pu récupérer les images de la sonnette vidéo de Nancy Guthrie, la mère de la présentatrice Savannah Guthrie, grâce à des "données résiduelles situées dans les systèmes internes".
+- Des données stockées par Google Lorsque Nancy Guthrie a disparu, début février, les autorités avaient précisé qu’elle possédait une sonnette vidéo.
+
+## [La feuille de route IA de Datadog et sa stratégie de <b>cybersécurité</b> augurent d'une forte ...](https://www.zonebourse.com/actualite-bourse/la-feuille-de-route-ia-de-datadog-et-sa-strategie-de-cybersecurite-augurent-d-une-forte-croissance-ce7e5ddad18af726)  
+*Source : zonebourse.com | Publication : 2026-02-13*
+
+- La feuille de route IA de Datadog et sa stratégie de cybersécurité augurent d'une forte croissance, selon RBC.
+- Publié le 13/02/2026 à 18:48.
+- MT.
+
+## [Scattered Lapsus ShinyHunters : la dérive violente du <b>ransomware</b> - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/02/13/scattered-lapsus-shinyhunters-ransomware/)  
+*Source : dcod.ch | Publication : 2026-02-13*
+
+- TL;DR : L’essentiel Le gang Scattered Lapsus ShinyHunters déploie une stratégie d’intimidation physique incluant le swatting, où de fausses alertes à la bombe provoquent des interventions policières armées au domicile personnel des cadres ciblés.
+- - Contrairement aux réseaux cybercriminels russes structurés, ce collectif anglophone issu de The Com privilégie la violence psychologique et le harcèlement constant des proches pour user la résistance des victimes visées.
+- - Les intrusions débutent souvent par une usurpation d’identité téléphonique, où les attaquants se font passer pour le support informatique afin de détourner les codes d’authentification multifacteur et l’accès SSO.
+- - Les experts de Unit 221B recommandent de refuser systématiquement tout paiement car ce groupe instable ne fournit aucune preuve de suppression des données et réutilise souvent les informations pour la fraude.
+
+## [L'importance de la <b>cybersécurité</b> à la ferme - Le Bulletin des agriculteurs](https://www.lebulletin.com/machinerie/cybersecurite-ferme-145560)  
+*Source : lebulletin.com | Publication : 2026-02-13*
+
+- L'importance de la cybersécurité à la ferme.
+- Une grande partie du parc technologique agricole est vétuste.
+- Le Bulletin des agriculteurs.
+- Par.
+
+## [Bruno Durand, Sophos : « Il faut démocratiser le rôle du RSSI » - InformatiqueNews](https://www.informatiquenews.fr/investir-dans-la-cybersecurite-cest-une-obligation-pas-un-luxe-bruno-durand-sophos-109466)  
+*Source : informatiquenews.fr | Publication : 2026-02-13*
+
+- Dans un contexte où les attaques se banalisent, où les chaînes de sous-traitance deviennent des portes d’entrée et où les budgets IT se tendent, la cybersécurité se heurte à un mur très concret.
+- Elle manque d’abord de bras et de gouvernance, bien avant de manquer d’outils.
+- Pour comprendre comment rendre une posture cyber à la fois lisible, pilotable et défendable devant le Comex, Guy Hervier a invité sur son plateau de l’invité de la semaine, Bruno Durand, vice-président Europe du Sud de Sophos.
+- Fondé en 1985, Sophos fait partie des pionniers de la cybersécurité.
+
+## [Alternance : pourquoi désormais les entreprises ont intérêt à cibler leurs recrues - Placeco](https://www.placeco.fr/landes/ecosysteme/article/alternance-pourquoi-desormais-les-entreprises-ont-interet-a-cibler-leurs-recrues-9560)  
+*Source : placeco.fr | Publication : 2026-02-13*
+
+- Alternance : pourquoi désormais les entreprises ont intérêt à cibler leurs recrues La baisse des aides de l'Etat fait entrer le recours à l'alternance dans une nouvelle ère où les entreprises ont malgré tout toujours intérêt à recruter via ce mode.
+- Elles le font en adaptant leurs méthodes de recrutement.
+- Prendre un alternant n'est plus un réflexe d'opportunité, mais un véritable choix de gestion.
+- Fini l'ère du recrutement de masse subventionné : nous entrons dans celle de l’investissement stratégique.
+
+## [<b>Cybercriminalité</b> : les 7 affaires et sanctions du 13 fév 2026 - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/02/13/cybercriminalite-les-7-affaires-et-sanctions-du-13-fev-2026/)  
+*Source : dcod.ch | Publication : 2026-02-13*
+
+- Faits marquants de la semaine Un opérateur taïwanais d’Incognito Market est condamné à 30 ans de prison pour avoir dirigé, entre 2020 et 2024, une place de marché du dark web ayant écoulé plus de 105 millions de dollars de drogues payées en cryptomonnaies.
+- - Une enquête du parquet de Paris, appuyée par l’unité cyber de la Gendarmerie et Europol, vise des activités criminelles présumées liées à la plateforme X, avec des perquisitions menées dans les bureaux français du service.
+- - En Gironde, quatre personnes ont été interpellées dans un Airbnb, soupçonnées d’avoir utilisé une parabole géante installée dans le jardin pour intercepter des données issues des satellites internet Starlink.
+- - À New York, un homme de 23 ans, présenté comme affilié au collectif extrémiste en ligne 764, est accusé d’avoir animé des salons de discussion pour collecter et échanger des contenus d’abus sexuels sur enfants.
+
+## [Fusions-acquisitions : la <b>cybersécurité</b>, levier ou talon d'Achille ? - L'Agefi](https://www.agefi.fr/private-equity/analyses/fusions-acquisitions-la-cybersecurite-levier-ou-talon-dachille)  
+*Source : agefi.fr | Publication : 2026-02-13*
+
+- Fusions-acquisitions : la cybersécurité, levier ou talon d’Achille ?.
+- La cybersécurité est devenue un paramètre financier à part entière, capable d’influencer la valorisation d’un actif, de retarder un closing, voire de faire dérailler un deal, analyse Frédéric Malagoli, associé chez Eight Advisory, dans une tribune pour L’Agefi.
+- Un évènement L’AGEFI.
+- 12 mars 2026 à 8:30 AM S’inscrire Plus d'articles du même thème La plateforme multi-boutiques américaine AMG tient son quarantième affilié Affiliated Managers Group a investi dans la société de gestion immobilière HighBrook.
+
+## [Suisse : les cyberattaques ont baissé de 11% en janvier](https://www.m-q.ch/fr/les-cyberattaques-en-suisse-ont-baisse-de-onze-pour-cent-en-janvier/)  
+*Source : m-q.ch | Publication : 2026-02-13*
+
+- Suisse : les cyberattaques ont baissé de 11% en janvier Check Point Research enregistre pour la Suisse une baisse de 11 % des cyberattaques en janvier 2026, soit 1093 attaques hebdomadaires par entreprise.
+- En revanche, l'Europe a connu une hausse de 18 %.
+- Les secteurs de l'énergie et de l'approvisionnement, de l'administration publique et des biens de consommation et services ont été particulièrement touchés dans notre pays.
+- Check Point Research, le département de recherche en sécurité de Check Point Software Technologies, a publié son rapport mensuel sur les cybermenaces pour janvier 2026.
+
+## [Baromètre 2025 de Docaposte et Cyblex : le risque cyber est sous-estimé en France](https://www.channelnews.fr/barometre-2025-de-docaposte-et-cyblex-le-risque-cyber-est-sous-estime-en-france-154863)  
+*Source : channelnews.fr | Publication : 2026-02-13*
+
+- La filiale numérique du groupe La Poste et le cabinet d’audit Cyblex Consulting publient la troisième édition de leur baromètre annuel sur la maturité cyber des entreprises françaises.
+- L’étude révèle un décalage entre la perception des entreprises et la réalité des risques informatiques, ainsi qu’une maturité inégale au sein des 500 organisations interrogées.
+- Le sentiment d’exposition des entreprises aux risques cyber reste stable par rapport à 2024 : 4 entreprises sur 10 estiment être une cible potentielle.
+- Toutefois, les acteurs publics se sentent plus exposés (50%) que les entreprises privées (37%).
+
+## [Sopra Steria prévoit plus de 8 500 recrutements en 2026 pour accompagner l'industrialisation de l'IA](https://www.alliancy.fr/sopra-steria-prevoit-plus-de-8-500-recrutements-en-2026-pour-accompagner-lindustrialisation-de-lia-93c4a039-166e-4067-aca3-641e6bb83bc6)  
+*Source : alliancy.fr | Publication : 2026-02-13*
+
+- E-mail Profil Instagram Profil LinkedIn Site web Profil Twitter Chaîne YouTube 13 février 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [<b>Cybersécurité</b> : Les risques liés aux fournisseurs s'imposent comme un enjeu stratégique ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-les-risques-lies-aux-fournisseurs-simposent-comme-un-enjeu-strategique-majeur-pour-les-entreprises.MHBLBTKD6BGTRGVAAZTIQPLSDM.html)  
+*Source : usine-digitale.fr | Publication : 2026-02-13*
+
+- Le NIS Cooperation Group vient de publier un cadre sur la sécurité de la chaîne d'approvisionnement, complété par deux analyses de risques.
+
+## [Florian Schütz à la Conférence de Munich sur la <b>cybersécurité</b> - Ncsc.admin.ch](https://www.ncsc.admin.ch/ncsc/fr/home/aktuell/im-fokus/2026/muenchner-cybersicherheitskonferenz-26.html)  
+*Source : ncsc.admin.ch | Publication : 2026-02-13*
+
+- 13.02.2026 - À l’occasion de la Conférence de Munich sur la cybersécurité (MCSC) et de la Conférence de Munich sur la sécurité (MSC), Florian Schütz, directeur de l’Office fédéral de la cybersécurité (OFCS), a participé à plusieurs réunions et tables rondes internationales de haut rang.
+- Les questions stratégiques liées à la cybersécurité et le renforcement de la coopération internationale ont été au cœur des discussions.
+- La MCSC est un forum international consacré à la cybersécurité.
+- La conférence, qui a lieu en amont de la MSC, rassemble des représentants et représentantes des autorités, de l’économie et du monde scientifique, et sert de plateforme d’échange sur les défis actuels, les évolutions stratégiques et les possibilités de coopération dans le domaine cyber.
+
+## [Suisse : les cyberattaques ont baissé de 11% en janvier - Organisateur - Organisator](https://www.organisator.ch/fr/excellence-operationnelle/2026-02-13/schweiz-cyber-angriffe-im-januar-um-elf-prozent-gesunken/)  
+*Source : organisator.ch | Publication : 2026-02-13*
+
+- Suisse : les cyberattaques ont baissé de 11% en janvier Check Point Research enregistre pour la Suisse une baisse de 11 % des cyberattaques en janvier 2026, soit 1093 attaques hebdomadaires par entreprise.
+- En revanche, l'Europe a connu une hausse de 18 %.
+- Les secteurs de l'énergie et de l'approvisionnement, de l'administration publique et des biens de consommation et services ont été particulièrement touchés dans notre pays.
+- Check Point Research, le département de recherche en sécurité de Check Point Software Technologies, a publié son rapport mensuel sur les cybermenaces pour janvier 2026.
+
+## [Loin de la Silicon Valley, New York nouvelle place forte de la tech - France 24](https://www.france24.com/fr/info-en-continu/20260213-loin-de-la-silicon-valley-new-york-nouvelle-place-forte-de-la-tech)  
+*Source : france24.com | Publication : 2026-02-13*
+
+- Loin de la Silicon Valley, New York nouvelle place forte de la tech New York (AFP) – Elle pèse plus de 200.000 emplois et a investi des quartiers entiers: à New York, l'industrie de la tech pèse dans le dynamisme économique local comme jamais, mais accentue aussi marginalement le trait d'une ville à deux vitesses.
+- Publié le : Ian Amit se souvient de son installation à New York il y a 25 ans.
+- A l'époque, "on aurait probablement pu compter le nombre de start-up (technologiques) sur les doigts des deux mains", explique le patron de la société de cybersécurité Gomboc.ai.
+- Un quart de siècle plus tard, l'organisation professionnelle Tech:NYC en recense plus de 2.000.
+
+## [Cyberhebdo du 13 février 2026 : une solution de traitement des paiements paralysée](https://www.lemagit.fr/actualites/366639031/Cyberhebdo-du-13-fevrier-2026)  
+*Source : lemagit.fr | Publication : 2026-02-13*
+
+- Cyberhebdo du 13 février 2026 : une solution de traitement des paiements paralysée Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- La semaine écoulée a une nouvelle fois mis en lumière la persistance et la diversité des menaces cyber à l’échelle internationale.
+- Au total, ce sont six cyberattaques majeures qui ont été rapportées dans les médias, touchant cinq pays différents : l’Italie (ITA), les États-Unis (USA), les Îles Vierges (VIR), les Pays-Bas (NLD) et la France (FRA).
+- Les États-Unis se distinguent comme le pays le plus ciblé, avec trois incidents recensés sur leur territoire.
+
+## [Support à distance : une faille critique dans BeyondTrust désormais exploitée - LeMagIT](https://www.lemagit.fr/actualites/366639008/Support-a-distance-une-faille-critique-dans-BeyondTrust-desormais-exploitee)  
+*Source : lemagit.fr | Publication : 2026-02-13*
+
+- nnattalli - stock.adobe.com Support à distance : une faille critique dans BeyondTrust désormais exploitée Les outils de support à distance BeyondTrust font l’objet d’une vulnérabilité critique, connue publiquement depuis une semaine.
+- Elle apparaît aujourd’hui activement exploitée.
+- C’est le 6 février que BeyondTrust a levé le voile sur la vulnérabilité référencée CVE-2026-1731.
+- Selon l’éditeur, « BeyondTrust Remote Support (RS) et certaines versions antérieures de Privileged Remote Access (PRA) contiennent une vulnérabilité critique d’exécution de code à distance avant authentification ».
+
+## [Ready For IT du 2 au 4 juin 2026 - Solutions-Numeriques](https://www.solutions-numeriques.com/agenda/ready-for-it-du-2-au-4-juin-2026/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-13*
+
+- Organisé chaque année à Monaco, Ready For IT est le rendez-vous business qui fait converger les décideurs IT et les offreurs de solutions engagés dans la transformation des entreprises.
+- Depuis 7 ans, l’événement s’impose comme un format One to One unique, pensé pour accélérer les projets de modernisation, de cybersécurité et de mutation digitale des organisations.
+- Ready For IT réunit des décideurs IT porteurs de projets et les offreurs de solutions capables d’y répondre, dans un cadre privilégié où chaque échange compte.
+- Rendez-vous ciblés et planifiés, programme de contenus dédié aux enjeux métiers, retours d’expérience concrets et temps forts entre pairs : tout est conçu pour connecter les bonnes expertises au bon moment et donner de l’élan aux transformations IT.
 
 ## [Chambly et ses voisines unies contre la <b>cybercriminalité</b> - L'Écho du Thelle](https://www.lechoduthelle.fr/chambly-et-ses-voisines-unies-contre-la-cybercriminalite-fevrier-2026/)  
 *Source : lechoduthelle.fr | Publication : 2026-02-12*
