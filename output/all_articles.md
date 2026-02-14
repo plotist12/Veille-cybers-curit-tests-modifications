@@ -1,5 +1,146 @@
-# Résumés – 2026-02-13
+# Résumés – 2026-02-14
 
+
+## [Et si l'Europe tenait Trump par les puces ? - Clubic](https://www.clubic.com/dossier-600514-et-si-l-europe-tenait-trump-par-les-puces.html)  
+*Source : clubic.com | Publication : 2026-02-14*
+
+- "Et si Trump nous coupait des services américains", cela ne vous a pas échappé, c'est la tendance du moment.
+- Mais ce scénario catastrophe tient-il vraiment la route ?.
+- Et surtout, que se passerait-il si la situation était inversée ?.
+- Offre partenaire Protection avancée des e-mails, des calendriers, des mots de passe, du réseau… de votre entreprise grâce à la suite d'applications professionnelles sécurisées.
+
+## [<b>Cybersécurité</b> en voyage : NordVPN ou ProtonVPN ? Se protéger sans perdre le fil - Futura](https://www.futura-sciences.com/conso/guides-achat/guides-vpn-cybersecurite-voyage-nordvpn-protonvpn-proteger-perdre-fil-1128/)  
+*Source : futura-sciences.com | Publication : 2026-02-14*
+
+- Les atouts de NordVPN : la voie rapide, même loin de chez soi Il y a une raison pour laquelle NordVPN revient si souvent dans les discussions entre voyageurs.
+- L’outil se fait oublier.
+- On l’installe, on appuie sur un bouton, et le reste n’est plus une préoccupation.
+- C’est cette forme d’évidence qui plaît : la connexion reste stable, les serveurs répondent partout et la navigation garde un rythme confortable, même dans un hôtel bondé ou un aéroport saturé.
+
+## [Le DGSN reçoit une délégation policière de haut niveau de la République fédérale de Somalie](https://www.aps.dz/fr/algerie/actualite-nationale/mlmn3ivz-le-dgsn-recoit-une-delegation-policiere-de-haut-niveau-de-la-republique-federale-de-somalie)  
+*Source : aps.dz | Publication : 2026-02-14*
+
+- Le DGSN reçoit une délégation policière de haut niveau de la République fédérale de Somalie samedi 14 février 2026 19:34 ALGER- Le Directeur général de la Sûreté nationale (DGSN), M. Ali Badaoui, a reçu, samedi à Alger, une délégation de haut niveau de la République fédérale de Somalie, conduite par M. le général de brigade Asad Osman Abdullahi, Commandant en chef des forces de police somalienne, dans le cadre du renforcement de la coopération policière algéro-somalienne.
+- Articles connexes.
+
+## [Pourquoi un VPN ne suffit pas toujours à masquer votre adresse IP - Clubic](https://www.clubic.com/actualite-600523-pourquoi-un-vpn-ne-suffit-pas-toujours-a-masquer-votre-adresse-ip.html)  
+*Source : clubic.com | Publication : 2026-02-14*
+
+- On croit être couvert, et pourtant.
+- Votre VPN est bien activé, votre adresse IPv4 a changé, les tests vous donnent le feu vert.
+- Mais en arrière-plan, l’IPv6 continue parfois de faire sa vie en dehors du tunnel sécurisé si le client ne s’en occupe pas correctement.
+- Un écueil plus fréquent qu’on ne le pense.
+
+## [Tech et justice : le Maroc, invité d'honneur du Digital Summit 2026 à Madrid - Telquel.ma](https://telquel.ma/instant-t/2026/02/14/tech-et-justice-le-maroc-invite-dhonneur-du-digital-summit-2026-a-madrid_1975373/)  
+*Source : telquel.ma | Publication : 2026-02-14*
+
+- Les débats lors de ce sommet porteront notamment sur la gouvernance technologique, la régulation de l'écosystème digital, la cybersécurité ainsi que.
+
+## [IT Partners 2026 confirme sa montée en puissance à Paris La Défense Arena - ITRnews](https://itrnews.com/articles/208817/it-partners-2026-confirme-sa-montee-en-puissance-a-paris-la-defense-arena.html)  
+*Source : itrnews.com | Publication : 2026-02-14*
+
+- Veuillez activer Javascript.
+
+## [Cette extension Chrome enregistre vos conversations IA, et vous n'êtes pas au courant](https://www.journaldugeek.com/2026/02/14/cette-extension-chrome-enregistre-vos-conversations-ia-et-vous-netes-pas-au-courant/)  
+*Source : journaldugeek.com | Publication : 2026-02-14*
+
+- Si les VPN promettent de protéger la confidentialité des internautes, certains font exactement l’inverse.
+- Une enquête de la société de cybersécurité KOI a montré comment plusieurs extensions de navigateur (téléchargées plus de 8 millions de fois) ont transformé la promesse de sécurité en immense opération de collecte de données personnelles.
+- Vos conversations avec des IA enregistrées Urban VPN Proxy, sorte de VPN gratuit au travers d’une extension, affichait tous les signes de respectabilité : six millions d’utilisateurs sur Chrome, une note de 4,7 étoiles, le badge “À la une” et une promesse alléchante de protection gratuite.
+- Derrière cette façade se cachait pourtant un dispositif de surveillance d’une sophistication redoutable.
+
+## [Cyberattaques chinoises et Gemini : Google s'attend à un « coup dur » - 01net.com](https://www.01net.com/actualites/cyberattaques-chinoises-gemini-google-sattend-coup-dur.html)  
+*Source : 01net.com | Publication : 2026-02-14*
+
+- Depuis quelques années, un gang de pirates chinois, connu sous le nom de Violet Typhoon, Zirconium ou encore Judgment Panda, multiplie les opérations d’espionnage à l’encontre des nations occidentales.
+- Mandaté par la Chine, le groupuscule s’est fait remarquer en piratant la commission électorale britannique, les systèmes de gestion des eaux américains ou encore Microsoft.
+- En exploitant des failles au sein de Sharepoint, les hackers chinois ont pu compromettre des dizaines de milliers de serveurs appartenant à des centaines d’entreprises.
+- En mars 2024, les États‑Unis imposent des sanctions et engagent des poursuites pénales contre sept membres du gang.
+
+## [« Nous ne sommes plus dans la théorie, les risques d'une attaque à travers l'IA sont bien ...](https://www.latribune.fr/article/tech/3738506754763714/nous-ne-sommes-plus-dans-la-theorie-les-risques-d-une-attaque-a-travers-l-ia-sont-bien-reels-entretien-avec-le-pdg-de-check-point)  
+*Source : latribune.fr | Publication : 2026-02-14*
+
+- Le géant de la cybersécurité Check Point poursuit son shopping.
+- Le groupe vient d’annoncer, simultanément à la publication de ses résultats annuels, le rachat de trois start-ups israéliennes, Cyclops, Cyata et l’équipe de Rotate, pour un montant total estimé à 150 millions de dollars d’après les médias locaux.
+- Ces transactions s’inscrivent dans la continuité de l’acquisition de Lakera AI, finalisée au quatrième trimestre 2025 pour 190 millions de dollars.
+- Avec l’explosion des modèles de langage et des agents IA autonomes, les entreprises font face à une refonte complète de leur surface d’attaque.
+
+## [Avis Moonlock : un antivirus macOS prometteur, encore en quête d'équilibre - Clubic](https://www.clubic.com/avis-599470-avis-moonlock-un-antivirus-macos-prometteur-encore-en-quete-d-equilibre.html)  
+*Source : clubic.com | Publication : 2026-02-14*
+
+- Avec Moonlock, MacPaw, connu pour CleanMyMac et son obsession du Mac bien rangé, s’aventure sur un terrain qu’il n’avait encore jamais exploré.
+- Officiellement lancé en octobre 2025, le logiciel introduit, pour la première fois chez l’éditeur ukrainien, une protection antivirus en temps réel spécialement pensée pour l’OS d’Apple.
+- Moonlock se présente comme un antivirus conçu nativement pour macOS, et non simplement compatible, positionné quelque part entre les protections intégrées d’Apple et les suites de sécurité multiplateformes, souvent plus lourdes et d’abord pensées pour Windows.
+- Il repose sur un moteur de détection maison, le Moonlock Engine, déjà intégré en partie à CleanMyMac X, embarque quelques fonctionnalités additionnelles, comme un VPN et un module de protection du système destiné à renforcer les réglages de sécurité du Mac, et, à défaut de proposer un antivirus gratuit, offre une période d'essai de 7 jours contre présentation d'un moyen de paiement.
+
+## [En images : solidarité, <b>cybersécurité</b>, orientation et mémoire foraine - Puissance Télévision](https://www.puissancetelevision.fr/vie-locale/en-images-solidarite-cybersecurite-orientation-et-memoire-foraine/)  
+*Source : puissancetelevision.fr | Publication : 2026-02-14*
+
+- Puissance Télévision vous propose de (re)voir en images les actualités marquantes de la semaine.
+- Handi’Chiens recherche des familles d’accueil L’association Handi’Chiens lance un appel en Haute-Marne pour recruter de nouvelles familles d’accueil.
+- Leur mission : accueillir des chiots dès l’âge de deux mois pendant environ un an afin de participer à leur socialisation.
+- Cette étape est essentielle avant l’entrée des animaux en formation spécialisée.
+
+## [Le Québec souhaite la souveraineté numérique - TVA Gatineau](https://tvagatineau.ca/le-quebec-souhaite-la-souverainete-numerique/)  
+*Source : tvagatineau.ca | Publication : 2026-02-14*
+
+- Le Québec souhaite la souveraineté numérique Camille Turgeon | 13 février 2026 Le ministre de la Cybersécurité et du Numérique, M. Gilles Bélanger, a présenté l’Énoncé de politique de souveraineté numérique et d’approvisionnement en technologie de l’information (Énoncé), qui a pour but de protéger les données sensibles des Québécoises et des Québécois.
+- L’Énoncé vise à renforcer l’autonomie numérique de l’État tout en maximisant les retombées économiques de ses investissements en technologies de l’information.
+- C’est un premier levier concret pour soutenir la vision pour accroître la souveraineté numérique du Québec.
+- Le contexte mondial est marqué par une transformation numérique accélérée et une dépendance croissante envers des fournisseurs technologiques étrangers.
+
+## [Numérique : à Dijon, l'école Coda s'installera dans l'ancien siège régional de la Caisse d'Epargne](https://www.lesechos.fr/pme-regions/bourgogne-franche-comte/numerique-a-dijon-lecole-coda-sinstallera-dans-lancien-siege-regional-de-la-caisse-depargne-2215897)  
+*Source : lesechos.fr | Publication : 2026-02-14*
+
+- Elle vise 150 élèves et 300 à terme pour former les spécialistes d'IA, de data ou de cybersécurité dont les entreprises locales ont besoin.
+
+## [Le Québec se dote d'une vision forte pour sa souveraineté numérique](https://coalitionavenirquebec.org/fr/blog/2026/02/13/le-quebec-se-dote-dune-vision-forte-pour-sa-souverainete-numerique/)  
+*Source : coalitionavenirquebec.org | Publication : 2026-02-14*
+
+- Le Québec se dote d’une vision forte pour sa souveraineté numérique Publié le 13 février 2026 Le gouvernement du Québec a présenté aujourd’hui sa vision pour accroître la souveraineté numérique et a annoncé la mise en œuvre d’un premier levier concret pour soutenir cette vision.
+- Invité par la chambre de commerce de Gatineau, le ministre de la Cybersécurité et du Numérique, M. Gilles Bélanger, a dévoilé les grandes lignes de l’Énoncé de politique de souveraineté numérique et d’approvisionnement en technologie de l’information (ci-après l’Énoncé), une prise de position stratégique visant à renforcer l’autonomie numérique de l’État tout en maximisant les retombées économiques de ses investissements en technologies de l’information (TI).
+- Dans un contexte mondial marqué par une transformation numérique accélérée et une dépendance croissante envers des fournisseurs technologiques étrangers, le Québec pose un jalon déterminant pour exercer un contrôle accru sur ses infrastructures, ses données, ses logiciels et ses capacités d’innovation.
+- Accroître la souveraineté numérique du Québec L’Énoncé présente un ensemble d’orientations qui guideront l’action de l’État afin d’assurer une sécurité, une autonomie et une résilience accrues dans un environnement numérique de plus en plus stratégique.
+
+## [Proofpoint acquiert Acuvity - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64471-proofpoint-acquiert-acuvity.html)  
+*Source : linformaticien.com | Publication : 2026-02-14*
+
+- Les opérations de consolidation du marché de la cybersécurité bat son plein et Proofpoint veut faire parti des consolidateurs.
+- Cette acquisition.
+
+## [Thales annonce 9 000 recrutements en 2026, dont 3 300 en France - Aerocontact.com](https://www.aerocontact.com/actualite-aeronautique-spatiale/100218-thales-annonce-9-000-recrutements-en-2026-dont-3-300-en-france)  
+*Source : aerocontact.com | Publication : 2026-02-14*
+
+- Le 11 février dernier, Thales, leader mondial des hautes technologies dans la défense, l'aérospatial et la cybersécurité , a annoncé une vaste.
+
+## [Inotiv révèle une violation de <b>cybersécurité</b> affectant des données personnelles](https://fr.investing.com/news/company-news/inotiv-revele-une-violation-de-cybersecurite-affectant-des-donnees-personnelles-93CH-3272338)  
+*Source : fr.investing.com | Publication : 2026-02-14*
+
+- (NASDAQ:NOTV), une organisation de recherche contractuelle spécialisée dans les services de développement de médicaments non cliniques, a révélé.
+
+## [Deloitte et HEC innovent pour l'intelligence artificielle de demain](https://www.deloitte.com/fr/fr/what-we-do/deloitte-hec-chaire-ai-for-business-innovation)  
+*Source : deloitte.com | Publication : 2026-02-14*
+
+- Deloitte et HEC Paris unissent leurs expertises autour de la chaire AI for Business Innovation Alors que l’Union européenne met progressivement en œuvre le règlement sur l’intelligence artificielle (AI Act) et que le Bureau européen de l’IA devient opérationnel, la confiance, la performance et la gouvernance des systèmes d’IA s’imposent comme des enjeux stratégiques majeurs pour toutes les organisations.
+- Dans ce contexte, Deloitte France et Afrique francophone et HEC Paris renforcent leur collaboration autour de projets de recherche et d’expérimentation dédiés à l’IA, avec un objectif commun : développer des approches concrètes pour concevoir, déployer et piloter des modèles d’IA à la fois performants, responsables et auditables au sein des entreprises.
+- En rapprochant recherche académique et pratique opérationnelle, les équipes conjointes travaillent sur des cas d’usage concrets, afin de mieux comprendre comment renforcer la fiabilité, la transparence et l’équité des modèles d’IA, sans compromis sur leur efficacité business.
+- Cette démarche vise à accélérer une adoption de l’IA qui crée de la valeur, soutient la compétitivité et contribue à une innovation durable.
+
+## [Actualités de l'Urgence - APM / Société Française de Médecine d'Urgence - SFMU](https://www.sfmu.org/fr/actualites/actualites-de-l-urgences/cybersecurite-un-complement-de-financement-pour-les-centres-d-apos-alternative-a-la-dialyse-et-le-ght-iles-du-nord/new_id/70978)  
+*Source : sfmu.org | Publication : 2026-02-14*
+
+- Actualités de l'Urgence - APM 13/02 2026 Retour.
+- Informations professionnelles.
+- - Agenda - Annonces de postes - Annuaire de l'urgence - Audits - Calculateurs - Cas cliniques -.
+- - Cochrane PEC -.
+
+## [Samsung annonce la première livraison commerciale de mémoire HBM4 - it social](https://itsocial.fr/cloud-infrastructure-it/cloud-infrastructure-it-actualites/samsung-annonce-la-premiere-livraison-commerciale-de-memoire-hbm4/)  
+*Source : itsocial.fr | Publication : 2026-02-13*
+
+- Samsung annonce la première livraison commerciale de mémoire HBM4 à un client, confirmant l’entrée en production d’une génération conçue pour les accélérateurs d’intelligence artificielle à très haute intensité de calcul.
+- Cette évolution place la bande passante mémoire au centre de la performance des infrastructures IA et modifie l’architecture des serveurs spécialisés.
+- Cette première livraison intervient dans un contexte de forte demande pour les accélérateurs dédiés à l’entraînement et à l’inférence de modèles de grande taille.
+- Les processeurs graphiques et les circuits spécialisés intègrent désormais des dizaines de milliers de cœurs capables d’exécuter simultanément des opérations matricielles massives.
 
 ## [Souveraineté numérique | Québec veut renforcer son indépendance numérique - LaPresse.ca](https://www.lapresse.ca/affaires/techno/2026-02-13/souverainete-numerique/quebec-veut-renforcer-son-independance-numerique.php)  
 *Source : lapresse.ca | Publication : 2026-02-13*
