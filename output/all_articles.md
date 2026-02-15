@@ -1,5 +1,155 @@
-# Résumés – 2026-02-14
+# Résumés – 2026-02-15
 
+
+## [<b>Cybersécurité</b> : les 11 actualités majeures du 15 fév 2026](https://dcod.ch/2026/02/15/cybersecurite-les-11-actualites-majeures-du-15-fev-2026/)  
+*Source : dcod.ch | Publication : 2026-02-15*
+
+- Faits marquants de la semaine L’Union européenne assume de plus en plus ouvertement le principe d’opérations offensives dans le cyberespace, avec une Commission qui plaide pour des capacités de « riposte numérique » et pour une réduction des dépendances technologiques au profit d’une filière cyber industrielle européenne.
+- - L’Allemagne prépare un cadre légal permettant à l’armée et aux services de renseignement de mener des opérations contre des pirates étrangers, y compris à l’étranger, après des attaques attribuées à la Russie, tout en engageant une délicate révision constitutionnelle.
+- - Une cyberattaque coordonnée contre l’infrastructure énergétique polonaise en décembre 2025 a conduit les agences de cybersécurité britannique et américaine à diffuser des avertissements urgents à l’ensemble des opérateurs d’infrastructures critiques de part et d’autre de l’Atlantique.
+- - Les autorités russes tentent de bloquer WhatsApp et Telegram, intensifiant une stratégie de contrôle des plateformes de communication qui échappent à leur emprise directe sur le territoire national.
+
+## [Télécharger présentation du webinaire du G2IA dédié à la <b>cybersécurité</b>](https://www.armenews.com/telecharger-presentation-du-webinaire-du-g2ia-dedie-a-la-cybersecurite/)  
+*Source : armenews.com | Publication : 2026-02-15*
+
+- – par ©armenews.com Pour télécharger la présentation du 5 février ou directement le PDF : CCIFA_Cyber_5Feb2026 Votre panier est actuellement vide !.
+
+## [Une cyberattaque paralyse la station CHOC FM dans Portneuf - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2229291/choc-fm-cyberattaque-radio-station)  
+*Source : ici.radio-canada.ca | Publication : 2026-02-15*
+
+- Une cyberattaque paralyse la station CHOC FM dans Portneuf D'autres stations de radio régionales au Québec ont été victimes de cyberattaques au cours des derniers mois.
+- CHOC FM 88,7 a été lancée en septembre 2020.
+- (Photo d'archives) Photo : iStock Une cyberattaque paralyse depuis samedi la station de radio CHOC FM 88,7, située à Portneuf.
+- Les systèmes informatiques de la station sont inutilisables depuis samedi soir.
+
+## [Premier exercice sectoriel de simulation de cyberattaques et cyber Hackathon | Algérie ...](https://www.aps.dz/fr/algerie/education-et-technologie/mlo5rrv1-premier-exercice-sectoriel-de-simulation-de-cyberattaques-et-cyber-hackathon)  
+*Source : aps.dz | Publication : 2026-02-15*
+
+- Télécommunications Premier exercice sectoriel de simulation de cyberattaques et cyber Hackathon dimanche 15 février 2026 20:48 ALGER - Le ministère de la Poste et des Télécommunications a organisé le premier exercice sectoriel de simulation de cyberattaques et cyber Hackathon, dans le cadre du renforcement de la préparation des institutions nationales face aux cybermenaces, indique dimanche un communiqué du ministère.
+- Articles connexes.
+
+## [<b>Cybersécurité</b> : Renforcer un rempart déjà forgé - La Presse de Tunisie](https://www.lapresse.tn/2026/02/15/cybersecurite-renforcer-un-rempart-deja-forge/)  
+*Source : lapresse.tn | Publication : 2026-02-15*
+
+- A l’ère du tout numérique et de l’intelligence artificielle, les cybermenaces se multiplient et se sophistiquent.
+- Face à cette réalité, la Tunisie capitalise sur son expertise et sur un dispositif national pionnier pour renforcer son bouclier contre la cybercriminalité.
+- La Presse — Les enjeux de la cybersécurité ont été au centre des débats lors de la rencontre organisée récemment par l’Organisation nationale des entrepreneurs (ONE), sous le thème « La souveraineté numérique entre sécurité et durabilité des institutions ».
+- Cette journée, qui a rassemblé des experts, des représentants de différents ministères et des acteurs économiques, a été l’occasion de clarifier ce concept, mais aussi de proposer des recommandations visant à renforcer l’arsenal réglementaire régissant ce secteur.
+
+## [comment des militaires européens et américains ont pu être identifiés et localisés grâce à ... - BFM](https://www.bfmtv.com/tech/cybersecurite/une-menace-directe-pour-la-securite-nationale-comment-des-militaires-europeens-et-americains-ont-pu-etre-identifies-et-localises-grace-a-leurs-profils-sur-tinder_AN-202602150309.html)  
+*Source : bfmtv.com | Publication : 2026-02-15*
+
+- "Une menace directe pour la sécurité nationale": comment des militaires européens et américains ont pu être identifiés et localisés grâce à leurs profils sur Tinder Swiper à droite ou liker un profil peut parfois mettre en danger la sécurité nationale d'un pays.
+- Une enquête de décembre 2024 du média d’investigation Follow the Money (FTM) révèle que l'identité et la position de centaines de militaires européens et américains ont pu être identifiés... grâce à leurs profils Tinder.
+- Le tout, sans qu’ils en aient conscience.
+- Les journalistes néerlandais ont tenté l'expérience.
+
+## [Tablette windows 11 professionnelle : la polyvalence haute performance pour remplacer le ...](https://www.carnetdebord.info/tablette-windows-11-professionnelle-la-polyvalence-haute-performance-pour-remplacer-le-pc-portable/)  
+*Source : carnetdebord.info | Publication : 2026-02-15*
+
+- Oublie tout ce que tu croyais savoir sur les tablettes windows 11 professionnelles.
+- Leur arrivée bouscule complètement le marché.
+- Tu veux une compatibilité logicielle x86, un ssd nvme ultra-rapide et une vraie alternative au pc portable ?.
+- Bonne nouvelle, ces machines n’ont plus à rougir face aux portables classiques.
+
+## [150 000 smartphones Android pistés : ces 3 apps du Play Store exposent votre position sur Internet](https://www.01net.com/actualites/150-000-smartphones-android-pistes-3-apps-play-store-vous-suivent-trace.html)  
+*Source : 01net.com | Publication : 2026-02-15*
+
+- Une enquête réalisée par Cybernews révèle que trois applications Android, disponibles sur le Google Play Store, ont exposé les données de leurs utilisateurs.
+- Les applications ont été téléchargées plus de 2 millions de fois sur la plateforme.
+- Selon les chercheurs, elles ont exposé les données de plus de 150 000 utilisateurs d’un smartphone Android.
+- Comme l’explique Cybernews, les trois apps proposent des fonctionnalités d’IA.
+
+## [Fuite de données en France : 40,3 millions de comptes français piratés en 2025, le ...](https://www.01net.com/actualites/fuite-de-donnees-en-france-403-millions-de-comptes-francais-pirates-en-2025-le-cauchemar-continue.html)  
+*Source : 01net.com | Publication : 2026-02-15*
+
+- La société Surfshark vient de nous communiquer son tout nouveau bilan des fuites de données en France.
+- Ce nouveau tour d’horizon complet concerne toutes les cyberattaques avec violations de données survenues lors du dernier trimestre de l’année dernière.
+- C’est aussi et surtout l’occasion de faire le total de toutes les fuites de données de l’année écoulée.
+- En 2025, 425,7 millions de comptes ont été piratés dans le monde.
+
+## [Emails d'hameçonnage, faux enregistrements audios, vidéos truquées... Comment l'IA ... - CNews](https://www.cnews.fr/monde/2026-02-15/emails-dhameconnage-faux-enregistrements-audios-videos-truquees-comment-lia)  
+*Source : cnews.fr | Publication : 2026-02-15*
+
+- Pour se renforcer, Interpol travaille également en collaboration avec des entreprises privées des secteurs de la finance, de la cybersécurité et de l'.
+
+## [<b>Cybermenace</b> Accrue sur Israël : Un Rapport Confidentiel Révèle une Escalade de 20%](https://www1.alliancefr.com/actualites/cybermenace-accrue-sur-israel-un-rapport-confidentiel-revele-une-escalade-de-20-6131447)  
+*Source : www1.alliancefr.com | Publication : 2026-02-15*
+
+- Cybermenace Accrue sur Israël : Un Rapport Confidentiel Révèle une Escalade de 20% des Attaques sur les Infrastructures Vitales Un rapport confidentiel explosif, dont des extraits ont été divulgués au journal Haaretz aujourd'hui, jette une lumière crue sur une augmentation alarmante des cyberattaques visant les infrastructures critiques d'Israël.
+- Au cours du dernier trimestre, le pays a enregistré une hausse de 20% des tentatives d'intrusion et de sabotage numérique contre ses systèmes essentiels – l'énergie, l'approvisionnement en eau, et les réseaux de communication.
+- L'Ombre de la Guerre Numérique Cette fuite intervient dans un climat de tension latente, où la guerre se déplace de plus en plus vers le champ de bataille numérique.
+- Si les autorités n'ont confirmé aucune brèche majeure ayant entraîné des perturbations publiques significatives, l'ombre du doute plane sur l'étendue réelle des dégâts et la capacité du pays à contenir cette menace silencieuse.
+
+## [Les Champions de la croissance dans l'informatique, le digital et le high-tech - Les Echos](https://www.lesechos.fr/weekend/business-story/les-champions-de-la-croissance-dans-linformatique-le-digital-et-le-high-tech-2216011)  
+*Source : lesechos.fr | Publication : 2026-02-15*
+
+- Créé en 2021, ce cabinet de conseil spécialisé en cybersécurité parisien ... cybersécurité depuis 2022 ».
+- A la seconde place, Seven Portage.
+
+## [IIM Digital School lance un Mastère IA &amp; <b>Cybersécurité</b> - Defense-92.fr](https://www.defense-92.fr/formation/iim-digital-school-lance-un-mastere-ia-cybersecurite-86493)  
+*Source : defense-92.fr | Publication : 2026-02-15*
+
+- L’IIM Digital School du Pôle Léonard de Vinci annonce l’ouverture d’un Mastère IA & Cybersécurité.
+- Proposé en alternance sur deux ans, ce cursus s’adresse aux titulaires d’un diplôme Bac+3 en informatique, développement, data science, cybersécurité ou disciplines connexes.
+- La formation sera dispensée sur les campus de La Défense et de Nantes.
+- L’objectif affiché est de former des professionnels capables de concevoir, sécuriser et auditer des systèmes intégrant des technologies d’intelligence artificielle, tout en maîtrisant les enjeux de cybersécurité.
+
+## [Fuites de données en série : le pire n'est plus le piratage… mais ce qui arrive après - Futura](https://www.futura-sciences.com/tech/actualites/cybersecurite-fuites-donnees-serie-pire-nest-plus-piratage-mais-ce-arrive-apres-131292/)  
+*Source : futura-sciences.com | Publication : 2026-02-15*
+
+- Vos données personnelles ont fuité sur le dark Web.
+- Ce n'est plus une question, mais une certitude.
+- Les vols de données par des individus malveillants sont devenus quotidiens, avec de multiples incidents tous les jours rien qu'en France.
+- Pour se rendre compte de l'ampleur du phénomène, il suffit de regarder sur le site bonjourlafuite.eu.org qui recense les incidents.
+
+## [Quand la peur d'une IA autonome fait perdre la raison - Atlantico.fr](https://atlantico.fr/article/decryptage/quand-la-peur-ia-autonome-fait-perdre-la-raison-moltbook-conscience-intelligence-artificielle-dangers-risques-nouvelles-technologies-innovation-cybersecurite-Benoit-Grunemwald)  
+*Source : atlantico.fr | Publication : 2026-02-15*
+
+- 15 février 2026 Quand la peur d’une IA autonome fait perdre la raison Avec Moltbook et l’émergence de plateformes où des agents artificiels interagissent, débattent et même “embauchent” des humains, la frontière entre expérimentation technologique et fantasme d’autonomie machinique semble vaciller.
+- Derrière la fascination pour ces IA qui simulent émotions et conscience, se dessine surtout une inquiétude collective : et si nos projections sur la machine nous faisaient perdre de vue sa réalité technique ?.
+- Entre emballement médiatique et enjeux bien réels de cybersécurité, la peur d’une IA autonome révèle peut-être davantage nos angoisses que les capacités véritables des systèmes actuels.
+- 3 min de lecture Benoît Grunenwald est expert en cybersécurité chez ESET.
+
+## [Comment les VPN évoluent pour offrir une protection renforcée contre les menaces en ligne](https://www.phonandroid.com/comment-vpn-evoluent-protection-renforcee-menaces-ligne.html)  
+*Source : phonandroid.com | Publication : 2026-02-15*
+
+- Comment les VPN évoluent pour offrir une protection renforcée contre les menaces en ligne Ces dernières années, les VPN ont évolué bien au-delà de leurs fonctionnalités d’origine, face aux nombreux défis liés à la sécurité en ligne.
+- Comment deviennent-ils des alliés de poids pour la cybersécurité des internautes ?.
+- De nombreux utilisateurs font leur première expérience des VPN parce qu’ils souhaitent rester anonymes en ligne ou contourner des restrictions de contenus basées sur la géolocalisation.
+- Grâce au chiffrement, les VPN sont aussi largement utilisés pour protéger les données de navigation lors de leur transmission en ligne ou via des WiFi publics.
+
+## [Municipales : l'ancien maire de Lanvallay figure sur la liste d'opposition 'Lanvallay Cap sur l'Avenir'](https://actu.fr/bretagne/lanvallay_22118/municipales-lancien-maire-de-lanvallay-figure-sur-la-liste-dopposition-lanvallay-cap-sur-lavenir_63844445.html)  
+*Source : actu.fr | Publication : 2026-02-15*
+
+- À Lanvallay (Côtes-d’Armor), la liste ‘Lanvallay Cap sur l’Avenir’ fait partie des rares listes menées par des binômes dans le pays de Dinan.
+- Âgés de 18 à 78 ans, les candidats sont issus d’horizons variés.
+- Le cadet, de 18 ans, Léopold le Guerneve, est étudiant en cybersécurité.
+- Quant au membre le plus âgé de cette liste, il est autre que Jean-Yves Delarocheaulion, l’ancien maire de Lanvallay (entre 1995 et 2014 où il a été battu par Bruno Ricard, le maire actuel).
+
+## [Supply Chain : L'UE déploie sa boîte à outils contre les ingérences - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/02/15/supply-chain-ue-boite-a-outils/)  
+*Source : dcod.ch | Publication : 2026-02-15*
+
+- TL;DR : L’essentiel Le NIS Cooperation Group publie une boîte à outils et deux rapports d’évaluation des risques cyber.
+- Ces documents stratégiques harmonisent la protection des infrastructures critiques européennes face aux ingérences étrangères.
+- - La boîte à outils définit un cadre structuré pour sécuriser les chaînes d’approvisionnement numériques.
+- Elle incite les États membres à diversifier leurs fournisseurs et à restreindre les acteurs technologiques jugés trop risqués.
+
+## [Pékin veut retenir les cybercondamnés jusqu'à trois ans - ZATAZ](https://www.zataz.com/pekin-veut-retenir-les-cybercondamnes-jusqua-trois-ans/)  
+*Source : zataz.com | Publication : 2026-02-15*
+
+- Pékin veut retenir les cybercondamnés jusqu’à trois ans La Chine remanie son arsenal cyber : une nouvelle loi viserait les fraudeurs numériques, leurs facilitateurs et même certains contenus “fabriqués”, avec des interdictions de sortie du territoire et une portée extraterritoriale renforcée.
+- Pékin prépare un projet de loi sur la prévention et le contrôle de la cybercriminalité qui permettrait d’interdire à des cybercriminels condamnés de quitter la Chine jusqu’à trois ans après leur peine.
+- Selon le SCMP, la mesure viserait aussi les acteurs jugés « facilitateurs » : plateformes techniques, services de paiement, fournisseurs de comptes ou de recrutement, y compris s’ils affirment ignorer l’usage criminel.
+- Le texte prévoit également des dispositions contre la “diffusion de fausses nouvelles” et la publication d’informations contraires à « l’ordre public » et aux « valeurs morales » dans le but de générer du trafic ou des revenus publicitaires.
+
+## [Interpol face à l'IA, arme redoutable des cybercriminels - TradingView](https://fr.tradingview.com/news/afp:3d32959f63b66:0/)  
+*Source : fr.tradingview.com | Publication : 2026-02-15*
+
+- Interpol face à l'IA, arme redoutable des cybercriminels Emails de hameçonnage plus vrais que natures, faux enregistrements audios et vidéos truquées: l'évolution de l'IA profite aussi aux cybercriminels qui l'utilisent comme une arme de plus en plus sophistiquée, qu'Interpol s'emploie à désamorcer.
+- L'AFP a pu accéder aux locaux high-tech dédiés à la cybercriminalité de l'agence internationale de police à Singapour.
+- Ses experts y passent en revue des montagnes de données pour tenter de contrer la prochaine attaque massive au rançongiciel, ou éviter une nouvelle affaire d'usurpation d'identité.
+- "Je considère l'utilisation de l'IA comme une arme par les cybercriminels (...) comme la menace la plus importante que nous constatons", résume Neal Jetton, directeur de la division cybercriminalité d'Interpol dans la cité-Etat.
 
 ## [Et si l'Europe tenait Trump par les puces ? - Clubic](https://www.clubic.com/dossier-600514-et-si-l-europe-tenait-trump-par-les-puces.html)  
 *Source : clubic.com | Publication : 2026-02-14*
