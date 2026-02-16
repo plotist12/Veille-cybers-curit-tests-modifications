@@ -1,5 +1,159 @@
-# Résumés – 2026-02-15
+# Résumés – 2026-02-16
 
+
+## [Piratage aspirateur DJI : une faille permettait d'accéder aux caméras et plans - Numerama](https://www.numerama.com/cyberguerre/2180301-cest-vraiment-bizarre-davoir-un-micro-sur-un-aspirateur-il-bidouille-son-aspirateur-robot-et-decouvre-une-faille-geante.html)  
+*Source : numerama.com | Publication : 2026-02-16*
+
+- Il y a quelques mois, nous vous racontions l’histoire de ce développeur « un peu paranoïaque » qui avait fini par démonter son aspirateur connecté pour l’empêcher d’envoyer des informations à l’autre bout du monde.
+- Cette fois, le décor change : l’appareil n’est plus un iLife A11, mais un DJI Romo, et le protagoniste est davantage joueur que méfiant.
+- Mais, une constante demeure.
+- Les aspirateurs connectés peuvent parfois obéir à d’autres forces que celles de leur propriétaire.
+
+## [Meta - Plus d'1 publicité sur 4 en France est une arnaque, d'après les recherches de Gen](https://www.globalsecuritymag.fr/meta-plus-d-1-publicite-sur-4-en-france-est-une-arnaque-d-apres-les-recherches.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-16*
+
+- Meta - Plus d’1 publicité sur 4 en France est une arnaque, d’après les recherches de Gen février 2026 par Gen Une récente enquête de Reuters révélait qu’environ 10 % des revenus publicitaires de Meta pourraient être liés à des escroqueries.
+- De nouvelles données issues du laboratoire de recherche de Gen (Gen Threat Labs), leader mondial de la cybersécurité et maison mère des marques Norton, Avast, LifeLock, MoneyLion et bien d’autres, permettent de mesurer réellement l’ampleur du phénomène en France.
+- Sur une période de 42 jours, les chercheurs de Gen ont analysé les publicités diffusées via la bibliothèque de transparence publicitaire de Meta.
+- Voici leurs principales observations pour la France sur cette période : 4 781 445 publicités ciblaient la France, 921 604 770 impressions ont été générés.
+
+## [Deloitte retenu par l'UGAP pour le marché Conseil en finance | Presse](https://www.deloitte.com/fr/fr/about/press-room/ugap-pour-le-marche-conseil-en-finance.html)  
+*Source : deloitte.com | Publication : 2026-02-16*
+
+- Deloitte France remporte le marché conseil en finance de l’UGAP, avec un groupement d’experts pour accompagner la transformation financière des acteurs publics.
+- L’UGAP (Union des Groupements d'Achats Publics, première centrale d’achat public généraliste en France) a attribué à Deloitte France, en qualité de mandataire d’un groupement d’experts, en co-traitance avec Deloitte Société d’Avocats et Forvis Mazars, le marché de conseil en finance, dédié au conseil et à l’accompagnement des acteurs publics sur leurs enjeux financiers, budgétaires et de performance.
+- À travers ce marché, et dans un contexte d’évolution des finances publiques, Deloitte France et ses partenaires s’engagent aux côtés des acteurs publics pour faire de la transformation financière une opportunité au service des territoires, des services, des agents et des usagers, en alliant indépendance, transparence et sécurité dans chaque décision financière.
+- Ce marché débutera le 6 mars 2026, pour une durée de 3 ans, et couvre l’ensemble du territoire national, y compris les DROM-COM.
+
+## [Inde : cap vers les puces avancées, un signe fort pour la souveraineté technologique mondiale](https://www.solutions-numeriques.com/inde-cap-vers-les-puces-avancees-un-signe-fort-pour-la-souverainete-technologique-mondiale/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-16*
+
+- L’Inde annonce son ambition de produire des semiconducteurs de pointe à 2 nm, une stratégie qui dépasse le pur industrialisme pour devenir un levier de souveraineté technologique.
+- Un sujet stratégique croisé entre sécurité des chaînes critiques, compétitivité numérique et autonomie industrielle.
+- L’Inde vient de réaffirmer ses ambitions dans le domaine des semi-conducteurs en visant la fabrication de puces très avancées (jusqu’à 2 nanomètres) dans les années à venir, contre des capacités historiques limitées aux nœuds plus anciens comme le 28 nm.
+- Cette évolution s’inscrit dans le cadre de la India Semiconductor Mission 2.0, un programme gouvernemental doté d’un soutien budgétaire ambitieux et visant à faire de l’Inde un acteur majeur de la chaîne de valeur des puces, y compris dans des segments hautement stratégiques comme la conception et la fabrication avancée.
+
+## [Entreprises corses et <b>cybersécurité</b> : &quot;Une prise de conscience progresse&quot;, selon François Spella](https://www.corsematin.com/article/economie/4374039684439314/entreprises-corses-et-cybersecurite-une-prise-de-conscience-progresse-selon-francois-spella)  
+*Source : corsematin.com | Publication : 2026-02-16*
+
+- Article réservé aux abonnés Entreprises corses et cybersécurité : "Une prise de conscience progresse", selon François Spella Par Pierre Gianelli François Spella est président du Clusir Corsica et responsable de la sécurité informatique au Crédit Agricole de la Corse.
+- Benjamin Raynaud Ajaccio - Aiacciu Responsable de la sécurité informatique au Crédit Agricole de la Corse, François Spella porte également la casquette de président du Clusir Corsica, le club régional dédié aux enjeux de cybersécurité.
+- Il dresse un état des lieux du niveau de préparation des entreprises insulaires face aux cyberattaques.
+- Dans ce dossier En Corse, les petites entreprises face au défi croissant de la cybersécurité Entreprises corses et cybersécurité : "Une prise de conscience progresse", selon François Spella Comment évaluez-vous aujourd'hui le niveau de préparation des TPE et PME corses face à une cyberattaque majeure ?.
+
+## [En Corse, les petites entreprises face au défi croissant de la <b>cybersécurité</b>](https://www.corsematin.com/article/economie/4560683944409614/en-corse-les-petites-entreprises-face-au-defi-croissant-de-la-cybersecurite)  
+*Source : corsematin.com | Publication : 2026-02-16*
+
+- Article réservé aux abonnés En Corse, les petites entreprises face au défi croissant de la cybersécurité Par Pierre Gianelli Les cyberattaques visant les petites et moyennes entreprises se multiplient, faisant de la cybersécurité un enjeu stratégique de gestion.
+- Illustration Freepik Bastia - Ajaccio - Aiacciu Dans un tissu économique insulaire composé majoritairement de TPE et PME, la question n'est plus de savoir si le risque cyber existe, mais si les entreprises sont réellement en capacité d'y faire face.
+- Entre prise de conscience progressive et fragilités persistantes, le diagnostic reste contrasté.
+- Dans ce dossier En Corse, les petites entreprises face au défi croissant de la cybersécurité Entreprises corses et cybersécurité : "Une prise de conscience progresse", selon François Spella De la récente cyberattaque ayant touché le groupe Fnac-Darty aux vols de données massifs, comme celui ayant concerné jusqu'à 1,2 million d'usagers du service Pajemploi de l'Urssaf, les incidents numériques se multiplient.
+
+## [La plateforme Choisir le service public confirme un « incident de <b>cybersécurité</b> - Next.ink](https://next.ink/brief_article/la-plateforme-choisir-le-service-public-confirme-un-incident-de-cybersecurite/)  
+*Source : next.ink | Publication : 2026-02-16*
+
+- La plateforme Choisir le service public confirme un « incident de cybersécurité » 2 min Sécurité Sécurité La plateforme Choisir le service public, dédiée au recrutement dans la fonction publique, a communiqué lundi par email au sujet d'un incident de cybersécurité ayant conduit à l'exposition des données personnelles des internautes inscrits.
+- « Le mercredi 4 février 2026, un incident de cybersécurité a été détecté sur la plateforme "Choisir le Service Public".
+- Cette violation de sécurité a entraîné une divulgation non autorisée de données personnelles appartenant à l'ensemble des utilisateurs inscrits sur la plateforme.
+- », indique-t-elle dans ce message consulté par Next.
+
+## [Retard de NIS 2 : Le dispositif anti-backdoor qui cristallise l'affrontement entre la DGSI et les ...](https://www.usine-digitale.fr/cybersecurite/retard-de-nis-2-le-dispositif-anti-backdoor-qui-cristallise-laffrontement-entre-la-dgsi-et-les-parlementaires.OQR4357ALNBO7GT7KK5SFNZOPQ.html)  
+*Source : usine-digitale.fr | Publication : 2026-02-16*
+
+- Au coeur du blocage figure l'article 16 bis du projet de loi “Résilience des infrastructures critiques et renforcement de la cybersécurité ”, le texte.
+
+## [Le réseau social X brièvement en panne dans plusieurs pays - TradingView](https://fr.tradingview.com/news/afp:ec83b1da0a4be:0/)  
+*Source : fr.tradingview.com | Publication : 2026-02-16*
+
+- Le réseau social X brièvement en panne dans plusieurs pays X (ex-Twitter) a connu une panne dans plusieurs pays lundi pendant quelques heures, ont constaté des observateurs spécialisés et des journalistes de l'AFP, de nouveaux dysfonctionnements pour le réseau social propriété d'Elon Musk.
+- Le réseau a connu "des pannes au niveau international", a indiqué l'ONG de surveillance de la cybersécurité Netblocks sur un autre réseau, Mastodon.
+- Sur Downdetector, site d'agrégation de problèmes sur les réseaux et opérateurs de communication, les signalements d'utilisateurs rencontrant des problèmes ont connu un pic vers 13H30 GMT lundi.
+- Près de deux heures plus tard, le site affichait à nouveau du contenu et fonctionnait normalement, a constaté l'AFP.
+
+## [PPE3 : l'électricité, socle discret de la souveraineté numérique](https://www.solutions-numeriques.com/ppe3-lelectricite-socle-discret-de-la-souverainete-numerique/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-16*
+
+- Avec la publication de la troisième Programmation pluriannuelle de l’énergie (PPE3), le Gouvernement fixe un cap ambitieux pour 2035.
+- Derrière les chiffres énergétiques se dessine un enjeu stratégique majeur : sans électricité souveraine, pas d’IA souveraine.
+- Une dynamique énergétique taillée pour 2035 Le Gouvernement a publié la troisième Programmation pluriannuelle de l’énergie (PPE3), qui fixe la stratégie énergétique française pour 2026-2035, avec l’ambition de porter la production électrique décarbonée entre 650 et 693 TWh en 2035, contre 458 TWh en 2023.
+- Le plan prévoit également une inversion progressive du mix énergétique, avec 60 % d’énergie décarbonée dès 2030 et 70 % en 2035.
+
+## [Souveraineté : l'Anssi actualise sa doctrine en plein débat sur l'alternative open source](https://itsocial.fr/cybersecurite/cybersecurite-actualites/souverainete-lanssi-actualise-sa-doctrine-en-plein-debat-sur-lalternative-open-source/)  
+*Source : itsocial.fr | Publication : 2026-02-16*
+
+- L’Agence nationale formalise sa doctrine open source au moment où le débat sur la souveraineté numérique s’intensifie en France et en Europe.
+- Cette clarification intervient alors que certains éditeurs capitalisent sur l’image d’ouverture du logiciel libre pour positionner leurs offres comme alternatives souveraines.
+- L’Anssi introduit un cadre technique et organisationnel précis, pour structurer les pratiques publiques.
+- Le débat sur la souveraineté numérique s’est intensifié à mesure que les dépendances aux fournisseurs soumis à des réglementations extraterritoriales ont été mises en lumière.
+
+## [Cyberattaque majeure contre CHOC FM : la firme Rhesus, de Victoriaville, à la rescousse](https://monvicto.com/2026/02/16/cyberattaque-majeure-contre-choc-fm-la-firme-rhesus-de-victoriaville-a-la-rescousse/)  
+*Source : monvicto.com | Publication : 2026-02-16*
+
+- Articles récents Retour des subventions fédérales à l'achat d'un VÉ pour les Canadiens dès lundi À compter de ce lundi, les Canadiens souhaitant acheter un véhicule électrique neuf pourront de nouveau bénéficier d'une subvention du gouvernement fédéral.
+- Ottawa offrira une subvention de 5000 … Articles récents Cyberattaque majeure contre CHOC FM : la firme Rhesus, de Victoriaville, à la rescousse La firme de cybersécurité Rhesus, de Victoriaville, a été au cœur des efforts pour remettre en ondes la station de radio de la MRC de Portneuf et des MRC environnantes, CHOC FM, qui a été victime d’une cyberattaque majeure ayant entraîné la perte complète de ses fichiers audio et l’atteinte de ses systèmes informatiques internes.
+- L’incident, survenu vers 20 h samedi, a provoqué une interruption des activités de diffusion et a affecté l’ensemble de l’infrastructure numérique de la station.
+- «Tous nos systèmes informatiques ont été cryptés et on avait un fond d’écran rouge sur lequel il y avait une adresse courriel.
+
+## [Journée d'étude sur la protection des données à caractère personnel](https://www.aps.dz/fr/algerie/actualite-nationale/mlpas7gg-journee-d-etude-sur-la-protection-des-donnees-a-caractere-personnel)  
+*Source : aps.dz | Publication : 2026-02-16*
+
+- Cour d'Alger Journée d'étude sur la protection des données à caractère personnel lundi 16 février 2026 15:58 ALGER - La protection des données à caractère personnel a été le thème d'une journée d'étude, organisée, lundi à Alger par la Cour d'Alger, au cours de laquelle l'accent a été mis sur la nécessité de développer une culture juridique numérique permettant de lutter contre la cybercriminalité et de garantir les droits fondamentaux des individus.
+
+## [L'université d'Angers propose une formation continue sur la sécurité des systèmes d ... - TICsanté](https://www.ticsante.com/story?ID=8088)  
+*Source : ticsante.com | Publication : 2026-02-16*
+
+- Il s'adresse "à des professionnels qui jouent déjà un rôle clé dans le fonctionnement des établissements de santé, mais qui peuvent se sentir limités dans leur évolution de carrière", explique, sur le site de l'université, Ludovic Lecomte, son responsable pédagogique, mentionnant les "responsables risques, responsables qualité, chefs de projet informatique, DPO [délégués à la protection des données], consultants en sécurité, médecins DIM…" Son objectif est de "former des professionnels capables d'intégrer la cybersécurité comme une fonction structurante de l'établissement, au service du soin, de la gouvernance et de la résilience", et non plus comme un simple enjeu technique.
+- La formation dure 43 heures.
+- Dispensée à distance, la formation clôt ses inscriptions le 2 mars.
+- Elle est référencée au répertoire national des certifications professionnelles (RNCP).
+
+## [Assistance technique en <b>cybersécurité</b> sur la sécurité des réseaux et des systèmes de l ... - ANAC](https://anacgabon.org/assistance-technique-en-cybersecurite-sur-la-securite-des-reseaux-et-des-systemes-de-laviation-civile-au-gabon/)  
+*Source : anacgabon.org | Publication : 2026-02-16*
+
+- À la suite de la demande formulée par le Directeur Général de l’Agence Nationale de l’Aviation Civile (ANAC Gabon) lors de la 42ᵉ Assemblée de l’Organisation de l’Aviation Civile Internationale (OACI), et dans le cadre du projet du Marché Unique du Transport Aérien Africain (MUTAA), le Gabon, en tant qu’État membre du MUTAA, a été sélectionné pour bénéficier d’une mission d’assistance technique.
+- Dans ce contexte, une mission d’assistance technique en cybersécurité portant sur la sécurité des réseaux informatiques et des systèmes de l’aviation civile au Gabon se tient du 16 au 20 février 2026 à Libreville.
+- Cette mission est mise en œuvre conjointement par la Commission Africaine de l’Aviation Civile (CAFAC) et EUROCONTROL, qui pilote actuellement les efforts européens en matière de cybersécurité de l’aviation, notamment à travers son programme dédié.
+- Monsieur Patrick MANA, Représentant d’EUROCONTROL, a rappelé l’importance stratégique de la cybersécurité et souligné la nécessité impérieuse de renforcer les capacités, de développer la formation spécialisée et de favoriser le partage de compétences afin de faire face efficacement aux menaces émergentes.
+
+## [DataScientest devient Liora - Decideo](https://www.decideo.fr/DataScientest-devient-Liora_a14556.html)  
+*Source : decideo.fr | Publication : 2026-02-16*
+
+- Actualités : analyse de données, Business Intelligence, Data Science, Big Data Accueil Fiches pratiques Dossiers de synthèse Data Visualization Web analytique En bref Decideo.fr Recherche avancée Base de connaissances Communiqués Etudes de cas Opinion Actualités, Analyses Evènements Dossiers thématiques Administration.
+- Stockage Business Intelligence Data Mining Applications Analytiques Services Data Visualization Web Analytique A découvrir Agenda Glossaire / Lexique Forums Forums et débats Offres d'emploi DataScientest devient Liora Rédigé par Philippe Nieuwbourg le 16 Février 2026 Liora a pour ambition de devenir le leader européen de la formation Tech & IA et former 100 000 talents d’ici 2030 Face à l'accélération de l'intelligence artificielle et à la pénurie annoncée par Eurostat de plus de 10 millions d'experts numériques en Europe d'ici 2030, la formation aux compétences technologiques devient une priorité absolue.
+- Acteur de référence dans le développement de formations Tech, IA et Cyber depuis 8 ans avec 50 000 alumni, DataScientest change d’échelle et d’identité pour devenir Liora.
+- Cette filiale du groupe OMNES Education entend doubler son impact en formant 100 000 talents d'ici quatre ans.
+
+## [Le Premier ministre adresse ses vœux du Têt et encourage les forces de sécurité](https://lecourrier.vn/le-premier-ministre-adresse-ses-vœux-du-tet-et-encourage-les-forces-de-securite/1341706.html)  
+*Source : lecourrier.vn | Publication : 2026-02-16*
+
+- >> Le Premier ministre adresse ses vœux du Têt aux anciens dirigeants du Parti et de l’État >> Le Premier ministre présente ses vœux du Têt aux agents de la propreté urbaine avant le Têt >> Le PM présente ses vœux du Têt au personnel des hôpitaux de Bach Mai et Viêt Duc Dans l’après-midi du 16 février, le Premier ministre Pham Minh Chinh s’est rendu auprès des forces en service afin de leur présenter ses vœux du Têt Bính Ngọ (Nouvel An lunaire du Cheval) 2026 et d’inspecter les dispositifs permanents garantissant l’ordre et la sécurité routière ainsi que la cybersécurité relevant du ministère de la Police.
+- Lors de sa visite au Département de la police de la circulation du ministère de la Police, le chef du gouvernement a adressé ses encouragements et exprimé sa reconnaissance aux agents mobilisés pour assurer la sécurité routière, alors que la population se réunit en famille pour célébrer le Nouvel An.
+- Accélérer la transformation numérique Souhaitant que la police de la circulation demeure pionnière et exemplaire au service du peuple, il a demandé d’accélérer la transformation numérique afin de réduire les tâches manuelles, de renforcer le contrôle par la numérisation et de sanctionner fermement les comportements négatifs liés à la circulation.
+- Le Premier ministre a également appelé à une meilleure coordination avec les ministères et secteurs concernés pour maîtriser la situation du trafic, contribuant ainsi à garantir la sécurité, la stabilité sociale dans la nouvelle ère.
+
+## [<b>Cybersécurité</b> : le CNRS a fait l'objet de téléchargements illégaux... - AEF info](https://www.aefinfo.fr/depeche/746040-cybersecurite-le-cnrs-a-fait-l-objet-de-telechargements-illegaux-de-donnees-personnelles-et-professionnelles)  
+*Source : aefinfo.fr | Publication : 2026-02-16*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : Le CNRS annonce, lundi 16 février 2026, que des fichiers contenant des données, personnelles et professionnelles, de personnes "rémunérées par le CNRS avant le 1er janvier 2007" ont fait l’objet de téléchargements illégaux.
+- Cet "incident de cybersécurité" a été signalé à la Cnil et à l’Anssi et, "dès connaissance de l’incident, le serveur a été isolé et arrêté".
+- "L’incident ne s’est pas propagé au reste des infrastructures", assure le CNRS.
+
+## [Une station radio de Portneuf perd l'ensemble de ses fichiers audio à cause d'une cyberattaque](https://www.pesesurstart.com/2026/02/15/une-station-radio-de-portneuf-perd-lensemble-de-ses-fichiers-audio-a-cause-dune-cyberattaque)  
+*Source : pesesurstart.com | Publication : 2026-02-16*
+
+- Une station radio de Portneuf perd l’ensemble de ses fichiers audio à cause d’une cyberattaque Une station de radio indépendante de la région de Portneuf déplore avoir perdu l’ensemble de ses fichiers audio après une cyberattaque «majeure» qui a affecté l’ensemble de ses systèmes informatiques.
+- Par voie de communiqué dimanche, la direction de CHOC FM indique que l’attaque a provoqué «une interruption temporaire des activités de diffusion et affecté l’ensemble de l’infrastructure numérique de la station».
+- «La direction travaille actuellement avec des spécialistes en cybersécurité afin d’analyser l’origine de l’attaque et de mettre en place des mesures renforcées pour prévenir toute récidive», précise-t-on.
+- CHOC FM a néanmoins perdu l’ensemble de ses fichiers audio lors de cette cyberattaque.
+
+## [<b>Cybersécurité</b> : Comment les jumeaux numériques aident à conserver une longueur d ...](https://www.journaldunet.com/cybersecurite/1547951-cybersecurite-comment-les-jumeaux-numeriques-aident-a-conserver-une-longueur-d-avance-face-aux-hackers/)  
+*Source : journaldunet.com | Publication : 2026-02-16*
+
+- Cybersécurité : Comment les jumeaux numériques aident à conserver une longueur d'avance face aux hackers En cybersécurité, un jumeau numérique offre une analyse continue des risques et aide les organisations, notamment financières, à renforcer leur résilience et à se conformer à la directive DORA.
+- Un jumeau numérique est le modèle virtuel d'un produit, d'un processus ou d'un système physique.
+- Alimenté en continu par des données en temps réel, il sert à simuler, analyser et surveiller les comportements, les interactions et les conditions, sans affecter l'environnement réel.
+- Ce concept est notamment appliqué, et éprouvé, depuis des années dans le secteur industriel pour surveiller des systèmes techniques ou optimiser les cycles de maintenance.
 
 ## [<b>Cybersécurité</b> : les 11 actualités majeures du 15 fév 2026](https://dcod.ch/2026/02/15/cybersecurite-les-11-actualites-majeures-du-15-fev-2026/)  
 *Source : dcod.ch | Publication : 2026-02-15*
