@@ -1,5 +1,156 @@
-# Résumés – 2026-02-16
+# Résumés – 2026-02-17
 
+
+## [Gestionnaires de mots de passe : la promesse « zero-knowledge » fissurée par la réalité ...](https://www.solutions-numeriques.com/gestionnaires-de-mots-de-passe-la-promesse-zero-knowledge-fissuree-par-la-realite-operationnelle/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-17*
+
+- Une équipe de l’ETH Zurich montre qu’il est possible de consulter et modifier des mots de passe stockés dans plusieurs gestionnaires cloud populaires.
+- Non pas en cassant la cryptographie… mais en exploitant les mécanismes qui rendent ces services utilisables au quotidien.
+- Le mythe du coffre impénétrable Les gestionnaires de mots de passe se sont imposés comme l’outil de base de la vie numérique.
+- Entre cent et deux cents identifiants par utilisateur, mémoriser devient impossible ; confier ces secrets à un coffre chiffré devient alors rationnel.
+
+## [Palo Alto Networks va acquérir la société de <b>cybersécurité</b> Koi - Zonebourse](https://www.zonebourse.com/actualite-bourse/palo-alto-networks-va-acquerir-la-societe-de-cybersecurite-koi-ce7e5dd9d98df323)  
+*Source : zonebourse.com | Publication : 2026-02-17*
+
+- Palo Alto Networks va acquérir la société de cybersécurité Koi Publié le 17/02/2026 à 14:54 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager © MT Newswires - 2026 Partager.
+
+## [La plateforme &quot;Choisir le service public&quot; victime d'une cyberattaque - BFM](https://www.bfmtv.com/tech/cybersecurite/la-plateforme-choisir-le-service-public-victime-d-une-cyberattaque-un-grand-nombre-de-donnees-personnelles-et-professionnelles-compromises_AV-202602170858.html)  
+*Source : bfmtv.com | Publication : 2026-02-17*
+
+- La plateforme "Choisir le service public" victime d'une cyberattaque: un grand nombre de données personnelles et professionnelles compromises Avec plus de 70.000 annonces d'emplois dans le domaine public, la plateforme "Choisir le service public", propulsée par le ministère de la Fonction publique, est un incontournable.
+- Mais il a néanmoins été victime d'une vaste cyberattaque, comme l'explique l'organisme dans un mail envoyé aux personnes inscrites et que BFM Tech a pu consulter.
+- S'il ne dit rien du nombre de personnes touchées - le ministère n'a pas répondu à nos sollicitations -, on découvre néanmoins qu'un grand nombre de données personnelles et professionnelles ont pu être récupérées.
+- "Le mercredi 4 février 2026, un incident de cybersécurité a été détecté.
+
+## [CSB.school retenue par la Région pour piloter les formations Cyber Expert de l'Académie de Lyon](https://www.lyon-entreprises.com/actualites/article/csb-school-retenue-par-la-region-pour-piloter-les-formations-cyber-expert-de-lacademie-de-lyon)  
+*Source : lyon-entreprises.com | Publication : 2026-02-17*
+
+- CSB.school retenue par la Région pour piloter les formations Cyber Expert de l’Académie de Lyon Implantée à Charbonnières-les-Bains, CSB.school a été choisie par la Région Auvergne-Rhône-Alpes dans le cadre du programme « Former pour l’emploi » 2026-2030 pour piloter les formations Cyber Expert de l’Académie de Lyon.
+- Une reconnaissance institutionnelle qui conforte le positionnement de l’école sur les métiers en tension de la cybersécurité.
+- Un marché régional stratégique remporté par appel d’offres À l’issue d’un appel d’offres lancé par la Région Auvergne-Rhône-Alpes, CSB.school a été retenue pour conduire les formations Cyber Expert de l’Académie de Lyon.
+- Pour Patrice Chelim, fondateur de l’école, cette attribution « traduit la reconnaissance du travail accompli depuis plusieurs années pour structurer une filière de formation cyber répondant au plus près aux besoins des entreprises ».
+
+## [Duranceau veut «punir les coupables» de SAAQclic dans l'administration publique](https://www.ledevoir.com/politique/quebec/956889/duranceau-veut-punir-coupables-saaqclic-administration-publique)  
+*Source : ledevoir.com | Publication : 2026-02-17*
+
+- La présidente du Conseil du trésor, France-Élaine Duranceau, a déclaré mardi vouloir « punir les coupables » du naufrage SAAQclic, dans l’administration publique comme au sein des firmes privées.
+- « Comme les Québécois, nous voulons punir les coupables », a-t-elle lancé.
+- « Il va falloir que les coupables en paient le prix.
+- » Comme son chef, François Legault, la ministre a affirmé attendre l’avis du Procureur général du Québec sur d’éventuels recours juridiques.
+
+## [<b>Cybersécurité</b> : l'astuce que beaucoup ignorent pour éviter que leur boîte mail devienne une cible](https://www.futura-sciences.com/tech/actualites/cybersecurite-cybersecurite-astuce-beaucoup-ignorent-eviter-leur-boite-mail-devienne-cible-131341/)  
+*Source : futura-sciences.com | Publication : 2026-02-17*
+
+- Créer un compte en ligne implique presque toujours de fournir une adresse e-mail.
+- Or, c'est l'une des données personnelles les plus exposées : une fois diffusée, elle peut servir au spam, au phishing ou à l'usurpation d'identité.
+- Même sans négligence de votre part, elle peut fuiter lors d'un piratage d'une base de données d'un service numérique ou être revendue par un tiers peu scrupuleux.
+- Et contrairement aux mots de passe, souvent chiffrés, les adresses e-mail circulent généralement en clair.
+
+## [<b>Cybersécurité</b>: comment protéger nos ados des menaces invisibles - 98.5 Montréal](https://www.985fm.ca/audio/757306/cybersecurite-comment-proteger-nos-ados-des-menaces-invisibles)  
+*Source : 985fm.ca | Publication : 2026-02-17*
+
+- La violence chez les ados ne s'arrête plus à la cour d'école; elle s'invite désormais dans leur chambre, 24 heures sur 24, via leur téléphone.
+- François Charron «brasse la cage» des parents qui ont abdiqué leur rôle de protecteur sous prétexte de respecter la vie privée de leurs jeunes.
+- Entre les applications chiffrées où tout peut se tramer et les menaces reçues en privé, comment reprendre le contrôle sans briser le lien de confiance?.
+- Découvrez des outils concrets pour devenir un «parent héros» à l'ère numérique et pourquoi certaines applications devraient être bannies avant l'âge adulte.
+
+## [Phishing via SaaS : des emails authentifiés qui contournent les filtres traditionnels](https://www.solutions-numeriques.com/phishing-via-saas-des-emails-authentifies-qui-contournent-les-filtres-traditionnels/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-17*
+
+- Des cybercriminels exploitent désormais des plateformes SaaS légitimes pour diffuser des emails frauduleux parfaitement authentifiés, contournant ainsi les filtres traditionnels.
+- Une évolution qui complique la détection et renforce le recours au téléphone comme levier d’ingénierie sociale, analyse Adrien Merveille, SE Manager France et Directeur Technique France chez Check Point Software Technologies.
+- L’exploitation de plateformes SaaS légitimes pour diffuser des messages frauduleux marque une évolution significative des campagnes de phishing.
+- Plus de 133 000 emails authentifiés ont ainsi été envoyés à plus de 20 000 organisations dans le monde.
+
+## [WALLIX reçoit la médaille d'argent EthiFinance ESG Ratings et la médaille d'argent Greenly ...](https://www.actusnews.com/fr/amp/wallix/cp/2026/02/17/wallix-recoit-la-medaille-d_argent-ethifinance-esg-ratings-et-la-medaille-d_argent-greenly-pour-son-bilan-carbone)  
+*Source : actusnews.com | Publication : 2026-02-17*
+
+- Paris, le 17 février 2026 – WALLIX (Euronext ALLIX), leader des solutions de cybersécurité protégeant les identités et les accès aux.
+
+## [RGPD, IA et cyber risques : sécurisez vos données RH | Big média - BigMedia Bpifrance](https://bigmedia.bpifrance.fr/nos-evenements/rgpd-ia-et-cyber-risques-securisez-vos-donnees-rh)  
+*Source : bigmedia.bpifrance.fr | Publication : 2026-02-17*
+
+- RGPD, IA et cyber risques : sécurisez vos données RH Ce webinaire vous est proposé par Bpifrance Université, plateforme gratuite de formations pour les entrepreneurs.
+- Evènements - Bpifrance Université - Conseil - intelligence artificielle - agenda - Conseil - Recrutement prédictif, automatisation, IA générative… La digitalisation des RH s’accélère.
+- Mais derrière l’innovation, les données collaborateurs parmi les plus sensibles de l’entreprise deviennent aussi des cibles privilégiées : phishing ciblé, ransomware, mauvaises pratiques de paramétrage… et les risques explosent.
+- Comment continuer à innover tout en restant conforme au RGPD et aux nouvelles réglementations européennes comme l’IA Act ?.
+
+## [Les hackers ont industrialisé leurs attaques grâce à l'IA : les entreprises françaises sont ...](https://www.journaldunet.com/cybersecurite/1548035-les-hackers-ont-industrialise-leurs-attaques-grace-a-l-ia-les-entreprises-francaises-sont-elles-pretes/)  
+*Source : journaldunet.com | Publication : 2026-02-17*
+
+- Les hackers ont industrialisé leurs attaques grâce à l'IA : les entreprises françaises sont-elles prêtes ?.
+- L'IA a transformé chaque cybercriminel en attaquant de masse.
+- Pour 2026, l'observabilité en temps réel n'est plus une option mais une nécessité stratégique.
+- L'intelligence artificielle ne transforme pas seulement notre façon de travailler.
+
+## [Fuite de la plateforme « Choisir le service public » : les données dérobées vont bien au delà ...](https://www.numerama.com/cyberguerre/2181123-fuite-de-la-plateforme-choisir-le-service-public-les-donnees-derobees-vont-bien-au-dela-de-lidentification-personnelle.html)  
+*Source : numerama.com | Publication : 2026-02-17*
+
+- « Choisir le service public », plateforme officielle française de recrutement pour la fonction publique, a subi un « incident de sécurité » le 4 février 2026.
+- Pour ce service en ligne qui centralise plus de 70 000 offres d’emploi permanentes des trois versants (État, territorial et hospitalier), l’heure est à la prévention.
+- Comme l’exige le RGPD, l’organisme a prévenu les utilisateurs de la plateforme, tous potentiellement concernés par ce vol de données.
+- Le mail que nous avons consulté révèle que les informations dérobées vont bien au-delà des noms, prénoms et coordonnées, augmentant mécaniquement les risques de cette fuite.
+
+## [Point de presse de M. Paul St-Pierre Plamondon, chef du troisième groupe d'opposition, et ...](https://www.assnat.qc.ca/fr/actualites-salle-presse/conferences-points-presse/ConferencePointPresse-103329.html)  
+*Source : assnat.qc.ca | Publication : 2026-02-17*
+
+- Ouvrir L'utilisation du calendrier requiert que Javascript soit activé dans votre navigateur.
+- Pour plus de renseignements Cette transcription a été réalisée à l’aide d’un logiciel de reconnaissance vocale.
+- Elle pourrait donc contenir des erreurs.
+- (Dix heures trente-trois minutes) M.
+
+## [IS Decisions racheté par Aries Global - La Vie Economique](https://www.vie-economique.com/actualites/is-decisions-rachete-par-aries-global/)  
+*Source : vie-economique.com | Publication : 2026-02-17*
+
+- IS Decisions, qui emploie une trentaine de salariés et a réalisé 4,57 millions d’euros de chiffre d’affaires en 2025, s’est imposée comme un acteur reconnu de la cybersécurité, avec l’essentiel de son activité tournée vers l’export.
+- Ses solutions UserLock et FileAudit protègent plus de 3 000 organisations da… IS Decisions racheté par Aries Global Basé sur le technopôle Izarbel de Bidart, IS Decisions, spécialiste de la cybersécurité, rejoint le groupe britannique Aries Global.
+- L’entreprise fondée en 2000 par François Amigorena poursuit ainsi son développement au sein d’un acteur international en forte croissance.
+
+## [Pourquoi la France est une cible si facile sur le front cyber - Les Echos](https://www.lesechos.fr/idees-debats/editos-analyses/pourquoi-la-france-est-une-cible-si-facile-sur-le-front-cyber-2216384)  
+*Source : lesechos.fr | Publication : 2026-02-17*
+
+- Face à une recrudescence des cyberattaques, l'Hexagone peine à protéger ses infrastructures.
+- Des fuites massives de données et des attaques.
+
+## [[Retour sur] La participation des étudiants du M2 SSI de l'UFR MIM au CHE 2026 - Factuel](https://factuel.univ-lorraine.fr/article/retour-sur-la-participation-des-etudiants-du-m2-ssi-de-lufr-mim-au-che-2026/)  
+*Source : factuel.univ-lorraine.fr | Publication : 2026-02-17*
+
+- Temps de lecture : 2 minutes Les étudiants du Master 2 Sécurité des Systèmes d’Information (M2 SSI) de l’UFR MIM ont brillé lors de l’édition 2026 du CHE (Cyber Humanum Est), organisé par la base de défense de Nancy et Lorraine INP, sous l’égide du Commandement de la Cyberdéfense (COMCYBER) du ministère des Armées et de l’Université de Lorraine.
+- Un exercice de cyberguerre grandeur nature Cet événement de référence en cybersécurité a permis aux étudiants de mettre en pratique leurs compétences en lutte informatique défensive (LID) et offensive (LIO), tout en collaborant avec d’autres formations spécialisées en lutte informatique d’influence (L2I) et en droit.
+- Au-delà des aspects techniques et de management, l’exercice a également inclus des épreuves physiques, renforçant l’esprit d’équipe et la résilience des participants.
+- Des moments de convivialité ont également marqué cette édition, consolidant les liens entre les différentes équipes.
+
+## [Haute École Libre Mosane : des cours ouverts pour tester les études supérieures en <b>cybersécurité</b>](https://www.rtbf.be/article/haute-ecole-libre-mosane-des-cours-ouverts-pour-tester-les-etudes-superieures-en-cybersecurite-11681094)  
+*Source : rtbf.be | Publication : 2026-02-17*
+
+- Les cours ouverts ont démarré dans plusieurs hautes écoles de la province ainsi qu’à l’université.
+- À la Haute École Libre Mosane, par exemple, les élèves de rhéto peuvent suivre des cours en cybersécurité.
+- C’est une bonne idée de faire des cours ouverts pour prendre conscience de comment ça se passe.
+- Ils sont projetés dans une attaque informatique.
+
+## [Un antivirus intégré à la box : Free lance un nouveau service pour les pros - Frandroid](https://www.frandroid.com/marques/free/2979887_un-antivirus-integre-a-la-box-free-lance-un-nouveau-service-pour-les-pros)  
+*Source : frandroid.com | Publication : 2026-02-17*
+
+- Free en sait quelque chose, la sécurité est un sujet plus important que jamais en entreprise.
+- Pas une semaine ne passe sans des fuites de données massives de services français.
+- Il y a donc un enjeu à renforcer la cyberprotection des professionnels.
+- C’est un sujet auquel veut s’attaquer Free en intégrant dans ses offres Freebox Pro une solution gratuite.
+
+## [La gouvernance des agents IA s'impose comme prérequis de leur industrialisation en 2026](https://itsocial.fr/cybersecurite/cybersecurite-articles/la-gouvernance-des-agents-ia-simpose-comme-prerequis-de-leur-industrialisation-en-2026/)  
+*Source : itsocial.fr | Publication : 2026-02-17*
+
+- Dynatrace a présenté lors de sa conférence Perform Dynatrace Intelligence : un système combinant IA déterministe et IA agentique pour piloter en autonomie les environnements cloud et les charges de travail IA.
+- L'annonce dépasse le cadre d'une évolution produit.
+- En 2026, l'observabilité cesse d'être une fonction de surveillance réactive pour devenir une couche d'exécution autonome.
+- Gartner, IDC et McKinsey convergent : l'observabilité intelligente devient le prérequis non négociable de l'industrialisation des agents IA.
+
+## [Mastercard : Mastercard s'allie à Cloudflare pour la <b>cybersécurité</b> - BFM Bourse](https://www.tradingsat.com/mastercard-US57636Q1040/actualites/mastercard-mastercard-s-allie-a-cloudflare-pour-la-cybersecurite-1156735.html)  
+*Source : tradingsat.com | Publication : 2026-02-17*
+
+- (Zonebourse.com) - Mastercard annonce un partenariat stratégique avec Cloudflare visant à "développer des outils pour aider les petites entreprises, les infrastructures critiques et les administrations à se protéger des menaces cybernétiques les plus urgentes d'aujourd'hui sans freiner l'innovation".
+- Les capacités de surveillance de la surface d'attaque issues de Recorded Future et RiskRecon de Mastercard seront ainsi associées au portefeuille Application Security de Cloudflare, afin de permettre à des millions d'organisations de se défendre contre les cybermenaces.
+- "Grâce à une solution unifiée, les utilisateurs auront la capacité de cartographier, prioriser et automatiser rapidement la correction des risques cachés dans leurs environnements connectés à Internet", expliquent les deux entreprises.
+- Elles ont pour objectif de protéger les organisations en éliminant les angles morts, en fournissant des vues précises et en temps réel de la posture de sécurité et en traduisant les insights sur les risques en protection exploitable.
 
 ## [Piratage aspirateur DJI : une faille permettait d'accéder aux caméras et plans - Numerama](https://www.numerama.com/cyberguerre/2180301-cest-vraiment-bizarre-davoir-un-micro-sur-un-aspirateur-il-bidouille-son-aspirateur-robot-et-decouvre-une-faille-geante.html)  
 *Source : numerama.com | Publication : 2026-02-16*
