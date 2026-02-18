@@ -1,5 +1,154 @@
-# Résumés – 2026-02-17
+# Résumés – 2026-02-18
 
+
+## [C'est très grave, un hacker a consulté les données d'1,2 million de comptes bancaires français](https://www.clubic.com/actualite-601129-c-est-tres-grave-un-hacker-a-consulte-les-donnees-d-1-2-million-de-comptes-bancaires-francais.html)  
+*Source : clubic.com | Publication : 2026-02-18*
+
+- Un acteur malveillant a infiltré le FICOBA, le fichier national des comptes bancaires, en usurpant les identifiants d'un fonctionnaire, révèle Bercy ce mercredi.
+- Les données de 1,2 million de comptes ont peut-être été compromises.
+- La série noire se poursuit pour les services de l'État.
+- Après l'hallucinant piratage du ministère de l'Intérieur en fin d'année dernière, pour ne citer que lui, voilà que le ministère de l'Économie et des Finances communique, ce mercredi soir, sur celui du fichier national des comptes bancaires (FICOBA).
+
+## [Le PDG de Palo Alto Networks défend la <b>cybersécurité</b> face aux craintes liées à l'IA](https://fr.investing.com/news/stock-market-news/le-pdg-de-palo-alto-networks-defend-la-cybersecurite-face-aux-craintes-liees-a-lia-93CH-3276012)  
+*Source : fr.investing.com | Publication : 2026-02-18*
+
+- "Je ne comprends toujours pas pourquoi le marché traite l'IA comme une menace pour la cybersécurité au moins", a déclaré Arora lors d'une alerte.
+
+## [Un cybercriminel a accédé aux données bancaires de 1,2 million de Français](https://lessentieldeleco.fr/6039-un-cybercriminel-a-accede-aux-donnees-bancaires-de-12-million-de-francais/)  
+*Source : lessentieldeleco.fr | Publication : 2026-02-18*
+
+- Afficher le sommaire Masquer le sommaire Le mode opératoire est simple et redoutablement efficace.
+- L’attaquant a usurpé les identifiants d’un fonctionnaire disposant d’un accès légitime à Ficoba dans le cadre des échanges d’informations entre ministères.
+- En se faisant passer pour cet agent, il a interrogé la base sans déclencher d’alerte.
+- Les données soutirées comprennent les coordonnées bancaires complètes (RIB/IBAN), l’identité des titulaires, leur adresse postale et, dans certains cas, leur identifiant fiscal.
+
+## [Ils veulent apporter la lumière dans les centres de données - Le Point](https://www.lepoint.fr/innovation/ils-veulent-apporter-la-lumiere-dans-les-centres-de-donnees-F25YBZVWQBB67DYUIBBFBSL65M/)  
+*Source : lepoint.fr | Publication : 2026-02-18*
+
+- Il n’imaginait pas créer une start-up, lui qui a travaillé toute sa jeunesse dans le restaurant de ses parents en Sicile et en a gardé l’amour de la bonne cuisine.
+- L’ingénieur en photonique Giuseppe Modica a franchi le pas en cofondant, fin 2024, LumiSync avec son ancien directeur de thèse Rémy Braive, expert de l’optomécanique – l’interaction de la lumière avec les objets – et Alexis Jonville, qui accompagnait les projets de start-up pour le CNRS – dont LumiSync – et a quitté son poste pour rejoindre l’aventure.
+- L’atout de la lumière « Dans un centre de données, les serveurs ont besoin d’être synchronisés pour avoir tous la même information au même moment », explique ce dernier, fan de sport au point de faire un triathlon pour un enterrement de vie de garçon.
+- « Nous proposons des oscillateurs photoniques qui accomplissent avec la lumière ce qui est aujourd’hui fait avec de l’électronique, donc de l’électricité qui est plus lente, consomme beaucoup d’énergie et génère de la chaleur », détaille-t-il.
+
+## [Chiffre d'affaires 2025 de NEXTEDIA : un recul dans un contexte de recentrage stratégique](https://www.webdisclosure.com/article/nextedia-epa-alnxt-chiffre-daffaires-2025-de-nextedia-un-recul-dans-un-contexte-de-recentrage-strategique-3lTrbvLRB5K)  
+*Source : webdisclosure.com | Publication : 2026-02-18*
+
+- on NEXTEDIA (EPA:ALNXT) Chiffre d'affaires 2025 de NEXTEDIA : un recul dans un contexte de recentrage stratégique La société NEXTEDIA a déclaré un chiffre d'affaires de 60,2 millions d'euros pour l'année 2025, enregistrant une baisse de 6,8% par rapport à 2024.
+- Malgré ce recul, la diminution s'est quelque peu atténuée au deuxième semestre, passant de 8,2% à 5,6%.
+- Le chiffre d'affaires des services a chuté de 10,4%, atteignant 36,8 millions d'euros, tandis que le segment Technologie est resté presque stable à 23,3 millions d'euros.
+- Le groupe a poursuivi sa stratégie de repositionnement, se concentrant sur des segments à forte valeur ajoutée tels que l'IA et la cybersécurité.
+
+## [Ingram Micro muscle son portefeuille de solutions de sécurité - Distributique](https://www.distributique.com/actualites/lire-ingram-micro-muscle-son-portefeuille-de-solutions-de-securite-36991.html)  
+*Source : distributique.com | Publication : 2026-02-18*
+
+- Imperva est surtout reconnu pour son WAF (Web application firewall), il est classé parmi les leaders dans ce domaine par le cabinet Forrester.
+- En ajoutant ŕ son catalogue les solutions d'Imperva (Thales Cybersecurity), le distributeur va apporter ŕ ses revendeurs plusieurs offres de cybersécurité allant de la protection des applications ŕ la sécurité des données.
+- Ingram Micro renforce un peu plus son offre de cybersécurité en référençant les solutions de la société Imperva, rappelons que cette derničre a été racheté par Thales fin 2023 pour 3,6 Mds de dollars.
+- L'éditeur américain va apporter au grossiste plusieurs briques de sécurité dont la sécurisation des applications web (WAF), la protection des API et des architectures microservices, la lutte contre les attaques DDoS ŕ grande échelle, la surveillance avancée des activités sur les bases de données et la prévention des pertes de données (DLP) sans oublier la gouvernance des données sensibles.
+
+## [Origine France Garantie s'apprête à certifier aussi le numérique - TradingView](https://fr.tradingview.com/news/afp:8f2ba5ce6480d:0/)  
+*Source : fr.tradingview.com | Publication : 2026-02-18*
+
+- Origine France Garantie s'apprête à certifier aussi le numérique Après les biens et les services, l'association Origine France Garantie élabore actuellement une certification pour le numérique français, a-t-elle annoncé mercredi, dans un contexte rendu propice par les tensions géopolitiques et commerciales mondiales.
+- Numérique France Garanti, qu'elle élabore actuellement avec Bureau Veritas, s'adressera à toutes les entreprises françaises du numérique: plateformes, cloud, data, intelligence artificielle, cybersécurité, conseils et services numériques.
+- La certification, dont les premiers lauréats devraient être désignés en juin, "montrera qu'il y a des solutions alternatives à être sous une dépendance étrangère", particulièrement américaine, et que "des sociétés en France peuvent proposer des services garantissant que les données ne sont pas fournies à l'étranger", explique à l'AFP le président de France Origine Garantie, Gilles Attaf.
+- Des entreprises pilotes collaborent avec l'association et Bureau Veritas pour élaborer le référentiel et le cahier des charges de la certification.
+
+## [NEXTEDIA - CHIFFRE D'AFFAIRES 2025 : 60,2 M EUR - 18/02/2026 - Actusnews Wire - Actusnews](https://www.actusnews.com/fr/nextedia/cp/2026/02/18/chiffre-d_affaires-2025-60-2-m-eur-acceleration-du-recentrage-strategique-vers-des-offres-a-plus-forte-valeur-ajoutee)  
+*Source : actusnews.com | Publication : 2026-02-18*
+
+- NEXTEDIA (Euronext Growth Paris, FR0004171346, ALNXT), groupe spécialisé dans les domaines de la Cybersécurité , du Digital Workspace et de l.
+
+## [Les cyberattaques s'intensifient sous l'effet du phishing, des <b>ransomwares</b> et des menaces ...](https://www.acronis.com/fr/pr/2026/acronis-h2-2025-cyberthreats-report-cyberattacks-surge-as-phishing-ransomware-and-ai-driven-threats-escalate/)  
+*Source : acronis.com | Publication : 2026-02-18*
+
+- La cybercriminalité renforcée par l'IA, le nombre record d’attaques par ransomware et la hausse du phishing renforcent l’urgence, pour les organisations mondiales, de se doter de cyberdéfenses robustes.
+- SCHAFFHOUSE, Suisse – 18 février 2026 – Acronis, leader mondial de la cybersécurité et de la protection des données, publie son étude semestrielle « Rapport Acronis sur les cybermenaces, 2e semestre 2025 : Des exploits à l'IA malveillante » qui analyse l'activité mondiale des menaces sur la base de métriques collectées par Acronis Threat Research Unit (TRU) et les capteurs Acronis.
+- Ce rapport met en lumière les principales tendances observées tout au long de l'année 2025, avec un focus particulier sur le second semestre.
+- Les données confirment l’augmentation continue des cyberattaques.
+
+## [Attaque supply chain : un malware préinstallé découvert sur des appareils Android](https://www.solutions-numeriques.com/attaque-supply-chain-un-malware-preinstalle-decouvert-sur-des-appareils-android/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-18*
+
+- Une nouvelle attaque par chaîne d’approvisionnement vient rappeler que le risque ne se limite plus aux logiciels ou aux bibliothèques open source.
+- Des chercheurs en sécurité ont identifié un malware intégré directement dans le firmware de certains appareils Android avant leur mise sur le marché.
+- Le code malveillant, baptisé Keenadu, était embarqué dans l’image système fournie par un acteur de la chaîne d’approvisionnement.
+- Contrairement aux applications frauduleuses installées par l’utilisateur, il s’exécute à un niveau bas du système, ce qui le rend plus difficile à détecter et à supprimer.
+
+## [Free Pro offre la <b>Cybersécurité</b> Essentielle à tous ses clients Freebox Pro - Megazap](https://www.megazap.fr/Free-Pro-offre-la-Cybersecurite-Essentielle-a-tous-ses-clients-Freebox-Pro_a15889.html)  
+*Source : megazap.fr | Publication : 2026-02-18*
+
+- L’opérateur Free Pro poursuit sa stratégie de démocratisation de la cybersécurité auprès des petites structures.
+- L’entreprise annonce l’extension de sa solution Cybersécurité Essentielle à l’ensemble de ses clients Freebox Pro, sans surcoût.
+- Déjà incluse pour les nouveaux abonnés, cette brique de protection est désormais accessible aux clients historiques via une simple mise à jour de leur équipement.
+- La cybersécurité, enjeu critique pour les TPE/PME La menace cyber n’épargne plus aucune organisation, quelle que soit sa taille.
+
+## [Cloudflare et Mastercard unissent leurs forces pour la <b>cybersécurité</b> des PME et des ... - ITdaily.](https://itdaily.fr/nouvelles/securite/cloudflare-mastercard-cybersecurite/)  
+*Source : itdaily.fr | Publication : 2026-02-18*
+
+- Cloudflare et Mastercard concluent un partenariat stratégique afin de mieux protéger les petites entreprises, les infrastructures critiques et les gouvernements contre les cybermenaces.
+- Cloudflare et Mastercard annoncent un partenariat stratégique en matière de cybersécurité.
+- Les deux entreprises souhaitent développer des solutions communes aidant les petites entreprises, les infrastructures critiques et les gouvernements à mieux identifier et traiter les cyber-risques.
+- Cette collaboration associe les renseignements sur les menaces et l’évaluation des risques de Recorded Future et RiskRecon, filiales de Mastercard, au portefeuille Application Security de Cloudflare.
+
+## [À quelles grandes entreprises technologiques faites-vous confiance ? - Bitdefender](https://www.bitdefender.com/fr-fr/blog/hotforsecurity/a-quelles-grandes-entreprises-technologiques-faites-vous-confiance)  
+*Source : bitdefender.com | Publication : 2026-02-18*
+
+- Les grandes entreprises technologiques sont présentes dans presque tous les aspects de la vie quotidienne, des messageries et réseaux sociaux aux assistants intelligents et paiements sécurisés.
+- Mais à mesure que la technologie devient indispensable, les questions relatives à la confiance accordée aux géants technologiques n'ont jamais été aussi importantes.
+- Notre dernière enquête sur la cybersécurité des consommateurs, menée auprès de plus de 7 000 internautes dans sept pays, met en lumière l'opinion des internautes sur les grandes entreprises technologiques et ce que leurs habitudes révèlent sur la confiance en ligne.
+- Lorsqu'on leur a demandé à qui ils faisaient confiance, les personnes interrogées ont montré une division entre les géants technologiques traditionnels et les nouvelles plateformes.
+
+## [Les 6 formations pour se lancer dans la <b>cybersécurité</b> - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-tribunes/les-6-formations-pour-se-lancer-dans-la-cybersecurite/)  
+*Source : itsocial.fr | Publication : 2026-02-18*
+
+- Pour ceux qui veulent saisir cette opportunité, se former est la clé.
+- Bootcamp intensif, école post-bac, grande école d'ingénieurs ou certification internationale : les options ne manquent pas.
+- Voici six parcours solides pour entrer dans la cybersécurité.
+- 1.
+
+## [Palo Alto Networks : l'intelligence artificielle, un moteur pour la <b>cybersécurité</b> selon Morgan Stanley](https://www.zonebourse.com/actualite-bourse/palo-alto-networks-la-intelligence-artificielle-un-moteur-pour-la-cybersecurite-selon-morgan-sta-ce7e5dded18ef024)  
+*Source : zonebourse.com | Publication : 2026-02-18*
+
+- Palo Alto Networks : l’intelligence artificielle, un moteur pour la cybersécurité selon Morgan StanleyPalo Alto Networks défend avec force l’idée que l’intelligence artificielle constitue un moteur positif pour la demande globale en cybersécurité, selon une note publiée mercredi par.
+
+## [IA agentique : le Conseil de l'IA et du Numérique appelle à un cadre structurant](https://www.solutions-numeriques.com/ia-agentique-le-conseil-de-lia-et-du-numerique-appelle-a-un-cadre-structurant/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-18*
+
+- Dans une note publiée en février 2026, le Conseil de l’IA et du Numérique propose un cadrage structurant de l’« IA agentique ».
+- Derrière l’effet d’annonce, l’institution met en lumière les enjeux techniques, réglementaires et environnementaux liés à l’essor des agents autonomes.
+- Le Conseil de l’IA et du Numérique (CIANum) publie une note intitulée « Les intelligences artificielles à l’heure de la vague agentique : de quoi parle-t-on ?.
+- ».
+
+## [Fuite de données : la plateforme « Choisir le Service Public » compromise](https://www.solutions-numeriques.com/fuite-de-donnees-la-plateforme-choisir-le-service-public-compromise/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-18*
+
+- Près de 377 000 candidats inscrits sur la plateforme « Choisir le Service Public » sont concernés par un incident de sécurité.
+- Au-delà de la fuite de données personnelles, c’est le potentiel d’exploitation ciblée de profils sensibles qui inquiète.
+- La plateforme officielle de recrutement de la fonction publique a informé ses utilisateurs d’un incident ayant exposé l’ensemble des profils enregistrés.
+- Selon les chiffres publiés par l’administration, 377 418 candidats seraient touchés.
+
+## [Les actions de Palo Alto chutent, les coûts de l'opération s'accumulant dans le cadre de la ...](https://www.boursorama.com/bourse/actualites-amp/les-actions-de-palo-alto-chutent-les-couts-de-l-operation-s-accumulant-dans-le-cadre-de-la-securite-de-l-ia-113eb85e145e02eb17dbe1e7df65407a)  
+*Source : boursorama.com | Publication : 2026-02-18*
+
+- Les actions de Palo Alto chutent, les coûts de l'opération s'accumulant dans le cadre de la sécurité de l'IA information fournie par Reuters 18/02/2026 à 16:12 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Mise à jour des mouvements d'actions au paragraphe 1, ajout d'un commentaire au paragraphe 10) Les actions de Palo Alto PANW.O ont chuté de 8% mercredi après que l'entreprise de cybersécurité a abaissé ses prévisions de bénéfices annuels en raison des coûts d'intégration plus élevés liés aux récentes acquisitions, y compris l'accord de 25 milliards de dollars avec CyberArk.
+- La société s'est repositionnée en tant que guichet unique alors que les menaces liées à l'IA poussent les clients vers des plateformes intégrées, mais l'augmentation des coûts liés aux récentes transactions, y compris une dépense de 2,3 milliards de dollars pour CyberArk au cours du troisième trimestre fiscal, pèse sur les bénéfices.
+- Palo Alto Networks a conclu plusieurs accords importants ces derniers mois, notamment l'acquisition de la startup israélienne de cybersécurité Koi et un accord de 3,35 milliards de dollars pour acquérir la société de gestion et de surveillance du cloud Chronosphere.
+- L'acquisition de CyberArk a été finalisée plus tôt en février.
+
+## [Palo Alto Networks abaisse ses prévisions de bénéfice en raison du coût de ses acquisitions](https://www.optionfinance.fr/info-financiere-en-continu/d/2026-02-18-palo-alto-networks-abaisse-ses-previsions-de-benefice-en-raison-du-cout-de-ses-acquisitions.html)  
+*Source : optionfinance.fr | Publication : 2026-02-18*
+
+- (Zonebourse.com) - Palo Alto Networks a revu à la baisse ses prévisions de bénéfice pour l'exercice 2026, en raison de la montée des coûts liés à ses récentes acquisitions stratégiques.
+- Le titre recule de près de 7% avant l'ouverture de Wall Street, malgré une demande toujours soutenue pour ses solutions de cybersécurité.
+- Le groupe prévoit désormais un bénéfice par action compris entre 3,65 et 3,70 dollars, contre une fourchette précédente de 3,80 à 3,90 dollars.
+- Cette révision s'explique par l'intégration de plusieurs acquisitions majeures, dont la start-up israélienne Koi, rachetée récemment, et surtout celle de CyberArk Software en juillet dernier pour 25 milliards de dollars, la plus importante opération de l'histoire du groupe.
+
+## [Le site de recrutement « Choisir le service public » cible d'une cyberattaque - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/64485-le-site-de-recrutement-choisir-le-service-public-cible-d-une-cyberattaque.html)  
+*Source : linformaticien.com | Publication : 2026-02-18*
+
+- « Le mercredi 4 février 2026, un incident de cybersécurité a été détecté.
+- Cette violation de sécurité a entraîné une divulgation non autorisée de.
 
 ## [Gestionnaires de mots de passe : la promesse « zero-knowledge » fissurée par la réalité ...](https://www.solutions-numeriques.com/gestionnaires-de-mots-de-passe-la-promesse-zero-knowledge-fissuree-par-la-realite-operationnelle/)  
 *Source : solutions-numeriques.com | Publication : 2026-02-17*
