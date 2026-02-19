@@ -1,5 +1,157 @@
-# Résumés – 2026-02-18
+# Résumés – 2026-02-19
 
+
+## [Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de ... - leFaso.net](https://lefaso.net/spip.php?article144569)  
+*Source : lefaso.net | Publication : 2026-02-19*
+
+- Lutte contre la cybercriminalité : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financières Une opération cybernétique menée de décembre 2025 à janvier 2026 par les polices de seize pays africains a permis de démanteler des réseaux criminels impliqués dans des systèmes de fraude transnationaux.
+- 651 cybercriminels présumés arrêtés et plus de 4,3 millions de dollars (soit 2 394,67 milliards de FCFA) saisis, selon une information d’Interpol.
+- L’opération menée du 8 décembre 2025 au 30 janvier 2026 ciblait l’infrastructure et les acteurs à l’origine des escroqueries à l’investissement à haut rendement, des fraudes liées à l’argent mobile et des demandes de prêts mobiles frauduleuses, indique la publication d’Interpol, qui précise que les investigations ont mis au jour des escroqueries ayant entraîné des pertes financières de plus de 45 millions de dollars et permis d’identifier 1 247 victimes, principalement originaires du continent africain, mais aussi d’autres régions du monde.
+- 2 341 appareils ont été saisis et 1 442 adresses IP, domaines et serveurs malveillants, ainsi que d’autres infrastructures connexes ont également été neutralisés.
+
+## [Jusqu'à 1 milliard d'informations personnelles exposées après une fuite dans un système ... - Clubic](https://www.clubic.com/actualite-601195-jusqu-a-1-milliard-d-informations-personnelles-exposees-apres-une-fuite-dans-un-systeme-de-verification-d-identite.html)  
+*Source : clubic.com | Publication : 2026-02-19*
+
+- Une base de données laissée en accès libre a exposé jusqu’à un milliard d’enregistrements liés à des vérifications d’identité utilisées par des services financiers et numériques dans le monde entier.
+- En novembre dernier, les chercheurs de Cybernews ont découvert une instance MongoDB ouverte contenant près d’un téraoctet de données personnelles liées à des procédures de KYC (know your customer), c’est-à-dire des processus de vérification d’identité exigés lors de l’ouverture d’un compte bancaire, de l’inscription à un service financier ou de la création d’un espace utilisateur sur certaines plateformes en ligne.
+- Selon l’analyse publiée, jusqu’à un milliard d’enregistrements exploitables pourraient être concernés, répartis dans plusieurs régions du monde, de l’Amérique du Nord à l’Europe en passant par l’Asie, auxquels s’ajoutent plusieurs milliards d’entrées techniques ou de journaux internes.
+- La base a été signalée aux équipes concernées puis sécurisée rapidement, sans qu’il soit possible de déterminer si des tiers ont pu en copier le contenu durant sa période d’exposition.
+
+## [Vaste opération contre la <b>cybercriminalité</b> en Afrique: 651 arrestations, annonce Interpol](https://www.lalibre.be/dernieres-depeches/2026/02/19/vaste-operation-contre-la-cybercriminalite-en-afrique-651-arrestations-annonce-interpol-CCBLZQITDBBU7OCOFE7T7RX5ZQ/)  
+*Source : lalibre.be | Publication : 2026-02-19*
+
+- Vaste opération contre la cybercriminalité en Afrique: 651 arrestations, annonce Interpol Les polices de 16 pays d'Afrique ont arrêté 651 personne et démantelé, en près de deux mois, d'importants réseaux de cybercriminalité qui avaient extorqué près de 38 millions d'euros à des centaines voire des milliers de victimes, a annoncé jeudi Interpol.
+- Publié le 19-02-2026 à 09h16 - à Lyon, France - Promesses trompeuses d'importants profits, fraudes aux services de paiement ou d'emprunt par téléphone mobile, faux investissements en cryptomonnaies, le tout grâce à des vols massifs de données personnelles en ligne ou de fausses applications mobiles... la palette des moyens utilisés par les escrocs, décrite par l'organisation internationale de police criminelle dans un communiqué, est impressionnante.
+- Interpol a coordonné et soutenu cette opération baptisée Carton Rouge 2.0 dans 16 pays du continent, du 8 décembre au 30 janvier: elle a conduit à l'arrestation de 651 personnes et la saisie de plus de 4,3 millions de dollars américains (environ 3,6 millions d'euros), mais sur un préjudice total évalué à plus de 45 millions de dollars (près de 38 millions d'euros), détaille le communiqué.
+- © 2026 Belga Newsbriefing.
+
+## [<b>CYBERCRIMINALITÉ</b> : PLUS DE 650 SUSPECTS ARRÊTÉS LORS D'UNE VASTE ... - RTS](https://www.rts.sn/actualite/detail/a-la-une/cybercriminalite-plus-de-650-suspects-arretes-lors-dune-vaste-operation-coordonnee-par-interpol)  
+*Source : rts.sn | Publication : 2026-02-19*
+
+- La police de 16 pays africains a procédé à l’arrestation de plus de 650 cybercriminels présumés et à la saisie de plus de 4,3 millions de dollars dans le cadre d’une opération internationale d’envergure contre les arnaques en ligne.
+- Baptisée Operation Red Card 2.0, l’opération a été conduite par INTERPOL entre décembre 2025 et fin janvier 2026.
+- Elle ciblait des réseaux spécialisés dans les fraudes à l’investissement en ligne, les arnaques au mobile money et les fausses applications de prêt, responsables de milliers de victimes en Afrique et à l’international.
+- Selon les enquêteurs, ces réseaux criminels seraient liés à plus de 45 millions de dollars de pertes financières à l’échelle mondiale.
+
+## [L'affaire Epstein éclabousse jusqu'au petit monde des hackers: trois experts en ... - BFM](https://www.bfmtv.com/tech/actualites/l-affaire-epstein-eclabousse-jusqu-au-petit-monde-des-hackers-trois-experts-en-cybersecurite-ont-ete-bannis-de-la-defcon-a-cause-de-leurs-liens-avec-le-multimillionnaire_AN-202602190822.html)  
+*Source : bfmtv.com | Publication : 2026-02-19*
+
+- L’affaire Epstein éclabousse jusqu’au petit monde des hackers: trois experts en cybersécurité ont été bannis de la Defcon, à cause de leurs liens avec le multimillionnaire C'est un domaine peu exploré de la vie de Jeffrey Epstein.
+- Au cours de son existence, le millionnaire a tissé des liens avec de nombreuses personnes... y compris des hackers.
+- Beaucoup l'ignorent, mais le délinquant sexuel s'intéressait aussi à la cybersécurité et à la cryptographie et cet intérêt n'avait rien d'anodin.
+- S'il était intrigué par les réseaux de sécurité, il cherchait surtout à supprimer des informations le concernant des moteurs de recherche, après avoir été condamné une première fois, en 2008, pour "sollicitation de prostitution d'une fille mineure".
+
+## [Lyon Innovation Tour : une 5e édition consacrée aux enjeux stratégiques du quantique](https://www.lyon-entreprises.com/actualites/article/lyon-innovation-tour-une-5e-edition-consacree-aux-enjeux-strategiques-du-quantique)  
+*Source : lyon-entreprises.com | Publication : 2026-02-19*
+
+- Lyon Innovation Tour : une 5e édition consacrée aux enjeux stratégiques du quantique Le MEDEF Lyon-Rhône organise le 27 février 2026 la cinquième édition du Lyon Innovation Tour, un rendez-vous dédié cette année aux technologies quantiques.
+- Accueilli à l’I-Factory sur le campus de la Doua à Villeurbanne, l’événement vise à éclairer dirigeants et décideurs sur les impacts industriels, économiques et organisationnels d’un domaine en forte émergence.
+- Un thème technologique devenu stratégique pour les entreprises Longtemps cantonné aux laboratoires de recherche, le quantique s’impose progressivement comme un sujet d’anticipation pour les organisations.
+- C’est dans cette perspective que le groupe de travail Innovation du MEDEF Lyon-Rhône a conçu cette édition du Lyon Innovation Tour, avec l’ambition de fournir des repères accessibles et opérationnels à ses adhérents.
+
+## [651 arrestations lors d'une vaste opération coordonnée contre la <b>cybercriminalité</b> par Interpol](https://sahel-intelligence.com/42035-afrique-651-arrestations-lors-dune-vaste-operation-coordonnee-contre-la-cybercriminalite-par-interpol.html)  
+*Source : sahel-intelligence.com | Publication : 2026-02-19*
+
+- Une vaste opération internationale de lutte contre la cybercriminalité menée dans 16 pays africains a conduit à l’arrestation de 651 personnes et au démantèlement de plusieurs réseaux criminels majeurs, a annoncé jeudi Interpol.
+- En près de deux mois, ces groupes auraient extorqué près de 38 millions d’euros à des centaines, voire des milliers de victimes.
+- Escroqueries à l’investissement promettant des gains élevés, fraudes aux services de paiement ou de prêts via téléphone mobile, faux placements en cryptomonnaies, exploitation massive de données personnelles ou encore diffusion d’applications mobiles frauduleuses : les méthodes employées par les cybercriminels se sont révélées particulièrement sophistiquées et variées, selon l’organisation policière internationale.
+- L’opération, baptisée « Carton Rouge 2.0 », s’est déroulée du 8 décembre au 30 janvier avec la participation des forces de l’ordre de 16 pays africains.
+
+## [Dialogue diplomatique entre Accra et Moscou sur un contentieux de <b>cybercriminalité</b>](https://www.financialafrik.com/2026/02/19/dialogue-diplomatique-entre-accra-et-moscou-sur-un-contentieux-de-cybercriminalite/)  
+*Source : financialafrik.com | Publication : 2026-02-19*
+
+- Le gouvernement ghanéen a tenu, le 17 février 2026, une séance de travail officielle avec la représentation diplomatique de la Fédération de Russie.
+- Sur convocation du ministre des Affaires étrangères, l’ambassadeur Sergei Berdnikov a été reçu à Accra afin d’aborder un différend lié à la diffusion illicite de contenus numériques à caractère privé.
+- Cette rencontre visait à établir un canal de communication direct concernant des actes de cybercriminalité impliquant un ressortissant présumé de nationalité russe et touchant des citoyennes ghanéennes.
+- Au cours de cet échange, les autorités ghanéennes ont exprimé leur vive préoccupation institutionnelle.
+
+## [Industrialiser le risque cyber fournisseur : priorité à la continuité, au pilotage continu et à la ...](https://www.solutions-numeriques.com/industrialiser-le-risque-cyber-fournisseur-priorite-a-la-continuite-au-pilotage-continu-et-a-la-mutualisation/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-19*
+
+- La gestion du risque cyber fournisseur change de dimension.
+- Portée par la directive NIS2 et par la multiplication des attaques via la supply chain, elle ne peut plus se limiter à des clauses contractuelles ou à des questionnaires ponctuels.
+- Pilotage continu, hiérarchisation des tiers et mutualisation des évaluations s’imposent désormais comme des leviers structurants.
+- C’est l’un des messages forts d’un webinaire organisé le 19 février par Board of Cyber, réunissant le CESIN, la Région Île-de-France et Aprovall.
+
+## [les organisateurs du Certi'Tech Forum renoncent au salon qui devait se tenir à Blois](https://www.lanouvellerepublique.fr/blois/on-a-choisi-de-poursuivre-le-projet-dans-un-environnement-plus-favorable-les-organisateurs-du-certi-tech-forum-renoncent-au-salon-qui-devait-se-tenir-a-blois-1771498970)  
+*Source : lanouvellerepublique.fr | Publication : 2026-02-19*
+
+- L'info en continu Les plus lus Annulé.
+- Le forum sur la cybersécurité, baptisé Certi’Tech Forum, qui devait se tenir à Blois du 27 février au 1er mars est reporté à l’année prochaine à… Orléans.
+- C’est en tout cas ce qu’annoncent les organisateurs.
+- Reste à savoir s’ils parviendront à leurs fins.
+
+## [Fuite de données bancaires FICOBA : un expert cyber tire une conclusion qui devrait ... - Clubic](https://www.clubic.com/actualite-601204-fuite-de-donnees-bancaires-ficoba-un-expert-cyber-tire-une-conclusion-qui-devrait-alerter-toute-l-administration-francaise.html)  
+*Source : clubic.com | Publication : 2026-02-19*
+
+- Après la révélation par Bercy de l'accès illégitime aux données bancaires du fichier FICOBA, l'expert en cybersécurité Benoit Grünemwald rappelle les conséquences, ici graves, de ce qui est avant tout une faille organisationnelle, et non technique.
+- C'est l'un des fichiers les plus sensibles de l'administration française, et il a en partie été compromis.
+- Le FICOBA, registre national des comptes bancaires géré par la Direction générale des Finances publiques (DGFiP), a été illégalement consulté à la fin du mois de janvier (les données de 1,2 million de titulaires de comptes ont pu être consultées), à partir du vol des identifiants d'un fonctionnaire, comme l'a révélé le ministère de l'Économie mercredi 18 février.
+- Pour Benoit Grünemwald, expert chez ESET France, ce nouveau scandale pour l'État montre que les vraies failles ne sont pas toujours là où on les attend.
+
+## [<b>Cybercriminalité</b> en Afrique: 651 arrestations après une vaste opération, annonce Interpol](https://www.rfi.fr/fr/afrique/20260219-cybercriminalité-en-afrique-651-arrestations-après-une-vaste-opération-annonce-interpol)  
+*Source : rfi.fr | Publication : 2026-02-19*
+
+- Cybercriminalité en Afrique: 651 arrestations après une vaste opération, annonce Interpol Les polices de seize pays d'Afrique ont arrêté 651 personnes et démantelé, en près de deux mois, d'importants réseaux de cybercriminalité qui avaient extorqué près de 38 millions d'euros à des centaines, voire des milliers, de victimes, a annoncé, ce 19 février 2026, Interpol.
+- Publié le : Une opération d’envergure dans seize pays d’Afrique : 651 cybercriminels arrêtés en deux mois, 4,3 millions de dollars saisis mais plus de 45 millions de dollars de préjudice.
+- C’est le bilan de l’opération « Carton Rouge 2.0 » menée par Interpol en collaboration avec les polices locales.
+- Après « Serengeti », puis « Tonnerre », cette nouvelle opération montre, une fois de plus, le maillage que tissent les criminels dans toutes les strates de l’économie.
+
+## [<b>Cybercriminalité</b> : Plus de 650 suspects arrêtés lors d'une vaste opération](https://www.senenews.com/actualites/cybercriminalite-plus-de-650-suspects-arretes-lors-dune-vaste-operation_576692.html)  
+*Source : senenews.com | Publication : 2026-02-19*
+
+- Cybercriminalité : Plus de 650 suspects arrêtés lors d’une vaste opération Les forces de police de 16 pays africains ont interpellé plus de 650 cybercriminels présumés et saisi plus de 4,3 millions de dollars dans le cadre d’une opération internationale visant les arnaques en ligne.
+- Dénommée Operation Red Card 2.0, cette initiative coordonnée par INTERPOL s’est déroulée entre décembre 2025 et fin janvier 2026.
+- Elle ciblait principalement des réseaux impliqués dans les fraudes à l’investissement en ligne, les escroqueries au mobile money et les fausses applications de prêt, qui ont fait de nombreuses victimes en Afrique et ailleurs.
+- D’après les enquêteurs, ces groupes criminels seraient responsables de pertes estimées à plus de 45 millions de dollars à l’échelle mondiale.
+
+## [Pénalisé par les craintes entourant les éditeurs de logiciels, le géant de la <b>cybersécurité</b> ... - Investir](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/penalise-par-les-craintes-entourant-les-editeurs-de-logiciels-le-geant-de-la-cybersecurite-palo-alto-ne-rassure-pas-avec-ses-timides-previsions-2216936)  
+*Source : investir.lesechos.fr | Publication : 2026-02-19*
+
+- Plus grand pure player du marché de la cybersécurité , Palo Alto Networks n'est pas épargné par les craintes actuelles des investisseurs vis-à-vis.
+
+## [Les Hôpitaux Champagne Sud migrent vers le DPI Hopital Manager de Softway Medical](https://www.ticsante.com/story?ID=8098)  
+*Source : ticsante.com | Publication : 2026-02-19*
+
+- Le déploiement commencera en mars par le médico-social et l'établissement public de santé mentale de l'Aube (EPSMA) pour finir avec le CHT d'ici à 2028.
+- Le choix de ce DPI est issu d'une concertation menée en 2025.
+- En bref Les Hôpitaux Champagne Sud vont lancer le déploiement du dossier patient informatisé (DPI) Hopital Manager (Softway Medical), a fait savoir Damien Patriat, directeur de l'établissement support, le centre hospitalier de Troyes (CHT), lors d'un entretien avec APMnews/TICsanté début février.
+- Le déploiement commencera en mars par le médico-social et l'établissement public de santé mentale de l'Aube (EPSMA) pour finir avec le CHT d'ici à 2028.
+
+## [Aries Global absorbe l'éditeur basque spécialisé dans la <b>cybersécurité</b> IS Decisions](https://www.placeco.fr/pays-basque/ecosysteme/article/aries-global-absorbe-lediteur-basque-specialise-dans-la-cybersecurite-is-decisions-9606)  
+*Source : placeco.fr | Publication : 2026-02-19*
+
+- Aries Global absorbe l’éditeur basque spécialisé dans la cybersécurité IS Decisions François Amigorena a fondé IS Decisions en 2000.
+- Crédits : IS Decisions Le groupe londonien Aries Global annonce la prise de participation majoritaire dans l’éditeur de Bidart, IS Decisions, spécialisé dans la sécurisation des accès aux systèmes informatiques d’entreprise.
+- Aries Global a officialisé le 16 février dernier la reprise d’IS Decisions, société fondée en 2000 et basée à Bidart.
+- L’entreprise basque développe des solutions destinées à sécuriser les environnements Windows et Active Directory, l’annuaire informatique de Microsoft qui permet aux organisations de gérer les identités et les droits d’accès au sein de leurs réseaux.
+
+## [Vaste opération contre la <b>cybercriminalité</b> en Afrique : 651 arrestations, annonce Interpol](https://www.europe1.fr/international/vaste-operation-contre-la-cybercriminalite-en-afrique-651-arrestations-annonce-interpol-899826)  
+*Source : europe1.fr | Publication : 2026-02-19*
+
+- Les forces de police de seize pays africains ont démantelé en moins de deux mois d'importants réseaux de cybercriminalité.
+- L'opération, coordonnée.
+
+## [Vaste opération contre la <b>cybercriminalité</b> en Afrique : 651 arrestations, annonce Interpol](https://www.europe1.fr/international/vaste-operation-contre-la-cybercriminalite-en-afrique-651-arrestations-annonce-interpol-899826?amp)  
+*Source : europe1.fr | Publication : 2026-02-19*
+
+- Les forces de police de seize pays africains ont démantelé en moins de deux mois d'importants réseaux de cybercriminalité.
+
+## [Les attaquants détournent les outils fournis par le système d'exploitation pour - it social](https://itsocial.fr/cybersecurite/cybersecurite-articles/les-attaquants-detournent-les-outils-fournis-par-le-systeme-dexploitation-pour-se-fondre-dans-le-decor/)  
+*Source : itsocial.fr | Publication : 2026-02-19*
+
+- Les binaires Windows légitimes ont dépassé les scripts PowerShell pour devenir le premier vecteur d'infection sur les endpoints, selon WatchGuard.
+- Ce basculement consacre le Living-off-the-Land (LotL) comme paradigme offensif dominant : les attaquants n'introduisent plus de code étranger, ils détournent les outils du système d'exploitation pour mener des opérations complètes sans déposer un seul artefact identifiable.
+- La rapport WatchGuard Internet Security Report H2 2025 marque un tournant méthodologique.
+- il abandonne sa cadence trimestrielle au profit d'une publication semestrielle, au motif que « les cycles d'attaque sont devenus trop longs et complexes pour être lus en trois mois ».
+
+## [Ingénieur <b>Cybersécurité</b> Système embarqué - offre emploi](https://www.solutions-numeriques.com/offre-emploi/F-1055/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-19*
+
+- Ingénieur Cybersécurité Système embarqué ARealTI.
+- 2026-02-19 00:00:00 Description Poste / Missions - Projets automobiles stratégiques en cybersécurité embarquée - Environnement technique de haut niveau - Entreprise internationale reconnue pour son excellence et sa maîtrise des systèmes embarqués critiques - Forte culture technique, innovation continue et investissement sur les enjeux cyber Nous recherchons pour l'un de nos clients, spécialiste des solutions de sécurité pour le secteur de la Défense, un(e) Ingénieur Cybersécurité Système embarqué.
+- Vous interviendrez sur la définition, la conception et la validation d'architectures de sécurité pour des produits embarqués dans le domaine automobile.
+- Votre rôle sera clé dans la protection des communications embarquées, la mise en place des racines de confiance et le développement de solutions cryptographiques embarquées pour véhicules connectés.
 
 ## [C'est très grave, un hacker a consulté les données d'1,2 million de comptes bancaires français](https://www.clubic.com/actualite-601129-c-est-tres-grave-un-hacker-a-consulte-les-donnees-d-1-2-million-de-comptes-bancaires-francais.html)  
 *Source : clubic.com | Publication : 2026-02-18*
