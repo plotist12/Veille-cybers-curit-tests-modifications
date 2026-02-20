@@ -1,5 +1,158 @@
-# Résumés – 2026-02-19
+# Résumés – 2026-02-20
 
+
+## [Annonces légales du 20 février 2026 - L'independant de L'yonne -](https://independantdelyonne.com/annonces-legales-du-20-fevrier-2026/)  
+*Source : independantdelyonne.com | Publication : 2026-02-20*
+
+- SCI au capital de 1.000€ Siège social : 405 domaine de Clairis, 89150 SAVIGNY-SUR-CLAIRIS 453 885 055 RCS de SENS Le 13/01/2026, l’AGE a décidé de nommer gérant, Mme Rolande ZURATAS 405 domaine de Clairis, 89150 SAVIGNY-SUR-CLAIRIS en remplacement de M. Léon ZURATAS.
+- Mention au RCS de SENS.
+- SARL au capital de 4 000 € 150 Rue de Paris 89000 AUXERRE.
+- Aux termes d’une délibération de l’AGE en date 27 Janvier 2026 la collectivité des associés a décidé la dissolution anticipée de la société à compter du 1er Février 2026 et sa mise en liquidation amiable.
+
+## [NUMÉRIQUE : Jérôme Durain annonce une mission de renforcement de la <b>cybersécurité</b> ...](http://www.macon-infos.com/fr/site-map/bourgogne/49130-numerique-jerome-durain-annonce-une-mission-de-renforcement-de-la-cybersecurite-des-prestataires-de-la-region)  
+*Source : macon-infos.com | Publication : 2026-02-20*
+
+- Ce vendredi, le président de la Région Bourgogne-Franche-Comté Jérôme Durain a demandé au président de l'ARNIA Patrick Molinoz de se pencher sur la cybersécurité des principaux opérateurs de la collectivité.
+- Communiqué de la Région BFC Face à l’augmentation continue des cyberattaques concernant aussi bien les pouvoirs publics que les entreprises, Jérôme Durain, président de la Région Bourgogne-Franche-Comté, annonce aujourd’hui la saisine officielle de l’Agence Régionale du Numérique et de l’intelligence artificielle (ARNia) afin de conduire une mission de diagnostic, de sensibilisation et d’accompagnement sur la cybersécurité des opérateurs principaux de la collectivité.
+- Depuis plusieurs années, les attaques informatiques se multiplient et se sophistiquent, touchant directement les services publics.
+- État civil, gestion financière, infrastructures techniques, établissements de santé ou encore systèmes éducatifs, personne n’est épargné.
+
+## [Les valeurs de <b>cybersécurité</b> chutent après le lancement de l'outil Claude Code Security par ...](https://fr.investing.com/news/stock-market-news/les-valeurs-de-cybersecurite-chutent-apres-le-lancement-de-loutil-claude-code-security-par-anthropic-3280588)  
+*Source : fr.investing.com | Publication : 2026-02-20*
+
+- Investing.com - Les leaders de la sécurité cloud ont subi une forte vente vendredi après qu'Anthropic PBC a dévoilé un outil capable de détecter.
+
+## [Initiative pour un Internet plus sûr](https://www.internetsociety.org/fr/our-work/safer-internet/)  
+*Source : internetsociety.org | Publication : 2026-02-20*
+
+- Projets soutenus par l’Initiative pour un Internet plus sûr Projets soutenus par l’Initiative pour un Internet plus sûr L’Initiative pour un Internet plus sûr a pour mission de renforcer la durabilité à long terme de la confiance et de la sécurité en ligne, partout dans le monde.
+- C’est la stratégie que nous voulons mettre en place pour garantir à chacun une expérience de l’Internet sûre, sécurisée et digne de confiance.
+- L’initiative accompagnera plusieurs projets dans les domaines suivants : Éducation et formation à la sécurité en ligne, ainsi que des outils pratiques permettant aux utilisateurs de prendre des décisions éclairées et de se protéger.
+- - Centre de ressources en ligne dédié à la confiance et à la sécurité, composé de contenus fiables et multilingues, accessibles à tout le monde, dont le lancement est prévu pour 2026.
+
+## [“Impossible à pirater” : le mot de passe ultra simple recommandé par un expert en <b>cybersécurité</b>](https://www.modesettravaux.fr/trucs-et-astuces/fallait-le-savoir/impossible-a-pirater-le-mot-de-passe-ultra-simple-recommande-par-un-expert-en-cybersecurite-171428.html)  
+*Source : modesettravaux.fr | Publication : 2026-02-20*
+
+- “Impossible à pirater” : le mot de passe ultra simple recommandé par un expert en cybersécurité Entre les « 123456 » et les prénoms recyclés, vos comptes restent des cibles faciles.
+- Un expert mise sur une phrase absurde pour tout changer, avec quelques règles clés.
+- Mot de passe impossible à pirater : le vrai problème des codes trop simples Dans les classements 2024, les mêmes codes reviennent encore : "123456", "azerty", "qwerty123", "marseille", sans oublier les petits noms "doudou" ou "loulou".
+- Ajoutez à cela la réutilisation du même sésame partout, parfois avec une minuscule variante, et le terrain est idéal pour une compromission en chaîne.
+
+## [Alerte IPTV : ce virus peut contracter un prêt en votre nom en pillant vos données](https://www.01net.com/actualites/alerte-iptv-virus-contracter-pret-votre-nom-pillant-donnees.html)  
+*Source : 01net.com | Publication : 2026-02-20*
+
+- Un nouveau virus, taillé pour pirater les smartphones Android, vient d’être repéré par les chercheurs de ThreatFabric.
+- Baptisé « Massiv » par les experts, le virus est un cheval de Troie bancaire qui est actif depuis plusieurs mois en Espagne, au Portugal, en Turquie et en France.
+- Pour infecter le smartphone de ses victimes, le logiciel malveillant se cache dans des applications IPTV partagées sous la forme de fichiers APK sur Internet.
+- Une fois que la victime télécharge et installe cette application, elle va tomber sur une fausse interface laissant penser qu’il s’agit d’une app légitime.
+
+## [Cyberattaques et fuites de données: pourquoi la France est particulièrement ciblée](https://www.charentelibre.fr/societe/securite/cyberattaques-et-fuites-de-donnees-pourquoi-la-france-est-particulierement-ciblee-27973306.php)  
+*Source : charentelibre.fr | Publication : 2026-02-20*
+
+- Cyberattaques et fuites de données: pourquoi la France est particulièrement ciblée Attractivité économique et prises de positions à l’international expliquent la fréquence des incidents, selon les experts.
+- Après des attaques sur des ministères en fin d’année, la consultation d’un vaste fichier de données bancaires révélée mercredi illustre à nouveau la fréquence des incidents subis en France.
+
+## [Trois ingénieurs de la Silicon Valley sont accusés d'avoir dérobé &quot;des informations ... - BFM](https://www.bfmtv.com/tech/cybersecurite/trois-ingenieurs-de-la-silicon-valley-sont-accuses-d-avoir-derobe-des-informations-confidentielles-et-sensibles-a-google-et-d-avoir-transfere-des-donnees-vers-l-iran_AN-202602200525.html)  
+*Source : bfmtv.com | Publication : 2026-02-20*
+
+- Trois ingénieurs de la Silicon Valley sont accusés d’avoir dérobé "des informations confidentielles et sensibles" à Google et d'avoir transféré des données vers l’Iran Alors que les tensions entre Téhéran et Washington atteignent leur paroxysme, la Silicon Valley se retrouve elle aussi au cœur de la tempête.
+- Trois ingénieurs y ont été inculpés jeudi par un grand jury fédéral pour vol de secrets commerciaux de Google et d’autres entreprises, et pour transfert de données sensibles vers l’Iran.
+- Samaneh Ghandali, 41 ans, sa sœur Soroor Ghandali, 32 ans, et Mohammadjavad Khosravi, 40 ans, tous résidents de San Jose, ont été arrêtés jeudi et ont comparu le même jour devant un tribunal fédéral.
+- Selon le bureau du procureur des États-Unis pour le district nord de Californie, le trio, de nationalité iranienne, est accusé de complot, de vol et de tentative de vol de secrets commerciaux, ainsi que d’obstruction à la justice.
+
+## [La Région annonce une mission de renforcement de la <b>cybersécurité</b> de ses opérateurs](https://www.bienpublic.com/faits-divers-justice/2026/02/20/la-region-annonce-une-mission-de-renforcement-de-la-cybersecurite-de-ses-operateurs)  
+*Source : bienpublic.com | Publication : 2026-02-20*
+
+- Bourgogne-Franche-Comté La Région annonce une mission de renforcement de la cybersécurité de ses opérateurs Les cyberattaques touchent de plus en plus d'oganismes publics,comme le fisc ces derniers jours.
+- la Région Bourgogne-Franche-Comté n'est pas non plus épargnée : le 19 janvier, une faille de sécurité avait fait fuiter les données personnelles des titulaires de la carte Avantages Jeunes.
+- Jérôme Durain, président de la Région Bougogne-Franche-Comté, annonce la saisine de l'Agence régionale du numérique et de l'intelligence artificielle (ARNia) pour conduire « une mission de diagnostic, de sensibilisation et d’accompagnement sur la cybersécurité des opérateurs principaux de la collectivité », comme annoncé dans un communiqué.
+- « La cybersécurité n'est plus une option » « Depuis plusieurs années, les attaques informatiques se multiplient et se sophistiquent, touchant directement les services publics.
+
+## [<b>Cybersécurité</b> : le ministère des Sports va « renforcer » ses dispositifs - La Croix](https://www.la-croix.com/societe/cybersecurite-le-ministere-des-sports-va-renforcer-ses-dispositifs-20260220)  
+*Source : la-croix.com | Publication : 2026-02-20*
+
+- Le ministère des Sports va « renforcer » ses dispositifs de cybersécurité après l’annonce d’une « exfiltration de données » concernant 450 000 personnes, deux mois après une précédente cyberattaque, a-t-il indiqué vendredi, alors que plusieurs fédérations sportives ont également été touchées ces derniers mois.
+- Cette « exfiltration provient du système d’information Forômes, plateforme dédiée à la saisie, la gestion et la consultation des formations, des candidats et des diplômes de l’animation et du sport délivrés par le ministère ».
+- Sont « concernés » 450 000 candidats et des données telles que des noms, prénoms, adresses postales et électroniques, dates de naissance ou encore numéros de téléphone, selon le communiqué.
+- « À ce stade des investigations, il apparaît que l’incident est lié au piratage d’un compte légitime d’un organisme de formation dont les accès ont été immédiatement désactivés », est-il indiqué.
+
+## [Un aspirateur-robot piratable : le cas DJI Romo réveille les consciences !](https://meilleure-innovation.com/maison/aspirateur/aspirateur-robot-piratable-le-cas-dji-romo/)  
+*Source : meilleure-innovation.com | Publication : 2026-02-20*
+
+- Le DJI Romo rappelle une évidence : un aspirateur-robot, ce n’est pas qu’un appareil ménager, c’est un objet connecté qui cartographie votre intérieur.
+- Quand une faille ouvre l’accès à ces données, la question n’est plus la saleté… mais la sécurité !.
+- À force de voir les aspirateurs-robots comme de simples assistants ménagers, on oublie un détail gênant : ils se déplacent partout, observent tout, et stockent beaucoup d’informations sur nos habitudes et notre intérieur.
+- Le cas du DJI Romo le remet brutalement sur la table, avec une histoire de cybersécurité qui ressemble moins à un “bug technique” qu’à un rappel à l’ordre.
+
+## [<b>Cybersécurité</b>: le ministère des Sports va &quot;renforcer&quot; ses dispositifs après plusieurs attaques](https://www.notretemps.com/depeches/cybersecurite-le-ministere-des-sports-va-renforcer-ses-dispositifs-apres-plusieurs-attaques-128850)  
+*Source : notretemps.com | Publication : 2026-02-20*
+
+- Cybersécurité: le ministère des Sports va "renforcer" ses dispositifs après plusieurs attaques Le ministère des Sports va "renforcer" ses dispositifs de cybersécurité après l'annonce d'une "exfiltration de données" concernant 450.000 personnes, deux mois après une précédente cyberattaque, a-t-il indiqué vendredi, alors que plusieurs fédérations sportives ont également été touchées ces derniers mois.
+- Cette "exfiltration provient du système d'information Forômes, plateforme dédiée à la saisie, la gestion et la consultation des formations, des candidats et des diplômes de l'animation et du sport délivrés par le ministère".
+- Sont "concernés" 450.000 candidats et des données telles que des noms, prénoms, adresses postales et électroniques, dates de naissance ou encore numéros de téléphone, selon le communiqué.
+- "À ce stade des investigations, il apparaît que l'incident est lié au piratage d'un compte légitime d'un organisme de formation dont les accès ont été immédiatement désactivés", est-il indiqué.
+
+## [Forum international de la <b>Cybersécurité</b> 2026 - Wavestone](https://www.wavestone.com/fr/event/forum-international-de-la-cybersecurite/)  
+*Source : wavestone.com | Publication : 2026-02-20*
+
+- Forum international de la Cybersécurité 2026 Cybersécurité - · Cybersécurité - Horaires : Du 09:00 au 18:00 cet , à Lille Grand PalaisEmplacement : Lille Grand Palais, 1 boulevard des Cités Unies 59777 Lille – opens in new windowCréé en 2007, le Forum INCYBER s’impose comme le principal événement européen dédié à la sécurité et à la confiance numériques ; il est aussi, depuis 2022, un temps fort au Canada.
+- Wavestone sera présent au FIC 2026 à Lille, l’un des plus grands événements mondiaux dédiés à la cybersécurité.
+- Nous serons ravis de partager notre expertise et nos insights sur les enjeux actuels et futurs de la cybersécurité.
+- Rendez-vous sur notre stand (C18) pour échanger et discuter des défis à venir dans ce domaine et retrouvez-nous à l’occasion de : 31 mars de 14h à 15 : Table ronde : « IAM : comment remporter le défi de l’orchestration à l’heure de la conformité ?.
+
+## [Jérôme Durain annonce une mission de renforcement de la <b>cybersécurité</b> pour ... - Info-Beaune.com](https://www.info-beaune.com/articles/2026/02/20/14384/jerome-durain-annonce-une-mission-de-renforcement-de-la-cybersecurite-pour-les-operateurs-regionaux/)  
+*Source : info-beaune.com | Publication : 2026-02-20*
+
+- Jérôme Durain annonce une mission de renforcement de la cybersécurité pour les opérateurs régionaux Publié le 20 Février 2026 à 17h30 Face à l’augmentation continue des cyberattaques concernant aussi bien les pouvoirs publics que les entreprises, Jérôme Durain, président de la Région Bourgogne-Franche-Comté, annonce aujourd’hui la saisine officielle de l’Agence Régionale du Numérique et de l’intelligence artificielle (ARNia) afin de conduire une mission de diagnostic, de sensibilisation et d’accompagnement sur la cybersécurité des opérateurs principaux de la collectivité.
+- Depuis plusieurs années, les attaques informatiques se multiplient et se sophistiquent, touchant directement les services publics.
+- État civil, gestion financière, infrastructures techniques, établissements de santé ou encore systèmes éducatifs, personne n’est épargné.
+- Ces menaces font peser un risque réel sur la continuité des services rendus à la population, la protection des données personnelles et la confiance des citoyens.
+
+## [PromptSpy : ce malware s'appuie sur Gemini pour espionner les utilisateurs Android](https://www.numerama.com/cyberguerre/2184411-ce-malware-sappuie-sur-gemini-pour-espionner-les-utilisateurs-android.html)  
+*Source : numerama.com | Publication : 2026-02-20*
+
+- À quel point l’IA déterminera les cyberattaques du futur ?.
+- Alors que les évolutions sont scrutées de près par les experts en menaces cyber, ESET a dévoilé le 19 février 2026 un rapport autour d’un nouveau malware baptisé PromptSpy.
+- Un rapport publié quelques mois après la découverte du premier prototype de ransomware piloté par IA.
+- Ici l’objectif est avant tout la prise de contrôle de l’appareil et l’exfiltration de données.
+
+## [<b>CYBERSECURITE</b> - Jérôme Durain annonce une mission de renforcement pour ... - Info-Chalon.com](https://www.info-chalon.com/articles/2026/02/20/108045/cybersecurite-jerome-durain-annonce-une-mission-de-renforcement-pour-les-operateurs-de-la-region-bourgogne-franche-comte/)  
+*Source : info-chalon.com | Publication : 2026-02-20*
+
+- Bourgogne CYBERSECURITE - Jérôme Durain annonce une mission de renforcement pour les opérateurs de la région Bourgogne-Franche Comté Publié le 20 Février 2026 à 17h15 Face à l’augmentation continue des cyberattaques concernant aussi bien les pouvoirs publics que les entreprises, Jérôme Durain, président de la Région Bourgogne-Franche-Comté, annonce aujourd’hui la saisine officielle de l’Agence Régionale du Numérique et de l’intelligence artificielle (ARNia) afin de conduire une mission de diagnostic, de sensibilisation et d’accompagnement sur la cybersécurité des opérateurs principaux de la collectivité.
+- Communiqué de la région Depuis plusieurs années, les attaques informatiques se multiplient et se sophistiquent, touchant directement les services publics.
+- État civil, gestion financière, infrastructures techniques, établissements de santé ou encore systèmes éducatifs, personne n’est épargné.
+- Ces menaces font peser un risque réel sur la continuité des services rendus à la population, la protection des données personnelles et la confiance des citoyens.
+
+## [NUMÉRIQUE : Jérôme Durain annonce une mission de renforcement de la <b>cybersécurité</b> ...](https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/numerique-jerome-durain-annonce-une-mission-de-renforcement-de-la-cybersecurite-des-prestataires-de-la-region.html)  
+*Source : creusot-infos.com | Publication : 2026-02-20*
+
+- Recherche Pour nous joindre alain.bollery@orange.fr SMS au 06.98.82.18.88 Annonces légales Pour votre publicité sur Creusot-infos, un seul numéro 06 62 80 46 68 Vie locale.
+- Pharmacie de garde Grande région du Creusot.
+- Faits Divers Faits Divers ailleurs Au Creusot Dans la Région du Creusot En Saône-et-Loire En Bourgogne et ailleurs Sport.
+- Billard.
+
+## [Tech&amp;Fest 2026 : <b>cybersécurité</b> et IA, l'Europe en quête de souveraineté - Big Media](https://bigmedia.bpifrance.fr/nos-actualites/techfest-2026-cybersecurite-et-ia-leurope-en-quete-de-souverainete)  
+*Source : bigmedia.bpifrance.fr | Publication : 2026-02-20*
+
+- Tech&Fest 2026 : cybersécurité et IA, l'Europe en quête de souveraineté Réunis sur l'Agora Bpifrance lors de la 3ème édition du Tech&Fest, les experts de l'écosystème ont été clairs : la vélocité de l'intelligence artificielle bouleverse les règles du jeu.
+- Face à des cybermenaces industrialisées, les entreprises françaises n'ont d'autre choix que de contre-attaquer en s'appuyant sur des IA ultra-spécialisées, tout en relevant un défi vital de la souveraineté européenne.
+- News - Deeptech -.
+- - Cybersécurité - Articles - - Temps de lecture: 5 min - La révolution de l'intelligence artificielle ne ressemble en rien à celle d'Internet.
+
+## [Cyberattaques et fuites de données : « Il y a un véritable problème » : pourquoi la France est ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaques-et-fuites-de-donnees-il-y-a-un-veritable-probleme-pourquoi-la-france-est-elle-en-premiere-ligne-27971189.php)  
+*Source : sudouest.fr | Publication : 2026-02-20*
+
+- La France fait partie des pays les plus visés par les cyberattaques et les fuites de données, notamment en raison de son attractivité économique et de ses positions internationales, selon plusieurs experts Touchée par de nombreuses fuites de données, la France figure parmi les pays les plus ciblés par des cyberattaques, en raison d’une certaine attractivité économique et aussi de prises de positions à l’international, notamment sur le conflit en Ukraine, pointent plusieurs rapports et experts.
+- Après des attaques sur des ministères en fin d’année, la consultation d’un vaste fichier de données bancaires révélée mercredi illustre à nouveau la fréquence des incidents subis en France.
+
+## [« L'Europe doit cesser d'être l'idiot utile du village libérale » Thomas Kerjean](https://www.solutions-numeriques.com/leurope-doit-cesser-detre-lidiot-utile-du-village-liberale-thomas-kerjean/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-20*
+
+- À la suite de l’annonce de l’Élysée sur les 4,5 milliards d’euros d’achats publics dans le numérique, Thomas Kerjean, ex-Directeur de la division Cloud et IA de Microsoft et actuel PDG de Mailinblack livre son analyse sur la souveraineté, la commande publique et les priorités industrielles françaises.
+- SNC : Considérez-vous cette annonce comme un véritable tournant stratégique pour la souveraineté numérique française, ou comme une mesure conjoncturelle ?.
+- Thomas Kerjean : Nous avons échangé à deux reprises avec l’Elysée sur ce sujet et l’intention stratégique est très claire.
+- Fondée sur une compréhension fine de la double dépendance de la France, cognitive d’une part (Meta, TikTok et X), industrielle d’autres part (hyperscalers cloud et IA, leaders mondiaux cybersécurité), l’Etat a pleinement saisi l’importance stratégique de maîtriser le numérique en France et en Europe.
 
 ## [Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de ... - leFaso.net](https://lefaso.net/spip.php?article144569)  
 *Source : lefaso.net | Publication : 2026-02-19*
