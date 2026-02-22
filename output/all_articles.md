@@ -1,5 +1,151 @@
-# Résumés – 2026-02-21
+# Résumés – 2026-02-22
 
+
+## [Voitures pilotées par logiciel : le vrai défi n'est pas l'innovation, mais la maintenance pendant 15 ans](https://www.automobile-magazine.fr/toute-l-actualite/article/51077-voitures-pilotees-par-logiciel-le-vrai-defi-nest-pas-linnovation-mais-la-maintenance-pendant-15-ans)  
+*Source : automobile-magazine.fr | Publication : 2026-02-22*
+
+- Acheter une voiture qui s’améliore toute seule grâce à des mises à jour à distance ressemble à une petite révolution.
+- Navigation plus intelligente, aides à la conduite enrichies, nouveaux services ajoutés sans passer par l’atelier : sur le papier, la promesse est séduisante.
+- Mais une question se pose néanmoins : que se passe-t-il dix ou quinze ans plus tard, quand cette voiture connectée circule encore sur la route ?.
+- Une voiture devenue ordinateur pour longtemps On parle de plus en plus de « véhicules définis par logiciel », ou SDV (software-defined vehicles).
+
+## [infoDSI : Le quotidien des utilisateurs de l'informatique en entreprise](https://infodsi.com/articles/208886/francois-barde-est-promu-directeur-des-ventes-indirectes-de-dstny.html)  
+*Source : infodsi.com | Publication : 2026-02-22*
+
+- Veuillez activer Javascript.
+
+## [Réseaux sociaux : les Émirats alertent sur les risques liés au partage excessif](https://lepetitjournal.com/dubai/reseaux-sociaux-emirats-alertent-sur-les-risques-lies-partage-435815)  
+*Source : lepetitjournal.com | Publication : 2026-02-22*
+
+- Le Conseil de cybersécurité des Émirats arabes unis met en garde contre les dangers du partage d’informations personnelles en ligne.
+- Selon les autorités, près de 40 % des utilisateurs auraient déjà subi des atteintes à la vie privée, appelant à une vigilance accrue face à la montée des fraudes numériques.
+- Le Conseil de cybersécurité des Émirats arabes unis (CSC) met en garde contre la publication d’informations personnelles en ligne.
+- Selon l’institution, près de 40 % des utilisateurs ont déjà été victimes d’atteintes à la vie privée liées au partage excessif de données sur les réseaux sociaux.
+
+## [La fixation des taux d'imposition 2026 ajournée pour cause de panne affectant le logiciel à Spézet](https://www.letelegramme.fr/finistere/spezet-29540/la-fixation-des-taux-dimposition-2026-ajournee-pour-cause-de-panne-affectant-le-logiciel-a-spezet-6988554.php)  
+*Source : letelegramme.fr | Publication : 2026-02-22*
+
+- Réuni vendredi, le conseil municipal a dû reporter l’approbation du Compte financier unique (CFU) de la commune à cause d’une panne du logiciel Hélios.
+- Les élus ont toutefois validé d’autres points, comme la cession d’un tracteur et un accompagnement en cybersécurité.
+- Les Comptes financiers uniques 2025 (CFU) étaient à l’ordre du jour du conseil municipal réuni vendredi 20 février 2026.
+- Cependant, une panne majeure affectant le logiciel de comptabilité publique Hélios depuis début février, perturbe significativement la gestion des collectivités.
+
+## [Face aux cyberattaques et fuites de données, le gouvernement a présenté une stratégie ...](https://www.ladepeche.fr/2026/02/22/face-aux-cyberattaques-et-fuites-de-donnees-le-gouvernement-a-presente-une-strategie-nationale-de-cybersecurite-2026-2030-13238036.php)  
+*Source : ladepeche.fr | Publication : 2026-02-22*
+
+- Face aux cyberattaques et fuites de données, le gouvernement a présenté une stratégie nationale de cybersécurité 2026-2030 l'essentiel Le gouvernement a présenté la Stratégie nationale de cybersécurité 2026-2030, un texte structurant qui fixe cinq piliers et quatorze objectifs pour renforcer la résilience numérique de la France face à une menace en constante intensification.
+- Présentée le 29 janvier par le gouvernement, la Stratégie nationale de cybersécurité 2026-2030 fixe le cadre de l’action publique face à la menace numérique.
+- Commandée par Emmanuel Macron et élaborée sous l’égide du Secrétariat général de la défense et de la sécurité nationale (SGDSN), elle prolonge la Revue nationale stratégique et ambitionne de faire de la France une « Nation cyber de premier rang ».
+- La numérisation croissante de l’économie, des services publics et des usages citoyens a fait du cyberespace un champ de confrontation à part entière : espionnage, sabotages, extorsions ou déstabilisation informationnelle s’inscrivent désormais dans un continuum d’agressions mêlant acteurs étatiques, cybercriminels et groupes activistes.
+
+## [Surfshark : la solution <b>cybersécurité</b> tout-en-un pour une protection complète](https://www.lesnumeriques.com/vpn/surfshark-la-solution-cybersecurite-tout-en-un-pour-une-protection-complete-n251773.html)  
+*Source : lesnumeriques.com | Publication : 2026-02-22*
+
+- Surfshark : la solution cybersécurité tout-en-un pour une protection complète Surfshark ne se limite pas à un simple VPN.
+- Il intègre également un antivirus, une protection de l’identité et plusieurs autres outils de sécurité.
+- Actuellement, l’abonnement est proposé en promotion à partir de 1,99 € par mois.
+- Surfshark est surtout connu pour son service VPN à la fois rapide et sécurisé.
+
+## [3 milliards d'adresses mail ont été compromises et diffusées sur le dark web - 01net.com](https://www.01net.com/actualites/3-milliards-adresses-mail-compromises-diffusees-dark-web.html)  
+*Source : 01net.com | Publication : 2026-02-22*
+
+- Une nouvelle fuite massive de données est apparue sur BreachForums, la plaque tournante des informations compromises.
+- Le mois dernier, un utilisateur opérant sous le pseudonyme de Adkka72424 a mis en ligne un répertoire de 150 Go contenant 6,8 milliards d’adresses e-mail uniques.
+- Le pirate affirme avoir passé environ deux mois à extraire ces données de diverses sources en ligne, y compris de bases de données compromises par des malwares ou de compilations variées.
+- Les chercheurs de CyberNews se sont penchés sur les données diffusées par le cybercriminel.
+
+## [Affaire Pape Cheikh Diallo : Serigne Bada Kémane visé par une plainte - Seneweb](https://www.seneweb.com/fr/news/Justice/affaire-pape-cheikh-diallo-serigne-bada-kemane-vise-par-une-plainte_n_484260.html)  
+*Source : seneweb.com | Publication : 2026-02-22*
+
+- Affaire Pape Cheikh Diallo : Serigne Bada Kémane visé par une plainte L'influenceur Serigne Bada Kémane est sous le coup d'une nouvelle procédure judiciaire au Sénégal.
+- Dans une vidéo devenue virale, le TikTokeur, alias « le marabout du peuple », aurait traité une célèbre chanteuse de lesbienne.
+- Cette dernière a déposé une plainte contre son accusateur et X, selon des sources de Seneweb.
+- L'affaire est au niveau de la Division spéciale de Cybersécurité.
+
+## [Cyberattaque contre Air Côte d'Ivoire : ce que l'on sait du <b>ransomware</b> et des risques pour ...](https://www.afrik.com/cyberattaque-contre-air-cote-d-ivoire-ce-que-l-on-sait-du-ransomware-et-des-risques-pour-les-passagers)  
+*Source : afrik.com | Publication : 2026-02-22*
+
+- Nouvel épisode dans la montée des cybermenaces visant les entreprises africaines : la compagnie nationale Air Côte d'Ivoire a été touchée par une.
+
+## [Les importations ont baissé de 23, 6 % en décembre, selon l'ANSD - APS](https://aps.sn/les-importations-ont-baisse-de-23-6-en-decembre-selon-lansd/)  
+*Source : aps.sn | Publication : 2026-02-22*
+
+- Dakar, 22 fév (APS) – Le Sénégal a enregistré en décembre 2025, une baisse de 23, 6 % de ses importations, ressortant à 544,8 milliards de francs CFA contre 713, 3 milliards de francs CFA au mois précédent, a-t-on appris de l’Agence nationale de la statistique et de la démographie (ANSD).
+- Les importations du mois de décembre ressortent à 544, 8 milliards de francs CFA contre 713, 3 milliards de francs CFA au mois précédent, soit une diminution de 23, 6 %, indique la structure dans son Bulletin mensuel des statistiques du commerce extérieur.
+- Elle signale que cette baisse fait suite à celle des achats à l’extérieur de matériels de transports, de produits pharmaceutiques et de sucres bruts raffinés.
+- L’Agence nationale de la statistique et de la démographie fait toutefois état sur la même période d’une augmentation des achats à l’extérieur de produits pétroliers raffinés et de métaux communs, ce qui contribué à limiter de manière générale la baisse des importations en décembre.
+
+## [5 raisons qui font de Proton VPN un choix sûr pour votre protection en ligne - PhonAndroid](https://www.phonandroid.com/5-raisons-proton-vpn-choix-protection-ligne.html)  
+*Source : phonandroid.com | Publication : 2026-02-22*
+
+- 5 raisons qui font de Proton VPN un choix sûr pour votre protection en ligne Le marché des VPN, très concurrentiel, compte de nombreux fournisseurs qui ne respectent pas toujours leurs promesses en matière de sécurité et de protection de la vie privée.
+- Proton VPN en ce qui le concerne se démarque par sa transparence et ses technologies de sécurité avancées.
+- Voici 5 atouts qui en font un choix idéal pour votre protection en ligne.
+- Internet regorge de menaces dont les conséquences sont parfois lourdes en termes de préjudices.
+
+## [Afrique : un déficit de 6,1 millions de professionnels de santé d'ici 2030 pour la couverture ...](https://tchadinfos.com/2026/02/22/afrique-un-deficit-de-61-millions-de-professionnels-de-sante-dici-2030-pour-la-couverture-sanitaire-universelle/)  
+*Source : tchadinfos.com | Publication : 2026-02-22*
+
+- Selon le rapport « African Health Workforce Compact Investment Case Analysis Report » publié par l’Africa CDC le 29 janvier 2026, le continent africain aura besoin de 6,1 millions de professionnels de la santé supplémentaires d’ici 2030 afin d’atteindre les objectifs de couverture sanitaire universelle (CSU) et de satisfaire les besoins essentiels en soins de santé.
+- Ce document, élaboré dans le cadre du Compact continental pour la main-d’œuvre de santé (adopté suite à une décision de l’Assemblée de l’Union africaine en 2022), met en lumière les investissements nécessaires pour former, retenir et déployer médecins, infirmiers, sages-femmes, agents de santé communautaires et autres cadres.
+- Il souligne que chaque dollar investi dans la santé pourrait générer jusqu’à 19 dollars de retours économiques, alors que l’inaction risquerait de coûter 1 400 milliards de dollars à l’Afrique d’ici 2030.
+- Ce chiffre, issu d’une évaluation continentale approfondie, met en lumière un déséquilibre majeur : l’Afrique supporte environ 24 % du fardeau mondial de maladies, mais ne dispose que de 3 % des travailleurs de santé mondiaux.
+
+## [Claude Code annonce un outil de <b>cybersécurité</b>, Wall Street panique et efface 15 milliards](https://geekslands.fr/claude-code-cybersecurite-wall-street-panique-actions-crowdstrike-15-milliards/)  
+*Source : geekslands.fr | Publication : 2026-02-22*
+
+- Anthropic dévoile une fonctionnalité de détection de failles dans Claude Code.
+- En réponse, les traders liquident les actions cybersécurité.
+
+## [L'outil IA d'Anthropic bouleverse la <b>cybersécurité</b> | Phemex News](https://phemex.com/fr/news/article/anthropic-unveils-aipowered-code-security-tool-shakes-cybersecurity-market-61942)  
+*Source : phemex.com | Publication : 2026-02-22*
+
+- Anthropic a lancé Claude Code Security, un outil piloté par l'IA conçu pour analyser les bases de code à la recherche de vulnérabilités et suggérer des correctifs, provoquant des réactions significatives sur le marché.
+- Cet outil, qui utilise des modèles de langage avancés tels que Claude Opus 4.6, vise à identifier les failles dans la logique métier et les contrôles d'accès défaillants que les scanners traditionnels pourraient manquer.
+- Lors de tests internes, il a découvert plus de 500 vulnérabilités de haute gravité dans des bases de code open source.
+- Cette annonce a entraîné une forte baisse des actions dans le secteur de la cybersécurité, avec des entreprises comme Crowdstrike et Cloudflare enregistrant des chutes d'environ 8 %.
+
+## [Anthropic lance Claude Code Security, bouleversant le marché des actions liées à la <b>cybersécurité</b>](https://news.bitcoin.com/fr/anthropic-lance-claude-code-security-bouleversant-le-marche-des-actions-liees-a-la-cybersecurite/)  
+*Source : news.bitcoin.com | Publication : 2026-02-22*
+
+- You need to enable JavaScript to run this app.
+
+## [L'effondrement soudain de cette étoile pourrait dévoiler la première preuve d'une supernova ratée](https://www.mediacongo.net/article-actualite-160796_l_effondrement_soudain_de_cette_etoile_pourrait_devoiler_la_premiere_preuve_d_une_supernova_ratee.html)  
+*Source : mediacongo.net | Publication : 2026-02-22*
+
+- Science & env.
+- Une étoile massive observée dans Andromède s’est volatilisée après un bref sursaut lumineux.
+- Les astronomes étudient ce signal inhabituel pour comprendre sa disparition soudaine.
+- L’hypothèse d’une supernova ratée gagne du terrain face à cette mort stellaire silencieuse.
+
+## [Côte d'Ivoire-AIP/ Des populations de Minignan sensibilisées aux dangers liés à la <b>cybercriminalité</b>](https://www.aip.ci/323320/cote-divoire-aip-des-populations-de-minignan-sensibilisees-aux-dangers-lies-a-la-cybercriminalite/)  
+*Source : aip.ci | Publication : 2026-02-22*
+
+- Minignan, 22 fév 2025 (AIP)- Des populations de Minignan ont été sensibilisées sur les dangers liés à la cybercriminalité au cours d’une production radiophonique réalisée par la radio “Voix de Minignan” en français et en langue locale Malinké, mercredi 18 février 2026.
+- Cette production qui s’inscrit dans le cadre du projet “Renforcer la fiabilité de l’information en Afrique de l’Ouest et au Sahel” est mise en œuvre avec la participation de l’association Résilience pour la Paix.
+- La thématique vise à permettre aux populations de s’imprégner des risques liés aux fausses informations et à la cybercriminalité.
+- L’officier des droits de l’homme, Gueu Arnold Lewis Bian de la Commission régionale du Folon a donné des indications sur des notions relatives aux droits et devoirs du citoyen en matière de communication.
+
+## [Espionnage chez Google : trois suspects iraniens et un risque de 20 ans de prison - Clubic](https://www.clubic.com/actualite-601585-espionnage-chez-google-trois-suspects-iraniens-et-un-risque-de-20-ans-de-prison.html)  
+*Source : clubic.com | Publication : 2026-02-22*
+
+- L'alarme a sonné fort du côté de chez Google.
+- Trois personnes auraient subtilisé des secrets industriels importants du géant américain.
+- Dérober des secrets industriels est une des activités majeures de la guerre de l'ombre que peuvent se mener les différents États et leurs services secrets.
+- Une activité si intense qu'elle fait aussi beaucoup de dégâts entre alliés, comme le rappelait l'ancien secrétaire à la Défense américain Robert Gates en 2014, quand il expliquait que la France était, juste derrière la Chine, le pays qui subtilisait le plus de secrets industriels américains.
+
+## [Post de Antoine Hautin - LinkedIn](https://fr.linkedin.com/posts/antoinehautin_infrastructures-cloud-composants-activity-7431029286020509696-J8sv)  
+*Source : fr.linkedin.com | Publication : 2026-02-22*
+
+- 𝗟'𝗔𝘀𝘀𝗲𝗺𝗯𝗹𝗲́𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 𝗹𝗮𝗻𝗰𝗲 𝘂𝗻𝗲 𝗖𝗼𝗺𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗱'𝗲𝗻𝗾𝘂𝗲̂𝘁𝗲 𝘀𝘂𝗿 𝗹𝗲𝘀 𝗱𝗲́𝗽𝗲𝗻𝗱𝗮𝗻𝗰𝗲𝘀 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝗹𝗹𝗲𝘀 𝗲𝘁 𝗹𝗲𝘀 𝘃𝘂𝗹𝗻𝗲́𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝗲́𝘀 𝘀𝘆𝘀𝘁𝗲́𝗺𝗶𝗾𝘂𝗲𝘀 𝗱𝗮𝗻𝘀 𝗹𝗲 𝘀𝗲𝗰𝘁𝗲𝘂𝗿 𝗱𝘂 𝗻𝘂𝗺𝗲́𝗿𝗶𝗾𝘂𝗲 𝗲𝘁 𝗹𝗲𝘀 𝗿𝗶𝘀𝗾𝘂𝗲𝘀 𝗽𝗼𝘂𝗿 𝗹'𝗶𝗻𝗱𝗲́𝗽𝗲𝗻𝗱𝗮𝗻𝗰𝗲 𝗱𝗲 𝗹𝗮 𝗙𝗿𝗮𝗻𝗰𝗲, sous la Présidence du député Philippe Latombe.
+- Cette commission (re)posera de manière systémique la question des dépendances numériques : #infrastructures, #cloud, #composants, #logiciels, #extraterritorialité juridique.
+- Le véritable enjeu sera d’objectiver ces dépendances et de distinguer : ➡️ dépendance subie ➡️ interdépendance stratégique ➡️ choix assumés --------------- Cette Commission est la bienvenue, car le débat sur les dépendances technologiques mérite d’être éclairé et clarifié.
+- Toutes les dépendances ne se valent pas.
+
+## [Le ministère de la Sécurité publique sollicite des commentaires sur le projet de décret ...](https://baonghean.vn/fr/bo-cong-an-lay-y-kien-gop-y-du-thao-nghi-dinh-quy-dinh-ve-an-ninh-mang-10324666.html)  
+*Source : baonghean.vn | Publication : 2026-02-22*
+
+- En conséquence, le projet de décret précise plusieurs articles de la loi sur la cybersécurité concernant les mesures de protection de la cybersécurité.
 
 ## [Outil 2.0 ZATAZ : 5 outils locaux gratuits pour reprendre la main sur sa cyber de demain](https://www.zataz.com/outil-2-0-zataz-5-outils-locaux-gratuits-pour-reprendre-la-main-sur-sa-cyber-de-demain/)  
 *Source : zataz.com | Publication : 2026-02-21*
