@@ -1,5 +1,153 @@
-# Résumés – 2026-02-22
+# Résumés – 2026-02-23
 
+
+## [Wall Street trébuche entre angoisse commerciale et panique sur la <b>cybersécurité</b>](https://www.boursorama.com/bourse/actualites/wall-street-trebuche-entre-angoisse-commerciale-et-panique-sur-la-cybersecurite-26fd57f7b656a5566ab4ea608dc61c77)  
+*Source : boursorama.com | Publication : 2026-02-23*
+
+- Wall Street trébuche entre angoisse commerciale et panique sur la cybersécurité information fournie par Zonebourse 23/02/2026 à 22:18 La décision récente de la Cour suprême d'invalider les tarifs douaniers imposés par Donald Trump a ravivé les incertitudes autour de la stratégie commerciale américaine.
+- Si les marchés avaient initialement salué la nouvelle, les déclarations du président sur la possibilité de nouvelles mesures tarifaires ont ravivé la nervosité.
+- Les valeurs financières ont été particulièrement touchées.
+- Visa chute de 4,57% et JPMorgan recule de 4,17%, les investisseurs redoutant un impact sur la consommation et les flux commerciaux internationaux en cas de nouvelle escalade.
+
+## [CrowdStrike, Datadog et d'autres titres du secteur de la <b>cybersécurité</b> chutent après le ...](https://www.boursorama.com/bourse/actualites/crowdstrike-datadog-et-d-autres-titres-du-secteur-de-la-cybersecurite-chutent-apres-le-lancement-de-l-outil-d-ia-d-anthropic-ca0a2b4123c273dfd06e442c01b5a4b1)  
+*Source : boursorama.com | Publication : 2026-02-23*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par Jaspreet Singh Les actions des entreprises de cybersécurité, dont CrowdStrike CRWD.O et Datadog DDOG.O , ont chuté lundi, les investisseurs ayant évalué l'impact potentiel du nouvel outil de sécurité de la startup d'intelligence artificielle Anthropic sur l'industrie.
+- La nouvelle fonctionnalité d'Anthropic, Claude Code Security, est conçue pour détecter les vulnérabilités de haute gravité dans les dépôts de logiciels libres et proposer des correctifs pour réparer les bogues.
+- Les actions de CrowdStrike, Datadog et Zscaler ZS.O ont chuté d'environ 11 %, tandis que celles de Fortinet FTNT.O et Okta OKTA.O ont baissé d'environ 6 %.
+- Palo Alto Networks PANW.O a chuté de 3 % et SentinelOne S.N a baissé de 5 %.
+
+## [Chute des actions CrowdStrike, Datadog et d'autres valeurs de la <b>cybersécurité</b> après le ...](https://ch.zonebourse.com/actualite-bourse/chute-des-actions-crowdstrike-datadog-et-d-autres-valeurs-de-la-cybersecurite-apres-le-lancement-de-ce7e5dd3db89f024)  
+*Source : ch.zonebourse.com | Publication : 2026-02-23*
+
+- Les actions de plusieurs sociétés de cybersécurité, dont CrowdStrike et Datadog, ont plongé lundi, alors que les investisseurs évaluaient l&#039;impact potentiel du nouvel outil de sécurité de la start-up d&#039;intelligence artificielle Anthropic sur le secteur.La nouvelle fonctionnalité d&#039;Anthropic, Claude Code Security, est conçue pour détecter les vulnérabilités les plus sévères dans les dépôts de logiciels open source et proposer des correctifs pour résoudre les bugs.Les titres de CrowdStrike, Datadog et Zscaler ont chuté d&#039;environ 11 %, tandis que ceux de Fortinet et Okta ont reculé d&#039;environ 6 %.
+- Palo Alto Networks a perdu 3 % et SentinelOne a baissé de 5 %.Les valeurs logicielles sont malmenées ces derniers mois, du fait des craintes du marché concernant les capacités croissantes des outils d&#039;IA, en particulier depuis le lancement de plug-ins issus du modèle de langage génératif Claude d&#039;Anthropic, perçu comme l&#039;offensive de la start-up pour devenir une couche applicative majeure.« Ce que vous observez aujourd&#039;hui est en réalité la poursuite d&#039;une vague de ventes guidée par la panique et un narratif dominant », explique Shrenik Kothari, directeur et analyste sécurité et infrastructure chez Robert W. Baird.Claude Code Security ne gère pas les tâches de sécurité en temps réel telles que la détection d&#039;intrusions actives, l&#039;arrêt d&#039;attaques en cours ou la gestion de composants logiciels compilés en production, des capacités proposées par d&#039;autres plates-formes de sécurité spécialisées, précise Kothari.
+- Certains analystes estiment que cette vague de ventes est une réaction excessive, alimentée par un narratif trop simpliste selon lequel l&#039;IA rendrait obsolètes les solutions de cybersécurité existantes.Par ailleurs, le concepteur de puces d&#039;IA Nvidia a annoncé lundi s&#039;être associé à Akamai, Forescout, Palo Alto Networks, Xage Security et Siemens afin de renforcer la cybersécurité en temps réel des systèmes de contrôle industriels.
+
+## [Stifel abaisse l'objectif de cours de CrowdStrike à 480$ sur la valorisation Par Investing.com](https://m.fr.investing.com/news/analyst-ratings/stifel-abaisse-lobjectif-de-cours-de-crowdstrike-a-480-sur-la-valorisation-93CH-3282205?ampMode=1)  
+*Source : m.fr.investing.com | Publication : 2026-02-23*
+
+- cybersécurité.
+- L'action se négocie actuellement à 388,60$, en baisse de 17% depuis le début de l'année et de près de 9,6% au cours de la seule.
+
+## [« Anthropic a trouvé 500 failles dans des logiciels qui étaient censés être bien ... - Les Echos](https://www.lesechos.fr/tech-medias/hightech/anthropic-a-trouve-500-failles-dans-des-logiciels-qui-etaient-censes-etre-bien-securises-les-champions-de-la-cybersecurite-plombes-en-bourse-victimes-a-leur-tour-de-lia-2217512)  
+*Source : lesechos.fr | Publication : 2026-02-23*
+
+- Anthropic a présenté une IA capable de saper un pan entier de l'activité des éditeurs de solutions de cybersécurité ... cybersécurité plombés en Bourse,.
+
+## [Extinction des réseaux 2G/3G : collectivités, <b>cybersécurité</b>… les enjeux d'une bascule à ...](https://www.banquedesterritoires.fr/extinction-des-reseaux-2g3g-collectivites-cybersecurite-les-enjeux-dune-bascule-marche-forcee-dici)  
+*Source : banquedesterritoires.fr | Publication : 2026-02-23*
+
+- Extinction des réseaux 2G/3G : collectivités, cybersécurité… les enjeux d'une bascule à marche forcée d'ici 2026 et 2029 Le Sénat alerte sur les conséquences économiques, budgétaires et opérationnelles de l'arrêt programmé des réseaux mobiles 2G en 2026 et 3G en 2029.
+- Si la modernisation technologique apparaît inéluctable, la commission de l'aménagement du territoire dénonce une transition conduite sans réelle concertation et appelle l'État à mieux piloter les risques, notamment pour les collectivités et les services publics locaux.
+- L'arrêt des réseaux 2G fin 2026 et 3G à l'horizon 2029 marque la fin d'une époque, l'aboutissement d'un cycle technologique engagé il y a plus de trente ans.
+- Apparue dans les années 1990, la 2G a introduit la voix numérique et les SMS ; la 3G, dans les années 2000, a ouvert l'accès mobile à internet et aux communications entre machines (MtoM).
+
+## [Pham Minh Chinh adresse ses vœux aux figures de la culture et fixe ses priorités](https://vovworld.vn/fr-CH/actualites/pham-minh-chinh-adresse-ses-vœux-aux-figures-de-la-culture-et-fixe-ses-priorites-1469776.vov)  
+*Source : vovworld.vn | Publication : 2026-02-23*
+
+- Pham Minh Chinh adresse ses vœux aux figures de la culture et fixe ses priorités Lai Hoa - lundi, 23 février 2026 | 19:01:27 (VOVWORLD) - À l’occasion du Nouvel An lunaire, le Premier ministre Pham Minh Chinh a rencontré lundi après-midi, dans la capitale, des personnalités du monde culturel, intellectuel et artistique, ainsi que des journalistes, sportifs, entrepreneurs et représentants des secteurs du tourisme et des industries culturelles.
+- Vue d'ensemble de la rencontre.
+- Photo: VOV Le chef du gouvernement a appelé le ministère de la Culture, des Sports et du Tourisme à lever les blocages institutionnels, à affiner les politiques publiques et à renforcer la formation des ressources humaines, tout en favorisant la détection et la valorisation des talents.
+- Il a insisté sur la mise en œuvre du Programme national cible pour la culture (2025-2035) et sur la modernisation des infrastructures, en particulier celles d’envergure nationale, avec l’ambition d’un rapprochement progressif avec les standards internationaux.
+
+## [Anthropic lance Claude Code Security : une annonce qui secoue le secteur de la <b>cybersécurité</b>](https://www.solutions-numeriques.com/anthropic-lance-claude-code-security-une-annonce-qui-secoue-le-secteur-de-la-cybersecurite/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-23*
+
+- En dévoilant Claude Code Security, une nouvelle fonctionnalité dédiée à l’analyse automatisée des vulnérabilités logicielles, Anthropic fait une incursion directe dans le champ de la cybersécurité applicative.
+- L’annonce, très suivie par les marchés, a immédiatement provoqué des réactions boursières marquées chez plusieurs acteurs historiques du secteur.
+- Anthropic annonce Claude Code Security La start-up d’IA Anthropic a officiellement dévoilé Claude Code Security, une fonctionnalité de cybersécurité intégrée à sa plateforme Claude Code.
+- L’outil est conçu pour analyser des bases de code entières, détecter des vulnérabilités et proposer des corrections ciblées, avec une approche plus “raisonnée” qu’un simple scanner de type SAST/DAST.
+
+## [Occitanie : Scalian annonce près de 200 recrutements - ToulEmploi](https://www.toulemploi.fr/Occitanie-Scalian-annonce-pres-de-200-recrutements,50569)  
+*Source : toulemploi.fr | Publication : 2026-02-23*
+
+- Le groupe Scalian, spécialisé dans les logiciels critiques, l’ingénierie des systèmes, la performance opérationnelle et la transformation par l’intelligence artificielle, accélère son développement.
+- D’ici à la fin 2026, 1350 recrutements sont prévus, dont plus de 600 en France et 750 à l’international.
+- En Occitanie, la dynamique est particulièrement soutenue, puisque près de 200 embauches sont programmées.
+- Des besoins portés par l’aéronautique et les systèmes critiques "Ces besoins s’inscrivent dans la dynamique de nos activités régionales, portées par les grands acteurs de l’aéronautique, du spatial, de la défense et des industries connexes", précise l’entreprise, dont le siège est basé à Toulouse.
+
+## [Armis obtient l'autorisation de niveau 5 du ministère de la Défense américain](https://www.businesswire.com/news/home/20260223998047/fr)  
+*Source : businesswire.com | Publication : 2026-02-23*
+
+- Armis permet aux agences fédérales de concevoir et d'optimiser des programmes de cybersécurité exhaustifs, accompagnées par Armis Centrix™, la.
+
+## [Voilà comment la France compte enfin contrer la désinformation et les ingérences ... - Clubic](https://www.clubic.com/actualite-601711-voila-comment-la-france-compte-enfin-contrer-la-desinformation-et-les-ingerences-numeriques-etrangeres.html)  
+*Source : clubic.com | Publication : 2026-02-23*
+
+- La France vient d'adopter sa toute première stratégie nationale contre les manipulations de l'information d'origine étrangère.
+- Un plan ambitieux pour combattre la désinformation, valable jusqu'en 2030.
+- Ce n'est plus un sujet réservé aux experts en cybersécurité ou aux salles de crise des ministères : la désinformation d'origine étrangère est désormais traitée en France comme une menace nationale à part entière.
+- Le président de la République a adopté il y a quelques jours la première « Stratégie nationale de lutte contre les manipulations de l'information », élaborée sous l'égide du Secrétariat général de la défense et de la sécurité nationale (SGDSN) avec des chercheurs, parlementaires et acteurs de terrain.
+
+## [Nvidia s'associe à Siemens et à des entreprises de <b>cybersécurité</b> pour les infrastructures critiques](https://www.zonebourse.com/actualite-bourse/nvidia-s-associe-a-siemens-et-a-des-entreprises-de-cybersecurite-pour-les-infrastructures-critiques-ce7e5dd3d980fe23)  
+*Source : zonebourse.com | Publication : 2026-02-23*
+
+- Nvidia s'associe à Siemens et à des entreprises de cybersécurité pour les infrastructures critiquesNvidia a annoncé lundi un partenariat avec Akamai Technologies , Forescout, Palo Alto Networks , Xage Security et Siemens afin d'apporter ses solutions de calcul accéléré et d'intelligence.
+
+## [Comment Orange structure sa recherche entre IA, <b>cybersécurité</b> et réseaux du futur - Lyon ...](https://www.lyon-entreprises.com/actualites/article/comment-orange-structure-sa-recherche-entre-ia-cybersecurite-et-reseaux-du-futur)  
+*Source : lyon-entreprises.com | Publication : 2026-02-23*
+
+- Comment Orange structure sa recherche entre IA, cybersécurité et réseaux du futur Un des plus grands programmes de recherche privé en Europe Lors du salon tech & fest à Grenoble, nous avons rencontré Lyse Brillouet, directrice de la recherche d’Orange.
+- L’occasion de revenir sur la stratégie scientifique du groupe, qui pilote l’un des plus importants programmes de recherche privé en France comme en Europe.
+- Orange compte plus de 700 chercheurs répartis dans 13 laboratoires, dont sept à l’international.
+- Parmi ces implantations, le site de Grenoble occupe une place stratégique.
+
+## [Attention à l'emballement, la nouvelle IA Claude Code Security ne va pas (encore ... - La Tribune](https://www.latribune.fr/article/tech/38462376996939/attention-a-l-emballement-la-nouvelle-ia-claude-code-security-ne-va-pas-encore-remplacer-les-antivirus)  
+*Source : latribune.fr | Publication : 2026-02-23*
+
+- L’annonce a secoué les marchés financiers.
+- Anthropic, l’un des champions actuels de l’intelligence artificielle, a dévoilé « Claude Code Security », un outil d’analyse de code propulsé par ses propres technologies d’IA, censé détecter des failles de sécurité dans l’application que l’on développe par exemple, avant son déploiement.
+- La réaction de Wall Street a été immédiate.
+- Plusieurs géants de la cybersécurité ont payé cher l’annonce récente d’Anthropic : le groupe CrowdStrike a perdu 8 %, Okta a chuté de plus de 9 %, Cloudflare a reculé de 8 %, et JFrog s’est effondré de près de 25 % en une seule séance.
+
+## [Secure Boot : Microsoft renouvelle ses clés pour sécuriser Windows - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/02/23/secure-boot-microsoft-renouvelle-ses-cles/)  
+*Source : dcod.ch | Publication : 2026-02-23*
+
+- TL;DR : L’essentiel Les certificats Secure Boot émis en 2011 arrivent à expiration entre juin et octobre 2026.
+- Microsoft automatise leur remplacement via les mises à jour Windows pour maintenir la protection du démarrage.
+- - Le processus Secure Boot authentifie les chargeurs pour bloquer les logiciels malveillants comme les rootkits.
+- Sans nouveaux certificats, les machines basculent dans un état de sécurité dégradé limitant les protections futures.
+
+## [Ce hacker a utilisé l'IA pour attaquer 55 pays en cinq semaines - PhonAndroid](https://www.phonandroid.com/ce-hacker-a-utilise-lia-pour-attaquer-55-pays-en-cinq-semaines.html)  
+*Source : phonandroid.com | Publication : 2026-02-23*
+
+- Ce hacker a utilisé l’IA pour attaquer 55 pays en cinq semaines L’intelligence artificielle transforme désormais les méthodes des cybercriminels.
+- Un hacker a utilisé des outils d’IA pour automatiser ses attaques à grande échelle.
+- En cinq semaines, il a compromis 600 pare-feu dans 55 pays.
+- L’IA n’est plus seulement un outil d’assistance pour rédiger du texte ou générer des images.
+
+## [De nombreux signalements supplémentaires de fraude téléphonique - RTBF Actus](https://www.rtbf.be/article/de-nombreux-signalements-supplementaires-de-fraude-telephonique-11684288)  
+*Source : rtbf.be | Publication : 2026-02-23*
+
+- Le Centre belge de cybersécurité (CCB - Centre for cybersecurity Belgium) a constaté une forte augmentation des signalements de phishing (hameçonnage par téléphone) ces derniers mois.
+- En décembre dernier, on en comptait 226, contre seulement 1 en décembre 2024 et 106 en janvier 2025.
+- "Ce type d'escroquerie téléphonique se manifeste par vagues successives", explique Katrien Eggers, porte-parole du CCB.
+- Les arnaqueurs utilisent différents stratagèmes, explique Katrien Eggers.
+
+## [<b>Cybersécurité</b> et IA Agentique : protéger ses actifs dans l'arène de 2026](https://www.dynamique-mag.com/article/cybersecurite-et-ia-agentique-proteger-ses-actifs-dans-larene-de-2026)  
+*Source : dynamique-mag.com | Publication : 2026-02-23*
+
+- Le décor a changé.
+- Si vous êtes entrepreneur en 2026, vous n’utilisez plus seulement des logiciels ; vous dirigez une armée invisible d’agents autonomes.
+- Mais dans l’ombre de cette efficacité redoutable, une nouvelle menace a muté.
+- La cybersécurité n’est plus une simple porte verrouillée, c’est une partie d’échecs en temps réel contre des algorithmes qui apprennent de vos erreurs avant même que vous ne les commettiez.
+
+## [Le lancement du code de sécurité Claude par Anthropic n'est pas une mauvaise nouvelle ...](https://global.morningstar.com/fr-ca/actions/le-lancement-du-code-de-scurit-claude-par-anthropic-nest-pas-une-mauvaise-nouvelle-pour-les-entreprises-spcialises-dans-la-cyberscurit)  
+*Source : global.morningstar.com | Publication : 2026-02-23*
+
+- Le lancement du code de sécurité Claude par Anthropic n’est pas une mauvaise nouvelle pour les entreprises spécialisées dans la cybersécurité Notre mise à jour sur certaines actions du secteur des logiciels et des infrastructures.
+- Le 20 février, Anthropic a lancé un outil d’analyse des vulnérabilités destiné aux applications de sécurité, entraînant une baisse moyenne de plus de 5 % de notre couverture en matière de cybersécurité, les investisseurs craignant qu’Anthropic et d’autres laboratoires d’intelligence artificielle ne remplacent les fonctions de cybersécurité au sein des entreprises.
+- Pourquoi c’est important ?.
+- Malgré l’impact tangible de la sortie du produit sur le marché, nous ne considérons pas l’outil de détection des vulnérabilités d’Anthropic comme une menace pour notre couverture en matière de cybersécurité, et ce pour les raisons suivantes.
+
+## [Les gestionnaires de mots de passe protègent vos mots de passe, sauf si… - Malwarebytes](https://www.malwarebytes.com/fr/blog/news/2026/02/password-managers-keep-your-passwords-safe-unless)  
+*Source : malwarebytes.com | Publication : 2026-02-23*
+
+- Je suis un fervent défenseur des gestionnaires de mots de passe.
+- Certes, il existe de meilleures alternatives aux mots de passe, comme les clés d'accès, mais si un fournisseur ne propose que des options de mot de passe, ce qui est souvent le cas, on ne peut pas y faire grand-chose.
+- Donc, pour l'instant, on semble coincés avec les mots de passe.
+- Tous les gestionnaires de mots de passe réputés affirment qu'ils ne peuvent pas voir vos mots de passe, même s'ils le voulaient.
 
 ## [Voitures pilotées par logiciel : le vrai défi n'est pas l'innovation, mais la maintenance pendant 15 ans](https://www.automobile-magazine.fr/toute-l-actualite/article/51077-voitures-pilotees-par-logiciel-le-vrai-defi-nest-pas-linnovation-mais-la-maintenance-pendant-15-ans)  
 *Source : automobile-magazine.fr | Publication : 2026-02-22*
