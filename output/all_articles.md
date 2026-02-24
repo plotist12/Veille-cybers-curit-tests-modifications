@@ -1,5 +1,155 @@
-# Résumés – 2026-02-23
+# Résumés – 2026-02-24
 
+
+## [L'essor de l'argent mobile en Afrique rend les utilisateurs vulnérables face à la <b>cybercriminalité</b>](https://adf-magazine.com/fr/2026/02/lessor-de-largent-mobile-en-afrique-rend-les-utilisateurs-vulnerables-face-a-la-cybercriminalite/)  
+*Source : adf-magazine.com | Publication : 2026-02-24*
+
+- Les pays africains sont les chefs de file mondiaux de l’emploi de l’argent mobile.
+- Pourtant, la faiblesse de la réglementation et les mauvaises connaissances du numérique rendent les utilisateurs exposés aux abus des escrocs en ligne et autres criminels, selon les experts.
+- Au total, les utilisateurs africains du mobile détenaient en date de 2024 plus de 1,1 milliard de comptes d’argent mobile parmi les 2,1 milliards de comptes existant dans le monde, selon un rapport récent de la GSM Association (GSMA), organisation commerciale représentant les intérêts des opérateurs de téléphonie mobile.
+- Sur l’ensemble du continent, les utilisateurs d’argent mobile ont conduit près de 900 milliards de transactions en 2024.
+
+## [Sécurité pratique : 10 conseils essentiels pour vous protéger sur le Web - ZDNET](https://www.zdnet.fr/pratique/securite-pratique-10-conseils-essentiels-pour-vous-proteger-sur-le-web-490704.htm)  
+*Source : zdnet.fr | Publication : 2026-02-24*
+
+- gonin/iStock/Getty Images Plus via Getty Images Points essentiels à retenir pour protéger votre navigation sur le Web Les activités sur les navigateurs sont impliquées dans près de la moitié des incidents de cybersécurité.
+- - Les vecteurs d'attaque comprennent les liens malveillants, les scripts de collecte d'identifiants et l'injection de contenu.
+- - Le respect des bonnes pratiques clés, exposées ci-dessous, vous aidera à rester en sécurité en ligne.
+- - Les navigateurs Web font partie des cibles privilégiées des cybercriminels actuels, jouant un rôle dans près de la moitié des incidents de sécurité, selon une nouvelle étude.
+
+## [Les Hauts-de-France modernisent leur réseau e-santé sécurisé avec Serinya Telecom](https://dsih.fr/articles/6185/les-hauts-de-france-modernisent-leur-reseau-e-sante-securise-avec-serinya-telecom)  
+*Source : dsih.fr | Publication : 2026-02-24*
+
+- Publicité en cours de chargement.
+- Les Hauts-de-France modernisent leur réseau e-santé sécurisé avec Serinya Telecom Un virage stratégique post-Prédice L’abandon en septembre 2025 du programme régional de transformation digitale du système de santé (Prédice), plombé par des difficultés techniques, avait laissé un vide.
+- Le Grades Inéa sant&numérique, basé à Amiens, a notifié le 23 décembre dernier un marché à Serinya Telecom pour pallier ces lacunes.
+- D’une durée initiale de quatre ans, extensible jusqu’à six ans, cette prestation vise explicitement « une interconnexion fiable et sécurisée » entre établissements de santé et médico-sociaux de la région.
+
+## [Roblox fournit aux prédateurs des « outils puissants » pour cibler les enfants, selon le comté ...](https://www.malwarebytes.com/fr/blog/news/2026/02/roblox-gives-predators-powerful-tools-to-target-children-says-la-county)  
+*Source : malwarebytes.com | Publication : 2026-02-24*
+
+- Le comté de Los Angeles a poursuivi en justice la société de jeux en ligne Roblox, s'ajoutant ainsi à une série de poursuites qui accusent la plateforme de mondes virtuels d'induire les parents en erreur en leur faisant croire qu'elle est sûre, alors qu'elle expose les enfants à des prédateurs et à des contenus sexuellement explicites.
+- La plainte déposée le 19 février fait du comté de Los Angeles le premier organisme gouvernemental californien à poursuivre la société en justice pour des raisons de sécurité des enfants.
+- Roblox revendique plus de 151 millions d'utilisateurs quotidiens, dont la plupart sont des enfants.
+- La société a déclaré qu'elle contestait ces allégations et qu'elle se défendrait vigoureusement.
+
+## [L'OM ciblé par une cyberattaque - Sports - Orange](https://sports.orange.fr/football/ligue-1/marseille/article/l-om-cible-par-une-cyberattaque-CNT000002nxZ0a.html)  
+*Source : sports.orange.fr | Publication : 2026-02-24*
+
+- Juba Touabi, Media365, publié le mardi 24 février 2026 à 17h45 L'alerte est sérieuse et pourrait marquer un tournant dans la gestion des données au sein du football français.
+- Selon les informations révélées par RMC Sport, un cybercriminel a revendiqué cette semaine le piratage d'une base de données liée à la billetterie en ligne de l'Olympique de Marseille.
+- Les informations auraient été mises en vente sur des forums spécialisés, laissant planer une menace sur les données personnelles d'environ 400 000 supporters marseillais.
+- Des données personnelles exposées À ce stade, aucune communication officielle du club phocéen n'avait été publiée.
+
+## [Universitas Pertahanan RI (UNHAN RI) et Thales s'associent pour former la ... - AeroMorning.com](https://aeromorning.com/universitas-pertahanan-ri-unhan-ri-et-thales-sassocient-pour-former-la-future-cybersecurite-de-lindonesie/)  
+*Source : aeromorning.com | Publication : 2026-02-24*
+
+- Thales déploiera un programme exclusif de formation en cybersécurité pour les étudiants de l'UNHAN RI afin de renforcer leurs compétences en.
+
+## [Comment la FINMA analyse les cyberrisques dans le secteur financier](https://www.finma.ch/fr/finma-public/série-d'articles-,-c-,-la-finma-à-l'ouvrage/artikelserie/cyberrisiken/)  
+*Source : finma.ch | Publication : 2026-02-24*
+
+- Pour assurer la surveillance de la branche financière, il faut pouvoir garantir un processus de surveillance solide, compétent et indépendant.
+- Cette brochure décrit la façon dont la FINMA remplit cette mission.
+- La FINMA rend compte de son action au moyen de son rapport annuel et de ses comptes annuels.
+- Le secteur financier suisse se voit confronté à un nombre croissant de défis de cybersécurité, alors que l’interconnexion technologique et les dépendances aux prestataires tiers accroissent les risques.
+
+## [La faille de sécurité chez ManageMyHealth met en lumière les lacunes en matière de ...](https://health-isac.org/fr/La-faille-de-sécurité-chez-ManageMyHealth-met-en-lumière-les-lacunes-en-matière-de-gouvernance-des-données./)  
+*Source : health-isac.org | Publication : 2026-02-24*
+
+- La faille de sécurité chez ManageMyHealth met en lumière les lacunes en matière de gouvernance des données.
+- Ce qui rend le cas néo-zélandais digne d'intérêt, c'est ce que les enquêtes testent réellement : les systèmes de santé sont-ils véritablement conçus pour protéger les informations hautement sensibles ?.
+- By Paul Chua , Directeur des opérations pour la région Asie-Pacifique, Santé-ISAC | Février 19, 2026 | 2H25 Lorsqu'une fuite de données de santé survient, le véritable danger ne réside souvent pas seulement dans les données auxquelles les pirates informatiques ont accès.
+- Il réside également dans ce que l'incident révèle sur la manière dont les informations des patients sont gérées en premier lieu.
+
+## [Hôpitaux menacés par le <b>ransomware</b> BeyondTrust - Health-ISAC - Centre d'analyse et de ...](https://health-isac.org/fr/Les-hôpitaux-menacés-par-les-attaques-de-ransomware-de-Beyond-Trust/)  
+*Source : health-isac.org | Publication : 2026-02-24*
+
+- Les hôpitaux menacés par le ransomware BeyondTrust Une vulnérabilité critique pourrait permettre aux attaquants de s'infiltrer dans les réseaux cliniques.
+- Les autorités fédérales américaines et les responsables du secteur exhortent les hôpitaux et les cliniques à remédier à une faille critique du logiciel BeyondTrust Remote Support et Privileged Remote Access qui, si elle était exploitée, pourrait donner à un attaquant un point d'appui au sein d'un réseau d'entreprise.
+- L'espace Centre de partage et d'analyse d'informations sur la santé Le 11 février, elle a également alerté le secteur de la santé sur cette faille.
+- « Les établissements de santé utilisent généralement BeyondTrust Remote Support pour permettre aux équipes informatiques et d'ingénierie clinique d'accéder en toute sécurité aux systèmes des utilisateurs finaux, notamment les postes de travail et les bornes interactives des cliniciens, et de les dépanner, sans que les utilisateurs aient besoin d'être sur place », a déclaré Errol Weiss« Il s’agit d’une couche d’accès et de support à distance essentielle dans de nombreux environnements hospitaliers », a déclaré le responsable de la sécurité de Health-ISAC.
+
+## [Les valeurs de la <b>cybersécurité</b> chutent après la présentation de Claude Code Security](https://fr.tradingview.com/news/cointribune:bcd0f631ab858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-02-24*
+
+- Les valeurs de la cybersécurité chutent après la présentation de Claude Code Security L’intelligence artificielle est-elle en train de dévorer l’industrie tech de l’intérieur ?.
+- Le lancement discret d’un outil par Anthropic a suffi à provoquer des milliards de dollars de pertes en Bourse.
+- Et ce n’est peut-être que le début.
+- Lisez-nous sur Google NewsEn bref Anthropic a lancé Claude Code Security le 20 février, un scanner de vulnérabilités propulsé par l’IA.
+
+## [Rapport Sophos Active Adversary 2026 : les attaques basées sur l'identité ... - Global Security Mag](https://www.globalsecuritymag.fr/rapport-sophos-active-adversary-2026-les-attaques-basees-sur-l-identite.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-24*
+
+- Rapport Sophos Active Adversary 2026 : les attaques basées sur l’identité prédominent tandis que les groupes de menaces se multiplient février 2026 par Sophos Sophos publie son rapport Active Adversary 2026.
+- D’après ce rapport, 67 % de tous les incidents analysés l’an dernier par les équipes IR (Incident Response) et MDR (Managed Detection and Response) de Sophos provenaient d’attaques basées sur l’identité.
+- Les résultats des analyses mettent en évidence la manière dont les attaquants continuent d’exploiter les identifiants compromis, les processus d’authentification multifacteur (MFA) faibles ou inexistants, et les systèmes de gestion des identités mal protégés – souvent sans même avoir à déployer de nouveaux outils ou techniques.
+- Principales conclusions du rapport : Les cyberattaquants passent de l’exploitation des vulnérabilités à celle des identifiants compromis, les attaques par force brute (15,6 %) rattrapant quasiment les exploits (16 %) en tant que méthode d’accès initiale.
+
+## [Chrome est en danger : ces 3 failles critiques obligent Google à déployer une mise à jour d'urgence](https://www.01net.com/actualites/chrome-danger-failles-critiques-obligent-chrome-corriger-urgence.html)  
+*Source : 01net.com | Publication : 2026-02-24*
+
+- Google a débusqué trois nouvelles vulnérabilités critiques dans le code de Chrome.
+- Les trois failles sont considérées comme graves par les équipes de sécurité de Google.
+- L’entreprise américaine estime donc que les brèches peuvent facilement être exploitées par des cybercriminels.
+- C’est pourquoi le géant de Mountain View a déployé un correctif de toute urgence sur le navigateur.
+
+## [Après la <b>cybersécurité</b>, Claude Code fait trembler IBM en bourse en s'attaquant à Cobol](https://next.ink/226051/apres-la-cybersecurite-claude-code-fait-trembler-ibm-en-bourse-en-sattaquant-a-cobol/)  
+*Source : next.ink | Publication : 2026-02-24*
+
+- Après la cybersécurité, Claude Code fait trembler IBM en bourse en s’attaquant à Cobol Colosses aux pieds d'argile ?.
+- Le 24 février à 17h44 Anthropic a coup sur coup procédé à deux annonces qui ont fait l’effet de petits séismes sur les marchés financiers.
+- Plusieurs grands noms de la cybersécurité ont ainsi vu leur cours de bourse chamboulé suite à l’annonce, vendredi, de Claude Code Security.
+- Lundi, c’est le géant IBM qui a connu la plus mauvaise journée boursière de son histoire, en partie parce qu’Anthropic prétend désormais s’attaquer à l’une de ses chasses gardées : la modernisation des applications COBOL.
+
+## [Anssi, NIS2, France 2030, IA offensive : la vérité sur la souveraineté cyber française face ...](https://www.journaldunet.com/cybersecurite/1548207-anssi-nis2-france-2030-ia-offensive-la-verite-sur-la-souverainete-cyber-francaise-face-aux-etats-unis-et-a-la-chine/)  
+*Source : journaldunet.com | Publication : 2026-02-24*
+
+- Anssi, NIS2, France 2030, IA offensive : la vérité sur la souveraineté cyber française face aux États-Unis et à la Chine Entre la directive NIS2, l'explosion des attaques dopées à l'intelligence artificielle et la pression sur les infrastructures critiques, la cybersécurité française entre dans une zone de vérité stratégique.
+- La question n’est plus : la France est-elle active en cybersécurité ?.
+- La question est : la France peut-elle devenir une puissance cyber souveraine crédible dans un environnement dominé par des acteurs investissant plusieurs milliards d’euros par an en R&D ?.
+- À la fin 2025, la filière cyber française représente environ 2 300 entreprises pour un chiffre d’affaires agrégé de 21 milliards d’euros.
+
+## [Données bancaires compromises. « Des fiches sur les gens - Paris Normandie](https://www.paris-normandie.fr/id699091/article/2026-02-24/donnees-bancaires-compromises-des-fiches-sur-les-gens-pour-un-specialiste)  
+*Source : paris-normandie.fr | Publication : 2026-02-24*
+
+- « Des fiches sur les gens », pour un spécialiste rouennais en cybersécurité.
+- Clément Michel, salarié de l'entreprise rouennaise YesWeHack tournée vers.
+
+## [Pourquoi Claude Code Security a fait baisser les valeurs en Bourse des géants de la <b>cybersécurité</b>](https://incyber.org/article/pourquoi-claude-code-security-fait-baisser-valeurs-bourse-geants-cybersecurite/)  
+*Source : incyber.org | Publication : 2026-02-24*
+
+- Pourquoi Claude Code Security a fait baisser les valeurs en Bourse des géants de la cybersécurité ?.
+- Articles du même auteur : 1 3 24.02.26 Industrie et OT Air Côte d’Ivoire confirme être victime d’un rançongiciel Lire 01.
+
+## [L'IA en <b>cybersécurité</b> pourrait améliorer certains processus, mais manque de fiabilité pour ...](https://www.zonebourse.com/actualite-bourse/l-ia-en-cybersecurite-pourrait-ameliorer-certains-processus-mais-manque-de-fiabilite-pour-remplacer-ce7e5cdadc8cf422)  
+*Source : zonebourse.com | Publication : 2026-02-24*
+
+- L'IA en cybersécurité pourrait améliorer certains processus, mais manque de fiabilité pour remplacer les plateformes de sécurité intégrales, selon BofASelon BofA Securities dans une note publiée mardi, l'intelligence artificielle appliquée à la cybersécurité pourrait accroître l'efficacité de certains processus spécifiques, comme.
+
+## [MARS@HACK - Mont-de-Marsan au cœur des enjeux de <b>cybersécurité</b> - PresseLib](https://presselib.com/article/mars-hack-mont-de-marsan-au-coeur-des-enjeux-de-cybersecurite)  
+*Source : presselib.com | Publication : 2026-02-24*
+
+- Le rendez-vous est désormais bien inscrit dans l’agenda des acteurs du numérique.
+- Organisé chaque année par le Centre de ressource en cybersécurité de Mont-de-Marsan Agglo, la Base aérienne 118, l’IUT Réseaux et Télécommunications de l’Université de Pau et des Pays de l’Adour et Campus Landes, l’événement s’adresse aussi bien aux professionnels qu’aux entrepreneurs, aux administrations, aux indépendants, aux étudiants et aux passionnés de hacking.
+- Pensé comme un temps d’échanges et d’innovation, Mars@Hack propose une immersion concrète dans les enjeux actuels de la cybersécurité.
+- L’édition 2026 s’articulera autour d’un challenge « Capture The Flag », organisé de 8 heures à 18 heures, permettant aux participants de mettre à l’épreuve leurs compétences techniques dans un cadre collaboratif et stimulant.
+
+## [L'OM victime d'une cyberattaque, les données de 400.000 supporters concernées](https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/l-om-victime-d-une-cyberattaque-les-donnees-de-400-000-supporters-concernees_AV-202602240607.html)  
+*Source : rmcsport.bfmtv.com | Publication : 2026-02-24*
+
+- L'OM victime d'une cyberattaque, les données de 400.000 supporters concernées L'Olympique de Marseille victime d'une cyberattaque.
+- Lundi soir, sur son compte X, le spécialiste de la cybersécurité Clément "SaxX" Domingo a publié un message en ce sens.
+- Le début du tweet est sans équivoque: "Cyberattaque à l'Olympique de Marseille (OM) : un cybercriminel revendique la mise en vente d'une base de données de 400 000 supporters..." Il indique que lundi en fin d'après-midi, un cybercriminel a revendiqué ce piratage de données.
+- Une information confirmée par RMC Sport.
+
+## [La publication du code de sécurité de Claude par Anthropic n'est pas une mauvaise ...](https://global.morningstar.com/fr/actions/la-publication-du-code-de-scurit-de-claude-par-anthropic-nest-pas-une-mauvaise-nouvelle-pour-les-actions-du-secteur-cyber)  
+*Source : global.morningstar.com | Publication : 2026-02-24*
+
+- La publication du code de sécurité de Claude par Anthropic n’est pas une mauvaise nouvelle pour les actions du secteur cyber.
+- Nous pensons que les fournisseurs de services informatiques pourront adopter les LLM à leur avantage.
+- Le 20 février, Anthropic a lancé un outil d’analyse des vulnérabilités destiné aux applications de sécurité, entraînant une baisse moyenne de plus de 5 % de notre couverture en matière de cybersécurité, les investisseurs craignant qu’Anthropic et d’autres laboratoires d’intelligence artificielle ne remplacent les fonctions de cybersécurité au sein des entreprises.
+- Pourquoi est-ce important ?.
 
 ## [Wall Street trébuche entre angoisse commerciale et panique sur la <b>cybersécurité</b>](https://www.boursorama.com/bourse/actualites/wall-street-trebuche-entre-angoisse-commerciale-et-panique-sur-la-cybersecurite-26fd57f7b656a5566ab4ea608dc61c77)  
 *Source : boursorama.com | Publication : 2026-02-23*
