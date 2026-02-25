@@ -1,5 +1,149 @@
-# Résumés – 2026-02-24
+# Résumés – 2026-02-25
 
+
+## [La Fédération française d'athlétisme victime d'une cyberattaque - L'INFORMATICIEN](https://www.linformaticien.com/magazine/cybersecurite/64513-la-federation-francaise-d-athletisme-victime-d-une-cyberattaque-majeure.html)  
+*Source : linformaticien.com | Publication : 2026-02-25*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cybersécurité · La Fédération française d.
+
+## [«Luxembourg est aussi la cible de cybercriminels» | Paperjam News](https://paperjam.lu/article/questions-luxembourg-est-aussi-la-cible-de-cybercriminels?width=800&height=500&title=Les+valeurs+en+temps+réel&inline=true)  
+*Source : paperjam.lu | Publication : 2026-02-25*
+
+- Monsieur Hofmann, quel est le panorama légal en matière de cybercriminalité?.
+- «Tout d’abord, je tiens à préciser que le Luxembourg est clairement la cible d’attaques cybercriminelles internationales.
+- Croire que le pays est trop petit ou pas assez intéressant pour ce type de menace est naïf et constitue une erreur qui pourrait se révéler fatale.
+- Il existe de nombreuses initiatives gouvernementales et privées en charge de la protection et de l’aide aux individus et aux entreprises faisant l’objet d’attaques: le CERT, Security made in Luxembourg (Smile), le Computer Incident Response Center Luxembourg (Circl), pour n’en citer que quelques-unes.
+
+## [IA et <b>cybersécurité</b> : les attaquants accélèrent, les entreprises doivent suivre - ITRnews](https://itrnews.com/articles/208949/ia-et-cybersecurite-les-attaquants-accelerent-les-entreprises-doivent-suivre.html)  
+*Source : itrnews.com | Publication : 2026-02-25*
+
+- Veuillez activer Javascript.
+
+## [Plus de 8 millions de fichiers d'utilisateurs accessibles: une application Android téléchargée ... - BFM](https://www.bfmtv.com/tech/cybersecurite/plus-de-8-millions-de-fichiers-d-utilisateurs-accessibles-une-application-android-telechargee-plus-de-500-000-fois-a-laisse-en-acces-libre-plus-de-12-teraoctets-de-donnees-personnelles_AN-202602250692.html)  
+*Source : bfmtv.com | Publication : 2026-02-25*
+
+- Plus de 8 millions de fichiers d'utilisateurs accessibles: une application Android téléchargée plus de 500.000 fois a laissé en accès libre plus de 12 téraoctets de données personnelles Les mesures pour éviter les applications problématiques sur le Play store de Google sont-elles pleinement efficaces?.
+- La question a le mérite de se poser après les découvertes des chercheurs de Cybernews, qui ont révélé qu'une app (aujourd'hui supprimée) baptisée Video AI Art Generator & Maker, téléchargée plus de 500.000 fois sur Android, permettait d'accéder à plus de 12 téractocets de données personnelles sans devoir s'authentifier.
+- Cette application, qui permettait de télécharger vidéos et photos pour les modifier via de l'IA générative, comportait, en accès libre, 1,57 million de photos et plus de 385.000 vidéos d'autres utilisateurs.
+- Ce sont au total 8,27 millions de fichiers qui étaient accessibles via un espace de stockage sur le cloud non sécurisé.
+
+## [<b>Cybersécurité</b> : ce bon plan VPN offre 12 mois de bien-être gratuits avec Calm, voici ...](https://www.latribune.fr/article/l-instant-selection/24044921526851/cybersecurite-ce-bon-plan-vpn-offre-12-mois-de-bien-etre-gratuits-avec-calm-voici-comment-en-beneficier)  
+*Source : latribune.fr | Publication : 2026-02-25*
+
+- À retenir : l'essentiel de cette convergence stratégique L'avantage : 12 mois offerts sur l'offre Premium de l'application Calm.
+- - Le déclencheur : toute souscription à un plan Surfshark de 12 ou 24 mois.
+- - La période : du 25 février au 23 mars 2026 inclus.
+- - Le mode d'emploi : code disponible dans l'interface web après les 30 jours de garantie.
+
+## [Xavier Dupont de Ligonnès : Pourquoi un ancien flic de la <b>cybercriminalité</b> ne croit pas à la ...](https://www.planet.fr/faits-divers-xavier-dupont-de-ligonnes-pourquoi-un-ancien-flic-de-la-cybercriminalite-ne-croit-pas-a-la-these-du-suicide.2994667.807918.html)  
+*Source : planet.fr | Publication : 2026-02-25*
+
+- Xavier Dupont de Ligonnès : Pourquoi un ancien flic de la cybercriminalité ne croit pas à la thèse du suicide L'affaire continue de fasciner la France entière et de hanter les services de police.
+- Alors que le mystère plane toujours sur le sort du père de famille soupçonné d'avoir tué sa femme et ses quatre enfants en avril 2011, un nouveau témoignage relance les spéculations.
+- Gilles Galloux, ancien de l'Office central de lutte contre la cybercriminalité (OCLCTIC), apporte un éclairage technique inédit qui remet en cause le scénario macabre de Roquebrune-sur-Argens.
+- Une expertise inédite de la "vie invisible" C'est une voix qui pèse dans le dossier.
+
+## [Cyber Émission du 20 février : on regarde dans les poches des pirates pour mieux se protéger](https://www.youtube.com/watch?v=NW9qhkJowl4)  
+*Source : youtube.com | Publication : 2026-02-25*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [L'évolution de la menace cyber remet‑elle en cause la résilience industrielle ?](https://www.journaldunet.com/cybersecurite/1548261-l-evolution-de-la-menace-cyber-remet-elle-en-cause-la-resilience-industrielle/)  
+*Source : journaldunet.com | Publication : 2026-02-25*
+
+- L'évolution de la menace cyber remet‑elle en cause la résilience industrielle ?.
+- Il n'y a pas si longtemps, la cybersécurité était encore perçue sous le prisme de l'anticipation et de la conformité.
+- Aujourd’hui, elle revêt l’habit inconfortable, pour les industriels, d’une condition concrète de la capacité à produire.
+- Les infrastructures sont devenues, au fil du temps, des actifs stratégiques à protéger, au risque de fragiliser, même de façon imperceptible, un modèle industriel.
+
+## [Le groupe Lazarus se diversifie avec un redoutable <b>ransomware</b>](https://www.generation-nt.com/actualites/lazarus-medusa-ransomware-groupe-nord-coreen-2071410)  
+*Source : generation-nt.com | Publication : 2026-02-25*
+
+- La menace que représente le groupe Lazarus s'intensifie avec l'adoption de nouveaux outils.
+- Historiquement lié aux ransomwares Maui et Play, le groupe diversifie ses méthodes en s'associant à des opérations de ransomware-as-a-service (RaaS) comme Medusa.
+- Un moyen de maximiser les gains financiers pour la Corée du Nord ?.
+- Plusieurs outils pour les cybarattaques Selon un rapport de Threat Hunter Team (Symantec et Carbon Black), les récentes intrusions attribuées à Lazarus révèlent un arsenal d'outils bien défini.
+
+## [<b>Cybercriminalité</b> : des entités russes et émiraties dans le viseur de Washington | Le Revenu](https://www.lerevenu.com/reussir-bourse/avis-des-pros/cybercriminalite-des-entites-russes-et-emiraties-dans-le-viseur-de-washington/)  
+*Source : lerevenu.com | Publication : 2026-02-25*
+
+- Cybercriminalité : des entités russes et émiraties dans le viseur de Washington Les sanctions comprennent le blocage des avoirs des personnes et sociétés ciblées.
+- Parmi eux figurent Sergey Sergeyevich Zelenyuk, sa société Matrix LLC (Operation Zero) ainsi que d’autres associés et entreprises basées en Russie et aux EAU.
+
+## [Westcon-Comstor propose les services professionnels Proofpoint - Global Security Mag](https://www.globalsecuritymag.fr/westcon-comstor-propose-les-services-professionnels-proofpoint.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-25*
+
+- Westcon-Comstor propose les services professionnels Proofpoint février 2026 par LA REDACTION DE GS MAG Westcon-Comstor annonce l’extension de son partenariat avec Proofpoint, acteur de référence en cybersécurité et conformité, en devenant le premier distributeur en Europe à proposer des services professionnels Proofpoint.
+- Avec un accent mis sur la scalabilité et la rapidité afin de garantir un time-to-value accéléré pour les partenaires du channel, Westcon fournira des déploiements opérationnels et prêts pour la production des solutions Proofpoint, à travers une série de offres clés en main, conçues pour les partenaires et basées sur les meilleures pratiques Proofpoint.
+- Cette initiative, portée par l’adhésion de Westcon au programme Certified Deployment Partner (CDP) de Proofpoint, permet aux partenaires de la région de capter des opportunités de services à forte marge et d’accélérer la croissance des revenus récurrents, soutenue par une adoption rapide par les clients.
+- Westcon se concentrera dans un premier temps sur les solutions de sécurité de la messagerie, leaders du marché, proposées par Proofpoint.
+
+## [Les cybercriminels de Lazarus adoptent le <b>ransomware</b> Medusa, un tournant dans leur ... - Clubic](https://www.clubic.com/actualite-602173-les-cybercriminels-de-lazarus-adoptent-le-ransomware-medusa-un-tournant-dans-leur-strategie-d-extorsion.html)  
+*Source : clubic.com | Publication : 2026-02-25*
+
+- Longtemps associé à ses propres souches de ransomware, le groupe nord-coréen Lazarus s’appuie désormais sur Medusa, déjà bien implanté dans l’écosystème du ransomware-as-a-service.
+- Une évolution tactique qui complique l’attribution et élargit le champ des cibles potentielles.
+- Depuis plus de dix ans, Lazarus développe et déploie ses propres outils pour ses campagnes d’extorsion, conservant ainsi la main sur ses infrastructures et ses chaînes d’infection.
+- Ce modus operandi semble toutefois évoluer, les derniers travaux de Symantec et Carbon Black indiquant que le groupe a récemment mobilisé le ransomware clé en main Medusa dans plusieurs attaques visant des établissements de santé.
+
+## [Avocat expérimenté en IT &amp; Données personnelles – F/H - Village de la Justice](https://www.village-justice.com/annonces/avocat-expérimenté-en-it-données-personnelles-f-/offres/412561)  
+*Source : village-justice.com | Publication : 2026-02-25*
+
+- Recherche Offres d'emploi, de collaboration et stages du Village de la Justice Dûˋjû inscrit ?.
+- Ou inscrivez-vous ici Avocat expûˋrimentûˋ en IT & Donnûˋes personnelles ã F/H Offre d'emploi : Avocat expûˋrimentûˋ en IT & Donnûˋes personnelles ã F/H Recruteur : PwC - Publiûˋ : 25/02/2026 - Rûˋgion : Neuilly-sur-seine (Ile de France) - PwC, cabinet pluridisciplinaire, rassemble 7 000 collaborateurs en France et au Maghreb, au sein d’un réseau mondial de plus de 364 000 personnes dans 136 pays.
+- Chaque jour, nous exerçons des métiers d’excellence pour concrétiser notre ambition : être utiles à nos clients et accélérateurs de mouvement.
+- Dans un monde en constante évolution, nous investissons dans le développement de nos équipes avec une proposition de valeur forte : Grow here.
+
+## [<b>Cybersécurité</b> et impact social : CSB.school et La Plateforme de l'Inclusion signent un ...](https://www.news-eco.com/communique/cybersecurite-et-impact-social-csb-school-et-la-plateforme-de-linclusion-signent-un-partenariat-pedagogique/)  
+*Source : news-eco.com | Publication : 2026-02-25*
+
+- Cybersécurité et impact social : CSB.school et La Plateforme de l’Inclusion signent un partenariat pédagogique Ce mécénat de compétences noué entre l’école supérieure spécialisée en cybersécurité et La Plateforme de l’Inclusion, va permettre aux étudiants de CSB.school de contribuer à la sécurisation d’un service public essentiel, illustrant l’engagement sociétal de l’établissement et de sa Fondation Cyber Pour Tous.
+- Ce partenariat entre CSB.school et La Plateforme de l’Inclusion (GIP), s’inscrit pleinement dans la mission de sensibilisation et d’inclusion portée par la Fondation Cyber Pour Tous.
+- La convention mobilise l’expertise technique des étudiants pour soutenir une structure à fort impact social.
+- Vianney Wattinne, Directeur Général de CSB.school, précise : « Nous nous réjouissons de ce partenariat qui remplit un double objectif essentiel à nos yeux : servir un but sociétal concret tout en assurant une montée en compétences opérationnelle de nos étudiants.
+
+## [Le Centre pour la Cybersecurité sera bientôt géré par le ministre de l'Intérieur - LaLibre.be](https://www.lalibre.be/belgique/politique-belge/2026/02/25/le-centre-pour-la-cybersecurite-sera-bientot-gere-par-le-ministre-de-linterieur-IDAOF4RHIFCH7EBK7IBHRAWDZU/)  
+*Source : lalibre.be | Publication : 2026-02-25*
+
+- Le Centre pour la Cybersecurité sera bientôt géré par le ministre de l'Intérieur Le Centre pour la cybersécurité (CCB) sera transféré, au plus tard le 1er janvier prochain, des services du Premier ministre vers les compétences du ministre de l'Intérieur, a annoncé mercredi le Premier ministre Bart De Wever à la Chambre.
+- Publié le 25-02-2026 à 12h28 - Le gouvernement souhaite "regrouper au maximum les départements chargés de la sécurité là où ils ont leur place", mais le Premier ministre manque tout simplement de temps, a-t-il indiqué.
+- Le Centre pour la cybersécurité Belgique (CCB) est responsable de la cybersécurité dans le pays depuis 2014.
+- Le centre élabore notamment une stratégie nationale et assure la gestion de crise en cas d'incidents cybernétiques.
+
+## [Le Centre pour la Cybersecurité sera bientôt géré par le ministre de l'Intérieur - DHnet](https://www.dhnet.be/dernieres-depeches/2026/02/25/le-centre-pour-la-cybersecurite-sera-bientot-gere-par-le-ministre-de-linterieur-773SJP6XBZALHJUDU6I42A5XKY/)  
+*Source : dhnet.be | Publication : 2026-02-25*
+
+- Le Centre pour la Cybersecurité sera bientôt géré par le ministre de l'Intérieur Le Centre pour la cybersécurité (CCB) sera transféré, au plus tard le 1er janvier prochain, des services du Premier ministre vers les compétences du ministre de l'Intérieur, a annoncé mercredi le Premier ministre Bart De Wever à la Chambre.
+- Publié le 25-02-2026 à 12h24 - à Bruxelles, Belgique - Le gouvernement souhaite "regrouper au maximum les départements chargés de la sécurité là où ils ont leur place", mais le Premier ministre manque tout simplement de temps, a-t-il indiqué.
+- Le Centre pour la cybersécurité Belgique (CCB) est responsable de la cybersécurité dans le pays depuis 2014.
+- Le centre élabore notamment une stratégie nationale et assure la gestion de crise en cas d'incidents cybernétiques.
+
+## [Les cyberattaques IA ont bondi de 89% - un réseau est tombé en 27 secondes - Clubic](https://www.clubic.com/actualite-602116-les-cyberattaques-ia-ont-bondi-de-89---un-reseau-est-tombe-en-27-secondes.html)  
+*Source : clubic.com | Publication : 2026-02-25*
+
+- Le rapport Global Threat Report 2026 de CrowdStrike dresse un bilan détaillé des cybermenaces observées en 2025.
+- Les attaquants y gagnent en vitesse et en discrétion, en s'appuyant sur l'intelligence artificielle pour automatiser et affiner leurs opérations.
+- En 2025, les intrusions ont changé de nature.
+- En fait, 82% des attaques détectées par CrowdStrike ne faisaient appel à aucun logiciel malveillant, contre 51% en 2020.
+
+## [MetaCompliance veut mesurer le risque cyber… du côté humain - ITchannel](https://itchannel.info/articles/208945/metacompliance-veut-mesurer-le-risque-cyber-du-cote-humain.html)  
+*Source : itchannel.info | Publication : 2026-02-25*
+
+- Veuillez activer Javascript.
+
+## [PXL-Digital lance des exercices de crise et un postgraduat en <b>cybersécurité</b> - ITdaily.](https://itdaily.fr/nouvelles/business/pxl-digital-lance-postgraduat-cybersecurite/)  
+*Source : itdaily.fr | Publication : 2026-02-25*
+
+- PXL-Digital répond à l’augmentation des cybermenaces par un projet étudiant de formation aux crises numériques et un nouveau postgraduat en cybersécurité qui débutera en octobre 2026.
+- Les cyberincidents de ces dernières années ont mis en évidence la vulnérabilité des organisations.
+- Ainsi, l’AZ Monica a récemment été touché par une attaque ayant entraîné le report d’opérations, et une panne numérique a provoqué l’annulation de vols à Brussels Airport l’année dernière.
+- Limburg.net a également renforcé sa sécurité après un piratage en décembre 2023.
+
+## [Le Centre pour la <b>Cybersécurité</b> belge sera bientôt géré par le ministre de l'Intérieur](https://www.sudinfo.be/id1114131/article/2026-02-25/le-centre-pour-la-cybersecurite-belge-sera-bientot-gere-par-le-ministre-de)  
+*Source : sudinfo.be | Publication : 2026-02-25*
+
+- Le Centre pour la cybersécurité Belgique sera transféré au ministère de l'Intérieur d'ici le 1er janvier, a annoncé le Premier ministre Bart De.
 
 ## [L'essor de l'argent mobile en Afrique rend les utilisateurs vulnérables face à la <b>cybercriminalité</b>](https://adf-magazine.com/fr/2026/02/lessor-de-largent-mobile-en-afrique-rend-les-utilisateurs-vulnerables-face-a-la-cybercriminalite/)  
 *Source : adf-magazine.com | Publication : 2026-02-24*
