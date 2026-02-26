@@ -1,5 +1,159 @@
-# Résumés – 2026-02-25
+# Résumés – 2026-02-26
 
+
+## [LastPass solde la violation de 2022 par un accord de 8 millions - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/02/26/lastpass-accord-de-8-millions/)  
+*Source : dcod.ch | Publication : 2026-02-26*
+
+- TL;DR : L’essentiel L’accord préliminaire validé début février prévoit une enveloppe globale dépassant les 8 millions de dollars.
+- Ce montant vise à compenser les préjudices subis par les utilisateurs résidant sur le territoire américain.
+- - Les victimes prouvant des pertes matérielles peuvent prétendre à 300 dollars.
+- Pour les dommages exceptionnels, le plafond grimpe à 10 000 dollars, sous réserve de fournir des justificatifs précis au tribunal compétent.
+
+## [Une PME sur quatre touchée par une cyberattaque malgré des investissements ...](https://www.globalsecuritymag.fr/une-pme-sur-quatre-touchee-par-une-cyberattaque-malgre-des-investissements.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-02-26*
+
+- Une PME sur quatre touchée par une cyberattaque malgré des investissements conséquents en sécurité février 2026 par Proton Proton publie une vaste étude menée sur six marchés.
+- Le Rapport Proton sur la cybersécurité des PME 2026 repose sur une enquête menée auprès de 3 000 fondateurs, dirigeants et responsables informatiques issus de six pays, dont la France.
+- Il offre un regard approfondi sur les mesures de protection actuellement mises en place par les PME et leurs limites sur le terrain.
+- Le site du rapport annuel sera enrichi dans les mois à venir avec des détails supplémentaires, notamment des analyses ventilées par pays et par secteur.
+
+## [La violation de données chez Conduent : de 10 millions à 25 millions (et ce n'est pas fini)](https://www.malwarebytes.com/fr/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting)  
+*Source : malwarebytes.com | Publication : 2026-02-26*
+
+- La violation de données chez Conduent est discrètement devenue l'un des plus importants incidents liés aux données de tiers de l'histoire des États-Unis, et la véritable question est désormais de savoir combien de programmes et d'employeurs différents sont concernés, même pour les personnes qui n'ont jamais entendu parler de Conduent.
+- Lorsque nous avons couvert cet incident pour la première fois, les documents publics faisaient état d'environ 10,5 millions de personnes touchées, principalement concentrées dans l'Oregon et quelques autres États.
+- Selon les dernières notifications des États, le nombre total s'élèverait à plus de 25 millions de personnes à travers les États-Unis, le Texas passant à lui seul d'une estimation initiale d'environ 4 millions à 15,4 millions de résidents touchés, et l'Oregon restant stable à environ 10,5 millions.
+- Cela en fait l'une des plus importantes violations de données jamais enregistrées dans le domaine de la santé.
+
+## [Instagram les messages explicites adressés à des mineurs en 2018. Le floutage des images ...](https://www.malwarebytes.com/fr/blog/family-and-parenting/2026/02/instagram-flagged-explicit-messages-to-minors-in-2018-image-blurring-arrived-six-years-later)  
+*Source : malwarebytes.com | Publication : 2026-02-26*
+
+- Il a fallu six ans à Meta pour flouter les images explicites sur Instagram, alors que des courriels internes montrent que les dirigeants étaient au courant dès 2018 que des mineurs en recevaient, selon des documents judiciaires récemment rendus publics.
+- Dans une déposition faite l'année dernière, Adam Mosseri (aujourd'hui directeur Instagram) évoque un échange d'e-mails avec Guy Rosen, alors vice-président et directeur de la sécurité informatique chez Meta.
+- Dans cet échange, M. Rosen expliquait que des adultes pouvaient trouver et envoyer des messages à des mineurs sur la plateforme.
+- Ces messages pouvaient contenir ce que M. Rosen appelait : « Harcèlement sexuel de niveau 2, comme les mecs qui envoient des photos de leur pénis à tout le monde.
+
+## [IT &amp; Cybersecurity Meetings 2026 – du 17 au 19 mars – Cannes - ITforBusiness.fr](https://www.itforbusiness.fr/it-cybersecurity-meetings-2026-du-17-au-19-mars-cannes-100775)  
+*Source : itforbusiness.fr | Publication : 2026-02-26*
+
+- Agenda IT & Cybersecurity Meetings 2026 – du 17 au 19 mars – Cannes Par Laurent Delattre, publié le 26 février 2026 Rendez-vous incontournable des décideurs IT et cybersécurité, l’événement cannois IT & Cybersecurity Meetings revient les 17, 18 et 19 mars 2026 avec une promesse intacte : des rencontres One to One à forte valeur ajoutée, un programme de conférences au cœur de l’actualité et un networking d’exception pour accélérer vos projets numériques et sécuritaires.
+- Plus qu’un salon professionnel, IT & Cybersecurity Meetings s’impose depuis 2009 comme la référence européenne du business meeting dédié aux réseaux, au cloud, à la mobilité, à la cybersécurité et désormais à l’IA.
+- Du 17 au 19 mars 2026, le Palais des Festivals et des Congrès de Cannes accueillera à nouveau cette édition au format unique, conçue pour mettre en relation directe décideurs IT et fournisseurs de solutions autour de projets concrets et vérifiés.
+- Des rendez-vous One to One calibrés pour le ROI Le concept reste la marque de fabrique de l’événement : des rendez-vous d’affaires de 15 minutes, soigneusement planifiés en amont grâce à un algorithme de matchmaking développé par Weyou Group.
+
+## [Il voulait contrôler le sien avec sa manette de Playstation: comment un programmeur ...](https://www.bfmtv.com/tech/actualites/cybersecurite/il-voulait-controler-le-sien-avec-sa-manette-de-playstation-comment-un-programmeur-francais-a-involontairement-hacke-7-000-aspirateurs-robots-du-fabricant-chinois-dji_AD-202602260522.html)  
+*Source : bfmtv.com | Publication : 2026-02-26*
+
+- Il voulait contrôler le sien avec sa manette de Playstation: comment un programmeur français a involontairement hacké 7.000 aspirateurs-robots du fabricant chinois DJI Le programmeur français Sammy Azdoufal voulait trouver une solution pour manoeuvrer son aspirateur robot avec une manette Playstation.
+- Quelques lignes de code plus tard, il avait eu accès malgré lui à quelque 7.000 appareils à l'insu de leurs propriétaires.
+- "Il y a une appli liée à l'aspirateur", explique le programmeur, qui vit à Barcelone, joint par l'AFP cette semaine.
+- "Donc j'ai essayé de comprendre ce que l'appli envoyait au robot quand je déplaçais le robot".
+
+## [CSB.school s'engage aux côtés de La Plateforme de l'Inclusion pour un partenariat ...](https://www.lyon-entreprises.com/actualites/article/csb-school-sengage-aux-cotes-de-la-plateforme-de-linclusion-pour-un-partenariat-pedagogique-en-cybersecurite)  
+*Source : lyon-entreprises.com | Publication : 2026-02-26*
+
+- CSB.school s’engage aux côtés de La Plateforme de l’Inclusion pour un partenariat pédagogique en cybersécurité Implantée sur le Campus Région du numérique à Charbonnières-les-Bains, CSB.school annonce la signature d’un partenariat pédagogique avec La Plateforme de l’Inclusion.
+- Cette collaboration, fondée sur un mécénat de compétences, mobilise les étudiants de l’établissement autour de missions concrètes de cybersécurité au service d’un dispositif public à fort impact social.
+- Un partenariat à la croisée de la formation et de l’utilité publique Officialisé le 25 février 2026, l’accord conclu entre CSB.school et La Plateforme de l’Inclusion, groupement d’intérêt public dédié au développement de services numériques pour l’insertion professionnelle, s’inscrit dans la mission d’engagement portée par la Fondation Cyber Pour Tous.
+- L’initiative vise à mettre les compétences techniques des étudiants au service de la sécurisation d’un service public essentiel.
+
+## [Quand acteur malveillant persistant se met au <b>ransomware</b> - LeMagIT](https://www.lemagit.fr/actualites/366639324/Quand-acteur-malveillant-persistant-se-met-au-ransomware)  
+*Source : lemagit.fr | Publication : 2026-02-26*
+
+- Getty Images/iStockphoto Quand acteur malveillant persistant se met au ransomware Selon Broadcom, l’acteur malveillant persistant associé à la Corée du Nord Lazarus procède désormais à des cyberattaques impliquant le rançongiciel Medusa, notamment contre les établissements de santé outre-Atlantique.
+- Selon Broadcom, Lazarus, un acteur malveillant persistant (APT) lié à la Corée du Nord multiplie les tentatives d’extorsion contre le secteur américain de la santé.
+- Et pas n’importe comment : en exploitant le ransomware Medusa.
+- Selon Broadcom, cela ne fait pas de doute : « les attaques actuelles du ransomware Medusa sont sans aucun doute l'œuvre de Lazarus, nom générique désignant les activités soutenues par l'État nord-coréen ».
+
+## [Le Maroc présente à Madrid sa stratégie numérique et de <b>cybersécurité</b>](https://lnt.ma/le-maroc-presente-a-madrid-sa-strategie-numerique-et-de-cybersecurite/)  
+*Source : lnt.ma | Publication : 2026-02-26*
+
+- Le Maroc présente à Madrid sa stratégie numérique et de cybersécurité L’ambassadrice du Maroc en Espagne, Karima Benyaich, a affirmé mercredi à Madrid l’engagement stratégique du Royaume en faveur d’une transition numérique « sécurisée, inclusive et centrée sur l’humain », lors du Sommet pré-ministériel sur la piraterie, la cybersécurité et la justice, dont le Maroc était l’invité d’honneur.
+- La diplomate a mis en avant les avancées réalisées en matière de modernisation des infrastructures technologiques et de déploiement de stratégies nationales de cybersécurité.
+- Elle a rappelé que le Maroc occupe le 34ᵉ rang mondial au Global Cybersecurity Index, consolidant sa position de leader régional.
+- Selon Mme Benyaich, ces réformes contribuent à renforcer l’attractivité du Royaume auprès des investisseurs internationaux, dans un contexte marqué par la stabilité politique et la sécurité juridique.
+
+## [L'ANSSI et @LaFrenchTech publient un guide de #<b>cybersécurité</b> à l'usage des start-up du ...](https://x.com/ANSSI_FR/status/2027051561126416577)  
+*Source : x.com | Publication : 2026-02-26*
+
+- We’ve detected that JavaScript is disabled in this browser.
+- Please enable JavaScript or switch to a supported browser to continue using x.com.
+- You can see a list of supported browsers in our Help Center.
+- Help Center Terms of Service Privacy Policy Cookie Policy Imprint Ads info © 2026 X Corp.
+
+## [Chargé de mission en <b>cybersécurité</b> H/F SDS - Choisir le service public](https://choisirleservicepublic.gouv.fr/offre-emploi/charge-de-mission-en-cybersecurite-hf-sds-reference-2026-2205759/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2026-02-26*
+
+- Chargé de mission en cybersécurité H/F SDS Référence : 2026-2205759 Fonction publique : Fonction publique de l'État - Employeur : Service de défense et de sécurité Secrétariat Général – Service de Défense et de Sécurité - Localisation : 99 ou 110 rue de Grenelle, 75007 Paris - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Expert - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie A (cadre) - Management Non - Télétravail possible Oui - Vos missions en quelques mots Sous la responsabilité du FSSI et de ses adjoints, vous contribuez à la mise en œuvre opérationnelle de la politique de sécurité des systèmes d’information et participez activement au renforcement de la posture cybersécurité du service.
+- À ce titre, vous intervenez sur des missions à la fois opérationnelles, techniques et de pilotage, en lien étroit avec les FSSI, la direction du numérique et les partenaires ministériels.
+- Pilotage de projets et d’actions en cybersécurité (60 %) Vous pilotez et accompagnez des projets et actions structurants en cybersécurité, depuis leur conception jusqu’à leur mise en production.
+
+## [Il se reconvertit dans la <b>cybersécurité</b> en deux ans et sans diplôme - JDN](https://www.journaldunet.com/cybersecurite/1548343-il-se-reconvertit-dans-la-cybersecurite-en-deux-ans-et-sans-diplome-ses-six-conseils-pour-faire-comme-lui/)  
+*Source : journaldunet.com | Publication : 2026-02-26*
+
+- Il se reconvertit dans la cybersécurité en deux ans et sans diplôme : ses six conseils pour faire comme lui Pour se reconvertir en cybersécurité, l'autodidacte doit notamment valoriser ses compétences par des certifications et s'intégrer dans la communauté cyber.
+- A 28 ans, fatigué d'enchaîner des petits job alimentaires, Killian Guignard a décidé il y a deux ans de reprendre sa vie professionnelle en main.
+- Aujourd'hui, à 30 ans, il occupe un poste d'analyste SOC en CDI, chez SysDream, une entreprise de cybersécurité appartenant à l'entreprise de services du numérique Hub One.
+- Autodidacte, il a réussi à se former lui-même à la cybersécurité, en deux ans seulement, grâce à des certifications et une motivation qui a convaincu son premier et actuel employeur de l'embaucher.
+
+## [Pourquoi la résilience opérationnelle est au cœur de la stratégie de <b>cybersécurité</b> de la France](https://www.journaldunet.com/cybersecurite/1548331-pourquoi-la-resilience-operationnelle-est-au-coeur-de-la-strategie-de-cybersecurite-de-la-france/)  
+*Source : journaldunet.com | Publication : 2026-02-26*
+
+- Pourquoi la résilience opérationnelle est au cœur de la stratégie de cybersécurité de la France La cyberattaque n'est plus un risque exceptionnel, mais une crise opérationnelle plausible pour toute organisation.
+- Ces derniers mois, les cyberattaques visant des organisations françaises se sont multipliées, touchant aussi bien des opérateurs publics (France Travail, La Poste) que de grandes entreprises et des collectivités (département des Hauts-de-Seine).
+- Plusieurs incidents récents ont rappelé que les organisations françaises restent des cibles privilégiées pour les cybercriminels.
+- Ces événements illustrent une réalité désormais largement partagée : la cyberattaque n’est plus un risque exceptionnel, mais une crise opérationnelle plausible pour toute organisation.
+
+## [Une solution vietnamienne de suivi par IA obtient un brevet aux États-Unis - lecourrier.vn](https://lecourrier.vn/une-solution-vietnamienne-de-suivi-par-ia-obtient-un-brevet-aux-etats-unis/1342191.html)  
+*Source : lecourrier.vn | Publication : 2026-02-26*
+
+- >> L’IA à l’école : le Vietnam s’apprête à former ses futurs "citoyens numériques" >> L'IA en tête des investissements en cybersécurité au Vietnam >> Agoda : les voyageurs vietnamiens en tête en Asie pour l’adoption de l’IA dans le tourisme L’invention, intitulée "Méthode d’apprentissage profond pour le suivi multi-objets à partir de vidéos", a été conçue et développée par des ingénieurs vietnamiens.
+- Selon Nguyên Manh Quy, directeur de Viettel AI, le brevet a été délivré sans aucune objection au cours de l’examen, ce qui atteste du caractère novateur de la solution, de la précision de sa description technique et du faible risque de contentieux au regard des normes américaines en matière de brevets.
+- Le suivi multi-objets (Multiple Object Tracking) constitue un défi majeur dans les systèmes de surveillance modernes.
+- La technologie ne se limite pas à détecter la présence d’une personne ou d’un objet dans une séquence vidéo ; elle doit maintenir l’identification précise de chaque entité tout au long de ses déplacements, y compris en cas d’occlusion, de sortie temporaire du champ de vision ou lorsque plusieurs individus présentent des caractéristiques similaires.
+
+## [Transition numérique : le Maroc expose sa vision à Madrid - L'Economiste](https://www.leconomiste.com/flash-infos/transition-numerique-le-maroc-expose-sa-vision-a-madrid/)  
+*Source : leconomiste.com | Publication : 2026-02-26*
+
+- cybersécurité.
+- Ces efforts ont permis au Royaume de se hisser au 34ᵉ rang mondial du Global Cybersecurity Index, renforçant son positionnement.
+
+## [Les cibles préférées des infostealers : les utilisateurs de réseaux sociaux, les gamers et les ...](https://www.solutions-numeriques.com/les-cibles-preferees-des-infostealers-les-utilisateurs-de-reseaux-sociaux-les-gamers-et-les-professionnels-de-linformatique/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-26*
+
+- L’analyse de près de 500 millions de logs d’infostealers en 2025 met en lumière trois profils particulièrement visés.
+- Derrière ces attaques silencieuses, une même logique : exploiter des usages numériques devenus quotidiens.
+- Une industrialisation silencieuse du vol de données Les infostealers se sont imposés comme un outil central dans l’économie cybercriminelle.
+- Ces logiciels malveillants collectent discrètement les identifiants, mots de passe, données de navigation et sessions actives stockés dans les navigateurs et applications, avant de les transmettre à des serveurs contrôlés par les attaquants.
+
+## [Découvre le métier d'ingénieur <b>cybersécurité</b> et les parcours pour y accéder - YouTube](https://www.youtube.com/watch?v=VBbDxRddJt8)  
+*Source : youtube.com | Publication : 2026-02-26*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Le Maroc présente à Madrid sa stratégie numérique et de <b>cybersécurité</b>](https://maroc-diplomatique.net/le-maroc-presente-a-madrid-sa-strategie-numerique-et-de-cybersecurite/)  
+*Source : maroc-diplomatique.net | Publication : 2026-02-26*
+
+- Le Maroc présente à Madrid sa stratégie numérique et de cybersécurité.
+- Maroc Diplomatique26 février 2026.
+- Karima Benyaich.
+
+## [DemainSpécialisteCyber : un site pour découvrir les métiers de la <b>cybersécurité</b> - Actualité](https://www.meformerenregion.fr/actualites/demainspecialistecyber-un-site-pour-decouvrir-les-metiers-de-la-cybersecurite-26022026)  
+*Source : meformerenregion.fr | Publication : 2026-02-26*
+
+- Vous êtes collégien, lycéen, étudiant en réflexion sur votre orientation, enseignants à la recherche de supports pédagogiques ou parents souhaitant accompagner vos enfants ?.
+- Découvrez DemainSpécialisteCyber, une plateforme gratuite pour faciliter l'accès des élèves et professeurs aux services et ressources éducatifs cyber.
+- Elle est conçue par le laboratoire d'innovation de l’Agence nationale de la sécurité des systèmes d'information (ANSSI), en étroite coordination avec le ministère de l’Education nationale et de la Jeunesse et l'incubateur de services numériques “BetaGouv” de la direction interministérielle du numérique (DINUM).
+- Que propose le site ?.
+
+## [<b>Cybersécurité</b>: failles critiques dans les périphériques de bureau - 24Heures](https://www.24heures.ch/cybersecurite-failles-critiques-dans-les-peripheriques-de-bureau-206415064826)  
+*Source : 24heures.ch | Publication : 2026-02-26*
+
+- CybersÃ©curitÃ© en Suisse Les casques, claviers ou autres accessoires sans fil sont vulnÃ©rables face aux pirates informatiques, affirme un rapport.
+- LâInstitut national de test pour la cybersÃ©curitÃ© (NTC) nây va pas par quatre chemins.
+- Les claviers, casques, webcams et autres pÃ©riphÃ©riques quâon utilise notamment au travail reprÃ©sentent un risque sous estimÃ© et peuvent devenir une porte dâentrÃ©e pour les hackers.
+- Â«Une analyse technique approfondie montre que les pÃ©riphÃ©riques utilisÃ©s sur les postes de travail numÃ©riques constituent une surface dâattaque.
 
 ## [La Fédération française d'athlétisme victime d'une cyberattaque - L'INFORMATICIEN](https://www.linformaticien.com/magazine/cybersecurite/64513-la-federation-francaise-d-athletisme-victime-d-une-cyberattaque-majeure.html)  
 *Source : linformaticien.com | Publication : 2026-02-25*
