@@ -1,5 +1,156 @@
-# Résumés – 2026-02-26
+# Résumés – 2026-02-27
 
+
+## [Incident de <b>cybersécurité</b> de PayPal expose les données des clients pendant six mois](https://www.binance.com/fr/square/post/296281916967682)  
+*Source : binance.com | Publication : 2026-02-27*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [Feeder et Tehtris s'allient pour porter une cyberdéfense souveraine - Distributique](https://www.distributique.com/actualites/lire-feeder-et-tehtris-s-allient-pour-porter-une-cyberdefense-souveraine-37020.html)  
+*Source : distributique.com | Publication : 2026-02-27*
+
+- Le distributeur Feeder intčgre la plateforme XDR de l'éditeur français Tehtris ŕ son catalogue, ses revendeurs ont désormais accčs ŕ une solution automatisée, souveraine et accompagnée d'un support technique complet.
+- Le distributeur français Feeder muscle son offre de sécurité en ajoutant ŕ son catalogue la plateforme XDR de Tehtris.
+- En effet, ce dernier édite une solution XDR complčte (EDR, DNS, SIEM, etc.) et automatisée, grâce ŕ l'IA (moteur Cyberia), qui analyse chaque donnée afin de déterminer si une activité suspecte constitue une menace réelle ou non.
+- A noter que cette offre prend aussi en charge les solutions des éditeurs tiers tels que Zscaler et Proofpoint via des API.
+
+## [<b>Cybersécurité</b> : quand l'IA devient le meilleur allié des hackers - ITchannel](https://itchannel.info/articles/208974/cybersecurite-quand-lia-devient-le-meilleur-allie-des-hackers.html)  
+*Source : itchannel.info | Publication : 2026-02-27*
+
+- Veuillez activer Javascript.
+
+## [Nouvelle fuite massive de données médicales, «un matériau de qualité pour conduire ... - Libération](https://www.liberation.fr/economie/economie-numerique/nouvelle-fuite-massive-de-donnees-medicales-un-materiau-de-qualite-pour-conduire-des-operations-descroquerie-20260227_R2VVPMIQVFCXJHR2P7FRHLDAFA/)  
+*Source : liberation.fr | Publication : 2026-02-27*
+
+- cybercriminalité de la préfecture de police de Paris.
+- Le 27 octobre ... CybercriminalitéCybersécurité.
+- Dans la même rubrique.
+- Cybercriminalité.
+
+## [L'action Wallix rebondit de 3,25 % après avoir doublé en un an - Idéal Investisseur](https://www.ideal-investisseur.fr/actions-b/laction-wallix-rebondit-de-325-aprs-avoir-doubl-en-un-an/14771.html)  
+*Source : ideal-investisseur.fr | Publication : 2026-02-27*
+
+- L'action Wallix rebondit de 3,25 % après avoir doublé en un an Le titre Wallix a signé ce vendredi une progression de 3,25 %, clôturant à 23,85 euros après avoir touché 23,10 euros la veille.
+- Ce sursaut intervient alors que l'action affiche un recul de 3,25 % sur les sept derniers jours et évolue sous ses moyennes mobiles courtes.
+- La publication des résultats annuels 2025, prévue le 19 mars prochain, constitue le prochain rendez-vous majeur pour le spécialiste de la cybersécurité.
+- Un rebond technique dans une zone de fragilité Le cours de Wallix a rebondi ce vendredi depuis la proximité de son support situé à 22,45 euros, un niveau qui coïncide avec la borne inférieure des bandes de Bollinger (21,15 euros).
+
+## [Le ministère de la Santé confirme une fuite de données de 15 millions de patients, une ... - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/nom-telephone-voire-annotations-du-medecin-fuite-massive-de-donnees-personnelles-de-patients-apres-une-cyberattaque-20260227)  
+*Source : lefigaro.fr | Publication : 2026-02-27*
+
+- Le ministère de la Santé confirme une fuite de données de 15 millions de patients, une enquête ouverte Si cette fuite a principalement concerné des données telles que les nom, prénom, numéro de téléphone ou l’adresse postale des patients, elle a aussi, pour 169.000 d’entre eux, porté sur des annotations libres saisies par les médecins.
+- Passer la publicité Passer la publicitéUne nouvelle fuite de données massive aux contours encore flous.
+- Le ministère de la Santé a confirmé ce vendredi 27 février que les «données administratives» de 15 millions de patients français avaient fuité après une cyberattaque.
+- Dans un communiqué diffusé la veille, la société Cegedim Santé avait dévoilé l’existence de cette attaque qui a conduit au vol de données personnelles de nombreux patients.
+
+## [Gérôme Billois, spécialiste en <b>cybersécurité</b> : «Il existe un risque de chantage» ➡️ https://bit.ly ...](https://www.facebook.com/Liberation/posts/gérôme-billois-spécialiste-en-cybersécurité-il-existe-un-risque-de-chantage-️-ht/1307927021383497/)  
+*Source : facebook.com | Publication : 2026-02-27*
+
+- Gérôme Billois, spécialiste en cybersécurité : «Il existe un risque de chantage» ➡️ https://bit.ly/4l2uFee.
+
+## [<b>Cybersécurité</b> et intelligence artificielle : l'Afrique face à l'urgence stratégique - CIOMAG](https://cio-mag.com/cybersecurite-et-intelligence-artificielle-lafrique-face-a-lurgence-strategique/)  
+*Source : cio-mag.com | Publication : 2026-02-27*
+
+- Administration automatisée, mobile banking, infrastructures énergétiques connectées : la transformation numérique du continent est remarquable.
+- Toutefois, elle s’accompagne d’une pression cybernétique inédite à l’ère d’une Intelligence Artificielle (IA) au rôle de plus en plus sensible.
+- Les chiffres témoignent de l’ampleur du défi.
+- Kaspersky a évalué à 131 millions le nombre de menaces web détectées sur les réseaux d’entreprises en 2024.
+
+## [Cyberhebdo du 27 février 2026 : pour une fois, semaine calme aux États-Unis | LeMagIT](https://www.lemagit.fr/actualites/366639635/Cyberhebdo-du-27-fevrier-2026-pour-une-fois-semaine-calme-aux-Etats-Unis)  
+*Source : lemagit.fr | Publication : 2026-02-27*
+
+- Cyberhebdo du 27 février 2026 : pour une fois, semaine calme aux États-Unis Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- La semaine écoulée a une nouvelle fois mis en lumière la diversité et l’ampleur des menaces cyber qui pèsent sur les organisations à travers le monde.
+- Notre veille a permis d’identifier neuf cyberattaques rapportées dans les médias internationaux, touchant des pays aussi variés que l’Autriche (AUT), l’Australie (AUS), l’Irlande (IRL), le Luxembourg (LUX), le Brésil (BRA), la Suède (SWE), l’Allemagne (DEU), l’Italie (ITA) et les Émirats arabes unis (ARE).
+- Fait notable cette semaine : les États-Unis ne sont pas représentés cette semaine.
+
+## [Google lance Nano Banana 2 et fusionne vitesse et qualité studio - InformatiqueNews.fr](https://www.informatiquenews.fr/google-lance-nano-banana-2-et-fusionne-vitesse-et-qualite-studio-109689)  
+*Source : informatiquenews.fr | Publication : 2026-02-27*
+
+- Le géant de Mountain View dévoile le successeur de son générateur d’images phénomène.
+- Nano Banana 2 promet la qualité de la version Pro à la vitesse de Flash, et s’invite dans l’ensemble de l’écosystème Google.
+- Tour d’horizon.
+- L’histoire commence par un nom de code resté célèbre.
+
+## [Onacvg - chargé de <b>cybersécurité</b> h/f Hôtel national des Invalides - CS 70780 75700 PARIS cedex 07](https://choisirleservicepublic.gouv.fr/offre-emploi/onacvg---charge-de-cybersecurite-hf-reference-2026-2207670/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2026-02-27*
+
+- ONaCVG - Chargé de Cybersécurité H/F Référence : 2026-2207670 Fonction publique : Fonction publique de l'État - Employeur : Office National des Combattants et Victimes de Guerre (ONaCVG) Office national des combattants et des victimes de guerre (ONaCVG) - Localisation : Hôtel national des Invalides - 129, rue de Grenelle Escalier B - CS 70780 75700 PARIS cedex 07 - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Confirmé - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie A (cadre) - Management Non - Télétravail possible Oui - Vos missions en quelques mots Activités principales: - Définir, maintenir et faire appliquer la PSSI - Conduire les analyses de risques et piloter les audits de sécurité - Assurer la veille vulnérabilités et le maintien en condition de sécurité (MCS) - Détecter, qualifier et traiter les incidents de sécurité - Piloter le déploiement et l'exploitation des solutions de sécurité (SIEM, EDR, WAF) - Gérer les habilitations et contrôler les accès (IAM) - Assurer la conformité réglementaire (RGS, RGPD, ANSSI) - Sensibiliser et former les utilisateurs à la cybersécurité - Élaborer et tester les PCA/PRA - Rédiger la documentation sécurité et les procédures Activités annexes: - Support expert sécurité auprès des équipes internes - Participation aux astreintes sécurité SI - Veille menaces et suivi CERT-FR / ANSSI - Accompagnement DevSecOps avec l'équipe DevOps Profil recherché Compétences clés : - Analyse de risques et gestion des vulnérabilités - Détection et réponse aux incidents de sécurité (SOC) - Audit de sécurité technique et organisationnel - Maîtrise des référentiels ANSSI, ISO 27001, EBIOS RM - Sécurité réseau (pare-feu, segmentation, VPN, chiffrement) - Sécurité applicative (OWASP Top 10, revue de code) - Conformité réglementaire (RGS, RGPD, LPM) Compétences techniques requises : - Maîtrise des méthodologies d’analyse de risques (EBIOS RM, ISO 27005) - Maîtrise d’au moins un SIEM (Wazuh, ELK, Splunk) - Bonne maîtrise de l’administration Linux et Windows (hardening, logs) - Bonne connaissance des architectures réseau sécurisées (DMZ, VLAN, VPN) - Pratique des outils d’audit et de scan de vulnérabilités - Connaissance approfondie des référentiels ANSSI et de la réglementation SSI - Capacité à rédiger des politiques, procédures et rapports de sécurité Compétences techniques appréciées : - Expérience en gestion d’incidents et forensique numérique - Connaissance de DevSecOps (intégration sécurité dans les pipelines CI/CD) - Certification(s) sécurité : CISSP, CEH, CompTIA Security+, ISO 27001 Lead Auditor - Expérience avec un EDR (CrowdStrike, Defender, SentinelOne) - Notions de scripting (Python, Bash, PowerShell) pour l’automatisation sécurité Niveau d'études minimum requis Niveau Niveau 7 Master/diplômes équivalents - Spécialisation Informatique, traitement de l'information, réseau de transmission des données - Compétences attendues Qualités personnelles : - Rigueur et sens de la confidentialité - Capacité d'analyse et esprit de synthèse - Réactivité face aux incidents et résistance au stress - Pédagogie et capacité à sensibiliser des publics non techniques - Veille permanente et curiosité technique 3 à 7 ans d'expérience en cybersécurité ou sécurité des SI.
+- Expérience en administration publique ou secteur réglementé appréciée.
+- Éléments de candidature Documents à transmettre Personnes à contacter recrutement@onacvg.fr - recrutement@onacvg.fr - Qui sommes-nous ?.
+
+## [Cyberattaque contre Cegedim Santé: enquête ouverte après le vol de données de 15 ... - BFM](https://www.bfmtv.com/tech/cybersecurite/cyberattaque-contre-cegedim-sante-une-enquete-est-ouverte-apres-le-vol-de-donnees-de-15-millions-de-francais_AD-202602270567.html)  
+*Source : bfmtv.com | Publication : 2026-02-27*
+
+- Cyberattaque contre Cegedim Santé: enquête ouverte après le vol de données de 15 millions de Français, la CNIL ne confirme pas "à ce stade" le nombre de personnes concernées La Brigade de lutte contre la cybercriminalité enquête sur la fuite de données de près de 15 millions de Français après la cyberattaque ciblant les médecins utilisateurs d'un logiciel de la société Cegedim Santé, indique vendredi le parquet de Paris, sollicité par l'AFP.
+- Cette nouvelle intervient alors qu'une cyberattaque ayant ciblé l'éditeur de logiciels médicaux Cegedim s'est accompagnée d'une fuite de données touchant 15 millions de Français, a confirmé le ministère de la Santé vendredi, à la suite des révélations de France 2.
+- Le parquet de Paris a saisi cette brigade d'une enquête "pour atteintes à un système automatisé de données" à la suite de la plainte déposée par Cegedim Santé le 27 octobre 2025.
+- "Des salariés ont signalé avoir reçu des courriels d'extorsion revendiquant le piratage de plusieurs milliers de données personnels", a relaté le ministère public.
+
+## [<b>Ransomware</b> : le taux de paiement chute à un niveau record malgré la hausse des attaques](https://www.solutions-numeriques.com/ransomware-le-taux-de-paiement-chute-a-un-niveau-record-malgre-la-hausse-des-attaques/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-27*
+
+- Le taux de paiement des rançons atteint un niveau historiquement bas, alors même que les attaques par ransomware progressent fortement.
+- Une évolution qui traduit moins un recul de la menace qu’une mutation de son modèle économique.
+- Une baisse historique du taux de paiement Les attaques par rançongiciel continuent de progresser à un rythme soutenu et pourtant, la part des victimes qui acceptent de payer diminue à un niveau historiquement bas.
+- D’après les dernières données publiées par la société d’analyse blockchain Chainalysis, seulement 28 % des organisations ciblées par une attaque de ransomware auraient payé une rançon en 2025.
+
+## [<b>Cybersécurité</b> : l'ANSSI et la Mission French Tech veulent ancrer la robustesse au cœur des start-up](https://www.solutions-numeriques.com/cyber-securite-lanssi-et-la-mission-french-tech-veulent-ancrer-la-robustesse-au-coeur-des-start-up/)  
+*Source : solutions-numeriques.com | Publication : 2026-02-27*
+
+- À l’heure où les jeunes pousses du numérique cherchent à aller vite, l’ANSSI et la Mission French Tech publient un guide pour replacer la cybersécurité au centre de leur trajectoire.
+- La cybersécurité comme pilier stratégique, dès l’origine L’ANSSI et la Mission French Tech publient un guide de cybersécurité spécifiquement conçu pour les start-up du numérique.
+- Le message est clair : la sécurité ne peut plus être abordée comme une couche ajoutée a posteriori.
+- Elle doit être pensée comme un pilier stratégique, indissociable du développement.
+
+## [Cyberattaque dans la santé: les données administratives de 15 millions de Français piratées](https://fr.tradingview.com/news/afp:ff84c5c889967:0/)  
+*Source : fr.tradingview.com | Publication : 2026-02-27*
+
+- Cyberattaque dans la santé: les données administratives de 15 millions de Français piratées Les "données administratives" de quelque 15 millions de Français, mais aussi des commentaires rédigés par leur docteur, ont fait l'objet d'une fuite massive lors d'une cyberattaque qui a visé 1.500 médecins utilisateurs d'un logiciel de la société Cegedim Santé, a admis vendredi le ministère de la Santé.
+- Si cette fuite a principalement concerné des données telles que les nom, prénom, numéro de téléphone ou l'adresse postale des patients, elle a aussi, pour 169.000 d'entre eux, porté sur des annotations libres saisies par les médecins, "dont certaines peuvent être des données sensibles", soit "1% des cas", a précisé le ministère lors d'un point de presse.
+- Le piratage a porté sur "19 millions de lignes informatiques" (dont 4 millions de doublons) contenues dans une base de données ayant "entre 3 et 15 ans d'historique, en fonction de la date d'installation du logiciel dans les cabinets des médecins".
+- Cela explique qu'elle contienne les données de millions de patients, soit bien plus que les informations saisies par 1.500 médecins, a expliqué le ministère.
+
+## [Méfiance sur les réseaux sociaux : 1 publicité sur 3 est frauduleuse sur Facebook et Instagram](https://actus.sfr.fr/tech/news/mefiance-sur-les-reseaux-sociaux-1-publicite-sur-3-est-frauduleuse-sur-facebook-et-instagram_AN-202602270001.html)  
+*Source : actus.sfr.fr | Publication : 2026-02-27*
+
+- Les publicités se multiplient ces dernières années sur les réseaux sociaux, notamment sur Instagram et Facebook.
+- Si certaines peuvent attirer l'attention, il est important de faire preuve de vigilance car c’est désormais l’un des médias préférés des cybercriminels.
+- On vous explique.
+- L'option à avoir SFR Cybersécurité, une solution complète élaborée avec Bitdefender qui assure la meilleure protection du marché contre les cybermenaces sur tous vos appareils (smartphones, tablettes et ordinateurs), pour vous permettre de naviguer sur Internet en toute sérénité.
+
+## [Les données personnelles de 15 millions de patients piratées en France](https://www.france24.com/fr/france/20260227-données-médicales-15-millions-de-français-piratées-santé-cyberattaque)  
+*Source : france24.com | Publication : 2026-02-27*
+
+- Les données personnelles de 15 millions de patients piratées en France Les "données administratives" telles que le "nom, prénom, numéro de téléphone et/ou adresse postale" de quelque 15 millions de Français ont fait l'objet d'une fuite massive, a annoncé vendredi le ministère de la Santé.
+- Cette cyberattaque remonte à fin 2025.
+- Une enquête a depuis été ouverte, a indiqué le parquet de Paris.
+- Publié le : Modifié le : "Nom, prénom, numéro de téléphone et/ou adresse postale".
+
+## [Calendrier Conférence | Les piliers de la <b>cybersécurité</b> pour les dirigeants et gestionnaires](https://www.vsj.ca/calendrier/conference-cybersecurite-pour-dirigeants-et-gestionnaires/)  
+*Source : vsj.ca | Publication : 2026-02-27*
+
+- 8 avril 2026 Conférence | Les piliers de la cybersécurité pour les dirigeants et gestionnaires La Centrale des affaires vous invite à une conférence en ligne gratuite sur la cybersécurité, conçue pour aider les entreprises et les organisations à mieux prévenir les risques numériques et à sécuriser leurs données et systèmes informatiques.
+- Réalisée en collaboration avec Riopel Consultant informatique, cette conférence propose des outils concrets et accessibles.
+- La conférence sera animée par Benoit Tremblay, expert de renom en cybersécurité et en gestion de crise, reconnu pour son parcours international exceptionnel.
+- Il a notamment mené des missions en Turquie et en Irak dans des contextes de cyberguerre, protégeant des infrastructures critiques.
+
+## [Fuite massive de données médicales en France : ce que l'on sait - Libération](https://www.liberation.fr/societe/sante/entre-11-a-15-millions-de-personnes-touchees-par-une-fuite-de-donnees-medicales-dampleur-en-france-20260227_B5IJ6ZKK6BF6VGECDQJSER3HLY/)  
+*Source : liberation.fr | Publication : 2026-02-27*
+
+- Une enquête a été ouverte par le parquet de Paris.
+- Cybercriminalité.
+
+## [PARIS : <b>Cybersécurité</b> - L'intelligence artificielle agentique s'impose comme un levier de résilience](https://presseagence.fr/paris-cybersecurite-lintelligence-artificielle-agentique-simpose-comme-un-levier-de-resilience/)  
+*Source : presseagence.fr | Publication : 2026-02-27*
+
+- PARIS : Cybersécurité – L’intelligence artifici… Partager : PARIS : Cybersécurité – L’intelligence artificielle agentique s’impose comme un levier de résilience Le rapport CISO 2026 de Splunk révèle que 96 % des responsables de la sécurité sont désormais impliqués dans la gouvernance de l’intelligence artificielle.
+- Cisco annonce la publication du rapport annuel de Splunk, intitulé « Rapport pour les RSSI : Passer du risque à la résilience à l’ère de l’IA ».
+- Cette étude exhaustive, menée auprès de 650 responsables de la sécurité des systèmes d’information (RSSI), dresse un état des lieux sans concession d’une profession en pleine mutation.
+- Alors que les cybermenaces se sophistiquent, l’intelligence artificielle (IA) générative et agentique redéfinit les stratégies de défense des grandes organisations.
 
 ## [LastPass solde la violation de 2022 par un accord de 8 millions - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/02/26/lastpass-accord-de-8-millions/)  
 *Source : dcod.ch | Publication : 2026-02-26*
