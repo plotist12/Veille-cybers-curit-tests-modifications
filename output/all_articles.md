@@ -1,5 +1,164 @@
-# Résumés – 2026-02-27
+# Résumés – 2026-02-28
 
+
+## [Tournon-sur-Rhône. Des lycéens appréhendent la <b>cybersécurité</b> par la danse](https://www.ledauphine.com/education/2026/02/28/des-lyceens-apprehendent-la-cybersecurite-par-la-danse)  
+*Source : ledauphine.com | Publication : 2026-02-28*
+
+- Tournon-sur-Rhône Des lycéens appréhendent la cybersécurité par la danse Jeudi 26 février, les élèves de la classe de première en bac pro Ciel (cybersécurité,... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteLe Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Dauphiné Libéré, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant LDLABOWEB@ledauphine.com ou consulter les liens suivants : Protection des données, CGU du site et Contact.
+
+## [Protection des mineurs en ligne , la Police nationale renforce sa collaboration avec Meta](https://www.lactuacho.com/cybercriminalite-protection-des-mineurs-en-ligne-la-police-nationale-renforce-sa-collaboration-avec-meta/)  
+*Source : lactuacho.com | Publication : 2026-02-28*
+
+- Le Directeur général adjoint de la Police nationale a reçu une délégation de Meta pour consolider la coopération en matière de sécurité numérique et de protection des mineurs.
+- Le Contrôleur général de Police Abdoul Wahabou Sall, Directeur général adjoint de la Police nationale, a reçu une délégation de Meta composée du responsable des relations avec les forces de l’ordre et du chargé des politiques publiques pour l’Afrique francophone.
+- Les échanges ont porté sur la consolidation de la collaboration sur des sujets prioritaires, notamment la protection des jeunes et des mineurs en ligne.
+- Les représentants de Meta ont présenté leurs dispositifs d’appui aux forces de l’ordre et réaffirmé leur disponibilité à accompagner la Police à travers des actions de renforcement de capacités.
+
+## [La DGSI révèle comment certains Français sont espionnés lors de leurs voyages à l'étranger - Clubic](https://www.clubic.com/actualite-602146-la-dgsi-revele-comment-certains-francais-sont-espionnes-lors-de-leurs-voyages-a-l-etranger.html)  
+*Source : clubic.com | Publication : 2026-02-28*
+
+- La Direction générale de la Sécurité intérieure documente, dans son dernier « flash ingérence », des cas réels d'espionnage économique, de vol de données et de tentative de corruption, qui ciblent des professionnels français à l'étranger.
+- Un chercheur qui rentre sans son ordinateur.
+- Un dirigeant de start-up dont le téléphone passe furtivement entre des mains inconnues lors d'une soirée.
+- Un autre contraint de laisser son mobile déverrouillé avant un interrogatoire douanier improvisé.
+
+## [Numérique au Vietnam : la bataille de l'expérience remplace la course à l'audience](https://lecourrier.vn/numerique-au-vietnam-la-bataille-de-lexperience-remplace-la-course-a-laudience/1342328.html)  
+*Source : lecourrier.vn | Publication : 2026-02-28*
+
+- >> L'explosion du commerce en ligne via livestream >> Succès international : Viettel primé à trois reprises aux WCA et Glotel 2025 >> L'IA en tête des investissements en cybersécurité au Vietnam Intitulé "Connected Consumer", ce rapport, réalisé depuis 2019, analyse les tendances de la consommation numérique au Vietnam et vise à aider les marques à affiner leurs stratégies d’engagement.
+- Les résultats du quatrième trimestre 2025 indiquent que si la hiérarchie des médias sociaux demeure globalement stable, les écarts de préférences entre les différentes générations se creusent.
+- Facebook a conservé sa position de leader sur le marché vietnamien des réseaux sociaux au cours du trimestre, suivi par Zalo et YouTube.
+- TikTok et Instagram ont retrouvé les rangs qu’ils occupaient plus tôt en 2025, tandis que Threads a enregistré une progression notable, témoignant d’un intérêt croissant pour de nouveaux espaces numériques en parallèle des plateformes établies.
+
+## [Demain, des tanks et des avions de combat mis à jour comme des Tesla - Journal du Geek](https://www.journaldugeek.com/2026/02/28/demain-des-tanks-et-des-avions-de-combat-mis-a-jour-comme-des-tesla/)  
+*Source : journaldugeek.com | Publication : 2026-02-28*
+
+- « On va vers des objets “software-defined”.
+- Comme une Tesla qui se met à jour régulièrement, demain les tanks, les avions de combat, les sous-marins seront améliorés au fil du temps par des mises à jour logicielles.
+- » La formule est de Florence Verzelen, vice-présidente exécutive de Dassault Systèmes, et elle résume un basculement majeur.
+- Des tanks comme des Tesla ?.
+
+## [Brève du 28 février 2026 - allAfrica.com](https://fr.allafrica.com/view/group/main/main/id/00095879.html)  
+*Source : fr.allafrica.com | Publication : 2026-02-28*
+
+- Afrique: Revue de presse de l'Afrique francophone du 28 février 2026 allAfrica, 28 Février 2026 Le Maroc érige la cybersécurité en pilier de son influence diplomatique à Madrid Plus » - Brève du 28 février 2026 Afrique: Revue de presse de l'Afrique francophone du 28 février 2026 allAfrica, 28 Février 2026 Le Maroc érige la cybersécurité en pilier de son influence diplomatique à Madrid Plus » Revue de presse AllAfrica publie environ 500 articles par jour provenant de plus de 90 organes de presse et plus de 500 autres institutions et particuliers, représentant une diversité de positions sur tous les sujets.
+- Nous publions aussi bien les informations et opinions de l'opposition que celles du gouvernement et leurs porte-paroles.
+- Les pourvoyeurs d'informations, identifiés sur chaque article, gardent l'entière responsabilité éditoriale de leur production.
+- En effet AllAfrica n'a pas le droit de modifier ou de corriger leurs contenus.
+
+## [Incident de <b>cybersécurité</b> : certains services de la FFS temporairement indisponibles](https://ffs.fr/actualites/incident-de-cybersecurite-certains-services-de-la-ffs-temporairement-indisponibles/)  
+*Source : ffs.fr | Publication : 2026-02-28*
+
+- 28 Fév 2026 Incident de cybersécurité : certains services de la FFS temporairement indisponibles Fédérale - Communiqués En raison d’un incident de cybersécurité ayant affecté une partie de son système d’information, certains services numériques de la Fédération Française de ski ne sont plus accessibles par mesure de sécurité.
+- La FFS travaille sur la résolution de ces problèmes dans les plus brefs délais.
+- Merci de votre compréhension.
+
+## [Lot-et-Garonne, - <b>Cybersécurité</b> : et si vous appreniez à vous protéger ? Face aux ...](https://www.facebook.com/lotetgaronne.ledepartement/photos/-cybersécurité-et-si-vous-appreniez-à-vous-protéger-face-aux-piratages-et-aux-ar/903273612347016/)  
+*Source : facebook.com | Publication : 2026-02-28*
+
+- You must log in to continue.
+- Log Into Facebook You must log in to continue.
+- Log In Forgot account?.
+- · Sign up for Facebook English (US) Español Français (France) 中文(简体) العربية Português (Brasil) Italiano 한국어 Deutsch हिन्दी 日本語 Sign Up Log In Messenger Facebook Lite Video Meta Pay Meta Store Meta Quest Ray-Ban Meta Meta AI Meta AI more content Instagram Threads Voting Information Center Privacy Policy Consumer Health Privacy Privacy Center About Create ad Create Page Developers Careers Cookies Ad choices Terms Help Contact Uploading & Non-Users Settings Activity log Meta © 2026.
+
+## [SaaSpocalypse : l'effondrement des logiciels SaaS - Numerama](https://www.numerama.com/tech/2186497-il-parait-que-les-logiciels-meurent-en-silence-cest-quoi-la-saaspocalypse.html)  
+*Source : numerama.com | Publication : 2026-02-28*
+
+- On attribue souvent à Salesforce l’invention du concept de SaaS (Software as a Service).
+- Et pour cause : dans les années 2000, le pionnier de la gestion client en ligne est l’une des premières entreprises à proposer un modèle révolutionnaire.
+- Logiciels hébergés dans le cloud, accessibles par le net avec un abonnement, sans installation locale ni gestion d’infrastructure à une époque où le logiciel géré localement domine encore largement.
+- Un pari gagnant puisqu’en l’espace de vingt ans, ce modèle où le fournisseur gère tout (serveurs, mises à jour, sécurité) s’est largement imposé.
+
+## [<b>Cybercriminalité</b> : La Police nationale du Sénégal et Meta s'allient pour protéger les mineurs](https://www.ndarinfo.com/Cybercriminalite-La-Police-nationale-du-Senegal-et-Meta-s-allient-pour-proteger-les-mineurs_a43132.html)  
+*Source : ndarinfo.com | Publication : 2026-02-28*
+
+- Le Directeur général adjoint de la Police nationale, le Contrôleur général Abdoul Wahabou Sall, a reçu ce vendredi une délégation de haut niveau de l’entreprise Meta, propriétaire de Facebook, Instagram et WhatsApp.
+- Cette rencontre, qui a réuni le responsable des relations avec les forces de l’ordre et le chargé des politiques publiques pour l’Afrique francophone, visait à consolider la coopération sécuritaire dans l’espace numérique sénégalais.
+- Les échanges ont porté prioritairement sur la protection des mineurs en ligne et la lutte contre la cybercriminalité, deux défis majeurs pour lesquels Meta a présenté ses dispositifs d’appui opérationnel.
+- Pour concrétiser ce partenariat, le DGA a instruit le Chef de la Division spéciale de lutte contre la cybercriminalité (DSC) de piloter les prochaines étapes de cette collaboration technique.
+
+## [15 millions de Français concernés par une fuite de données médicales - RTL](https://www.rtl.fr/actu/sante/15-millions-de-francais-concernes-par-une-fuite-de-donnees-medicales-comment-savoir-si-vous-en-etes-victimes-et-quels-sont-les-risques-7900606793)  
+*Source : rtl.fr | Publication : 2026-02-28*
+
+- 1 min de lecture Je m'abonne à la newsletter « Infos » Vendredi 27 février, les données de près de 15 millions d'assurés ont été volées, après une cyberattaque qui a touché les médecins utilisateurs d'un logiciel de la société Cegedim.
+- Une enquête a été ouverte par la Brigade de lutte contre la cybercriminalité.
+- Les données sont très sensibles puisqu'il y a les informations administratives des patients avec les noms, prénoms, adresse ou encore numéro de téléphone mais aussi les commentaires rédigés par leur médecin.
+- Quels sont les risques pour ceux qui sont concernés par cette fuite ?.
+
+## [PARIS : <b>Cybersécurité</b> - Object First restructure sa direction pour conquérir l'Europe](https://presseagence.fr/paris-cybersecurite-object-first-restructure-sa-direction-pour-conquerir-leurope/)  
+*Source : presseagence.fr | Publication : 2026-02-28*
+
+- PARIS : Cybersécurité – Object First restructure sa d… Partager : PARIS : Cybersécurité – Object First restructure sa direction pour conquérir l’Europe Le spécialiste du stockage immuable Object First nomme deux nouveaux directeurs pour accélérer sa croissance en Europe et lutter contre les ransomwares.
+- Face à la recrudescence des cyberattaques et à la nécessité absolue de protéger les données d’entreprise, les acteurs de la cybersécurité doivent plus que jamais structurer leurs forces vives.
+- C’est dans ce contexte de tension numérique que Object First, le spécialiste du stockage sur site invulnérable aux ransomwares, officialise ce mercredi 25 février 2026 deux nominations stratégiques au sein de son bureau français.
+- L’entreprise entend ainsi renforcer son leadership sur le continent européen.
+
+## [La BCM met en place une nouvelle structure pour l'amélioration de la gouvernance et la ...](http://www.cridem.org/C_Info.php?article=791375)  
+*Source : cridem.org | Publication : 2026-02-28*
+
+- 28-02-2026 00:00 - La BCM met en place une nouvelle structure pour l’amélioration de la gouvernance et la cybersécurité SAHARA MEDIAS - La Banque centrale de Mauritanie a annoncé vendredi la création d’une commission chargée de la gouvernance des technologies de l’information, lors de sa première réunion qui s’est tenue au siège de la banque.
+- Il s’agit d’un nouvel organisme dédié à l’orientation stratégique du système d’information de l’institution.
+- Dans son communiqué, la banque a précisé que cette initiative s’inscrit dans le cadre de la dynamique de transformation numérique qu’elle a engagée destinée à renforcer la gouvernance et la cybersécurité, et améliorer la résilience des infrastructures informatiques.
+- La banque centrale a indiqué que la création de ce comité vise à renforcer le leadership technologique au sein de l’institution et à poursuivre la modernisation du système d’information afin d’améliorer les performances et de renforcer la sécurité des transactions financières et bancaires.
+
+## [Signature d'un accord de partenariat entre la CNAM et 9 hôpitaux de Nouakchott](https://fr.saharamedias.net/signature-dun-accord-de-partenariat-entre-la-cnam-et-9-hopitaux-de-nouakchott/)  
+*Source : fr.saharamedias.net | Publication : 2026-02-28*
+
+- Signature d’un accord de partenariat entre la CNAM et 9 hôpitaux de Nouakchott La caisse nationale d’assurance maladie (CNAM) a signé vendredi un accord de partenariat avec neuf hôpitaux de Nouakchott.
+- Dans un communiqué publié sur sa page Facebook officielle, la CNAM a précisé que ces accords s’inscrivent dans le cadre du renforcement de ses relations avec ses différents partenaires du secteur de la santé, notamment après l’adoption et la mise en œuvre de la nouvelle référence médicale nationale au sein de ces établissements.
+- Selon l’annonce officielle, l’accord vise à réglementer les relations contractuelles entre la Caisse et les hôpitaux publics, à améliorer les mécanismes de prise en charge des assurés et de leurs familles, et à renforcer la transparence et l’efficacité dans la gestion des dépenses de santé.
+- L’accord a été signé par le directeur de la CNAM, Mohamed Ahmed Mohamed Rara, ainsi que par les représentants de l’hôpital national de cardiologie, du centre hospitalier spécialisé, de l’hôpital militaire, du centre de santé maternelle et infantile, de l’hôpital de l’amitié, du centre national de santé, du centre national d’oncologie, de l’hôpital Zaïd et du centre de santé de Boghé.
+
+## [Loi sur la <b>cybersécurité</b> : un bouclier protégeant les femmes et les enfants à l'ère numérique.](https://www.vietnam.vn/fr/luat-an-ninh-mang-la-chan-bao-ve-phu-nu-va-tre-em-trong-ky-nguyen-so)  
+*Source : vietnam.vn | Publication : 2026-02-28*
+
+- PV : Chère camarade Nguyen Thi Tuyen, lors de la 10e session de la 15e Assemblée nationale, le projet de loi sur la cybersécurité est actuellement débattu et soumis à approbation.
+- En tant que responsable d'une organisation socio-politique représentant les droits et intérêts légitimes des femmes à l'échelle nationale, quelle est votre opinion quant à l'importance de cette loi pour les femmes et les enfants ?.
+- La présidente de l'Union des femmes du Vietnam, Nguyen Thi Tuyen : Aujourd'hui, l'espace numérique est devenu un élément essentiel de la vie moderne, que ce soit pour l'apprentissage, le travail ou les relations sociales.
+- Les femmes représentent plus de la moitié de la population du pays, sont les utilisatrices d'Internet les plus fréquentes et figurent parmi les groupes les plus vulnérables dans l'environnement numérique.
+
+## [L'Afrique de l'Ouest, terrain de jeu des cybercriminels - Le Monde](https://www.lemonde.fr/afrique/article/2026/02/28/l-afrique-de-l-ouest-terrain-de-jeu-des-cybercriminels_6668670_3212.html)  
+*Source : lemonde.fr | Publication : 2026-02-28*
+
+- L’attaque qui a visé Air Côte d’Ivoire le 8 février n’est pas venue des airs, mais de son système informatique.
+- La compagnie a été victime d’un rançongiciel ayant conduit à l’exfiltration puis au chiffrement de 208 gigaoctets de données sensibles.
+- Face à son refus de payer, les pirates ont rendu publiques les données le 23 février.
+- Il s’agit d’une attaque bien connue de type « double extorsion » : les pirates volent les données avant de les chiffrer à l’aide d’un logiciel rançonneur (ransomware), puis exigent le paiement d’une rançon en échange de leur non-divulgation et de leur décryptage.
+
+## [Un hacker a utilisé l'IA Claude pour pirater le gouvernement mexicain | mediacongo.net](https://www.mediacongo.net/article-actualite-160984_un_hacker_a_utilise_l_ia_claude_pour_pirater_le_gouvernement_mexicain.html)  
+*Source : mediacongo.net | Publication : 2026-02-28*
+
+- Sur le net Un hacker a exploité le chatbot Claude d’Anthropic pour orchestrer une vaste série de cyberattaques contre des agences gouvernementales mexicaines, entraînant le vol massif de données sensibles.
+- Un hacker a utilisé Claude pour pirater des agences gouvernementales mexicaines Un hacker a exploité Claude, le chatbot d’Anthropic, pour mener une série d’attaques contre plusieurs agences gouvernementales mexicaines entre décembre 2025 et janvier 2026.
+- L’information a été révélée le 25 février 2026 par la startup israélienne de cybersécurité Gambit Security.
+- Au total, 150 gigaoctets de données sensibles ont été volées, dont les dossiers de 195 millions de contribuables, des registres électoraux, des identifiants d’employés gouvernementaux et des fichiers d’état civil.
+
+## [Wi-Fi et sécurité : faut-il vraiment le désactiver à chaque fois qu'on sort de chez soi ?](https://www.clubic.com/actualite-602650-wi-fi-et-securite-faut-il-vraiment-le-desactiver-a-chaque-fois-qu-on-sort-de-chez-soi.html)  
+*Source : clubic.com | Publication : 2026-02-28*
+
+- Couper le Wi-Fi quand on est de sortie n’est pas une règle d’or.
+- C’est un raccourci pratique, souvent brandi comme un réflexe de cybersécurité vital, mais il passe à côté du sujet.
+- Le risque ne naît pas de la simple détection des réseaux, il tient à la connexion au mauvais réseau.
+- Et sur ce point, quelques réglages bien ciblés valent mieux qu’une désactivation totale par principe.
+
+## [InfoNews Hebdo 2026#09 : Anthropic, Teams, Everpure, PC sous tension, Wi-Fi 7, IA agentique…](https://www.informatiquenews.fr/infonews-hebdo-202609-anthropic-teams-everpure-pc-sous-tension-wi-fi-7-ia-agentique-109687)  
+*Source : informatiquenews.fr | Publication : 2026-02-28*
+
+- Il est l’heure de retrouver Jean-François Le Nilias et Guy Hervier pour un nouveau numéro « trans-Atlantique » d’InfoNews Hebdo avec au menu l’impact absolument délirant d’Anthropic sur Wall Street, l’IA agentique qui fait des vagues et une pénurie mémoire qui va impacter lourdement le marché du PC et du smartphone en 2026… Cette semaine, InfoNews Hebdo met une idée au centre : l’IA se vend en “fonctionnalités”, mais se pilote en run, en coûts… et en conformité.
+- Dans les faits, Microsoft pousse Teams vers une biométrie de la voix “sans friction” avec l’Express Voice Enrollment : pratique pour l’isolation vocale (filtrage des bruits en temps réel) et les transcriptions Copilot, mais assez sensible pour obliger les DSI à trancher vite sur les politiques tenant (instance Microsoft 365) et la gouvernance des profils vocaux.
+- Même logique côté poste de travail : derrière le cycle Windows 11, une bombe budgétaire se dessine avec la flambée des puces mémoire, au point de peser beaucoup plus lourd dans le coût de fabrication.
+- Dit autrement : quand le cloud “mange” la mémoire pour l’IA, les PC encaissent la facture.
+
+## [Crypto : Les attaques <b>ransomware</b> bondissent de 50% en 2025, mais les rançons reculent](https://fr.tradingview.com/news/cointribune:597a132efb858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-02-28*
+
+- Crypto : Les attaques ransomware bondissent de 50% en 2025, mais les rançons reculent On pourrait croire que “plus d’attaques” = “plus d’argent”.
+- En 2025, la réalité a pris un virage plus tordu.
+- D’après Chainalysis, les groupes ransomware ont multiplié les intrusions (près de 8 000 événements de fuite, +50% sur un an), mais les paiements on-chain auraient reculé à environ 820 M$ (≈ -8%).
+- Autrement dit : ils s’agitent davantage… pour une moisson moins généreuse.
 
 ## [Incident de <b>cybersécurité</b> de PayPal expose les données des clients pendant six mois](https://www.binance.com/fr/square/post/296281916967682)  
 *Source : binance.com | Publication : 2026-02-27*
