@@ -1,5 +1,155 @@
-# Résumés – 2026-02-28
+# Résumés – 2026-03-01
 
+
+## [Des hackers ont attaqué des applications et des sites web iraniens - The Times of Israël](https://fr.timesofisrael.com/des-hackers-ont-attaque-des-applications-et-des-sites-web-iraniens/)  
+*Source : fr.timesofisrael.com | Publication : 2026-03-01*
+
+- Des hackers ont attaqué des applications et des sites web iraniens Samedi, en plus des frappes américano-israéliennes contre des cibles iraniennes, des sites d'informations et des applications ont été visés par une vague de cyberattaques Selon des experts en cyber-sécurité et des observateurs, une vague de cyberopérations a eu lieu samedi aux premières heures du matin, parallèlement au déploiement des frappes conjointes américano-israéliennes contre des cibles iraniennes.
+- Ces opérations ont notamment consisté à pirater plusieurs sites d’information afin d’y faire apparaître différents messages, ainsi qu’à pirater l’application BadeSaba, un calendrier religieux téléchargé plus de 5 millions de fois, sur lequel ont été affichés des messages invitant les utilisateurs à « rendre des comptes », exhortant également les forces armées à rendre les armes et à se joindre à la population.
+- Reuters n’a pas pu établir de contact avec le directeur général de BadeSaba.
+- Le porte-parole du Cyber Command américain n’a pas immédiatement répondu à notre demande de commentaires.
+
+## [Eiffage ciblée par les hackers de LAPSUS$, 175 000 personnes concernées - Clubic](https://www.clubic.com/actualite-602713-eiffage-ciblee-par-les-hackers-de-lapsus-175-000-personnes-concernees.html)  
+*Source : clubic.com | Publication : 2026-03-01*
+
+- Repéré par Christophe Boutry, ancien enquêteur judiciaire spécialisé en contre-terrorisme et expert en investigations numériques, le piratage d'Eiffage via la plateforme NextSend touche près de 176 000 personnes.
+- LAPSUS$ a publié 77 fichiers contenant des données allant des identifiants de connexion aux informations financières sensibles.
+- Eiffage, le groupe de BTP coté en bourse, s'est retrouvé dans le collimateur de LAPSUS$ le 25 février 2026.
+- Le collectif de pirates revendique l'exfiltration d'une base de données de 175 942 enregistrements issus de NextSend, une plateforme de transfert de fichiers utilisée en interne par l'entreprise.
+
+## [Afrique : INTERPOL démantèle 651 réseaux de cyberfraude | Africa24 TV](https://africa24tv.com/afrique-interpol-demantele-651-reseaux-de-cyberfraude)  
+*Source : africa24tv.com | Publication : 2026-03-01*
+
+- Lors de l’opération Red Card 2.0, coordonnée par INTERPOL entre décembre 2025 et janvier 2026, les forces de 16 pays africains ont démantelé de vastes réseaux de cybercriminalité, arrêtant 651 suspects et récupérant 4,3 millions de dollars.
+- Ces fraudes en ligne, impliquant investissements fictifs, mobile money et fausses applications de prêt, ont touché 1 247 victimes, principalement africaines, et entraîné des pertes estimées à 45 millions de dollars.
+- Coordonnées par INTERPOL, les forces de 16 pays africains ont démantelé d’importants réseaux de cybercriminalité lors de l’opération Red Card 2.0 (8 décembre 2025 – 30 janvier 2026).
+- 651 cybercriminels ont été arrêtés et 4,3 millions de dollars récupérés, mettant fin à des escroqueries ayant provoqué 45 millions de dollars de pertes.
+
+## [Arnaques à l'IA pendant la période des achats de fin d'année. - Vietnam.vn](https://www.vietnam.vn/fr/nhung-bay-lua-dao-ai-mua-mua-sam-cuoi-nam)  
+*Source : vietnam.vn | Publication : 2026-03-01*
+
+- M.
+- Vu Duy Hien, secrétaire général adjoint et chef de bureau de l'Association nationale de cybersécurité, prend la parole lors de l'événement (Photo : NCA).
+- Lors du séminaire « Identifier les arnaques - Acheter en toute confiance » organisé par la National Cyber Security Association (NCA) en collaboration avec TikTok, des experts en cybersécurité et des organismes de réglementation ont tiré la sonnette d'alarme et ont présenté une stratégie de défense à « trois niveaux » contre la vague de cybercriminalité.
+- « Piège à arnaque » en un seul clic S'exprimant lors de cet événement, M.
+
+## [Recrudescence des escroqueries par hameçonnage : le trafic de drogue alimente la hausse ...](https://fr.businessam.be/recrudescence-des-escroqueries-par-hameconnage-le-trafic-de-drogue-alimente-la-hausse-de-la-cybercriminalite/)  
+*Source : fr.businessam.be | Publication : 2026-03-01*
+
+- Principaux renseignements Les escroqueries par hameçonnage sont en forte augmentation en Belgique, sous l’impulsion des réseaux organisés de trafic de drogue.
+- - Les victimes subissent des pertes financières croissantes, la province d’Anvers ayant déjà enregistré près de 10 millions d’euros de dommages cette année.
+- - L’intelligence artificielle donne plus de moyens aux criminels, en automatisant les campagnes d’hameçonnage et en les rendant accessibles même aux jeunes.
+- - L’augmentation des escroqueries par hameçonnage est directement liée à la croissance du trafic de drogue organisé.
+
+## [Des hackers ciblent des applications et sites iraniens après des frappes américano-israéliennes](https://ch.zonebourse.com/actualite-bourse/des-hackers-ciblent-des-applications-et-sites-iraniens-apres-des-frappes-americano-israeliennes-ce7e5cdcdb81f724)  
+*Source : ch.zonebourse.com | Publication : 2026-03-01*
+
+- Une vague d&#039;opérations cybernétiques s&#039;est déroulée tôt samedi matin en parallèle de l&#039;attaque conjointe américano-israélienne contre des cibles à travers l&#039;Iran, selon des experts en cybersécurité et des observateurs.Ces opérations ont inclus le piratage de plusieurs sites d&#039;information pour y afficher divers messages, ainsi que le piratage de BadeSaba, une application de calendrier religieux comptant plus de 5 millions de téléchargements, qui a affiché des messages indiquant : « L&#039;heure du jugement est venue » et incitant les forces armées à déposer les armes et à rejoindre la population.Reuters n&#039;a pas pu contacter le directeur général de BadeSaba.Un porte-parole du Cyber Command américain n&#039;a pas immédiatement répondu à une demande de commentaire.La connectivité Internet en Iran a chuté brutalement à 07h06 GMT, puis de nouveau à 11h47 GMT, ne laissant qu&#039;une connectivité minimale, a indiqué Doug Madory, directeur de l&#039;analyse Internet chez Kentik, dans un post sur X.L&#039;attaque contre BadeSaba était une manœuvre intelligente car les partisans du gouvernement l&#039;utilisent et ils sont généralement plus religieux, a expliqué Hamid Kashfi, chercheur en sécurité et fondateur de la société de cybersécurité DarkCell.Des opérations cybernétiques ont également visé divers services gouvernementaux iraniens et des cibles militaires afin de limiter une réponse coordonnée de l&#039;Iran, a rapporté samedi le Jerusalem Post.
+- Reuters n&#039;a pas pu vérifier indépendamment ces affirmations.« Alors que l&#039;Iran étudie ses options, la probabilité augmente que des groupes proxy et des hacktivistes passent à l&#039;action, y compris des cyberattaques, contre des cibles militaires, commerciales ou civiles affiliées à Israël et aux États-Unis », a déclaré Rafe Pilling, directeur du renseignement sur les menaces chez la société de cybersécurité Sophos.Selon Pilling, ces attaques pourraient inclure la mise en avant d&#039;anciennes violations de données présentées comme nouvelles, des tentatives peu sophistiquées de compromettre des systèmes industriels exposés à Internet, et potentiellement des opérations offensives directes dans le cyberespace.L&#039;activité dans la région du Moyen-Orient a augmenté, selon Cynthia Kaiser, ancienne responsable de la cybersécurité au FBI et aujourd&#039;hui vice-présidente senior chez Halcyon, une entreprise anti-ransomware.
+- Kaiser indique que la société a également observé des appels à l&#039;action de la part de cyber-personnalités connues pour leur soutien à l&#039;Iran, qui ont déjà mené des opérations de piratage et de fuite de données, des attaques par ransomware et des attaques par déni de service distribué (DDoS), lesquelles saturent les services Internet pour les rendre inaccessibles.L&#039;activité cyber actuelle pourrait précéder des opérations plus agressives, estime Adam Meyers, vice-président senior des opérations de contre-adversité chez CrowdStrike.« CrowdStrike observe déjà une activité conforme à celle d&#039;acteurs menaçants alignés sur l&#039;Iran et de groupes hacktivistes menant des reconnaissances et déclenchant des attaques DDoS », a-t-il affirmé.La société de cybersécurité Anomali a indiqué dans une analyse partagée samedi avec Reuters que des groupes de hackers iraniens soutenus par l&#039;État menaient déjà des attaques « wiper » effaçant les données de cibles israéliennes avant les frappes.Bien que l&#039;Iran soit souvent cité par les responsables américains de la cybersécurité aux côtés de la Russie et de la Chine comme une menace pour les réseaux américains, les réponses de Téhéran aux attaques sur son territoire ont jusqu&#039;ici été modérées.En juin, après que les États-Unis ont frappé des cibles nucléaires iraniennes, il y avait peu de signes de cyberattaques perturbatrices souvent évoquées lors des discussions sur les capacités numériques de l&#039;Iran, en dehors d&#039;une brève interruption de services à Tirana, la capitale de l&#039;Albanie, selon des médias.
+- (Reportage de AJ Vicens à Detroit ; Rédaction par Chris Sanders et Lisa Shumaker).
+
+## [Une seconde liste se présente aux municipales de mars 2026, « Pleudihen pour toutes et tous ! »](https://www.ouest-france.fr/elections/municipales/une-seconde-liste-se-presente-aux-municipales-de-mars-2026-pleudihen-pour-toutes-et-tous-a375315c-1579-11f1-92f6-9b1b77c6324a)  
+*Source : ouest-france.fr | Publication : 2026-03-01*
+
+- » (divers gauche) est menée par Nicolas Goubly, 50 ans, chef d'entreprise dans l'informatique et auditeur en cybersécurité.
+- Pleudihennais depuis 2021,.
+
+## [Protégez votre enfant avec amour et compréhension à l'ère du numérique. - Vietnam.vn](https://www.vietnam.vn/fr/bao-ve-con-bang-tinh-yeu-va-su-thau-hieu-trong-thoi-dai-so)  
+*Source : vietnam.vn | Publication : 2026-03-01*
+
+- S'adressant à une journaliste du Vietnam Women's Newspaper, Mme Nguyen Thi Ha, chef de projet du projet « Cybersécurité » mis en œuvre par World Vision International au Vietnam, a affirmé que récemment, des dizaines de milliers de parents (principalement des agriculteurs, des ouvriers et des membres de minorités ethniques) de Thanh Hoa ont été formés pour changer leur mentalité et devenir proactifs dans la protection de leurs enfants à l'ère numérique.
+- Mme Nguyen Thi Ha, chef de projet du projet « Cybersécurité » de World Vision International au Vietnam.
+- - Selon vous, compte tenu du développement rapide des technologies et du fait que les enfants ont aujourd'hui accès à Internet dès leur plus jeune âge, quelles opportunités et quels défis cela engendre-t-il ?.
+- Internet offre aux enfants de nombreuses possibilités d'apprentissage, de communication et de créativité.
+
+## [Attention aux imposteurs: le Commandement du Front intérieur alerte - IsraJ](https://israj.media-j.com/article/52928/attention-aux-imposteurs-le-commandement-du-front-interieur-alerte)  
+*Source : israj.media-j.com | Publication : 2026-03-01*
+
+- Des SMS malveillants, se faisant passer pour des mises à jour officielles du Commandement du Front intérieur, permettent aux pirates de prendre le contrôle des téléphones.
+- Une nouvelle campagne de cyberpiratage cible actuellement les citoyens israéliens.
+- Des messages SMS, envoyés par un expéditeur se nommant « Oref Alert », usurpent l'identité du Commandement du Front intérieur (Pikud HaOref).
+- Ces messages incitent les utilisateurs à cliquer sur un lien pour mettre à jour l'application officielle vers une prétendue « nouvelle version ».
+
+## [Préfet - #<b>Cybersécurité</b> | La sécurité en ligne est l'affaire de tous. 🛡️ Apprenez et testez vos ...](https://www.facebook.com/PrefetNouvelleAquitaine33/photos/cybersécurité-la-sécurité-en-ligne-est-laffaire-de-tous-️-apprenez-et-testez-vos/1444164627741502/)  
+*Source : facebook.com | Publication : 2026-03-01*
+
+- Explore the things you love.
+- Log into Facebook Email or mobile number Password Log in Forgot password?.
+- Create new account English (US) Español Français (France) 中文(简体) العربية Português (Brasil) Italiano More languages… Sign Up Log In Messenger Facebook Lite Video Meta Pay Meta Store Meta Quest Ray-Ban Meta Meta AI Meta AI more content Instagram Threads Voting Information Center Privacy Policy Privacy Center About Create ad Create Page Developers Careers Cookies Ad choices Terms Help Contact Uploading & Non-Users Meta © 2026.
+
+## [OFCS : Le rapport annuel 2025 révèle une cyberdéfense renforcée - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/03/01/ofcs-rapport-annuel-2025/)  
+*Source : dcod.ch | Publication : 2026-03-01*
+
+- TL;DR : L’essentiel L’obligation légale de signaler les cyberattaques, instaurée en avril, a permis à l’OFCS de recenser 222 incidents majeurs ciblant principalement les administrations publiques et le secteur financier helvétique.
+- - Les analystes fédéraux ont identifié des groupes hostiles ciblant la sphère financière.
+- Ces acteurs déploient de fausses propositions de recrutement pour inciter les professionnels à exécuter des logiciels malveillants.
+- - Le recours à l’intelligence artificielle s’intensifie chez les acteurs criminels.
+
+## [Un expert de la <b>cybercriminalité</b> dresse un tableau inquiétant du phishing: “Même moi, je ne ...](https://www.7sur7.be/belgique/un-expert-de-la-cybercriminalite-dresse-un-tableau-inquietant-du-phishing-meme-moi-je-ne-peux-pas-dire-que-jy-echapperai~a27f634c/)  
+*Source : 7sur7.be | Publication : 2026-03-01*
+
+- Peter Peereboom, magistrat spécialisé dans la cybercriminalité dans la province d'Anvers.
+- © HLN Fotomontage.
+
+## [La blockchain n'est plus sûre : ce piratage venu de Corée du Nord inquiète - Futura](https://www.futura-sciences.com/tech/actualites/cybersecurite-blockchain-nest-plus-sure-ce-piratage-venu-coree-nord-inquiete-k2m6-131599/)  
+*Source : futura-sciences.com | Publication : 2026-03-01*
+
+- Les spécialistes du Google Threat Intelligence Group ont mis au jour cette stratégie innovante en octobre 2025.
+- Le groupe de pirates informatiques UNC5342, rattaché au régime de Pyongyang, a franchi un nouveau cap dans l'art de la cybermalveillance.
+- Plutôt que d'utiliser des serveurs traditionnels facilement identifiables et neutralisables, ces hackers insèrent leurs codes malicieux directement dans des contrats intelligents déployés sur les blockchains Ethereum et Binance Smart Chain.
+- Cette approche révolutionnaire permet aux cybercriminels de bénéficier d'une infrastructure immuable et publique, rendant toute suppression du code impossible une fois celui-ci inscrit dans la chaîne de blocs.
+
+## [Sadio Mané décisif, Al-Nassr s'impose dans la douleur et reprend la tête face à Al-Fayha (1-3)](https://www.lactuacho.com/c-saudi-pro-league-sadio-mane-decisif-al-nassr-simpose-dans-la-douleur-et-reprend-la-tete-face-a-al-fayha-1-3/)  
+*Source : lactuacho.com | Publication : 2026-03-01*
+
+- Malmené à l’extérieur, Al-Nassr a dû puiser dans ses ressources pour venir à bout d’Al-Fayha (1-3), lors de la 24e journée de Saudi Pro League.
+- Sadio Mané a inscrit un but clé dans la remontée.
+- Selon wiwsport.com, Al-Nassr a prolongé sa série impressionnante en championnat en s’imposant 3-1 face à Al-Fayha.
+- Mais la victoire ne fut pas simple, comme le relate wiwsport.com.
+
+## [Ils infiltrent un pays en télétravail ? #shorts - YouTube](https://www.youtube.com/watch?v=HsIJ2rPz8oQ)  
+*Source : youtube.com | Publication : 2026-03-01*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [<b>Cybercriminalité</b> : tout comprendre aux reproches de la justice européenne envers Grok, l ... - CNews](https://www.cnews.fr/vie-numerique/2026-03-01/cybercriminalite-tout-comprendre-aux-reproches-de-la-justice-europeenne)  
+*Source : cnews.fr | Publication : 2026-03-01*
+
+- Cybercriminalité : tout comprendre aux reproches de la justice européenne envers Grok, l'intelligence artificielle d'Elon Musk.
+- X est le théâtre de.
+
+## [CSB School et La Plateforme de l'Inclusion signent un partenariat en <b>cybersécurité</b> à impact social](https://www.mediavenir.fr/csb-school-et-la-plateforme-de-linclusion-signent-un-partenariat-en-cybersecurite-a-impact-social/)  
+*Source : mediavenir.fr | Publication : 2026-03-01*
+
+- Appliquée à l’insertion professionnelle, la cybersécurité prend une dimension concrète.
+- Cette alliance dessine-t‑elle un service public numérique plus robuste, porté par un partenariat pédagogique en cybersécurité entre école experte et réseau dédié à l’emploi inclusif ?.
+- Les étudiants se voient confier des missions réelles de protection d’outils numériques utilisés par des publics fragilisés.
+- La coopération prend la forme d’un véritable mécénat de compétences où les savoirs académiques se frottent aux contraintes d’un environnement opérationnel.
+
+## [Le project Compass d'Europol a démantelé une bande de hackers qui recrutaient et ... - Clubic](https://www.clubic.com/actualite-602698-le-project-compass-d-europol-a-demantele-une-bande-de-hackers-qui-recrutaient-et-exploitaient-des-mineurs.html)  
+*Source : clubic.com | Publication : 2026-03-01*
+
+- Avec 30 arrestations, 179 suspects identifiés et 62 victimes repérées, Europol vient de boucler la première phase du projet Compass, une opération d'un an contre The Com, un réseau criminel qui fait des adolescents à la fois ses cibles et ses recrues.
+- Nous sommes en janvier 2025 lorsqu'Europol lance le projet Compass pour démanteler The Com, diminutif de Community, un réseau criminel anglophone décentralisé qui cible les mineurs là où ils passent leur temps, sur Discord, les plateformes de streaming musical, les jeux en ligne.
+- Le recrutement y commence bien avant que quiconque ne parle de cybercriminalité.
+- Trente-et-un pays, dont la France et leurs forces de l'ordre respectives ont participé à l'opération, parmi lesquels le FBI, la NCA britannique et la GRC canadienne.
+
+## [La question urgente de la sécurité de l'information. - Vietnam.vn](https://www.vietnam.vn/fr/bai-toan-cap-bach-ve-an-toan-thong-tin)  
+*Source : vietnam.vn | Publication : 2026-03-01*
+
+- Dans un contexte de transformation numérique généralisée touchant tous les secteurs, garantir la cybersécurité est devenu une nécessité absolue.
+- Face à l'augmentation de l'ampleur et de la sophistication des menaces dans l'environnement numérique, la constitution d'une main-d'œuvre qualifiée et en nombre suffisant dans ce domaine est non seulement cruciale pour répondre aux besoins immédiats, mais revêt également une importance stratégique à long terme, étroitement liée à la protection de la souveraineté numérique et de la sécurité nationale.
+- Leçon 1 : Le principal goulot d’étranglement des ressources humaines en cybersécurité La cybersécurité est devenue une pierre angulaire de la sécurité nationale à l'ère numérique.
+- Cependant, la pénurie et le déséquilibre des ressources humaines constituent un obstacle majeur, posant de nombreux défis au Vietnam en matière de protection du cyberespace et de promotion d'une transformation numérique sûre et durable.
+
+## [Cyber actualités de la semaine du 27 février 2026 - ZATAZ](https://www.zataz.com/cyber-actualites-de-la-semaine-du-27-fevrier-2026/)  
+*Source : zataz.com | Publication : 2026-02-28*
+
+- Cyber actualités de la semaine du 27 février 2026 Bonjour à toutes et tous, Cette semaine, l’actualité cyber n’a laissé aucun répit.
+- En Espagne, quatre suspects ont été arrêtés après des attaques DDoS revendiquées par Anonymous Fénix, avec un pic d’activité observé après les inondations de Valence.
+- En Russie, un simple logo Instagram affiché sur un site web vaut 15 jours de prison, tandis qu’un « like » sur YouTube peut coûter 300 euros.
+- Aux États-Unis, trois ingénieurs sont inculpés pour exfiltration de secrets technologiques vers l’Iran.
 
 ## [Tournon-sur-Rhône. Des lycéens appréhendent la <b>cybersécurité</b> par la danse](https://www.ledauphine.com/education/2026/02/28/des-lyceens-apprehendent-la-cybersecurite-par-la-danse)  
 *Source : ledauphine.com | Publication : 2026-02-28*
