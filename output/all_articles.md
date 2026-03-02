@@ -1,5 +1,156 @@
-# Résumés – 2026-03-01
+# Résumés – 2026-03-02
 
+
+## [<b>Cybersécurité</b> : la fréquence des sinistres a plus que doublé en un an - ITRnews](https://itrnews.com/articles/208999/cybersecurite-la-frequence-des-sinistres-a-plus-que-double-en-un-an.html)  
+*Source : itrnews.com | Publication : 2026-03-02*
+
+- Veuillez activer Javascript.
+
+## [Un terrible kit de phishing découvert : Kratos, c'est son nom, fonctionne comme un vrai ...](https://www.clubic.com/actualite-602890-un-kit-de-phishing-decouvert-kratos-c-est-son-nom-fonctionne-comme-un-vrai-franchise-du-cybercrime.html)  
+*Source : clubic.com | Publication : 2026-03-02*
+
+- Un nouveau kit de phishing, Kratos, transforme le paysage des cybermenaces et industrialise le vol d'identifiants à grande échelle.
+- D'ici fin 2026, plus de 90% des attaques de ce type pourraient lui ressembler.
+- Depuis le début de l'année, un nouveau kit Phishing-as-a-Service, donc du hameçonnage en tant que service, qui répond au nom de Kratos, inquiète sérieusement les experts en cybersécurité.
+- Conçu pour permettre à des attaquants peu qualifiés de lancer des campagnes de phishing avancées, il a déjà ciblé des victimes dans plus de 20 pays.
+
+## [<b>Cybercriminalité</b> : 30 membres de « The Com » interpelées en un an | LeMagIT](https://www.lemagit.fr/actualites/366639675/Cybercriminalite-30-membres-de-The-Com-interpelees-en-un-an)  
+*Source : lemagit.fr | Publication : 2026-03-02*
+
+- John Gomez - stock.adobe.com Cybercriminalité : 30 membres de « The Com » interpelées en un an Lancée en janvier 2025, l’initiative Compass d’Europol a déjà permis l’arrestation de 30 individus liés à la nébuleuse criminelle dite « The Com », ains qu’à l’identification au moins partielle de près 180 autres.
+- Europol vient de dresser un premier bilan temporaire de son initiative Compass.
+- Lancée il y a un peu plus d’un an, elle vise à s’attaquer à la nébuleuse criminelle dite « The Com » pour « The Community ».
+- Cette initiative rassemble les forces de l’ordre « des États membres de l'UE, ainsi que celles de la Norvège, de la Suisse, du Royaume-Uni, des États-Unis, du Canada, de l'Australie et de la Nouvelle-Zélande ».
+
+## [La solution Veea Platform pour relever les défis de <b>cybersécurité</b> des entreprises au Mexique](https://www.zonebourse.com/actualite-bourse/la-solution-veea-platform-pour-relever-les-defis-de-cybersecurite-des-entreprises-au-mexique-ce7e5cdddb8cf227)  
+*Source : zonebourse.com | Publication : 2026-03-02*
+
+- Veea Inc. a annoncé cette semaine le lancement prévu du service Veea SecureConnect™ par Telcel au Mexique.
+- Veea SecureConnect, présenté au Mobile World Congress, devrait être proposé sur un réseau 5G disposant de l&#039;une des couvertures les plus étendues du pays.Cette solution offre une cybersécurité d&#039;entreprise de niveau supérieur, gérée dans le cloud et exécutée en périphérie, pilotée par l&#039;intelligence artificielle, tout en simplifiant la gestion des identités, le contrôle d&#039;accès et la connectivité multi-sites hautement sécurisée avec une administration et une configuration minimales.
+- En unifiant entièrement le réseau et la sécurité dans un seul appareil périphérique, la société estime proposer un pare-feu nouvelle génération (&quot;NGFW&quot;) complet et simplifié, offert sous forme de service (&quot;NGFWaaS&quot;).
+- En plus de la sécurité renforcée, le routeur virtuel SecureConnect CPE intègre un SD-WAN simplifié et un réseau Wi-Fi 6 maillé de niveau entreprise.Il prend en charge une connectivité Internet double WAN permanente et simultanée via la 5G et le filaire, en mode principal ou secours avec équilibrage de charge, grâce à un module 5G compatible à la fois avec une carte SIM physique et plusieurs eSIMs.
+
+## [Vérification d'âge en ligne : pourquoi plus de 350 experts en <b>cybersécurité</b> sonnent l'alerte](https://www.la-croix.com/societe/verification-d-age-en-ligne-pourquoi-plus-de-350-experts-en-cybersecurite-sonnent-lalerte-20260302)  
+*Source : la-croix.com | Publication : 2026-03-02*
+
+- L’Australie a été le premier pays au monde, en décembre 2025, à interdire l’accès aux réseaux sociaux aux adolescents.
+- Depuis, plusieurs pays européens ont indiqué vouloir adopter des législations similaires.
+- La France en fait partie : une loi a été votée en ce sens à l’Assemblée nationale fin janvier.
+- Elle doit être examinée ce printemps par le Sénat.
+
+## [Informations incident <b>cybersécurité</b> - FFS](https://ffs.fr/actualites/informations-incident-cybersecurite/)  
+*Source : ffs.fr | Publication : 2026-03-02*
+
+- Informations incident cybersécurité Comme beaucoup de fédérations ces derniers jours, la Fédération Française de ski a fait l’objet d’un incident de cybersécurité ayant affecté une partie de son système d’information.
+- Dès la détection de cet événement, des mesures immédiates ont été prises pour sécuriser les infrastructures concernées, limiter tout risque supplémentaire et engager une analyse approfondie avec nos experts en cybersécurité.
+- La FFS a également immédiatement informé les autorités compétentes (CNIL), et a assorti cette démarche d’un dépôt de plainte.
+- La Fédération a informé ses licencié(e)s, ses clubs et ses comités que certaines données administratives (identité, adresse postale, emails, etc.) pouvaient être concernées en leur demandant de faire preuve de vigilance face à tout message ou appel suspect, et de ne jamais communiquer d’informations personnelles ou sensibles en réponse à des sollicitations non vérifiées.
+
+## [Identités : Youzer lance My Youzer, une interface métier pour la gestion des habilitations](https://itsocial.fr/cybersecurite/cybersecurite-actualites/identites-youzer-lance-my-youzer-une-interface-metier-pour-impliquer-les-managers-dans-les-revues-dhabilitations/)  
+*Source : itsocial.fr | Publication : 2026-03-02*
+
+- My Youzer est une interface dédiée aux managers et aux utilisateurs finaux, distincte de la plateforme technique réservée aux équipes IT.
+- Ce découplage, une couche métier accessible sans formation technique, connectée à une plateforme IGA complète, adresse un problème structurel qui bloque l'efficacité des programmes de gouvernance des identités en impliquant les métiers.
+- Le marché mondial de l'IGA est évalué à 10,12 milliards de dollars en 2026 et devrait atteindre 29,06 milliards de dollars d'ici 2035, soit un TCAC de 12,3 %.
+- Gartner mesure une croissance de 9,2 % entre 2023 et 2024, accélérée à 10,7 % entre 2024 et 2025.
+
+## [Check Point chez Raymond James : virage stratégique en <b>Cybersécurité</b> - Investing.com](https://fr.investing.com/news/transcripts/check-point-chez-raymond-james--virage-strategique-en-cybersecurite-93CH-3296003)  
+*Source : fr.investing.com | Publication : 2026-03-02*
+
+- Meintzer a souligné le rôle transformateur de l'IA dans la Cybersécurité , déclarant : "Ce sera probablement le plus grand bouleversement pour la.
+
+## [Projet de loi sur la <b>cybersécurité</b> : le difficile arbitrage entre liberté et sécurité. Par Franck ...](https://www.village-justice.com/articles/loi-resilience-nis2-rec-sanctuarisation-chiffrement-enjeux-articulation-legale,56353.html)  
+*Source : village-justice.com | Publication : 2026-03-02*
+
+- Adoption du projet de loi et contexte européen.
+- Transposant trois directives européennes de décembre 2022 – REC, NIS2 et DORA –, le projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité a été adopté par le Sénat en mars 2025, puis en commission à l’Assemblée nationale en septembre de la même année.
+- Tandis que l’Union européenne avait fixé à octobre 2024 la date limite pour la transposition de ces directives, les présidents des deux commissions spéciales sur le projet de loi, Olivier Cadic pour le Sénat et Philippe Latombe pour l’Assemblée nationale, ont exprimé ensemble le 5 février 2026 leur préoccupation quant aux retards pris par le Gouvernement pour inscrire ce texte à l’ordre du jour de la séance publique à l’Assemblée nationale.
+- Conséquences majeures de la sanctuarisation de la confidentialité des échanges Promulgué en l’état, cet article 16 bis constituerait une décision législative majeure en faveur de la sanctuarisation de la confidentialité des échanges par voie électronique.
+
+## [AGIL Energy obtient la certification ISO/IEC 27001:2022 et renforce sa stratégie de <b>cybersécurité</b>](https://www.webdo.tn/fr/actualite/national/agil-energy-obtient-la-certification-iso-iec-270012022-et-renforce-sa-strategie-de-cybersecurite/393973/)  
+*Source : webdo.tn | Publication : 2026-03-02*
+
+- Dans un contexte de transformation digitale accélérée du secteur énergétique, AGIL Energy annonce avoir obtenu la certification ISO/IEC 27001:2022, norme internationale de référence en matière de management de la sécurité de l’information.
+- Cette certification, délivrée après un audit rigoureux mené par le bureau international TÜV Rheinland, souligne l’engagement de l’entreprise pour l’excellence, la sécurité et la performance durable.
+- La sécurité de l’information au cœur de la stratégie Face à la multiplication et à la complexification des cybermenaces, la protection des données et des systèmes d’information constitue un enjeu stratégique pour AGIL Energy.
+- La certification ISO/IEC 27001:2022 atteste la mise en place d’un Système de Management de la Sécurité de l’Information (SMSI) structuré, évalué régulièrement et conforme aux standards internationaux.
+
+## [Cyberattaque chez Cegedim : la case &quot;commentaires&quot; est un risque que les entreprises ...](https://www.journaldunet.com/cybersecurite/1548393-cyberattaque-chez-cegedim-la-case-commentaires-le-risque-que-les-entreprises-sous-estiment/)  
+*Source : journaldunet.com | Publication : 2026-03-02*
+
+- Cyberattaque chez Cegedim : la case "commentaires" est un risque que les entreprises sous-estiment Une cyberattaque rappelle que le principal risque ne vient pas toujours des données collectées, mais des annotations internes.
+- Les champs de "commentaires libres " créent un risque juridique majeur.
+- Après les révélations récentes concernant l’extraction de données issues du Fichier des comptes bancaires (Ficoba), c’est désormais l’éditeur de logiciels médicaux Cegedim qui se retrouve sous le feu de l’actualité.
+- Une cyberattaque survenue en décembre dernier contre le logiciel MLM (MonLogicielMedical.com) aurait conduit au vol de données de près de 15 millions de Français.
+
+## [Publication du Portrait des utilisations de l'intelligence artificielle dans l'administration ...](https://www.quebec.ca/nouvelles/actualites/details/publication-du-portrait-des-utilisations-de-lintelligence-artificielle-dans-ladministration-publique-68823)  
+*Source : quebec.ca | Publication : 2026-03-02*
+
+- Découvrez le Portrait des utilisations de l’intelligence artificielle dans l’administration publique, qui présente les initiatives en intelligence artificielle (IA) actuellement en développement ou en production au sein des organismes publics, à l’exception des initiatives liées à la cybersécurité.
+- La diffusion du Portrait témoigne de la volonté du gouvernement du Québec de promouvoir une intégration de l’IA fondée sur la transparence, la rigueur et la cohérence, tout en encourageant la mutualisation des efforts et des expertises entre les organismes publics.
+- Faits saillants Le nombre d’initiatives en IA dans l’administration publique a augmenté de plus de 50 % entre 2024 et 2025.
+- - 61 des initiatives concernent des services offerts à la population.
+
+## [Ils piégeaient les enfants et les ados : 30 pirates sans scrupule ont été arrêtés par la police](https://www.01net.com/actualites/ils-piegeaient-les-enfants-et-les-ados-30-pirates-sans-scrupule-ont-ete-arretes-par-la-police.html)  
+*Source : 01net.com | Publication : 2026-03-02*
+
+- Les forces de l’ordre viennent de faire tomber un réseau international de cybercriminels.
+- Coordonnée par Europol, l’opération, baptisée « Projet Compass », a conduit à l’arrestation de 30 suspects impliqués dans le gang « The Com ».
+- Dans la foulée, les enquêteurs ont aussi pu identifier 179 suspects en provenance de 28 pays.
+- Le collectif « The Com » est connu pour s’attaquer essentiellement aux enfants et aux adolescents.
+
+## [Mise en place de HACKATHON Citoyen | Présidente | CentraleSupelec au Féminin | Gabriela Belaid](https://itsocial.fr/cybersecurite/cybersecurite-cas-dusages/mise-en-place-de-hackathon-citoyen-presidente-centralesupelec-au-feminin-gabriela-belaid/)  
+*Source : itsocial.fr | Publication : 2026-03-02*
+
+- Cybersécurité Cybersécurité - Cas d’usages Mise en place de HACKATHON Citoyen | Présidente | CentraleSupelec | Gabriela... CONTENUSCAS D'USAGESCybersécuritéCybersécurité - Cas d’usages Mise en place de HACKATHON Citoyen | Présidente | CentraleSupelec | Gabriela Belaid Par La rédaction - 02/03/2026 ARTICLES SIMILAIRESPLUS DE L'AUTEUR Migration de l’infrastructure traditionnelle vers AWS | DevOps – Algofi | Hamdi Miled GREEN COMMUNICATION pitché au DSI – CYBER SHOW PARIS 2026 DEEPKEEP pitché au DSI – CYBER SHOW PARIS 2026 Mise en place d’une gouvernance de la donnée – Ready For IT 2025 Identifier et choisir une solution EDR/MDR – Ready For IT 2025 Tout sur l’AFCDP durant Ready For IT 2025 Sensibilisation des collaborateurs à la cybersécurité – Ready For IT 2025 Migration de la boutique en ligne – Ready For IT 2025 Plan de Reprise Informatique (PRI) en mode TGV– READY FOR IT 2025 Renforcement de la sécurisation et modernisation du cœur réseaux – READY FOR IT 2025 SUSE pitché au DSI – READY FOR IT 2025 IGEL pitché au DSI – READY FOR IT 2025 Maria Iacono – directrice de Ready For IT – READY FOR IT 2025 Sensibilisation cyber des collaborateurs – READY FOR IT 2025 Sécurisation des données dans le Cloud – READY FOR IT 2025 Interview de Gabriela Belaid, Présidente chez Centrale Supelec, réalisé lors de l'évènement Cybershow Paris publicité Derniers articles de fond Convergence IT/OT/sécurité physique : 41 % des décideurs ciblent l’unification des... Tech & Innovation - Articles 02/03/2026 IA et cybersécurité, seulement 30 % des organisations disposent d’un budget... Cybersécurité - Articles 02/03/2026 La compromission de messagerie professionnelle et la fraude représentent environ 50 %... Cybersécurité - Articles 27/02/2026 Charger plus Derniers livres blancs Réussir ma migration de messagerie vers exchange on line Tech & Digital - Livres blancs 05/02/2026 Pourquoi et comment migrer sharepoint maintenant Tech & Digital - Livres blancs 03/02/2026 Migrer mes serveurs de fichiers : Avantages et limites Tech & Digital - Livres blancs 03/02/2026 Charger plus Dernières actualités Identités : Youzer lance My Youzer, une interface métier pour la gestion... Cybersécurité - Actualités 02/03/2026 TD Synnex Maverick distribue les solutions audio professionnelles de Shure dans... ACTUALITES 02/03/2026 Orange Business externalise son support client international à Tech Mahindra Cloud & Infrastructure IT - Actualités 02/03/2026 Thales démontre la transition post-quantique des réseaux 5G sans remplacement de... Tech & Innovation - Actualités 02/03/2026 Charger plus.
+
+## [L'Algérie muscle la <b>cybersécurité</b> des institutions publiques - Acteurs Publics](https://acteurspublics.fr/articles/lalgerie-muscle-la-cybersecurite-des-institutions-publiques/)  
+*Source : acteurspublics.fr | Publication : 2026-03-02*
+
+- L’Algérie met en place un nouveau cadre règlementaire pour diminuer au maximum, le niveau d’exposition des organismes et des administrations publiques aux attaques informatiques.
+- Conformément au décret présidentiel publié tout récemment au Journal Officiel, chaque institution publique sera dotée d’une structure de cybersécurité qui se chargera de renforcer la sécurité des systèmes d’information.
+- Placées sous l’autorité directe du premier responsable des institutions concernées, ces entités auront pour mission de coordonner l’ensemble des actions relatives à la cybersécurité et à la protection des données.
+- À la différence de services déjà existants et qui s’occupent exclusivement de la gestion technique des systèmes d’information, les nouvelles structures ont des attributions plus larges.
+
+## [Dark web : du vol de bases clients à la revente d'accès, anatomie des données disponibles](https://incyber.org/article/dark-web-vol-bases-clients-revente-dacces-anatomie-donnees-disponibles/)  
+*Source : incyber.org | Publication : 2026-03-02*
+
+- Accueil - Cybercriminalité - Dark web : du vol de bases clients à la revente d’accès, anatomie des données disponibles - Dark web : du vol de bases clients à la revente d’accès, anatomie des données disponibles Le « dark web » désigne un ensemble d’espaces où circulent et se négocient des données issues d’activités cybercriminelles.
+- Ces environnements regroupent des forums parfois indexés par des moteurs de recherche, des plateformes semi-publiques et des canaux de messagerie tels que Telegram.
+- Des contenus initialement réservés à des cercles restreints finissent souvent par être relayés dans des espaces plus ouverts, voire diffusés gratuitement.
+- Ce basculement s’explique par plusieurs facteurs : absence d’acheteurs, conflits entre acteurs malveillants ou stratégies visant à renforcer une réputation au sein de ces communautés.
+
+## [Areal renforce la <b>cybersécurité</b> de Topkapi - La Revue EIN](https://www.revue-ein.com/actualite/areal-renforce-la-cybersecurite-de-topkapi)  
+*Source : revue-ein.com | Publication : 2026-03-02*
+
+- La version 6.3 du logiciel de supervision industrielle intègre plusieurs fonctions assurant une cybersécurité renforcée et une exploitation enrichie.
+- Avec la version 6.3, Areal ancre son logiciel de supervision industrielle Topkapi dans une démarche de cybersécurité, en permettant aux entreprises de préparer leur système d’information (SI) industriel à la conformité avec la directive européenne 2022/2555, également appelée Network and Information Systems (NIS 2) – elle est en cours de transposition en droit français.
+- Parmi les évolutions liées à la cybersécurité, l’intégration du protocole Syslog dans Topkapi, conformément aux exigences de l’Anssi[1], permet de journaliser les événements système et process sur un système déporté.
+- Cette fonctionnalité est d’ailleurs indispensable pour le durcissement des systèmes, le repérage d’activités inhabituelles et les audits.
+
+## [IA et <b>cybersécurité</b>, seulement 30 % des organisations disposent d'un budget dédié face à l ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/ia-et-cybersecurite-seulement-30-des-organisations-disposent-dun-budget-dedie-face-a-lexposition-croissante/)  
+*Source : itsocial.fr | Publication : 2026-03-02*
+
+- Selon le Thales 2026 Data Threat Report, conduit par S&P Global 451 Research, 70 % des organisations identifient l'IA comme leur risque prioritaire en matière de sécurité des données — devant le rançongiciel et les attaques sur la chaîne d'approvisionnement logicielle.
+- Le danger ne provient pas uniquement d'une IA hostile : il émane aussi des systèmes IA internes, devenus des « initiés de confiance » disposant d'un accès aux données avec des contrôles souvent inférieurs à ceux appliqués aux humains.
+- Pendant des années, le risque interne a été traité comme un problème humain — l'employé négligent, le prestataire mal habilité, l'administrateur aux droits excessifs.
+- L'intégration de l'IA dans les flux d'entreprise — analyse de données, service client, pipelines de développement, automatisation des processus — élargit cette définition de façon extensive.
+
+## [La cyberpuissance iranienne : une menace réelle ou surestimée ? (2/2) - Ici Beyrouth](https://icibeyrouth.com/articles/1333948/la-cyberpuissance-iranienne--une-menace-reelle-ou-surestimee--22)  
+*Source : icibeyrouth.com | Publication : 2026-03-02*
+
+- Au fil des années, l’Iran a développé et structuré son domaine cyber autour de multiples organes étatiques et paraétatiques, formant une galaxie d’acteurs dont plusieurs sont identifiés comme APT.
+- Les APT iraniens Un groupe APT désigne une équipe de hackers organisée, généralement soutenue par un État ou une entité puissante, qui mène des cyberattaques ciblées et de longue durée.
+- Contrairement aux virus ou malwares classiques, ces groupes ne cherchent pas seulement à provoquer un dommage immédiat: leur objectif principal est l’espionnage, le sabotage ou la collecte d’informations stratégiques.
+- Les groupes APT sont identifiés et classés par des sociétés spécialisées en cybersécurité, comme FireEye, Kaspersky, CrowdStrike ou Symantec, qui analysent leurs méthodes, outils et cibles pour suivre leurs activités et alerter les organisations vulnérables.
+
+## [Guerre au Moyen-Orient: internet est coupé à 99% en Iran depuis plus de 48 heures, tandis ...](https://www.bfmtv.com/tech/cybersecurite/guerre-au-moyen-orient-internet-est-coupe-a-99-en-iran-depuis-plus-de-48-heures-tandis-que-le-pays-est-egalement-la-cible-de-cyberattaques_AV-202603020424.html)  
+*Source : bfmtv.com | Publication : 2026-03-02*
+
+- Guerre au Moyen-Orient: internet est coupé à 99% en Iran depuis plus de 48 heures, tandis que le pays est également la cible de cyberattaques Depuis le lancement de l'opération "Fureur épique" le samedi 28 février 2026 par les Etats-Unis et Israël, la population iranienne n'a plus accès à internet.
+- Les autorités ont en effet coupé les télécommunications, afin que les Iraniens ne puissent pas rendre compte des événements sur place.
+- Seuls les émetteurs de télévision semblent rester opérationnels.
+- Selon Netblocks, structure spécialisée dans les droits humains numériques, la cybersécurité et l'accès au net, le trafic internet a soudainement été interrompu, passant à 4% de ses capacités habituelles avant de chuter à seulement 1% d'activité.
 
 ## [Des hackers ont attaqué des applications et des sites web iraniens - The Times of Israël](https://fr.timesofisrael.com/des-hackers-ont-attaque-des-applications-et-des-sites-web-iraniens/)  
 *Source : fr.timesofisrael.com | Publication : 2026-03-01*
