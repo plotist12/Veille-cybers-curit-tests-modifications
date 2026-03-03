@@ -1,5 +1,139 @@
-# Résumés – 2026-03-02
+# Résumés – 2026-03-03
 
+
+## [Orange : la place centrale de la <b>cybersécurité</b> - 03/03 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-orange-la-place-centrale-de-la-cybersecurite-03-03_VN-202603031001.html)  
+*Source : bfmtv.com | Publication : 2026-03-03*
+
+- Orange : la place centrale de la cybersécurité - 03/03 Ce mardi 3 mars, Hugues Foulon, CEO d'Orange Cyberdefense et membre du Comité Exécutif d'Orange, s'est penché sur la place centrale de la cybersécurité chez Orange, la sécurisation des infrastructures réseaux, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 11:32.
+
+## [Alerte <b>cybersécurité</b>: Des failles critiques ciblent la plateforme d'automatisation n8n](https://snrtnews.com/fr/article/alerte-cybersecurite-des-failles-critiques-ciblent-la-plateforme-dautomatisation-n8n-147508)  
+*Source : snrtnews.com | Publication : 2026-03-03*
+
+- Jalal Dermage, expert en cybersécurité , précise à SNRTnews que cet outil agit comme un agent d'intelligence artificielle capable de gérer de manière.
+
+## [« On ne peut plus croire ses yeux ni ses oreilles » : l'IA dope les <b>cybermenaces</b> mondiales](https://fr.news.yahoo.com/conflit-iranien-pourrait-déclencher-vague-092020666.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-03-03*
+
+- « On ne peut plus croire ses yeux ni ses oreilles » : l’IA dope les cybermenaces mondiales Le conflit en Iran devrait entraîner dans les prochains jours une hausse des cyberattaques géopolitiques, selon un dirigeant de Palo Alto Networks, le plus grand spécialiste mondial exclusivement dédié à la cybersécurité.
+- En marge du Mobile World Congress de Barcelone, Scott McKinnon, directeur de la sécurité (chief security officer) de Palo Alto Networks pour le Royaume-Uni & l’Irlande, a mis en garde auprès d’Euronews Next contre une flambée d’« armes secondaires » dans le cyberespace, déployées par des acteurs étatiques, dont l’Iran.
+- « Chaque fois qu’il y a [un] conflit, [...] il y a une riposte.
+- On n’utilise pas seulement des systèmes de défense et d’attaque physiques, mais aussi des armes annexes [...] », explique-t-il.
+
+## [SCALLOG mise sur la data et la palette avec SCALLOG | Analytics et SCALLOG | Pallet To Person](https://www.faq-logistique.com/CP20260302-SCALLOG-Nouveautes-Analytics-Pallet-To-Person.htm)  
+*Source : faq-logistique.com | Publication : 2026-03-03*
+
+- « SCALLOG | Analytics » et « SCALLOG | Pallet To Person » : des nouveautés sous le signe du pilotage data-driven, de la performance et de la cybersécurité Nanterre, le 2 mars 2026 À l’occasion de l’édition 2026 du salon SITL, SCALLOG dévoile deux nouveautés majeures au service de l’agilité et de l’efficacité des entrepôts : SCALLOG | Analytics, une solution logicielle pour un pilotage data-driven de la performance logistique, et SCALLOG | Pallet To Person, une évolution majeure de sa solution robotisée dédiée à la gestion automatisée du picking sur palettes.
+- De plus, SCALLOG | Pallet To Person s’appuie sur un nouveau robot de dernière génération, renforçant à la fois la capacité de charge, la performance énergétique et la cybersécurité du système.
+- Ces innovations traduisent la volonté de SCALLOG de démocratiser la robotisation dans tous types d’entrepôts, tout en renforçant l’agilité, la performance durable et la maîtrise des opérations de bout en bout.
+- Pour illustrer ces bénéfices, SCALLOG animera un atelier dédié au cours duquel CLARINS partagera son retour d’expérience sur la transformation omnicanale de son hub logistique de Glisy (Hauts-de-France), ainsi que les gains de productivité et l’amélioration des conditions de travail obtenus grâce à la solution Goods to Person.
+
+## [CrowdStrike devrait annoncer un chiffre d'affaires et un bénéfice par action en hausse dans ...](https://www.boursorama.com/bourse/actualites-amp/crowdstrike-devrait-annoncer-un-chiffre-d-affaires-et-un-benefice-par-action-en-hausse-dans-ses-resultats-attendus-apres-la-cloture-de-la-bourse-3ea71d37306d70e7be2155577b9aa164)  
+*Source : boursorama.com | Publication : 2026-03-03*
+
+- CrowdStrike devrait annoncer un chiffre d'affaires et un bénéfice par action en hausse dans ses résultats attendus après la clôture de la bourse information fournie par Reuters 03/03/2026 à 21:22 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) 3 mars - ** Les actions de CrowdStrike CRWD.O ont augmenté de 1,9 % mardi, la société de cybersécurité devant afficher un chiffre d'affaires et un bénéfice par action en hausse lors de la publication de ses résultats trimestriels après la clôture de la bourse ** L'action était à contre-courant de la tendance générale du marché, avec le Nasdaq .IXIC en baisse de 0,9% sur la journée ** CRWD devrait afficher un chiffre d'affaires de 1,30 milliard de dollars au 4ème trimestre, contre 1,06 milliard de dollars l'année précédente, et un BPA ajusté de 1,10 dollar, contre 1,03 dollar l'année précédente, selon LSEG ** En décembre, la société prévoyait un chiffre d'affaires trimestriel en hausse, citant l'élan donné par l'adoption croissante de ses outils basés sur l'IA ** Les valeurs de la cybersécurité, y compris CRWD, ont chuté fin février après que la startup d'IA Anthropic a lancé un outil de sécurité, suscitant des inquiétudes sur la nouvelle concurrence ** Le PT médian à 12 mois sur CRWD est de 535 $; le titre était à 392,23 $ ** CRWD a sous-performé depuis le début de l'année, chutant de 16,4 % contre une baisse d'environ 3 % pour le Nasdaq au cours de cette période.
+
+## [Construire l'autonomie stratégique de l'Europe : le défi de l'IA et de la <b>cybersécurité</b>](https://www.youtube.com/watch?v=FTvRL2OGhS0)  
+*Source : youtube.com | Publication : 2026-03-03*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Le Pentagone abandonne Anthropic AI en raison d'un « risque pour la sécurité » et OpenAI ...](https://www.malwarebytes.com/fr/blog/news/2026/03/pentagon-ditches-anthropic-ai-over-security-risk-and-openai-takes-over)  
+*Source : malwarebytes.com | Publication : 2026-03-03*
+
+- Vendredi, le Pentagone américain a rompu ses liens avec Anthropic, la société à l'origine de l'IA Claude.
+- Le secrétaire à la Défense Pete Hegseth a qualifié cette entreprise basée à San Francisco de « risque pour la sécurité nationale en matière de chaîne d'approvisionnement ».
+- La désignation de risque pour la chaîne d'approvisionnement signifie qu'aucun sous-traitant, fournisseur ou partenaire travaillant avec l'armée américaine ne peut traiter avec Anthropic.
+- Cependant, cette étiquette ne s'appliquait auparavant qu'à des adversaires étrangers tels que Huawei, et son utilisation à l'encontre d'une entreprise américaine marque une rare escalade dans un conflit entre le gouvernement et l'industrie.
+
+## [Cyberattaque contre l'UNSS : plus de 1,5 million de données et photos d'élèves français sur ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-contre-l-unss-plus-de-1-5-million-de-donnees-et-photos-d-eleves-francais-sur-le-darknet-28123174.php)  
+*Source : sudouest.fr | Publication : 2026-03-03*
+
+- L’Union Nationale du Sport Scolaire (UNSS) est victime d’une cyberattaque et porte plainte après la diffusion de données sensibles d’élèves sur le darknet Des photos et des données de collégiens et de lycéens dérobées lors de cyberattaques ont été mises en ligne sur le darknet, a indiqué lundi l’UNSS, principale fédération du sport scolaire, qui a déposé plainte.
+
+## [1,5 million de photos d'adolescents publiées sur le darknet : ce que l'on sait de la ... - CNews](https://www.cnews.fr/france/2026-03-03/15-million-de-photos-dadolescents-publiees-sur-le-darknet-ce-que-lon-sait-de-la)  
+*Source : cnews.fr | Publication : 2026-03-03*
+
+- cybersécurité », a assuré la fédération, qui compte 1,2 million de ... Cybersécurité Cyberattaque Cybercriminalité CollègeLycéeDonnées.
+- À suivre.
+
+## [Guerre au Moyen-Orient : l'Occident et ses alliés craignent une intensification des cyberattaques](https://www.journaldunet.com/cybersecurite/1548445-guerre-au-moyen-orient-l-occident-et-ses-allies-craignent-une-intensification-des-cyberattaques/)  
+*Source : journaldunet.com | Publication : 2026-03-03*
+
+- Guerre au Moyen-Orient : l'Occident et ses alliés craignent une intensification des cyberattaques Les hackers pro-Iran intensifient leurs attaques contre les cibles américano-israéliennes, rejoints par des hacktivistes russes.
+- L'offensive militaire américano-israélienne sur l'Iran, lancée le 28 février 2026, s'accompagne d'une cyberguerre qui ne fait que s'intensifier de part et d'autre.
+- Les premières frappes sur le pays des mollahs ont été accompagnées d'attaques visant tout l'appareil médiatique du régime.
+- Plusieurs grands sites d'information iraniens comme l'Agence de presse de la République islamique, Tabnak et Asr Iran ont été victimes d'interruptions de service et d'altérations de contenus.
+
+## [Des hackers chinois se cachent dans Windows Update pour espionner des gouvernements ...](https://www.clubic.com/actualite-603034-des-hackers-chinois-se-cachent-dans-windows-update-pour-espionner-des-gouvernements-sans-se-faire-reperer.html)  
+*Source : clubic.com | Publication : 2026-03-03*
+
+- Des chercheurs en cybersécurité ont mis au jour Silver Dragon, une campagne d'espionnage d'origine chinoise qui détourne des services Windows légitimes et Google Drive pour infiltrer discrètement des institutions gouvernementales.
+- Le spécialiste de la cybersécurité Check Point Research vient de documenter une vraie campagne d'espionnage informatique pilotée par des hackers probablement liés à l'État chinois.
+- Baptisée Silver Dragon et rattachée au groupe APT41, elle s'attaque à des gouvernements en Asie et en Europe depuis mi-2024, en silence, sans jamais se faire remarquer.
+- Pour passer sous les radars, les hackers détournent des services Windows légitimes et utilisent Google Drive comme canal d'espionnage.
+
+## [Orange. Les membres d'OSE évoquent la <b>cybercriminalité</b> - Le Dauphiné Libéré](https://www.ledauphine.com/economie/2026/03/03/les-membres-d-ose-evoquent-la-cybercriminalite)  
+*Source : ledauphine.com | Publication : 2026-03-03*
+
+- Orange Les membres d’OSE évoquent la cybercriminalité Le réseau Orange sud entreprendre (OSE) diversifie ses réunions.
+- Ce jeudi 26 février, dans les locaux... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteLe Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Dauphiné Libéré, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+
+## [Un « risque accru » de cyberattaques : la guerre en Iran galvanise les pirates - 01net.com](https://www.01net.com/actualites/guerre-iran-cyberattaques-royaume-uni-alerte-sujet-risque-accru.html)  
+*Source : 01net.com | Publication : 2026-03-03*
+
+- Ce week-end, l’Iran a été le théâtre d’une escalade militaire majeure impliquant les États-Unis et Israël.
+- Des bombardements américains et israéliens ont eu lieu à l’encontre de 200 cibles situées sur le sol iranien.
+- L’Iran a riposté par des salves de missiles et de drones contre des bases américaines au Bahreïn, en Irak et à l’encontre d’Israël.
+- Des missiles ont même été tirés vers l’île de Chypre.
+
+## [Guerre invisible : stratégies de défense face aux menaces cyber et informationnelles](https://www.youtube.com/watch?v=qB1sXh-7clw)  
+*Source : youtube.com | Publication : 2026-03-03*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Dossier : le continuum moderne de détection et réponse aux incidents | LeMagIT](https://www.lemagit.fr/essentialguide/Dossier-le-continuum-moderne-de-detection-reponse-aux-incidents)  
+*Source : lemagit.fr | Publication : 2026-03-03*
+
+- Dossier : le continuum moderne de détection et réponse aux incidents Introduction La chaîne s’étendant de la détection des incidents de cybersécurité à leur traitement a significativement évolué au cours des 5 à 10 dernières années.
+- Cela a commencé par le passage de la simple protection antivirale des postes de travail et serveurs à la détection et la réponse (EDR), avec intégration de l’analyse comportementale, afin de repérer les moindres anomalies susceptibles de trahir la présence d’une menace.
+- Dans le même temps, cette approche s’est étendue au réseau, avec l’IPS/IDS se muant en NDR (Network Detection and Response) à grand renfort d’analyse du trafic réseau (NTA).
+- Ce point d’observation complétant celui fourni par les points de terminaison du réseau, c’est tout naturellement qu’est apparue la XDR, ou Détection et Réponse Étendues (pour eXtended Detection and Response, en anglais).
+
+## [Les services secrets israéliens ont passé des années à pirater les caméras de surveillance ... - BFM](https://www.bfmtv.com/tech/cybersecurite/les-services-secrets-israeliens-ont-passe-des-annees-a-pirater-les-cameras-de-surveillance-de-teheran-pour-localiser-espionner-et-finalement-tuer-le-guide-supreme-iranien-ali-khamenei_AN-202603030430.html)  
+*Source : bfmtv.com | Publication : 2026-03-03*
+
+- Les services secrets israéliens ont passé des années à pirater les caméras de surveillance de Téhéran pour localiser, espionner et finalement tuer le guide suprême iranien Ali Khamenei Lorsque les gardes du corps et chauffeurs hautement entraînés des hauts responsables iraniens se rendaient à leur poste près de la rue Pasteur, à Téhéran, où l'ayatollah Ali Khamenei a été tué lors d’une frappe aérienne israélienne samedi, ils étaient scrutés à distance par les services israéliens.
+- Selon une enquête du Financial Times, presque toutes les caméras de circulation de Téhéran avaient été piratées depuis des années, leurs images chiffrées étant transmises à des serveurs à Tel Aviv et dans le sud d’Israël.
+- Certaines caméras offraient des angles particulièrement utiles, permettant de savoir où les gardes garent leurs véhicules, d’analyser leurs habitudes et de reconstituer le fonctionnement d’une partie de l’enceinte ultra-sécurisée.
+- Des algorithmes complexes croisaient ces données avec les adresses, horaires de service, itinéraires domicile-travail et les personnes protégées par ces gardes, créant un véritable "profil de vie".
+
+## [L'UNSS victime d'une fuite de données - Libération](https://www.liberation.fr/societe/education/lunion-nationale-du-sport-scolaire-victime-dune-fuite-de-donnees-20260303_XL3ZRHATJJF5FFYCVFYN6KLF4I/)  
+*Source : liberation.fr | Publication : 2026-03-03*
+
+- cybersécurité », a assuré la fédération, qui compte 1,2 million de licenciés de 11 à 18 ans et est placée sous la tutelle du ministère de l.
+
+## [La <b>cybersécurité</b> connaît un « allongement des cycles de vente », selon Wedbush](https://www.zonebourse.com/actualite-bourse/la-cybersecurite-connait-un-allongement-des-cycles-de-vente-selon-wedbush-ce7e5cd2dc88ff27)  
+*Source : zonebourse.com | Publication : 2026-03-03*
+
+- La cybersécurité connaît un « allongement des cycles de vente », selon WedbushLe secteur de la cybersécurité fait face à un « allongement des cycles de vente », les décideurs multipliant les preuves de concept pour évaluer les impacts à long terme, a indiqué.
+
+## [Forum INCYBER : des professionnels pour décrypter les enjeux de la <b>cybersécurité</b>](https://www.interieur.gouv.fr/actualites/actualites-du-ministere/forum-incyber-des-professionnels-pour-decrypter-enjeux-de-cybersecurite)  
+*Source : interieur.gouv.fr | Publication : 2026-03-03*
+
+- En 2024, 13 500 entreprises ont ainsi été sensibilisées aux cybermenaces.
+- L'UNCyber, composante numérique de la Gendarmerie nationale, conduit et.
+
+## [LYON : Enseignement supérieur - La <b>cybersécurité</b> se met au service de l'inclusion sociale](https://presseagence.fr/lyon-enseignement-superieur-la-cybersecurite-se-met-au-service-de-linclusion-sociale/)  
+*Source : presseagence.fr | Publication : 2026-03-03*
+
+- LYON : Enseignement supérieur – La cybersécurité se m… Partager : LYON : Enseignement supérieur – La cybersécurité se met au service de l’inclusion sociale CSB.school et La Plateforme de l’Inclusion signent un partenariat pour sécuriser un service public essentiel via un mécénat de compétences inédit.
+- C’est une alliance qui conjugue excellence technologique et engagement citoyen.
+- Ce mercredi 25 février 2026, à Lyon, l’école CSB.school (Cyber Security Business School) et La Plateforme de l’Inclusion officialisent un partenariat pédagogique d’envergure.
+- Dans un contexte où la menace cyber pèse de plus en plus lourdement sur les structures d’intérêt général, cette collaboration prend la forme d’un mécénat de compétences.
 
 ## [<b>Cybersécurité</b> : la fréquence des sinistres a plus que doublé en un an - ITRnews](https://itrnews.com/articles/208999/cybersecurite-la-frequence-des-sinistres-a-plus-que-double-en-un-an.html)  
 *Source : itrnews.com | Publication : 2026-03-02*
