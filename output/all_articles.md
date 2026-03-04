@@ -1,5 +1,141 @@
-# Résumés – 2026-03-03
+# Résumés – 2026-03-04
 
+
+## [BLS International renforce la <b>cybersécurité</b> des demandes de visa en Mauritanie](https://www.financialafrik.com/2026/03/04/bls-international-renforce-la-cybersecurite-des-demandes-de-visa-en-mauritanie/)  
+*Source : financialafrik.com | Publication : 2026-03-04*
+
+- BLS International a annoncé le renforcement de ses dispositifs de cybersécurité et de ses systèmes technologiques pilotés par l’intelligence artificielle afin de sécuriser les demandes de visa en Mauritanie.
+- Le groupe, partenaire de nombreux gouvernements pour les services consulaires et de visa, poursuit ainsi ses investissements dans des infrastructures numériques destinées à garantir un accès fiable, transparent et équitable aux usagers.
+- Selon l’entreprise, ses plateformes de prise de rendez-vous, de soumission des dossiers et d’enrôlement biométrique traitent chaque jour un volume élevé de connexions, particulièrement lors des périodes de forte demande.
+- Pour accompagner cette montée en charge, BLS International a déployé une architecture technologique multicouche comprenant des pare-feu applicatifs avancés, des systèmes de vérification par code OTP, des mécanismes de validation des rendez-vous et des contrôles de sécurité renforcés visant à prévenir les fraudes et les abus automatisés.
+
+## [Du GAGSI au MAGNum : un nouveau référentiel pour piloter la transformation numérique](https://www.solutions-numeriques.com/du-gagsi-au-magnum-un-nouveau-referentiel-pour-piloter-la-transformation-numerique/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-04*
+
+- ISACA France, le Cigref et l’IFACI publient le MAGNum 2026, un nouveau modèle destiné à évaluer la maturité de la gouvernance numérique des organisations.
+- Successeur du GAGSI, ce référentiel intègre désormais des enjeux devenus centraux comme l’IA, la cybersécurité, la conformité ou la RSE.
+- Un référentiel pour piloter la gouvernance du numérique Le MAGNum vise à dépasser la seule logique d’audit pour devenir un outil de pilotage de la transformation numérique.
+- Le référentiel s’adresse aux directions générales, aux DSI mais aussi aux directions métiers, dans un contexte où le numérique structure désormais la compétitivité et la résilience des organisations.
+
+## [Fuite de données sur la plateforme Cours d'Adultes de Paris - L'INFORMATICIEN](https://www.linformaticien.com/magazine/cybersecurite/64545-fuite-de-donnees-sur-la-plateforme-cours-d-adultes-de-paris.html)  
+*Source : linformaticien.com | Publication : 2026-03-04*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cybersécurité · Fuite de données sur la.
+
+## [pourquoi le vaste piratage de l'UNSS fait à nouveau parler de lui et ce qu'il faut en retenir - BFM](https://www.bfmtv.com/tech/cybersecurite/les-donnees-et-les-photos-de-1-5-million-d-adolescents-derobees-pourquoi-le-vaste-piratage-de-l-unss-fait-a-nouveau-parler-de-lui-et-ce-qu-il-faut-en-retenir_AV-202603040841.html)  
+*Source : bfmtv.com | Publication : 2026-03-04*
+
+- Les données et les photos de 1,5 million d’adolescents dérobées: pourquoi le vaste piratage de l’UNSS fait à nouveau parler de lui et ce qu’il faut en retenir Aux côtés de nombreuses autres cyberattaques de fédérations sportives (dont celle de tennis de table, de tir sportif, de gymnastique ou encore d'athlétisme), l'UNSS, l'Union nationale du sport scolaire, a été victime, en novembre 2025, d'un vaste piratage qui a permis de récupérer plusieurs millions de données personnelles, dont plus de 1,5 million de photos d'adolescents, collégiens et lycéens.
+- Depuis cette "exfiltration dispersée", 65 Go de données ont été mis en vente sur le darknet, obligeant l'UNSS à prendre la parole.
+- Que s'est-il passé?.
+- En novembre 2025, un accès non autorisé à l'outil de gestion OPUSS a été découvert.
+
+## [Armis lance un portail sécurisé pour les développeurs - L'INFORMATICIEN](https://www.linformaticien.com/magazine/cybersecurite/64544-armis-lance-un-portail-securise-pour-les-developpeurs.html)  
+*Source : linformaticien.com | Publication : 2026-03-04*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cybersécurité · Armis lance un portail.
+
+## [<b>Cybersécurité</b>: la DGSSI met en garde contre des vulnérabilités critiques dans la plateforme N8N](https://fr.le360.ma/societe/cybersecurite-la-dgssi-met-en-garde-contre-des-vulnerabilites-critiques-dans-la-plateforme-n8n_CSYRNHDRHRAQXP3TWONSIE2HVY/)  
+*Source : fr.le360.ma | Publication : 2026-03-04*
+
+- La Direction Générale de la Sécurité des Systèmes d’Information (DGSSI) vient d’alerter sur des vulnérabilités critiques détectées dans la plateforme d’automatisation open source N8N.
+- Cette plateforme, qui permet de créer des automatisations complexes ou simples via une interface visuelle conviviale, est utilisée par des administrations, des entreprises, des entrepreneurs et des particuliers, entre autres.
+- «Les utilisateurs ont accès à des intégrations préconfigurées et n’ont pas à se soucier de codes complexes ni d’erreurs de connexion», rapporte le quotidien Assabah dans son édition du jeudi 5 mars.
+- Cette large gamme d’intégrations avec des outils et services populaires du marché permet à la plateforme d’être sollicitée par des entreprises et des particuliers.
+
+## [<b>Cybersécurité</b> : les pirates délaissent les failles techniques pour voler vos identités](https://itrnews.com/articles/209043/cybersecurite-les-pirates-delaissent-les-failles-techniques-pour-voler-vos-identites.html)  
+*Source : itrnews.com | Publication : 2026-03-04*
+
+- Veuillez activer Javascript.
+
+## [Tycoon 2FA, plateforme géante du cybercrime, vient d'être terrassée mercredi par Microsoft ...](https://www.clubic.com/actualite-603262-tycoon-2fa-plateforme-geante-du-cybercrime-vient-d-etre-terrassee-mercredi-par-microsoft-et-europol.html)  
+*Source : clubic.com | Publication : 2026-03-04*
+
+- Une opération internationale coordonnée par Europol, avec le soutien technique de Microsoft, a mis fin à Tycoon 2FA, une plateforme cybercriminelle qui contournait la double authentification de dizaines de milliers d'organisations dans le monde.
+- Depuis près de trois ans, Tycoon 2FA offrait aux cybercriminels un service sur abonnement pour pirater des comptes, même ceux protégés par double authentification.
+- Environ 100 000 organisations ont été touchées dans le monde, avec des hôpitaux et des établissements scolaires dans le lot.
+- Le coup de grâce est venu d'une coalition inédite entre Europol, forces de l'ordre européennes et géants de la tech, Microsoft en tête.
+
+## [<b>Cybersécurité</b> : l'Algérie se dote d'un bouclier numérique](https://lalgerieaujourdhui.dz/cybersecurite-lalgerie-se-dote-dun-bouclier-numerique/)  
+*Source : lalgerieaujourdhui.dz | Publication : 2026-03-04*
+
+- يتم التحقّق من أن طلبك ليس طلباً آلياً... Verifying that you are not a robot... Please wait few seconds...الرجاء الإنتظار بضعة ثوان DZSecurity.
+
+## [<b>Cybersécurité</b> au Maroc: marché attendu à $238 millions en 2031 - APAnews](https://fr.apanews.net/science/cybersecurite-au-maroc-marche-attendu-a-238-millions-de-dollars-en-2031/)  
+*Source : fr.apanews.net | Publication : 2026-03-04*
+
+- Estimé à 144,57 millions de dollars en 2025, le marché marocain de la cybersécurité devrait atteindre 238,12 millions en 2031, selon Mordor.
+
+## [&quot;Il y a un avant et un après&quot; : comment la DGSI sensibilise durablement les entreprises au ...](https://www.journaldunet.com/cybersecurite/1548461-il-y-a-eu-un-avant-et-un-apres-comment-la-dgsi-sensibilise-durablement-les-entreprises-au-risque-cyber/)  
+*Source : journaldunet.com | Publication : 2026-03-04*
+
+- "Il y a un avant et un après" : comment la DGSI sensibilise durablement les entreprises au risque cyber La DGSI accompagne un nombre croissant d'entreprises pour sensibiliser leurs collaborateurs via des conférences et des démonstrations adaptées à leurs propres enjeux.
+- Dans l’imaginaire collectif, la Direction générale de la sécurité intérieure (DGSI) évoque un monde feutré d’espions opérant dans l’ombre.
+- Pourtant, depuis une dizaine d'années, cette institution qui cristallise tous les fantasmes partage son expérience du risque cyber aux entreprises.
+- Ce partage s'opère à travers des conférences que certains de ses agents dispensent dans les organisations.
+
+## [Pourquoi les managers doivent être formés à la <b>cybersécurité</b> - LeMagIT](https://www.lemagit.fr/actualites/366639687/Pourquoi-les-managers-doivent-etre-formes-a-la-cybersecurite)  
+*Source : lemagit.fr | Publication : 2026-03-04*
+
+- Vlad Chorniy - stock.adobe.com Pourquoi les managers doivent être formés à la cybersécurité Beaucoup de patrons de PME et d’ETI restent convaincus que les cyberattaques n’arrivent qu’aux autres.
+- L’Anssi, les Campus Cyber et les organismes de formation ont créé des formations ultracourtes pour éveiller les décideurs aux enjeux de la cyber.
+- « Souvent, on présente la cybersécurité comme un sujet informatique, alors que c'est un sujet qui est totalement transverse à l'organisation », résume Anne Doré, fondatrice de l’Adhel, un organisme de conseil et de formation cyber à destination des managers.
+- Et de développer : « la cybersécurité une dimension organisationnelle, RH, réglementaire, juridique.
+
+## [ARC Data Shield et Tranquil IT lancent une solution combinant l'appliance Digital Air Gap et ...](https://www.globalsecuritymag.fr/arc-data-shield-et-tranquil-it-lancent-une-solution-combinant-l-appliance.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-03-04*
+
+- ARC Data Shield et Tranquil IT lancent une solution combinant l’appliance Digital Air Gap et la plateforme de déploiement WAPT mars 2026 par LA REDACTION DE GS MAG ARC Data Shield et Tranquil IT, deux acteurs de la cybersécurité française, annoncent le lancement d’une solution conjointe combinant l’appliance Digital Air Gap et la plateforme de déploiement WAPT.
+- Cette alliance technologique répond à l’un des défis les plus critiques des organisations gérant des infrastructures sensibles : maintenir un cloisonnement réseau absolu tout en assurant une gestion rigoureuse et automatisée des mises à jour.
+- Jusqu’ici, les responsables sécurité faisaient face à un dilemme insoluble : isoler totalement un réseau critique pour le protéger des attaques protocolaires, ou accepter une connectivité résiduelle et une organisation dédiée pour en assurer la maintenance.
+- Ces deux impératifs, longtemps contradictoires, chronophages, coûtaient aux organisations soit en sécurité, soit en opérabilité.
+
+## [<b>Cybersécurité</b> : Belfor.io revisite la sensibilisation - LeMagIT](https://www.lemagit.fr/actualites/366639746/Cybersecurite-Belforio-revisite-la-sensibilisation)  
+*Source : lemagit.fr | Publication : 2026-03-04*
+
+- Vadim Pastuh - stock.adobe.com Cybersécurité : Belfor.io revisite la sensibilisation Désabusés par les campagnes de sensibilisation habituelles, les deux cofondateurs de cette jeune pousse tout juste dévoilée revendiquent une approche dépoussiérée et plus proche de la réalité des utilisateurs.
+- « Au mieux ennuyeuses, au pire effrayantes ».
+- C’est le regard désabusé que portent Romain Basset et Florent Cahagne sur les opérations de sensibilisation à la cybersécurité habituelles.
+- C’est cet état d’esprit qui a conduit ces deux spécialistes de la cybersécurité – issus notamment de Vade (racheté depuis par Hornet Security, lui-même passé dans le giron de Proofpoint) à fonder Belfor.io, jeune pousse dont ils viennent de révéler l’existence.
+
+## [LHT Holdings annonce un incident de <b>cybersécurité</b> récemment détecté impliquant ... - Zonebourse](https://www.zonebourse.com/actualite-bourse/lht-holdings-annonce-un-incident-de-cybersecurite-recemment-detecte-impliquant-un-acces-non-autorise-ce7e5fdad88ff727)  
+*Source : zonebourse.com | Publication : 2026-03-04*
+
+- LHT Holdings annonce un incident de cybersécurité récemment détecté impliquant un accès non autorisé à certains systèmes informatiques Publié le 04/03/2026 à 18:56 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager © Reuters - 2026 Partager.
+
+## [<b>Cybermenace</b> iranienne : les banques américaines passent en alerte renforcée](https://www.boursier.com/actualites/economie/cybermenace-iranienne-les-banques-americaines-passent-en-alerte-renforcee-54268.html)  
+*Source : boursier.com | Publication : 2026-03-04*
+
+- Les établissements financiers américains renforcent leur surveillance face au risque de cyberattaques liées à l'escalade militaire avec l'Iran.
+
+## [Cabka examine un incident de <b>cybersécurité</b> - Zonebourse](https://www.zonebourse.com/actualite-bourse/cabka-examine-un-incident-de-cybersecurite-ce7e5cd3df8bf727)  
+*Source : zonebourse.com | Publication : 2026-03-04*
+
+- Cabka examine un incident de cybersécurité Publié le 04/03/2026 à 11:46 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager © MT Newswires - 2026 Partager.
+
+## [Après un hack vengeur, YggTorrent, un des plus importants sites francophones de piratage ... - BFM](https://www.bfmtv.com/tech/cybersecurite/apres-un-hack-vengeur-ygg-torrent-un-des-plus-importants-sites-francophones-de-piratage-ferme-ses-portes-dans-le-drame-les-larmes-et-la-fureur_AN-202603040505.html)  
+*Source : bfmtv.com | Publication : 2026-03-04*
+
+- Après un hack vengeur, YggTorrent, un des plus importants sites francophones de piratage, ferme ses portes dans le drame, les larmes et la fureur "L'histoire s'arrête ici".
+- Mercredi 4 mars 2026, après neuf années d'activité, le forum YggTorrent a brutalement fermé ses portes à la suite d'un vaste piratage.
+- Ce portail donnait accès à des dizaines de milliers de liens vers des oeuvres protégées, que l'on pouvait donc télécharger illégalement via des fichiers torrent.
+- D'abord conçu comme un espace de partage libre de séries, films ou livres audio, YggTorrent est rapidement devenu un incontournable, amassant beaucoup d'argent, ce qui a créé des dissensions au sein de son équipe.
+
+## [bconnex group décroche la certification ISO 27001](https://www.informatiquenews.fr/bconnex-group-decroche-la-certification-iso-27001-109736)  
+*Source : informatiquenews.fr | Publication : 2026-03-04*
+
+- bconnex group, acteur européen engagé de l’IT responsable, né de la fusion de betoobe et Connexing, joue la carte de la qualité et de la sécurité en annonçant l’obtention de la certification ISO 27001.
+- La certification ISO 27001 est une norme internationale qui définit les exigences relatives à un système de management de la sécurité de l’information (SMSI).
+- Elle garantit que les entreprises certifiées ont mis en place un ensemble de processus, de bonnes pratiques et de contrôles rigoureux pour protéger les données sensibles contre les menaces, qu’elles soient internes ou externes.
+- Fort de cette annonce, bconnex group démontre sa capacité à investir très fortement pour faire évoluer en continu ses infrastructures et ses processus afin de se positionner comme un partenaire de confiance pour l’ensemble de ses clients.
+
+## [Des outils de piratage d'iPhone conçus par les États-Unis finissent chez les cybercriminels](https://korben.info/des-outils-de-piratage-diphone-concus-par-les-etats-unis-finissent-chez-les-cybercriminels.html)  
+*Source : korben.info | Publication : 2026-03-04*
+
+- Google et une société de cybersécurité , iVerify, ont découvert un puissant outil de piratage d'iPhone baptisé Coruna.
+- Visiblement développé par le.
 
 ## [Orange : la place centrale de la <b>cybersécurité</b> - 03/03 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-orange-la-place-centrale-de-la-cybersecurite-03-03_VN-202603031001.html)  
 *Source : bfmtv.com | Publication : 2026-03-03*
