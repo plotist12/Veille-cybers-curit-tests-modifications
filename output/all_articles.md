@@ -1,5 +1,154 @@
-# Résumés – 2026-03-04
+# Résumés – 2026-03-05
 
+
+## [iPhone : première attaque de masse connue sur iOS… et elle exploite jusqu'à 23 failles](https://www.futura-sciences.com/tech/actualites/cybersecurite-iphone-premiere-attaque-masse-connue-ios-elle-exploite-jusqua-23-failles-132577/)  
+*Source : futura-sciences.com | Publication : 2026-03-05*
+
+- En 2017, le ransomware WannaCry a fait le tour du monde.
+- Celui-ci est basé sur EternalBlue, un exploit (un code d'exploitation de failles de sécurité) développé par la NSA, l'agence de renseignement américaine, qui a échappé à leur contrôle.
+- Et, désormais, l'histoire se répète.
+- Google et iVerify viennent d'annoncer la découverte de la première attaque de masse connue contre iOS.
+
+## [Wisekey augmente son chiffre d'affaires 2025 de 58% - Agefi.com](https://agefi.com/actualites/entreprises/wisekey-augmente-son-chiffre-daffaires-2025-de-58)  
+*Source : agefi.com | Publication : 2026-03-05*
+
+- Le spécialiste genevois de la cybersécurité a vu ses ventes doubler au 4e trimestre et anticipe une croissance de 50 à 100% en 2026.
+
+## [Comment réduire les faux positifs et renforcer la <b>cybersécurité</b> - LeMagIT](https://www.lemagit.fr/conseil/Comment-reduire-les-faux-positifs-et-renforcer-la-cybersecurite)  
+*Source : lemagit.fr | Publication : 2026-03-05*
+
+- WANAN YOSSINGKUM/istock via Gett Comment réduire les faux positifs et renforcer la cybersécurité Les faux positifs dans les outils de détection épuisent les ressources et détournent l'attention des menaces réelles.
+- Une fois que les RSSI en ont compris les causes profondes, ils peuvent mettre en œuvre des stratégies pour les réduire.
+- Aucune équipe chargée de la cybersécurité ne souhaite détecter une attaque malveillante puis l'ignorer délibérément.
+- Mais la fatigue liée aux alertes, causée par un trop grand nombre de faux positifs, peut les conduire à tomber dans ce piège.
+
+## [Le CHU de Montpellier renforce son suivi à domicile des patients atteints de cancer](https://www.ticsante.com/story?ID=8117)  
+*Source : ticsante.com | Publication : 2026-03-05*
+
+- L'hôpital montpelliérain s'est équipé de la plateforme développée par la société Cureety permettant d'établir un lien continu entre les patients et les équipes soignantes des services d'oncologie et d'hématologie du CHU.
+- "Par le biais d'une application simple d'utilisation, les patients peuvent désormais transmettre à distance et en temps réel leurs symptômes, leurs données de santé, leurs préoccupations, et bénéficient ainsi d'un suivi rapproché par les professionnels de santé du CHU", a mis en avant l'établissement.
+- La collecte de données cliniques et biologiques réalisée par la plateforme présente plusieurs avantages: surveillance en temps réel des effets secondaires des chimiothérapies et immunothérapies; alertes automatiques en cas de paramètres anormaux; prévention des hospitalisations en urgence par l'anticipation des complications; traçabilité des données de santé; contact simple et rapide avec l'équipe médico-soignante du CHU.
+- L'hôpital montpelliérain envisage d'étendre progressivement l'utilisation de la plateforme de Cureety à d'autres spécialités, est-il noté.
+
+## [Zero-day : l'entreprise devient la cible prioritaire des cyberattaques - Solutions-Numeriques](https://www.solutions-numeriques.com/zero-day-lentreprise-devient-la-cible-prioritaire-des-cyberattaques/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-05*
+
+- Le nombre de vulnérabilités zero-day exploitées dans le monde reste élevé et se stabilise à un niveau historiquement important.
+- En 2025, 90 failles zero-day ont été observées en exploitation active, c’est ce que révèle le dernier rapport annuel du Google Threat Intelligence Group (GTIG) consacré aux failles zero-day.
+- Le volume est comparable aux années précédentes et confirme une tendance durable que l’on connait déjà : la cybercriminalité s’industrialise et les surfaces d’attaque continuent de s’étendre.
+- Mais au-delà du volume, c’est surtout la nature des cibles qui évolue.
+
+## [Sécurité quantique : Google et Cloudflare renforcent les certificats HTTPS dans Chrome](https://www.clubic.com/actualite-603328-securite-quantique-google-et-cloudflare-renforcent-les-certificats-https-dans-chrome.html)  
+*Source : clubic.com | Publication : 2026-03-05*
+
+- Le chiffrement derrière HTTPS n'est pas taillé pour l'ère quantique.
+- Google et Cloudflare ont une solution, mais elle met à nu un problème de taille que l'ensemble du web va devoir affronter.
+- Le cadenas affiché dans votre navigateur repose sur des fondations cryptographiques conçues bien avant que l'informatique quantique ne devienne une menace crédible.
+- La semaine dernière, Google a présenté sa stratégie pour immuniser les certificats HTTPS contre ces nouvelles attaques, sans dégrader l'expérience de navigation.
+
+## [Fuite de données : « l'un des plus grands » marchés noirs au monde a été saisi par le FBI](https://www.01net.com/actualites/fuite-donnees-marche-noir-leakbase-ete-saisi-autorites.html)  
+*Source : 01net.com | Publication : 2026-03-05*
+
+- Une opération policière d’envergure vient de mettre fin aux activités de LeakBase, un forum criminel spécialisé dans la revente de données volées.
+- Sur la plateforme, les cybercriminels pouvaient vendre ou acheter des répertoires de données, des failles exploitables et d’autres services illégaux, comme des kits de phishing.
+- Avec l’appui d’Europol et des forces de l’ordre de 14 pays différents, le FBI (Federal Bureau of Investigation) vient de saisir les serveurs de la plateforme.
+- Une bannière de saisie est désormais visible à l’adresse du site, qui était accessible sur le web classique, et non sur le dark web.
+
+## [Quand l'IA devient l'arme préférée des cybercriminels - Science et vie](https://www.science-et-vie.com/technos-et-futur/quand-lia-devient-larme-preferee-des-cybercriminels-228895.html)  
+*Source : science-et-vie.com | Publication : 2026-03-05*
+
+- Quand l’IA devient l’arme préférée des cybercriminels Des systèmes capables de rédiger du code et d’analyser des architectures réseau participent aujourd’hui à des opérations d’exfiltration de données d’une ampleur rarement observée.
+- Les spécialistes alertent sur une mutation rapide des dynamiques de sécurité numérique.
+- L’intelligence artificielle s’est imposée en quelques années comme un outil indispensable du monde numérique.
+- Elle aide, automatise, optimise.
+
+## [La <b>cybersécurité</b> entre dans l'ère de la guerre des machines - Alliancy](https://www.alliancy.fr/la-cybersecurite-entre-dans-lere-de-la-guerre-des-machines-2c7e170a-a1bf-4201-8432-a4c31f32b8ce)  
+*Source : alliancy.fr | Publication : 2026-03-05*
+
+- E-mail Profil LinkedIn Profil Twitter Chaîne YouTube 5 mars 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [&quot;Passe Ton Hack d'Abord !&quot; : le plus grand challenge cyber éducatif de France récompense ...](https://www.education.gouv.fr/passe-ton-hack-d-abord-le-plus-grand-challenge-cyber-educatif-de-france-recompense-ses-talents-470513)  
+*Source : education.gouv.fr | Publication : 2026-03-05*
+
+- La 4e édition du challenge cyber de type Capture The Flag (CTF) "Passe Ton Hack d'Abord !".
+- était organisée du 19 janvier au 6 février 2026 par le.
+
+## [Wedbush dévoile 10 valeurs technologiques à privilégier dans un contexte de tensions avec l'Iran](https://www.boursorama.com/bourse/actualites-amp/wedbush-devoile-10-valeurs-technologiques-a-privilegier-dans-un-contexte-de-tensions-avec-l-iran-a222f5616d95d8f95848f7ad4a83d736)  
+*Source : boursorama.com | Publication : 2026-03-05*
+
+- Wedbush dévoile 10 valeurs technologiques à privilégier dans un contexte de tensions avec l'Iran information fournie par Zonebourse 05/03/2026 à 17:44 Dans un environnement marqué par une forte volatilité liée aux tensions géopolitiques et aux interrogations sur l'intelligence artificielle, Dan Ives, analyste chez Wedbush spécialisé dans la technologie, a publié une liste de dix sociétés qu'il juge particulièrement solides.
+- Selon lui, ces entreprises disposent de modèles économiques robustes et sont capables de traverser les turbulences actuelles.
+- Il souligne également que les thématiques de la cybersécurité et de la défense, à l'image de Palantir, apparaissent comme les mieux positionnées dans le contexte actuel.
+- CrowdStrike, un pilier face aux cybermenaces Malgré les ventes importantes observées dans le secteur des logiciels, qui ont particulièrement affecté les valeurs liées à la cybersécurité, Dan Ives estime que CrowdStrike reste solidement positionnée.
+
+## [Dans le Béarn, le réseau Femmes du Medef est lancé - Placéco](https://www.placeco.fr/nouvelle-aquitaine/engagement/article/dans-le-bearn-le-reseau-femmes-du-medef-est-lance-9708)  
+*Source : placeco.fr | Publication : 2026-03-05*
+
+- Dans le Béarn, le réseau Femmes du Medef est lancé - Premium Engagement jeudi 05 mars 2026 La réunion de lancement s'est tenue en non-mixité au Château de Franqueville.
+- Photo Anne-Sophie Estruch.
+- Créé en 2019, le réseau Femmes du Medef s’étend au Béarn.
+- Soixante cheffes d’entreprises ont participé au premier événement à Pau.
+
+## [<b>Cybersécurité</b> : Clap de fin pour LeakBase, plaque tournante des données volées](https://journalducoin.com/actualites/cybersecurite-fin-leakbase/)  
+*Source : journalducoin.com | Publication : 2026-03-05*
+
+- Cybersécurité : Clap de fin pour LeakBase, plaque tournante des données volées Hors d’état de nuire.
+- Le monde du cybercrime vient de perdre l’un de ses piliers.
+- Dans le cadre d’une opération internationale d’envergure menée les 3 et 4 derniers, le FBI, Europol et les forces de l’ordre de 14 pays ont annoncé le démantèlement de LeakBase.
+- Ce forum, l’un des plus importants au monde, servait de place de marché pour l’achat et la revente de bases de données piratées, d’outils de cybercriminalité et d’identifiants bancaires.
+
+## [SCC lance un service de CTI managée - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64554-scc-lance-un-service-de-cti-managee.html)  
+*Source : linformaticien.com | Publication : 2026-03-05*
+
+- L'offre de Cyber Threat Intelligence de SCC France repose sur une veille continue et structurée, couvrant : Le web public, le deep web et le dark web,.
+
+## [[Événement] Solutions Numériques &amp; <b>Cybersécurité</b> lance « Les petits déjeuners de la rédaction](https://www.solutions-numeriques.com/evenement-solutions-numeriques-cybersecurite-lance-les-petits-dejeuners-de-la-redaction-1ere-edition-le-18-mars/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-05*
+
+- Face à l’avalanche normative (NIS2, DORA, Facturation électronique), la lecture des textes de loi ne suffit plus.
+- Solutions Numériques & Cybersécurité, en partenariat avec Euro Cyber Group (ECG), inaugure un nouveau format de rencontre physique.
+- Rendez-vous le mercredi 18 mars à Paris pour notre premier « Petit Déjeuner de la Rédaction » !.
+- À l’occasion de la sortie de notre nouveau numéro la semaine prochaine, Solutions Numériques & Cybersécurité s’entoure d’experts pour en débattre de vive voix.
+
+## [Davidson et la Fédération Française de <b>Cybersécurité</b> réunissent des experts autour de l ...](https://www.solutions-numeriques.com/communiques/davidson-et-la-federation-francaise-de-cybersecurite-reunissent-des-experts-autour-de-losint-proactif-au-service-de-la-defense-des-organisations/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-05*
+
+- Acteur reconnu du conseil en management et technologies, Davidson accompagne depuis plus de 20 ans, entreprises et institutions dans leurs transformations stratégiques, numériques et cybersécurité.
+- Engagée sur les enjeux de résilience et de maîtrise des risques cyber, la société mobilise ses expertises pour anticiper les menaces et renforcer durablement la posture de sécurité de ses clients.
+- Dans ce cadre, Davidson a organisé le 25 février 2026, en partenariat avec la Fédération Française de Cybersécurité, une table ronde consacrée au thème : « L’OSINT proactif pour la Défense des entreprises et des institutions ».
+- Cette rencontre a réuni des spécialistes du domaine : Johanna Kumro (analyste cybercrime), Trystan Dore, Analyste Risque Cyber chez Intrinsec, Clélia Froute, consultante cybersécurité chez Davidson, et Jérémy Verrier, responsable CERT Groupe à la RATP.
+
+## [Andersen Consulting renforce ses capacités en matière de <b>cybersécurité</b> par le biais d'un ...](https://www.businesswire.com/news/home/20260304659048/fr)  
+*Source : businesswire.com | Publication : 2026-03-05*
+
+- Andersen Consulting a choisi de renforcer son offre en matière de cybersécurité et de transformation technologique en passant un accord de.
+
+## [La panique gagne Beyrouth, frappes tous azimuts au Moyen-Orient - Actualités - Orange](https://actu.orange.fr/monde/la-panique-gagne-beyrouth-frappes-tous-azimuts-au-moyen-orient-CNT000002nGa8o.html)  
+*Source : actu.orange.fr | Publication : 2026-03-05*
+
+- Israël promet des "surprises" à venir dans la guerre contre l'Iran De nouvelles "surprises" sont à attendre dans la guerre contre l'Iran, a promis jeudi le chef d'état-major d'Israël, en annonçant la "phase suivante" des opérations israéliennes, tandis que Donald Trump exige d'être impliqué dans le choix du prochain dirigeant iranien.
+- "Après avoir mené à bien la phase d'attaque surprise, au cours de laquelle nous avons établi notre supériorité aérienne et neutralisé le réseau de missiles balistiques, nous passons maintenant à la phase suivante de l'opération", a annoncé dans une déclaration télévisée le lieutenant-général Eyal Zamir.
+- Le chef d'état-major a affirmé qu'Israël poursuivrait le "démantèlement du régime" iranien et de ses capacités militaires au cours de cette nouvelle phase.
+- "Nous avons encore d'autres surprises en réserve, que je n'ai pas l'intention de dévoiler", a-t-il ajouté.
+
+## [Le forum LeakBase démantelé par Europol, un géant de la <b>cybercriminalité</b> disparaît](https://www.phonandroid.com/le-forum-leakbase-demantele-par-europol-un-geant-de-la-cybercriminalite-disparait.html)  
+*Source : phonandroid.com | Publication : 2026-03-05*
+
+- Le forum LeakBase démantelé par Europol, un géant de la cybercriminalité disparaît Europol annonce le démantèlement de LeakBase, un important forum servant aux pirates à divulguer des données personnelles volées.
+- Une action coordonnée dans plusieurs pays a permis des arrestations et des perquisitions.
+- Gros coup de filet pour Europol.
+- En collaboration avec le FBI aux États-Unis, l'agence européenne de police criminelle fait savoir que le forum en ligne de trafic de données volées LeakBase a été démantelé.
+
+## [<b>Cybersécurité</b> : Palerme (Fortinet), « Sensibiliser les jeunes à la <b>cybersécurité</b> est crucial »](https://lamilano.it/fr/par-les-médias/Cybersécurité-à-Palerme-:-Sensibiliser-les-jeunes-à-la-cybersécurité-est-essentiel./)  
+*Source : lamilano.it | Publication : 2026-03-05*
+
+- Cybersécurité : Palerme (Fortinet), « Sensibiliser les jeunes à la cybersécurité est crucial » « Nos jeunes sont fortement exposés dès qu'ils utilisent un smartphone ou jouent à des jeux en ligne.
+- Il est crucial de les sensibiliser.
+- Chez Fortinet, nous proposons aux écoles primaires et secondaires des secteurs public et privé des modules de formation gratuits afin de les sensibiliser aux enjeux les plus importants.
+- Le monde numérique est de plus en plus globalisé ; une seule organisation ne peut pas tout gérer.
 
 ## [BLS International renforce la <b>cybersécurité</b> des demandes de visa en Mauritanie](https://www.financialafrik.com/2026/03/04/bls-international-renforce-la-cybersecurite-des-demandes-de-visa-en-mauritanie/)  
 *Source : financialafrik.com | Publication : 2026-03-04*
