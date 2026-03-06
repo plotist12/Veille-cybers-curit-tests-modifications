@@ -1,5 +1,147 @@
-# Résumés – 2026-03-05
+# Résumés – 2026-03-06
 
+
+## [<b>Cybercriminalité</b>, migration clandestine, risques majeurs et coopération policière - El Moudjahid](https://www.elmoudjahid.dz/fr/actualite/cybercriminalite-migration-clandestine-risques-majeurs-et-cooperation-policiere-les-grands-axes-de-la-visite-de-sayoud-en-italie-248855)  
+*Source : elmoudjahid.dz | Publication : 2026-03-06*
+
+- Chargé par le président de la République, le ministre de l'Intérieur, Saïd Sayoud, accompagné du DGSN, Ali Badaoui, a conduit une visite de.
+
+## [Failles zero-day : les attaques ciblent de plus en plus les équipements réseau et les VPN](https://www.clubic.com/actualite-603571-failles-zero-day-les-attaques-ciblent-de-plus-en-plus-les-equipements-reseau-et-les-vpn.html)  
+*Source : clubic.com | Publication : 2026-03-06*
+
+- En 2025, Google a recensé 90 vulnérabilités zero-day exploitées dans des attaques réelles.
+- Si le volume reste relativement stable d’une année sur l’autre, la répartition des cibles évolue nettement.
+- Pas d’explosion du nombre de failles zero-days observées en 2025, mais un niveau toujours élevé.
+- Dans leur bilan annuel publié le 5 mars dernier, les équipes du Google Threat Intelligence Group (GTIG) ont indiqué avoir suivi 90 vulnérabilités exploitées dans des attaques alors qu’aucun correctif n’était encore disponible.
+
+## [Coruna : la prolifération des 0-day iOS et le risque de compromission de masse | LeMagIT](https://www.lemagit.fr/actualites/366639894/Coruna-la-proliferation-des-0-day-iOS-et-le-risque-de-compromission-de-masse)  
+*Source : lemagit.fr | Publication : 2026-03-06*
+
+- Apple Coruna : la prolifération des 0-day iOS et le risque de compromission de masse Avec le kit Coruna, l'exploitation de vulnérabilités inédites dans iOS a basculé d'un modèle d'espionnage ciblé vers une menace de masse.
+- Google Threat Intelligence Group (GTIG) a identifié le kit Coruna, intégrant 23 exploits pour des vulnérabilités ayant affecté les versions iOS 13.0 à 17.2.1.
+- Selon Google, « Coruna illustre à nouveau la manière dont les capacités sophistiquées de piratage peuvent proliférer », conduisant à une transition de l'espionnage vers l'usage criminel opportuniste.
+- Les entreprises sont désormais concernées par ce risque de compromission de masse, où les capacités d'États-nations sont désormais susceptibles d'être vendues sur un marché de l'occasion des vulnérabilités inédites.
+
+## [Yasmina Benchekroun, une Marocaine qui s'impose dans la <b>cybersécurité</b> internationale](https://h24info.ma/lifestyle/high-tech/yasmina-benchekroun-cybersecurite/)  
+*Source : h24info.ma | Publication : 2026-03-06*
+
+- Directrice Maroc et Afrique chez Hornet Security by Proofpoint, Yasmina Benchekroun s'impose comme une figure montante de la cybersécurité.
+- Son.
+
+## [<b>Cybersécurité</b> : l'État muscle sa stratégie pour contrer le récit des hackeurs - La Tribune](https://www.latribune.fr/article/tech/228025390871214/cybersecurite-letat-muscle-sa-strategie-pour-contrer-le-recit-des-hackeurs)  
+*Source : latribune.fr | Publication : 2026-03-06*
+
+- Cyberattaque : contrer le discours anxiogène des hackers, un défi à relever encore pour l'État Ce contenu est réservé aux abonnés L'agence est chargée, entre autres, d'intervenir en situation d'urgence pour aider les administrations.
+- Ce contenu est réservé aux abonnés L'agence est chargée, entre autres, d'intervenir en situation d'urgence pour aider les administrations.
+- 19:55 Cyberattaque : contrer le discours anxiogène des hackers, un défi à relever encore pour l'État 19:15 ▶️Rafale, soldats, frégates… Ce qu'il manque à l'armée française : retrouvez l’émission Air&Défense 18:36 CMA CGM anticipe un ralentissement du transport maritime face aux tensions au Moyen-Orient 17:24 OPINION.
+- « Iran : pour imposer le droit international, l’Europe doit devenir une puissance », par Eduardo Rihan Cypel 17:07 Climat : pourquoi l'Allemagne et l'Italie menacent le marché carbone européen 16:16 États-Unis : cette très mauvaise surprise sur le front de l'emploi avant la prochaine réunion de la Fed 16:08 Pâte à papier française : « Si l'usine Fibre Excellence ferme, il faudra déménager » 16:06 OPINION.
+
+## [CPT 2026 : La conférence sur la <b>cybersécurité</b> met l'accent sur la souveraineté numérique ...](https://www.m-q.ch/fr/cpt-2026-la-conference-sur-la-cybersecurite-met-laccent-sur-la-souverainete-numerique-de-leurope/)  
+*Source : m-q.ch | Publication : 2026-03-06*
+
+- CPT 2026 : La conférence sur la cybersécurité met l'accent sur la souveraineté numérique de l'Europe L'entreprise de logiciels munichoise FTAPI a invité à la CPT 2026 à l'Allianz Arena de Munich.
+- Près de 500 décideurs de haut niveau, RSSI et directeurs généraux ont discuté de l'avenir numérique de l'Europe.
+- L'accent a été mis sur les réglementations NIS 2, les normes BSI et l'impact des agents d'intelligence artificielle sur la cyberdéfense.
+- La Suisse n'est pas le seul pays à débattre de la souveraineté numérique, mais aussi au niveau européen.
+
+## [Piratage Snowflake : Le réseau The Com trahi par ses échanges - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/03/06/piratage-snowflake-the-com/)  
+*Source : dcod.ch | Publication : 2026-03-06*
+
+- TL;DR : L’essentiel En avril 2024, la communauté criminelle The Com infiltre les systèmes cloud Snowflake pour dérober plus de cinquante milliards de journaux téléphoniques de l’opérateur AT&T lors d’une attaque.
+- - Après avoir obtenu près de quatre cent mille dollars d’extorsion, les pirates réclament davantage d’argent et commettent l’imprudence d’interpeller publiquement le FBI sur les réseaux sociaux.
+- - L’étude minutieuse des interactions virtuelles et des conflits personnels exposés sur Telegram et Discord facilite la révélation de l’identité des suspects de The Com opérant sous divers pseudonymes.
+- - Fin octobre 2024, une opération de reconnaissance menée en civil à domicile permet de confirmer visuellement le principal suspect du piratage Snowflake, un jeune homme paraissant très négligé.
+
+## [Yasmina Benchekroun, quand le leadership marocain redessine les codes de la ... - MAP](https://www.mapexpress.ma/actualite/societe-et-regions/yasmina-benchekroun-leadership-marocain-redessine-les-codes-cybersecurite-linternational/)  
+*Source : mapexpress.ma | Publication : 2026-03-06*
+
+- Avec un parcours à l'intersection du management des systèmes et de la cybersécurité , cette jeune marocaine développe très tôt un intérêt marqué pour.
+
+## [SentinelOne nomme Sonalee Parekh au poste de CFO - Global Security Mag Online](https://www.globalsecuritymag.fr/sentinelone-nomme-sonalee-parekh-au-poste-de-cfo.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-03-06*
+
+- SentinelOne nomme Sonalee Parekh au poste de CFO mars 2026 par LA REDACTION DE GS MAG SentinelOne® annonce la nomination de Sonalee Parekh au poste de CFO avec prise de fonctions le 24 mars 2026.
+- Elle supervisera l’ensemble des opérations financières mondiales de l’entreprise, notamment la planification et l’analyse financières (FR&A), la comptabilité, la fiscalité et la trésorerie, l’audit interne, ainsi que les relations avec les investisseurs.
+- Barry Padgett continuera d’assurer la fonction de Directeur financier par intérim jusqu’à l’entrée en fonctions de Sonalee Parekh.
+- Il pilotera la publication du rapport financier du 4ème trimestre et de l’exercice fiscal 2026.
+
+## [Fragilisée par les coupes budgétaires et les départs imposés par l'administration Trump, la ... - BFM](https://www.bfmtv.com/tech/cybersecurite/fragilisee-par-les-coupes-budgetaires-et-les-departs-imposes-par-l-administration-trump-la-cybersecurite-americaine-court-le-risque-de-ne-pas-etre-prete-pour-une-cyberguerre-avec-l-iran_AN-202603060671.html)  
+*Source : bfmtv.com | Publication : 2026-03-06*
+
+- Fragilisée par les coupes budgétaires et les départs imposés par l’administration Trump, la cybersécurité américaine court le risque de ne pas être prête pour une cyberguerre avec l’Iran La guerre s’intensifie au Moyen-Orient.
+- Alors que les bombes, missiles et drones pleuvent dans toute la région, le cyberespace devient lui aussi un véritable champ de bataille.
+- Les experts en cybersécurité et plusieurs services de renseignement alertent de plus en plus sur le risque de cyberattaques iraniennes visant des entreprises américaines et des infrastructures critiques, dans un contexte de tensions militaires croissantes.
+- Mais le moment est délicat pour l’appareil de cybersécurité américain.
+
+## [Le ministère de l'Intérieur alerte sur une arnaque par e-mail qui usurpe le Trésor public](https://www.clubic.com/actualite-603469-le-ministere-de-l-interieur-alerte-sur-une-arnaque-par-e-mail-qui-usurpe-le-tresor-public.html)  
+*Source : clubic.com | Publication : 2026-03-06*
+
+- Le ministère de l'Intérieur alerte sur une arnaque qui sévit par e-mail en usurpant l'identité du Trésor public.
+- Les escrocs essaient de piéger leurs cibles à l'aide de faux avis de saisie administrative.
+- Les faux e-mails qui circulent au nom du Trésor public jouent, comme souvent, sur la peur.
+- La recette est faite d'une amende impayée et d'un délai qui expire, pour faire croire à la victime que le montant de l'amende vient de doubler.
+
+## [Colmar. Premier cybermarathon du Grand Est : la gendarmerie sensibilise à la <b>cybersécurité</b>](https://www.dna.fr/faits-divers-justice/2026/03/06/premier-cybermarathon-du-grand-est-la-gendarmerie-sensibilise-a-la-cybersecurite)  
+*Source : dna.fr | Publication : 2026-03-06*
+
+- Colmar Premier cybermarathon du Grand Est : la gendarmerie sensibilise à la cybersécurité « Tant qu’on ne le vit pas, on n’imagine pas les dégâts », assure l’adjudant Copin.
+- Le référent cybersécurité du groupement de gendarmerie, poste créé en 2023, a imaginé avec la gendarmerie du Haut-Rhin le premier cybermarathon du Grand Est.
+
+## [Logiciel malveillant détecté au CTIE: un risque limité pour les personnes concernées](https://www.virgule.lu/luxembourg/logiciel-malveillant-detecte-au-ctie-un-risque-limite-pour-les-personnes-concernees/139824699.html)  
+*Source : virgule.lu | Publication : 2026-03-06*
+
+- L’incident détecté au sein du Centre des technologies de l’information de l’État (CTIE), survenu à la fin du mois de février, refait parler de lui en cette fin de semaine.
+- Pour rappel, un logiciel malveillant sur le système gérant les smartphones et tablettes du CTIE avait été détecté.
+- De ce que l’on sait, au travers d’un communiqué publié ce vendredi, c’est que les analyses menées après la détection du logiciel malveillant ont confirmé qu’un acteur externe a pu accéder à une liste interne utilisée pour la gestion des appareils informatiques portables administrés par le CTIE.
+- L’accès contenu quelques heures Cette liste contenait des informations d’identification professionnelle (noms, numéros de téléphone professionnels et adresses électroniques professionnelles des détenteurs d’équipements) ainsi que des caractéristiques techniques des appareils.
+
+## [Les dépenses mondiales de <b>cybersécurité</b> vont augmenter d'environ 12% en 2026, selon IDC](https://www.channelnews.fr/les-depenses-mondiales-de-cybersecurite-vont-augmenter-denviron-12-en-2026-selon-idc-155379)  
+*Source : channelnews.fr | Publication : 2026-03-06*
+
+- Les dépenses mondiales consacrées à la cybersécurité devraient atteindre 308 milliards de dollars en 2026, soit une progression de 11,8 % sur un an, selon les dernières prévisions du Worldwide Security Spending Guide d’IDC.
+- Le cabinet d’études anticipe la poursuite de cette dynamique avec des dépenses atteignant 430 milliards de dollars en 2029, portées par l’essor des plateformes de sécurité unifiées intégrant l’IA et par la croissance des services associés.
+- Les logiciels de sécurité resteront de loin le premier poste de dépenses, représentant plus de la moitié du marché mondial.
+- Ils devraient aussi afficher la croissance la plus rapide en 2026, avec +14 %.
+
+## [UltraEdge maille ses centres de données - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/infra/64560-ultraedge-maille-ses-centres-de-donnees.html)  
+*Source : linformaticien.com | Publication : 2026-03-06*
+
+- Ransomware : les jours d'après · Infra · UltraEdge maille ses centres de données.
+- Détails: 6 mars 2026.
+- Le fournisseur de solutions de colocation a.
+
+## [IA agentique et <b>cybersécurité</b> : entre menace et rempart - InformatiqueNews.fr](https://www.informatiquenews.fr/ia-agentique-et-cybersecurite-quand-lautonomie-devient-a-la-fois-menace-et-rempart-pascal-beurel-gigamon-109771)  
+*Source : informatiquenews.fr | Publication : 2026-03-06*
+
+- L’IA agentique introduit dans la cybersécurité des systèmes capables d’observer, décider et agir avec une autonomie inédite.
+- Elle promet des défenses plus rapides, mais elle arme aussi des menaces capables de s’adapter en continu.
+- Cette bascule recompose en profondeur l’équilibre entre des attaques plus adaptatives et des défenses plus réactives, sous forte contrainte de gouvernance.
+- La cybersécurité est engagée dans une course contre la montre.
+
+## [Cloud Temple retenu par la CANUT pour son cloud de confiance - L'Informaticien](https://www.linformaticien.com/magazine/cloud/64556-cloud-temple-retenu-par-la-canut-pour-son-cloud-de-confiance.html)  
+*Source : linformaticien.com | Publication : 2026-03-06*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cloud · Cloud Temple retenu par la CANUT.
+
+## [Europol démantèle Tycoon2FA, une plateforme de phishing capable de contourner la MFA](https://www.solutions-numeriques.com/europol-demantele-tycoon2fa-une-plateforme-de-phishing-capable-de-contourner-la-mfa/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-06*
+
+- Une opération internationale coordonnée par Europol a permis de démanteler Tycoon2FA, une plateforme de phishing capable de contourner l’authentification multifacteur.
+- Le service, proposé aux cybercriminels sous forme d’abonnement, a servi à mener des campagnes massives visant des organisations dans le monde entier.
+- Une plateforme de phishing-as-a-service démantelée Une action coordonnée entre autorités publiques et acteurs privés a permis de perturber l’infrastructure de Tycoon2FA, une plateforme utilisée pour mener des campagnes de phishing sophistiquées.
+- L’opération, annoncée par Europol, a réuni plusieurs partenaires industriels ainsi que des entreprises de cybersécurité.
+
+## [Atos finit l'année dans le rouge, toujours plombé par sa dette - Les Echos](https://www.lesechos.fr/tech-medias/hightech/atos-finit-lannee-dans-le-rouge-toujours-plombe-par-sa-dette-2219527)  
+*Source : lesechos.fr | Publication : 2026-03-06*
+
+- Eviden, qui regroupe les activités cybersécurité.
+
+## [Comment l'IA générative accélère l'industrialisation de la <b>cybercriminalité</b> - L'Usine Digitale](https://www.usine-digitale.fr/cybersecurite/comment-lia-generative-accelere-lindustrialisation-de-la-cybercriminalite.RLYH62AC7BB6VB5EDX7IJOQRGA.html)  
+*Source : usine-digitale.fr | Publication : 2026-03-06*
+
+- Deux études publiées ces derniers jours par HP et Kaspersky mettent en lumière une évolution inquiétante du paysage des cybermenaces.
+- D'un côté, les.
 
 ## [iPhone : première attaque de masse connue sur iOS… et elle exploite jusqu'à 23 failles](https://www.futura-sciences.com/tech/actualites/cybersecurite-iphone-premiere-attaque-masse-connue-ios-elle-exploite-jusqua-23-failles-132577/)  
 *Source : futura-sciences.com | Publication : 2026-03-05*
