@@ -1,5 +1,151 @@
-# Résumés – 2026-03-06
+# Résumés – 2026-03-07
 
+
+## [La stratégie cybernétique de Trump s'engage à « soutenir la sécurité » des cryptomonnaies ...](https://www.coindesk.com/fr/policy/2026/03/07/trump-s-cyber-strategy-vows-to-support-the-security-of-cryptocurrencies-and-blockchain)  
+*Source : coindesk.com | Publication : 2026-03-07*
+
+- La stratégie cybernétique de Trump promet de « soutenir la sécurité » des cryptomonnaies et de la blockchain Cela place la sécurité de la blockchain dans le contexte de la compétition technologique nationale aux côtés de l'IA et de l'informatique quantique.
+- Ce qu'il: La nouvelle stratégie cybernétique de l'administration Trump priorise la sécurité des cryptomonnaies et de la technologie blockchain afin de maintenir le leadership des États-Unis dans les technologies émergentes.
+- - Cela situe la sécurité de la blockchain dans le contexte de la compétition technologique nationale aux côtés de l'IA et de l'informatique quantique.
+- - La stratégie s'aligne sur le soutien continu de l'administration envers la cryptomonnaie, y compris les engagements passés visant à faire des États-Unis la "capitale de la crypto" et à créer une Réserve Stratégique de Bitcoin.
+
+## [OpenAI lance Codex Security pour détecter les vulnérabilités dans le code - Unite.AI](https://www.unite.ai/fr/openai-launches-codex-security-to-find-vulnerabilities-in-code/)  
+*Source : unite.ai | Publication : 2026-03-07*
+
+- Cybersécurité OpenAI lance Codex Security pour détecter les vulnérabilités dans le code.
+- OpenAI publié Codex Sécurité Le 6 mars, un agent de sécurité applicatif basé sur l'IA a été lancé.
+- Il analyse les bases de code à la recherche de vulnérabilités, valide les résultats dans des environnements isolés et propose des correctifs.
+- Cet outil a déjà mis au jour des failles dans OpenSSH, Chromium et cinq autres projets open source largement utilisés, ce qui lui a valu 14 désignations CVE (Common Vulnerabilities and Exposures).
+
+## [Le plan <b>cybersécurité</b> de Trump soutient désormais Bitcoin et la sécurité de la blockchain](https://www.bitget.com/fr/news/detail/12560605246529)  
+*Source : bitget.com | Publication : 2026-03-07*
+
+- La stratégie inclut la crypto dans le même pilier politique que l'intelligence artificielle et la cybersécurité post-quantique.
+- Cette approche.
+
+## [Vos données médicales ont fuité : comment reprendre le contrôle de votre vie privée en ligne - Clubic](https://www.clubic.com/actualite-603310-vos-donnees-medicales-ont-fuite-comment-reprendre-le-controle-de-votre-vie-privee-en-ligne.html)  
+*Source : clubic.com | Publication : 2026-03-07*
+
+- En ce début d'année 2026, la sécurité de vos données doit devenir l'une de vos priorités.
+- Il y a quelques semaines seulement, une nouvelle cyberattaque, cette fois à l'encontre de l'éditeur du logiciel MonLogicielMedical, a fait changer de dimension les enjeux associés à votre cybersécurité.
+- Avec jusqu'à 15 millions de patients potentiellement concernés, cette cyberattaque est l'une des plus importantes en termes de volume en France ces dernières années.
+- Plus encore, il s'agit de données particulièrement sensibles qui ont été exhumées par les hackers, avec des informations relevant notamment du secret médical.
+
+## [Flux migratoires et <b>cybercriminalité</b> : Alger et Rome renforcent la coopération bilatérale](https://elwatan.dz/flux-migratoires-et-cybercriminalite-alger-et-rome-renforcent-la-cooperation-bilaterale/)  
+*Source : elwatan.dz | Publication : 2026-03-07*
+
+- يتم التحقّق من أن طلبك ليس طلباً آلياً... Verifying that you are not a robot... Please wait few seconds...الرجاء الإنتظار بضعة ثوان DZSecurity.
+
+## [La Chine est carrément soupçonnée d'avoir piraté le réseau d'écoutes du FBI - Korben](https://korben.info/la-chine-est-carrement-soupconnee-davoir-pirate-le-reseau-decoutes-du-fbi.html)  
+*Source : korben.info | Publication : 2026-03-07*
+
+- cybersécurité au moment où ça craint le plus.
+- Résumé généré par IA.
+- Le Wall Street Journal vient de révéler que des hackers liés au gouvernement.
+
+## [Un faux tutoriel Claude Code suffit pour installer un malware sur votre ordinateur - Clubic](https://www.clubic.com/actualite-603637-un-faux-tutoriel-claude-code-suffit-pour-installer-un-malware-sur-votre-ordinateur.html)  
+*Source : clubic.com | Publication : 2026-03-07*
+
+- Une campagne active diffuse de fausses pages d'installation de Claude Code via Google Ads.
+- Une seule commande copiée-collée dans le terminal suffit à installer Amatera Stealer, un logiciel espion capable de vider mots de passe, cookies et jetons de session.
+- Des sites clonés, quasi identiques à la page officielle d'Anthropic, circulent en ce moment via des publicités Google pour piéger quiconque cherche à installer Claude Code.
+- La technique, « InstallFix » a été identifiée par les chercheurs de Push Security et exploite un geste banal chez les développeurs : copier une commande d'installation depuis un site web et la coller dans un terminal.
+
+## [Claude d'Anthropic a trouvé 22 failles dans Firefox en deux semaines - Korben](https://korben.info/claude-danthropic-a-trouve-22-failles-dans-firefox-en-deux-semaines.html)  
+*Source : korben.info | Publication : 2026-03-07*
+
+- Mozilla intègre désormais l'analyse assistée par IA dans ses processus de sécurité interne, confirmant que la cybersécurité défensive bascule vers des.
+
+## [Moyen-Orient: l'IA, composante essentielle de la guerre, les questions demeurent](https://fr.tradingview.com/news/afp:d4073c55ba789:0/)  
+*Source : fr.tradingview.com | Publication : 2026-03-07*
+
+- Moyen-Orient: l'IA, composante essentielle de la guerre, les questions demeurent La guerre au Moyen-Orient illustre l'importance prise par l'intelligence artificielle dans les conflits, notamment pour l'analyse de renseignements et la sélection de cibles, mais sa fiabilité et sa place dans le processus de décision de frappes restent au coeur de vifs débats.
+- Guerre à Gaza, en Ukraine, capture de Nicolas Maduro: l'IA est aujourd'hui devenue une composante essentielle de toute opération militaire.
+- A ce stade, les usages précis de l'IA dans le conflit en cours au Moyen-Orient ne sont pas encore connus.
+- Mais, selon les experts, il est fort probable qu'Israël et les Etats-Unis, qui ont mené des milliers de frappes contre l'Iran depuis le début du conflit le 28 février, l'ont utilisé, notamment pour accélérer la conduite des opérations.
+
+## [<b>Cybercriminalité</b>: PME et indépendants de plus en plus ciblés en Belgique, &quot;la moitié n'ont ...](https://www.dhnet.be/conso/consommation/2026/03/07/cybercriminalite-pme-et-independants-de-plus-en-plus-cibles-en-belgique-la-moitie-nont-pris-aucune-mesure-contre-les-cyberattaques-WDWQKAXNV5GUFHFEJQX3U7K3NM/)  
+*Source : dhnet.be | Publication : 2026-03-07*
+
+- Cybercriminalité: PME et indépendants de plus en plus ciblés en Belgique, "la moitié n'ont pris aucune mesure contre les cyberattaques" Fuites de données, rançongiciels, vols d'informations… Les cyberattaques touchent de plus en plus les petites entreprises.
+- Face à ce risque croissant, des initiatives comme le Cyber Challenge, porté par le SNI, tentent de renforcer la prévention.
+- Publié le 07-03-2026 à 10h08 - Mis à jour le 07-03-2026 à 12h54 - La cybercriminalité ne cible plus uniquement les grandes entreprises.
+- En Belgique, les petites structures sont aujourd'hui particulièrement exposées.
+
+## [Flair : L'IA au service de la confiance numérique - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/03/07/flair-ia-confiance-numerique/)  
+*Source : dcod.ch | Publication : 2026-03-07*
+
+- Cet article s’inscrit dans le cadre de la veille stratégique de dcod.ch dédiée à la confiance numérique.
+- L’objectif est de mettre en avant une solution ou une innovation technologique dont l’approche offre une réponse pertinente aux enjeux actuels de intelligence artificielle & innovation tech.
+- Quel défi cette solution adresse-t-elle ?.
+- La multiplication des arnaques en ligne entraîne une hausse constante du nombre de victimes et une détresse financière et psychologique importante.
+
+## [Une perquisition en cours dans les locaux de X en France, Elon Musk convoqué le 20 avril - MSN](http://www.msn.com/fr-fr/actualite/monde/cybercriminalité-une-perquisition-en-cours-dans-les-locaux-de-x-en-france-elon-musk-convoqué-le-20-avril/ar-AA1VyTzD?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1)  
+*Source : msn.com | Publication : 2026-03-07*
+
+- Une perquisition est « diligentée dans les locaux français » de la plateforme X par la section de lutte contre la cybercriminalité du parquet de Paris.
+
+## [PARIS : <b>Cybersécurité</b> - Les attaques basées sur l'identité deviennent la norme mondiale](https://presseagence.fr/paris-cybersecurite-les-attaques-basees-sur-lidentite-deviennent-la-norme-mondiale/)  
+*Source : presseagence.fr | Publication : 2026-03-07*
+
+- PARIS : Cybersécurité – Les attaques basées sur l&rsq… Partager : PARIS : Cybersécurité – Les attaques basées sur l’identité deviennent la norme mondiale Le rapport Active Adversary 2026 de Sophos révèle que 67 % des incidents de sécurité proviennent désormais de failles liées à l’identité numérique.
+- L’époque où les pirates informatiques devaient principalement chercher des failles logicielles complexes pour pénétrer les réseaux d’entreprise semble révolue.
+- Selon le nouveau rapport « Active Adversary 2026 » publié par Sophos (https://www.sophos.com/fr-fr), l’un des leaders mondiaux de la cybersécurité, les cybercriminels privilégient désormais la voie la plus directe : l’usurpation d’identité.
+- Le vol d’identifiants remplace l’exploitation de failles L’étude, basée sur l’analyse de 661 cas de réponse à incident survenus entre novembre 2024 et octobre 2025 dans 70 pays, dresse un constat sans appel.
+
+## [Cyberattaque mondiale : Google neutralise une campagne d'espionnage chinoise d'une](https://www.01net.com/actualites/cyberattaque-mondiale-google-neutralise-une-campagne-despionnage-chinoise-dune-ampleur-considerable.html)  
+*Source : 01net.com | Publication : 2026-03-07*
+
+- Google révèle avoir démantelé une vaste opération d’espionnage liée à la Chine.
+- L’opération a permis à des hackers chinois d’infiltrer au moins 53 organisations dans 42 pays différents.
+- Derrière la campagne, on trouve un gang connu sous le nom d’UNC2814, aussi appelé « Gallium ».
+- Financé par Pékin, le groupe criminel est actif depuis 2017.
+
+## [Au Royaume-Uni, les données de 10 millions de personnes dérobées après une ... - BFM](https://www.bfmtv.com/tech/actualites/cybersecurite/au-royaume-uni-les-donnees-de-10-millions-de-personnes-derobees-apres-une-cyberattaque-visant-les-transports-londoniens_AD-202603060732.html)  
+*Source : bfmtv.com | Publication : 2026-03-07*
+
+- Au Royaume-Uni, les données de 10 millions de personnes dérobées après une cyberattaque visant les transports londoniens C'est potentiellement l'un des plus importants vols de données au Royaume-Uni.
+- D'après la BBC, les données de 10 millions de personnes ont été dérobées lors d'une cyberattaque ayant visé en 2024 l'opérateur des transports de la capitale britannique, Transport for London (TfL).
+- Contacté par l'AFP, TfL, qui dénombre jusqu'à 5 millions de trajets par jour dans le seul métro londonien, dit avoir envoyé un mail au moment de l'incident en septembre 2024 "à tous les clients pour lesquels nous avions une adresse électronique", soit plus de 7 millions.
+- Il s'agissait de "les informer de la possibilité que certaines données aient été dérobées", poursuit l'opérateur - sans confirmer le chiffre de la chaîne britannique.
+
+## [En Espagne, le nombre des travailleurs indépendants étrangers franchit le cap historique ...](https://h24info.ma/economie/international-economie/en-espagne-le-nombre-des-travailleurs-independants-etrangers-franchit-le-cap-historique-des-500-000/)  
+*Source : h24info.ma | Publication : 2026-03-07*
+
+- La rédaction vous conseille.
+- Yasmina Benchekroun, une Marocaine qui s'impose dans la cybersécurité internationale.
+- De Rabat à Washington : le.
+
+## [Des extensions malveillantes volent l'historique des conversations avec les IA](https://www.solutions-numeriques.com/des-extensions-malveillantes-volent-lhistorique-des-conversations-avec-les-ia/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-07*
+
+- Des extensions de navigateur se faisant passer pour des assistants d’intelligence artificielle peuvent collecter les conversations des utilisateurs avec les modèles de langage.
+- Selon Microsoft, certaines ont déjà atteint près de 900 000 installations et ont été observées dans plus de 20 000 environnements d’entreprise.
+- Des extensions se faisant passer pour des assistants IA Les chercheurs de Microsoft Defender ont identifié plusieurs extensions malveillantes basées sur Chromium qui imitent des assistants d’intelligence artificielle populaires.
+- Ces modules complémentaires de navigateur se présentent comme des outils destinés à améliorer l’usage de services d’IA, mais leur véritable fonction est de collecter les données générées lors des interactions avec ces modèles.
+
+## [Alerte <b>ransomware</b> CMN : le Centre des monuments nationaux victime d'une fuite de données -](https://www.thesiteoueb.net/actualite/amp-article-9439-alerte-ransomware-cmn-le-centre-des-monuments-nationaux-victime-d-une-fuite-de-donnees.html)  
+*Source : thesiteoueb.net | Publication : 2026-03-07*
+
+- Le Centre des monuments nationaux vous informe que son prestataire de billetterie en ligne a été victime, le 2 mars 2026, d’une cyberattaque de type rançongiciel.
+- Nous œuvrons activement avec lui afin de rétablir le service dans les meilleurs délais.
+- À ce stade toutefois, aucune exfiltration frauduleuse de données n’a été établie.
+- Certaines données pourraient toutefois avoir été exposées : données de compte client (nom, prénom, pays, adresse électronique, adresse postale, code postal), historique d’achats et, le cas échéant, mot de passe chiffré.
+
+## [Près de 4 000 pages Wikipédia vandalisées après l'auto-propagation d'un ver JavaScript](https://www.clubic.com/actualite-603508-pres-de-4-000-pages-wikipedia-vandalisees-apres-l-auto-propagation-d-un-ver-javascript.html)  
+*Source : clubic.com | Publication : 2026-03-07*
+
+- Un incident inhabituel a brièvement perturbé l’écosystème Wikipédia.
+- Un ver JavaScript auto-propagateur s’est diffusé via les scripts utilisateurs de la plateforme et a modifié des milliers de pages en quelques minutes.
+- L’incident n’aura duré qu’une vingtaine de minutes, mais il a suffi à déclencher une vague d’éditions automatiques sur plusieurs projets Wiki.
+- Dans la journée du 5 mars, un script JavaScript malveillant s’est propagé à travers l’infrastructure de scripts personnalisés utilisée par les contributeurs et contributrices de Wikipédia.
+
+## [La Maison Blanche dévoile une stratégie cybernétique mettant en avant la cryptomonnaie et ...](https://www.binance.com/fr/square/post/298818006779202)  
+*Source : binance.com | Publication : 2026-03-07*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
 ## [<b>Cybercriminalité</b>, migration clandestine, risques majeurs et coopération policière - El Moudjahid](https://www.elmoudjahid.dz/fr/actualite/cybercriminalite-migration-clandestine-risques-majeurs-et-cooperation-policiere-les-grands-axes-de-la-visite-de-sayoud-en-italie-248855)  
 *Source : elmoudjahid.dz | Publication : 2026-03-06*
