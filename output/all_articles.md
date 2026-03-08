@@ -1,5 +1,138 @@
-# Résumés – 2026-03-07
+# Résumés – 2026-03-08
 
+
+## [<b>Cybersécurité</b> : les 11 actualités majeures du 8 mars 2026](https://dcod.ch/2026/03/08/cybersecurite-les-11-actualites-majeures-du-8-mar-2026/)  
+*Source : dcod.ch | Publication : 2026-03-08*
+
+- Faits marquants de la semaine À la suite de frappes de missiles américaines et israéliennes, des groupes iraniens ont lancé des opérations de cyberespionnage, des sondes numériques et des attaques par déni de service distribué visant à saturer des services en ligne, avec une intensification attendue.
+- - Microsoft observe que des acteurs malveillants exploitent de plus en plus l’intelligence artificielle pour accélérer les attaques, industrialiser leurs opérations et abaisser les barrières techniques à chaque étape d’une intrusion informatique.
+- - Selon Google Threat Intelligence Group, 90 vulnérabilités de type « zero-day », des failles inconnues des éditeurs au moment de leur exploitation, ont été utilisées en attaque en 2025, dont près de la moitié sur des logiciels et équipements d’entreprise.
+- - D’après un rapport relayé par CNN, des pirates seraient parvenus à pénétrer les réseaux du FBI, affectant potentiellement ses systèmes d’interception de communications et de surveillance, un incident en cours d’investigation.
+
+## [Numérisation et <b>cybersécurité</b> : le rapport Cyber ​​Security Report 2026 de Schwarz Digits](https://xpert.digital/fr/rapport-sur-la-cybersecurite/)  
+*Source : xpert.digital | Publication : 2026-03-08*
+
+- Un piège cybercriminel de plusieurs milliards : pourquoi les PME allemandes naviguent à vue face à NIS2.
+- La cybersécurité est une priorité absolue :.
+
+## [EN VRAC Hommage à Alain Lartigue, cancer colorectal dans le Gers, Mars@Hack à Mont ...](https://presselib.com/article/en-vrac-hommage-a-alain-lartigue-cancer-colorectal-dans-le-gers-mars-hack-a-mont-de-marsan-emploi-saisonnier-a-lescar-potentiel-industri-elles-en-bigorre-tokikoa-pour-la-cuisine-basque-pau-fc-en-echec)  
+*Source : presselib.com | Publication : 2026-03-08*
+
+- Hommage au Bayonnais Alain Lartigue.
+- – Cette personnalité du monde taurin s’est éteinte à l’âge de 79 ans.
+- Cet apoderado passionné était devenu incontournable dans les places du Sud-Ouest et particulièrement à Bayonne, Mont-de-Marsan et Vic-Fezensac.
+- Avocat réputé, il avait abandonné la robe pour se consacrer entièrement au Mundillo, fin connaisseur des toros et des élevages, il avait un carnet d’adresses exceptionnel.
+
+## [WordPress : une faille de sécurité critique permet de devenir admin de 60 000 sites web](https://www.clubic.com/actualite-603673-wordpress-une-faille-de-securite-critique-permet-de-devenir-admin-de-60-000-sites-web.html)  
+*Source : clubic.com | Publication : 2026-03-08*
+
+- Des dizaines de milliers de sites WordPress sont exposés à une vulnérabilité majeure.
+- Une faille découverte dans une extension largement déployée permet à un simple visiteur d’obtenir les droits d’administrateur en quelques clics.
+- Un problème de sécurité touche actuellement l’écosystème WordPress via une extension largement déployée.
+- Baptisée CVE-2026-1492, la faille concerne le plugin User Registration & Membership, utilisé par plus de 60 000 sites.
+
+## [L'IA accélère les frappes pendant que l'Iran contre-attaque en ligne - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/03/08/ia-accelere-les-frappes-iran/)  
+*Source : dcod.ch | Publication : 2026-03-08*
+
+- TL;DR : L’essentiel Les systèmes d’IA militaires traitent désormais des milliers de cibles et d’intercepts en heures au lieu de semaines, réduisant les équipes d’analystes de 2 000 à 20 personnes pour des opérations aussi efficaces qu’en Irak.
+- - L’IA aide à identifier des modèles spécifiques d’avions ou de véhicules dans les vidéos de surveillance hackées, et résume automatiquement les conversations captées par interception, accélérant le renseignement de plusieurs ordres de magnitude.
+- - Cotton Sandstorm et groupes affiliés au CGRI déploient WezRat (infostealer modulable) et WhiteLock (ransomware) ciblant Israël et le Golfe depuis des mois avant les frappes, avec staging de malwares en cours.
+- - Les hackers iraniens, groupes comme CyberAv3ngers et APT IRAN, ciblent systèmes de contrôle industriel en Israël, Pologne, Turquie et Jordanie, menant disinformation massive pour amplifier la panique en parallèle des attaques.
+
+## [Bon plan : 3 des VPN les plus réputés du marché sont tous en promo en même temps !](https://www.clubic.com/bons-plans-603607-on-a-teste-les-3-meilleurs-vpn-du-marche-et-ils-sont-tous-en-promo-en-meme-temps.html)  
+*Source : clubic.com | Publication : 2026-03-08*
+
+- Protéger sa connexion internet en 2026 n’est plus réservé aux paranoïaques : c’est devenu une précaution de bon sens, et ces trois offres simultanées le rendent enfin accessible à tous les budgets.
+- Notre rédaction a sélectionné les trois meilleurs VPN du marché et sont tous en promotion au même moment.
+- Le contexte cybersécurité de mars 2026 donne de bonnes raisons de (re)penser sa protection en ligne.
+- Les attaques par ransomware s’intensifient, les groupes de cyberespionnage étatiques multiplient les cibles civiles, et l’IA générative est désormais utilisée par des acteurs malveillants pour automatiser des intrusions de bout en bout ; reconnaissance, accès initial, exfiltration.
+
+## [PARIS : <b>Cybersécurité</b> - La gestion des certificats numériques devient un enjeu de survie ...](https://presseagence.fr/paris-cybersecurite-la-gestion-des-certificats-numeriques-devient-un-enjeu-de-survie-economique/)  
+*Source : presseagence.fr | Publication : 2026-03-08*
+
+- PARIS : Cybersécurité – La gestion des certificats nu… Partager : PARIS : Cybersécurité – La gestion des certificats numériques devient un enjeu de survie économique Face à la réduction drastique de la durée de vie des certificats de sécurité dès le 15 mars, CertActiv propose une solution pour éviter la paralysie du web.
+- C’est une révolution silencieuse mais potentiellement dévastatrice pour les entreprises qui n’y sont pas préparées.
+- Dès le 15 mars 2026, la validité maximale des certificats SSL/TLS – ces sésames indispensables qui sécurisent les échanges sur Internet via le fameux cadenas – sera divisée par deux, passant de 398 à 200 jours.
+- Cette échéance marque le début d’un compte à rebours décidé par le CA/B Forum, l’autorité de régulation du secteur.
+
+## [Maroc : le marché de la <b>cybersécurité</b> devrait atteindre 238 millions USD d'ici 2031](https://africa24tv.com/maroc-le-marche-de-la-cybersecurite-devrait-atteindre-238-millions-usd-dici-2031)  
+*Source : africa24tv.com | Publication : 2026-03-08*
+
+- Au Maroc, le marché de la cybersécurité est en pleine expansion.
+- Estimé à 145 millions de dollars en 2025, il devrait atteindre 238 millions en 2031.
+- Porté par le programme Digital Morocco 2030 et la politique Cloud-First, ce secteur stratégique se développe grâce à la sécurisation des infrastructures critiques, à l’essor des services cloud et à l’adoption massive par les PME.
+- Au Maroc, le marché de la cybersécurité connaît une croissance soutenue, porté par le programme Digital Morocco 2030 et la politique Cloud-First.
+
+## [Affaire de la tête de porc à Nice : Estrosi accuse « l'ultra-droite » de Stérin - SudOuest.fr](https://www.sudouest.fr/elections/municipales/affaire-de-la-tete-de-porc-a-nice-estrosi-accuse-l-ultra-droite-de-sterin-28187007.php)  
+*Source : sudouest.fr | Publication : 2026-03-08*
+
+- Lors d’un débat électoral samedi soir, le maire sortant de Nice a dénoncé les méthodes de « l’ultra-droite de M. Pierre-Édouard Stérin » qui compte, selon lui, « des gens engagés dans la xénophobie, dans l’antisémitisme, dans le racisme, dans la cybercriminalité » Le maire de Nice Christian Estrosi (Horizons) a incriminé samedi soir « les violences de l’ultra-droite de M. Pierre-Édouard Stérin », lors d’un débat électoral où il était interrogé sur la tête de porc accompagnée d’une étoile de David déposée devant son domicile.
+- « Je suis une victime de manipulations, de tentatives d’infiltration, de déstabilisation qui fait suite à une campagne de violences de la part des équipes de M. Ciotti », a-t-il affirmé lors d’un débat organisé par BFM, Nice Matin avec le Figaro, en visant son principal adversaire, le député Éric Ciotti, président de l’UDR, allié au RN.
+
+## [<b>Cybersécurité</b>: les premières étapes pour bien se protéger | Paperjam News](https://paperjam.lu/article/cybersecurite-les-premieres-etapes-pour-bien-se-proteger-1)  
+*Source : paperjam.lu | Publication : 2026-03-08*
+
+- Une cyberattaque peut avoir des conséquences bien plus lourdes sur une petite structure que sur un grand groupe.
+- Comment les PME peuvent-elles se protéger efficacement, même sans équipe dédiée?.
+- Quelles sont les premières étapes concrètes pour renforcer sa sécurité?.
+- Pour en parler, deux experts de Proximus NXT partagent leur expérience: - Yvon Boutry, Security Infrastructure Department Manager - Olivier Trientz, Business Developer Cybersécurité Ensemble, ils reviennent sur les fondamentaux: la sensibilisation des utilisateurs, l’importance de la gouvernance et de la gestion des risques, mais aussi la mise en place d’assessments simples pour évaluer sa maturité et définir des priorités adaptées au budget et aux besoins.
+
+## [Municipales à Nice : Christian Estrosi accuse &quot;l'ultradroite&quot; de Stérin après les menaces à ...](https://actu.orange.fr/politique/municipales-a-nice-christian-estrosi-accuse-l-ultradroite-de-sterin-apres-les-menaces-a-son-encontre-magic-CNT000002nKklV.html)  
+*Source : actu.orange.fr | Publication : 2026-03-08*
+
+- Municipales à Nice : Christian Estrosi accuse "l'ultradroite" de Stérin après les menaces à son encontre © Shootpix/ABACA Samedi 7 mars, au cours d'un débat organisé entre les différents candidats en lice pour la mairie de Nice, le maire sortant Christian Estrosi a dénoncé "les violences de l'ultradroite" dans l'affaire de la tête de porc et de l'affiche antisémite placées devant son domicile.
+- Interrogé sur la présence d'une tête de porc suivie d'une affiche antisémite sur le portail de son domicile, le maire de Nice Christian Estrosi a dénoncé samedi 7 mars "les violences de l'ultradroite" devant ses adversaires dans la course aux municipales.
+- Sans cibler nommément son adversaire et ancien proche Éric Ciotti, Estrosi a indiqué être "victime de manipulations, de tentatives d’infiltration, de déstabilisation qui font suite à une campagne de violences de la part des équipes de M. Ciotti", rapporte Le Parisien.
+- "Des gens engagés dans la xénophobie, dans l'antisémitisme" L'édile poursuit plus loin : "J’ai reçu des violences de ce côté-là, de l’ultradroite de M. Pierre-Édouard Stérin qui, parmi elle, a des gens engagés dans la xénophobie, dans l’antisémitisme, dans le racisme, dans la cybercriminalité".
+
+## [Jailbreak du F-35 : L'Europe s'affranchit du contrôle américain - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/03/08/jailbreak-du-f-35-europe/)  
+*Source : dcod.ch | Publication : 2026-03-08*
+
+- TL;DR : L’essentiel Le ministère de la Défense néerlandais affirme publiquement que les systèmes informatiques du célèbre chasseur F-35 de Lockheed Martin peuvent techniquement subir un jailbreak, exactement comme un banal téléphone iPhone.
+- - Cette déclaration retentissante s’inscrit dans un contexte géopolitique particulièrement instable, caractérisé par des tensions grandissantes entre le continent européen et l’administration américaine concernant la fiabilité des futures alliances militaires transatlantiques.
+- - L’objectif principal de cette complexe manipulation logicielle consiste à permettre aux forces armées européennes de modifier librement les paramètres de vol, sans jamais requérir l’approbation formelle et préalable des États-Unis.
+- - Ces surprenantes révélations stratégiques ont été initialement partagées lors d’une simple émission radiophonique, illustrant les plans d’urgence envisagés par l’Europe pour anticiper la perte potentielle du soutien militaire américain.
+
+## [Des milliers d'étudiants seront formés dans les domaines technologiques stratégiques.](https://www.vietnam.vn/fr/hang-nghin-sinh-vien-se-duoc-dao-tao-trong-cac-linh-vuc-cong-nghe-chien-luoc)  
+*Source : vietnam.vn | Publication : 2026-03-08*
+
+- Le 7 mars,FPT Group a annoncé un partenariat avec deux partenaires internationaux, Jetking (Inde) et Cranes Varsity, pour mettre en œuvre cinq programmes de formation technologique stratégiques au Vietnam, dans le but de former environ 1 000 étudiants en 2026.
+- Le programme de coopération s’inscrit dans le contexte de la résolution 57-NQ/TW du Politburo, qui identifie la science, la technologie et l’innovation comme une « avancée stratégique majeure », et de la résolution 59-NQ/TW, qui fixe l’objectif d’une intégration proactive dans la communauté internationale dans la nouvelle phase de développement.
+- Cette mesure est perçue comme un pas concret vers l'amélioration de la qualité de la formation et la réponse aux besoins en ressources humaines des secteurs technologiques clés.
+- Conformément à l'accord, cinq programmes de formation seront mis en œuvre : Conception de puces IA (conception de puces semi-conductrices), Agent IA (assistant IA), Drone (véhicule aérien sans pilote), Science des données et Cybersécurité.
+
+## [US Government to Support Blockchain and Cryptocurrency Security in New Cyber Strategy - Binance](https://www.binance.com/fr/square/post/299098571819874)  
+*Source : binance.com | Publication : 2026-03-08*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [<b>Cybercriminalité</b> : la Police judiciaire alerte sur de nouvelles formes de cyber-escroqueries](https://actuniger.com/societe/21828-cybercriminalite-la-police-judiciaire-alerte-sur-de-nouvelles-formes-de-cyber-escroqueries.html)  
+*Source : actuniger.com | Publication : 2026-03-08*
+
+- Cybercriminalité : la Police judiciaire alerte sur de nouvelles formes de cyber-escroqueries Dans un communiqué, la Direction de la Police judiciaire (DPJ), à travers sa Division de lutte contre la cybercriminalité (DLCC), a tenu à porter à la connaissance des internautes que, depuis un certain temps, une nouvelle forme d’escroquerie par voie de communication électronique prend de l’ampleur au Niger.
+- Il s’agit de nouvelles formes de cyber-escroqueries qui ont déjà fait des victimes à travers, notamment, des plateformes et systèmes de blanchiment de fonds non reconnus par les autorités compétentes, comme les cryptomonnaies.
+- Des pratiques qui constituent des infractions et sont punies par la loi, notamment pour les complices locaux qui sont recrutés pour ces sales besognes.
+- Le mode opératoire des malfaiteurs consiste à diffuser, sur les réseaux sociaux (Facebook, WhatsApp, Instagram, TikTok, Telegram, etc.), des liens invitant les internautes à postuler à de prétendues offres d’emploi.
+
+## [Trump signe un décret exécutif pour lutter contre la <b>cybercriminalité</b> étrangère - Phemex](https://phemex.com/fr/news/article/trump-signs-executive-order-to-combat-foreign-cybercrime-65055)  
+*Source : phemex.com | Publication : 2026-03-07*
+
+- Donald J. Trump a signé un décret exécutif visant à coordonner les efforts fédéraux pour lutter contre la cybercriminalité étrangère et les réseaux d'escroquerie ciblant les Américains.
+- Ce décret cherche à renforcer la collaboration entre les agences fédérales afin de faire face à la menace croissante des activités cybercriminelles internationales.
+- Cette initiative souligne l'engagement de l'administration à protéger les citoyens américains contre les menaces numériques provenant de l'étranger.
+- Trump signe un décret exécutif pour lutter contre la cybercriminalité étrangère Avertissement : Le contenu proposé sur Phemex News est à titre informatif uniquement.
+
+## [Une action technologique méconnue recommandée par Wedbush à posséder durant les ... - Bitget](https://www.bitget.com/fr/news/detail/12560605246755)  
+*Source : bitget.com | Publication : 2026-03-07*
+
+- En période d'incertitude, les entreprises spécialisées en cybersécurité et en logiciels d'entreprise ressortent souvent grâce à l'indispensabilité de.
+
+## [de 16 milliards d'identifiants dérobés par des cybercriminels, un record selon des chercheurs - MSN](https://www.msn.com/fr-fr/actualite/other/plus-de-16-milliards-d-identifiants-dérobés-par-des-cybercriminels-un-record-selon-des-chercheurs/ar-AA1H5Cie?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1)  
+*Source : msn.com | Publication : 2026-03-07*
+
+- Des chercheurs en cybersécurité ont révélé, mercredi 18 juin, qu'une énorme fuite de données était survenue ces derniers mois.
 
 ## [La stratégie cybernétique de Trump s'engage à « soutenir la sécurité » des cryptomonnaies ...](https://www.coindesk.com/fr/policy/2026/03/07/trump-s-cyber-strategy-vows-to-support-the-security-of-cryptocurrencies-and-blockchain)  
 *Source : coindesk.com | Publication : 2026-03-07*
