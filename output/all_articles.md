@@ -1,5 +1,145 @@
-# Résumés – 2026-03-08
+# Résumés – 2026-03-09
 
+
+## [Les modules Quectel prouvent leur conformité aux exigences réglementaires de la loi ...](https://www.businesswire.com/news/home/20260309755383/fr)  
+*Source : businesswire.com | Publication : 2026-03-09*
+
+- « Depuis plus de quatre ans, Finite State est le partenaire tiers de Quectel en matière de cybersécurité , ce qui souligne notre volonté d'assurer la.
+
+## [Comment un test de Claude, d'Anthropic, a abouti à la découverte de plus de 100 failles ...](https://www.bfmtv.com/tech/cybersecurite/comment-un-test-de-claude-d-anthropic-a-abouti-a-decouvrir-plus-de-100-failles-dans-firefox-et-permis-de-renforcer-la-securite-du-navigateur-open-source_AV-202603090696.html)  
+*Source : bfmtv.com | Publication : 2026-03-09*
+
+- Comment un test de Claude, d’Anthropic, a abouti à la découverte de plus de 100 failles dans Firefox et permis de renforcer la sécurité du navigateur open source À lui tout seul, il a trouvé plus de 100 failles de sécurité dans le navigateur Firefox en l'espace de deux semaines, soit l'équivalent de ce qui est habituellement débusqué en deux mois.
+- Lui, c'est Claude et si son prénom laisse entendre qu'il est humain, ce n'est pas le cas.
+- Il s'agit en effet de l'IA de la start-up américaine Anthropic.
+- Plus précisément, c'est Claude Opus 4.6, le modèle le plus performant de la start-up qui alimente le chatbot à l'origine de ces découvertes.
+
+## [Nigeria : Cybervergent lève 3 millions $ pour sa plateforme de conformité numérique](https://www.wearetech.africa/fr/fils/breves/breves-simple/nigeria-cybervergent-leve-3-millions-pour-sa-plateforme-de-conformite-numerique)  
+*Source : wearetech.africa | Publication : 2026-03-09*
+
+- La start-up de cybersécurité Cybervergent a levé 3 millions de dollars pour étendre sa technologie qui aide les organisations africaines à suivre en continu leurs obligations en matière de sécurité des données, de gouvernance et de conformité réglementaire.
+- L’entreprise veut remplacer les audits manuels ponctuels par une surveillance en temps réel, alors que les règles numériques se renforcent sur le continent.
+- Lire aussi: Google étend la recherche par intelligence artificielle au yoruba et à l’haoussa.
+
+## [Olivier Jacq : itinéraire d'un cybermarin - LeMagIT](https://www.lemagit.fr/actualites/366639973/Olivier-Jacq-itineraire-dun-cybermarin)  
+*Source : lemagit.fr | Publication : 2026-03-09*
+
+- andrej pol - stock.adobe.com Olivier Jacq : itinéraire d'un cybermarin Marin devenu expert en cybersécurité maritime par curiosité et passion, Olivier Jacq est un pionnier qui veille sur la résilience des navires et infrastructures navales face aux cybermenaces.
+- Quand on rencontre Olivier Jacq, c’est évidemment en terre Brestoise et dans un repaire de marins, les 4 vents, une cantine sympathique du port de commerce à Brest.
+- Le temps est venteux et humide.
+- Par habitude, nous regardons l’Abeille Horizon, amarré en face du Grand Large, l’immeuble où est établi le siège de France Cyber Maritime, dont Olivier Jacq fur directeur technique et scientifique.
+
+## [<b>Cybersécurité</b>: les défis sont bien réels pour les entreprises gaspésiennes - CIMT-CHAU](https://cimtchau.ca/nouvelles/cybersecurite-les-defis-sont-bien-reels-pour-les-entreprises-gaspesiennes/)  
+*Source : cimtchau.ca | Publication : 2026-03-09*
+
+- « On a des outils pour l'intelligence artificielle et pour la modernisation, mais quand on parle de cybersécurité , c'est parfois laissé de côté.
+- Les.
+
+## [<b>Cybersécurité</b> et exposition réglementaire : Principaux domaines de risque pour les ... - Yogonet](https://www.yogonet.com/fr/Amérique-latine-a/Nouvelles/2026/03/09/107973-Cybersécurité-et-exposition-réglementaire-:-principaux-domaines-de-risque-pour-les-opérateurs-de-casinos-en-ligne-en-2026)  
+*Source : yogonet.com | Publication : 2026-03-09*
+
+- Cet article fait partie d'une série de Atlaslive qui explore les vulnérabilités des casinos en ligne et les moyens par lesquels les opérateurs établis peuvent y remédier à l'avance.
+- Tout au long de cette série, Atlaslive analyse les principaux risques que les opérateurs doivent surveiller en permanence : les cybermenaces, les signaux d’alerte concernant les indicateurs clés de performance (KPI), les fuites financières, les faiblesses des infrastructures et des plateformes, et les pressions réglementaires.
+- Le dernier article présentera un ensemble de principes d’atténuation recommandés par les spécialistes d’Atlaslive.
+- Ce numéro est consacré plus particulièrement à cybersécurité et exposition réglementaire, deux domaines qui peuvent influencer directement la stabilité des revenus, la confiance des joueurs et la continuité des licences.
+
+## [Les modules Quectel prouvent leur conformité aux exigences réglementaires de la loi ...](https://www.businesswire.com/news/home/20260309755383/fr?feedref=JjAwJuNHiystnCoBq_hl-VLurcco62-bVFYh2Sm2egaT-GYge-IxUZbLJKAjHIbh7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DLk5L14yNeHsPGMIZID9Zwxg==)  
+*Source : businesswire.com | Publication : 2026-03-09*
+
+- Quectel Wireless Solutions, fournisseur mondial de solutions IoT de bout en bout, réaffirme aujourd'hui que son programme de cybersécurité pour.
+
+## [<b>Cybersécurité</b>: vous croyez être protégés, mais vous avez probablement tort - Les Affaires](https://www.lesaffaires.com/dossiers/transformation-numerique-sadapter-pour-evoluer/cybersecurite-vous-croyez-etre-proteges-mais-vous-avez-probablement-tort/)  
+*Source : lesaffaires.com | Publication : 2026-03-09*
+
+- CybersÃ©curitÃ©: vous croyez Ãªtre protÃ©gÃ©s, mais vous avez probablement tort Martin Berthiaume|PubliÃ© Ã 12h51Le Centre canadien pour la cybersÃ©curitÃ© a Ã©mis le mois dernier une alerte sur une vulnÃ©rabilitÃ© critique touchant les Ã©quipements Cisco Catalyst SD-WAN.
+- (Photo: 123RF) EXPERT INVITÃ.
+- Dans un monde de tensions gÃ©opolitiques permanentes, la cybersÃ©curitÃ© n’est plus seulement une question secondaire.
+- C’est une question de survie opÃ©rationnelle.
+
+## [La Data Room : la productivité du travail, dans le secteur non-agricole, aux Etats-Unis, est ...](https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-la-productivite-du-travail-dans-le-secteur-non-agricole-aux-etats-unis-est-de-2-8-au-quatrieme-trimestre-2025-09-03_VN-202603090735.html)  
+*Source : bfmtv.com | Publication : 2026-03-09*
+
+- La Data Room : la productivité du travail, dans le secteur non-agricole, aux Etats-Unis, est de 2,8 % au quatrième trimestre 2025 - 09/03 Ce lundi 9 mars, Christian Parisot, économiste et conseiller auprès de Aurel BGC et Roland Kaloyan, responsable de la Stratégie Actions Européennes chez Société Générale CIB, se sont respectivement penchés sur les dépenses mondiales en cybersécurité prévues pour 2026, s'élevant à 240 milliards de dollars et les gains de productivité de 2,8 % pour l'économie américaine sur l'ensemble de l'année 2025, dans l'émission BFM Bourse présentée par Guillaume Sommerer.
+- BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.
+- | Durée : 2:49.
+
+## [L'IA va t-elle rendre la <b>cybersécurité</b> obsolète ? Ou bien la Sili ... - ZDNET](https://www.zdnet.fr/actualites/lia-va-t-elle-rendre-la-cybersecurite-obsolete-ou-bien-la-silicon-valley-est-elle-encore-en-train-de-fantasmer-491519.htm)  
+*Source : zdnet.fr | Publication : 2026-03-09*
+
+- Points clés à retenir sur le rôle de l'IA dans le domaine de la sécurité Les outils Anthropic, OpenAI et Google peuvent automatiser le débogage de code.
+- - Mais la cybersécurité est un problème trop complexe pour que ces outils puissent le résoudre.
+- - La plus grande contribution de l'IA pourrait être de réduire les failles logicielles.
+- - Pouvez-vous faire confiance aux entreprises qui développent l'IA pour rendre cette technologie sûre ?.
+
+## [La Russie est accusée d'avoir utilisé Whatsapp et Signal pour mener des cyberattaques ...](https://www.bfmtv.com/tech/actualites/cybersecurite/la-russie-est-accusee-d-avoir-utilise-whatsapp-et-signal-pour-mener-des-cyberattaques-contre-des-fonctionnaires-du-gouvernement-neerlandais-afin-d-acceder-a-des-informations-sensibles_AD-202603090627.html)  
+*Source : bfmtv.com | Publication : 2026-03-09*
+
+- La Russie est accusée d'avoir utilisé Whatsapp et Signal pour mener des cyberattaques contre des fonctionnaires du gouvernement néerlandais, afin d’accéder "à des informations sensibles" Accusée de ne pas respecter la loi, Whatsapp n'est plus la bienvenue en Russie depuis quelques semaines.
+- Le Kremlin se sert pourtant de la célèbre messagerie pour... enfreindre la loi dans d'autres pays.
+- L'application de Meta, ainsi que Signal, ont en effet été utilisées pour cibler des fonctionnaires du gouvernement néerlandais avec des cyberattaques russes, ont indiqué lundi les services de renseignements des Pays-Bas.
+- Selon un rapport des services néerlandais de renseignement et de sécurité (MIVD et AIVD), ces attaques font partie d'une campagne visant à accéder aux données de dignitaires, fonctionnaires et militaires à travers le monde, bien qu'ils n'aient pas précisé quels étaient les autres pays et institutions affectés.
+
+## [Les modules Quectel prouvent leur conformité aux exigences réglementaires de la loi ...](http://www.businesswire.com/news/home/20260309755383/fr/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY)  
+*Source : businesswire.com | Publication : 2026-03-09*
+
+- cybersécurité pour son portefeui ... cybersécurité pour son portefeuille de modules respectera la conformité avec le règlement européen dit.
+
+## [Une campagne d'espionnage vise l'aviation, l'énergie et les télécoms en Asie](https://www.solutions-numeriques.com/une-campagne-despionnage-vise-laviation-lenergie-et-les-telecoms-en-asie/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-09*
+
+- Une campagne de cyberespionnage visant plusieurs infrastructures critiques en Asie exploite des serveurs web compromis pour pénétrer les réseaux des organisations ciblées.
+- Les attaquants utilisent notamment l’outil Mimikatz pour récupérer des identifiants et se déplacer dans les systèmes compromis.
+- Des infrastructures critiques ciblées en Asie Des organisations situées en Asie du Sud, du Sud-Est et de l’Est ont été visées par une campagne de cyberespionnage s’appuyant sur l’exploitation de serveurs web vulnérables.
+- Les attaques ciblent des secteurs considérés comme stratégiques, notamment l’aviation, l’énergie, les télécommunications, les technologies, les administrations publiques et l’industrie pharmaceutique.
+
+## [Le GITEX Africa Morocco lance le “STAR Summit”, dédié à la défense numérique et à la ...](https://medias24.com/2026/03/09/le-gitex-africa-morocco-lance-le-star-summit-dedie-a-la-defense-numerique-et-a-la-cybersecurite-1640195/)  
+*Source : medias24.com | Publication : 2026-03-09*
+
+- cybercriminalité à l'échelle internationale.
+- Le salon prévoit également un espace cybersécurité élargi, réunissant des entreprises spécialisées.
+
+## [Avec la DGSSI, GITEX Africa Morocco lance le STAR Summit dédié à la cyber-défense](http://ledesk.ma/encontinu/avec-la-dgssi-gitex-africa-morocco-lance-le-star-summit-dedie-a-la-cyber-defense/)  
+*Source : ledesk.ma | Publication : 2026-03-09*
+
+- Avec la DGSSI, GITEX Africa Morocco lance le STAR Summit dédié à la cyber-défense L’édition 2026 de GITEX Africa Morocco, prévue du 7 au 9 avril à Marrakech, accueillera une nouvelle plateforme stratégique consacrée à la cybersécurité : le Strategic Digital Defence AI Readiness (STAR) Summit.
+- Organisé en partenariat avec la Direction Générale de la Sécurité des Systèmes d’Information (DGSSI) du Maroc, ce sommet vise à renforcer la résilience numérique du continent face à la montée des cybermenaces, notamment celles alimentées par l’intelligence artificielle.
+- Placée sous le Haut Patronage du roi Mohammed VI et organisée sous l’autorité du ministère de la Transition numérique et de la Réforme de l’administration, l’édition 2026 de GITEX Africa Morocco réunira l’écosystème technologique international à Marrakech.
+- L’événement est organisé par KAOUN International, en partenariat avec l’Agence de Développement du Digital (ADD).
+
+## [Les prix des start-up du Forum InCyber dévoilés - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/64565-les-prix-des-start-up-du-forum-incyber-devoiles.html)  
+*Source : linformaticien.com | Publication : 2026-03-09*
+
+- Grâce à sa technologie certifiée CSPN par l'ANSSI, VirtualBrowser permet aux entreprises et aux administrations de se prémunir contre les cybermenaces.
+
+## [GITEX AFRICA Morocco 2026 lance le STAR Summit pour la <b>cybersécurité</b> - Lebrief](https://www.lebrief.ma/gitex-africa-morocco-2026-lance-le-star-summit-pour-la-cybersecurite-100144247/)  
+*Source : lebrief.ma | Publication : 2026-03-09*
+
+- GITEX AFRICA Morocco 2026 lance le STAR Summit pour la cybersécurité.
+- À l’occasion de l’édition 2026 de GITEX AFRICA Morocco, le Strategic digital defence AI readiness (STAR) Summit sera présenté à Marrakech du 7 au 9 avril.
+- Cette initiative, en partenariat avec la Direction générale de la sécurité des systèmes d’information (DGSSI) du Maroc, vise à fortifier la cybersécurité des entreprises, industries et économies numériques émergentes en Afrique, particulièrement face aux menaces amplifiées par l’intelligence artificielle.
+- L’événement est placé sous le haut patronage du roi Mohammed VI et organisé sous l’autorité du ministère de la Transition numérique et de la Réforme de l’administration, avec le soutien de l’Agence de développement du digital et de KAOUN International.
+
+## [IA et <b>cybersécurité</b>. GITEX AFRICA Morocco crée le STAR Summit - L'Observateur du Maroc](https://lobservateur.info/article/117489/economie/ia-et-cybersecurite-gitex-africa-morocco-cree-le-star-summit)  
+*Source : lobservateur.info | Publication : 2026-03-09*
+
+- Cybersécurité.
+- GITEX AFRICA Morocco lance le STAR Summit.
+
+## [Des centaines de dépôts GitHub piégés diffusent un voleur de données](https://www.solutions-numeriques.com/des-centaines-de-depots-github-pieges-diffusent-un-voleur-de-donnees/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-09*
+
+- Une vaste campagne de distribution du malware BoryptGrab exploite plus de 100 dépôts GitHub pour diffuser des logiciels piégés.
+- Derrière de faux outils gratuits se cache un infostealer capable de dérober identifiants, données de navigateurs et portefeuilles de cryptomonnaies.
+- GitHub détourné pour distribuer un malware Des chercheurs en cybersécurité ont identifié une campagne de diffusion du malware BoryptGrab reposant sur l’utilisation de plus de 100 dépôts publics sur GitHub.
+- Les pages malveillantes se présentent comme des projets logiciels légitimes et proposent au téléchargement des archives contenant en réalité un programme malveillant destiné à voler des données sensibles.
+
+## [Europol frappe deux services majeurs de <b>cybercriminalité</b> - ICTjournal.ch](https://www.ictjournal.ch/news/2026-03-09/europol-frappe-deux-services-majeurs-de-cybercriminalite)  
+*Source : ictjournal.ch | Publication : 2026-03-09*
+
+- Europol frappe deux services majeurs de cybercriminalité Europol a démantelé, avec l’aide de Microsoft, Trend Micro, Proofpoint et d’autres partenaires, l’une des plus grandes plateformes de phishing-as-a-service.
+- La plateforme Tycoon 2FA aidait des cybercriminels à contourner l’authentification multifacteur (MFA) et à prendre le contrôle de comptes.
+- Parallèlement, Europol a également mis hors service le forum Leakbase.
+- Le Centre européen de lutte contre la cybercriminalité (EC3) d’Europol a démantelé la plateforme de phishing-as-a-service Tycoon 2FA.
 
 ## [<b>Cybersécurité</b> : les 11 actualités majeures du 8 mars 2026](https://dcod.ch/2026/03/08/cybersecurite-les-11-actualites-majeures-du-8-mar-2026/)  
 *Source : dcod.ch | Publication : 2026-03-08*
