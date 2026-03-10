@@ -1,5 +1,156 @@
-# Résumés – 2026-03-09
+# Résumés – 2026-03-10
 
+
+## [<b>Cybermenaces</b> : le monde sous pression permanente - infoDSI](https://infodsi.com/articles/209104/cybermenaces-le-monde-sous-pression-permanente.html)  
+*Source : infodsi.com | Publication : 2026-03-10*
+
+- Veuillez activer Javascript.
+
+## [Sylvie Delplanque, de multiples engagements pour un même horizon - DSIH](https://dsih.fr/articles/6201/sylvie-delplanque-de-multiples-engagements-pour-un-meme-horizon)  
+*Source : dsih.fr | Publication : 2026-03-10*
+
+- Publicité en cours de chargement... Sylvie Delplanque, de multiples engagements pour un même horizon La cybersécurité est une de ses préoccupations les plus structurantes.
+- Sa règle d’or : « On part toujours du principe qu’on n’a plus rien.
+- » Une posture radicale, qui dépasse largement la protection technique pour interroger la capacité réelle d’un établissement à continuer de soigner en situation dégradée.
+- Cette philosophie trouve une traduction concrète avec CKISA, un projet porté par le GCS Ameitic dans le cadre de l’appel à manifestation d’intérêt « Sécuriser les territoires » (France 2030, Banque des territoires).
+
+## [Les pirates informatiques cherchent à perturber le fonctionnement de l'économie civile israélienne.](https://israelvalley.com/2026/03/10/les-pirates-informatiques-cherchent-notamment-a-perturber-le-fonctionnement-de-leconomie-civile-israelienne/)  
+*Source : israelvalley.com | Publication : 2026-03-10*
+
+- Israël met en garde contre les risques de cyberattaques iraniennes : « tout le monde est exposé » Les autorités israéliennes ont mis en garde contre une série de cyberattaques attribuées à l’Iran visant des organisations à travers le pays.
+- Selon la Direction nationale israélienne de la cybersécurité, ces attaques ont pour objectif de perturber l’activité des organisations ciblées et de provoquer la destruction de systèmes informatiques et de données.
+- Ces opérations s’inscrivent dans le contexte de l’opération militaire israélienne « Rugissement du lion ».
+- D’après les responsables de la cybersécurité, les pirates informatiques cherchent notamment à perturber le fonctionnement de l’économie civile israélienne.
+
+## [Sanctions internationales : comment les entreprises de transport sécurisent leurs opérations](https://www.deloitte.com/fr/fr/services/consulting/perspectives/transport-et-sanctions-internationales.html)  
+*Source : deloitte.com | Publication : 2026-03-10*
+
+- Article co-écrit par Pierre Leprince, Manager, et Youssouf Simpara, Senior consultant dans les équipes Strategy, Risk & Transactions.
+- Dans un contexte géopolitique instable, les entreprises de transport sont au cœur de la mise en œuvre des sanctions internationales.
+- Exposées à des régimes complexes (ONU, UE, États-Unis) et à des chaînes logistiques fortement interconnectées, elles voient leur périmètre de vigilance s’élargir à l’ensemble de la transaction : clients et bénéficiaires effectifs, marchandises et biens sensibles, itinéraires et destinations, flux financiers, soustraitants et partenaires.
+- En cas de manquement, les risques juridiques (sanctions administratives, civiles et pénales) se doublent d’impacts économiques, commerciaux et réputationnels majeurs.
+
+## [Coruna : un kit d'exploitation ayant échappé à ses créateurs | LeMagIT](https://www.lemagit.fr/actualites/366639868/Coruna-un-kit-dexploitation-ayant-echappe-a-ses-createurs)  
+*Source : lemagit.fr | Publication : 2026-03-10*
+
+- Apple Coruna : un kit d'exploitation ayant échappé à ses créateurs Le kit d'exploitation Coruna, conçu pour espionner les terminaux iOS, semble trouver son origine outre-Atlantique.
+- D'où il aurait échappé à ses créateurs avant construire une nouvelle vie, indépendante.
+- L'analyse technique du kit de piratage « Coruna » pointe vers une origine militaire américaine.
+- L3Harris, par sa division Trenchant, apparaît comme le développeur principal de ce kit.
+
+## [Bitdefender démarre la saison avec une présence accrue comme partenaire exclusif de la ...](https://www.bitdefender.com/fr-fr/blog/hotforsecurity/bitdefender-demarre-la-saison-2026-avec-une-presence-accrue-sur-les-voitures-en-tant-que-partenaire-exclusif-de-la-scuderia-ferrari-hp-en-matiere-de-cybersecurite-2)  
+*Source : bitdefender.com | Publication : 2026-03-10*
+
+- Avant le Grand Prix d'Australie à Melbourne (du 6 au 8 mars), Bitdefender entame sa cinquième saison avec Scuderia Ferrari HP.
+- La Formule 1 donne le coup d'envoi d'une nouvelle saison passionnante à Melbourne, en Australie.
+- Les fans pourront découvrir la nouvelle image de marque élargie de Bitdefender, qui occupera une place de choix sur la voiture de Formule 1 de Scuderia Ferrari HP, tout en continuant d'être visible sur les éléments clés de protection des pilotes.
+- Bitdefender, partenaire exclusif de la Scuderia Ferrari HP en matière de cybersécurité, entame sa cinquième saison avec l'équipe, dans le cadre du renouvellement de l'accord pluriannuel annoncé en octobre 2025.
+
+## [Squad nomme Omer Shala au nouveau poste de Chief AI Officer - ChannelNews](https://www.channelnews.fr/squad-nomme-omer-shala-au-nouveau-poste-de-chief-ai-officer-155458)  
+*Source : channelnews.fr | Publication : 2026-03-10*
+
+- Le groupe de cybersécurité Squad annonce la création d’un poste de Chief AI Officer (CAIO), confié à Omer Shala.
+- Cette nomination vise à structurer et accélérer l’intégration de l’intelligence artificielle dans les offres et les opérations du groupe.
+- Avec cette nouvelle fonction, Squad entend faire de l’IA un levier stratégique de création de valeur et de différenciation, dans un contexte où l’automatisation des menaces et la complexité des architectures de sécurité s’accélèrent.
+- La mission d’Omer Shala consistera notamment à structurer des offres de cybersécurité intégrant l’IA dès leur conception, en combinant analyse prédictive, automatisation et orchestration des dispositifs de sécurité.
+
+## [Israël affirme avoir 'identifié des dizaines de piratages iraniens de caméras de sécurité'](https://information.tv5monde.com/international/des-dizaines-de-piratages-iraniens-de-cameras-israeliennes-la-cybersecurite-une-arme-dans-la-guerre-au-moyen-orient-2813060)  
+*Source : information.tv5monde.com | Publication : 2026-03-10*
+
+- La direction israélienne de la cybersécurité a reçu plus de 1.300 signalements de tentatives de piratage iraniennes depuis le début de l'offensive israélo-américaine contre l'Iran le 28 février.
+- Israël a affirmé que des caméras de sécurité ont été piratées par les Iraniens.
+- Depuis le début de l'offensive israélo-américaine contre l'Iran le 28 février, la direction israélienne de la cybersécurité (INCD) a affirmé avoir "identifié des dizaines de piratages iraniens de caméras de sécurité à des fins d'espionnage", affirme un post de Cyber Israel sur X.
+- "L'unité agit pour alerter des centaines de propriétaires de caméras et appelle le public à changer ses mots de passe et à mettre à jour ses logiciels afin de prévenir tout risque sécuritaire, national comme personnel", poursuit le texte publié lundi 9 mars.
+
+## [Le financement du programme CVE finalement pérennisé - Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-le-financement-du-programme-cve-finalement-perennise-99593.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-03-10*
+
+- L'Agence nationale américaine de la sécurité des systèmes d'information (Cisa) et Mitre ont renégocié le contrat soutenant le référentiel des failles CVE (common vulnerabilities and exposures), vieux de 26 ans, dont l’expiration imminente avait semé la panique dans la communauté de la sécurité en 2025.
+- Selon certaines sources, il semble que, dans le budget de cette agence, le programme est passé d'un poste de financement discrétionnaire à une ligne protégée.
+- Ce changement structurel pourrait empêcher toute crise comme celle ayant menacé le système l'année dernière.
+- Il s'en est fallu de peu pour que le programme sur lequel s’appuient les outils de gestion des vulnérabilités, les plateformes de renseignements sur les menaces et les systèmes de gestion des correctifs dans le monde entier semblait soit brutalement arrêté.
+
+## [Gatineau cherche le coup de circuit en défense et <b>cybersécurité</b> - Le Droit](https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/03/10/gatineau-cherche-le-coup-de-circuit-en-defense-et-cybersecurite-OVLAXVYZ45DKZNXLH2O56ZCWNM/)  
+*Source : ledroit.com | Publication : 2026-03-10*
+
+- Mme Marquis-Bissonnette n’a pas précisé si la Ville s’était élancée dans le vide, cette semaine, dans le cadre de l’investissement fédéral de 900 millions de dollars qui servira notamment à l’établissement d’un Nouveau Centre d’innovation sur les drones, dont les activités seront partagées entre Ottawa et… Montréal.
+- Gatineau et Ottawa tentent conjointement de tirer leur épingle du jeu afin de profiter au maximum de la «manne de contrats» qui seront octroyés au cours des prochaines années dans ce domaine par le gouvernement fédéral.
+- La mairesse fait d’ailleurs de la défense et de la cybersécurité l’un des principaux créneaux sur lequel elle entend compter pour diversifier l’économie de Gatineau dans les prochaines années.
+- Le nouveau Service du développement économique y met aussi beaucoup d’efforts.
+
+## [Conscio Technologies lance son offre Culture Digitale Responsable](https://www.informatiquenews.fr/conscio-technologies-lance-son-offre-culture-digitale-responsable-109797)  
+*Source : informatiquenews.fr | Publication : 2026-03-10*
+
+- Conscio Technologies, spécialiste de la sensibilisation à la cybersécurité annonce la disponibilité de son nouveau programme Culture Digitale Responsable, un programme clé en main composé de 7 campagnes de sensibilisation.
+- Le programme Culture Digitale Responsable aborde les 7 contenus suivants : Cybersécurité, RGPD, GreenIT, Gestion écoresponsable des mails, IA (enjeux cyber et RGPD), IA (enjeux éthiques) et IA (enjeux écologiques).
+- Une sensibilisation globale à l’univers digital Les entreprises et les collectivités sont aujourd’hui évaluées sur leur responsabilité globale (sécurité, conformité, empreinte environnementale, usage éthique de l’IA).
+- L’offre Culture Digitale Responsable propose une approche 360° du numérique) : une vision qui relie la cybersécurité et l’IA, la conformité (RGPD), la durabilité (écologie) et l’éthique.
+
+## [<b>Cybersécurité</b> : Les agents IA redéfinissent la sécurité applicative et les centres d'opérations ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-les-agents-ia-redefinissent-la-securite-applicative-et-les-centres-doperations-les-start-up-accelerent.7DY54NKEERDD7G3PYHDRAW2GVM.html)  
+*Source : usine-digitale.fr | Publication : 2026-03-10*
+
+- Le marché de la cybersécurité voit émerger une nouvelle génération d'outils reposant sur des agents d'intelligence artificielle capables d'automatiser.
+
+## [« Il y a beaucoup de bluff dans les vols de données » : le patron de la <b>cybersécurité</b> ... - Le Parisien](https://www.leparisien.fr/high-tech/il-y-a-beaucoup-de-bluff-dans-les-vols-de-donnees-le-patron-de-la-cybersecurite-nationale-dedramatise-10-03-2026-R6ZUUA6WSVB3NILPH3XSFH7R7I.php)  
+*Source : leparisien.fr | Publication : 2026-03-10*
+
+- « Il y a beaucoup de bluff dans les vols de données » : le patron de la cybersécurité nationale dédramatise EXCLUSIF.
+- À l’occasion de la publication du Panorama de la cybermenace, Vincent Strubel, garant de la cybersécurité nationale, relativise les revendications de vols de données qui se multiplient à un rythme fou.
+- Intrusions, cyberattaques et espionnage d’État.
+- Selon le bilan annuel de l’Agence nationale de la sécurité des systèmes d’information (Anssi) que nous vous dévoilons, ses experts ont dû traiter 1 366 « incidents » de cybersécurité en 2025, soit un niveau semblable à 2024.
+
+## [Nathaniel, 21 ans : son combat pour la <b>cybersécurité</b> en Guyane Mission - YouTube](https://www.youtube.com/watch?v=0Ooqf6PDkgw)  
+*Source : youtube.com | Publication : 2026-03-10*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [PARIS : Omer SHALA : « L'intelligence artificielle redéfinit l'équilibre de la <b>cybersécurité</b>](https://presseagence.fr/paris-omer-shala-lintelligence-artificielle-redefinit-lequilibre-de-la-cybersecurite/)  
+*Source : presseagence.fr | Publication : 2026-03-10*
+
+- PARIS : Omer SHALA : « L’intelligence artificielle re… Partager : PARIS : Omer SHALA : « L’intelligence artificielle redéfinit l’équilibre de la cybersécurité » Le groupe Squad, troisième force française en cybersécurité, annonce la nomination d’Omer Shala au nouveau poste stratégique de Chief AI Officer.
+- L’intelligence artificielle au cœur de la stratégie de défense Le paysage de la sécurité informatique traverse une mutation.
+- Face à l’automatisation croissante des menaces et à l’explosion de la complexité des architectures des systèmes d’information, les paradigmes de protection traditionnels atteignent leurs limites.
+- Dans ce contexte de transformation, le Groupe Squad, pure player de la cybersécurité et troisième force nationale du secteur, prend une décision institutionnelle majeure.
+
+## [le triptyque &quot;analyser les risques, maintenir l'activité et redémarrer les systèmes&quot; (Franck Mestre)](https://www.ticsante.com/story?ID=8128)  
+*Source : ticsante.com | Publication : 2026-03-10*
+
+- La session visait à revenir sur les principes essentiels permettant aux hôpitaux de maintenir leurs activités et de restaurer leurs systèmes d'information après un incident majeur, notamment une cyberattaque.
+- Franck Mestre a d'abord rappelé l'importance d'une analyse d'impact sur l'activité, une méthode permettant d'identifier les fonctions critiques d'un établissement et d'évaluer les conséquences d'une interruption.
+- Cette démarche consiste à analyser les dépendances des activités hospitalières (systèmes informatiques, données, ressources humaines ou prestataires), afin de déterminer ce qui doit être maintenu ou redémarré en priorité en cas de crise.
+- Elle permet également de fixer des objectifs de reprise, notamment en matière de délai maximal d'interruption d'un service et de perte de données acceptable.
+
+## [Sécurité de l'information – un nouveau risque omniprésent dans le secteur juridique](https://www.wolterskluwer.com/fr-fr/expert-insights/securite-informatique-rgpd-confidentialite-donnees-menaces-cyber-juridique)  
+*Source : wolterskluwer.com | Publication : 2026-03-10*
+
+- Sécurité de l'information – un nouveau risque omniprésent dans le secteur juridique Où les lecteurs peuvent-ils trouver l'analyse complète sur l'IA dans le secteur juridique ?Le rapport complet est disponible dans l'enquête Wolters Kluwer Avocats et juristes face au futur 2026.
+- En savoir plus → - Qu'est-ce qui fait de la sécurité de l'information un risque omniprésent pour le secteur juridique ?Les risques de sécurité de l'information se sont intensifiés en raison du travail à distance, du stockage dans le cloud et de l'adoption de l'IA, augmentant l'exposition aux cybermenaces et aux défis de conformité.
+- En savoir plus → - Quelles sont les principales préoccupations en matière de cybersécurité pour les professionnels du droit ?Les professionnels du droit citent la conformité à la protection des données, la protection des informations sensibles et le maintien de la confidentialité client comme leurs préoccupations principales.
+- En savoir plus → - Pourquoi l'IA fantôme est-elle considérée comme une menace majeure pour les cabinets d'avocats ?Les outils d'IA non autorisés risquent de violer la confidentialité, d'enfreindre les réglementations et de nuire aux standards professionnels, nécessitant une gouvernance solide et des politiques d'usage approuvé.
+
+## [<b>Cybersécurité</b> : attention à ces métiers qui séduisent mais qui ne recrutent plus - JDN](https://www.journaldunet.com/cybersecurite/1548543-pentester-red-teamer-analyste-soc-1-ces-metiers-de-la-cybersecurite-qui-seduisent-mais-ne-recrutent-plus/)  
+*Source : journaldunet.com | Publication : 2026-03-10*
+
+- Cybersécurité : attention à ces métiers qui séduisent mais qui ne recrutent plus L'IA rend obsolètes certains métiers comme l'analyste SOC de niveau 1 ou les ingénieurs spécialisés en DevSec et DevSecOps.
+- Un cliché bien ancré habite l'imaginaire collectif de nombreux jeunes bacheliers et étudiants : la cybersécurité serait un eldorado en pénurie permanente de main-d'œuvre, où tous les métiers recrutent à tour de bras.
+- Rien de plus faux, selon Guillaume Collard, fondateur de la Cybersecurity Business School (CSB.School) et RSSI externe.
+- Le milieu de la cybersécurité reste élitiste.
+
+## [<b>Cybersécurité</b> : le secteur qui se prive de la moitié de ses forces - Alliancy](https://www.alliancy.fr/cybersecurite-le-secteur-qui-se-prive-de-la-moitie-de-ses-forces-ffd21454-bc9b-4f26-b74b-3a18e3daa697)  
+*Source : alliancy.fr | Publication : 2026-03-10*
+
+- E-mail Profil LinkedIn Profil Twitter Chaîne YouTube 10 mars 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [Semaine 10 : Anciennes arnaques sous un nouveau jour - admin.ch](https://www.ncsc.admin.ch/ncsc/fr/home/aktuell/im-fokus/2026/wochenrueckblick_10.html)  
+*Source : ncsc.admin.ch | Publication : 2026-03-10*
+
+- 10.03.2026 - Les fraudeurs cherchent continuellement à adapter leurs méthodes pour tromper les internautes.
+- La semaine dernière, l'OFCS a reçu deux nouvelles variantes de fraude, basées sur des phénomènes existants ou combinant différentes méthodes frauduleuses.
+- Avec un e-mail trompeusement authentique au nom d’Amazon, les destinataires sont informés qu’ils font partie des « 250 clientes et clients suisses sélectionnés » pouvant remporter des prix attractifs tels que des bons Amazon, le dernier iPhone ou une PlayStation 5.
+- Jeu-concours frauduleux combinés à du phishing Le message contient un lien pour participer prétendument à un jeu-concours.
 
 ## [Les modules Quectel prouvent leur conformité aux exigences réglementaires de la loi ...](https://www.businesswire.com/news/home/20260309755383/fr)  
 *Source : businesswire.com | Publication : 2026-03-09*
