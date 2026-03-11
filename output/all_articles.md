@@ -1,5 +1,156 @@
-# Résumés – 2026-03-10
+# Résumés – 2026-03-11
 
+
+## [Des pirates informatiques liés à l'Iran revendiquent l'attaque contre le fabricant américain de ...](https://www.boursorama.com/bourse/actualites-amp/des-pirates-informatiques-lies-a-l-iran-revendiquent-l-attaque-contre-le-fabricant-americain-de-materiel-medical-stryker-dce6c39554512c01f697b87ceffd3b81)  
+*Source : boursorama.com | Publication : 2026-03-11*
+
+- Des pirates informatiques liés à l'Iran revendiquent l'attaque contre le fabricant américain de matériel médical Stryker information fournie par Reuters 11/03/2026 à 22:55 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Le réseau mondial de Stryker est perturbé, mais aucun ransomware n'a été détecté * Le groupe Handala, lié à l'Iran, revendique l'attaque et affirme qu'il s'agit de représailles à l'attaque contre l'école de Minab * Les experts en cybersécurité mettent en garde contre l'intensification des cyber-représailles iraniennes * Les actions de Stryker chutent de 3,6 % après l'attaque, la Maison Blanche déclare qu'elle surveille les cybermenaces (Ajoute le contexte du paragraphe 2, avec des commentaires d'experts et un commentaire de la Maison Blanche) par AJ Vicens et Christy Santhosh Un groupe de pirates informatiques lié à l'Iran a revendiqué mercredi la responsabilité d'une cyberattaque destructrice contre le fournisseur américain d'appareils et de services médicaux Stryker, selon des messages postés sur le canal Telegram du groupe.
+- La société basée dans le Michigan, qui compte 56 000 employés et opère dans 61 pays, a déclaré dans un document déposé auprès de la SEC que l'attaque avait entraîné des perturbations et des limitations d'accès à certains systèmes, et que le délai pour un rétablissement complet n'était pas encore connu.
+- Le personnel et les sous-traitants ont déclaré dans des messages sur les réseaux sociaux que le logo d'un groupe de pirates informatiques lié à l'Iran était apparu sur les pages de connexion de l'entreprise.
+- Reuters n'a pas été en mesure de vérifier ces messages.
+
+## [<b>Cybermenace</b> : la France sous la pression constante d'acteurs d'origines étatique et cybercriminelle](https://itrnews.com/articles/209120/cybermenace-la-france-sous-la-pression-constante-dacteurs-dorigines-etatique-et-cybercriminelle.html)  
+*Source : itrnews.com | Publication : 2026-03-11*
+
+- Veuillez activer Javascript.
+
+## [La prévention, le pilier central de la <b>cybersécurité</b> - Global Security Mag Online](https://www.globalsecuritymag.fr/la-prevention-le-pilier-central-de-la-cybersecurite.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-03-11*
+
+- La prévention, le pilier central de la cybersécurité mars 2026 par Jérémie Schram, directeur technique France de WatchGuard Technologies La cybersécurité des PME repose encore largement sur la détection des attaques et la gestion de crise, quand ces capacités existent !.
+- Face à des menaces de plus en plus automatisées, cette approche montre aujourd’hui ses limites.
+- La prévention s’impose comme un pilier incontournable, encore trop souvent sous-estimé dans les stratégies de sécurité.
+- Pendant longtemps, la cybersécurité s’est construite autour de deux réflexes essentiels : détecter les attaques et y répondre.
+
+## [Cyberattaques: pas une explosion mais un &quot;plateau&quot; en 2025, souligne l'Anssi, qui dénonce ...](https://www.bfmtv.com/tech/actualites/cybersecurite/cyberattaques-pas-une-explosion-mais-un-plateau-en-2025-souligne-l-anssi-qui-denonce-beaucoup-de-bluff-autour-des-fuites-de-donnees_AN-202603110851.html)  
+*Source : bfmtv.com | Publication : 2026-03-11*
+
+- Cyberattaques: pas une explosion mais un "plateau" en 2025, souligne l'Anssi, qui dénonce beaucoup de "bluff" autour des fuites de données La Poste, les opérateurs télécoms, les fédérations sportives.
+- En 2025, nombre d'entreprises ont été victimes de cyberattaques, qui ont été très médiatisées.
+- Si ces communications autour de ces incidents laissent croire qu'une explosion dans le domaine de la cybercriminalité a eu lieu l'année dernière, ce n'est pas du tout le cas, souligne l'Agence nationale de la sécurité des systèmes d'information (Anssi).
+- Comme chaque année, elle a présenté ce 11 mars, son panorama de la cybermenace, cette fois pour l'année 2025.
+
+## [&quot;Don't Go to the Police&quot; : Orange Cyberdéfense co-produit un film sur le <b>ransomware</b> qui a ...](https://www.clubic.com/actualite-604021-don-t-go-to-the-police-orange-cyberdefense-co-produit-un-film-sur-ce-ransomware-qui-a-paralyse-350-000-entreprises.html)  
+*Source : clubic.com | Publication : 2026-03-11*
+
+- Le 12 mars, Orange Cyberdefense présentera "Don't Go to the Police", un film-documentaire sur la cyberattaque subie par Coaxis.
+- En hébergeant les données de milliers de clients, cette PME du Lot-et-Garonne est devenue le maillon faible d'une filière entière.
+- En décembre 2023, un seul hébergeur touché, et c'est toute une filière comptable française qui s'arrête.
+- L'affaire Coaxis a montré ce que les spécialistes répètent depuis longtemps : les ransomwares visent rarement les grandes structures directement, mais leurs prestataires.
+
+## [<b>Cybersécurité</b> : pourquoi la France reste si fragile face aux fuites de données - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/cybersecurite-pourquoi-la-france-reste-si-fragile-face-aux-fuites-de-donnees-20260311)  
+*Source : lefigaro.fr | Publication : 2026-03-11*
+
+- Cybersécurité : pourquoi la France reste si fragile face aux fuites de données DÉCRYPTAGE - Si le nombre d’attaques par rançongiciel traité par l’Anssi est en léger recul, celles liées à des exfiltrations de données augmentent.
+- Passer la publicitéCompromission du fichier national des comptes bancaires, exfiltration de données de santé sensibles hébergées dans MonLogicielMedical, outil utilisé par de nombreux cabinets médicaux, vol de fiches sensibles au ministère de l’Intérieur après consultation des fichiers des personnes recherchées et du traitement d’antécédents judiciaires… Les révélations de fuites de données se poursuivent à un rythme préoccupant en ce début d’année 2026, après une intensification ces deux dernières années.
+- Si le volume des attaques informatiques traitées par l’Agence nationale de sécurité des systèmes d’information (Anssi) est resté à peu près le même en 2025 (1 366 incidents, contre 1 361 en 2024), leur nature a évolué.
+- Il y a eu un peu moins de victimes de rançongiciels en France l’an dernier (128, selon les données connues par l’Anssi, qui restent partielles), mais une augmentation significative d’extractions de données (196, après 130 en 2024).
+
+## [Des pirates informatiques liés à l'Iran attaquent le fabricant américain d'appareils médicaux Stryker](https://www.boursorama.com/bourse/actualites-amp/des-pirates-informatiques-lies-a-l-iran-attaquent-le-fabricant-americain-d-appareils-medicaux-stryker-dce6c39554512c01f697b87ceffd3b81)  
+*Source : boursorama.com | Publication : 2026-03-11*
+
+- Des pirates informatiques liés à l'Iran revendiquent l'attaque contre le fabricant américain de matériel médical Stryker information fournie par Reuters 11/03/2026 à 22:55 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Le réseau mondial de Stryker est perturbé, mais aucun ransomware n'a été détecté * Le groupe Handala, lié à l'Iran, revendique l'attaque et affirme qu'il s'agit de représailles à l'attaque contre l'école de Minab * Les experts en cybersécurité mettent en garde contre l'intensification des cyber-représailles iraniennes * Les actions de Stryker chutent de 3,6 % après l'attaque, la Maison Blanche déclare qu'elle surveille les cybermenaces (Ajoute le contexte du paragraphe 2, avec des commentaires d'experts et un commentaire de la Maison Blanche) par AJ Vicens et Christy Santhosh Un groupe de pirates informatiques lié à l'Iran a revendiqué mercredi la responsabilité d'une cyberattaque destructrice contre le fournisseur américain d'appareils et de services médicaux Stryker, selon des messages postés sur le canal Telegram du groupe.
+- La société basée dans le Michigan, qui compte 56 000 employés et opère dans 61 pays, a déclaré dans un document déposé auprès de la SEC que l'attaque avait entraîné des perturbations et des limitations d'accès à certains systèmes, et que le délai pour un rétablissement complet n'était pas encore connu.
+- Le personnel et les sous-traitants ont déclaré dans des messages sur les réseaux sociaux que le logo d'un groupe de pirates informatiques lié à l'Iran était apparu sur les pages de connexion de l'entreprise.
+- Reuters n'a pas été en mesure de vérifier ces messages.
+
+## [Le domaine de Chambord victime de <b>ransomware</b> - La Nouvelle République](https://www.lanouvellerepublique.fr/loir-et-cher/commune/chambord/le-domaine-de-chambord-victime-de-ransomware-1773253494)  
+*Source : lanouvellerepublique.fr | Publication : 2026-03-11*
+
+- L'info en continu Les plus lus Le Domaine national de Chambord avertit ses touristes et futurs visiteurs.
+- En ce début du mois de mars 2026, sa billetterie en ligne a été touchée par un incident de sécurité informatique.
+- Son prestataire, Vivaticket, a subi une attaque ransomware.
+- Dans cette situation, les données personnelles peuvent être bloquées par les pirates dans l’attente d’une rançon.
+
+## [<b>Cybercriminalité</b> : la France se prépare à des attaques «destructrices sur des infrastructures critiques](https://www.cnews.fr/vie-numerique/2026-03-11/cybercriminalite-la-france-se-prepare-des-attaques-destructrices-sur-des)  
+*Source : cnews.fr | Publication : 2026-03-11*
+
+- L'Agence nationale de la sécurité des systèmes d'information a publié son bilan 2025, qui pointe un niveau de cybermenace élevé.
+
+## [<b>Cybersécurité</b> : une journée immersive organisée par les étudiants à l'UTT](https://www.utt.fr/actualites/cybersecurite-une-journee-immersive-organisee-par-les-etudiants-a-lutt)  
+*Source : utt.fr | Publication : 2026-03-11*
+
+- Dans la même rubrique Accueil -.
+- - Actualités - Cybersécurité : une journée immersive organisée par les étudiants à l’UTT Publié le 11 mars 2026 – Mis à jour le 11 mars 2026 Date(s) le 10 mars 2026 Le 5 mars dernier, les étudiants du Mastère Spécialisé® Expert en Cybersécurité ont organisé à l’UTT la Journée DARC – Darknet Analyse et Recrutement en Cybersécurité.
+- Cet événement a réuni étudiants, alumni, entreprises et acteurs institutionnels autour des enjeux actuels de la cybersécurité, avec l’objectif de proposer une expérience immersive mêlant défis techniques, échanges professionnels et perspectives de recrutement.
+- Tout au long de la journée, les participants ont pu assister à des mini-conférences animées par des alumni spécialistes de la cybersécurité.
+
+## [Fuites de données : la majorité des alertes non avérées, selon le gendarme français de la ...](https://www.lefigaro.fr/flash-eco/fuites-de-donnees-la-majorite-des-alertes-non-averees-selon-le-gendarme-francais-de-la-cybersecurite-20260311)  
+*Source : lefigaro.fr | Publication : 2026-03-11*
+
+- Fuites de données : la majorité des alertes non avérées, selon le gendarme français de la cybersécurité La majorité des alertes reçues en 2025 concernant des fuites de données se sont révélées non avérées, a indiqué mercredi l'Agence française de la sécurité informatique (Anssi) à l'occasion de la présentation de son rapport annuel.
+- «Dans les incidents de vols de données dont l'Anssi a été saisie en 2025, il y avait 60% qui n'étaient pas avérés», a indiqué le directeur général de l'Anssi, Vincent Strubel, lors d'une conférence de presse.
+- En 2025, l'agence a reçu 460 signalements pour des possibles fuites de données, dont 42% ont été confirmées, selon un communiqué.
+- Le rapport ne précise pas quels secteurs ont été principalement touchés.
+
+## [Leonardo se renforce dans la <b>cybersécurité</b> avec l'acquisition de la société britannique Becrypt](https://www.zonebourse.com/actualite-bourse/leonardo-se-renforce-dans-la-cybersecurite-avec-l-acquisition-de-la-societe-britannique-becrypt-ce7e5fdcda81f427)  
+*Source : zonebourse.com | Publication : 2026-03-11*
+
+- Leonardo, par l&#039;intermédiaire de sa filiale Leonardo UK Ltd, a signé un accord contraignant pour l&#039;acquisition de la société britannique de cybersécurité Becrypt.
+- Voici les détails de l&#039;opération : * L&#039;acquisition renforcera immédiatement le positionnement de Leonardo au Royaume-Uni et les cyber-défenses des pays des &quot;Five Eyes&quot; * L&#039;opération permet d&#039;exploiter les capacités de Becrypt dans le transfert sécurisé de données, la sécurité des terminaux et le cloud sécurisé * La clôture de la transaction est soumise aux approbations réglementaires et est attendue d&#039;ici le deuxième trimestre 2026 * &quot;Cette dernière acquisition au Royaume-Uni marque une nouvelle étape dans la stratégie de Leonardo visant à construire en Europe une cybersécurité résiliente et souveraine,&quot; a déclaré Roberto Cingolani, PDG de Leonardo (Stefano Bernabei, rédaction Andrea Mandalà).
+
+## [Fraude bancaire : pourquoi les hackers gardent leur avance malgré le renforcement de la ...](https://www.leparisien.fr/economie/votre-argent/fraude-bancaire/fraude-bancaire-pourquoi-les-hackers-gardent-leur-avance-malgre-le-renforcement-de-la-cybersecurite-des-entreprises-11-03-2026-GPSTXWKYRVBIFKCOFGYC6TVEVI.php)  
+*Source : leparisien.fr | Publication : 2026-03-11*
+
+- Fraude bancaire : pourquoi les hackers gardent leur avance malgré le renforcement de la cybersécurité des entreprises Malgré une prise de conscience de la menace, les entreprises françaises restent vulnérables aux cyberattaques.
+- Le fruit d’un rapport de force asymétrique avec les hackers où une seule faille humaine ou technique suffit à faire tomber des systèmes entiers.
+- C’est la bonne nouvelle du baromètre publié en octobre 2025 par cybermalveillance.gouv.fr : les TPE-PME françaises renforcent peu à peu leur politique cyber.
+- Elles ont ainsi augmenté leur nombre moyen de dispositifs de sécurité de 3,62 en 2024 à 4,06 en 2025.
+
+## [L'ANSSI publie son panorama 2025 et alerte sur l'évolution des attaques - Alliancy](https://www.alliancy.fr/lanssi-publie-son-panorama-2025-et-alerte-sur-levolution-des-attaques-f19a9a1a-eefa-4b5a-8caf-5fb29075407c)  
+*Source : alliancy.fr | Publication : 2026-03-11*
+
+- E-mail Profil LinkedIn Profil Twitter Chaîne YouTube 11 mars 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [Russie: au prétexte de préserver la &quot;sécurité des citoyens&quot;, le Kremlin maintiendra les ... - BFM](https://www.bfmtv.com/tech/cybersecurite/russie-au-pretexte-de-preserver-la-securite-des-citoyens-le-kremlin-maintiendra-les-coupures-d-internet-en-vigueur-aussi-longtemps-que-necessaire_AD-202603110628.html)  
+*Source : bfmtv.com | Publication : 2026-03-11*
+
+- Russie: au prétexte de préserver la "sécurité des citoyens", le Kremlin maintiendra les coupures d’internet en vigueur "aussi longtemps que nécessaire".
+- Des coupures et perturbations importantes intervenues ces derniers jours pour se connecter à internet en Russie resteront en vigueur "aussi longtemps que nécessaire" pour assurer "la sécurité des citoyens" face aux menaces ukrainiennes, a affirmé mercredi le Kremlin.
+- "Le régime de Kiev utilise des méthodes de plus en plus sophistiquées pour ses attaques et des mesures de riposte technologiques sont nécessaires pour assurer la sécurité des citoyens", a affirmé le porte-parole de la présidence russe, Dmitri Peskov, lors de son briefing quotidien.
+- Certains médias russes indiquent que les connexions à Internet auraient été coupées dans 63 régions russes, qui ont été ou pourraient être touchées par des attaques de drones ukrainiens.
+
+## [Kerys recrute Aurore Vidal pour booster ses ventes - Distributique](https://www.distributique.com/actualites/lire-kerys-recrute-aurore-vidal-pour-booster-ses-ventes-37055.html)  
+*Source : distributique.com | Publication : 2026-03-11*
+
+- « Rejoindre Kerys représente une formidable opportunité, celle de mettre mon expérience internationale au service d’une vision ambitieuse, ŕ un moment oů les entreprises sont amenées ŕ repenser l'ensemble de la sécurité de leurs infrastructures IT », assure Aurore Vidal de Kerys.
+- (Crédit Kerys) Kerys, l'éditeur d'une solution de virtualisation des postes de travail, souhaite passer ŕ la vitesse supérieure en embauchant Aurore Vidal pour promouvoir son offre.
+- Aprčs avoir levé 6,2 M€ en 2025, la start-up Kerys Software poursuit son développement en renforçant ses équipes avec l'arrivée d'Aurore Vidal au poste d'exécutive vice-présidente en charge des ventes.
+- Elle prendra en charge la stratégie commerciale globale de l'éditeur, son développement et celui des comptes stratégiques, pour lesquels les enjeux en matičre de cybersécurité, de protection des données et de mise en conformité constituent des priorités.
+
+## [Un niveau de menaces toujours très élevé en 2025 selon l'Anssi - Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-un-niveau-de-menaces-toujours-tres-eleve-en-2025-selon-l-anssi-99602.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-03-11*
+
+- « Nous avons vécu une année 2025 rythmée par des attaques prévisibles à une fréquence assez forte, visible et médiatisée », a lancé Vincent Strubel, directeur général de l'ANSSI lors de la présentation presse du panorama de la cybermenace 2025.
+- Sur l'année écoulée, l'agence a traité 1 366 incidents de cybersécurité (sur 3 586 événements de sécurité) contre 1 361 l'année précédente.
+- Un nombre d'incidents qui reste très élevé comparé aux 1 112 de 2023 et 831 de 2022.
+- « On est sur un plateau très haut, pas sur un raz de marée », indique le dirigeant.
+
+## [Panorama de la <b>cybermenace</b> 2025 - Rapport menaces et incidents - CERT-FR](https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-002/)  
+*Source : cert.ssi.gouv.fr | Publication : 2026-03-11*
+
+- En 2025, les frontières qui existent traditionnellement entre acteurs étatiques et cybercriminels ont continué de s’éroder, complexifiant notamment le processus d'imputation.
+- Ainsi par exemple le détournement, à des fins malveillantes, d’outils et de services légitimes, n'est plus une pratique caractéristique de groupes réputés liés à des états.
+- Dans le même temps, les techniques d'ingénierie sociale se réinventent et vont au-delà des faux supports informatiques.
+- Par ailleurs ces acteurs montrent aussi un intérêt pour des outils plus évolués que sont ceux d'intelligence artificielle, sans qu'il soit pour autant pertinent de parler de changement de paradigme.
+
+## [Une attaque supply chain permet d'obtenir un accès admin AWS en 72 heures](https://www.solutions-numeriques.com/une-attaque-supply-chain-permet-dobtenir-un-acces-admin-aws-en-72-heures/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-11*
+
+- Une campagne attribuée à l’acteur UNC6426 illustre la rapidité avec laquelle une attaque peut se propager dans les environnements cloud modernes.
+- En exploitant des clés dérobées lors de la compromission d’un package npm populaire, les attaquants ont réussi à obtenir un accès administrateur à un environnement AWS en moins de 72 heures.
+- De la supply chain logicielle au cloud Une campagne d’attaque analysée par des chercheurs en cybersécurité met en lumière les risques liés aux dépendances logicielles dans les environnements de développement modernes.
+- L’acteur malveillant, identifié sous le nom UNC6426, aurait exploité des clés compromises à la suite de l’attaque de la chaîne d’approvisionnement visant le package npm « nx », un outil largement utilisé dans les projets JavaScript.
+
+## [« La défense repose autant sur la qualité du code que sur la qualité de l'acier » : plaidoyer ...](https://www.lesechos.fr/idees-debats/cercle/la-defense-repose-autant-sur-la-qualite-du-code-que-sur-la-qualite-de-lacier-plaidoyer-pour-une-souverainete-numerique-offensive-2220360)  
+*Source : lesechos.fr | Publication : 2026-03-11*
+
+- cybersécurité , c'est assurer la continuité du pays qu'il soit en paix ou non.
+- (Photo iStock).
+- Par Sebastien Lescop (directeur général de Cloud.
 
 ## [<b>Cybermenaces</b> : le monde sous pression permanente - infoDSI](https://infodsi.com/articles/209104/cybermenaces-le-monde-sous-pression-permanente.html)  
 *Source : infodsi.com | Publication : 2026-03-10*
