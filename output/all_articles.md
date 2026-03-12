@@ -1,5 +1,153 @@
-# Résumés – 2026-03-11
+# Résumés – 2026-03-12
 
+
+## [SentinelOne chute après que l'entreprise de <b>cybersécurité</b> a annoncé un bénéfice inférieur ...](https://www.boursorama.com/bourse/actualites/sentinelone-chute-apres-que-l-entreprise-de-cybersecurite-a-annonce-un-benefice-inferieur-a-ses-estimations-pour-le-premier-trimestre-475af5a48a584697704bdc48185be712)  
+*Source : boursorama.com | Publication : 2026-03-12*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) 12 mars - ** Les actions de la société de cybersécurité SentinelOne S.N chutent de 3,3 % à 13,32 $ dans les échanges prolongés ** La société prévoit un bénéfice ajusté par action entre 1 cent et 2 cents pour le premier trimestre fiscal, en dessous de l'estimation moyenne des analystes de 5 cents, selon les données compilées par LSEG ** Le chiffre d'affaires devrait se situer entre 276 et 278 millions de dollars pour le trimestre, ce qui correspond largement aux estimations de 277 millions de dollars ** Les revenus de la société pour le 4ème trimestre augmentent de 20% à 271,2 millions de dollars ** En 2025, l'action a baissé de 32%.
+
+## [Repenser la <b>cybersécurité</b> en partant de l'humain - UdeMnouvelles - Université de Montréal](https://nouvelles.umontreal.ca/article/2026/03/12/repenser-la-cybersecurite-en-partant-de-l-humain)  
+*Source : nouvelles.umontreal.ca | Publication : 2026-03-12*
+
+- La cybersécurité est souvent abordée comme une affaire de pare-feu, d’algorithmes et de lignes de code.
+- Pourtant, derrière chaque incident numérique se trouvent des choix, des usages, des contraintes organisationnelles et des cadres juridiques bien humains.
+- C’est précisément ce constat qui a guidé la création du cours en ligne ouvert à tous (CLOT) La cybersécurité centrée sur l’humain: enjeux politiques, juridiques et comportementaux.
+- Conçu avec le soutien du Human-Centric Cybersecurity Partnership, de l’Observatoire international sur les impacts sociétaux de l’IA et du numérique, de la Chaire de recherche du Canada en cyberrésilience et du Conseil de recherches en sciences humaines du Canada, ce cours est proposé en format asynchrone sur six semaines, à raison de deux à trois heures par semaine.
+
+## [« Une cyberattaque, ce n'est pas une panne. C'est un braquage. » | Orange](https://www.orange.com/fr/whats-up/une-cyberattaque-ce-nest-pas-une-panne-cest-un-braquage)  
+*Source : orange.com | Publication : 2026-03-12*
+
+- Cookies disabled This website is using a security service to protect itself from online attacks.
+- The service requires full cookie support in order to view the website.
+- Please enable Cookies on your browser and try again.
+- Reference ID: 8b7afcc124939498baff1dd297d34e87.
+
+## [Un hacker a piraté, sans le savoir, le dossier du FBI sur Epstein, choqué par son contenu, il ... - BFM](https://www.bfmtv.com/tech/cybersecurite/un-hacker-a-pirate-sans-le-savoir-le-dossier-du-fbi-sur-epstein-choque-par-son-contenu-il-a-menace-de-denoncer-le-proprietaire-du-serveur-au-fbi-une-enquete-est-en-cours_AV-202603120794.html)  
+*Source : bfmtv.com | Publication : 2026-03-12*
+
+- Un hacker a piraté, sans le savoir, le dossier du FBI sur Epstein, choqué par son contenu, il a menacé de dénoncer le propriétaire du serveur… au FBI, une enquête est en cours Derrière les murs du bureau du FBI de New York, certaines des archives criminelles les plus sensibles des États-Unis s'accumulent.
+- Parmi elles, les dossiers liés à Jeffrey Epstein.
+- Ce lieu est censé être sécurisé.
+- Et pourtant.
+
+## [L'UdeS se démarque au plus grand exercice de cyberguerre d'Europe - Université de Sherbrooke](https://www.usherbrooke.ca/pole-cybersecurite/actualites/nouvelles/details/57810)  
+*Source : usherbrooke.ca | Publication : 2026-03-12*
+
+- L’UdeS se démarque au plus grand exercice de cyberguerre d’Europe Dans un contexte géopolitique marqué par des tensions internationales croissantes et une numérisation accélérée des infrastructures critiques, les cyberattaques occupent désormais une place centrale dans les stratégies de sécurité des États.
+- Réseaux énergétiques, systèmes financiers, transports, communications ou encore institutions démocratiques sont devenus des cibles potentielles dans des conflits qui se jouent désormais aussi dans l’espace numérique.
+- La cyberguerre ne se limite plus à des attaques informatiques isolées.
+- Elle combine aujourd’hui plusieurs dimensions : intrusions dans les systèmes informatiques, sabotage d’infrastructures numériques, vol d’informations stratégiques et opérations de désinformation visant à influencer l’opinion publique ou les processus démocratiques.
+
+## [Chiffre de mars 2026 : en 2025, nous avons reçu 17 millions de mails externes, tous ...](https://diplomatie.belgium.be/fr/politique/themes-politiques/sous-la-loupe/chiffre-de-mars-2026-en-2025-nous-avons-recu-17-millions-de-mails-externes-tous-soigneusement-controles)  
+*Source : diplomatie.belgium.be | Publication : 2026-03-12*
+
+- Dernière mise à jour le - - Sur les 17 millions de mails externes reçus en 2025, nous en avons placé 2 millions en quarantaine pour vérification et 1 million dans le courrier indésirable tandis que 14 millions se sont avérés sûrs.
+- Nous avons déjà mentionné le rôle essentiel de la direction ICT dans la prévention des cyberattaques, une responsabilité capitale.
+- L’année dernière, notre SPF a reçu pas moins de 17 millions de mails externes et tous ont été soigneusement passés au crible par nos systèmes.
+- À la suite de ces analyses : 2 millions ont été placés en quarantaine pour vérification ; - 1 million a été directement classé comme « courrier indésirable », une catégorie qui regroupe la publicité non désirée et les messages frauduleux ; - 14 millions se sont avérés « sûrs » et ont rejoint les boîtes de réception du personnel.
+
+## [Des hackers iraniens piratent une société américaine de la tech, Téhéran étend le conflit au ...](https://www.leparisien.fr/international/iran/des-hackers-iraniens-piratent-une-societe-americaine-de-la-tech-teheran-etend-le-conflit-au-monde-numerique-12-03-2026-LJDJJVRQQVHZTMAXLQYKWV3C4U.php)  
+*Source : leparisien.fr | Publication : 2026-03-12*
+
+- Des hackers iraniens piratent une société américaine de la tech, Téhéran étend le conflit au monde numérique Des milliers d’employés de l’entreprise américaine de technologies médicales Stryker ont découvert hier matin que leurs téléphones et ordinateurs professionnels étaient inutilisables, après une cyberattaque revendiquée par un groupe de pirates se disant proche de l’Iran.
+- Les bombardements et les attaques de drones ne sont plus les seuls fronts du conflit entre l’Iran, Israël et les États-Unis.
+- Depuis le début des frappes aériennes contre l’Iran fin février, une bataille parallèle s’intensifie dans le cyberespace, impliquant hackers, services de renseignement et campagnes numériques sophistiquées.
+- Le dernier épisode en date a touché l’entreprise américaine de technologies médicales Stryker.
+
+## [<b>Cybermenaces</b> 2025 : érosion des frontières et marée haute persistante - LeMagIT](https://www.lemagit.fr/actualites/366639998/Cybermenaces-2025-erosion-des-frontieres-et-maree-haute-persistante)  
+*Source : lemagit.fr | Publication : 2026-03-12*
+
+- NicoElNino - stock.adobe.com Cybermenaces 2025 : érosion des frontières et marée haute persistante L'année 2025 s'est soldée par un constat paradoxal : une baisse de 18 % du nombre de signalements, mais une stabilité préoccupante des incidents confirmés.
+- Et surtout des lignes qui se brouillent plus que jamais.
+- L'année 2025 se solde par un constat paradoxal : une baisse de 18 % du nombre de signalements, mais une stabilité préoccupante des incidents confirmés.
+- Un relâchement de la pression après les Jeux Olympiques de 2024 ?.
+
+## [Aston Martin F1 Case Study: AI-Powered Security - SentinelOne](https://www.sentinelone.com/fr/customers/aston-martin-f1/)  
+*Source : sentinelone.com | Publication : 2026-03-12*
+
+- The Need for Speed — On and Off the Track In Formula One racing, precision, speed, and foresight steer success — on the track, in the pit, and behind the scenes.
+- The same goals drive those who protect the Aston Martin Aramco Formula One™ Team against cybersecurity threats that could slow their well-oiled racing operation.
+- Data fuels it all — from the track to cars to the headquarters.
+- That’s why preserving availability ranks at the top of the priority list for the cybersecurity team.
+
+## [Cet ex n°2 de la DGSE nous parle des risques de la <b>cybersécurité</b>, avec @orange - Diverto](https://www.diverto.tv/plateformes/youtube/hugodecrypteactus/cet-ex-n-2-de-la-dgse-nous-parle-des-risques-de-la-cybersecurite-avec-orange)  
+*Source : diverto.tv | Publication : 2026-03-12*
+
+- HugoDécrypte - Actus du jour 12/03/2026 à 20:18 Publiée le 12 mars 2026 à 18h24 YouTube 3,69 M abonnés HugoDécrypte - Actus du jour 12/03/2026 à 20:18 HugoDécrypte - Actus du jour 12/03/2026 à 18:24 HugoDécrypte - Actus du jour 12/03/2026 à 11:33 HugoDécrypte - Actus du jour 11/03/2026 à 20:00 HugoDécrypte - Actus du jour 11/03/2026 à 15:25 HugoDécrypte - Actus du jour 10/03/2026 à 23:53 HugoDécrypte - Actus du jour 10/03/2026 à 20:00 HugoDécrypte - Actus du jour 10/03/2026 à 19:13 HugoDécrypte - Actus du jour 10/03/2026 à 15:33 HugoDécrypte - Actus du jour 10/03/2026 à 12:59 HugoDécrypte - Actus du jour 10/03/2026 à 11:54 HugoDécrypte - Actus du jour 10/03/2026 à 11:44 HugoDécrypte - Actus du jour 09/03/2026 à 20:14 HugoDécrypte - Actus du jour 09/03/2026 à 17:23 HugoDécrypte - Actus du jour 09/03/2026 à 13:42 HugoDécrypte - Actus du jour 09/03/2026 à 11:55 HugoDécrypte - Actus du jour 09/03/2026 à 11:55 HugoDécrypte - Actus du jour 07/03/2026 à 18:43 HugoDécrypte - Actus du jour 06/03/2026 à 19:59 HugoDécrypte - Actus du jour 05/03/2026 à 20:19.
+
+## [Le Groupe AVA6 (CIM Informatique) renforce sa présence dans la Loire et la Haute-Loire](https://www.lacommere43.fr/sport/item/80770-le-groupe-ava6-cim-informatique-renforce-sa-presence-dans-la-loire-et-la-haute-loire.html)  
+*Source : lacommere43.fr | Publication : 2026-03-12*
+
+- (Publi-reportage) AVA6 Loire / Haute-Loire (connu localement sous le nom CIM Informatique) poursuit sa dynamique de développement et renforce son ancrage territorial avec l’ouverture récente d’une nouvelle agence à Saint-Étienne, venant compléter ses implantations de Monistrol-sur-Loire et du Puy-en-Velay.
+- Spécialisée dans l’accompagnement informatique des entreprises et des collectivités, l’entreprise confirme ainsi sa volonté d’être au plus proche des acteurs économiques du territoire.
+- Dirigée localement par Romain Petit, l’agence accompagne depuis de nombreuses années les organisations dans la gestion, la sécurisation et l’évolution de leurs systèmes d’information.
+- Aujourd’hui, 32 collaborateurs répartis sur les trois sites permettent à AVA6 d’assurer réactivité et proximité au quotidien : 18 collaborateurs au Puy-en-Velay, 10 collaborateurs à Monistrol-sur-Loire, et 4 collaborateurs à Saint-Étienne.
+
+## [Riot sélectionnée dans le Top 100 Rising European Startups 2026 de VivaTech](https://www.globalsecuritymag.fr/riot-selectionnee-dans-le-top-100-rising-european-startups-2026-de-vivatech.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-03-12*
+
+- Riot sélectionnée dans le Top 100 Rising European Startups 2026 de VivaTech mars 2026 par LA REDACTION DE GS MAG La start-up française de cybersécurité Riot annonce sa sélection dans le Top 100 Rising European Startups 2026, dévoilé par VivaTech (communiqué de presse VivaTech).
+- Pour sa deuxième édition, ce classement met à l’honneur les jeunes entreprises européennes les plus prometteuses du moment.
+- La sélection a été réalisée par un jury composé de fonds de capital-risque internationaux de premier plan, parmi lesquels Accel, Eurazeo, HV Capital, Northzone et Partech, qui ont identifié les startups à fort potentiel de croissance et d’impact en Europe.
+- Fondée en 2020, Riot accompagne aujourd’hui plus de 2 000 entreprises et protège plus de 2 millions d’employés à travers le monde grâce à sa plateforme de sensibilisation à la cybersécurité.
+
+## [Orange. Argensol ouvre ses portes : mécanique, <b>cybersécurité</b>, chaudronnerie, mycrotechnique…](https://www.ledauphine.com/education/2026/03/12/argensol-ouvre-ses-portes-mecanique-cybersecurite-chaudronnerie-mycrotechnique)  
+*Source : ledauphine.com | Publication : 2026-03-12*
+
+- Orange Argensol ouvre ses portes : mécanique, cybersécurité, chaudronnerie, mycrotechnique… À ceux qui rêvent de mécanique, cybersécurité, chaudronnerie ou qui ont la passion des petites... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteLe Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Dauphiné Libéré, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant LDLABOWEB@ledauphine.com ou consulter les liens suivants : Protection des données, CGU du site et Contact.
+
+## [Thoughtworks Customer Story: Automating 80% of Security Alerts | SentinelOne](https://www.sentinelone.com/fr/customers/thoughtworks/)  
+*Source : sentinelone.com | Publication : 2026-03-12*
+
+- The Challenge: Securing Endpoints Globally For global technology consultancy Thoughtworks, endpoint security extends well beyond its own devices and data.
+- It’s also about safeguarding sensitive data and meeting compliance demands across its diverse base of enterprise clients.
+- Operating in 18 countries with more than 10,000 employees, Thoughtworks blends design, engineering, and AI expertise to bring innovation to clients in automotive, pharmaceutical, travel, logistics, government, the public sector, financial services, and more.
+- When reviewing their legacy endpoint protection, the CISO saw significant operational friction, elevated risk, and a heavy burden on the security team: Limited visibility into endpoint behavior and active threats - High alert volumes and manual triage - Insufficient automation to contain and remediate issues at scale - Unreliable and inconsistent detection - Lack of intuitive workflows and reporting for their global SOC - Real-Time Threat Monitoring and Rich Visibility Thoughtworks’ search led them to SentinelOne’s Singularity Platform for its strength in autonomous detection, behavioral analysis, and visibility across the company’s 10,000 endpoints.
+
+## [La F1, nouveau laboratoire mondial de la <b>cybersécurité</b> - Sport Stratégies](https://www.sportstrategies.com/la-f1-nouveau-laboratoire-mondial-de-la-cybersecurite/)  
+*Source : sportstrategies.com | Publication : 2026-03-12*
+
+- Alors que la Formule 1 vient de lancer sa saison 2026 à Melbourne, la cybersécurité s’impose comme un enjeu stratégique majeur pour les équipes.
+- Dans ce contexte, Keeper Security renforce son partenariat avec l’écurie Atlassian Williams en déployant une campagne mondiale qui met en avant un nouveau paradigme : la cybersécurité centrée sur l’identité.
+- - La F1, nouveau laboratoire mondial de la cybersécurité Alain Jouve - 12 mars 2026 - À la une Technologie Sécurité - Derrière l’image spectaculaire de la F1 se cache une réalité technologique de plus en plus complexe.
+- Chaque week-end de course, une écurie génère et exploite des volumes considérables de données : télémétrie en temps réel, modélisation aérodynamique, simulations stratégiques ou encore communications d’ingénierie.
+
+## [Un quart des smartphones Android menacés par une faille de sécurité critique - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/pres-d-un-quart-des-smartphones-android-menaces-par-une-faille-de-securite-critique-20260312)  
+*Source : lefigaro.fr | Publication : 2026-03-12*
+
+- Un quart des smartphones Android menacés par une faille de sécurité critique La brèche, découverte par les équipes de «hackers éthiques» de l’entreprise française de portefeuilles de cryptomonnaies Ledger, provient d’un modèle de puce auquel de nombreuses marques ont recours.
+- Passer la publicité Passer la publicitéLes appareils concernés se compteraient en millions.
+- Smartphones Samsung, Xiaomi, Oppo, ou encore téléviseurs Sony, Hisense ou Phillips : tous ces équipements sont potentiellement exposés à une faille de sécurité, susceptible de mettre en péril les données de leurs utilisateurs.
+- La brèche provient d’un modèle de puce conçu par la société taïwanaise MediaTek, auquel de nombreuses marques ont recours pour le fonctionnement de leur système.
+
+## [« Don't go to the police » : Un documentaire vidéo captivant sur la traque des cybercriminels ...](https://www.ouest-france.fr/bretagne/rennes-35000/dont-go-to-the-police-un-documentaire-video-sur-la-traque-des-cybercriminels-de-lockbit-c140db4e-1de1-11f1-b87e-6bbdedfb4d07)  
+*Source : ouest-france.fr | Publication : 2026-03-12*
+
+- À travers l'exemple de Lockbit, nous visons à sensibiliser le grand public sur les enjeux de la cybersécurité expliquent les auteurs du documentaire.
+
+## [«GhostPairing» : attention, cette technique évolue sur WhatsApp pour mieux aspirer vos données](https://www.cnews.fr/vie-numerique/2026-03-12/ghostpairing-attention-cette-technique-evolue-sur-whatsapp-pour-mieux)  
+*Source : cnews.fr | Publication : 2026-03-12*
+
+- WhatsApp est une nouvelle fois au cœur de l'actualité en matière de cybersécurité.
+- Selon l'éditeur Avast, une nouvelle arnaque circulerait sur.
+
+## [Amazon brandit le label allemand C5 pour crédibiliser son cloud “souverain” et avancer ses ...](https://www.usine-digitale.fr/informatique/cloud/amazon-brandit-le-label-allemand-c5-pour-credibiliser-son-cloud-souverain-et-avancer-ses-pions-sur-le-marche-europeen.NIOAN56NT5E6PNC3T6P6WP4GU4.html)  
+*Source : usine-digitale.fr | Publication : 2026-03-12*
+
+- La société vient d'annoncer l'obtention de plusieurs certifications, dont le label C5 de l'agence allemande de cybersécurité.
+- Alice Vitard.
+- Publié le.
+
+## [DORA, <b>Ransomware</b> étatique, IA malveillante et cryptographie post-quantique - 21News](https://www.21news.be/dora-ransomware-etatique-ia-malveillante-et-cryptographie-post-quantique-la-finance-europeenne-sort-de-sa-zone-de-confort/)  
+*Source : 21news.be | Publication : 2026-03-12*
+
+- DORA, Ransomware étatique, IA malveillante et cryptographie post-quantique : La finance européenne sort de sa zone de confort Le secteur financier européen affronterait simultanément quatre menaces d’une ampleur inédite.
+- "La réglementation DORA impose désormais une responsabilité personnelle aux dirigeants.
+- L’intelligence artificielle réécrit les règles de l’ingénierie sociale.
+- Le ransomware est devenu une arme d’État.
 
 ## [Des pirates informatiques liés à l'Iran revendiquent l'attaque contre le fabricant américain de ...](https://www.boursorama.com/bourse/actualites-amp/des-pirates-informatiques-lies-a-l-iran-revendiquent-l-attaque-contre-le-fabricant-americain-de-materiel-medical-stryker-dce6c39554512c01f697b87ceffd3b81)  
 *Source : boursorama.com | Publication : 2026-03-11*
