@@ -1,5 +1,154 @@
-# Résumés – 2026-03-12
+# Résumés – 2026-03-13
 
+
+## [IA: les Chinois en pincent pour le &quot;homard&quot; OpenClaw, malgré les risques - France 24](https://www.france24.com/fr/info-en-continu/20260313-ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgré-les-risques)  
+*Source : france24.com | Publication : 2026-03-13*
+
+- IA: les Chinois en pincent pour le "homard" OpenClaw, malgré les risques Pékin (AFP) – Entrepreneur chinois, Frank Gao passait des heures à gérer ses comptes sur les réseaux sociaux.
+- Mais c'est désormais son assistant OpenClaw, qui fonctionne à l'intelligence artificielle (IA), qui exécute les tâches à sa place.
+- Publié le : Modifié le : Cet agent IA autonome, créé en novembre par un programmeur autrichien, connaît un fulgurant succès en Chine auprès des jeunes, friands de nouvelles technologies - malgré les avertissements des autorités sur les risques en matière de cybersécurité.
+- OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles, telles que l'envoi d'e-mails, l'organisation de fichiers ou la réservation de billets d'avion.
+
+## [Toujours coupé d'Internet, l'Iran mène sa cyber guerre grâce à plusieurs groupes distincts et ...](https://www.bfmtv.com/tech/cybersecurite/toujours-coupe-d-internet-l-iran-mene-sa-cyber-guerre-grace-a-plusieurs-groupes-distincts-et-a-un-brouillard-numerique-epais-qui-masque-ses-faiblesses-eventuelles_AD-202603130642.html)  
+*Source : bfmtv.com | Publication : 2026-03-13*
+
+- Toujours coupé d’Internet, l’Iran mène sa cyber guerre grâce à plusieurs groupes distincts et à un "brouillard numérique" épais qui masque ses faiblesses éventuelles Depuis le déclenchement de la guerre entre les États-Unis, Israël et l'Iran, le front numérique s'est renforcé, avec de nombreuses cyberattaques revendiquées de la part d'acteurs iraniens, et des groupes moins visibles mais plus avancés.
+- Entreprises, infrastructures, caméras de vidéosurveillance: les revendications d'attaques en ligne se sont multipliées depuis fin février.
+- Très visible, le groupe de cyberattaquants Handala a ainsi annoncé jeudi avoir mis la main sur quelque 50.000 emails d'un chercheur israélien spécialiste de l'Iran.
+- La veille, le même acteur avait indiqué avoir visé deux entreprises américaines.
+
+## [Ethereum et <b>cybersécurité</b> : L'industrialisation des attaques par empoisonnement d'adresse](https://journalducoin.com/ethereum/ethereum-cybersecurite-empoisonnement-adresse/)  
+*Source : journalducoin.com | Publication : 2026-03-13*
+
+- Ethereum et cybersécurité : L’industrialisation des attaques par empoisonnement d’adresse Fausses adresses et vraies arnaques.
+- La sécurité des transactions sur la blockchain Ethereum fait face à un défi croissant avec la recrudescence des attaques par « empoisonnement d’adresse » (address poisoning).
+- Selon une analyse publiée par Etherscan le 13 mars, ce mécanisme malveillant connaît une mutation structurelle sous l’effet de l’automatisation.
+- Des utilisateurs rapportent désormais recevoir des dizaines de notifications d’alerte en quelques minutes après une simple transaction légitime.
+
+## [<b>Cybersécurité</b> : Parrot et SEALSQ misent sur le post-quantique pour protéger les drones](https://www.zdnet.fr/actualites/cybersecurite-parrot-et-sealsq-misent-sur-le-post-quantique-pour-proteger-les-drones-491815.htm)  
+*Source : zdnet.fr | Publication : 2026-03-13*
+
+- Le constructeur français de drone Parrot et la société SEALSQ annoncent passer à la cryptographie post-quantique (PQC).
+- L'objectif est de protéger les drones contre les futures capacités de déchiffrement des ordinateurs quantiques.
+- Une menace que les experts nomment déjà « harvest now, decrypt later » (collecter maintenant, déchiffrer plus tard).
+- L'idée est que les données puissent être piratées maintenant et être stockées en attendant l'arrivée des outils de décryptage quantiques.
+
+## [Les données intimes des utilisateurs de l'appli anti-addiction au porno, Quittr, divulguées](https://www.20minutes.fr/high-tech/4206065-20260313-cybersecurite-donnees-intimes-utilisateurs-appli-anti-addiction-porno-quittr-divulguees)  
+*Source : 20minutes.fr | Publication : 2026-03-13*
+
+- Cybersécurité : Les données intimes des utilisateurs de l’appli anti-addiction au porno, Quittr, divulguées RISQUE•D’après une récente enquête, les données intimes de plus de 600.000 utilisateurs de Quittr sont restées accessibles pendant plusieurs mois, tandis que le cofondateur de l’outil refusait de reconnaître le moindre problème20 Minutes avec agence Des données très personnelles.
+- L’application Quittr a fait parler d’elle ces derniers mois pour une promesse qui avait marqué les esprits : aider les hommes à stopper leur consommation de contenus pornographiques.
+- La plateforme a toutefois montré d’importantes faiblesses.
+- D’après une enquête publiée mardi par le site spécialisé 404 Media, une sérieuse faille de sécurité a rendu accessible les données de plus de 600.000 utilisateurs pendant plusieurs mois.
+
+## [Un malware probablement généré par IA découvert dans une attaque de <b>ransomware</b>](https://www.clubic.com/actualite-604510-un-malware-probablement-genere-par-ia-decouvert-dans-une-attaque-de-ransomware.html)  
+*Source : clubic.com | Publication : 2026-03-13*
+
+- Un groupe de cybercriminels a utilisé un malware vraisemblablement généré à l’aide d’un modèle de langage lors d’une attaque par ransomware.
+- Repéré par IBM X-Force, ce script PowerShell baptisé Slopoly a permis aux attaquants de conserver un accès au serveur compromis pendant plus d’une semaine.
+- Alors qu'ils analysaient une attaque par ransomware, les chercheurs d’IBM X-Force ont identifié un malware inédit présentant de fortes similarités avec du code généré par intelligence artificielle.
+- Baptisé Slopoly, ce script PowerShell aurait été utilisé par le groupe Hive0163 pour maintenir un accès persistant à un serveur compromis avant le déploiement du rançongiciel Interlock.
+
+## [Cyberhebdo du 13 mars 2026 : un fabricant chinois de bornes de recharge attaqué](https://www.lemagit.fr/actualites/366640312/Cyberhebdo-du-13-mars-2026-un-fabricant-chinois-de-bornes-de-recharge-attaque)  
+*Source : lemagit.fr | Publication : 2026-03-13*
+
+- Cyberhebdo du 13 mars 2026 : un fabricant chinois de bornes de recharge attaqué Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans cette nouvelle édition du Cyberhebdo, votre rendez-vous hebdomadaire consacré aux cyberattaques rapportées dans la presse internationale.
+- Au cours de la semaine écoulée, nous avons recensé pas moins de 10 cyberattaques relayées par les médias aux quatre coins du globe.
+- Cette semaine, l’actualité cyber a été particulièrement dense et géographiquement diverse, avec des incidents signalés dans pas moins de 8 pays différents : l’Allemagne (DEU), la Colombie (COL), le Canada (CAN), Porto Rico (PRI), les États-Unis (USA), l’Irlande (IE), la Pologne (POL) et la Chine (CHN).
+
+## [Entreprises américaines visées, piratage de caméras… Comment l'Iran mène aussi la ... - Le Parisien](https://www.leparisien.fr/international/iran/entreprises-americaines-visees-piratage-de-cameras-comment-liran-mene-aussi-la-guerre-sur-le-front-du-cyber-13-03-2026-ILCAFGY4NFDBPCAJG5AQ2FA5MU.php)  
+*Source : leparisien.fr | Publication : 2026-03-13*
+
+- Entreprises américaines visées, piratage de caméras… Comment l’Iran mène aussi la guerre sur le front du cyber Depuis le début de la guerre, Téhéran multiplie les opérations de cyber malveillance visant Israël mais aussi des entreprises américaines.
+- Le pays s’appuie sur un réseau de sous-traitants qui agit dans l’ombre pour déstabiliser ses adversaires mais aussi à des fins d’espionnage.
+- À des milliers de kilomètres de l’Iran, des employés du fournisseur américain d’équipements médicaux Stryker ont vu ce mercredi apparaître de logo du groupe pro iranien Handala sur leurs ordinateurs et téléphones portables liés à Microsoft.
+- Le groupe affirme également avoir piraté le spécialiste des paiements électroniques Verifone, sans que cela ne soit confirmé par l’entreprise.
+
+## [Norton s'installe dans ChatGPT pour analyser les messages frauduleux - La Tribune](https://www.latribune.fr/article/tech/73268314631505/norton-sinstalle-dans-chatgpt-pour-analyser-les-messages-frauduleux)  
+*Source : latribune.fr | Publication : 2026-03-13*
+
+- Norton s'installe dans ChatGPT pour analyser les messages frauduleux Ce contenu est réservé aux abonnés Les dernières campagnes de phishing peuvent désormais inclure l'IBAN et l'adresse personnelle de la victime, rendant les messages d'autant plus difficiles à détecter.
+- Montage La Tribune.
+
+## [<b>Cybersécurité</b> : actualités et stratégies pour DSI et RSSI - InformatiqueNews.fr](https://www.informatiquenews.fr/cybersecurite-actualites-dsi-rssi-109908)  
+*Source : informatiquenews.fr | Publication : 2026-03-13*
+
+- La cybersécurité au cœur de la stratégie des organisations françaises Face à une menace cyber en constante évolution, les directions des systèmes d’information (DSI) et les responsables de la sécurité des systèmes d’information (RSSI) doivent naviguer dans un environnement de plus en plus complexe.
+- Cyberattaques par ransomware, compromissions de la chaîne d’approvisionnement, menaces persistantes avancées (APT), exploitation de vulnérabilités zero-day : le niveau de cybermenace reste très élevé en France selon l’ANSSI, dans les entreprises comme dans le secteur public.
+- InformatiqueNews suit en temps réel l’actualité de la cybersécurité pour vous aider à prendre les meilleures décisions stratégiques et opérationnelles.
+- Notre rubrique Sécurité couvre l’ensemble des enjeux qui concernent les équipes IT et sécurité : gouvernance des risques, conformité réglementaire (NIS2, DORA, RGPD, Cyber Resilience Act), architectures Zero Trust, gestion des identités et des accès (IAM), détection et réponse aux incidents (EDR, XDR, SIEM, SOC), cyber-résilience et plan de reprise d’activité.
+
+## [Nomios lance un service de réponse à incident - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64593-nomios-lance-un-service-de-reponse-a-incident.html)  
+*Source : linformaticien.com | Publication : 2026-03-13*
+
+- Le spécialiste de la cybersécurité ajoute un service CSIRT (Computer Security Incident Response Team).
+- Cette nouvelle offre de service vient.
+
+## [Un million de box internet piratées : la France et les USA font tomber un immense réseau ... - Clubic](https://www.clubic.com/actualite-604441-un-million-de-box-internet-piratees-la-france-et-les-usa-font-tomber-un-immense-reseau-de-proxys-cybercriminels-du-web.html)  
+*Source : clubic.com | Publication : 2026-03-13*
+
+- Jeudi, le parquet de Paris a annoncé qu'une vaste opération judiciaire internationale a permis de mettre hors ligne SocksEscort, un service de proxy cybercriminel qui s'appuyait sur un million de box internet infectées dans le monde entier.
+- Les autorités judiciaires française, américaine et néerlandaise ont annoncé, jeudi, avoir coordonné une opération d'envergure contre SocksEscort, l'un des plus grands réseaux de proxys cybercriminels jamais démantelés.
+- L'action, qui a eu lieu la veille, le mercredi 11 mars 2026, a mis fin à un service derrière lequel se cachait le malware AVRecon, qui infectait en silence des modems de particuliers depuis 2019.
+- 23 serveurs ont été saisis, ainsi que 5 millions d'euros détournés.
+
+## [<b>Cybersécurité</b>. Pourquoi la CAN 2025 a été plus ciblée par les hacktivistes que les Jeux de Paris](https://medias24.com/2026/03/13/cybersecurite-pourquoi-la-can-2025-a-ete-plus-ciblee-par-les-hacktivistes-que-les-jeux-de-paris-1642725/)  
+*Source : medias24.com | Publication : 2026-03-13*
+
+- Sollicitée par Médias24, la société mondiale de cybersécurité Kaspersky, qui a appuyé le projet, détaille les dessous techniques de cette.
+
+## [<b>Cybermenaces</b> pilotées par l'IA : quelle stratégie de défense ? - Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-cybermenaces-pilotees-par-l-ia-quelle-strategie-de-defense-99592.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-03-13*
+
+- En un an, l'intelligence artificielle est passée de la dixième à la deuxième place mondiale des risques pour les entreprises.
+- Une progression spectaculaire qui traduit la prise de conscience d'une menace qui change de nature : l'IA n'invente pas de nouvelles attaques, elle les industrialise à une échelle inédite.
+- Nous entendons souvent que « l'IA va tout changer » en cybersécurité.
+- C'est vrai, mais pas de la manière spectaculaire que nous imaginons.
+
+## [PARIS : Jérôme BEAUFILS : « La <b>cybersécurité</b> doit devenir un levier stratégique, pas une ...](https://presseagence.fr/paris-jerome-beaufils-la-cybersecurite-doit-devenir-un-levier-strategique-pas-une-contrainte-technique/)  
+*Source : presseagence.fr | Publication : 2026-03-13*
+
+- PARIS : Jérôme BEAUFILS : « La cybersécurité doit devenir u… Partager : PARIS : Jérôme BEAUFILS : « La cybersécurité doit devenir un levier stratégique, pas une contrainte technique » L’expert en cybersécurité SASETY annonce une croissance de 25% en 2025 et place la protection des identités au cœur de sa nouvelle stratégie.
+- L’entreprise de services du numérique (ESN) SASETY, spécialiste européen des services SASE et de la cybersécurité managée, a annoncé ce jeudi une nouvelle accélération de sa croissance pour l’année 2025.
+- Après une forte expansion en 2024, la société confirme ses excellents résultats avec une augmentation de 25 % de son chiffre d’affaires et un carnet de commandes qui s’élève à plus de 18 millions d’euros.
+- Cette performance s’accompagne d’un repositionnement stratégique majeur centré sur la protection des identités, affirmant son ambition de devenir un acteur de référence de la cybersécurité intégrée.
+
+## [Les données intimes des utilisateurs de l'appli anti-addiction au porno, Quittr, divulguées](https://fr.news.yahoo.com/cybersécurité-données-intimes-utilisateurs-l-153340580.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-03-13*
+
+- Cybersécurité : Les données intimes des utilisateurs de l’appli anti-addiction au porno, Quittr, divulguées RISQUE - D’après une récente enquête, les données intimes de plus de 600.000 utilisateurs de Quittr sont restées accessibles pendant plusieurs mois, tandis que le cofondateur de l’outil refusait de reconnaître le moindre problème Des données très personnelles.
+- L’application Quittr a fait parler d’elle ces derniers mois pour une promesse qui avait marqué les esprits : aider les hommes à stopper leur consommation de contenus pornographiques.
+- La plateforme a toutefois montré d’importantes faiblesses.
+- D’après une enquête publiée mardi par le site spécialisé 404 Media, une sérieuse faille de sécurité a rendu accessible les données de plus de 600.000 utilisateurs pendant plusieurs mois.
+
+## [Arrow et NXP structurent une offre autour du Cyber Resilience Act - ITforBusiness.fr](https://www.itforbusiness.fr/arrow-et-nxp-structurent-une-offre-autour-du-cra-101380)  
+*Source : itforbusiness.fr | Publication : 2026-03-13*
+
+- ChannelScope Arrow et NXP structurent une offre autour du Cyber Resilience Act Par Frédéric Bergonzoli, publié le 13 mars 2026 Pour anticiper les exigences du Cyber Resilience Act, Arrow Electronics et NXP Semiconductors présentent une approche combinant analyse de risque, conception sécurisée et provisionnement.
+- Le Cyber Resilience Act (CRA) pousse les industriels de l’électronique et de l’IoT à penser aux enjeux de la cybersécurité bien en amont des cycles de développement.
+- C’est sur ce terrain qu’Arrow associe les compétences d’ingénierie de sa filiale eInfochips à l’expertise de NXP en matière de semi-conducteurs et de sécurité.
+- Dans une approche secure-by-design, les deux partenaires proposent un processus couvrant le cycle de vie des produits, de l’évaluation des risques en amont à la mise en place sécurisée des solutions.
+
+## [SEO Poisoning - Mon site se fait attaquer depuis un an - Korben](https://korben.info/seo-poisoning-temoignage.html)  
+*Source : korben.info | Publication : 2026-03-13*
+
+- Les métiers de la Cybersécurité et de l'Intelligence Artificielle.
+- Guardia School · Ingénieur cybersécurité · Pentester · Hacker éthique · Analyste.
+
+## [Analyses Complémentaires de la Campagne MIMICRAT ClickFix - Stormshield](https://www.stormshield.com/fr/actus/investigations-campagne-mimicrat-clickfix/)  
+*Source : stormshield.com | Publication : 2026-03-13*
+
+- Introduction L'équipe de Elastic Security Labs a récemment publié un excellent article à propos d'une campagne de type "ClickFix", c'est-à-dire une incitation des victimes à exécuter par elles-mêmes des actions malveillantes via un copier-coller.
+- Cela permet aux attaquants de délivrer un RAT intitulé MIMICRAT, via plusieurs sites légitimes préalablement compromis.
+- L'équipe Stormshield Customer Security Lab a constaté que la campagne était encore en cours, et même en pleine évolution.
+- L'occasion de mener des investigations supplémentaires, en date du 03 mars 2026.
+
+## [Le poids lourd de la <b>cybersécurité</b>, Crowdstrike, a fait part de solides résultats annuels, mais ...](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/le-poids-lourd-de-la-cybersecurite-crowdstrike-a-fait-part-de-solides-resultats-annuels-mais-de-previsions-a-peine-en-ligne-avec-le-consensus-pour-2026-2220920)  
+*Source : investir.lesechos.fr | Publication : 2026-03-13*
+
+- Certains d'entre eux, au contraire, jugent même l'essor de l'intelligence artificielle (IA) porteur pour les grands noms de la cybersécurité.
+- « L'.
 
 ## [SentinelOne chute après que l'entreprise de <b>cybersécurité</b> a annoncé un bénéfice inférieur ...](https://www.boursorama.com/bourse/actualites/sentinelone-chute-apres-que-l-entreprise-de-cybersecurite-a-annonce-un-benefice-inferieur-a-ses-estimations-pour-le-premier-trimestre-475af5a48a584697704bdc48185be712)  
 *Source : boursorama.com | Publication : 2026-03-12*
