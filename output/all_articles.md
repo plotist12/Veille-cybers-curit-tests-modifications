@@ -1,5 +1,151 @@
-# Résumés – 2026-03-13
+# Résumés – 2026-03-14
 
+
+## [La <b>cybersécurité</b> au Vietnam s'est considérablement améliorée.](https://www.vietnam.vn/fr/an-ninh-mang-viet-nam-cai-thien-tich-cuc)  
+*Source : vietnam.vn | Publication : 2026-03-14*
+
+- Avec ce taux, le Vietnam se classe au 78e rang mondial en termes d'exposition aux risques de cybersécurité, soit une augmentation de 2 places par rapport à sa 80e position en 2024.
+- En Asie du Sud-Est, l'exposition aux menaces en ligne varie considérablement d'un pays à l'autre.
+- Les Philippines enregistrent le taux le plus élevé, avec 32,9 % d'utilisateurs touchés, se classant ainsi au 6e rang mondial.
+- La Malaisie suit avec 26,7 %, occupant la 42e place.
+
+## [Pourquoi Alphabet débourse 32 milliards de dollars pour la startup Wiz - Xpert.Digital](https://xpert.digital/fr/marche-du-cloud/)  
+*Source : xpert.digital | Publication : 2026-03-14*
+
+- La guerre secrète dans les nuages ​​: comment une start-up israélienne spécialisée dans la cybersécurité bouleverse l'équilibre des pouvoirs.
+- Il s'.
+
+## [Le Canada ciblé dans la cyberguerre que livre l'Iran - TVA Nouvelles](https://www.tvanouvelles.ca/2026/03/14/le-canada-cible-dans-la-cyberguerre-que-livre-liran)  
+*Source : tvanouvelles.ca | Publication : 2026-03-14*
+
+- Dès la première frappe des États-Unis et d’Israël sur l’Iran le 28 février, une soixantaine de groupes de pirates informatiques favorables au régime des Ayatollahs se sont rassemblés sur Telegram pour répliquer.
+- Et le Canada est une de leurs cibles.
+- Le Centre canadien pour la cybersécurité a rapidement émis une alerte.
+- « Les exploitants d’infrastructures essentielles canadiennes et les autres entités possiblement ciblées devraient faire preuve de vigilance », prévenait-il le 2 mars.
+
+## [Sophia accueille le Cyber Founder Tour | Sophianet](https://www.sophianet.com/article/sophia-cyber-founder-tour)  
+*Source : sophianet.com | Publication : 2026-03-14*
+
+- Le Cyber Founder Tour passe par Sophia Antipolis.
+- Organisée dans différentes régions, cette journée évènementielle itinérantes dédiée à la création de startups technologiques en cybersécurité, se tiendra le 9 avril à Alpha Sophia Antipolis.
+- Elle vise à stimuler la création de startups technologiques dans ce secteur.
+- Pour cet arrêt Sophia, le Programme de Transfert aux Campus Cyber et Cyber Booster qui portent le dispositif au niveau national se sont associés aux grands acteurs locaux de l'écosytème : PUI Med'Innov, Campus Cyber Région Sud, CASA, Inria et Eurecom.
+
+## [Victime d'une cyberattaque, un hôpital ardéchois fait lourdement condamner son ancien ... - Clubic](https://www.clubic.com/actualite-604642-victime-d-une-cyberattaque-un-hopital-ardechois-fait-lourdement-condamner-son-ancien-prestataire-it-7-ans-apres.html)  
+*Source : clubic.com | Publication : 2026-03-14*
+
+- [INFO Clubic] Un hôpital privé d'Ardèche, victime d'un ransomware en 2018, a découvert que ses sauvegardes informatiques n'ont jamais fonctionné.
+- Son prestataire de maintenance vient d'être condamné en justice, des années après.
+- En septembre 2018, l'hôpital privé de Saint-Agrève, dans le département de l'Ardèche, découvrait que ses fichiers de comptabilité et de paie avaient été chiffrés par une cyberattaque de type ransomware (rançongiciel), comme tant d'autres.
+- En cherchant à récupérer les données à l'aide des sauvegardes, l'établissement apprend que celles-ci n'ont jamais fonctionné, sans que personne ne l'ait jamais signalé.
+
+## [L'ANCy forme des centaines d'experts avec l'appui de l'UE et de la GIZ](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/l-ancy-forme-des-centaines-d-experts-avec-l-appui-de-l-ue-et-de-la-giz)  
+*Source : republicoftogo.com | Publication : 2026-03-14*
+
+- L'ANCy forme des centaines d'experts avec l'appui de l'UE et de la GIZ Une délégation composée d'Arouna Roshanian (Union européenne) et de Bettina Maier (GIZ, Coopération allemande) a rencontré vendredi à Lomé les bénéficiaires du programme national de formation certifiante en cybersécurité, lancé par l'Agence Nationale de la Cybersécurité (ANCy) sous l'égide du ministère de la Transformation numérique.
+- Une délégation composée d'Arouna Roshanian (Union européenne) et de Bettina Maier (GIZ, Coopération allemande) a rencontré vendredi à Lomé les bénéficiaires du programme national de formation certifiante en cybersécurité, lancé par l'Agence Nationale de la Cybersécurité (ANCy) sous l'égide du ministère de la Transformation numérique.
+- Cette visite d'évaluation intervient dans un contexte préoccupant : comme partout dans le monde, le Togo fait face à une multiplication des cyberattaques visant les sites officiels, les entreprises et les particuliers.
+- La cybersécurité est désormais un enjeu de souveraineté nationale, et la formation de ressources humaines qualifiées, une priorité stratégique.
+
+## [Alerte chez Asus : un botnet a piraté 14 000 routeurs - 01net.com](https://www.01net.com/actualites/alerte-routeurs-asus-botnet-pirate-14-000-appareils.html)  
+*Source : 01net.com | Publication : 2026-03-14*
+
+- Fin de l’été dernier, un nouveau botnet a fait son apparition : KadNap.
+- Identifié par les chercheurs de Black Lotus Labs, le botnet vise essentiellement les routeurs et équipements réseau exposés sur Internet.
+- Bien vite, le réseau d’appareils sous la coupe de KadNap a pris de l’ampleur.
+- Entre août 2025 et le début de l’année 2026, le malware est parvenu à infecter environ 14 000 appareils.
+
+## [Crypto et <b>cybercriminalité</b> : Démantèlement du service de proxy SocksEscort par Europol](https://journalducoin.com/actualites/crypto-cybercriminalite-socksescort-europol/)  
+*Source : journalducoin.com | Publication : 2026-03-14*
+
+- Crypto et cybercriminalité : Démantèlement du service de proxy SocksEscort par Europol Crypto-criminalité.
+- Le 11 mars dernier, une opération internationale coordonnée par Europol, baptisée « Operation Lightning », a permis de neutraliser SocksEscort, un service de proxy malveillant d’envergure mondiale.
+- Cette action conjointe a réuni les forces de l’ordre de plusieurs pays, notamment la France, les Pays-Bas, l’Autriche et les États-Unis.
+- L’infrastructure visée reposait sur le détournement de plus de 369 000 routeurs résidentiels et objets connectés répartis dans 163 pays.
+
+## [Cette application anti-porno a laissé fuiter les secrets inavouables de ses utilisateurs - 01net.com](https://www.01net.com/actualites/cette-application-anti-porno-a-laisse-fuiter-les-secrets-inavouables-de-ses-utilisateurs.html)  
+*Source : 01net.com | Publication : 2026-03-14*
+
+- L’idée a de quoi surprendre.
+- Pour une trentaine de dollars par an, deux jeunes entrepreneurs d’une vingtaine d’années proposent de sevrer leurs abonnés des contenus pour adultes en utilisant la culpabilité.
+- Le concept repose majoritairement sur un bouton d’urgence numérique.
+- En cas de tentation, l’utilisateur presse l’écran et déclenche l’appareil photo frontal de son téléphone.
+
+## [Guerre au Moyen-Orient : influenceur, touriste, marin, employée de maison… 45 personnes ...](https://www.lindependant.fr/2026/03/13/guerre-au-moyen-orient-influenceur-touriste-marin-employee-de-maison-45-personnes-arretees-aux-emirats-arabes-unis-pour-diffusion-dinformations-13271260.php)  
+*Source : lindependant.fr | Publication : 2026-03-14*
+
+- Guerre au Moyen-Orient : influenceur, touriste, marin, employée de maison… 45 personnes arrêtées aux Émirats arabes unis pour diffusion d'"informations trompeuses" sur les réseaux sociaux Quarante-cinq personnes ont été interpellées aux Émirats arabes unis en raison de publications sur les réseaux sociaux, en lien avec la guerre qui fait rage au Moyen-Orient.
+- Des étrangers en font partie.
+- Détails.
+- La police d’Abou Dhabi, capitale des Émirats arabes unis, a annoncé dans la soirée de vendredi 13 mars avoir arrêté 45 personnes, dont des étrangers, pour "diffusion d’informations trompeuses, enregistrement et partage de vidéos", alors que l’Iran poursuit ses frappes dans le Golfe.
+
+## [Black-out et réseaux sociaux maison : plongée au coeur de l'Internet russe de Vladimir Poutine](https://www.lesechos.fr/tech-medias/hightech/black-out-et-reseaux-sociaux-maison-plongee-au-coeur-de-linternet-russe-de-vladimir-poutine-2220955)  
+*Source : lesechos.fr | Publication : 2026-03-14*
+
+- Les coupures d'Internet se multiplient en Russie, officiellement pour contrer les cybermenaces.
+- Le Kremlin mise aussi sur des plateformes.
+
+## [Que risquent les personnes arrêtées pour avoir filmé les attaques iraniennes sur Dubaï?](https://www.slate.fr/monde/arrestations-personnes-dubai-emirats-attaques-iraniennes-film-photo-drones-prison-influenceurs-touristes-emirats)  
+*Source : slate.fr | Publication : 2026-03-14*
+
+- Temps de lecture: 2 minutes - Repéré sur BBC , The Independent On peut sans nul doute affirmer que ce touriste britannique qui était parti chercher le soleil de Dubaï pendant l'hiver n'a pas choisi le meilleur des moments.
+- Ses vacances déjà mal embarquées au vu des attaques iraniennes sur la première ville des Émirats arabes unis ont viré au cauchemar.
+- Pourquoi?.
+- Parce qu'il a sorti son téléphone pour filmer les missiles iraniens en pleine action.
+
+## [Le Conseil de <b>cybersécurité</b> met en garde contre une menace croissante de « wiper malware](https://www.wam.ae/fr/article/bz6nemy-conseil-cybersécurité-met-garde-contre-une-menace)  
+*Source : wam.ae | Publication : 2026-03-14*
+
+- Le Conseil de cybersécurité des Émirats arabes unis (CSC) a mis en garde contre la menace croissante posée par les « malwares wiper », qui peuvent.
+
+## [Le Canada ciblé dans la cyberguerre que livre l'Iran | JDM - Le Journal de Montréal](https://www.journaldemontreal.com/2026/03/14/le-canada-cible-dans-la-cyberguerre-que-livre-liran)  
+*Source : journaldemontreal.com | Publication : 2026-03-14*
+
+- Le Canada ciblé dans la cyberguerre que livre l’Iran Les pirates iraniens peuvent perturber, saboter et détruire des infrastructures critiques Dès la première frappe des États-Unis et d’Israël sur l’Iran le 28 février, une soixantaine de groupes de pirates informatiques favorables au régime des Ayatollahs se sont rassemblés sur Telegram pour répliquer.
+- Et le Canada est une de leurs cibles.
+- Le Centre canadien pour la cybersécurité a rapidement émis une alerte.
+- « Les exploitants d’infrastructures essentielles canadiennes et les autres entités possiblement ciblées devraient faire preuve de vigilance », prévenait-il le 2 mars.
+
+## [Réseaux sociaux, famille, biométrie : Les nouvelles données que Washington pourrait ...](https://www.usine-digitale.fr/cybersecurite/data-protection/collecte-de-donnees/reseaux-sociaux-famille-biometrie-les-nouvelles-donnees-que-washington-pourrait-exiger-des-voyageurs-europeens.GZPZE2GYBVCXTD7PLL2TIF5AMQ.html)  
+*Source : usine-digitale.fr | Publication : 2026-03-14*
+
+- Cybersécurité : La plateforme de phishing-as-a-service Tycoon2FA démantelée par Europol lors d'une opération internationale.
+- Newsletter L'Usine.
+
+## [REX : un repositionnement stratégique au cœur des opérations de sécurité européennes](https://www.solutions-numeriques.com/rex-un-repositionnement-strategique-au-coeur-des-operations-de-securite-europeennes/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-14*
+
+- L’éditeur Logpoint devient guardsix.
+- Derrière ce changement de nom se dessine une évolution plus profonde, façonnée par les attentes des organisations européennes en matière de souveraineté, de conformité et d’opérations de sécurité.
+- Un repositionnement qui s’appuie sur les retours du terrain et sur la transformation des SOC sous l’effet des nouvelles exigences réglementaires.
+- Un repositionnement dicté par l’évolution du marché européen Le changement de nom de Logpoint en guardsix s’inscrit dans une transformation stratégique engagée depuis plusieurs mois.
+
+## [Fin du chiffrement sur Instagram : vos DM ne seront plus jamais privés - <b>Cyber-Sécurité</b>](https://www.thesiteoueb.net/actualite/amp-article-9450-fin-du-chiffrement-sur-instagram-vos-dm-ne-seront-plus-jamais-prives.html)  
+*Source : thesiteoueb.net | Publication : 2026-03-14*
+
+- Les messages chiffrés de bout en bout sur Instagram ne seront plus pris en charge à compter du 8 mai 2026.
+- Si ce changement impacte certaines de vos conversations, des instructions dans la discussion vous indiqueront comment télécharger tous les contenus multimédias ou messages que vous pourriez vouloir garder.
+- Si vous utilisez une ancienne version d’Instagram, vous devrez peut-être également mettre à jour l’application avant de pouvoir télécharger les discussions en question.
+- Page aide Instagram.
+
+## [<b>Cybersécurité</b> : un jeu sur les enjeux - L'Ami hebdo](https://www.ami-hebdo.com/cybersecurite-un-jeu-sur-les-enjeux/)  
+*Source : ami-hebdo.com | Publication : 2026-03-14*
+
+- Haut-Rhin Cybersécurité : un jeu sur les enjeux Des acteurs du monde économique ont suivi une demi-journée de sensibilisation sur les risques de piratage informatique dans les entreprises.
+- Organisé par le groupement de gendarmerie du Haut-Rhin, l’évènement a réuni 350 participants autour d’un jeu immersif.
+
+## [Intuitive Surgical révèle un incident de <b>cybersécurité</b> - Zonebourse](https://www.zonebourse.com/actualite-bourse/intuitive-surgical-revele-un-incident-de-cybersecurite-ce7e5fd3dd8bf025)  
+*Source : zonebourse.com | Publication : 2026-03-14*
+
+- Intuitive Surgical révèle un incident de cybersécuritéIntuitive Surgical a déclaré vendredi que des données provenant de certaines applications informatiques de gestion internes ont été consultées par un tiers non autorisé lors d'un incident.
+
+## [InfoNews Hebdo 26#11 : Copilot Cowork, Office EU, ANSSI... - InformatiqueNews.fr](https://www.informatiquenews.fr/infonews-hebdo-202612-copilot-cowork-ms-365-e7-office-eu-zoom-agentique-post-vmware-yann-lecun-anssi-109897)  
+*Source : informatiquenews.fr | Publication : 2026-03-14*
+
+- Copilot Cowork, Office EU, l’IA agentique de Zoom, l’après-VMware, la levée record de Yann LeCun et un niveau de cybermenace toujours très élevé selon l’ANSSI : cette semaine, InfoNews Hebdo explore une actualité où souveraineté, infrastructure, IA et cybersécurité se télescopent… Bienvenue dans ce nouveau numéro d’InfoNews Hebdo, votre rendez-vous hebdomadaire avec l’actualité informatique et telecom.
+- Guy Hervier et Jean-François Le Nilias reviennent cette semaine sur une actualité dominée par l’irruption très concrète de l’IA agentique dans les outils du quotidien.
+- Microsoft pousse Copilot Cowork au cœur de Microsoft 365, Zoom transforme la réunion en chaîne d’actions, tandis qu’Office EU tente de faire émerger une alternative européenne crédible sur le terrain du collaboratif et de la bureautique.
+- Mais comme le démontre l’arrivée du plan E7 de Microsoft 365, l’IA agentique va avoir un coût élevé ce qui remet en premier plan la problématique du ROI de l’IA.
 
 ## [IA: les Chinois en pincent pour le &quot;homard&quot; OpenClaw, malgré les risques - France 24](https://www.france24.com/fr/info-en-continu/20260313-ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgré-les-risques)  
 *Source : france24.com | Publication : 2026-03-13*
