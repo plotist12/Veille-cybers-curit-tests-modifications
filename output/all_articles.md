@@ -1,5 +1,156 @@
-# Résumés – 2026-03-14
+# Résumés – 2026-03-15
 
+
+## [Duel entre Orange et Wana pour qui protégera la DGI des attaques DDoS - Le Desk](http://ledesk.ma/enoff/duel-entre-orange-et-wana-pour-qui-protegera-la-dgi-des-attaques-ddos/)  
+*Source : ledesk.ma | Publication : 2026-03-15*
+
+- Cybersécurité Duel entre Orange et Wana pour qui protégera la DGI des attaques DDoS Le siège de la Direction générale des impôts (DGI) à Rabat.
+- Crédit : DR La Direction générale des impôts (DGI) ambitionne de mieux s'équiper pour parer aux attaques DDoS.
+- Deux opérateurs de téléphonie sont intéressés par ce marché, apprend Le Desk.
+- Abonnez-vous pour continuer la lecture à partir de 40 dh par mois (facturé annuellement) Choisir une offreLe Desk a été le premier à révéler Choisir une offre Déjà abonné ?.
+
+## [<b>Cybermenaces</b> 2025 : érosion des frontières et marée haute persistante - LeMagIT](https://www.lemagit.fr/dessin/Cybermenaces-2025-erosion-des-frontieres-et-maree-haute-persistante)  
+*Source : lemagit.fr | Publication : 2026-03-15*
+
+- Cybermenaces 2025 : érosion des frontières et marée haute persistante L’année 2025 s’est soldée par un constat paradoxal : une baisse de 18 % du nombre de signalements, mais une stabilité préoccupante des incidents confirmés.
+- Et surtout des lignes qui se brouillent plus que jamais.
+- > Lire l’article de Valéry Rieß-Marchive.
+
+## [<b>Cybersécurité</b> : les 11 actualités majeures du 15 mars 2026](https://dcod.ch/2026/03/15/cybersecurite-les-11-actualites-majeures-du-15-mars-2026/)  
+*Source : dcod.ch | Publication : 2026-03-15*
+
+- Faits marquants de la semaine En Pologne, une attaque informatique récemment tentée contre les serveurs du Centre national de recherche nucléaire a été déjouée ; les premières analyses évoquent une possible origine iranienne, sans exclure une fausse piste technique.
+- - Les autorités iraniennes auraient publié, via un média d’État cité par une chaîne internationale, une liste d’environ 30 sites d’Amazon, Google, IBM, Microsoft, Nvidia, Oracle et Palantir considérés comme cibles légitimes de représailles.
+- - Meta prévoit d’interrompre la prise en charge du chiffrement de bout en bout pour les conversations Instagram après le 8 mai 2026, en invitant les utilisateurs concernés à télécharger leurs messages et contenus à conserver.
+- - Les autorités néerlandaises signalent une campagne de hameçonnage attribuée à des pirates soutenus par l’État russe visant Signal et WhatsApp, afin de détourner les comptes de responsables gouvernementaux, militaires et de journalistes pour accéder à des échanges sensibles.
+
+## [Prestataire de billetterie pour des musées, monuments et parcs de loisirs, Vivaticket victime ...](https://www.lanouvellerepublique.fr/vienne/commune/chasseneuil-du-poitou/prestataire-de-billetterie-pour-des-musees-monuments-et-parcs-de-loisirs-vivaticket-victime-d-une-cyberattaque-1773588253)  
+*Source : lanouvellerepublique.fr | Publication : 2026-03-15*
+
+- Prestataire de billetterie pour des musées, monuments et parcs de loisirs, Vivaticket victime d’une cyberattaque AbonnésCet article est réservé aux abonnés numériques.
+- AbonnésCet article est réservé aux abonnés numériques.
+- Le Centre des monuments nationaux (1), le château de Chambord, le Louvre-Lens… De nombreux musées, sites patrimoniaux et parcs de loisirs français ont signalé, lundi 2 mars 2026, que leur système de billetterie en ligne a été touché par un incident de cybersécurité.
+- Plus précisément, c’est leur prestataire qui a été victime d’une intrusion de type ransomware.
+
+## [Eure. Avec Bernard Lefebvre, les menaces informatiques ne sont plus qu'un lointain souvenir - Actu](https://actu.fr/normandie/thiberville_27629/eure-avec-bernard-lefebvre-les-menaces-informatiques-ne-sont-plus-quun-lointain-souvenir_63971264.html)  
+*Source : actu.fr | Publication : 2026-03-15*
+
+- « Dites adieu aux virus, au pistage et à la publicité, et sans prise de tête.
+- » C’est la promesse de Bernard Lefebvre, qui propose « une cybersécurité pointue et abordable » depuis ses bureaux situés à Thiberville.
+- Ses tarifs commencent à 490 €, tout compris car sans abonnement, avec son « offre spéciale entrepreneur ».
+- Une purge à distance d’un ordinateur personnel coûte de 15 à 30 €.
+
+## [Quand le GPS se trompe en mer : la guerre électronique menace les navires et leurs équipages](http://www.atlantico.fr/article/decryptage/quand-le-gps-se-trompe-en-mer-la-guerre-electronique-menace-les-navires-et-leurs-equipages)  
+*Source : atlantico.fr | Publication : 2026-03-15*
+
+- 15 mars 2026 Quand le GPS se trompe en mer : la guerre électronique menace les navires et leurs équipages Perturber ou falsifier les signaux GPS est devenu une arme discrète mais redoutable en mer.
+- Dans les zones de tensions géopolitiques, ces interférences peuvent désorienter les navires, provoquer échouements ou collisions et mettre en danger les équipages et le commerce mondial.
+- 6 min de lecture 0:00min 100% 100%.
+- Anna Raymaker est doctorante en génie électrique et informatique au sein du Georgia Institute of Technology.
+
+## [Cartes grises : la Cour des comptes flingue leur dématérialisation, qui pour elle a fait ... - Clubic](https://www.clubic.com/actualite-604684-cartes-grises-la-cour-des-comptes-flingue-leur-dematerialisation-qui-pour-elle-a-fait-exploser-la-fraude.html)  
+*Source : clubic.com | Publication : 2026-03-15*
+
+- En automatisant intégralement la délivrance des cartes grises en 2017, l'État a ouvert, sans vraiment le voir venir, une autoroute à la fraude.
+- La Cour des comptes a publié un rapport plutôt sévère sur la question cette semaine.
+- En confiant la gestion des cartes grises à des milliers de professionnels privés sans vraiment les contrôler, l'État a involontairement créé un système facile à détourner.
+- Plus de trente types de fraude ont depuis été recensés, un million de véhicules échappent à tout contrôle, et le préjudice financier dépasse les 550 millions d'euros pour les seules années 2022-2024.
+
+## [<b>Cybersécurité</b> : l'assurance a besoin de recourir à la télématique pour évaluer les risques ...](https://www.argusdelassurance.com/assurance-dommages/risques-cyber/cybersecurite-lassurance-a-besoin-de-recourir-a-la-telematique-pour-evaluer-les-risques-en-temps-reel-tribune.BULP45C5RFFP3L3YS5GKLEURGY.html)  
+*Source : argusdelassurance.com | Publication : 2026-03-15*
+
+- L'assurance cyber devient incontournable au regard des multiple attaques contre les entreprises et les administrations.
+
+## [Victime d'arnaque aux cryptomonnaies, un Singapourien veut conjurer &quot;la honte&quot; : Actualités](https://actu.orange.fr/economie/victime-d-arnaque-aux-cryptomonnaies-un-singapourien-veut-conjurer-quot-la-honte-quot-CNT000002nRnFA.html)  
+*Source : actu.orange.fr | Publication : 2026-03-15*
+
+- Victime d'arnaque aux cryptomonnaies, un Singapourien veut conjurer "la honte" Mark Koh avait passé huit années à remplir son portefeuille de cryptomonnaies sans accroc, pensant être à l'abri des escrocs.
+- Raté.
+- Des arnaqueurs ont vidé l'intégralité de ses comptes pour une valeur de 120.000 dollars l'an dernier, le laissant avec un sentiment de "honte profonde".
+- Il a partagé en décembre son témoignage devenu viral sur les réseaux sociaux, projetant une lumière crue sur un secteur victime de fraudes de plus en plus sophistiquées.
+
+## [L'ambassade du Vietnam aux Émirats arabes unis conseille à la communauté vietnamienne ...](https://vietbao.vn/fr/dai-su-quan-viet-nam-tai-uae-khuyen-nghi-cong-dong-nguoi-viet-nang-cao-canh-giac-an-ninh-mang-586458.html)  
+*Source : vietbao.vn | Publication : 2026-03-15*
+
+- Selon les informations de l'ambassade, le Conseil de cybersécurité des Émirats arabes unis a mis en garde les particuliers et les organisations contre.
+
+## [Peut-on réellement détecter les visages générés par IA ? - Clubic](https://www.clubic.com/actualite-603847-peut-on-reellement-detecter-les-visages-generes-par-ia.html)  
+*Source : clubic.com | Publication : 2026-03-15*
+
+- Les modèles d'arnaques à base d'intelligence artificielle (IA) se démultiplient.
+- Or, malheureusement pour nous, ils fonctionnent plutôt bien.
+- Et pour cause, les meilleures IA ont des capacités redoutables à générer des visages plus familiers que nature.
+- Cela est également leur point faible.
+
+## [Journée des droits des consommateurs : les <b>cybermenaces</b> à surveiller - Panda Security](https://www.pandasecurity.com/fr/mediacenter/journee-des-droits-des-consommateurs-les-cybermenaces-a-surveiller/?amp=1)  
+*Source : pandasecurity.com | Publication : 2026-03-15*
+
+- À l’occasion de la Journée mondiale des droits des consommateurs, il est important de rappeler que la protection des consommateurs ne concerne plus seulement les produits ou les contrats : elle passe aussi par la sécurité numérique.
+- Aujourd’hui, une grande partie des achats, des démarches administratives et des échanges se fait en ligne.
+- Cette évolution offre de nombreux avantages, mais elle expose également les consommateurs à de nouvelles formes d’escroqueries.
+- Faux sites marchands, messages frauduleux, phishing ou arnaques sur les réseaux sociaux.
+
+## [Test du MacBook Neo : Mon principal doute avec l'ordinateur portable d'entrée de gamme ...](https://www.zdnet.fr/guide-achat/test-du-macbook-neo-mon-principal-doute-avec-lordinateur-portable-dentree-de-gamme-quasi-parfait-dapple-491847.htm)  
+*Source : zdnet.fr | Publication : 2026-03-15*
+
+- Lors de l'annonce du MacBook Neo, le nouvel ordinateur portable 13 pouces abordable équipé d'une puce d'iPhone, Apple a déclaré qu'il redéfinissait le concept même de MacBook.
+- Autrefois réputé pour ses performances et son exclusivité, le MacBook Pro dispose désormais d'une alternative bien plus accessible, à partir de 699 €.
+- Pourtant, les Mac n'ont pas toujours été perçus ainsi.
+- Les iMac emblématiques des années 2000 et les ordinateurs Macintosh qui les ont précédés, bien que pas bon marché, n'étaient pas associés à la même image de « technologie de luxe ».
+
+## [<b>Cybercriminalité</b> : même les petits indépendants sont exposés, deux entrepreneurs ...](https://www.dhnet.be/conso/consommation/2026/03/15/cybercriminalite-meme-les-petits-independants-sont-exposes-deux-entrepreneurs-temoignent-des-risques-je-ny-accordais-pas-beaucoup-dimportance-VTM4XNRVWFEKXHY7IUCT4RAU34/)  
+*Source : dhnet.be | Publication : 2026-03-15*
+
+- Cybercriminalité : même les petits indépendants sont exposés, deux entrepreneurs témoignent des risques, "je n'y accordais pas beaucoup d'importance" Cyberattaques, phishing ou vols de comptes : même les plus petites activités indépendantes ne sont plus à l'abri.
+- Face à ce risque croissant, des initiatives comme le Cyber Challenge, porté par le SNI, tentent de renforcer la prévention.
+- Publié le 15-03-2026 à 08h15 - Les cyberattaques ne visent plus uniquement les grandes entreprises.
+- Comme le rappelait notre précédent article, les PME et indépendants figurent désormais parmi les cibles privilégiées des cybercriminels, selon une enquête menée par le SNI.
+
+## [Vu d'Europe : quand nos casques audio se mettent à nous écouter - RTBF](https://www.rtbf.be/article/vu-d-europe-quand-nos-casques-audio-se-mettent-a-nous-ecouter-11693505)  
+*Source : rtbf.be | Publication : 2026-03-15*
+
+- Un exemple tiré de l’étude de l’Institut national de test pour la cybersécurité (NTC) montre à quel point une attaque peut être simple.
+- Imaginez l’exploitant d’une infrastructure critique en train de tenir une vidéoconférence confidentielle.
+- Le réseau est sécurisé, la connexion chiffrée, l’ordinateur portable protégé.
+- Pourtant, depuis le parking voisin, un hacker capte à l’aide d’une antenne la fréquence radio non-chiffrée du microphone sans fil posé sur la table de conférence et peut ainsi écouter toute la conversation.
+
+## [Numérique en santé : en Occitanie, les usages progressent malgré les défis de <b>cybersécurité</b>](https://www.ladepeche.fr/2026/03/15/numerique-en-sante-en-occitanie-les-usages-progressent-malgre-les-defis-de-cybersecurite-13261092.php)  
+*Source : ladepeche.fr | Publication : 2026-03-15*
+
+- Numérique en santé : en Occitanie, les usages progressent malgré les défis de cybersécurité l'essentiel Malgré les cyberattaques visant le secteur et les difficultés d’appropriation rencontrées par certains professionnels ou patients, les outils numériques s’installent progressivement dans les pratiques de santé en Occitanie.
+- Selon l’Agence régionale de santé (ARS), la région voit progresser les usages, notamment autour de "Mon espace santé", de la télésanté et des outils de coordination entre professionnels.
+- En Occitanie, le numérique en santé poursuit sa progression.
+- Dans un bilan publié fin février, l’Agence régionale de santé (ARS) d’Occitanie met, en effet, en avant une dynamique d’usage qui s’affirme progressivement, malgré les défis persistants, qu’il s’agisse des cybermenaces visant le secteur ou des difficultés d’appropriation rencontrées par certains professionnels et usagers.
+
+## [Cyberattaque massive : 14 000 routeurs ASUS infectés par le malware KadNap](https://www.mediaterranee.com/1462026-cyberattaque-massive-14-000-routeurs-asus-infectes-par-le-malware-kadnap.html)  
+*Source : mediaterranee.com | Publication : 2026-03-15*
+
+- Cyberattaque massive : 14 000 routeurs ASUS infectés par le malware KadNap Une cyberattaque d'envergure frappe depuis août 2025 les routeurs de marque ASUS, avec plus de 14 000 appareils infectés par le malware KadNap à travers le monde.
+- Ce logiciel malveillant hautement résistant transforme les routeurs en réseau proxy utilisé pour des activités cybercriminelles, et ne peut être éliminé par un simple redémarrage.
+- Découvert initialement en août 2025, le botnet KadNap a connu une expansion fulgurante pour atteindre aujourd'hui plus de 14 000 dispositifs infectés.
+- Selon les chercheurs en cybersécurité, plus de 60 % des victimes se situent aux États-Unis, le reste étant réparti notamment à Taïwan, Hong Kong, Russie, Royaume-Uni, Australie, Brésil, France, Italie et Espagne.
+
+## [Iran-Israël : SOCRadar cartographie la cyberguerre en temps réel - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/03/14/iran-israel-socradar-cartographie/)  
+*Source : dcod.ch | Publication : 2026-03-14*
+
+- TL;DR : L’essentiel SOCRadar propose un tableau de bord interactif pour suivre en temps réel les cyber-opérations liées au conflit Iran-Israël.
+- Cet outil analyse les activités des groupes étatiques et les cibles régionales prioritaires.
+- - Les opérations cyber étatiques visent désormais massivement la société civile, incluant les médias et organisations humanitaires, afin de compromettre la diffusion d’informations et de surveiller les acteurs internationaux engagés.
+- - Les réseaux de distribution d’eau et d’énergie deviennent des cibles stratégiques privilégiées.
+
+## [Côte d'Ivoire : Menaces en ligne contre une directrice d'établissement, un suspect interpellé ...](https://www.koaci.com/index.php/article/2026/03/14/cote-divoire/societe/cote-divoire-menaces-en-ligne-contre-une-directrice-detablissement-un-suspect-interpelle-par-les-services-de-lutte-contre-la-cybercriminalite_195094.html)  
+*Source : koaci.com | Publication : 2026-03-14*
+
+- Côte d'Ivoire : Menaces en ligne contre une directrice d'établissement, un suspect interpellé par les services de lutte contre la cybercriminalité Une affaire de menaces et d’injures diffusées par voie électronique a récemment conduit à l’interpellation d’un individu après qu’une responsable d’établissement éducatif a été la cible de messages particulièrement violents.
+- Ce dossier, traité par les services spécialisés dans la lutte contre la cybercriminalité, met en lumière les dérives auxquelles peuvent conduire les conflits personnels lorsqu’ils se déplacent sur les réseaux de communication numériques.
+- Les faits remontent à la période suivant les congés de Noël.
+- Dans le souci de renforcer la discipline au sein de la structure qu’elle dirige, Mme D.C.A.D avait décidé d’appliquer des sanctions à l’encontre de tout membre du personnel qui s’absenterait sans motif valable.
+
+## [Lancement de &quot;24Fintech&quot; en septembre avec la participation d'experts financiers ...](https://www.spa.gov.sa/fr/N2151081)  
+*Source : spa.gov.sa | Publication : 2026-03-14*
+
+- Les thèmes abordés incluent la gouvernance, la gestion des risques, les politiques, la cybersécurité et l'innovation des paiements.
+- Cet événement.
 
 ## [La <b>cybersécurité</b> au Vietnam s'est considérablement améliorée.](https://www.vietnam.vn/fr/an-ninh-mang-viet-nam-cai-thien-tich-cuc)  
 *Source : vietnam.vn | Publication : 2026-03-14*
