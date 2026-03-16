@@ -1,5 +1,153 @@
-# Résumés – 2026-03-15
+# Résumés – 2026-03-16
 
+
+## [Rançongiciel : une année 2025 qui interroge sur sa capacité à faire recette | LeMagIT](https://www.lemagit.fr/actualites/366640459/Rancongiciel-une-annee-2025-qui-interroge-sur-sa-capacite-a-faire-recette)  
+*Source : lemagit.fr | Publication : 2026-03-16*
+
+- InfiniteFlow-stock.adobe.com Rançongiciel : une année 2025 qui interroge sur sa capacité à faire recette 2025 fut une année paradoxale pour le ransomware : le nombre des attaques a atteint un niveau record, mais les paiements ont reculé.
+- Les organisations semblent devenues plus résilientes techniquement.
+- Le rançongiciel ne paie décidément plus autant qu’il l’eut fait.
+- Selon Coveware, le taux de paiement est tombé en dessous de 20 % au dernier trimestre 2025.
+
+## [Fidens met la <b>cybersécurité</b> au cœur des échanges à Cannes - ITRnews](https://itrnews.com/articles/209162/fidens-met-la-cybersecurite-au-coeur-des-echanges-a-cannes.html)  
+*Source : itrnews.com | Publication : 2026-03-16*
+
+- Veuillez activer Javascript.
+
+## [Une semaine dans le domaine de la sécurité (du 9 au 15 mars) - Malwarebytes](https://www.malwarebytes.com/fr/blog/bugs/2026/03/a-week-in-security-march-9-march-15)  
+*Source : malwarebytes.com | Publication : 2026-03-16*
+
+- La semaine dernière sur Malwarebytes Labs: Méfiez-vous des faux avis Malwarebytes dans votre calendrier - Google corrige deux Chrome actuellement exploitées.
+- Mettez-vous à jour dès maintenant - Des pirates se font passer pour Temu dans une arnaque à l'airdrop « ClickFix $Temu » - Apple corrige les failles du kit d'exploitation Coruna pour iOS anciennes iOS - Cette Android peut déverrouiller votre écran en moins de 60 secondes.
+- - Microsoft Authenticator pourrait divulguer des codes de connexion — mettez à jour votre application dès maintenant - Meta déploie des outils anti-arnaque sur WhatsApp, Facebook et Messenger - Les hameçonneurs dissimulent des liens frauduleux grâce à une astuce IPv6 dans des e-mails proposant des « brosses à dents gratuites ».
+- - Les e-mails de sextorsion « Je t'ai filmé » réutilisent les mots de passe trouvés dans les boîtes de réception jetables.
+
+## [Fidens met la <b>cybersécurité</b> au cœur des échanges à Cannes - ITchannel](https://itchannel.info/articles/209162/fidens-met-la-cybersecurite-au-coeur-des-echanges-a-cannes.html)  
+*Source : itchannel.info | Publication : 2026-03-16*
+
+- Veuillez activer Javascript.
+
+## [Thalès cherche 230 talents à Toulouse ! - ToulEmploi](https://www.toulemploi.fr/Thales-cherche-230-talents-a-Toulouse,50842)  
+*Source : toulemploi.fr | Publication : 2026-03-16*
+
+- Le chiffre donne le vertige : Thales a reçu 1,4 million de candidatures dans le monde en 2025.
+- Pour 2026, le groupe prévoit de recruter un peu plus de 9000 personnes, dont 3300 en France et 250 en Occitanie.
+- À Toulouse, où les activités civiles dominent dans l’aéronautique et spatial, environ 230 postes seront à pourvoir cette année.
+- Les besoins portent essentiellement sur quatre grandes familles : l’industrie (supply chain, qualité, logistique), l’ingénierie (systèmes, 5G, optique, logiciel...), les métiers de techniciens et les fonctions support, notamment autour du bid management.
+
+## [Gartner IAM Summit 2026: l'identité au cœur des systèmes numériques - ICTjournal](https://www.ictjournal.ch/news/2026-03-16/gartner-iam-summit-2026-lidentite-au-coeur-des-systemes-numeriques)  
+*Source : ictjournal.ch | Publication : 2026-03-16*
+
+- Gartner IAM Summit 2026: l’identité au cœur des systèmes numériques Réunis à Londres les 9 et 10 mars pour le Gartner IAM Summit 2026, analystes, éditeurs et responsables sécurité ont débattu de l’évolution rapide de la gestion des identités.
+- Au cœur des discussions: un changement de paradigme dans la cybersécurité, où l’identité s’impose désormais comme le principal point de contrôle des accès aux systèmes et aux données.
+- Le Gartner Identity and Access Management Summit 2026, organisé à Londres les 9 et 10 mars, a réuni analystes, fournisseurs et responsables sécurité autour des mutations rapides de la gestion des identités.
+- Intitulée «Identity at the Core», la conférence a mis en lumière une transformation profonde des architectures de cybersécurité et du rôle de l’IAM (Identity and Access Management) dans les organisations.
+
+## [PARIS : Hugues FOULON : « La <b>cybersécurité</b>, un phénomène de société comme le narcotrafic](https://presseagence.fr/paris-hugues-foulon-la-cybersecurite-un-phenomene-de-societe-comme-le-narcotrafic/)  
+*Source : presseagence.fr | Publication : 2026-03-16*
+
+- PARIS : Hugues FOULON : « La cybersécurité, un phénomène de… Partager : PARIS : Hugues FOULON : « La cybersécurité, un phénomène de société comme le narcotrafic » Orange Cyberdefense lance un film documentaire pour alerter le public sur l’ampleur de la cybercriminalité et ses enjeux sociétaux.
+- Orange Cyberdefense, leader européen des services de cybersécurité, a dévoilé ce 12 mars 2026 un film documentaire inédit intitulé « Don’t Go to the Police ».
+- Réalisé par Ludoc, ce format de 56 minutes a pour ambition de marquer les esprits et d’amplifier la prise de conscience des dirigeants comme du grand public face à une menace cybercriminelle de plus en plus sophistiquée et organisée, dont l’impact dépasse largement le seul cadre technologique.
+- Un clic aux conséquences dévastatrices Le documentaire s’ouvre sur un cas concret et spectaculaire : une attaque par rançongiciel survenue en décembre 2023.
+
+## [Comment l'IA facilite grandement la vie des travailleurs nord coréens qui usurpent des ...](https://www.bfmtv.com/tech/actualites/cybersecurite/comment-l-ia-facilite-grandement-la-vie-des-travailleurs-nord-coreens-qui-usurpent-des-identites-pour-enrichir-le-regime-de-kim-jong-un_AN-202603160743.html)  
+*Source : bfmtv.com | Publication : 2026-03-16*
+
+- Comment l'IA facilite grandement la vie des travailleurs nord coréens qui usurpent des identités pour enrichir le régime de Kim Jong-un C'est une arnaque qui rapporte beaucoup d'argent au gouvernement nord-coréen et qui est encore plus lucrative avec l'intelligence artificielle.
+- Depuis des années, des Nord-Coréens dissimulent leur identité pour décrocher des emplois en télétravail dans des entreprises occidentales.
+- Entre 2020 et 2024, ils ont infiltré plus de 300 entreprises américaines en se faisant passer pour des salariés à distance, rapportant près de 7 millions de dollars au gouvernement de Kim Jong-un, rappelle le Financial Times, citant les chiffres du ministère américain de la Justice.
+- Mais alors qu'il est déjà difficile de répérer ces salariés fraudeurs, certains s'en remettent de plus en plus à l'intelligence artificielle pour parvenir à leurs fins et pas seulement aux États-Unis.
+
+## [L'identité, clé de voûte de la <b>cybersécurité</b> moderne - Atos](https://atos.net/fr/blog/l-identite-cle-de-voute-de-la-cybersecurite-moderne)  
+*Source : atos.net | Publication : 2026-03-16*
+
+- L’identité, clé de voûte de la cybersécurité moderne L’identité, nouvelle surface privilégiée par les attaquants À mesure que les entreprises adoptent des architectures hybrides et multicloud, la gestion des identités et des contrôles d’accès gagne en complexité.
+- Dans ces environnements, les menaces liées à l’identité sont devenues l’un des principaux vecteurs d’attaque.
+- Les identités s’étendant aux services cloud, aux plateformes SaaS et aux systèmes sur site, les attaquants peuvent pirater les identifiants, exploiter les privilèges ou encore les erreurs de configuration pour obtenir un accès aux systèmes.
+- Les contrôles d'identité permettent aux équipes de sécurité de détecter ces menaces à un stade précoce en transformant la couche d'identité (comptes, droits, événements d'authentification et modèles comportementaux) en une source riche de signaux de sécurité à haute fiabilité.
+
+## [L'IA fait basculer les rançongiciels dans une nouvelle ère d'automatisation | Okoone](https://www.okoone.com/fr/spark/technologies-et-innovation/lia-fait-basculer-les-rancongiciels-dans-une-nouvelle-ere-dautomatisation/)  
+*Source : okoone.com | Publication : 2026-03-16*
+
+- Les attaques de Ransomware se multiplient alors que la plupart d’entre elles ne sont pas signalées Le Ransomware n’est plus un sujet secondaire, c’est la cybermenace dominante qui façonne le risque commercial mondial.
+- En 2025, les incidents de ransomware divulgués publiquement ont bondi de 49 % par rapport à l’année précédente, atteignant le chiffre record de 1 174 cas signalés, selon le rapport State of Ransomware 2025 de BlackFog.
+- Mais il ne s’agit là que de la partie visible du problème.
+- Les données du dark web montrent que 7 079 victimes ont été répertoriées par les gangs de Ransomware, ce qui signifie qu’environ 86 % des attaques n’ont jamais été rendues publiques.
+
+## [FIDENS BY TVH CONSULTING PRÉSENT AUX IT &amp; CYBERSECURITY MEETINGS 2026 À ...](https://www.dataevent.com/agenda/resultat.php?id_evenement=9939)  
+*Source : dataevent.com | Publication : 2026-03-16*
+
+- Du mercredi 18 mars 2026 au jeudi 19 mars 2026 Le cabinet expert en cybersécurité du groupe TVH Consulting participe à l'événement de référence des décideurs IT et Cyber pour accompagner les DSI, RSSI et responsables IT dans leurs enjeux stratégiques de sécurisation.
+- Cannes - auvergne-rhone-alpes Fidens, cabinet spécialiste de la cybersécurité au sein du groupe TVH Consulting, annonce sa participation aux IT & Cybersecurity One to One Meetings, qui se tiendront les 18 et 19 mars 2025 au Palais des Congrès et des Festivals de Cannes.
+- Les équipes seront présentes sur le stand I36 pour échanger avec les décideurs IT et cybersécurité d'ETI et de grands groupes.
+- Un format d'échanges privilégié avec les décideurs IT et Cyber Les IT & Cybersecurity Meetings constituent un rendez-vous incontournable pour les professionnels du numérique et de la sécurité informatique.
+
+## [Alerte <b>cybersécurité</b> : la DGSSI signale des failles critiques dans WordPress - Lebrief](https://www.lebrief.ma/alerte-cybersecurite-la-dgssi-signale-des-failles-critiques-dans-wordpress-100144899/)  
+*Source : lebrief.ma | Publication : 2026-03-16*
+
+- Alerte cybersécurité : la DGSSI signale des failles critiques dans WordPress Photo illustration © DR.
+- La Direction générale de la sécurité des systèmes d’information (DGSSI), rattachée à l’Administration de la Défense nationale, a identifié plusieurs vulnérabilités majeures dans certaines extensions très utilisées de WordPress, mettant en danger de nombreux sites web.
+- Dans son bulletin de sécurité n°62021303/26, la DGSSI alerte sur des vulnérabilités susceptibles d’exposer sites de commerce électronique et plateformes d’information à des intrusions si elles ne sont pas corrigées rapidement.
+- L’institution classe ces failles comme « importantes » en raison de leur potentiel à permettre aux attaquants d’obtenir des privilèges étendus sur les systèmes compromis.
+
+## [Une plateforme de simulation pour s'entraîner face à des cyberattaques réalistes](https://www.pv-magazine.fr/2026/03/16/une-plateforme-de-simulation-pour-sentrainer-face-a-des-cyberattaques-realistes/)  
+*Source : pv-magazine.fr | Publication : 2026-03-16*
+
+- Des chercheurs de l’institut Fraunhofer FKIE, en Allemagne, ont développé une plateforme de simulation virtuelle destinée à aider les opérateurs de réseaux électriques à se défendre contre les cyberattaques, en testant des stratégies de sécurité dans des scénarios réalistes et contrôlés.
+- « PowerRange a été conçu comme une plateforme de simulation de cyberattaques flexible et évolutive pour les réseaux électriques, a expliqué Martin Serror, auteur correspondant de l’étude, à pv magazine.
+- Il prend en charge à la fois la simulation et l’émulation des réseaux électriques centralisés traditionnels, ainsi que des réseaux électriques décentralisés tournés vers l’avenir, caractérisés par une forte part d’énergies renouvelables et de stockage d’énergie ».
+- Selon lui, les installations d’énergie renouvelable sont plus exposées aux cybermenaces que les centrales électriques conventionnelles, lesquelles sont plus faciles à isoler (« air-gap ») des réseaux de communication.
+
+## [Orange Cyberdefense dévoile « Don't Go to the Police », un film documentaire inédit sur la ...](https://www.megazap.fr/Orange-Cyberdefense-devoile-Don-t-Go-to-the-Police--un-film-documentaire-inedit-sur-la-cybercriminalite-mondiale_a16028.html)  
+*Source : megazap.fr | Publication : 2026-03-16*
+
+- Orange Cyberdefense, leader européen des services de cybersécurité, présente un film documentaire événement : « Don’t Go to the Police ».
+- Réalisé par Ludoc, ce format long de 56 minutes nous plonge au cœur de la traque sans précédent contre Lockbit, l’un des groupes cybercriminels les plus prolifiques entre 2019 et 2024.
+- Il y décrypte l'organisation des réseaux cyber mafieux et les collectifs d’hacktivistes.
+- Il s’agit d’alerter afin d’amplifier la prise de conscience des dirigeants et du grand public face aux nouveaux enjeux de sécurité numérique.
+
+## [Arnaques en ligne : la police démantèle 33 000 sites frauduleux et bloque 45 000 adresses IP](https://www.01net.com/actualites/arnaques-ligne-police-demantele-33-000-sites-frauduleux-bloque-45-000-adresses-ip.html)  
+*Source : 01net.com | Publication : 2026-03-16*
+
+- Une vaste opération policière internationale vient de frapper le monde des cybercriminels.
+- Baptisée « Opération Synergia III », l’opération a été orchestrée par Interpol avec l’appui des forces de l’ordre de 72 pays différents, dont la France, et de plusieurs entreprises, dont Group-IB et Trend Micro.
+- L’offensive a permis de court-circuiter des infrastructures cybercriminelles à l’échelle mondiale.
+- Elle s’est étendue sur plusieurs mois, de juillet 2025 à janvier 2026.
+
+## [Panasonic TOUGHBOOK 56 : une nouvelle génération qui réinvente la mobilité terrain - ITRmanager](https://itrmanager.com/articles/209157/panasonic-toughbook-56-une-nouvelle-generation-qui-reinvente-la-mobilite-terrain.html)  
+*Source : itrmanager.com | Publication : 2026-03-16*
+
+- Cybersécurité : la formation réduit les incidents, mais les entreprises peinent encore à tenir la distance · Virtualisation : Hermitage sort NEXAVM.
+
+## [Arnaques en ligne : la cyberfraude en hausse de plus de 50 %, alerte Interpol - Libération](https://www.liberation.fr/societe/police-justice/arnaques-en-ligne-la-cyberfraude-en-hausse-de-plus-de-50-alerte-interpol-20260316_M5A4OUMB5FBLLL5ZQMYAOBUVFM/)  
+*Source : liberation.fr | Publication : 2026-03-16*
+
+- L'unité de renseignement sur la cybercriminalité d'Interpol, dans.
+
+## [Six tâches clés pour la mise en œuvre de la loi sur la <b>cybersécurité</b>. - Vietnam.vn](https://www.vietnam.vn/fr/6-nhom-nhiem-vu-trong-tam-trien-khai-thi-hanh-luat-an-ninh-mang)  
+*Source : vietnam.vn | Publication : 2026-03-16*
+
+- Premièrement, à partir de 2026, le ministère de la Sécurité publique prendra l'initiative et se coordonnera avec les autres ministères, agences, médias et collectivités locales pour organiser la diffusion et l'orientation sur la mise en œuvre de la loi par le biais des médias de masse.
+- Deuxièmement, le ministère de la Sécurité publique prendra l'initiative et se coordonnera avec les ministères, les agences de niveau ministériel, les agences gouvernementales et les comités populaires des provinces et des villes administrées centralement afin de compiler des documents et d'organiser des conférences de formation approfondies sur le droit de la cybersécurité et les compétences professionnelles pour les agences, les unités et les localités.
+- Troisièmement, le ministère de la Sécurité publique examinera les documents juridiques relatifs à la loi relevant de sa compétence étatique.
+- Les ministères, les agences de niveau ministériel et les comités populaires des provinces et des villes relevant de l'administration centrale examineront les documents juridiques relatifs à la loi dans leurs domaines de compétence respectifs et soumettront les résultats de cet examen au ministère de la Sécurité publique avant le 1er avril 2026.
+
+## [Un dirigeant licencié après six mois de piratage non détecté sur son site e-commerce ...](https://www.clubic.com/actualite-604765-un-dirigeant-licencie-apres-six-mois-de-piratage-non-detecte-sur-son-site-e-commerce-francais-se-bat-en-justice.html)  
+*Source : clubic.com | Publication : 2026-03-16*
+
+- Un site e-commerce a été infiltré pendant six mois par des pirates informatiques.
+- Des millions de données bancaires volées plus tard, la cour d'appel de Paris a tranché sur la responsabilité cyber d'un cadre dirigeant, depuis licencié.
+- La cour d'appel de Paris a rendu son arrêt, consulté par Clubic il y a quelques jours, sur un dossier débuté en janvier 2020, lorsque la police a appris à un groupe français que son site e-commerce était piraté depuis six mois.
+- Des millions de données clients ont été volées, et personne dans l'entreprise n'a réagi.
+
+## [Rançongiciels, fuites de données : pourquoi la menace cyber reste très forte en France](https://siecledigital.fr/2026/03/16/lanssi-alerte-sur-un-brouillage-des-menaces/)  
+*Source : siecledigital.fr | Publication : 2026-03-16*
+
+- Si les chiffres bruts semblent légèrement reculer, le constat dressé par l’ANSSI reste loin d’être rassurant.
+- Dans son Panorama de la cybermenace 2025, l’agence française décrit un environnement toujours sous forte pression, marqué à la fois par la persistance des attaques étatiques et par la montée des logiques cybercriminelles.
+- 📩 L’actu digitale évolue vite.
+- Restez à jour.
 
 ## [Duel entre Orange et Wana pour qui protégera la DGI des attaques DDoS - Le Desk](http://ledesk.ma/enoff/duel-entre-orange-et-wana-pour-qui-protegera-la-dgi-des-attaques-ddos/)  
 *Source : ledesk.ma | Publication : 2026-03-15*
