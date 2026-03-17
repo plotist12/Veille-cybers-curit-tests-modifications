@@ -1,5 +1,152 @@
-# Résumés – 2026-03-16
+# Résumés – 2026-03-17
 
+
+## [Cyberattaques : moins nombreuses, plus fortes - 17/03 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cyberattaques-moins-nombreuses-plus-fortes-17-03_VN-202603170962.html)  
+*Source : bfmtv.com | Publication : 2026-03-17*
+
+- Cyberattaques : moins nombreuses, plus fortes - 17/03 Ce mardi 17 mars, Alain Bouillé, délégué général du CESIN, s'est penché sur les menaces cyber liées au contexte géopolitique actuel, les cyberattaques qui sont moins nombreuses mais beaucoup plus virulentes, et la 11ème édition du baromètre annuel CESIN-OpinionWay sur l'état de la cybersécurité des entreprises françaises, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 9:39.
+
+## [TPE françaises : l'IA intéresse, la <b>cybersécurité</b> attend - ITchannel](https://itchannel.info/articles/209163/tpe-francaises-lia-interesse-la-cybersecurite-attend.html)  
+*Source : itchannel.info | Publication : 2026-03-17*
+
+- Veuillez activer Javascript.
+
+## [<b>Cybersécurité</b> et retraite : deux ateliers gratuits proposés à la France Services de Lillebonne](https://www.paris-normandie.fr/id704078/article/2026-03-17/cybersecurite-et-retraite-deux-ateliers-gratuits-proposes-la-france-services-de)  
+*Source : paris-normandie.fr | Publication : 2026-03-17*
+
+- Apprendre les bons réflexes sur internet.
+- Le premier atelier, consacré à la cybersécurité , se déroulera jeudi 26 mars 2026, de 10 h à 12 h, dans les.
+
+## [Checkmarx One s'adapte au dev dopé à l'IA - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/cybersecurite/64602-checkmarx-one-s-adapte-au-dev-dope-a-l-ia.html)  
+*Source : linformaticien.com | Publication : 2026-03-17*
+
+- Checkmarx revoit sa plateforme Checkmarx One en y intégrant des agents d'IA, pour sécuriser le développement logiciel accéléré par l'IA.
+
+## [Google sévit contre Android qui abusent des fonctionnalités d'accessibilité - Malwarebytes](https://www.malwarebytes.com/fr/blog/mobile/2026/03/google-cracks-down-on-android-apps-abusing-accessibility)  
+*Source : malwarebytes.com | Publication : 2026-03-17*
+
+- Google vient de lancer une véritable bombe pour les développeurs d'applications avec la dernière version de son système d'exploitation Android.
+- L'entreprise peut désormais empêcher l'installation d'applications si celles-ci tentent d'utiliser les fonctionnalités d'accessibilité du système.
+- Cette nouvelle fonctionnalité, disponible dans la version 17.2 Android, est entièrement axée sur la sécurité, explique l'entreprise.
+- Elle empêche certains types d'applications d'utiliser le service d'accessibilité lorsque le mode Advanced (APM) est activé.
+
+## [Souveraineté des données : enjeu stratégique et opportunité pour les partenaires de l ...](https://www.channelnews.fr/souverainete-des-donnees-enjeu-strategique-et-opportunite-pour-les-partenaires-de-lecosysteme-it-et-cybersecurite-155532)  
+*Source : channelnews.fr | Publication : 2026-03-17*
+
+- Face à la montée des exigences en matière de souveraineté numérique, le marché des solutions IT et de cybersécurité connaît une accélération sans précédent.
+- Cette tendance est particulièrement portée par le secteur public, les acteurs de la défense nationale et les opérateurs d’infrastructures critiques, qui cherchent à garantir un contrôle total sur leurs données.
+- Dans un contexte marqué par des tensions géopolitiques persistantes, des relations transatlantiques incertaines et une transformation digitale des opérations métiers, les entreprises s’interrogent, à juste titre d’ailleurs, sur leur capacité à garder la maîtrise de leurs données.
+- Les experts s’accordent : les budgets alloués à la sécurité devraient connaître une hausse significative pour 2026, stimulée notamment par des besoins croissants en sécurité et en souveraineté des données.
+
+## [Quand une compromission par ClickFix ouvre la porte au <b>ransomware</b> - LeMagIT](https://www.lemagit.fr/actualites/366640419/Quand-une-compromission-par-ClickFix-debouche-sur-un-ransomware)  
+*Source : lemagit.fr | Publication : 2026-03-17*
+
+- basiczto - stock.adobe.com Quand une compromission par ClickFix ouvre la porte au ransomware Historiquement impliqué dans de nombreuses cyberattaques avec ransomware, le groupe suivi sous le nom de Velvet Tempest semble avoir adopté la technique dite ClickFix pour initier ses intrusions.
+- Le groupe Velvet Tempest (DEV-0504), acteur majeur du crime cybernétique, a démontré sa capacité à infiltrer des réseaux d'entreprise d'envergure.
+- En s'appuyant sur la technique « ClickFix » et en exploitant les utilitaires Windows légitimes, ce groupe contourne les défenses périmétriques classiques pour déployer des charges utiles comme CastleRAT et DonutLoader.
+- Bien que l'objectif final reste l'extorsion via rançongiciel, l'analyse révèle que la phase critique n'est pas le chiffrement, mais le travail de fond : le profilage de l'Active Directory, le vol d'identifiants Chrome et la persistance silencieuse.
+
+## [Un mouchard dans votre voiture ? Comment tous vos déplacements peuvent être espionnés ...](https://www.ladepeche.fr/2026/03/17/un-mouchard-dans-votre-voiture-comment-tous-vos-deplacements-peuvent-etre-espionnes-grace-aux-capteurs-de-pression-des-pneus-13277777.php)  
+*Source : ladepeche.fr | Publication : 2026-03-17*
+
+- Un mouchard dans votre voiture ?.
+- Comment tous vos déplacements peuvent être espionnés grâce aux capteurs de pression des pneus l'essentiel Des chercheurs européens ont démontré que les systèmes de surveillance de la pression des pneus peuvent être détournés pour suivre les véhicules à la trace.
+- Un risque majeur pour la confidentialité.
+- L’Agence nationale de cybersécurité d’Andorre (ANC-AD) a relayé une étude alarmante menée par IMDEA Networks.
+
+## [<b>Cybersécurité</b> : en 2025, 34 % des événements de sécurité traités par... - AEF info](https://www.aefinfo.fr/depeche/747497-cybersecurite-en-2025-34-des-evenements-de-securite-traites-par-l-anssi-concernaient-l-education-et-la-recherche)  
+*Source : aefinfo.fr | Publication : 2026-03-17*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : "Au cours de l’année 2025, l’Anssi (Agence nationale de la sécurité des systèmes d’information) a traité 3 586 événements de sécurité", soit 18 % de moins qu’en 2024, indique l’Anssi dans son panorama de la cybermenace, publié le 11 mars 2026.
+- Sur les 1 366 cas sur lesquels l’Anssi est en mesure de confirmer qu’un acteur malveillant a conduit des actions avec succès sur le système informatique de la victime, 34 % concernent l’éducation et la recherche.
+- Dans 77 % des cas, les attaques concernent la compromission de comptes de messagerie.
+
+## [Alpha Sophia : accélérez vos projets avec les fonds européens - Sophianet](https://www.sophianet.com/article/alpha-sophia-accelerez-projets-fonds-europeens)  
+*Source : sophianet.com | Publication : 2026-03-17*
+
+- “Fonds européens : accélérez vos projets grâce au financement en cascade” : c’est le thème d’un petit-déjeuner que le pôle de compétitivité Aktantis organise vendredi 20 mars de 8h45 à 9h45 au Pôle Alpha Sophia Antipolis (rue Pierre Laffitte, Salle Alan Turing).
+- Les appels à projets européens de financement en cascade offrent aux PME un accès simplifié à des financements publics, avec moins de lourdeurs administratives.
+- Ce rendez-vous vise à échanger sur les financements européens à mobiliser pour vos projets et à donner une occasion de comprendre l’appel à projet CITADEL, parfait pour les PME et startups du numérique.
+- Inscription gratuite mais obligatoire auprès de Karine Degrenne (karine.degrenne@aktantis.com).
+
+## [<b>Cybersécurité</b> – L'Union européenne sanctionne plusieurs acteurs de l'écosystème cyber ...](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/la-france-et-l-europe/evenements-et-actualites-lies-a-la-politique-europeenne-de-la-france/actualites-europeennes/article/cybersecurite-l-union-europeenne-sanctionne-plusieurs-acteurs-de-l-ecosysteme)  
+*Source : diplomatie.gouv.fr | Publication : 2026-03-17*
+
+- Cybersécurité – L’Union européenne sanctionne plusieurs acteurs de l’écosystème cyber-offensif privé (17 mars 2026) Lors du Conseil des Affaires étrangères tenu le lundi 16 mars à Bruxelles, les États membres ont adopté de nouvelles désignations au titre du régime de sanction cyber de l’Union européenne (UE).
+- L’UE y a recours aujourd’hui pour contraindre l’écosystème cyber-offensif privé outillant les acteurs malveillants qui ciblent la France et l’Europe.
+- Parmi les nouvelles désignations figure une entité privée iranienne, Emennet Pasargad, ayant conduit des cyberattaques et des opérations de manipulations de l’information sur le territoire français contre le journal Charlie Hebdo en 2023 et les Jeux Olympiques et Paralympiques de Paris 2024.
+- L’UE a également désigné Integrity Technology Group et Anxun Information Technology Co.
+
+## [Cyber Defense Factory, le discret incubateur qui propulse les start-up dans l'écosystème militaire](https://www.journaldunet.com/cybersecurite/1548809-cyber-defense-factory-le-discret-incubateur-qui-propulse-les-start-up-dans-l-industrie-de-defense/)  
+*Source : journaldunet.com | Publication : 2026-03-17*
+
+- Cyber Defense Factory, le discret incubateur qui propulse les start-up dans l'écosystème militaire La Cyber Defense Factory accompagne en moyenne deux start-up par an grâce à l'expertise de l'Agence innovation défense, la Direction générale de l'armement, et le Commandement de la cyberdéfense.
+- Même dans le milieu français de la cybersécurité, peu d'acteurs connaissent la Cyber Defense Factory.
+- Lancé par l'Agence innovation défense (AID), la Direction générale de l'armement (DGA) et le Commandement de la cyberdéfense (ComCyber), cet incubateur très sélectif n'a volontairement accueilli que 13 start-up en son sein, à Rennes, depuis sa création en 2019.
+- "L'originalité de ce dispositif est de proposer une offre de service de qualité plutôt que des financements.
+
+## [Les données d'un demi-million de licenciés volées : la fédération française de rugby visée ...](https://www.lindependant.fr/2026/03/17/les-donnees-dun-demi-million-de-licencies-volees-la-federation-francaise-de-rugby-visee-par-une-cyberattaque-de-grande-ampleur-13277451.php)  
+*Source : lindependant.fr | Publication : 2026-03-17*
+
+- Les données d’un demi-million de licenciés volées : la fédération française de rugby visée par une cyberattaque de grande ampleur Une cyberattaque frappe la Fédération française de rugby, exposant les données de plus de 530 000 licenciés.
+- Informations personnelles, documents d’identité et photos de mineurs circulent désormais sur un forum de cybercriminalité.
+- La Fédération française de rugby a été visée par une cyberattaque, basée sur la technique du "phishing", a annoncé l’instance dans un communiqué mardi.
+- "L’incident de sécurité s’est produit à la suite d’une campagne de phishing visant certains licenciés", écrit la FFR, en référence à la méthode également baptisée "hameçonnage" consistant à se faire passer pour un organisme que le destinataire connaît en lui envoyant un courriel lui demandant généralement de mettre à jour ses informations, notamment ses coordonnées bancaires, selon la définition de la Commission nationale de l’informatique et des libertés (Cnil).
+
+## [La Fédération française de rugby victime d'une cyberattaque visant les données de ses licenciés](https://www.sudouest.fr/economie/cybersecurite/la-federation-francaise-de-rugby-victime-d-une-cyberattaque-visant-les-donnees-de-ses-licencies-28324105.php)  
+*Source : sudouest.fr | Publication : 2026-03-17*
+
+- La FFR dit avoir « immédiatement pris des mesures nécessaires », permettant de limiter la portée de l’attaque informatique La Fédération française de rugby (FFR) a été visée par une cyberattaque, a annoncé l’instance dans un communiqué ce mardi.
+- « L’incident de sécurité s’est produit à la suite d’une campagne de phishing visant certains licenciés », écrit la FFR.
+
+## [Cette banque australienne prouve qu'une IA maison peut sauver des millions face aux ... - Clubic](https://www.clubic.com/actualite-604894-cette-banque-australienne-prouve-qu-une-ia-maison-peut-sauver-des-millions-face-aux-arnaques-en-ligne-et-la-france-regarde.html)  
+*Source : clubic.com | Publication : 2026-03-17*
+
+- Quand les éditeurs de cybersécurité ne suivent plus le rythme, une banque décide de construire elle-même l'agent IA qui protège ses clients.
+- Les chiffres donnent le vertige.
+- Les attaques bancaires générées par IA explosent en volume et en sophistication.
+- La Commonwealth Bank of Australia a présenté un dispositif inédit au sommet Gartner de Sydney.
+
+## [Journée technique sur le thème de la normalisation DO160, la <b>cybersécurité</b> et le Tempest](https://www.actutem.com/journee-technique-sur-le-theme-de-la-normalisation-do160-la-cybersecurite-et-le-tempest/)  
+*Source : actutem.com | Publication : 2026-03-17*
+
+- PIEME, du Groupe Emitech, organise le vendredi 27 mars une demi-journée technique qui aura lieu dans ses locaux de Marignane (Bouches-du-Rhône).
+- - Cette manifestation sera l’occasion de faire le point sur plusieurs sujets techniques notamment les nouveautés concernant la norme DO160 et la cybersécurité dans le cadre de la directive RED.
+- - La norme DO-160 définit les conditions environnementales et les procédures d’essai nécessaires pour garantir la fiabilité du fonctionnement des équipements électroniques aéronautiques, dans diverses conditions environnementales.
+- La directive européenne 2014/53/UE, dite RED (Radio Equipment Directive), concerne la mise sur le marché des équipements radioélectriques.
+
+## [L'équipe des Forces armées ukrainiennes décroche la deuxième place lors d'exercices de ...](https://www.ukrinform.fr/rubric-defense/4102467-lequipe-des-forces-armees-ukrainiennes-decroche-la-deuxieme-place-lors-dexercices-de-cybersecurite-internationaux-a-singapour.html)  
+*Source : ukrinform.fr | Publication : 2026-03-17*
+
+- L’équipe des Forces armées ukrainiennes décroche la deuxième place lors d'exercices de cybersécurité internationaux à Singapour « L'équipe mixte, formée de militaires des unités de cybersécurité des Forces armées ukrainiennes et du 21e régiment de transmissions britannique, a pris la deuxième place parmi 36 équipes au classement général des exercices.
+- Ce résultat est le fruit d'un modèle d'interaction fonctionnellement équilibré », a rapporté le service de presse de l'état-major général des Forces armées ukrainiennes sur Facebook.
+- Comme l'a expliqué le service de presse, la partie britannique a assuré la résilience des communications et la coordination des processus, tandis que les cyber-spécialistes militaires ukrainiens ont mis en œuvre le cœur technique de l'opération : l'élaboration de la stratégie de défense de l'infrastructure fournie, la conduite de mesures de Cyber Threat Intelligence, la détection et la localisation des attaques, l'analyse des systèmes compromis et la préparation de rapports techniques structurés.
+- L'efficacité de cette coopération a reposé sur la combinaison d'approches complémentaires.
+
+## [La cyber résilience, de la disponibilité au redémarrage maîtrisé - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/la-cyber-resilience-de-la-disponibilite-au-redemarrage-maitrise-226270/amp)  
+*Source : silicon.fr | Publication : 2026-03-17*
+
+- Au‑delà des outils, elle insiste sur une exigence collective, où la responsabilité du RSSI s’accompagne de l’engagement de l’ensemble des métiers.
+- Découvrez les enjeux et les implications de cette approche.
+- NVIDIA orchestre, avec ses clients, une communication massive autour de la nouvelle marque Agents Toolkit… Microsoft annonce une restructuration de son organisation autour de Copilot, unifiant les équipes grand public… Une étude d'Anthropic introduit un nouvel indicateur d'exposition réelle au risque de remplacement des emplois… Memority met la main sur la start-up américaine Zygon pour combler les angles morts de… Renouvellements compris, 85 entreprises sont lauréates 2026 du label France Cybersecurity.
+- Après bientôt 3 ans sous le régime du DMA, Google poursuit l'adaptation de ses services,….
+
+## [Rançongiciel : un négociateur manipulait ses clients pour gonfler les rançons - incyber news](https://incyber.org/article/rancongiciel-negociateur-manipulait-ses-clients-pour-gonfler-rancons/)  
+*Source : incyber.org | Publication : 2026-03-17*
+
+- Rançongiciel : un négociateur manipulait ses clients pour gonfler les rançons Articles du même auteur : 2 17.03.26 Cyber + Le Canada veut faciliter l’accès des forces de l’ordre aux données numériques Lire 01.
+- 4 13.03.26 Gestion des risques L’Anssi publie son Panorama de la cybermenace 2025 Lire 01.
+
+## [De la théorie à la pratique, le laboratoire cyber de l'OTAN à Tallinn - INCYBER NEWS](https://incyber.org/article/de-la-theorie-a-la-pratique-le-laboratoire-cyber-de-lotan-a-tallinn/)  
+*Source : incyber.org | Publication : 2026-03-17*
+
+- Accueil - Cyber stabilité - De la théorie à la pratique, le laboratoire cyber de l’OTAN à Tallinn - De la théorie à la pratique, le laboratoire cyber de l’OTAN à Tallinn La grenouille et le paradoxe de la résilience “The boiling frog” : c’est l’analogie utilisée par Tõnis Saar pour décrire la situation des pays de l’Alliance face à la menace grandissante dans le cyberespace.
+- La métaphore est connue pour illustrer une incapacité à réagir face aux menaces insidieuses qui s’installent progressivement : si vous plongez une grenouille dans l’eau bouillante, elle s’en échappera d’un bond.
+- En revanche, si vous la placez dans l’eau froide et que vous augmentez progressivement la température, elle ne percevra pas le danger et finira par mourir, à feu doux.
+- En 2007, l’Estonie subit la première cyberattaque d’envergure contre un État membre de l’OTAN : sites gouvernementaux paralysés, systèmes bancaires hors ligne.
 
 ## [Rançongiciel : une année 2025 qui interroge sur sa capacité à faire recette | LeMagIT](https://www.lemagit.fr/actualites/366640459/Rancongiciel-une-annee-2025-qui-interroge-sur-sa-capacite-a-faire-recette)  
 *Source : lemagit.fr | Publication : 2026-03-16*
