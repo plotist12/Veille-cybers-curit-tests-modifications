@@ -1,5 +1,155 @@
-# Résumés – 2026-03-17
+# Résumés – 2026-03-18
 
+
+## [<b>Cybersécurité</b> : le paradoxe qui met en péril la souveraineté européenne](https://www.solutions-numeriques.com/dossiers/cybersecurite-le-paradoxe-qui-met-en-peril-la-souverainete-europeenne/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-18*
+
+- La majorité des flux numériques européens repose encore sur des technologies extraterritoriales (américaines, israéliennes…).
+- Dans ce contexte, la création récente de l’European Digital Infrastructure Consortium témoigne d’une volonté claire de reprendre la main sur les enjeux de souveraineté.
+- Mais cette ambition se heurte à un constat : en confiant leur cybersécurité à des fournisseurs extra-européens, entreprises et acteurs publics maintiennent l’Europe dans une position de dépendance technologique.
+- Cette dépendance soulève des risques bien réels : juridiques (Cloud Act), économiques (hausses tarifaires unilatérales) et stratégiques (cyberattaques).
+
+## [Face à la montée des cyberattaques, la Belgique se dote d'une &quot;messagerie souveraine&quot;](https://www.lavenir.net/actu/belgique/2026/03/18/face-a-la-montee-des-cyberattaques-la-belgique-se-dote-dune-messagerie-souveraine-MLTTC5HRDJE63CHMDOONVPESYA/)  
+*Source : lavenir.net | Publication : 2026-03-18*
+
+- Face à la montée des cyberattaques, la Belgique se dote d'une "messagerie souveraine" Pour sécuriser les échanges de ses fonctionnaires, le gouvernement belge lance "Beam", une messagerie interne présentée comme plus sûre que les applications classiques.
+- Un outil pensé pour faire face à la montée des cybermenaces et mieux contrôler les communications sensibles.
+- Publié le 18-03-2026 à 17h02 - Les menaces en matière de cybersécurité concernent tout le monde… En 2025, 556 cyberattaques ont été signalées au Centre pour la Cybersécurité Belgique (CCB).
+- L'année précédente, on en comptait 352 et en 2023 et ce chiffre était encore de 285.
+
+## [Cyberattaques : la résilience numérique, nouveau front de la compétitivité des entreprises](https://itrnews.com/articles/209183/cyberattaques-la-resilience-numerique-nouveau-front-de-la-competitivite-des-entreprises.html)  
+*Source : itrnews.com | Publication : 2026-03-18*
+
+- Veuillez activer Javascript.
+
+## [Faille telnetd - Accès root avant même le login - Korben](https://korben.info/faille-telnetd-cve-2026-32746-rce-root.html)  
+*Source : korben.info | Publication : 2026-03-18*
+
+- Toutes vulnérables, et pour le moment, aucun patch n'est disponible à ce jour.
+- C'est la boîte de cybersécurité israélienne Dream, via son chercheur.
+
+## [SFR <b>Cybersécurité</b> : qu'est-ce que c'est et pourquoi l'adopter](https://actus.sfr.fr/tech/news/sfr-cybersecurite-qu-est-ce-que-c-est-et-pourquoi-l-adopter_AN-202603180006.html)  
+*Source : actus.sfr.fr | Publication : 2026-03-18*
+
+- Vous pensez à vous équiper d’une protection fiable face à la prolifération des arnaques en ligne ?.
+- N’hésitez plus et optez pour SFR Cybersécurité, la solution de protection made by SFR pour vous permettre d’avoir l’esprit tranquille lorsque vous naviguez sur Internet !.
+- Présentation.
+- Entre les campagnes de phishing par mail, les arnaques sur les réseaux sociaux, sans oublier les vols d’identité et les inquiétantes fuites de données, il faut, plus que jamais, redoubler de vigilance sur Internet.
+
+## [Arnaque: Des escrocs développent une nouvelle technique - Blick](https://www.blick.ch/fr/suisse/arnaque-des-escrocs-developpent-une-nouvelle-technique-id21793110.html)  
+*Source : blick.ch | Publication : 2026-03-18*
+
+- L'e-mail semble inoffensif.
+- Un numéro de facture, une note succincte, et en pièce jointe un fichier ZIP.
+- Lorsqu'on le décompresse, un fichier HTML apparaît, affichant un historique d'e-mails antérieurs.
+- Aucun lien, aucun formulaire, rien de suspect.
+
+## [Rançongiciels : une rentabilité en baisse, une menace en mutation - LeMagIT](https://www.lemagit.fr/actualites/366640298/Rancongiciels-une-rentabilite-en-baisse-une-menace-en-mutation)  
+*Source : lemagit.fr | Publication : 2026-03-18*
+
+- Afiq Sam - stock.adobe.com Rançongiciels : une rentabilité en baisse, une menace en mutation Les constatations des équipements de renseignement sur les menaces de Mandiant (Google) s'inscrivent dans la continuité des autres déjà publiées : l'année 2025 aura marqué un tournant pour le ransomware.
+- Bruyant, mais pas forcément plus intense.
+- L'année 2025 marque un tournant pour l'écosystème de la rançongiciel, caractérisé par un paradoxe apparent entre la baisse de rentabilité des opérations et la massification des incidents rapportés.
+- Selon le Google Threat Intelligence Group (GTIG), le nombre de publications sur les sites de revendication a atteint un niveau record, en hausse d'environ 50 % par rapport à 2024.
+
+## [La <b>cybersécurité</b> doit se réinventer par le hardware - Solutions-Numeriques](https://www.solutions-numeriques.com/dossiers/la-cybersecurite-doit-se-reinventer-par-le-hardware/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-18*
+
+- Depuis les bancs de l’école, d’informatique ou de management, on nous apprend que, lors de la mise en place d’un réseau informatique, chaque appareil connecté doit être protégé et que tous les échanges de données doivent systématiquement être chiffrés.
+- Alors pourquoi cela n’est-il pas fait dans la plupart des infrastructures de réseaux ?.
+- Pourquoi les complexes industriels, les usines, les hôpitaux, les ministères et les collectivités territoriales sont-ils encore aussi peu protégés alors qu’ils sont soumis à une menace constante ?.
+- Simplement parce que cela est complexe à déployer dans les infrastructures existantes, très coûteux en termes d’achat et de fonctionnement, difficile à maintenir au fil des mises à jour de sécurité, pas satisfaisant en termes de souveraineté et souvent parce que les compétences pour identifier la meilleure solution n’existent pas dans l’entreprise.
+
+## [Gatewatcher renforce son partenariat avec Devensys et Adista du groupe Inherent](https://www.channelnews.fr/gatewatcher-renforce-son-partenariat-avec-devensys-et-adista-du-groupe-inherent-155641)  
+*Source : channelnews.fr | Publication : 2026-03-18*
+
+- Le spécialiste français de la détection des cybermenaces Gatewatcher s’allie au montpelliérain Devensys Cybersecurity (groupe inherent) et à l’opérateur Adista (groupe inherent également) pour proposer une offre combinant l’expertise en Network Detection & Response de Gatewatcher et l’expertise Security Operations Center (SOC) de Devensys.
+- La solution de Gatewatcher analyse en continu le trafic réseau pour identifier des anomalies tandis que Devensys assure l’intégration de la solution et l’exploitation opérationnelle des alertes de cybersécurité avec un SOC managé en France.
+- Le dispositif est déployé chez l’opérateur adista, expert en services cloud, cybersécurité et connectivité B2B en France, qui intègre le NDR de Gatewatcher à son catalogue d’offres.
+- Leo Gonzales, le PDG de Devensys (cf.
+
+## [la CSNP presse le Parlement d'examiner sans délai le projet de loi de résilience transposant NIS 2](https://www.banquedesterritoires.fr/cybersecurite-la-csnp-presse-le-parlement-dexaminer-sans-delai-le-projet-de-loi-de-resilience?pk_campaign=newsletter_quotidienne&pk_kwd=2026-03-18&pk_source=Actualités_Localtis&pk_medium=newsletter_quotidienne)  
+*Source : banquedesterritoires.fr | Publication : 2026-03-18*
+
+- Cybersécurité : la CSNP presse le Parlement d'examiner sans délai le projet de loi de résilience transposant NIS 2 Alors que la France accuse un retard significatif dans la transposition de la directive européenne NIS 2, la Commission supérieure du numérique et des postes (CSNP) appelle à un examen rapide du projet de loi sur la résilience des infrastructures critiques.
+- Un blocage politique autour du chiffrement freine l'adoption d'un texte pourtant jugé consensuel et urgent face à la montée des cybermenaces.
+- La pression monte autour de la transposition de la directive européenne NIS 2, censée renforcer le niveau de cybersécurité au sein de l'Union européenne.
+- Dans un communiqué publié le 18 mars 2026, la Commission supérieure du numérique et des postes (CSNP) appelle à inscrire "dans les plus brefs délais" à l'ordre du jour de l'Assemblée nationale le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité.
+
+## [L'intégration des identités, un chantier prioritaire - Alliancy](https://www.alliancy.fr/lintegration-des-identites-un-chantier-prioritaire-e8e41b56-bd64-4df6-9562-26c53552a635)  
+*Source : alliancy.fr | Publication : 2026-03-18*
+
+- E-mail Profil LinkedIn Profil Twitter Chaîne YouTube 18 mars 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [Cyber-résilience : notre seul vrai rempart face à l'inévitable](https://www.journaldunet.com/cybersecurite/1548811-cyber-resilience-notre-seul-vrai-rempart-face-a-l-inevitable/)  
+*Source : journaldunet.com | Publication : 2026-03-18*
+
+- Cyber-résilience : notre seul vrai rempart face à l'inévitable Je travaille depuis plus de 20 ans sur les architectures de sécurité IT dans le monde entier.
+- Si je devais tirer une leçon des innombrables incidents que j'ai analysés, ce serait celle-ci : ce n'est pas la prévention qui sauve une organisation, c'est sa capacité à encaisser le choc.
+- C'est ce que nous appelons la cyber-résilience.
+- Depuis des années, les organisations investissent massivement dans la sécurité périmétrique.
+
+## [« Don't Go to the Police » : un documentaire choc pour alerter sur la <b>cybersécurité</b> - Mayotte Hebdo](https://www.mayottehebdo.com/actualite/breves/dont-go-to-the-police-un-documentaire-choc-pour-alerter-sur-la-cybersecurite/)  
+*Source : mayottehebdo.com | Publication : 2026-03-18*
+
+- Documentaire inédit de 56 minutes réalisé par Ludoc, « Don’t Go to the Police » est dévoilé par Orange Cyberdefense et plonge au cœur de la cybercriminalité mondiale.
+- Entre 2019 et 2024, le film retrace notamment la traque du groupe Lockbit, l’un des réseaux les plus actifs.
+- En décembre 2023 en France, l’enquête débute par une attaque : un simple clic d’un employé d’une PME du Lot-et-Garonne provoque la paralysie de l’entreprise et touche, par effet domino, près de 350 000 clients.
+- Pour restaurer les systèmes et protéger les données, une course contre la montre s’engage alors.
+
+## [<b>Cybersécurité</b> des PME : quand l'empilement d'outils devient un risque structurel](https://www.solutions-numeriques.com/dossiers/cybersecurite-des-pme-quand-lempilement-doutils-devient-un-risque-structurel/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-18*
+
+- La cybersécurité des PME s’est construite pendant longtemps par couches successives, au gré des évolutions technologiques.
+- Ce qui s’est souvent traduit par un antivirus d’abord, puis un pare-feu plus robuste jusqu’à une solution EDR.
+- Et le schéma s’est souvent répété tant sur la messagerie que sur la sauvegarde ou la protection des accès distants.
+- À chaque nouvelle menace ou exigence, une solution supplémentaire est venue s’ajouter à l’existant.
+
+## [Les besoins en <b>cyber-sécurité</b> profitent à CrowdStrike - Les Affaires](https://www.lesaffaires.com/bourse/placements/les-besoins-en-cyber-securite-profitent-a-crowdstrike-edition_18_mars_2026/)  
+*Source : lesaffaires.com | Publication : 2026-03-18*
+
+- Les besoins en cyber-sÃ©curitÃ© profitent Ã CrowdStrike Denis Lalonde|Ãdition de mars 2026(Photo: Adobe Stock) LE TAUREAU CONTRE LâOURS.Â Que vous soyez optimiste ou pessimiste, retrouvez lâanalyse dâun titre en deux parties.
+- Dans ce numÃ©ro,Â CrowdStrike.Â Choisissez votre camp!.
+- Optimiste Lâentreprise de plateformes de cybersÃ©curitÃ© CrowdStrike (CRWD, 391,42â$ US) a fait Ã©tat de rÃ©sultats financiers supÃ©rieurs aux prÃ©visions au quatriÃ¨me trimestre de son exercice 2026, terminÃ© le 31Â janvier.
+- Lâentreprise continue de profiter de lâadoption croissante de lâintelligence artificielle (IA) dans le domaine, et lâanalyste Matthew Hedberg, de RBC MarchÃ©s des capitaux, conserve son cours cible sur un an de 550â$ US sur le titre.
+
+## [Keysight lance un outil logiciel pour la conformité en <b>cybersécurité</b> - Investing.com](https://fr.investing.com/news/company-news/keysight-lance-un-outil-logiciel-pour-la-conformite-en-cybersecurite-93CH-3322610)  
+*Source : fr.investing.com | Publication : 2026-03-18*
+
+- cybersécurité.
+- La solution répond aux exigences de conformité avec des réglementations telles que la loi européenne sur la cyber-résilience de l.
+
+## [Votre nouveau numéro de Solutions Numériques &amp; <b>Cybersécurité</b> : trouver le cap réglementaire](https://www.solutions-numeriques.com/votre-nouveau-numero-de-solutions-numeriques-cybersecurite-trouver-le-cap-reglementaire/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-18*
+
+- Le nouveau numéro de Solutions Numériques & Cybersécurité s’ouvre sur cette idée simple : dans le numérique, les règles ne cessent de s’épaissir, mais elles ne suffisent pas à orienter les décisions.
+- Entre directives européennes, exigences sectorielles et transformations technologiques, les organisations doivent désormais composer avec un environnement où conformité, architecture et gouvernance avancent ensemble.
+- DORA et NIS 2 ne se contentent plus de fixer des obligations ; ils imposent de démontrer dans la durée la robustesse des dispositifs de sécurité, la maîtrise des risques numériques et la capacité à piloter des environnements devenus profondément interconnectés.
+- La réforme de la facturation électronique raconte la même histoire sous un autre angle.
+
+## [Cyberattaques : l'illusion de maîtrise face au défi du confinement - Solutions-Numeriques](https://www.solutions-numeriques.com/cyberattaques-lillusion-de-maitrise-face-au-defi-du-confinement/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-18*
+
+- Les entreprises n’ont jamais été aussi confiantes dans leurs capacités de détection des cyberattaques.
+- Pourtant, une étude récente révèle un décalage persistant entre visibilité et capacité d’action, mettant en lumière une faiblesse structurelle : la difficulté à contenir rapidement une intrusion.
+- Une cybersécurité de plus en plus confiante… en apparence Les outils de détection des cybermenaces ont franchi un cap.
+- Analyse comportementale, corrélation automatisée, XDR… les organisations disposent aujourd’hui d’une visibilité sans précédent sur leur système d’information.
+
+## [Du hack au braquage : quand les criminels physiques et cyber unissent leurs forces - JDN](https://www.journaldunet.com/cybersecurite/1548849-du-hack-au-braquage-quand-les-criminels-physiques-et-cyber-unissent-leurs-forces/)  
+*Source : journaldunet.com | Publication : 2026-03-18*
+
+- Du hack au braquage : quand les criminels physiques et cyber unissent leurs forces Telegram est le carrefour où cyberattaquants et criminels physiques se rencontrent pour transformer des fuites d'informations en crimes physiques.
+- La cybercriminalité n’est plus depuis longtemps l’apanage de quelques hackers isolés.
+- Et désormais, elle ne se limite plus aux seules attaques informatiques : elle se mêle de plus en plus à la criminalité physique.
+- "On est en train de changer de monde !.
+
+## [Le PM promulgue un plan pour la mise en œuvre de la Loi sur la <b>cybersécurité</b>](https://vietnam.vnanet.vn/french/print/le-pm-promulgue-un-plan-pour-la-mise-en-œuvre-de-la-loi-sur-la-cybersecurite-435406.html)  
+*Source : vietnam.vnanet.vn | Publication : 2026-03-18*
+
+- Le Premier ministre Pham Minh Chinh a signé le 16 mars un décret promulguant un plan de mise en œuvre de la Loi sur la cybersécurité , définissant en.
 
 ## [Cyberattaques : moins nombreuses, plus fortes - 17/03 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cyberattaques-moins-nombreuses-plus-fortes-17-03_VN-202603170962.html)  
 *Source : bfmtv.com | Publication : 2026-03-17*
