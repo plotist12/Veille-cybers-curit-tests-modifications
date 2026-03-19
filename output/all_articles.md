@@ -1,5 +1,164 @@
-# Résumés – 2026-03-18
+# Résumés – 2026-03-19
 
+
+## [Le groupe Thales recrute 9.000 personnes dans le monde, dont 230 à Toulouse](https://lopinion.com/amp/articles/economie/32907_thales-recrute-toulouse)  
+*Source : lopinion.com | Publication : 2026-03-19*
+
+- Le groupe Thales recrute 9.000 personnes dans le monde, dont 230 à Toulouse Le groupe français Thales compte recruter 9.000 personnes dans le monde, dont 230 à Toulouse.
+- Voici les profils recherchés.
+- Le géant français des hautes technologies Thales confirme sa forte dynamique de recrutement.
+- En 2026, le groupe prévoit d’embaucher plus de 9.000 collaborateurs dans le monde, dont une part significative en France et particulièrement à Toulouse, l’un de ses pôles stratégiques.
+
+## [Une technique de piratage furtive vise des millions d'iPhone qui peuvent être compromis par ...](https://www.bfmtv.com/tech/cybersecurite/une-technique-de-piratage-furtive-vise-des-millions-d-i-phone-qui-peuvent-etre-compromis-par-une-simple-page-web-officielle_AV-202603190839.html)  
+*Source : bfmtv.com | Publication : 2026-03-19*
+
+- Une technique de piratage furtive vise des millions d'iPhone qui peuvent être compromis par une simple page web officielle Après Coruna, suite d'outils de piratage d'iPhone le smartphone d'Apple fait l'objet d'une nouvelle menace.
+- Baptisée Darksword, elle permet à toute personne mal attentionnée, à l'aide d'une simple page web et d'un lien infecté, de pénétrer l'appareil et d'espionner son utilisateur, en volant au passage ses données.
+- La menace est très sérieuse, comme l'indique Google dans un long rapport rédigé par son Groupe de renseignement sur les menaces.
+- Elle concerne des millions d'appareils tournant sur iOS 18 ou des versions antérieures.Jamais en mesure de savoir si le smartphone est compromis Une simple faille Javascript pour aspirer toutes les données Pour réussir ce piratage, Darksword profite d'une faille dans Safari via un code écrit en Javascript.
+
+## [Microchip renforce Trust Platform avec les nouveaux services TA101 TrustFLEX et ...](https://www.ecinews.fr/fr/microchip-renforce-trust-platform-avec-les-nouveaux-services-ta101-trustflex-et-trustmanager-pour-repondre-aux-reglementations-cybersecurite/)  
+*Source : ecinews.fr | Publication : 2026-03-19*
+
+- Microchip renforce Trust Platform avec les nouveaux services TA101 TrustFLEX et TrustMANAGER pour répondre aux réglementations cybersécurité Des solutions matérielles + services cloud pour une conformité à la CRA et aux normes industrielles/automobiles Microchip Technology annonce l’élargissement de son offre Trust Platform avec deux nouveaux dispositifs de sécurité : TA101 TrustFLEX : circuits d’authentification sécurisée préconfigurés en usine - TA101 TrustMANAGER : circuits avec services cloud intégrés via keySTREAM (Kudelski Labs) - Ces solutions viennent répondre aux exigences croissantes imposées par : le EU Cyber Resilience Act (CRA), - les normes industrielles IEC 62443, - les normes automobiles ISO/SAE 21434 et UNECE WP.29, - les architectures Software‑Defined Vehicles (SDV).
+- - Elles visent à simplifier la conformité réglementaire tout en réduisant la complexité des implémentations de sécurité dans les systèmes industriels et automobiles.
+- TA101 TrustFLEX : sécurité matérielle prête à l’emploi Le TA101 TrustFLEX (TA101‑TFLXTLS) fournit une solution d’authentification matérielle préconfigurée pour les cas d’usage les plus courants : Avantages clés : configurations cryptographiques établies en usine, - authentification rapide et matérielle, - réduction du temps de développement, - diminution des risques liés à la configuration manuelle, - documentation de conformité simplifiée.
+- - Le provisioning matériel sécurisé est effectué dans des usines certifiées selon les Critères Communs.
+
+## [Microchip simplifie la <b>cybersécurité</b> embarquée avec ses nouveaux services Trust Platform ...](https://www.elektormagazine.fr/news/microchip-simplifie-la-cybersecurite-embarquee-avec-ses-nouveaux-services-trust-platform-prets-pour-la-cra-et-l-automobile)  
+*Source : elektormagazine.fr | Publication : 2026-03-19*
+
+- Microchip simplifie la cybersécurité embarquée avec ses nouveaux services Trust Platform prêts pour la CRA et l’automobile 19 mars 2026 sur sur Quand les réglementations se durcissent, la sécurité doit devenir simple Entre le Cyber Resilience Act, les normes industrielles IEC et les réglementations automobiles, les fabricants doivent désormais intégrer la sécurité dès la conception.
+- Mais gérer clés, certificats, PKI, provisioning et mises à jour sécurisées est devenu un casse‑tête.
+- Microchip propose une réponse clé‑en‑main : TA101 TrustFLEX + TA101 TrustMANAGER.
+- TrustFLEX : la sécurité matérielle prête à l’emploi Pas de configuration cryptographique complexe.Pas de risque d’erreur humaine.
+
+## [<b>Ransomware</b> : 36 jours une vulnérabilité inédite exploitée 36 jours avant d'être rendue publique](https://www.lemagit.fr/actualites/366640450/Ransomware-36-jours-une-vulnerabilite-inedite-exploitee-36-jours-avant-detre-rendue-publique)  
+*Source : lemagit.fr | Publication : 2026-03-19*
+
+- MR - stock.adobe.com Ransomware : une vulnérabilité inédite exploitée 36 jours avant d’être rendue publique Le ransomware Interlock a été utilisé dès le 26 janvier dans des cyberattaques dont le point de départ fut l’exploitation d’une vulnérabilité touchant les équipements Cisco, et rendue publique le 4 mars.
+- C’est le 4 mars que Cisco a levé le voile sur la vulnérabilité référencée CVE-2026-20131 affectant son logiciel Secure Firewall Management Center (FMC).
+- Critique, elle permet, après avoir été exploitée avec succès, d’exécuter du code arbitraire à distance sur les systèmes affectés.
+- Mais voilà, selon AWS, la CVE-2026-20131 était exploitée depuis le 26 janvier pour lancer des cyberattaques débouchant sur le déclenchement du ransomware de la discrète enseigne Interlock.
+
+## [Accenture, Microsoft et Avanade collaborent pour déployer des solutions de <b>cybersécurité</b> ...](https://www.zonebourse.com/actualite-bourse/accenture-microsoft-et-avanade-collaborent-pour-deployer-des-solutions-de-cybersecurite-avancees-ba-ce7e5edede8ef325)  
+*Source : zonebourse.com | Publication : 2026-03-19*
+
+- Accenture a annoncé de nouveaux actifs et de nouvelles capacités pour son service Adaptive Managed Extended Detection and Response (MxDR), permettant à ses clients de renforcer leurs plateformes Microsoft Security grâce à des solutions intégrées de pointe.
+- Accenture et Microsoft, de concert avec leur coentreprise Avanade, proposeront des solutions de cybersécurité pilotées par l&#039;IA agentique ainsi qu&#039;une analyse de données optimisée, conçues pour aider les entreprises à réduire les menaces plus rapidement, à optimiser les opérations de sécurité et à renforcer la résilience globale de leurs activités.
+- Accenture a dévoilé ces nouvelles ressources pour son offre MxDR, offrant ainsi aux clients la possibilité d&#039;enrichir leurs environnements Microsoft Security avec des outils sophistiqués.Les principales caractéristiques et avantages de l&#039;offre MxDR d&#039;Accenture pour Microsoft incluent des capacités d&#039;IA agentique innovantes qui assurent une protection et une prévention dynamiques contre les cybermenaces : l&#039;unification des données de sécurité pour une cyberdéfense plus rapide et plus intelligente.
+- Cela permet d&#039;activer ou d&#039;intégrer rapidement Microsoft Sentinel, Microsoft Defender for Endpoint, Threat Intelligence et Identity, ainsi que d&#039;autres fonctions de sécurité afin de centraliser la télémétrie provenant de sources multiples.
+
+## [270 millions d'iPhone en danger : un site web piégé permet de siphonner vos données en ...](https://www.01net.com/actualites/270-millions-iphone-danger-site-web-piege-permet-siphonner-toutes-donnees-quelques-minutes.html)  
+*Source : 01net.com | Publication : 2026-03-19*
+
+- Un nouveau kit d’exploitation de failles iOS a été découvert par les chercheurs de Lookout, avec l’appui des experts du Google Threat Intelligence Group (GTIG) et d’iVerify.
+- Baptisé DarkSword, ce kit de piratage permet de voler de grandes quantités de données personnelles, notamment celles des applications de portefeuilles de cryptomonnaies.
+- L’outil est taillé pour pirater les iPhone tournant sous des versions d’iOS allant d’iOS 18.4 à 18.7.
+- Selon les investigations des chercheurs, DarkSword est capable d’exploiter au moins six vulnérabilités présentes dans le code d’iOS.
+
+## [Les pays du Golfe, nouvelle cible prioritaire des hackers iraniens - L'Express](https://www.lexpress.fr/economie/high-tech/les-pays-du-golfe-nouvelle-cible-prioritaire-des-hackers-iraniens-GNG5FZH47NGDPFMVX74VKJ5JBY/)  
+*Source : lexpress.fr | Publication : 2026-03-19*
+
+- Le 2 mars 2026, alors que les drones iraniens frappaient les installations gazières de Ras Laffan, au Qatar, d'autres attaques, plus discrètes, visaient le pays.
+- Des centaines de caméras de sécurité connectées ont reçu, subitement, des demandes de connexion à distance, exploitant des failles dans le processus d'authentification.
+- Derrière ces tentatives d'intrusion plane l'ombre de groupes de cyberattaquants iraniens.
+- "Depuis le 28 février, ils sont particulièrement actifs dans les tentatives de piratage de caméras", pointe Gil Messing, responsable du renseignement cyber chez CheckPoint.
+
+## [Le Label France Cybersecurity distingue 91 solutions de confiance pour 2026](https://www.channelnews.fr/le-label-france-cybersecurity-distingue-91-solutions-de-confiance-pour-2026-155670)  
+*Source : channelnews.fr | Publication : 2026-03-19*
+
+- En amont du Forum InCyber, du 31 mars au 2 avril 2026, le Label France Cybersecurity dévoile 91 solutions de cybersécurité labellisées en 2026.
+- Celles-ci sont portées par 85 entreprises françaises, dont 22 nouvelles entrées cette année.
+- Leur sélection repose sur l’évaluation d’une commission indépendante comprenant des représentant·e·s des utilisateur·rice·s, de l’industrie (dont l’ACN et Hexatrust) et de l’Etat, dont l’Anssi, la DGA, la DGE et Business France.
+- Les solutions distinguées sont évaluées par des expert·e·s tiers, contrairement aux démarches d’auto-déclaration.
+
+## [N-able va piloter la <b>cybersécurité</b> de Manchester City grâce à l'IA pour renforcer sa ...](https://www.zonebourse.com/actualite-bourse/n-able-va-piloter-la-cybersecurite-de-manchester-city-grace-a-l-ia-pour-renforcer-sa-resilience-nume-ce7e5ededb8cff25)  
+*Source : zonebourse.com | Publication : 2026-03-19*
+
+- N-able va piloter la cybersécurité de Manchester City grâce à l'IA pour renforcer sa résilience numérique Publié le 19/03/2026 à 12:05 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © MT Newswires - 2026 Partager.
+
+## [PARIS : Nicolas IPPOLITO : « La <b>cybersécurité</b> exige une responsabilité claire et une ...](https://presseagence.fr/paris-nicolas-ippolito-la-cybersecurite-exige-une-responsabilite-claire-et-une-validation-offensive-continue/)  
+*Source : presseagence.fr | Publication : 2026-03-19*
+
+- PARIS : Nicolas IPPOLITO : « La cybersécurité exige une res… Partager : PARIS : Nicolas IPPOLITO : « La cybersécurité exige une responsabilité claire et une validation offensive continue » Selon une nouvelle étude d’Horizon3.ai, la fragmentation de la gouvernance en cybersécurité fragilise les entreprises françaises face à des menaces croissantes.
+- Alors que l’Agence nationale de la sécurité des systèmes d’information (ANSSI) alerte sur l’intensification des menaces systémiques visant l’écosystème numérique français, une question cruciale demeure : qui est réellement le garant de la cybersécurité au sein des organisations ?.
+- Une étude publiée ce jour par la société spécialisée Horizon3.ai révèle une gouvernance souvent trop dispersée, créant des failles dans la chaîne de défense des entreprises.
+- Basé sur une enquête menée auprès de 150 dirigeants, le « Cyber Security Report France 2025/2026 » dresse un constat préoccupant : la responsabilité en matière de sécurité informatique reste une zone grise, source d’incertitudes dans la gestion des risques et la réponse aux incidents.
+
+## [Cyberattaques dans l'espace : CYSAT veut rapprocher deux mondes qui s'ignorent encore](https://www.solutions-numeriques.com/cyberattaques-dans-lespace-cysat-veut-rapprocher-deux-mondes-qui-signorent-encore/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-19*
+
+- « On dépend des satellites sans même le savoir ».
+- Navigation, communications, synchronisation : les satellites structurent des fonctions critiques, y compris pour les territoires.
+- Pourtant, leur cybersécurité reste un angle mort.
+- Avec CYSAT Asia, l’écosystème commence à prendre la mesure d’un risque désormais stratégique.
+
+## [<b>Cybersécurité</b>: Berne met en garde contre des factures piégées par e-mail - 24 Heures](https://www.24heures.ch/cybersecurite-berne-met-en-garde-contre-des-factures-piegees-par-e-mail-427228590283)  
+*Source : 24heures.ch | Publication : 2026-03-19*
+
+- CybersÃ©curitÃ© en Suisse Berne met en garde contre une vague dâe-mails frauduleux contenant des piÃ¨ces jointes qui semblent anodines.
+- Le mÃ©canisme dâattaque dÃ©joue les dispositifs de sÃ©curitÃ©.
+- De plus en plus dâentreprises suisses signalent Ã lâOffice fÃ©dÃ©ral de la cybersÃ©curitÃ© ( OFCS) la rÃ©ception dâe-mails suspects contenant des piÃ¨ces jointes au format ZIP, relaie Â« BlickÂ».
+- DerriÃ¨re des documents dâapparence anodine se cache un mÃ©canisme dâattaque, conÃ§u pour contourner les dispositifs de sÃ©curitÃ© et installer des logiciels malveillants.
+
+## [Résilience des données en entreprise : enjeux et outils open source - GoodTech.info](https://goodtech.info/resilience-donnees-entreprise-ransomware-outils-open-source-sauvegarde/)  
+*Source : goodtech.info | Publication : 2026-03-19*
+
+- Alors que les notions de systèmes générés par l’IA, de stratégies multicloud et d’edge computing dominent les échanges professionnels, l’environnement hyperconnecté dans lequel évoluent les entreprises peut facilement conduire à une réaction impulsive face à chaque nouvelle menace.
+- Pourtant, construire une véritable résilience ne peut se faire avec une stratégie d’efforts dispersés, mais bien avec la mise en œuvre de réponses ciblées et proportionnées.
+- Une tribune de Rick Vanover, Vice President of Product Strategy, Veeam Software Les sujets ne manquent pas : ransomwares, ruptures des chaînes d’approvisionnement et exigence accrue en matière de souveraineté des données.
+- Dans ce dédale, espérer réduire tous les risques à zéro constitue une illusion.
+
+## [iPhone : cette faille majeure permet de voler toutes vos données en secret - Presse-citron](https://www.presse-citron.net/iphone-cette-faille-majeure-permet-de-voler-toutes-vos-donnees-en-secret/)  
+*Source : presse-citron.net | Publication : 2026-03-19*
+
+- En matière d’iPhone, nous sommes habitués à des piratages très ciblés.
+- Une nouvelle technique particulière qui permet cette fois de prendre le contrôle de centaines de millions d’appareils iOS est présente sur le web.
+- Elle expose les utilisateurs à des risques majeurs.
+- Ce mercredi, des chercheurs de Google et des sociétés de cybersécurité iVerify et Lookout ont ainsi dévoilé cette solution dénommée DarkSword qui a été déployée des portails infectés.
+
+## [NIS 2 : l'ANSSI publie son ReCyf, la CSNP s'impatiente et le fait savoir - Next.ink](https://next.ink/229605/nis-2-lanssi-publie-son-recyf-la-csnp-simpatiente-et-le-fait-savoir/)  
+*Source : next.ink | Publication : 2026-03-19*
+
+- NIS 2 : l’ANSSI publie son ReCyf, la CSNP s’impatiente et le fait savoir L’art du Récyf Le 19 mars à 08h41 NIS 2 devait être transposé avant le 17 octobre 2024, la France est donc largement en retard.
+- Aux dernières nouvelles, le texte devrait passer à l’Assemblée nationale en juillet (2026).
+- Trop tard pour le CSNP qui appelle à un examen « dans les plus brefs délais ».
+- De son côté, l’ANSSI présente en attendant son REférentiel CYber France (ReCyF), « qui liste les mesures recommandées par l’ANSSI pour atteindre les objectifs de sécurité fixés par NIS 2 ».
+
+## [Rennes School of Business lance un master en <b>cybersécurité</b> et management des risques](https://business-cool.com/actualites/actu-ecoles/rennes-school-of-business-lance-un-master-en-cybersecurite-pour-former-des-profils-tres-recherches/)  
+*Source : business-cool.com | Publication : 2026-03-19*
+
+- La cybersécurité n’est plus seulement une affaire d’ingénieurs.
+- Elle s’impose désormais comme un enjeu stratégique pour les entreprises, au même titre que la finance ou le marketing.
+- C’est dans ce contexte que Rennes School of Business annonce l’ouverture d’un nouveau programme à la rentrée 2026, le MSc Cybersecurity & Risk Management.
+- L’idée est claire.
+
+## [Le Québécois Gilles Brassard, partenaire du centre de <b>cybersécurité</b> de Transinne ... - L'Avenir](https://www.lavenir.net/regions/luxembourg/libin/2026/03/19/le-quebecois-gilles-brassard-partenaire-du-centre-de-cybersecurite-de-transinne-couronne-par-la-plus-grande-distinction-en-informatique-au-monde-AQFFYQHU45C55HR4PVXZAU5BAQ/)  
+*Source : lavenir.net | Publication : 2026-03-19*
+
+- Le Québécois Gilles Brassard, partenaire du centre de cybersécurité de Transinne, couronné par la plus grande distinction en informatique au monde Le professeur de l'Université de Montréal, considéré comme père de la cryptographie quantique, est co-lauréat du prestigieux Prix Turing avec son homologue Charles Bennet.
+- Il a aussi donné son nom à un laboratoire sur le pôle Galaxia.
+- Publié le 19-03-2026 à 13h25 - Mis à jour le 19-03-2026 à 13h48 - Le Prix Turing, la plus haute distinction en informatique, est d'ailleurs souvent comparé au prix Nobel dans ce domaine.
+- L'annonce des lauréats de cette année, officialisée ce mercredi, a résonné jusqu'à Transinne (Libin).
+
+## [Bibliothèque nationale de France, musées... Une cyberattaque empêche d'acheter des ... - BFM](https://www.bfmtv.com/tech/actualites/cybersecurite/bibliotheque-nationale-de-france-musees-une-cyberattaque-empeche-d-acheter-des-billets-en-ligne-depuis-plusieurs-jours_AN-202603190467.html)  
+*Source : bfmtv.com | Publication : 2026-03-19*
+
+- Bibliothèque nationale de France, musées.
+- Une cyberattaque empêche d'acheter des billets en ligne depuis plusieurs jours À croire que les hackers veulent empêcher les Français de se cultiver.
+- Depuis quelques jours, il est impossible d'acheter des billets en ligne pour certains musées ou la Bibliothèque nationale de France (BnF).
+- "La billetterie en ligne est momentanément indisponible", affiche actuellement le musée du Louvre-Lens en haut de son site.
+
+## [<b>Cybersécurité</b> : Israël Alerte Sur L'envoi De Faux SMS Du Commandement Du Front Intérieur](https://www.i24news.tv/fr/actu/technologie/artc-cybersecurite-israel-alerte-sur-l-envoi-de-faux-sms-du-commandement-du-front-interieur)  
+*Source : i24news.tv | Publication : 2026-03-19*
+
+- i24NEWS - Technologie - Cybersécurité : Israël alerte sur l'envoi de faux SMS du Commandement du front intérieur - Cybersécurité : Israël alerte sur l'envoi de faux SMS du Commandement du front intérieur Les autorités rappellent fermement que le Commandement du front intérieur n’envoie jamais de liens de téléchargement d’applications par SMS Les autorités israéliennes mettent en garde contre une vaste campagne de phishing en cours, visant la population via des messages SMS frauduleux.
+- Selon la Direction nationale israélienne de la cybersécurité, ces messages se présentent comme des communications officielles du Commandement du front intérieur, dans un contexte de tensions sécuritaires accrues.
+- Ces SMS contiennent des liens malveillants incitant les destinataires à télécharger une prétendue application destinée à faciliter la vie dans les abris.
+- En réalité, il s’agit d’une tentative de piratage visant à dérober des données personnelles, des identifiants sensibles, voire à compromettre les appareils des utilisateurs.
 
 ## [<b>Cybersécurité</b> : le paradoxe qui met en péril la souveraineté européenne](https://www.solutions-numeriques.com/dossiers/cybersecurite-le-paradoxe-qui-met-en-peril-la-souverainete-europeenne/)  
 *Source : solutions-numeriques.com | Publication : 2026-03-18*
