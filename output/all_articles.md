@@ -1,5 +1,162 @@
-# Résumés – 2026-03-19
+# Résumés – 2026-03-20
 
+
+## [Cyberattaque à La Mutuelle Familiale - Tripalio](https://presse.tripalio.fr/cyberattaque-a-la-mutuelle-familiale/)  
+*Source : presse.tripalio.fr | Publication : 2026-03-20*
+
+- Accueil Cyberattaque à La Mutuelle Familiale RRevue de Presse Cyberattaque à La Mutuelle Familiale byLéo Guittet20 mars 20261 minute read 0 Shares 0 0 0 0 Ce communiqué a été diffusé par La Mutuelle Familiale.
+- Ajouter aux articles favoris Please login to bookmarkClose Identifiant ou adresse e-mail Mot de passe Se souvenir de moi Tags:La Mutuelle Familiale 0 Shares: Share 0 Tweet 0 Pin it 0 Léo Guittet Laisser un commentaire Annuler la réponseVotre adresse e-mail ne sera pas publiée.
+- Les champs obligatoires sont indiqués avec *Commentaire * Nom * E-mail * Site web Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.
+- Δ View Comments (0).
+
+## [Le CISPE pousse Bruxelles vers un « Buy European » implicite face aux hyperscalers](https://www.solutions-numeriques.com/le-cispe-pousse-bruxelles-vers-un-buy-european-implicite-face-aux-hyperscalers/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-20*
+
+- À Bruxelles, le futur règlement sur le cloud et l’intelligence artificielle cristallise déjà les tensions.
+- Les fournisseurs européens de cloud portent leur message : sans inflexion politique forte, l’Europe ne rattrapera pas son retard.
+- Dans une lettre adressée à la Commission européenne, une vingtaine d’acteurs réunis au sein du CISPE (Cloud Infrastructure Services Providers in Europe) appellent à poser les bases d’une véritable politique industrielle du cloud.
+- En ligne de mire : la domination persistante des hyperscalers américains, Amazon, Microsoft et Google, et ce qu’ils qualifient désormais de « sovereignty washing ».
+
+## [#smartcyber #<b>cybersécurité</b> #guerre #infrastructures #iran #russie | BSMART 4Change - LinkedIn](https://fr.linkedin.com/posts/bsmarttv_smartcyber-cybersécurité-guerre-activity-7440708038182916096-gsi5)  
+*Source : fr.linkedin.com | Publication : 2026-03-20*
+
+- 🚨 Guerre hybride : quels risques pour les États face aux cyberattaques ?.
+- Dans SMART CYBER, Olivier Morel, directeur général de Snowpack et membre d’HEXATRUST, alerte sur la montée des cyberattaques ciblant les infrastructures critiques : nucléaire, électricité, eau, avec un impact physique réel.
+- Dans ce contexte de guerre hybride, il devient possible de paralyser un État sans un seul soldat sur le terrain.
+- Une menace qui transforme la sécurité nationale et questionne nos stratégies de défense.
+
+## [StravaLeaks : comment Strava a permis de localiser le Charles-de-Gaulle](https://www.solutions-numeriques.com/stravaleaks-comment-strava-a-permis-de-localiser-le-charles-de-gaulle/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-20*
+
+- Un simple footing enregistré sur une application grand public a suffi à localiser en quasi temps réel le porte-avions Charles-de-Gaulle.
+- Derrière l’anecdote, une réalité plus profonde : la surface d’exposition des organisations ne cesse de s’étendre, portée par les usages numériques eux-mêmes.
+- Un événement qui rappelle que l’humain est la première faille de la cybersécurité.
+- Une fuite triviale qui révèle une faille structurelle C’est une démonstration presque brutale de la fragilité des environnements numériques contemporains.
+
+## [« La défense européenne, quelle <b>cybersécurité</b> pour les citoyens ? » : une table ronde à ...](https://www.letelegramme.fr/finistere/brest-29200/la-defense-europeenne-quelle-cybersecurite-pour-les-citoyens-une-table-ronde-a-brest-le-jeudi-26-mars-7008916.php)  
+*Source : letelegramme.fr | Publication : 2026-03-20*
+
+- La cybersécurité revêt des enjeux croissants.
+- Une table ronde se déroulera jeudi prochain, en début de soirée, à Keraudren.
+- Le Cercle Europe Citoyennetés et Identités (CECI) organise le jeudi 26 mars 2026 une table ronde sur le thème : « La défense européenne, quelle cybersécurité pour les citoyens ?.
+- ».
+
+## [Caroline Van Cleemput devient Country Manager Belux chez Fortinet - Trends DataNews](https://datanews.levif.be/carriere/emplois/caroline-van-cleemput-devient-country-manager-belux-chez-fortinet/)  
+*Source : datanews.levif.be | Publication : 2026-03-20*
+
+- Ce faisant, Van Cleemput réintègre le secteur de la cybersécurité après avoir passé six années dans le domaine technologique au sens large.
+
+## [Agents IA, comptes machine, connecteurs MCP : le trou noir de la gestion des identités en entreprise](https://itsocial.fr/cybersecurite/cybersecurite-articles/agents-ia-comptes-machine-connecteurs-mcp-le-trou-noir-de-la-gestion-des-identites-en-entreprise/)  
+*Source : itsocial.fr | Publication : 2026-03-20*
+
+- L’IA agentique multiplie les identités numériques à une vitesse que les dispositifs de gouvernance des accès existants ne peuvent absorber.
+- Agents autonomes, comptes de service, identités machine, connecteurs MCP : autant d’entités qui agissent sur des systèmes critiques sans supervision humaine, en temps réel et avec des privilèges souvent permanents.
+- Trois études publiées simultanément en mars 2026 convergent vers le même constat : les organisations savent qu’elles sont mal préparées, mais elles cèdent à la pression d’accélérer quand même.
+- Pendant des années, la sécurité des identités a été pensée autour d’un périmètre humain : un utilisateur, un compte, une authentification.
+
+## [Armement - Incendie à Pardubice : le ministre de l'Intérieur évoque une possible attaque terroriste](https://francais.radio.cz/armement-incendie-a-pardubice-le-ministre-de-linterieur-evoque-une-possible-8881245)  
+*Source : francais.radio.cz | Publication : 2026-03-20*
+
+- Armement - Incendie à Pardubice : le ministre de l’Intérieur évoque une possible attaque terroriste L’incendie qui s’est déclaré, ce vendredi matin, dans une usine de munitions d’un complexe industriel de Pardubice (Bohême de l’Est) est probablement lié à une attaque terroriste.
+- C’est ce qu’a déclaré le ministre de l’Intérieur, Lubomír Metnar, sur le réseau X, ce vendredi midi.
+- Le site visé appartient à la société tchèque d’armement LPP Holding, qui avait annoncé il y a quelques années vouloir coopérer avec une entreprise israélienne pour la production notamment de drones et développe du matériel aussi pour l’Ukraine.
+- Aucune victime n'est à déplorer et l’étendue des dommages reste encore à déterminer.
+
+## [Conflit au Moyen-Orient: un simple footing et l'application Strava ont suffi à trahir la position ...](https://www.bfmtv.com/tech/cybersecurite/conflit-au-moyen-orient-un-simple-footing-et-l-application-strava-ont-suffi-a-trahir-la-position-du-porte-avions-charles-de-gaulle-en-pleine-mer-mediterranee_AV-202603200480.html)  
+*Source : bfmtv.com | Publication : 2026-03-20*
+
+- Conflit au Moyen-Orient: un simple footing et l’application Strava ont suffi à trahir la position du porte-avions Charles-de-Gaulle en pleine mer Méditerranée Un footing en mer, quelques foulées anodines et un secret militaire dévoilé.
+- Le Monde a localisé précisément le porte-avions français Charles-de-Gaulle en pleine mer Méditerranée, au large de Chypre.
+- Pour ça, le média s'est simplement rendu... sur l'application de running Strava.
+- En effet, le 13 mars, à 10h35, Arthur, dont le prénom a été modifié, se lance dans son traditionnel footing.
+
+## [Municipales à Marseille : Franck Allisio alerte sur une fraude électorale en plein débat ...](https://actu.orange.fr/politique/municipales-a-marseille-franck-allisio-alerte-sur-une-fraude-electorale-en-plein-debat-benoit-payan-le-recadre-magic-CNT000002nWJPK.html)  
+*Source : actu.orange.fr | Publication : 2026-03-20*
+
+- Municipales à Marseille : Franck Allisio alerte sur une fraude électorale en plein débat, Benoît Payan le recadre © Captures d'écran France 2 À quelques jours du second tour des municipales à Marseille, le débat entre Benoît Payan (Union de la gauche) et Franck Allisio (RN) s’est transformé en affrontement direct.
+- Accusations de fraude, soupçons d’accords politiques dissimulés et échanges virulents ont rythmé cette confrontation tendue retransmise sur France 2.
+- À trois jours du second tour des élections municipales, Benoît Payan (Union de la gauche) et Franck Allisio (RN), les deux candidats arrivés en tête dimanche dernier à Marseille, ont débattu jeudi 19 mars pendant une trentaine de minutes dans l'émission L'Événement retransmise sur France 2.
+- Un échange sous tension pour le maire sortant, Benoît Payan, qui a récolté 36,7 % des voix, et Franck Allisio, presque à égalité avec à 35,02 %, selon les chiffres du ministère de l'Intérieur.
+
+## [Résumé des travaux du 20 mars 2026 - Le gouvernement luxembourgeois](https://gouvernement.lu/fr/gouvernement/delles-lex/agenda.gouvernement2024+fr+actualites+toutes_actualites+communiques+2026+03-mars+20-conseil-gouvernement.html)  
+*Source : gouvernement.lu | Publication : 2026-03-20*
+
+- Dernière modification le Résumé des travaux du 20 mars 2026 Le Conseil de gouvernement s'est réuni le vendredi 20 mars 2026 sous la présidence du Premier ministre Luc Frieden.
+- Le Conseil a eu un échange de vues au sujet des dossiers de l'actualité politique internationale et européenne.
+- Le Conseil a eu un échange de vues au sujet des dossiers de l'actualité politique économique, sociale et financière.
+- Le Conseil a adopté le projet de loi relative au régime d'aides pour l'acquisition de véhicules routiers à zéro émission de CO2 qui vise à prolonger à partir du 1er juillet 2026, le régime d'aides financières pour la promotion des véhicules électriques.
+
+## [Jusqu'à huit mois de prison avec sursis pour le cyberharcèlement d'une enseignante](https://www.liberation.fr/societe/police-justice/jusqua-huit-mois-de-prison-avec-sursis-pour-le-cyberharcelement-dune-enseignante-20260320_6UX7MTENTNBRXOTC7LFVFXWIOY/)  
+*Source : liberation.fr | Publication : 2026-03-20*
+
+- Le procès des six prévenus s'est tenu fin janvier à Paris.
+- Cybercriminalité ... Cybercriminalité Harcèlement.
+- Dans la même rubrique.
+- Justice · Jusqu'à.
+
+## [Couverture cellulaire : cinq sites s'ajouteront en Estrie - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2240632/reseau-cellulaire-estrie-accessibilite)  
+*Source : ici.radio-canada.ca | Publication : 2026-03-20*
+
+- Couverture cellulaire : cinq sites s’ajouteront en Estrie La couverture cellulaire relève du ministère de la Cybersécurité et du Numérique.
+- (Photo d'archives) Photo : Radio-Canada / Réal Fradette Cinq sites cellulaires doivent être mis en service d’ici la fin de l’année en Estrie.
+- Le ministre de la Cybersécurité et du Numérique, Gilles Bélanger, en a fait l’annonce vendredi.
+- Le cabinet du ministre de la Cybersécurité et du Numérique explique que cette initiative s’inscrit dans l’Opération couverture cellulaire, qui vise à améliorer la couverture cellulaire et mettre fin aux zones mal desservies, particulièrement en région.
+
+## [Résumé des travaux du 20 mars 2026 - Le gouvernement luxembourgeois](https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/03-mars/20-conseil-gouvernement.html)  
+*Source : gouvernement.lu | Publication : 2026-03-20*
+
+- Dernière modification le Résumé des travaux du 20 mars 2026 Le Conseil de gouvernement s'est réuni le vendredi 20 mars 2026 sous la présidence du Premier ministre Luc Frieden.
+- Le Conseil a eu un échange de vues au sujet des dossiers de l'actualité politique internationale et européenne.
+- Le Conseil a eu un échange de vues au sujet des dossiers de l'actualité politique économique, sociale et financière.
+- Le Conseil a adopté le projet de loi relative au régime d'aides pour l'acquisition de véhicules routiers à zéro émission de CO2 qui vise à prolonger à partir du 1er juillet 2026, le régime d'aides financières pour la promotion des véhicules électriques.
+
+## [Génocide des Yazidis: réclusion criminelle à perpétuité requise à Paris contre le jihadiste Sabri Essid](https://actu.orange.fr/france/genocide-des-yazidis-reclusion-criminelle-a-perpetuite-requise-a-paris-contre-le-jihadiste-sabri-essid-CNT000002nWUUm.html)  
+*Source : actu.orange.fr | Publication : 2026-03-20*
+
+- Génocide des Yazidis: réclusion criminelle à perpétuité requise à Paris contre le jihadiste Sabri Essid © AFP, AFP - Image prise le 10 mars 2015 à partir d'une vidéo qui aurait été publiée par le groupe État islamique (EI) via Al-Furqan Media, l'une des plateformes jihadistes utilisées par l'EI sur le web, montrant le jihadiste français Sabri Essid alors qu'il s'adresse à une caméra en français dans un lieu non divulgué La réclusion criminelle à perpétuité a été requise vendredi à Paris dans le procès du jihadiste français Sabri Essid, jugé par défaut pour sa participation au génocide de la minorité religieuse des Yazidis en zone irako-syrienne au milieu des années 2010.
+- Sabri Essid, présumé mort en Syrie où il avait rejoint les rangs de l'Etat islamique (EI), a été un "maillon incontournable de la chaîne criminelle" qui a mis en oeuvre la politique d'extermination des Yazidis, a déclaré l'avocate générale Sophie Havard, demandant à la cour d'assises de Paris de le reconnaître coupable de génocide, crimes contre l'humanité et complicité de ces crimes.
+- Cet homme, né à Toulouse en 1984 et connu en Syrie sous le nom de Abou Dojanah al-Faransi, est une figure centrale du jihadisme français proche notamment des frères Clain, les voix de la revendication des attentats du 13 novembre 2015 en France.
+- Il est accusé d'avoir participé à la "politique d'asservissement" des Yazidis menée par l'EI, qui considérait les membres de cette communauté kurdophone adepte d'une religion pré-islamique comme des hérétiques, notamment en achetant plusieurs captives de cette communauté sur des marchés et en les soumettant à de l'esclavage sexuel, entre 2014 et 2016.
+
+## [AVIS D'EXPERT – 5 mythes sur les passkeys en entreprise à dépasser](https://www.solutions-numeriques.com/avis-dexpert-5-mythes-sur-les-passkeys-en-entreprise-a-depasser/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-20*
+
+- Fabrice de Vésian, Sales Director South EMEA et France chez Yubico, revient sur les idées reçues qui freinent encore l’adoption des passkeys en entreprise.
+- Alors que ces mécanismes d’authentification gagnent du terrain, il met en lumière les écarts entre perception et réalité, notamment sur leur déploiement, leur coût et leur niveau de sécurité.
+- Lors de la conférence FIDO Authenticate de 2025, le directeur exécutif de l’alliance FIDO a annoncé que plus de 3 milliards de passkeys sont aujourd’hui utilisés dans le monde.
+- Aussi, selon le Passkey Index 2025, l’utilisation des passkeys permettrait un taux moyen de réussite de connexion de 93 %, soit plus du double de celui obtenu avec d’autres méthodes.
+
+## [Les métiers de demain : informatique, <b>cybersécurité</b>, intelligence artificielle avec l'EPITECH](https://mcetv.ouest-france.fr/2026/les-metiers-de-demain-epitech-emission/)  
+*Source : mcetv.ouest-france.fr | Publication : 2026-03-20*
+
+- Les métiers de demain : informatique, cybersécurité, intelligence artificielle avec l’EPITECH (émission Demain TV) Depuis plus de 25 ans, EPITECH s’est distinguée par une pédagogie innovante fondée sur la pratique et l’expérimentation.
+- Dans ce nouvel épisode de l’émission Les Métiers de Demain, diffusée sur Demain TV et MCE TV, Florence Duprat explore les transformations majeures des métiers de la Tech.
+- EPITECH : Former les talents de la Tech Informatique, ingénierie logicielle, intelligence artificielle, cybersécurité : autant de secteurs stratégiques qui façonnent aujourd’hui les carrières et les compétences de demain.
+- Réalisée en partenariat avec le Groupe IONIS et l’école d’informatique EPITECH, cette émission met en lumière les nouvelles façons d’apprendre, de se former et d’entrer dans l’univers des métiers technologiques.
+
+## [Pour une meilleure couverture cellulaire dans nos régions : mise en service de cinq sites ...](https://coalitionavenirquebec.org/fr/blog/2026/03/20/pour-une-meilleure-couverture-cellulaire-dans-nos-regions-mise-en-service-de-cinq-sites-cellulaires-en-estrie/)  
+*Source : coalitionavenirquebec.org | Publication : 2026-03-20*
+
+- Pour une meilleure couverture cellulaire dans nos régions : mise en service de cinq sites cellulaires en Estrie Publié le 20 mars 2026 Le ministre de la Cybersécurité et du Numérique, Gilles Bélanger, a annoncé aujourd’hui la mise en service, d’ici à la fin de l’année, de cinq sites cellulaires en Estrie lors d’une conférence de presse.
+- L’événement a également été l’occasion d’inaugurer une tour supplémentaire qui est présentement en service dans la même région.
+- Pour l’occasion, il était accompagné du député de Mégantic, François Jacques.
+- Cette annonce s’inscrit dans la volonté du gouvernement du Québec de livrer des résultats concrets pour améliorer la couverture cellulaire et de mettre fin aux zones mal desservies, particulièrement en région.
+
+## [WTA : Swiatek reconnait « être un peu perdue - Orange Sports](https://sports.orange.fr/tennis/wta/article/wta-swiatek-reconnait-etre-un-peu-perdue-exclu-CNT000002nWXPX.html)  
+*Source : sports.orange.fr | Publication : 2026-03-20*
+
+- Aurélie Sacchelli, Media365 : publié le vendredi 20 mars 2026 à 12h46 Eliminée dès son entrée en lice au WTA 1000 de Miami par sa compatriote Magda Linette, Iga Swiatek a reconnu qu'elle était un peu perdue actuellement, mais elle ne désespère pas de retrouver son niveau rapidement.
+- Les spectateurs du tournoi de Miami ont assisté à un petit moment d'histoire du tennis féminin jeudi, car pour la première fois depuis 73 matchs, soit depuis le Masters 2021, Iga Swiatek n'a pas remporté sa première rencontre dans un tournoi.
+- Opposée à sa compatriote Magda Linette (50e), la n°3 mondiale s'est inclinée 1-6, 7-5, 6-3.
+- Alors qu'elle avait réussi un excellent début de match, l'ancienne reine de la WTA s'est complètement écroulée.
+
+## [Miami Open 2026 - Moïse Kouame : &quot;C'est mon idole, Novak Djokovic. Il m'a envoyé un ...](https://sports.orange.fr/videos/tennis/roland-garros/miami-open-2026-moise-kouame-c-est-mon-idole-novak-djokovic-il-m-a-envoye-un-message-tres-sympa-CNT000002nWWOt.html)  
+*Source : sports.orange.fr | Publication : 2026-03-20*
+
+- Miami Open 2026 - Moïse Kouame : "C'est mon idole, Novak Djokovic.
+- Il m'a envoyé un message très sympa" par Tennis Actu TV info - Moïse Kouame a frappé très fort au Masters 1000 de Miami.
+- Invité dans le tableau principal, le Français a battu le qualifié américain Zachary Svajda 5-7, 6-4, 6-4 pour son tout premier match dans un tableau principal de Masters 1000.
+- Ce succès lui permet de devenir à la fois le plus jeune vainqueur de l’histoire du tournoi de Miami, le plus jeune joueur à gagner un match en Masters 1000 depuis Rafael Nadal à Hambourg en 2003, et le premier joueur né en 2009 ou après à remporter un match sur le circuit ATP.
 
 ## [Le groupe Thales recrute 9.000 personnes dans le monde, dont 230 à Toulouse](https://lopinion.com/amp/articles/economie/32907_thales-recrute-toulouse)  
 *Source : lopinion.com | Publication : 2026-03-19*
