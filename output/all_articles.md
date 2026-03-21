@@ -1,5 +1,156 @@
-# Résumés – 2026-03-20
+# Résumés – 2026-03-21
 
+
+## [Scandale : Des millions de données d'élèves de l'enseignement catholique en vente sur le darkweb](https://tribunechretienne.com/scandale-des-millions-de-donnees-deleves-catholiques-en-vente-sur-le-darkweb/)  
+*Source : tribunechretienne.com | Publication : 2026-03-21*
+
+- L’affaire prend une tournure bien plus grave.
+- Ce qui apparaissait d’abord comme un incident informatique interne à l’enseignement catholique pourrait en réalité révéler une fuite massive de données désormais exposées aux trafics du darkweb.
+- Le 20 mars , le Secrétariat général de l’Enseignement catholique (Sgec) a reconnu avoir été victime d’un piratage visant une application de gestion des établissements du premier degré.
+- Les données concernées touchent directement les élèves, leurs familles et les enseignants.
+
+## [Voitures volées, drones militaires, GPS hackés, on entre dans le laboratoire qui explore ... - Clubic](https://www.clubic.com/actualite-605551-voitures-volees-drones-militaires-gps-hackes-on-entre-dans-le-laboratoire-qui-explore-toutes-les-menaces.html)  
+*Source : clubic.com | Publication : 2026-03-21*
+
+- Gaël Musquet, hacker et météorologue bien connu de ses domaines de prédilection, a installé au Campus Cyber un laboratoire dédié aux vulnérabilités matérielles des systèmes connectés.
+- Un espace pédagogique qui bouscule les idées reçues sur la cybersécurité.
+- On y crochette des serrures, on y dissèque des bus CAN, on y programme des drones par fibre optique.
+- Le laboratoire de Gaël Musquet, au troisième étage du Campus Cyber installé à Puteaux, à quelques mètres de La Défense, est un concentré de menaces réelles, et d'outils pour y répondre.
+
+## [<b>Cybersécurité</b> : les bons réflexes pour protéger votre vie numérique - Sitegeek.fr](https://www.sitegeek.fr/article-technologie/logiciels-cyber/cybersecurite-les-bons-reflexes-pour-proteger-votre-vie-numerique/)  
+*Source : sitegeek.fr | Publication : 2026-03-21*
+
+- Désormais, Internet fait partie de la vie de tous les jours.
+- On l’utilise pour consulter ses comptes, acheter en ligne, envoyer des documents, discuter avec ses proches, gérer des démarches… Mais cette présence constante du numérique s’accompagne aussi de risques bien réels.
+- Vol de données, piratage de comptes, fraude bancaire, usurpation d’identité : les menaces sont nombreuses et touchent aujourd’hui tout le monde.
+- Heureusement, pour limiter les risques, quelques réflexes simples peuvent déjà faire une vraie différence.
+
+## [Le français Orange va être un des premiers au monde à attaquer un marché potentiel de 4,5 ...](https://media24.fr/2026/03/20/le-geant-francais-orange-devient-la-premier-deurope-a-proposer-ce-service-contre-les-drones/)  
+*Source : media24.fr | Publication : 2026-03-21*
+
+- 20Face à la montée des drones malveillants, Orange déploie une arme inattendue : un bouclier anti-drone accessible sur abonnement, directement depuis le cloud.
+- Le marché des drones civils explose.
+- Surveillance, logistique, captation vidéo… les usages ne cesse de se multiplier, et avec eux, les risques.
+- Intrusions, espionnage industriel, perturbations d’événements ou de sites sensibles : le phénomène est devenu un véritable enjeu de sécurité.
+
+## [Vers une gouvernance par les résultats en matière de <b>cybersécurité</b> au Vietnam](https://fr.vietnamplus.vn/vers-une-gouvernance-par-les-resultats-en-matiere-de-cybersecurite-au-vietnam-post260190.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2026-03-21*
+
+- Hanoï (VNA) - Le 21 mars, le Premier ministre Pham Minh Chinh, également chef du Comité national de pilotage de la cybersécurité, a présidé la première réunion de 2026 du Comité afin d’évaluer la situation et les résultats de ses activités, ainsi que de définir les orientations, missions et solutions prioritaires pour garantir la cybersécurité nationale.
+- La réunion s’est tenue en présentiel au siège du gouvernement et en ligne avec les 34 villes et provinces du pays.
+- S’exprimant lors de la réunion, le Premier ministre Pham Minh Chinh a souligné que le contexte international et régional évolue de manière complexe, nécessitant une nouvelle approche en matière de sécurité, notamment face aux cyberattaques, aux fraudes et aux menaces pesant sur la stabilité sociale.
+- Dans ce contexte, il a insisté sur la nécessité d’adopter une nouvelle pensée et des actions décisives, en mettant l’accent sur les résultats tangibles et l’efficacité réelle.
+
+## [<b>Cybersécurité</b> au Vietnam : vers une gouvernance axée sur les résultats](https://lecourrier.vn/cybersecurite-au-vietnam-vers-une-gouvernance-axee-sur-les-resultats/1343770.html)  
+*Source : lecourrier.vn | Publication : 2026-03-21*
+
+- >> L'IA en tête des investissements en cybersécurité au Vietnam >> L’Assemblée nationale accélère son virage numérique >> Cybersécurité : le Vietnam mise sur l’authentification mobile de nouvelle génération La réunion s’est tenue en présentiel au siège du gouvernement et en ligne avec les 34 villes et provinces du pays.
+- S’exprimant lors de la réunion, le Premier ministre Pham Minh Chinh a souligné que le contexte international et régional évolue de manière complexe, nécessitant une nouvelle approche en matière de sécurité, notamment face aux cyberattaques, aux fraudes et aux menaces pesant sur la stabilité sociale.
+- Dans ce contexte, il a insisté sur la nécessité d’adopter une nouvelle pensée et des actions décisives, en mettant l’accent sur les résultats tangibles et l’efficacité réelle.
+- Le chef du gouvernement a rappelé que le XIVe Congrès national du Parti avait défini la sécurité globale comme un pilier stratégique, avec un accent particulier sur la sécurité nationale, la sécurité non traditionnelle, la cybersécurité et la sécurité humaine dans la nouvelle ère.
+
+## [Même les mots de passe les plus complexes peuvent se faire pirater - 01net.com](https://www.01net.com/actualites/meme-les-mots-de-passe-les-plus-complexes-peuvent-se-faire-pirater.html)  
+*Source : 01net.com | Publication : 2026-03-21*
+
+- Une nouvelle étude publiée par Specops Software dresse un constat alarmant au sujet de la sécurité des mots de passe.
+- L’entreprise suédoise spécialisée dans la cybersécurité a découvert que même les mots de passe sécurisés générés par des gestionnaires, qui respectent bien toutes les règles éditées par les experts, finissent entre les mains des cybercriminels.
+- En règle générale, on conseille d’opter pour un mot de passe qui comprend au moins 12 caractères, ainsi qu’une variété de lettres majuscules et minuscules, de chiffres et de symboles.
+- Malgré ces bonnes pratiques, il arrive de plus en plus souvent que votre mot de passe, aussi bon élève soit-il, finisse par être aspiré par des hackers.
+
+## [Vers une gouvernance par les résultats en matière de <b>cybersécurité</b> au Vietnam](https://lecourrier.vn/vers-une-gouvernance-par-les-resultats-en-matiere-de-cybersecurite-au-vietnam/1343770.html)  
+*Source : lecourrier.vn | Publication : 2026-03-21*
+
+- >> L'IA en tête des investissements en cybersécurité au Vietnam >> L’Assemblée nationale accélère son virage numérique >> Cybersécurité : le Vietnam mise sur l’authentification mobile de nouvelle génération La réunion s’est tenue en présentiel au siège du gouvernement et en ligne avec les 34 villes et provinces du pays.
+- S’exprimant lors de la réunion, le Premier ministre Pham Minh Chinh a souligné que le contexte international et régional évolue de manière complexe, nécessitant une nouvelle approche en matière de sécurité, notamment face aux cyberattaques, aux fraudes et aux menaces pesant sur la stabilité sociale.
+- Dans ce contexte, il a insisté sur la nécessité d’adopter une nouvelle pensée et des actions décisives, en mettant l’accent sur les résultats tangibles et l’efficacité réelle.
+- Le chef du gouvernement a rappelé que le XIVe Congrès national du Parti avait défini la sécurité globale comme un pilier stratégique, avec un accent particulier sur la sécurité nationale, la sécurité non traditionnelle, la cybersécurité et la sécurité humaine dans la nouvelle ère.
+
+## [Attention, des fraudeurs utilisent peut-être votre courriel à votre insu | JDQ - QUB radio](https://www.qub.ca/article/attention-des-fraudeurs-utilisent-peut-etre-votre-courriel-a-votre-insu-548105410)  
+*Source : qub.ca | Publication : 2026-03-21*
+
+- Attention, des fraudeurs utilisent peut-être votre courriel à votre insu Gabriel Côté Des fraudeurs indiscrets épient peut-être l’ensemble de vos courriels à la recherche d’informations qu’ils pourraient exploiter, une situation cauchemardesque beaucoup plus courante qu’on le croit, selon un spécialiste de la cybersécurité.
+- • À lire aussi: Des fraudeurs interceptent ses courriels et détournent 93 000$ «Je vois des cas tous les jours», affirme en entrevue Cédric Boivin, qui est président de Secure Exchanges, une petite entreprise spécialisée dans la sécurité des courriels.
+- Ces infiltrations sont très faciles pour les fraudeurs, qui procèdent généralement en envoyant un faux lien d’identification en tout point semblable à une page de connexion réelle.
+- «Les gens pensent que c’est légitime, puis ils entrent leur nom d’utilisateur et leur mot de passe», explique M. Boivin.
+
+## [Brelotte Ba, l'atout de la Sonatel face à Wave - Dakar - SenePlus](https://www.seneplus.com/article/brelotte-ba-latout-de-la-sonatel-face-wave)  
+*Source : seneplus.com | Publication : 2026-03-21*
+
+- cybersécurité , le cloud, le Big Data et l'IA".
+- Pour asseoir cette stratégie, l'ancien judoka multiplie les alliances stratégiques avec des acteurs.
+
+## [Deux des plus grands réseaux de « botnets », ces réseaux de millions d'appareils ...](https://www.msn.com/fr-be/actualite/other/deux-des-plus-grands-réseaux-de-botnets-ces-réseaux-de-millions-d-appareils-connectés-utilisés-pour-des-cyberattaques-mis-hors-service/vi-AA1Z4PJC?cvid=fea32a65bb0247869460ff8a1afbd755)  
+*Source : msn.com | Publication : 2026-03-21*
+
+- Un écran de télévision affiche "Alerter les organisations publiques et les personnes à la cybersécurité " lors du Forum international de la.
+
+## [Post de IESF - Ingénieurs et Scientifiques de France - LinkedIn](https://fr.linkedin.com/posts/iesf-france_jni2026-jni2026-ingenierie-activity-7440789254043131904-4mJN)  
+*Source : fr.linkedin.com | Publication : 2026-03-21*
+
+- [Évènement labellisé #JNI2026] 📢 Forum INCYBER (FIC) 2026 📅 Du 31 mars au 2 avril 📍 Lille (59) 💬 Venez découvrir comment mieux piloter nos ressources critiques, sécuriser nos activités et construire une autonomie stratégique résiliente et durable.
+- 🔗 https://lnkd.in/eWp4cWyn Vous aussi, labellisez votre évènement #JNI2026 pour le faire apparaître dans le calendrier officiel des JNI 👉 https://lnkd.in/ebAgW7-T G9+ IESF Hauts de France #Ingenierie #Ingenieurs #Ingenieure #Ingenieur #Cybersécurité.
+
+## [Rapport de l'Audit 2024-2025 : Technologies : +79 % de Cybercrimes - lexpress.mu](https://lexpress.mu/s/technologies-79-de-cybercrimes-555707)  
+*Source : lexpress.mu | Publication : 2026-03-21*
+
+- L'audit souligne des retards significatifs dans plusieurs initiatives structurantes.
+- Sur un ensemble de projets liés à la cybersécurité ,.
+
+## [<b>Cybersécurité</b>: A nouvelles menaces, nouvelles stratégies - Challenge.ma](https://www.challenge.ma/cybersecurite-a-nouvelles-menaces-nouvelles-strategies-317908/)  
+*Source : challenge.ma | Publication : 2026-03-21*
+
+- Face à l’explosion des cyberattaques, le royaume qui a mis en place une nouvelle stratégie de cybersécurité, compte mettre cette expertise au service des Etats et institutions africaines qui tentent tant bien que mal de préserver leur souveraineté numérique.
+- Pour monter au créneau sur ce sujet qui trône au sommet des priorités, le GITEX AFRICA Morocco mettra ainsi l’accent sur la formation, la communication et la coopération internationale.
+- Dans tout évènement d’envergure internationale, il y a ce qu’on appelle le clou du spectacle et le clou du spectacle du GITEX AFRICA Morocco qui se tiendra à Marrakech du 7 au 9 avril 2026, c’est bien la cyber sécurité.
+- Le «STAR Summit » prévu a pour objectif avoué de permettre aux entreprises, aux industries et aux économies numériques émergentes du continent africain de renforcer la protection de leurs infrastructures critiques face à l’évolution des cyber-menaces, notamment les nouvelles menaces qui ont explosé avec l’essor de l’intelligence artificielle.
+
+## [Cinq nouvelles tours cellulaires dans la MRC du Granit](https://www.tvanouvelles.ca/2026/03/20/cinq-nouvelles-tours-cellulaire-dans-la-mrc-du-granit)  
+*Source : tvanouvelles.ca | Publication : 2026-03-21*
+
+- Cinq nouvelles tours cellulaires seront construites et mises en service d’ici la fin de l’année dans la MRC du Granit.
+- Le ministre responsable de la Cybersécurité et du Numérique, Gilles Bélanger, était de passage à Saint-Romain vendredi matin pour en faire l’annonce.
+- Ces nouvelles tours seront construites à Milan, Saint-Sébastien, Piopolis, Audet et Lac-Drolet.
+- Québec finance entièrement la construction, alors que les tours seront opérées par Sogetel.
+
+## [Pham Minh Chinh: la <b>cybersécurité</b>, une priorité urgente et stratégique - VOV World](https://vovworld.vn/fr-CH/actualites/pham-minh-chinh-la-cybersecurite-une-priorite-urgente-et-strategique-1477252.vov)  
+*Source : vovworld.vn | Publication : 2026-03-21*
+
+- Pham Minh Chinh: la cybersécurité, une priorité urgente et stratégique samedi, 21 mars 2026 | 14:53:15 (VOVWORLD) - Le Premier ministre Pham Minh Chinh a présidé ce samedi matin à Hanoï la première réunion de 2026 de la Direction nationale de la cybersécurité.
+- Les responsables de 34 provinces et grandes villes ont suivi la réunion en ligne.
+- Photo: VGP Le chef du gouvernement a insisté sur le caractère urgent et stratégique de la protection de la sécurité numérique.
+- Dans un contexte international complexe, il a appelé à garantir la souveraineté nationale dans le cyberespace, à lutter contre la cybercriminalité et à protéger la stabilité politique et sociale.
+
+## [Le Comité national de pilotage de la <b>cybersécurité</b> a tenu sa première réunion de 2026.](https://www.vietnam.vn/fr/ban-chi-dao-an-ninh-mang-quoc-gia-hop-phien-thu-nhat-nam-2026)  
+*Source : vietnam.vn | Publication : 2026-03-21*
+
+- Le Premier ministre Pham Minh Chinh a présidé la réunion.
+- Ont participé à la réunion par connexion en ligne depuis la province d'An Giang : Nguyen Thanh Phong, membre du Comité permanent du Comité provincial du Parti et vice-président permanent du Comité populaire provincial ; Nguyen Van Han, membre du Comité permanent du Comité provincial du Parti et directeur de la police provinciale, ainsi que des représentants des départements, agences et unités concernés.
+- En 2025, les efforts nationaux en matière de cybersécurité ont permis d'obtenir des résultats importants et de réaliser des progrès significatifs.
+- Tous les niveaux et tous les secteurs ont accru leurs investissements dans les infrastructures techniques et renforcé leurs capacités de protection des systèmes d'information critiques, en prévenant, détectant et combattant proactivement la cybercriminalité.
+
+## [Le Comité national de pilotage de la <b>cybersécurité</b> a tenu sa première réunion de 2026.](https://www.vietnam.vn/fr/ban-chi-dao-an-ninh-mang-quoc-gia-hop-phien-hop-thu-nhat-nam-2026)  
+*Source : vietnam.vn | Publication : 2026-03-21*
+
+- Vue de la réunion au siège isolé du Comité populaire provincial de Gia Lai.
+- Selon le rapport du Comité national de pilotage de la cybersécurité, en 2025, le leadership et l'orientation en matière de cybersécurité ont permis d'obtenir des résultats remarquables.
+- Les unités ont renforcé leurs structures et leurs effectifs, mis en œuvre la coopération internationale, diffusé l'information juridique et assuré efficacement la cybersécurité, contribuant ainsi de manière significative aux politiques et stratégies du Parti et du Gouvernement.
+- Le travail visant à garantir la sécurité et l'ordre dans le cyberespace, ainsi qu'à prévenir la cybercriminalité et la criminalité de haute technologie, a été mené avec succès par le sous-comité du ministère de la Sécurité publique, en coordination avec les ministères, les secteurs et les collectivités locales.
+
+## [Premier ministre : La <b>cybersécurité</b> et les données doivent être protégées en permanence.](https://www.vietnam.vn/fr/thu-tuong-an-ninh-mang-du-lieu-phai-duoc-bao-ve-lien-tuc)  
+*Source : vietnam.vn | Publication : 2026-03-21*
+
+- Étaient présents à la réunion le général Luong Tam Quang, ministre de la Sécurité publique et vice-président du Comité permanent, ainsi que des représentants de divers ministères et agences.
+- Lors de la réunion, le Comité directeur national de la cybersécurité a discuté et a approuvé à l'unanimité l'évaluation suivante : en 2025, le travail accompli pour garantir la cybersécurité nationale a permis d'obtenir de nombreux résultats importants et des changements positifs.
+- De nombreuses politiques de cybersécurité et de protection des données personnelles ont été améliorées.
+- D’après les évaluations, le système institutionnel et politique continue de s’améliorer, notamment grâce à l’élaboration et à la promulgation de la loi modifiée sur la cybersécurité et de la loi sur la protection des données personnelles.
+
+## [Incroyable, 373 000 sites du dark web fermés d'un seul coup - Clubic](https://www.clubic.com/actualite-605491-incroyable-sites-du-dark-web-fermes-d-un-seul-coup-et-dire-qu-un-seul-homme-etait-derriere-tout-ca.html)  
+*Source : clubic.com | Publication : 2026-03-21*
+
+- Vendredi, Europol et les autorités de 23 pays, dont la France, ont annoncé le démantèlement d'un réseau colossal sur le dark web.
+- Plus de 373 000 sites frauduleux ont été mis hors ligne.
+- Un homme était à la manœuvre.
+- Europol a levé le voile, ce vendredi 20 mars 2026, sur l'une des plus grandes opérations internationales jamais menées contre la cybercriminalité et les abus sexuels sur mineurs en ligne.
 
 ## [Cyberattaque à La Mutuelle Familiale - Tripalio](https://presse.tripalio.fr/cyberattaque-a-la-mutuelle-familiale/)  
 *Source : presse.tripalio.fr | Publication : 2026-03-20*
