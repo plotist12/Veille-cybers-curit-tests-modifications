@@ -1,5 +1,144 @@
-# Résumés – 2026-03-21
+# Résumés – 2026-03-22
 
+
+## [L'augmentation des dépenses en IA ne devrait pas impacter les budgets cyber](https://fr.finance.yahoo.com/actualites/l-augmentation-dépenses-ia-ne-210002880.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-03-22*
+
+- Investing.com – L’augmentation des dépenses consacrées à l’intelligence artificielle ne devrait pas se faire au détriment des budgets de cybersécurité, selon une récente enquête de Jefferies, soulignant la résilience des dépenses de sécurité même si les entreprises intensifient leurs investissements en IA.
+- L’enquête menée auprès de 30 directeurs informatiques et décideurs IT a révélé qu’aucun d’entre eux ne s’attend à ce que la cybersécurité figure parmi les principaux domaines confrontés à des coupes budgétaires pour financer les initiatives d’IA, soulignant la nature critique de la sécurité dans les priorités informatiques des entreprises.
+- Au lieu de cela, les entreprises semblent disposées à réaffecter les dépenses d’autres parties de l’informatique, telles que les services et les logiciels, tout en maintenant ou même en augmentant les investissements en cybersécurité.
+- Cela reflète une tendance plus large du secteur où la montée des menaces numériques, les pressions réglementaires et la complexité croissante des environnements informatiques continuent de soutenir une forte demande pour les solutions de cybersécurité.
+
+## [En matière d'IA, tout commence par une gestion rigoureuse des identités. - Global Security Mag](https://www.globalsecuritymag.fr/en-matiere-d-ia-tout-commence-par-une-gestion-rigoureuse-des-identites.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-03-22*
+
+- Global Security Mag : Quelle sera votre actualité lors du Forum InCyber (FIC) 2026 ?.
+- Xavier Mathis : à l’occasion du Forum InCyber 2026 à Lille où nous serons présents sur le stand G2-1, nous mettrons en lumière une évolution majeure : la montée en puissance du Shadow AI et la nécessité d’en faire un objet de gouvernance à part entière.
+- Notre actualité s’articule autour du lancement d’Agent Discovery, une nouvelle capacité intégrée à Okta for AI Agents, conçue pour répondre à un phénomène désormais structurel : la prolifération d’agents IA créés en dehors de tout cadre IT formel.
+- Là où le shadow IT exposait des applications non validées, le shadow AI introduit des identités non humaines autonomes, dotées de privilèges étendus et persistants, capables d’accéder à des données critiques via des autorisations OAuth.
+
+## [En Mayenne, la Chambre de commerce et d'industrie renforce son offre de formation en ...](https://www.ouest-france.fr/pays-de-la-loire/mayenne/en-mayenne-la-chambre-de-commerce-et-dindustrie-renforce-son-offre-de-formation-en-apprentissage-85380832-2482-11f1-aab7-85ef88fbd7c1)  
+*Source : ouest-france.fr | Publication : 2026-03-22*
+
+- Cybersécurité , informatique et réseaux, électronique » (Ciel) à l'Institut d'informatique appliquée (IIA) Laval - Saint-Berthevin.
+- « Répondre aux.
+
+## [30 000 cartes bancaires françaises sont en vente sur un « Amazon » du dark web](https://www.01net.com/actualites/30-000-cartes-bancaires-francaises-sont-en-vente-sur-un-amazon-du-dark-web.html)  
+*Source : 01net.com | Publication : 2026-03-22*
+
+- Un marché noir du dark web spécialisé dans la revente de données bancaires a été identifié par les experts de Zataz.
+- La plateforme est décrite comme une véritable galerie marchande en ligne, essentiellement composée de cartes bancaires piratées.
+- Pour rappel, la fraude à la carte bancaire représente environ 15% de l’ensemble des activités illicites sur le dark web, selon une étude de Panda Security.
+- En parcourant le site du dark web, les enquêteurs ont remarqué que plus de 30 000 cartes bancaires françaises sont en vente.
+
+## [DarkSword: Une nouvelle forme de piratage peut menacer votre iPhone - RTL Infos](https://infos.rtl.lu/lifestyle/tech-world/une-nouvelle-forme-de-piratage-peut-menacer-votre-iphone-542673982)  
+*Source : infos.rtl.lu | Publication : 2026-03-22*
+
+- Un puissant logiciel espion ciblant les iPhones a été découvert, ravivant les inquiétudes concernant les cybermenaces à l’échelle mondiale.
+- Selon les chercheurs, cette faille de sécurité, connue sous le nom de “DarkSword”, a été implantée sur des dizaines de sites web en Ukraine, exposant potentiellement des centaines de millions d’appareils Apple au vol de données.
+- Ce logiciel malveillant peut dérober des informations sensibles, notamment des données de portefeuilles de cryptomonnaies, et semble s’inscrire dans un marché en pleine expansion d’outils de piratage sophistiqués.
+- Des experts en sécurité de plusieurs entreprises, dont Google et Lookout, affirment qu’il s’agit de la deuxième faille majeure de sécurité affectant l’iPhone découverte ce mois-ci, témoignant d’un écosystème cybernétique de plus en plus actif et dangereux.
+
+## [Mars@Hack : une 7ᵉ édition réussie - Landes - Mont-de-Marsan - Le Petit Journal](https://www.lepetitjournal.net/40-landes/2026/03/22/marshack-une-7ᵉ-edition-reussie/amp/)  
+*Source : lepetitjournal.net | Publication : 2026-03-22*
+
+- Mars@Hack : une 7ᵉ édition réussie Le 10 mars dernier, cet événement organisé par Mont-de-Marsan Agglo, la BA 118, Campus Landes et l’IUT montois Réseaux et Télécommunications a permis de rassembler, autour du thème de la cybersécurité, professionnels du domaine, entrepreneurs, indépendants, étudiants ou passionnés de hacking.
+- Une table ronde pour sensibiliser les TPE et les PME.
+- Cette année encore, Mars@Hack a été l’occasion pour une cinquantaine de personnes d’assister à une table ronde qui a proposé un décryptage simple et concret sur la directive NIS2 (directive qui vise à renforcer le niveau de cybersécurité des tissus économique et administratif des pays membres de l’UE) et la loi sur l’IA Act (règlement européen visant à encadrer l’usage de l’intelligence artificielle).
+- Certes elles bouleversent le cadre, mais la table ronde a permis aux entreprises de voir comment elles offrent surtout l’opportunité de mieux protéger son entreprise, ses partenaires et ses clients.
+
+## [Métropole de Lyon. La <b>cybersécurité</b> recrute à tour de bras : « 30 000 postes à créer d'ici 2030 »](https://www.leprogres.fr/education/2026/03/22/la-cybersecurite-recrute-a-tour-de-bras-30-000-postes-a-creer-d-ici-2030)  
+*Source : leprogres.fr | Publication : 2026-03-22*
+
+- Métropole de Lyon La cybersécurité recrute à tour de bras : « 30 000 postes à créer d’ici 2030 » En quoi votre école de management en cybersécurité se démarque t-elle ?.
+- « On a créé l’école face au constat du manque de formation et de compétences adaptées pour nos métiers.
+- Nous avons différents types de profil avec des étudiants ayant une formation d’origine en informatique, mais aussi des profils en reconversion.
+- C’est une école portée par des professionnels avec 100 % de nos intervenants qui sont des experts en activité.
+
+## [La <b>cybersécurité</b>, une question de survie : &quot;La majorité des entreprises ayant subi un sinistre ...](https://www.dhnet.be/conso/consommation/2026/03/22/la-cybersecurite-une-question-de-survie-la-majorite-des-entreprises-ayant-subi-un-sinistre-informatique-depose-le-bilan-endeans-les-6-a-18-mois-WDO5STPMARCSZMLZGHYRAD2N3Y/)  
+*Source : dhnet.be | Publication : 2026-03-22*
+
+- La cybersécurité, une question de survie : "La majorité des entreprises ayant subi un sinistre informatique dépose le bilan endéans les 6 à 18 mois" Face à la montée des cyberattaques, un expert livre des conseils pratiques pour limiter les risques et sécuriser son activité.
+- Publié le 22-03-2026 à 08h03 - Mené conjointement par le SNI et le SPF Économie, le Cyber Challenge vise à sensibiliser les indépendants aux risques numériques et à les aider à renforcer leur protection.
+- Car la menace est bien réelle.
+- Aujourd'hui, "les indépendants et les petites structures sont devenus des cibles privilégiées des cybercriminels", rappelle Ludovic Lagneau, spécialiste en cybersécurité.
+
+## [Nouvelle arnaque Leboncoin : des « tentatives de phishing » sont en cours - 01net.com](https://www.01net.com/actualites/nouvelle-arnaque-leboncoin-tentatives-phishing-cours.html)  
+*Source : 01net.com | Publication : 2026-03-22*
+
+- Une nouvelle escroquerie se propage actuellement sur Leboncoin.
+- Selon les témoignages recueillis par La Charente Libre, l’arnaque vise les personnes qui mettent en vente des articles sur le site de petites annonces.
+- Les pirates prennent contact avec leur cible, non pas par le biais de la messagerie intégrée à la plateforme, mais par téléphone.
+- Les communications proviennent d’un numéro qui débute par 09, ce qui indique que l’appel vient d’un téléphone fixe non surtaxé en France.
+
+## [<b>Cybermenace</b> 2025 : l'ANSSI dresse un bilan sous haute tension - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/03/22/bilan-cybermenace-2025-anssi/)  
+*Source : dcod.ch | Publication : 2026-03-22*
+
+- TL;DR : L’essentiel En 2025, l’ANSSI a traité 3 586 événements de sécurité, soit une baisse de près de 20 % par rapport à 2024, en grande partie due au pic artificiel créé par les Jeux Olympiques de Paris.
+- - Quatre secteurs concentrent les trois quarts des incidents confirmés : l’éducation et la recherche (34 %), les collectivités et ministères (24 %), la santé (10 %) et les télécommunications (9 %).
+- - Les exfiltrations de données ont augmenté significativement, passant de 130 à 196 incidents recensés, tandis que les attaques par rançongiciel sont légèrement en recul avec 128 cas confirmés.
+- - Les frontières entre groupes étatiques et cybercriminels continuent de s’effacer : les uns adoptent des outils de l’écosystème criminel, les autres recourent à des pratiques typiques des services de renseignement.
+
+## [Mise en place d'une infrastructure de confiance numérique dans l'optique de la sécurisation ...](https://www.vietnam.vn/fr/xay-dung-ha-tang-niem-tin-so-tu-bai-toan-bao-mat-tai-san-ma-hoa)  
+*Source : vietnam.vn | Publication : 2026-03-22*
+
+- La transition de l' économie mondiale vers le numérique n'est plus une prédiction futuriste, mais une réalité tangible dans tous les aspects de la vie financière.
+- Dans ce contexte, les cryptomonnaies, autrefois considérées comme un investissement risqué, deviennent un élément essentiel de l'infrastructure économique numérique.
+- Cependant, à mesure que la valeur de la numérisation augmente, les vulnérabilités techniques et les risques opérationnels constituent les principaux obstacles à un développement durable.
+- Au Vietnam, la mise en place d'une infrastructure de cybersécurité robuste n'est pas une simple exigence technique, mais une condition essentielle à l'édification d'une « infrastructure de confiance » pour le futur marché financier.
+
+## [<b>Cybersécurité</b> : le Secrétariat de l'Enseignement catholique victime d'une attaque informatique](https://www.valeursactuelles.com/societe/cybersecurite-le-secretariat-de-lenseignement-catholique-victime-dune-attaque-informatique)  
+*Source : valeursactuelles.com | Publication : 2026-03-22*
+
+- Une fuite de données massive a touché l’Enseignement catholique.
+- Le Secrétariat général de l’institution a annoncé, dans un communiqué publié samedi 21 mars, avoir été la cible d’une « attaque informatique ciblant l’application de gestion de ses établissements du premier degré ».
+- Au total, 1,5 million de personnes sont concernées par ce vol de données, « soit les 800 000 élèves du premier degré (écoles maternelles et élémentaires), leurs familles, et 40 000 professeurs », précise Stéphane Gouraud, secrétaire général adjoint de l’Enseignement catholique, cité par Libération.
+- Cybersécurité : six milliards de mots de passe piratés révélés sur le dark web, dont des comptes liés au gouvernementLes données piratées concernent les noms, prénoms, adresses, mails, numéros de téléphone et dates de naissance.
+
+## [Quels sont les meilleurs salons tech en France en 2026 ? - Numerama](https://www.numerama.com/tech/2211815-quels-sont-les-salons-tech-en-france-qui-meritent-vraiment-le-detour-lagenda-2026-complet.html)  
+*Source : numerama.com | Publication : 2026-03-22*
+
+- Le CES et le MWC, c’est cool, mais c’est loin.
+- Si vous cherchez les meilleurs salons tech en France en 2026 (et après), on est là pour vous.
+- Entre intelligence artificielle, cybersécurité et innovation business, l’Hexagone ne manque pas d’événements de premier plan — ce serait un tort de les sous-estimer.
+- On y voit certes moins d’annonces produits grand public, les keynotes étant réservés aux salons plus internationaux, mais la qualité des invités et des exposants n’est plus à démontrer.
+
+## [Assemblée générale du Crédit Agricole - Hautes-Pyrénées - Vic-en-Bigorre - Le Petit Journal](https://www.lepetitjournal.net/65-hautes-pyrenees/2026/03/22/assemblee-generale-du-credit-agricole-10/amp/)  
+*Source : lepetitjournal.net | Publication : 2026-03-22*
+
+- Assemblée générale du Crédit Agricole L’assemblée générale de la caisse locale du Crédit Agricole de Vic-en-Bigorre a été, comme à l’accoutumée, parfaitement structurée et organisée.
+- Elle fut conduite avec maîtrise par Christelle Villeneuve et Olivier Germa.
+- Elle fut synchronisée en trois séquences : présentation des équipes opérationnelles, principales actions conduites, thématique de la cybersécurité.
+- La caisse locale comprend 10 102 sociétaires et 17 administrateurs.
+
+## [Vers une gouvernance par les résultats en matière de <b>cybersécurité</b> au Vietnam](https://vietnam.vnanet.vn/french/tin-van/vers-une-gouvernance-par-les-resultats-en-matiere-de-cybersecurite-au-vietnam-436033.html)  
+*Source : vietnam.vnanet.vn | Publication : 2026-03-22*
+
+- Le 21 mars, le Premier ministre Pham Minh Chinh, également chef du Comité national de pilotage de la cybersécurité , a présidé la première réunion de.
+
+## [Le site d'hackeurs associé à l'Iran réapparaissant après avoir été saisi par les États-Unis ...](https://voi.id/fr/amp/565756)  
+*Source : voi.id | Publication : 2026-03-22*
+
+- Le site d'hackeurs associé à l'Iran réapparaissant après avoir été saisi par les États-Unis, montre la résistance des opérations de cybersécurité JAKARTA — Un groupe de hackeurs soupçonnés d’être liés au gouvernement iranien a de nouveau activé son site Web seulement un jour après que son domaine a été saisi par les autorités des États-Unis.
+- Cela met en lumière la haute résistance des opérations de cybersécurité soutenues par l’État.
+- Le ministère américain de la Justice a auparavant saisi quatre domaines liés au « Handala Hack Team », une identité publique dite faisant partie d’une opération psychologique du ministère iranien du renseignement.
+- La saisie a été effectuée avec le soutien du Federal Bureau of Investigation en réponse à l'implication présumée du groupe dans des attaques informatiques contre des entreprises de technologie médicale américaines.
+
+## [Pourquoi l'industrie automobile américaine veut freiner l'arrivée des constructeurs chinois ...](https://www.automobile-magazine.fr/economie-politique/article/51380-pourquoi-lindustrie-automobile-americaine-veut-freiner-larrivee-des-constructeurs-chinois-meme-sils-produisent-localement)  
+*Source : automobile-magazine.fr | Publication : 2026-03-22*
+
+- La pression monte autour de l’administration de Donald Trump.
+- Mi-mars, plusieurs grandes organisations représentant l’ensemble de la filière automobile américaine ont adressé une lettre officielle à Washington pour demander le maintien de règles strictes contre l’arrivée des constructeurs chinois sur le marché américain.
+- Parmi les signataires figurent notamment l’Alliance for Automotive Innovation, la National Automobile Dealers Association, l’American Automotive Policy Council ou encore MEMA, l’association des équipementiers.
+- Dans ce courrier, ces acteurs alertent sur ce qu’ils considèrent comme une menace directe pour la compétitivité industrielle et même la sécurité nationale des États-Unis.
+
+## [La première réunion du Comité directeur national de la <b>cybersécurité</b> aura lieu en 2026.](https://www.vietnam.vn/fr/phien-hop-thu-nhat-nam-2026-cua-ban-chi-dao-an-ninh-mang-quoc-gia)  
+*Source : vietnam.vn | Publication : 2026-03-21*
+
+- Le Premier ministre Pham Minh Chinh préside une réunion du Comité national de pilotage de la cybersécurité (Photo : baochinhphu.vn) Étaient également présents des membres du Politburo : le général Luong Tam Quang, ministre de la Sécurité publique et vice-président du Comité permanent du Comité directeur ; Le Hoai Trung, ministre des Affaires étrangères ; ainsi que des responsables de ministères, de directions et d’agences centrales.
+- La réunion s’est tenue simultanément en présentiel et en ligne, permettant la participation de représentants des provinces et des villes de tout le pays.
+- L'emplacement de la province de Son La.
+- Étaient présents à la réunion de la branche provinciale de Son La : M. Nguyen Dinh Viet, secrétaire adjoint du Comité provincial du Parti, président du Comité populaire provincial et chef adjoint du Sous-comité permanent sur la cybersécurité de la province ; Mme Dinh Thi Bich Thao, membre du Comité permanent du Comité provincial du Parti et chef du Département provincial de la propagande et de la mobilisation des masses ; M. Dao Tai Tue, membre du Comité permanent du Comité provincial du Parti et directeur du Département de la construction ; ainsi que des responsables de départements, d’agences, d’entreprises et des membres du Sous-comité provincial.
 
 ## [Scandale : Des millions de données d'élèves de l'enseignement catholique en vente sur le darkweb](https://tribunechretienne.com/scandale-des-millions-de-donnees-deleves-catholiques-en-vente-sur-le-darkweb/)  
 *Source : tribunechretienne.com | Publication : 2026-03-21*
