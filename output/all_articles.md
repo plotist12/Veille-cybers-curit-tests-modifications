@@ -1,5 +1,150 @@
-# Résumés – 2026-03-22
+# Résumés – 2026-03-23
 
+
+## [Synack est reconnu leader du marché de la <b>cybersécurité</b> alimentée par l'IA et précurseur ...](https://www.prnewswire.com/news-releases/synack-est-reconnu-leader-du-marche-de-la-cybersecurite-alimentee-par-lia-et-precurseur-du-ptaas-aux-global-infosec-awards-302721516.html)  
+*Source : prnewswire.com | Publication : 2026-03-23*
+
+- Synack est reconnu leader du marché de la cybersécurité alimentée par l'IA et précurseur du PTaaS aux Global InfoSec Awards News provided by SynackMar 23, 2026, 11:00 ET Cette victoire à la 14e édition des Global InfoSec Awards au RSAC 2026 renforce le passage à une sécurité offensive continue et alimentée par l'IA.
+- SAN FRANCISCO, 23 mars 2026 /PRNewswire/ -- Synack, le leader des tests de pénétration dirigés par des humains et alimentés par l'IA, annonce aujourd'hui avoir remporté deux Global InfoSec Awards - leader du marché de la cybersécurité alimentée par l'IA et précurseur du PTaaS - décernés par Cyber Defense Magazine (CDM).
+- Ces récompenses valident la capacité de Synack à aider les organisations à améliorer leur cyber-résilience, à réduire les risques et à diminuer le coût des opérations de sécurité grâce à des tests évolutifs pilotés par l'IA.
+- Elles viennent aussi couronner les 13 années d'expertise de Synack en tests de pénétration au service des entreprises internationales, des agences gouvernementales et des infrastructures critiques.
+
+## [Un nouveau master en <b>cybersécurité</b> à Rennes SB pour former des profils hybrides](https://grandes-ecoles.studyrama.com/ecoles-commerce/actualites/nouveau-master-cybersecurite-rennes-sb-former-profils-hybrides)  
+*Source : grandes-ecoles.studyrama.com | Publication : 2026-03-23*
+
+- Une formation pour répondre aux enjeux de cybersécurité Dans un monde où les cybermenaces explosent et les exigences réglementaires se renforcent, la cybersécurité est devenue un enjeu de gouvernance et de compétitivité.
+- Pour répondre aux demandes des organisations qui cherchent des profils capables d’articuler expertise technique et pilotages de risques, Rennes SB ouvrira le MSc Cybersecurity & Risk Management à la rentrée 2026.
+- Le programme s’inscrit dans le cadre du plan France 2030 et du dispositif Compétences et Métiers d’Avenir (CMA), piloté par l’ANR, dont l’objectif est d’anticiper les besoins en talents dans les filières stratégiques et de créer des formations adaptées aux transformations technologiques et industrielles.
+- Il vise à former une nouvelle génération d’experts capables d’intervenir sur l’ensemble de la chaîne de valeur en cybersécurité.
+
+## [Mois de la prévention de la fraude : Renforcer la <b>cybersécurité</b> afin d'aider à protéger les ...](https://news.samsung.com/ca_fr/mois-de-la-prevention-de-la-fraude-renforcer-la-cybersecurite-afin-daider-a-proteger-les-canadiens-a-lere-de-lia)  
+*Source : news.samsung.com | Publication : 2026-03-23*
+
+- Mois de la prévention de la fraude : Renforcer la cybersécurité afin d’aider à protéger les Canadiens à l’ère de l’IA Des téléphones intelligents aux ordinateurs, Samsung Knox aide à protéger les données personnelles et professionnelles dans l’écosystème Galaxy Mars marque le mois de la prévention de la fraude au Canada, une campagne nationale visant à aider les Canadiens à reconnaître, rejeter et signaler les fraudes.
+- Alors que de plus en plus d’activités quotidiennes se déplacent en ligne, des services bancaires et de communication en passant par la collaboration au travail, des protections solides en matière de cybersécurité deviennent un élément essentiel de la prévention de la fraude et de la protection des renseignements sensibles.
+- Avec le lancement des nouveaux téléphones intelligents de la gamme Galaxy S26 et des ordinateurs de la gamme Galaxy Book6, Samsung continue de renforcer son approche axée sur la cybersécurité dans l’écosystème Galaxy, aidant les Canadiens à protéger les données personnelles et professionnelles dans un monde de plus en plus connecté.
+- Ensemble, ces tendances reflètent une réalité plus large : tandis que les outils numériques deviennent plus connectés et intelligents, la cybersécurité joue un rôle croissant dans la prévention de la fraude et la protection des données personnelles et commerciales.
+
+## [Keysight SBOM Manager : la conformité <b>cybersécurité</b> sort du flou réglementaire - ITRnews](https://itrnews.com/articles/209225/keysight-sbom-manager-la-conformite-cybersecurite-sort-du-flou-reglementaire.html)  
+*Source : itrnews.com | Publication : 2026-03-23*
+
+- Veuillez activer Javascript.
+
+## [Atelier numérique - <b>Cybersécurité</b> - Actualité illiwap de Mairie de Verrières-en-Forez](https://station.illiwap.com/fr/public/42328/actu/atelier-numerique-cybersecurite-3)  
+*Source : station.illiwap.com | Publication : 2026-03-23*
+
+- Atelier numérique - Cybersécurité Un atelier numérique sur le thème de la cybersécurité est organisé à la mairie de Verrières en Forez.
+- Il aura lieu vendredi 27 mars de 10h00 à 12h00.
+- Cet atelier est gratuit et sur inscription auprès de Nicolas Lymousin au 06 72 89 23 29 ou en mairie au 04 77 76 25 08.
+- Il aura lieu vendredi 27 mars de 10h00 à 12h00.
+
+## [Airbus acquiert le groupe Ultra Cyber pour renforcer sa <b>cybersécurité</b>](https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/airbus-acquiert-le-groupe-ultra-cyber-pour-renforcer-sa-cybersecurite)  
+*Source : vermoegenszentrum.ch | Publication : 2026-03-23*
+
+- Il y a 15 minutes Description Paris (awp/afp) - L'avionneur européen Airbus a annoncé lundi avoir conclu un accord définitif sur l'acquisition du groupe Ultra Cyber, basé au Royaume-Uni et spécialisé dans la cybersécurité pour la défense, détenu par le fonds américain Advent.
+- Ultra Cyber, qui emploie plus de 200 personnes principalement à Maidenhead, viendra compléter les activités cyber d'Airbus déjà implantées à Newport, au pays de Galles.
+- Cette acquisition viendra s'intègrera dans les activités cyber en pleine croissance au sein de l'unité Connected Intelligence d'Airbus Defence and Space et contribuera à créer "un champion de la cybersécurité" à l'échelle du Royaume-Uni, a souligné Airbus dans un communiqué.
+- Cet investissement constitue une pierre angulaire de la stratégie d'Airbus visant à devenir un pilier d'un bouclier numérique européen.
+
+## [Cyberattaques : comment les PME peuvent enfin se protéger efficacement](https://www.journaldunet.com/cybersecurite/1548953-cyberattaques-comment-les-pme-peuvent-enfin-se-proteger-efficacement/)  
+*Source : journaldunet.com | Publication : 2026-03-23*
+
+- Cyberattaques : comment les PME peuvent enfin se protéger efficacement Face à la multiplication des cybermenaces visant les PME, des solutions packagées rendent désormais accessibles des technologies de cybersécurité autrefois réservées aux grandes entreprises.
+- Les PME françaises sont devenues des cibles prioritaires.
+- Alors que les grands groupes ont massivement investi dans leur sécurité ces dernières années, les cybercriminels se tournent désormais vers des proies plus vulnérables : les structures de taille moyenne, moins équipées et souvent démunies face à des attaques sophistiquées.
+- Le dernier baromètre de Docaposte et Cyblex Consulting, réalisé auprès de 518 décideurs en 2025, confirme cette montée en maturité inégale : si 55% des organisations ont augmenté leur budget cyber et qu'un tiers appliquent désormais les recommandations de l'ANSSI (contre 16% l'année précédente), le baromètre révèle un paradoxe : 74% des répondants estiment fournir des efforts suffisants, alors que dans les faits, 74% demeurent en dessous du niveau "Essentiel" recommandé par l'Agence nationale de la sécurité des systèmes d'information.
+
+## [<b>Cybersécurité</b> : Les tendances vues par les responsables de CERTs français | LeMagIT](https://www.lemagit.fr/actualites/366640620/Cybersecurite-Lles-tendances-vues-par-les-responsables-de-CERTs-francais)  
+*Source : lemagit.fr | Publication : 2026-03-23*
+
+- A.G.
+- photographe - Fotolia Cybersécurité : Les tendances vues par les responsables de CERTs français Réunis sous l’égide de l’assureur Stoïk, plusieurs responsables de CERTs français et le président d’InterCERT France ont fait un point sur les évolutions du paysage français de la cybersécurité.
+- Le dernier rapport de la sinistralité cyber publié par Stoïk a montré que la sinistralité a plus que doublé en un an, passant de 4 % en 2024 à 10 % en 2025 et 11 % pour la France.
+- Une recrudescence d’attaques ?.
+
+## [Pourquoi l'empilement d'outils fragilise la <b>cybersécurité</b> des organisations - incyber news](https://incyber.org/article/pourquoi-lempilement-doutils-fragilise-la-cybersecurite-des-organisations/)  
+*Source : incyber.org | Publication : 2026-03-23*
+
+- Il y a quelques années encore, protéger son système d’information tenait d’une logique d’accumulation.
+- Un antivirus par-là, un pare-feu par-ci, une solution de sauvegarde pour faire bonne mesure.
+- Le résultat ?.
+- Des arsenaux hétéroclites, des alertes perdues dans des interfaces que personne ne surveille, et des failles béantes que personne ne voit venir.
+
+## [Suisse. Vols, <b>cybercriminalité</b>… la délinquance a baissé en 2025 à Genève](https://www.ledauphine.com/faits-divers-justice/2026/03/23/vols-cybercriminalite-la-delinquance-a-baisse-en-2025-a-geneve)  
+*Source : ledauphine.com | Publication : 2026-03-23*
+
+- Suisse Vols, cybercriminalité… la délinquance a baissé en 2025 à Genève -4 % : après une hausse en 2024, en 2025, la délinquance est repartie à la baisse dans le canton de Genève, selon les chiffres dévoilés ce lundi 23 mars par la police.
+- Le nombre d’infractions au Code pénal est ainsi passé de 52 146 en 2024 à 50 020 l’année dernière.
+- Une diminution plus marquée qu’au niveau national, où elle est de 2 %.
+
+## [RSSI externalisé : structurer la <b>cybersécurité</b> des établissements de santé - DSIH](https://dsih.fr/articles/6213/rssi-externalise-structurer-la-cybersecurite-des-etablissements-de-sante)  
+*Source : dsih.fr | Publication : 2026-03-23*
+
+- Publicité en cours de chargement... RSSI externalisé : structurer la cybersécurité des établissements de santé Une pression croissante sur la cybersécurité des établissements La cybersécurité s’est imposée comme un enjeu majeur pour les établissements de santé.
+- Hôpitaux, cliniques et structures médico-sociales sont aujourd’hui confrontés à une double pression : une menace cyber toujours plus forte et une multiplication des programmes nationaux qui structurent la transformation numérique du secteur.
+- Les initiatives telles que HOPEN 2, CaRE ou HOSPICONNECT s’inscrivent dans une dynamique de modernisation et de sécurisation des systèmes d’information.
+- Mais elles s’accompagnent aussi d’exigences organisationnelles et techniques importantes : gestion des identités, sécurité des accès, pilotage des risques ou sensibilisation des équipes.
+
+## [Comptes compromis, conversations espionnées, identité usurpée : la nouvelle guerre cyber ...](https://www.usine-digitale.fr/cybersecurite/comptes-compromis-conversations-espionnees-identite-usurpee-la-nouvelle-guerre-cyber-se-joue-dans-les-messageries-instantanees.OAYR3QI5IJHGRI62AT5KKMJ5DE.html)  
+*Source : usine-digitale.fr | Publication : 2026-03-23*
+
+- Les dernières alertes de cybersécurité révèlent une mutation des attaques.
+- Les messageries instantanées deviennent un point d'entrée privilégié.
+
+## [Airbus renforce sa <b>cybersécurité</b> souveraine avec l'acquisition d'Ultra Cyber Ltd au Royaume-Uni](https://aeromorning.com/airbus-renforce-sa-cybersecurite-souveraine-avec-lacquisition-dultra-cyber-ltd-au-royaume-uni/)  
+*Source : aeromorning.com | Publication : 2026-03-23*
+
+- Airbus a conclu un accord définitif avec le groupe Cobham Ultra, une société du portefeuille d'Advent, pour l'acquisition d'Ultra Cyber Ltd.
+
+## [Défense : Airbus acquiert le groupe Ultra Cyber pour renforcer sa <b>cybersécurité</b>](https://www.letelegramme.fr/economie/defense-airbus-acquiert-le-groupe-ultra-cyber-pour-renforcer-sa-cybersecurite-7011496.php)  
+*Source : letelegramme.fr | Publication : 2026-03-23*
+
+- Airbus va mettre la main sur le britannique Ultra Cyber, spécialisé dans la cybersécurité pour la défense.
+- Un investissement qui constitue une pierre angulaire de la stratégie du groupe européen visant à devenir un pilier d’un bouclier numérique européen.
+- L’avionneur européen Airbus a annoncé, lundi 23 mars, avoir conclu un accord définitif pour l’acquisition du groupe Ultra Cyber, basé au Royaume-Uni et spécialisé dans la cybersécurité pour la défense.
+- Détenu par le fonds américain Advent, Ultra Cyber, qui emploie plus de 200 personnes principalement à Maidenhead, viendra compléter les activités cyber d’Airbus déjà implantées à Newport, au pays de Galles.
+
+## [Airbus acquiert Ultra Cyber pour renforcer sa <b>cybersécurité</b> - RTN votre radio régionale](https://www.rtn.ch/rtn/Actualite/economie/Airbus-acquiert-Ultra-Cyber-pour-renforcer-sa-cybersecurite.html)  
+*Source : rtn.ch | Publication : 2026-03-23*
+
+- L'avionneur européen Airbus a annoncé lundi avoir conclu un accord définitif sur l'acquisition du groupe Ultra Cyber, basé au Royaume-Uni et.
+
+## [Une faille Cisco exploitée bien avant la publication d'un correctif - Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-une-faille-cisco-exploitee-bien-avant-la-publication-d-un-correctif-99713.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-03-23*
+
+- Interlock, l'un des groupes de ransomware les plus actifs au monde, a commencé à exploiter une vulnérabilité critique du pare-feu Cisco en tant que faille zero day plusieurs semaines avant qu'elle ne soit corrigée début mars, a révélé Amazon Web Services.
+- De type désérialisation exploitable à distance et référencée CVE-2026-20131, elle affecte logiciel Secure Firewall Management Center (FMC), et un score CVSS maximal de 10 lui a été attribué.
+- Le 4 mars, lorsque le fournisseur a publié un correctif dans le cadre de sa mise à jour semestrielle du pare-feu, les équipes de sécurité auraient dû savoir qu'il fallait l'appliquer de toute urgence, parallèlement à un correctif pour une seconde vulnérabilité du FMC, référencée CVE-2026-20079, dont le niveau de gravité était aussi de 10.
+- Cependant, la découverte par AWS qu'Interlock avait commencé à exploiter la faille CVE-2026-20131 dès le 26 janvier, soit environ 38 jours avant la publication du correctif, change la nature du problème : considérée initialement comme « urgente », la correction de cette zero day doit désormais intervenir « de toute urgence ».
+
+## [<b>Cybercriminalité</b>-Piratage numérique à Dakar : la chute des cerveaux derrière ...](https://www.dakaractu.com/Cybercriminalite-Piratage-numerique-a-Dakar-la-chute-des-cerveaux-derriere-Senabonnement-com_a270293.html)  
+*Source : dakaractu.com | Publication : 2026-03-23*
+
+- Coup de filet dans le monde du streaming illégal.
+- D’après les révélations du quotidien Libération, la Division spéciale de cybersécurité (DSC) a frappé un grand coup au cœur d’un réseau de piratage numérique opérant à travers la plateforme “Senabonnement.com”.
+- Tout est parti d’une plainte déposée par le géant de la télévision payante Canal+, dénonçant la commercialisation frauduleuse de ses contenus via des services IPTV illégaux.
+- Une activité qui permettait à des utilisateurs d’accéder à des chaînes premium, films et séries sans abonnement officiel.
+
+## [Airbus acquiert Ultra Cyber pour renforcer sa <b>cybersécurité</b> - Radio Lac](https://www.radiolac.ch/actualite/economie/airbus-acquiert-ultra-cyber-pour-renforcer-sa-cybersecurite/)  
+*Source : radiolac.ch | Publication : 2026-03-23*
+
+- Economie Airbus acquiert Ultra Cyber pour renforcer sa cybersécurité Publié Il y a 4 heures, le 23 mars 2026 De ATS KEYSTONE Cet investissement constitue une pierre angulaire de la stratégie d'Airbus visant à devenir un pilier d'un bouclier numérique européen.
+- L'opération fait suite à l'acquisition en 2024 de l'allemand Infondas, spécialisé dans la cybersécurité et la protection des systèmes informatiques sensibles.
+- (© KEYSTONE/EPA/ALI HAIDER) Share Tweet L'avionneur européen Airbus a annoncé lundi avoir conclu un accord définitif sur l'acquisition du groupe Ultra Cyber, basé au Royaume-Uni et spécialisé dans la cybersécurité pour la défense, détenu par le fonds américain Advent.
+- Ultra Cyber, qui emploie plus de 200 personnes principalement à Maidenhead, viendra compléter les activités cyber d'Airbus déjà implantées à Newport, au pays de Galles.
+
+## [Airbus acquiert le groupe Ultra Cyber pour renforcer sa <b>cybersécurité</b> - Zonebourse](https://www.zonebourse.com/actualite-bourse/airbus-acquiert-le-groupe-ultra-cyber-pour-renforcer-sa-cybersecurite-ce7e5eddd98cff20)  
+*Source : zonebourse.com | Publication : 2026-03-23*
+
+- Paris (awp/afp) - L&#039;avionneur européen Airbus a annoncé lundi avoir conclu un accord définitif sur l&#039;acquisition du groupe Ultra Cyber, basé au Royaume-Uni et spécialisé dans la cybersécurité pour la défense, détenu par le fonds américain Advent.Ultra Cyber, qui emploie plus de 200 personnes principalement à Maidenhead, viendra compléter les activités cyber d&#039;Airbus déjà implantées à Newport, au pays de Galles.Cette acquisition viendra s&#039;intègrera dans les activités cyber en pleine croissance au sein de l&#039;unité Connected Intelligence d&#039;Airbus Defence and Space et contribuera à créer &quot;un champion de la cybersécurité&quot; à l&#039;échelle du Royaume-Uni, a souligné Airbus dans un communiqué.Cet investissement constitue une pierre angulaire de la stratégie d&#039;Airbus visant à devenir un pilier d&#039;un bouclier numérique européen.
+- L&#039;opération fait suite à l&#039;acquisition réussie en 2024 d&#039;Infondas, entreprise allemande spécialisée dans la cybersécurité et la protection des systèmes informatiques sensibles.Les spécialistes en cybersécurité d&#039;Airbus sont aujourd&#039;hui présents au Royaume-Uni, en France, en Allemagne, en Espagne et en Finlande.&quot;Nous construisons une infrastructure souveraine résiliente pour maintenir le Royaume-Uni et ses alliés en avance dans le cyber&quot;, a déclaré Mike Schoellhorn, patron d&#039;Airbus Defence and Space cité dans le communiqué.&quot;Dans un contexte marqué par de fortes tensions géopolitiques et une grande incertitude, nous sommes fiers que les investissements réalisés dans Ultra Cyber aient contribué aux efforts visant à protéger le pays et ses alliés contre la guerre électronique&quot;, a pour sa part déclaré Shonnel Malani, associé gérant chez Advent cité dans le communiqué.La cybersécurité est devenue un enjeu central de la défense, car les systèmes militaires reposent désormais largement sur des données, des réseaux et des logiciels interconnectés.Protéger ces infrastructures contre les cyberattaques est essentiel pour garantir la continuité des opérations, la supériorité stratégique et la souveraineté des États.La finalisation de la transaction est attendue au second semestre 2026.afp/lf.
+
+## [Les fédérations appellent à un &quot;sursaut budgétaire&quot; sur le financement de la <b>cybersécurité</b>](https://www.hospimedia.fr/actualite/articles/20260323-systeme-d-information-les-federations-appellent-a-un)  
+*Source : hospimedia.fr | Publication : 2026-03-23*
+
+- 17h03 Article Les fédérations appellent à un "sursaut budgétaire" sur le financement de la cybersécurité Par Manuel Magrez — à Paris aujourd'hui à 17h03 "On doit faire face à une complexité des systèmes d'information sans aucun équivalent dans aucun autre domaine, couplée à un sous-investissement chronique", alerte Laurent Pierre, conseiller numérique de la Fédération hospitalière de France.
+- Il était invité, aux côtés de ses homologues de la … Découvrez Hospimedia pendant 7 jours, c’est gratuit et sans engagement•Vous avez déjà un compte ?.
+- Se connecter.
 
 ## [L'augmentation des dépenses en IA ne devrait pas impacter les budgets cyber](https://fr.finance.yahoo.com/actualites/l-augmentation-dépenses-ia-ne-210002880.html)  
 *Source : fr.finance.yahoo.com | Publication : 2026-03-22*
