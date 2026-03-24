@@ -1,5 +1,148 @@
-# Résumés – 2026-03-23
+# Résumés – 2026-03-24
 
+
+## [« Un effet de loupe que les hackers recherchent » : l'enseignement, cible privilégiée des ...](https://www.leparisien.fr/high-tech/un-effet-de-loupe-que-les-hackers-recherchent-lenseignement-cible-privilegiee-des-cyberattaques-24-03-2026-EEGXJWGXCNBEZIL3YWRKSK3VDI.php)  
+*Source : leparisien.fr | Publication : 2026-03-24*
+
+- cybersécurité.
+- (Illustration) LP/Olivier Lejeune ... Beaucoup d'entrées, mais aussi de vigilance collective, selon le Panorama de la cybermenace.
+
+## [<b>Cybersécurité</b> : Le solaire chinois fait pétocher l'Europe | Le Canard enchaîné](https://www.lecanardenchaine.fr/environnement/53387-le-solaire-chinois-fait-petocher-l-europe)  
+*Source : lecanardenchaine.fr | Publication : 2026-03-24*
+
+- Le black-out en Espagne et au Portugal en avril 2025 a sonné comme un rappel à l'ordre pour l'Union européenne, où les gestionnaires de transport d'électricité s'inquiètent des interférences et des risques de cybermanipulation, via les installations photovoltaïques.
+- Une dangereuse dépendance au « made in China »… La gigantesque panne d’électricité du 28 avril 2025 dans la péninsule Ibérique a été causée par « un cocktail parfait de défaillances en cascade ».
+- Telle est la conclusion du rapport final, remis, le 20 mars, par un groupe de 49 experts mandatés par l’Entso-E, le réseau européen des gestionnaires de transport d’électricité (« Le Monde », 20/3).
+- Tous responsables et nul coupable ?.
+
+## [Principales actions de <b>cybersécurité</b> avant la RSA Conference selon Wedbush](https://fr.investing.com/news/stock-market-news/principales-actions-de-cybersecurite-avant-la-rsa-conference-selon-wedbush-93CH-3330503)  
+*Source : fr.investing.com | Publication : 2026-03-24*
+
+- 1.
+- CrowdStrike - Le premier choix de Wedbush dans le secteur de la cybersécurité , positionné pour bénéficier de l'augmentation de la fréquence des.
+
+## [L'IA s'impose dans la cartographie des risques des grands groupes français, aux côtés de la ...](https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/lia-simpose-dans-la-cartographie-des-risques-des-grands-groupes-francais-aux-cotes-de-la-cybersecurite-et-de-la-conformite/)  
+*Source : itsocial.fr | Publication : 2026-03-24*
+
+- Les grandes entreprises françaises ont progressivement étendu leur cartographie des risques.
+- Mais c'est l'IA qui a opéré la mutation la plus significative, désormais citée en moyenne dans trois facteurs de risques distincts par chaque organisation, elle s'impose aux côtés de la cybersécurité et des enjeux réglementaires comme un axe structurant du discours institutionnel.
+- C'est ce que révèle le benchmark KPMG 2026 sur la communication des facteurs de risques, conduit auprès de 60 émetteurs du CAC 40 et du Next 80.
+- La communication sur les risques a longtemps été perçue comme un exercice formel, piloté par les équipes juridiques et orienté vers la conformité réglementaire.
+
+## [Mettez à jour vos iPhone et iPad: une nouvelle version de DarkSword, l'outil capable de ...](https://www.bfmtv.com/tech/cybersecurite/aucune-expertise-i-os-n-est-requise-une-nouvelle-version-de-dark-sword-l-outil-capable-de-pirater-des-millions-d-i-phone-est-accessible-a-tous-sur-le-net_AV-202603240608.html)  
+*Source : bfmtv.com | Publication : 2026-03-24*
+
+- Mettez à jour vos iPhone et iPad: une nouvelle version de DarkSword, l’outil capable de pirater des millions de smartphones et tablettes Apple, est accessible à tous sur le net Plus besoin d'être un hacker avec des compétences pointues pour pirater un iPhone.
+- Désormais, quelques lignes de code copiées sur internet peuvent suffire.
+- La semaine dernière, le groupe de renseignement sur les menaces de Google a découvert une technique de piratage visant spécifiquement les utilisateurs d’iPhone.
+- Baptisée DarkSword, elle permet, à l'aide d'une simple page web et d'un lien infecté, de pénétrer l'appareil et d'espionner son utilisateur.
+
+## [Ekinops s'offre Chimere et accélère dans la <b>cybersécurité</b> - Zonebourse](https://www.zonebourse.com/actualite-bourse/ekinops-s-offre-chimere-et-accelere-dans-la-cybersecurite-ce7e5edddc8ffe2c)  
+*Source : zonebourse.com | Publication : 2026-03-24*
+
+- Le groupe entend ainsi renforcer son positionnement sur les solutions de sécurisation des accès, à destination des opérateurs et des entreprises.Chimere développe une solution universelle de ZTNA (Zero Trust Network Access), qui permet de connecter de manière sécurisée les terminaux aux ressources de l&#039;entreprise.
+- Cette technologie se présente comme une alternative aux VPN et aux pares-feux traditionnels, en phase avec l&#039;essor du télétravail, de la mobilité et des accès tiers.
+- Elle est proposée sous forme d&#039;abonnement, en mode SaaS, hybride ou on-premises.Cette opération s&#039;inscrit dans la continuité de l&#039;acquisition d&#039;Olfeo en mai 2025 et dans le cadre du plan stratégique Bridge d&#039;Ekinops, qui vise à accélérer son développement sur le marché du SASE (Secure Access Service Edge), un segment en forte croissance.
+- Le rapprochement doit notamment permettre d&#039;accélérer la mise sur le marché de l&#039;offre SASE du groupe et de renforcer sa position en Europe comme à l&#039;international.Avec l&#039;intégration de Chimere, Ekinops complète son portefeuille de solutions et se positionne parmi les rares acteurs capables de proposer une offre SASE dite &quot; mono-vendeur &quot;.
+
+## [La Défense en Europe, quelle <b>cybersécurité</b> pour les citoyens ? - Agence Bretagne Presse](https://abp.bzh/la-defense-en-europe-quelle-cybersecurite-pour-les-citoyens--75477)  
+*Source : abp.bzh | Publication : 2026-03-24*
+
+- Dans le cadre de ses Journées européennes, le Cercle Europe Citoyennetés et Identités - CECI organise une table ronde consacrée à un enjeu majeur pour nos sociétés : la cybersécurité de l'Union européenne et de ses citoyens.
+- Jeudi 26 mars 2026 à 18h30 – Brest campus de Keraudren "La Défense en Europe – Quelle cybersécurité pour les citoyens ?".
+- Jeudi 26 mars 2026 à 18h30 – Brest campus de Keraudren Dans le cadre de ses Journées européennes, le Cercle Europe Citoyennetés et Identités - CECI organise une table ronde consacrée à un enjeu majeur pour nos sociétés : la cybersécurité de l'Union européenne et de ses citoyens.
+- Intervenantes : • Iulia Badea-Guéritée, Journaliste, Conférencière pour la Commission européenne TeamEuropeDirect, chargée de communication à la Maison de l'Europe de Paris.
+
+## [&quot;Rien, de ce que je fais, ne doit vraiment être montré&quot;. D'élève ingénieur à consultant en ...](https://la1ere.franceinfo.fr/rien-de-ce-que-je-fais-ne-doit-vraiment-etre-montre-d-eleve-ingenieur-a-consultant-en-cybersecurite-le-parcours-inspirant-de-tidiane-1672536.html)  
+*Source : la1ere.franceinfo.fr | Publication : 2026-03-24*
+
+- Tidiane, 24 ans, est né aux Abymes en Guadeloupe.
+- Après un bac scientifique, il suit une prépa MPSI, puis une licence d’informatique à l’Université des Antilles, où il finit major de promotion.
+- En 2022, il intègre l’INSA Rouen pour un cursus en informatique et technologies de l’information.
+- Nous le suivons alors qu’il effectue son stage de fin d’études dans un cabinet international de conseil en cybersécurité avec comme objectif d'y décrocher un CDI.
+
+## [Selon Mandiant, les acteurs malveillants ont basculé dans la déni de résilience - LeMagIT](https://www.lemagit.fr/actualites/366640645/Selon-Mandiant-les-acteurs-malveillants-ont-bascule-dans-la-deni-de-resilience)  
+*Source : lemagit.fr | Publication : 2026-03-24*
+
+- Montri - stock.adobe.com Selon Mandiant, les acteurs malveillants ont basculé dans la déni de résilience Si l'accès initial ne mène plus systématiquement au chiffrement des données, les assaillants cherchent à toucher les infrastructures de reprise.
+- Une stratégie de déni de résilience.
+- Le paysage des menaces de 2026 est dominé par une division du travail au sein de l'écosystème criminel.
+- Des partenaires d'accès initial opèrent de manière opportuniste pour établir une présence, cédant ensuite le contrôle à des groupes spécialisés dans la production d'impacts élevés, tels que le déploiement de ransomware.
+
+## [Airbus frappe un grand coup avec l'acquisition d'un spécialiste de la <b>cybersécurité</b> en Europe - Actu.fr](https://actu.fr/occitanie/toulouse_31555/airbus-frappe-un-grand-coup-avec-l-acquisition-d-un-specialiste-de-la-cybersecurite-en-europe_64046383.html)  
+*Source : actu.fr | Publication : 2026-03-24*
+
+- Après plusieurs offensives importantes ces dernières années, marquées notamment par l’ouverture dans la Ville rose d’Airbus Protect, une nouvelle filiale du géant aéronautique spécialisée dans la protection cyber, ainsi que par le rachat du spécialiste allemand Infodas, le géant aéronautique européen, dont le siège mondial est à Toulouse, poursuit ses investissements dans le domaine de la cybersécurité.
+- Il vient tout juste de mettre la main sur Ultra Cyber, un spécialiste dans son domaine, basé au Royaume-Uni.
+- Ce qu’il faut savoir sur cette acquisition.
+- À lire aussi Airbus s’offre Ultra Cyber Lundi 23 mars 2026, Airbus a annoncé avoir conclu « un accord définitif » avec le groupe Cobham Ultra, une société du portefeuille d’Advent, en vue de l’acquisition d’Ultra Cyber Ltd.
+
+## [Abonné <b>Cybersécurité</b> et souveraineté insulaire : un enjeu stratégique pour l'océan Indien](https://ecoaustral.com/cybersecurite-et-souverainete-insulaire-un-enjeu-strategique-pour-locean-indien/)  
+*Source : ecoaustral.com | Publication : 2026-03-24*
+
+- Dans un contexte géopolitique de plus en plus complexe, la dépendance de nos territoires insulaires aux télécommunications et aux services.
+
+## [Forum INCYBER 2026 : Lille métropole accueille le rendez-vous européen de la <b>cybersécurité</b>](https://www.journaldunet.com/cybersecurite/1548965-forum-incyber-2026-lille-accueille-le-rendez-vous-europeen-de-la-cybersecurite/)  
+*Source : journaldunet.com | Publication : 2026-03-24*
+
+- Forum INCYBER 2026 : Lille métropole accueille le rendez-vous européen de la cybersécurité Du 31 mars au 2 avril 2026, Lille et sa métropole accueillent la 18e édition du Forum INCYBER, rendez-vous européen incontournable de la cybersécurité.
+- Au programme : souveraineté numérique, IA et gestion des risques.
+- La cybersécurité ne se résume plus à une ligne budgétaire IT.
+- Entre tensions géopolitiques, dépendances aux infrastructures numériques étrangères et accélération de l'IA, elle est devenue un enjeu de souveraineté à part entière pour les États comme pour les entreprises.
+
+## [Le parcours inspirant de Tidiane pour devenir consultant en <b>cybersécurité</b>. Mission : premier emploi.](https://www.youtube.com/watch?v=y9HQt49HsWo)  
+*Source : youtube.com | Publication : 2026-03-24*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Les outils biomédicaux sont vus comme le &quot;maillon faible&quot; de la <b>cybersécurité</b> - Hospimedia](https://www.hospimedia.fr/actualite/articles/20260324-systeme-d-information-les-outils-biomedicaux-sont-vus)  
+*Source : hospimedia.fr | Publication : 2026-03-24*
+
+- 17h45 Article Axess pose les bases du futur organisme paritaire de prévention du privé non lucratif Par Manuel Magrez — à Lyon aujourd'hui à 17h52 "Du point de vue de la sécurité informatique, du côté des services biomédicaux, il faut le dire : nous sommes à la traîne", pointe d'emblée Pierre Mignon, président de l'Association française des ingé… Découvrez Hospimedia pendant 7 jours, c’est gratuit et sans engagement•Vous avez déjà un compte ?.
+- Se connecter.
+
+## [PARIS : Eric HERZOG : « Consolidation, IA et <b>cybersécurité</b> redéfinissent la distribution IT en 2026](https://presseagence.fr/paris-eric-herzog-consolidation-ia-et-cybersecurite-redefinissent-la-distribution-it-en-2026/)  
+*Source : presseagence.fr | Publication : 2026-03-24*
+
+- PARIS : Eric HERZOG : « Consolidation, IA et cybersécurité… Partager : PARIS : Eric HERZOG : « Consolidation, IA et cybersécurité redéfinissent la distribution IT en 2026 » Le directeur marketing d’Infinidat détaille les tendances 2026 pour la distribution IT : consolidation, services à valeur ajoutée et essor de l’IA.
+- Le secteur de la distribution informatique, ou « Channel », s’apprête à vivre des transformations profondes en 2026, poussé par un contexte économique fluctuant et des avancées technologiques fulgurantes.
+- Selon une analyse prospective d’Eric Herzog, directeur marketing (CMO) du fournisseur de solutions de stockage de données Infinidat, cinq tendances majeures se dessinent : la consolidation du marché, l’élargissement du champ d’action des partenaires, une montée en gamme vers des services avancés, et l’intégration incontournable de la cybersécurité et de l’intelligence artificielle.
+- Consolidation face à l’incertitude économique L’année 2026 sera marquée par des conditions macroéconomiques qui continueront d’exercer une pression sur la croissance et la rentabilité des entreprises.
+
+## [Le Royaume Uni durcit les règles de <b>cybersécurité</b> pour les acteurs financiers](https://www.teamfrance-export.fr/infos-sectorielles/40405/40405-le-royaume-uni-durcit-les-regles-de-cybersecurite-pour-les-acteurs-financiers)  
+*Source : teamfrance-export.fr | Publication : 2026-03-24*
+
+- Date de publication : Je souhaite aller plus loin, je veux être contacté(e) par un expert gratuitement.
+- Être contactéLe régulateur financier britannique (FCA) introduit de nouvelles exigences destinées à harmoniser la manière dont les institutions financières déclarent les incidents cyber et évaluent leurs fournisseurs technologiques.
+- Cette réforme intervient dans un contexte où plus de 40 % des incidents cyber signalés en 2025 impliquaient un prestataire externe, révélant une dépendance accrue des services financiers aux infrastructures cloud et aux chaînes d’approvisionnement numériques.
+- Les récentes pannes survenues chez des acteurs essentiels comme AWS ou Cloudflare ont montré la rapidité avec laquelle un incident isolé peut se répercuter sur de multiples entreprises.
+
+## [Databricks s'attaque à la <b>cybersécurité</b> avec Lakewatch - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/databricks-sattaque-au-marche-de-la-cybersecurite-avec-lakewatch-226408/amp)  
+*Source : silicon.fr | Publication : 2026-03-24*
+
+- Databricks s’attaque au marché de la cybersécurité avec Lakewatch.
+- Jusqu’ici positionné comme « the Data and AI company », l’éditeur franchit une nouvelle étape.
+- Ce SIEM (Security Information and Event Management) de nouvelle génération, bâti directement sur son socle analytique et IA, promet une réduction du coût total de possession (TCO) pouvant atteindre 80 % par rapport aux solutions historiques.
+- Le positionnement de Lakewatch stipule que face à des attaquants qui recourent désormais à des agents d’IA capables d’opérer à vitesse machine et à grande échelle, les outils de sécurité traditionnels montrent leurs limites.
+
+## [Houssni Job : “IA, <b>cybersécurité</b>… former vite pour répondre à l'urgence des talents”](https://telquel.ma/sponsors/houssni-job-ia-cybersecurite-former-vite-pour-repondre-a-lurgence-des-talents_1980103)  
+*Source : telquel.ma | Publication : 2026-03-24*
+
+- cybersécurité.
+- Installée au Technopark de Casablanca, Houssni Job se positionne comme un acteur émergent de la formation et du conseil RH, en.
+
+## [Airbus renforce son ancrage souverain dans la <b>cybersécurité</b> avec l'acquisition d'Ultra ...](https://www.solutions-numeriques.com/airbus-renforce-son-ancrage-souverain-dans-la-cybersecurite-avec-lacquisition-dultra-cyber-au-royaume-uni/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-24*
+
+- Avec le rachat d’Ultra Cyber Ltd, Airbus poursuit une stratégie claire : structurer un acteur cyber européen capable de répondre aux enjeux de souveraineté numérique et de résilience des États alliés.
+- Une brique supplémentaire dans une stratégie de souveraineté européenne Le mouvement n’a rien d’anecdotique.
+- En annonçant l’acquisition d’Ultra Cyber Ltd, Airbus consolide une trajectoire déjà engagée : celle de devenir un acteur cyber multi-souverain à l’échelle européenne.
+- L’opération s’inscrit dans une logique d’extension des capacités existantes, notamment au Royaume-Uni, où le groupe dispose déjà d’une base cyber à Newport, au Pays de Galles.
+
+## [Ekinops rachète la startup de <b>cybersécurité</b> Chimere - Investir - Les Echos](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/ekinops-rachete-la-startup-de-cybersecurite-chimere-2222726)  
+*Source : investir.lesechos.fr | Publication : 2026-03-24*
+
+- Dans la lignée de son plan de réorientation stratégique vers la cybersécurité et les data centers, l'équipementier télécoms a annoncé.
 
 ## [Synack est reconnu leader du marché de la <b>cybersécurité</b> alimentée par l'IA et précurseur ...](https://www.prnewswire.com/news-releases/synack-est-reconnu-leader-du-marche-de-la-cybersecurite-alimentee-par-lia-et-precurseur-du-ptaas-aux-global-infosec-awards-302721516.html)  
 *Source : prnewswire.com | Publication : 2026-03-23*
