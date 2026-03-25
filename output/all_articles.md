@@ -1,5 +1,146 @@
-# Résumés – 2026-03-24
+# Résumés – 2026-03-25
 
+
+## [Bourg-Saint-Maurice. Une conférence sur la <b>cybersécurité</b> ce jeudi 26 mars](https://www.ledauphine.com/culture-loisirs/2026/03/25/une-conference-sur-la-cybersecurite-ce-jeudi-26-mars)  
+*Source : ledauphine.com | Publication : 2026-03-25*
+
+- Bourg-Saint-Maurice Une conférence sur la cybersécurité ce jeudi 26 mars Dans le cadre d’Amphi pour Tous, il est proposé une conférence sur la cybersécurité.
+- Comment les mathématiques veillent sur vos données.
+- Achats en ligne, banque, navigation web : nos données sont protégées grâce à des outils mathématiques appelés courbes elliptiques.
+- Comment fonctionnent-ils ?.
+
+## [Dell renforce sa <b>cybersécurité</b> face au quantique et à l'IA agentique - infoDSI](https://infodsi.com/articles/209270/dell-renforce-sa-cybersecurite-face-au-quantique-et-a-lia-agentique.html)  
+*Source : infodsi.com | Publication : 2026-03-25*
+
+- Veuillez activer Javascript.
+
+## [Dell renforce sa <b>cybersécurité</b> face au quantique et à l'IA agentique - ITchannel](https://itchannel.info/articles/209270/dell-renforce-sa-cybersecurite-face-au-quantique-et-a-lia-agentique.html)  
+*Source : itchannel.info | Publication : 2026-03-25*
+
+- Veuillez activer Javascript.
+
+## [NetApp et Commvault unissent leurs forces pour une boucle fermée de récupération ... - ITRnews](https://itrnews.com/articles/209265/netapp-et-commvault-unissent-leurs-forces-pour-une-boucle-fermee-de-recuperation-anti-ransomware.html)  
+*Source : itrnews.com | Publication : 2026-03-25*
+
+- Veuillez activer Javascript.
+
+## [Airbus acquiert Ultra Cyber pour renforcer sa <b>cybersécurité</b> en Europe - VIPress.net](https://vipress.net/airbus-acquiert-ultra-cyber-pour-renforcer-sa-cybersecurite-en-europe/)  
+*Source : vipress.net | Publication : 2026-03-25*
+
+- Airbus acquiert Ultra Cyber pour renforcer sa cybersécurité en Europe Cette opération consolide la présence d’Airbus au Royaume-Uni et élargit ses capacités en cybersécurité, avec l’ambition de proposer des solutions souveraines à l’échelle européenne et auprès de ses alliés.
+- Airbus annonce un accord définitif pour l’acquisition d’Ultra Cyber auprès du groupe Cobham Ultra.
+- Cette opération, dont le montant n’a pas été dévoilé, vise à renforcer les capacités du groupe aéronautique en cybersécurité, notamment au Royaume-Uni, et à élargir son offre de solutions destinées aux États et aux partenaires internationaux.
+- Basée principalement à Maidenhead, à une cinquantaine de kilomètres à l’Ouest de Londres, Ultra Cyber compte plus de 200 employés et dispose d’un centre d’excellence reconnu.
+
+## [L'école d'ingénieurs CPE labellisée Campus région du numérique](https://www.lejournaldesentreprises.com/breve/lecole-dingenieurs-cpe-labellisee-campus-region-du-numerique-2139597)  
+*Source : lejournaldesentreprises.com | Publication : 2026-03-25*
+
+- Le 27 mars, l’école d’ingénieurs CPE Lyon recevra le label "Campus région du numérique" pour ses quatre cursus ingénieur en sciences et technologies du numérique : électronique-télécommunications-informatique ; informatique et réseaux de communication ; physique et systèmes microélectroniques ; informatique et cybersécurité.
+- Cette distinction attribuée par la Région Auvergne-Rhône-Alpes reconnaît des cursus qui répondent aux besoins en compétences du numérique, de la cybersécurité et des filières industrielles transformées par le numérique.
+- L’école d’ingénieurs CPE labellisée Campus région du numérique Publié le 1 min de lecture Fiche entreprise Retrouvez toutes les informations sur l’entreprise CPE LYON FORMATION CONTINUE ET RECHERCHE A lire dans le secteur Numérique En Auvergne Rhône-Alpes 1 min de lecture Ailleurs en France 1 min de lecture.
+
+## [La Rochelle : des lycéens de Rompsay terminent à la deuxième place d'un challenge ...](https://www.sudouest.fr/charente-maritime/la-rochelle/la-rochelle-des-lyceens-de-rompsay-terminent-a-la-deuxieme-place-d-un-challenge-national-sur-la-cybersecurite-28430393.php)  
+*Source : sudouest.fr | Publication : 2026-03-25*
+
+- Des élèves du bac professionnel Ciel du lycée Rompsay se sont illustrés lors d’un challenge national organisé par le ministère des Armées Une équipe du lycée professionnel Rompsay, à La Rochelle, s’est illustrée au Challenge national de cybers.
+- Une équipe du lycée professionnel Rompsay, à La Rochelle, s’est illustrée au Challenge national de cybersécurité organisé par le commandement de la cyberdéfense du ministère des Armées, en partenariat avec le ministère de l’Éducation nationale et de la Jeunesse.
+- Ce concours vise à sensibiliser les lycéens et étudiants aux enjeux de la cybersécurité, à développer leurs compétences numériques et à promouvoir les métiers de la cyberdéfense.
+
+## [IA, cloud, data, <b>cybersécurité</b>: NRB veut faire passer son chiffre d'affaires de 645 millions à ...](https://trends.levif.be/entreprises/ia-cloud-data-cybersecurite-nrb-veut-faire-passer-son-chiffre-daffaires-de-645-millions-a-900-millions-en-2029/)  
+*Source : trends.levif.be | Publication : 2026-03-25*
+
+- cybersécurité et data, ainsi que par l'essor de l'intelligence artificielle”.
+- Objectif 900 millions.
+- “Nous poursuivrons notre positionnement comme.
+
+## [Économie : Netiful, le pionnier landais spécialisé dans la <b>cybersécurité</b> - Sud Ouest](https://www.sudouest.fr/economie/economie-du-numerique/economie-netiful-le-pionnier-landais-specialise-dans-la-cybersecurite-28444465.php)  
+*Source : sudouest.fr | Publication : 2026-03-25*
+
+- Créée en 2019 par Richard Bécard, l’entreprise installée dans le Grand Dax ne cesse de se développer : elle compte aujourd’hui dix collaborateurs et environ 200 clients Face à la montée en flèche de la cybercriminalité depuis quelques années, le marché français de la cybersécurité ne cesse de croître.
+- Dans les Landes, Richard Bécard, 45 ans, l’a bien compris.
+- Ce Dacquois qui a travaillé pendant quinze ans dans l’informatique a créé en 2019 Netiful, une entreprise spécialisée dans la conception de solutions de cybersécurité.
+
+## [Atelier numérique - <b>Cybersécurité</b> - Actualité illiwap de Mairie de Verrières-en-Forez](https://station.illiwap.com/fr/public/42328/actu/atelier-numerique-cybersecurite-4)  
+*Source : station.illiwap.com | Publication : 2026-03-25*
+
+- Atelier numérique - Cybersécurité Un atelier numérique sur le thème de la cybersécurité est organisé à la mairie de Verrières en Forez.
+- Il aura lieu vendredi 27 mars de 10h00 à 12h00.
+- Cet atelier est gratuit et sur inscription auprès de Nicolas Lymousin au 06 72 89 23 29 ou en mairie au 04 77 76 25 08.
+- Il aura lieu vendredi 27 mars de 10h00 à 12h00.
+
+## [<b>Ransomware</b> : désactiver l'EDR est devenu la norme - LeMagIT](https://www.lemagit.fr/actualites/366640729/Ransomware-desactiver-lEDR-est-devenu-la-norme)  
+*Source : lemagit.fr | Publication : 2026-03-25*
+
+- Romolo Tavani - stock.adobe.com Ransomware : désactiver l'EDR est devenu la norme La suppression des EDR n'est plus une tactique accessoire mais une étape critique, permettant aux gangs de neutraliser les défenses avec des outils légitimes et commerciaux avant le chiffrement.
+- L'analyse des campagnes récentes révèle une évolution majeure dans les tactiques des gangs de ransomware, passant d'une simple exécution de code malveillant à une destruction méthodique de l'infrastructure de sécurité.
+- Le groupe Play illustre cette nouvelle ère avec une précision chirurgicale.
+- Contrairement aux méthodes traditionnelles qui visaient l'arrêt direct des processus, les affidés de Play ont développé une technique novatrice pour rendre les agents de sécurité (EDR/EPP) inopérants sans interruption visible.
+
+## [Vercel-Villedieu-le-Camp. La société Azylis organise une réunion sur la <b>cybersécurité</b>](https://www.estrepublicain.fr/economie/2026/03/25/la-societe-azylis-organise-une-reunion-sur-la-cybersecurite)  
+*Source : estrepublicain.fr | Publication : 2026-03-25*
+
+- Vercel-Villedieu-le-Camp La société Azylis organise une réunion sur la cybersécurité Bien peu d’habitants du village connaissent l’activité exercée par la société Azylis, installée en 2011 au 5 rue Gauthier et, depuis 2021, au 2 rue des Fourches.
+- Cela est.
+
+## [Europe : Soupçons D'implication Iranienne Dans Des Attaques Visant Des Sites Juifs](https://www.i24news.tv/fr/actu/international/europe/artc-europe-soupcons-d-implication-iranienne-dans-des-attaques-visant-des-sites-juifs)  
+*Source : i24news.tv | Publication : 2026-03-25*
+
+- i24NEWS - International - Europe - Europe : soupçons d’implication iranienne dans des attaques visant des sites juifs - Europe : soupçons d’implication iranienne dans des attaques visant des sites juifs Des services de sécurité européens soupçonnent l’Iran d’être à l’origine d’une série d’attaques visant des sites juifs en Europe.
+- Les autorités européennes enquêtent sur une possible implication de l’Iran dans une série d’attaques visant des sites juifs à travers le continent, selon des responsables de la sécurité cités par le Wall Street Journal.
+- Ces actes, qui ciblent notamment des écoles, des synagogues et des entreprises liées à Israël, s’inscriraient dans un contexte de tensions accrues liées à la guerre au Moyen-Orient.
+- D’après ces sources, des agents iraniens sont soupçonnés d’avoir recruté des individus en ligne pour mener ces attaques, en exploitant des réseaux numériques afin de coordonner des opérations à distance.
+
+## [Le chiffrement protège vos données. Cette nouvelle méthode fait comme si elles n'existaient pas](https://www.futura-sciences.com/tech/actualites/technologie-chiffrement-protege-vos-donnees-cette-nouvelle-methode-fait-comme-si-elles-nexistaient-pas-133088/)  
+*Source : futura-sciences.com | Publication : 2026-03-25*
+
+- Ce sont des ingénieurs de l'UNSW (University of New South Wales) et de l'université Monash de Melbourne qui sont à l'origine de cette innovation, dont l'inspiration semble provenir des méthodes de camouflage du caméléon.
+- Alors que les procédés habituels de sécurisation des données lors d'un transfert consistent à les cacher parmi d'autres données ou à les chiffrer de manière à les rendre illisibles, cette nouvelle technique, « communication thermoradiative sans signature », permet de les dissimuler dans le rayonnement thermique ambiant.
+- Les super-pouvoirs de l'infrarouge En procédant ainsi, il devient impossible pour un observateur de savoir qu'un échange de données est en cours.
+- La communication étant masquée par la chaleur, les signaux sont impossibles à intercepter et donc à pirater.
+
+## [Événement – Bunkerity au Forum international de la <b>cybersécurité</b> - La Vie Economique](https://www.vie-economique.com/actualites/evenement-bunkerity-au-forum-international-de-la-cybersecurite/)  
+*Source : vie-economique.com | Publication : 2026-03-25*
+
+- Cet événement combine un forum qui favorise les échanges entre les acteurs européens de la cybersécurité, et un salon dédié aux rencontres entre acheteurs et fournisseurs de solutions de cybersécur… Événement – Bunkerity au Forum international de la cybersécurité La Région Nouvelle-Aquitaine participe cette année pour la sixième fois au Forum international de la cybersécurité (InCyber), qui aura lieu du mardi 31 mars au jeudi 2 avril à Lille.
+
+## [DarkSword, la technique de piratage qui menace des centaines de millions d'iPhone](https://www.courrierinternational.com/article/cybersecurite-darksword-la-technique-de-piratage-qui-menace-des-centaines-de-millions-d-iphone_242202)  
+*Source : courrierinternational.com | Publication : 2026-03-25*
+
+- “Si vous possédez un iPhone, un conseil : mettez-le à jour immédiatement.” Sans passer par quatre chemins, Le Temps met en garde ses lecteurs.
+- Le conseil peut paraître banal, mais la menace à laquelle sont confrontés les utilisateurs de téléphones portables de marque Apple est cette fois très sérieuse, prévient le média suisse.
+- “Des pirates, agissant notamment pour le compte de la Russie, sont suspectés de pouvoir infiltrer des centaines de millions d’iPhone”, s’alarme le quotidien francophone, qui précise que “les appareils tournant avec les versions d’iOS entre 18.4 et 18.6.2 (mais pas plus vieux) sont concernés, soit quelque 300 millions d’appareils.
+- Il faut donc impérativement mettre à jour leur système, Apple ayant depuis proposé des patchs de sécurité.” Changement d’échelle La menace, contextualise Wired, “a d’abord été dévoilée par des chercheurs de Google et des sociétés de cybersécurité, iVerify et Lookout”.
+
+## [Ekinops renforce sa <b>cybersécurité</b> - CFNEWS](https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Ekinops-renforce-sa-cybersecurite-607164)  
+*Source : cfnews.net | Publication : 2026-03-25*
+
+- Cet article est réservé à nos abonnés.
+- 91% reste à lire Pour accéder à cet article, à l'ensemble du site ainsi qu'à nos bases de données, découvrez nos formules d'abonnement.
+- Accès intégral gratuit - Sans engagement Pour accéder à cet article, à l'ensemble du site ainsi qu'à nos bases de données, découvrez nos formules d'abonnement.
+
+## [&quot;Les emplois doivent rester en Afrique&quot; (Kaja Kallas) - DW](https://amp.dw.com/fr/lue-renforce-son-partenariat-sécuritaire-ouest-africain/a-76530633)  
+*Source : amp.dw.com | Publication : 2026-03-25*
+
+- "Les emplois doivent rester en Afrique" (Kaja Kallas) 25 mars 2026La Haute représentante de l’UE, Kaja Kallas, a annoncé à Accra la livraison de matériel de défense destiné à soutenir le Ghana face aux menaces régionales.
+- "Aujourd’hui, au Ghana, nous avons fourni des équipements, par exemple des drones, mais aussi des systèmes anti-drones.".
+- L’aide inclut des motos, des véhicules et des outils de lutte contre la guerre électronique.
+- Selon Kaja Kallas, ces équipements répondent aux besoins urgents du pays : "les autorités ghanéennes nous ont expliqué qu’elles avaient besoin de protéger leurs frontières, de savoir ce qui arrive.".
+
+## [Formation <b>cybersécurité</b> Bac +5 : le programme de l'École Polytechnique - Numerama](https://www.numerama.com/tech/2215861-100-000-postes-a-pourvoir-dici-2030-la-cybersecurite-un-enjeu-majeur-pour-la-souverainete-numerique-francaise.html)  
+*Source : numerama.com | Publication : 2026-03-25*
+
+- À l’origine simple fonction support, la cybersécurité s’impose désormais comme le cœur même de la stratégie des organisations.Les entreprises et institutions n’ont plus le choix : elles se doivent d’adopter une démarche proactive pour sécuriser leurs systèmes d’information.
+- Pour répondre à la pénurie de talents qui frappe actuellement le secteur, notamment chez les cadres de haut niveau, l’Institut Polytechnique de Paris a développé un programme diplômant de niveau Bac +5 compatible avec une activité professionnelle.
+- L’Executive MSc in Cybersecurity forme les architectes et gouverneurs en cybersécurité de demain par le biais d’un programme mixte, co-construit avec des partenaires industriels de premier plan comme Accenture ou Orange Cybersécurité.
+- Entre assise technique et maîtrise des enjeux stratégiques, le programme mélange théorie et pratique pour permettre à ses alumnis de comprendre, d’anticiper et de prévenir les nouvelles menaces qui pèsent sur les entreprises.
+
+## [Union européenne : Lille accueillera le siège de l'autorité douanière de l ... - France Diplomatie](https://www.diplomatie.gouv.fr/fr/salle-de-presse/fr/politique-etrangere-de-la-france/la-france-et-l-europe/evenements-et-actualites-lies-a-la-politique-europeenne-de-la-france/actualites-europeennes/article/union-europeenne-lille-accueillera-le-siege-de-l-autorite-douaniere-de-l-union)  
+*Source : diplomatie.gouv.fr | Publication : 2026-03-25*
+
+- Union européenne : Lille accueillera le siège de l’autorité douanière de l’Union européenne (25 mars 2026) A l’issue d’une procédure commune impliquant le Parlement et le Conseil, la ville de Lille a été choisie pour accueillir le siège de l’Autorité douanière de l’Union européenne (EUCA).
+- La France salue la décision d’implanter une nouvelle agence européenne sur son territoire, à Lille, ville à la culture douanière solidement ancrée.
+- Ce nouveau siège est appelé à jouer un rôle central dans la réforme de l’Union douanière en cours.
+- La France réitère sa pleine mobilisation pour la protection des consommateurs et le contrôle des biens en circulation dans l’Union.
 
 ## [« Un effet de loupe que les hackers recherchent » : l'enseignement, cible privilégiée des ...](https://www.leparisien.fr/high-tech/un-effet-de-loupe-que-les-hackers-recherchent-lenseignement-cible-privilegiee-des-cyberattaques-24-03-2026-EEGXJWGXCNBEZIL3YWRKSK3VDI.php)  
 *Source : leparisien.fr | Publication : 2026-03-24*
