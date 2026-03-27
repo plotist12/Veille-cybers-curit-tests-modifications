@@ -1,5 +1,152 @@
-# Résumés – 2026-03-26
+# Résumés – 2026-03-27
 
+
+## [CareCloud signale un incident de <b>cybersécurité</b> affectant sa division des dossiers de santé](https://fr.investing.com/news/sec-filings/carecloud-signale-un-incident-de-cybersecurite-affectant-sa-division-des-dossiers-de-sante-93CH-3336698)  
+*Source : fr.investing.com | Publication : 2026-03-27*
+
+- La société travaille avec des experts externes en cybersécurité pour renforcer davantage ses systèmes de technologie de l'information et prévenir tout.
+
+## [Les demandes d'assistance pour cyberharcèlement se multiplient chez les publics professionnels](https://www.silicon.fr/cybersecurite-1371/cybermalveillance-gouv-fr-rapport-2025-226450/amp)  
+*Source : silicon.fr | Publication : 2026-03-27*
+
+- En matière de ransomwares, gare aux statistiques en trompe-l’œil.
+- Dans son rapport annuel, Cybermalveillance.gouv.fr n’avance pas les choses ainsi, mais invite à relativiser le volume de demandes d’assistance émanant de particuliers.
+- Nombre de ceux qui s’estiment victimes font en fait face à un virus et/ou à un dysfonctionnement de leur appareil, ou encore à des escroqueries avec des procédés d’extorsion.
+- Il convient plus globalement de relativiser les chiffres pour l’ensemble des catégories d’incidents, vu les recoupements qu’il peut y avoir entre eux.
+
+## [<b>Cybersécurité</b> des entreprises : comment prévenir et contrer les escroqueries - Royal Bank](https://www.rbcroyalbank.com/fr-ca/mes-finances-dabord/academie-financiere/cybersecurite/cybersecurite-pour-les-entreprises/cybersecurite-des-entreprises-comment-prevenir-et-contrer-les-escroqueries/)  
+*Source : rbcroyalbank.com | Publication : 2026-03-27*
+
+- Les cybercriminels ciblent des entreprises de toutes tailles, et non seulement les grandes sociétés.
+- Des habitudes rigoureuses et cohérentes en matière de cybersécurité peuvent contribuer à réduire la vulnérabilité de votre entreprise.
+- Être au fait des arnaques les plus courantes visant les entreprises permet de mieux repérer les risques et d’y réagir rapidement.
+- Disposer d’un plan de reprise et de signalement contribue aussi à réduire les pertes et à éviter que d’autres entreprises soient touchées.
+
+## [<b>Cybersécurité</b> :éviter les catastrophes dans nos PME - L'Éclaireur Progrès](https://www.leclaireurprogres.ca/affaires/cybersecurite-eviter-les-catastrophes-dans-nos-pme/)  
+*Source : leclaireurprogres.ca | Publication : 2026-03-27*
+
+- Cybersécurité :éviter les catastrophes dans nos PME AFFAIRES.
+- La firme MI-Consultants, en collaboration avec la Chambre de commerce et d’industrie de Saint-Georges (CCISG), tenait un événement de sensibilisation, le jeudi 26 mars au Georgesville, outillant les PME face aux enjeux de la cybersécurité.
+- En 2026, l’ère du numérique accentue sa présence dans nos vies.
+- C’est vrai pour l’ensemble des citoyens, mais encore plus chez les petites et moyennes entreprises selon Marco Gagné, président de MI-Consultants.
+
+## [Forum INCYBER 2026 : Lille devient la capitale européenne de la <b>cybersécurité</b> dès mardi](https://www.clubic.com/actualite-606637-forum-incyber-2026-lille-devient-la-capitale-europeenne-de-la-cybersecurite-des-mardi.html)  
+*Source : clubic.com | Publication : 2026-03-27*
+
+- Comme chaque année, Lille devient le cœur battant de la cybersécurité le temps de quelques jours, avec la nouvelle édition du FIC, le Forum INCYBER, qui débute mardi.
+- Avec pour grande thématique, nos dépendances numériques.
+- Trois jours, un lieu, et des milliers de spécialistes venus de plus de 50 pays : le Forum INCYBER s'impose, édition après édition, comme le principal rendez-vous européen de la sécurité et de la confiance numériques.
+- Cette année, du 31 mars au 1er avril, avec Clubic comme partenaire média pour la deuxième fois consécutive, le thème choisi, « Maîtriser nos dépendances numériques », résonne comme un signal d'alarme autant que comme une invitation à agir.
+
+## [Airbus renforce son arsenal cyber - Air et Cosmos](https://air-cosmos.com/article/airbus-renforce-son-arsenal-cyber-71223)  
+*Source : air-cosmos.com | Publication : 2026-03-27*
+
+- Airbus a annoncé le 23 mars la signature d'un accord définitif en vue du rachat de la société britannique Cobham Cyber, afin de renforcer son.
+
+## [Les valeurs de <b>cybersécurité</b> sous pression malgré des fondamentaux solides, selon ...](https://fr.investing.com/news/analyst-ratings/les-valeurs-de-cybersecurite-sous-pression-malgre-des-fondamentaux-solides-selon-raymond-james-93CH-3336531)  
+*Source : fr.investing.com | Publication : 2026-03-27*
+
+- Investing.com - Raymond James a averti que les valeurs de cybersécurité pourraient subir une pression sur leurs valorisations suite aux.
+
+## [SFR Business choisi par Gigalis pour renforcer la <b>cybersécurité</b> des acteurs publics](https://www.megazap.fr/SFR-Business-choisi-par-Gigalis-pour-renforcer-la-cybersecurite-des-acteurs-publics_a16094.html)  
+*Source : megazap.fr | Publication : 2026-03-27*
+
+- À l’issue de la procédure de mise en concurrence organisée par le GIP Gigalis, opérateur public de services numériques et centrale d’achat nationale dédiée au numérique public, SFR Business a été retenu comme attributaire du lot 4 « Protection des infrastructures et applications ».
+- Ce marché s’inscrit dans le programme de « Cyber résilience territoriale » portée par Gigalis afin de renforcer la sécurité des systèmes d’information des acteurs publics.
+- Grâce à ce dispositif mutualisé, les collectivités territoriales, établissements publics et structures publiques bénéficient d’un accès simplifié à des solutions de cybersécurité qualifiées et sélectionnées dans un cadre contractuel sécurisé.
+- Dans ce cadre, SFR Business contribue à la mise à disposition de solutions permettant de protéger les infrastructures et applications critiques du secteur public.
+
+## [Alstom remporte un nouveau méga-contrat, de 915 millions d'euros: l'industriel français va ...](https://www.bfmtv.com/economie/entreprises/transports/alstom-remporte-un-nouveau-mega-contrat-de-915-millions-d-euros-l-industriel-francais-va-fournir-le-materiel-de-la-premiere-ligne-de-metro-de-belgrade-en-serbie_AV-202603270517.html)  
+*Source : bfmtv.com | Publication : 2026-03-27*
+
+- Alstom remporte un nouveau méga-contrat, de 915 millions d'euros: l'industriel français va fournir le matériel de la première ligne de métro de Belgrade en Serbie Belgrade, la capitale de la Serbie, va se doter de sa première ligne de métro et c'est Alstom qui aura en charge son déploiement.
+- L'industriel français a été choisi par la municipalité pour cette ligne numéro 1 qui s'étendra sur 15 kilomètres et comptera 15 stations, dont 11 kilomètres de tunnels.
+- Montant du contrat: 915 millions d'euros.
+- Ce contrat "clé en main" inclut 32 rames Metropolis sans conducteur, la signalisation et les télécommunications, l’alimentation électrique, les voies, les portes palières, l’équipement de dépôt, un centre de contrôle centralisé et des systèmes de cybersécurité complets.
+
+## [Denney. « Je suis venu pour me mettre à jour au niveau de la <b>cybersécurité</b> »](https://www.estrepublicain.fr/economie/2026/03/27/je-suis-venu-pour-me-mettre-a-jour-au-niveau-de-la-cybersecurite)  
+*Source : estrepublicain.fr | Publication : 2026-03-27*
+
+- Denney « Je suis venu pour me mettre à jour au niveau de la cybersécurité » Yannick Grandjean artisan en couverture, zinguerie, travaux... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteL'Est Républicain, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par L'Est Républicain, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant lerabonnement@estrepublicain.fr ou consulter les liens suivants : Protection des données, CGU du site et Contact.
+
+## [Cyberhebdo du 27 mars 2026 : le parti allemand « Die Linke » victime de Qilin | LeMagIT](https://www.lemagit.fr/actualites/366640760/Cyberhebdo-du-27-mars-2026)  
+*Source : lemagit.fr | Publication : 2026-03-27*
+
+- Cyberhebdo du 27 mars 2026 : le parti allemand « Die Linke » victime de Qilin Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans cette nouvelle édition du Cyberhebdo, votre revue de presse dédiée à l’actualité des cyberattaques rapportées dans les médias à travers le monde.
+- Au cours de la semaine écoulée, notre veille médiatique a permis de recenser pas moins de 11 cyberattaques relayées par la presse internationale, témoignant une fois de plus de l’intensité et de la persistance de la menace cyber à l’échelle mondiale.
+- Ces incidents ont été rapportés dans des médias issus de 9 pays différents : l’Espagne (ESP), le Royaume-Uni (GBR), les États-Unis (USA), l’Inde (IND), Taïwan (TWN), les Pays-Bas (NLD), Porto Rico (PRI), l’Italie (ITA) et l’Allemagne (DEU).
+
+## [Les valeurs de la <b>cybersécurité</b> reculent face aux craintes liées à un modèle d'IA d'Anthropic](https://www.boursedirect.fr/fr/actualites/categorie/actualites-financieres/les-valeurs-de-la-cybersecurite-reculent-face-aux-craintes-liees-a-un-modele-d-ia-d-anthropic-zone-bourse-e62317b1cc8884555f997d2d407a074cddba274e/amp)  
+*Source : boursedirect.fr | Publication : 2026-03-27*
+
+- Les valeurs de la cybersécurité reculent face aux craintes liées à un modèle d'IA d'Anthropic (Zonebourse.com) - Le secteur de la cybersécurité a été pénalisé en Bourse après des informations sur un nouveau modèle d'intelligence artificielle jugé très puissant.
+- Les investisseurs redoutent une intensification des risques liés aux cyberattaques.Les valeurs de la cybersécurité ont nettement reculé après des informations évoquant le développement par Anthropic d'un nouveau modèle d'intelligence artificielle baptisé "Mythos".
+- Selon des éléments relayés par Fortune, ce système serait le plus avancé conçu par l'entreprise, avec un déploiement progressif envisagé en raison….
+
+## [Des courriels du directeur du FBI piratés par un groupe qui serait lié à l'Iran - Le Devoir](https://www.ledevoir.com/monde/etats-unis/967355/courriels-directeur-fbi-pirates-groupe-serait-lie-iran)  
+*Source : ledevoir.com | Publication : 2026-03-27*
+
+- Des hackers du groupe Handala, présumémment lié à l’Iran, ont piraté une messagerie personnelle de Kash Patel, le directeur de la police fédérale américaine (FBI), et ont publié en ligne des documents et des photos qu’ils y ont récupérés, rapportent vendredi plusieurs médias américains.
+- Sollicité par l’AFP, le FBI a confirmé ce piratage, mais a assuré que les informations dérobées étaient bien antérieures à la nomination de M. Patel à la tête de la police fédérale en 2025 et n’avaient aucun caractère officiel.
+- « Le FBI a connaissance du fait que des acteurs malveillants visent les informations contenues dans la messagerie personnelle du directeur Patel et nous avons pris toutes les mesures nécessaires pour répondre aux risques potentiels dus à cette activité », a-t-il affirmé dans un communiqué.
+- « Les informations en question sont par nature anciennes et n’impliquent aucune information gouvernementale », ajoute le FBI.
+
+## [Rendez-vous au Forum InCyber - Gendinfo - Gendarmerie nationale](https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2026/rendez-vous-au-forum-incyber)  
+*Source : gendarmerie.interieur.gouv.fr | Publication : 2026-03-27*
+
+- cybercriminalité (OFAC), le Service du haut fonctionnaire de Défense (SHFD) et l'Unité nationale cyber (UNC) rattachée à l'Unité nationale de.
+
+## [Véhicules définis par logiciel : l'envol des mises à jour - Le Journal de l'Automobile](https://journalauto.com/constructeurs/vehicules-definis-par-logiciel-lenvol-des-mises-a-jour/)  
+*Source : journalauto.com | Publication : 2026-03-27*
+
+- Véhicules définis par logiciel : l’envol des mises à jour Publié le 27 mars 2026 Mettre à jour le logiciel de son téléphone portable ou de sa tablette est devenu complètement habituel.
+- Mettre à jour celui de sa voiture deviendra-t-il aussi simple et courant ?.
+- Peut-être, mais il ne faut pas perdre de vue qu’une automobile est largement plus complexe qu’un téléphone.
+- Cela étant, de nos jours, déjà de nombreux modèles sont mis à jour à distance, over the air (OTA).
+
+## [Les valeurs de la <b>cybersécurité</b> reculent face aux craintes liées à un modèle d'IA d'Anthropic](https://www.tradingsat.com/actualites/informations-societes/les-valeurs-de-la-cybersecurite-reculent-face-aux-craintes-liees-a-un-modele-d-ia-d-anthropic-1159522.html)  
+*Source : tradingsat.com | Publication : 2026-03-27*
+
+- (Zonebourse.com) - Le secteur de la cybersécurité a été pénalisé en Bourse après des informations sur un nouveau modèle d'intelligence artificielle jugé très puissant.
+- Les investisseurs redoutent une intensification des risques liés aux cyberattaques.
+- Les valeurs de la cybersécurité ont nettement reculé après des informations évoquant le développement par Anthropic d'un nouveau modèle d'intelligence artificielle baptisé "Mythos".
+- Selon des éléments relayés par Fortune, ce système serait le plus avancé conçu par l'entreprise, avec un déploiement progressif envisagé en raison des risques potentiels en matière de sécurité.
+
+## [Réseaux sociaux : les condamnations de Meta et YouTube marquent un tournant](https://www.solutions-numeriques.com/reseaux-sociaux-les-condamnations-de-meta-et-youtube-marquent-un-tournant/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-27*
+
+- Aux États-Unis, plusieurs décisions de justice viennent sanctionner Meta et Google pour les effets de leurs plateformes sur la santé mentale de mineurs.
+- Au-delà des montants, encore absorbables, ces verdicts pourraient ouvrir une nouvelle phase, celle de la responsabilité des produits numériques eux-mêmes.
+- Une responsabilité enfin reconnue C’est un cap qui semblait difficile à franchir.
+- Pendant des années, les géants du numérique ont largement échappé aux poursuites en s’appuyant sur la célèbre section 230 du Communications Decency Act, qui protège les plateformes en tant qu’hébergeurs de contenus.
+
+## [Les valeurs de la <b>cybersécurité</b> reculent face aux craintes liées à un modèle d'IA d'Anthropic](https://www.zonebourse.com/actualite-bourse/les-valeurs-de-la-cybersecurite-reculent-face-aux-craintes-liees-a-un-modele-d-ia-d-anthropic-ce7e51d8d988f725)  
+*Source : zonebourse.com | Publication : 2026-03-27*
+
+- Les valeurs de la cybersécurité ont nettement reculé après des informations évoquant le développement par Anthropic d&#039;un nouveau modèle d&#039;intelligence artificielle baptisé &quot;Mythos&quot;.
+- Selon des éléments relayés par Fortune, ce système serait le plus avancé conçu par l&#039;entreprise, avec un déploiement progressif envisagé en raison des risques potentiels en matière de sécurité.
+- Anthropic n&#039;a pas confirmé ces informations dans l&#039;immédiat.Sur les marchés, plusieurs acteurs du secteur ont fortement chuté.
+- CrowdStrike, Palo Alto Networks ou encore Zsclaer affichent une baisse de près de 5%.
+
+## [La stratégie nationale de <b>cybersécurité</b> prône un cofinancement des... - AEF info](https://www.aefinfo.fr/depeche/748281-la-strategie-nationale-de-cybersecurite-prone-un-cofinancement-des-csirt-territoriaux-par-l-etat-v-strubel-anssi)  
+*Source : aefinfo.fr | Publication : 2026-03-27*
+
+- En plus des cookies strictement nécessaires au fonctionnement du site, le groupe AEF info et ses partenaires utilisent des cookies ou des technologies similaires nécessitant votre consentement.
+- Avant de continuer votre navigation sur ce site, nous vous proposons de choisir les fonctionnalités dont vous souhaitez bénéficier ou non : La stratégie nationale de cybersécurité, présentée en janvier (lire sur AEF info), "prône une pérennisation" des centres territoriaux d’aide en matière de cybersécurité, "sur la base d’un cofinancement", déclare Vincent Strubel, directeur général de l’Anssi, lors d’une audition au Sénat, mardi 24 mars 2026.
+- Ces Csirt, dont l’existence est régulièrement questionnée (lire sur AEF info), devraient être financés à l’avenir "peu ou prou à 50 % par l’État", le reste étant du ressort des collectivités, en particulier les régions.
+- Le risque qu’elles ne s’inscrivent pas dans cette logique "est assumé et quelque part voulu" par l’Anssi, car ces centres n’ont de sens que si les collectivités "y trouvent leur intérêt", estime-t-il.
+
+## [La Russie arrête le créateur d'un des plus grands marchés noirs de données volées](https://www.01net.com/actualites/russie-arrete-createur-plus-grands-marches-noirs-donnees-volees.html)  
+*Source : 01net.com | Publication : 2026-03-27*
+
+- Il y a quelques semaines, LeakBase, un important marché noir spécialisé dans les données volées, a été fermé de force par le FBI.
+- Lancée en 2021 par le groupe de hackers Ares, la plateforme, considérée comme l’un des principaux marchés noirs de données au monde, comptait environ 142 000 membres enregistrés, plus de 32 000 publications et plus de 215 000 messages au moment de sa saisie.
+- Au cours de la saisie, et d’une trentaine de perquisitions, les forces de l’ordre de 15 pays et Europol sont parvenus à mettre la main sur 13 cybercriminels.
+- L’administrateur de LeakBase ne faisait cependant pas partie des pirates interpellés par les autorités à ce moment-là.
 
 ## [Renseignements et soutien supplémentaires en matière de <b>cybersécurité</b> à l'intention des ...](https://www.canada.ca/fr/services-publics-approvisionnement/services/securite-industrielle/exigences-securite-contrats/certification-fournisseurs-secteur-defense-canada-concernant-cybersecurite/renseignments-soutien-supplementaires.html)  
 *Source : canada.ca | Publication : 2026-03-26*
