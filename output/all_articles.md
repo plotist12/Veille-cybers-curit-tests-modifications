@@ -1,5 +1,152 @@
-# Résumés – 2026-03-27
+# Résumés – 2026-03-28
 
+
+## [<b>Cybersécurité</b>: Selma Malika Haddadi appelle à l'union - Horizons](https://www.horizons.dz/2026/03/cybersecurite-selma-malika-haddadi-appelle-a-lunion/)  
+*Source : horizons.dz | Publication : 2026-03-28*
+
+- Cybersécurité: Selma Malika Haddadi appelle à l’union Face à la vulnérabilité en cybersécurité, Selma Malika Haddadi appelle à l’union les pays africains samedi à Alger lors du Global Africa Tech 2026.
+- La Vice-présidente de la commission de l’Union africaine, Selma Malika Haddadi, met en exergue la contribution de l’Algérie dans l’intégration économique de l’Afrique.
+- «L es questions stratégiques pour l’avenir de l’Afrique sont devant nous.
+- La contribution de l’Algérie est visible à travers des actions palpables, en œuvrant à l’avancement du réseau transsaharien de fibre optique», relève Mme Haddadi lors son intervention à l’occasion de l’ouverture des travaux du sommet africain des télécommunications Global Africa Tech 2026 qui se tient du 28 au 30 mars.
+
+## [Anthropic : La fuite d'un modèle d'IA avancé fait chuter les valeurs de <b>cybersécurité</b>](https://www.binance.com/fr/square/post/306355521405953)  
+*Source : binance.com | Publication : 2026-03-28*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [La <b>cybersécurité</b> ne suffit pas : Gouvernance et gestion de la sécurité de l'information pour ...](https://tiinside.com.br/fr/28/03/2026/La-gouvernance-et-la-gestion-de-la-cybersécurité-et-de-la-sécurité-de-l'information-ne-suffisent-pas-à-elles-seules-à-protéger-l'entreprise./)  
+*Source : tiinside.com.br | Publication : 2026-03-28*
+
+- Des attaques récentes montrent que les organisations sont exploitées par des criminels via des intégrations, des identifiants et des relations de confiance.
+- Ces derniers mois, le système financier brésilien a connu une évolution significative dans son mode opératoire : il ne s’agit plus d’intrusions sophistiquées dans les technologies centrales, mais d’exploitation des relations de confiance, des intégrations et des identifiants légitimes.
+- Dans ce contexte, il est clair que la cybersécurité, à elle seule, ne suffit pas à protéger l’entreprise.
+- Durant cette période, les criminels ont détourné environ [montant manquant] du système financier national.
+
+## [PARIS : Marcel Bornhöfft : « Les sauvegardes doivent évoluer face aux <b>ransomwares</b>](https://presseagence.fr/paris-marcel-bornhofft-les-sauvegardes-doivent-evoluer-face-aux-ransomwares/)  
+*Source : presseagence.fr | Publication : 2026-03-28*
+
+- PARIS : Marcel Bornhöfft : « Les sauvegardes doivent évolue… Partager : PARIS : Marcel Bornhöfft : « Les sauvegardes doivent évoluer face aux ransomwares » À l’approche de la Journée mondiale de la sauvegarde, un expert de Sophos analyse le rôle vital mais évolutif des sauvegardes face aux ransomwares.
+- À quelques jours de la Journée mondiale de la sauvegarde, qui se tiendra le mardi 31 mars prochain, la question de la protection des données contre les cyberattaques est plus prégnante que jamais.
+- Dans un contexte où les ransomwares continuent de menacer les entreprises de toutes tailles, Marcel Bornhöfft, Field CISO Associate chez Sophos, l’un des leaders mondiaux des solutions de cybersécurité, livre une analyse sur l’évolution du rôle des sauvegardes comme rempart face à cette menace persistante.
+- Si elles demeurent essentielles, leur efficacité est aujourd’hui conditionnée par l’adaptation aux nouvelles tactiques des pirates.
+
+## [Les conteneurs : un risque sous-estimé dans la chaîne d'approvisionnement des logiciels](https://b2b-cyber-security.de/fr/Les-conteneurs-:-un-risque-sous-estimé-dans-la-chaîne-d'approvisionnement-des-logiciels/)  
+*Source : b2b-cyber-security.de | Publication : 2026-03-28*
+
+- Dernières actualités sur la cybersécurité B2B >>> Agences RP : ajoutez-nous à votre liste de diffusion - voir contact !.
+- >>> Réservez un PartnerChannel.
+
+## [Cyber Security Challenge : 135 talents se sont affrontés dans l'épreuve finale - BX1](https://bx1.be/categories/reportages/cyber-security-challenge-135-talents-se-sont-affrontes-dans-lepreuve-finale/)  
+*Source : bx1.be | Publication : 2026-03-28*
+
+- Cyber Security Challenge : 135 talents se sont affrontés dans l’épreuve finale Hacker un drone en dix minutes, reprendre le contrôle d’un train piraté, fouiller des images à la recherche d’indices cachés… Ce sont les défis auxquels ont été confrontés 135 étudiants et jeunes diplômés lors de la finale du Cyber Security Challenge, la plus grande compétition de cybersécurité en Belgique.
+- L’événement ne se limite pas à une simple joute technique.
+- Il plonge les participants dans des situations concrètes et sous pression, où la communication s’avère parfois aussi décisive que les compétences informatiques.
+- Certains concurrents ont d’ailleurs reconnu avoir perdu un temps précieux à maîtriser le talkie-walkie — un outil pourtant basique — plutôt qu’à résoudre les défis eux-mêmes.
+
+## [Metz. Photonique : des lasers « chaotiques » au service de la <b>cybersécurité</b>](https://www.republicain-lorrain.fr/economie/2026/03/28/photonique-des-lasers-chaotiques-au-service-de-la-cybersecurite)  
+*Source : republicain-lorrain.fr | Publication : 2026-03-28*
+
+- Metz Photonique : des lasers « chaotiques » au service de la cybersécurité Une équipe du Laboratoire matériaux, optique, photonique et systèmes (CentraleSupélec et Université de Lorraine) vient de franchir une étape clé en photonique, la science et la technologie de la lumière.
+- Avec une découverte qui pourrait, à terme, transformer la sécurité des communications numériques.
+- Leur idée ?.
+- Utiliser le comportement chaotique… des lasers.
+
+## [Education financière: l'AMMC publie un guide sur le Plan d'épargne en actions - H24info](https://h24info.ma/economie/ammc-guide-sur-le-plan-depargne-en-actions/)  
+*Source : h24info.ma | Publication : 2026-03-28*
+
+- La Direction générale des impôts (DGI) a publié un guide fiscal pour les Marocains résidant… La CGEM publie un guide sur la " Cybersécurité en.
+
+## [Bénin - Services publics : 75% de documents publics délivrés en ligne | Africa24 TV](https://africa24tv.com/benin-services-publics-75-de-documents-publics-delivres-en-ligne/)  
+*Source : africa24tv.com | Publication : 2026-03-28*
+
+- Le Bénin s’impose comme leader numérique en Afrique de l’Ouest, en tête de l’indice de cybersécurité UEMOA.
+- Avec 10,5 millions de documents numériques délivrés et 75 % des services publics en ligne, le pays modernise l’État et l’économie.
+- La Stratégie numérique 2031 vise à étendre l’Internet, développer les services électroniques et renforcer les compétences locales pour une inclusion totale.
+- Modèle de transformation numérique en Afrique de l’Ouest, Le Bénin s’impose en décrochant la première place de l’indice de cybersécurité nationale dans l’espace UEMOA et un score de 0,723 au GovTech Maturity Index 2025.
+
+## [Voici la suite après la fuite du modèle d'IA le plus puissant d'Anthropic via un cache de ...](https://www.coindesk.com/fr/tech/2026/03/28/here-s-what-next-as-anthropic-s-most-powerful-ai-model-leaked-via-unsecured-data-cache)  
+*Source : coindesk.com | Publication : 2026-03-28*
+
+- Voici la suite après la fuite du modèle d'IA le plus puissant d'Anthropic via un cache de données non sécurisé Un projet d'article de blog laissé dans un cache de données non sécurisé a révélé un nouveau niveau de modèle appelé Capybara, qu'Anthropic qualifie de plus performant que tout ce qu'elle a développé, l'entreprise mettant en garde contre des risques de cybersécurité "sans précédent".
+- Ce qu'il: Un projet de billet de blog divulgué a révélé qu’Anthropic teste un nouveau modèle d’IA, Claude Mythos, qu’elle décrit en interne comme de loin son système le plus puissant à ce jour.
+- - Le modèle, faisant partie d'un nouveau niveau "Capybara", offrirait des performances nettement supérieures à celles de Claude Opus 4.6 en matière de codage, de raisonnement académique et de cybersécurité, suscitant des inquiétudes quant à des risques cybernétiques sans précédent.
+- - L’incident souligne à la fois le danger à double usage de l’IA avancée dans des domaines tels que la sécurité DeFi et l'ironie qu'une entreprise vantant des capacités de cybersécurité de pointe ait exposé les détails de son propre modèle à cause d'une simple erreur de gestion de contenu.
+
+## [<b>Cybersécurité</b> : le SNI fait le bilan du Cyber Challenge et informe sur les mesures publiques ...](https://www.dhnet.be/conso/consommation/2026/03/28/cybersecurite-le-sni-fait-le-bilan-du-cyber-challenge-et-informe-sur-les-mesures-publiques-pour-se-proteger-ce-sont-les-aides-les-plus-accessibles-LZI4OD4I3VFWFBQ63IZ6NGL5XA/)  
+*Source : dhnet.be | Publication : 2026-03-28*
+
+- Cybersécurité : le SNI fait le bilan du Cyber Challenge et informe sur les mesures publiques pour se protéger, "ce sont les aides les plus accessibles" Le Cyber Challenge met en lumière les failles et solutions pour les indépendants face à la montée des cyberattaques.
+- Publié le 28-03-2026 à 13h20 - La cybersécurité n'est plus un sujet secondaire pour les indépendants, comme nous vous l'expliquons dans notre série consacrée au Cyber Challenge, porté par le SPF Économie et le SNI.
+- "La cybersécurité est aujourd'hui un enjeu stratégique pour les indépendants et les PME, souligne Christophe Wambersie, secrétaire général du SNI.
+- Avec la généralisation du cloud, de l'intelligence artificielle ou encore du commerce en ligne, les opportunités de développement s'accompagnent également de risques accrus.".
+
+## [Guerre au Moyen-Orient: le directeur du FBI, Kash Patel, est victime d'un piratage, son mail ... - BFM](https://www.bfmtv.com/tech/cybersecurite/guerre-au-moyen-orient-le-directeur-du-fbi-kash-patel-est-victime-d-un-piratage-son-mail-personnel-a-ete-compromis-par-un-groupe-de-hackers-lie-a-l-iran_AN-202603270704.html)  
+*Source : bfmtv.com | Publication : 2026-03-28*
+
+- Guerre au Moyen-Orient: le directeur du FBI, Kash Patel, est victime d’un piratage, son mail personnel a été compromis par un groupe de hackers lié à l'Iran Des pirates informatiques liés à l’Iran ont affirmé vendredi avoir compromis la messagerie personnelle du directeur du FBI, Kash Patel, et diffusé en ligne plusieurs documents ainsi que des photos privées.
+- Parmi ces clichés figurent plusieurs photos personnelles de Patel, le montrant notamment en train de fumer des cigares, au volant d’un cabriolet ancien, ou encore grimaçant devant un miroir en posant avec une grande bouteille de rhum.
+- Le groupe à l’origine de l’attaque, Handala, a revendiqué l’opération sur son site, affirmant que Kash Patel rejoignait désormais "la liste des victimes de piratage".
+- Selon certains experts, cette publication s’inscrit dans une stratégie de mise en scène, mêlant divulgation de contenus personnels et message politique.
+
+## [« L'IA la plus performante que nous ayons jamais créée » : Claude Mythos, le futur modèle d ...](https://www.leparisien.fr/high-tech/lia-la-plus-performante-que-nous-ayons-jamais-creee-claude-mythos-le-futur-modele-danthropic-qui-menace-la-cybersecurite-28-03-2026-QH4OJ7MZVNE4JEZK3P5ZU6KABU.php)  
+*Source : leparisien.fr | Publication : 2026-03-28*
+
+- « L'IA la plus performante que nous ayons jamais créée » : Claude Mythos, le futur modèle d'Anthropic qui menace la cybersécurité.
+- Le géant.
+
+## [“Ils comprennent qu'à cause d'une attaque, ils peuvent perdre leur boîte” : Le Campus ...](https://www.usine-digitale.fr/cybersecurite/ils-comprennent-qua-cause-dune-attaque-ils-peuvent-perdre-leur-boite-le-campus-cyber-euromed-de-marseille-est-le-premier-a-faire-converger-intelligence-artificielle-et-cybersecurite-en-france.WORD4OURRVD6ZIXDIKEOYNWKDU.html)  
+*Source : usine-digitale.fr | Publication : 2026-03-28*
+
+- Soucieux d'accroître la sensibilisation des TPE/PME sur la cybersécurité , le Campus Cyber Euromed intègre la brique “intelligence artificielle” à.
+
+## [100 000 dollars si vous avez été piraté : la promesse étonnante de cette société française](https://www.01net.com/actualites/100-000-dollars-si-faites-pirater-promesse-societe-francaise.html)  
+*Source : 01net.com | Publication : 2026-03-28*
+
+- Scality, une entreprise française spécialisée dans la protection des données, vient d’annoncer une nouveauté de taille pour Artesca, son logiciel de stockage pour les sauvegardes de ses clients.
+- Véritable coffre-fort, cette solution de stockage est taillée pour protéger les sauvegardes contre les attaques par ransomware.
+- Concrètement, le logiciel empêche quiconque, y compris l’administrateur, de modifier ou d’effacer une sauvegarde pendant une période fixée au préalable.
+- C’est la clé contre les ransomwares, qui effacent ou chiffrent les sauvegardes afin de réclamer une rançon.
+
+## [Le DGSN effectue une visite de travail en Slovénie | Algérie Presse Service](https://www.aps.dz/fr/algerie/actualite-nationale/mna6sxc7-le-dgsn-effectue-une-visite-de-travail-en-slovenie)  
+*Source : aps.dz | Publication : 2026-03-28*
+
+- Le DGSN effectue une visite de travail en Slovénie samedi 28 mars 2026 11:30 ALGER - Le Directeur général de la Sûreté nationale, M. Ali Badaoui, a effectué une visite de travail en Slovénie, au cours de laquelle il s'est entretenu avec son homologue slovène, M. Damjan Petric, sur les voies et moyens du renforcement de la coopération bilatérale, indique un communiqué de la Direction générale de la Sûreté nationale (DGSN).
+- Articles connexes.
+
+## [Comment des milliers de voitures ont été paralysées par une cyberattaque - 01net.com](https://www.01net.com/actualites/milliers-voitures-paralysees-cyberattaque.html)  
+*Source : 01net.com | Publication : 2026-03-28*
+
+- Intoxalock, une entreprise américaine spécialisée dans les éthylotests antidémarrage, a été victime d’une cyberattaque de grande ampleur.
+- Imposés par les tribunaux aux personnes condamnées pour conduite en état d’ivresse, les éthylotests antidémarrage obligent le conducteur à souffler dans un embout pour pouvoir démarrer.
+- Si le taux d’alcoolémie mesuré est au-dessus de la limite légale, la voiture ne pourra tout simplement pas démarrer.
+- La société revendique 150 000 utilisateurs, éparpillés dans 46 États américains.
+
+## [Anthropic : La fuite d'un modèle d'IA avancé fait chuter les valeurs de <b>cybersécurité</b>](https://fr.tradingview.com/news/cointribune:aadae7657b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-03-28*
+
+- Anthropic : La fuite d’un modèle d’IA avancé fait chuter les valeurs de cybersécurité Une fuite inattendue chez Anthropic a exposé les détails de Claude Mythos, son modèle d’IA le plus avancé à ce jour.
+- Cette révélation soulève des questions majeures sur les risques en cybersécurité et l’impact sur les marchés financiers.
+- Pourquoi cette fuite inquiète-t-elle autant les experts et les investisseurs ?.
+- Lisez-nous sur Google NewsEn bref Une erreur chez Anthropic a exposé Claude Mythos, son modèle d’IA le plus puissant, révélant des capacités supérieures en cybersécurité et raisonnement.
+
+## [LILLE : <b>Cybersécurité</b> - L'école CSB.school au FIC pour former au plus près du terrain](https://presseagence.fr/lille-cybersecurite-lecole-csb-school-au-fic-pour-former-au-plus-pres-du-terrain/)  
+*Source : presseagence.fr | Publication : 2026-03-28*
+
+- LILLE : Cybersécurité – L’école CSB.school au F… Partager : LILLE : Cybersécurité – L’école CSB.school au FIC pour former au plus près du terrain L’école lyonnaise CSB.school sera au Forum InCyber 2026 pour adapter ses formations aux besoins réels de l’écosystème de la cybersécurité.
+- L’école de cybersécurité lyonnaise CSB.school annonce sa participation au Forum InCyber (FIC) Europe 2026, qui se tiendra du 31 mars au 2 avril à Lille Grand Palais.
+- Pour ses co-fondateurs, Patrice Chelim, ancien CISO du groupe Solvay, et Guillaume Collard, docteur en cybersécurité, cette présence est une démarche naturelle et essentielle pour maintenir un lien direct avec l’écosystème, anticiper les évolutions du secteur et nourrir en continu une pédagogie ancrée dans les réalités du terrain.
+- Ils accueilleront entreprises et institutionnels sur leur stand D60-5 pour échanger sur les grands enjeux du recrutement et de la formation dans un domaine plus que jamais stratégique.
+
+## [Marseille : Une policière mise en examen pour avoir vendu des milliers de fiches ...](https://actu17.fr/faits-divers/marseille-une-policiere-mise-en-examen-pour-avoir-vendu-des-milliers-de-fiches-confidentielles-au-grand-banditisme.html)  
+*Source : actu17.fr | Publication : 2026-03-28*
+
+- Le vendredi 27 mars 2026 à 21:16 Une policière d'une vingtaine d'années, affectée dans un commissariat de Marseille, a été mise en examen pour avoir vendu des milliers d'informations confidentielles issues des fichiers de police à des malfaiteurs via la messagerie Telegram.
+- Un homme présenté comme un commanditaire a également été interpellé et écroué au mois de mars.
+- L'enquête a été ouverte par la section de lutte contre la cybercriminalité du parquet de Paris.
+- L'Office anti-cybercriminalité (OFAC) et l'Inspection générale de la police nationale (IGPN) ont été co-saisis de cette enquête, indique le parquet de Paris, confirmant une information de franceinfo.
 
 ## [CareCloud signale un incident de <b>cybersécurité</b> affectant sa division des dossiers de santé](https://fr.investing.com/news/sec-filings/carecloud-signale-un-incident-de-cybersecurite-affectant-sa-division-des-dossiers-de-sante-93CH-3336698)  
 *Source : fr.investing.com | Publication : 2026-03-27*
