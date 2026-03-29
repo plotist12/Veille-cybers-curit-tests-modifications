@@ -1,5 +1,158 @@
-# Résumés – 2026-03-28
+# Résumés – 2026-03-29
 
+
+## [Un SecNumCloud européen ? L'Anssi y croit encore... mais en pièces détachées](https://www.cio-online.com/actualites/lire-un-secnumcloud-europeen-l-anssi-y-croit-encore-mais-en-pieces-detachees-16937.html)  
+*Source : cio-online.com | Publication : 2026-03-29*
+
+- Un SecNumCloud européen ?.
+- L'Anssi y croit encore... mais en pièces détachées Selon le directeur général de l'Anssi, l'Europe devrait bien s'engager dans un mécanisme de protection du cloud contre les législations extraterritoriales.
+- Via un texte dédié, séparé de celui portant les exigences cyber.
+- PublicitéEn début d'année, Bruxelles dévoilait une première version de la révision de la directive européenne sur la cybersécurité, le Cybersecurity Act 2 (ou CSA2), faisant l'impasse sur toute forme d'immunité aux législations extraterritoriales.
+
+## [FBI : un piratage symbolique par des hackers pro-iraniens - 24matins](https://www.24matins.fr/fbi-un-piratage-symbolique-par-des-hackers-pro-iraniens-1405205)  
+*Source : 24matins.fr | Publication : 2026-03-29*
+
+- FBI : un piratage symbolique par des hackers pro-iraniens Des hackers liés à l’Iran ont réussi à compromettre les emails du directeur du FBI, révélant des failles dans la cybersécurité de hauts responsables américains.
+- Cet incident souligne l’importance de renforcer la protection de ses propres comptes en ligne.
+- Tl;dr Le compte email personnel de Kash Patel a été piraté par le groupe pro-iranien Handala Hack Team, exposant des photos et données privées.
+- - Handala Hack Team, actif depuis 2023 et lié au renseignement iranien, cible des responsables américains pour médiatiser ses actions et perturber ses cibles.
+
+## [Cyberattaque au centre hospitalier intercommunal de Haute-Comté : un retour à la normal ...](https://www.macommune.info/cyberattaque-au-centre-hospitalier-intercommunal-de-haute-comte-un-retour-a-la-normal-attendu-pour-2027/)  
+*Source : macommune.info | Publication : 2026-03-29*
+
+- "A ce jour, si la situation est stabilisée et le risque maîtrisé, l’établissement est encore lourdement impacté, l’accès aux applications reste limité à un espace sécurisé, la remise en fonctionnement du standard téléphonique est très récente (mars), et la réinstallation des postes de travail dans les services de soins se poursuit jusqu’à fin avril", nous explique-t-on.
+- Le retour à la normale "n’est pas attendu avant début 2027", est-il précisé.
+- Rebâtir l’ensemble de l’infrastructure matérielle Depuis six mois, une reconstruction progressive a été engagée, avec l’appui de l’ARS Bourgogne-Franche-Comté qui a apporté une aide exceptionnelle de 2 millions d’euros, et de l’ensemble des acteurs de la cybersécurité des établissements de santé.
+- Objectif : rebâtir l’ensemble de l’infrastructure matérielle (plus de 1 000 postes), réseau, et logicielle (environ 200 applications).
+
+## [Une <b>cybersécurité</b> qui efface les traces avant même l'attaque : la piste radicale explorée par ...](https://www.airzen.fr/cybersecurite-qui-efface-les-traces-avant-meme-l-attaque-chercheurs-australiens/)  
+*Source : airzen.fr | Publication : 2026-03-29*
+
+- Des chercheurs australiens explorent une piste fascinante qui pourrait redéfinir les règles de la cybersécurité moderne.
+- Un principe inspiré du vivant.
+
+## [Cette extension Claude pour Google Chrome met vos données personnelles en danger ...](https://www.phonandroid.com/cette-extension-tres-populaire-pour-google-chrome-met-vos-donnees-personnelles-en-danger-faites-attention.html)  
+*Source : phonandroid.com | Publication : 2026-03-29*
+
+- Cette extension très populaire pour Google Chrome met vos données personnelles en danger, faites attention Des chercheurs en cybersécurité viennent de tirer la sonnette d’alarme.
+- Une extension de Google Chrome permettrait en effet à des hackers de subtiliser vos données en un rien de temps… La plupart du temps, les extensions de navigateurs sont aussi pratiques qu’inoffensives, mais pas toujours.
+- En effet, certains outils d’intelligence artificielle sont en mesure de voler vos fichiers dès leur ouverture.
+- On a par exemple pu voir Urban VPN Proxy, une extension « recommandée » par Chrome, siphonner purement et simplement les conversations IA de millions d’utilisateurs.
+
+## [Fintech: Cryptomonnaies, <b>cybersécurité</b>…: Une confiance encore à consolider](https://www.leconomiste.com/fintech-cryptomonnaies-cybersecurite-une-confiance-encore-a-consolider/)  
+*Source : leconomiste.com | Publication : 2026-03-29*
+
+- Fintech: Cryptomonnaies, cybersécurité …: Une confiance encore à consolider.
+- Par Mohamed Ali Mrabi | Edition N°:7227 Le 30/03/2026.
+- Le Maroc avance à.
+
+## [Anthropic : une fuite révèle les risques de la future IA &quot;Claude Mythos&quot; pour la <b>cybersécurité</b>](https://www.lexpress.fr/economie/high-tech/anthropic-une-fuite-revele-les-risques-de-la-future-ia-claude-mythos-pour-la-cybersecurite-MNECU7RIXRDC5GUSEOFC7WYHCQ/)  
+*Source : lexpress.fr | Publication : 2026-03-29*
+
+- C'est une simple erreur de configuration qui a conduit à la fuite d'informations confidentielles.
+- Et révélé au grand jour l'un des secrets les mieux gardés d'Anthropic : la mise au point d'une nouvelle IA, déjà source de vives inquiétudes.
+- Baptisée Claude Mythos, ou Capybara, il s'agirait, selon l'entreprise, du "modèle le plus performant" qu'elle ait "jamais créé".
+- "Un changement radical" par rapport aux IA existantes, confie même son porte-parole.
+
+## [Claude Mythos : inquiétudes en <b>cyber sécurité</b> dues au modèle d'IA le plus avancé d'Anthropic](https://www.larevuedudigital.com/claude-mythos-inquietudes-en-cyber-securite-dues-au-modele-dia-le-plus-avance-danthropic/)  
+*Source : larevuedudigital.com | Publication : 2026-03-29*
+
+- Les sites e-commerce préférés des acheteurs français Quels sont les sites e-commerce réellement utilisés par les Français, secteur par secteur ?.
+- Mode, alimentaire, banque, streaming, tourisme ou électroménager : notre dossier passe en revue les plateformes dominantes et les tendances d’usage.
+- Une erreur technique, un modèle inédit, et des inquiétudes.
+- La fuite accidentelle de documents internes de la startup de l’IA Anthropic révèle l’existence de Claude Mythos, un système d’intelligence artificielle présenté comme le plus puissant jamais conçu par l’entreprise, et dangereux en matière de cyber sécurité selon les informations du magazine Fortune.
+
+## [Claude Mythos : la fuite qui révèle une IA jugée trop dangereuse - iPhoneSoft](https://iphonesoft.fr/2026/03/29/claude-mythos-fuite-revele-ia-jugee-trop-dangereuse)  
+*Source : iphonesoft.fr | Publication : 2026-03-29*
+
+- Claude Mythos : la fuite qui révèle une IA jugée trop dangereuse Alexandre Godard - À l'instant - 💬 Réagir - 🔈 Écouter - Claude Mythos est bien réel.
+- Ce nouveau modèle d’intelligence artificielle développé par Anthropic serait d’une puissance telle qu’il pourrait présenter des risques sur certains aspects sensibles.
+- La science-fiction a-t-elle rattrapé la réalité ?.
+- Claude Mythos : le modèle d’IA qu’Anthropic juge trop dangereux pour le grand public Anthropic développe un modèle d’intelligence artificielle d’une puissance telle que ses propres concepteurs jugent sa diffusion trop risquée pour le grand public.
+
+## [<b>Cybermenace</b> : l'UE face à ses vulnérabilités numériques - Begeek](https://www.begeek.fr/cybermenace-lue-face-a-ses-vulnerabilites-numeriques-430159)  
+*Source : begeek.fr | Publication : 2026-03-29*
+
+- Cybermenace : l’UE face à ses vulnérabilités numériques Des informations sensibles du personnel et des sites ont été compromises, poussant à un plan de sécurité renforcé.
+- Tl;dr La Commission européenne a subi une attaque sur son cloud, compromettant la plateforme Europa.eu et exposant environ 350 Go de données via un compte Amazon Web Services.
+- - Plusieurs sites et informations sensibles, notamment du personnel, ont été affectés, et les entités concernées ont été rapidement notifiées.
+- - En réponse, la Commission lance un nouveau Cybersecurity Package pour renforcer la sécurité des infrastructures et harmoniser la réaction aux incidents.
+
+## [Le renforcement de la coopération dans la lutte contre les <b>cybermenaces</b> et la fraude | UZA.uz](https://uza.uz/ar/posts/le-renforcement-de-la-cooperation-dans-la-lutte-contre-les-cybermenaces-et-la-fraude_640188)  
+*Source : uza.uz | Publication : 2026-03-29*
+
+- Le renforcement de la coopération dans la lutte contre les cybermenaces et la fraude La Banque centrale et la TBC Bank, conjointement avec des ministères et des départements intéressés, ont organisé un séminaire sur la lutte contre les cyberattaques dans le secteur bancaire et les systèmes de paiement.
+- Les représentants des banques commerciales, des organisations de paiement et des entreprises informatiques connues se sont donc rassemblés pour discuter de nouvelles stratégies et tendances de la lutte contre les cybermenaces et la fraude dans le secteur bancaire.
+- Le séminaire a été organisé dans le but de développer et appliquer de nouveaux programmes et solutions techniques pour garantir la cybersécurité dans les systèmes bancaires et de paiement dans un contexte du développement rapide des technologies de l’information et de la communication, de prévenir les cas de fraude ou vol liés à l’usage des cartes bancaires, de renforcer la sécurité des applications de paiement mobiles.
+- Intervenus au séminaire, les spécialistes de la cybersécurité de la Banque centrale, du ministère de l’Intérieur et les représentants des banques commerciales et des sociétés internationales, qui développent des logiciels pour la lutte contre les cyberattaques actuelles, ont fait part de nouvelles méthodes de lutte contre les formes contemporaines de menaces informatiques, la fuite d’informations confidentielles, le vol d’argent sur la carte bancaire.
+
+## [ENTRETIEN. « Perturber violemment, sans sortir de chez soi » : la guerre au Moyen-Orient ...](https://www.ouest-france.fr/monde/iran/entretien-perturber-violemment-sans-sortir-de-chez-soi-la-guerre-au-moyen-orient-est-aussi-celle-des-hackers-26285f40-245f-11f1-aab7-85ef88fbd7c1)  
+*Source : ouest-france.fr | Publication : 2026-03-29*
+
+- cybersécurité , à Kalkar, en Allemagne, le mardi 29 avril 2025.
+- |.
+- Le recours au rançongiciel ( ransomware , en anglais) peut par exemple.
+
+## [Défense: une stratégie gatinoise avec «l'échiquier mondial» dans le viseur - Le Droit](https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/03/29/une-strategie-gatinoise-avec-lechiquier-mondial-dans-le-viseur-HZO6U4S2ARDPFCQ4ZRV7VV2PE4/)  
+*Source : ledroit.com | Publication : 2026-03-29*
+
+- À l’heure actuelle, Gatineau a «un début de stratégie», convient la présidente de la commission de développement économique, Tiffany-Lee Norris-Parent, plus tôt cette semaine.
+- Afin de se démarquer de sa voisine, qui est à la fois une alliée et une rivale économique, mais aussi de toutes les autres villes qui salivent devant les milliards de dollars en contrats que fera pleuvoir le fédéral en défense et en cybersécurité au cours de la prochaine décennie, Gatineau vient de mettre sur pied un «comité stratégique».
+- Cela doit lui permettre d’accélérer son positionnement.
+- «Ce n’est pas un comité de discussions, c’est un comité d’actions, insiste Mme Norris-Parent.
+
+## [OpenClaw : les agents IA automatisent le cyberharcèlement - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/03/29/openclaw-agents-ia-cyberharcelement/)  
+*Source : dcod.ch | Publication : 2026-03-29*
+
+- TL;DR : L’essentiel Un agent IA a publié un article hostile contre un mainteneur de logiciel libre après un rejet de code, prouvant la capacité des modèles à harceler de manière autonome.
+- - Des tests universitaires confirment que ces assistants peuvent être manipulés pour supprimer des serveurs de messagerie ou divulguer des données confidentielles sans nécessiter de grandes compétences en programmation.
+- - L’anonymat des propriétaires de bots empêche toute sanction pénale, car aucune infrastructure technique ne permet aujourd’hui de lier formellement un agent malveillant à un utilisateur physique spécifique.
+- - Des recherches montrent que les modèles de langage imitent des comportements d’extorsion humains, n’hésitant pas à utiliser le chantage pour éviter d’être désactivés par leurs propres administrateurs.
+
+## [En Suisse, des criminels utiliseraient des outils comme ChatGPT pour tester des scénarios ...](https://www.facebook.com/blickfr/videos/en-suisse-des-criminels-utiliseraient-des-outils-comme-chatgpt-pour-tester-des-s/949156134429883/)  
+*Source : facebook.com | Publication : 2026-03-29*
+
+- Mais ces échanges peuvent aussi intéresser les enquêteurs.
+- Selon les autorités, les discussions avec une IA peuvent être exploitées comme des éléments.
+
+## [<b>Cybersécurité</b> en Afrique : Kaspersky et AFRIPOL intensifient la formation des forces de l'ordre](https://www.algerie360.com/cybersecurite-en-afrique-kaspersky-et-afripol-intensifient-la-formation-des-forces-de-lordre/)  
+*Source : algerie360.com | Publication : 2026-03-29*
+
+- Face à la montée en puissance des cybermenaces, Kaspersky et AFRIPOL accélèrent leur coopération sur le terrain.
+- Les deux partenaires ont récemment mené une formation stratégique en cybersécurité au profit des forces de l’ordre issues de 23 pays africains, avec un objectif clair, renforcer les capacités opérationnelles face à une criminalité numérique de plus en plus sophistiquée.
+- Entre novembre 2025 et mars 2026, une quarantaine d’officiers africains ont suivi un programme intensif baptisé « Opérations de sécurité et recherche de menaces ».
+- Cette initiative s’inscrit dans la continuité de l’accord signé en 2024 entre Kaspersky et AFRIPOL pour structurer la lutte contre la cybercriminalité à l’échelle du continent.
+
+## [<b>CYBERSÉCURITÉ</b> : ABDOUL AHAD NDIAYE PLAIDE POUR UNE INTELLIGENCE ...](https://www.rts.sn/actualite/detail/a-la-une/cybersecurite-abdoul-ahad-ndiaye-plaide-pour-une-intelligence-africaine-collective-face-aux-menaces-numeriques)  
+*Source : rts.sn | Publication : 2026-03-29*
+
+- Le député Abdoul Ahad Ndiaye a posé les termes d’un débat désormais central : celui de la souveraineté numérique.
+- Intervenant vendredi lors d’une session de formation de haut niveau, il a soutenu que la puissance des États se joue aujourd’hui dans le cyberespace, appelant à une réponse continentale structurée autour de la cybersécurité, de la cyberdéfense et de la cyberdiplomatie.
+- Prenant la parole dans le cadre d’un programme organisé par École nationale de cybersécurité à vocation régionale, le parlementaire a insisté sur la nécessité pour les pays africains de changer de posture face au numérique.
+- « Nous ne devons plus subir le numérique, mais l’anticiper et le maîtriser en le sécurisant », a-t-il déclaré, évoquant les bases d’une « intelligence africaine collective ».
+
+## [Anthropic teste un nouveau modèle d'IA avec des risques potentiels de <b>cybersécurité</b>](https://www.binance.com/fr/square/post/306623476192449)  
+*Source : binance.com | Publication : 2026-03-29*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [&quot;Il faut bien jauger le ratio entre le coût d'investissement et le risque encouru&quot; (J.-M. Ogier)](https://www.aefinfo.fr/depeche/671907-cybersecurite-il-faut-bien-jauger-le-ratio-entre-le-cout-dinvestissement-et-le-risque-encouru-j-m-ogier)  
+*Source : aefinfo.fr | Publication : 2026-03-29*
+
+- Des moyens financiers à niveau ?.
+- La question du financement de la cybersécurité est, selon lui, "assez propre à chaque université".
+- Ainsi, "en fonction de l’économie locale d’une université, sa capacité à investir sur ces sujets est plus ou moins importante.
+- Et beaucoup de priorités se cumulent, donc il est parfois possible que certaines d’entre elles connaissent un sous‑investissement".
+
+## [PARIS : <b>Cybersécurité</b> - L'expiration des certificats numériques, une nouvelle menace pour ...](https://presseagence.fr/paris-cybersecurite-lexpiration-des-certificats-numeriques-une-nouvelle-menace-pour-la-continuite-dactivite/)  
+*Source : presseagence.fr | Publication : 2026-03-29*
+
+- PARIS : Cybersécurité – L’expiration des certif… Partager : PARIS : Cybersécurité – L’expiration des certificats numériques, une nouvelle menace pour la continuité d’activité Face à la réduction drastique de la durée de vie des certificats numériques, la start-up CertActiv alerte sur un nouveau risque de paralysie des services.
+- Une menace silencieuse plane sur l’économie numérique.
+- Loin des cyberattaques spectaculaires, c’est l’expiration d’un simple certificat numérique qui pourrait demain paralyser des sites web, des applications métiers ou des infrastructures critiques.
+- Une décision du CA/B Forum, l’organisme de régulation du secteur, actée en avril 2025, a enclenché un compte à rebours qui reconfigure la gestion des risques pour toutes les organisations.
 
 ## [<b>Cybersécurité</b>: Selma Malika Haddadi appelle à l'union - Horizons](https://www.horizons.dz/2026/03/cybersecurite-selma-malika-haddadi-appelle-a-lunion/)  
 *Source : horizons.dz | Publication : 2026-03-28*
