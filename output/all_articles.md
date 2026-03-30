@@ -1,5 +1,155 @@
-# Résumés – 2026-03-29
+# Résumés – 2026-03-30
 
+
+## [Rapport d'après-action : Série d'exercices de résilience Health-ISAC 2025](https://health-isac.org/fr/Rapport-d'après-action-sur-la-série-d'exercices-de-résilience-ISAC-en-santé-2025/)  
+*Source : health-isac.org | Publication : 2026-03-30*
+
+- Ce rapport d’après-action (RAA) résume les objectifs, le contenu et les principales observations de la série d’exercices de résilience Health-ISAC 2025.
+- Ce rapport fournit des informations exploitables pour le secteur de la santé, encourageant les organisations à tirer parti de ces observations pour favoriser l'amélioration continue et renforcer la résilience collective dans un contexte de menaces dynamiques.
+- Health-ISAC (Health Information Sharing and Analysis Center) a mené sept exercices lors d'ateliers régionaux dans le cadre de sa série d'exercices de résilience 2025.
+- Cette série a réuni des représentants d'organisations membres et de partenaires stratégiques afin de favoriser l'échange de connaissances et de recenser les bonnes pratiques en matière de préparation à la sécurité et de résilience opérationnelle.
+
+## [Palo Alto Netwroks rebondit après un achat d'actions de son PDG - Boursorama](https://www.boursorama.com/bourse/actualites-amp/palo-alto-netwroks-rebondit-apres-un-achat-d-actions-de-son-pdg-4c445c1591b00270bcedb8e29d4ee83e)  
+*Source : boursorama.com | Publication : 2026-03-30*
+
+- Palo Alto Netwroks rebondit après un achat d'actions de son PDG information fournie par Zonebourse 30/03/2026 à 20:46 Le titre du spécialiste de la cybersécurité a progressé après un signal de confiance envoyé par son dirigeant.
+- Cette réaction intervient dans un contexte de tensions liées à l'essor de l'intelligence artificielle.
+- L'action Palo Alto Networks a gagné environ 5% après l'annonce de l'achat de 68 085 actions par son directeur général Nikesh Arora, pour un montant proche de 10 millions de dollars.
+- Il s'agit de son premier investissement personnel dans le groupe depuis 2019.
+
+## [Opération Cactus 2026 : renforcer durablement la sensibilisation de la communauté ...](https://www.education.gouv.fr/operation-cactus-2026-renforcer-durablement-la-sensibilisation-de-la-communaute-educative-aux-504290)  
+*Source : education.gouv.fr | Publication : 2026-03-30*
+
+- 7 élèves sur 10 se déclarent sensibilisés à la cybersécurité.
+- Un chiffre encourageant qui peut toutefois masquer des lacunes dans la compréhension.
+
+## [Kigali riposte contre la <b>cybercriminalité</b> - L'Observateur du Maroc](https://lobservateur.info/article/117725/afrique/kigali-riposte-contre-la-cybercriminalite)  
+*Source : lobservateur.info | Publication : 2026-03-30*
+
+- Kigali riposte contre la cybercriminalité.
+- L'International Cybersecurity Community for Africa (ICCA) a été officiellement lancée le 20 mars à.
+
+## [Cinq <b>cybermenaces</b> majeures mettent les citoyens et l'économie suisse sous pression maximale](https://www.letemps.ch/cyber/cybersecurite/cinq-cybermenaces-majeures-mettent-les-citoyens-et-l-economie-suisse-sous-pression-maximale)  
+*Source : letemps.ch | Publication : 2026-03-30*
+
+- Messages WhatsApp, e-mails, appels téléphoniques ou encore smartphones insuffisamment mis à jour, les vecteurs d’attaque des cybercriminels sont multiples.
+- Et de plus en plus, ils prennent le temps de mener des agressions numériques personnalisées, afin d’augmenter leurs chances de succès.
+- D’où l’importance, pour les entreprises et les particuliers, d’être non seulement en alerte permanente, mais de mieux protéger ses appareils.
+- Tel est, en substance, le message qu’a voulu transmettre lundi l’Office fédéral de la cybersécurité (OFCS).
+
+## [Piratage informatique : les adolescents «ont une perception assez pauvre des risques encourus](https://www.liberation.fr/societe/education/piratage-informatique-les-adolescents-ont-une-perception-assez-pauvre-des-risques-encourus-20260330_QJUE4D627ZGXPFFTE3JKMQJRHA/)  
+*Source : liberation.fr | Publication : 2026-03-30*
+
+- 12 % ont cliqué sur un lien faussement frauduleux.
+- Cybercriminalité ... CybercriminalitéCybersécurité EcoleCollègeLycéeAttention, arnaque en ligne !.
+
+## [Un faux message envoyé par l'État piège plus d'un million de personnes - Valeurs actuelles](https://www.valeursactuelles.com/societe/operation-cactus-plus-dun-million-de-personnes-piegees-par-faux-message-dhameconnage-envoye-par-letat)  
+*Source : valeursactuelles.com | Publication : 2026-03-30*
+
+- Face à la multiplication des cyberattaques visant les établissements scolaires, le ministère de l’Éducation nationale a lancé une opération de sensibilisation à grande échelle baptisée « Opération Cactus ».
+- D’après le communiqué du ministère, lors de cette campagne menée du 23 au 27 mars 2026, près de 9 millions d’élèves, parents, personnels enseignants et administratifs ont reçu un message frauduleux, via leurs espaces numériques de travail (ENT) ou leur messagerie, qui les incitait à cliquer sur un lien.
+- Cybersécurité : le Secrétariat de l’Enseignement catholique victime d’une attaque informatiqueAu total, plus d’un million de personnes ont cliqué sur ce lien, ce qui représente 12 % du public ciblé.
+- Chacune des personnes ayant cliqué sur le lien a été redirigée vers un message de sensibilisation comprenant une vidéo pédagogique.
+
+## [<b>Cybersécurité</b> : le directeur général de l'Anssi dresse un bilan positif des Csirt](https://www.banquedesterritoires.fr/cybersecurite-le-directeur-general-de-lanssi-dresse-un-bilan-positif-des-csirt?pk_campaign=newsletter_quotidienne&pk_kwd=2026-03-30&pk_source=Actualités_Localtis&pk_medium=newsletter_quotidienne)  
+*Source : banquedesterritoires.fr | Publication : 2026-03-30*
+
+- Cybersécurité : le directeur général de l'Anssi dresse un bilan positif des Csirt Les sénateurs ont auditionné le 24 mars 2026 les directeurs généraux de l'Anssi et l'ANCT sur la cybersécurité des collectivités.
+- Le rôle des territoires a été souligné, tant pour protéger les collectivités les plus vulnérables que pour diffuser une culture cyber et accompagner la mise en œuvre de la directive NIS2.
+- Face à des critiques sur la multiplication des structures d'accompagnement, le DG de l'Anssi a défendu l'écosystème en place.
+- Les collectivités territoriales constituent le deuxième secteur le plus touché par les cyberattaques en France, avec plus de 300 incidents avérés traités par l'Anssi en 2025 sur un total de 1.366 (voir le panorama 2025 dans notre article du 12 mars 2026).
+
+## [&quot;La <b>cybersécurité</b> est une condition de la souveraineté&quot;, plaide le patron de l'autorité cyber française](https://www.notretemps.com/depeches/la-cybersecurite-est-une-condition-de-la-souverainete-plaide-le-patron-de-l-autorite-cyber-francaise-130517)  
+*Source : notretemps.com | Publication : 2026-03-30*
+
+- "La cybersécurité est une condition de la souveraineté", plaide le patron de l'autorité cyber française La réflexion sur la maîtrise des dépendances numériques ne peut se passer d'un renforcement de la cybersécurité, défend Vincent Strubel, directeur général de l'Agence nationale de la sécurité des systèmes d'information (Anssi), dans un entretien à l'AFP.
+- "On a un défaut collectif de maîtrise de notre numérique", affirme-t-il, à la veille de l'ouverture du Forum InCyber, qui réunit à Lille des professionnels du secteur de la cybersécurité.
+- Pour cette nouvelle édition, le salon a choisi pour thème les dépendances numériques, alors que la question de la prépondérance des technologies américaines s'est accrue depuis le retour de Donald Trump à la Maison-Blanche.
+- Tandis que le marché du cloud, où sont stockées et gérées de nombreuses données d'entreprises, est largement dominé par des géants américains, ces mêmes groupes font désormais la course auprès d'entreprises spécialisées dans l'intelligence artificielle (IA).
+
+## [&quot;La <b>cybersécurité</b>, c'est le problème du RSSI&quot;... Vraiment ?](https://www.journaldunet.com/cybersecurite/1549125-la-cybersecurite-c-est-le-probleme-du-rssi-vraiment/)  
+*Source : journaldunet.com | Publication : 2026-03-30*
+
+- "La cybersécurité, c'est le problème du RSSI".
+- Vraiment ?.
+- La responsabilité cyber ne relève pas que du RSSI.
+- Le référentiel français de la directive NIS 2 rendu public par l'Anssi en mars 2026, le ReCyF v2.5, la fait remonter au dirigeant.
+
+## [Vincent Strubel, patron de l'Anssi : «L'espionnage est une réalité quotidienne - Libération](https://www.liberation.fr/economie/economie-numerique/vincent-strubel-patron-de-lanssi-lespionnage-est-une-realite-quotidienne-20260330_JEH4BMONU5BQTPPXXDQ7RYECRI/)  
+*Source : liberation.fr | Publication : 2026-03-30*
+
+- CybersécuritéCybercriminalité.
+- Dans la même rubrique.
+- Cybersécurité · Vincent Strubel, patron de l'Anssi : «L'espionnage est une réalité.
+
+## [L'imprimante, dernier angle mort de la <b>cybersécurité</b> - ITRnews](https://itrnews.com/articles/209330/limprimante-dernier-angle-mort-de-la-cybersecurite.html)  
+*Source : itrnews.com | Publication : 2026-03-30*
+
+- Veuillez activer Javascript.
+
+## [CrowdStrike bondit après un analyste signalant 20% de hausse liée aux craintes d'IA](https://fr.tradingview.com/news/invezz:ada0baee7b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-03-30*
+
+- CrowdStrike bondit après un analyste signalant 20% de hausse liée aux craintes d'IA Les actions de CrowdStrike Holdings Inc. ont progressé lundi, soutenues par une récente rehausse de recommandation d’un analyste et un regain d’optimisme autour des dépenses en cybersécurité alors que les menaces liées à l’intelligence artificielle s’intensifient.
+- Le titre a gagné 4.6% après que Wolfe Research a relevé la recommandation de la société, la faisant passer de “peer perform” à “outperform”, en fixant un objectif de cours à $450 qui implique environ 21.8% de potentiel par rapport au cours de clôture précédent de $369.58.
+- Ce mouvement intervient alors même que l’action a subi des pressions récentes, reculant de 10.6% sur la semaine écoulée et de 4% sur le dernier mois.
+- La hausse de recommandation fait évoluer le sentiment La rehausse reflète une confiance croissante dans la capacité de CrowdStrike à accélérer sa croissance malgré une volatilité à court terme liée aux développements en matière d’intelligence artificielle.
+
+## [Numérique. Le périmètre du groupe Creative se muscle dans la <b>cybersécurité</b> avec la ...](https://agence-api.ouest-france.fr/bretagne/ille-et-vilaine/numerique-le-perimetre-du-groupe-creative-se-muscle-dans-la-cybersecurite-avec-la-reprise-de-systemis-89eb0e2a-5361-49c8-a854-b1acbcf3b04a)  
+*Source : agence-api.ouest-france.fr | Publication : 2026-03-30*
+
+- Numérique.
+- Le périmètre du groupe Creative se muscle dans la cybersécurité avec la reprise de Systemis Le groupe Creative n'en finit plus de s'agrandir.
+- L'ESN de Saint-Jacques-de-la-Lande (35) a ajouté à son portefeuille le parisien Systemis France en janvier, sa 5e acquisition en un peu plus d'un an et la 4e à la barre d’un tribunal de commerce.
+- Ce spécialiste en sécurité informatique était en effet en redressement judiciaire depuis le 30 avril.
+
+## [« Avec de l'ambition, de belles boîtes européennes peuvent dominer le monde » : la ... - Challenges](https://www.challenges.fr/la-verticale-cyber/avec-de-lambition-de-belles-boites-europeennes-peuvent-dominer-le-monde-la-cybersecurite-europeenne-patine-face-a-la-domination-americaine_642146)  
+*Source : challenges.fr | Publication : 2026-03-30*
+
+- « Avec de l’ambition, de belles boîtes européennes peuvent dominer le monde » : la cybersécurité européenne patine face à la domination américaine Alors que les menaces se multiplient, l’écosystème européen peine à s’imposer face à l’hégémonie des solutions de cybersécurité américaines.
+- Un sujet brûlant, au cœur du Forum InCyber de Lille, qui se tiendra du 31 mars au 2 avril.
+- Parviendra-t-on en Europe à sortir de la dépendance aux Etats-Unis dans le domaine de la cybersécurité ?.
+- Cette question animera le Forum InCyber de Lille (FIC), le plus grand événement français de l’écosystème, à partir du 31 mars.
+
+## [Samir Amellal : “On espère le meilleur, on envisage le pire et on se prépare au pire”](https://acteurspublics.fr/webtv/emissions/afterwork/samir-amellal-on-espere-le-meilleur-on-envisage-le-pire-et-on-se-prepare-au-pire/)  
+*Source : acteurspublics.fr | Publication : 2026-03-30*
+
+- Acteurs publics Solutions X Docaposte Numérique Benoit Parizet : “40 % des acteurs publics ont eu des vols de données au cours des derniers mois” Par · le 30 mars 2026 Émission Après les cyberattaques de décembre dernier, France Travail a profondément revu sa stratégie de cybersécurité.
+- Samir Amellal, directeur général adjoint Technologies de France Travail, détaille les transformations engagées : renforcement du SOC, obligation de formation pour les partenaires, et réorientation des investissements.
+- Il répondait aux questions d'Acteurs publics TV à l'occasion de l'Afterwork Acteurs publics Solutions du 26 mars 2026 à Neuilly-sur-Seine.
+- Publié le 30 mars 2026 · 1 min de lecture Analysez, anticipez et décidez grâce à la profondeur de l’offre d’Acteurs Publics : revue, newsletters, site web, web TV, webinaires, podcasts, événements, application... Connexions multiples sur votre compte.
+
+## [Opération Cactus: 9,2 millions d'élèves, parents et enseignants ont reçu un faux message d ...](https://www.bfmtv.com/tech/actualites/cybersecurite/operation-cactus-9-2-millions-d-eleves-parents-et-enseignants-ont-recu-un-faux-message-d-hameconnage-pour-tester-leurs-reflexes-en-cybersecurite-plus-d-un-million-sont-tombes-dans-le-piege_AV-202603300633.html)  
+*Source : bfmtv.com | Publication : 2026-03-30*
+
+- Opération Cactus: 9,2 millions d'élèves, parents et enseignants ont reçu un faux message d'hameçonnage pour tester leurs réflexes en cybersécurité, plus d'un million sont tombés dans le piège Le ministère de l'Education nationale poursuit ses efforts pour sensibiliser les élèves à la cybersécurité depuis la série d'attaques ayant visé les ENT des établissements scolaires en 2024.
+- Du 23 au 27 mars, il a lancé la seconde édition de l'opération Cactus, initiative lancée à l'échelle nationale l'année dernière, après une expérimentation en 2024.
+- Il s'agit d'une simulation d'hameçonnage, une des techniques employées par les hackers pour cibler les élèves et ainsi accéder à leurs ENT il y a deux ans.
+- Prisée des cybercriminels, au point qu'elle a été la première cybermenace en France en 2025, elle est un moyen pour eux de récupérer des informations personnelles ou bancaires, Pour cela, ils se font passer pour un tiers de confiance dans un mail ou un SMS, afin d'inciter la victime à cliquer sur un lien frauduleux.
+
+## [Mails frauduleux, hameçonnage, arnaques... Comment les jeunes du Loiret peuvent-ils ...](https://www.larep.fr/orleans-45000/actualites/mails-frauduleux-hameconnage-arnaques-comment-les-jeunes-du-loiret-peuvent-ils-eviter-les-piratages_14945897/)  
+*Source : larep.fr | Publication : 2026-03-30*
+
+- Partager : A la une Justice Partager : Justice Écouter l'article Ils ont appris à détecter les messages de hameçonnage.
+- Une adresse électronique suspecte, par exemple, car longue et confuse ; une référence à un colis, une facture que vous n’attendez pas.
+- Le caractère d’urgence ou alarmant constitue un autre indice d’un probable projet de phishing.
+- Dans l’amphithéâtre du lycée Charles-Péguy, à Orléans, Julien Drochon, agent de la Commission nationale de l’informatique et des libertés (Cnil), a détaillé les réflexes pour réduire les risques de se faire piéger.
+
+## [Fuite de données au ministère de l'Intérieur : des informations sur la détention d'armes à feu ...](https://actu.orange.fr/france/fuite-de-donnees-au-ministere-de-l-interieur-des-informations-sur-la-detention-d-armes-a-feu-compromises-magic-CNT000002o6Xg7.html)  
+*Source : actu.orange.fr | Publication : 2026-03-30*
+
+- Fuite de données au ministère de l’Intérieur : des informations sur la détention d’armes à feu compromises © Tom def/ Unplash Le ministère de l’Intérieur a confirmé au Parisien qu’une fuite de données concernant le SIA, le système recensant les propriétaires d’armes à feu, avait eu lieu.
+- Les autorités ont alerté la justice ainsi que les personnes touchées.
+- Les propriétaires d’armes à feu en France sont une nouvelle fois concernés par une fuite de données informatiques.
+- Le ministère de l’Intérieur a confirmé au Parisien qu’un compte d’entreprise utilisant le système d’information sur les armes (SIA) avait été piraté.
+
+## [Opération Cactus 2026 : renforcer durablement la sensibilisation de la communauté ... - CNIL](https://www.cnil.fr/fr/operation-cactus-2026)  
+*Source : cnil.fr | Publication : 2026-03-30*
+
+- Opération Cactus 2026 : renforcer durablement la sensibilisation de la communauté éducative aux cybermenaces 30 mars 2026 Le ministère de l’Éducation nationale a conduit une opération nationale de prévention de grande ampleur reposant sur une simulation d’hameçonnage.
+- Cette initiative vise à renforcer la vigilance et la responsabilisation de l’ensemble de la communauté éducative face à l’une des formes de cyberattaque les plus répandues.
+- Du 23 au 27 mars 2026, le ministère de l’Éducation nationale a conduit, en partenariat avec le ministère de l’Intérieur (COMCYBER-MI), le ministère de la Justice (section de lutte contre la cybercriminalité du parquet de Paris (J3) et direction des affaires criminelles et des grâces), Cybermalveillance.gouv.fr (GIP ACYMA) la CNIL ainsi que le groupe France Télévisions, l’UNAF et l’association E-enfance/3018, une opération nationale de prévention de grande ampleur reposant sur une simulation d’hameçonnage.
+- Une réponse éducative face à une menace croissante Depuis 2017 les infractions d’atteintes aux systèmes de traitement automatiques de données (cyberattaques, introductions dans les systèmes informatiques, extractions frauduleuses de données, etc.) traitées par le parquet de Paris qui a compétence nationale en matière de cybercriminalité, ont augmenté de 2 700 % entre 2017 et 2025.
 
 ## [Un SecNumCloud européen ? L'Anssi y croit encore... mais en pièces détachées](https://www.cio-online.com/actualites/lire-un-secnumcloud-europeen-l-anssi-y-croit-encore-mais-en-pieces-detachees-16937.html)  
 *Source : cio-online.com | Publication : 2026-03-29*
