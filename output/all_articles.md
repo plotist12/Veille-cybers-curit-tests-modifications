@@ -1,5 +1,154 @@
-# Résumés – 2026-03-30
+# Résumés – 2026-03-31
 
+
+## [IA et <b>ransomware</b> : 89 % des DSI craignent pour leurs données, mais seuls 58 ... - ITRnews](https://itrnews.com/articles/209352/ia-et-ransomware-89-des-dsi-craignent-pour-leurs-donnees-mais-seuls-58-utilisent-le-stockage-immuable.html)  
+*Source : itrnews.com | Publication : 2026-03-31*
+
+- Veuillez activer Javascript.
+
+## [Propos diffamatoires contre Khalifa Sall : Le leader de Taxawu Senegaal ... - DAKARACTU.COM](https://www.dakaractu.com/Propos-diffamatoires-contre-Khalifa-Sall-Le-leader-de-Taxawu-Senegaal-depose-une-plainte-a-la-cybersecurite_a270591.html)  
+*Source : dakaractu.com | Publication : 2026-03-31*
+
+- Taxawu Senegaal a rompu ce mardi 31 mars 2026 avec sa traditionnelle retenue.
+- Dans un communiqué de presse publié depuis Dakar, la plateforme politique annonce avoir déposé une plainte auprès de la division de la cybersécurité, en réaction à ce qu’elle qualifie de « recrudescence d’attaques infondées » visant son leader.
+- Le mouvement, qui revendique pour son dirigeant « une intégrité et une moralité exemplaires », prévient que cette posture de réserve ne doit plus être interprétée comme une faiblesse.
+- Désormais, « toute dérive » fera l’objet d’une « riposte ferme, y compris judiciaire », précise le texte.
+
+## [<b>Cybersécurité</b> : le ministère de l'Intérieur propose un « kit de crise » à destination des collectivités](https://www.sudouest.fr/economie/cybersecurite/cybersecurite-le-ministere-de-l-interieur-propose-un-kit-de-crise-a-destination-des-collectivites-28516546.php)  
+*Source : sudouest.fr | Publication : 2026-03-31*
+
+- Face à la multiplication des cyberattaques visant les données sensibles des communes, le ministère de l’Intérieur lance un cours en ligne gratuit pour préparer les élus et agents Du taux de chlore informatisé de la piscine hacké à la liste des concessions funéraires volée, les données des collectivités peuvent être sensibles, précieuses et cibles de cyberattaques contre lesquelles un cours en ligne est désormais proposé par le Comcyber-MI (Commandement du ministère de l’Intérieur dans le cyberespace).
+
+## [Déplacement d'Anne Le Hénanff au Forum InCyber à Lille, mercredi 1er et jeudi 2 avril 2026](https://presse.economie.gouv.fr/nar-deplacement-danne-le-henanff-au-forum-incyber-a-lille-mercredi-1er-et-jeudi-2-avril-2026/)  
+*Source : presse.economie.gouv.fr | Publication : 2026-03-31*
+
+- Partager la page NAR - Déplacement d'Anne Le Hénanff au Forum InCyber à Lille, mercredi 1er et jeudi 2 avril 2026 31 Mars 2026 | Communiqué de presse.
+- Paris, le 31 mars 2026.
+- Mme Anne Le Hénanff, ministre déléguée chargée de l'Intelligence artificielle et du Numérique, se rendra au Forum InCyber à Lille Les mercredi 1er et jeudi 2 avril 2026 Madame Anne LE HÉNANFF, ministre déléguée chargée de l'Intelligence artificielle et du Numérique, se rendra à Lille pour participer au Forum InCyber, rendez-vous de référence en Europe pour les acteurs de la cybersécurité.
+- Dans un contexte de menaces cyber croissantes, le Forum InCyber réunit chaque année l'ensemble des acteurs de l'écosystème cyber autour des grands enjeux de sécurité, de résilience et de souveraineté numérique.
+
+## [« Une véritable économie du cybercrime » : les fuites de données changent de nature](https://www.solutions-numeriques.com/une-veritable-economie-du-cybercrime-les-fuites-de-donnees-changent-de-nature/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-31*
+
+- Le dernier baromètre du Forum INCYBER, fondé sur les données de la CNIL, met en évidence une rupture nette en 2025 : la fuite de données n’est plus un incident ponctuel, mais une mécanique industrialisée, aux effets démultipliés.
+- Une cybercriminalité qui change d’échelle En un an, 8 613 violations de données ont été notifiées, soit une progression de 45 %.
+- Derrière ce chiffre, une réalité plus structurante : la fuite devient un phénomène continu, avec près de 24 incidents par jour.
+- Le rapport décrit une banalisation des compromissions, désormais largement alimentées par des actions malveillantes, en hausse de plus de 60 %.
+
+## [Mot de passe : comment éviter de se faire pirater son compte - La République du Centre](https://www.larep.fr/paris-75000/actualites/mot-de-passe-comment-eviter-de-se-faire-pirater-son-compte_14946626/)  
+*Source : larep.fr | Publication : 2026-03-31*
+
+- Écouter l'article Majuscules, chiffres, caractères spéciaux… Tout le monde croit avoir un bon mot de passe.
+- Mais d’après une étude de l’éditeur de logiciels NordPass, le mot de passe le plus courant en France l’an dernier était : « 123456 »… Dans le même temps, il ne se passe pas une semaine sans que l’on apprenne une nouvelle fuite de milliers de mots de passe.
+- Vous êtes peut-être concernés.
+- Pour le savoir, saisissez votre adresse mail sur le site haveibeenpwned.com... Effrayant, non ?.
+
+## [5000 citoyens wallons seront formés à la <b>cybersécurité</b> en deux ans : le programme est ouvert à tous](https://www.lavenir.net/actu/conso/multimedia/2026/03/31/5000-citoyens-wallons-seront-formes-a-la-cybersecurite-en-deux-ans-le-programme-est-ouvert-a-tous-OBKHD4PUHRCY7J4AA5OGFLZTKQ/)  
+*Source : lavenir.net | Publication : 2026-03-31*
+
+- 5000 citoyens wallons seront formés à la cybersécurité en deux ans : le programme est ouvert à tous La Wallonie et Proximus nouent un partenariat pour orchestrer un grand programme de sensibilisation et de formation à la cybersécurité.
+- Au cœur du dispositif : des séances organisées dans les Espaces Publics Numériques (EPN).
+- Publié le 31-03-2026 à 16h38 - L'opérateur télécoms Proximus et le Gouvernement wallon unissent leurs forces pour doper les compétences numériques et la sécurité en ligne des Wallons.
+- Au cœur de leur nouvelle convention de partenariat : un programme de séances de sensibilisation et de formation à la cybersécurité organisées dans les 221 Espaces Publics Numériques (EPN) de Wallonie.
+
+## [Informatique quantique : du potentiel en Bourse ? «Les investissements en <b>cybersécurité</b> ... - Capital](https://www.capital.fr/entreprises-marches/informatique-quantique-du-potentiel-en-bourse-les-investissements-en-cybersecurite-quantique-senvolent-1525177)  
+*Source : capital.fr | Publication : 2026-03-31*
+
+- L’informatique quantique exploite les phénomènes de l’infiniment petit : la superposition (un objet peut être dans plusieurs états à la fois), l’intrication (deux particules peuvent rester liées à distance) et l’interférence (renforce les bonnes solutions et élimine les mauvaises).
+- Ces propriétés, propres à l’échelle atomique, ouvrent la voie à des ordinateurs radicalement différents.
+- Google, IBM, Microsoft, Amazon, mais aussi des start-ups telles que PsiQuantum, IonQ, Pasqal ou Alice & Bob, investissent massivement.
+- On n’a jamais été aussi près de voir le génie sortir de la lampe.
+
+## [Google renforce la sécurité de Google Drive pour se protéger des <b>Ransomware</b> - Frandroid](https://www.frandroid.com/marques/google/3046801_google-renforce-la-securite-de-google-drive-pour-se-proteger-des-ransomware)  
+*Source : frandroid.com | Publication : 2026-03-31*
+
+- En 2026, l’utilisation d’un système de stockage en ligne de fichiers est devenue relativement commune.
+- Avec ses 15 Go de stockage offert, Google Drive fait office, pour de nombreux utilisateurs, de système par défaut.
+- Une utilisation massive qui peut susciter la convoitise de nombreuses personnes malveillantes via l’utilisation de ransomwares.
+- Pour se protéger de ces nouvelles attaques, la firme de Mountain View a développé une fonctionnalité de détection des ransomwares et de restauration des fichiers, rapporte Android Authority.
+
+## [Atos se dote d'un pôle de renseignement sur les <b>cybermenaces</b> - Easybourse](https://www.easybourse.com/services/news/1528019/atos-dote-un-pole-renseignement-sur-cybermenaces.html)  
+*Source : easybourse.com | Publication : 2026-03-31*
+
+- (Zonebourse.com) - Atos annonce le lancement d'un Centre de recherche sur les menaces (TRC), "conçu pour fournir, dans un contexte d'évolution particulièrement rapide du paysage mondial des cybermenaces, des analyses approfondies et directement exploitables le plus en amont possible".
+- Pôle de renseignement de nouvelle génération, le TRC consolide l'expertise d'Atos en recherche avancée, surveillance des acteurs malveillants, renseignement sur les vulnérabilités et automatisation alimentée par l'IA, pour la protection des clients dans le monde entier.Il fournit aux centres d'opérations de sécurité (SOC) d'Atos des renseignements exploitables et harmonisés à l'échelle mondiale afin de renforcer la protection des environnements clients et la capacité de détection, d'investigation et de réponse aux menaces.
+- "Avec un tel dispositif, Atos garantit à ses clients la robustesse des opérations de sécurité dans le contexte actuel et les prépare, grâce à la prospective, à contrer les menaces cyber de demain", commente Günter Koinegg, son global head of cybersecurity services.Selon Atos, le TRC constitue un puissant facteur de différenciation, renforçant sa position en tant que partenaire de cybersécurité de confiance auprès des entreprises, des gouvernements et des opérateurs d'infrastructures critiques à travers le monde.Copyright (c) 2026 Zonebourse.
+- com - All rights reserved.
+
+## [<b>Cybersécurité</b>: un &quot;frémissement&quot; de souveraineté en faveur des acteurs français](https://www.notretemps.com/depeches/cybersecurite-un-fremissement-de-souverainete-en-faveur-des-acteurs-francais-130592)  
+*Source : notretemps.com | Publication : 2026-03-31*
+
+- Cybersécurité: un "frémissement" de souveraineté en faveur des acteurs français Des solutions développées en Europe, des données stockées sur le continent: les entreprises françaises ou européennes de la cybersécurité bénéficient d'un regain d'intérêt face aux géants américains et israéliens, mais des freins persistent dans leur expansion.
+- Au Forum InCyber, salon annuel consacré à la cybersécurité, qui s'est ouvert à Lille mardi, les discussions se concentrent largement sur la question du poids prépondérant des technologies étrangères de cybersécurité et de cloud.
+- "On sent un début de frémissement", témoigne à l'AFP Jean-François Aliotti, co-fondateur de l'entreprise française Almond.
+- Spécialisée dans le conseil en cybersécurité, la société a commencé "à avoir des premières missions pour décommissionner des services américains" chez certains de ses clients, poursuit le dirigeant.
+
+## [<b>Cybersécurité</b> : appel à projet pour accompagner, à leur rythme, 21 ESSMS](https://www.lemediasocial.fr/cybersecurite-appel-a-projet-pour-accompagner-a-leur-rythme-21-essms_96Yvqz)  
+*Source : lemediasocial.fr | Publication : 2026-03-31*
+
+- Confrontés à la « montée des cybermenaces », les établissements et services sociaux et médico-sociaux (ESSMS) sont encouragés à renforcer leur sécurité.
+- À cet effet, l'Agence du numérique en santé (ANS) publie le cahier des charges de la première « itération » de son appel à projets visant à la mise en œuvre de mesures de cybersécurité dans les ESSMS.
+- Celui-ci prend la forme d'un POC (« preuve de concept »), c'est-à-dire « une phase exploratoire permettant de tester des parcours adaptés aux réalités du terrain, avant un déploiement à plus grande échelle ».
+- Afin de tenir compte du niveau de chacun en la matière, trois parcours sont proposés, selon la « maturité cyber » de l'ESSMS : peu avancée sans ressources cyber dédiées, peu avancée avec des ressources cyber (en partie) dédiées ou moyennement avancée.
+
+## [Everpure étend son intégration avec Nutanix sur le stockage flash capacitif - Solutions-Numeriques](https://www.solutions-numeriques.com/communiques/everpure-etend-son-integration-avec-nutanix-sur-le-stockage-flash-capacitif/)  
+*Source : solutions-numeriques.com | Publication : 2026-03-31*
+
+- Everpure poursuit le renforcement de son partenariat avec Nutanix en annonçant la validation de sa baie FlashArray//C comme stockage externe pour la Nutanix Cloud Platform.
+- Cette évolution vise en priorité les environnements virtualisés et les workloads secondaires, comme le développement, le test ou encore les sauvegardes de machines virtuelles.
+- Basée sur une architecture NVMe 100 % flash exploitant de la mémoire QLC, FlashArray//C se positionne sur le segment du stockage capacitif.
+- L’objectif est de proposer une alternative aux infrastructures hybrides ou sur disque, avec un coût par téraoctet comparable, tout en apportant les bénéfices du flash en matière de performances et de densité.
+
+## [POESAM 2026 : l'IA, la data et la <b>cybersécurité</b> au cœur de la 16e édition du concours](https://www.wearetech.africa/fr/fils/actualites/tech/poesam-2026-l-ia-la-data-et-la-cybersecurite-au-c-ur-de-la-16e-edition-du-concours)  
+*Source : wearetech.africa | Publication : 2026-03-31*
+
+- Depuis son lancement en 2011, le POESAM a déjà accompagné de nombreux entrepreneurs en Afrique et au Moyen-Orient.
+- Cette année, le concours met l’accent sur les projets intégrant l’IA, la data et la cybersécurité, pour répondre aux enjeux sociaux et environnementaux actuels.
+- Orange a annoncé, le lundi 30 mars , l’ouverture des candidatures pour la 16ᵉ édition du Prix Orange de l’Entrepreneur Social en Afrique et au Moyen-Orient (POESAM).
+- Les jeunes entrepreneurs issus des 17 pays où est présent le groupe télécoms, ont jusqu’au 10 mai pour soumettre leurs projets sur la plateforme dédiée.
+
+## [Ce vpn protège vos données sur les wi-fi publics, voici pourquoi CyberGhost séduit autant d ...](https://www.lepoint.fr/services/cybersecurite-au-quotidien-pourquoi-un-vpn-comme-cyberghost-vpn-devient-indispensable-G6T55WJLZVH7BMHEKTIRMQ2C3Q/)  
+*Source : lepoint.fr | Publication : 2026-03-31*
+
+- Les connexions Wi-Fi accessibles dans les lieux publics (gares, hôtels, cafés) sont particulièrement vulnérables.
+- Sans protection, vos informations peuvent être interceptées par des tiers malveillants.
+- Un VPN comme CyberGhost qui fait partie de notre guide des meilleurs VPN agit comme un bouclier numérique : il chiffre votre trafic et crée un tunnel sécurisé entre votre appareil et Internet.
+- Résultat, vos données deviennent illisibles pour toute personne cherchant à les espionner.
+
+## [<b>Cybersécurité</b> : pourquoi Salesforce promeut un modèle fondé sur un engagement partagé](https://www.usine-digitale.fr/publi-redactionnel/cybersecurite-pourquoi-salesforce-promeut-un-modele-fonde-sur-un-engagement-partage.3SR5NEXWVBE6VBA7HYYN2YR4OU.html)  
+*Source : usine-digitale.fr | Publication : 2026-03-31*
+
+- Visuel Article Cybersécurité Salesforce.
+- La cybersécurité s'est imposée comme l'un des sujets les plus critiques pour les entreprises aujourd'hui.
+
+## [<b>Cybersécurité</b> : plus de 9 millions d'élèves, parents et personnels scolaires hameçonnés ...](https://www.sudouest.fr/politique/education/operation-cactus-plus-de-9-millions-d-eleves-parents-et-personnels-scolaires-hameconnes-pour-la-bonne-cause-28510432.php)  
+*Source : sudouest.fr | Publication : 2026-03-31*
+
+- Collégiens, lycéens, parents d’élèves et personnels scolaires ont reçu un faux message frauduleux dans le cadre de l’opération Cactus.
+- Objectif : sensibiliser aux cyberattaques et aux bonnes pratiques pour s’en prémunir Du 23 au 27 mars, le ministère de l’Éducation nationale a reconduit une opération nationale de prévention à la cybermalveillance, en collaboration avec de nombreux partenaires dont le ministère de l’Intérieur, de la Justice, la Cnil ou encore l’Unaf.
+- Baptisée Cactus V2, cette opération collective reposait notamment sur une simulation d’hameçonnage... Du 23 au 27 mars, le ministère de l’Éducation nationale a reconduit une opération nationale de prévention à la cybermalveillance, en collaboration avec de nombreux partenaires dont le ministère de l’Intérieur, de la Justice, la Cnil ou encore l’Unaf.
+- Baptisée Cactus V2, cette opération collective reposait notamment sur une simulation d’hameçonnage grandeur réelle.
+
+## [<b>Cybersécurité</b> : après un piratage de ses données, l'Éducation nationale livre les résultats ...](https://www.ouest-france.fr/education/cybersecurite-apres-un-piratage-de-ses-donnees-leducation-nationale-livre-les-resultats-de-loperation-cactus-362f4ee4-2c48-11f1-b6d3-a26d21fbb514)  
+*Source : ouest-france.fr | Publication : 2026-03-31*
+
+- Alors que les établissements scolaires voient les attaques malveillantes se multiplier ces derniers mois, l'opération « Cactus » visait à.
+
+## [SantExpo 2026 : IA, interopérabilité,<b>cybersécurité</b>, dématérialisation… le numérique en ... - Archimag](https://www.archimag.com/vie-numerique/2026/03/31/santexpo-2026-ia-numerique-sante)  
+*Source : archimag.com | Publication : 2026-03-31*
+
+- À l’hôpital comme dans le médico-social, la transformation numérique a changé de nature.
+- Les établissements entrent dans une phase beaucoup plus opérationnelle : mieux partager l’information, fiabiliser les flux, sécuriser les accès, alléger les tâches administratives, structurer les données ou encore déployer des outils d’IA utiles et conformes.
+- SantExpo se tiendra à Paris Expo Porte de Versailles – Hall 1, autour du thème : « L’excellence en santé : un engagement pour toutes les générations ».
+- Le salon s’impose comme un temps fort pour les décideurs, les établissements, les institutionnels, les experts du numérique et les partenaires technologiques.
+
+## [« Plus de 1 000 entreprises et collectivités sont concernées » : pourquoi la Bretagne doit ...](https://www.letelegramme.fr/economie/plus-de-1-000-entreprises-et-collectivites-sont-concernees-pourquoi-la-bretagne-doit-renforcer-sa-cybersecurite-7016373.php)  
+*Source : letelegramme.fr | Publication : 2026-03-31*
+
+- La filière cyber a rendez-vous au Forum Incyber de Lille à partir de ce mardi 31 mars.
+- Parmi les principaux sujets au menu : le renforcement à venir des obligations de cyberprotection des administrations et des entreprises.
+- Le point avec Tiphaine Le Duc, coordinatrice du campus cyber régional Bretagne Cyber Alliance.
+- Une quarantaine d’entreprises seront présentes.
 
 ## [Rapport d'après-action : Série d'exercices de résilience Health-ISAC 2025](https://health-isac.org/fr/Rapport-d'après-action-sur-la-série-d'exercices-de-résilience-ISAC-en-santé-2025/)  
 *Source : health-isac.org | Publication : 2026-03-30*
