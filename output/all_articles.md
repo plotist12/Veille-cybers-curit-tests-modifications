@@ -1,5 +1,151 @@
-# Résumés – 2026-03-31
+# Résumés – 2026-04-01
 
+
+## [Apple va lancer une mise à jour d'urgence sur certains iPhone, êtes-vous concerné ?](https://www.01net.com/actualites/apple-va-deployer-mise-jour-urgence-certains-iphone-etes-vous-concerne.html)  
+*Source : 01net.com | Publication : 2026-04-01*
+
+- Le mois dernier, des experts en cybersécurité ont découvert un redoutable kit de piratage d’iPhone, DarkSword.
+- Massivement exploité par des gangs proches de la Russie, le kit permet de siphonner l’essentiel des informations stockées sur un iPhone en attirant son propriétaire sur un site web malveillant.
+- L’outil fait notamment partie de l’arsenal du gang russe TA446, alias Callisto.
+- Celui-ci s’en sert pour piéger des militaires, des responsables gouvernementaux, et des journalistes en Europe et en Ukraine.
+
+## [<b>Cybercriminalité</b> : le Cameroun renforce sa riposte face à une menace en forte hausse](https://www.stopblablacam.com/societe/0104-16051-cybercriminalite-le-cameroun-renforce-sa-riposte-face-a-une-menace-en-forte-hausse)  
+*Source : stopblablacam.com | Publication : 2026-04-01*
+
+- Au Cameroun, la montée en puissance de la cybercriminalité n’est plus une hypothèse, mais une réalité mesurable.
+- À mesure que le pays accélère sa transformation numérique - digitalisation des services publics, essor des paiements électroniques, modernisation des entreprises - les risques se multiplient et gagnent en sophistication.
+- Dans ce contexte, la participation du Cameroun à l’initiative conjointe entre Kaspersky et l’agence africaine de police criminelle (Afripol) apparaît comme un levier stratégique.
+- Entre novembre 2025 et mars 2026, des représentants des forces de l’ordre camerounaises ont pris part, aux côtés de leurs homologues de 22 autres pays africains, à une formation spécialisée sur les opérations de sécurité et la chasse aux menaces (threat hunting).
+
+## [<b>Cybersécurité</b> &amp; IA : 38% des décideurs cyber français estiment que les hackers ont pris l'avantage](https://itrnews.com/articles/209364/cybersecurite-ia-38-des-decideurs-cyber-francais-estiment-que-les-hackers-ont-pris-lavantage.html)  
+*Source : itrnews.com | Publication : 2026-04-01*
+
+- Veuillez activer Javascript.
+
+## [Forum <b>cybersécurité</b> : la faille électronique dans les voitures - YouTube](https://www.youtube.com/watch?v=meoH4QTcrXo)  
+*Source : youtube.com | Publication : 2026-04-01*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [<b>Cybersécurité</b> &amp; IA : 38% des décideurs cyber français estiment que les hackers ont pris l'avantage](https://itrmanager.com/articles/209364/cybersecurite-ia-38-des-decideurs-cyber-francais-estiment-que-les-hackers-ont-pris-lavantage.html)  
+*Source : itrmanager.com | Publication : 2026-04-01*
+
+- cybersécurité » menée par OpinionWay pour Hornetsecurity by Proofpoint, auprès de 500 dirigeants et décideurs en matière de cybersécurité.
+- Le.
+
+## [Galaxy Digital signale une faille de <b>cybersécurité</b> R&amp;D | Phemex News](https://phemex.com/fr/news/article/galaxy-digital-reports-cybersecurity-breach-in-isolated-rd-environment-70320)  
+*Source : phemex.com | Publication : 2026-04-01*
+
+- Galaxy Digital a révélé un incident récent de cybersécurité où des attaquants ont obtenu un accès non autorisé à un environnement isolé de recherche et développement.
+- La violation n'a pas affecté les systèmes de production ni les comptes clients.
+- La société a indiqué que seule une petite quantité de fonds de test a été impactée, avec des pertes inférieures à 10 000 dollars.
+- Toutes les plateformes et services de trading restent inchangés.
+
+## [Hasbro enquête sur un incident de <b>cybersécurité</b> et met certains systèmes hors ligne](https://ch.zonebourse.com/actualite-bourse/hasbro-enquete-sur-un-incident-de-cybersecurite-certains-systemes-mis-hors-ligne-ce7e51dfde8df52c)  
+*Source : ch.zonebourse.com | Publication : 2026-04-01*
+
+- Le fabricant de jouets Hasbro a déclaré mercredi qu&#039;il enquêtait sur un incident de cybersécurité après avoir identifié, le 28 mars, un accès non autorisé à son réseau, avec l&#039;aide d&#039;experts tiers en cybersécurité.
+- * Dans un document réglementaire, Hasbro a précisé avoir mis certains systèmes hors ligne et utiliser des mesures temporaires pour continuer à prendre des commandes et à expédier ses produits.
+- * La nécessité de recourir à un plan de continuité des activités pourrait se prolonger pendant plusieurs semaines avant que la situation ne soit pleinement résolue, ce qui pourrait entraîner des retards dans l&#039;exécution de certaines commandes, a ajouté la société.
+- * Hasbro a indiqué qu&#039;elle évaluait toujours l&#039;ampleur réelle de l&#039;impact.
+
+## [Mission en Europe : le Québec signe une déclaration d'intention sur la souveraineté ...](https://www.newswire.ca/fr/news-releases/mission-en-europe-le-quebec-signe-une-declaration-d-intention-sur-la-souverainete-numerique-avec-la-france-886144527.html)  
+*Source : newswire.ca | Publication : 2026-04-01*
+
+- Mission en Europe : le Québec signe une déclaration d'intention sur la souveraineté numérique avec la France Nouvelles fournies par Cabinet du ministre de la Cybersécurité et du Numérique01 avr, 2026, 14:56 ET QUÉBEC, le 1er avril 2026 /CNW/ - Le ministère de la Cybersécurité et du Numérique (MCN) dresse un bilan très positif de sa mission en Europe, tenue du 30 mars au 1er avril 2026, en Belgique et en France, laquelle s'est notamment conclue par la signature d'une déclaration d'intention.
+- Cette mission s'inscrivait dans une séquence stratégique pour le Québec, alors que le gouvernement déploie activement sa vision et sa stratégie en matière de souveraineté numérique.
+- C'est dans cette perspective que le MCN a signé une déclaration d'intention en souveraineté numérique avec la Direction interministérielle du numérique (DINUM) du gouvernement de la République française.
+- Cette déclaration vise à renforcer la collaboration entre les deux organisations dans les domaines d'intérêt suivants : L'environnement numérique de travail, y compris la messagerie instantanée et la visioconférence; - L'identité numérique, dont les attestations numériques, l'authentification et le portefeuille numérique; - L'intelligence artificielle, incluant le déploiement de l'intelligence artificielle générative au sein de l'État; - L'infonuagique et les outils de développement logiciel; - Les compétences numériques des agentes et agents de l'État, notamment en matière de fidélisation du personnel, de perfectionnement des compétences et de planification de carrière.
+
+## [<b>Cybersécurité</b> : comment l'IA transforme les contraintes opérationnelles en résilience pour l ...](https://linformation.ma/news/high-tech/cybersecurite-comment-l-ia-transforme-les-contraintes-operationnelles-en-resilience-pour-l-entreprise/63390)  
+*Source : linformation.ma | Publication : 2026-04-01*
+
+- L’IA joue un rôle crucial dans la cybersécurité en suivant le rythme des acteurs malveillants et en comblant le manque de compétences dans ce domaine.
+- Autrefois, seuls quelques experts étaient suffisants pour gérer des antivirus et des pare-feu de base.
+- Cependant, les attaques qui ont fait la une des journaux, comme NotPetya, WannaCry et SUNBURST, ont démontré que les mesures de protection de base ne sont pas adéquates.
+- Aujourd’hui, l’IA peut favoriser des attaques plus rapides et plus étendues, mais elle peut aussi combler le déficit de compétences en dotant les utilisateurs quotidiens et les entreprises de capacités avancées.
+
+## [500 000 lignes de code fuitent, les projets secrets d'Anthropic dévoilés - La Tribune](https://www.latribune.fr/article/tech/intelligence-artificielle/38909844533159/500-000-lignes-de-code-fuitent-les-projets-secrets-danthropic-devoiles)  
+*Source : latribune.fr | Publication : 2026-04-01*
+
+- 500 000 lignes de code fuitent, les projets secrets d'Anthropic dévoilés par latribune.fr Plusieurs géants de la cybersécurité ont payé cher l’annonce récente l’annonce d’Anthropic, avec des chutes en bourse de 25 % pour certains acteurs.
+- Claude.IA par latribune.fr Plusieurs géants de la cybersécurité ont payé cher l’annonce récente l’annonce d’Anthropic, avec des chutes en bourse de 25 % pour certains acteurs.
+- Claude.IA « Aucune donnée sensible de clients ni aucun identifiant n'ont été impliqués ou exposés », assure Anthropic.
+- Le code dévolié permet néanmoins aux acteurs malveillants de chercher des failles zero-day (inconnues) dans l'outil utilisé par les développeurs tiers.
+
+## [10 mythes de <b>cybersécurité</b> démentis par un expert | Pèse sur start](https://www.pesesurstart.com/2026/04/01/10-mythes-de-cybersecurite-dementis-par-un-expert)  
+*Source : pesesurstart.com | Publication : 2026-04-01*
+
+- 10 mythes de cybersécurité démentis par un expert Le 1er avril, on évite de mordre à l’hameçon.
+- En cybersécurité, c’est un conseil valable à longueur d’année, pas juste durant le poisson d’avril.
+- J’ai consulté Alexis Dorais-Joncas, expert en cybersécurité chez Proofpoint, pour démystifier 10 mythes tenaces qu’il est temps d’enterrer.
+- Il est dangereux d’utiliser un Wi-Fi public car vos données sont diffusées en clair MYTHE !.
+
+## [<b>Cybermenace</b> au Luxembourg: la Chambre des députés coupe ses systèmes informatiques](https://www.lessentiel.lu/fr/story/au-luxembourg-sites-inaccessibles-que-se-passe-t-il-a-la-chambre-des-deputes-103539115)  
+*Source : lessentiel.lu | Publication : 2026-04-01*
+
+- Au LuxembourgSites déconnectés, que se passe-t-il à la Chambre des députés?.
+- La Chambre des députés a déconnecté tous ses systèmes informatiques «par mesure de précaution».
+- Que se passe-t-il à la Chambre?.
+- «Par mesure de précaution» tous les systèmes informatiques de la Chambre des députés (sites Internet, messagerie) ont été déconnectés d'Internet mercredi aux alentours de 18h30 et devraient l'être au moins jusqu'à ce jeudi 8h.
+
+## [Sécurité OT et identités dans les infrastructures critiques - InformatiqueNews.fr](https://www.informatiquenews.fr/securite-des-identites-dans-les-infrastructures-critiques-frederic-bothin-beyondtrust-110272)  
+*Source : informatiquenews.fr | Publication : 2026-04-01*
+
+- Le vrai point faible des infrastructures critiques n’est plus forcément le système industriel, mais l’identité qui ouvre la porte.
+- Entre accès fournisseurs, comptes surdimensionnés et maintenance à distance, l’OT devient un terrain idéal pour des attaques à faible bruit et à fort impact.
+- Voici pourquoi la sécurité OT est le nouveau champ de bataille… Les opérateurs d’infrastructures critiques subissent une pression croissante de la part des hacktivistes, des cybercriminels et des acteurs étatiques qui exploitent les identités compromises, les comptes à privilèges excessifs et les failles de sécurité liées à l’accès à distance.
+- Les dirigeants fédéraux et étatiques accordent une importance primordiale à la prévention des interruptions de services essentiels : électricité, eau, urgences, transports, communications et santé.
+
+## [Google Drive déploie de nouveaux outils pour contrer les <b>ransomwares</b> - Servicesmobiles.fr](https://www.servicesmobiles.fr/google-drive-deploie-de-nouveaux-outils-pour-contrer-les-ransomwares-decouvrez-leur-fonctionnement-111186)  
+*Source : servicesmobiles.fr | Publication : 2026-04-01*
+
+- Google Drive déploie de nouveaux outils pour contrer les ransomwares : découvrez leur fonctionnement Google Drive déploie de nouveaux outils destinés à renforcer la protection des utilisateurs contre les attaques par ransomware.
+- Ces fonctionnalités visent à sécuriser davantage les fichiers stockés en ligne et à limiter les risques d’accès malveillant.
+- Tl;dr Google Drive renforce sa protection anti-ransomware.
+- - L’IA détecte 14 fois plus d’infections qu’avant.
+
+## [Forum InCyber 2026 : comment se préparer à un kill-switch américain ? | LeMagIT](https://www.lemagit.fr/actualites/366641153/Forum-InCyber-2026-comment-se-preparer-a-un-kill-switch-americain)  
+*Source : lemagit.fr | Publication : 2026-04-01*
+
+- pavlofox - stock.adobe.com Forum InCyber 2026 : comment se préparer à un kill-switch américain ?.
+- Les débats du premier jour de la 18e édition du Forum InCyber, placée sous le thème de la dépendance numérique, ont naturellement porté sur la place de l’Europe dans un environnement géopolitique instable, où l’allié américain dispose d’un droit de vie ou de mort sur le numérique européen.
+- Le général Marc Watin-Augouard, fondateur du Forum InCyber a ouvert la plénière d’ouverture par un discours sur la place de l’Europe dans le concert des grandes puissances.
+- L’ère Trump a montré que le scénario d’un potentiel kill switch des technologies américaines est désormais possible, ce qui place de fait le continent en position de colonie numérique des États-Unis.
+
+## [API : les hackers adorent cette technologie que vous utilisez tous les jours sans le savoir](https://www.clubic.com/actualite-607174-api-les-hackers-adorent-cette-technologie-que-vous-utilisez-tous-les-jours-sans-le-savoir.html)  
+*Source : clubic.com | Publication : 2026-04-01*
+
+- Les API alimentent 99 % des applications mobiles et des sites web, et les pirates l'ont bien compris.
+- Ces interfaces sont aujourd'hui la principale porte d'entrée des cyberattaques, alerte l'expert F5 Matthieu Dierick.
+- Invisible à l'œil nu, l'API est pourtant partout, derrière chaque clic, chaque scroll de votre application préférée.
+- Moteur discret du web moderne, elle est aussi devenue une porte d'entrée royale pour les hackers, faute de sécurisation suffisante.
+
+## [Une conférence sur la <b>cybersécurité</b> et les bons réflexes à adopter - PressReader](https://www.pressreader.com/france/le-courrier-de-l-ouest-cholet/20260401/281732686032692)  
+*Source : pressreader.com | Publication : 2026-04-01*
+
+- Une conférence sur le thème de la cybersécurité a été organisée à l'initiative d'une agence bancaire, samedi 28 mars à la salle Azura.
+
+## [<b>Cybersécurité</b>: Emploi du temps de 'Nucleon Security' au GITEX Africa 2026 à Marrakech](https://afriquinfos.com/cybersecurite-emploi-du-temps-de-nucleon-security-au-gitex-africa-2026-a-marrakech/)  
+*Source : afriquinfos.com | Publication : 2026-04-01*
+
+- Marrakech (© 2026 Afriquinfos)- Nucleon Security, entreprise spécialisée en cybersécurité et fournisseur de solutions intelligentes, intégrées et.
+
+## [<b>cybersécurité</b> #hexatrust #forumincyber #fic2026 #hexadiag #hexasearch #hexaswitch #nis2](https://fr.linkedin.com/posts/hexatrust_cybersécurité-hexatrust-forumincyber-activity-7444971813295591424-_Cfw)  
+*Source : fr.linkedin.com | Publication : 2026-04-01*
+
+- 📢 C’est parti pour le J2 du Forum INCYBER (FIC) 2026 : retrouvez Hexatrust et ses membres sur les pavillons A et D !.
+- Retrouvez sur le pavillon A4 : ALGOSECURE, AUCAE, AVANOO, AXIANS, BLUEMIND, BRAIN, CONSCIO TECHNOLOGIES, CRYPTONEXT SECURITY, CYBER DETECT, DASTRA, DOCAPOSTE, ETIX EVERYWHERE, EVERTRUST, EY, F24, FAIRTRUST, GALEAX, INQUEST, LOGIN SÉCURITÉ, MAKE IT SAFE, NAMESHIELD, OLVID, OODRIVE, OPEN SEZAM, PARSEC, PEXIP, PRIVATE DISCUSS, PROVENRUN, QONTROL, REEMO, RETARUS, SCALITY, SECDOJO, SMART GLOBAL GOVERNANCE, SNOWPACK, TIXEO, TRANQUIL IT, TRUSTBUILDER, UBIKA, WALLIX, WIMI, WORTEKS.
+- Retrouvez sur le pavillon D10 : FairTrust - Dastra - Worteks - Scality - Pexip - Brain - Scaleway - ProvenRun Merci encore à l’ensemble des participants à la soirée Hexatrust, organisée en partenariat avec Edmond de Rothschild.
+- Ce fut, une fois de plus, un très bon moment de convivialité.
+
+## [Bconnex lance &quot;casque as a service&quot; pour recycler les casques - InformatiqueNews.fr](https://www.informatiquenews.fr/bconnex-lance-casque-as-a-service-pour-recycler-les-micro-casques-au-lieu-de-les-jeter-110237)  
+*Source : informatiquenews.fr | Publication : 2026-04-01*
+
+- Le spécialiste français de la gestion de parc IT propose un service externalisé de nettoyage, réparation et reconditionnement des casques audio professionnels, opéré depuis Saint-Malo.
+- Objectif : appliquer enfin l’économie circulaire à un équipement que tout le monde utilise… et que personne ne gère.
+- Spécialisé dans la gestion du cycle de vie des équipements IT d’entreprise, bconnex est un groupe français qui accompagne les DSI sur toute la chaîne (fourniture, déploiement, SAV, sécurité, recyclage…) et édite au passage Mobilehub, une plateforme SaaS de gestion de parc.
+- Le groupe étend aujourd’hui son périmètre avec « Casque as a Service », une offre d’économie circulaire dédiée aux micro-casques audio professionnels.
 
 ## [IA et <b>ransomware</b> : 89 % des DSI craignent pour leurs données, mais seuls 58 ... - ITRnews](https://itrnews.com/articles/209352/ia-et-ransomware-89-des-dsi-craignent-pour-leurs-donnees-mais-seuls-58-utilisent-le-stockage-immuable.html)  
 *Source : itrnews.com | Publication : 2026-03-31*
