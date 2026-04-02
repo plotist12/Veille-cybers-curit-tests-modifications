@@ -1,5 +1,155 @@
-# Résumés – 2026-04-01
+# Résumés – 2026-04-02
 
+
+## [Test électronique : Agôn Electronics rachète Testelec Ingénierie - VIPress.net](https://vipress.net/test-electronique-agon-electronics-testelec-ingenierie/)  
+*Source : vipress.net | Publication : 2026-04-02*
+
+- Test électronique : Agôn Electronics rachète Testelec Ingénierie Le sous-traitant français dispose désormais en interne de la capacité à concevoir et fabriquer des interfaces de test, cœur de métier historique de Testelec, en complément de sa capacité à définir la stratégie de test d’un produit et à concevoir, fabriquer et maintenir en conditions opérationnelles les moyens de test associés.
+- Le groupe français Agôn Electronics annonce l’acquisition de Testelec Ingénierie, entreprise jusqu’ici propriété de Laudren Atlantique et reconnue pour son savoir-faire dans la conception de bancs de test, d’interfaces in situ et fonctionnelles, et de solutions personnalisées pour les applications électroniques et industrielles.
+- Cette opération, dont le montant n’a pas été dévoilé, marque une nouvelle étape dans le développement du groupe, qui renforce ainsi son expertise dans le domaine du test électronique.
+- Ce rapprochement repose sur une forte complémentarité entre les deux entités.
+
+## [L'ombre de REvil : traque internationale des architectes d'une <b>cybermenace</b> systémique](https://www.lemagit.fr/actualites/366641069/Lombre-de-REvil-Traque-internationale-des-architectes-dune-cybermenace-systemique)  
+*Source : lemagit.fr | Publication : 2026-04-02*
+
+- Oleksandr - stock.adobe.com L'ombre de REvil : traque internationale des architectes d'une cybermenace systémique Les autorités allemandes identifient les leaders de GandCrab/REvil et émettent des mandats internationaux, révélant l'ampleur d'un préjudice dépassant 35 millions d'euros.
+- Le parquet de Karlsruhe et l'office régional de police judiciaire du Baden-Württemberg ont officiellement identifié deux figures centrales associées aux gangs de ransomware GandCrab et REvil.
+- Anatoly Sergeevitsch Kravchuk, né le 13 juin 1982 en Ukraine, est suspecté d'avoir exercé un rôle de direction opérationnelle majeure entre début 2019 et juillet 2021.
+- Ses fonctions auraient consisté à coordonner les campagnes d'attaques, à recruter des affiliés et à superviser la gestion des flux financiers.
+
+## [Nokia signe un partenariat de distribution avec Pedab France - ITRnews](https://itrnews.com/communiques-de-presse/48967/reseau-prive-5g-et-infrastructure-reseau-nokia-signe-un-partenariat-de-distribution-avec-pedab-france)  
+*Source : itrnews.com | Publication : 2026-04-02*
+
+- Veuillez activer Javascript.
+
+## [Le RSSI à l'ère de l'IA agentique : d'architecte de la défense à partenaire stratégique de ... - it social](https://itsocial.fr/cybersecurite/cybersecurite-articles/le-rssi-a-lere-de-lia-agentique-darchitecte-de-la-defense-a-partenaire-strategique-de-la-transformation/)  
+*Source : itsocial.fr | Publication : 2026-04-02*
+
+- Pendant des années, le RSSI a été cantonné à un rôle de gardien technique, responsable des pare-feux, des audits de conformité et des plans de réponse à incident.
+- L'essor de l'IA générative et agentique redistribue profondément les cartes.
+- Le RSSI devient un acteur central de la stratégie d'entreprise.
+- Ce déplacement modifie le périmètre de responsabilité, les compétences attendues et la place du RSSI dans les instances dirigeantes.
+
+## [Des hackers liés à la Corée du Nord ont piégé des développeurs du monde entier](https://siecledigital.fr/2026/04/02/la-coree-du-nord-a-piege-une-bibliotheque-utilisee-par-des-millions-de-developpeurs/)  
+*Source : siecledigital.fr | Publication : 2026-04-02*
+
+- La bibliothèque JavaScript, qui gère les requêtes réseau dans les applications web, est installée des millions de fois par semaine sur npm.
+- Cette banalité en fait une cible parfaite.
+- Si vous réussissez à la compromettre, vous touchez en même temps des milliers d’environnements de développement dans le monde entier.
+- Cela se produit sans que vous ayez besoin de cibler une entreprise.
+
+## [des hackers nord-coréens ont exploité une faille dans des logiciels utilisés par des milliers d ...](https://www.bfmtv.com/tech/cybersecurite/il-faudra-probablement-des-mois-pour-evaluer-l-impact-de-cette-campagne-des-hackers-nord-coreens-ont-exploite-une-faille-dans-des-logiciels-utilises-par-des-milliers-d-entreprises-americaines_AN-202604020792.html)  
+*Source : bfmtv.com | Publication : 2026-04-02*
+
+- "Il faudra probablement des mois pour évaluer l'impact de cette campagne": des hackers nord-coréens ont exploité une faille dans des logiciels utilisés par des milliers d'entreprises américaines C’est une stratégie qui rapporte gros.
+- Les menaces cyber nord-coréennes comptent aujourd’hui parmi les plus redoutées au monde.
+- Le régime de Pyongyang s’appuie sur des groupes de hackers très structurés pour mener des opérations d’espionnage, de sabotage et surtout de vols massifs, notamment dans les cryptomonnaies.
+- Ces attaques, qui ont généré plusieurs milliards de dollars ces dernières années, servent directement à financer ses programmes militaires et nucléaires.
+
+## [Forum InCyber 2026 : l'IA accélère surtout les risques déjà là - IT for Business](https://www.itforbusiness.fr/forum-incyber-2026-ia-cybersecurite-102094)  
+*Source : itforbusiness.fr | Publication : 2026-04-02*
+
+- Secu Forum InCyber — Épisode 4 : l’IA ne crée pas toujours de nouvelles failles, mais elle accélère tous les risques Par Thierry Derouet, publié le 02 avril 2026 Pour sa quatrième émission en direct du Forum InCyber 2026, IT for Business a choisi de regarder l’IA côté cybersécurité sans céder ni à l’emballement ni à la panique.
+- Les invités ont dressé un constat plus utile : l’IA change moins les fondamentaux de l’attaque qu’elle n’en accélère la vitesse, l’échelle et la discrétion, ce qui impose surtout de reprendre la main sur les usages, les agents et la gouvernance.
+- Avec Bernard Montel, directeur technique et stratégiste sécurité EMEA chez Tenable, le premier rappel est utile : l’IA ne change pas forcément la manière de compromettre un système.
+- « On compromet un système toujours de la bonne vieille manière, avec des vulnérabilités connues, avec des problèmes de configuration », résume-t-il.
+
+## [Dans quelle mesure votre organisation est elle prête face aux <b>cybermenaces</b> ? Faites entendre votr...](https://ccb.belgium.be/fr/news/dans-quelle-mesure-votre-organisation-est-elle-prete-face-aux-cybermenaces-faites-entendre)  
+*Source : ccb.belgium.be | Publication : 2026-04-02*
+
+- Les cybermenaces évoluent plus rapidement que jamais: des attaques pilotées par l’IA et des campagnes de ransomware à la pression réglementaire croissante liée à NIS2 et DORA.
+- Mais dans quelle mesure les organisations en Belgique sont‑elles réellement préparées aujourd’hui ?.
+- En participant à la National Cyber Survey 2026, vous contribuez à une vision claire et fondée sur des données de la cyber‑résilience en Belgique, tous secteurs et toutes tailles d’organisations confondus.
+- L’enquête est organisée par KPMG Advisory, en collaboration avec la Cyber Security Coalition, avec le soutien du Centre pour la Cybersécurité Belgique.
+
+## [La <b>cybersécurité</b> valorise ses atours en Normandie](https://www.paris-normandie.fr/id708301/article/2026-04-02/la-cybersecurite-valorise-ses-atours-en-normandie)  
+*Source : paris-normandie.fr | Publication : 2026-04-02*
+
+- La région était présente sur l'un des plus importants rendez-vous professionnels autour de la cybersécurité en Europe, signe que le domaine très.
+
+## [Ignitera Capital cible le pré-amorçage en <b>cybersécurité</b> et IA | ZoomInvest](https://zoominvest.fr/actualites/patrimoine/ignitera-capital-cible-le-pre-amorcage-en-cybersecurite-et-ia/b0xou3vejixc0acpsqzvpxep)  
+*Source : zoominvest.fr | Publication : 2026-04-02*
+
+- Ignitera Capital cible le pré-amorçage en cybersécurité et IA Le nouveau fonds Ignitera Capital se positionne sur un segment encore peu couvert du capital-risque : le pré-amorçage, c’est-à-dire les projets au stade d’idée ou de preuve de concept.
+- Fondé par Cédric Messeguer, aux côtés de Jean-Claude Tapia et Sébastien Telouk, ce véhicule ambitionne de combler une « zone blanche » du financement en Europe, particulièrement dans les domaines stratégiques de la cybersécurité et de l’intelligence artificielle.
+- Doté initialement de 500.000 euros, avec un objectif de doublement rapide, le fonds prévoit d’investir dans une dizaine de start-up par an, avec des tickets compris entre 50.000 et 200.000 euros.
+- Il s’appuie sur un réseau d’entrepreneurs expérimentés du secteur, issus notamment de sociétés comme Digital Security ou Exclusive Networks.
+
+## [Campus Cyber : vers un accompagnement unifié des acteurs en <b>cybersécurité</b> - Alliancy](https://www.alliancy.fr/campus-cyber-vers-un-accompagnement-unifie-des-acteurs-en-cybersecurite-a743a863-418f-4e9d-b1d6-cfc61ad33878)  
+*Source : alliancy.fr | Publication : 2026-04-02*
+
+- E-mail Profil LinkedIn Profil Twitter Chaîne YouTube 2 avril 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [InCyber Lille 2026 : l'IA au coeur de la <b>Cybersécurité</b>](https://www.programmez.com/actualites/incyber-lille-2026-lia-au-coeur-de-la-cybersecurite-39273)  
+*Source : programmez.com | Publication : 2026-04-02*
+
+- InCyber Lille 2026 : l'IA au coeur de la Cybersécurité jeu, 02/04/2026 - 18:05 Cette semaine se tenait à Lille, l'un des grands salons de cybersécurité en France : InCyber, anciennement FIC.
+- Durant 3 jours, c'était l'occasion d'assister aux nombreuses sessions et voir tous les principaux acteurs du marché, les startups regroupés par groupe ou par région, ou pays.
+- Un constat : l'IA est bien entendu partout.
+- On n'entendait quasi que ça.
+
+## [Vincent Strubel (Anssi) : « Il faut se préparer à des cyberattaques coordonnées, étatiques ...](https://www.latribune.fr/article/tech/11500944384697/vincent-strubel-anssi-il-faut-se-preparer-a-des-cyberattaques-coordonnees-etatiques-avec-des-relais-criminels-sur-le-sol-francais)  
+*Source : latribune.fr | Publication : 2026-04-02*
+
+- Vincent Strubel (Anssi) : « Il faut se préparer à des cyberattaques coordonnées, étatiques, avec des relais criminels sur le sol français » Ce contenu est réservé aux abonnés Vincent Strubel, directeur général de l’ANSSI, Autorité nationale en matière de cybersécurité et de cyberdéfense en France.
+
+## [Atelier de l'OEA/REMJA sur la <b>cybercriminalité</b> - OAS.org](https://www.oas.org/ext/fr/principal/calendrier/evenement?id=1572)  
+*Source : oas.org | Publication : 2026-04-02*
+
+- Du 8 au 10 avril, à Washington, D.C., 64 procureurs de 26 pays de la région participeront à un atelier de formation sur les aspects avancés de l'enquête, de la poursuite et de la punition des cybercrimes afin de renforcer la coopération internationale à cette fin.
+- La formation est organisée par le Secrétariat général de l'OEA, via le Département de la coopération juridique du Secrétariat aux affaires juridiques, en tant que Secrétariat technique du REMJA (Réunions des ministres de la Justice et des procureurs généraux des Amériques), en collaboration avec le Département de la Justice (USDOJ) et le Département d'État des États-Unis.
+- Au cours de cet atelier de trois jours, des spécialistes du département de la Justice des États-Unis, du secteur privé et de l'OEA formeront les procureurs à: Cet atelier vise à continuer de consolider le soutien que l'OEA/REMJA, sous la direction des États-Unis, apporte aux États de la région afin de renforcer leurs capacités dans la lutte contre la cybercriminalité.
+- Le REMJA et le Groupe de travail sur la cybercriminalité En raison de l'absence d'un cadre juridique commun entre les États, de l'existence d'un manque de connaissances, de la nécessité d'accroître la formation pour poursuivre et punir efficacement ce type de crime, ainsi que du manque de technologies d'enquête, la REMJA a créé un groupe de travail chargé spécifiquement de promouvoir la coopération juridique hémisphérique sur ces questions.
+
+## [Caroline Van Cleemput nommée country manager BeLux chez Fortinet | Paperjam News](https://paperjam.lu/article/caroline-van-cleemput-nommee-country-manager-belux-chez-fortinet)  
+*Source : paperjam.lu | Publication : 2026-04-02*
+
+- Fortinet, entreprise spécialisée dans la cybersécurité et la protection des réseaux, annonce le 2 avril la nomination de Caroline Van Cleemput comme country manager pour la région Belux.
+- Elle prend en charge la Belgique et le Luxembourg avec pour mission de «piloter la croissance continue de Fortinet» sur ces deux marchés.
+- Cette décision intervient alors que les organisations font face à des cybermenaces plus complexes et plus nombreuses.
+- Le groupe met en avant un ancrage local afin de répondre à ces enjeux et renforcer sa présence régionale.
+
+## [Landes : à 28 ans, l'ingénieur en <b>cybersécurité</b> se lance dans la production d'asperges](https://www.sudouest.fr/gastronomie/landes-a-28-ans-l-ingenieur-en-cybersecurite-se-lance-dans-la-production-d-asperges-28460509.php)  
+*Source : sudouest.fr | Publication : 2026-04-02*
+
+- Matthieu Vandame va reprendre la ferme familiale à Onesse-Laharie.
+- À l’image de son père avant lui, le jeune agriculteur a décidé de miser sur la production d’asperges des sables des Landes La ferme Malaga, à Onesse-Laharie, est en passe de changer de main.
+- Matthieu Vandame, jeune agriculteur de 28 ans, va prendre la tête de cette exploitation familiale spécialisée dans la production de céréales et légumes.
+- Il remplace son papa Thierry, qui devrait partir à la retraite dans le courant de cette année 2026.
+
+## [L'Unaf partenaire de l'opération Cactus 2026 : renforcer durablement la sensibilisation de la ...](https://www.unaf.fr/unaf-partenaire-operation-cactus-2026-renforcer-durablement-la-sensibilisation-communaute-educative-aux-cybermenaces/)  
+*Source : unaf.fr | Publication : 2026-04-02*
+
+- L’Unaf partenaire de l’opération Cactus 2026 : renforcer durablement la sensibilisation de la communauté éducative aux cybermenaces Du 23 au 27 mars 2026, près de 10 millions de personnes ont été impliquées dans une simulation d’hameçonnage de grande ampleur, menée sur l’ensemble du territoire.
+- Cette initiative était portée par le Ministère de l’Education Nationale, Cybermalveillance.
+- Gouv.Fr en partenariat avec le ministère de l’Intérieur, le ministère de la Justice, la CNIL, le groupe France Télévision, l’association E-enfance/3018 et l’Unaf dans le cadre du dispositif Cactus.
+- Cette initiative avait pour objectif de renforcer la vigilance et la responsabilisation de l’ensemble de la communauté éducative face à l’une des formes de cyberattaque les plus répandues.
+
+## [<b>Cybersécurité</b> : « dans les entreprises, il faut savoir ce qui mérite d'être protégé - Les Echos](https://www.lesechos.fr/tech-medias/hightech/cybersecurite-dans-les-entreprises-il-faut-savoir-ce-qui-merite-detre-protege-2224394)  
+*Source : lesechos.fr | Publication : 2026-04-02*
+
+- Les cas d'attaques cyber se sont multipliés ces derniers mois dans les entreprises.
+- La menace s'est-elle amplifiée ?.
+- Ce contenu est réservé aux.
+
+## [Ce rootkit planqué sur le Play Store a infecté des millions de smartphones, impossible de s ... - Clubic](https://www.clubic.com/actualite-607444-ce-rootkit-planque-sur-le-play-store-a-infecte-des-millions-de-smartphones-impossible-de-s-en-debarrasser-facilement.html)  
+*Source : clubic.com | Publication : 2026-04-02*
+
+- Une flopée d'applications Android diffusées sur le Google Play Store ont servi à propager NoVoice, un malware capable de prendre le contrôle de certains smartphones, de survivre à une réinitialisation d’usine et de viser notamment WhatsApp.
+- Voilà pourquoi il faut installer ses mises à jour de sécurité en temps et en heure.
+- McAfee vient de lever le voile sur NoVoice, une campagne malveillante diffusée via plus de 50 applications Android téléchargées au moins 2,3 millions de fois sur Google Play Store, parmi lesquelles des nettoyeurs, des galeries photo, des jeux et d’autres utilitaires du même acabit.
+- Ces applis ne réclamaient pas d’autorisations excessives et remplissaient correctement leur fonction, mais servaient en réalité de chevaux de Troie à un rootkit capable d’exploiter de vieilles failles Android sur des smartphones non patchés pour en prendre le contrôle et dérober des données liées à WhatsApp.
+
+## [Windows en danger : les pirates peuvent désactiver l'antivirus « sans déclencher d'alerte »](https://www.01net.com/actualites/windows-danger-pirates-peuvent-desactiver-antivirus-sans-declencher-alerte.html)  
+*Source : 01net.com | Publication : 2026-04-02*
+
+- Les chercheurs de Seqrite ont découvert que des cybercriminels exploitent des outils légitimes de Windows pour orchestrer des attaques par ransomware.
+- Selon les experts, les pirates ont trouvé le moyen de désactiver l’antivirus d’un ordinateur pour arriver à leurs fins sans se retrouver face à un mur.
+- Parmi les outils qui sont massivement détournés par les hackers, on trouve des logiciels d’administration, essentiellement destinés aux équipes IT.
+- Ils servent notamment à gérer des processus, débloquer des fichiers ou intervenir sur le système.
 
 ## [Apple va lancer une mise à jour d'urgence sur certains iPhone, êtes-vous concerné ?](https://www.01net.com/actualites/apple-va-deployer-mise-jour-urgence-certains-iphone-etes-vous-concerne.html)  
 *Source : 01net.com | Publication : 2026-04-01*
