@@ -1,5 +1,143 @@
-# Résumés – 2026-04-02
+# Résumés – 2026-04-03
 
+
+## [3 raisons qui font de la visibilité réseau la colonne vertébrale de la cyberdéfense actuelle](https://itsocial.fr/cybersecurite/cybersecurite-tribunes/3-raisons-qui-font-de-la-visibilite-reseau-la-colonne-vertebrale-de-la-cyberdefense-actuelle/)  
+*Source : itsocial.fr | Publication : 2026-04-03*
+
+- Dans chaque entreprise, les responsables cybersécurité font face à la même injonction : prouver qu’ils maîtrisent un système d’information dont les contours changent en permanence.
+- Architectures hybrides, multiplication des outils, migrations cloud permanentes, intégration d’IA générative… Le périmètre de défense est devenu mouvant… et de plus en plus !.
+- Comment répondre à ces enjeux ?.
+- Par l’ajout de couches technologiques à un environnement déjà risque ?.
+
+## [Enseigner la <b>cybersécurité</b> dans un monde où le vrai et le faux se confondent](https://ecolebranchee.com/enseigner-la-cybersecurite/)  
+*Source : ecolebranchee.com | Publication : 2026-04-03*
+
+- Qu’on le veuille ou non, l’école évolue aujourd’hui dans un environnement numérique où les menaces sont difficiles à repérer, et parfois carrément invisibles.
+- Entre la gestion de données sensibles, l’omniprésence d’outils plus ou moins sécurisés et l’essor de l’intelligence artificielle, elle devient à la fois exposée et stratégique.
+- Plus que jamais, elle a un rôle clé à jouer pour développer chez les élèves des réflexes essentiels : se protéger, vérifier… et exercer leur esprit critique.
+- En effet, la cybersécurité ne peut plus être considérée comme une affaire de spécialistes ou de techniciens.
+
+## [PARIS : Olivier CRISTINI : « <b>Cybersécurité</b> : arrêtons de nous raconter des histoires](https://presseagence.fr/paris-olivier-cristini-cybersecurite-arretons-de-nous-raconter-des-histoires/)  
+*Source : presseagence.fr | Publication : 2026-04-03*
+
+- PARIS : Olivier CRISTINI : « Cybersécurité : arrêtons de no… Partager : PARIS : Olivier CRISTINI : « Cybersécurité : arrêtons de nous raconter des histoires » Le CTO de Squad, Olivier Cristini, alerte sur une approche dépassée de la cybersécurité, jugeant la conformité illusoire face aux menaces actuelles.
+- Malgré des investissements croissants, les cyberattaques se multiplient.
+- Un paradoxe qui, selon Olivier Cristini, directeur de la technologie (CTO) du Groupe Squad, ne relève ni d’un manque de budget ni d’un manque d’outils, mais bien d’un « problème de lucidité ».
+- Dans une tribune, il appelle à un changement radical de posture face à des menaces qui ont déjà changé d’ère.
+
+## [Artemis II : la NASA est en alerte contre les cyberattaques alors que le vaisseau Orion file ...](https://www.science-et-vie.com/ciel-et-espace/nasa/artemis-ii-alors-que-le-vaisseau-orion-file-vers-la-lune-la-nasa-est-en-alerte-contre-les-cyberattaques-de-sa-mission-phare-233715.html)  
+*Source : science-et-vie.com | Publication : 2026-04-03*
+
+- Artemis II : la NASA est en alerte contre les cyberattaques alors que le vaisseau Orion file vers la Lune Pendant qu’Orion file vers la Lune, une autre mission se joue loin des caméras.
+- Dans les centres de contrôle, les salles serveurs et les réseaux satellitaires, des milliers d’ingénieurs surveillent une menace que le grand public ne verra jamais : la cyberattaque.
+- Car Artemis n’est pas seulement un exploit spatial.
+- C’est aussi une immense infrastructure numérique, exposée aux intrusions, aux sabotages et aux vulnérabilités logicielles.
+
+## [Répression en Iran: «Les Iraniens ont besoin de soutiens en <b>cybersécurité</b>» - RFI](https://www.rfi.fr/fr/moyen-orient/20260403-répression-en-iran-les-iraniens-ont-besoin-de-soutiens-en-cybersécurité)  
+*Source : rfi.fr | Publication : 2026-04-03*
+
+- Répression en Iran: «Les Iraniens ont besoin de soutiens en cybersécurité» La répression du régime iranien sur ces citoyens se fait également en ligne.
+- Au-delà de la coupure quasi totale des réseaux internet, l'ONG iranienne Miaan, basée aux États-Unis, rapporte une augmentation de 500 % des demandes d’assistance en cybersécurité.
+- Éclairage d'Amir Rashidi, directeur de la cybersécurité et des droits numériques pour l'ONG Miaan.
+- Publié le : RFI : Quelles formes prennent ces menaces ?.
+
+## [Un patron de la French Tech mis en cause dans une affaire de pédopornographie et écarté ...](https://www.leparisien.fr/faits-divers/pedopornographie-un-patron-de-la-french-tech-prevu-dans-la-delegation-demmanuel-macron-en-asie-mis-en-cause-apres-un-vaste-coup-de-filet-03-04-2026-CULCDDQMQNFB5NQQ4WXV2UHEPQ.php)  
+*Source : leparisien.fr | Publication : 2026-04-03*
+
+- Mais Samuel H., 39 ans, patron d'une entreprise de cybersécurité lauréate du programme French Tech 2030, a été interpellé la semaine dernière dans le.
+
+## [C&amp;ESAR by DGA : appel à soumission pour la conférence en <b>cybersécurité</b> 2026](https://www.defense.gouv.fr/dga/actualites/cesar-by-dga-appel-soumission-conference-cybersecurite-2026)  
+*Source : defense.gouv.fr | Publication : 2026-04-03*
+
+- C&ESAR by DGA : appel à soumission pour la conférence en cybersécurité 2026 La prochaine édition de C&ESAR se déroulera les 18 et 19 novembre 2026 dans le cadre de l’European Cyber Week à Rennes.
+- Vous pouvez d'ores et déjà faire parvenir vos soumissions au comité d'organisation de la conférence Chaque année, le ministère des armées et des anciens combattants organise C&ESAR, une conférence sur la cybersécurité.
+- Cet événement est l’un des rendez-vous incontournables de l’European Cyber Week qui se déroule chaque automne à Rennes.
+- En vue de l’édition 2026, le comité d’organisation de la conférence lance un appel à communications sur tous les sujets liés à la cybersécurité jusqu’au 13 mai 2026 (enregistrement de l’intention de soumission au plus tard le 29 avril).
+
+## [Une grande entreprise belge cotée en Bourse victime d'une cyberattaque - Le Soir](https://www.lesoir.be/738882/article/2026-04-03/une-grande-entreprise-belge-cotee-en-bourse-victime-dune-cyberattaque)  
+*Source : lesoir.be | Publication : 2026-04-03*
+
+- cybersécurité de type ransomware », a-t-elle révélé vendredi, précisant que l'incident avait impliqué « un accès non autorisé à une partie de son.
+
+## [Advans Group s'empare de Coralium - Distributique](https://www.distributique.com/actualites/lire-advans-group-s-empare-de-coralium-37126.html)  
+*Source : distributique.com | Publication : 2026-04-03*
+
+- « De nouvelles offres seront développées, notamment dans le domaine de la cybersécurité IoT », indique Radomir Jovanovic d'Advans.
+- (Crédit Advans) En rachetant Coralium, Advans Group peut proposer ŕ ses clients des systčmes nativement sécurisés dčs la phase de conception.
+- Advans Group vient de racheter le cabinet de conseil en cybersécurité Coralium ; ce dernier viendra en complément des trois autres entités du groupe, dont Avisto pour le développement de logiciels applicatifs, Elsys Design pour les systčmes électroniques embarqués et Mecagine pour l'ingénierie mécanique.
+- Précisons qu'Advans Group emploie plus de 1 000 salariés et dispose de plusieurs sites en France (Paris, Rennes, Nantes, Grenoble, Lyon, Valence, Sophia Antipolis, Aix-en-Provence et Toulouse) et ŕ l'étranger (Portugal, Serbie, États-Unis).
+
+## [Cyberescroquerie de grande ampleur au Sri Lanka : des centaines d'ordinateurs saisis, 152 ...](https://www.sudouest.fr/economie/cybersecurite/cyberescroquerie-de-grande-ampleur-au-sri-lanka-des-centaines-d-ordinateurs-saisis-152-etrangers-arretes-28559637.php)  
+*Source : sudouest.fr | Publication : 2026-04-03*
+
+- La police sri-lankaise a mené une opération d’envergure dans un hôtel du nord du pays, saisissant un important matériel informatique utilisé pour des fraudes en ligne La police sri-lankaise a annoncé avoir arrêté vendredi 152 étrangers, dont 133 Chinois, soupçonnés d’avoir participé à une vaste escroquerie en ligne à partir d’un hôtel du nord-ouest du Sri Lanka.
+
+## [Freshworks renforce sa solution de gestion des actifs - L'Informaticien](https://www.linformaticien.com/magazine/logiciel/64690-freshworks-renforce-sa-solution-de-gestion-des-actifs.html)  
+*Source : linformaticien.com | Publication : 2026-04-03*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Logiciel · Freshworks renforce sa solution.
+
+## [Un déficit invisible, avant tout humain, fragilise la <b>cybersécurité</b> française](https://www.journaldunet.com/cybersecurite/1549139-le-deficit-invisible-de-la-cybersecurite-francaise/)  
+*Source : journaldunet.com | Publication : 2026-04-03*
+
+- Un déficit invisible, avant tout humain, fragilise la cybersécurité française Un déficit invisible, avant tout humain, fragilise la cybersécurité des entreprises françaises et limite leur capacité à devenir véritablement résilientes face aux cyberattaques.
+- Un déficit invisible, avant tout humain, fragilise la cybersécurité des entreprises françaises et limite leur capacité à devenir véritablement résilientes face aux cyberattaques.
+- Avec NIS2 et DORA, ce déficit prend une dimension stratégique : la réglementation impose non seulement la conformité, mais aussi la capacité à réagir efficacement et protéger réellement les activités.
+- La cybersécurité n’est pas qu’une question d’outils Pendant des années, les entreprises françaises ont investi massivement dans la cybersécurité.
+
+## [Des étudiants de cette ville des Deux-Sèvres transformés en entrepreneurs devant ... - Ouest-France](https://www.ouest-france.fr/education/enseignement/des-etudiants-de-cette-ville-des-deux-sevres-transformes-en-entrepreneurs-devant-developper-un-juke-box-numerique-f775159c-2dc5-11f1-9aaf-bfbe7938d313)  
+*Source : ouest-france.fr | Publication : 2026-04-03*
+
+- Dans le cadre d'un challenge interne, quinze étudiants du BTS SIO (services informatiques aux organisations) cybersécurité du lycée Saint-Jo de.
+
+## [Une nouvelle présidente pour la Cyber Security Coalition belge - Trends DataNews](https://datanews.levif.be/actualite/belgique/une-nouvelle-presidente-pour-la-cyber-security-coalition-belge/)  
+*Source : datanews.levif.be | Publication : 2026-04-03*
+
+- Au bout de dix ans, Jan De Blauwe cède son poste de président de l'organisation des professionnels belges de la cybersécurité.
+- Karine Goris.
+
+## [Microsoft investit 10 milliards de dollars dans l'IA au Japon - L'Informaticien](https://www.linformaticien.com/magazine/biz-it/64689-microsoft-investit-10-milliards-de-dollars-dans-l-ia-au-japon.html)  
+*Source : linformaticien.com | Publication : 2026-04-03*
+
+- Le géant américain renforce sa présence au Japon avec un vaste plan d'investissement dans l'intelligence artificielle et la cybersécurité.
+
+## [Après les élections, les nouveaux élus sommés de s'emparer des questions de <b>cybersécurité</b>](https://www.lagazettedescommunes.com/1031728/apres-les-elections-les-nouveaux-elus-sommes-de-semparer-des-questions-de-cybersecurite/)  
+*Source : lagazettedescommunes.com | Publication : 2026-04-03*
+
+- Hygiène numérique à mettre en place, formation et outils à choisir : les sujets autour de la cybersécurité s'invitent sur la table des nouveaux.
+
+## [Forum InCyber : bilan de l'édition 2026 dédiée à la maîtrise des dépendances technologiques](https://www.alliancy.fr/forum-incyber-bilan-de-ledition-2026-dediee-a-la-maitrise-des-dependances-technologiques-711122a6-c0d3-477b-8ad8-a433a4e61351)  
+*Source : alliancy.fr | Publication : 2026-04-03*
+
+- E-mail Profil LinkedIn Profil Twitter Chaîne YouTube 3 avril 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [Un Français nommé à la tête de Schaeffler Europe - VIPress.net](https://vipress.net/un-francais-nomme-a-la-tete-de-schaeffler-europe/)  
+*Source : vipress.net | Publication : 2026-04-03*
+
+- Un Français nommé à la tête de Schaeffler Europe A la tête de Schaeffler France depuis le 1er janvier 2024, Rémy Triouleyre vient d’être promu directeur général Europe de l’équipementier automobile allemand, en remplacement de Jochen Schröder, qui a été nommé directeur des opérations du groupe.
+- Le groupe industriel allemand Schaeffler, qui réalise environ les trois quarts de son chiffre d’affaires dans l’automobile et a racheté son compatriote Vitesco Technologies en 2023 pour quadrupler ses ventes dans l’électromobilité, a récemment nommé un Français à la tête de son entité européenne.
+- Directeur général de Schaeffler France depuis janvier 2024 et responsable mondial des grands comptes de Schaeffler pour le groupe Stellantis, Rémy Triouleyre a été officiellement nommé directeur général Europe de l’équipementier automobile allemand le 1er avril dernier.
+- Il devient également membre du conseil exécutif de Schaeffler.
+
+## [Le président turc adresse ses vœux de Pessah à la communauté juive - Anadolu Ajansı](https://www.aa.com.tr/fr/monde/le-président-turc-adresse-ses-vœux-de-pessah-à-la-communauté-juive/3889628)  
+*Source : aa.com.tr | Publication : 2026-04-03*
+
+- Le président turc adresse ses vœux de Pessah à la communauté juive - Recep Tayyip Erdogan exprime l’espoir que la fête apporte paix, stabilité et bien-être dans le monde Istanbul AA / Istanbul / Asiye Latife Yilmaz Le président turc Recep Tayyip Erdogan a adressé jeudi ses vœux aux citoyens juifs du pays à l’occasion de la fête de Pessah.
+- « À l’occasion de Pessah, je présente mes félicitations à nos concitoyens juifs et souhaite que cette fête apporte paix, stabilité, prospérité et bien-être à notre région ainsi qu’à l’ensemble de l’humanité », a-t-il déclaré dans un message.
+- * traduit de l'anglais par Ayse Betul Akcesme Seulement une partie des dépêches, que l'Agence Anadolu diffuse à ses abonnés via le Système de Diffusion interne (HAS), est diffusée sur le site de l'AA, de manière résumée.
+- Contactez-nous s'il vous plaît pour vous abonner.
+
+## [Ce que le forum InCyber dit (vraiment) de notre maturité collective | Alliancy](https://www.alliancy.fr/ce-que-le-forum-incyber-dit-vraiment-de-notre-maturite-collective-9b54fac2-ec66-4f4d-8d3a-3d65cfc35f39)  
+*Source : alliancy.fr | Publication : 2026-04-03*
+
+- E-mail Profil LinkedIn Profil Twitter Chaîne YouTube 3 avril 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
 
 ## [Test électronique : Agôn Electronics rachète Testelec Ingénierie - VIPress.net](https://vipress.net/test-electronique-agon-electronics-testelec-ingenierie/)  
 *Source : vipress.net | Publication : 2026-04-02*
