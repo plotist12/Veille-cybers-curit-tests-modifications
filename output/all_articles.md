@@ -1,5 +1,150 @@
-# Résumés – 2026-04-03
+# Résumés – 2026-04-04
 
+
+## [Les USA légalisent un contrôle des routeurs fabriqués à l'étranger, quelles conséquences?](https://linuxfr.org/news/les-usa-legalisent-un-controle-des-routeurs-fabriques-a-l-etranger-quelles-consequences)  
+*Source : linuxfr.org | Publication : 2026-04-04*
+
+- En mars 2026, le gouvernement des États-Unis a lancé une initiative radicale via la Federal Communications Commission (FCC) pour interdire l'importation et la vente de nouveaux routeurs grand public fabriqués à l'étranger, marquant un tournant majeur dans sa politique de cybersécurité et de souveraineté industrielle.
+- Voici le résumé des points clés de cette régulation et des commentaires.
+- L'interdiction des "Foreign-Made Routers" Depuis le 23 mars 2026, la FCC a inscrit les routeurs grand public (SOHO - Small Office/Home Office) produits à l'étranger sur sa "Covered List" (liste des équipements interdits).
+- Modèles concernés : Tous les nouveaux modèles de routeurs dont la conception, l'assemblage ou les composants logiciels proviennent de pays tiers (principalement ciblés : la Chine et d'autres adversaires étrangers).
+
+## [Même le Play Store n'est plus sûr : ce malware fait des ravages - s2pmag](https://s2pmag.ch/meme-le-play-store-nest-plus-sur-ce-malware-fait-des-ravages/)  
+*Source : s2pmag.ch | Publication : 2026-04-04*
+
+- 50 applications infectées ont permis à NoVoice de toucher des millions d’utilisateurs Android.
+- Longtemps perçu comme un espace sécurisé pour les utilisateurs Android, le Google Play Store se retrouve aujourd’hui au cœur d’une alerte majeure en matière de cybersécurité.
+- Une enquête menée par McAfee révèle qu’une cinquantaine d’applications malveillantes ont réussi à contourner les mécanismes de vérification de la plateforme, infectant près de 2,3 millions d’appareils à travers le monde.
+- Au centre de cette campagne sophistiquée se trouve un malware baptisé NoVoice, particulièrement redoutable, capable de prendre le contrôle total d’un smartphone et de s’y maintenir durablement.
+
+## [De la Fédération française de football à celle de rugby, en passant par le tir, le golf et même ... - BFM](https://www.bfmtv.com/tech/cybersecurite/de-la-federation-francaise-de-football-a-celle-de-rugby-en-passant-par-le-tir-le-golf-et-meme-le-ministere-des-sports-pourquoi-une-telle-frenesie-de-cyberattaques-dans-le-monde-du-sport_AN-202604040156.html)  
+*Source : bfmtv.com | Publication : 2026-04-04*
+
+- De la Fédération française de football à celle de rugby, en passant par le tir, le golf et même le ministère des Sports: pourquoi une telle frénésie de cyberattaques dans le monde du sport?.
+- Reste-t-il encore quelqu’un qui n'ait pas été piraté?.
+- Depuis plusieurs mois, le monde du sport français fait face à une vague inédite de cyberattaques.
+- Depuis le début de l’année 2025, au moins une trentaine de fédérations sportives françaises ont été touchées par des cyberattaques ou des fuites de données documentées.
+
+## [Reda Bakkali, PDG d'AEGIS Ventures : « Le Maroc a les moyens de devenir un hub cyber ...](https://telquel.ma/sponsors/reda-bakkali-pdg-daegis-ventures-le-maroc-a-les-moyens-de-devenir-un-hub-cyber-pour-lafrique_1982275)  
+*Source : telquel.ma | Publication : 2026-04-04*
+
+- AEGIS Ventures réunit trois filiales dans un seul groupe, quelle est la logique de cette architecture ?.
+- Le marché de la cybersécurité en Afrique.
+
+## [Arnaque au faux RIB : un pirate intercepte un e-mail et piège l'acheteur, le notaire et les ... - Clubic](https://www.clubic.com/actualite-607711-arnaque-au-faux-rib-un-pirate-intercepte-un-e-mail-et-piege-l-acheteur-le-notaire-et-les-banques-la-justice-tranche.html)  
+*Source : clubic.com | Publication : 2026-04-04*
+
+- Un notaire vient d'être condamné en justice pour avoir envoyé un RIB par e-mail non sécurisé, servant de porte d'entrée à un pirate qui a pu détourner 96 400 euros lors d'une transaction immobilière.
+- L'escroquerie au faux RIB est l'une des plus redoutables de l'ère numérique, car elle reste simple, quasi-indétectable sur le moment, et souvent dévastatrice financièrement.
+- Une société spécialisée dans l'achat-revente immobilier en a fait les frais lorsqu'un pirate a pu intercepter le courrier électronique de son notaire.
+- Qui est responsable ?.
+
+## [Serafe: des fausses factures circulent par email en Suisse - 24 Heures](https://www.24heures.ch/serafe-des-fausses-factures-circulent-par-email-en-suisse-143602164334)  
+*Source : 24heures.ch | Publication : 2026-04-04*
+
+- CybercriminalitÃ© Des tentatives dâhameÃ§onnage imitent lâorganisme de perception de la redevance radio-TV avec un rÃ©alisme troublant.
+- Les signalements de phishing ont bondi de 25% en un an Ã GenÃ¨ve.
+- Les tentatives dâhameÃ§onnage se multiplient en Suisse, avec des fausses factures imitant lâentreprise Serafe de maniÃ¨re particuliÃ¨rement convaincante.
+- Des auditeurs de la RTS ont signalÃ© des e-mails frauduleux rÃ©digÃ©s en allemand, affichant le nom correctement orthographiÃ© de lâorganisme de perception de la redevance radio-TV et un montant cohÃ©rent.
+
+## [“Chaque alerte est traitée en moins de 20 minutes” : EDF mise sur la convergence IT/OT ...](https://www.usine-digitale.fr/cybersecurite/chaque-alerte-est-traitee-en-moins-de-20-minutes-edf-mise-sur-la-convergence-itot-pour-securiser-son-parc-industriel.WMIDOIORKREBLCXC3EZJ5P2QTA.html)  
+*Source : usine-digitale.fr | Publication : 2026-04-04*
+
+- A l'inverse, le monde industriel maîtrise très finement ses processus métiers mais dispose d'une expérience plus récente en cybersécurité.
+- Sur le.
+
+## [« Certaines ont dix ans de retard » : une centaine d'entreprises maritimes françaises ... - Le marin](https://lemarin.ouest-france.fr/shipping/certaines-ont-dix-ans-de-retard-une-centaine-dentreprises-maritimes-francaises-vulnerables-aux-cyberattaques-a9a6fffa-2768-11f1-97c2-97e16ef66fd6)  
+*Source : lemarin.ouest-france.fr | Publication : 2026-04-04*
+
+- Au début de la guerre en Iran, l'entreprise de cybersécurité Vaiata dynamics a analysé 129 entreprises du maritime, françaises ou ayant des.
+
+## [Stormshield va commercialiser un VPN souverain d'Ercom - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/64692-stormshield-va-commercialiser-un-vpn-souverain-d-ercom.html)  
+*Source : linformaticien.com | Publication : 2026-04-04*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des objets ... Ransomware : les jours d'après · Cybersécurité · Stormshield va.
+
+## [<b>Cybersécurité</b> OT : AEGIS mobilise l'industrie pharmaceutique - Lebrief](https://www.lebrief.ma/cybersecurite-ot-aegis-mobilise-lindustrie-pharmaceutique-100147009/)  
+*Source : lebrief.ma | Publication : 2026-04-04*
+
+- Cybersécurité OT : AEGIS mobilise l’industrie pharmaceutique Photo prise lors du séminaire du Groupe AEGIS dédié à la cybersécurité © DR.
+- Le groupe AEGIS, en partenariat avec le ministère de l’Industrie et du Commerce, organise le 30 mars 2026 un séminaire stratégique dédié à la sécurisation des systèmes industriels dans le secteur pharmaceutique.
+- Cette rencontre inédite au Maroc ambitionne de fédérer industriels, décideurs publics et experts autour d’un enjeu devenu central : la cybersécurité des technologies opérationnelles (OT).
+- Dans un contexte de modernisation accélérée, l’industrie pharmaceutique nationale adopte de plus en plus les standards de l’Industrie 4.0, intégrant automatisation et interconnexion des équipements.
+
+## [L'Autorité financière du Japon dévoile une stratégie de <b>cybersécurité</b> pour les plateformes ...](https://www.binance.com/fr/square/post/308736907507522)  
+*Source : binance.com | Publication : 2026-04-04*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [Renforcer la <b>cybersécurité</b> à l'échelle de l'UE - ITdaily.](https://itdaily.fr/opinies/renforcer-la-cybersecurite-a-lechelle-de-lue/)  
+*Source : itdaily.fr | Publication : 2026-04-04*
+
+- La directive NIS 2 affecte des milliers d’entreprises ainsi que des institutions publiques.
+- Qu’il s’agisse des transports, de l’énergie, de la santé ou de la finance, de nombreux aspects de notre vie quotidienne requièrent de plus en plus l’utilisation des technologies numériques.
+- La numérisation offre d’énormes possibilités et des solutions à de nombreux défis – de l’enseignement à distance et du télétravail en période de pandémie aux visites virtuelles chez le médecin généraliste.
+- Cela vaut également pour les démarches administratives telles que les demandes des passeports et d’allocations parentales ou pour les processus de contrôle complexes de la chaîne logistique.
+
+## [Les tendances et les innovations en matière de <b>cybersécurité</b> jouent un rôle clé lors du ...](https://itdaily.fr/opinies/tanium-blik-toekomst/)  
+*Source : itdaily.fr | Publication : 2026-04-04*
+
+- Pour toutes les personnes impliquées dans Tanium, la conférence annuelle Converge est le point culminant de l’année.
+- Cette année encore, plus de 3 000 professionnels de l’informatique et de la cybersécurité se sont réunis à Orlando, en Floride, pour partager leurs expériences et découvrir ce que Tanium leur réserve pour les années à venir.
+- Sous le slogan « Confiance et résilience », Converge a mis en lumière la complexité croissante de la cybersécurité à l’ère de la transformation numérique, des tensions géopolitiques et de l’incertitude économique.
+- Les discussions ont porté sur la convergence des opérations informatiques et de la sécurité, la dépendance croissante à l’égard de l’automatisation et le rôle des données en temps réel dans la défense contre les cybermenaces de plus en plus nombreuses.
+
+## [Comment exploiter l'IA pour améliorer la <b>cybersécurité</b> ? - ITdaily.](https://itdaily.fr/opinies/hoe-ai-inzetten-voor-betere-cybersecurity/)  
+*Source : itdaily.fr | Publication : 2026-04-04*
+
+- Les organisations sont au cœur d’une partie d’échecs avec les cybercriminels qui utilisent l’intelligence artificielle (IA).
+- Si l’IA offre de nombreuses possibilités de stimuler l’innovation et l’efficacité dans tous les secteurs, elle s’accompagne également d’un nouveau type de cybermenaces.
+- Les professionnels de l’informatique signalent que les cybercriminels utilisent de plus en plus l’IA et la GenAI pour exécuter des attaques sophistiquées plus rapidement et à plus grande échelle.
+- Les experts en sécurité doivent travailler dur pour garder une longueur d’avance sur les criminels.
+
+## [« L'Europe est une colonie numérique » : au forum InCyber, le spectre du &quot;bouton rouge&quot; de ...](https://www.challenges.fr/la-verticale-cyber/leurope-est-une-colonie-numerique-au-forum-incyber-le-spectre-du-bouton-rouge-de-donald-trump-hante-les-dirigeants_642417)  
+*Source : challenges.fr | Publication : 2026-04-04*
+
+- « L’Europe est une colonie numérique » : au forum InCyber, le spectre du "bouton rouge" de Donald Trump hante les dirigeants.
+- Fruit d’années de dépendance envers les Etats-Unis, la crainte du « kill switch », coupure des services numériques fournis à l’Europe, s’est imposée depuis l’élection de Donald Trump.
+- Et était sur toutes les lèvres au forum InCyber, événement annuel de la communauté cyber française.
+- « L’Europe est une colonie du numérique.
+
+## [LaSuite : l'Assurance Maladie accélère la bascule vers un environnement numérique souverain](https://www.solutions-numeriques.com/lasuite-lassurance-maladie-accelere-la-bascule-vers-un-environnement-numerique-souverain/)  
+*Source : solutions-numeriques.com | Publication : 2026-04-04*
+
+- Avec 80 000 agents concernés, le partenariat signé entre la DINUM et la Cnam marque une nouvelle étape dans le déploiement de LaSuite.
+- Au-delà de l’équipement, c’est une transformation progressive de l’environnement de travail de l’État qui se structure, portée par une logique de souveraineté, de mutualisation et de standardisation.
+- Une nouvelle vague de déploiement à grande échelle Le mouvement prend de l’ampleur.
+- En s’engageant aux côtés de la direction interministérielle du numérique, la Caisse nationale de l’Assurance Maladie enclenche le déploiement de LaSuite auprès de l’ensemble de ses agents.
+
+## [<b>Cybersécurité</b> : les acteurs de l'enseignement supérieur, particulièrement ciblés, &quot;sont ... - AEF info](https://www.aefinfo.fr/depeche/748433-cybersecurite-les-acteurs-de-lenseignement-superieur-particulierement-cibles-sont-encore-insuffisamment-coordonnes-anssi)  
+*Source : aefinfo.fr | Publication : 2026-04-04*
+
+- Trois comités ont été constitués pour "la mise en œuvre de la politique numérique de l’enseignement supérieur et de la recherche", sur la période 2023-2027 et sous coordination du "conseiller numérique de la Le CNRS annonce, lundi 16 février 2026, que des fichiers contenant des données, personnelles et professionnelles, de personnes "rémunérées par le CNRS avant le 1er janvier 2007" ont fait "2,6 à 3 M€, hors coût humain" : tel est le chiffrage, estimé par l’université Paris-Saclay, du coût de la cyberattaque intervenue en août dernier contre ses serveurs, et qui a encore des conséquen France Universités et l’Office anti-cybercriminalité (Ofac) de la direction nationale de la police judiciaire ont signé une convention de partenariat, jeudi 18 décembre 2025, pour intensifier la lu "Au cours de l’année 2025, l’Anssi (Agence nationale de la sécurité des systèmes d’information) a traité 3 586 événements de sécurité", soit 18 % de moins qu’en 2024, indique l’Anssi dans son panor.
+
+## [Lao Cai participe à la cérémonie de lancement du « Concours étudiant de <b>cybersécurité</b> 2026 ».](https://www.vietnam.vn/fr/lao-cai-tham-gia-le-phat-dong-cuoc-thi-hoc-sinh-an-ninh-mang-2026)  
+*Source : vietnam.vn | Publication : 2026-04-04*
+
+- Le « Concours étudiant de cybersécurité 2026 » est parrainé par le ministère de la Sécurité publique et le ministère de l'Éducation et de la Formation ; il est présidé par l'Association nationale de cybersécurité, en coordination avec le Département de la cybersécurité et de la prévention de la criminalité de haute technologie (A05) du ministère de la Sécurité publique et le Département des sciences, des technologies et de l'information du ministère de l'Éducation et de la Formation, ainsi que d'autres partenaires.
+- Le concours est ouvert aux élèves de collège de tout le pays.
+- Il se déroule en ligne via une plateforme fournie par le comité d'organisation.
+- Conformément au règlement, chaque participant crée un compte et passe le test en ligne.
+
+## [Faux SMS d'amendes routières : la DGSSI met en garde contre une vaste arnaque](https://www.lopinion.ma/actu-maroc/faux-sms-damendes-routieres--la-dgssi-met-en-garde-contre-une-vaste-arnaque_a26868?articleId=1ea9ec41-dbb3-4acc-aa5b-4b7f996c5b74)  
+*Source : lopinion.ma | Publication : 2026-04-03*
+
+- Actu Maroc Amendes routières : la DGSSI met en garde contre une vaste arnaque La Direction Générale de la Sécurité des Systèmes d’Information a alerté sur une campagne de phishing par SMS en cours au Maroc, visant à soutirer des données personnelles et bancaires en se faisant passer pour des notifications officielles liées à des infractions routières.
+- Par L'Opinion vendredi 3 avril 20261 min de lecture Fonctionnalité audio bientôt disponible Actu Maroc Barid Al-Maghrib, premier opérateur national agréé en horodatage qualifié il y a 3j|1 min de lecture Actu Maroc Cybersécurité : la DGSSI met en garde contre les failles de WordPress 16/03/2026|3 min de lecture L'Opinion Cybersécurité nationale cherche talents d’urgence 21/10/2025|2 min de lecture Ad L'Opinion DGSSI : Redessiner la ligne de défense numérique 31/08/2025|2 min de lecture Actu Maroc Cyberattaque : la fuite des données émane des notaires (DGSSI) 05/06/2025|1 min de lecture Actu Maroc Menace Cybernétique : la DGSSI met en cadre les utilisateurs de Mozilla Firefox contre le risque de piratage 03/05/2025|1 min de lecture.
+
+## [Empêcher les enfants d'accéder aux réseaux sociaux est une bonne idée mal mise en œuvre](https://www.malwarebytes.com/fr/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)  
+*Source : malwarebytes.com | Publication : 2026-04-03*
+
+- Même si nous sommes sans doute tous d'accord pour dire qu'il existe des preuves plus qu'suffisantes que les réseaux sociaux sont néfastes pour la santé mentale de nos enfants, les méthodes que nous utilisons pour les bloquer ou les interdire semblent faire plus de mal que de bien.
+- Partout dans le monde, les législateurs se bousculent pour montrer qu’ils « agissent » en faveur des enfants face aux réseaux sociaux.
+- L’Europe se transforme peu à peu en un patchwork de limites d’âge, de couvre-feux et d’interdictions partielles, chaque pays testant ses propres mesures de restriction tandis que les plateformes s’efforcent de mettre à jour leurs systèmes juste assez vite pour rester en conformité.
+- L'Australie est allée encore plus loin avec une interdiction nationale pour les enfants de moins de 16 ans que les régulateurs ont désormais du mal à appliquer à grande échelle.
 
 ## [3 raisons qui font de la visibilité réseau la colonne vertébrale de la cyberdéfense actuelle](https://itsocial.fr/cybersecurite/cybersecurite-tribunes/3-raisons-qui-font-de-la-visibilite-reseau-la-colonne-vertebrale-de-la-cyberdefense-actuelle/)  
 *Source : itsocial.fr | Publication : 2026-04-03*
