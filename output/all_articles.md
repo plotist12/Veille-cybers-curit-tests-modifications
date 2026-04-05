@@ -1,5 +1,137 @@
-# Résumés – 2026-04-04
+# Résumés – 2026-04-05
 
+
+## [Les secrets les mieux gardés de l'IA menacés après une fuite - Clubic](https://www.clubic.com/actualite-607762-les-secrets-les-mieux-gardes-de-l-ia-menaces-apres-une-fuite.html)  
+*Source : clubic.com | Publication : 2026-04-05*
+
+- Il n'a fallu que quarante minutes d'infection d'une bibliothèque Python pour compromettre Mercor, la startup à 10 milliards de dollars qui produit les données d'entraînement de Meta, OpenAI, Anthropic et Google.
+- Quatre téraoctets présumés volés, des méthodologies d'entraînement propriétaires potentiellement dans la nature, et une industrie qui découvre qu'elle a mutualisé ses secrets les mieux gardés chez un même prestataire.
+- Le groupe TeamPCP a publié le 27 mars dernier deux versions piégées de LiteLLM directement sur PyPI, le dépôt officiel des paquets Python.
+- Pour y parvenir, ses membres avaient préalablement compromis Trivy, un scanner de sécurité open source, afin de voler les identifiants de publication d'un mainteneur de la bibliothèque.
+
+## [<b>Cybersécurité</b> : les 11 actualités majeures du 5 avr 2026](https://dcod.ch/2026/04/05/cybersecurite-les-11-actualites-majeures-du-5-avr-2026/)  
+*Source : dcod.ch | Publication : 2026-04-05*
+
+- Faits marquants de la semaine Lors du vol autour de la Lune d’Artemis II, les astronautes ont signalé deux instances de Microsoft Outlook qui ne fonctionnaient pas, obligeant le centre de contrôle à proposer une prise en main à distance du système de bord.
+- - Un acteur malveillant a pris le contrôle des pouvoirs administratifs du Security Council de Drift Protocol, provoquant une perte d’au moins 280 millions de dollars dans une opération décrite comme planifiée et sophistiquée.
+- - La Commission européenne lie sa récente compromission cloud à une attaque de chaîne d’approvisionnement visant l’outil de sécurité Trivy, avec possible exposition de données provenant d’au moins 29 autres entités de l’Union et exfiltration massive ensuite divulguée en ligne.
+- - Le FBI a qualifié de « major incident » une intrusion liée à la Chine dans un système interne de surveillance contenant des informations sensibles issues de procédures légales, les attaquants ayant exploité l’infrastructure d’un fournisseur de services internet pour pénétrer le réseau.
+
+## [Le RSSI d'EDF revient sur la convergence IT/OT pour la sécurité du parc industriel](https://incyber.org/article/rssi-edf-revient-sur-convergence-it-ot-pour-securite-parc-industriel/)  
+*Source : incyber.org | Publication : 2026-04-05*
+
+- Le RSSI d’EDF revient sur la convergence IT/OT pour la sécurité du parc industriel Articles du même auteur : 3 05.04.26 Cyber stabilité Des cybercriminels liés à la Chine exploitent une faille dans TrueConf Lire 01.
+
+## [Arnaque: Des cybercriminels visent les vendeurs sur Ricardo - Blick](https://www.blick.ch/fr/suisse/arnaque-des-cybercriminels-visent-les-vendeurs-sur-ricardo-id21843397.html)  
+*Source : blick.ch | Publication : 2026-04-05*
+
+- Votre vieille machine à café traîne au grenier depuis des mois.
+- Vous la mettez en vente sur Ricardo.ch pour 40 francs.
+- À peine l'annonce en ligne qu'un acheteur se manifeste déjà.
+- Prudence: la promesse d'une transaction rapide cache souvent le début d'une escroquerie.
+
+## [Nouvelles Menaces pour la Sécurité Crypto : La Menace Croissante de l'IA](https://www.mexc.co/fr/news/1005906)  
+*Source : mexc.co | Publication : 2026-04-05*
+
+- Le secteur des crypto-monnaies, confronté depuis longtemps aux défis de la cybersécurité, fait maintenant face à des risques accrus avec la progression rapide de l'intelligence artificielle (IA).
+- Charles Guillemet, directeur de la technologie chez Ledger, met en garde que l'IA remodèle le paysage de la cybersécurité, aggravant les menaces pour les plateformes de crypto-monnaies et leurs utilisateurs.
+- Continuer la lecture : Nouvelles tensions sur la sécurité des cryptos : la menace croissante de l'IA Source : https://en.bitcoinhaber.net/new-strains-on-crypto-security-ais-rising-threat.
+
+## [Camille Roucher - Doctorant contractuel en sciences de l'information et de la ... - Numerama](https://www.numerama.com/author/camilleroucher/)  
+*Source : numerama.com | Publication : 2026-04-05*
+
+- 05.04.2026 18:25 Mes préférences Numerama+ Fonction Numerama+ Bénéficiez de nombreux avantages en devenant adhérent·e Numerama+.
+
+## [&quot;Plus nous créons des dépendances aux USA, plus il devient difficile de refuser leurs lubies ...](https://www.clubic.com/dossier-606097-plus-nous-creons-des-dependances-aux-usa-plus-il-devient-difficile-de-refuser-leurs-lubies---interview-framasoft.html)  
+*Source : clubic.com | Publication : 2026-04-05*
+
+- Framasoft héberge des milliers de collectifs et maintient des alternatives libres aux GAFAM, le tout avec une dizaine de salariés et zéro subvention publique.
+- Gaëtan Chabert, responsable de la communication de l'association, décrypte sans langue de bois les angles morts de la souveraineté numérique à la française.
+- Framasoft, avec une dizaine de salariés et une vingtaine de bénévoles, héberge aujourd'hui plus de 2 800 collectifs sur Framaspace et maintient des outils utilisés par des millions d'internautes, de Framapad à PeerTube.
+- Pourtant, l'association refuse de grossir, rejette les subventions publiques et se finance uniquement par les dons citoyens, un modèle rare, fragile, mais assumé.
+
+## [quand votre clic devient une arme de déstabilisation massive (CamelClone !!!) - الحراك الاخباري](https://alhirak-alikhbari.dz/articles/algerie-cible-silencieuse-quand-votre-clic-devient-une-arme-de-destabilisation-massive-camelclone)  
+*Source : alhirak-alikhbari.dz | Publication : 2026-04-05*
+
+- هذه اجراءات وزارة الرياضة للحد من العنف في الملاعب.. رياضة 2026-04-05 قراءة في كتاب 2026-04-05 Redha Benyamina Ingénieur Il existe des menaces qui ne font pas de bruit.
+- Aucun char d’assaut ne traverse la plaine.
+- Aucun avion ne franchit une zone d’exclusion aérienne.
+- Pourtant, au cœur des États, quelque chose se fissure.
+
+## [Google Drive se protège contre les <b>ransomwares</b> - Begeek](https://www.begeek.fr/google-drive-se-protege-contre-les-ransomwares-430468)  
+*Source : begeek.fr | Publication : 2026-04-05*
+
+- Google Drive se protège contre les ransomwares Une IA avancée et des outils de restauration rendent la sauvegarde en ligne plus sûre et accessible à tous.
+- Tl;dr Google Drive renforce sa protection contre les ransomwares avec un déploiement généralisé après une phase bêta.
+- - Une IA avancée détecte jusqu’à 14 fois plus de menaces et suspend automatiquement la synchronisation pour éviter la propagation.
+- - Les utilisateurs peuvent restaurer les fichiers touchés dans les 25 jours, avec la protection activée par défaut et configurable selon leurs préférences.
+
+## [Dwell time en <b>cybersécurité</b> : définition et mode de calcul en 2026 - Numerama](https://www.numerama.com/cyberguerre/2226481-pourvu-quil-soit-le-plus-court-possible-cest-quoi-le-dwell-time.html)  
+*Source : numerama.com | Publication : 2026-04-05*
+
+- Lorsqu’un réseau informatique est compromis, l’un des premiers indicateurs scrutés est le temps passé par les pirates à l’intérieur du système avant d’être découverts, ce que l’on appelle le dwell time.
+- Cet indicateur est crucial : il permet aux entreprises d’évaluer leur capacité de détection et de réaction face aux menaces.
+- À une échelle plus large, il offre aussi une lecture précieuse de l’équilibre des forces entre attaquants et équipes de cyberdéfense.
+- D’après le dernier rapport de Google Security paru en 2026, le dwell time médian s’est établi à 14 jours en 2025, contre 11 jours en 2024.
+
+## [La SNCF alerte de nouveau ses voyageurs autour d'arnaques potentielles par e-mail, SMS et autres](https://www.clubic.com/actualite-607723-la-sncf-alerte-de-nouveau-ses-voyageurs-autour-d-arnaques-potentielles-par-e-mail-sms-et-autres.html)  
+*Source : clubic.com | Publication : 2026-04-05*
+
+- La SNCF est en train de prévenir ses clients que de nouvelles campagnes malveillants usurpant l'identité de la compagnie ferroviaire sont diffusées par SMS, e-mail ou messagerie électronique.
+- Ces dernières heures, la SNCF a envoyé aux voyageurs un courrier électronique bienveillant, pour les prévenir d'actes malveillants qui peuvent potentiellement les viser ces jours-ci.
+- Avec en objet « Votre sécurité compte : soyons vigilants face aux fraudes », la compagnie veut sensibiliser ses clients, en raison « des e-mails et SMS frauduleux qui circulent en se faisant passer pour SNCF Connect ou la SNCF ».
+- La prudence reste fondamentale, avec des escrocs qui n'ont que pour but de dérober vos données personnelles et bancaires.
+
+## [Fonction publique : le gouvernement propose une négociation sociale consacrée à l'IA](https://www.lesechos.fr/politique-societe/gouvernement/fonction-publique-le-gouvernement-propose-une-negociation-sociale-consacree-a-lia-2224857)  
+*Source : lesechos.fr | Publication : 2026-04-05*
+
+- Cybersécurité Universités & enseignement supérieurEmploi & SalairesSyndicatsService publicFinances Publiques.
+- LesEchos-offrePremiumEntreprises.png.
+
+## [Division Spéciale de la <b>Cybersécurité</b> (Dsc) : Karim Xrum Xax convoqué ce mardi.](https://www.dakaractu.com/Division-Speciale-de-la-Cybersecurite-Dsc-Karim-Xrum-Xax-convoque-ce-mardi_a270779.html)  
+*Source : dakaractu.com | Publication : 2026-04-05*
+
+- L’activiste Karim Xrum Xax est attendu ce mardi à 10h à la Division Spéciale de la Cybersécurité (DSC).
+- C’est le concerné lui-même qui confirme l’information au bout du fil.
+- Sa convocation dont les motifs sont pour l’heure inconnus, ferait suite à une plainte déposée par le Directeur général de la RTS.
+- Nous y reviendrons.
+
+## [Expert en <b>cybersécurité</b> chez Bitdefender, Vincent Ollivier nous livre ses 5 conseils prioritaires](https://www.facebook.com/Notretemps/posts/expert-en-cybersécurité-chez-bitdefender-vincent-ollivier-nous-livre-ses-5-conse/1544058160523498/)  
+*Source : facebook.com | Publication : 2026-04-05*
+
+- Expert en cybersécurité chez Bitdefender, Vincent Ollivier nous livre ses 5 conseils prioritaires - et souvent méconnus - pour mettre votre vie.
+
+## [La coupure de l'internet en Iran bat les records de durée pour un pays, selon l'ONG Netblocks](https://fr.tradingview.com/news/afp:078b9d51114fc:0/)  
+*Source : fr.tradingview.com | Publication : 2026-04-05*
+
+- La coupure de l'internet en Iran bat les records de durée pour un pays, selon l'ONG Netblocks Moins d'1 minute de lecture La coupure de l'internet imposée par les autorités en Iran a battu les records de durée pour un pays tout entier, a rapporté dimanche l'ONG de surveillance de la cybersécurité Netblocks.
+- "La coupure à l'échelle nationale en Iran est désormais la plus longue jamais enregistrée dans un pays, dépassant tous les autres incidents comparables en gravité, ayant atteint son 37?.
+- jour consécutif", a indiqué NetBlocks sur X.
+- L'ONG a précisé avoir recensé par le passé de plus longues périodes de coupures mais à des échelles régionales, notant aussi que la Corée du Nord n'avait, elle, jamais été connectée à l'internet mondial.
+
+## [Ces profs initiés à la high-tech pour mieux orienter leurs élèves - ladepeche.fr](https://www.ladepeche.fr/2026/04/05/ces-profs-inities-a-la-high-tech-pour-mieux-orienter-leurs-eleves-13310335.php)  
+*Source : ladepeche.fr | Publication : 2026-04-05*
+
+- Ces profs initiés à la high-tech pour mieux orienter leurs élèves "C’est très jeune qu’il faut parler de ces métiers, surtout aux filles.
+- On est confronté à cette double difficulté : transmettre avec nos compétences sans savoir ce que vont devenir nos élèves", lâche un professeur.
+- "Si on veut être au top sur ces métiers pour renseigner nos élèves, on doit rester curieux et se former, souvent sur notre temps libre", ajoute un collègue enseignant en technologie.
+- "En espérant que l’intelligence artificielle (IA) n’absorbe pas tous nos métiers", s’inquiète collégialement la petite communauté des professeurs.
+
+## [&quot;Je suis expert en <b>cybersécurité</b>: voici 5 conseils pour renforcer la sécurité de votre ordinateur&quot;](https://www.notretemps.com/high-tech/ordinateur/je-suis-expert-en-cybersecurite-voici-5-conseils-pour-renforcer-la-securite-de-votre-ordinateur-130423)  
+*Source : notretemps.com | Publication : 2026-04-05*
+
+- "Je suis expert en cybersécurité: voici 5 conseils pour renforcer la sécurité de votre ordinateur" Expert en cybersécurité chez Bitdefender, Vincent Ollivier nous livre ses 5 conseils prioritaires - et souvent méconnus - pour mettre votre vie privée à l'abri des regards indiscrets en moins de dix minutes.
+- Vous aimez cet article?.
+- Avec l’augmentation des fuites de données et des attaques numériques quotidiennes, il faut renforcer encore la sécurité de son ordinateur comme celle de son smartphone.
+- Heureusement, nul besoin d'être un génie de l'informatique pour barricader ses données personnelles en suivant les recommandations de Vincent Ollivier, porte-parole de l’expert en cybersécurité Bitdefender.
+
+## [Cyberattaques ClickFix sur Mac : Apple dévoile sa contre-attaque - 01net.com](https://www.01net.com/actualites/cyberattaques-clickfix-sur-mac-apple-devoile-sa-contre-attaque.html)  
+*Source : 01net.com | Publication : 2026-04-05*
+
+- Ces derniers mois, les cyberattaques de type ClickFix se sont multipliées, que ce soit à l’encontre de Windows, d’Android, d’iOS ou encore de macOS.
+- Lors d’une attaque de cet acabit, les pirates ne vont pas tenter d’exploiter des vulnérabilités dans le code du système d’exploitation ou dans un logiciel.
+- En fait, les hackers vont plutôt manipuler l’internaute pour le pousser à réaliser lui-même des actions malveillantes sur son appareil.
+- Le plus souvent, les pirates persuadent leur cible de copier et de coller des lignes de commande, qui aboutissent à l’installation d’un virus.
 
 ## [Les USA légalisent un contrôle des routeurs fabriqués à l'étranger, quelles conséquences?](https://linuxfr.org/news/les-usa-legalisent-un-controle-des-routeurs-fabriques-a-l-etranger-quelles-consequences)  
 *Source : linuxfr.org | Publication : 2026-04-04*
