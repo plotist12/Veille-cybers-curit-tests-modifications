@@ -1,5 +1,154 @@
-# Résumés – 2026-04-05
+# Résumés – 2026-04-06
 
+
+## [Gitex Africa 2026 à Marrakech : IA et <b>cybersécurité</b> Kaspersky tire la sonnette d'alarme](https://lematin.ma/videos/gitex-africa-2026-ia-et-cybersecurite-kaspersky-tire-la-sonnette-dalarme/338822)  
+*Source : lematin.ma | Publication : 2026-04-06*
+
+- En marge du Gitex Africa 2026, organisé à Marrakech, Kaspersky a présenté, lors d’une rencontre avec le Centre Marocain de Recherches Polytechniques et d’Innovation (CMRPI), les résultats d’une étude révélant une adoption massive de l’intelligence artificielle (IA) au sein des entreprises marocaines, souvent en l’absence de cadre structuré.
+- Réalisée en partenariat avec l’institut Averty auprès de plus de 300 salariés, cette étude met en lumière une transformation progressive des usages professionnels, portée principalement par les collaborateurs eux-mêmes, en dehors de stratégies formalisées à l’échelle des organisations.
+- Gitex Africa 2026 à Marrakech : IA et cybersécurité Kaspersky tire la sonnette d’alarme.
+- | 06 Avril 2026.
+
+## [Commission européenne : 30 entités compromises via le cloud AWS](https://dcod.ch/2026/04/06/commission-europeenne-aws/)  
+*Source : dcod.ch | Publication : 2026-04-06*
+
+- TL;DR : L’essentiel Le groupe TeamPCP a exploité une version compromise de l’outil de sécurité Trivy pour dérober une clé API AWS appartenant à la Commission européenne le 19 mars.
+- - L’intrusion a permis l’exfiltration de dizaines de gigaoctets de données, incluant des bases de données et 52 000 courriels, affectant 42 services internes et 29 organismes partenaires.
+- - Le collectif ShinyHunters a revendiqué la publication de 350 Go de fichiers dérobés, tandis que le CERT-EU confirme une compromission étendue de l’infrastructure d’hébergement Europa.eu.
+- - Le 24 mars, la Commission européenne a identifié une intrusion critique au sein de son infrastructure cloud hébergeant la plateforme Europa.eu.
+
+## [Gitex Africa 2026 à Marrakech : IA et <b>cybersécurité</b> Kaspersky tire la sonnette d'alarme](https://www.youtube.com/watch?v=KT455Gygpfc)  
+*Source : youtube.com | Publication : 2026-04-06*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Keysight présente SBOM Manager, une solution centrale pour la conformité aux futurs ...](https://www.ecinews.fr/fr/keysight-presente-sbom-manager-une-solution-centrale-pour-la-conformite-aux-futurs-standards-mondiaux-de-cybersecurite/)  
+*Source : ecinews.fr | Publication : 2026-04-06*
+
+- Keysight présente SBOM Manager, une solution centrale pour la conformité aux futurs standards mondiaux de cybersécurité Une plateforme unifiée pour générer, gérer et partager les SBOM dans un paysage réglementaire en mutation Keysight Technologies annonce le lancement de Keysight SBOM Manager, une solution conçue pour aider les organisations à répondre aux exigences grandissantes autour de la transparence logicielle et de la gestion des vulnérabilités.
+- Avec l’entrée en vigueur prochaine du Cyber Resilience Act (CRA) européen et le renforcement des réglementations américaines et asiatiques, les SBOM (Software Bill of Materials) deviennent un élément essentiel du Security by Design, de la conformité réglementaire et de la confiance numérique.
+- Cette nouvelle plateforme vise à automatiser, normaliser et sécuriser la gestion des SBOM sur l’ensemble du cycle de vie d’un produit.
+- Un contexte mondial où la transparence logicielle devient obligatoire Les exigences croissantes en matière de cybersécurité convergent toutes vers un point commun : → une visibilité totale sur les composants logiciels et micrologiciels.
+
+## [<b>Cybersécurité</b>: une panne du portail Données Québec soulève des enjeux de réputation et ...](https://www.ledevoir.com/actualites/societe/969650/panne-portail-donnees-ouvertes-quebec-souleve-enjeux-reputation-confiance)  
+*Source : ledevoir.com | Publication : 2026-04-06*
+
+- Dimanche, le portail de données ouvertes du gouvernement du Québec n’était plus accessible, un message indiquant que le domaine « a expiré ».
+- Bien que cet incident semble être « mineur » selon un expert, il soulève de nombreuses questions.
+- Dès lors qu’un internaute tentait de consulter le site Internet, il arrivait sur un message de GoDaddy, l’un des plus grands registraires de domaines au monde, indiquant que le domaine « donneesquebec.ca » « a expiré ».
+- « Ça ressemble à ce qui aurait pu être une erreur de renouvellement de nom ou bien de mauvaise configuration à la suite d’une manipulation quelconque », explique Steve Waterhouse, consultant et conférencier en cybersécurité, en entrevue au Devoir, avant que l’accès au site soit rétabli vers 15h15.
+
+## [Géolocalisation: quels sont les avantages et les inconvénients? - 98.5 Montréal](https://www.985fm.ca/audio/768249/geolocalisation-quels-sont-les-avantages-et-les-inconvenients)  
+*Source : 985fm.ca | Publication : 2026-04-06*
+
+- Certaines femmes qui utilisent l’application STRAVA pour courir se font géolocaliser par des ex-conjoints, qui s’en servent pour exercer une pression sur elles, souligne un article de La Presse.
+- Cette nouvelle troublante pousse les animateurs Nathalie Normandeau et Luc Ferrandez à s’interroger sur les avantages et les inconvénients de la géolocalisation.
+- Écoutez Jacques Sauvé, consultant en cybersécurité, en discuter lundi, à l’émission La commission.
+
+## [Le PDG d'OpenAI exhorte les États-Unis à se préparer aux risques et opportunités de la](https://www.coindesk.com/fr/tech/2026/04/06/openai-ceo-urges-u-s-to-prepare-for-ai-superintelligence-risks-and-gains)  
+*Source : coindesk.com | Publication : 2026-04-06*
+
+- Le PDG d'OpenAI exhorte les États-Unis à se préparer aux risques et opportunités de la « superintelligence » de l'IA L'industrie de la cryptomonnaie fait face à des risques croissants en matière de cybersécurité, les outils d'IA réduisant le coût et les compétences nécessaires pour exploiter les failles logicielles, avec plus de 1,4 milliard de dollars d'actifs volés l'année dernière.
+- Ce qu'il: Le PDG d'OpenAI, Sam Altman, a averti que l'IA avancée s'intègre de plus en plus dans l'usage économique quotidien, les modèles de nouvelle génération devant aider les scientifiques à faire des découvertes et permettre aux individus de réaliser le travail de groupes entiers.
+- - L'industrie de la cryptomonnaie fait face à des risques croissants en matière de cybersécurité, les outils d'IA réduisant le coût et les compétences nécessaires pour exploiter les failles des logiciels, avec plus de 1,4 milliard de dollars d'actifs volés l'année dernière.
+- - Altman a souligné les menaces potentielles, notamment les cyberattaques puissantes et l'utilisation abusive de l'IA dans la recherche biologique, appelant à une coordination urgente entre les gouvernements et les entreprises technologiques.
+
+## [«Ça démontre encore une fois une mauvaise gestion»: Québec perd le contrôle du site web ...](https://www.tvanouvelles.ca/2026/04/06/ca-demontre-encore-une-fois-une-mauvaise-gestion---quebec-perd-le-controle-du-site-web-de-son-portail-de-donnees-ouvertes)  
+*Source : tvanouvelles.ca | Publication : 2026-04-06*
+
+- Le portail de données ouvertes du gouvernement du Québec a été momentanément inaccessible dimanche, en raison d’une erreur administrative, suscitant des inquiétudes quant à la saine gestion des actifs numériques provinciaux.
+- Lorsque les internautes voulaient consulter le portail dimanche matin, ils tombaient plutôt sur une page du gestionnaire de sites web GoDaddy indiquant que les droits sur le domaine « donneesquebec.ca » sont « expirés ».
+- Il était même possible pour un internaute de tenter de racheter le domaine via un courtier pour 119,99 $.
+- La situation a été réglée en fin d’après-midi selon le ministre de la Cybersécurité et du Numérique, Gilles Bélanger, qui a mentionné « une erreur administrative [...] conséquente à une carte de crédit périmée et un transfert de personnel » lors d’un échange avec Le Journal.
+
+## [IA et <b>cybersécurité</b> : la BCEAO et HEC Paris face aux nouveaux défis pour la sécurité bancaire](https://www.agenceecofin.com/actualites-finance/0604-137309-ia-et-cybersecurite-la-bceao-et-hec-paris-face-aux-nouveaux-defis-pour-la-securite-bancaire)  
+*Source : agenceecofin.com | Publication : 2026-04-06*
+
+- (Agence Ecofin) - A l'heure où les banques accélèrent leur transformation numérique, la maîtrise de l'IA et de la cybersécurité devient.
+
+## [Comment les réseaux de cybercriminels et les « hackeurs de cité » siphonnent les données ...](https://www.lefigaro.fr/actualite-france/comment-les-reseaux-de-cybercriminels-et-les-hackeurs-de-cite-siphonnent-les-donnees-personnelles-de-millions-de-francais-20260406)  
+*Source : lefigaro.fr | Publication : 2026-04-06*
+
+- Comment les réseaux de cybercriminels et les « hackeurs de cité » siphonnent les données personnelles de millions de Français ENQUÊTE - Alors que les fuites massives d’informations se multiplient dans l’indifférence quasi générale, la criminalité organisée consulte avec frénésie des fichiers pirates afin de mieux cibler les victimes.
+- Les gendarmes fourbissent la riposte.
+- Passer la publicitéQuinze millions de Français piratés en une seule cyberattaque !.
+- C’est le bilan du raid informatique qui a visé 1 500 médecins utilisateurs d’un logiciel de la société Cegedim Santé.
+
+## [Avec SBOM Manager, Keysight apporte enfin une réponse simple à un problème devenu critique](https://www.elektormagazine.fr/news/avec-sbom-manager-keysight-apporte-enfin-une-reponse-simple-a-un-probleme-devenu-critique-la-transparence-logicielle-mondiale)  
+*Source : elektormagazine.fr | Publication : 2026-04-06*
+
+- Avec SBOM Manager, Keysight apporte enfin une réponse simple à un problème devenu critique : la transparence logicielle mondiale 6 avril 2026 sur sur La pression monte : cybersécurité, régulations, IA, open source… et une Supply Chain devenue opaque Chaque produit moderne contient des dizaines, voire des centaines de composants logiciels — open source, firmware, modules tiers, librairies IA générées automatiquement.
+- Pour les entreprises, savoir ce qui se trouve réellement dans leur produit est devenu presque impossible.
+- Et pourtant, dès 2026, les régulateurs exigeront : une SBOM complète, - une mise à jour continue, - un signalement sous 24 h des vulnérabilités exploitables.
+- - Tout voir.
+
+## [<b>Cybercriminalité</b>, désinformation et fake news: les «pistes de solutions» d'Indaba International](https://leconomistedufaso.com/2026/04/06/cybercriminalite-desinformation-et-fake-news-les-pistes-de-solutions-dindaba-international/)  
+*Source : leconomistedufaso.com | Publication : 2026-04-06*
+
+- • Par un colloque international • Il souhaite renforcer les capacités des mécanismes existants • Et développer des systèmes de lutte plus efficaces «Défis actuels et émergents en matière de cybercriminalité, de désinformations et de fake news : quelles pistes de solutions ».
+- Par ce thème, la structure Indaba International a tenu la première édition du colloque international de lutte contre la cybercriminalité, la désinformation et les fakes news, le jeudi 26 mars 2026, à Ouagadougou.
+- Avec l’ampleur que prennent ces phénomènes dans le monde, et particulièrement au Burkina, il était temps de poser le débat pour la stabilité sociopolitique et économique, voire la paix.
+- « Au Burkina Faso, de nombreux efforts ont été faits et beaucoup de mesures entreprises pour enrayer le mal.
+
+## [Sécurité du code IA : Claude Code Security ouvre un nouveau chapitre - IT SOCIAL](https://itsocial.fr/contenus/tribunes/securite-du-code-ia-claude-code-security-ouvre-un-nouveau-chapitre/)  
+*Source : itsocial.fr | Publication : 2026-04-06*
+
+- Aujourd’hui, si 34 % des organisations affirment que plus de 60 % de leur code provient de l’IA, et près de 50 % utilisent déjà des assistants de codage dans leurs workflows, seuls 18 % disposent d’une gouvernance formalisée autour de ces usages.
+- Dans le même temps, 81 % des entreprises livrent du code vulnérable, et 98 % ont subi au moins une brèche liée à du code non sécurisé l’an dernier.
+- La production explose, les risques se multiplient, et l’exposition dépasse largement la capacité de remédiation.
+- Claude Code Security répond à ce besoin.
+
+## [Afrique: Les Africains invités à adopter une culture de la <b>cybersécurité</b> et de la résilience numérique](https://fr.allafrica.com/stories/202604060126.html)  
+*Source : fr.allafrica.com | Publication : 2026-04-06*
+
+- Dakar — L'administrateur civil principal de classe exceptionnelle, Alyoune Badara Diop, a invité, samedi, les acteurs africains du numérique à adopter une culture de la cybersécurité et de la résilience numérique dans tous les projets, afin de bâtir une souveraineté solide à la hauteur des ambitions du continent dans ce secteur.
+- "Faisons de la cybersécurité non pas une contrainte, mais une culture.
+- Faisons de la protection des données non pas une obligation légale, mais un engagement moral.
+- Faisons de la résilience numérique non pas un plan de secours, mais le fondement de chacun de nos projets", a-t-il dit.
+
+## [IA, <b>cybersécurité</b>… GITEX Morocco 2026 au cœur des dernières mutations numériques en Afrique](https://medias24.com/2026/04/06/ia-cybersecurite-gitex-morocco-2026-au-coeur-des-dernieres-mutations-numeriques-en-afrique-1654453/)  
+*Source : medias24.com | Publication : 2026-04-06*
+
+- L'IA et les infrastructures numériques au centre des débats GITEX · Un focus inédit sur la cybersécurité avec le STAR Summit · Marrakech, vitrine de l'.
+
+## [La sécurité DeFi ≠ audits seulement — c'est aussi le recrute - Binance](https://www.binance.com/fr/square/post/309529608488801)  
+*Source : binance.com | Publication : 2026-04-06*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [Une semaine en matière de sécurité (30 mars – 5 avril) - Malwarebytes](https://www.malwarebytes.com/fr/blog/news/2026/04/a-week-in-security-march-30-april-5-2)  
+*Source : malwarebytes.com | Publication : 2026-04-06*
+
+- La semaine dernière sur Malwarebytes Labs: Cette offre d'emploi de rêve chez Coca-Cola ou Ferrari ?.
+- C'est un piège pour vos mots de passe - Empêcher les enfants d'accéder aux réseaux sociaux est une bonne idée mal mise en œuvre - Apple étend les correctifs « DarkSword » à iOS .7.7 - VPN Privacy Malwarebytes VPN d'un audit complet réalisé par un organisme indépendant - La polémique autour de l'agent IA de Wikipédia n'est probablement que le début de la « bot-ocalypse » - Windows de WhatsApp sur Windows sont la cible d'une nouvelle campagne, met en garde Microsoft - Pourquoi nous ne fêtons toujours pas le 1er avril - Une étude de Stanford montre qu'il n'est pas judicieux de demander des conseils personnels à l'IA - L'attaque visant la chaîne d'approvisionnement d'Axios ébranle la confiance envers npm - Une nouvelle fonctionnalité de sécurité de macOS alertera les utilisateurs en cas de risque d'attaques ClickFix - Restez en sécurité !.
+- Nous ne nous contentons pas de rendre compte de la confidentialité des données, nous vous aidons à supprimer vos informations personnelles.
+- Les risques liés à la cybersécurité ne devraient jamais se propager au-delà d'un titre.
+
+## [Réalité du <b>ransomware</b> : « glissez-vous dans la tête d'un hacker - ITdaily.](https://itdaily.fr/blogs/securite/realite-du-ransomware-glissez-vous-dans-la-tete-dun-hacker/)  
+*Source : itdaily.fr | Publication : 2026-04-06*
+
+- La réalité du ransomware aujourd’hui est différente de celle d’il y a quelques années.
+- Les attaquants restent moins longtemps dans votre système, demandent des rançons moins élevées et ne font preuve d’aucune loyauté.
+- « Auparavant, nous redoutions les criminels du coin de la rue ; aujourd’hui, il s’agit de criminels du monde entier », commence Mikko Hyppönen, Chief Research Officer chez Sensofusion, lors d’un récent événement cyber à Anvers.
+- De plus, ces criminels ne sont plus des hackers chevronnés, mais « principalement des jeunes qui achètent simplement du « ransomware-as-a-service » ou des outils de piratage », explique Geert Baudewijns, PDG et fondateur de Secutec.
+
+## [Après une cyberarnaque, la santé mentale des victimes chamboulée : «La honte agit ... - Libération](https://www.liberation.fr/societe/sante/la-honte-agit-comme-une-seconde-agression-apres-une-cyberarnaque-la-sante-mentale-des-victimes-chamboulee-20260406_34TPIIKN3RAHLI6M7AYMI75CRY/)  
+*Source : liberation.fr | Publication : 2026-04-06*
+
+- «Libé» retrace le calvaire de trois d'entre elles.
+- Cybercriminalité.
+- Vincent ... Cybercriminalité Santé mentale.
+- Dans la même rubrique.
+
+## [Négocier avec les hackers : une nouvelle profession dans le monde numérique.](https://www.vietnam.vn/fr/thuong-luong-voi-hacker-nghe-moi-trong-the-gioi-so)  
+*Source : vietnam.vn | Publication : 2026-04-06*
+
+- Face à la multiplication des attaques de rançongiciels, un nouveau maillon de l'écosystème de la cybersécurité émerge : les rangs des négociateurs en matière de rançongiciels.
+- Ils emploient diverses tactiques, allant de l'usurpation d'identité en se faisant passer pour du personnel informatique inexpérimenté à la prolongation des conversations avec les pirates informatiques, exploitant chaque précieuse seconde pour protéger les intérêts de l'entreprise.
+- Les négociations peuvent durer de 3 jours à 3 semaines et se déroulent souvent par plusieurs canaux, notamment le courrier électronique et TOX.chat (une plateforme en ligne offrant des services de chiffrement de bout en bout).
+- Selon le correspondant de VNA à Londres, les principales entreprises de cybersécurité telles que Palo Alto Networks et Sophos ont signalé une forte augmentation de la demande de services de négociation de rançons.
 
 ## [Les secrets les mieux gardés de l'IA menacés après une fuite - Clubic](https://www.clubic.com/actualite-607762-les-secrets-les-mieux-gardes-de-l-ia-menaces-apres-une-fuite.html)  
 *Source : clubic.com | Publication : 2026-04-05*
