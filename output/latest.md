@@ -1,151 +1,152 @@
-# Résumés – 2026-04-06
+# Résumés – 2026-04-07
 
 
-## [Gitex Africa 2026 à Marrakech : IA et <b>cybersécurité</b> Kaspersky tire la sonnette d'alarme](https://lematin.ma/videos/gitex-africa-2026-ia-et-cybersecurite-kaspersky-tire-la-sonnette-dalarme/338822)  
-*Source : lematin.ma | Publication : 2026-04-06*
+## [<b>Cybersécurité</b> : En réservant Claude Mythos Preview aux défenseurs, Anthropic cherche à ...](https://www.usine-digitale.fr/intelligence-artificielle/anthropic/cybersecurite-en-reservant-claude-mythos-preview-aux-defenseurs-anthropic-cherche-a-limiter-lutilisation-abusive-de-lia-par-les-cybercriminels.AEKWFVXVCVDZHHWKBG5HE5LCA4.html)  
+*Source : usine-digitale.fr | Publication : 2026-04-07*
 
-- En marge du Gitex Africa 2026, organisé à Marrakech, Kaspersky a présenté, lors d’une rencontre avec le Centre Marocain de Recherches Polytechniques et d’Innovation (CMRPI), les résultats d’une étude révélant une adoption massive de l’intelligence artificielle (IA) au sein des entreprises marocaines, souvent en l’absence de cadre structuré.
-- Réalisée en partenariat avec l’institut Averty auprès de plus de 300 salariés, cette étude met en lumière une transformation progressive des usages professionnels, portée principalement par les collaborateurs eux-mêmes, en dehors de stratégies formalisées à l’échelle des organisations.
-- Gitex Africa 2026 à Marrakech : IA et cybersécurité Kaspersky tire la sonnette d’alarme.
-- | 06 Avril 2026.
+- Il ne s'agit pas d'un simple projet de cybersécurité.
+- Anthropic, via Project Glasswing, cherche à renforcer son avance technologique,.
 
-## [Commission européenne : 30 entités compromises via le cloud AWS](https://dcod.ch/2026/04/06/commission-europeenne-aws/)  
-*Source : dcod.ch | Publication : 2026-04-06*
+## [IA <b>cybercriminalité</b>. <b>Cybersécurité</b>: Anthropic reporte la sortie de sa nouvelle IA | La Liberté](https://www.laliberte.ch/articles/cybersecurite-anthropic-reporte-la-sortie-de-sa-nouvelle-ia-1342478)  
+*Source : laliberte.ch | Publication : 2026-04-07*
 
-- TL;DR : L’essentiel Le groupe TeamPCP a exploité une version compromise de l’outil de sécurité Trivy pour dérober une clé API AWS appartenant à la Commission européenne le 19 mars.
-- - L’intrusion a permis l’exfiltration de dizaines de gigaoctets de données, incluant des bases de données et 52 000 courriels, affectant 42 services internes et 29 organismes partenaires.
-- - Le collectif ShinyHunters a revendiqué la publication de 350 Go de fichiers dérobés, tandis que le CERT-EU confirme une compromission étendue de l’infrastructure d’hébergement Europa.eu.
-- - Le 24 mars, la Commission européenne a identifié une intrusion critique au sein de son infrastructure cloud hébergeant la plateforme Europa.eu.
+- La start-up d'intelligence artificielle (IA) Anthropic a annoncé mardi reporter la commercialisation de son nouveau modèle d'IA, Mythos, le temps de combler des milliers de failles informatiques identifiées par l'interface.
+- Selon l'entreprise californienne, lors de tests effectués en interne, Mythos a repéré "des milliers" de vulnérabilités "zero-day" dans des programmes accessibles en ligne, terme signifiant que leurs concepteurs et utilisateurs n'ont pas conscience du point de faiblesse considéré.
+- Sans intervention pour les combler, ces failles offriraient potentiellement à des pirates informatiques autant d'angles d'attaque informatique.
+- "Les potentialités de l'IA ont franchi un seuil qui change fondamentalement le niveau d'urgence requis pour protéger les infrastructures (informatiques) des attaques", a commenté Anthony Grieco, responsable de la sécurité au sein du spécialiste des réseaux informatiques Cisco.
 
-## [Gitex Africa 2026 à Marrakech : IA et <b>cybersécurité</b> Kaspersky tire la sonnette d'alarme](https://www.youtube.com/watch?v=KT455Gygpfc)  
-*Source : youtube.com | Publication : 2026-04-06*
+## [<b>Cybersécurité</b>: Anthropic reporte la sortie de sa nouvelle IA - RFJ votre radio régionale](https://www.rfj.ch/rfj/Actualite/economie/Cybersecurite-Anthropic-reporte-la-sortie-de-sa-nouvelle-IA.html)  
+*Source : rfj.ch | Publication : 2026-04-07*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- cybersécurité CrowdStrike et Palo Alto Networks, mais aussi notamment.
+- Pour Gang Wang, 'la bonne nouvelle est que ces entreprises IA veulent être du.
 
-## [Keysight présente SBOM Manager, une solution centrale pour la conformité aux futurs ...](https://www.ecinews.fr/fr/keysight-presente-sbom-manager-une-solution-centrale-pour-la-conformite-aux-futurs-standards-mondiaux-de-cybersecurite/)  
-*Source : ecinews.fr | Publication : 2026-04-06*
+## [<b>Cybersécurité</b>: Anthropic reporte la sortie de sa nouvelle IA - SWI swissinfo.ch](https://www.swissinfo.ch/fre/cybersécurité:-anthropic-reporte-la-sortie-de-sa-nouvelle-ia/91221753)  
+*Source : swissinfo.ch | Publication : 2026-04-07*
 
-- Keysight présente SBOM Manager, une solution centrale pour la conformité aux futurs standards mondiaux de cybersécurité Une plateforme unifiée pour générer, gérer et partager les SBOM dans un paysage réglementaire en mutation Keysight Technologies annonce le lancement de Keysight SBOM Manager, une solution conçue pour aider les organisations à répondre aux exigences grandissantes autour de la transparence logicielle et de la gestion des vulnérabilités.
-- Avec l’entrée en vigueur prochaine du Cyber Resilience Act (CRA) européen et le renforcement des réglementations américaines et asiatiques, les SBOM (Software Bill of Materials) deviennent un élément essentiel du Security by Design, de la conformité réglementaire et de la confiance numérique.
-- Cette nouvelle plateforme vise à automatiser, normaliser et sécuriser la gestion des SBOM sur l’ensemble du cycle de vie d’un produit.
-- Un contexte mondial où la transparence logicielle devient obligatoire Les exigences croissantes en matière de cybersécurité convergent toutes vers un point commun : → une visibilité totale sur les composants logiciels et micrologiciels.
+- Cybersécurité: Anthropic reporte la sortie de sa nouvelle IA La start-up d'intelligence artificielle (IA) Anthropic a annoncé mardi reporter la commercialisation de son nouveau modèle d'IA, Mythos, le temps de combler des milliers de failles informatiques identifiées par l'interface.
+- (Keystone-ATS) Selon l’entreprise californienne, lors de tests effectués en interne, Mythos a repéré «des milliers» de vulnérabilités «zero-day» dans des programmes accessibles en ligne, terme signifiant que leurs concepteurs et utilisateurs n’ont pas conscience du point de faiblesse considéré.
+- Sans intervention pour les combler, ces failles offriraient potentiellement à des pirates informatiques autant d’angles d’attaque informatique.
+- «Les potentialités de l’IA ont franchi un seuil qui change fondamentalement le niveau d’urgence requis pour protéger les infrastructures (informatiques) des attaques», a commenté Anthony Grieco, responsable de la sécurité au sein du spécialiste des réseaux informatiques Cisco.
 
-## [<b>Cybersécurité</b>: une panne du portail Données Québec soulève des enjeux de réputation et ...](https://www.ledevoir.com/actualites/societe/969650/panne-portail-donnees-ouvertes-quebec-souleve-enjeux-reputation-confiance)  
-*Source : ledevoir.com | Publication : 2026-04-06*
+## [La Défense se forme au centre de <b>cybersécurité</b> de Transinne : &quot;La guerre hybride a commencé&quot;](https://www.lavenir.net/regions/luxembourg/2026/04/07/la-defense-se-forme-au-centre-de-cybersecurite-de-transinne-la-guerre-hybride-a-commence-RLEK2SCJERB7ZEIPT2XCT5FVUE/)  
+*Source : lavenir.net | Publication : 2026-04-07*
 
-- Dimanche, le portail de données ouvertes du gouvernement du Québec n’était plus accessible, un message indiquant que le domaine « a expiré ».
-- Bien que cet incident semble être « mineur » selon un expert, il soulève de nombreuses questions.
-- Dès lors qu’un internaute tentait de consulter le site Internet, il arrivait sur un message de GoDaddy, l’un des plus grands registraires de domaines au monde, indiquant que le domaine « donneesquebec.ca » « a expiré ».
-- « Ça ressemble à ce qui aurait pu être une erreur de renouvellement de nom ou bien de mauvaise configuration à la suite d’une manipulation quelconque », explique Steve Waterhouse, consultant et conférencier en cybersécurité, en entrevue au Devoir, avant que l’accès au site soit rétabli vers 15h15.
+- La Défense se forme au centre de cybersécurité de Transinne : "La guerre hybride a commencé" Les opérateurs du Control & Reporting Center (CRC) de la base aérienne de Beauvechain suivent une formation au cyber range.
+- Actuellement, 70 % du personnel chargé de la protection de l'espace aérien ont été formés.
+- Publié le 07-04-2026 à 17h43 - Mis à jour le 07-04-2026 à 17h57 - Organe stratégique de la Composante Air de la Défense, le Control & Reporting Center (CRC), situé sur la base aérienne de Beauvechain, assure la surveillance, le contrôle et la protection de l'espace aérien 24 heures sur 24.
+- Le centre doit être opérationnel en permanence : les formations à la cybersécurité ne peuvent, dès lors, s'y dérouler.
 
-## [Géolocalisation: quels sont les avantages et les inconvénients? - 98.5 Montréal](https://www.985fm.ca/audio/768249/geolocalisation-quels-sont-les-avantages-et-les-inconvenients)  
-*Source : 985fm.ca | Publication : 2026-04-06*
+## [Anthropic reporte la sortie de sa nouvelle IA, trop dangereuse pour la <b>cybersécurité</b> actuelle](https://fr.tradingview.com/news/afp:298871783760c:0/)  
+*Source : fr.tradingview.com | Publication : 2026-04-07*
 
-- Certaines femmes qui utilisent l’application STRAVA pour courir se font géolocaliser par des ex-conjoints, qui s’en servent pour exercer une pression sur elles, souligne un article de La Presse.
-- Cette nouvelle troublante pousse les animateurs Nathalie Normandeau et Luc Ferrandez à s’interroger sur les avantages et les inconvénients de la géolocalisation.
-- Écoutez Jacques Sauvé, consultant en cybersécurité, en discuter lundi, à l’émission La commission.
+- Anthropic reporte la sortie de sa nouvelle IA, trop dangereuse pour la cybersécurité actuelle La start-up d'intelligence artificielle (IA) Anthropic a annoncé mardi reporter la commercialisation de son nouveau modèle d'IA, Mythos, le temps de combler, avec la collaboration de plusieurs grands acteurs du milieu, des milliers de failles informatiques identifiées par l'interface.
+- Selon l'entreprise californienne, lors de tests effectués en interne, Mythos a repéré "des milliers" de vulnérabilités "zero-day" dans des programmes accessibles en ligne, terme signifiant que leurs concepteurs et utilisateurs n'ont pas conscience du point de faiblesse considéré.
+- Sans intervention pour les combler, ces failles offriraient potentiellement à des pirates informatiques autant d'angle d'attaque informatique.
+- "Les potentialités de l'IA ont franchi un seuil qui change fondamentalement le niveau d'urgence requis pour protéger les infrastructures (informatiques) des attaques", a commenté Anthony Grieco, responsable de la sécurité au sein du spécialiste des réseaux informatiques Cisco.
 
-## [Le PDG d'OpenAI exhorte les États-Unis à se préparer aux risques et opportunités de la](https://www.coindesk.com/fr/tech/2026/04/06/openai-ceo-urges-u-s-to-prepare-for-ai-superintelligence-risks-and-gains)  
-*Source : coindesk.com | Publication : 2026-04-06*
+## [Nouveauté d'Anthropic | Des milliers de failles de <b>cybersécurité</b> repérées par l'IA Mythos](https://www.lapresse.ca/affaires/techno/2026-04-07/nouveaute-d-anthropic/des-milliers-de-failles-de-cybersecurite-reperees-par-l-ia-mythos.php)  
+*Source : lapresse.ca | Publication : 2026-04-07*
 
-- Le PDG d'OpenAI exhorte les États-Unis à se préparer aux risques et opportunités de la « superintelligence » de l'IA L'industrie de la cryptomonnaie fait face à des risques croissants en matière de cybersécurité, les outils d'IA réduisant le coût et les compétences nécessaires pour exploiter les failles logicielles, avec plus de 1,4 milliard de dollars d'actifs volés l'année dernière.
-- Ce qu'il: Le PDG d'OpenAI, Sam Altman, a averti que l'IA avancée s'intègre de plus en plus dans l'usage économique quotidien, les modèles de nouvelle génération devant aider les scientifiques à faire des découvertes et permettre aux individus de réaliser le travail de groupes entiers.
-- - L'industrie de la cryptomonnaie fait face à des risques croissants en matière de cybersécurité, les outils d'IA réduisant le coût et les compétences nécessaires pour exploiter les failles des logiciels, avec plus de 1,4 milliard de dollars d'actifs volés l'année dernière.
-- - Altman a souligné les menaces potentielles, notamment les cyberattaques puissantes et l'utilisation abusive de l'IA dans la recherche biologique, appelant à une coordination urgente entre les gouvernements et les entreprises technologiques.
+- Nouveauté d’Anthropic Des milliers de failles de cybersécurité repérées par l’IA Mythos (New York) La jeune pousse d’intelligence artificielle (IA) Anthropic a annoncé mardi une collaboration avec plusieurs grands acteurs de la cybersécurité pour combler des milliers de failles informatiques identifiées par son nouveau modèle d’IA Mythos, avant le lancement officiel de l’interface.
+- Selon l’entreprise californienne, lors de tests effectués en interne, Mythos a repéré dans des programmes accessibles en ligne « des milliers » de vulnérabilités « zero-day », terme signifiant que leurs concepteurs et utilisateurs n’ont pas conscience du point de faiblesse considéré.
+- « Certains remontent à 10 ou 20 ans », précise Anthropic dans un communiqué, le plus ancien point de faiblesse recensé datant de 27 ans.
+- Sans intervention pour les combler, ces failles offriraient potentiellement à des pirates informatiques autant d’angles d’attaque informatiques.
 
-## [«Ça démontre encore une fois une mauvaise gestion»: Québec perd le contrôle du site web ...](https://www.tvanouvelles.ca/2026/04/06/ca-demontre-encore-une-fois-une-mauvaise-gestion---quebec-perd-le-controle-du-site-web-de-son-portail-de-donnees-ouvertes)  
-*Source : tvanouvelles.ca | Publication : 2026-04-06*
+## [l'université de Lorraine et le Cispa signent un accord en vue de créer un centre franco-allemand](https://www.aefinfo.fr/depeche/620259-cybersecurite-luniversite-de-lorraine-et-le-cispa-signent-un-accord-en-vue-de-creer-un-centre-franco-allemand)  
+*Source : aefinfo.fr | Publication : 2026-04-07*
 
-- Le portail de données ouvertes du gouvernement du Québec a été momentanément inaccessible dimanche, en raison d’une erreur administrative, suscitant des inquiétudes quant à la saine gestion des actifs numériques provinciaux.
-- Lorsque les internautes voulaient consulter le portail dimanche matin, ils tombaient plutôt sur une page du gestionnaire de sites web GoDaddy indiquant que les droits sur le domaine « donneesquebec.ca » sont « expirés ».
-- Il était même possible pour un internaute de tenter de racheter le domaine via un courtier pour 119,99 $.
-- La situation a été réglée en fin d’après-midi selon le ministre de la Cybersécurité et du Numérique, Gilles Bélanger, qui a mentionné « une erreur administrative [...] conséquente à une carte de crédit périmée et un transfert de personnel » lors d’un échange avec Le Journal.
+- "Au long de la frontière qui va de Dunkerque à Bâle, nous avons une force fantastique [en IA] et pouvons susciter l’émergence d’un écosystème à l’éch Le Loria (laboratoire commun CNRS, La métropole du Grand Nancy et le ministère des Armées annoncent un partenariat pour faire émerger "un centre européen de cybersécurité civil et militaire".
+- Signée le 2 juillet 2018, la convention.
 
-## [IA et <b>cybersécurité</b> : la BCEAO et HEC Paris face aux nouveaux défis pour la sécurité bancaire](https://www.agenceecofin.com/actualites-finance/0604-137309-ia-et-cybersecurite-la-bceao-et-hec-paris-face-aux-nouveaux-defis-pour-la-securite-bancaire)  
-*Source : agenceecofin.com | Publication : 2026-04-06*
+## [<b>Cybersécurité</b> : six filières économiques majeures en Bretagne doivent muscler leur défense](https://rennes.maville.com/actu/actudet_-cybersecurite-six-filieres-economiques-majeures-en-bretagne-doivent-muscler-leur-defense-_loc-7270009_actu.Htm)  
+*Source : rennes.maville.com | Publication : 2026-04-07*
 
-- (Agence Ecofin) - A l'heure où les banques accélèrent leur transformation numérique, la maîtrise de l'IA et de la cybersécurité devient.
+- Plus de 40 entreprises bretonnes viennent de participer au grand salon de cybersécurité à Lille (Nord), le Forum INCYBER 2026.
+- Dans la perspective de l’application locale de la directive européenne NIS 2, la priorité est à la sécurisation des filières sensibles dans la région.
+- État des lieux avec Tiphaine Leduc, coordinatrice générale de Cyber Alliance, le campus cyber breton.
+- Que retenez-vous de l’édition du Forum INCYBER, organisé il y a quelques jours à Lille (du 31 mars au 2 avril 2026), auquel des entreprises.
 
-## [Comment les réseaux de cybercriminels et les « hackeurs de cité » siphonnent les données ...](https://www.lefigaro.fr/actualite-france/comment-les-reseaux-de-cybercriminels-et-les-hackeurs-de-cite-siphonnent-les-donnees-personnelles-de-millions-de-francais-20260406)  
-*Source : lefigaro.fr | Publication : 2026-04-06*
+## [Des milliers de failles de <b>cybersécurité</b> repérées par la nouvelle IA d'Anthropic, qui veut y remédier](https://fr.tradingview.com/news/afp:4de34abf057ce:0/)  
+*Source : fr.tradingview.com | Publication : 2026-04-07*
 
-- Comment les réseaux de cybercriminels et les « hackeurs de cité » siphonnent les données personnelles de millions de Français ENQUÊTE - Alors que les fuites massives d’informations se multiplient dans l’indifférence quasi générale, la criminalité organisée consulte avec frénésie des fichiers pirates afin de mieux cibler les victimes.
-- Les gendarmes fourbissent la riposte.
-- Passer la publicitéQuinze millions de Français piratés en une seule cyberattaque !.
-- C’est le bilan du raid informatique qui a visé 1 500 médecins utilisateurs d’un logiciel de la société Cegedim Santé.
+- Des milliers de failles de cybersécurité repérées par la nouvelle IA d'Anthropic, qui veut y remédier La start-up d'intelligence artificielle (IA) Anthropic a annoncé mardi une collaboration avec plusieurs grands acteurs de la cybersécurité pour combler des milliers de failles informatiques identifiées par son nouveau modèle d'IA Mythos, avant le lancement officiel de l'interface.
+- Selon l'entreprise californienne, lors de tests effectués en interne, Mythos a repéré "des milliers" de vulnérabilités "zero-day" dans des programmes accessibles en ligne, terme signifiant que leurs concepteurs et utilisateurs n'ont pas conscience du point de faiblesse considéré.
+- "Certains remontent à dix ou vingt ans", précise Anthropic dans un communiqué, le plus ancien datant de 27 ans.
+- Sans intervention pour les combler, ces failles offriraient potentiellement à des pirates informatiques autant d'angle d'attaque informatique.
 
-## [Avec SBOM Manager, Keysight apporte enfin une réponse simple à un problème devenu critique](https://www.elektormagazine.fr/news/avec-sbom-manager-keysight-apporte-enfin-une-reponse-simple-a-un-probleme-devenu-critique-la-transparence-logicielle-mondiale)  
-*Source : elektormagazine.fr | Publication : 2026-04-06*
+## [Anthropic vante un projet de <b>cybersécurité</b> par l'IA avec des partenaires du secteur des ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N40Q1MF:0/)  
+*Source : fr.tradingview.com | Publication : 2026-04-07*
 
-- Avec SBOM Manager, Keysight apporte enfin une réponse simple à un problème devenu critique : la transparence logicielle mondiale 6 avril 2026 sur sur La pression monte : cybersécurité, régulations, IA, open source… et une Supply Chain devenue opaque Chaque produit moderne contient des dizaines, voire des centaines de composants logiciels — open source, firmware, modules tiers, librairies IA générées automatiquement.
-- Pour les entreprises, savoir ce qui se trouve réellement dans leur produit est devenu presque impossible.
-- Et pourtant, dès 2026, les régulateurs exigeront : une SBOM complète, - une mise à jour continue, - un signalement sous 24 h des vulnérabilités exploitables.
-- - Tout voir.
+- Actualités/Reuters/Anthropic vante un projet de cybersécurité par l'IA avec des partenaires du secteur des grandes technologiesAnthropic vante un projet de cybersécurité par l'IA avec des partenaires du secteur des grandes technologiesRefinitiv2 min de lectureAMZNMSFTAAPLPANW© Copyright Thomson Reuters 2026.
+- Click For Restrictions - https://agency.reuters.com/en/copyright.htmlMontrer plusConnectez-vous ou créez un compte gratuit à vie pour lire ces nouvellesC'est partiPlus de nouvelles provenant de Reuters.
 
-## [<b>Cybercriminalité</b>, désinformation et fake news: les «pistes de solutions» d'Indaba International](https://leconomistedufaso.com/2026/04/06/cybercriminalite-desinformation-et-fake-news-les-pistes-de-solutions-dindaba-international/)  
-*Source : leconomistedufaso.com | Publication : 2026-04-06*
+## [Anthropic vante un projet de <b>cybersécurité</b> par l'IA avec des partenaires du secteur des ...](https://www.boursorama.com/bourse/actualites-amp/anthropic-vante-un-projet-de-cybersecurite-par-l-ia-avec-des-partenaires-du-secteur-des-grandes-technologies-8451fb0abfb4d7c7ee1573b743876a0a)  
+*Source : boursorama.com | Publication : 2026-04-07*
 
-- • Par un colloque international • Il souhaite renforcer les capacités des mécanismes existants • Et développer des systèmes de lutte plus efficaces «Défis actuels et émergents en matière de cybercriminalité, de désinformations et de fake news : quelles pistes de solutions ».
-- Par ce thème, la structure Indaba International a tenu la première édition du colloque international de lutte contre la cybercriminalité, la désinformation et les fakes news, le jeudi 26 mars 2026, à Ouagadougou.
-- Avec l’ampleur que prennent ces phénomènes dans le monde, et particulièrement au Burkina, il était temps de poser le débat pour la stabilité sociopolitique et économique, voire la paix.
-- « Au Burkina Faso, de nombreux efforts ont été faits et beaucoup de mesures entreprises pour enrayer le mal.
+- Anthropic vante un projet de cybersécurité par l'IA avec des partenaires du secteur des grandes technologies information fournie par Reuters 07/04/2026 à 20:00 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Anthropic a annoncé mardi une initiative avec de grandes entreprises technologiques, dont Amazon.com AMZN.O , Microsoft MSFT.O et Apple AAPL.O , qui permet aux partenaires de tester en avant-première un modèle avancé doté de capacités de cybersécurité développé par la startup d'IA.
+- Dans le cadre de son "Projet Glasswing", des organisations sélectionnées seront autorisées à utiliser le modèle d'IA général et inédit de la startup, "Claude Mythos Preview", pour des travaux de cybersécurité défensive, a déclaré Anthropic.
+- Parmi les autres partenaires figurent CrowdStrike, Palo Alto Networks, Google et Nvidia.
+- L' annonce fait suite à un rapport de Fortune du mois dernier selon lequel Anthropic testait Claude Mythos , qui, selon lui, présentait des risques pour la sécurité et offrait également des capacités avancées, ce qui a entraîné une forte baisse des actions des entreprises de cybersécurité telles que Palo Alto Networks PANW.O et CrowdStrike CRWD.O.
 
-## [Sécurité du code IA : Claude Code Security ouvre un nouveau chapitre - IT SOCIAL](https://itsocial.fr/contenus/tribunes/securite-du-code-ia-claude-code-security-ouvre-un-nouveau-chapitre/)  
-*Source : itsocial.fr | Publication : 2026-04-06*
+## [Anthropic vante un projet de <b>cybersécurité</b> par l'IA avec des partenaires du secteur des ...](https://www.boursorama.com/bourse/actualites/anthropic-vante-un-projet-de-cybersecurite-par-l-ia-avec-des-partenaires-du-secteur-des-grandes-technologies-8451fb0abfb4d7c7ee1573b743876a0a)  
+*Source : boursorama.com | Publication : 2026-04-07*
 
-- Aujourd’hui, si 34 % des organisations affirment que plus de 60 % de leur code provient de l’IA, et près de 50 % utilisent déjà des assistants de codage dans leurs workflows, seuls 18 % disposent d’une gouvernance formalisée autour de ces usages.
-- Dans le même temps, 81 % des entreprises livrent du code vulnérable, et 98 % ont subi au moins une brèche liée à du code non sécurisé l’an dernier.
-- La production explose, les risques se multiplient, et l’exposition dépasse largement la capacité de remédiation.
-- Claude Code Security répond à ce besoin.
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Anthropic a annoncé mardi une initiative avec de grandes entreprises technologiques, dont Amazon.com AMZN.O , Microsoft MSFT.O et Apple AAPL.O , qui permet aux partenaires de tester en avant-première un modèle avancé doté de capacités de cybersécurité développé par la startup d'IA.
+- Dans le cadre de son "Projet Glasswing", des organisations sélectionnées seront autorisées à utiliser le modèle d'IA général et inédit de la startup, "Claude Mythos Preview", pour des travaux de cybersécurité défensive, a déclaré Anthropic.
+- Parmi les autres partenaires figurent CrowdStrike, Palo Alto Networks, Google et Nvidia.
+- L' annonce fait suite à un rapport de Fortune du mois dernier selon lequel Anthropic testait Claude Mythos , qui, selon lui, présentait des risques pour la sécurité et offrait également des capacités avancées, ce qui a entraîné une forte baisse des actions des entreprises de cybersécurité telles que Palo Alto Networks PANW.O et CrowdStrike CRWD.O.
 
-## [Afrique: Les Africains invités à adopter une culture de la <b>cybersécurité</b> et de la résilience numérique](https://fr.allafrica.com/stories/202604060126.html)  
-*Source : fr.allafrica.com | Publication : 2026-04-06*
+## [Anthropic promeut son projet de <b>cybersécurité</b> IA avec les géants de la Tech - Zonebourse](https://ch.zonebourse.com/actualite-bourse/anthropic-promeut-son-projet-de-cybersecurite-ia-avec-les-geants-de-la-tech-ce7e51d3d080f522)  
+*Source : ch.zonebourse.com | Publication : 2026-04-07*
 
-- Dakar — L'administrateur civil principal de classe exceptionnelle, Alyoune Badara Diop, a invité, samedi, les acteurs africains du numérique à adopter une culture de la cybersécurité et de la résilience numérique dans tous les projets, afin de bâtir une souveraineté solide à la hauteur des ambitions du continent dans ce secteur.
-- "Faisons de la cybersécurité non pas une contrainte, mais une culture.
-- Faisons de la protection des données non pas une obligation légale, mais un engagement moral.
-- Faisons de la résilience numérique non pas un plan de secours, mais le fondement de chacun de nos projets", a-t-il dit.
+- Anthropic a annoncé mardi le lancement d&#039;une initiative conjointe avec de grands groupes technologiques, dont Amazon.com, Microsoft et Apple, permettant à ses partenaires de tester en avant-première un modèle avancé doté de capacités de cybersécurité développé par la start-up d&#039;IA.
+- Dans le cadre de son &quot;Project Glasswing&quot;, certaines organisations sélectionnées seront autorisées à utiliser le modèle d&#039;IA généraliste non encore commercialisé de la start-up, baptisé &quot;Claude Mythos Preview&quot;, pour des travaux de cybersécurité défensive, a précisé Anthropic.
+- Parmi les autres partenaires figurent CrowdStrike, Palo Alto Networks, Google et Nvidia.
+- Cette annonce fait suite à un article de Fortune publié le mois dernier, révélant qu&#039;Anthropic testait Claude Mythos.
 
-## [IA, <b>cybersécurité</b>… GITEX Morocco 2026 au cœur des dernières mutations numériques en Afrique](https://medias24.com/2026/04/06/ia-cybersecurite-gitex-morocco-2026-au-coeur-des-dernieres-mutations-numeriques-en-afrique-1654453/)  
-*Source : medias24.com | Publication : 2026-04-06*
+## [Anthropic va fournir son IA de <b>cybersécurité</b> aux géants de la tech - La Tribune](https://www.latribune.fr/article/tech/intelligence-artificielle/3271094273123314/anthropic-va-fournir-son-ia-de-cybersecurite-aux-geants-de-la-tech)  
+*Source : latribune.fr | Publication : 2026-04-07*
 
-- L'IA et les infrastructures numériques au centre des débats GITEX · Un focus inédit sur la cybersécurité avec le STAR Summit · Marrakech, vitrine de l'.
+- Anthropic va fournir son IA de cybersécurité aux géants de la tech latribune.fr Début mars 2026, Anthropic a indiqué que son dernier modèle avait identifié 22 vulnérabilités dans Firefox en seulement deux semaines.
+- /FW1F/Sherry Jacob - REUTERS - Kacper Pempel.
 
-## [La sécurité DeFi ≠ audits seulement — c'est aussi le recrute - Binance](https://www.binance.com/fr/square/post/309529608488801)  
-*Source : binance.com | Publication : 2026-04-06*
+## [<b>Cybersécurité</b> : Anthropic restreint le lancement de son dernier modèle d'IA pour prévenir les risques](https://www.lemonde.fr/pixels/article/2026/04/07/cybersecurite-anthropic-restreint-le-lancement-de-son-dernier-modele-d-ia-pour-prevenir-les-risques_6677931_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-04-07*
 
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
 
-## [Une semaine en matière de sécurité (30 mars – 5 avril) - Malwarebytes](https://www.malwarebytes.com/fr/blog/news/2026/04/a-week-in-security-march-30-april-5-2)  
-*Source : malwarebytes.com | Publication : 2026-04-06*
+## [Les escroqueries liées aux infractions routières remplacent les liens par des codes QR pour ...](https://www.malwarebytes.com/fr/blog/news/2026/04/traffic-violation-scams-swap-links-for-qr-codes-to-steal-your-card-details)  
+*Source : malwarebytes.com | Publication : 2026-04-07*
 
-- La semaine dernière sur Malwarebytes Labs: Cette offre d'emploi de rêve chez Coca-Cola ou Ferrari ?.
-- C'est un piège pour vos mots de passe - Empêcher les enfants d'accéder aux réseaux sociaux est une bonne idée mal mise en œuvre - Apple étend les correctifs « DarkSword » à iOS .7.7 - VPN Privacy Malwarebytes VPN d'un audit complet réalisé par un organisme indépendant - La polémique autour de l'agent IA de Wikipédia n'est probablement que le début de la « bot-ocalypse » - Windows de WhatsApp sur Windows sont la cible d'une nouvelle campagne, met en garde Microsoft - Pourquoi nous ne fêtons toujours pas le 1er avril - Une étude de Stanford montre qu'il n'est pas judicieux de demander des conseils personnels à l'IA - L'attaque visant la chaîne d'approvisionnement d'Axios ébranle la confiance envers npm - Une nouvelle fonctionnalité de sécurité de macOS alertera les utilisateurs en cas de risque d'attaques ClickFix - Restez en sécurité !.
-- Nous ne nous contentons pas de rendre compte de la confidentialité des données, nous vous aidons à supprimer vos informations personnelles.
-- Les risques liés à la cybersécurité ne devraient jamais se propager au-delà d'un titre.
+- Dès que les gens commencent à comprendre comment fonctionne un certain type d'arnaque, les criminels déploient de nouvelles tactiques pour continuer à voler de l'argent.
+- Maintenant que les gens ont appris à se méfier des liens contenus dans les SMS, les escrocs ont changé d'appât, et en 2026, ce « nouveau lien » prend souvent la forme d'un code QR dissimulé dans une fausse notification.
+- La dernière variante des anciennes arnaques liées aux péages impayés et aux infractions routières est particulièrement sournoise, car elle semble plus officielle qu'un simple message contenant une URL.
+- Au lieu d'un simple lien, les victimes reçoivent une image représentant un avis émanant d'un tribunal ou d'une administration et sont invitées à scanner le code QR pour payer une amende relativement modeste.
 
-## [Réalité du <b>ransomware</b> : « glissez-vous dans la tête d'un hacker - ITdaily.](https://itdaily.fr/blogs/securite/realite-du-ransomware-glissez-vous-dans-la-tete-dun-hacker/)  
-*Source : itdaily.fr | Publication : 2026-04-06*
+## [Arnaud Villadère revient, dans un documentaire sur France 5, sur le retard de ... - L'Écho Républicain](https://www.lechorepublicain.fr/chartres-28000/economie/arnaud-villadere-revient-dans-un-documentaire-sur-france-5-sur-le-retard-de-la-france-dans-les-investissements-vitaux-en-cybersecurite_14950232/)  
+*Source : lechorepublicain.fr | Publication : 2026-04-07*
 
-- La réalité du ransomware aujourd’hui est différente de celle d’il y a quelques années.
-- Les attaquants restent moins longtemps dans votre système, demandent des rançons moins élevées et ne font preuve d’aucune loyauté.
-- « Auparavant, nous redoutions les criminels du coin de la rue ; aujourd’hui, il s’agit de criminels du monde entier », commence Mikko Hyppönen, Chief Research Officer chez Sensofusion, lors d’un récent événement cyber à Anvers.
-- De plus, ces criminels ne sont plus des hackers chevronnés, mais « principalement des jeunes qui achètent simplement du « ransomware-as-a-service » ou des outils de piratage », explique Geert Baudewijns, PDG et fondateur de Secutec.
+- Partager : Commerces Pour "manquements aux règles d'hygiène" la préfecture d'Eure-et-Loir ferme temporairement un restaurant Article réservé aux abonnés Partager : Le monde s’emballe chaque jour avec de nouvelles guerres régionales utilisant de nouvelles technologies et de nouvelles façons de se défendre.
+- La France encourage les épargnants d’orienter leurs économies vers le financement de la modernisation et de l’amélioration du matériel militaire pour mieux répondre et s’adapter aux nouvelles donnes géostratégiques du monde.
+- À ce sujet, France 5 diffuse, ce mardi soir, un documentaire inédit, incarné par le journaliste Julian Bugier Question d’argent : Combien coûte notre Défense ?.
+- qui plonge en immersion au plus près des militaires, des ouvriers et des chefs d’entreprise de l’industrie de défense.
 
-## [Après une cyberarnaque, la santé mentale des victimes chamboulée : «La honte agit ... - Libération](https://www.liberation.fr/societe/sante/la-honte-agit-comme-une-seconde-agression-apres-une-cyberarnaque-la-sante-mentale-des-victimes-chamboulee-20260406_34TPIIKN3RAHLI6M7AYMI75CRY/)  
-*Source : liberation.fr | Publication : 2026-04-06*
+## [Advans Group rachète Coralium et étend son périmètre à la <b>cybersécurité</b> - ChannelNews](https://www.channelnews.fr/advans-group-rachete-coralium-et-etend-son-perimetre-a-la-cybersecurite-156051)  
+*Source : channelnews.fr | Publication : 2026-04-07*
 
-- «Libé» retrace le calvaire de trois d'entre elles.
-- Cybercriminalité.
-- Vincent ... Cybercriminalité Santé mentale.
-- Dans la même rubrique.
+- Advans Group annonce l’acquisition de Coralium, cabinet de conseil en cybersécurité fondé par Louise de Mauroy et Clément Maës.
+- Officialisée début avril, l’opération s’est traduite par l’intégration des équipes de Coralium dès janvier 2026 au siège francilien du groupe, à Cachan.
+- Avec ce rachat, Advans Group ajoute à son portefeuille des compétences en audits de sécurité, pentests, sécurité applicative, analyse de risques, conformité, accompagnement stratégique et réponse aux incidents.
+- Le groupe indique que les équipes de Coralium ont déjà commencé à intervenir sur des projets pour ses clients.
 
-## [Négocier avec les hackers : une nouvelle profession dans le monde numérique.](https://www.vietnam.vn/fr/thuong-luong-voi-hacker-nghe-moi-trong-the-gioi-so)  
-*Source : vietnam.vn | Publication : 2026-04-06*
+## [<b>Cybercriminalité</b> &amp; IA : les menaces criminelles décryptées - L'ADN](https://www.ladn.eu/nouvelle-economie/les-hackers-ont-toujours-un-coup-d-avance-enseigner-les-menaces-criminelles-ia/)  
+*Source : ladn.eu | Publication : 2026-04-07*
 
-- Face à la multiplication des attaques de rançongiciels, un nouveau maillon de l'écosystème de la cybersécurité émerge : les rangs des négociateurs en matière de rançongiciels.
-- Ils emploient diverses tactiques, allant de l'usurpation d'identité en se faisant passer pour du personnel informatique inexpérimenté à la prolongation des conversations avec les pirates informatiques, exploitant chaque précieuse seconde pour protéger les intérêts de l'entreprise.
-- Les négociations peuvent durer de 3 jours à 3 semaines et se déroulent souvent par plusieurs canaux, notamment le courrier électronique et TOX.chat (une plateforme en ligne offrant des services de chiffrement de bout en bout).
-- Selon le correspondant de VNA à Londres, les principales entreprises de cybersécurité telles que Palo Alto Networks et Sophos ont signalé une forte augmentation de la demande de services de négociation de rançons.
+- Les attaques criminelles se multiplient, portées par l'intensification des flux globalisés et le développement de l'intelligence artificielle.
+- Pionnière sur le sujet, la chaire Management des risques criminels forme depuis vingt ans les étudiants de l'EDHEC Business School à faire face aux menaces qui pèsent sur les entreprises.
+- Dans les cours de Bertrand Monnet, professeur de management à l'EDHEC Business School, il arrive d'échanger à distance avec un hacker, ou de travailler sur une interview filmée quelques semaines plus tôt avec un narcotrafiquant international.
+- L'enseignant, qui travaille sur les risques criminels en partenariat avec des entreprises depuis vingt ans et part régulièrement en immersion sur les terrains où prospère le crime, compte dans son répertoire plusieurs représentants du banditisme, qu'il fait intervenir anonymement et à distance.
