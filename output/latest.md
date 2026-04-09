@@ -1,151 +1,144 @@
-# Résumés – 2026-04-08
+# Résumés – 2026-04-09
 
 
-## [Repenser la <b>cybersécurité</b> à l'ère du « logiciel instantané » - CIO-online](https://www.cio-online.com/actualites/lire-repenser-la-cybersecurite-a-l-ere-du--logiciel-instantane-16958.html)  
-*Source : cio-online.com | Publication : 2026-04-08*
+## [Gitex 2026 : la <b>cybersécurité</b>, le levier d'un avenir numérique africain unifié - EcoActu.ma](https://ecoactu.ma/gitex-cybersecurite-avenir-numerique-africain-unifie/)  
+*Source : ecoactu.ma | Publication : 2026-04-09*
 
-- Repenser la cybersécurité à l'ère du « logiciel instantané » Avec les progrès de l'IA, l'essor des solutions logicielles créées en un instant, personnalisées et souvent éphémères va bouleverser la dynamique de la gestion des vulnérabilités.
-- Et, par conséquent, l'affrontement entre cyber-assaillants et défenseurs, souligne le spécialiste de la cryptographie et auteur Bruce Schneier.
-- PublicitéL'IA transforme rapidement la façon dont les logiciels sont conçus, déployés et utilisés.
-- Les tendances actuelles laissent entrevoir un avenir où les IA pourront créer des logiciels sur mesure rapidement et facilement : des « logiciels instantanés ».
+- En partenariat avec la Direction Générale de la Sécurité des Systèmes d’Information du Maroc, le sommet Strategic Digital Defence AI Readiness, STAR, a placé la lutte contre la montée de la cybercriminalité au centre de ses priorités, à travers une dynamique d’action concertée et transfrontalière.
+- À l’occasion d’une deuxième journée particulièrement riche, GITEX AFRICA Morocco a renforcé l’ambition collective du continent de jeter les bases durables d’une coopération panafricaine structurante.
+- Cette séquence a été portée par un dialogue multilatéral de haut niveau consacré à la trajectoire de l’Afrique dans une ère profondément transformée par l’intelligence artificielle.
+- Organisé du 7 au 9 avril 2026, GITEX AFRICA Morocco réunit plus de 1 450 entreprises exposantes et startups, ainsi que des participants venus de plus de 130 pays.
 
-## [Anthropic lance son nouveau modèle Claude Mythos et le projet de cybersecurité Glasswing, jugé](https://www.capital.fr/entreprises-marches/anthropic-lance-son-nouveau-modele-claude-mythos-et-le-projet-de-cybersecurite-glasswing-juge-trop-puissants-pour-etre-rendu-public-1525404)  
-*Source : capital.fr | Publication : 2026-04-08*
+## [Le Trésor américain impliquera le secteur de la cryptomonnaie concernant les alertes aux ...](https://www.coindesk.com/fr/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms)  
+*Source : coindesk.com | Publication : 2026-04-09*
 
-- Fondée en 2021, l’entreprise américaine d’intelligence artificielle Anthropic s’est spécialisée dans le développement de grands modèles de langage et en sécurité de l’IA, si bien qu’elle a fait naître Claude Mythos, un projet qui a vraisemblablement dépassé les attentes placées en lui… En effet, son modèle d’IA a réussi à sortir de l’espace sécurisé d’expérimentation - un sandbox - dans lequel ses créateurs l’avaient confiné !.
-- C’est ce qu’a indiqué Anthropic le 7 avril, quelques jours après qu’une fuite interne ait révélé l’existence du projet Mythos.
-- Ce mardi, Anthropic a alors officialisé le lancement de Project Glasswing, une initiative de cybersécurité adossée à son puissant nouveau modèle Claude Mythos Preview.
-- Et il faudra bien cela pour rassurer les spécialistes sur cet impressionnant modèle.
+- Le Trésor américain impliquera le secteur de la cryptomonnaie concernant les avertissements sur les hackers partagés avec les entreprises traditionnelles Le Département du Trésor a annoncé qu'il permet aux entreprises de cryptomonnaies de s'inscrire pour un partage d'informations en temps opportun sur les menaces en matière de cybersécurité.
+- Ce qu'il: Les autorités américaines commenceront à partager des informations de cybersécurité en temps utile avec les entreprises de cryptomonnaies qui s'inscrivent à ce service, auparavant réservé uniquement aux institutions financières traditionnelles.
+- - Le Département du Trésor a déclaré que l'importance croissante du secteur des actifs numériques justifie son inclusion dans ces mesures de protection.
+- - Le Département du Trésor des États-Unis est ouvrant son partage d'informations en cybersécurité aux entreprises cryptographiques pour les aider à repousser les attaques alors que le secteur devient un bras de plus en plus important du système financier, selon une déclaration publiée jeudi.
 
-## [Dell Technologies met en avant ses solutions cloud, data et <b>cybersécurité</b> - YouTube](https://www.youtube.com/watch?v=pKqDBKeVXtg)  
-*Source : youtube.com | Publication : 2026-04-08*
+## [OpenAI travaille sur un modèle de <b>cybersécurité</b> pour rivaliser avec le Mythos d'Anthropic.](https://fr.qz.com/openai-modle-de-cyberscurit-anthropic-mythos)  
+*Source : fr.qz.com | Publication : 2026-04-09*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- L'entreprise développe une IA axée sur la sécurité pour son programme restreint "Accès de Confiance pour le Cyber".
 
-## [<b>Cybersécurité</b> - Russie : la Tchéquie a participé à l'opération de démantèlement du FBI](https://francais.radio.cz/cybersecurite-russie-la-tchequie-a-participe-a-loperation-de-demantelement-du-8882950)  
-*Source : francais.radio.cz | Publication : 2026-04-08*
+## [Ce virus regarde toutes les photos de votre smartphone, mais pour quoi faire ? - 01net.com](https://www.01net.com/actualites/virus-regarde-toutes-photos-smartphone-mais-pour-quoi-faire.html)  
+*Source : 01net.com | Publication : 2026-04-09*
 
-- Cybersécurité - Russie : la Tchéquie a participé à l’opération de démantèlement du FBI Le service de renseignement militaire tchèque (VZ) a informé, ce mercredi, que ses équipes avaient participé, en mars dernier, à une opération internationale visant à lutter contre les activités du groupe de hackers APT 28.
-- Lié au service de renseignement militaire russe GRU, ce groupe de pirates aussi appelé Fancy Bear menait des cyberattaques contre des organismes publics et diverses autres organisations en République tchèque et à l’étranger en exploitant et compromettant des milliers de routeurs domestiques et de petites entreprises mal sécurisés.
-- Appelée « Masquerade », cette opération de démantèlement était menée par le FBI américain et visait à priver les attaquants de l’accès aux appareils compromis, puis à sécuriser ces derniers.
-- « Les services du renseignement militaire ont mené une intervention active consistant à modifier les paramètres d’une partie de l’infrastructure exploitée à l’échelle mondiale et à sécuriser les équipements susceptibles d’être piratés sur le territoire tchèque », a expliqué le VZ dans un communiqué de presse.
+- Les experts de Kaspersky ont découvert une nouvelle version de SparkCat, un virus taillé pour pirater les smartphones, sur l’App Store et sur le Play Store.
+- Apparu initialement en 2023, SparkCat est un cheval de Troie mobile qui combine espionnage et vol de données.
+- Dans un communiqué adressé à 01net, la société russe explique que cette variante du logiciel malveillant se cache dans des applications de messagerie d’entreprise et de livraison de repas.
+- Deux d’entre elles étaient hébergées sur l’App Store, et une troisième application vérolée se trouvait sur Google Play.
 
-## [Namibie : 1 million USD pour sécuriser le cyberespace national - We Are Tech Africa](https://www.wearetech.africa/fr/fils/actualites/tech/namibie-1-million-usd-pour-securiser-le-cyberespace-national)  
-*Source : wearetech.africa | Publication : 2026-04-08*
+## [Trésor US lance initiative <b>cybersécurité</b> crypto | Phemex News](https://phemex.com/fr/news/article/us-treasury-launches-cybersecurity-initiative-for-crypto-firms-72125)  
+*Source : phemex.com | Publication : 2026-04-09*
 
-- La Namibie a fait de la transformation numérique un levier de son développement économique.
-- Mais pour tirer pleinement parti des avantages des TIC, le pays doit renforcer sa vigilance en matière de cybersécurité.
-- Les autorités namibiennes prévoient d’investir 17,4 millions de dollars namibiens (environ 1 million $) pour renforcer la cybersécurité et d’autres domaines clés dans les prochains mois.
-- Cette initiative vise à accroître les capacités du pays dans ce secteur stratégique.
+- Le Bureau de la cybersécurité et de la protection des infrastructures critiques (OCCIP) du Trésor américain a dévoilé une nouvelle initiative visant à renforcer la cybersécurité dans le secteur des actifs numériques.
+- Ce programme fournira aux entreprises d'actifs numériques éligibles des renseignements exploitables en matière de cybersécurité, sans frais, améliorant ainsi les mesures de sécurité dans l'ensemble de l'industrie des cryptomonnaies.
+- Cette initiative reflète une attention croissante portée à la protection des systèmes financiers numériques contre les cybermenaces.
+- Le Trésor américain lance une initiative de cybersécurité pour les entreprises de cryptomonnaies Avertissement : Le contenu proposé sur Phemex News est à titre informatif uniquement.
 
-## [« Il y a dix ans, nous étions des extraterrestres » : comment Orange a fait de Rennes l'un de ...](https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/il-y-a-dix-ans-nous-etions-des-extraterrestres-comment-orange-a-fait-de-rennes-lun-de-ses-bastions-de-la-cybersecurite-7021729.php)  
-*Source : letelegramme.fr | Publication : 2026-04-08*
+## [Anthropic refuse d'ouvrir sa nouvelle IA Claude Mythos au public, tant elle pourrait être dangereuse](https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-anthropic-refuse-ouvrir-nouvelle-ia-claude-mythos-public-tant-elle-pourrait-etre-dangereuse-133649/)  
+*Source : futura-sciences.com | Publication : 2026-04-09*
 
-- En dix ans, Rennes est devenu le deuxième plus gros site français d’Orange en matière de cybersécurité.
-- Le groupe compte aujourd’hui 600 experts dans la capitale bretonne, contre une quinzaine au départ.
-- Ludovic Jamart se souvient : « Il y a 10 ans, nous n’étions qu’une quinzaine à Rennes, dans un coin au sein des bureaux d'Orange Business.
-- Nous étions un peu des extraterrestres… » Aujourd’hui, le directeur de l’activité conseil et audit de la branche cyberdéfense d’Orange dans le Grand Ouest a beaucoup plus de collègues : ils sont plus de 600.
+- À en croire Anthropic, l'humanité entre dans une nouvelle ère de la cybersécurité, pour le meilleur ou pour le pire.
+- La firme vient d'annoncer une nouvelle version de son chatbot Claude, baptisée Claude Mythos.
+- Mais vous ne pourrez pas le tester.
+- Ce nouveau modèle est tellement puissant qu'il est trop dangereux de le laisser entre les mains du grand public.
 
-## [Boîte de réception | Tout a toujours un prix… | La Presse - LaPresse.ca](https://www.lapresse.ca/affaires/techno/2026-04-08/boite-de-reception/tout-a-toujours-un-prix.php)  
-*Source : lapresse.ca | Publication : 2026-04-08*
+## [Nutanix cible les ex-partenaires VMware avec une plateforme mutualisée pour fournisseurs ...](https://itrnews.com/articles/209447/nutanix-cible-les-ex-partenaires-vmware-avec-une-plateforme-mutualisee-pour-fournisseurs-de-services.html)  
+*Source : itrnews.com | Publication : 2026-04-09*
 
-- Boîte de réception Tout a toujours un prix… J’ai observé une augmentation marquée du prix de la suite de protection Norton, qui ajoute d’autres protections qui font aussi monter son prix.
-- Est-ce que ça vaut la peine de poursuivre mon abonnement ?.
-- Serge Larouche Les entreprises de cybersécurité comme Norton transforment leur antivirus en suite numérique complexe pour hausser la facture.
-- Reposez votre portefeuille, car non, un renouvellement n’est pas absolument nécessaire.
+- Veuillez activer Javascript.
 
-## [<b>Cybersécurité</b> : Anthropic reporte la sortie de sa nouvelle IA jugée trop dangereuse](https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/cybersecurite-anthropic-reporte-la-sortie-de-sa-nouvelle-ia-jugee-trop-dangereuse-28604496.php)  
-*Source : sudouest.fr | Publication : 2026-04-08*
+## [<b>Cybersécurité</b> : 95 % des entreprises ne font pas confiance à leurs fournisseurs - ITchannel](https://itchannel.info/articles/209441/cybersecurite-95-des-entreprises-ne-font-pas-confiance-a-leurs-fournisseurs.html)  
+*Source : itchannel.info | Publication : 2026-04-09*
 
-- La commercialisation du nouveau modèle d’IA d’Anthropic, Mythos, est reportée suite à la détection de milliers de failles pouvant être exploitées par des pirates informatiques La start-up d’intelligence artificielle (IA) Anthropic a annoncé mardi 7 avril reporter la commercialisation de son nouveau modèle d’IA, Mythos, le temps de combler, avec la collaboration de plusieurs grands acteurs du milieu, des milliers de failles informatiques identifiées par l’interface.
+- Veuillez activer Javascript.
 
-## [<b>Cybermenaces</b> : « Une véritable prolifération des outils d'attaque » - UNPJ](https://www.gendarmerie.interieur.gouv.fr/unpj/vu-dans-les-medias/cybermenaces-une-veritable-proliferation-des-outils-d-attaque)  
-*Source : gendarmerie.interieur.gouv.fr | Publication : 2026-04-08*
+## [<b>Cybersécurité</b> : 95 % des entreprises ne font pas confiance à leurs fournisseurs - ITRmanager](https://itrmanager.com/articles/209441/cybersecurite-95-des-entreprises-ne-font-pas-confiance-a-leurs-fournisseurs.html)  
+*Source : itrmanager.com | Publication : 2026-04-09*
 
-- Pas une semaine ne passe sans qu'une fuite massive de données personnelles liée à une cyberattaque fasse l'actualité, comme le récent piratage.
+- Ross McKerchar, RSSI chez Sophos, le formule sans détour : « La confiance n'est pas un concept abstrait dans le monde de la cybersécurité , c'est un.
 
-## [Anthropic dévoile avec précaution un projet de modèle d'IA pour la <b>cybersécurité</b> - L'Agefi](https://www.agefi.fr/news/entreprises/anthropic-devoile-avec-precaution-un-projet-de-modele-dia-pour-la-cybersecurite)  
-*Source : agefi.fr | Publication : 2026-04-08*
+## [<b>Cybercriminalité</b> : une menace de masse, une réponse encore en construction](https://www.journaldeleconomie.fr/cybercriminalite-une-menace-de-masse-une-reponse-encore-en-construction/)  
+*Source : journaldeleconomie.fr | Publication : 2026-04-09*
 
-- Anthropic dévoile avec précaution un projet de modèle d’IA pour la cybersécurité La start-up d’intelligence artificielle ouvre son modèle Claude Mythos Preview à une dizaine de firmes, dont Amazon, Microsoft, Apple et JPMorgan, pour qu’elles le testent dans leurs projets de cybersécurité défensive.
-- L’existence de ce modèle d’IA avait été révélée par accident fin mars.
-- Un évènement L’AGEFI.
-- 11 juin 2026 à 8:30 AM S’inscrire Plus d'articles du même thème Le repositionnement de Capgemini dans l'IA peine à convaincre la Bourse L'entreprise de services informatiques s'échange avec une décote de 50 % sur ses multiples moyens des cinq dernières années, témoignage des doutes des investisseurs sur sa capacité à profiter de l'essor de l'IA.
+- La cybercriminalité qui frappe aujourd’hui la France change d’échelle.
+- En 2025, 453 200 atteintes numériques ont été recensées, soit une hausse de 87 % en cinq ans.
+- Derrière ces chiffres, une transformation structurelle : les attaques reposent désormais autant sur l’exploitation des failles humaines que sur la technique, et s’inscrivent dans une économie organisée de l’accès.
+- Dans les colonnes du Figaro du 6 avril, le général Hervé Petry, commandant de l’unité nationale cyber de la gendarmerie, évoque une « massification des attaques » qui traduit une industrialisation des modes opératoires et une capacité accrue à cibler des individus comme des organisations.
 
-## [Un <b>ransomware</b> frappe le logiciel de dossiers patients de 80 % des hôpitaux néerlandais](https://korben.info/un-ransomware-frappe-le-logiciel-de-dossiers-patients-de-80-des-hopitaux-neerlandais.html)  
-*Source : korben.info | Publication : 2026-04-08*
+## [MCH Consulting USA : IT, <b>Cybersécurité</b> et Cloud pour Expats - French District](https://frenchdistrict.com/floride/articles/mch-consulting-usa-services-it-francophones/)  
+*Source : frenchdistrict.com | Publication : 2026-04-09*
 
-- Un ransomware frappe le logiciel de dossiers patients de 80 % des hôpitaux néerlandais Ce qu’il faut retenir ChipSoft, fournisseur du logiciel HiX qui gère les dossiers patients de 80% des hôpitaux néerlandais, a été victime d'un ransomware le 7 avril ; l'accès non autorisé aux données médicales ne peut pas être exclu.
-- - Une centralisation extrême crée une vulnérabilité systémique : une seule attaque paralyse potentiellement tout le secteur hospitalier d'un pays, obligeant 11 hôpitaux à déconnecter leurs systèmes par précaution.
-- - Les données médicales sont des cibles de choix pour les cybercriminels car elles valent cher au marché noir et les hôpitaux payent rapidement pour retrouver l'accès à leurs systèmes critiques.
-- - Résumé généré par IA ChipSoft, l'éditeur qui fournit le logiciel de dossiers médicaux à environ 80 % des hôpitaux aux Pays-Bas, vient d'être touché par un ransomware.
+- Votre Partenaire IT aux USA : Cybersécurité, Cloud et Conformité pour les Entreprises Francophones Dans le monde des affaires américain, la gestion informatique est un défi constant.
+- MCH Consulting USA propose une solution tout-en-un, offrant un accompagnement IT complet en matière de cybersécurité, de cloud et de conformité pour les entreprises francophones aux États-Unis, leur permettant de se concentrer sereinement sur leur croissance.
+- Cybersécurité, cloud, conformité… un accompagnement IT complet pour les entreprises installées aux États-Unis.
+- Des services informatiques pensés pour les PME Basé à Aventura, MCH Consulting USA propose une offre complète de services informatiques managés, pensée pour les petites et moyennes entreprises qui veulent se concentrer sur leur activité sans se soucier de leur infrastructure IT.
 
-## [Atos décroche deux lots clés d'un programme national de <b>cybersécurité</b> publique](https://www.ideal-investisseur.fr/actions-b/atos-dcroche-deux-lots-cls-dun-programme-national-de-cyberscurit-publique/17296.html)  
-*Source : ideal-investisseur.fr | Publication : 2026-04-08*
+## [Quand la chaîne d'approvisionnement devient un enjeu de sécurité nationale et de ...](https://itsocial.fr/metiers/metiers-articles/quand-la-chaine-dapprovisionnement-devient-un-enjeu-de-securite-nationale-et-de-resilience-informatique/)  
+*Source : itsocial.fr | Publication : 2026-04-09*
 
-- Atos décroche deux lots clés d'un programme national de cybersécurité publique Atos a été désigné titulaire de deux lots au sein de l'accord-cadre « Solutions et prestations de services en cybersécurité » du Programme de Cyber Résilience Territoriale lancé par Gigalis, la centrale d'achat public basée dans les Pays de la Loire.
-- Ce programme vise à renforcer les capacités de résilience cyber des organisations publiques françaises.
-- Un accord-cadre pluriannuel structuré autour de sept lots L'accord-cadre porte une durée de quatre ans et est structuré en sept lots complémentaires attribués à 19 entreprises titulaires.
-- Le programme couvre l'ensemble de la chaîne de la cyber-résilience et vise à doter les organisations publiques françaises à l'échelon national d'une capacité systémique à anticiper les risques cyber, à résister aux attaques et à renforcer leur résilience.
+- De fonction support, la logistique est devenue une infrastructure de souveraineté, exposée aux mêmes fragilités que les réseaux d’énergie ou de communication, et soumise aux mêmes impératifs de résilience.
+- Le SITL 2026, qui a réuni 27 018 professionnels, a matérialisé cette élévation stratégique.
+- Pour les grandes organisations industrielles et de distribution, la chaîne d’approvisionnement est désormais dans le périmètre de la politique de résilience nationale.
+- Les tensions sur le détroit d’Ormuz, les perturbations récurrentes du transport maritime et la hausse des coûts énergétiques ont transformé la gestion logistique en exercice permanent d’arbitrage sous contrainte.
 
-## [Entre mythe et réalité : l'impact de Claude Mythos sur la <b>cybersécurité</b> - LeMagIT](https://www.lemagit.fr/actualites/366641026/Entre-mythe-et-realite-limpact-de-Claude-Mythos-sur-la-cybersecurite)  
-*Source : lemagit.fr | Publication : 2026-04-08*
+## [Zephyr Energy fait état d'un incident de <b>cybersécurité</b> au sein de sa filiale américaine](https://www.zonebourse.com/actualite-bourse/zephyr-energy-fait-etat-d-un-incident-de-cybersecurite-au-sein-de-sa-filiale-americaine-ce7e50dbdc8ef722)  
+*Source : zonebourse.com | Publication : 2026-04-09*
 
-- ipopba - stock.adobe.com Entre mythe et réalité : l'impact de Claude Mythos sur la cybersécurité Claude Mythos Preview, un modèle de pointe d'Anthropic, redéfinit la cybersécurité en surpassant les experts humains sur l'exploitation de vulnérabilités.
-- Le projet Glasswing vise à déployer ces capacités défensives.
-- Le paysage de la sécurité traverse une rupture historique avec l'apparition de modèles capables d'automatiser l'écriture d'exploits complexes.
-- Anthropic a lancé Project Glasswing, une alliance incluant AWS, Microsoft, Google et d'autres, pour contrer la prolifération de ces capacités offensives.
+- Zephyr Energy fait état d'un incident de cybersécurité au sein de sa filiale américaine Publié le 09/04/2026 à 08:37 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © Reuters - 2026 Partager.
 
-## [Pour lutter contre les dangers de son modèle Claude Mythos, Anthropic fédère les géants de la tech](https://www.lefigaro.fr/secteur/high-tech/project-glasswing-anthropic-federe-la-big-tech-contre-les-risques-d-un-modele-d-ia-qui-menace-toute-la-cybersecurite-20260408)  
-*Source : lefigaro.fr | Publication : 2026-04-08*
+## [Fuites de données : les 11 incidents majeurs au 9 avr 2026 - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/04/09/fuites-de-donnees-les-11-incidents-majeurs-au-9-avr-2026/)  
+*Source : dcod.ch | Publication : 2026-04-09*
 
-- Pour lutter contre les dangers de son modèle Claude Mythos, Anthropic fédère les géants de la tech Ce modèle est si puissant pour détecter les failles de sécurité qu’Anthropic implique Amazon, Microsoft, Apple, Google, Palo Alto et d’autres géants technologiques pour sécuriser les logiciels les plus critiques.
-- Passer la publicitéImaginez un modèle d’intelligence artificielle si puissant qu’il peut identifier en quelques minutes des vulnérabilités critiques dans des logiciels essentiels à la marche du monde numérique que personne n’avait détecté, y compris les meilleurs experts et les scanners de vulnérabilité les plus performants à ce jour... C’est ce dont est capable Claude Mythos, le dernier né de la famille de modèles de la société Anthropic.
-- Un modèle si puissant qu’il a même réussi à sortir de l’espace sécurisé d’expérimentation dans lequel ses «créateurs» chez Anthropic l’avaient confiné.
-- Comme son meilleur modèle commercialisé à ce jour, Opus 4.6, Claude Mythos est un modèle à usage général, il n’a pas été entraîné spécifiquement sur de la détection de failles de sécurité.
+- Faits marquants de la semaine Le service de cybersécurité de l’Union européenne a attribué le piratage du cloud de la Commission européenne au groupe TeamPCP, une compromission ayant exposé les données d’au moins 29 autres entités de l’UE hébergées sur cette infrastructure.
+- - Anthropic a brièvement exposé près de 2 000 fichiers internes et 500 000 lignes de code de son assistant de programmation Claude Code, à cause d’une erreur humaine dans une mise à jour logicielle, entraînant une diffusion massive sur GitHub et X.
+- - Un acteur se présentant sous le pseudonyme “Mr.
+- Raccoon” affirme avoir volé à Adobe 13 millions de tickets de support client, 15 000 dossiers d’employés, des documents internes et l’ensemble des soumissions à son programme de bug bounty sur HackerOne.
 
-## [Claude Mythos : un modèle d'IA trop dangereux pour être rendu public - BDM](https://www.blogdumoderateur.com/claude-mythos-modele-ia-dangereux-public/)  
-*Source : blogdumoderateur.com | Publication : 2026-04-08*
+## [En 2025, la préparation et la résistance au <b>ransomware</b> se sont renforcées - LeMagIT](https://www.lemagit.fr/actualites/366641480/En-2025-la-preparation-et-la-resistance-au-ransomware-se-sont-renforcees)  
+*Source : lemagit.fr | Publication : 2026-04-09*
 
-- Claude Mythos : un modèle d’IA trop dangereux pour être rendu public Anthropic a présenté Claude Mythos Preview, un modèle frontier capable de détecter des milliers de failles zero-day en quelques heures.
-- Trop dangereux pour être rendu public, il n’est accessible qu’à une cinquantaine d’organisations.
-- Ce mardi 7 avril 2026, Anthropic a dévoilé Claude Mythos Preview, un modèle frontier généraliste qu’elle refuse de rendre public, et lancé Project Glasswing, une initiative de cyberdéfense réunissant une cinquantaine d’organisations partenaires.
-- En quelques semaines de tests internes, le modèle a identifié des milliers de vulnérabilités critiques dans chaque grand système d’exploitation et navigateur web, selon Anthropic.
+- Romolo Tavani - stock.adobe.com En 2025, la préparation et la résistance au ransomware se sont renforcées Les rapports croisés de Coalition et du FBI pour 2025 sur la menace des rançongiciels suggèrent que les entreprises ont appris à mieux se préparer.
+- Mais ils soulignent néanmoins des pistes d'amélioration.
+- L'année 2025 se distingue par une divergence significative entre la stabilité de la fréquence des incidents et l'évolution de leur impact financier, selon deux points de vue : celui du FBI et celui de l'assureur Coalition.
+- Bien que les ransomwares ne constituent pas l'événement le plus courant, ils demeurent « le plus coûteux et le plus complexe », selon l'assureur.
 
-## [Claude Mythos, l'IA qui fait basculer la <b>cybersécurité</b> - InformatiqueNews.fr](https://www.informatiquenews.fr/anthropic-sassocie-aux-geants-de-la-tech-pour-controler-les-derives-de-sa-future-ia-mythos-110913)  
-*Source : informatiquenews.fr | Publication : 2026-04-08*
+## [Nancy. Les BTS de Charles-de-Foucauld relèvent le défi de la <b>cybersécurité</b>](https://www.estrepublicain.fr/education/2026/04/09/les-bts-de-charles-de-foucauld-relevent-le-defi-de-la-cybersecurite)  
+*Source : estrepublicain.fr | Publication : 2026-04-09*
 
-- Anthropic dévoile Claude Mythos, un modèle IA capable de découvrir et d’exploiter des vulnérabilités zero-day dans tous les grands OS et navigateurs.
-- Un outil qui met en péril toute la production logicielle actuelle s’il tombe entre de mauvaises mains.
-- Le Project Glasswing réunit AWS, Apple, Google, Microsoft et huit autres géants pour s’assurer que cette puissance serve uniquement à des fins défensives.
-- Une nouvelle ère IA s’ouvre, une nouvelle ère cyber aussi.
+- Nancy Les BTS de Charles-de-Foucauld relèvent le défi de la cybersécurité Des élèves de BTS CIEL (cybersécurité, informatique et réseaux, électronique) du lycée Charles-de-Foucauld ont brillé en groupe d’intervention cyber.
+- Ils ont relevé un défi d’envergure.
 
-## [Le secrétaire général et président Tô Lâm signe la décision ratifiant la Convention de Hanoï](https://lecourrier.vn/le-secretaire-general-et-president-to-lam-signe-la-decision-ratifiant-la-convention-de-hanoi/1345020.html)  
-*Source : lecourrier.vn | Publication : 2026-04-08*
+## [<b>Cybersécurité</b>, 5G, applis… Le Maroc, nouveau hub stratégique pour Orange en Afrique](https://www.lesechos.fr/tech-medias/hightech/cybersecurite-5g-applis-le-maroc-nouveau-hub-strategique-pour-orange-en-afrique-2225582)  
+*Source : lesechos.fr | Publication : 2026-04-09*
 
-- >> Les dix événements scientifiques et technologiques les plus marquants de 2025 >> Les affaires étrangères, une mission centrale et continue à l’épreuve du temps >> Convention de Hanoï contre la cybercriminalité : le Vietnam appelle à une mise en œuvre rapide et effective Cette convention - premier traité des Nations unies portant le nom d’un lieu situé au Vietnam - marque une étape historique dans le processus d’intégration internationale du Vietnam, reflétant la capacité et le rôle croissants du pays face aux enjeux d’intérêt commun à la communauté internationale.
-- En tant que pays hôte, le Vietnam a collaboré étroitement avec l’ONU pour organiser avec succès la cérémonie d’ouverture de la signature de la convention à Hanoï en octobre 2025, qui a réuni des dirigeants et des représentants de haut niveau de plus de 110 pays et organisations internationales.
-- Lors de cet événement, 72 pays ont officiellement signé la Convention, réaffirmant son rôle de plateforme pour promouvoir le dialogue, la coopération et le renforcement de la confiance au sein de la communauté internationale sur les questions liées à la cybersécurité et à la gouvernance du cyberespace.
-- La ratification rapide de la Convention par le Vietnam, faisant du Vietnam le premier pays d’Asie du Sud-Est et le deuxième au monde à y adhérer, témoigne de son engagement ferme et constant en faveur du droit international, de la Charte des Nations unies et du multilatéralisme.
+- Inaugurés en 2020, les locaux sont nichés dans Casablanca Finance City (CFC), le nouveau quartier d'affaires flambant neuf de la capitale économique.
 
-## [RSAC 2026 : de la <b>cybersécurité</b> au contrôle de systèmes qui décident seuls - Alliancy](https://www.alliancy.fr/rsac-2026-de-la-cybersecurite-au-controle-de-systemes-qui-decident-seuls-f502c20d-3865-4b0f-90ce-914ad9c9929f)  
-*Source : alliancy.fr | Publication : 2026-04-08*
+## [Rendre la GenAI gouvernable à grande échelle | Deloitte France](https://www.deloitte.com/fr/fr/services/consulting/perspectives/gouvernance-genai-a-grande-echelle.html)  
+*Source : deloitte.com | Publication : 2026-04-09*
 
-- E-mail Profil LinkedIn Profil Twitter Chaîne YouTube 8 avril 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Défis Informations À propos Nous contacter Informations légales.
-- Politiques de protections de vos données © 2026 Alliancy.
-- Tous droits réservés.
-- Propulsé par Omerlo.
+- L’interprétabilité de l’IA générative change d’échelle : face à des systèmes complexes, probabilistes et distribués, les approches classiques d’explicabilité ne suffisent plus à garantir leur compréhension et leur maîtrise.
+- Désormais, l’enjeu clé est de démontrer la gouvernance, la fiabilité et la conformité des systèmes GenAI en production.
+- L’intelligence artificielle progresse rapidement, mais notre capacité à expliquer son fonctionnement ne suit pas le même rythme.
+- Ce décalage est particulièrement marqué avec l’IA générative et les grands modèles de langage (LLM), dont la complexité et l’échelle dépassent largement les cadres d’interprétation traditionnels.
 
-## [Claude Mythos : le jour où l'IA a changé de catégorie - JDN](https://www.journaldunet.com/intelligence-artificielle/1549403-claude-mythos-le-jour-ou-l-ia-a-change-de-categorie/)  
-*Source : journaldunet.com | Publication : 2026-04-08*
+## [<b>Ransomware</b> : NightSpire, une opération à guichet fermé qui s'est ouverte - LeMagIT](https://www.lemagit.fr/actualites/366641653/Ransomware-NightSpire-une-operation-a-guichet-ferme-qui-sest-ouverte)  
+*Source : lemagit.fr | Publication : 2026-04-09*
 
-- Claude Mythos : le jour où l'IA a changé de catégorie Un modèle d'IA si puissant qu'Anthropic refuse de le rendre public : Claude Mythos bouleverse les règles du jeu en cybersécurité, au point de pousser l'entreprise à réunir les géants de la tech dans un consortium défensif inédit.
-- Anthropic parle lui-même d'un "watershed moment" (le grand tournant) après la publication en privé de son dernier modèle frontière, Claude Mythos.
-- Annoncé dans la nuit du 7 avril, Claude Mythos Preview rebat les cartes des modèles que l'on connaissait jusqu'à présent.
-- Ce LLM d'un nouveau genre est le premier à surpasser (et de loin) les meilleurs experts en cybersécurité de la planète.
+- Afiq Sam - stock.adobe.com Ransomware : NightSpire, une opération à guichet fermé qui s'est ouverte Apparue début 2025, l'enseigne de rançongiciel NightSpire s'est initialement présentée sous les apparences d'une opération fermée, avant de manifester des signes d'ouvertures à un modèle RaaS.
+- Depuis sa première observation en février 2025, le groupe NightSpire s'est imposé comme une menace complexe et agile.
+- Contrairement aux acteurs traditionnels privilégiant le volume, NightSpire adopte une approche chirurgicale, ciblant spécifiquement des secteurs critiques tels que la fabrication, la finance et le transport maritime.
+- On lui connaît, à ce jour, un peu moins de 250 victimes revendiquées.
 
-## [Anthropic reporte la sortie de son nouveau modèle d'IA, le temps de corriger les failles](https://www.liberation.fr/economie/economie-numerique/cybersecurite-anthropic-reporte-la-sortie-de-son-nouveau-modele-dia-le-temps-de-corriger-les-failles-20260408_PAC66RPWMVHU7FY7JMZBQEBNTQ/)  
-*Source : liberation.fr | Publication : 2026-04-08*
+## [Bouclier LLM : sécurisez les prompts !](https://www.journaldunet.com/cybersecurite/1549395-bouclier-llm-securisez-les-prompts/)  
+*Source : journaldunet.com | Publication : 2026-04-09*
 
-- Anthropic a indiqué que Mythos avait initialement été conçu comme un modèle généraliste et pas comme un outil dédié à la cybersécurité.
-- «Notre but.
+- Bouclier LLM : sécurisez les prompts !.
+- Les LLM, devenus centraux dans les usages numériques, présentent des risques de cybersécurité désormais avérés et déjà exploités, longtemps sous-estimés.
+- Les modèles de langage de type LLM occupent désormais une place centrale dans les usages numériques, mais leur exposition croissante révèle des risques encore largement sous‑estimés.
+- Lorsque les premiers enjeux de cybersécurité liés à ces modèles ont émergé, ces scénarios étaient souvent perçus comme théoriques ou improbables.
