@@ -1,147 +1,157 @@
-# Résumés – 2026-04-10
+# Résumés – 2026-04-11
 
 
-## [️ La Bretagne, fer de lance de notre souveraineté numérique. En déplacement le préfet de ...](https://x.com/bretagnegouv/status/2042497893907435703)  
-*Source : x.com | Publication : 2026-04-10*
+## [Les banques alertées alors que l'IA anthropique puissante suscite des craintes en matière ...](https://fr.benzinga.com/latest-news/les-banques-alertees-alors-que-lia-anthropique-puissante-suscite-des-craintes-en-matiere-de-cybersecurite/)  
+*Source : fr.benzinga.com | Publication : 2026-04-11*
 
-- We’ve detected that JavaScript is disabled in this browser.
-- Please enable JavaScript or switch to a supported browser to continue using x.com.
-- You can see a list of supported browsers in our Help Center.
-- Help Center Terms of Service Privacy Policy Cookie Policy Imprint Ads info © 2026 X Corp.
+- Selon des informations, des responsables américains auraient averti des grandes banques au sujet d’un nouveau système d’intelligence artificielle puissant susceptible de révéler des failles critiques en matière de cybersécurité.
+- L’alerte a été donnée lors d’une réunion à huis clos à laquelle ont participé des régulateurs de haut rang et des dirigeants bancaires à Washington, rapporte le New York Times, suscitant des inquiétudes quant aux menaces émergentes liées à l’IA.
+- Les représentants du gouvernement signalent la hausse des risques liés à l’IA Le secrétaire au Trésor Scott Bessent s’est adressé aux dirigeants des principales banques au début de cette semaine.
+- La réunion comprenait des cadres de Bank of America Corporation (NYSE:BAC), Citigroup, Inc. (NYSE:C), et Wells Fargo & Company (NYSE:WFC).
 
-## [Réunion de responsables financiers américains au sujet de la nouvelle IA d'Anthropic](https://www.lesoir.be/740075/article/2026-04-10/reunion-de-responsables-financiers-americains-au-sujet-de-la-nouvelle-ia)  
-*Source : lesoir.be | Publication : 2026-04-10*
+## [Un faux RIB et 150 000 euros perdus : une notaire condamnée pour n'avoir pas vu l'arnaque](https://www.clubic.com/actualite-608536-un-faux-rib-et-150000-euros-perdus-une-notaire-condamnee-pour-n-avoir-pas-vu-l-arnaque.html)  
+*Source : clubic.com | Publication : 2026-04-11*
 
-- Une réunion de hauts responsables financiers américains s'est tenue cette semaine pour évaluer les implications en matière de cybersécurité du nouveau.
+- Une notaire vient d'être condamnée par la cour d'appel de Grenoble à verser 120 000 euros à un homme âgé, victime d'un virement exécuté depuis un faux RIB, que la juriste n'avait pas vérifié.
+- INFO Clubic.
+- C'est une affaire qui montre une fois de plus que la fraude au faux RIB peut régulièrement frapper les transactions notariales, qui sont souvent d'un montant très important.
+- Un homme âgé, victime d'une escroquerie au faux placement, avait remis sans le savoir un faux document à sa notaire.
 
-## [Pourquoi devriez-vous impérativement désactiver le Wi-Fi automatique quand vous sortez ...](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-devriez-vous-imperativement-desactiver-wi-fi-automatique-vous-sortez-chez-vous-24946/)  
-*Source : futura-sciences.com | Publication : 2026-04-10*
+## [Marc Randolph se souvient que Jeff Bezos riait comme une hyène et dit qu'il était ...](https://fr.benzinga.com/latest-news/marc-randolph-se-souvient-que-jeff-bezos-riait-comme-une-hyene-et-dit-quil-etait-extremement-impoli-cest-tres-maitrise-maintenant/)  
+*Source : fr.benzinga.com | Publication : 2026-04-11*
 
-- Vous sortez de chez vous, votre smartphone en poche.
-- Sans que vous le sachiez, il scrute en permanence l'environnement à la recherche de réseaux Wi-Fi qu'il a déjà utilisés.
-- Dès qu'il en détecte un, il s'y connecte automatiquement.
-- Cette fonction, censée vous simplifier la vie, peut vous exposer à des risques.
+- Marc Randolph, cofondateur de Netflix, partage un souvenir vif de la fougue et de l’enthousiasme de Jeff Bezos au début des années de formation de la vidéo en ligne.
+- Premières impressions sur Jeff Bezos en 1999 Lors d’une interview en 2024 sur The Diary of a CEO, Randolph a rappelé sa rencontre avec le fondateur d’Amazon.com, Inc., Jeff Bezos, aux premiers jours de Netflix.
+- “[Il était] extrêmement brut… maintenant, je veux dire qu’il est vraiment musclé et qu’il est très réfléchi et quelqu’un a définitivement travaillé sur son rire.
+- Il est maintenant très contrôlé”, a déclaré Randolph.
 
-## [S&amp;P 500 - Les actions à suivre vendredi: secteur de la <b>cybersécurité</b>, Coreweave,](https://www.abcbourse.com/marches/sp-500--les-actions-a-suivre-vendredi-secteur-de-la-cybersecurite-coreweave-_694602)  
-*Source : abcbourse.com | Publication : 2026-04-10*
+## [Un outil d'IA américain alarme l'autorité allemande chargée de la <b>cybersécurité</b>](https://www.deutschland.de/fr/news/un-outil-dia-americain-alarme-lautorite-allemande-chargee-de-la-cybersecurite)  
+*Source : deutschland.de | Publication : 2026-04-11*
 
-- (Agefi-Dow Jones)--Voici un tour d'horizon des valeurs à suivre à Wall Street vendredi.
-- -ZSCALER (-1,1% vers 15h50), CLOUDFLARE (-4,8%), OKTA (-0,9%): les spécialistes de la cybersécurité poursuivent leur repli après avoir essuyé de lourdes pertes jeudi en raison d'un regain de craintes liées à la puissance des nouveaux outils d'intelligence artificielle (IA) pour coder et déjouer les sécurités informatiques.
-- L'agence Bloomberg a rapporté vendredi que le secrétaire au Trésor américain Scott Bessent et le président de la Réserve fédérale (Fed) Jerome Powell avaient convoqué des responsables d'institutions financières de Wall Street à une réunion d'urgence, craignant que le dernier modèle d'intelligence artificielle d'Anthropic, Claude Mythos, n'augmente les risques pour la cybersécurité.
-- -COREWEAVE (+5,1%): le fournisseur d'infrastructures cloud grimpe après avoir annoncé un accord de partenariat de deux ans avec Anthropic pour fournir de la capacité de calcul à l'outil d'IA Claude.
+- Un outil d'IA américain alarme l'autorité allemande chargée de la cybersécurité Un modèle d'IA développé par la société américaine Anthropic détecte les failles de sécurité dans les logiciels.
+- L'autorité allemande chargée de la cybersécurité met en garde contre les conséquences.
+- Berlin (dpa, d.de) - La société américaine Anthropic a présenté « Claude Mythos », un modèle d'IA capable de détecter de manière autonome les failles dans les logiciels.
+- L'Office fédéral allemand pour la sécurité informatique (BSI) s'attend à des répercussions considérables sur le paysage des cybermenaces.
 
-## [Claude Mythos d'Anthropic fait plonger les acteurs de la <b>cybersécurité</b> - 10/04/2026 à 20:21](https://www.boursorama.com/bourse/actualites-amp/claude-mythos-d-anthropic-fait-plonger-les-acteurs-de-la-cybersecurite-ec4bb50cc3c04f9154628607f7b2643c)  
-*Source : boursorama.com | Publication : 2026-04-10*
+## [déclare Ould Djojo le mari de la député Marième Cheikh - Cridem](http://www.cridem.org/C_Info.php?article=792467)  
+*Source : cridem.org | Publication : 2026-04-11*
 
-- Claude Mythos d'Anthropic fait plonger les acteurs de la cybersécurité information fournie par Zonebourse 10/04/2026 à 20:21 Les investisseurs sanctionnent les spécialistes de la cybersécurité, inquiets de voir l'IA accélérer la découverte de vulnérabilités et fragiliser certains outils traditionnels.
-- Les valeurs américaines de la cybersécurité chutent lourdement en Bourse depuis mercredi après les annonces d'Anthropic sur Claude Mythos Preview, un modèle d'intelligence artificielle jugé suffisamment puissant pour justifier un accès très encadré.
-- Le groupe a expliqué que l'outil était capable d'identifier des milliers de vulnérabilités logicielles, parfois anciennes, et que son ouverture au grand public présentait des risques élevés d'usage malveillant.
-- La réaction du marché a été brutale.
+- 11-04-2026 18:49 - « Nous avons une justice à deux poids deux mesures », déclare Ould Djojo le mari de la député Marième Cheikh.
+- Suite à l’arrestation de la députée Marième Mint Cheikh, dans la nuit du vendredi 10 avril 2026 avec son bébé de 3 mois, son mari, Ould Djojo a diffusé une vidéo dans laquelle, il déclare s’être présenté à la Cybercriminalité pour s’enquérir de la situation de son épouse et de son enfant.
+- Selon lui, il a été empêché de les rencontrer, bien que le bébé devrait prendre ses médicaments qui lui sont prescrits avec usage quotidien.
+- Promesse lui aurait été donnée qu’il pourra être informé plus tard de leur état.
 
-## [Dossier santé numérique | Choc frontal entre Santé Québec et le gouvernement - LaPresse.ca](https://www.lapresse.ca/actualites/politique/2026-04-10/dossier-sante-numerique/choc-frontal-entre-sante-quebec-et-le-gouvernement.php)  
-*Source : lapresse.ca | Publication : 2026-04-10*
+## [Apple Pay : un faux appel piège les utilisateurs d'iPhone et vide leurs comptes - 24matins](https://www.24matins.fr/apple-pay-un-faux-appel-piege-les-utilisateurs-diphone-et-vide-leurs-comptes-1405844)  
+*Source : 24matins.fr | Publication : 2026-04-11*
 
-- Dossier santé numérique Choc frontal entre Santé Québec et le gouvernement (Québec) Choc frontal entre Santé Québec et le gouvernement caquiste au sujet du Dossier santé numérique (DSN) : la société d’État recommande de donner le feu vert au déploiement de la phase pilote du projet informatique tandis que Québec donne un coup de frein.
-- Le ministre de la Cybersécurité et du Numérique a lancé la charge en accordant une entrevue coup de poing à Radio-Canada jeudi.
-- Gilles Bélanger affirme que le DSN n’est pas mûr pour être lancé comme prévu le 9 mai dans les établissements du Nord-de-l’Île-de-Montréal et en Mauricie – Centre-du-Québec.
-- « Nos données de santé ne sont pas du tout en sécurité », a-t-il confié à Radio-Canada, admettant que sa sortie allait créer des remous.
+- Apple Pay : un faux appel piège les utilisateurs d’iPhone et vide leurs comptes Un nouveau type d’arnaque cible les utilisateurs d’Apple Pay en les incitant à répondre à leur iPhone.
+- Cette technique sophistiquée exploite la confiance des victimes pour accéder à leurs données bancaires, suscitant l’inquiétude des experts en cybersécurité.
+- Tl;dr Des escroqueries visent les utilisateurs d’Apple Pay avec de faux messages d’alerte sur des problèmes de compte.
+- - Les victimes sont incitées à appeler de faux numéros où des fraudeurs se font passer pour Apple ou des autorités afin de les manipuler.
 
-## [Claude Mythos d'Anthropic fait plonger les acteurs de la <b>cybersécurité</b> - BFM Bourse](https://www.tradingsat.com/actualites/informations-societes/claude-mythos-d-anthropic-fait-plonger-les-acteurs-de-la-cybersecurite-1160330.html)  
-*Source : tradingsat.com | Publication : 2026-04-10*
+## [GITEX Africa 2026 : l'ANINF promeut la résilience du Gabon en <b>cybersécurité</b> -](https://gabonactu.com/blog/2026/04/11/gitex-africa-2026-laninf-promeut-la-resilience-du-gabon-en-cybersecurite/)  
+*Source : gabonactu.com | Publication : 2026-04-11*
 
-- (Zonebourse.com) - Les investisseurs sanctionnent les spécialistes de la cybersécurité, inquiets de voir l'IA accélérer la découverte de vulnérabilités et fragiliser certains outils traditionnels.
-- Les valeurs américaines de la cybersécurité chutent lourdement en Bourse depuis mercredi après les annonces d'Anthropic sur Claude Mythos Preview, un modèle d'intelligence artificielle jugé suffisamment puissant pour justifier un accès très encadré.
-- Le groupe a expliqué que l'outil était capable d'identifier des milliers de vulnérabilités logicielles, parfois anciennes, et que son ouverture au grand public présentait des risques élevés d'usage malveillant.
-- La réaction du marché a été brutale.
+- Chargée du développement, de la sécurisation et de la régulation des infrastructures numériques au Gabon, l’Agence nationale des infrastructures numériques et des fréquences (ANINF), à travers son Directeur général, Alberto Wenclas Mounguegui Moudoki, a vulgarisé la résilience du pays face aux enjeux de cybersécurité lors du forum GITEX Africa 2026, tenu le 8 avril 2026 à Marrakech, au Maroc.
+- Cette plateforme d’échanges stratégique sur cette question majeure a réuni des décideurs publics, des experts technologiques ainsi que des acteurs de l’innovation.
+- L’objectif était de repenser les politiques numériques africaines et de consolider les coopérations en matière de cybersécurité.
+- « Bâtir un cyberespace sûr n’est plus une option, mais une exigence stratégique au service de la souveraineté des États, de la continuité des services essentiels et de la confiance numérique », a déclaré M. Mounguegui Moudoki lors d’un panel consacré à la résilience numérique et à la souveraineté technologique en Afrique.
 
-## [IA : l'administration Trump alerte les banques face à la menace Mythos, le nouveau modèle ...](https://www.lesechos.fr/finance-marches/banque-assurances/ia-ladministration-trump-alerte-les-banques-face-a-la-menace-mythos-le-nouveau-modele-danthropic-2225779)  
-*Source : lesechos.fr | Publication : 2026-04-10*
+## [Frédéric Nakhlé (EMEA Horizon3.ai Europe) : EMEA Horizon3.ai, plateforme de <b>cybersécurité</b> - 11/04](https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-frederic-nakhle-emea-horizon3-ai-europe-emea-horizon3-ai-plateforme-de-cybersecurite-11-04_VN-202604110306.html)  
+*Source : bfmtv.com | Publication : 2026-04-11*
 
-- Capable de détecter des failles critiques, cette technologie suscite des inquiétudes sur la cybersécurité du système financier.
+- Frédéric Nakhlé (EMEA Horizon3.ai Europe) : EMEA Horizon3.ai, plateforme de cybersécurité - 11/04 BFM BUSINESS PARTENAIRE - Ce samedi 11 avril, Frédéric Nakhlé, directeur EMEA Horizon3.ai Europe, est revenu sur une plateforme de cybersécurité qui offre aux entreprises une vision offensive des attaques de hackers en réalisant des pentest autonomes dans l'émission Paroles d'entreprises présentée par Vincent Touraine.
+- Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business.
+- Cette émission a été réalisée par notre partenaire Médias France.
+- | Durée : 3:47.
 
-## [Anthropic et OpenAI restreignent la diffusion de leurs modèles d'IA les plus performants en ...](https://www.bfmtv.com/tech/intelligence-artificielle/anthropic-et-open-ai-restreignent-la-diffusion-de-leurs-modeles-d-ia-les-plus-performants-en-cybersecurite-ils-pourraient-devenir-de-veritables-menaces-entre-de-mauvaises-mains-ou-s-ils-etaient-copies_AN-202604100773.html)  
-*Source : bfmtv.com | Publication : 2026-04-10*
+## [20 à 30 cambriolages suite au vol de données à la Fédération Française de Tir](https://www.lechasseurfrancais.com/chasse/20-a-30-cambriolages-suite-au-vol-de-donnees-a-la-federation-francaise-de-tir-159745.html)  
+*Source : lechasseurfrancais.com | Publication : 2026-04-11*
 
-- Anthropic et OpenAI restreignent la diffusion de leurs modèles d’IA les plus performants en cybersécurité, ils pourraient devenir de véritables menaces entre de mauvaises mains… ou s’ils étaient copiés Anthropic, la maison mère du chatbot Claude, a récemment décidé de limiter la diffusion de son tout dernier modèle, baptisé Mythos.
-- En cause, ses capacités jugées trop avancées en matière de détection de failles de sécurité dans des logiciels utilisés à grande échelle.
-- Plutôt que de le rendre accessible au grand public, l’entreprise a choisi une approche beaucoup plus prudente.
-- Le modèle ne sera donc partagé qu’avec un cercle restreint de grandes entreprises et d’organisations opérant des infrastructures critiques, comme Amazon Web Services ou JPMorgan Chase.
+- 20 à 30 cambriolages suite au vol de données à la Fédération Française de Tir Mis à jour le 11 avril 2026Laurent Nuñez, ministre de l’Intérieur, confirme le vol de données suite à la cyberattaque de la Fédération Française de Tir a conduit à plusieurs cambriolages.
+- Une député attire l’attention sur la protection des données sensibles.
+- Mercredi, Sophie Blanc, député RN de la 1ere circonscription des Pyrénées-Orientales s’interroge sur la protection des données sensibles relatives aux détenteurs d'armes à feu.
+- Laurent Nuñez, ministre de l’Intérieur, lui répond et confirme que le vol des données à la FFT a conduit à des cambriolages.
 
-## [Des hackers iraniens s'attaquent aux usines et stations d'eau américaines - Korben](https://korben.info/des-hackers-iraniens-sattaquent-aux-usines-et-stations-deau-americaines.html)  
-*Source : korben.info | Publication : 2026-04-10*
+## [Mythos: une IA &quot;trop dangereuse&quot; pour le public? | Décrypteurs - YouTube](https://www.youtube.com/watch?v=RTtxW2EPMb8)  
+*Source : youtube.com | Publication : 2026-04-11*
 
-- Des hackers iraniens s'attaquent aux usines et stations d'eau américaines Ce qu’il faut retenir Des hackers iraniens (CyberAv3ngers) scannent internet pour trouver des contrôleurs Rockwell Automation exposés et prennent le contrôle des vannes, pompes et turbines des stations d'eau et centrales énergétiques américaines depuis mars 2026.
-- - Le groupe déploie des malwares "wiper" pour effacer les données et force des arrêts de production manuels, causant des pertes financières aux opérateurs d'eau, d'énergie et collectivités locales.
-- - Six agences fédérales (FBI, CISA, NSA, EPA, Énergie, Cyber Command) ordonnent de déconnecter immédiatement tous les automates industriels d'internet, car des équipements critiques restent accessibles sur les ports 44818, 2222, 102 et 502.
-- - Résumé généré par IA Le FBI, la CISA, la NSA, l'EPA, le département de l'Énergie et le Cyber Command américain ont publié un avis conjoint qui ne laisse pas beaucoup de place au doute.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [<b>Cybersécurité</b> : Mythos, la nouvelle IA qui sonne le réveil pour les entreprises européennes](https://www.lopinion.fr/economie/cybersecurite-mythos-la-nouvelle-ia-qui-sonne-le-reveil-pour-les-entreprises-europeennes)  
-*Source : lopinion.fr | Publication : 2026-04-10*
+## [Plus qu'un VPN ? Surfshark transforme son offre en pack <b>cybersécurité</b> complet](https://www.lesnumeriques.com/vpn/plus-qu-un-vpn-surfshark-transforme-son-offre-en-pack-cybersecurite-complet-n254197.html)  
+*Source : lesnumeriques.com | Publication : 2026-04-11*
 
-- Cybersécurité : Mythos, la nouvelle IA qui sonne le réveil pour les entreprises européennes On dirait un scénario de science-fiction : l’apparition d’une IA si puissante qu’elle ne peut pas être rendue publique.
-- Si la réalité est plus nuancée que cela, c’est du moins la nouvelle qui secoue le monde de la tech depuis quelques jours.
-- Fin mars, une erreur informatique a divulgué des documents d’Anthropic, l’entreprise d’intelligence artificielle américaine de Dario Amodei.
-- Parmi ces informations, une note a retenu l’attention du public : « Mythos », une IA particulièrement performante, serait en cours de développement.
+- Plus qu’un VPN ?.
+- Surfshark transforme son offre en pack cybersécurité complet Surfshark : plus qu’un VPN, un pack cybersécurité completSurfshark ne se limite plus à un simple VPN.
+- Selon la formule choisie, le service propose également plusieurs outils destinés à protéger l’identité, sécuriser les appareils et renforcer la protection des données personnelles.
+- Bonne nouvelle : une réduction jusqu’à 88 % permet actuellement de profiter du service à prix mini.
 
-## [Les nouvelles financières du vendredi 10 avril - Les Affaires](https://www.lesaffaires.com/bourse/actualites-boursieres/les-nouvelles-financieres-du-vendredi-10-avril/)  
-*Source : lesaffaires.com | Publication : 2026-04-10*
+## [Le réseau de laboratoires d'analyses médicales Cerballiance a été victime d'une ...](https://www.sudouest.fr/economie/cybersecurite/le-reseau-de-laboratoires-d-analyses-medicales-cerballiance-a-ete-victime-d-une-cyberattaque-fin-mars-28648181.php)  
+*Source : sudouest.fr | Publication : 2026-04-11*
 
-- Les nouvelles financiÃ¨res du vendredi 10 avril Ãquipe Investir De Les Affaires|PubliÃ© Ã 8h06(Illustration: Camille Charbonneau) Les nouvelles du marchÃ© Anthropic: risque de cybersÃ©curitÃ©.
-- Le secrÃ©taire au TrÃ©sor amÃ©ricain, Scott Bessent, et le prÃ©sident de la RÃ©serve fÃ©dÃ©rale, Jerome Powell, auraient convoquÃ© cette semaine une rÃ©union urgente avec les directeurs gÃ©nÃ©raux des grandes banques amÃ©ricaines afin de les mettre en garde contre les cyberrisques associÃ©s au dernier modÃ¨le dâIA de Anthropic.
-- La start-up a dÃ©voilÃ© au dÃ©but de la semaine son modÃ¨le Mythos, mais sâest abstenue de le lancer Ã grande Ã©chelle, redoutant quâil nâexpose de nouvelles failles de cybersÃ©curitÃ©.
-- La rÃ©union vise Ã avertir les banques des risques potentiels afin quâelles prennent les mesures nÃ©cessaires pour dÃ©fendre leur base de donnÃ©es, selon Reuters.
+- Le réseau de laboratoires Cerballiance a subi une intrusion informatique sur un serveur externe, exposant les données personnelles de certains patients Le réseau de laboratoires de biologie médicale Cerballiance en France a annoncé vendredi avoir été victime fin mars d’une attaque informatique ayant entraîné « un accès non autorisé » à des données personnelles de « certains de ses patients ».
+- Cet accès s’est « produit sur un serveur hébergé par son prestataire informatique », indique le réseau regroupant 700 laboratoires d’analyses médicales en France, confirmant une information du journal « Le Parisien ».
 
-## [Jabaroot revendique une nouvelle cyberattaque visant la CNOPS - TelQuel](https://mobile.telquel.ma/2026/04/10/jabaroot-revendique-une-nouvelle-cyberattaque-visant-la-cnops_1983630)  
-*Source : mobile.telquel.ma | Publication : 2026-04-10*
+## [Un ministre sonne l'alarme sur le Dossier santé numérique : un « chaos » dénoncé à Québec](https://ici.radio-canada.ca/nouvelle/2245274/ministre-belanger-dsn-opposition-quebec)  
+*Source : ici.radio-canada.ca | Publication : 2026-04-11*
 
-- Une attaque qui intervient exactement un an après la cyberattaque contre la CNSS, et qui illustre la persistance des failles de cybersécurité au sein.
+- Un ministre sonne l’alarme sur le Dossier santé numérique : un « chaos » dénoncé à Québec L'opposition demande d'annuler le lancement du Dossier santé numérique, le 9 mai.
+- Santé Québec tente de se faire rassurante.
+- Le ministre de la Cybersécurité et du Numérique, Gilles Bélanger, a sonné l'alarme au sujet de la sécurité des données du Dossier santé numérique.
+- (Photo d'archives) Photo : Radio-Canada / Ivanoh Demers Les inquiétudes exprimées par le ministre de la Cybersécurité et du Numérique, Gilles Bélanger, incitent les partis d'opposition et les syndicats à exiger le report du déploiement du Dossier santé numérique (DSN), prévu dans un mois.
 
-## [AWS S3 Files monte les buckets en système de fichiers réseau - IT SOCIAL](https://itsocial.fr/cloud-infrastructure-it/cloud-infrastructure-it-actualites/aws-s3-files-monte-les-buckets-en-systeme-de-fichiers-reseau-security-agent-exploite-les-vulnerabilites-pour-en-confirmer-la-realite/)  
-*Source : itsocial.fr | Publication : 2026-04-10*
+## [La Tunisie accueille African Lion 2026, vitrine de sa coopération sécuritaire avec Washington](https://www.webdo.tn/fr/actualite/national/la-tunisie-accueille-african-lion-2026-vitrine-de-sa-cooperation-securitaire-avec-washington/396047/)  
+*Source : webdo.tn | Publication : 2026-04-11*
 
-- AWS a présenté lors de son Summit deux annonces dont la portée dépasse le cycle ordinaire des mises à jour produits.
-- S3 Files élargit le service de stockage objet à un accès système de fichiers réseau, sans migration des données existantes.
-- En cybersécurité, AWS déploie Claude Mythos Preview via Amazon Bedrock et passe AWS Security Agent en disponibilité générale.
-- L’outil teste activement les vulnérabilités identifiées pour en confirmer la réalité avant toute remontée d’alerte.
+- La Tunisie accueillera du 13 au 29 avril 2026 une partie de l’exercice multinational African Lion 2026, organisé en coopération avec les forces américaines en Afrique.
+- Pour la neuvième année consécutive, l’armée nationale prend part à cette vaste manœuvre qui réunit militaires tunisiens, américains ainsi que plusieurs contingents et observateurs de pays partenaires.
+- L’objectif affiché est de muscler l’interopérabilité, la réponse aux crises d’urgence et la lutte contre les menaces transfrontalières.
+- Des manœuvres terrestres, aériennes et navales à grande échelle Le programme de cette 22e édition prévoit des entraînements combinés sur les volets terrestre, aérien et naval, dans plusieurs spécialités opérationnelles.
 
-## [bataille de la <b>cybersécurité</b> », la CIA va déployer des « collègues » IA aux côtés de ses agents](https://www.01net.com/actualites/bataille-cybersecurite-cia-deployer-collegues-ia-cotes-agents.html)  
-*Source : 01net.com | Publication : 2026-04-10*
+## [Idées | Au-delà des vœux pieux, il y a urgence d'agir pour notre souveraineté numérique](https://www.ledevoir.com/opinion/idees/971132/dela-voeux-pieux-il-y-urgence-agir-notre-souverainete-numerique)  
+*Source : ledevoir.com | Publication : 2026-04-11*
 
-- L’année dernière, la Central Intelligence Agency (CIA) a comptabilisé plus de 300 projets d’IA et, pour la première fois de son histoire, elle a mobilisé l’intelligence artificielle pour générer un rapport de renseignement complet.
-- Au cours de ces prochaines années, l’agence d’espionnage américaine compte implanter l’intelligence artificielle au cœur de son processus de travail, notamment en intégrant des agents IA qui travailleront aux côtés des agents humains de la CIA.
-- De nouveaux collègues IA La CIA compte développer le nombre d’agents IA en son sein.
-- Lors d’une conférence dédiée à l’IA, Michael Ellis, directeur adjoint de la CIA, a défini ces travailleurs d’un nouveau genre comme des « collègues » propulsés par l’intelligence artificielle.
+- Le récent rapport de la Commission d’enquête sur la gestion de la modernisation des systèmes informatiques de la Société de l’assurance automobile du Québec sur les déboires du projet SAAQclic a eu l’effet d’un électrochoc.
+- Le ministère de la Cybersécurité et du Numérique (MCN) a rendu public, juste avant la publication du rapport, son « Énoncé de politique de souveraineté numérique ».
+- Avec sa sortie publique du 10 avril sur le Dossier santé numérique (DSN), le ministre fait plusieurs révélations et mises en garde avec lesquelles nous ne pouvons qu’être d’accord.
+- Cesser de financer notre propre dépendance Depuis 20 ans, les avertissements du Vérificateur général du Québec s’accumulent et sont ignorés.
 
-## [Cisco acquiert Galileo - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/64712-cisco-acquiert-galileo.html)  
-*Source : linformaticien.com | Publication : 2026-04-10*
+## [E-Blagh ou comment la DGSN a mis le signalement des contenus illicites en ligne à portée ... - Le360](https://fr.le360.ma/societe/e-blagh-ou-comment-la-dgsn-a-mis-le-signalement-des-contenus-illicites-en-ligne-a-portee-de-clic-de_OJ63JWEI5ZDSXFYOL576TUZZSM/)  
+*Source : fr.le360.ma | Publication : 2026-04-11*
 
-- Pour renforcer la supervision de l'agentique sur la plate-forme de Splunk, Cisco avale Galileo, une solution nativement Cloud d'observabilité.
+- Depuis le lancement, en juin 2024, de la plateforme numérique E-Blagh, dédiée au signalement de contenus illicites sur internet.
+- Un total d’environ 30.000 signalement a été reçu.
+- Un chiffre qui dit, mieux que tout discours, l’ancrage progressif de l’outil dans les habitudes numériques des Marocains.
+- C’est la commissaire divisionnaire Layla Ezzouine, cheffe du service numérique forensique et imagerie à la Direction de la police judiciaire à la DGSN, qui nous a communiqué ce bilan, en détaillant le fonctionnement d’un dispositif conçu de bout en bout par les équipes techniques de la Direction générale, sans recours à un prestataire extérieur.
 
-## [Coreweave va fournir Anthropic en ressources Cloud - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/biz-it/64711-coreweave-va-fournir-anthropic-en-ressources-cloud.html)  
-*Source : linformaticien.com | Publication : 2026-04-10*
+## [Mythos, l'IA trop dangereuse qu'Anthropic refuse de vendre - L'Essentiel de l'Éco](https://lessentieldeleco.fr/6697-mythos-lia-trop-dangereuse-quanthropic-refuse-de-vendre/)  
+*Source : lessentieldeleco.fr | Publication : 2026-04-11*
 
-- LES DOSSIERS CYBERSECURITE.
-- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Biz'IT · Coreweave va fournir Anthropic en.
+- Afficher le sommaire Masquer le sommaire Anthropic a développé un modèle d’intelligence artificielle qu’elle a délibérément choisi de ne pas commercialiser.
+- En cause : des capacités en cybersécurité jugées trop redoutables.
+- Le Claude Mythos Preview a identifié des milliers de failles logicielles, dont certaines dormaient depuis des décennies dans des systèmes parmi les plus utilisés au monde.
+- Pour contenir les risques que représente un tel outil entre de mauvaises mains, Anthropic a mis sur pied le projet Glasswing.
 
-## [<b>Ransomware</b> : quand le négociateur se fait corrompre, c'est l'entreprise qui trinque - JDN](https://www.journaldunet.com/cybersecurite/1549469-ransomware-quand-le-negociateur-devient-ripoux-c-est-l-entreprise-qui-paye/)  
-*Source : journaldunet.com | Publication : 2026-04-10*
+## [Bitdefender à 25 € : pourquoi cet antivirus premium reste une référence en 2026](https://www.lesnumeriques.com/antivirus/bitdefender-a-25-pourquoi-cet-antivirus-premium-reste-une-reference-en-2026-n254128.html)  
+*Source : lesnumeriques.com | Publication : 2026-04-11*
 
-- Ransomware : quand le négociateur se fait corrompre, c'est l'entreprise qui trinque Les criminels proposent aux négociateurs une commission s'ils convainquent leurs clients de payer davantage pour récupérer leurs données.
-- Après avoir frappé une organisation avec un ransomware, les cybercriminels n’hésitent désormais plus à soudoyer les négociateurs pour les rallier à leur camp.
-- Et ils ont des arguments sonnants et trébuchants : une récompense financière s’ils parviennent à convaincre leur client de verser une somme supérieure à celle initialement exigée pour récupérer les données.
-- "Nous avons déjà vu cette situation", confirme Jeff Wichman, ancien négociateur de rançons et aujourd'hui directeur de la réponse aux incidents chez Semperis.
+- Bitdefender à 25 € : pourquoi cet antivirus premium reste une référence en 2026 ?.
+- Bitdefender propose actuellement son offre Antivirus Plus en promotion à 25 € la première année au lieu de 49,99 €.
+- Une belle opportunité à saisir pour profiter d’une protection premium complète à moindre coût.
+- Acteur incontournable de la cybersécurité, Bitdefender s’est imposé au fil des années comme l’un des éditeurs d’antivirus les plus fiables du marché.
 
-## [Dynatrace rachète Bindplane - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/64708-dynatrace-rachete-bindplane.html)  
-*Source : linformaticien.com | Publication : 2026-04-10*
+## [Le Nasdaq grappille 0,14% à 25 116 points : Marvell s'envole, Palo Alto plonge](https://www.ideal-investisseur.fr/bourse-cryptos/le-nasdaq-grappille-0-14-a-25-116-points-marvell-s-envole-palo-alto-plonge-33421.html)  
+*Source : ideal-investisseur.fr | Publication : 2026-04-11*
 
-- Ransomware : les jours d'après · Biz'IT · Dynatrace rachète Bindplane.
-- Détails: Bertrand Garé: 10 avril 2026.
-- L'éditeur de solutions d'observabilité a.
+- Le Nasdaq grappille 0,14% à 25 116 points : Marvell s'envole, Palo Alto plonge Le Nasdaq Composite a terminé en légère hausse de 0,14% vendredi 10 avril, à 25 116,34 points, dans une séance de fin de semaine sans catalyseur majeur.
+- L'indice technologique américain affiche un bilan contrasté, porté par un rebond spectaculaire des semi-conducteurs tandis que les valeurs de cybersécurité ont subi de lourdes pressions.
+- Cette clôture prudente reflète un marché américain qui avance à petits pas, entre attentisme et arbitrages sectoriels.
+- Les semi-conducteurs mènent la danse, Marvell brille Les fabricants de puces ont nettement dominé la cote vendredi, s'imposant comme les principaux contributeurs à la progression du Nasdaq.
 
-## [<b>Cybersécurité</b> nationale : une feuille de route alignée sur la réalité des menaces - LeMagIT](https://www.lemagit.fr/actualites/366641619/Cybersecurite-nationale-une-feuille-de-route-alignee-sur-la-realite-des-menaces)  
-*Source : lemagit.fr | Publication : 2026-04-10*
+## [Que disent les experts en <b>cybersécurité</b> à propos du lien vers le « dark web - Vietnam.vn](https://www.vietnam.vn/fr/chuyen-gia-an-ninh-mang-noi-gi-ve-duong-link-web-den-trong-sach-bai-tap-lop-3)  
+*Source : vietnam.vn | Publication : 2026-04-11*
 
-- viperagp - stock.adobe.com Cybersécurité nationale : une feuille de route alignée sur la réalité des menaces La feuille de route de la cybersécurité de l’État pour la période 2026-2027 apparaît ancrée dans la réalité des menaces actuelles, avec notamment un accent sur la sécurité des identités et des accès, ainsi que sur la détection.
-- La feuille de route de la cybersécurité de l’État pour la période 2026-2027 vient d’être publiée.
-- Elle marque un tournant dans la gestion des risques publics.
-- Face à la persistance de vulnérabilités graves, illustrée par les « multiples intrusions et fuites de données qui ont affecté en 2025 les systèmes d’information des ministères et des établissements dont ils ont la tutelle », l’administration accélère sa transformation pour répondre aux exigences européennes.
+- L'incident a suscité l'inquiétude des parents.
+- Récemment, de nombreux parents se sont plaints qu'un exercice du manuel d'informatique de 3e année exigeait des élèves qu'ils cliquent sur un lien pour s'exercer à la recherche vidéo.
+- Or, une fois cliqué, le site web affiche du contenu pour adultes, totalement inapproprié pour des élèves du primaire.
+- D'après les informations recueillies, le lien se trouve à la question 3, page 59 du cahier d'exercices.
