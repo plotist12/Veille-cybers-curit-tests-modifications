@@ -1,156 +1,149 @@
-# Résumés – 2026-04-15
+# Résumés – 2026-04-16
 
 
-## [Kaspersky consolide son réseau de distribution - ITRnews](https://itrnews.com/articles/209502/kaspersky-consolide-son-reseau-de-distribution.html)  
-*Source : itrnews.com | Publication : 2026-04-15*
+## [Cyberattaque: les données de 130.000 anciens étudiants de l'université d'Angers compromises](https://www.lefigaro.fr/conjoncture/des-donnees-personnelles-piratees-sur-une-plateforme-de-l-universite-d-angers-20260416)  
+*Source : lefigaro.fr | Publication : 2026-04-16*
 
-- Veuillez activer Javascript.
+- Cyberattaque: les données de 130.000 anciens étudiants de l’université d’Angers compromises La plateforme de gestion du réseau alumni de l’université a été attaquée, occasionnant la fuite potentielle de presque 130.000 contacts, selon l’université.
+- Passer la publicité Passer la publicitéLa plainte déposée mercredi par l'université d'Angers après une cyberattaque a été transmise à «la section de lutte contre la cybercriminalité du parquet de Paris», a-t-on appris jeudi auprès du ministère public.
+- L'université a été victime «d'un incident de sécurité affectant la plateforme AlumnForce, utilisée par l'établissement pour la gestion de son réseau alumni», c'est-à-dire d'anciens élèves, sans que le système d'information de l'université soit concerné, a-t-elle indiqué jeudi soir à l'AFP.
+- L'université a notamment averti la Commission nationale de l'informatique et des libertés (Cnil) et une plainte a été déposée.
 
-## [Cyberattaque à l'Éducation nationale : une compromission ciblée expose des données d'élèves](https://www.solutions-numeriques.com/cyberattaque-a-leducation-nationale-une-compromission-ciblee-expose-des-donnees-deleves/)  
-*Source : solutions-numeriques.com | Publication : 2026-04-15*
+## [Autovista mis hors-jeu par une cyberattaque - Le Journal de l'Automobile](https://journalauto.com/services/autovista-mis-hors-jeu-par-une-cyberattaque/)  
+*Source : journalauto.com | Publication : 2026-04-16*
 
-- Une attaque exploitant l’usurpation d’un compte habilité et une faille technique corrigée a conduit à une fuite de données d’élèves.
-- Si les comptes activés restent sécurisés, l’incident révèle une propagation plus large que prévu et mobilise désormais autorités et services de l’État.
-- Une attaque combinant usurpation d’identité et faille technique Le ministère de l’Éducation nationale a été victime d’une cyberattaque ciblée ayant conduit à la fuite de données personnelles d’élèves, dont le volume exact reste à déterminer.
-- L’incident trouve son origine dans l’usurpation du compte d’un personnel habilité, intervenue à la fin de l’année 2025.
+- Autovista mis hors jeu par une cyberattaque Publié le 16 avril 2026 Autovista est à l'arrêt.
+- La société qui fournit des données techniques et de marché pour les acteurs du secteur automobile fait l'objet d'une attaque malveillante de type rançongiciel.
+- L'information a été rendue officielle, le 14 avril 2026, sur le site internet officiel.
+- "Nous réagissons actuellement à une attaque de type ransomware qui affecte certains systèmes d'Autovista en Europe et en Australie, peut-on lire sur la page dédiée à l'incident.
 
-## [GPT-5.4-Cyber : la réponse d'OpenAI à Claude Mythos analyse les logiciels sans code source](https://www.clubic.com/actualite-609139-gpt-5-4-cyber-la-reponse-d-openai-a-claude-mythos-analyse-les-logiciels-sans-code-source.html)  
-*Source : clubic.com | Publication : 2026-04-15*
+## [Vols de données : nos vies piratées ? | Chaque voix compte - 16/04/26 - YouTube](https://www.youtube.com/watch?v=0SmYpTDV-80)  
+*Source : youtube.com | Publication : 2026-04-16*
 
-- Le géant de l'IA a répondu à l'attaque que représente le dernier modèle Claude Mythos d'Anthropic.
-- Une réponse qui prend la forme d'un nouveau modèle GPT-5.4 Cyber.
-- On a beaucoup parlé ces derniers jours du dernier modèle IA d'Anthropic, Claude Mythos, qui serait tellement puissant que l'entreprise de Dario Amodei ne pouvait le rendre public.
-- Sa dangerosité ?.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [GPT‑5.4‑Cyber : OpenAI lance son IA pour la <b>cybersécurité</b> et contrer Claude Mythos](https://kulturegeek.fr/news-350704/gpt-5-4-cyber-openai-lance-ia-cybersecurite-contrer-claude-mythos)  
-*Source : kulturegeek.fr | Publication : 2026-04-15*
+## [<b>Cybersécurité</b>: Ottawa lance des fleurs à Gatineau et des messages à Québec - Le Droit](https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/04/16/cybersecurite-ottawa-lance-des-fleurs-a-gatineau-et-des-messages-a-quebec-B46YJOSASRDDDBW3R4TYAOOS2A/)  
+*Source : ledroit.com | Publication : 2026-04-16*
 
-- OpenAI a dévoilé GPT-5.4-Cyber, une variante de son modèle GPT-5.4 spécifiquement entraînée pour les usages de cybersécurité défensive.
-- Son accès est réservé à des professionnels vérifiés et sa diffusion reste délibérément restreinte.
-- Cela arrive quelques jours à peine après le lancement de Claude Mythos, un modèle d’intelligence artificielle d’Anthropic là aussi pour la cybersécurité.
-- GPT-5.4-Cyber se distingue de son modèle parent par deux caractéristiques principales : des restrictions de capacité allégées pour les cas d’usage légitimes et de nouvelles fonctionnalités dédiées aux workflows défensifs avancés.
+- Tout semblait en place pour une annonce d’envergure, mais c’est plutôt une série de messages bien précis qui a été lancée à la centaine d’entrepreneurs présents par les ministres fédéraux et la mairesse Maude Marquis-Bissonnette.
+- Des messages s’adressaient aussi au gouvernement du Québec, mais aucun de ses représentants n’a été aperçu sur place.
+- Les investissements fédéraux en matière de défense et de cybersécurité sont appelés à croitre et s’accélérer au cours des prochaines années, et «Gatineau est bien placée pour en tirer pleinement parti», a noté le ministre McGuinty.
+- Député depuis 22 ans dans la capitale fédérale, David McGuinty, a noté que le gouvernement doit travailler à créer des occasions d’investissements des deux côtés de la rivière des Outaouais s’il souhaite assurer la prospérité de la région.
 
-## [<b>Cybersécurité</b>: Londres alerte les entreprises sur les risques liés aux nouveaux modèles d'IA](https://fr.tradingview.com/news/afp:4103bbb81f47b:0/)  
-*Source : fr.tradingview.com | Publication : 2026-04-15*
+## [Anthropic dévoile Claude Opus 4.7, le nouveau meilleur modèle du marché - Numerama](https://www.numerama.com/tech/2234439-anthropic-devoile-claude-opus-4-7-le-nouveau-meilleur-modele-du-marche.html)  
+*Source : numerama.com | Publication : 2026-04-16*
 
-- Cybersécurité: Londres alerte les entreprises sur les risques liés aux nouveaux modèles d'IA Le gouvernement britannique a alerté mercredi dans une lettre ouverte les entreprises sur les risques de cybersécurité posés par des modèles d'intelligence artificielle (IA) toujours plus performants, en référence notamment aux dernières créations d'Anthropic et d'OpenAI.
-- "Pendant des années, les cyberattaques les plus graves reposaient sur un petit nombre de criminels hautement qualifiés.
-- Cette situation est en train de changer", prévient l'exécutif dans ce document publié sur internet.
-- "Une nouvelle génération de modèles d'IA devient capable d'accomplir des tâches qui exigeaient auparavant des compétences rares: identifier des faiblesses dans les logiciels, rédiger le code permettant de les exploiter, et le faire à une vitesse et à une échelle qui auraient été inimaginables il y a encore un an.".
+- Anthropic a plus que jamais le vent en poupe et ne compte pas ralentir.
+- Le 16 avril 2026, la firme a dévoilé Claude Opus 4.7, successeur direct d’Opus 4.6, lancé il y a à peine deux mois.
+- Présenté comme nettement amélioré en « matière d’ingénierie logicielle avancée, notamment pour les tâches les plus complexes », le modèle reste toutefois en retrait face à Claude Mythos Preview, la version interne la plus puissante d’Anthropic.
+- Selon l’entreprise, Opus 4.7 est désormais capable de gérer des projets de programmation particulièrement complexes, jusque-là difficiles à mener sans supervision quasi constante.
 
-## [&quot;On se retrouve le nez dans la boue en Guyane&quot; : comment la majeure cyber de l'IHEDN ...](https://www.journaldunet.com/cybersecurite/1549603-on-se-retrouve-le-nez-dans-la-boue-en-guyane-comment-la-majeure-cyber-de-l-ihedn-transforme-des-carrieres/)  
-*Source : journaldunet.com | Publication : 2026-04-15*
+## [Vols de données : nos vies piratées ? en replay - Chaque voix compte | France TV](https://www.france.tv/lcp/chaque-voix-compte/8404137-vols-de-donnees-nos-vies-piratees.html)  
+*Source : france.tv | Publication : 2026-04-16*
 
-- "On se retrouve le nez dans la boue en Guyane" : comment la majeure cyber de l'IHEDN transforme des carrières La majeure souveraineté numérique et cybersécurité de l'IHEDN allie sélection rigoureuse et formation exigeante de ses auditeurs.
-- Qui ne le regrettent pas.
-- Une fois franchi le poste de garde de l’Ecole militaire, dans le VIIe arrondissement de Paris, une marche d’une dizaine de minutes s'impose pour atteindre l'Institut des hautes études de défense nationale (IHEDN).
-- Le parcours serpente entre les bâtiments militaires, longe le manège équestre puis la cour d'honneur où le général de Gaulle passait les troupes en revue en 1959.
+- Chaque voix compteVols de données : nos vies piratées ?.
+- Décryptage & investigation 2026 Vidéo 1 h 3 min Tous publics Disponible jusqu'au 15/04/2028 À LA UNE / Vols de données : nos vies piratées ?.
+- Plus de 17 500 cyberattaques ont été enregistrées en 2025 en France, un chiffre en hausse de 4% par rapport à l'année 2024, selon les données communiquées, jeudi 19 février, par le service statistique ministériel de la sécurité intérieure (SSMSI).
+- En décembre et janvier 2025, plusieurs attaques ont touché des ministères et administrations.
 
-## [Le calme avant la tempête Mythos, cette IA serial-déceleuse de failles informatiques](https://www.france24.com/fr/éco-tech/20260415-calme-avant-tempête-mythos-cette-ia-serial-déceleuse-failles-informatiques-cybersécurité-hackeurs)  
-*Source : france24.com | Publication : 2026-04-15*
+## [Stellantis et Microsoft signent un accord de cinq ans autour de l'IA et du cloud - Silicon.fr](https://www.silicon.fr/business-1367/stellantis-et-microsoft-signent-un-accord-de-cinq-ans-autour-de-lia-et-du-cloud-226680)  
+*Source : silicon.fr | Publication : 2026-04-16*
 
-- Le calme avant la tempête Mythos, cette IA serial-déceleuse de failles informatiques Le monde de la cybersécurité est en émoi : le dernier modèle d’IA d’Anthropic, Mythos, a découvert des vulnérabilités informatiques en série… qui existent parfois depuis plus de 20 ans.
-- Pour l’instant, seuls quelques acteurs de "confiance" y ont accès.
-- Mais après ?.
-- Publié le : Les mises en garde se multiplient à propos de Mythos, l’IA "experte" en cybersécurité d’Anthropic.
+- Stellantis et Microsoft annoncent un accord d’une durée de cinq ans portant sur le développement de capacités en intelligence artificielle, cybersécurité et ingénierie logicielle.
+- Les deux entreprises indiquent qu’elles co-développeront plus de 100 projets d’IA dans trois domaines : le service client, le développement produit et les opérations.
+- Parmi les applications citées figurent la maintenance prédictive, les tests de validation assistés par IA et le déploiement de fonctionnalités numériques sur les véhicules.
+- À titre d’exemple, des conducteurs de Peugeot devraient recevoir des recommandations sur leur style de conduite en milieu urbain et des alertes sur l’état de leur véhicule.
 
-## [Quantique : le nouveau défi cyber du siècle - l'Opinion](https://www.lopinion.fr/economie/quantique-le-nouveau-defi-cyber-du-siecle)  
-*Source : lopinion.fr | Publication : 2026-04-15*
+## [Stellantis et Microsoft signent un accord de cinq ans autour de l'IA et du cloud - Silicon.fr](https://www.silicon.fr/business-1367/stellantis-et-microsoft-signent-un-accord-de-cinq-ans-autour-de-lia-et-du-cloud-226680/amp)  
+*Source : silicon.fr | Publication : 2026-04-16*
 
-- Quantique : le nouveau défi cyber du siècle Il s’agit d’une révolution porteuse d’opportunités majeures pour la science, l’industrie et la société.
-- Mais comme toute rupture, elle exige d’en anticiper les conséquences avec lucidité et détermination Philippe Vallée Ce 14 avril, le « Quantum Day » a permis de braquer les projecteurs sur une mutation profonde, encore discrète mais dont la portée s’étendra à l’ensemble de notre écosystème numérique.
-- Pour en saisir l’ampleur, il faut revenir à la cryptographie, fondement invisible de la confiance numérique.
-- Dans l’ombre, ces mécanismes de chiffrement et de signature assurent la sécurité et la validité de nos transactions, de nos échanges, de nos identités, et protègent la colonne vertébrale de nos infrastructures numériques.
+- Stellantis et Microsoft annoncent un accord d’une durée de cinq ans portant sur le développement de capacités en intelligence artificielle, cybersécurité et ingénierie logicielle.
+- Les deux entreprises indiquent qu’elles co-développeront plus de 100 projets d’IA dans trois domaines : le service client, le développement produit et les opérations.
+- Parmi les applications citées figurent la maintenance prédictive, les tests de validation assistés par IA et le déploiement de fonctionnalités numériques sur les véhicules.
+- À titre d’exemple, des conducteurs de Peugeot devraient recevoir des recommandations sur leur style de conduite en milieu urbain et des alertes sur l’état de leur véhicule.
 
-## [Exclusive Networks muscle sa direction France - Distributique](https://www.distributique.com/actualites/lire-exclusive-networks-muscle-sa-direction-france-37153.html)  
-*Source : distributique.com | Publication : 2026-04-15*
+## [Des données personnelles piratées sur une plateforme de l'université d'Angers](https://fr.tradingview.com/news/afp:d4ebd39e5d13c:0/)  
+*Source : fr.tradingview.com | Publication : 2026-04-16*
 
-- « Je suis enthousiaste ŕ l’idée de contribuer au renforcement de son offre de services et d’accompagner l’entreprise dans la poursuite de sa croissance », explique Alain Ter-Markossian (Crédit Exclusive Networks) Quelques semaines aprčs l'arrivée de Thomas du Mesgnil ŕ la tęte de la filiale, le spécialiste de la cybersécurité nomme Alain Ter-Markossian au poste de directeur des services techniques.
-- Il y a trois semaines, Exclusive Networks, le distributeur spécialisé dans la cybersécurité, nommait Thomas du Mesgnil pour diriger l'entité française.
-- Aujourd'hui, l'entreprise recrute Alain Ter-Markossian au poste de directeur des services techniques, lequel reportera directement au nouveau dirigeant.
-- Dans ce rôle, M. Ter-Markossian aura pour mission de piloter et structurer l'organisation des personnels techniques, incluant les avant-ventes et les équipes de formation, de delivery / installation et de pentest.
+- Des données personnelles piratées sur une plateforme de l'université d'Angers La plainte déposée mercredi par l'université d'Angers après une cyberattaque a été transmise à "la section de lutte contre la cybercriminalité du parquet de Paris", a-t-on appris jeudi auprès du ministère public.
+- L'université a été victime "d'un incident de sécurité affectant la plateforme AlumnForce, utilisée par l'établissement pour la gestion de son réseau alumni", c'est-à-dire d'anciens élèves, sans que le système d'information de l'université soit concerné, a-t-elle indiqué jeudi soir à l'AFP.
+- L'université a notamment averti la Commission nationale de l'informatique et des libertés (Cnil) et une plainte a été déposée.
+- "127.400 contacts sont susceptibles d'être concernés par une fuite de données personnelles", dont des informations personnelles et "des éléments relatifs au parcours académique et professionnel", a précisé l'université.
 
-## [<b>Cybersécurité</b> à bord : peut-on vraiment pirater votre AIS ? - Actualités Nautisme](https://figaronautisme.meteoconsult.fr/actus-nautisme-lifestyle/2026-04-15/87422-cybersecurite-a-bord-peut-on-vraiment-pirater-votre-ais)  
-*Source : figaronautisme.meteoconsult.fr | Publication : 2026-04-15*
+## [Akira : ce que l'analyse révèle de l'explosion de ses activités | LeMagIT](https://www.lemagit.fr/actualites/366641876/Akira-ce-que-lanalyse-revele-de-lexplosion-de-ses-activites)  
+*Source : lemagit.fr | Publication : 2026-04-16*
 
-- Cybersécurité à bord : votre système AIS peut-il être piraté ?.
-- Pendant longtemps, la sécurité à bord s’est résumée à des menaces très concrètes : la météo, l’avarie, l’erreur humaine, la fatigue, le talonnage, l’homme à la mer.
-- Désormais, une autre vulnérabilité s’invite dans le cockpit, plus discrète, moins visible, mais de plus en plus sérieuse : celle des systèmes numériques embarqués.
-- Sur beaucoup d’unités de croisière, le bord ressemble aujourd’hui à un petit réseau informatique flottant.
+- Akira : ce que l'analyse révèle de l'explosion de ses activités L'activité de l'enseigne de ransomware Akira a littéralement explosé à l'automne 2024, faisant d'elle l'une des plus offensives à ce jour.
+- Son secret : très vraisemblablement le recrutement.
+- Jusqu'au mois de novembre 2024, Akira était une enseigne de rançongiciel plutôt discrète, avec un niveau d'activité modéré, sinon négligeable comparativement à d'autres.
+- Jusqu'à l'explosion avec plus de 80 revendications pour ce seul mois.
 
-## [<b>Cybersécurité</b>, eFTI, conformité : la logistique européenne face à sa transformation numérique](https://www.ecommercemag.fr/logistique-1222/strategie-logistique-2177/cybersecurite-efti-conformite-la-logistique-europeenne-face-a-sa-transformation-numerique-57037/amp)  
-*Source : ecommercemag.fr | Publication : 2026-04-15*
+## [« En 2026, nous assisterons à une attaque catastrophique » : l'inquiétude grandit face ... - Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/en-2026-nous-assisterons-a-une-attaque-catastrophique-linquietude-grandit-face-a-la-puissance-des-nouveaux-modeles-dia-2226896)  
+*Source : lesechos.fr | Publication : 2026-04-16*
 
-- « Le transport de marchandises représente environ 10 % du PIB européen et concerne 11 millions de personnes », rappelle Guillaume Desvaux, président de l’AI Cargo Foundation.
-- Chaque jour, des millions de documents sont échangés, dont une majorité circule encore au format papier.
-- À l’horizon 2027, l’Union européenne imposera aux États l’usage des documents électroniques eFTI (Electronic Freight Transport Information), accélérant ainsi la digitalisation du transport et de la logistique.
-- La logistique s’impose désormais comme un pilier de sécurité économique, alimentaire, militaire et industrielle pour l’Europe.
+- cybersécurité Mythos.
+- OpenAI a aussi dévoilé un nouvel outil cette ... cybersécurité Mythos.
+- OpenAI a aussi dévoilé un nouvel outil cette.
 
-## [OpenAI annonce une sortie limitée de son nouveau modèle d'IA dédié à la <b>cybersécurité</b>](https://www.ledevoir.com/economie/972122/openai-annonce-sortie-limitee-nouveau-modele-ia-dedie-cybersecurite)  
-*Source : ledevoir.com | Publication : 2026-04-15*
+## [Chaque voix compte - Vols de données : nos vies piratées ? | LCP - Assemblée nationale](https://lcp.fr/programmes/chaque-voix-compte/vols-de-donnees-nos-vies-piratees-433636)  
+*Source : lcp.fr | Publication : 2026-04-16*
 
-- OpenAI a annoncé que son nouveau modèle d’IA spécialisé sur la cybersécurité serait réservé à des partenaires sélectionnés, comme l’a récemment fait son rival Anthropic après la potentielle mise au jour de failles sécuritaires.
-- Le groupe, derrière la création de ChatGPT, lance GPT-5.4-Cyber, une variante entraînée « pour offrir des capacités cyber supplémentaires et soumises à moins de restrictions », a détaillé mardi l’entreprise dans une note de blog.
-- « Parce que ce modèle est plus permissif, nous commençons par un déploiement limité […] auprès de prestataires de sécurité, d’organisations et de chercheurs approuvés », a complété OpenAI.
-- Cette annonce intervient sur fond d’inquiétudes croissantes sur l’impact des capacités de l’IA en matière de cybersécurité.
+- Aller au contenu principal Menu recherche mobile Recherche Direct En direct Recherche Écrit le - Tout - 7 jours 1 an Plus d'un an Menu Menu sitemap Actualités Dossiers Elections municipales 2026 Budget 2026 Assemblée, mode d'emploi Tous les dossiers Replays Documentaires Émissions A-Z Questions au gouvernement Podcasts Guide Programme La chaîne Qui sommes-nous ?.
+- La gouvernance Une chaîne, une équipe LCP en chiffres Contenus et programmes de LCP Regarder LCP | Chaînes et fréquences Tous les présentateurs Rejoignez-nous Marchés publics et Mises en concurrence Prix photo politique Espace Presse Accueil presse Communiqués de presse Vidéothèque Temps forts Dossiers de presse Phototélé Fil d'Ariane Accueil - Émissions A-Z - Chaque voix compte - Vols de données : nos vies piratées ?.
+- Back to top Pour voir cette vidéo, vous devez préalablement accepter les cookies "Vidéo".
+- La vidéo de ce programme sera bientôt disponible Image Chaque voix compte - Vols de données : nos vies piratées ?.
 
-## [Le numérique à la rencontre des habitants en Centre-Val de Loire - Mag'CentreMagcentre](https://www.magcentre.fr/367852-le-numerique-a-la-rencontre-des-habitants-en-centre-val-de-loire/)  
-*Source : magcentre.fr | Publication : 2026-04-15*
+## [WALLIX - Premier trimestre 2026 solide dans un contexte dégradé // Objectifs 2026 confirmés](https://www.actusnews.com/fr/amp/wallix/cp/2026/04/16/premier-trimestre-2026-solide-dans-un-contexte-degrade-objectifs-2026-confirmes)  
+*Source : actusnews.com | Publication : 2026-04-16*
 
-- Le numérique à la rencontre des habitants en Centre-Val de Loire mercredi, 15 avril 2026 La région Centre-Val de Loire lance en 2026 une nouvelle édition de l’événement Humain & Tech, dédié à l’innovation numérique et à son impact social.
-- Dans ce cadre, une tournée itinérante « Place du Numérique » et ses « Befores » se dérouleront d’avril à juin dans les six départements, proposant au public ateliers, rencontres professionnelles et découvertes autour du numérique (IA, cybersécurité, gaming, métiers).
-- Dans le Loiret, un Before aura lieu le 20 avril à Pithiviers, tandis que la Place du Numérique fera étape à Orléans le 9 juin.
-- Ouverts à tous et gratuits, ces événements visent à sensibiliser aux usages numériques, promouvoir les métiers du secteur et garantir un accès inclusif, notamment pour les personnes en situation de handicap.
+- Paris, 16 avril 2026 - WALLIX (Euronext ALLIX), éditeur européen de logiciels de cybersécurité , expert de la gestion des identités et des accès.
 
-## [Le vendéen Horanet pousse les feux sur la <b>cybersécurité</b> et accélère sur la R&amp;D | Les Echos](https://www.lesechos.fr/pme-regions/pays-de-la-loire/le-vendeen-horanet-pour-les-feux-sur-la-cybersecurite-et-accelere-sur-la-rd-2226473)  
-*Source : lesechos.fr | Publication : 2026-04-15*
+## [Quand la <b>cybersécurité</b> devient un critère de confiance : Microchip franchit une étape clé ...](https://www.elektormagazine.fr/news/quand-la-cybersecurite-devient-un-critere-de-confiance-microchip-franchit-une-etape-cle-avec-l-iec-62443-4-1)  
+*Source : elektormagazine.fr | Publication : 2026-04-16*
 
-- Spécialiste des solutions numériques de réservation et de contrôle d'accès des équipements publics, Horanet abandonne le sur-mesure pour des.
+- Quand la cybersécurité devient un critère de confiance : Microchip franchit une étape clé avec l’IEC 62443 4 1 16 avril 2026 sur sur À mesure que les systèmes industriels se connectent et s’interconnectent, la question n’est plus de savoir si la cybersécurité est nécessaire, mais comment prouver qu’elle est réellement prise en compte.
+- C’est précisément à ce défi que répond Microchip Technology en obtenant la certification IEC 62443‑4‑1 ML2, délivrée par UL Solutions.
+- Une étape qui marque un tournant vers une cybersécurité industrielle vérifiable, mesurable et reconnue à l’échelle internationale.
+- En obtenant la certification ML2, Microchip démontre que ses processus de développement ne reposent pas sur des pratiques isolées, mais sur un cadre cohérent, audité et reproductible, validé par un organisme indépendant.
 
-## [Seul un quart des organisations se rétablit complètement après une attaque de <b>ransomware</b>](https://itdaily.fr/nouvelles/securite/quart-organisations-se-retablit-de-ransomware/)  
-*Source : itdaily.fr | Publication : 2026-04-15*
+## [Microchip obtient la certification IEC 62443 4 1 ML2 et renforc...](https://www.ecinews.fr/fr/microchip-obtient-la-certification-iec-62443-4-1-ml2-et-renforce-la-cybersecurite-des-systemes-industriels/)  
+*Source : ecinews.fr | Publication : 2026-04-16*
 
-- Une étude de Veeam révèle que de nombreuses organisations ont (ou devraient avoir) une confiance insuffisante dans leurs capacités de récupération.
-- Seuls 28 % récupèrent l’intégralité des données après une cyberattaque.
-- Veeam constate dans un rapport que la confiance des organisations dans leurs capacités de récupération ne correspond pas à la réalité.
-- Seul un peu plus d’un quart des organisations (28 %) parvient à restaurer l’intégralité des données après une attaque de ransomware.
+- Microchip obtient la certification IEC 62443 4 1 ML2 et renforce la cybersécurité des systèmes industriels Face à la multiplication des systèmes connectés dans les environnements industriels, résidentiels et commerciaux, la cybersécurité devient un critère déterminant dans le choix des composants et des plateformes.
+- Microchip Technology annonce avoir obtenu de UL Solutions la certification IEC 62443‑4‑1 de niveau de maturité 2 (ML2), relative aux systèmes d’automatisation et de contrôle industriels.
+- Cette reconnaissance indépendante atteste que les processus de développement de Microchip intègrent des exigences de sécurité dès la conception et tout au long du cycle de vie des produits.
+- Une certification fondée sur un cycle de développement sécurisé La norme IEC 62443‑4‑1 définit les exigences applicables à un cycle de vie de développement sécurisé (Secure Development Lifecycle – SDL).
 
-## [La France est l'un des pays les plus touchés par les cyberattaques | Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/actualite/articles/la-france-est-lun-des-pays-les-plus-touches-par-les-cyberattaques-157919/)  
-*Source : techniques-ingenieur.fr | Publication : 2026-04-15*
+## [Brief spécial | IA et <b>cybersécurité</b>: pourquoi Mythos change la donne - YouTube](https://www.youtube.com/watch?v=m_dLSgpOoHM)  
+*Source : youtube.com | Publication : 2026-04-16*
 
-- Il ne se passe pas une semaine sans qu’on apprenne une nouvelle fuite de données.
-- Mots de passe, passeports, adresses postales… Plus grave, des numéros de Sécurité sociale, des dossiers de santé se retrouvent en vente sur le dark web.
-- Encore trop d’entreprises ne prennent pas conscience du risque cyber.
-- La multiplication des fuites de données n’étonne plus personne tellement elles sont nombreuses.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [OpenAI annonce une sortie limitée pour son nouveau modèle d'IA dédié à la <b>cybersécurité</b>](https://www.lefigaro.fr/secteur/high-tech/openai-annonce-une-sortie-limitee-pour-son-nouveau-modele-d-ia-dedie-a-la-cybersecurite-20260415)  
-*Source : lefigaro.fr | Publication : 2026-04-15*
+## [Anthropic déploie Claude Opus 4.7 : ce qui change par rapport au précédent modèle - BDM](https://www.blogdumoderateur.com/anthropic-claude-opus-4-7/)  
+*Source : blogdumoderateur.com | Publication : 2026-04-16*
 
-- OpenAI annonce une sortie limitée pour son nouveau modèle d'IA dédié à la cybersécurité Cette annonce intervient sur fond d’inquiétudes croissantes sur l’impact des capacités de l’IA en matière de cybersécurité.
-- Une semaine avant, Anthropic a communiqué sur le report du lancement de son dernier modèle Claude Mythos.
-- Passer la publicité Passer la publicitéOpenAI a annoncé que son nouveau modèle d'IA spécialisé sur la cybersécurité serait réservé à des partenaires sélectionnés, comme l'a récemment fait son rival Anthropic après la potentielle mise au jour de failles sécuritaires.
-- Le groupe, derrière la création de ChatGPT, lance GPT-5.4-Cyber, une variante entraînée «pour offrir des capacités cyber supplémentaires et soumises à moins de restrictions», a détaillé mardi l'entreprise dans une note de blog.
+- Anthropic déploie Claude Opus 4.7 : ce qui change par rapport au précédent modèle Deux mois après Opus 4.6, Anthropic pousse un nouveau modèle qui améliore la vision, le suivi d’instructions et les protections en cybersécurité.
+- Anthropic ne lâche rien dans la course à l’IA la plus performante.
+- Deux mois après les sorties d’Opus 4.6 et de Sonnet 4.6, et une semaine après avoir dévoilé Claude Mythos Preview, un modèle jugé trop dangereux pour être rendu public, la firme présente Claude Opus 4.7.
+- Ce nouveau modèle, déjà disponible sur Claude, l’API et les principales plateformes cloud, mise sur une vision améliorée, une meilleure autonomie sur les tâches longues et de nouveaux garde-fous en matière de cybersécurité.
 
-## [Business Industries Reims : l'industrie du futur prend vie sur le territoire - La French Fab](https://www.lafrenchfab.fr/2026/04/15/business-industries-reims-deux-jours-pour-faire-battre-le-coeur-industriel-du-grand-est/)  
-*Source : lafrenchfab.fr | Publication : 2026-04-15*
+## [Cybermalveillance.gouv.fr lance une AlerteCyber concernant une faille de sécurité critique ...](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-faille-securite-critique-adobe-acrobat-acrobat-reader)  
+*Source : cybermalveillance.gouv.fr | Publication : 2026-04-16*
 
-- Business Industries Reims : l’industrie du futur prend vie sur le territoire Les 28 et 29 avril, le Parc des Expositions de Reims se transforme en véritable usine du futur.
-- Machines en fonctionnement, robots, rendez-vous d’affaires et temps forts business : le salon Business Industries Reims s’impose comme un nouveau carrefour incontournable pour les industriels en quête de croissance, d’innovation et de partenariats.
-- Carrefour des compétences industrielles, Business Industries Reims réunit pendant deux jours donneurs d’ordres, sous-traitants, offreurs de solutions et acteurs de l’innovation.
-- Pensé comme un événement résolument opérationnel, le salon met en lumière les leviers d’une nouvelle croissance industrielle, au plus près des réalités de terrain.
+- Cybermalveillance.gouv.fr lance une AlerteCyber concernant une faille de sécurité critique dans Adobe Acrobat et Acrobat Reader Publié le 16/04/2026 - 2 minutes de lecture - Cybermalveillance.gouv.fr déclenche ce jour une nouvelle AlerteCyber concernant une faille de sécurité critique dans Adobe Acrobat et Acrobat Reader.
+- Il est primordial de la corriger le plus rapidement possible en mettant à jour les systèmes concernés pour réduire les risques d’une cyberattaque.
+- Qu’est-ce qu’AlerteCyber ?.
+- Mis en place en juillet 2021, AlerteCyber est un dispositif lancé dès lors qu’une menace ou une faille critique est identifiée et qualifiée en tant que telle, conjointement par l’ANSSI et Cybermalveillance.gouv.fr.
 
-## [Microchip obtient la certification IEC 62443-4-1 de niveau de maturité 2 - Actutem](https://www.actutem.com/microchip-obtient-la-certification-iec-62443-4-1-de-niveau-de-maturite-2/)  
-*Source : actutem.com | Publication : 2026-04-15*
+## [Claude Mythos inquiète les banques européennes - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/claude-mythos-inquietent-les-banques-europeennes-226684)  
+*Source : silicon.fr | Publication : 2026-04-16*
 
-- Microchip Technology a obtenu la certification IEC 62443-4-1 de niveau de maturité 2 (ML2) délivrée par UL Solutions, relative aux systèmes d’automatisation et de contrôle industriels.
-- - Cette certification atteste que les processus de développement de l’entreprise intègrent des critères de cybersécurité reconnus internationalement, dès la phase de conception.
-- - Elle répond à un besoin croissant de vérification indépendante des niveaux de sécurité, alors que les systèmes connectés se généralisent dans les environnements résidentiels, industriels et commerciaux.
-- - La norme IEC 62443-4-1 définit les exigences pour un cycle de vie de développement sécurisé (SDL).
+- Depuis le lancement, début avril, du modèle Claude Mythos par Anthropic, les autorités de supervision financière ne cachent plus leur inquiétude.
+- L’appréhension se propage de Londres à Francfort.
+- En cause, les capacités jugées sans précédent de ce modèle frontier qui dispose de capacités en détection de vulnérabilités logicielles surpassent « tous les humains sauf les plus experts ».
+- Une menace qui pourrait cibler en premier lieu les systèmes d’information bancaires, réputés pour l’ancienneté et la complexité de leurs infrastructures technologiques.
 
-## [Qu'est-ce que GPT-5.4-Cyber, la nouvelle IA d'OpenAI pour la <b>cybersécurité</b> ? - Numerama](https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html)  
-*Source : numerama.com | Publication : 2026-04-15*
+## [La pédagogie « Bureau des légendes » : ces entreprises qui achètent des séries pour ... - Les Echos](https://www.lesechos.fr/tech-medias/hightech/la-pedagogie-bureau-des-legendes-ces-entreprises-qui-achetent-des-series-pour-sensibiliser-leurs-salaries-a-la-cybersecurite-2226860)  
+*Source : lesechos.fr | Publication : 2026-04-16*
 
-- OpenAI navigue depuis quelques mois en eaux troubles.
-- Érosion de parts de marché, critiques acerbes voire menaces directes contre son dirigeant Sam Altman, repositionnements stratégiques successifs : l’entreprise cherche à redorer une image abîmée.
-- La cybersécurité lui offre aujourd’hui une fenêtre opportune, quitte à reprendre, avec un léger temps de latence, les mêmes recettes que son rival Anthropic.
-- Début avril 2026, Anthropic avait secoué l’industrie avec Claude Mythos Preview et le projet Glasswing : un modèle frontier aux capacités cyber jugées trop sensibles pour une diffusion publique, accessible seulement à une cinquantaine d’organisations triées sur le volet.
+- Des entreprises comme Airbus, L'Oréal ou Renault misent sur des mini-séries pour sensibiliser leurs salariés aux risques cyber.
