@@ -1,149 +1,147 @@
-# Résumés – 2026-04-16
+# Résumés – 2026-04-17
 
 
-## [Cyberattaque: les données de 130.000 anciens étudiants de l'université d'Angers compromises](https://www.lefigaro.fr/conjoncture/des-donnees-personnelles-piratees-sur-une-plateforme-de-l-universite-d-angers-20260416)  
-*Source : lefigaro.fr | Publication : 2026-04-16*
+## [Yoshua Bengio sonne l'alarme sur Mythos, l'IA et la menace d'une <b>cybersécurité</b> hors de contrôle](https://moncarnet.com/2026/04/17/yoshua-bengio-sonne-lalarme-sur-mythos-lia-et-la-menace-dune-cybersecurite-hors-de-controle/)  
+*Source : moncarnet.com | Publication : 2026-04-17*
 
-- Cyberattaque: les données de 130.000 anciens étudiants de l’université d’Angers compromises La plateforme de gestion du réseau alumni de l’université a été attaquée, occasionnant la fuite potentielle de presque 130.000 contacts, selon l’université.
-- Passer la publicité Passer la publicitéLa plainte déposée mercredi par l'université d'Angers après une cyberattaque a été transmise à «la section de lutte contre la cybercriminalité du parquet de Paris», a-t-on appris jeudi auprès du ministère public.
-- L'université a été victime «d'un incident de sécurité affectant la plateforme AlumnForce, utilisée par l'établissement pour la gestion de son réseau alumni», c'est-à-dire d'anciens élèves, sans que le système d'information de l'université soit concerné, a-t-elle indiqué jeudi soir à l'AFP.
-- L'université a notamment averti la Commission nationale de l'informatique et des libertés (Cnil) et une plainte a été déposée.
+- Invité à l’émission Newsnight de la BBC, Yoshua Bengio a livré une mise en garde particulièrement frappante sur l’évolution de l’intelligence artificielle, en mettant l’accent sur un risque très concret : celui d’outils de plus en plus puissants capables de fragiliser la cybersécurité mondiale.
+- Face à Victoria Derbyshire, le chercheur montréalais n’a pas seulement parlé d’un danger théorique ou d’un horizon lointain.
+- Il a décrit une menace déjà visible, portée par des systèmes qui peuvent faciliter des attaques informatiques, exposer des vulnérabilités critiques et amplifier le pouvoir de nuisance d’acteurs malveillants.
+- Le moment le plus fort de l’entretien survient lorsque la journaliste l’interroge sur Claude Mythos, présenté comme le prochain grand modèle d’Anthropic, dont les capacités en cybersécurité suscitent déjà inquiétude et consternation.
 
-## [Autovista mis hors-jeu par une cyberattaque - Le Journal de l'Automobile](https://journalauto.com/services/autovista-mis-hors-jeu-par-une-cyberattaque/)  
-*Source : journalauto.com | Publication : 2026-04-16*
+## [Des failles Microsoft vieilles de 14 ans encore exploitées par les cybercriminels - Science et vie](https://www.science-et-vie.com/technos-et-futur/des-failles-microsoft-vieilles-de-14-ans-encore-exploitees-par-les-cybercriminels-les-entreprises-et-les-particuliers-sont-exposes-aux-attaques-alerte-la-cybersecurite-americaine-236116.html)  
+*Source : science-et-vie.com | Publication : 2026-04-17*
 
-- Autovista mis hors jeu par une cyberattaque Publié le 16 avril 2026 Autovista est à l'arrêt.
-- La société qui fournit des données techniques et de marché pour les acteurs du secteur automobile fait l'objet d'une attaque malveillante de type rançongiciel.
-- L'information a été rendue officielle, le 14 avril 2026, sur le site internet officiel.
-- "Nous réagissons actuellement à une attaque de type ransomware qui affecte certains systèmes d'Autovista en Europe et en Australie, peut-on lire sur la page dédiée à l'incident.
+- Des failles Microsoft vieilles de 14 ans encore exploitées par les cybercriminels : les entreprises et les particuliers sont exposés aux attaques, alerte la cybersécurité américaine Des failles Microsoft non corrigées, dont une vieille de 14 ans, servent encore à des attaques de ransomware contre des entreprises.
+- L'agence américaine de cybersécurité a ajouté quatre vulnérabilités Windows à son catalogue des menaces actives.
+- Les agences fédérales américaines ont jusqu'au 27 avril 2026 pour appliquer les correctifs disponibles.
+- Des failles Microsoft non corrigées, dont une vieille de 14 ans, servent encore de portes d'entrée à des cybercriminels.
 
-## [Vols de données : nos vies piratées ? | Chaque voix compte - 16/04/26 - YouTube](https://www.youtube.com/watch?v=0SmYpTDV-80)  
-*Source : youtube.com | Publication : 2026-04-16*
+## [<b>Cybercriminalité</b> : les 8 opérations et arrestations du 17 avril 2026 - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/04/17/cybercriminalite-les-8-operations-et-arrestations-du-17-avril-2026/)  
+*Source : dcod.ch | Publication : 2026-04-17*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Faits marquants de la semaine La Police fédérale allemande a identifié deux ressortissants russes comme dirigeants des opérations de rançongiciel GandCrab et REvil menées entre 2019 et 2021, marquant une avancée d’enquête majeure contre ces campagnes criminelles.
+- - Lors d’un procès lié à une attaque contre un centre de détention de l’ICE au Texas, il a été révélé que le FBI avait récupéré des copies de messages Signal supprimés via la base de données interne des notifications d’iPhone d’Apple.
+- - Le Cambodge a prononcé la réclusion à perpétuité contre des opérateurs de « scam compounds » ayant emprisonné des personnes et les ayant forcées à escroquer en ligne des victimes dans le monde entier via des arnaques amoureuses et des investissements douteux.
+- - Un homme de l’Ohio a reconnu des faits de cyberharcèlement et de production d’images obscènes, devenant le premier condamné en vertu d’un nouveau texte fédéral encadrant les images sexuellement explicites générées par intelligence artificielle et la loi Take It Down Act.
 
-## [<b>Cybersécurité</b>: Ottawa lance des fleurs à Gatineau et des messages à Québec - Le Droit](https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/04/16/cybersecurite-ottawa-lance-des-fleurs-a-gatineau-et-des-messages-a-quebec-B46YJOSASRDDDBW3R4TYAOOS2A/)  
-*Source : ledroit.com | Publication : 2026-04-16*
+## [GISEC GLOBAL : l'événement réunira en mai les acteurs de la <b>cybersécurité</b> - We are Tech](https://www.wearetech.africa/fr/fils/breves/breves-une/gisec-global-l-evenement-reunira-en-mai-les-acteurs-de-la-cybersecurite)  
+*Source : wearetech.africa | Publication : 2026-04-17*
 
-- Tout semblait en place pour une annonce d’envergure, mais c’est plutôt une série de messages bien précis qui a été lancée à la centaine d’entrepreneurs présents par les ministres fédéraux et la mairesse Maude Marquis-Bissonnette.
-- Des messages s’adressaient aussi au gouvernement du Québec, mais aucun de ses représentants n’a été aperçu sur place.
-- Les investissements fédéraux en matière de défense et de cybersécurité sont appelés à croitre et s’accélérer au cours des prochaines années, et «Gatineau est bien placée pour en tirer pleinement parti», a noté le ministre McGuinty.
-- Député depuis 22 ans dans la capitale fédérale, David McGuinty, a noté que le gouvernement doit travailler à créer des occasions d’investissements des deux côtés de la rivière des Outaouais s’il souhaite assurer la prospérité de la région.
+- Du mardi 5 au jeudi 7 mai, GISEC GLOBAL réunit à Dubai Expo City les acteurs clés de la cybersécurité : gouvernements, entreprises, experts et start-up.
+- Pendant trois jours, des conférences, des ateliers et des démonstrations aborderont l’intelligence artificielle en sécurité, la protection des infrastructures critiques et la résilience face aux cyberattaques, avec un accent marqué sur le partage d’expériences et le réseautage international.
+- Lire aussi:.
 
-## [Anthropic dévoile Claude Opus 4.7, le nouveau meilleur modèle du marché - Numerama](https://www.numerama.com/tech/2234439-anthropic-devoile-claude-opus-4-7-le-nouveau-meilleur-modele-du-marche.html)  
-*Source : numerama.com | Publication : 2026-04-16*
+## [Cyberhebdo du 17 avril 2026 : une ESN suisse victime de <b>ransomware</b> | LeMagIT](https://www.lemagit.fr/actualites/366641805/Cyberhebdo-du-17-avril-2026)  
+*Source : lemagit.fr | Publication : 2026-04-17*
 
-- Anthropic a plus que jamais le vent en poupe et ne compte pas ralentir.
-- Le 16 avril 2026, la firme a dévoilé Claude Opus 4.7, successeur direct d’Opus 4.6, lancé il y a à peine deux mois.
-- Présenté comme nettement amélioré en « matière d’ingénierie logicielle avancée, notamment pour les tâches les plus complexes », le modèle reste toutefois en retrait face à Claude Mythos Preview, la version interne la plus puissante d’Anthropic.
-- Selon l’entreprise, Opus 4.7 est désormais capable de gérer des projets de programmation particulièrement complexes, jusque-là difficiles à mener sans supervision quasi constante.
+- Cyberhebdo du 17 avril 2026 : une ESN suisse victime de ransomware Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans cette nouvelle édition du Cyberhebdo, votre rendez-vous hebdomadaire consacré aux cyberattaques rapportées dans la presse internationale au cours de la semaine écoulée.
+- Cette semaine, notre veille médiatique nous a permis de recenser pas moins de 11 cyberattaques relayées par les médias à travers le monde.
+- Ces incidents touchent des organisations situées dans 8 pays différents, témoignant une fois de plus du caractère résolument transnational de la menace cyber : les Bahamas (BHS), les Pays-Bas (NLD), la Belgique (BEL), la Suisse (CHE), l'Irlande (IRL), le Nigeria (NGA), l'Allemagne (DEU) et les États-Unis (USA).
 
-## [Vols de données : nos vies piratées ? en replay - Chaque voix compte | France TV](https://www.france.tv/lcp/chaque-voix-compte/8404137-vols-de-donnees-nos-vies-piratees.html)  
-*Source : france.tv | Publication : 2026-04-16*
+## [<b>Ransomware</b> : derrière certaines cyberattaques, l'ombre de Moscou - LeMagIT](https://www.lemagit.fr/actualites/366641822/Ransomware-derriere-certaines-cyberattaques-lombre-de-Moscou)  
+*Source : lemagit.fr | Publication : 2026-04-17*
 
-- Chaque voix compteVols de données : nos vies piratées ?.
-- Décryptage & investigation 2026 Vidéo 1 h 3 min Tous publics Disponible jusqu'au 15/04/2028 À LA UNE / Vols de données : nos vies piratées ?.
-- Plus de 17 500 cyberattaques ont été enregistrées en 2025 en France, un chiffre en hausse de 4% par rapport à l'année 2024, selon les données communiquées, jeudi 19 février, par le service statistique ministériel de la sécurité intérieure (SSMSI).
-- En décembre et janvier 2025, plusieurs attaques ont touché des ministères et administrations.
+- scaliger - stock.adobe.com Ransomware : derrière certaines cyberattaques, l’ombre de Moscou Les soupçons de liens entre certains acteurs du rançongiciel et le pouvoir central russe apparaissent de plus en plus confortés, à mesure que se multiplient les indices.
+- Août 2024, deux cybercriminels condamnés, Vladislav Klyushin et Roman Seleznev, rentrent en Russie dans le cadre d’un échange de prisonniers.
+- Ils sont accueillis avec les honneurs de la télévision de Vladimir Poutine lui-même.
+- Pour Anastasia Sentsova, analyste chez Analyst1, ce n’est pas une « cérémonie », mais un « signal ».
 
-## [Stellantis et Microsoft signent un accord de cinq ans autour de l'IA et du cloud - Silicon.fr](https://www.silicon.fr/business-1367/stellantis-et-microsoft-signent-un-accord-de-cinq-ans-autour-de-lia-et-du-cloud-226680)  
-*Source : silicon.fr | Publication : 2026-04-16*
+## [Le Centre pour la <b>cybersécurité</b> lance une nouvelle initiative visant à aider les responsables ...](https://www.canada.ca/fr/securite-telecommunications/nouvelles/2026/04/le-centre-pour-la-cybersecurite-lance-une-nouvelle-initiative-visant-a-aider-les-responsables-des-infrastructures-essentielles-du-canada-a-se-prepa.html)  
+*Source : canada.ca | Publication : 2026-04-17*
 
-- Stellantis et Microsoft annoncent un accord d’une durée de cinq ans portant sur le développement de capacités en intelligence artificielle, cybersécurité et ingénierie logicielle.
-- Les deux entreprises indiquent qu’elles co-développeront plus de 100 projets d’IA dans trois domaines : le service client, le développement produit et les opérations.
-- Parmi les applications citées figurent la maintenance prédictive, les tests de validation assistés par IA et le déploiement de fonctionnalités numériques sur les véhicules.
-- À titre d’exemple, des conducteurs de Peugeot devraient recevoir des recommandations sur leur style de conduite en milieu urbain et des alertes sur l’état de leur véhicule.
+- Le Centre pour la cybersécurité lance une nouvelle initiative visant à aider les responsables des infrastructures essentielles du Canada à se préparer à faire face à des cybermenaces graves Communiqué de presse Ottawa, Ontario – Le 17 avril 2026 Aujourd’hui, le Centre canadien pour la cybersécurité (Centre pour la cybersécurité) a lancé l’initiative Résilience des infrastructures essentielles face à l’intensification des menaces (RIEFIM).
+- L’initiative RIEFIM aide les organisations des infrastructures essentielles (IE) à comprendre les cybermenaces graves, à s’y préparer et à exercer des mécanismes d’intervention.
+- Son objectif est d’aider les organisations à maintenir des services essentiels, même dans le pire des scénarios, notamment lors de perturbations dues à des cyberincidents généralisés et de longue durée.
+- Les infrastructures essentielles du Canada, dont les secteurs de l’énergie, des télécommunications, des transports et de la gestion de l’eau, doivent composer avec un éventail croissant de cybermenaces.
 
-## [Stellantis et Microsoft signent un accord de cinq ans autour de l'IA et du cloud - Silicon.fr](https://www.silicon.fr/business-1367/stellantis-et-microsoft-signent-un-accord-de-cinq-ans-autour-de-lia-et-du-cloud-226680/amp)  
-*Source : silicon.fr | Publication : 2026-04-16*
+## [Cybersecurity pour les environnements de production de défense - Siemens](https://www.siemens.com/fr-ca/campaigns/cybersecurity-defense-production-environments/)  
+*Source : siemens.com | Publication : 2026-04-17*
 
-- Stellantis et Microsoft annoncent un accord d’une durée de cinq ans portant sur le développement de capacités en intelligence artificielle, cybersécurité et ingénierie logicielle.
-- Les deux entreprises indiquent qu’elles co-développeront plus de 100 projets d’IA dans trois domaines : le service client, le développement produit et les opérations.
-- Parmi les applications citées figurent la maintenance prédictive, les tests de validation assistés par IA et le déploiement de fonctionnalités numériques sur les véhicules.
-- À titre d’exemple, des conducteurs de Peugeot devraient recevoir des recommandations sur leur style de conduite en milieu urbain et des alertes sur l’état de leur véhicule.
+- Dans les environnements de défense, la posture de sécurité est façonnée par les actifs, les dépendances et les contraintes opérationnelles des systèmes OT.
+- L'exposition émerge là où ces éléments se croisent sans visibilité suffisante.
+- Une évaluation ciblée de la sécurité OT rend cette exposition explicite, révélant les chemins d'attaque et les lacunes de contrôle qui sont importantes sur le plan opérationnel et qui peuvent être traitées dans les limites des contraintes existantes.
+- Regardez la vidéo pour découvrir comment les évaluations de cybersécurité constituent la première étape cruciale du parcours de sécurité d'une organisation !.
 
-## [Des données personnelles piratées sur une plateforme de l'université d'Angers](https://fr.tradingview.com/news/afp:d4ebd39e5d13c:0/)  
-*Source : fr.tradingview.com | Publication : 2026-04-16*
+## [Stellantis lance 100 projets d'IA générative et achète 20 000 licences Microsoft 365 Copilot ...](https://www.usine-digitale.fr/automobile/stellantis/stellantis-lance-100-projets-dia-generative-et-achete-20-000-licences-microsoft-365-copilot-pour-enclencher-la-prochaine-phase-de-sa-transformation.NMCOLDUWYRBE5LUNNOXK5VHIZA.html)  
+*Source : usine-digitale.fr | Publication : 2026-04-17*
 
-- Des données personnelles piratées sur une plateforme de l'université d'Angers La plainte déposée mercredi par l'université d'Angers après une cyberattaque a été transmise à "la section de lutte contre la cybercriminalité du parquet de Paris", a-t-on appris jeudi auprès du ministère public.
-- L'université a été victime "d'un incident de sécurité affectant la plateforme AlumnForce, utilisée par l'établissement pour la gestion de son réseau alumni", c'est-à-dire d'anciens élèves, sans que le système d'information de l'université soit concerné, a-t-elle indiqué jeudi soir à l'AFP.
-- L'université a notamment averti la Commission nationale de l'informatique et des libertés (Cnil) et une plainte a été déposée.
-- "127.400 contacts sont susceptibles d'être concernés par une fuite de données personnelles", dont des informations personnelles et "des éléments relatifs au parcours académique et professionnel", a précisé l'université.
+- Le triptyque IA, cybersécurité et cloud au programme.
+- Objectif affiché : “Soutenir la prochaine phase de la transformation de Stellantis”, nous.
 
-## [Akira : ce que l'analyse révèle de l'explosion de ses activités | LeMagIT](https://www.lemagit.fr/actualites/366641876/Akira-ce-que-lanalyse-revele-de-lexplosion-de-ses-activites)  
-*Source : lemagit.fr | Publication : 2026-04-16*
+## [<b>Cybersécurité</b> : le Ghana et l'Italie renforcent leur partenariat - Agence Ecofin](https://www.agenceecofin.com/actualites-numerique/1704-137635-cybersecurite-le-ghana-et-l-italie-renforcent-leur-partenariat)  
+*Source : agenceecofin.com | Publication : 2026-04-17*
 
-- Akira : ce que l'analyse révèle de l'explosion de ses activités L'activité de l'enseigne de ransomware Akira a littéralement explosé à l'automne 2024, faisant d'elle l'une des plus offensives à ce jour.
-- Son secret : très vraisemblablement le recrutement.
-- Jusqu'au mois de novembre 2024, Akira était une enseigne de rançongiciel plutôt discrète, avec un niveau d'activité modéré, sinon négligeable comparativement à d'autres.
-- Jusqu'à l'explosion avec plus de 80 revendications pour ce seul mois.
+- (Agence Ecofin) - Avec l'accélération de la transformation numérique, la cybersécurité est devenue un enjeu important pour les pays africains.
 
-## [« En 2026, nous assisterons à une attaque catastrophique » : l'inquiétude grandit face ... - Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/en-2026-nous-assisterons-a-une-attaque-catastrophique-linquietude-grandit-face-a-la-puissance-des-nouveaux-modeles-dia-2226896)  
-*Source : lesechos.fr | Publication : 2026-04-16*
+## [Claude Opus 4.7 est arrivé… avec un formulaire qui dit tout de la stratégie cyber d'Anthropic](https://www.numerama.com/cyberguerre/2234691-claude-opus-4-7-est-arrive-avec-un-formulaire-qui-dit-tout-de-la-strategie-cyber-danthropic.html)  
+*Source : numerama.com | Publication : 2026-04-17*
 
-- cybersécurité Mythos.
-- OpenAI a aussi dévoilé un nouvel outil cette ... cybersécurité Mythos.
-- OpenAI a aussi dévoilé un nouvel outil cette.
+- La documentation d’Anthropic est on ne peut plus claire : « Opus 4.7 n’est pas un modèle dédié à la cybersécurité.
+- » Présenté le 16 avril 2026, il succède à Opus 4.6 avec des promesses de performances nettement améliorées sur les tâches agentiques complexes.
+- Les benchmarks publiés par l’entreprise américaine évoquent notamment des progrès significatifs sur l’analyse financière automatisée et le raisonnement multidisciplinaire.
+- Le tout à tarif inchangé, avec une meilleure gestion de la mémoire à long terme et une analyse d’images en haute définition sensiblement renforcée.
 
-## [Chaque voix compte - Vols de données : nos vies piratées ? | LCP - Assemblée nationale](https://lcp.fr/programmes/chaque-voix-compte/vols-de-donnees-nos-vies-piratees-433636)  
-*Source : lcp.fr | Publication : 2026-04-16*
+## [Idées | L'ACEUM, Hydro-Québec et l'angle mort de la souveraineté numérique | Le Devoir](https://www.ledevoir.com/opinion/idees/972755/aceum-hydro-quebec-angle-mort-souverainete-numerique)  
+*Source : ledevoir.com | Publication : 2026-04-17*
 
-- Aller au contenu principal Menu recherche mobile Recherche Direct En direct Recherche Écrit le - Tout - 7 jours 1 an Plus d'un an Menu Menu sitemap Actualités Dossiers Elections municipales 2026 Budget 2026 Assemblée, mode d'emploi Tous les dossiers Replays Documentaires Émissions A-Z Questions au gouvernement Podcasts Guide Programme La chaîne Qui sommes-nous ?.
-- La gouvernance Une chaîne, une équipe LCP en chiffres Contenus et programmes de LCP Regarder LCP | Chaînes et fréquences Tous les présentateurs Rejoignez-nous Marchés publics et Mises en concurrence Prix photo politique Espace Presse Accueil presse Communiqués de presse Vidéothèque Temps forts Dossiers de presse Phototélé Fil d'Ariane Accueil - Émissions A-Z - Chaque voix compte - Vols de données : nos vies piratées ?.
-- Back to top Pour voir cette vidéo, vous devez préalablement accepter les cookies "Vidéo".
-- La vidéo de ce programme sera bientôt disponible Image Chaque voix compte - Vols de données : nos vies piratées ?.
+- En février 2026, le ministère de la Cybersécurité et du Numérique a publié l’Énoncé de politique de souveraineté numérique et d’approvisionnement en technologie de l’information.
+- Le document pose des orientations claires : hébergement souverain des données dans le nuage gouvernemental du Québec, contrôle des infrastructures, recours aux logiciels libres, renforcement de l’expertise locale.
+- Ce que l’Énoncé ne mentionne pas, à aucun endroit, c’est le traité qui contraint directement ces orientations.
+- L’Accord Canada–États-Unis–Mexique, l’ACEUM, contient un chapitre 19 sur le commerce numérique dont les dispositions s’appliquent à plusieurs mesures que le Québec pourrait vouloir adopter pour exercer la souveraineté qu’il vient de déclarer.
 
-## [WALLIX - Premier trimestre 2026 solide dans un contexte dégradé // Objectifs 2026 confirmés](https://www.actusnews.com/fr/amp/wallix/cp/2026/04/16/premier-trimestre-2026-solide-dans-un-contexte-degrade-objectifs-2026-confirmes)  
-*Source : actusnews.com | Publication : 2026-04-16*
+## [Tesla déploie son IA de conduite en Europe, Stellantis signe avec Microsoft : le grand écart](https://www.automobile-propre.com/articles/tesla-deploie-son-ia-de-conduite-en-europe-stellantis-signe-avec-microsoft-le-grand-ecart/)  
+*Source : automobile-propre.com | Publication : 2026-04-17*
 
-- Paris, 16 avril 2026 - WALLIX (Euronext ALLIX), éditeur européen de logiciels de cybersécurité , expert de la gestion des identités et des accès.
+- La suite de votre contenu après cette annonce Stellantis signe avec Microsoft un partenariat de cinq ans autour de l’IA, du cloud et de la cybersécurité : plus de 100 projets, 20 000 licences Copilot et une réduction de 60 % des data centers d’ici 2029.
+- Un virage massif qui tombe au moment où Tesla homologue son FSD en Europe – et qui interroge, alors que Stellantis travaille déjà avec Mistral AI depuis 18 mois.
+- Stellantis prolonge son virage numérique avec Microsoft, dans une collaboration de cinq ans qui touche à la fois les ventes, le service client, les véhicules connectés et les outils internes.
+- Le constructeur parle d’un déploiement à grande échelle, avec un objectif clair : accélérer ses usages de l’IA sans attendre qu’ils restent confinés aux laboratoires.
 
-## [Quand la <b>cybersécurité</b> devient un critère de confiance : Microchip franchit une étape clé ...](https://www.elektormagazine.fr/news/quand-la-cybersecurite-devient-un-critere-de-confiance-microchip-franchit-une-etape-cle-avec-l-iec-62443-4-1)  
-*Source : elektormagazine.fr | Publication : 2026-04-16*
+## [Le métier d'Ingénieur <b>cybersécurité</b> | CCI - Chambre de commerce et d'industrie](https://www.cci.fr/actualites/le-metier-dingenieur-cybersecurite)  
+*Source : cci.fr | Publication : 2026-04-17*
 
-- Quand la cybersécurité devient un critère de confiance : Microchip franchit une étape clé avec l’IEC 62443 4 1 16 avril 2026 sur sur À mesure que les systèmes industriels se connectent et s’interconnectent, la question n’est plus de savoir si la cybersécurité est nécessaire, mais comment prouver qu’elle est réellement prise en compte.
-- C’est précisément à ce défi que répond Microchip Technology en obtenant la certification IEC 62443‑4‑1 ML2, délivrée par UL Solutions.
-- Une étape qui marque un tournant vers une cybersécurité industrielle vérifiable, mesurable et reconnue à l’échelle internationale.
-- En obtenant la certification ML2, Microchip démontre que ses processus de développement ne reposent pas sur des pratiques isolées, mais sur un cadre cohérent, audité et reproductible, validé par un organisme indépendant.
+- Face à la multiplication des cyberattaques et au renforcement des obligations réglementaires, l'ingénieur cybersécurité est devenu un profil.
 
-## [Microchip obtient la certification IEC 62443 4 1 ML2 et renforc...](https://www.ecinews.fr/fr/microchip-obtient-la-certification-iec-62443-4-1-ml2-et-renforce-la-cybersecurite-des-systemes-industriels/)  
-*Source : ecinews.fr | Publication : 2026-04-16*
+## [Submergé par les failles, le NIST se concentre sur les plus critiques](https://www.lemondeinformatique.fr/actualites/lire-submerge-par-les-failles-le-nist-se-concentre-sur-les-plus-critiques-99959.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-04-17*
 
-- Microchip obtient la certification IEC 62443 4 1 ML2 et renforce la cybersécurité des systèmes industriels Face à la multiplication des systèmes connectés dans les environnements industriels, résidentiels et commerciaux, la cybersécurité devient un critère déterminant dans le choix des composants et des plateformes.
-- Microchip Technology annonce avoir obtenu de UL Solutions la certification IEC 62443‑4‑1 de niveau de maturité 2 (ML2), relative aux systèmes d’automatisation et de contrôle industriels.
-- Cette reconnaissance indépendante atteste que les processus de développement de Microchip intègrent des exigences de sécurité dès la conception et tout au long du cycle de vie des produits.
-- Une certification fondée sur un cycle de développement sécurisé La norme IEC 62443‑4‑1 définit les exigences applicables à un cycle de vie de développement sécurisé (Secure Development Lifecycle – SDL).
+- Assailli par un nombre croissant de failles de sécurité à traiter, l'Institut national des normes et des technologies (NIST) a annoncé des changements importants dans la manière dont il traite les vulnérabilités et les expositions en matière de cybersécurité (CVE).
+- Plutôt que de s'engager à enrichir toutes les entrées de sa base de données nationale sur les vulnérabilités (NVD), l'agence se concentrera uniquement sur les CVE les plus critiques, ce qui « permettra de stabiliser le programme pendant que nous développons les systèmes automatisés et les améliorations des flux de travail nécessaires à sa viabilité à long terme », indique-t-elle.
+- À compter de maintenant, le NIST se concentrera sur les CVE figurant dans le catalogue des vulnérabilités connues exploitées (KEV) de la CISA.
+- « Notre objectif est d'enrichir ces entrées dans un délai d'un jour ouvrable à compter de leur réception », a déclaré l'organisme.
 
-## [Brief spécial | IA et <b>cybersécurité</b>: pourquoi Mythos change la donne - YouTube](https://www.youtube.com/watch?v=m_dLSgpOoHM)  
-*Source : youtube.com | Publication : 2026-04-16*
+## [les attaques par compromission d'identifiants et comment elles fonctionnent - PV Magazine](https://www.pv-magazine.fr/2026/04/17/cybermenaces-contre-le-pv-3-10-les-attaques-par-compromission-didentifiants-et-comment-elles-fonctionnent/)  
+*Source : pv-magazine.fr | Publication : 2026-04-17*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Les cyberattaques par compromission d’identifiants constituent une catégorie majeure de menaces cyber ciblant les systèmes numériques et cyber-physiques qui reposent sur un accès sécurisé pour maintenir le contrôle et la visibilité.
+- Dans les systèmes photovoltaïques, où les opérateurs dépendent de plateformes de supervision à distance, d’interfaces SCADA et d’appareils connectés au cloud, des identifiants compromis peuvent fournir aux attaquants un accès direct et persistant à des infrastructures critiques.
+- Ces attaques consistent à obtenir des noms d’utilisateur et mots de passe légitimes grâce à des techniques telles que le phishing, les attaques par force brute, le credential stuffing ou l’exploitation de pratiques d’authentification faibles.
+- Contrairement aux attaques par déni de service qui submergent les systèmes, les attaques par compromission d’identifiants permettent aux adversaires d’usurper l’identité d’utilisateurs autorisés, contournant les barrières de sécurité traditionnelles.
 
-## [Anthropic déploie Claude Opus 4.7 : ce qui change par rapport au précédent modèle - BDM](https://www.blogdumoderateur.com/anthropic-claude-opus-4-7/)  
-*Source : blogdumoderateur.com | Publication : 2026-04-16*
+## [La <b>cybersécurité</b> devient un enjeu stratégique et humain au cœur des organisations](https://alliancy.fr/la-cybersecurite-devient-un-enjeu-strategique-et-humain-au-coeur-des-organisations-c6ece447-94b7-4b60-9714-3c709bc8faad)  
+*Source : alliancy.fr | Publication : 2026-04-17*
 
-- Anthropic déploie Claude Opus 4.7 : ce qui change par rapport au précédent modèle Deux mois après Opus 4.6, Anthropic pousse un nouveau modèle qui améliore la vision, le suivi d’instructions et les protections en cybersécurité.
-- Anthropic ne lâche rien dans la course à l’IA la plus performante.
-- Deux mois après les sorties d’Opus 4.6 et de Sonnet 4.6, et une semaine après avoir dévoilé Claude Mythos Preview, un modèle jugé trop dangereux pour être rendu public, la firme présente Claude Opus 4.7.
-- Ce nouveau modèle, déjà disponible sur Claude, l’API et les principales plateformes cloud, mise sur une vision améliorée, une meilleure autonomie sur les tâches longues et de nouveaux garde-fous en matière de cybersécurité.
+- La cybersécurité devient un enjeu stratégique et humain au cœur des organisations Au Predictive Cyber Day à la Sorbonne, décideurs publics et experts ont alerté sur la bascule d’un cyber désormais structuré par l’IA, l’ingénierie sociale et des obligations réglementaires élargies, qui imposent une approche plus prédictive et collective.
+- Publié à 5h55 | Mis à jour à 6h45 Lecture 4 min.
+- Dans l’auditorium, le ton est rapidement donné.
+- Anne Le Henanff, ministre du Numérique et de l’IA, ouvre les échanges en replaçant le numérique dans une dynamique de tension globale.
 
-## [Cybermalveillance.gouv.fr lance une AlerteCyber concernant une faille de sécurité critique ...](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-faille-securite-critique-adobe-acrobat-acrobat-reader)  
-*Source : cybermalveillance.gouv.fr | Publication : 2026-04-16*
+## [La pénurie de responsables sécurité pousse les organisations à se réinventer - ICTjournal](https://www.ictjournal.ch/etudes/2026-04-17/la-penurie-de-responsables-securite-pousse-les-organisations-a-se-reinventer)  
+*Source : ictjournal.ch | Publication : 2026-04-17*
 
-- Cybermalveillance.gouv.fr lance une AlerteCyber concernant une faille de sécurité critique dans Adobe Acrobat et Acrobat Reader Publié le 16/04/2026 - 2 minutes de lecture - Cybermalveillance.gouv.fr déclenche ce jour une nouvelle AlerteCyber concernant une faille de sécurité critique dans Adobe Acrobat et Acrobat Reader.
-- Il est primordial de la corriger le plus rapidement possible en mettant à jour les systèmes concernés pour réduire les risques d’une cyberattaque.
-- Qu’est-ce qu’AlerteCyber ?.
-- Mis en place en juillet 2021, AlerteCyber est un dispositif lancé dès lors qu’une menace ou une faille critique est identifiée et qualifiée en tant que telle, conjointement par l’ANSSI et Cybermalveillance.gouv.fr.
+- Un nouveau rapport de Cybersecurity Ventures et Sophos met en lumière un déséquilibre mondial en cybersécurité : environ 35'000 CISOs pour quelque.
 
-## [Claude Mythos inquiète les banques européennes - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/claude-mythos-inquietent-les-banques-europeennes-226684)  
-*Source : silicon.fr | Publication : 2026-04-16*
+## [<b>Cybersécurité</b> : la DGSI alerte sur les risques liés aux logiciels étrangers en entreprise](https://www.aa.com.tr/fr/france/cybersécurité-la-dgsi-alerte-sur-les-risques-liés-aux-logiciels-étrangers-en-entreprise/3909313)  
+*Source : aa.com.tr | Publication : 2026-04-17*
 
-- Depuis le lancement, début avril, du modèle Claude Mythos par Anthropic, les autorités de supervision financière ne cachent plus leur inquiétude.
-- L’appréhension se propage de Londres à Francfort.
-- En cause, les capacités jugées sans précédent de ce modèle frontier qui dispose de capacités en détection de vulnérabilités logicielles surpassent « tous les humains sauf les plus experts ».
-- Une menace qui pourrait cibler en premier lieu les systèmes d’information bancaires, réputés pour l’ancienneté et la complexité de leurs infrastructures technologiques.
+- - Le renseignement intérieur évoque un « enjeu majeur de sécurité économique » et pointe des risques d’espionnage via des applications du quotidien.
 
-## [La pédagogie « Bureau des légendes » : ces entreprises qui achètent des séries pour ... - Les Echos](https://www.lesechos.fr/tech-medias/hightech/la-pedagogie-bureau-des-legendes-ces-entreprises-qui-achetent-des-series-pour-sensibiliser-leurs-salaries-a-la-cybersecurite-2226860)  
-*Source : lesechos.fr | Publication : 2026-04-16*
+## [CyberAix revient pour une quatrième édition ! | La Vie Nouvelle](https://www.la-vie-nouvelle.fr/2026/04/cyberaix-revient-pour-une-quatrieme-edition/)  
+*Source : la-vie-nouvelle.fr | Publication : 2026-04-17*
 
-- Des entreprises comme Airbus, L'Oréal ou Renault misent sur des mini-séries pour sensibiliser leurs salariés aux risques cyber.
+- CyberAix revient pour une quatrième édition !.
+- La quatrième édition de CyberAix aura lieu à Aix-les-Bains le 23 avril prochain.
+- L'événement est conjointement organisé par l’association Dauphiné-Savoie des auditeurs de l’IHEDN et la CCI Savoie.
+- CyberAix se déroule traditionnellement au centre des congrès André-Grosjean, à Aix-les-Bains.
