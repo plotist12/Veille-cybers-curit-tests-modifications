@@ -1,152 +1,149 @@
-# Résumés – 2026-04-18
+# Résumés – 2026-04-19
 
 
-## [États-Unis : Une délégation marocaine de haut niveau reçue par le secrétaire à la Défense](https://ar.yabiladi.com/articles/details/192679/etats-unis-delegation-marocaine-haut-niveau.html)  
-*Source : ar.yabiladi.com | Publication : 2026-04-18*
+## [Sommes-nous tous vulnérables face à la <b>cybercriminalité</b> ? - YouTube](https://www.youtube.com/watch?v=Xe1vutMV8uM)  
+*Source : youtube.com | Publication : 2026-04-19*
 
-- cybersécurité.
-- A cette occasion, les deux parties se sont félicitées.
-- Suivre Etats_Unis defense souveraineté cybersecurite.
-- Suivre Yabiladi.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Cyber : ghost dans la machine stratégique - INCYBER NEWS](https://incyber.org/article/cyber-ghost-dans-la-machine-strategique/)  
-*Source : incyber.org | Publication : 2026-04-18*
+## [<b>Cybermenaces</b>: un business structuré et en pleine expansion | le360.ma](https://fr.le360.ma/economie/cybermenaces-un-business-structure-et-en-pleine-expansion_KCVT6G7QYREOXJA63FLPB2C4RI/)  
+*Source : fr.le360.ma | Publication : 2026-04-19*
 
-- Vous montrez que la science-fiction structure les imaginaires technologiques.
-- En quoi ces imaginaires influencent-ils concrètement les décisions publiques en matière de cyberdéfense ?.
-- « Les imaginaires collectifs définissent des ressources et des contraintes implicites des processus de décision.
-- Ils imposent des paradigmes pour décrypter les situations et anticiper leurs dynamiques.
+- Alors que le Maroc et le continent accélèrent leur transformation numérique, les cybermenaces y prennent une ampleur inédite.
+- «Aujourd’hui, les cybermenaces n’ont pas de frontières.
+- L’Afrique est concernée au même niveau que les autres régions», affirme Pascal Naudin dans un entretien au magazine Finances News Hebdo.
+- Si le continent a connu un décalage dans sa digitalisation, celle-ci s’accélère désormais, offrant aux attaquants une surface d’attaque plus large.
 
-## [Lancement du premier cluster de start-up en Algérie dans les domaines de l'intelligence ...](https://www.aps.dz/fr/algerie/education-et-technologie/mo4nak1q-lancement-du-premier-cluster-de-start-up-en-algerie-dans-les-domaines-de-l-intelligence-artificielle-et-de-la-cybersecurite)  
-*Source : aps.dz | Publication : 2026-04-18*
+## [Gendarmerie Nationale : un bilan 2025 sans précédent - L'Algérie Aujourd'hui](https://lalgerieaujourdhui.dz/gendarmerie-nationale-un-bilan-2025-sans-precedent/)  
+*Source : lalgerieaujourdhui.dz | Publication : 2026-04-19*
 
-- Lancement du premier cluster de start-up en Algérie dans les domaines de l’intelligence artificielle et de la cybersécurité samedi 18 avril 2026 19:12 ALGER– Le premier cluster de start-up en Algérie, spécialisé dans les domaines de l’intelligence artificielle (IA) et de la cybersécurité, a été lancé samedi à Alger, indique un communiqué du ministère de l’Enseignement supérieur et de la Recherche scientifique.
-- Articles connexes.
+- يتم التحقّق من أن طلبك ليس طلباً آلياً... Verifying that you are not a robot... Please wait few seconds...الرجاء الإنتظار بضعة ثوان DZSecurity.
 
-## [Claude Mythos, une IA trop dangereuse pour le public | En bref - Radio-Canada](https://ici.radio-canada.ca/en-bref/90-15970/claude-anthropic-ia-danger-cybersecurite?liste=28-1013359)  
-*Source : ici.radio-canada.ca | Publication : 2026-04-18*
+## [L'identité doit être au cœur des stratégies de <b>Cybersécurité</b>. - Global Security Mag](https://www.globalsecuritymag.fr/l-identite-doit-etre-au-coeur-des-strategies-de-cybersecurite.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-04-19*
 
-- Claude Mythos, une IA trop dangereuse pour le public PHOTO : Radio-Canada Vous naviguez sur le site de Radio-Canada Nous et un nombre restreint de nos partenaires publicitaires utilisons des témoins pour recueillir certaines de vos données et les utilisons afin d’améliorer votre expérience et de vous présenter des contenus et des publicités personnalisés.
-- Si vous n’êtes pas à l’aise avec l’utilisation de ces informations, veuillez revoir les paramètres de confidentialité de votre appareil et de votre navigateur(nouvelle fenêtre) avant de poursuivre votre visite.
-- En savoir plus(nouvelle fenêtre)La destination d’information de Radio-Canada PHOTO : Radio-Canada Fin de la page 1 de 6.
-- Page suivante PHOTO : afp via getty images / JOEL SAGET Claude Mythos est un nouveau modèle d’intelligence artificielle (IA) d’Anthropic, spécialement conçu pour la cybersécurité.
+- Global Security Mag : pouvez-vous vous présenter et nous dire comment votre parcours professionnel vous a amené à votre rôle actuel ?.
+- Jean-François Pruvot : j’occupe le poste de RVP South Europe chez Saviynt, où je pilote le développement de nos activités sur cette région, en accompagnant les organisations dans la gestion et la sécurisation des identités et des accès.
+- Mon parcours s’est construit autour des enjeux de cybersécurité et de transformation numérique, avec une spécialisation progressive sur les problématiques d’identité, de gouvernance et de gestion des risques.
+- J’ai évolué dans différents environnements technologiques, ce qui m’a permis de développer une vision globale des défis auxquels les entreprises sont confrontées aujourd’hui.
 
-## [Sécurix et Bureautix, voici à quoi ressemble vraiment le Linux qui va remplacer Windows en France](https://www.clubic.com/dossier-609418-securix-et-bureautix-voici-a-quoi-ressemble-vraiment-le-linux-qui-va-remplacer-windows-en-france.html)  
-*Source : clubic.com | Publication : 2026-04-18*
+## [Reprendre le contrôle sur la visibilité de son exposition aux risques. - Global Security Mag](https://www.globalsecuritymag.fr/reprendre-le-controle-sur-la-visibilite-de-son-exposition-aux-risques.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-04-19*
 
-- Début avril 2026, la DINUM officialisait sa migration vers Linux.
-- Derrière cette décision, deux projets open source portent des noms qui fleurent bon Astérix : Sécurix et Bureautix.
-- Tour d'horizon d'une initiative qui dépasse largement le simple changement d'OS.
-- On vous en parlait il y a quelques jours : lors d'un séminaire le 8 avril, la Direction interministérielle du numérique (DINUM) a posé les premiers jalons de son départ de Windows vers Linux, en ciblant pour commencer 250 postes d'agents.
+- Global Security Mag : pouvez-vous vous présenter et nous dire comment votre parcours professionnel vous a amené à votre rôle actuel ?.
+- Bernard Montel : je suis Field CTO EMEA chez Tenable, où j’accompagne les organisations dans la compréhension et la maîtrise de leur exposition aux risques cyber, notamment dans des environnements cloud et hybrides de plus en plus complexes.
+- Avec plus de 25 ans d’expérience dans le domaine de la cybersécurité, j’ai développé une expertise couvrant des sujets clés tels que la gestion des vulnérabilités, la cryptographie, la gestion des identités et des accès, ainsi que les opérations de sécurité.
+- Mon parcours m’a conduit à occuper des fonctions à la fois techniques et stratégiques, ce qui m’a permis de construire une vision globale des enjeux de sécurité, de l’infrastructure traditionnelle aux architectures cloud modernes.
 
-## [Virage technologique : naissance du premier cluster IA et <b>cybersécurité</b> en Algérie](https://algeriepatriotique.com/2026/04/18/virage-technologique-naissance-du-premier-cluster-ia-et-cybersecurite-en-algerie/)  
-*Source : algeriepatriotique.com | Publication : 2026-04-18*
+## [Délinquance : Quimper face à la montée des cambriolages et de la <b>cybercriminalité</b>](https://www.letelegramme.fr/finistere/quimper-29000/delinquance-quimper-face-a-la-montee-des-cambriolages-et-de-la-cybercriminalite-7028577.php)  
+*Source : letelegramme.fr | Publication : 2026-04-19*
 
-- Le premier cluster de start-up en Algérie, spécialisé dans les domaines de l’intelligence artificielle (IA) et de la cybersécurité, a été lancé samedi à Alger, indique un communiqué du ministère de l’Enseignement supérieur et de la Recherche scientifique.
-- La cérémonie de lancement, organisée au niveau du pôle scientifique et technologique, Chahid Abdelhafid Ihaddaden, à Sidi Abdellah, a été présidée par le ministre de l’Enseignement supérieur et de la Recherche scientifique, Kamel Baddari, le ministre de l’Economie de la connaissance, des Start-up et des Micro-entreprises, Noureddine Ouadah, ainsi que le ministre de la Poste et des Télécommunications, Sid Ali Zerrouki, précise la même source.
-- Cet évènement constitue «une étape qualitative dans le processus de construction d’un écosystème national intégré de l’innovation, incarnant la nouvelle orientation de l’Etat visant à structurer le tissu entrepreneurial innovant à travers des clusters, à même de renforcer la compétitivité des start-up et à accroître leur capacité de création de valeur», selon la même source.
-- Le lancement de ce cluster s’inscrit également dans le cadre de «la mise en œuvre des dispositions du décret interministériel fixant les modalités de création et d’organisation des groupements de start-up, et vise à consolider l’intégration entre l’université, la recherche scientifique et l’entreprise économique, en vue d’accélérer la transformation des projets innovants en entités économiques à impact, ouvrant ainsi la voie à une nouvelle phase de coopération entre les différents acteurs de l’écosystème de l’innovation», lit-on dans le communiqué.
+- Le bilan de la délinquance à Quimper, en 2025, montre que la violence hors cadre familial stagne, mais les cambriolages explosent.
+- Le narcotrafic, moins visible, s’adapte, tandis que les escroqueries numériques grimpent.
+- Il y a un peu moins d’un an, le ministre de l’Intérieur, Bruno Retailleau, en déplacement à Quimper, se positionnait après une série de coups de feu dans le quartier de Kermoysan.
+- « Le narcotrafic à Quimper, comme ailleurs, génère de l’hyperviolence », assenait-il.
 
-## [<b>Cybercriminalité</b> : Elon Musk convoqué lundi devant la justice française - Sud Ouest](https://www.sudouest.fr/justice/cybercriminalite-elon-musk-convoque-lundi-devant-la-justice-francaise-28742413.php)  
-*Source : sudouest.fr | Publication : 2026-04-18*
+## [Quels conseils de <b>cybersécurité</b> pour les Français de l'étranger, en première ligne ?](https://lepetitjournal.com/expat-pratique/quels-conseils-cybersecurite-francais-etranger-menaces-premiere-ligne-440695)  
+*Source : lepetitjournal.com | Publication : 2026-04-19*
 
-- Le multimilliardaire américain est attendu lundi, en audition libre, dans le cadre de l’enquête menée par la justice française sur son réseau social X Elon Musk répondra-t-il à la convocation du parquet de Paris ?.
-- Le multimilliardaire américain est attendu lundi, en audition libre, dans le cadre de l’enquête menée par la justice française sur son réseau social X.
+- À l’heure où les mobilités internationales s’intensifient - expatriations, missions professionnelles, tourisme - , la cybersécurité n’est plus une affaire strictement nationale.
+- Elle suit désormais les citoyens dans leurs déplacements, exposant à des risques spécifiques, parfois invisibles mais bien réels.
+- Les récentes affaires de fuites de données massives et les alertes des autorités françaises témoignent d’un basculement.
+- Quels conseils donner aux Français qui sont à l’étranger ?.
 
-## [L'intégration pratique des nouveautés technologiques pour consacrer une véritable justice ...](https://www.aps.dz/fr/algerie/education-et-technologie/mo4kyv8q-l-integration-pratique-des-nouveautes-technologiques-pour-consacrer-une-veritable-justice-numerique)  
-*Source : aps.dz | Publication : 2026-04-18*
+## [Les cyberattaques se multiplient au Maroc : une menace qui vous concerne plus que vous ...](https://lematin.ma/societe/les-cyberattaques-se-multiplient-au-maroc/341222/amp)  
+*Source : lematin.ma | Publication : 2026-04-19*
 
-- Adrar L'intégration pratique des nouveautés technologiques pour consacrer une véritable justice numérique samedi 18 avril 2026 18:02 ADRAR- Le ministre de la Justice, garde des Sceaux, Lotfi Boudjemâa a mis en avant, samedi depuis Adrar, la nécessaire intégration pratique et la prospection des nouveautés technologiques pour la consécration d'une véritable justice numérique, à l'ère des mutations socioéconomiques.
-- Articles connexes.
+- 19 Avril 2026 À 17:00 Une cybercriminalité qui s’ancre dans le quotidien Dans ce climat d’inquiétude, les témoignages de victimes se multiplient.
+- Une femme, contactée dans le cadre de notre dossier, raconte avoir perdu plus de 30.000 dirhams après avoir cliqué sur un lien reçu par SMS, prétendument lié au paiement d’une amende routière.
+- «Tout paraissait crédible, le message ressemblait à un site officiel... je n’ai pas douté», confie-t-elle.Un cybercrime de plus en plus structuré et industrialisé Le phénomène ne cesse de se professionnaliser.
+- «Les cybercriminels deviennent de plus en plus spécialisés, formant de véritables écosystèmes organisés», explique Pr.
 
-## [PSG : Un suspect arrêté pour une arnaque de faux billets - Sports](https://sports.orange.fr/football/ligue-1/psg/article/psg-un-suspect-arrete-pour-une-arnaque-de-faux-billets-exclu-CNT000002oKqni.html)  
-*Source : sports.orange.fr | Publication : 2026-04-18*
+## [Les cyberattaques se multiplient au Maroc : une menace qui vous concerne plus que ... - Le Matin](https://lematin.ma/societe/les-cyberattaques-se-multiplient-au-maroc/341222)  
+*Source : lematin.ma | Publication : 2026-04-19*
 
-- Juba Touabi, Media365 : publié le samedi 18 avril 2026 à 18h45 Un homme de 22 ans a été mis en cause début mars dans l'Oise, soupçonné d'avoir écoulé des faux billets pour des matchs du Paris Saint-Germain.
-- L'interpellation, menée par la Brigade de lutte contre la cybercriminalité, a mis fin à un système frauduleux qui aurait lésé plus de 2 000 supporters parisiens, lors des deux dernières années, selon le quotidien régional Le Parisien.
-- Le suspect opérait avec des comptes spécialisés sur les réseaux sociaux, depuis lesquels il proposait à des acheteurs des places pour les rencontres du club de la capitale.
-- Une arnaque à 40 000 euros Placé en garde à vue, le mis en cause a reconnu les faits.
+- Une cybercriminalité qui s’ancre dans le quotidien Après avoir renseigné ses coordonnées bancaires, les prélèvements se sont enchaînés.
+- Aujourd’hui, elle tente d’obtenir réparation auprès de sa banque, mais se heurte à une réalité brutale : «On m’a expliqué que, comme j’ai moi-même saisi mes informations, il sera très difficile de récupérer mon argent».
+- Une situation loin d’être isolée, alors que de nombreux citoyens s’interrogent : que se passe-t-il lorsque nos données sont exposées ?.
+- Quels risques encourt-on réellement, parfois des semaines ou des mois après une fuite ?.
 
-## [Châteauneuf-sur-Isère. Une initiation à la <b>cybersécurité</b> - Le Dauphiné Libéré](https://www.ledauphine.com/science-et-technologie/2026/04/18/une-initiation-a-la-cybersecurite)  
-*Source : ledauphine.com | Publication : 2026-04-18*
+## [<b>Ransomware</b> : derrière certaines cyberattaques, l'ombre de Moscou - LeMagIT](https://www.lemagit.fr/dessin/Ransomware-derriere-certaines-cyberattaques-lombre-de-Moscou)  
+*Source : lemagit.fr | Publication : 2026-04-19*
 
-- Châteauneuf-sur-Isère Une initiation à la cybersécurité Une initiation à la cybersécurité sera proposée à travers des ateliers pratiques et pédagogiques : des étudiants ingénieurs vous accompagnent pour sécuriser vos données, vos mots de passe et vos connexions au quotidien.
-- Protégez votre vie numérique avec l’expertise de Grenoble INP-Esisar-UGA.
-- Le samedi 25 avril à 10 heures à la médiathèque de Châteauneuf-sur-Isère, sur inscriptions au 04 75 60 74 51.
+- Ransomware : derrière certaines cyberattaques, l’ombre de Moscou Les soupçons de liens entre certains acteurs du rançongiciel et le pouvoir central russe apparaissent de plus en plus confortés, à mesure que se multiplient les indices.
+- > Lire l’article de Valéry Rieß-Marchive.
 
-## [PSG. Un homme arrêté après une enquête sur la vente de faux billets qui aurait fait 2000 victimes](https://www.ouest-france.fr/sport/football/paris-sg/psg-un-homme-arrete-apres-une-enquete-sur-la-vente-de-faux-billets-qui-aurait-fait-2000-victimes-5f95ec7a-3b34-11f1-a950-0332529e658c)  
-*Source : ouest-france.fr | Publication : 2026-04-18*
+## [Création du premier cluster pour l'IA et la <b>cybersécurité</b> - L'Algérie Aujourd'hui](https://lalgerieaujourdhui.dz/creation-du-premier-cluster-pour-lia-et-la-cybersecurite/)  
+*Source : lalgerieaujourdhui.dz | Publication : 2026-04-19*
 
-- Selon une information du Parisien ce samedi 18 avril 2026, la Brigade de lutte contre la cybercriminalité (BL2C) a interpellé un homme dans le.
+- يتم التحقّق من أن طلبك ليس طلباً آلياً... Verifying that you are not a robot... Please wait few seconds...الرجاء الإنتظار بضعة ثوان DZSecurity.
 
-## [PSG. Un homme arrêté après une enquête sur la vente de faux billets qui aurait fait 2000 - Lorient](https://lorient.maville.com/sport/detail_-psg.-un-homme-arrete-apres-une-enquete-sur-la-vente-de-faux-billets-qui-aurait-fait-2000-victimes-_54135-7285687_actu.Htm)  
-*Source : lorient.maville.com | Publication : 2026-04-18*
+## [Anthropic au cœur des tensions autour de l'IA et de la <b>cybersécurité</b> - Begeek](https://www.begeek.fr/anthropic-au-coeur-des-tensions-autour-de-lia-et-de-la-cybersecurite-431117)  
+*Source : begeek.fr | Publication : 2026-04-19*
 
-- Selon une information du Parisien ce samedi 18 avril 2026, la Brigade de lutte contre la cybercriminalité (BL2C) a interpellé un homme dans le cadre d’une enquête autour de la vente de faux billets pour les matches du Paris Saint-Germain.
-- Une vaste arnaque qui aurait fait près de 2000 victimes et rapporté 40 000 euros au jeune homme de 22 ans.
-- Après deux ans d’arnaque, un homme a été interpellé par la Brigade de lutte contre la cybercriminalité (BL2C) le 3 mars dernier.
-- L’information a été publiée ce samedi dans les colonnes du Parisien.
+- Anthropic au cœur des tensions autour de l’IA et de la cybersécurité Entre promesse défensive et risque offensif, Mythos suscite une vive inquiétude.
+- Tl;dr Les autorités américaines s’inquiètent du modèle d’IA « Mythos », capable de bouleverser rapidement la cybersécurité et cherchent à y accéder.
+- - Cette IA développée par Anthropic peut détecter et exploiter des milliers de failles, accélérant potentiellement les cyberattaques.
+- - Malgré son objectif défensif, elle crée un risque majeur : un décalage entre découverte des vulnérabilités et leur correction, exposant systèmes et infrastructures.
 
-## [Maroc-USA: Une importante délégation marocaine reçue par le Secrétaire américain à la Guerre](https://www.lavieeco.com/pouvoirs/maroc-usa-une-importante-delegation-marocaine-recue-par-le-secretaire-americain-a-la-guerre/)  
-*Source : lavieeco.com | Publication : 2026-04-18*
+## [Construire une industrie de la <b>cybersécurité</b> autonome et forte, en privilégiant les produits](https://www.vietnam.vn/fr/xay-dung-nen-cong-nghiep-an-ninh-mang-tu-chu-tu-cuong-uu-tien-san-pham-make-in-vietnam)  
+*Source : vietnam.vn | Publication : 2026-04-19*
 
-- cybersécurité.
-- Publié le.
-- 18 avril 2026. à.
-- 15h16.
+- La directive 57 souligne la nécessité de concentrer les ressources sur la construction d'une industrie de la cybersécurité autonome et performante, en privilégiant le développement de produits « Fabriqués au Vietnam ».
+- Photo : VGP Prioriser le développement des produits « Fabriqués au Vietnam ».
+- Ce contenu est énoncé dans la Directive n° 57-CT/TW du Secrétariat du Comité central sur le renforcement de la cybersécurité , de la sécurité de l'information et de la sécurité des données dans le système politique (Directive 57).
+- L'une des tâches et solutions décrites dans la Directive 57 consiste à mettre en place une posture de sécurité des populations liée à une posture de défense nationale dans le cyberespace ; et à développer le potentiel, la technologie et les ressources humaines.
 
-## [PSG. Un homme arrêté après une enquête sur la vente de faux billets qui aurait fait 2000 - St-Nazaire](https://saint-nazaire.maville.com/sport/detail_-psg.-un-homme-arrete-apres-une-enquete-sur-la-vente-de-faux-billets-qui-aurait-fait-2000-victimes-_54135-7285687_actu.Htm)  
-*Source : saint-nazaire.maville.com | Publication : 2026-04-18*
+## [108 extensions Chrome malveillantes dérobent vos données et inondent vos pages de publicités](https://www.servicesmobiles.fr/108-extensions-chrome-malveillantes-derobent-vos-donnees-et-inondent-vos-pages-de-publicites-supprimez-les-durgence-111492)  
+*Source : servicesmobiles.fr | Publication : 2026-04-19*
 
-- Selon une information du Parisien ce samedi 18 avril 2026, la Brigade de lutte contre la cybercriminalité (BL2C) a interpellé un homme dans le cadre d’une enquête autour de la vente de faux billets pour les matches du Paris Saint-Germain.
-- Une vaste arnaque qui aurait fait près de 2000 victimes et rapporté 40 000 euros au jeune homme de 22 ans.
-- Après deux ans d’arnaque, un homme a été interpellé par la Brigade de lutte contre la cybercriminalité (BL2C) le 3 mars dernier.
-- L’information a été publiée ce samedi dans les colonnes du Parisien.
+- 108 extensions Chrome malveillantes dérobent vos données et inondent vos pages de publicités : supprimez-les d’urgence Une nouvelle alerte de sécurité concerne Google Chrome : 108 extensions malveillantes ont été identifiées.
+- Elles volent des données personnelles et injectent des publicités sur tous les sites consultés, mettant ainsi en danger la vie privée des utilisateurs.
+- Tl;dr 108 extensions Chrome malveillantes, 20 000 installations détectées.
+- - Données volées centralisées sur un même serveur C2.
 
-## [PSG. Un homme arrêté après une enquête sur la vente de faux billets qui aurait fait 2000 - Caen](https://caen.maville.com/sport/detail_-psg.-un-homme-arrete-apres-une-enquete-sur-la-vente-de-faux-billets-qui-aurait-fait-2000-victimes-_54135-7285687_actu.Htm)  
-*Source : caen.maville.com | Publication : 2026-04-18*
+## [Affaire Maabio: un internaute interpellé et déféré après des propos sur les réseaux sociaux - AIP](https://www.aip.ci/electionpresidentielle2025/article.php?id=347111)  
+*Source : aip.ci | Publication : 2026-04-19*
 
-- Selon une information du Parisien ce samedi 18 avril 2026, la Brigade de lutte contre la cybercriminalité (BL2C) a interpellé un homme dans le cadre d’une enquête autour de la vente de faux billets pour les matches du Paris Saint-Germain.
-- Une vaste arnaque qui aurait fait près de 2000 victimes et rapporté 40 000 euros au jeune homme de 22 ans.
-- Après deux ans d’arnaque, un homme a été interpellé par la Brigade de lutte contre la cybercriminalité (BL2C) le 3 mars dernier.
-- L’information a été publiée ce samedi dans les colonnes du Parisien.
+- Côte d’Ivoire-AIP/ Affaire Maabio: un internaute interpellé et déféré après des propos sur les réseaux sociaux Par MARYAM COULIBALY / 13 avril 2026 à 20:50 / il y a 6 jours / Temps de lecture : 2 minAbidjan, 13 avr 2026 (AIP) – Un internaute a été interpellé puis déféré devant le procureur de la République pour des propos jugés incitatifs à la violence contre les femmes, à la suite d’une publication diffusée sur les réseaux sociaux par l’influenceuse Maabio, rapporte la plateforme Police Secours dans une publication faite lundi 13 avril 2026.
+- À l’origine de l’affaire, un direct sur TikTok au cours duquel la tiktokeuse ivoirienne Yelenn Kouamé, dite “Maabio”, a évoqué des violences qu’elle aurait subies dans une précédente relation, suscitant une vive réaction de l’opinion publique.
+- Dans la foulée, un individu a publié sur Facebook un message estimant « logique » de frapper une femme, provoquant une nouvelle vague d’indignation.
+- Informé de la situation, le ministère en charge de la Femme a réagi en convoquant l’auteur des propos pour une rencontre.
 
-## [Convention de Hanoï : le Vietnam dépose l'instrument de ratification à l'ONU](https://lecourrier.vn/convention-de-hanoi-le-vietnam-depose-linstrument-de-ratification-a-lonu/1345767.html)  
-*Source : lecourrier.vn | Publication : 2026-04-18*
+## [Un accord Vietnam–Allemagne pour la formation de ressources humaines qualifiées](https://vietnam.vnanet.vn/french/tin-van/un-accord-vietnam–allemagne-pour-la-formation-de-ressources-humaines-qualifiees-441368.html)  
+*Source : vietnam.vnanet.vn | Publication : 2026-04-19*
 
-- >> La police alerte sur la cybercriminalité transnationale impliquant des étrangers >> Le secrétaire général et président Tô Lâm signe la décision ratifiant la Convention de Hanoï Le dépôt intervient après la signature, le 7 avril, par le secrétaire général du Parti et président de la République, Tô Lâm, de la décision de ratification, faisant du Vietnam le premier pays d’Asie du Sud-Est et le troisième au monde à ratifier cette Convention.
-- Lors de la cérémonie, le Bureau des affaires juridiques de l’ONU a officiellement reçu l’instrument de ratification du Vietnam en présence du chef du bureau de l’Office des Nations unies contre la drogue et le crime (UNODC) à New York.
-- À cette occasion, l’ambassadeur Dô Hùng Viêt a souligné que l’organisation de la cérémonie d’ouverture à la signature à Hanoï et la ratification rapide par le Vietnam reflètent sa volonté de contribuer de manière proactive et concrète à l’entrée en vigueur et à la mise en œuvre de la Convention, renforçant ainsi la coopération internationale dans la lutte contre la cybercriminalité et la cybersécurité mondiale.
-- Il a exprimé l’espoir que davantage de pays ratifient rapidement la Convention de Hanoï afin de traduire les engagements en actions et de promouvoir la coopération internationale face aux défis de la cybercriminalité, au service de la stabilité, du développement durable et de la prospérité commune.
+- cybersécurité , ainsi que le.
+- Lutte contre la cybercriminalité : Le Vietnam dépose linstrument de ratification de la Convention de Hanoï.
 
-## [Jamais un pays n'a connu une coupure aussi longue: l'Iran est désormais privé d'Internet ...](https://www.bfmtv.com/tech/vie-numerique/jamais-un-pays-n-a-connu-une-coupure-aussi-longue-l-iran-est-desormais-prive-d-internet-depuis-50-jours_AD-202604180256.html)  
-*Source : bfmtv.com | Publication : 2026-04-18*
+## [Italo Vignoli (LibreOffice) : &quot;Les entreprises vivent aux dépens des particuliers qui nous soutiennent&quot;](https://www.clubic.com/dossier-609151-les-entreprises-ne-voient-que-la-gratuite-et-vivent-aux-depens-des-particuliers-qui-nous-soutiennent---interview-the-document-foundation.html)  
+*Source : clubic.com | Publication : 2026-04-19*
 
-- Jamais un pays n'a connu une coupure aussi longue: l'Iran est désormais privé d'Internet depuis 50 jours La coupure de l'internet imposée par les autorités iraniennes au début de la guerre entre dans son 50e jour, battant de nouveaux records, a rapporté ce samedi 18 avril l'ONG de surveillance de la cybersécurité NetBlocks.
-- "L'Iran est désormais coupé de l'internet mondial depuis sept semaines, le blackout numérique entre dans son 50e jour, soit 1.176 heures", écrit sur X l'organisation.
-- Les données, ajoute-t-elle, "montrent que cette mesure, sans précédent pour une société connectée, continue de nuire aux moyens d'existence et aux droits de la plupart des Iraniens".
-- Certains utilisent des réseaux privés virtuels Le 5 avril, la coupure avait atteint un record à l'échelle d'un pays, selon Netblocks.
+- Trente ans après la naissance de Microsoft Office, un logiciel libre tient toujours tête au géant de Redmond.
+- Italo Vignoli, responsable de la communication de The Document Foundation, explique pourquoi LibreOffice refuse de copier ses concurrents sur l'IA, comment il compte régler son compte à OnlyOffice, et ce que « souveraineté numérique » veut vraiment dire quand on n'a pas un centime de budget marketing.
+- L'Allemagne vient de faire de l'ODF le standard obligatoire de toute son administration publique.
+- Une victoire symbolique pour LibreOffice.
 
-## [Le PDG de Barclays met en garde contre l'IA Mythos d'Anthropic comme un potentiel ...](https://fr.benzinga.com/latest-news/le-pdg-de-barclays-met-en-garde-contre-lia-mythos-danthropic-comme-un-potentiel-catalyseur-pour-les-cyberattaques-contre-les-banques-mondiales-un-probleme-serieux/)  
-*Source : fr.benzinga.com | Publication : 2026-04-18*
+## [Bénin : accusé de <b>cybercriminalité</b> et de complot, « Agbaza » jugé avec son épouse à la CRIET](https://lanouvelletribune.info/2026/04/benin-accuse-de-cybercriminalite-et-de-complot-agbaza-juge-avec-son-epouse-a-la-criet/)  
+*Source : lanouvelletribune.info | Publication : 2026-04-19*
 
-- Vendredi, le PDG de Barclays PLC (NYSE:BCS), CS Venkatakrishnan, a averti qu’un nouveau modèle d’IA puissant développé par Anthropic pourrait accroître considérablement les risques liés à la cybersécurité dans l’ensemble du système bancaire mondial.
-- Mythos AI soulève des inquiétudes en matière de cybersécurité Lors d’une réunion du groupe de conseil G30 pendant les réunions de printemps du FMI, Venkatakrishnan a décrit le modèle avancé Mythos comme “un problème sérieux”, en raison de ses capacités avancées en matière de codage, selon un rapport de Reuters.
-- Il a déclaré que l’IA pourrait potentiellement identifier des vulnérabilités dans les systèmes financiers et même suggérer des moyens de les exploiter, ce qui constitue un risque sans précédent pour les banques.
-- Une course aux armements en matière d’IA se profile pour les banques Venkatakrishnan a averti que Mythos n’était que le début.
+- Au Bénin, ADEH Semêvo Jude Angeles, alias Agbaza, et son épouse ont comparu le vendredi 17 avril 2026 devant la chambre criminelle de la Cour de répression des infractions économiques et du terrorisme (CRIET).
+- Les deux accusés sont poursuivis pour des faits de complot contre la sûreté de l’État et de cybercriminalité.
+- Présenté comme proche de l’activiste panafricain Kemi Seba, Agbaza a été le premier appelé à la barre lors de cette audience consacrée à l’inculpation rapporte le média Libre Express.
+- Se déclarant technicien en froid et climatisation, il a rejeté les accusations portées contre lui.
 
-## [Voiture connectée : Stellantis mise sur l'IA avec Microsoft - Auto Plus](https://www.autoplus.fr/actualite/voiture-connectee-stellantis-mise-sur-lia-avec-microsoft-1437436.html)  
-*Source : autoplus.fr | Publication : 2026-04-18*
+## [Agents IA: les experts en <b>cybersécurité</b> alertent sur des risques croissants - L'essentiel](https://www.lessentiel.lu/fr/story/securite-la-popularite-des-agents-ia-inquiete-103548893)  
+*Source : lessentiel.lu | Publication : 2026-04-19*
 
-- Voiture connectée : Stellantis mise sur l’IA avec Microsoft En avril 2026, Stellantis renforce son alliance avec Microsoft pour injecter l’IA au cœur de la voiture connectée.
-- Conduite, mises à jour, cybersécurité : l’expérience à bord change de dimension.
-- Demain, votre voiture connectée pourrait vous suggérer la façon la plus économe de traverser la ville, vous prévenir avant qu’une panne ne se prépare et télécharger de nouvelles fonctions pendant que vous dormez.
-- Ce scénario n’a plus grand-chose de futuriste : le groupe Stellantis vient de renforcer son alliance avec Microsoft autour de l’intelligence artificielle et du cloud.
+- SécuritéLa popularité des agents IA inquiète Avec leurs 3 millions d'utilisateurs, les agents IA suscitent des inquiétudes.
+- Autonomes, rapides mais hors de contrôle et vulnérables?.
+- La montée en puissance des agents d'intelligence artificielle (IA), comme ceux du très tendance OpenClaw, fait craindre aux spécialistes en cybersécurité une amplification des risques d'erreurs ou d'attaques.
+- Devenu en quelques mois le nouveau phénomène du secteur de l'IA, avec plus de 3 millions d'utilisateurs revendiqués, ce créateur d'agents, soit des outils basés sur un modèle d'IA choisi par l'utilisateur et capables d'effectuer des tâches en ligne, attise la curiosité autant que les craintes.
 
-## [<b>Cybersécurité</b> : «Les hackers sont devenus des professionnels, c'est un business»](https://fnh.ma/article/alaune/cybersecurite-hackers-professionnels-business)  
-*Source : fnh.ma | Publication : 2026-04-18*
+## [Le secteur de l'innovation se structure : Lancement du premier cluster de startups en IA](https://www.jeune-independant.net/le-secteur-de-linnovation-se-structure-lancement-du-premier-cluster-de-startups-en-ia/)  
+*Source : jeune-independant.net | Publication : 2026-04-19*
 
-- À l’occasion de la 4ème édition du Gitex Africa, Pascal Naudin, Head of B2B Morocco, Tunisia, West & Central Africa chez Kaspersky, dresse un état des lieux des cybermenaces en Afrique.
-- Il revient sur la montée des attaques, l’évolution des modes opératoires des cybercriminels, l’impact de l’intelligence artificielle et les fragilités persistantes des entreprises face à ces nouveaux risques.
-- Propos recueillis par K. A.
-- Finances News Hebdo : Selon votre dernier Security Bulletin, vous détectez environ 500.000 nouveaux malwares par jour dans le monde, en hausse de 7%.
+- Le secteur de l’innovation se structure : Lancement du premier cluster de startups en IA Le pôle scientifique et technologique Abdelhafid-Ihaddaden de Sidi Abdellah a abrité, ce samedi, la cérémonie de lancement du premier cluster de startups en Algérie spécialisé dans les domaines de l’intelligence artificielle et de la cybersécurité.
+- L’événement a été présidé par le ministre de l’Enseignement supérieur et de la Recherche scientifique, Kamel Baddari, en présence du ministre de l’Économie de la connaissance, des Startups et des Micro-entreprises, Noureddine Ouadah, ainsi que du ministre de la Poste et des Télécommunications, Sid Ali Zerrouki.
+- Ce lancement s’inscrit dans le cadre d’une rencontre consacrée à l’innovation et l’investissement dans le domaine de l’intelligence artificielle.
+- Il marque une étape importante dans la mise en place d’un écosystème national intégré de l’innovation, en ligne avec l’orientation des pouvoirs publics visant à structurer le tissu entrepreneurial à travers des mécanismes de regroupement (clusters), et ce, dans l’objectif de renforcer la compétitivité des startups et d’accroître leur capacité à générer de la valeur.
