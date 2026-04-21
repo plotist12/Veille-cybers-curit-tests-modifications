@@ -1,151 +1,143 @@
-# Résumés – 2026-04-20
+# Résumés – 2026-04-21
 
 
-## [Forum Bourse ATOS - 20/04/2026 19:36:19 - <b>Cyber sécurité</b> - Boursorama](https://www.boursorama.com/bourse/forum/1rPATO/detail/467892158/)  
-*Source : boursorama.com | Publication : 2026-04-20*
+## [<b>Cybersécurité</b> maritime : la vulnérabilité numérique à l'épreuve du droit | Mer et Marine](https://www.meretmarine.com/fr/marine-marchande/cybersecurite-maritime-la-vulnerabilite-numerique-a-l-epreuve-du-droit)  
+*Source : meretmarine.com | Publication : 2026-04-21*
 
-- Politique d'exécution - Autres places de cotation Fermer ouverture 37,460 clôture veille 38,020 + haut 38,340 + bas 36,720 volume 101 549 capital échangé 0,51% valorisation.
-- dernier échange 20.04.26 / 17:35:30 limite à la baisse Qu'est-ce qu'une limite à la hausse/baisse ?.
-- Fermer35,400 limite à la hausse Qu'est-ce qu'une limite à la hausse/baisse ?.
-- Fermer39,120 rendement estimé 2026 - PER estimé 2026 Qu'est-ce que le PER ?.
+- A l’heure où les systèmes de navigation, de gestion des cargaisons et de communication à bord des navires reposent massivement sur des architectures numériques interconnectées, la cybersécurité maritime s’impose comme un défi stratégique majeur.
+- Entre vulnérabilités techniques, enjeux de souveraineté et lacunes normatives, cet article interroge la capacité du droit à répondre aux cybermenaces qui pèsent sur le secteur maritime.
+- Un article de Mayssa Khaskhoussi, Boubou Diallo, Kwasi Agbalenyo et Mor Mbaye, étudiants du Master 2 Droit et sécurité des activités maritimes et océaniques (DSAMO) de Nantes Université.
+- En l'espace de quelques décennies, le transport maritime est devenu structurellement dépendant des systèmes informatiques embarqués et de la gestion numérisée.
 
-## [« Protéger vos données – en ligne et hors ligne » – l'OFCS présent à la BEA 2026](https://www.ncsc.admin.ch/ncsc/fr/home/aktuell/im-fokus/2026/MM-BEA-2026.html)  
-*Source : ncsc.admin.ch | Publication : 2026-04-20*
+## [Wind River rejoint la CHERI Alliance et collabore avec Innovate UK pour accélérer l ...](https://fr.finance.yahoo.com/actualites/wind-river-rejoint-cheri-alliance-201000118.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-04-21*
 
-- 23.04.2026 - Pour que la population puisse se familiariser avec les questions relevant de la cybersécurité, l’Office fédéral de la cybersécurité (OFCS) sera présent à la foire BEA de Berne entre le 24 avril et le 3 mai 2026.
-- Il y tiendra un stand interactif.
-- En collaboration avec la Prévention Suisse de la Criminalité (PSC), les Chemins de fer fédéraux (CFF), la Poste, le projet « eBanking – aber sicher » de la Haute école de Lucerne, Netpathie et le CYD Campus, l’OFCS entend montrer que les dangers du monde numérique sont bien réels et expliquer comment s’en protéger efficacement grâce à des mesures simples.
-- De nombreuses personnes considèrent que la cybersécurité est une notion abstraite, compliquée et fastidieuse.
+- Wind River rejoint la CHERI Alliance et collabore avec Innovate UK pour accélérer l’innovation en matière de cybersécurité GLASGOW, Écosse, April 21, 2026--(BUSINESS WIRE)--CYBERUK 2026 — Wind River, une société du groupe Aptiv et leader mondial des logiciels critiques pour l’intelligent edge, a annoncé aujourd’hui avoir rejoint la CHERI Alliance, un groupe qui promeut l’adoption mondiale de la technologie de sécurité Capability Hardware Enhanced RISC Instructions (CHERI).
+- L’architecture CHERI est conçue pour renforcer la sécurité des systèmes grâce à la protection de la mémoire et aux autorisations d’accès, ce qui permet de lutter contre des problèmes de sécurité tels que la corruption de la mémoire et l’exécution de code non autorisé.
+- La collaboration de Wind River avec l’Alliance vise à aider l’écosystème à développer des produits plus sûrs et à stimuler l’innovation en matière de cybersécurité en réduisant les vulnérabilités de la mémoire.
+- « Des avancées telles que CHERI marquent un tournant important vers une sécurité renforcée par le matériel, qui servira de fondement aux systèmes de nouvelle génération.
 
-## [Restauration après un <b>ransomware</b> : 90 % des entreprises confiantes, mais seules 28 ... - ITRnews](https://itrnews.com/articles/209536/restauration-apres-un-ransomware-90-des-entreprises-confiantes-mais-seules-28-y-parviennent-integralement.html)  
-*Source : itrnews.com | Publication : 2026-04-20*
+## [Fuite de données à l'ANTS: près de 12 millions de comptes concernés par l'attaque informatique](https://www.bfmtv.com/tech/cybersecurite/fuite-de-donnees-a-l-ants-pres-de-12-millions-de-comptes-concernes-par-l-attaque-informatique_AD-202604210879.html)  
+*Source : bfmtv.com | Publication : 2026-04-21*
 
-- Veuillez activer Javascript.
+- Fuite de données à l'ANTS: près de 12 millions de comptes concernés par l'attaque informatique Près de 12 millions de comptes sont concernés par l'incident de sécurité qui a frappé le portail de l'Agence nationale des titres sécurisés (ANTS) le 15 avril, a indiqué ce mardi 21 avril le ministère de l'Intérieur.
+- Au total "11,7 millions de comptes seraient concernés" par cette attaque qui pourrait impliquer des données de particuliers et de professionnels, a souligné la place Beauvau dans un communiqué.
+- Outre un signalement adressé à la justice, le ministre Laurent Nuñez, "très attentif à la situation", a saisi "en parallèle l'Inspection générale de l'administration pour établir la chaîne de responsabilité dans cet incident sérieux, la sûreté numérique étant un enjeu collectif majeur", précise le communiqué.
+- "Ces données ne permettent pas d'accès illégitime au compte nominatif sur le portail", est-il ajouté.
 
-## [Atos intègre Google threat intelligence à son portefeuille de <b>cybersécurité</b> - Zonebourse](https://www.zonebourse.com/actualite-bourse/atos-integre-google-threat-intelligence-a-son-portefeuille-de-cybersecurite-ce7f59dad88ef52d)  
-*Source : zonebourse.com | Publication : 2026-04-20*
+## [<b>Cybersécurité</b> : Fascisant contrat de la DGSI avec Palantir | Le Canard enchaîné](https://www.lecanardenchaine.fr/defense/53716-fascisant-contrat-de-la-dgsi-avec-palantir)  
+*Source : lecanardenchaine.fr | Publication : 2026-04-21*
 
-- Atos intègre Google threat intelligence à son portefeuille de cybersécurité Publié le 20/04/2026 à 16:08 Reuters Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
-- Inscription 100% Gratuite Vous êtes déja client ?.
-- Se connecter © Reuters - 2026 Partager.
+- Par Quentin-Mathéo Pihour Alors que le renseignement français a renouvelé pour trois ans son contrat avec l'entreprise du milliardaire trumpiste Peter Thiel, ce fleuron de la surveillance américaine vient de publier un manifeste aux accents ouvertement autoritaires.
+- Décidément, nos pandores ont le secret bien gardé !.
+- Palantir, pépite de la tech américaine spécialisée dans les logiciels de surveillance et d’analyse des données, a publié sur X (18/4) un manifeste qui fait un peu froid dans le dos.
+- D’autant que l’entreprise, fondée avec l’argent de la CIA, fournit des logiciels à la DGSI, notre Direction générale de la sécurité intérieure… et que le contrat vient d’être renouvelé pour trois ans.
 
-## [Une nouvelle fuite de données touche un opérateur clé de l'État français. - INCYBER NEWS](https://incyber.org/article/une-nouvelle-fuite-de-donnees-touche-un-operateur-cle-de-letat-francais/)  
-*Source : incyber.org | Publication : 2026-04-20*
+## [Airbus engage l'acquisition d'une société française de <b>cybersécurité</b> : quels sont les enjeux ?](https://lopinion.com/amp/articles/economie/33338_airbus-engage-acquisition-societe-francaise-cybersecurite-enjeux)  
+*Source : lopinion.com | Publication : 2026-04-21*
 
-- Une nouvelle fuite de données touche un opérateur clé de l’État français.
-- Articles du même auteur : 1 3 20.04.26 Transformation numérique Cal abandonne l’open source sous la pression de l’IA Lire 01.
+- Airbus engage l’acquisition d’une société française de cybersécurité : quels sont les enjeux ?.
+- Ce mardi 21 avril, Airbus annonce la conclusion d’un accord, en vue de l’acquisition de la société française de cybersécurité Quarkslab.
+- Cet investissement fait suite au projet d'acquisition d'Ultra Cyber Ltd au Royaume-Uni, dévoilé en mars 2026.
+- Zoom sur les motivations du groupe toulousain.
 
-## [Hébergement des données sensibles de l'État : le gouvernement fixe enfin le cadre réglementaire](https://incyber.org/article/hebergement-donnees-sensibles-etat-gouvernement-fixe-enfin-cadre-reglementaire/)  
-*Source : incyber.org | Publication : 2026-04-20*
+## [Airbus renforce la <b>cybersécurité</b> avec Quarkslab - AeroMorning.com](https://aeromorning.com/airbus-renforce-la-cybersecurite-avec-quarkslab/)  
+*Source : aeromorning.com | Publication : 2026-04-21*
 
-- Hébergement des données sensibles de l’État : le gouvernement fixe enfin le cadre réglementaire Articles du même auteur : 1 20.04.26 Transformation numérique Cal abandonne l’open source sous la pression de l’IA Lire 01.
+- Airbus continue de renforcer la cybersécurité souveraine avec l'acquisition de Quarkslab en France.
+- Paris, 21 avril 2026 — Airbus a conclu un.
 
-## [Sécurisation des données dans la gestion de flotte : pourquoi la <b>cybersécurité</b> devient un ...](https://www.transport-magazine.com/carrosserie/cybersecurite-donnees-gestion-de-flotte-operationalisation-1776711788085)  
-*Source : transport-magazine.com | Publication : 2026-04-20*
+## [Cyberchiens équipés de fusils, minichars... La Chine dévoile son armée de robots tueurs (vidéo)](https://www.cnews.fr/vie-numerique/2026-04-21/cyberchiens-equipes-de-fusils-minichars-la-chine-devoile-son-armee-de)  
+*Source : cnews.fr | Publication : 2026-04-21*
 
-- Les outils de gestion de flotte se sont profondément connectés : télématique pour le suivi des véhicules, maintenance assistée par données, reportings automatisés, interfaces web pour les ateliers et les gestionnaires.
-- Cette transformation améliore la visibilité et la planification, mais elle élargit aussi la surface d’exposition numérique.
-- L’enjeu n’est plus uniquement “technique” : il devient un critère de fiabilité opérationnelle, car des données non maîtrisées peuvent affecter la qualité des décisions, la continuité de service et, plus largement, la confiance dans les processus.
-- Dans cette perspective, la cybersécurité des données doit être traitée comme un sujet de gouvernance et de contrôle : qui accède à quoi, comment les actions sont consignées, comment les échanges sont protégés, et comment les services résistent à un incident.
+- Ce dernier était capable de marcher, sauter, se coucher, reculer, le tout sous le contrôle d'un opérateur à distance.
+- Cybersécurité ChienChineRobot.
 
-## [WhatsApp: l'arnaque au faux concours de vote arrive en Suisse - 24 Heures](https://www.24heures.ch/whatsapp-larnaque-au-faux-concours-de-vote-arrive-en-suisse-935341204794)  
-*Source : 24heures.ch | Publication : 2026-04-20*
+## [ANTS piratée : après le Crous, le Ficoba, les tireurs sportifs, la police et les autres, qui croit ...](https://www.breizh-info.com/2026/04/21/259178/ants-piratee-apres-le-crous-le-ficoba-les-tireurs-sportifs-la-police-et-les-autres-qui-croit-encore-a-la-cybersecurite-de-letat-francais/)  
+*Source : breizh-info.com | Publication : 2026-04-21*
 
-- CybercriminalitÃ© en Suisse Sous couvert dâun simple vote en ligne, des escrocs piÃ¨gent les victimes, dÃ©tournent leur compte et sâen servent pour atteindre dâautres contacts.
-- Une nouvelle arnaque circule sur WhatsApp sous la forme dâun message anodin: un proche vous demande de Â«voterÂ» pour sa niÃ¨ce, son enfant ou la fille dâun ami dans un prÃ©tendu concours en ligne.
-- En rÃ©alitÃ©, il sâagit dâune opÃ©ration de phishing destinÃ©e Ã prendre le contrÃ´le de votre compte, alerte le site Presse Citron.
-- RepÃ©rÃ©e en octobre dernier par le site Kaspersky, lâarnaque du faux concours de vote sâest dâabord propagÃ©e en Europe, pour arriver en Suisse ces derniÃ¨res semaines, faisant dÃ©jÃ des victimes selon certains tÃ©moignages recueillis par notre rÃ©daction.
+- Les spécialistes de la cybersécurité le martèlent depuis des années : la centralisation croissante des données publiques et l'élargissement des usages.
 
-## [Mythos, l'IA qui fait peur même à son créateur - Courrier international](https://www.courrierinternational.com/article/intelligence-artificielle-mythos-l-ia-qui-fait-peur-meme-a-son-createur_243132)  
-*Source : courrierinternational.com | Publication : 2026-04-20*
+## [Un label pour fiabiliser les experts du numérique qui démarchent les TPE et les PME](https://www.solutions-numeriques.com/un-label-pour-fiabiliser-les-experts-du-numerique-qui-demarchent-les-tpe-et-les-pme/)  
+*Source : solutions-numeriques.com | Publication : 2026-04-21*
 
-- Tout a commencé le 7 avril, avec l’annonce par Anthropic que Claude Mythos Preview, son nouveau grand modèle de langage (LLM), était “trop dangereux” pour que l’entreprise américaine d’intelligence artificielle (IA) “le mette à disposition du grand public”, relate Scientific American.
-- Depuis, les spécialistes en cybersécurité “sont divisés quant à savoir si Mythos constitue une rupture majeure ou s’il s’agit d’une étape prévisible sur une pente déjà inquiétante”, relève le magazine scientifique.
-- Le monde de la finance et les gouvernements, eux, prennent le risque au sérieux.
-- Colmater les brèches Le LLM se distinguerait par ses qualités de détection des failles de sécurité.
+- En désignant ScoreFact pour piloter un futur dispositif de labellisation, la Direction générale des Entreprises tente d’aider les entreprises à s’orienter dans un écosystème de prestataires parfois difficile à décrypter.
+- Un marché de prestataires de la transformation numérique abondant… mais peu lisible Externaliser sa stratégie numérique, sa cybersécurité ou ses outils de gestion est devenu une pratique courante.
+- Encore faut-il savoir à qui s’adresser.
+- Derrière la diversité des offres, le manque de repères reste marqué.
 
-## [CRM : la sécurité des données devient le premier enjeu en 2026 - RelationclientMag.fr](https://www.relationclientmag.fr/techno-ux-1256/crm-la-securite-des-donnees-devient-le-premier-enjeu-en-2026-35097)  
-*Source : relationclientmag.fr | Publication : 2026-04-20*
+## [Airbus rachète Quarkslab : “Rejoindre Airbus signifie changer d'échelle dans ce que nous ...](https://www.solutions-numeriques.com/quarkslab-rejoint-airbus-rejoindre-airbus-signifie-changer-dechelle-dans-ce-que-nous-faisons-pas-le-transformer/)  
+*Source : solutions-numeriques.com | Publication : 2026-04-21*
 
-- Face à la recrudescence des cybermenaces, la modernisation des outils CRM doit désormais composer avec des impératifs de protection rigoureux.
-- Selon un communiqué de l’éditeur CRM efficy, la sécurité et la confidentialité des informations clients s’imposent aujourd’hui comme le critère de sélection prédominant pour une vaste majorité de professionnels.
-- Ce constat s’appuie sur une enquête menée par efficy et Junior ESSEC Conseil auprès de 322 décideurs français issus de l’industrie, de la finance et du secteur public.
-- La confiance au cœur des solutions de gestion L’étude révèle en effet que 76 % des sondés placent la sécurité en tête de leurs trois priorités majeures.
+- Cette opération s’inscrit dans la stratégie d’Airbus visant à “renforcer sa position de partenaire souverain de confiance” et à “accroître sa présence dans le paysage européen de la cybersécurité”.
+- Une rencontre qui ne doit rien au hasard Il y a les acquisitions opportunistes, et celles qui ressemblent à un retour logique.
+- Quarkslab et Airbus se connaissent déjà.
+- Partenaires, fournisseurs, trajectoires croisées.
 
-## [L'ANTS, qui délivre passeports et cartes d'identité, hackée le 15 avril - Valeurs actuelles](https://www.valeursactuelles.com/societe/cybersecurite-le-portail-de-lants-qui-delivre-passeports-cartes-didentite-et-permis-hacke-le-15-avril)  
-*Source : valeursactuelles.com | Publication : 2026-04-20*
+## [Nord Franche-Comté. Cap cyber : deux jours pour faire le point sur la <b>cybersécurité</b> à Belfort](https://www.estrepublicain.fr/economie/2026/04/21/cap-cyber-deux-jours-pour-faire-le-point-sur-la-cybersecurite-a-belfort)  
+*Source : estrepublicain.fr | Publication : 2026-04-21*
 
-- Le ministère de l’Intérieur a confirmé ce lundi 20 avril détecté un « incident de sécurité » majeur ayant ciblé le portail de l’Agence nationale des titres sécurisés (ANTS).
-- Cette intrusion, survenue le 15 avril dernier, a entraîné le téléchargement de données personnelles appartenant à de nombreux usagers.
-- Selon les autorités, l’attaque a permis un accès non autorisé à des informations d’identification sensibles.
-- Sont concernés les noms, prénoms, dates de naissance et adresses électroniques.
+- Nord Franche-Comté Cap cyber : deux jours pour faire le point sur la cybersécurité à Belfort Pour la 5ᵉ année, la chambre de commerce et d’industrie du Territoire de Belfort organise le salon Cap cyber ce jeudi et vendredi.
+- « L’objectif est de donner des clés, par des experts.
 
-## [2026, année noire de la <b>cybersécurité</b> française : après Basic Fit et l'Éducation nationale, l ...](https://www.cridutroll.fr/2026-annee-noire-de-la-cybersecurite-francaise-apres-basic-fit-et-leducation-nationale-lants-tombe-avec-19-millions-de-fiches-exposees/)  
-*Source : cridutroll.fr | Publication : 2026-04-20*
+## [Codex a rooté une TV Samsung tout seul - Faut s'y préparer - Korben](https://korben.info/codex-ia-faille-samsung-tv.html)  
+*Source : korben.info | Publication : 2026-04-21*
 
-- 2026, année noire de la cybersécurité française : après Basic Fit et l’Éducation nationale, l’ANTS tombe avec 19 millions de fiches exposées Imaginez : vos infos perso pour un permis ou une carte d’identité atterrissent entre de mauvaises mains.
-- C’est le cauchemar qui frappe l’ANTS ce mois-ci, et ça touche potentiellement des millions de Français, gamers et fans de tech inclus.
-- Détecté le 15 avril, cet incident security met en lumière les failles persistantes des services publics en ligne.
-- L’attaque sur l’agence des titres sécurisés : les faits essentiels L’Agence Nationale des Titres Sécurisés (ANTS), qui pilote passeports, cartes nationales d’identité et permis via France Titres, a subi une intrusion le 15 avril 2026.
+- cybersécurité.
+- Résumé généré par IA.
+- Une IA a rooté une télé Samsung.
+- Les métiers de la Cybersécurité et de l'Intelligence Artificielle.
 
-## [Cyberattaque contre le portail qui édite les passeports et cartes d'identité : vos données ...](https://www.capital.fr/economie-politique/cyberattaque-contre-le-portail-qui-edite-les-passeports-et-cartes-didentite-vos-donnees-personnelles-sont-elles-menacees-1525779)  
-*Source : capital.fr | Publication : 2026-04-20*
+## [Les banques européennes devraient bientôt avoir accès au modèle IA de <b>cybersécurité</b> d'Anthropic](https://www.agefi.fr/news/banque-assurance/les-banques-europeennes-devraient-bientot-avoir-acces-au-modele-ia-de-cybersecurite-danthropic)  
+*Source : agefi.fr | Publication : 2026-04-21*
 
-- Faut-il craindre pour la sécurité de nos données personnelles ?.
-- L’Agence nationale des titres sécurisés (ANTS), en charge des demandes de cartes d’identité, passeports ou encore permis de conduire, a été visée par un «incident de sécurité» susceptible d’avoir exposé des données personnelles d’usagers.
-- Selon le ministère de l’Intérieur, l’incident a été détecté le 15 avril et concerne potentiellement des données de particuliers et de professionnels, rapporte BFM Tech.
-- Dans un communiqué publié ce lundi 20 avril, Beauvau précise que des «données à caractère personnel» ont pu être compromises, notamment les noms et prénoms, l’adresse électronique ou la date de naissance des utilisateurs concernés.
+- Les banques européennes devraient bientôt avoir accès au modèle IA de cybersécurité d’Anthropic L’outil Mythos serait capable de détecter les failles dans les programmes informatiques.
+- Le créateur de Claude l’a déjà fourni aux banques américaines pour qu’elles puissent tester leurs propres systèmes.
+- Un évènement L’AGEFI.
+- 11 juin 2026 à 8:30 AM S’inscrire Plus d'articles du même thème L’agence S&P Global Ratings affine encore sa notation des «covered bonds» Cette nouvelle révision devrait avoir des impacts positifs pour les produits dont la notation peut être supérieure à celle de l’Etat d’émission.
 
-## [Lutte contre la <b>cybercriminalité</b>: 75.000 criminels identifiés, une perquisition au Luxembourg](https://infos.rtl.lu/news/luxembourg/75-000-criminels-identifies-une-perquisition-au-luxembourg-1518765385)  
-*Source : infos.rtl.lu | Publication : 2026-04-20*
+## [Les derniers lauréats du programme Best Managed Companies | Deloitte France](https://www.deloitte.com/fr/fr/services/deloitte-private/analysis/laureats-bmc.html)  
+*Source : deloitte.com | Publication : 2026-04-21*
 
-- Les autorités de 21 pays se sont réunies dans le cadre d’une semaine d’action afin de lutter contre la cybercriminalité.
-- Plus de 75.000 utilisateurs criminels ont été identifiés et ont reçu des avertissements écrits.
-- Quatre personnes ont été arrêtées.
-- Cinquante‑trois centres à partir desquels des activités illégales étaient menées, ont pu être localisés ; 25 d’entre eux ont été ou seront perquisitionnés.
+- Nous sommes fiers de vous présenter les 28 entreprises lauréates de cette 4ème édition, qui ont été labellisées pour leur bonne gestion et leurs performances.
+- ACTIA est un Groupe international, industriel et familial basé en France.
+- Il est spécialisé dans la conception, la production et l’exploitation d’une électronique au service de grands enjeux, en particulier la connectivité, la sécurité et la transition énergétique, pour des secteurs particulièrement exigeants : la mobilité terrestre, l’aéronautique, le spatial, l’énergie, et plus globalement l’industrie.
+- Fort de son excellence technologique et industrielle, ACTIA s’investit dans une électronique innovante, créatrice de valeur et durable : UNE ÉLECTRONIQUE EN MOUVEMENT.
 
-## [Atos : Atos se renforce en <b>cybersécurité</b> avec Google Threat Intelligence - BFM Bourse](https://www.tradingsat.com/atos-FR001400X2S4/actualites/atos-atos-se-renforce-en-cybersecurite-avec-google-threat-intelligence-1160945.html)  
-*Source : tradingsat.com | Publication : 2026-04-20*
+## [Denis Jacopini : «La <b>cybercriminalité</b> n'a pas de frontière, elle est absolument de partout](https://www.dailymotion.com/video/xa66vqq)  
+*Source : dailymotion.com | Publication : 2026-04-21*
 
-- (Zonebourse.com) - Atos annonce intégrer Google Threat Intelligence à son portefeuille mondial d'opérations et de services de cybersécurité, regroupant ses 17 centres d'opérations de sécurité (SOC), son Centre de Recherche sur les Menaces et son offre de services orientés renseignement.
-- "Cette collaboration innovante permet aux organisations d'obtenir une compréhension anticipée des menaces émergentes et la capacité de les prioriser et de les contenir plus rapidement", affirme le groupe français de services informatiques.
-- Google Threat Intelligence est entièrement intégré aux opérations de sécurité d'Atos, qui combinent des centres nearshore et offshore 24h/24 et 7j/7 à travers le monde afin de devancer les nouveaux types de menaces.
-- En exploitant l'importante base de connaissance de Google, Atos fournit à ses clients des informations exploitables en temps réel sur les nouvelles menaces, leur permettant de prendre des mesures proactives pour se défendre contre d'éventuelles attaques.
+- Skip to player Skip to main content Watch fullscreen.
+- Denis Jacopini : «La cybercriminalité n'a pas de frontière, elle est absolument de partout».
 
-## [Atos se renforce en <b>cybersécurité</b> avec Google Threat Intelligence - 20/04/2026 à 16:40](https://www.boursorama.com/bourse/actualites/atos-se-renforce-en-cybersecurite-avec-google-threat-intelligence-7bb26ad4a6f60317246f9caaf8b55f56)  
-*Source : boursorama.com | Publication : 2026-04-20*
+## [<b>Cybersécurité</b> : &quot;Des pirates qui vident votre compte bancaire aujourd'hui c'est possible&quot;](https://www.youtube.com/watch?v=wAY5TsMVG0Q)  
+*Source : youtube.com | Publication : 2026-04-21*
 
-- Atos se renforce en cybersécurité avec Google Threat Intelligence information fournie par Zonebourse 20/04/2026 à 16:40 "Cette collaboration innovante permet aux organisations d'obtenir une compréhension anticipée des menaces émergentes et la capacité de les prioriser et de les contenir plus rapidement", affirme le groupe français de services informatiques.
-- Google Threat Intelligence est entièrement intégré aux opérations de sécurité d'Atos, qui combinent des centres nearshore et offshore 24h/24 et 7j/7 à travers le monde afin de devancer les nouveaux types de menaces.
-- En exploitant l'importante base de connaissance de Google, Atos fournit à ses clients des informations exploitables en temps réel sur les nouvelles menaces, leur permettant de prendre des mesures proactives pour se défendre contre d'éventuelles attaques.
-- En outre, la collaboration entre Atos et la filiale d'Alphabet simplifie les opérations de sécurité et permet aux organisations de se concentrer sur les décisions à forte valeur ajoutée plutôt que sur la gestion des données.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Pièces d'identité : l'ANTS visée par une cyberattaque - Les Echos](https://www.lesechos.fr/politique-societe/societe/pieces-didentite-lants-visee-par-une-cyberattaque-2227353)  
-*Source : lesechos.fr | Publication : 2026-04-20*
+## [Airbus Defence and Space continue de croître dans la <b>cybersécurité</b>, avec l'acquisition du ...](https://www.usinenouvelle.com/aero-spatial/defense/airbus-defense-and-space-continue-de-croitre-dans-la-cybersecurite-avec-lacquisition-du-francais-quarkslab.INKM7PTG4ZDUJKNQUNH6IGSA7M.html)  
+*Source : usinenouvelle.com | Publication : 2026-04-21*
 
-- Cybersécurité · Paris.
-- Le ministère de l'Intérieur recommande.
+- Après l'anglais Ultra Cyber et l'allemand Infodas, Airbus veut absorber le spécialiste français de la cybersécurité Quarkslab, a-t-il annoncé.
 
-## [<b>Ransomware</b> : l'Allemagne identifie les chefs de REvil et GandCrab - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/04/20/ransomware-allemagne-revil-gandcrab/)  
-*Source : dcod.ch | Publication : 2026-04-20*
+## [Airbus acquiert la société française de <b>cybersécurité</b> Quarkslab - Investing.com](https://fr.investing.com/news/stock-market-news/airbus-acquiert-la-societe-francaise-de-cybersecurite-quarkslab-93CH-3367170)  
+*Source : fr.investing.com | Publication : 2026-04-21*
 
-- TL;DR : L’essentiel L’Office fédéral de police criminelle (BKA) a identifié deux dirigeants russes à la tête des réseaux REvil et GandCrab, responsables de plus de 130 actes de sabotage informatique visant des entreprises allemandes.
-- - Ces infrastructures cybercriminelles ont causé des dommages supérieurs à 35 millions d’euros en exploitant le modèle du « big-game hunting », ciblant prioritairement les organisations dotées de polices de cyberassurance performantes.
-- - La justice internationale a déjà saisi plus de 317 000 dollars en cryptomonnaies liés à ces activités, tandis qu’un affilié a été condamné à verser 16 millions de dollars de restitution aux victimes.
-- - Les autorités allemandes ont franchi une étape décisive dans la lutte contre les réseaux de ransomware REvil et GandCrab en identifiant formellement leurs dirigeants.
+- Airbus a élargi son portefeuille de cybersécurité par le biais d'acquisitions stratégiques.
+- La société a acheté l'allemande Infodas en 2024 et prévoit.
 
-## [Services informatiques.Provectio muscle son offre pour rester dans la course - Bretagne Economique](https://www.bretagne-economique.com/portraits/services-informatiques-provectio-muscle-son-offre-pour-rester-dans-la-course/)  
-*Source : bretagne-economique.com | Publication : 2026-04-20*
+## [EDF fait monter en compétences <b>cybersécurité</b> ses équipes françaises - La Revue du Digital](https://www.larevuedudigital.com/edf-fait-monter-en-competences-cybersecurite-ses-equipes-francaises/)  
+*Source : larevuedudigital.com | Publication : 2026-04-21*
 
-- Dès notre arrivée, nous sommes conduits dans une vaste salle de 200 m², véritable tour de contrôle où s’affichent, en temps réel, sur des immenses écrans, l’état des services informatiques d’environ 700 PME et ETI.
-- « L‘important pour nous, c’est vraiment que tous nos clients soient traités rapidement et qualitativement.
-- » Provectio déploie des sondes sur les infrastructures de ses clients afin de superviser en temps réel la montée d’un incident.
-- « Le job des équipes, ici, est de traiter les alertes avant qu’elles ne deviennent un incident.
+- Les sites e-commerce préférés des acheteurs français Quels sont les sites e-commerce réellement utilisés par les Français, secteur par secteur ?.
+- Mode, alimentaire, banque, streaming, tourisme ou électroménager : notre dossier passe en revue les plateformes dominantes et les tendances d’usage.
+- Les enjeux de sécurité informatique sont récurrents en France.
+- Le groupe EDF enclenche un programme national de formation à la cybersécurité de ses équipes, couvrant EDF SA et 12 filiales du groupe en France.
 
-## [Cloud souverain : Bruxelles sélectionne OVHcloud, Scaleway, et S3NS | LeMagIT](https://www.lemagit.fr/actualites/366641900/Cloud-souverain-Bruxelles-selectionne-OVHcloud-Scaleway-et-S3NS)  
-*Source : lemagit.fr | Publication : 2026-04-20*
+## [&quot;On a absolument tout sur cette dame&quot; : les données de près de 19 millions de Français ...](https://www.tf1info.fr/justice-faits-divers/video-phishing-piratage-cybersecurite-on-a-absolument-tout-sur-cette-dame-les-donnees-de-pres-de-19-millions-de-francais-derobees-sur-le-site-de-l-ants-2437129.html)  
+*Source : tf1info.fr | Publication : 2026-04-21*
 
-- mixmagic - stock.adobe.com Cloud souverain : Bruxelles sélectionne OVHcloud, Scaleway, et S3NS La Commission a retenu quatre fournisseurs, dont deux consortiums avec OVHcloud et S3NS, et Scaleway.
-- Cette commande publique pourra atteindre 180 millions € sur six ans pour fournir des services de cloud souverain aux institutions de l’UE.
-- La Commission européenne a retenu la semaine dernière quatre prestataires pour fournir des services de cloud souverain aux institutions de l’Union européenne.
-- Parmi ces acteurs, plusieurs « cloudistes » français ont été retenus.
+- L'Agence nationale des titres sécurisés (ANTS), qui gère les demandes de pièces d'identité, a "détecté un incident de sécurité" le 15 avril.
+- - Il pourrait impliquer des données de particuliers et de professionnels.
+- - Au total, 19 millions de données personnelles auraient été piratées.
+- - Nos données les plus sensibles, dérobées et déjà mises aux enchères.
