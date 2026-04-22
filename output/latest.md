@@ -1,143 +1,151 @@
-# Résumés – 2026-04-21
+# Résumés – 2026-04-22
 
 
-## [<b>Cybersécurité</b> maritime : la vulnérabilité numérique à l'épreuve du droit | Mer et Marine](https://www.meretmarine.com/fr/marine-marchande/cybersecurite-maritime-la-vulnerabilite-numerique-a-l-epreuve-du-droit)  
-*Source : meretmarine.com | Publication : 2026-04-21*
+## [Des frissons et un tremplin : comment l'armée de Terre séduit la Gen Z de la <b>cybersécurité</b>](https://www.journaldunet.com/cybersecurite/1549813-des-frissons-et-un-tremplin-comment-l-armee-de-terre-seduit-la-gen-z-de-la-cybersecurite/)  
+*Source : journaldunet.com | Publication : 2026-04-22*
 
-- A l’heure où les systèmes de navigation, de gestion des cargaisons et de communication à bord des navires reposent massivement sur des architectures numériques interconnectées, la cybersécurité maritime s’impose comme un défi stratégique majeur.
-- Entre vulnérabilités techniques, enjeux de souveraineté et lacunes normatives, cet article interroge la capacité du droit à répondre aux cybermenaces qui pèsent sur le secteur maritime.
-- Un article de Mayssa Khaskhoussi, Boubou Diallo, Kwasi Agbalenyo et Mor Mbaye, étudiants du Master 2 Droit et sécurité des activités maritimes et océaniques (DSAMO) de Nantes Université.
-- En l'espace de quelques décennies, le transport maritime est devenu structurellement dépendant des systèmes informatiques embarqués et de la gestion numérisée.
+- Des frissons et un tremplin : comment l'armée de Terre séduit la Gen Z de la cybersécurité L'armée de Terre diversifie ses modes de recrutement pour attirer de jeunes profils qualifiés en cybersécurité, en mettant en avant les compétences uniques qu'elle permet d'acquérir.
+- Autrefois considérée comme une institution poussiéreuse et peuplée de "pousseurs de cailloux", selon la formule moqueuse que les marins utilisent pour désigner les soldats terriens, l'armée de Terre connaît un regain de vitalité, portée par les nouveaux conflits géopolitiques.
+- A tel point qu'en 2025, 83% des Français se disaient favorables au retour du service militaire, selon un sondage du CSA.
+- Toutefois, si l'institution parvient à réaliser son objectif de recruter environ 15 000 jeunes par an, elle peine à mettre en valeur les métiers techniques qu'elle propose, comme ceux liés à la cybersécurité : "Les jeunes Français connaissent très bien l'armée de Terre.
 
-## [Wind River rejoint la CHERI Alliance et collabore avec Innovate UK pour accélérer l ...](https://fr.finance.yahoo.com/actualites/wind-river-rejoint-cheri-alliance-201000118.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-04-21*
+## [L'armée américaine utilise un nœud Bitcoin pour des tests de <b>cybersécurité</b>, confirme un amiral](https://fr.finance.yahoo.com/actualites/l-armée-américaine-utilise-n-192535656.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-04-22*
 
-- Wind River rejoint la CHERI Alliance et collabore avec Innovate UK pour accélérer l’innovation en matière de cybersécurité GLASGOW, Écosse, April 21, 2026--(BUSINESS WIRE)--CYBERUK 2026 — Wind River, une société du groupe Aptiv et leader mondial des logiciels critiques pour l’intelligent edge, a annoncé aujourd’hui avoir rejoint la CHERI Alliance, un groupe qui promeut l’adoption mondiale de la technologie de sécurité Capability Hardware Enhanced RISC Instructions (CHERI).
-- L’architecture CHERI est conçue pour renforcer la sécurité des systèmes grâce à la protection de la mémoire et aux autorisations d’accès, ce qui permet de lutter contre des problèmes de sécurité tels que la corruption de la mémoire et l’exécution de code non autorisé.
-- La collaboration de Wind River avec l’Alliance vise à aider l’écosystème à développer des produits plus sûrs et à stimuler l’innovation en matière de cybersécurité en réduisant les vulnérabilités de la mémoire.
-- « Des avancées telles que CHERI marquent un tournant important vers une sécurité renforcée par le matériel, qui servira de fondement aux systèmes de nouvelle génération.
+- L'amiral Samuel Paparo, commandant du US Indo-Pacific Command, a déclaré devant la commission des forces armées du Sénat que son commandement exploite un nœud Bitcoin (BTC) et mène des tests opérationnels avec le protocole.
+- L'audition du 21 avril a marqué la première fois qu'un commandant de combat américain en exercice présente publiquement Bitcoin comme un atout pour la sécurité nationale lors d'une procédure au Congrès.
+- Bitcoin comme outil de « projection de puissance » En réponse aux questions du sénateur Tommy Tuberville (R-AL), Paparo a présenté Bitcoin comme « un transfert de valeur pair-à-pair, sans confiance préalable », et a ajouté que tout ce qui soutient l'ensemble des instruments du pouvoir national « est pour le bien ».
+- Il a caractérisé les recherches menées comme portant sur l'informatique et non sur la politique monétaire.
 
-## [Fuite de données à l'ANTS: près de 12 millions de comptes concernés par l'attaque informatique](https://www.bfmtv.com/tech/cybersecurite/fuite-de-donnees-a-l-ants-pres-de-12-millions-de-comptes-concernes-par-l-attaque-informatique_AD-202604210879.html)  
-*Source : bfmtv.com | Publication : 2026-04-21*
+## [Pourquoi Mythos, le nouvel outil d'IA d'Anthropic, rend les banques fiévreuses](https://www.lorientlejour.com/article/1504463/pourquoi-mythos-le-nouvel-outil-dia-danthropic-rend-les-banques-fievreuses.html)  
+*Source : lorientlejour.com | Publication : 2026-04-22*
 
-- Fuite de données à l'ANTS: près de 12 millions de comptes concernés par l'attaque informatique Près de 12 millions de comptes sont concernés par l'incident de sécurité qui a frappé le portail de l'Agence nationale des titres sécurisés (ANTS) le 15 avril, a indiqué ce mardi 21 avril le ministère de l'Intérieur.
-- Au total "11,7 millions de comptes seraient concernés" par cette attaque qui pourrait impliquer des données de particuliers et de professionnels, a souligné la place Beauvau dans un communiqué.
-- Outre un signalement adressé à la justice, le ministre Laurent Nuñez, "très attentif à la situation", a saisi "en parallèle l'Inspection générale de l'administration pour établir la chaîne de responsabilité dans cet incident sérieux, la sûreté numérique étant un enjeu collectif majeur", précise le communiqué.
-- "Ces données ne permettent pas d'accès illégitime au compte nominatif sur le portail", est-il ajouté.
+- cybersécurité et les ingénieurs chargés de les corriger.
+- Il y a un risque majeur d'étranglement », explique Hadi Khoury, expert indépendant en.
 
-## [<b>Cybersécurité</b> : Fascisant contrat de la DGSI avec Palantir | Le Canard enchaîné](https://www.lecanardenchaine.fr/defense/53716-fascisant-contrat-de-la-dgsi-avec-palantir)  
-*Source : lecanardenchaine.fr | Publication : 2026-04-21*
+## [TheGentlemen, une enseigne de <b>ransomware</b> aux débuts fracassants | LeMagIT](https://www.lemagit.fr/actualites/366642155/TheGentlemen-une-enseigne-de-ransomware-aux-debuts-fracassants)  
+*Source : lemagit.fr | Publication : 2026-04-22*
 
-- Par Quentin-Mathéo Pihour Alors que le renseignement français a renouvelé pour trois ans son contrat avec l'entreprise du milliardaire trumpiste Peter Thiel, ce fleuron de la surveillance américaine vient de publier un manifeste aux accents ouvertement autoritaires.
-- Décidément, nos pandores ont le secret bien gardé !.
-- Palantir, pépite de la tech américaine spécialisée dans les logiciels de surveillance et d’analyse des données, a publié sur X (18/4) un manifeste qui fait un peu froid dans le dos.
-- D’autant que l’entreprise, fondée avec l’argent de la CIA, fournit des logiciels à la DGSI, notre Direction générale de la sécurité intérieure… et que le contrat vient d’être renouvelé pour trois ans.
+- Dark Illusion - stock.adobe.com TheGentlemen, une enseigne de ransomware aux débuts fracassants Relativement jeune, la franchise de rançongiciel TheGentlemen a considérablement intensifié ses activités, suggérant le récent recrutement de nouveaux affidés rallié à un opérateur apparemment aguerri.
+- TheGentlemen est une enseigne de ransomware relativement récente, suivie depuis début septembre 2025.
+- À ce jour, elle a été associée à la revendication de près de 350 victimes - dont plus de 80 en février 2026.
+- Selon les chercheurs de Check Point, l'enseigne pourrait avoir à sa disposition un éventuel de victimes en puissance bien plus important : « Check Point Research a analysé les données de télémétrie des victimes provenant [d'un] serveur de commande et de contrôle SystemBC concerné, révélant ainsi l'existence d'un botnet comptant plus de 1 570 victimes ».
 
-## [Airbus engage l'acquisition d'une société française de <b>cybersécurité</b> : quels sont les enjeux ?](https://lopinion.com/amp/articles/economie/33338_airbus-engage-acquisition-societe-francaise-cybersecurite-enjeux)  
-*Source : lopinion.com | Publication : 2026-04-21*
+## [Microsoft renforce sa <b>cybersécurité</b> avec l'IA d'Anthropic - 22/04/2026 à 19:36 - Boursorama](https://www.boursorama.com/bourse/actualites-amp/microsoft-renforce-sa-cybersecurite-avec-l-ia-d-anthropic-d7fea012f97fadd6bae10a64e1c5aea8)  
+*Source : boursorama.com | Publication : 2026-04-22*
 
-- Airbus engage l’acquisition d’une société française de cybersécurité : quels sont les enjeux ?.
-- Ce mardi 21 avril, Airbus annonce la conclusion d’un accord, en vue de l’acquisition de la société française de cybersécurité Quarkslab.
-- Cet investissement fait suite au projet d'acquisition d'Ultra Cyber Ltd au Royaume-Uni, dévoilé en mars 2026.
-- Zoom sur les motivations du groupe toulousain.
+- Microsoft renforce sa cybersécurité avec l'IA d'Anthropic information fournie par Zonebourse 22/04/2026 à 19:36 Microsoft a annoncé l'intégration de modèles avancés d'intelligence artificielle, dont Claude Mythos Preview développé par Anthropic, à son cadre de développement sécurisé.
+- Cette initiative vise à améliorer la détection et la correction des vulnérabilités dès les premières étapes de conception logicielle.
+- En intégrant ces outils au Security Development Lifecycle, le groupe entend accélérer l'identification des failles et renforcer la robustesse de ses systèmes face aux menaces croissantes.
+- Présenté début avril, le modèle Mythos a déjà permis de repérer "des milliers" de vulnérabilités critiques dans divers environnements, incluant systèmes d'exploitation et navigateurs.
 
-## [Airbus renforce la <b>cybersécurité</b> avec Quarkslab - AeroMorning.com](https://aeromorning.com/airbus-renforce-la-cybersecurite-avec-quarkslab/)  
-*Source : aeromorning.com | Publication : 2026-04-21*
+## [La fuite de données à l'ANTS, nouvelle illustration des failles de sécurité des services ...](https://www.lemonde.fr/societe/article/2026/04/22/la-fuite-de-donnees-a-l-agence-nationale-des-titres-securises-nouvelle-illustration-des-failles-de-securite-des-services-informatiques-de-l-etat_6682449_3224.html)  
+*Source : lemonde.fr | Publication : 2026-04-22*
 
-- Airbus continue de renforcer la cybersécurité souveraine avec l'acquisition de Quarkslab en France.
-- Paris, 21 avril 2026 — Airbus a conclu un.
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
 
-## [Cyberchiens équipés de fusils, minichars... La Chine dévoile son armée de robots tueurs (vidéo)](https://www.cnews.fr/vie-numerique/2026-04-21/cyberchiens-equipes-de-fusils-minichars-la-chine-devoile-son-armee-de)  
-*Source : cnews.fr | Publication : 2026-04-21*
+## [Cyberattaques massives de fédérations sportives : un hacker interpellé en Vendée - CNews](https://www.cnews.fr/faits-divers/2026-04-22/cyberattaques-massives-de-federations-sportives-un-hacker-interpelle-en)  
+*Source : cnews.fr | Publication : 2026-04-22*
 
-- Ce dernier était capable de marcher, sauter, se coucher, reculer, le tout sous le contrôle d'un opérateur à distance.
-- Cybersécurité ChienChineRobot.
+- La brigade de lutte contre la cybercriminalité (BL2C) impute aussi à «HexDex» le piratage de données personnelles enregistrées dans la base «Compas»,.
 
-## [ANTS piratée : après le Crous, le Ficoba, les tireurs sportifs, la police et les autres, qui croit ...](https://www.breizh-info.com/2026/04/21/259178/ants-piratee-apres-le-crous-le-ficoba-les-tireurs-sportifs-la-police-et-les-autres-qui-croit-encore-a-la-cybersecurite-de-letat-francais/)  
-*Source : breizh-info.com | Publication : 2026-04-21*
+## [ENTRETIEN. Piratage de l'ANTS : &quot;Il y a une multiplication d'attaques contre des entités ...](https://www.ladepeche.fr/2026/04/22/entretien-piratage-de-lants-il-y-a-une-multiplication-dattaques-contre-des-entites-francaises-le-niveau-global-de-cybersecurite-nest-pas-bon-13338210.php)  
+*Source : ladepeche.fr | Publication : 2026-04-22*
 
-- Les spécialistes de la cybersécurité le martèlent depuis des années : la centralisation croissante des données publiques et l'élargissement des usages.
+- ENTRETIEN.
+- Piratage de l’ANTS : "Il y a une multiplication d’attaques contre des entités françaises, le niveau global de cybersécurité n’est pas bon" l'essentiel Le piratage de l’ANTS (Agence nationale des titres sécurisés) révèle une faille majeure dans la cybersécurité française.
+- Plus de 11,7 millions de comptes ont été exposés, selon le ministère de l’Intérieur.
+- Une attaque en ligne qui souligne l’urgence de renforcer la protection des données administratives, comme l’indique Baptiste Robert, hacker "éthique", expert en cybercriminalité.
 
-## [Un label pour fiabiliser les experts du numérique qui démarchent les TPE et les PME](https://www.solutions-numeriques.com/un-label-pour-fiabiliser-les-experts-du-numerique-qui-demarchent-les-tpe-et-les-pme/)  
-*Source : solutions-numeriques.com | Publication : 2026-04-21*
+## [Petya : comment se protéger contre un <b>ransomware</b> ? - Numerama](https://www.numerama.com/video/2207879_video)  
+*Source : numerama.com | Publication : 2026-04-22*
 
-- En désignant ScoreFact pour piloter un futur dispositif de labellisation, la Direction générale des Entreprises tente d’aider les entreprises à s’orienter dans un écosystème de prestataires parfois difficile à décrypter.
-- Un marché de prestataires de la transformation numérique abondant… mais peu lisible Externaliser sa stratégie numérique, sa cybersécurité ou ses outils de gestion est devenu une pratique courante.
-- Encore faut-il savoir à qui s’adresser.
-- Derrière la diversité des offres, le manque de repères reste marqué.
+- Petya : comment se protéger contre un ransomware ?il y a 8 ans.
 
-## [Airbus rachète Quarkslab : “Rejoindre Airbus signifie changer d'échelle dans ce que nous ...](https://www.solutions-numeriques.com/quarkslab-rejoint-airbus-rejoindre-airbus-signifie-changer-dechelle-dans-ce-que-nous-faisons-pas-le-transformer/)  
-*Source : solutions-numeriques.com | Publication : 2026-04-21*
+## [<b>Cybersécurité</b> : face à la hausse des attaques, les Yvelines se mobilisent | tv78](https://tv78.com/cybersecurite-entreprises-yvelines-attaques-ecole-2600/)  
+*Source : tv78.com | Publication : 2026-04-22*
 
-- Cette opération s’inscrit dans la stratégie d’Airbus visant à “renforcer sa position de partenaire souverain de confiance” et à “accroître sa présence dans le paysage européen de la cybersécurité”.
-- Une rencontre qui ne doit rien au hasard Il y a les acquisitions opportunistes, et celles qui ressemblent à un retour logique.
-- Quarkslab et Airbus se connaissent déjà.
-- Partenaires, fournisseurs, trajectoires croisées.
+- Les cyberattaques se multiplient en France et touchent désormais toutes les entreprises, quelle que soit leur taille.
+- Dans les Yvelines, formations spécialisées et initiatives locales se développent pour répondre à cet enjeu croissant.
+- Le site de l’Agence nationale des titres sécurisés, celui qui gère notamment les demandes de pièces d’identité et de passeport, a été visé par une attaque informatique le 15 avril 2026.
+- Cet incident est loin d’être un cas isolé : en 2024, 67 % des entreprises françaises déclarent avoir subi au moins une cyberattaque, contre 53 % en 2023, selon le rapport Hiscox 2024.
 
-## [Nord Franche-Comté. Cap cyber : deux jours pour faire le point sur la <b>cybersécurité</b> à Belfort](https://www.estrepublicain.fr/economie/2026/04/21/cap-cyber-deux-jours-pour-faire-le-point-sur-la-cybersecurite-a-belfort)  
-*Source : estrepublicain.fr | Publication : 2026-04-21*
+## [Airbus accélère dans la <b>cybersécurité</b> en s'emparant de la start-up française Quarkslab](https://www.usine-digitale.fr/cybersecurite/detecter-les-cyberattaques-en-temps-reel-airbus-accelere-dans-la-cybersecurite-en-semparant-de-la-start-up-francaise-quarkslab.65B6AGIV5BFPZCWCKZXORXYTHE.html)  
+*Source : usine-digitale.fr | Publication : 2026-04-22*
 
-- Nord Franche-Comté Cap cyber : deux jours pour faire le point sur la cybersécurité à Belfort Pour la 5ᵉ année, la chambre de commerce et d’industrie du Territoire de Belfort organise le salon Cap cyber ce jeudi et vendredi.
-- « L’objectif est de donner des clés, par des experts.
+- Airbus Defence and Space met la main sur Quarkslab, start-up française à l'origine d'une solution de cyberprotection logicielle et des composants.
 
-## [Codex a rooté une TV Samsung tout seul - Faut s'y préparer - Korben](https://korben.info/codex-ia-faille-samsung-tv.html)  
-*Source : korben.info | Publication : 2026-04-21*
+## [Des pirates accèdent au modèle IA Mythos d'Anthropic, jugé trop dangereux](https://fr.news.yahoo.com/hackers-piratent-modèle-ia-mythos-092048986.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-04-22*
 
-- cybersécurité.
-- Résumé généré par IA.
-- Une IA a rooté une télé Samsung.
-- Les métiers de la Cybersécurité et de l'Intelligence Artificielle.
+- Des pirates accèdent au modèle IA Mythos d'Anthropic, jugé trop dangereux Un groupe d’utilisateurs non autorisés aurait accédé au nouveau produit d’Anthropic, que la société d’intelligence artificielle juge trop puissant pour être mis à la disposition du grand public, car il « présente des risques de cybersécurité sans précédent ».
+- La nouvelle technologie d’IA d’Anthropic, Mythos, est conçue pour la sécurité des entreprises et est actuellement testée par quelques sociétés de technologie et de cybersécurité.
+- Un « forum en ligne privé » est parvenu à accéder à Mythos via un prestataire tiers, selon Bloomberg.
+- « Nous enquêtons sur un signalement faisant état d’un accès non autorisé à Claude Mythos Preview via l’un des environnements de nos prestataires tiers », a déclaré un porte-parole d’Anthropic à Euronews Next.
 
-## [Les banques européennes devraient bientôt avoir accès au modèle IA de <b>cybersécurité</b> d'Anthropic](https://www.agefi.fr/news/banque-assurance/les-banques-europeennes-devraient-bientot-avoir-acces-au-modele-ia-de-cybersecurite-danthropic)  
-*Source : agefi.fr | Publication : 2026-04-21*
+## [L'Assemblée nationale néerlandaise approuve deux lois sur la <b>cybersécurité</b> et la résilience ...](https://www.teamfrance-export.fr/infos-sectorielles/40630/40630-lassemblee-nationale-neerlandaise-approuve-deux-lois-sur-la-cybersecurite-et-la-resilience-des-entites-critiques)  
+*Source : teamfrance-export.fr | Publication : 2026-04-22*
 
-- Les banques européennes devraient bientôt avoir accès au modèle IA de cybersécurité d’Anthropic L’outil Mythos serait capable de détecter les failles dans les programmes informatiques.
-- Le créateur de Claude l’a déjà fourni aux banques américaines pour qu’elles puissent tester leurs propres systèmes.
-- Un évènement L’AGEFI.
-- 11 juin 2026 à 8:30 AM S’inscrire Plus d'articles du même thème L’agence S&P Global Ratings affine encore sa notation des «covered bonds» Cette nouvelle révision devrait avoir des impacts positifs pour les produits dont la notation peut être supérieure à celle de l’Etat d’émission.
+- Date de publication : Je souhaite aller plus loin, je veux être contacté(e) par un expert gratuitement.
+- Être contactéCes deux lois s’inscrivent dans la mise en œuvre de règles européennes visant à faire face à une diversification et intensification des menaces.
+- La loi sur la cybersécurité (Cyberbeveiligingswet, CBW), qui transpose la directive NIS21 dans le droit local, prévoit des exigences renforcées en matière de cybersécurité, de gestion des risques et de signalement des incidents.
+- Il reviendra aux entreprises et organisations de vérifier si elles sont concernées par le dispositif, le gouvernement les invitant à anticiper cette démarche avant l’entrée en vigueur du texte.
 
-## [Les derniers lauréats du programme Best Managed Companies | Deloitte France](https://www.deloitte.com/fr/fr/services/deloitte-private/analysis/laureats-bmc.html)  
-*Source : deloitte.com | Publication : 2026-04-21*
+## [Applications et logiciels étrangers : la DGSI met en garde contre un risque systémique sous-estimé](https://www.solutions-numeriques.com/applications-et-logiciels-etrangers-la-dgsi-met-en-garde-contre-un-risque-systemique-sous-estime/)  
+*Source : solutions-numeriques.com | Publication : 2026-04-22*
 
-- Nous sommes fiers de vous présenter les 28 entreprises lauréates de cette 4ème édition, qui ont été labellisées pour leur bonne gestion et leurs performances.
-- ACTIA est un Groupe international, industriel et familial basé en France.
-- Il est spécialisé dans la conception, la production et l’exploitation d’une électronique au service de grands enjeux, en particulier la connectivité, la sécurité et la transition énergétique, pour des secteurs particulièrement exigeants : la mobilité terrestre, l’aéronautique, le spatial, l’énergie, et plus globalement l’industrie.
-- Fort de son excellence technologique et industrielle, ACTIA s’investit dans une électronique innovante, créatrice de valeur et durable : UNE ÉLECTRONIQUE EN MOUVEMENT.
+- La Direction générale de la sécurité intérieure (DGSI) alerte sur les vulnérabilités liées à l’usage d’applications et de logiciels étrangers.
+- Des outils devenus indispensables, mais qui exposent les organisations à des risques techniques, juridiques et stratégiques encore largement sous-évalués.
+- Une banalisation des usages qui masque le risque “Messageries instantanées, logiciels de visioconférences, stockage de données en ligne, outils d’intelligence artificielle ou encore logiciels de planification des ressources d’entreprise” : les applications étrangères structurent désormais le quotidien numérique des organisations.
+- Leur adoption s’impose souvent comme une évidence, portée par leur efficacité, leur ergonomie et, parfois, leur caractère incontournable dans les échanges internationaux.
 
-## [Denis Jacopini : «La <b>cybercriminalité</b> n'a pas de frontière, elle est absolument de partout](https://www.dailymotion.com/video/xa66vqq)  
-*Source : dailymotion.com | Publication : 2026-04-21*
+## [Bruxelles s'impose dans le numérique européen : Paradigm devient co-chair du groupe ...](https://be.brussels/fr/propos-de-la-region/bruxelles-simpose-dans-le-numerique-europeen-paradigm-devient-co-chair-du-groupe-foresight)  
+*Source : be.brussels | Publication : 2026-04-22*
 
-- Skip to player Skip to main content Watch fullscreen.
-- Denis Jacopini : «La cybercriminalité n'a pas de frontière, elle est absolument de partout».
+- Bruxelles s’impose dans le numérique européen : Paradigm devient co-chair du groupe Foresight d’Eurocities Cette coprésidence avec la ville de Rotterdam renforce concrètement l’influence de la Région dans les réseaux européens et lui permet de contribuer aux orientations et projets qui façonnent le numérique urbain de demain.
+- Eurocities, qui rassemble plus de 200 grandes villes, est un terrain clé pour développer partenariats, bonnes pratiques et projets européens communs.
+- Sur le terrain, Paradigm est déjà à l’œuvre.
+- Le 16 avril dernier, lors du Digital Forum 2026 d’Eurocities à Sofia, l’organisme a pris part aux échanges sur des enjeux majeurs comme les droits numériques, la cybersécurité, la souveraineté numérique ou encore les jumeaux numériques urbains.
 
-## [<b>Cybersécurité</b> : &quot;Des pirates qui vident votre compte bancaire aujourd'hui c'est possible&quot;](https://www.youtube.com/watch?v=wAY5TsMVG0Q)  
-*Source : youtube.com | Publication : 2026-04-21*
+## [“Il y a beaucoup moins de monde” : pourquoi les cyberattaques ont-elles plus souvent lieu ...](https://www.lechorepublicain.fr/france-monde/faits-divers/il-y-a-beaucoup-moins-de-monde-pourquoi-les-cyberattaques-ont-elles-plus-souvent-lieu-en-mai-ou-pendant-les-vacances_14964971/)  
+*Source : lechorepublicain.fr | Publication : 2026-04-22*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Partager : A la une Générations Partager : Générations Écouter l'article Plus une semaine ne passe sans qu’une cyberattaque d’ampleur ait lieu.
+- Entreprises, services publics... tout le monde y passe.
+- Avec à la clé : des données de millions d’utilisateurs volées par des pirates informatiques.
+- La dernière en date ?.
 
-## [Airbus Defence and Space continue de croître dans la <b>cybersécurité</b>, avec l'acquisition du ...](https://www.usinenouvelle.com/aero-spatial/defense/airbus-defense-and-space-continue-de-croitre-dans-la-cybersecurite-avec-lacquisition-du-francais-quarkslab.INKM7PTG4ZDUJKNQUNH6IGSA7M.html)  
-*Source : usinenouvelle.com | Publication : 2026-04-21*
+## [Étudiants et jeunes diplômés : lancez votre carrière chez Deloitte](https://www.deloitte.com/fr/fr/careers/deloitte-life/development/etudiants-et-jeunes-diplomes.html?icid=top_etudiants-et-jeunes-diplomes)  
+*Source : deloitte.com | Publication : 2026-04-22*
 
-- Après l'anglais Ultra Cyber et l'allemand Infodas, Airbus veut absorber le spécialiste français de la cybersécurité Quarkslab, a-t-il annoncé.
+- Évoluez au sein d’un réseau mondial d’experts, de mentors et d’opportunités pour construire un parcours ambitieux dès le début de votre carrière.
+- Chez Deloitte, nous sommes convaincus que les talents d’aujourd’hui façonnent les organisations de demain.
+- C’est pourquoi nous vous offrons un environnement d’apprentissage exigeant, bienveillant et connecté aux réalités du terrain.
+- Chaque année, nous recrutons plus de 1 000 étudiants et jeunes diplômés en France pour les accompagner dans la construction d’une carrière durable et stimulante.
 
-## [Airbus acquiert la société française de <b>cybersécurité</b> Quarkslab - Investing.com](https://fr.investing.com/news/stock-market-news/airbus-acquiert-la-societe-francaise-de-cybersecurite-quarkslab-93CH-3367170)  
-*Source : fr.investing.com | Publication : 2026-04-21*
+## [Profils expérimentés chez Deloitte : donnez un nouvel élan à votre parcours](https://www.deloitte.com/fr/fr/careers/deloitte-life/development/experimentes.html?icid=top_experimentes)  
+*Source : deloitte.com | Publication : 2026-04-22*
 
-- Airbus a élargi son portefeuille de cybersécurité par le biais d'acquisitions stratégiques.
-- La société a acheté l'allemande Infodas en 2024 et prévoit.
+- Chez Deloitte, nous recrutons chaque année plusieurs centaines de professionnels expérimentés souhaitant relever de nouveaux défis, renforcer leur leadership ou accélérer leur évolution de carrière.
+- Présents dans les principales villes de France, nous proposons des opportunités à fort impact, alliant responsabilité, expertise et innovation.
+- Rejoindre Deloitte, c’est évoluer dans un environnement stimulant où vous pouvez développer votre potentiel, élargir votre champ d’action et donner une nouvelle dimension à votre carrière.
+- En tant que professionnel expérimenté, vous pouvez également devenir Career Advisor, en accompagnant la progression des collaborateurs et en partageant votre expérience.
 
-## [EDF fait monter en compétences <b>cybersécurité</b> ses équipes françaises - La Revue du Digital](https://www.larevuedudigital.com/edf-fait-monter-en-competences-cybersecurite-ses-equipes-francaises/)  
-*Source : larevuedudigital.com | Publication : 2026-04-21*
+## [Fuite de données à l'ANTS, site qui gère les demandes de pièces d'identité : ce que l'on sait](https://www.lemonde.fr/pixels/article/2026/04/22/fuite-de-donnees-a-l-ants-site-qui-gere-les-demandes-de-pieces-d-identite-ce-que-l-on-sait_6682414_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-04-22*
 
-- Les sites e-commerce préférés des acheteurs français Quels sont les sites e-commerce réellement utilisés par les Français, secteur par secteur ?.
-- Mode, alimentaire, banque, streaming, tourisme ou électroménager : notre dossier passe en revue les plateformes dominantes et les tendances d’usage.
-- Les enjeux de sécurité informatique sont récurrents en France.
-- Le groupe EDF enclenche un programme national de formation à la cybersécurité de ses équipes, couvrant EDF SA et 12 filiales du groupe en France.
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
 
-## [&quot;On a absolument tout sur cette dame&quot; : les données de près de 19 millions de Français ...](https://www.tf1info.fr/justice-faits-divers/video-phishing-piratage-cybersecurite-on-a-absolument-tout-sur-cette-dame-les-donnees-de-pres-de-19-millions-de-francais-derobees-sur-le-site-de-l-ants-2437129.html)  
-*Source : tf1info.fr | Publication : 2026-04-21*
+## [L'IA, nouveau champ de bataille de la <b>cybersécurité</b> - Le cercle des économistes](https://lecercledeseconomistes.fr/articles/industrie-innovation/ia-cybersecurite/)  
+*Source : lecercledeseconomistes.fr | Publication : 2026-04-22*
 
-- L'Agence nationale des titres sécurisés (ANTS), qui gère les demandes de pièces d'identité, a "détecté un incident de sécurité" le 15 avril.
-- - Il pourrait impliquer des données de particuliers et de professionnels.
-- - Au total, 19 millions de données personnelles auraient été piratées.
-- - Nos données les plus sensibles, dérobées et déjà mises aux enchères.
+- Portée par l’IA, la menace cyber s’industrialise : le cycle d’une attaque se réduit désormais à quelques minutes.
+- Les stratégies de défense classiques ne suffisent plus.
+- Quels sont les nouveaux leviers pour protéger nos infrastructures et notre souveraineté numérique ?.
+- Réponses avec Jacques Pommeraud, président-directeur général du groupe Inetum, partenaire de la revue Mermoz.
