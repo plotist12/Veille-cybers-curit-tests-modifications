@@ -1,151 +1,156 @@
-# Résumés – 2026-04-22
+# Résumés – 2026-04-23
 
 
-## [Des frissons et un tremplin : comment l'armée de Terre séduit la Gen Z de la <b>cybersécurité</b>](https://www.journaldunet.com/cybersecurite/1549813-des-frissons-et-un-tremplin-comment-l-armee-de-terre-seduit-la-gen-z-de-la-cybersecurite/)  
-*Source : journaldunet.com | Publication : 2026-04-22*
+## [Vague de cyberattaques : soupçonné d'être derrière une avalanche de piratages de sites ...](https://www.rtl.fr/actu/sciences-tech/vague-de-cyberattaques-le-jeune-hacker-hexdex-mis-en-examen-et-ecroue-7900627520)  
+*Source : rtl.fr | Publication : 2026-04-23*
 
-- Des frissons et un tremplin : comment l'armée de Terre séduit la Gen Z de la cybersécurité L'armée de Terre diversifie ses modes de recrutement pour attirer de jeunes profils qualifiés en cybersécurité, en mettant en avant les compétences uniques qu'elle permet d'acquérir.
-- Autrefois considérée comme une institution poussiéreuse et peuplée de "pousseurs de cailloux", selon la formule moqueuse que les marins utilisent pour désigner les soldats terriens, l'armée de Terre connaît un regain de vitalité, portée par les nouveaux conflits géopolitiques.
-- A tel point qu'en 2025, 83% des Français se disaient favorables au retour du service militaire, selon un sondage du CSA.
-- Toutefois, si l'institution parvient à réaliser son objectif de recruter environ 15 000 jeunes par an, elle peine à mettre en valeur les métiers techniques qu'elle propose, comme ceux liés à la cybersécurité : "Les jeunes Français connaissent très bien l'armée de Terre.
+- 3 min de lecture Je m'abonne à la newsletter « Infos » Un jeune hacker présumé, caché derrière l'alias "HexDex" et soupçonné d'être derrière une avalanche de piratages de sites de fédérations sportives ou encore de l'Education nationale, a été mis en examen et placé en détention provisoire, ce jeudi 23 avril, a indiqué le parquet de Paris, sollicité par l'AFP.
+- Interpellé en Vendée lundi 20 avril le suspect, dans sa vingtaine, était dans le viseur de la section de lutte contre la cybercriminalité du parquet de Paris, qui le relie à une centaine de signalements concernant des piratages de sites internet à partir du 19 décembre 2025.
+- Il a été arrêté lundi "alors même qu'il s'apprêtait à publier d'autres données" piratées et "a reconnu l'utilisation de ce pseudonyme", "HexDex", avait révélé le ministère public.
+- "La personne interpellée dans le dossier 'Hexdex' a été mise en examen" jeudi pour six infractions dont "entrave au fonctionnement d'un système de traitement automatisé de données à caractère personnel mis en oeuvre par l'Etat", selon le parquet.
 
-## [L'armée américaine utilise un nœud Bitcoin pour des tests de <b>cybersécurité</b>, confirme un amiral](https://fr.finance.yahoo.com/actualites/l-armée-américaine-utilise-n-192535656.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-04-22*
+## [<b>Cybercriminalité</b>. Cyberattaque à Vétroz:plainte pénale déposée contre le groupe Akira](https://www.laliberte.ch/articles/cyberattaque-a-vetroz-plainte-penale-deposee-contre-le-groupe-akira-1354060)  
+*Source : laliberte.ch | Publication : 2026-04-23*
 
-- L'amiral Samuel Paparo, commandant du US Indo-Pacific Command, a déclaré devant la commission des forces armées du Sénat que son commandement exploite un nœud Bitcoin (BTC) et mène des tests opérationnels avec le protocole.
-- L'audition du 21 avril a marqué la première fois qu'un commandant de combat américain en exercice présente publiquement Bitcoin comme un atout pour la sécurité nationale lors d'une procédure au Congrès.
-- Bitcoin comme outil de « projection de puissance » En réponse aux questions du sénateur Tommy Tuberville (R-AL), Paparo a présenté Bitcoin comme « un transfert de valeur pair-à-pair, sans confiance préalable », et a ajouté que tout ce qui soutient l'ensemble des instruments du pouvoir national « est pour le bien ».
-- Il a caractérisé les recherches menées comme portant sur l'informatique et non sur la politique monétaire.
+- Les effets de la cyberattaque qui a touché la commune de Vétroz le 12 avril dernier sont pratiquement dissipés.
+- En parallèle, une plainte pénale a été déposée contre le groupe cybercriminel Akira, qui a revendiqué l'attaque.
+- "J’aimerais saluer la flexibilité de notre personnel communal qui a su s’adapter et s’est mobilisé sans relâche pour trouver des solutions pratiques afin de gérer cette crise", a souligné, dans un communiqué de presse jeudi, le président de la commune, Pierre-Michel Venetz.
+- "Grâce à cette souplesse, l’essentiel des prestations a pu être assuré avec la mise en oeuvre ingénieuse de moyens du bord .".
 
-## [Pourquoi Mythos, le nouvel outil d'IA d'Anthropic, rend les banques fiévreuses](https://www.lorientlejour.com/article/1504463/pourquoi-mythos-le-nouvel-outil-dia-danthropic-rend-les-banques-fievreuses.html)  
-*Source : lorientlejour.com | Publication : 2026-04-22*
+## [Telex : Un <b>ransomware</b> teste le chiffrement post-quantique, OpenAI lance Workspace ...](https://www.lemondeinformatique.fr/actualites/lire-telex-un-ransomware-teste-le-chiffrement-post-quantique-openai-lance-workspace-agents-menace-de-greve-chez-samsung-100005.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-04-23*
 
-- cybersécurité et les ingénieurs chargés de les corriger.
-- Il y a un risque majeur d'étranglement », explique Hadi Khoury, expert indépendant en.
+- - Un ransomware teste le chiffrement post-quantique.
+- Des chercheurs de Rapid7 ont découvert la campagne d’un rançongiciel nommé Kyber à la méthode de chiffrement pour le moins original.
+- Ciblant les systèmes Windows et ESXi de VMware, les cybercriminels se servent de l’algorithme de cryptographique pos-quantique Kyber1024.
+- Cette méthode pour l’instant rarement vue dans d’autres attaques est utilisée non par pour chiffrer les données, mais protéger les clés utilisées par les pirates.
 
-## [TheGentlemen, une enseigne de <b>ransomware</b> aux débuts fracassants | LeMagIT](https://www.lemagit.fr/actualites/366642155/TheGentlemen-une-enseigne-de-ransomware-aux-debuts-fracassants)  
-*Source : lemagit.fr | Publication : 2026-04-22*
+## [Pourquoi l'humain reste le maillon le plus faible et le plus fort de la <b>cybersécurité</b> - ITdaily](https://itdaily.fr/blogs/securite/humain-maillon-faible-cybersecurite/)  
+*Source : itdaily.fr | Publication : 2026-04-23*
 
-- Dark Illusion - stock.adobe.com TheGentlemen, une enseigne de ransomware aux débuts fracassants Relativement jeune, la franchise de rançongiciel TheGentlemen a considérablement intensifié ses activités, suggérant le récent recrutement de nouveaux affidés rallié à un opérateur apparemment aguerri.
-- TheGentlemen est une enseigne de ransomware relativement récente, suivie depuis début septembre 2025.
-- À ce jour, elle a été associée à la revendication de près de 350 victimes - dont plus de 80 en février 2026.
-- Selon les chercheurs de Check Point, l'enseigne pourrait avoir à sa disposition un éventuel de victimes en puissance bien plus important : « Check Point Research a analysé les données de télémétrie des victimes provenant [d'un] serveur de commande et de contrôle SystemBC concerné, révélant ainsi l'existence d'un botnet comptant plus de 1 570 victimes ».
+- La technologie érige les murs, mais ce sont les humains qui tournent la clé ou oublient de le faire.
+- Christopher Fielder, Field CTO chez Arctic Wolf, plaide pour un changement de culture : passer des formations ponctuelles en sécurité à une éducation continue, et de la confiance aveugle en l’IA à un nouveau modèle de collaboration entre l’homme et la machine.
+- Mots de passe réutilisés, protocoles de sécurité non respectés : cela arrive sur le terrain, mais tout autant dans les salles de conseil.
+- Fielder observe une tendance inquiétante au niveau de la direction (C-level).
 
-## [Microsoft renforce sa <b>cybersécurité</b> avec l'IA d'Anthropic - 22/04/2026 à 19:36 - Boursorama](https://www.boursorama.com/bourse/actualites-amp/microsoft-renforce-sa-cybersecurite-avec-l-ia-d-anthropic-d7fea012f97fadd6bae10a64e1c5aea8)  
-*Source : boursorama.com | Publication : 2026-04-22*
+## [DevSecOps européen : bien outillé, mais encore dominé - Solutions-Numeriques](https://www.solutions-numeriques.com/devsecops-europeen-bien-outille-mais-encore-domine/)  
+*Source : solutions-numeriques.com | Publication : 2026-04-23*
 
-- Microsoft renforce sa cybersécurité avec l'IA d'Anthropic information fournie par Zonebourse 22/04/2026 à 19:36 Microsoft a annoncé l'intégration de modèles avancés d'intelligence artificielle, dont Claude Mythos Preview développé par Anthropic, à son cadre de développement sécurisé.
-- Cette initiative vise à améliorer la détection et la correction des vulnérabilités dès les premières étapes de conception logicielle.
-- En intégrant ces outils au Security Development Lifecycle, le groupe entend accélérer l'identification des failles et renforcer la robustesse de ses systèmes face aux menaces croissantes.
-- Présenté début avril, le modèle Mythos a déjà permis de repérer "des milliers" de vulnérabilités critiques dans divers environnements, incluant systèmes d'exploitation et navigateurs.
+- Une étude menée à l’échelle européenne par l’ANSSI, avec l’appui de Wavestone dresse un tableau du marché DevSecOps : domination américaine, maturité organisationnelle encore fragile, et une vague réglementaire qui transforme la sécurisation du cycle de développement logiciel en obligation industrielle.
+- Avec, en ligne de mire, l’enjeu émergent du MLSecOps.
+- Un marché structuré par la pression, pas encore par la maturité SolarWinds, XZ Utils, et depuis 2025 une succession d’incidents ciblant les pipelines npm et les frameworks web les plus répandus : la chaîne d’approvisionnement logicielle est devenue le terrain de jeu privilégié des attaquants.
+- Les contrôles de sécurité appliqués trop en aval ne suffisent plus.
 
-## [La fuite de données à l'ANTS, nouvelle illustration des failles de sécurité des services ...](https://www.lemonde.fr/societe/article/2026/04/22/la-fuite-de-donnees-a-l-agence-nationale-des-titres-securises-nouvelle-illustration-des-failles-de-securite-des-services-informatiques-de-l-etat_6682449_3224.html)  
-*Source : lemonde.fr | Publication : 2026-04-22*
+## [<b>Cybercriminalité</b> : premières arrestations liées à de fausses antennes-relais au Canada](https://ici.radio-canada.ca/nouvelle/2248530/sms-blaster-enquete-police-cybercriminalite)  
+*Source : ici.radio-canada.ca | Publication : 2026-04-23*
+
+- Cybercriminalité : premières arrestations liées à de fausses antennes-relais au Canada Pour des raisons de sécurité, la police de Toronto ne publie pas les photos des fausses antennes-relais qu’elle a saisies, mais elle a diffusé cette image d’un dispositif similaire saisi au Royaume-Uni à titre d’illustration.
+- Photo : Avec l’autorisation du service de police de Toronto Le service de police de Toronto a procédé à l’arrestation de trois personnes dans le cadre d’une enquête sur de fausses antennes-relais qui auraient envoyé des messages texte frauduleux à des milliers de téléphones cellulaires.
+- Il s’agit d’un « outil sophistiqué de cybercriminalité » qui n’avait jamais été détecté auparavant au Canada, affirme la police.
+- Les antennes-relais en question, communément appelées SMS blasters en anglais, imitent le fonctionnement d’une tour cellulaire, a expliqué la police lors d'un point de presse jeudi.
+
+## [Les fonds ne peuvent plus ignorer l'IA et la <b>cybersécurité</b> dans leurs opérations de M&amp;A](https://www.agefi.fr/news/banque-assurance/les-fonds-ne-peuvent-plus-ignorer-lia-et-la-cybersecurite-dans-leurs-operations-de-m-a)  
+*Source : agefi.fr | Publication : 2026-04-23*
+
+- Fusions-acquisitions - Tribune - Les fonds ne peuvent plus ignorer l’IA et la cybersécurité dans leurs opérations de M&A Un fonds qui acquiert une cible active dans l’intelligence artificielle (IA) sans auditer ses données et sa surface d’attaque cyber s’expose à des passifs que la documentation contractuelle standard ne couvre pas.
+- En 2025, près de la moitié des transactions technologiques comportaient une composante IA et un acquéreur sur cinq déclare avoir déjà renoncé à une transaction en raison de l’impact anticipé de l’IA sur le business model de la cible.
+- L’IA et la cybersécurité sont devenues le cœur de la due diligence.
+- Une due diligence approfondie L’audit couvre désormais la chaîne de titularité des modèles entraînés, la licéité des datasets, l’intégrité de l’architecture cybersécurité et la robustesse des modèles en conditions réelles.
+
+## [Les régions et les villes plaident en faveur d'outils numériques plus simples et de capacités ...](https://www.cor.europa.eu/fr/actualites/les-regions-et-les-villes-plaident-en-faveur-doutils-numeriques-plus-simples-et-de-capacites)  
+*Source : cor.europa.eu | Publication : 2026-04-23*
+
+- Theresa Sostmann Theresa.Sostmann@cor.europa.eu Les membres de la commission ECON ont également souligné la nécessité d'une approche territorialisée de la défense de l'UE et des politiques de célérité.
+- Le renforcement de la compétitivité et de la résilience de l’Europe grâce aux progrès de la transformation numérique, de la cybersécurité et de la politique industrielle, tout en veillant à ce que les collectivités locales et régionales bénéficient d’un soutien adéquat et soient activement associées, a été au cœur de la réunion de la commission de la politique économique (ECON) du 23 avril.
+- Les dirigeants locaux et régionaux ont adopté un projet d’avis, appelant à la simplification des services publics numériques au moyen d’un portefeuille d’affaires européen convivial.
+- Ils ont également abordé les défis croissants en matière de cybersécurité et la manière d’aligner les initiatives industrielles et de défense sur les besoins territoriaux.
+
+## [&quot;HexDex&quot;, un jeune hacker présumé, mis en examen et écroué | La Gazette France](https://www.lagazettefrance.fr/article/hexdex-un-jeune-hacker-presume-mis-en-examen-et-ecroue)  
+*Source : lagazettefrance.fr | Publication : 2026-04-23*
+
+- Soupçonné d'être derrière une avalanche de piratages de sites de fédérations sportives, de l'Education nationale ou encore de répertoires d'armes de particuliers, un jeune hacker présumé, caché derrière l'alias "HexDex", a été mis en examen jeudi et écroué.
+- Interpellé en Vendée, le suspect de 21 ans était dans le viseur de la section de lutte contre la cybercriminalité du parquet de Paris, qui le relie à une centaine de signalements concernant des piratages de sites internet à partir du 19 décembre 2025.
+- "La personne interpellée dans le dossier +Hexdex+ a été mise en examen" jeudi pour six infractions dont quatre stipulent le motif "en bande organisée", et a été "placée en détention provisoire", indique le parquet de Paris, sollicité par l'AFP.
+- Arrêté lundi, "alors même qu'il s'apprêtait à publier d'autres données" piratées, il "a reconnu l'utilisation de ce pseudonyme", "HexDex", avait révélé le ministère public mercredi.
+
+## [Phishing par “device code” : quand l'authentification légitime devient l'arme](https://www.solutions-numeriques.com/phishing-par-device-code-quand-lauthentification-legitime-devient-larme/)  
+*Source : solutions-numeriques.com | Publication : 2026-04-23*
+
+- Sept millions d’attaques en quatre semaines.
+- Barracuda vient de documenter une montée en puissance brutale du phishing par “device code”, une technique qui retourne le système de connexion de Microsoft contre ses propres utilisateurs, sans faux site, sans lien suspect, et qui met en échec la double authentification.
+- Un détournement du processus de connexion, pas une faille Il n’y a pas de vulnérabilité à corriger ici.
+- L’authentification par code d’appareil est une fonctionnalité parfaitement légitime, conçue à l’origine pour permettre la connexion sur des équipements sans clavier — téléviseurs, imprimantes, outils industriels.
+
+## [Un hackeur, surnommé « HexDex », mis en examen et écroué après plusieurs ... - Le Monde](https://www.lemonde.fr/pixels/article/2026/04/23/un-hackeur-mis-en-examen-et-ecroue-apres-plusieurs-cyberattaques-visant-notamment-des-federations-sportives_6682831_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-04-23*
 
 - JavaScript is disabled in your browser.
 - Please enable JavaScript to proceed.
 - A required part of this site couldn’t load.
 - This may be due to a browser extension, network issues, or browser settings.
 
-## [Cyberattaques massives de fédérations sportives : un hacker interpellé en Vendée - CNews](https://www.cnews.fr/faits-divers/2026-04-22/cyberattaques-massives-de-federations-sportives-un-hacker-interpelle-en)  
-*Source : cnews.fr | Publication : 2026-04-22*
+## [Une première compétition de <b>cybersécurité</b> en Alsace : malgré le retard du Grand Est dans ...](https://france3-regions.franceinfo.fr/grand-est/bas-rhin/une-premiere-competition-de-cybersecurite-en-alsace-malgre-le-retard-du-grand-est-dans-le-numerique-on-a-des-talents-ici-3339887.html)  
+*Source : france3-regions.franceinfo.fr | Publication : 2026-04-23*
 
-- La brigade de lutte contre la cybercriminalité (BL2C) impute aussi à «HexDex» le piratage de données personnelles enregistrées dans la base «Compas»,.
+- L'établissement d'enseignement supérieur privé 18.06 de Molsheim (Bas-Rhin) organise, samedi 25 avril, la toute première compétition de cybersécurité d'Alsace.
+- Au programme de ce "Bretz'Hack" : 70 challenges pour tester les capacités de détection de failles informatiques et d'investigations des participants.
+- Une façon de mettre en avant les talents alsaciens.
+- Sébastien Dhérines, directeur de l'école 18.06 (spécialisée notamment dans le numérique et la cybersécurité), trouvait dommage que ses étudiants alsaciens doivent toujours se rendre à Paris pour participer à des compétitions de cybersécurité.
 
-## [ENTRETIEN. Piratage de l'ANTS : &quot;Il y a une multiplication d'attaques contre des entités ...](https://www.ladepeche.fr/2026/04/22/entretien-piratage-de-lants-il-y-a-une-multiplication-dattaques-contre-des-entites-francaises-le-niveau-global-de-cybersecurite-nest-pas-bon-13338210.php)  
-*Source : ladepeche.fr | Publication : 2026-04-22*
+## [<b>Cybercriminalité</b> : Le jeune hacker « HexDex » écroué après une vague de piratages](https://www.20minutes.fr/justice/4220012-20260423-cybercriminalite-jeune-hacker-hexdex-ecroue-apres-vague-piratages)  
+*Source : 20minutes.fr | Publication : 2026-04-23*
 
-- ENTRETIEN.
-- Piratage de l’ANTS : "Il y a une multiplication d’attaques contre des entités françaises, le niveau global de cybersécurité n’est pas bon" l'essentiel Le piratage de l’ANTS (Agence nationale des titres sécurisés) révèle une faille majeure dans la cybersécurité française.
-- Plus de 11,7 millions de comptes ont été exposés, selon le ministère de l’Intérieur.
-- Une attaque en ligne qui souligne l’urgence de renforcer la protection des données administratives, comme l’indique Baptiste Robert, hacker "éthique", expert en cybercriminalité.
+- Cybercriminalité : Le jeune hacker « HexDex » écroué après une vague de piratages Fin du game•Cet homme âgé de 21 ans est soupçonné d’être le hacker HexDex et d’avoir revendu les données piratées sur le darkweb20 Minutes avec AFP «HexDex », le jeune hacker soupçonné d’être derrière une avalanche de piratages de sites de fédérations sportives ou encore de l’Education nationale, a été mis en examen et placé en détention provisoire ce jeudi.
+- Le suspect, né en août 2004, a été interpellé mercredi en Vendée, « alors même qu’il s’apprêtait à publier d’autres données » piratées et « a reconnu l’utilisation de ce pseudonyme », a révélé le ministère public.
+- La section de lutte contre la cybercriminalité du parquet de Paris le relie à une centaine de signalements concernant des piratages de sites Internet depuis le 19 décembre 2025.
+- Parmi les six infractions qui motivent sa mise en examen, figure l'« entrave au fonctionnement d’un système de traitement automatisé de données à caractère personnel mis en œuvre par l’Etat », selon le parquet.
 
-## [Petya : comment se protéger contre un <b>ransomware</b> ? - Numerama](https://www.numerama.com/video/2207879_video)  
-*Source : numerama.com | Publication : 2026-04-22*
+## [Algérie: lancement d'un cluster national de start-up IA et <b>cybersécurité</b> à Sidi Abdellah](https://africa-news-agency.com/algerie-lancement-dun-cluster-national-de-start-up-ia-et-cybersecurite-a-sidi-abdellah/)  
+*Source : africa-news-agency.com | Publication : 2026-04-23*
 
-- Petya : comment se protéger contre un ransomware ?il y a 8 ans.
+- Algérie: lancement d'un cluster national de start-up IA et cybersécurité à Sidi Abdellah ... cybersécurité au sein du pôle scientifique et.
 
-## [<b>Cybersécurité</b> : face à la hausse des attaques, les Yvelines se mobilisent | tv78](https://tv78.com/cybersecurite-entreprises-yvelines-attaques-ecole-2600/)  
-*Source : tv78.com | Publication : 2026-04-22*
+## [<b>Cybercriminalité</b> : le hacker « HexDex » mis en examen et écroué pour une vague de piratages](https://www.la-croix.com/societe/cybercriminalite-le-hacker-hexdex-mis-en-examen-et-ecroue-pour-une-vague-de-piratages-20260423)  
+*Source : la-croix.com | Publication : 2026-04-23*
+
+- Un jeune hacker présumé, caché derrière l’alias « HexDex » et soupçonné d’être derrière une avalanche de piratages de sites de fédérations sportives ou encore de l’éducation nationale, a été mis en examen et placé en détention provisoire jeudi 23 avril, a indiqué le parquet de Paris.
+- Interpellé en Vendée, le jeune suspect, né en août 2004, était dans le viseur de la section de lutte contre la cybercriminalité du parquet de Paris, qui le relie à une centaine de signalements concernant des piratages de sites Internet à partir du 19 décembre 2025.
+- Il a été arrêté lundi « alors même qu’il s’apprêtait à publier d’autres données » piratées et « a reconnu l’utilisation de ce pseudonyme », « HexDex », avait révélé le ministère public mercredi.
+- « La personne interpellée dans le dossier “Hexdex” a été mise en examen » pour six infractions dont « entrave au fonctionnement d’un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État », selon le parquet.
+
+## [<b>Cybercriminalité</b> : arrestation de &quot;HexDex&quot;, un hacker de 21 ans soupçonné de plus de cent ...](https://lessor.org/operationnel/cybercriminalite-arrestation-de-hexdex-un-hacker-de-21-ans-soupconne-de-plus-de-cent-piratages-en-france/)  
+*Source : lessor.org | Publication : 2026-04-23*
+
+- Né en 2004, le jeune hacker était dans le viseur de la section de lutte contre la cybercriminalité du parquet de Paris depuis plusieurs semaines.
+- Les enquêteurs de la Brigade de lutte contre la cybercriminalité (BL2C) le relient à une centaine de signalements de piratages, commis à partir du 19 décembre 2025.
+- L’interpellation a eu lieu lundi 21 avril 2026, alors même que le suspect s’apprêtait à publier un nouveau lot de données volées.
+- Il a reconnu l’utilisation du pseudonyme « HexDex », sous lequel il revendiquait ses intrusions avant de les basculer sur des plateformes spécialisées dans la revente de données volées, comme BreachForum ou Darkforum.
+
+## [Cyberattaques 2026 : solutions et formations dans les Yvelines - tv78](https://tv78.com/cybersecurite-entreprises-yvelines-attaques/)  
+*Source : tv78.com | Publication : 2026-04-23*
 
 - Les cyberattaques se multiplient en France et touchent désormais toutes les entreprises, quelle que soit leur taille.
 - Dans les Yvelines, formations spécialisées et initiatives locales se développent pour répondre à cet enjeu croissant.
-- Le site de l’Agence nationale des titres sécurisés, celui qui gère notamment les demandes de pièces d’identité et de passeport, a été visé par une attaque informatique le 15 avril 2026.
+- 67 % des entreprises françaises visées : un constat alarmant en 2026 Le site de l’Agence nationale des titres sécurisés, celui qui gère notamment les demandes de pièces d’identité et de passeport, a été visé par une attaque informatique le 15 avril 2026.
 - Cet incident est loin d’être un cas isolé : en 2024, 67 % des entreprises françaises déclarent avoir subi au moins une cyberattaque, contre 53 % en 2023, selon le rapport Hiscox 2024.
 
-## [Airbus accélère dans la <b>cybersécurité</b> en s'emparant de la start-up française Quarkslab](https://www.usine-digitale.fr/cybersecurite/detecter-les-cyberattaques-en-temps-reel-airbus-accelere-dans-la-cybersecurite-en-semparant-de-la-start-up-francaise-quarkslab.65B6AGIV5BFPZCWCKZXORXYTHE.html)  
-*Source : usine-digitale.fr | Publication : 2026-04-22*
+## [L'entreprise de <b>cybersécurité</b> Trend Micro se réinvente et se focalise sur l'IA](https://www.mac4ever.com/securite/195756-l-entreprise-de-cybersecurite-trend-micro-se-reinvente-et-se-focalise-sur-l-ia)  
+*Source : mac4ever.com | Publication : 2026-04-23*
 
-- Airbus Defence and Space met la main sur Quarkslab, start-up française à l'origine d'une solution de cyberprotection logicielle et des composants.
+- L'entreprise de cybersécurité Trend Micro se réinvente et se focalise sur l'IA Par Denis Vaillant - Publié le - Brève Le géant de la cybersécurité Trend Micro opère un virage stratégique majeur.
+- L’entreprise vient d’annoncer une restructuration complète de ses activités en plaçant l’intelligence artificielle au cœur de son identité, avec un nouveau nom pour chacune de ses divisions.
+- Trend Micro présente un rebranding de ses deux divisions principales avec d'un côté la branche dédiée aux entreprises qui devient TrendAI, et de l'autre, le segment grand public qui est rebaptisé TrendLife.
+- Si TrendLife occupe déjà la première place au Japon et dans la région Pacifique, la marque a décidé de réinvestir massivement le marché grand public européen.
 
-## [Des pirates accèdent au modèle IA Mythos d'Anthropic, jugé trop dangereux](https://fr.news.yahoo.com/hackers-piratent-modèle-ia-mythos-092048986.html)  
-*Source : fr.news.yahoo.com | Publication : 2026-04-22*
+## [De l'Australie à l'Europe, en passant par les États-Unis, comment Anthropic est devenu ... - BFM](https://www.bfmtv.com/tech/intelligence-artificielle/de-l-australie-a-l-europe-en-passant-par-les-etats-unis-comment-anthropic-est-devenu-avec-son-tout-nouveau-modele-frontiere-la-star-du-moment-de-la-cybersecurite_AV-202604230585.html)  
+*Source : bfmtv.com | Publication : 2026-04-23*
 
-- Des pirates accèdent au modèle IA Mythos d'Anthropic, jugé trop dangereux Un groupe d’utilisateurs non autorisés aurait accédé au nouveau produit d’Anthropic, que la société d’intelligence artificielle juge trop puissant pour être mis à la disposition du grand public, car il « présente des risques de cybersécurité sans précédent ».
-- La nouvelle technologie d’IA d’Anthropic, Mythos, est conçue pour la sécurité des entreprises et est actuellement testée par quelques sociétés de technologie et de cybersécurité.
-- Un « forum en ligne privé » est parvenu à accéder à Mythos via un prestataire tiers, selon Bloomberg.
-- « Nous enquêtons sur un signalement faisant état d’un accès non autorisé à Claude Mythos Preview via l’un des environnements de nos prestataires tiers », a déclaré un porte-parole d’Anthropic à Euronews Next.
+- De l'Australie à l'Europe, en passant par les États-Unis, comment Anthropic est devenu, avec son tout nouveau modèle frontière, la star du moment de la cybersécurité C'est l'outil que tout le monde veut utiliser.
+- Depuis son annonce en presque catimini, Mythos, le modèle d'IA le plus performant d'Anthropic, ne cesse d'intéresser et d'inquiéter les entreprises, agences et pays par ses capacités présumées ou réelles.
+- Le dernier en date, c'est l'Australie, qui a décidé de collaborer avec la start-up concernant d'éventuelles failles de sécurité, a révélé Reuters.
+- Mythos est en effet capable de détecter des vulnérabilités dans des logiciels bien établis.
 
-## [L'Assemblée nationale néerlandaise approuve deux lois sur la <b>cybersécurité</b> et la résilience ...](https://www.teamfrance-export.fr/infos-sectorielles/40630/40630-lassemblee-nationale-neerlandaise-approuve-deux-lois-sur-la-cybersecurite-et-la-resilience-des-entites-critiques)  
-*Source : teamfrance-export.fr | Publication : 2026-04-22*
+## [Vague de cyberattaques : le jeune hacker « HexDex » interpellé lundi en Vendée, mis en ...](https://www.ouest-france.fr/societe/cyberattaque/cyberattaques-de-plusieurs-institutions-le-jeune-hacker-interpelle-lundi-en-vendee-mis-en-examen-et-ecroue-3cc038a2-3f28-11f1-ac09-2dd9a94cc119)  
+*Source : ouest-france.fr | Publication : 2026-04-23*
 
-- Date de publication : Je souhaite aller plus loin, je veux être contacté(e) par un expert gratuitement.
-- Être contactéCes deux lois s’inscrivent dans la mise en œuvre de règles européennes visant à faire face à une diversification et intensification des menaces.
-- La loi sur la cybersécurité (Cyberbeveiligingswet, CBW), qui transpose la directive NIS21 dans le droit local, prévoit des exigences renforcées en matière de cybersécurité, de gestion des risques et de signalement des incidents.
-- Il reviendra aux entreprises et organisations de vérifier si elles sont concernées par le dispositif, le gouvernement les invitant à anticiper cette démarche avant l’entrée en vigueur du texte.
-
-## [Applications et logiciels étrangers : la DGSI met en garde contre un risque systémique sous-estimé](https://www.solutions-numeriques.com/applications-et-logiciels-etrangers-la-dgsi-met-en-garde-contre-un-risque-systemique-sous-estime/)  
-*Source : solutions-numeriques.com | Publication : 2026-04-22*
-
-- La Direction générale de la sécurité intérieure (DGSI) alerte sur les vulnérabilités liées à l’usage d’applications et de logiciels étrangers.
-- Des outils devenus indispensables, mais qui exposent les organisations à des risques techniques, juridiques et stratégiques encore largement sous-évalués.
-- Une banalisation des usages qui masque le risque “Messageries instantanées, logiciels de visioconférences, stockage de données en ligne, outils d’intelligence artificielle ou encore logiciels de planification des ressources d’entreprise” : les applications étrangères structurent désormais le quotidien numérique des organisations.
-- Leur adoption s’impose souvent comme une évidence, portée par leur efficacité, leur ergonomie et, parfois, leur caractère incontournable dans les échanges internationaux.
-
-## [Bruxelles s'impose dans le numérique européen : Paradigm devient co-chair du groupe ...](https://be.brussels/fr/propos-de-la-region/bruxelles-simpose-dans-le-numerique-europeen-paradigm-devient-co-chair-du-groupe-foresight)  
-*Source : be.brussels | Publication : 2026-04-22*
-
-- Bruxelles s’impose dans le numérique européen : Paradigm devient co-chair du groupe Foresight d’Eurocities Cette coprésidence avec la ville de Rotterdam renforce concrètement l’influence de la Région dans les réseaux européens et lui permet de contribuer aux orientations et projets qui façonnent le numérique urbain de demain.
-- Eurocities, qui rassemble plus de 200 grandes villes, est un terrain clé pour développer partenariats, bonnes pratiques et projets européens communs.
-- Sur le terrain, Paradigm est déjà à l’œuvre.
-- Le 16 avril dernier, lors du Digital Forum 2026 d’Eurocities à Sofia, l’organisme a pris part aux échanges sur des enjeux majeurs comme les droits numériques, la cybersécurité, la souveraineté numérique ou encore les jumeaux numériques urbains.
-
-## [“Il y a beaucoup moins de monde” : pourquoi les cyberattaques ont-elles plus souvent lieu ...](https://www.lechorepublicain.fr/france-monde/faits-divers/il-y-a-beaucoup-moins-de-monde-pourquoi-les-cyberattaques-ont-elles-plus-souvent-lieu-en-mai-ou-pendant-les-vacances_14964971/)  
-*Source : lechorepublicain.fr | Publication : 2026-04-22*
-
-- Partager : A la une Générations Partager : Générations Écouter l'article Plus une semaine ne passe sans qu’une cyberattaque d’ampleur ait lieu.
-- Entreprises, services publics... tout le monde y passe.
-- Avec à la clé : des données de millions d’utilisateurs volées par des pirates informatiques.
-- La dernière en date ?.
-
-## [Étudiants et jeunes diplômés : lancez votre carrière chez Deloitte](https://www.deloitte.com/fr/fr/careers/deloitte-life/development/etudiants-et-jeunes-diplomes.html?icid=top_etudiants-et-jeunes-diplomes)  
-*Source : deloitte.com | Publication : 2026-04-22*
-
-- Évoluez au sein d’un réseau mondial d’experts, de mentors et d’opportunités pour construire un parcours ambitieux dès le début de votre carrière.
-- Chez Deloitte, nous sommes convaincus que les talents d’aujourd’hui façonnent les organisations de demain.
-- C’est pourquoi nous vous offrons un environnement d’apprentissage exigeant, bienveillant et connecté aux réalités du terrain.
-- Chaque année, nous recrutons plus de 1 000 étudiants et jeunes diplômés en France pour les accompagner dans la construction d’une carrière durable et stimulante.
-
-## [Profils expérimentés chez Deloitte : donnez un nouvel élan à votre parcours](https://www.deloitte.com/fr/fr/careers/deloitte-life/development/experimentes.html?icid=top_experimentes)  
-*Source : deloitte.com | Publication : 2026-04-22*
-
-- Chez Deloitte, nous recrutons chaque année plusieurs centaines de professionnels expérimentés souhaitant relever de nouveaux défis, renforcer leur leadership ou accélérer leur évolution de carrière.
-- Présents dans les principales villes de France, nous proposons des opportunités à fort impact, alliant responsabilité, expertise et innovation.
-- Rejoindre Deloitte, c’est évoluer dans un environnement stimulant où vous pouvez développer votre potentiel, élargir votre champ d’action et donner une nouvelle dimension à votre carrière.
-- En tant que professionnel expérimenté, vous pouvez également devenir Career Advisor, en accompagnant la progression des collaborateurs et en partageant votre expérience.
-
-## [Fuite de données à l'ANTS, site qui gère les demandes de pièces d'identité : ce que l'on sait](https://www.lemonde.fr/pixels/article/2026/04/22/fuite-de-donnees-a-l-ants-site-qui-gere-les-demandes-de-pieces-d-identite-ce-que-l-on-sait_6682414_4408996.html)  
-*Source : lemonde.fr | Publication : 2026-04-22*
-
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
-
-## [L'IA, nouveau champ de bataille de la <b>cybersécurité</b> - Le cercle des économistes](https://lecercledeseconomistes.fr/articles/industrie-innovation/ia-cybersecurite/)  
-*Source : lecercledeseconomistes.fr | Publication : 2026-04-22*
-
-- Portée par l’IA, la menace cyber s’industrialise : le cycle d’une attaque se réduit désormais à quelques minutes.
-- Les stratégies de défense classiques ne suffisent plus.
-- Quels sont les nouveaux leviers pour protéger nos infrastructures et notre souveraineté numérique ?.
-- Réponses avec Jacques Pommeraud, président-directeur général du groupe Inetum, partenaire de la revue Mermoz.
+- Interpellé en Vendée lundi, le suspect, dans sa vingtaine, était dans le viseur de la section de lutte contre la cybercriminalité du parquet de.
