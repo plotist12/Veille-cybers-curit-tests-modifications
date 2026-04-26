@@ -1,144 +1,152 @@
-# Résumés – 2026-04-25
+# Résumés – 2026-04-26
 
 
-## [<b>Cybersécurité</b> et exportation : un enjeu clé pour les PME - Raymond Chabot Grant Thornton](https://www.rcgt.com/fr/conseils/avis-d-experts/la-cybersecurite-un-passeport-pour-exporter/)  
-*Source : rcgt.com | Publication : 2026-04-25*
+## [Ari Redbord de TRM Labs sur la <b>cybercriminalité</b> crypto et la Corée du Nord | Phemex News](https://phemex.com/fr/news/article/trm-labs-ari-redbord-discusses-crypto-crime-and-north-koreas-activities-76384)  
+*Source : phemex.com | Publication : 2026-04-26*
 
-- Publié le 25 avril 2026 • 5 min de lecture Une cybersécurité solide protège vos opérations, mais peut aussi vous aider à accéder à de nouveaux marchés.
-- L’exportation ne se joue plus seulement sur la qualité d’un produit, le prix ou les délais de livraison.
-- Elle s’appuie de plus en plus aussi sur la capacité d’une entreprise à protéger ses données, ses systèmes et sa chaîne d’approvisionnement.
-- Autrement dit, la cybersécurité n’est plus un simple enjeu technique.
+- Ari Redbord de TRM Labs est récemment intervenu dans le podcast The Policy Protocol pour discuter de la réponse des États-Unis à la criminalité liée aux cryptomonnaies.
+- Redbord a souligné que la Corée du Nord n'utilise pas Coinbase pour les activités de conversion en monnaie fiduciaire, suggérant que des transactions cryptographiques illicites ont lieu ailleurs.
+- La discussion s'est concentrée sur les stratégies pour lutter efficacement contre la criminalité liée aux cryptomonnaies, mettant en avant la nécessité de mesures ciblées contre des menaces spécifiques.
+- Ari Redbord de TRM Labs parle de la criminalité liée aux cryptomonnaies et des activités de la Corée du Nord Avertissement : Le contenu proposé sur Phemex News est à titre informatif uniquement.
 
-## [La Russie, suspect numéro un des attaques de hameçonnage sur Signal - Orange Actu](https://actu.orange.fr/monde/la-russie-suspect-numero-un-des-attaques-de-hameconnage-sur-signal-CNT000002oSUFO.html)  
-*Source : actu.orange.fr | Publication : 2026-04-25*
+## [<b>Cybersécurité</b>, fake news, énergie : « La défense n'est pas uniquement militaire, elle ... - Les Echos](https://www.lesechos.fr/idees-debats/cercle/cybersecurite-fake-news-energie-la-defense-nest-pas-uniquement-militaire-elle-concerne-lensemble-de-la-communaute-nationale-2228563)  
+*Source : lesechos.fr | Publication : 2026-04-26*
 
-- La Russie, suspect numéro un des attaques de hameçonnage sur Signal © Justin TALLIS, AFP - Berlin a attribué samedi à la Russie les attaques répétées de la messagerie Signal, après que plusieurs responsables politiques allemands, mais aussi des diplomates, militaires et journalistes ont vu leurs communications piratées depuis février Berlin a attribué samedi à la Russie les attaques répétées de la messagerie Signal, après que plusieurs responsables politiques allemands, mais aussi des diplomates, militaires et journalistes ont vu leurs communications piratées depuis février.
-- "Le gouvernement fédéral part du principe que la campagne de phishing visant le service de messagerie Signal a vraisemblablement été pilotée depuis la Russie", a appris l'AFP des cercles gouvernementaux.
-- Selon cette même source, la fuite de données est désormais contenue.
-- Le parquet fédéral avait indiqué vendredi mener une enquête pour "suspicion d'espionnage" depuis février, et le président de la commission de contrôle parlementaire du Bundestag (chambre basse), Marc Henrichmann, avait pointé du doigt la Russie, sans que le gouvernement ne confirme jusqu'à présent.
+- Face aux menaces hybrides, la culture de la défense, bien plus qu'une culture de militarisation, concerne toute la nation.
 
-## [Sud Alsace. La gendarmerie d'Altkirch fait état d'une recrudescence des cambriolages et de ...](https://www.lalsace.fr/faits-divers-justice/2026/04/26/la-gendarmerie-d-altkirch-fait-etat-d-une-recrudescence-des-cambriolages-et-de-la-cybercriminalite)  
-*Source : lalsace.fr | Publication : 2026-04-25*
+## [Thaïlande : Arrêté pour « des fraudes à l'encontre d'Américains pour environ 10 millions de dollars](https://fr.news.yahoo.com/sport/thaïlande-arrêté-fraudes-à-l-134531601.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-04-26*
 
-- Sud Alsace La gendarmerie d’Altkirch fait état d’une recrudescence des cambriolages et de la cybercriminalité en 2025 « Les effectifs, c’est le nerf de la guerre », a souligné le chef d’escadron Sébastien Roché, commandant la compagnie de gendarmerie d’Altkirch, qui a fait part de sa satisfaction à ce sujet, au moment de présenter le bilan de l’année écoulée.
-- L’exposé, présenté dans les locaux de la compagnie en présence du colonel Maxime Beaumont, commandant le groupement de gendarmerie du Haut-Rhin, et la sous-préfète Noémie Piaskowski, a été suivi par une poignée d’élus de la circonscription : le maire de Pfetterhouse, Jean-Rodolphe Frisch, la maire d’Altkirch, Isabelle Pi, le maire de Masevaux-Niederbruck, Maxime Beltzung, le député Didier Lemaire et le sénateur Ludovic Haye.
-- Un effectif théorique de 98 gendarmes « Pour un effectif théorique de 98 gendarmes, nous avons été 89 en moyenne en 2025 », a commenté le commandant de la compagnie d’Altkirch, en souhaitant que cette situation perdure voire s’améliore encore cette année.
-- Il a souligné les actions menées auprès des établissements scolaires et.
+- Thaïlande : Arrêté pour « des fraudes à l’encontre d’Américains pour environ 10 millions de dollars » arrête-moi si tu peux - L’homme de 33 ans aurait recruté des mannequins pour piéger ses cibles, américaines, en les incitant, via des appels vidéo, des applis de rencontres et les réseaux sociaux, à de faux investissements financiers Il était recherché par le FBI.
+- Les autorités thaïlandaises ont annoncé dimanche l’arrestation d’un Indonésien pour avoir commis à l’encontre d’Américains des arnaques en ligne de grande ampleur.
+- Le suspect a été placé en détention, en attendant son extradition vers les Etats-Unis.
+- L’homme de 33 ans a été arrêté vendredi dans un établissement de luxe à Phuket, à la suite d’informations fournies par le FBI, le service de renseignement et de police judiciaire américain, a déclaré Suriya Poungsombat de la police de l’immigration.
 
-## [Voitures connectées : voici ce que des pirates peuvent contrôler à distance - Science et vie](https://www.science-et-vie.com/technos-et-futur/automobile/voitures-connectees-voici-ce-que-des-pirates-peuvent-controler-a-distance-215557.html)  
-*Source : science-et-vie.com | Publication : 2026-04-25*
+## [<b>Cybercriminalité</b> : une vague d'attaques sans précédent touche l'Europe - franceinfo](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cybercriminalite-une-vague-d-attaques-sans-precedent-touche-l-europe_7965374.html)  
+*Source : franceinfo.fr | Publication : 2026-04-26*
 
-- Voitures connectées : voici ce que des pirates peuvent contrôler à distance Sous le capot des voitures modernes, ce ne sont plus seulement des moteurs qui fonctionnent, mais des millions de lignes de code.
-- Cette informatisation massive transforme les véhicules en cibles privilégiées pour les cybercriminels.
-- Face à cette nouvelle réalité, l'Europe impose des normes strictes, faisant de la cybersécurité un enjeu industriel et technologique majeur.
-- [Article déjà publié le 20 octobre 2025] Plus les véhicules gagnent en intelligence, plus ils deviennent dépendants des flux de données qui les traversent.
+- Cybercriminalité : une vague d'attaques sans précédent touche l'Europe En ce début d'année 2026, la France est le deuxième pays du monde le plus touché par les fuites de données.
+- Ces cyberattaques inquiètent et interrogent sur les motivations des auteurs.
+- Ce texte correspond à une partie de la retranscription du reportage ci-dessus.
+- Cliquez sur la vidéo pour la regarder en intégralité.
 
-## [<b>Cybercriminalité</b> : Berlin voit « vraisemblablement » la Russie comme responsable de la ...](https://www.sudouest.fr/international/europe/allemagne/cybercriminalite-berlin-voit-vraisemblablement-la-russie-comme-responsable-de-la-cyberattaque-contre-signal-28823949.php)  
-*Source : sudouest.fr | Publication : 2026-04-25*
+## [Assemblée nationale : Drogue, corruption, <b>cybersécurité</b> et fiscalité au cœur de la PMQT](https://lexpress.mu/s/drogue-corruption-cybersecurite-et-fiscalite-au-coeur-de-la-pmqt-557201)  
+*Source : lexpress.mu | Publication : 2026-04-26*
 
-- Berlin a attribué samedi à la Russie les attaques répétées de la messagerie Signal, plusieurs responsables politiques allemands, mais aussi des diplomates, militaires et journalistes ayant vu leur communication piratée depuis février.
-- « Le gouvernement fédéral part du principe que la campagne de phishing visant le service de messagerie Signal a vraisemblablement été pilotée depuis la Russie », a appris l’AFP des cercles gouvernementaux.
-- Selon cette même source, la fuite de donnée est désormais contenue.
-- Le parquet fédéral avait indiqué vendredi mener une enquête pour « suspicion d’espionnage » depuis février, et le président de la commission de contrôle parlementaire du Bundestag (Chambre basse), Marc Henrichmann, avait pointé du doigt la Russie, sans que le gouvernement ne confirme jusqu’à présent.
+- Plusieurs députés ont inscrit des questions portant notamment sur le trafic de drogue, la corruption, la cybersécurité et les finances publiques.
 
-## [IBM Autonomous Security](https://www.ibm.com/fr-fr/services/autonomous-security)  
-*Source : ibm.com | Publication : 2026-04-25*
+## [Les hackers ciblent désormais les panneaux solaires des particuliers : voici comment se ...](https://lenergeek.com/2026/04/26/les-hackers-ciblent-desormais-les-panneaux-solaires-des-particuliers-voici-comment-se-proteger-des-attaques/)  
+*Source : lenergeek.com | Publication : 2026-04-26*
 
-- Faites face aux cyberattaques basées sur des agents à l’échelle Les attaquants exploitent de plus en plus des modèles de pointe pour accélérer l’ensemble du cycle de vie des attaques.
-- En effet, les modèles actuels et émergents réduisent le temps et l’expertise nécessaires pour lancer des attaques perturbatrices.
-- Alors que l’automatisation et la technologie agentique renforcent les capacités offensives, les entreprises ont besoin de programmes de sécurité tout aussi autonomes, coordonnés et continus.
-- IBM Autonomous Security est un service multi-agent qui fournit des renseignements, une prise de décision et une réponse à la vitesse de la machine.
+- À l’heure où les énergies renouvelables sont de plus en plus privilégiées face à la hausse des coûts de l’électricité, les technologies solaires progressent à grande vitesse.
+- Leur interconnexion et leur gestion numérique, si utiles soient-elles, posent de nouveaux problèmes de cybersécurité.
+- Les installations solaires et photovoltaïques, vitales pour la transition énergétique, deviennent de plus en plus vulnérables aux attaques visant leurs systèmes intelligents, ce qui met en danger la fiabilité de notre approvisionnement électrique, alerte Frandroid.
+- Quels risques numériques pour les installations solaires ?.
 
-## [Airbus acquiert la pépite de <b>cybersécurité</b> Quarkslab - Aerospatium](https://www.aerospatium.info/airbus-acquiert-pepite-cybersecurite-quarkslab/)  
-*Source : aerospatium.info | Publication : 2026-04-25*
+## [Arnaque au deuil : cette escroquerie fait des ravages après la perte d'un proche - 01net.com](https://www.01net.com/actualites/arnaque-au-deuil-cette-escroquerie-fait-des-ravages-chez-les-personnes-en-deuil.html)  
+*Source : 01net.com | Publication : 2026-04-26*
 
-- Aerospatium.info utilise des cookies afin d'améliorer votre navigation.
-- Vous pouvez choisir de ne pas les installer sur votre navigateur.
-- Si vous souhaitez plus d'information, rendez-vous sur la page dédiée à la politique de confidentialité Accepter Refuser Politique de confidentialité Fermer Privacy Overview This website uses cookies to improve your experience while you navigate through the website.
-- Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website.
+- Les auteurs de cette arnaque ciblent des personnes en deuil, c’est-à-dire des individus psychologiquement vulnérables.
+- Pour arriver à leurs fins, ils se font passer pour une personne d’autorité ou de confiance.
+- L’objectif final est d’inciter la victime à effectuer des virements ou à lui soutirer des données personnelles.
+- À lire aussi : Une arnaque sur Booking tente de vous piéger juste après une réservation, le timing est redoutable Les personnes en deuil ciblées Si toutes les arnaques sont par définition amorales, certaines d’entre elles atteignent des sommets en la matière.
 
-## [L'OpenAI GPT 5.5 et 5.5 Pro sont lancés avec une prime de 25 000 - Notebookcheck](https://www.notebookcheck.biz/L-OpenAI-GPT-5-5-et-5-5-Pro-sont-lances-avec-une-prime-de-25-000.1282604.0.html)  
-*Source : notebookcheck.biz | Publication : 2026-04-25*
+## [Osmose - <b>cybersécurité</b> en Occitanie - LinkedIn](https://www.linkedin.com/showcase/osmose-cybersécurité-en-occitanie/)  
+*Source : linkedin.com | Publication : 2026-04-26*
 
-- L'OpenAI GPT 5.5 et 5.5 Pro sont lancés avec une prime de 25 000 $ OpenAI a dévoilé ses derniers modèles d'IA, GPT 5.5 et GPT 5.5 Pro, qui alimentent son service de chatbot ChatGPT et ses API d'IA.
-- Les deux modèles GPT sont plus intelligents que le GPT 5.4 et que ses concurrents, Claude Opus 4.7 et Gemini 3.1 Pro, mais ils présentent également des risques accrus.
-- GPT 5.5 et 5.5 Pro sont disponibles pour les abonnés payants de ChatGPT, et ils seront bientôt disponibles pour les utilisateurs de l'API.
-- Les dernières IA d'OpenAI continuent de s'améliorer dans leur capacité à résoudre des problèmes académiques difficiles et à utiliser les ordinateurs comme des outils.
+- Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+- or New to LinkedIn?.
+- Join now Higher Education Toulouse, Occitanie Research Services Pharmaceutical Manufacturing Conservation Programs Biotechnology Research Government Administration Montpellier, Occitanie Environmental Services.
 
-## [Claude Mythos : l'IA trop puissante pour être commercialisée - Planète Grandes Ecoles](https://www.planetegrandesecoles.com/claude-mythos-anthropic-ia-cybersecurite-risques)  
-*Source : planetegrandesecoles.com | Publication : 2026-04-25*
+## [Portes dérobées : l'Iran accuse les États-Unis de saboter les réseaux](https://dcod.ch/2026/04/26/portes-derobees-iran-accuse-les-etats-unis/)  
+*Source : dcod.ch | Publication : 2026-04-26*
 
-- Depuis, régulateurs financiers, agences de renseignement et experts en cybersécurité ne parlent plus que de ça.
-- Et le 22 avril, un groupe non.
+- TL;DR : L’essentiel Des équipements Cisco, Juniper et Fortinet auraient subi des déconnexions massives en Iran.
+- Ces incidents suggèrent une capacité de sabotage à distance via des vulnérables dissimulées dans les micrologiciels.
+- - Le centre chinois de réponse aux virus informatiques soutient ces allégations en invoquant des précédents historiques d’espionnage.
+- Pékin utilise ces accusations pour contester sa propre responsabilité dans des cyberattaques internationales.
 
-## [Toulouse. Un ex-Airbusien devenu patron réussit un sacré coup : il revend son entreprise… à Airbus](https://actu.fr/occitanie/toulouse_31555/toulouse-un-ex-airbusien-devenu-patron-reussit-un-sacre-coup-il-revend-son-entreprise-a-airbus_64169030.html)  
-*Source : actu.fr | Publication : 2026-04-25*
+## [Que faire si vous avez reçu un mail de l'ANTS suite à la fuite de données massive du 15 avril](https://www.capital.fr/economie-politique/que-faire-si-vous-avez-recu-un-mail-de-l-ants-suite-a-la-fuite-de-donnees-massive-du-15-avril-1525996)  
+*Source : capital.fr | Publication : 2026-04-26*
 
-- C’est un parcours atypique.
-- Ancien salarié d’Airbus, Fred Raynal avait quitté ses fonctions au sein de l’avionneur basé à Toulouse pour fonder sa propre société de cybersécurité : Quarkslab.
-- Mais après plusieurs années de développement, revoilà qu’Airbus repointe le bout de son nez.
-- Ce mardi 21 avril 2026, le groupe aéronautique européen a annoncé avoir conclu un accord en vue de l’acquisition de ce nouveau spécialiste de la cybersécurité.
+- Si vous êtes concerné par cette fuite de données massive, prenez les devants.
+- Après une cyberattaque en septembre dernier qui avait concerné près de 13 millions de données, l’Agence nationale des titres sécurisés (ANTS) a de nouveau été piratée le 15 avril.
+- Résultat : de nombreuses données personnelles ont pu être consultées de manière non autorisée, comme le nom, le prénom, l’adresse mail ou encore le numéro de téléphone.
+- Les personnes victimes ont dû recevoir un mail officiel de l’ANTS les avertissant que leurs données sont concernées.
 
-## [La <b>cybersécurité</b> au cœur d'une conférence du conseil de développement de Pornic agglo ...](https://www.ouest-france.fr/pays-de-la-loire/la-bernerie-en-retz-44760/la-cybersecurite-au-cur-dune-conference-du-conseil-de-developpement-de-pornic-agglo-pays-de-retz-a-la-bernerie-en-retz-ec489360-3eff-11f1-b283-bbda7cee88c6)  
-*Source : ouest-france.fr | Publication : 2026-04-25*
+## [Mali : situation ”totalement sous contrôle”, 16 blessés dénombrés après les attaques armées ...](https://aps.sn/mali-situation-totalement-sous-controle-16-blesses-denombres-apres-les-attaques-armes-de-samedi-selon-le-gouvernement-malien/)  
+*Source : aps.sn | Publication : 2026-04-26*
 
-- Une conférence sur la cybersécurité , ouverte à tous, est proposée mercredi 29 avril, à la salle des fêtes Olivier Hureau, rue Jeanne-d'Arc,.
+- Dakar, 26 avr (APS) – Le gouvernement de la Transition malienne a assuré que la situation était ‘’totalement sous contrôle’’ dans l’ensemble des localités du pays cibles, tôt samedi, d’attaques armées d’ampleur ayant fait 16 blessés du côté des forces armées maliennes (FAMA) et des civils.
+- ‘’A l’heure actuelle, la situation est totalement sous contrôle dans l’ensemble des localités concernées’’, a indiqué le gouvernement de la Transition du Mali dans un communiqué.
+- Les autorités maliennes confirment que des groupes armés ont mené le samedi 25 avril 2026, des attaques complexes et coordonnées visant certaines villes du pays, notamment les villes garnisons de Kati, Sévaré, Gao, Kidal et Bamako.
+- ‘’Ces actes terroristes ont malheureusement fait 16 blessés, dont des civils et des militaires pris en charge par les structures médicales, des dégâts matériels limités’’, fait savoir le gouvernement malien, assurant que ‘’ces offensives ont été maîtrisées’’.
 
-## [Avatars 3D des joueurs, IA, <b>cybersécurité</b>... dans les coulisses ultra-connectées de la Coupe ...](https://www.lefigaro.fr/secteur/high-tech/avatars-3d-des-joueurs-ia-cybersecurite-dans-les-coulisses-ultra-connectees-de-la-coupe-du-monde-2026-20260425)  
-*Source : lefigaro.fr | Publication : 2026-04-25*
+## [Mythos, le modèle d'IA le plus performant d'Anthropic, a permis de découvrir et corriger 271 ...](https://www.msn.com/fr-fr/actualite/technologie-et-sciences/cybersécurité-mythos-le-modèle-d-ia-le-plus-performant-d-anthropic-a-permis-de-découvrir-et-corriger-271-failles-et-bugs-dans-firefox/ar-AA21s8o8?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t)  
+*Source : msn.com | Publication : 2026-04-26*
 
-- Avatars 3D des joueurs, IA, cybersécurité... dans les coulisses ultra-connectées de la Coupe du monde 2026 REPORTAGE - Les équipes de la Fifa et de Lenovo, qui fournira l’ensemble de l’infrastructure technologique de la compétition, sont à pied d’œuvre pour le début de la compétition qui débutera le 11 juin.
-- Passer la publicitéLe calme tranche avec la ferveur attendue dans les stades américains en juin prochain.
-- En ce jeudi de fin avril, à l’approche du siège de la Fifa sur les hauteurs de Zurich, seuls le bruit des tondeuses à gazon et le gazouillis des oiseaux troublent le silence des lieux.
-- Une quiétude trompeuse.
+- Cybersécurité : Mythos, le modèle d'IA le plus performant d'Anthropic, a permis de découvrir et corriger 271 failles et bugs dans Firefox.
+- 3j.
+- Dans le.
 
-## [Assurance contre le phishing: utile ou pompe à fric? | Mon Argent - L'Echo](https://www.lecho.be/monargent/banque-et-assurances/assurance-contre-le-phishing-utile-ou-pompe-a-fric/10657595.html)  
-*Source : lecho.be | Publication : 2026-04-25*
+## [Bretz'hack : des étudiants en informatique s'affrontent dans une compétition de ... - France Bleu](https://www.francebleu.fr/grand-est/alsace-cea/bretz-hack-des-etudiants-en-informatique-s-affrontent-dans-une-competition-de-cybersecurite-a-molsheim-8426565)  
+*Source : francebleu.fr | Publication : 2026-04-26*
 
-- Assurance contre le phishing: utile ou pompe à fric?.
-- | Mon Argent - L'Echo.
+- Publié le À Molsheim, une compétition de cybersécurité a réuni plusieurs dizaines d’étudiants venus de toute la France le samedi 25 avril.
+- Pendant sept heures, ils se sont affrontés en équipe dans des épreuves inspirées du hacking, au sein de la nouvelle école 18.06, spécialisée dans les métiers du numérique.
+- Une compétition de cybersécurité s'est organisée à Molsheim le samedi 25 avril, au sein de la toute nouvelle école 18.06 spécialisée dans les métiers du numérique.
+- Ouverte cette année, elle propose des formations en informatique, cybersécurité ou encore en intelligence artificielle.
 
-## [Point d'étape du 24 avril 2026 relatif à l'incident de sécurité concernant le portail ants.gouv.fr](https://www.interieur.gouv.fr/actualites/communiques-de-presse/point-detape-du-24-avril-2026-relatif-a-lincident-de-securite-concernant-portail-antsgouvfr)  
-*Source : interieur.gouv.fr | Publication : 2026-04-25*
+## [Les CyberExperts - Creapills](https://creapills.com/agence/cybermalveillance-gouv-les-cyberexperts)  
+*Source : creapills.com | Publication : 2026-04-26*
 
-- cybersécurité et présenteront leurs actions aux visiteurs : l'UNCyber, le COMCYBER-MI, l'Office anti- cybercriminalité (OFAC) et le Service du Haut.
+- Creapills imagine pour Cybermalveillance.gouv.fr trois films absurdes où plombier et esthéticienne s’occupent de cybersécurité, pour rappeler qu’il faut un vrai expert.
+- Face à une multiplication par quatre des cyberattaques en 2020 (ANSSI), Cybermalveillance.gouv.fr devait alerter TPE, PME, administrations et collectivités, trop enclins à déléguer leur sécurité informatique à des non-spécialistes.
+- L’enjeu : faire prendre conscience d’un mauvais réflexe ancré dans le quotidien sans tomber dans l’anxiogène, et valoriser le label ExpertCyber.
+- Creapills a bâti la démonstration sur l’absurde.
 
-## [La perte de contrôle d'Anthropic sur son IA la plus risquée alarme la communauté](https://www.24matins.fr/la-perte-de-controle-danthropic-sur-son-ia-la-plus-risquee-alarme-la-communaute-1406493)  
-*Source : 24matins.fr | Publication : 2026-04-25*
+## [ExpressVPN à -79% : le VPN premium vaut-il encore le prix en 2026 ? - JDN](https://www.journaldunet.com/cybersecurite/vpn/1549267-expressvpn-a-81-le-vpn-premium-vaut-il-encore-le-prix-en-2026/)  
+*Source : journaldunet.com | Publication : 2026-04-26*
 
-- La perte de contrôle d’Anthropic sur son IA la plus risquée alarme la communauté Selon plusieurs sources, Anthropic aurait perdu la maîtrise de son intelligence artificielle la plus avancée, considérée comme particulièrement dangereuse.
-- Cette situation soulève de vives inquiétudes quant à la sécurité et à la surveillance des technologies d’IA puissantes.
-- Tl;dr Une faille de sécurité aurait permis à un acteur externe d’accéder à un modèle interne sensible chez Anthropic, via un prestataire tiers.
-- - L’intrusion ne viendrait pas d’un bug de l’IA mais d’une erreur de gestion des accès et de sécurité humaine.
+- ExpressVPN à -79% : le VPN premium vaut-il encore le prix en 2026 ?.
+- ExpressVPN à -79 % : analyse de l'offre 2026, fonctionnalités, tarifs et pertinence face à la concurrence.
+- Le VPN premium reste-t-il un bon choix?.
+- Une promotion qui change la donne sur le prix Avec cette remise importante sur les formules deux ans (+ quatre mois inclus), ExpressVPN cherche clairement à élargir son public.
 
-## [La <b>cybersécurité</b> au cœur d'une conférence du conseil de développement de Pornic agglo Pays de](https://nantes.maville.com/actu/actudet_-la-cybersecurite-au-coeur-d-une-conference-du-conseil-de-developpement-de-pornic-agglo-pays-de-retz-a-la-bernerie-en-retz-_dep-7294386_actu.Htm)  
-*Source : nantes.maville.com | Publication : 2026-04-25*
+## [La porte derobée - Creapills](https://creapills.com/agence/tenable-la-porte-derobee)  
+*Source : creapills.com | Publication : 2026-04-26*
 
-- À l’initiative de la commission chargée du numérique, pilotée par Maurice Bellamou, le conseil de développement de Pornic agglo pays de Retz propose une soirée sur le thème de la cybersécurité, mercredi 29 avril, à La Bernerie-en-Retz.
-- Une conférence sur la cybersécurité, ouverte à tous, est proposée mercredi 29 avril, à la salle des fêtes Olivier Hureau, rue Jeanne-d’Arc, La Bernerie-en-Retz.
-- L’objectif est de limiter les conséquences des attaques, explique Maurice Bellamou.
-- Membre au conseil de développement depuis bientôt six.
+- Creapills transforme pour Tenable une fausse boutique de fleurs en caméra cachée immersive, où chaque client expérimente concrètement ce qu’est une faille de cybersécurité.
+- Acteur de la cybersécurité, Tenable devait sensibiliser un public élargi, PME, grandes entreprises, hôpitaux, administrations, au risque des « portes dérobées », ces accès négligés par lesquels s’infiltrent la majorité des cyberattaques.
+- L’enjeu : transformer une menace technique et abstraite en prise de conscience viscérale, dans une catégorie où les discours froids et anxiogènes saturent l’attention des décideurs.
+- Creapills a imaginé « Backdoor Flower Shop », caméra cachée installée dans une fausse boutique nommée « Abel’s Flowers ».
 
-## [Inde : la ministre des Finances exhorte le régulateur à renforcer la concertation ... - Bourse](https://ch.zonebourse.com/actualite-bourse/inde-la-ministre-des-finances-exhorte-le-regulateur-a-renforcer-la-concertation-internationale-et-ce7f59dcd888f624)  
-*Source : ch.zonebourse.com | Publication : 2026-04-25*
+## [La police a arrêté HexDex, un cybercriminel ayant notamment piraté des fédérations sportives](https://incyber.org/article/police-arrete-hexdex-cybercriminel-ayant-notamment-pirate-federations-sportives/)  
+*Source : incyber.org | Publication : 2026-04-26*
 
-- 'Plus les cadres réglementaires (du Securities and Exchange Board of India) seront compris à l'étranger, plus la confiance des capitaux mondiaux envers les marchés indiens sera grande', a affirmé Mme Sitharaman lors d'un événement organisé par le SEBI à Mumbai.
-- Cette collaboration renforce le poids du régulateur dans l'élaboration des règles mondiales, a-t-elle ajouté.
-- La ministre a également insisté pour que l'autorité de tutelle contribue à la simplification des procédures de connaissance du client ('know-your-customer') pour l'ensemble des instruments financiers.
-- (Rédaction : Jayshree P Upadhyay à Mumbai ; Version française : Sai Ishwarbharath B à Bengaluru ; Édition : William Mallard).
+- La police a arrêté HexDex, un cybercriminel ayant notamment piraté des fédérations sportives Articles du même auteur : 1 26.04.26 Secops Google Cloud dévoile sa nouvelle stratégie de cybersécurité face à l’essor de l’IA Lire 02.
+- 3 4.
 
-## [Sensibiliser les étudiants à la <b>cybersécurité</b>. - Vietnam.vn](https://www.vietnam.vn/fr/nang-cao-nhan-thuc-an-toan-khong-gian-mang-cho-hoc-sinh)  
-*Source : vietnam.vn | Publication : 2026-04-25*
+## [Beaumont-de-Lomagne. <b>Cybercriminalité</b>: sociétaires mobilisés face aux arnaques](https://www.ladepeche.fr/2026/04/26/cybercriminalite-societaires-mobilises-face-aux-arnaques-13344247.php)  
+*Source : ladepeche.fr | Publication : 2026-04-26*
 
-- Durant ce programme, les étudiants ont reçu une formation et des conseils sur de nombreux sujets pratiques, tels que : l'identification des risques liés à la sécurité de l'information ; les compétences nécessaires pour utiliser les médias sociaux de manière responsable ; la protection des données personnelles ; et la prévention de la fraude en ligne.
-- Le programme intègre notamment des saynètes éducatives illustrant les fuites de données personnelles et les arnaques en ligne.
-- Cette présentation visuelle aide les élèves à identifier facilement les risques, à en tirer des leçons pratiques et contribue à les sensibiliser et à développer leurs compétences en matière d'autoprotection dans l'environnement numérique.
-- Cette activité est un moyen pratique de mettre en œuvre efficacement la transformation numérique auprès des jeunes, contribuant ainsi à former une génération de jeunes dynamiques, confiants et en sécurité à Thanh Khe à l'ère du numérique.
+- Beaumont-de-Lomagne.
+- Cybercriminalité: sociétaires mobilisés face aux arnaques La rencontre annuelle des sociétaires du Crédit Agricole s’est tenue à la salle des fêtes de Beaumont-de-Lomagne, sous la présidence de Jacques Biasotto, entouré de ses administrateurs.
+- Fidèles à ce rendez-vous, de nombreux participants avaient fait le déplacement pour un moment à la fois instructif et convivial.
+- Au cœur des échanges, la thématique de la cybercriminalité a particulièrement retenu l’attention.
 
-## [Landes : une jeune gendarme tire sur un homme violent armé d'un couteau - L'Essor](https://lessor.org/operationnel/landes-jeune-gendarme-tir-homme-violent-arme-couteau/)  
-*Source : lessor.org | Publication : 2026-04-25*
+## [Malik Si Mohammed, professeur et expert en TIC : «Maîtriser nos ressources numériques, c ...](https://www.jeune-independant.net/malik-si-mohammed-professeur-et-expert-en-tic-maitriser-nos-ressources-numeriques-cest-garantir-la-securite-de-la-nation/)  
+*Source : jeune-independant.net | Publication : 2026-04-26*
 
-- Face à un individu menaçant armé d’un couteau, l’issue aurait pu être fatale.
-- Mais la réactivité d’une gendarme des Landes, contrainte d’ouvrir le feu, a sans doute permis d’éviter le pire.
-- D’autant que le tir n’a fait que blesser l’agresseur.
-- Samedi 18 avril 2026, en fin d’après-midi, les gendarmes sont appelés à Pouydesseaux, dans le nord des Landes, pour des faits de violences intrafamiliales (VIF).
+- Sécurité numérique: » Une question de souveraineté », pour le professeur Malik Si Mohamed Cyberattaques, guerres de drones, luttes d’influence, course aux ressources stratégiques ; le monde change à une vitesse inédite et les menaces se réinventent en permanence.
+- Consciente de ces défis, l’Algérie s’est engagée à une transformation stratégique ambitieuse pour sécuriser son espace numérique à travers une série de mesures anticipatives.
+- Le Pr Malik Si Mohamed, expert international, analyse, dans cet entretien accordé au Jeune Indépendant, les nouveaux visages de la menace et décrypte les défis d’une cybersécurité désormais au cœur de la sécurité nationale.
+- Le Jeune Indépendant : Au regard des travaux du séminaire consacré aux « menaces extérieures dans un contexte de mutations géopolitiques et technologiques », quels sont, selon vous, les principaux enseignements à retenir pour la compréhension des nouvelles formes de cybermenace et leurs implications stratégiques ?.
+
+## [Le nombre de leurres d'enfants en ligne en hausse alors qu'une nouvelle loi est demandée](https://www.noovo.info/nouvelles/societe/article/le-nombre-de-leurres-denfants-en-ligne-en-hausse-alors-quune-nouvelle-loi-est-demandee/)  
+*Source : noovo.info | Publication : 2026-04-26*
+
+- Selon de nouvelles données de Statistique Canada, le nombre de cas de leurres d’enfants en ligne signalés à la police a augmenté de près de 20 % en 2025 par rapport à 2024.
+- Ce texte est une traduction d’un contenu de CTV News.
+- Le rapport souligne que le nombre total d’infractions liées à la cybercriminalité signalées à la police est resté relativement stable, avec un peu plus de 85 000 cas tant en 2024 qu’en 2025 — mais que les cas de «leurre d’enfant au moyen d’un ordinateur» sont passés de 2882 en 2024 à 3456 à la fin de 2025.
+- «En ce qui concerne ce type d’infractions, elles sont largement sous-déclarées», a affirmé Ritesh Kotak, analyste en cybersécurité et en technologies, lors d’une entrevue avec CTV News via Zoom samedi.
