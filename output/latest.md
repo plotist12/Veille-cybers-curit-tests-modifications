@@ -1,141 +1,145 @@
-# Résumés – 2026-04-28
+# Résumés – 2026-04-29
 
 
-## [Cameroun: Georges-Gilbert Baongla, 'le fils' aîné autoproclamé de Paul Biya, convoqué par ...](https://information.tv5monde.com/afrique/cameroun-georges-gilbert-baongla-le-fils-aine-autoproclame-de-paul-biya-convoque-par-la-gendarmerie-2819411)  
-*Source : information.tv5monde.com | Publication : 2026-04-28*
+## [<b>Cybersécurité</b> : sans réaction, les PME peuvent devenir la nouvelle faille de l'économie française !](https://www.beaboss.fr/digital-1074/cybersecurite-2020/cybersecurite-sans-reaction-les-pme-peuvent-devenir-la-nouvelle-faille-de-leconomie-francaise-54772)  
+*Source : beaboss.fr | Publication : 2026-04-29*
 
-- Georges-Gilbert Baongla, qui se présente publiquement comme le fils aîné du président camerounais Paul Biya, a été convoqué ce mardi 28 avril par la gendarmerie camerounaise.
-- Président du Parti Républicain et ancien directeur de publication, Georges-Gilbert Baongla est une figure médiatique et politique controversée au Cameroun.
-- Sur cette photo d'archive, le président camerounais Paul Biya, leader du Rassemblement démocratique du peuple camerounais (RDPC), attend de voter lors de l'élection présidentielle du 7 octobre 2018, à Yaoundé, au Cameroun.
-- Pour les observateurs de la vie politique camerounaise, la convocation par la gendarmerie de Georges-Gilbert Baongla ce mardi 28 avril, ses motivations et ses suites, restent un sujet de débat et d’attention.
+- C’est pourtant bien du cœur de l’économie française dont il est question.
+- Les PME et les ETI génèrent près de 50% de la valeur ajoutée du pays, soit environ 900 milliards d’euros.
+- En y ajoutant les microentreprises, cela représente 71,9% des emplois en équivalent temps plein (ETP).
+- On parle donc bel et bien du socle de l’activité économique française.
 
-## [Site Coco : enquête ouverte sur la réapparition du site internet sous un nouveau nom - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/site-coco-enquete-ouverte-sur-la-reapparition-du-site-internet-sous-un-nouveau-nom-28863201.php)  
-*Source : sudouest.fr | Publication : 2026-04-28*
+## [L'IA bouleverse la <b>cybersécurité</b> et entraîne des dégradations malgré une demande solide ...](https://fr.investing.com/news/analyst-ratings/lia-bouleverse-la-cybersecurite-et-entraine-des-degradations-malgre-une-demande-solide-3384646)  
+*Source : fr.investing.com | Publication : 2026-04-29*
 
-- Le parquet de Paris a confié à la gendarmerie des investigations sur la résurgence de la plateforme sous le nom de Cocoland, pourtant fermée en 2024 pour son implication dans de nombreuses affaires criminelles Une enquête a été ouverte sur la réapparition du site internet Coco, sous le nom de Cocoland, et confiée à l’unité cyber de la gendarmerie, a indiqué mardi le parquet de Paris.
-- Mi-avril, la haute-commissaire à l’Enfance Sarah el Haïry avait alerté sur la résurgence du site internet, fermé par la justice en 2024, accusé d’avoir facilité la commission d’agressions sexuelles et de guet-apens homophobes, notamment dans l’affaire Pelicot.
-- Le quotidien « Ouest France » avait révélé la réouverture du site, avec une nouvelle adresse URL et sous le nom de Cocoland.
+- Bien que les budgets de cybersécurité restent stables et connaissent même une croissance modeste, les entreprises sont désormais sous pression pour.
 
-## [NIST : comment l'organisme trie les failles pour éviter le chaos - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/04/28/le-nist-restructure-sa-base-nvd-cve/)  
-*Source : dcod.ch | Publication : 2026-04-28*
+## [<b>Cybersécurité</b> : Google veut infuser des agents IA de l'investigation à la remédiation](https://www.lemagit.fr/actualites/366642467/Cybersecurite-Google-veut-infuser-des-agents-IA-de-linvestigation-a-la-remediation)  
+*Source : lemagit.fr | Publication : 2026-04-29*
 
-- TL;DR : L’essentiel Les soumissions de vulnérabilités ont bondi d’un peu plus de 260% entre 2020 et 2025.
-- Cette hausse massive sature les capacités d’analyse habituelles de l’agence fédérale américaine.
-- - Le nouveau modèle de gestion privilégie désormais les failles exploitées et celles touchant les infrastructures critiques.
-- L’enrichissement des données devient sélectif pour assurer la pérennité du système.
+- Cybersécurité : Google veut infuser des agents IA de l’investigation à la remédiation Selon Google Cloud, si les attaquants utilisent l’IA, alors les défenseurs doivent faire de même.
+- C’est l’une des raisons du rachat de Wiz, assure Thomas Kurian, CEO de GCP.
+- Toutefois, les équipes du fournisseur ne semblent pas encore totalement d’accord concernant la remédiation automatique.
+- Lors de son événement Google Cloud Next 26 du 22 au 24 avril, le géant du cloud a multiplié les annonces consacrées à ses solutions de sécurité.
 
-## [Cyberattaque simulée : comment Egis a aidé un acteur clé du stationnement urbain à se préparer](https://www.egis-group.com/fr/articles/cyberattaque-simulee-comment-egis-a-aide-un-acteur-cle-du-stationnement-urbain-a-se-preparer)  
-*Source : egis-group.com | Publication : 2026-04-28*
+## [Protection des renseignements personnels et <b>cybersécurité</b> au Canada, aux États-Unis et ... - Fasken](https://www.fasken.com/fr/knowledge/2026/04/faskens-noteworthy-news-privacy-cybersecurity-in-canada-the-us-and-the-eu-april-2026)  
+*Source : fasken.com | Publication : 2026-04-29*
 
-- En 2025, 62 % des entreprises françaises ont subi au moins une cyberattaque, avec des coûts moyens estimés à 4,5 millions d’euros par incident (source : ANSSI).
-- Dans ce contexte, la préparation aux crises cyber n’est plus une option, mais une nécessité,notamment dans des secteurs critiques comme le contrôle du stationnement urbain.
-- L’objectif ?.
-- Tester la réactivité des équipes face à une attaque par ransomware ciblant un applicatif critique, et renforcer la coordination entre les différentes directions en situation d’urgence.
+- Ce bulletin mensuel a été préparé par le groupe Protection des renseignements confidentiels, vie privée et cybersécurité de Fasken pour vous présenter.
 
-## [Cyberattaque contre l'ANTS : des piratages en série qui révèlent les failles de sécurité de l'État](https://www.challenges.fr/la-verticale-cyber/cyberattaque-contre-lants-des-piratages-en-serie-qui-revelent-les-failles-de-securite-de-letat_643039)  
-*Source : challenges.fr | Publication : 2026-04-28*
-
-- Cyberattaque contre l’ANTS : des piratages en série qui révèlent les failles de sécurité de l’État France Travail, Urssaf, et même la très sensible ANTS en avril… Les attaques s’intensifient contre les services publics, touchant des millions de Français.
-- En cause, un laxisme dénoncé par les experts.
-- Près de 12 millions de comptes concernés, des profils complets dans la nature : la fuite ayant touché l’Agence nationale des titres sécurisés (ANTS), responsable de l’édition des permis de conduire, des passeports et des cartes d’identité, est d’ores et déjà l’une des plus importantes à avoir frappé l’Etat français.
-- Détectée le 15 avril, celle-ci a conduit à l’exfiltration des coordonnées personnelles des utilisateurs, parfois jusqu’aux adresses postales et aux numéros de téléphone.
-
-## [VECT 2.0 : <b>Ransomware</b> ou Wiper ? | LeMagIT](https://www.lemagit.fr/actualites/366642339/VECT-20-Ransomware-ou-Wiper)  
-*Source : lemagit.fr | Publication : 2026-04-28*
-
-- freshidea - stock.adobe.com VECT 2.0 : Ransomware ou Wiper ?.
-- Les chercheurs de Check Point ont découvert un défaut cryptographique dans l'outil de chiffrement de Vect, interdisant le déchiffrement des fichiers touchés dépassant une certaine taille.
-- Le malware VECT 2.0, bien que se présentant comme un programme de ransomware sophistiqué, recèle une faille fondamentale dans son moteur cryptographique.
-- Cette imperfection technique dégrade sa fonction de chiffrement pour en faire, dans la pratique, un outil de destruction de données (un wiper) touchant les actifs numériques essentiels.
-
-## [<b>Cybersécurité</b> hospitalière : un cadre de conformité renforcé | La Tribune de l'Assurance](https://tribune-assurance.optionfinance.fr/droit-technique/cybersecurite-hospitaliere-un-cadre-de-conformite-renforce.html)  
-*Source : tribune-assurance.optionfinance.fr | Publication : 2026-04-28*
-
-- Un an après qu’un rapport de la Cour des comptes a mis en lumière la fragilité des systèmes informatiques du monde hospitalier, l’enjeu n’est plus seulement technique mais juridique, organisationnel et économique.
-- Le 3 janvier 2025, la Cour des comptes publiait un rapport alarmant sur la vulnérabilité numérique des établissements de santé.
-- Si la menace n’a guère évolué en un an et demi, le cadre réglementaire s’est considérablement durci.
-- Les hôpitaux et établissements de santé demeurent toujours des cibles privilégiées des cyberattaques.
-
-## [CrowdStrike Falcon® Cloud Security : simplifiez les droits liés au cloud](https://www.crowdstrike.com/fr-fr/platform/cloud-security/ciem/)  
-*Source : crowdstrike.com | Publication : 2026-04-28*
-
-- Stoppez net les menaces liées à l'identité dans le cloud Sécurisez les identités cloud avec une visibilité granulaire et une application stricte dans tous les environnements.
-- Simplifiez les droits dans le cloud, sécurisez les identités Accès au cloud et contrôle des autorisations Bénéficiez d'une visibilité et d'un contrôle inégalés sur vos ressources cloud afin d'identifier rapidement les risques, tels qu'un MFA désactivé ou des autorisations excessives, grâce à des analyses en temps réel qui vous permettent d'intervenir efficacement en cas d'incident.
-- Éliminez les risques liés aux utilisateurs grâce à des règles précises basées sur les ressources.
-- Garantir le principe du privilège minimal dans les environnements multicloud Atténuez les risques grâce à des protocoles d'accès stricts dans tous les domaines cloud.
-
-## [CrowdStrike Falcon® Cloud Security : gestion des vulnérabilités dans le cloud](https://www.crowdstrike.com/fr-fr/platform/cloud-security/vulnerability-management/)  
-*Source : crowdstrike.com | Publication : 2026-04-28*
-
-- Vulnerability IQ pour le cloud Utilisez l'IA pour automatiser la détection, la priorisation et la correction des cybermenaces.
-- Corrigez ce qui compte dans le cloud Identifiez et corrigez rapidement les vulnérabilités dans le cloud grâce aux informations contextuelles, sans les tracas du scan.
-- Contrôlez et limitez votre surface d'attaque Falcon Cloud Security révèle les vulnérabilités dans votre cloud et vos workloads.
-- Obtenez une vue contextuelle riche dans les applications, les comptes et les systèmes, tout en assurant une détection des cybermenaces 24 h/24 pour protéger efficacement vos assets numériques.
-
-## [Polocom : la police démantèle l'Amazon des criminels - JDD](https://www.lejdd.fr/Societe/brouilleurs-kits-despionnage-boitiers-de-piratage-automobile-la-police-demantele-lamazon-des-criminels-172626)  
-*Source : lejdd.fr | Publication : 2026-04-28*
-
-- destinés à un usage criminel ont été interpellés par les forces de l'ordre après une enquête de la brigade de lutte contre la cybercriminalité.
-
-## [Vols de données : un phénomène massif commis par des pirates de plus en plus jeunes](https://www.lefigaro.fr/faits-divers/vols-de-donnees-un-phenomene-massif-commis-par-des-pirates-de-plus-en-plus-jeunes-20260428)  
-*Source : lefigaro.fr | Publication : 2026-04-28*
-
-- Vols de données : un phénomène massif commis par des pirates de plus en plus jeunes Le vol de données connaît une explosion sans précédent en France.
-- Selon une note confidentielle de la police, cette menace alimente de multiples formes de criminalité et s’appuie de plus en plus sur de jeunes hackers, souvent mineurs, aux motivations mêlant profit et quête de notoriété.
-- Passer la publicité Passer la publicitéUne soixantaine de fédérations sportives, le ministère de l’Intérieur, l’Éducation nationale, l’ANTS.
-- Le vol de données est «un phénomène massif catalyseur de multiples formes de criminalité», selon une analyse de la police consultée par l’AFP.
-
-## [Google Cloud Next 2026 (Partie 3) : Vers une <b>cybersécurité</b> agentique - ITforBusiness.fr](https://www.itforbusiness.fr/google-cloud-next-2026-partie-3-vers-une-cybersecurite-agentique-102896)  
-*Source : itforbusiness.fr | Publication : 2026-04-28*
-
-- Cloud Google Cloud Next 2026 (Partie 3) : Vers une cybersécurité agentique Par Laurent Delattre, publié le 28 avril 2026 La conférence Google Cloud Next 2026 a sans doute été l’édition la plus dense jamais orchestrée par l’hyperscaler, avec 260 annonces.
-- Au-delà de la nouvelle plateforme agentique et de la refonte de l’infrastructure sous-jacente, l’éditeur a aussi livré une pile cybersécurité entièrement remaniée pour faire face à la fois aux attaques accélérées par l’IA et aux risques inédits introduits par les agents autonomes.
-- Décryptage de ce qui s’apparente à une nouvelle doctrine cyber, dans laquelle la frontière entre IA et sécurité s’estompe.
-- Les deux premières parties de notre compte rendu de Google Cloud Next 2026 (ici et ici) ont décrit la mécanique applicative et matérielle d’une entreprise désormais conçue pour fonctionner avec des flottes d’agents IA.
-
-## [Le moment est venu pour les territoires d'organiser leur sécurité numérique !](https://www.lagazettedescommunes.com/1032238/le-moment-est-venu-pour-les-territoires-dorganiser-leur-securite-numerique/)  
-*Source : lagazettedescommunes.com | Publication : 2026-04-28*
-
-- Alors que s'ouvre un nouveau mandat et que la directive NIS2 se précise, la cybersécurité n'est plus une option technique mais un pilier de la.
-
-## [Equipements télécoms : le breton Ekinops retrouve des couleurs - Les Echos](https://www.lesechos.fr/pme-regions/bretagne/equipements-telecoms-le-breton-ekinops-retrouve-des-couleurs-2228940)  
-*Source : lesechos.fr | Publication : 2026-04-28*
-
-- Après un recul de 11 % de son chiffre d'affaires en 2025, le fournisseur de solutions de réseaux optiques et de cybersécurité basé à Lannion, dans les.
-
-## [&quot;It's a world of young men fueled by ego&quot;: a deep dive into hacking - YouTube](https://www.youtube.com/watch?v=9_cByasJ2i8)  
-*Source : youtube.com | Publication : 2026-04-28*
+## [Ta Smart TV t'espionne 24/7 (même éteinte) : les preuves de la CNIL - YouTube](https://www.youtube.com/watch?v=XEalxotHP64)  
+*Source : youtube.com | Publication : 2026-04-29*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Wallix affine son image en Allemagne - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64784-wallix-affine-son-image-en-allemagne.html)  
-*Source : linformaticien.com | Publication : 2026-04-28*
+## [ClawSwarm : le piège qui transforme vos agents IA en travailleurs fantômes d'une économie crypto](https://www.numerama.com/cyberguerre/2243281-clawswarm-le-piege-qui-transforme-vos-agents-ia-en-travailleurs-fantomes-dune-economie-crypto.html)  
+*Source : numerama.com | Publication : 2026-04-29*
 
-- WALLIX annonce son adhésion à l'association allemande de la sécurité informatique TeleTrusT ainsi que sa participation à l'Alliance for Cyber Security.
+- Pour comprendre cette affaire, il faut d’abord saisir comment on « booste » un agent IA.
+- Contrairement à un simple chatbot, un agent IA a pour rôle d’agir de manière autonome : naviguer sur le web, exécuter du code, gérer des fichiers ou interagir avec des services externes.
+- Et pour décupler ces capacités, on peut le doter de « skills », des modules complémentaires comparables aux extensions d’un navigateur.
+- Une fois installés, ils lui permettent d’accomplir de nouvelles tâches.
 
-## [Des formations pour préparer les entreprises à NIS 2 et REC - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/64785-des-formations-pour-preparer-les-entreprises-a-nis-2-et-rec.html)  
-*Source : linformaticien.com | Publication : 2026-04-28*
+## [À Charleroi, la <b>cybercriminalité</b> explose : pourquoi personne n'est à l'abri de perdre des ...](https://www.sudinfo.be/id1144776/article/2026-04-28/charleroi-la-cybercriminalite-explose-pourquoi-personne-nest-labri-de-perdre-des)  
+*Source : sudinfo.be | Publication : 2026-04-29*
 
-- Ransomware : les jours d'après · Cybersécurité · Des formations pour ... cybersécurité et de résilience.
-- Proposées dans le cadre d'Axis Academy.
+- La cybercriminalité progresse, et le phishing inquiète davantage la police à Charleroi.
+- Appels, SMS, mails ou réseaux sociaux, les escrocs.
 
-## [SilentGlass, le boîtier du NCSC britannique qui bloque les attaques par câble HDMI](https://korben.info/silentglass-le-boitier-du-ncsc-britannique-qui-bloque-les-attaques-par-cable-hdmi.html)  
-*Source : korben.info | Publication : 2026-04-28*
+## [Il n'a pas hacké le code… il a hacké la confiance - YouTube](https://www.youtube.com/watch?v=7oi6_nA9C94)  
+*Source : youtube.com | Publication : 2026-04-29*
 
-- Le NCSC, l'agence de cybersécurité du Royaume-Uni rattachée au GCHQ (l'équivalent britannique de la NSA américaine, qui s'occupe du renseignement.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Une automatisation fluide et sécurisée pour une bière de renommée mondiale - Siemens](https://www.siemens.com/fr-fr/company/insights/success-stories/bundaberg-automation-cybersecurity/)  
-*Source : siemens.com | Publication : 2026-04-28*
+## [Open-source : L'ANSSI maintient le projet Keysas et en transfère la maintenance à la société Tyrex](https://cyber.gouv.fr/actualites/open-source-lanssi-maintient-le-projet-keysas-et-en-transfère-la-maintenance-à-la-société-tyrex/)  
+*Source : cyber.gouv.fr | Publication : 2026-04-29*
 
-- Quand le soleil brille, rien n'est comparable au goût distinctif de la bière au gingembre Bundaberg.
-- Pour les Australiens, il ne s'agit pas d'une simple boisson gazeuse comme les autres, mais d'une boisson originale brassée artisanalement, à base de vrai gingembre et selon des techniques traditionnelles de brassage lent qui ont été perfectionnées au fil de quatre générations de membres de la famille.
-- Chaque bouteille reflète un équilibre rare entre tradition et innovation, soutenu par une automatisation avancée et une cybersécurité qui sous-tendent l'engagement de Bundaberg en matière de qualité et de sécurité.
-- Bundaberg Brewed Drinks est fière d'être une entreprise familiale et exerce ses activités dans la ville éponyme du Queensland, en Australie.
+- Open-source : L’ANSSI maintient le projet Keysas et en transfère la maintenance à la société Tyrex Publié le mercredi 29 avril 2026 Développé par l’ANSSI dans le cadre de ses travaux et mis à disposition de tous en open-source depuis plusieurs années, (Ouvre une nouvelle fenêtre) le projet Keysas est un prototype de « station blanche », c’est-à-dire d’une station de décontamination de fichiers.
+- Cet outil que tout a chacun peut utiliser permet de vérifier la sécurité de documents provenant de sources peu sûres, ou d’agir comme passerelle pour transférer des fichiers non fiables vers des réseaux de sécurité supérieur.
+- Le projet Keysas se veut un démonstrateur de l’état de l’art en développement Rust, appliqué à une station blanche.
+- L’ANSSI n’ayant pas pour mission première d’éditer et de maintenir des logiciels, elle a décidé de transférer la maintenance du projet Keysas à la société Tyrex afin d’en assurer la pérennité.
 
-## [Cyberattaques : Sébastien Lecornu se rendra jeudi à l'ANTS - Alliancy](https://www.alliancy.fr/cyberattaques-sebastien-lecornu-se-rendra-jeudi-a-lants-365e9d89-b669-4bc6-b138-c01178947610)  
-*Source : alliancy.fr | Publication : 2026-04-28*
+## [<b>Cybersécurité</b>: la fin de la confiance implicite? - Cominmag.ch](https://cominmag.ch/cybersecurite-la-fin-de-la-confiance-implicite/)  
+*Source : cominmag.ch | Publication : 2026-04-29*
 
-- Cyberattaques : Sébastien Lecornu se rendra jeudi à l'ANTS Le Premier ministre Sébastien Lecornu se rendra jeudi dans les locaux de l'Agence nationale des titres sécurisés (ANTS), frappée le 15 avril par une fuite massive de données, pour faire "de nouvelles annonces" en matière de lutte contre les cyberattaques, a annoncé Matignon mardi.
-- Publié à 8h08 Lecture 2 min.
-- Les données de près de 12 millions de particuliers et de professionnels ont été concernées par cette attaque, avait annoncé le ministère de l'Intérieur.
-- L'ANTS qui gère les demandes de pièces d'identité, avait fait état de fuites de "données à caractère personnel", notamment les noms et prénoms, l'adresse électronique ou la date de naissance d'usagers.
+- Cybersécurité: la fin de la confiance implicite?.
+- La cybersécurité entre dans une nouvelle phase.
+- Longtemps structurée autour de périmètres techniques et de dispositifs de protection, elle est aujourd’hui confrontée à une transformation plus profonde: la remise en cause du principe même de confiance dans les systèmes numériques.
+- À mesure que les architectures se complexifient, que les dépendances se multiplient et que les technologies disruptives s’imposent, la sécurité ne peut plus être présumée.
+
+## [Les industriels se doivent d'équilibrer <b>cybersécurité</b> et transformation numérique](https://www.journaldunet.com/cybersecurite/1549931-les-industriels-se-doivent-d-equilibrer-cybersecurite-et-transformation-numerique/)  
+*Source : journaldunet.com | Publication : 2026-04-29*
+
+- Les industriels se doivent d'équilibrer cybersécurité et transformation numérique La nouvelle profusion d'appareils connectés et d'accès fournisseurs dans l'industrie fait naître de nouvelles vulnérabilités à adresser en urgence.
+- Pour augmenter productivité et sécurité, les industriels adoptent l’industrie 4.0 et accélèrent leur modernisation.
+- Cependant, de nouvelles vulnérabilités de sécurité sont introduites avec chaque appareil connecté supplémentaire et chaque nouvelle intégration de fournisseur.
+- Qu’est-ce que la transformation numérique ?.
+
+## [GPT-5.4-Cyber : OpenAI tente de rattraper Anthropic sur la <b>cybersécurité</b>](https://dcod.ch/2026/04/29/gpt-5-4-cyber-openai/)  
+*Source : dcod.ch | Publication : 2026-04-29*
+
+- TL;DR : L’essentiel GPT-5.4-Cyber permet désormais aux experts d’analyser des programmes compilés sans accéder au code source.
+- Cette avancée technique facilite la détection immédiate de logiciels malveillants cachés dans les systèmes critiques du monde entier.
+- - Le programme Trusted Access for Cyber impose une vérification d’identité rigoureuse pour chaque utilisateur.
+- Cette barrière garantit que les fonctionnalités de défense les plus puissantes restent exclusivement entre les mains de profils certifiés.
+
+## [Vertiv s'offre Strategic Thermal Labs - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/64788-vertiv-s-offre-strategic-thermal-labs.html)  
+*Source : linformaticien.com | Publication : 2026-04-29*
+
+- Le spécialiste des infrastructures numériques critiques Vertiv annonce le rachat de Strategic Thermal Labs, une entreprise experte en.
+
+## [ClickFix et l'exploitation du geste de confiance de l'utilisateu - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/clickfix-et-lexploitation-du-geste-de-confiance-de-lutilisateur-226976/amp)  
+*Source : silicon.fr | Publication : 2026-04-29*
+
+- La technique ClickFix s’est imposée en 2025 comme une méthode d’attaque prépondérante, adoptée par un large spectre d’acteurs malveillants, allant des cybercriminels à motivation financière aux groupes étatiques, et ce pour plusieurs raisons : peu d’investissement technique, une forte réutilisabilité des kits et une automatisation poussée de la production de pages malveillantes maximisent le rendement par campagne.
+- En capitalisant sur des interfaces familières (CAPTCHA, écrans de mise à jour, pages de sécurité factices) et sur des actions réalisées par l’utilisateur lui-même, ClickFix contourne une partie des contrôles défensifs traditionnels et améliore le taux de conversion des attaques en accès effectifs au système, ce qui en fait un vecteur particulièrement attractif dans une logique de marché cybercriminel industrialisé.
+- Cette méthode d’ingénierie sociale consiste à tromper l’utilisateur pour qu’il exécute lui-même des commandes malveillantes, en exploitant sa confiance ou sa volonté de résoudre un problème technique apparent, souvent par le biais de faux CAPTCHA ou de prétendues vérifications de sécurité.
+- Le mode opératoire débute par une phase de leurre, disséminée via des campagnes de phishing, de la publicité malveillante (malvertising), ou des sites légitimes compromis.
+
+## [Ingénieur <b>cybersécurité</b> – analyse de risques H/F - Choisir le service public](https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-cybersecurite--analyse-de-risques-hf-reference-2026-2266576/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2026-04-29*
+
+- Ingénieur cybersécurité – analyse de risques H/F Référence : 2026-2266576 Fonction publique : Fonction publique de l'État - Employeur : Direction de l'Information Légale et Administrative (DILA) La direction de l'information légale et administrative (DILA) est une direction d'administration centrale des services du Premier ministre.
+- - Localisation : 26 Rue Desaix, 75015 Paris, France - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Expert - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie A (cadre) - Management Non - Télétravail possible Oui - Vos missions en quelques mots Au sein du département, la cellule « Sécurité des SI » est chargée de mettre en œuvre la politique de sécurité des systèmes d’information de l’Etat (PSSIE) dans sa déclinaison DILA et de veiller à son application.
+- Elle organise les travaux d’homologation RGS (référentiel général de sécurité) des infrastructures et applications, en s’appuyant sur des analyses de risques, des audits de configurations et de code ainsi que sur des tests d’intrusion.
+
+## [Participation de l'ANAC Gabon à un atelier stratégique de <b>cybersécurité</b> à l'ANINF, dans le ...](https://anacgabon.org/participation-de-lanac-gabon-a-un-atelier-strategique-de-cybersecurite-a-laninf-dans-le-cadre-de-la-cooperation-gabon-etats-unis/)  
+*Source : anacgabon.org | Publication : 2026-04-29*
+
+- Dans le cadre du renforcement de la cybersécurité nationale, l’Agence Nationale de l’Aviation Civile (ANAC Gabon) a pris part à un atelier stratégique organisé du 20 au 24 avril 2026 à la Tour de l’ANINF à Libreville.
+- Cet atelier s’inscrit dans le cadre de la coopération entre la République Gabonaise et les États-Unis d’Amérique, avec l’appui de la société MITRE Corporation, experte de référence dans le domaine de la cybersécurité.
+- Sur instruction du Directeur Général de l’ANAC, le Général de Division Éric Tristan Franck MOUSSAVOU, une délégation de l’institution a activement participé aux travaux.
+- L’ANAC était représentée à cet atelier par trois agents de son Service Informatique.
+
+## [Un étudiant de TELECOM Nancy s'illustre à nouveau avec la 1ère place d'une compétition ...](https://factuel.univ-lorraine.fr/article/un-etudiant-de-telecom-nancy-sillustre-a-nouveau-avec-la-1ere-place-dune-competition-de-cybersecurite-au-canada/)  
+*Source : factuel.univ-lorraine.fr | Publication : 2026-04-29*
+
+- Temps de lecture : 3 minutes Lors du CTF Saguenay organisé par l’Université du Québec à Chicoutimi (UQAC), Cédric Lin, étudiant en spécialité cybersécurité à TELECOM Nancy actuellement en mobilité internationale, a décroché avec son équipe la première place de la compétition.
+- Une victoire technique dans un contexte international Organisé en partenariat avec la chaire de recherche en cyberdéfense et protection des données personnelles (CybPro), cet événement a rassemblé plus de 80 participants autour de défis techniques variés : sécurité web, exploitation système, reverse engineering, intelligence artificielle et OSINT.
+- L’équipe s’est imposée avec un score de 10 323 points, se détachant du reste du classement pour remporter la victoire finale.
+- Cette édition se distinguait notamment par l’intégration de défis liés à l’intelligence artificielle, un domaine en pleine expansion dans le monde de la cybersécurité.
+
+## [<b>Cybersécurité</b> : un nouveau bac pro à Chambéry | RCF Savoie](https://www.rcf.fr/articles/actualite/cybersecurite-un-nouveau-bac-pro-a-chambery)  
+*Source : rcf.fr | Publication : 2026-04-29*
+
+- Cybersécurité : un nouveau bac pro à Chambéry Faites-vous partie des douze millions de Français concernés par la fuite de vos données personnelles, après la cyberattaque de l’ANTS ?.
+- Depuis janvier, le site Fuites infos recense plus de 250 vols de données d'utilisateurs.
+- À Chambéry, un bac pro "hacker" a été inauguré au lycée Gaspard Monge.
+- Dès septembre, quinze élèves seront formés à la protection de nos données.
+
+## [Une faille critique de FortiClient EMS est exploitée activement, 51 IP attaquantes en une semaine](https://itsocial.fr/cybersecurite/cybersecurite-actualites/une-faille-critique-de-forticlient-ems-est-exploitee-activement-51-ip-attaquantes-recensees-en-une-semaine/)  
+*Source : itsocial.fr | Publication : 2026-04-29*
+
+- Une injection SQL non authentifiée dans FortiClient EMS 7.4.4 est activement exploitée.
+- En quelques jours, 51 adresses IP distinctes ont lancé des tentatives d’exploitation identifiées par le réseau CrowdSec.
+- La disponibilité d’un code de preuve de concept public et l’inscription au catalogue KEV de la CISA rendent la remédiation urgente.
+- Référencée CVE-2026-21643 avec un score CVSS de 9,1, cette faille frappe la console centrale d’administration des postes Fortinet, le nœud à partir duquel les équipes IT pilotent la protection des endpoints, les profils VPN et les politiques de conformité à l’échelle du parc.
+
+## [Osmose - <b>cybersécurité</b> en Occitanie - LinkedIn](https://fr.linkedin.com/showcase/osmose-cybersécurité-en-occitanie/)  
+*Source : fr.linkedin.com | Publication : 2026-04-29*
+
+- Bienvenue sur la page du projet OSMOSE !.
+- Déployé sur 5 ans et porté par 21 partenaires, OSMOSE vise à renforcer les compétences en cybersécurité en Occitanie et à répondre aux besoins croissants des entreprises.
+- 4 ambitions clés : 🎓 Développer des formations pour tous les publics, du secondaire au doctorat 👨🏫 Structurer un réseau de formateurs en cybersécurité 💻 Déployer des outils pédagogiques innovants (dont un cyber range) 📣 Renforcer l’attractivité des métiers et favoriser la féminisation de la filière 🚀 Une dynamique collective au service des talents et des enjeux numériques du territoire.
+- Suivez la page pour découvrir les actions du projet !.
