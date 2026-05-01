@@ -1,154 +1,155 @@
-# Résumés – 2026-04-30
+# Résumés – 2026-05-01
 
 
-## [France: un mineur de 15 ans soupçonné d'être le hackeur derrière la fuite massive de ...](https://www.rfi.fr/fr/france/20260430-france-un-mineur-de-15-ans-soupçonné-d-être-le-hackeur-derrière-la-fuite-massive-de-données-d-identité)  
-*Source : rfi.fr | Publication : 2026-04-30*
+## [Dossier santé numérique : feu vert du ministère de la <b>Cybersécurité</b> - Radio-Canada](https://ici.radio-canada.ca/info/videos/1-10656538/dossier-sante-numerique-feu-vert-ministere-cybersecurite)  
+*Source : ici.radio-canada.ca | Publication : 2026-05-01*
 
-- France: un mineur de 15 ans soupçonné d'être le hackeur derrière la fuite massive de données d'identité Un mineur de 15 ans a été interpellé dans l'enquête sur l'attaque informatique ayant visé le portail de l'Agence nationale des titres sécurisés (ANTS), dont le Premier ministre Sébastien Lecornu a visité les locaux jeudi 30 avril, annonçant le déblocage de 200 millions d'euros afin de « remettre des moyens » en matière de cyber.
-- Publié le : Le mineur de 15 ans, soupçonné d’être le hackeur « breach3d », a été arrêté le 25 avril, placé en garde à vue, avant la saisine de juges d’instruction mercredi 29 avril, a détaillé la procureure de Paris, Laure Beccuau, dans un communiqué.
-- Sa mise en examen et son placement sous contrôle judiciaire ont été requis par le parquet pour ces faits constitutifs notamment « d’atteintes (accès, maintien, extraction, transmission, détention, entrave au fonctionnement) à un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État », a précisé Laure Beccuau.
-- Les délits visés font encourir jusqu’à sept ans de prison et 300 000 euros d’amende.
+- 3:44 Dossier santé numérique : feu vert du ministère de la Cybersécurité Après Santé Québec, le ministère de la Cybersécurité et du Numérique s’apprête aussi à donner le feu vert au déploiement du Dossier de santé numérique (DSN).
+- Dès le 9 mai, le DSN sera implanté dans le Nord-de-l’Île-de-Montréal et en Mauricie–Centre-du-Québec.
+- Mais des inquiétudes persistent : le mois dernier, l’ex-ministre Gilles Bélanger a soulevé des doutes sur la sécurité des données.
+- Avait-il raison?.
 
-## [ManageEngine intègre Log360 à Bitdefender GravityZone pour une corrélation SIEM-EDR ...](https://itsocial.fr/cybersecurite/cybersecurite-actualites/manageengine-integre-log360-a-bitdefender-gravityzone-pour-une-correlation-siem-edr-sans-rupture-de-flux-pour-les-msp/)  
-*Source : itsocial.fr | Publication : 2026-04-30*
+## [Intelligence artificielle : GPT-5.5, le nouveau modèle « <b>cybersécurité</b> » d'OpenAI, rivalise ...](https://www.leparisien.fr/high-tech/intelligence-artificielle-gpt-55-le-nouveau-modele-cybersecurite-dopenai-rivalise-avec-claude-mythos-01-05-2026-OIEU53P72FG7FMAIGS75A4ZQYI.php)  
+*Source : leparisien.fr | Publication : 2026-05-01*
 
-- ManageEngine intègre Log360, sa plateforme SIEM, à Bitdefender GravityZone pour corréler les alertes EDR avec le contexte réseau, les schémas d'authentification et l'activité des utilisateurs au sein d'un flux de travail unifié.
-- Annoncée lors du ManageEngine MSP Summit France à Paris, l'intégration cible les équipes MSP confrontées à la dispersion de leurs données de sécurité entre outils déconnectés.
-- La rétention étendue des journaux Bitdefender dans le SIEM répond par ailleurs aux obligations de traçabilité NIS2 et aux exigences d'investigation à long terme.
-- Selon le rapport ENISA 2025 sur le paysage des menaces, l'exploitation des vulnérabilités représente 21,3 % des vecteurs d'intrusion initiaux, avec des campagnes capables de transformer une faille en arme en quelques jours après sa divulgation.
+- Le nouvel outil « cybersécurité » développé par OpenAI serait aussi redoutable que Mythos, selon une agence britannique.
+- Son déploiement sur le.
 
-## [ANTS: un jeune de 15 ans soupçonné d'être l'auteur de la fuite de données - France 24](https://www.france24.com/fr/info-en-continu/20260430-ants-un-jeune-de-15-ans-soupçonné-d-être-l-auteur-de-la-fuite-de-données)  
-*Source : france24.com | Publication : 2026-04-30*
+## [Multicloud : pari stratégique pour PME et ETI françaises](https://www.informatiquenews.fr/le-multicloud-une-opportunite-strategique-pour-les-pme-et-eti-francaises-entre-promesses-et-defis-111265)  
+*Source : informatiquenews.fr | Publication : 2026-05-01*
 
-- ANTS: un jeune de 15 ans soupçonné d'être l'auteur de la fuite de données Paris (France) (AFP) – Un mineur de 15 ans a été interpellé dans l'enquête sur l'attaque informatique ayant visé le portail de l'Agence nationale des titres sécurisés (ANTS) dont le Premier ministre Sébastien Lecornu a visité les locaux jeudi, annonçant le déblocage de 200 millions d'euros afin de "remettre des moyens" en matière de cyber.
-- Publié le : La semaine dernière, c'est un jeune homme de 21 ans, soupçonné d'être derrière une avalanche de piratages de sites de fédérations sportives, de l’Éducation nationale ou de répertoires d'armes de particuliers, qui avait été mis en examen et écroué.
+- Le cloud, et plus encore le multicloud, s’impose aujourd’hui comme un levier de compétitivité incontournable pour les petites et moyennes entreprises françaises L’exemple de Daily Solution, éditeur français de logiciels de gestion de flotte, est à cet égard éloquent.
+- Lors d’un échange que j’ai eu la chance d’avoir récemment avec cette startup pendant une conférence où nous étions sur scène avec deux autres grands groupes américains de la tech, IBM et HYCU, celle-ci décrivait une migration réussie depuis AWS vers plusieurs hébergeurs européens, orchestrée grâce à une couche d’abstraction permettant d’agréger des serveurs de provenances diverses.
+- Les bénéfices sont tangibles : une facture divisée par six, des performances brutes équivalentes, une résilience renforcée par la distribution géographique des services, et surtout un affranchissement du verrouillage technologique (vendor lock-in) qui menace toute entreprise trop dépendante d’un seul hyperscaler.
+- Pour une PME ou une ETI, le multicloud représente ainsi une triple promesse : maîtrise des coûts, souveraineté sur les données, un argument de plus en plus décisif auprès des clients français, et continuité d’activité en cas de défaillance d’un fournisseur.
+
+## [<b>Cybersécurité</b> en France : 200 millions d'euros pour protéger les données personnelles](https://www.e-works.fr/blog/cybersecurite-en-france-200-millions-deuros-pour-proteger-les-donnees-personnelles/)  
+*Source : e-works.fr | Publication : 2026-05-01*
+
+- Face à la montée des cyberattaques, le Premier ministre Sébastien Lecornu a décidé de prendre des mesures fortes pour renforcer la sécurité numérique en France.
+- Avec un investissement de 200 millions d’euros, l’objectif est de mieux protéger les informations personnelles des citoyens.
+- Quelles sont les nouvelles directives et comment seront-elles appliquées ?.
+- L’essentiel à retenir Deux semaines après le piratage de l’Agence Nationale des Titres Sécurisés (ANTS), le Premier ministre a annoncé un plan d’action pour contrer les cyberattaques.
+
+## [Chronique techno : <b>cybersécurité</b> à l'ère de l'IA, votre cerveau est-il encore l'angle mort?](https://www.journaldechambly.com/actualite/chronique-techno-cybersecurite-a-lere-de-lia-votre-cerveau-est-il-encore-langle-mort/)  
+*Source : journaldechambly.com | Publication : 2026-05-01*
+
+- Chronique techno : cybersécurité à l’ère de l’IA, votre cerveau est-il encore l’angle mort?.
+- Il y a quelques années, on apprenait à repérer un courriel d’hameçonnage à ses fautes d’orthographe et à ses formulations maladroites.
+- Aujourd’hui, ce réflexe est devenu obsolète.
+- L’intelligence artificielle générative a bouleversé les règles du jeu et notre cerveau, lui, n’a pas évolué à la même vitesse.
+
+## [Credential stuffing en 2025 : Une industrie du piratage à grande échelle - Panda Security](https://www.pandasecurity.com/fr/mediacenter/credential-stuffing-2025-piratage-grande-echelle/)  
+*Source : pandasecurity.com | Publication : 2026-05-01*
+
+- Le credential stuffing est devenu l’une des méthodes d’attaque les plus utilisées au monde.
+- En 2025, il ne s’agit plus d’une simple méthode occasionnel, mais d’un véritable système structuré, alimenté par des outils automatiques, des bases de données massives et une économie secrète bien organisée.
+- Aujourd’hui, les cybercriminels n’ont plus besoin de pirater directement un système.
+- Il leur suffit d’exploiter des comptes déjà compromis pour accéder à des comptes à grande échelle.
+
+## [Un mineur de 15 ans a été interpellé à Bastia dans l'enquête sur l'attaque informatique du ...](https://www.corsenetinfos.corsica/Un-mineur-de-15-ans-a-ete-interpelle-a-Bastia-dans-l-enquete-sur-l-attaque-informatique-du-portail-de-l-ANTS_a90455.html)  
+*Source : corsenetinfos.corsica | Publication : 2026-05-01*
+
 - Le mineur de 15 ans, soupçonné d'être le hacker "breach3d", a été arrêté le 25 avril, placé en garde à vue, avant la saisine de juges d'instruction mercredi, a détaillé la procureure de Paris, Laure Beccuau, dans un communiqué.
-- Sa mise en examen et son placement sous contrôle judiciaire ont été requis par le parquet pour ces faits constitutifs notamment "d'atteintes (accès, maintien, extraction, transmission, détention, entrave au fonctionnement) à un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État", a précisé Mme Beccuau.
+- Selon les informations du service police-justice de TF1-LC I, le mineur soupçonné d'être le hacker derrière ce pseudo était déjà dans le collimateur des enquêteurs de l'Office anti-cybercriminalité (OFAC) dans un autre dossier.
+- Il est âgé de tout juste 15 ans et vit en Corse chez ses parents.
+- Sur ses réseaux, il se définit lui-même comme un passionné de “"cybersécurité"”.
 
-## [<b>Cybersécurité</b>: face à une 'situation assez grave' Lecornu annonce une 'doctrine de ... - LCP](https://lcp.fr/actualites/cybersecurite-face-a-une-situation-assez-grave-lecornu-annonce-une-doctrine-de)  
-*Source : lcp.fr | Publication : 2026-04-30*
+## [<b>Cybersecurité</b> : Washington envisage de réduire les délais de correction face aux risques ... - Bourse](https://ch.zonebourse.com/actualite-bourse/cybersecurite-washington-envisage-de-reduire-les-delais-de-correction-face-aux-risques-de-piratage-ce7f58d9df8cff23)  
+*Source : ch.zonebourse.com | Publication : 2026-05-01*
 
-- Evoquant une "situation assez grave", le Premier ministre a dévoilé, ce jeudi 30 avril, des mesures visant à mieux sécuriser les données numériques de l'Etat.
-- Ces annonces interviennent deux semaines après la fuite ayant touché près de 12 millions de comptes sur le portail qui gère les demandes de pièces d’identité.
-- "Un casse du siècle pratiquement tous les mois".
-- En visite ce jeudi dans les locaux de l'Agence nationale des titres sécurisés (ANTS), frappée le 15 avril dernier par une fuite massive de données, le Premier ministre, Sébastien Lecornu, a dit sa détermination à élaborer une "doctrine de protection" face aux cyberattaques qui visent l'Etat.
+- Les autorités américaines de la cybersécurité envisagent de réduire drastiquement les délais impartis pour corriger les failles critiques des systèmes informatiques gouvernementaux.
+- Cette mesure intervient alors que l&#039;on craint que des pirates n&#039;exploitent ces vulnérabilités via des outils d&#039;intelligence artificielle tels que Mythos d&#039;Anthropic, selon des sources proches du dossier.
+- Cette initiative, qui n&#039;avait pas été divulguée jusqu&#039;alors, ramènerait le délai de réponse aux vulnérabilités activement exploitées de deux ou trois semaines en moyenne à seulement trois jours, ont précisé ces sources.
+- L&#039;inquiétude face à la puissance et à la prolifération de modèles d&#039;IA comme Mythos et GPT-5.4-Cyber d&#039;OpenAI s&#039;intensifie depuis plusieurs semaines.
 
-## [<b>Cybersécurité</b> : le Premier ministre annonce un plan d'action pour renforcer la protection ...](http://www.gouvernement.fr/actualite/cybersecurite-le-premier-ministre-annonce-un-plan-d-action-pour-renforcer-la-protection-numerique-de-l-etat)  
-*Source : gouvernement.fr | Publication : 2026-04-30*
+## [Le Cambodge comparé à la Corée du Nord pour son rôle dans la <b>cybercriminalité</b> crypto](https://cryptonaute.fr/cambodge-coree-nord-cybercriminalite-crypto/)  
+*Source : cryptonaute.fr | Publication : 2026-05-01*
 
-- les cybermenaces pesant sur les entreprises et les collectivités se multiplient.
-- Pour les aider, l'État a lancé MesServicesCyber, une plateforme.
+- En l’espace de quelques semaines d’avril 2026 – 577 millions de dollars dérobés par des hackers nord-coréens lors de deux attaques chirurgicales représentant 76 % de l’ensemble des pertes crypto mondiales par piratage depuis le début de l’année, selon TRM Labs – un sénateur cambodgien en exercice, Kok An, et 28 entités placés sous sanctions de l’OFAC le 23 avril 2026 pour exploitation de centres de fraude crypto alimentés par le travail forcé – et un parallèle documenté que les experts en cybercriminalité ne qualifient plus de métaphore rhétorique mais de convergence structurelle entre deux formes d’instrumentalisation étatique du crime numérique – la question s’impose avec une brutalité analytique : s’agit-il d’une coïncidence calendaire entre deux dossiers distincts, ou assistons-nous à l’émergence d’un modèle de sanctuarisation étatique de la cybercriminalité crypto qui dépasse le seul cas nord-coréen ?.
+- Géopolitique du crime numérique – pourquoi la comparaison entre le Cambodge et la Corée du Nord est documentée, pas rhétorique, et ce qu’elle révèle sur l’architecture des États-sanctuaires pour la prédation crypto à grande échelle La comparaison entre le Cambodge et la Corée du Nord dans le domaine de la cybercriminalité crypto n’est pas une figure de style journalistique.
+- Elle repose sur une convergence de mécanismes documentés par des organisations aussi différentes que l’ONUDC, l’OFAC, TRM Labs et Chainalysis : dans les deux cas, des structures criminelles opèrent à grande échelle avec une tolérance – ou une participation active – d’agents étatiques, et les cryptomonnaies constituent le vecteur central de prédation et de blanchiment.
+- La différence de modèle est réelle mais moins fondamentale qu’il n’y paraît.
 
-## [le Premier ministre annonce un plan d'action pour renforcer la protection numérique de l'État](https://www.info.gouv.fr/actualite/cybersecurite-le-premier-ministre-annonce-un-plan-d-action-pour-renforcer-la-protection-numerique-de-l-etat)  
-*Source : info.gouv.fr | Publication : 2026-04-30*
+## [<b>Cybersécurité</b>: L'entreprise genevoise Wisekey a augmenté ses pertes en 2025 - Bluewin](https://www.bluewin.ch/fr/infos/economie/l-entreprise-genevoise-wisekey-a-augment-ses-pertes-en-2025-3214493.html)  
+*Source : bluewin.ch | Publication : 2026-05-01*
 
-- Cybersécurité : le Premier ministre annonce un plan d'action pour ... les cybermenaces pesant sur les entreprises et les collectivités se multiplient.
+- Aperçu Football en direct Ligues Super League Aperçu Sports d'hiver en direct Résultats et classements FIS Résultats et classements IBU Aperçu Hockey sur glace en direct Résultats et tableau Aperçu Live-Tennis Tournois Résultats Aperçu Live Motorsport Courses et classements Aperçu Sport en direct Live-Streams & Highlights Foot - Super League - Challenge League - Champions League - Bundesliga - Premier League - Serie A - LaLiga - Ligue 1 - Europa League - Conference League - Services Swisscom Swisscom Apps Langue.
 
-## [Cyberattaque chez Ankama (Dofus, Wakfu): les données de centaines de milliers de joueurs en ...](https://www.bfmtv.com/tech/cybersecurite/cyberattaque-chez-ankama-dofus-wakfu-les-donnes-de-centaines-de-milliers-de-joueurs-en-fuite-des-comptes-pirates_AV-202604300706.html)  
-*Source : bfmtv.com | Publication : 2026-04-30*
+## [L'entreprise genevoise Wisekey a augmenté ses pertes en 2025 | LFM la radio](https://www.lfm.ch/actualite/suisse/romandie/geneve/lentreprise-genevoise-wisekey-a-augmente-ses-pertes-en-2025/)  
+*Source : lfm.ch | Publication : 2026-05-01*
 
-- Cyberattaque chez Ankama (Dofus, Wakfu): les données de centaines de milliers de joueurs en fuite, des comptes piratés Alors que l’entreprise fête ses 25 ans d’existence en 2026, l’anniversaire aura sans doute un goût amer: Ankama, à l’origine des jeux vidéo Dofus et Wakfu, a annoncé, jeudi, avoir été victime d’une cyberattaque.
-- "Cette intrusion a entraîné un accès non autorisé à une partie des données associées à votre compte Ankama," précise le studio roubaisien dans un mail envoyé aux personnes victimes et que BFM Tech s’est procuré.
-- Le nombre d’utilisateurs concernés est pour le moment difficile à définir, car il est possible de posséder plusieurs comptes Ankama afin de multiplier les personnages dans les jeux vidéo du studio.
-- Mais selon des informations obtenues par BFM Tech, le total serait particulièrement élevé et l’on évoque des centaines de milliers de comptes possiblement impactés.
+- Genève L'entreprise genevoise Wisekey a augmenté ses pertes en 2025 Share - Tweet /home/clients/a0d505b655321b17f8ff9c921bca9d03/lfm/wp-content/plugins/mvp-social-buttons/mvp-social-buttons.php on line 72 - - https://www.lfm.ch/wp-content/uploads/2026/05/le-specialiste-genevois-de-la-cybersecurite-wisekey-a-accru-ses-pertes-en-2025-image-dillustration-1000x600.jpg&description=L'entreprise genevoise Wisekey a augmenté ses pertes en 2025', 'pinterestShare', 'width=750,height=350'); return false;" title="Partager sur Pinterest"> Le spécialiste genevois de la cybersécurité Wisekey a augmenté ses pertes en 2025.
+- Pour 2026, l'entreprise est confiante: elle prévoit une croissance du chiffre d'affaire de 50-100%.
+- La perte nette a atteint 38,2 millions de dollars en 2025, environ un cinquième de plus qu'en 2024, a indiqué jeudi soir la société sur la base de ses chiffres définitifs.
+- Le résultat a notamment été impacté par l'augmentation des dépenses pour la recherche et le développement, le développement de la distribution et du marketing et la consolidation des activités acquises.
 
-## [NAR – Déplacement d'Anne Le Hénanff au sein de l'entreprise française Sekoia.io ...](https://presse.economie.gouv.fr/nar-deplacement-danne-le-henanff-au-sein-de-lentreprise-francaise-sekoiaio-specialisee-en-cybersecurite-a-paris-lundi-4-mai-2026/)  
-*Source : presse.economie.gouv.fr | Publication : 2026-04-30*
+## [L'autorité de régulation bancaire australienne met en garde contre le risque que l'IA aggrave ...](https://fr.businessam.be/lautorite-de-regulation-bancaire-australienne-met-en-garde-contre-le-risque-que-lia-aggrave-les-cybermenaces/)  
+*Source : fr.businessam.be | Publication : 2026-05-01*
 
-- Partager la page NAR - Déplacement d'Anne Le Hénanff au sein de l'entreprise française Sekoia.io spécialisée en cybersécurité à Paris, lundi 4 mai 2026 30 Avril 2026 | Communiqué de presse.
-- Paris, le 30 avril 2026.
-- Déplacement d'Anne Le Hénanff, ministre déléguée chargée de l'Intelligence artificielle et du Numérique à Paris 10ème au sein de l'entreprise française Sekoia.io spécialisée en cybersécurité Lundi 4 mai 2026 Anne LE HENANFF, ministre déléguée chargée de l'Intelligence artificielle et du Numérique, se rendra le lundi 4 mai 2026 au sein de Sekoia.io, entreprise française de référence en cybersécurité située à Paris.
-- Cette visite s'inscrit dans la volonté du Gouvernement de renforcer la souveraineté numérique de la France et de soutenir les acteurs nationaux innovants face à l'intensification des cybermenaces.
+- Principaux renseignements L’autorité de régulation bancaire australienne, l’APRA, exhorte les banques australiennes à renforcer leurs pratiques en matière de cybersécurité afin de contrer l’évolution des cybermenaces liées à l’IA.
+- - Les mesures de sécurité existantes pourraient s’avérer insuffisantes face à des outils d’IA sophistiqués capables d’identifier les vulnérabilités avec une efficacité accrue.
+- - Alors que les banques investissent massivement dans la cybersécurité, l’impact inégal de l’IA sur la solvabilité dans la région Asie-Pacifique suscite des inquiétudes.
+- - L’autorité de régulation bancaire australienne, l’APRA, a fait part de ses inquiétudes concernant les progrès rapides de l’intelligence artificielle (IA) et son potentiel à exacerber les cybermenaces au sein du secteur financier.
 
-## [Rétractation en ligne : vers la fin des parcours piégés ? Les plateformes face à une nouvelle ...](https://www.solutions-numeriques.com/retractation-en-ligne-vers-la-fin-des-parcours-pieges-les-plateformes-face-a-une-nouvelle-obligation-des-juin-2026/)  
-*Source : solutions-numeriques.com | Publication : 2026-04-30*
+## [Les &quot;atteintes numériques&quot; ont explosé de 87% en cinq ans: la France est de plus en plus ... - BFM](https://www.bfmtv.com/tech/cybersecurite/les-atteintes-numeriques-ont-explose-de-87-en-cinq-ans-la-france-est-de-plus-en-plus-touchee-par-des-cyberattaques-et-les-pirates-varient-de-plus-en-plus-leurs-techniques_AV-202605010518.html)  
+*Source : bfmtv.com | Publication : 2026-05-01*
 
-- À compter du 19 juin 2026, un tournant réglementaire s’impose aux acteurs du e-commerce : toute entreprise proposant des contrats conclus en ligne devra intégrer une fonctionnalité permettant d’exercer facilement le droit de rétractation.
-- Une évolution qui s’inscrit dans une dynamique européenne plus large de lutte contre les interfaces manipulatrices.
-- Décryptage avec Alan Walter, avocat, qui analyse les implications concrètes de cette réforme pour les plateformes numériques.
-- Solutions Numériques & Cybersécurité : Le texte évoque une fonctionnalité permettant d’exercer le droit de rétractation facilement.
+- Les "atteintes numériques" ont explosé de 87% en cinq ans: la France est de plus en plus touchée par des cyberattaques et les pirates varient leurs techniques Avec 453.200 "atteintes numériques" en 2025, la France a été particulièrement touchée par la cybercriminalité, selon un rapport émanant du ministère de l'Intérieur.
+- De nombreuses institutions et entreprises privées comme publiques ont été touchées par plusieurs attaques, allant du rançongiciel aux vols de données.
+- Un chiffre en hausse de 27% par rapport à 2024, alors même que la France faisait l'objet d'une attention médiatique importante cette année-là, notamment avec les Jeux olympiques de Paris.
+- En cinq ans, les atteintes numériques bondissent d'ailleurs de 87%, note le rapport.
 
-## [Après celles du football, du rugby ou encore du golf, la Fédération française de basket à son ...](https://www.bfmtv.com/tech/actualites/cybersecurite/apres-celles-du-football-du-rugby-ou-encore-du-golf-la-federation-francaise-de-basket-a-son-tour-victime-d-une-fuite-de-donnees_AD-202604300824.html)  
-*Source : bfmtv.com | Publication : 2026-04-30*
+## [Piratage de l'ANTS : le gouvernement va débloquer 200 millions d'euros pour renforcer la ...](https://www.lemonde.fr/pixels/article/2026/04/30/piratage-de-l-ants-sebastien-lecornu-annonce-le-deblocage-de-200-millions-d-euros_6684651_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-05-01*
 
-- Après celles du football, du rugby ou encore du golf, la Fédération française de basket à son tour victime d'une fuite de données Une nouvelle fédération sportive ciblée par les hackers.
-- Mercredi, la Fédération française de basket a annoncé avoir été "victime d’un incident de sécurité informatique" remontant à une dizaine de jours.
-- Cet incident a notamment causé "l’extraction non autorisée de données personnelles" de près de 2 millions de licenciés.
-- "Environ 900.000 données supplémentaires concernant des représentants légaux de licenciés", ont également été dérobées, a-t-elle révélé dans un communiqué.
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
 
-## [<b>Cybersécurité</b> de l'État : le plan du gouvernement pour (essayer de) stopper l'hémorragie](https://next.ink/236507/cybersecurite-de-letat-le-plan-du-gouvernement-pour-essayer-de-stopper-lhemorragie/)  
-*Source : next.ink | Publication : 2026-04-30*
+## [Wisekey : pertes en hausse en 2025, croissance prévue 2026 - La Télé](https://latele.ch/index.php/articles/l-entreprise-genevoise-wisekey-a-augmente-ses-pertes-en-2025)  
+*Source : latele.ch | Publication : 2026-05-01*
 
-- Cybersécurité de l’État : le plan du gouvernement pour (essayer de) stopper l’hémorragie Non Christine, le pare-feu d’Open Office ne peut pas sauver la France !.
-- Le 30 avril à 20h31 Fuites de données, cyberattaques, failles de sécurité : pas un jour ne se passe sans que l’actualité rappelle la vulnérabilité des infrastructures numériques.
-- C’est le cas dans les entreprises privées, mais aussi dans l’administration publique et notoirement en France.
-- Sébastien Lecornu a annoncé plusieurs mesures pour essayer de remettre d’aplomb les capacités de cyberdéfense de l’Hexagone.
+- Wisekey : pertes en hausse en 2025, croissance prévue 2026 Cybersécurité Le spécialiste genevois de la cybersécurité Wisekey a augmenté ses pertes en 2025.
+- Pour 2026, l'entreprise est confiante: elle prévoit une croissance du chiffre d'affaire de 50-100%.
+- La perte nette a atteint 38,2 millions de dollars en 2025, environ un cinquième de plus qu'en 2024, a indiqué jeudi soir la société sur la base de ses chiffres définitifs.
+- Le résultat a notamment été impacté par l'augmentation des dépenses pour la recherche et le développement, le développement de la distribution et du marketing et la consolidation des activités acquises.
 
-## [Les activités <b>cybersécurité</b> d'Atos ont «vocation à être cédées - Boursorama](https://www.boursorama.com/bourse/forum/1rPATO/detail/467937855/)  
-*Source : boursorama.com | Publication : 2026-04-30*
+## [Vol de mots de passe : l'OFCS alerte sur l'effet domino - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/05/01/vol-de-mots-de-passe-ofcs-alerte/)  
+*Source : dcod.ch | Publication : 2026-05-01*
 
-- Politique d'exécution - Autres places de cotation Fermer ouverture 32,500 clôture veille 32,660 + haut 33,440 + bas 32,500 volume 79 848 capital échangé 0,40% valorisation.
-- dernier échange 30.04.26 / 17:35:01 limite à la baisse Qu'est-ce qu'une limite à la hausse/baisse ?.
-- Fermer31,360 limite à la hausse Qu'est-ce qu'une limite à la hausse/baisse ?.
-- Fermer34,640 rendement estimé 2026 - PER estimé 2026 Qu'est-ce que le PER ?.
+- TL;DR : L’essentiel Les attaquants utilisent des logiciels automatisés pour tester des listes de codes déjà volés ailleurs.
+- Ce système permet de forcer l’entrée sur des milliers de sites sans effort manuel pour les pirates.
+- - La prise de contrôle d’une boîte mail constitue le point de rupture critique de la vie numérique.
+- Elle offre aux criminels la possibilité de changer les accès de tous les services liés à cette adresse.
 
-## [<b>Cybersécurité</b> : le gouvernement va débloquer 200 millions d'euros - La Croix](https://www.la-croix.com/societe/cybersecurite-le-gouvernement-va-debloquer-200-millions-d-euros-20260430)  
-*Source : la-croix.com | Publication : 2026-04-30*
+## [Burkina Faso : Oumarou Sanou prend les rênes de l'agence chargée de la <b>cybersécurité</b>](https://www.agenceecofin.com/nominations/0105-138057-burkina-faso-oumarou-sanou-prend-les-renes-de-l-agence-chargee-de-la-cybersecurite)  
+*Source : agenceecofin.com | Publication : 2026-05-01*
 
-- Le premier ministre Sébastien Lecornu a annoncé jeudi 30 avril que 200 millions d’euros seraient débloqués « la semaine prochaine » afin de « remettre des moyens » dans le cyber, deux semaines après une importante attaque informatique contre l’Agence nationale des titres sécurisés (ANTS).
-- « 200 millions d’euros vont être débloqués dès la semaine prochaine », a affirmé Sébastien Lecornu durant un point presse organisé pendant sa visite des locaux de l’ANTS.
-- Le premier ministre n’a pas précisé comment ces fonds seraient utilisés, mais a déclaré qu’ils s’inscrivaient dans le cadre du programme d’investissements France 2030, lancé en 2021 par Emmanuel Macron.
-- Il a aussi évoqué la création d’une « autorité numérique de l’État ».
+- La cybersécurité s'impose progressivement comme l'une des priorités des autorités africaines.
+- Elle est désormais incontournable pour.
 
-## [Le spécialiste de la <b>cybersécurité</b> Check Point Software dépasse les attentes au premier trimestre](https://www.zonebourse.com/actualite-bourse/le-specialiste-de-la-cybersecurite-check-point-software-depasse-les-attentes-au-premier-trimestre-ce7f58d8da80f423)  
-*Source : zonebourse.com | Publication : 2026-04-30*
+## [Le Premier ministre annonce la fusion prochaine de la Dinum et la DITP - Acteurs Publics](https://acteurspublics.fr/articles/letat-annonce-la-fusion-prochaine-de-la-dinum-et-la-ditp/)  
+*Source : acteurspublics.fr | Publication : 2026-05-01*
 
-- Check Point Software : le bénéfice du premier trimestre dépasse les attentes, les prévisions de revenus pour 2026 revues à la baisseCheck Point Software Technologies a fait état d'une hausse de 13% de son bénéfice trimestriel, un résultat supérieur aux attentes, porté par une croissance à deux chiffres des revenus issus des.
+- “Tirer des leçons” des dernières cyberattaques.
+- C’était l’objectif des annonces de Sébastien Lecornu, le Premier ministre, ce jeudi 30 avril, lors d’un déplacement à l’Agence nationale des titres sécurisés.
+- Ce déplacement faisait suite à la cyberattaque survenue contre l’ANTS le 15 avril dernier : environ 11 millions de données d’identification appartenant à des particuliers auraient ainsi été dérobées sur le portail ants.gouv.fr.
+- Alors que le portail était jusqu’ici en maintenance pour “poursuivre les mesures de renforcement”, il revient peu à peu à la normale.
 
-## [Un mineur interpellé pour la cyberattaque des titres sécurisés - Affiches Parisiennes](https://mesinfos.fr/75000-paris/un-mineur-interpelle-pour-la-cyberattaque-des-titres-securises-245635.html)  
-*Source : mesinfos.fr | Publication : 2026-04-30*
+## [ces 200 millions d'euros débloqués par l'État vont-ils suffire à protéger vos données - NextPlz](https://www.nextplz.fr/societe/549305-cybersecurite-sous-pression-ces-200-millions-deuros-debloques-par-letat-vont-ils-suffire-a-proteger-vos-donnees)  
+*Source : nextplz.fr | Publication : 2026-05-01*
 
-- Il se cacherait sous le pseudo “breach3d”.
-- Un mineur de 15 ans a été interpellé dans le dossier de la cyberattaque subie par l'Agence nationale des titres sécurisés (ANTS), qui gère les cartes d’identité, les passeports et les permis de conduire, a indiqué, ce 30 avril, le parquet de Paris.
-- L'adolescent est soupçonné de “faits constitutifs d’atteintes à un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État et de détention d’équipement ou de programme permettant de commettre ces atteintes”, a détaillé la procureure Laure Beccuau dans un communiqué.
-- La mise en examen et le placement sous contrôle judiciaire du hacker ont été requis.
+- Cybersécurité sous pression : ces 200 millions d’euros débloqués par l'État vont-ils suffire à protéger vos données Après la fuite géante de l’ANTS, l’État lâche 200 millions d’euros pour sa cybersécurité.
+- Suffiront-ils enfin à sécuriser vos données ?.
+- Une fuite géante de données d’identité, suivie d’un chèque d’urgence : en quelques jours, la cybersécurité de l’État est devenue un sujet pour des millions de Français.
+- En effet, près de 12 millions de comptes liés aux titres d’identité ont été touchés mi-avril par une cyberattaque, et depuis le début de 2026 les administrations recensent des vols de données chaque jour.
 
-## [Les entreprises familiales : un pilier discret du tissu économique européen｜Deloitte France](https://www.deloitte.com/fr/fr/services/deloitte-private/perspectives/entreprises-familiales-pilier-discret-du-tissu-economique-europeen.html)  
-*Source : deloitte.com | Publication : 2026-04-30*
+## [Renforcer les capacités de défense des entreprises. - Vietnam.vn](https://www.vietnam.vn/fr/tang-nang-luc-phong-ve-cua-doanh-nghiep)  
+*Source : vietnam.vn | Publication : 2026-05-01*
 
-- Piliers de l’économie française et européenne, les entreprises familiales se distinguent par leur poids, leur stabilité et leur performance, portés par une vision de long terme.
-- Face à des défis croissants, leur capacité d’adaptation sera clé pour préserver leur rôle dans la compétitivité et la souveraineté économiques.
-- En France comme en Europe, les entreprises familiales1 contribuent très substantiellement à la dynamique d’emploi et de valeur ajoutée, faisant d’elles une composante essentielle du tissu économique.
-- Selon l’étude « Les entreprises familiales en France » réalisée par l’école Paris Dauphine : Elles sont particulièrement représentées dans le commerce de gros, la grande distribution et l’agroalimentaire (ces secteurs concentrant 43 % de leur valeur ajoutée cumulée contre 37 % pour les entreprises non familiales), ce qui souligne leur poids dans des secteurs stratégiques.
-
-## [Les activités <b>cybersécurité</b> d'Atos ont &quot;vocation à être cédées&quot;, affirme le ministre de l'Economie](https://www.notretemps.com/depeches/les-activites-cybersecurite-d-atos-ont-vocation-a-etre-cedees-affirme-le-ministre-de-l-economie-132168)  
-*Source : notretemps.com | Publication : 2026-04-30*
-
-- Les activités cybersécurité d'Atos ont "vocation à être cédées", affirme le ministre de l'Economie Les activités de cybersécurité d'Atos, qui incluent des projets avec l'armée, ont "vocation à être cédées", a affirmé jeudi le ministre de l'Économie Roland Lescure à l'Assemblée nationale, alors que le groupe informatique français avait suspendu ce projet l'an dernier.
-- "Atos s'est engagé à lancer à terme un processus de cession" de ses activités "cybersécurité et Mission-Critical System (MCS)", a affirmé Roland Lescure, dans le cadre d'une commission d'enquête "sur la prédation des capacités productives françaises", à l'initiative de LFI.
-- Cette éventuelle cession sera "regardée de très près par l'État", a-t-il ajouté.
-- Une déclaration qui a provoqué la surprise de la rapporteuse de la commission, la députée LFI Aurélie Trouvé.
-
-## [Sopra Steria : finalisation des acquisitions de Starion et Nexova - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites-amp/sopra-steria-finalisation-des-acquisitions-de-starion-et-nexova-2168721)  
-*Source : bourse.fortuneo.fr | Publication : 2026-04-30*
-
-- Sopra Steria, acteur majeur de la Tech en Europe, annonce la finalisation des acquisitions de Starion et Nexova créant un acteur européen de référence dans le spatial et la cybersécurité.
-- Les acquisitions de Starion et Nexova s'inscrivent dans la stratégie de Sopra Steria consistant à renforcer son positionnement d'acteur européen de référence dans les services numériques souverains et sécurisés.
-- Elles renforcent les activités spatiales et cybersécurité en étendant sa palette d'expertises dans les domaines de l'ingénierie des systèmes spatiaux, de la cybersécurité des infrastructures critiques, de la sécurité quantique et des services managés.
-- Grâce à ces acquisitions, Sopra Steria atteint la taille critique dans le domaine de l'espace avec plus de 200 ME de chiffre d'affaires et près de 2000 collaborateurs.
-
-## [Trump avait écarté l'entreprise au nom de &quot;la sécurité nationale&quot;: la Maison Blanche prévoit ...](https://www.bfmtv.com/tech/intelligence-artificielle/trump-avait-ecarte-l-entreprise-au-nom-de-la-securite-nationale-la-maison-blanche-prevoit-finalement-de-reintroduire-anthropic-dans-ses-operations-face-a-la-puissance-de-ses-nouveaux-modeles-d-ia_AN-202604300429.html)  
-*Source : bfmtv.com | Publication : 2026-04-30*
-
-- Trump avait écarté l'entreprise au nom de "la sécurité nationale": la Maison Blanche prévoit finalement de réintroduire Anthropic dans ses opérations face à la puissance de ses nouveaux modèles d'IA C’est une petite guerre qui avait secoué "les serveurs et les ordinateurs" des pouvoirs publics américains.
-- Depuis quelques semaines, l’administration américaine avait décidé de faire table rase de Claude, l’IA développée par Anthropic, après que celle-ci a exprimé de sérieuses réserves sur certains usages de son outil, notamment militaires.
-- Le Pentagone et la Maison-Blanche s’étaient alors mis d’accord pour mettre l’entreprise sur liste noire, la dénonçant comme "woke", tandis que Donald Trump, président américain, n’avait pas épargné la société de ses diatribes sur les réseaux sociaux.
-- Mais voilà que l’administration Trump semble opérer un revirement à 180 degrés concernant une entreprise... qu’elle présentait pourtant comme un risque majeur "pour la sécurité nationale".
-
-## [L'IA stimule l'innovation autant qu'elle ouvre la voie à une nouvelle génération de cyberattaques](https://www.journaldunet.com/cybersecurite/1549951-l-ia-stimule-l-innovation-autant-qu-elle-ouvre-la-voie-a-une-nouvelle-generation-de-cyberattaques/)  
-*Source : journaldunet.com | Publication : 2026-04-30*
-
-- L'IA stimule l'innovation autant qu'elle ouvre la voie à une nouvelle génération de cyberattaques L'IA amplifie et automatise les cyberattaques, obligeant les organisations à adopter une cyber-résilience intégrant prévention, détection avancée et restauration rapide.
-- Selon l’Agence nationale de la sécurité des systèmes d’information (Anssi), la menace cyber continue de s’intensifier en France.
-- Dans son dernier Panorama de la cybermenace, l'Anssi indique avoir traité 4 386 événements de sécurité au cours de l’année, confirmant une pression élevée sur les organisations françaises, notamment via les rançongiciels et les compromissions d’accès distants.
-- Cette dynamique est préoccupante.
+- La transformation numérique se répand dans le monde des affaires, notamment auprès des petites et moyennes entreprises (PME), qui représentent environ 98 % des entreprises en activité au Vietnam.
+- Cependant, nombre d'entre elles abordent cette transition numérique avec des ressources limitées, un manque de personnel technique et d'expérience en matière de gestion des incidents.
+- Une simple escroquerie en ligne, une fuite de données ou une attaque par chiffrement de système peut perturber leurs activités et entraîner des pertes de revenus et une atteinte à leur réputation.
+- Les experts alertent sur le fait que la majorité des cyberattaques actuelles ciblent les petites et moyennes entreprises (PME), car ces dernières n'ont souvent pas investi suffisamment dans la cybersécurité.
