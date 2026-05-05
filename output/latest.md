@@ -1,146 +1,155 @@
-# Résumés – 2026-05-04
+# Résumés – 2026-05-05
 
 
-## [SCC France : une forte ambition portée par l'IA et la <b>cybersécurité</b> - ITRmobiles](https://itrmobiles.com/articles/209662/scc-france-une-forte-ambition-portee-par-lia-et-la-cybersecurite.html)  
-*Source : itrmobiles.com | Publication : 2026-05-04*
+## [Aujourd'hui, ce qui nous menace, c'est un gamin de 15 ans en Vendée - Projet Arcadie](https://projetarcadie.com/bothorel-alarme-cybersecurite/)  
+*Source : projetarcadie.com | Publication : 2026-05-05*
 
-- Veuillez activer Javascript pour accéder au site web.
+- « Aujourd’hui, ce qui nous menace, c’est un gamin de 15 ans en Vendée » Éric Bothorel tire la sonnette d’alarme sur la cybersécurité Ce mardi 5 mai 2026, le député apparenté EPR Éric Bothorel, grand connaisseur des sujets liés au numérique a interrogé la secrétaire d’état au numérique, Anne Le Henanff sur la prise en compte de la sécurité informatique par le gouvernement.
+- En creux, s’il salue les avancées annoncées par le Premier ministre, il pointe un budget à la baisse, le retard considérable dans le déploiement du filtre anti-arnaque et l’absence d’inscription à l’ordre du jour du projet de loi résilience, qui doit transposer la directive NIS2.
+- Un média libre grâce à ses lecteurs Nous avons fait le choix d’un modèle sans paywall, ni publicité.
+- Si l’objectif mensuel est atteint, le média reste entièrement accessible à tous.
 
-## [SCC France : une forte ambition portée par l'IA et la <b>cybersécurité</b> - ITRnews](https://itrnews.com/articles/209662/scc-france-une-forte-ambition-portee-par-lia-et-la-cybersecurite.html)  
-*Source : itrnews.com | Publication : 2026-05-04*
+## [Le principal frein à l'IA ? Le manque de compétences, selon les DSI - CIO-online](https://www.cio-online.com/actualites/lire-le-principal-frein-a-l-ia-le-manque-de-competences-selon-les-dsi-17010.html)  
+*Source : cio-online.com | Publication : 2026-05-05*
 
-- Veuillez activer Javascript.
+- Le principal frein à l'IA ?.
+- Le manque de compétences, selon les DSI De nombreux DSI considèrent que le manque d'expertise interne a été un obstacle majeur à leurs projets d'IA au cours de l'année écoulée.
+- PublicitéLe manque d'expertise freine les initiatives en IA dans de nombreuses organisations.
+- La connaissance superficielle de cette technologie empêche les professionnels de concrétiser pleinement le potentiel de l'IA.
 
-## [USA : un jeune Congolais consacré docteur en <b>cybersécurité</b> et intelligence artificielle avec mention](https://www.mediacongo.net/article-actualite-163347_usa_un_jeune_congolais_consacre_docteur_en_cybersecurite_et_intelligence_artificielle_avec_mention_extraordinaire.html)  
-*Source : mediacongo.net | Publication : 2026-05-04*
+## [Tunisair lance le service 'Hajj sans bagage' - Mosaique FM](https://www.mosaiquefm.net/fr/national-tunisie/1515541/tunisair-lance-le-service-hajj-sans-bagage)  
+*Source : mosaiquefm.net | Publication : 2026-05-05*
 
-- Dr Gaston Elongha Lowolo, expert en cybersécurité.
-- Diaspora Dr Gaston Elongha Lowolo, expert en cybersécurité.
-- Un jeune chercheur ressortissant de la République démocratique du Congo a soutenu et obtenu un doctorat en sciences de la cybersécurité et de l’intelligence artificielle à Marymount University, aux États-Unis, pour une thèse consacrée à la détection, par l’intelligence artificielle, des emails de phishing de nouvelle génération, hautement ciblés, notamment dans des secteurs critiques comme la santé, à l’ère de l’intelligence artificielle générative, a appris l’ACP samedi 2 mai 2026 du récipiendaire.
-- « Je viens de soutenir ma thèse de doctorat à Marymount University, aux États-Unis.
+- Healthcare IT Forum : IA et cybersécurité au centre des débats · National · Healthcare IT Forum : IA et cybersécurité au centre des ... 2026/05/05 14.
 
-## [Chef de projet infrastructure <b>cybersécurité</b> H/F (33970) - Département des Alpes-Maritimes](https://www.departement06.fr/offres-demploi/chef-de-projet-infrastructure-cybersecurite-hf-33970)  
-*Source : departement06.fr | Publication : 2026-05-04*
+## [En <b>cybersécurité</b>, la fatigue des experts devient un risque d'affaires - Mon Carnet](https://moncarnet.com/2026/05/05/en-cybersecurite-la-fatigue-des-experts-devient-un-risque-daffaires/)  
+*Source : moncarnet.com | Publication : 2026-05-05*
 
-- Publié le Postuler avant le Référence de l'offre : i3662-33970-DSN-BB Catégorie(s) : A Filière(s) : FILIERE TECHNIQUE Cadre(s) d'emploi(s) : Ingénieur Télécharger La direction des services numériques (DSN) du Département des Alpes-Maritimes met en œuvre la stratégie numérique de la collectivité dans le cadre du Smart Deal, avec une ambition forte : garantir un numérique fiable, sécurisé et performant pour 4 500 agents, 73 collèges et 150 sites distants.
-- Notre équipe, localisée à Nice, rassemble des profils diversifiés réunis autour d'une raison d'être commune : accompagner les agents du Département pour un usage performant, sécurisé et responsable du numérique.
-- Au sein de la section Sécurité, Systèmes et Réseaux, nos administrateurs systèmes et réseaux, experts bases de données, équipes applicatives et d'exploitation travaillent en synergie pour faire vivre un socle d'infrastructures à la hauteur des enjeux de service public.
-- Fort d'une culture reposant sur le management 3.0, nous favorisons la collaboration, la communication et la créativité pour améliorer notre qualité de réponse aux besoins des directions clientes.
+- Les cyberattaques se multiplient, l’intelligence artificielle ajoute de nouveaux risques et les entreprises demandent toujours plus à leurs équipes de sécurité.
+- Mais selon le rapport Tech Talent & Salary Report 2026, une partie importante des professionnels de la cybersécurité estime ne pas être reconnue à la hauteur de la pression qu’elle subit.
+- Près d’un spécialiste sur deux envisagerait même de changer d’emploi au cours des 12 prochains mois.
+- Le paradoxe est connu dans les services de sécurité informatique : quand tout va bien, leur travail reste invisible.
 
-## [Les antivirus perdent leur statut de réflexe unique en <b>cybersécurité</b> - Mon Carnet](https://moncarnet.com/2026/05/04/les-antivirus-perdent-leur-statut-de-reflexe-unique-en-cybersecurite/)  
-*Source : moncarnet.com | Publication : 2026-05-04*
+## [L'utilisation de l'IA dans les forums de <b>cybercriminalité</b> se concentre sur les abus de bas niveau](https://www.binance.com/fr/square/post/319971023883058)  
+*Source : binance.com | Publication : 2026-05-05*
 
-- Le marché des antivirus n’a pas disparu, mais il change de nature.
-- Selon l’étude 2026 de Cybernews sur les usages américains, les consommateurs continuent d’utiliser des outils de protection, mais ils s’appuient de plus en plus sur les mécanismes intégrés à leurs appareils, comme Microsoft Defender ou les protections natives d’Apple et de Google.
-- Résultat : l’antivirus tiers n’est plus nécessairement le premier réflexe, surtout sur mobile.
-- L’écart entre ordinateur et téléphone intelligent est particulièrement marqué.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [<b>Cybersécurité</b> : officines, êtes-vous vraiment protégées ? - Revue Pharma](https://www.revuepharma.fr/2026/05/cybersecurite-officines-etes-vous-vraiment-protegees/)  
-*Source : revuepharma.fr | Publication : 2026-05-04*
+## [<b>Cybersécurité</b> : La France, cible de choix des hackeurs | Le Canard enchaîné](https://www.lecanardenchaine.fr/technologie-sciences/53802-la-france-cible-de-choix-des-hackeurs)  
+*Source : lecanardenchaine.fr | Publication : 2026-05-05*
 
-- L’officine concentre aujourd’hui des informations particulièrement convoitées.
-- Face à l’augmentation des attaques et aux nouvelles obligations du Ségur, la cybersécurité devient un enjeu stratégique autant que technique.
-- La lecture de cet article est réservée aux abonnés.
-- Pour accéder à l'article complet Découvrez nos offres d'abonnement Abonnez-vous à la revue et accédez à tous les contenus du site !.
+- Par Camille Eider Le récent piratage de l'Agence nationale des titres sécurisés illustre la faiblesse de l'Hexagone à se protéger face aux cyberpirates.
+- Entre le manque d'investissement de l'Etat et le faible intérêt des Français pour la protection de leurs données confidentielles, ça ne leur tient pas hackeur ?.
+- L’aveu est de taille.
+- Il a été formulé par le Premier ministre, Sébastien Lecornu, le 30 avril : « Depuis le début de l’année, la France subit en moyenne trois vols de données numériques par jour.
 
-## [L'IA défensive prend-elle l'avantage sur les attaquants ? Oui, répond le Forum économique mondial](https://itsocial.fr/cybersecurite/cybersecurite-articles/lia-defensive-prend-elle-lavantage-sur-les-attaquants-oui-repond-le-forum-economique-mondial/)  
-*Source : itsocial.fr | Publication : 2026-05-04*
+## [Le hacker éthique et patron de BZHunt à Brest, Brice Augras, est décédé | Le Télégramme](https://www.letelegramme.fr/finistere/brest-29200/le-hacker-ethique-et-patron-de-bzhunt-a-brest-brice-augras-est-decede-7038871.php)  
+*Source : letelegramme.fr | Publication : 2026-05-05*
 
-- Pendant des années, la cybersécurité a fonctionné selon un rapport de force asymétrique où les attaquants détenaient l'avantage de l'initiative.
-- L'IA redistribue les capacités, selon le rapport AI and Cyber: Empowering Defenders, publié par le Forum économique mondial avec KPMG sur la base de vingt études de cas auprès de 84 organisations dans 15 secteurs.
-- Il atteste une bascule mesurable dans le déploiement défensif de l'IA.
-- Pas moins de 94 % des responsables cyber y identifient l'IA comme la principale force de transformation de leur domaine, et les trois quarts des organisations l'ont intégrée à leurs opérations de sécurité.
+- Brice Augras, figure brestoise emblématique de la cybersécurité et fondateur de BZHunt, est décédé à l'âge de 35 ans.
+- Champion du monde de hacking.
 
-## [Dans les usines, la continuité de l'activité l'emporte encore sur la sécurité des données](https://www.lecho.be/partner/equans/votre-partenaire-en-cybersecurite-ot/dans-les-usines-la-continuite-de-l-activite-l-emporte-encore-sur-la-securite-des-donnees/10659091.html)  
-*Source : lecho.be | Publication : 2026-05-04*
+## [Feuille de route cyber de l'État 2026-2027 : renforcer la résilience numérique](https://www.defense.gouv.fr/comcyber/actualites/feuille-route-cyber-letat-2026-2027-renforcer-resilience-numerique)  
+*Source : defense.gouv.fr | Publication : 2026-05-05*
 
-- Dans les usines, la continuité de l'activité l'emporte encore sur la sécurité des données.
+- Feuille de route cyber de l’État 2026-2027 : renforcer la résilience numérique ace à l’augmentation de la menace cyber, l’Etat a sorti sa feuille de route des efforts prioritaires en matière de sécurité numérique pour 2026-2027 en lien avec la directive européenne NIS 2, qui étend son périmètre aux administrations publiques et l’urgence de préparer la transition vers la cryptographie post-quantique, face à la menace future des ordinateurs quantiques.
+- Validée par le Comité stratégique de la sécurité numérique (COSINUS), elle répond à l’urgence de renforcer la résilience face aux cybermenaces croissantes et à la transposition de la directive européenne NIS 2.
+- Une feuille de route articulée autour de 10 axes Cette feuille de route s’articule autour de dix axes majeurs, allant du renforcement de la gouvernance à l’homologation prioritaire des systèmes d’information à enjeux d’ici fin 2026.
+- La sécurisation des prestataires, le maintien en condition de sécurité des infrastructures, et la protection des services exposés sur Internet, comme le DNS (Domain Name System) et la messagerie, figurent également parmi les priorités.
 
-## [<b>Cybersécurité</b> : la rustine à 200 millions du gouvernement | TechTarget - LeMagIT](https://www.lemagit.fr/opinion/Cybersecurite-la-rustine-a-200-millions-du-gouvernement)  
-*Source : lemagit.fr | Publication : 2026-05-04*
-
-- mehaniq41 - stock.adobe.com Cybersécurité : la rustine à 200 millions du gouvernement Les annonces de Sébastien Lecornu marquent une prise de conscience politique nécessaire.
-- Mais elles ne semblent constituer qu'une réponse tactique à une vulnérabilité stratégique.
-- Le premier ministre a présenté en fin de semaine dernière ses plans en réponse aux dizaines d'atteintes aux données personnelles qui ont émaillé les 18 derniers mois, jusqu'à une cible particulièrement emblématique : l'Agence nationale des titres sécurisés (ANTS).
-- Là, un suspect, au profil qui ne surprendra guère les observateurs attentifs de l'écosystème cybercriminel francophone, a été interpellé.
-
-## [Plus de mots de passe pour ChatGPT : OpenAI lance un mode de sécurité renforcé basé sur ...](https://www.01net.com/actualites/plus-de-mots-de-passe-pour-chatgpt-openai-lance-un-mode-de-securite-renforce-base-sur-les-yubikeys.html)  
-*Source : 01net.com | Publication : 2026-05-04*
-
-- En miroir de votre compte Facebook, PayPal, Instagram ou encore votre compte bancaire, votre compte ChatGPT est progressivement devenu une cible pour les cybercriminels.
-- Conscients que de plus en plus d’internautes communiquent des données sensibles à l’IA, les pirates tentent de plus en plus de prendre le contrôle de comptes OpenAI.
-- Une étude de Group-IB a d’ailleurs recensé plus de 101 000 identifiants ChatGPT compromis mis en vente sur des marchés du dark web l’an dernier.
-- À lire aussi : Avec ChatGPT Images 2.0, OpenAI corrige le plus gros défaut de son générateur Un partenariat entre OpenAI et Yubico Pour permettre à ses utilisateurs de se protéger, la start-up s’est associée à Yubico, le fabricant des célèbres YubiKeys.
-
-## [&quot;La France est-elle nulle en <b>cybersécurité</b> ?&quot;, en arrive à se demander BFM. Depuis ... - Instagram](https://www.instagram.com/p/DX7KoIkCL6p/)  
-*Source : instagram.com | Publication : 2026-05-04*
-
-- InstagramLog InSign Up.
-
-## [<b>Cybermenaces</b>, IA et espionnage : entrevue avec la cheffe du CST | Les coulisses du pouvoir](https://www.youtube.com/watch?v=vLPjrvQx67w)  
-*Source : youtube.com | Publication : 2026-05-04*
-
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
-
-## [Énergie solaire : Bruxelles alerte sur le risque de <b>cybersécurité</b> de technologies chinoises](https://www.lefigaro.fr/conjoncture/energie-solaire-bruxelles-alerte-sur-le-risque-de-cybersecurite-de-technologies-chinoises-20260504)  
-*Source : lefigaro.fr | Publication : 2026-05-04*
-
-- Énergie solaire : Bruxelles alerte sur le risque de cybersécurité de technologies chinoises Des appareils électroniques issus de pays inamicaux présentent un risque « de perturbation des infrastructures critiques de l’UE par des acteurs étrangers ».
-- Passer la publicité Passer la publicitéL’Europe sort bel et bien des années de naïveté.
-- Lundi, la Commission européenne a indiqué ne plus souhaiter subventionner des projets énergétiques recourant à des technologies chinoises, susceptibles de présenter des risques pour le fonctionnement de son réseau électrique.
-- Sont précisément visés les onduleurs, des appareils électroniques utilisés notamment dans les installations photovoltaïques pour transformer le courant continu en courant alternatif.
-
-## [Sessions d'information en juin : ING informe sur la <b>cybersécurité</b> - Transportmedia](https://transportmedia.be/fr/2026/05/sessions-dinformation-en-juin-ing-informe-sur-la-cybersecurite/)  
-*Source : transportmedia.be | Publication : 2026-05-04*
-
-- Afin d’aider les entreprises de transport et de logistique à se prémunir contre la cybercriminalité, ING Belgique organise en juin et en octobre plusieurs sessions d’information ciblées.
-- Sous le titre « Ouvert aux affaires, fermé aux cyberattaques », la banque met l’accent sur les menaces concrètes ainsi que sur des solutions pratiques.
-- La digitalisation dans le secteur du transport et de la logistique s’accélère, mais elle accroît également le risque de cyberattaques.
-- Un seul clic erroné peut suffire à paralyser les processus, entraînant d’importants dommages financiers et d’image.
-
-## [GPT-5.5-Cyber, le nouveau modèle d'OpenAI qui rivalise avec Mythos - BDM](https://www.blogdumoderateur.com/gpt-5-5-cyber-nouveau-modele-openai-rivalise-mythos/)  
-*Source : blogdumoderateur.com | Publication : 2026-05-04*
-
-- GPT-5.5-Cyber, le nouveau modèle d’OpenAI qui rivalise avec Mythos Capable de détecter des vulnérabilités, d’analyser des malwares ou d’effectuer des pentests, GPT-5.5-Cyber s’annonce comme le pendant d’OpenAI à Mythos.
-- Son déploiement restera, lui aussi, très encadré.
-- OpenAI s’apprête à déployer GPT-5.5-Cyber, un modèle « frontière » dédié à la cybersécurité dont l’accès sera, dans un premier temps, réservé à certaines organisations opérant sur des infrastructures critiques, a annoncé Sam Altman sur X. we’re starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critical cyber defenders in the next few days.
-- we will work with the entire ecosystem and the government to figure out trusted access for cyber; we want to rapidly help secure companies/infrastructure.
-
-## [La continuité d'activité, angle mort de la <b>cybersécurité</b> des cabinets d'avocats.](https://www.village-justice.com/articles/continuite-activite-angle-mort-cybersecurite-des-cabinets-avocats,57225.html?utm_source=backend&utm_medium=RSS&utm_campaign=RSS_Reseaux)  
-*Source : village-justice.com | Publication : 2026-05-04*
-
-- Être en règle ne garantit pas de pouvoir continuer à exercer.
-- Un constat rarement formulé, mais qui mérite d’être posé.
-- La cybersécurité des cabinets d’avocats fait l’objet d’une attention croissante.
-- L’ANSSI a publié en 2023 son rapport sur l’état de la menace informatique ciblant les auxiliaires de justice.
-
-## [<b>Cybercriminalité</b> : les dessous d'une explosion inquiétante en France - Le Point](https://www.lepoint.fr/monde/cybercriminalite-les-dessous-dune-explosion-inquietante-en-france-H7QRDSYIHRH7DFNC7YXRTU7FOU/)  
-*Source : lepoint.fr | Publication : 2026-05-04*
-
-- C’est une histoire invraisemblable que celle de ce jeune de 15 ans, passionné de cybersécurité et soupçonné d’être derrière l’attaque informatique ayant visé le portail de l’Agence nationale des titres sécurisés.
-- Scolarisé en Corse, le pirate nommé « Breach 3D » aurait piraté le portail de cet organisme d’État – qui émet notamment les passeports, les cartes d’identité et les permis de conduire – et aspiré les données de quelque « 11,7 millions de comptes » de particuliers et professionnels.
-- Une affaire racontée en détail par notre correspondant en Corse, Julian Mattei.
-- Si cette affaire est ahurissante – c’est la mère du jeune homme qui l’a conduit elle-même au commissariat (ce qui pourrait susciter un remake de War Game, ce film de… 1983) –, elle n’est pourtant qu’un tout petit épisode d’un phénomène qui donne le vertige.
-
-## [Fuite de données à l'ANTS : un mineur de 15 ans interpellé, l'affaire entre dans le judiciaire](https://www.solutions-numeriques.com/fuite-de-donnees-a-lants-un-mineur-de-15-ans-interpelle-laffaire-entre-dans-le-judiciaire/)  
-*Source : solutions-numeriques.com | Publication : 2026-05-04*
-
-- Révélée mi-avril avec la mise en vente en ligne d’une base attribuée à l’ANTS, l’affaire connaît un tournant avec l’interpellation d’un suspect et l’ouverture d’une information judiciaire.
-- Une enquête désormais formalisée Un adolescent de 15 ans a été interpellé le 25 avril dans le cadre de l’enquête sur l’extraction de données visant l’Agence nationale des titres sécurisés.
-- Il a été mis en examen après l’ouverture, le 29 avril, d’une information judiciaire portant notamment sur des faits d’accès frauduleux à un système de traitement automatisé de données et d’extraction de données.
-- L’enquête est menée par les services spécialisés, dont l’Office anti-cybercriminalité.
-
-## [“Analysez votre code pour détecter des vulnérabilités et générez des correctifs proposés ...](https://www.usine-digitale.fr/intelligence-artificielle/anthropic/analysez-votre-code-pour-detecter-des-vulnerabilites-et-generez-des-correctifs-proposes-avec-opus-47-comment-anthropic-veut-faire-de-claude-security-un-outil-incontournable.BRK4ZOFF2VGJ7CWX3XAT6QWTXE.html)  
-*Source : usine-digitale.fr | Publication : 2026-05-04*
+## [Atos élargit sa collaboration avec l'assureur CNA, un contrat de 500 millions de dollars à la clef](https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/atos-elargit-sa-collaboration-avec-lassureur-cna-un-contrat-de-500-millions-de-dollars-a-la-clef-2230138)  
+*Source : investir.lesechos.fr | Publication : 2026-05-05*
 
 - cybersécurité.
-- Analyse de code, détection de vulnérabilités complexes ... cybersécurité.
-- Analyse de code, détection de vulnérabilités.
+- "La valeur to ... cybersécurité.
+- "La valeur totale attendue de ce contrat est d.
 
-## [200 millions débloqués pour la <b>Cybersécurité</b> en France, mais ça ne suffira pas - Mac4Ever](https://www.mac4ever.com/securite/196002-200-millions-debloques-pour-la-cybersecurite-en-france-mais-ca-ne-suffira-pas)  
-*Source : mac4ever.com | Publication : 2026-05-04*
+## [Venez vous informer sur les formations et métiers de la cyber - Région Bretagne](https://www.bretagne.bzh/actualites/venez-vous-informer-sur-les-formations-et-metiers-de-la-cyber/amp/)  
+*Source : bretagne.bzh | Publication : 2026-05-05*
 
-- 200 millions débloqués pour la Cybersécurité en France, mais ça ne suffira pas Par Vincent Lautier - Publié le La ministre déléguée à l'Intelligence artificielle et au Numérique Anne Le Hénanff a reconnu que les 200 millions d'euros débloqués par Sébastien Lecornu pour la cybersécurité de l'État ne suffiront pas.
-- C'est une mesure d'urgence, présentée après la cyberattaque massive de l'ANTS qui a touché près de 12 millions de comptes.
-- Anne Le Hénanff, ministre déléguée à l'Intelligence artificielle et au Numérique, a confirmé que l'enveloppe annoncée le 30 avril par le Premier ministre était une Le constat dressé par la ministre est franchement préoccupant.
-- Selon elle, les budgets alloués à la cybersécurité dans les organisations de l'État varient entre 1 % et 5 % du budget informatique selon les ministères.
+- Venez vous informer sur les formations et métiers de la cyber !.
+- Cette actualité a retenu votre attention ?.
+- Créer votre compte Pour configurer votre espace et ajouter à Mes épingles, connectez-vous ou créez votre compte.
+- 5 mai 2026 2 minutes de lecture Cette actualité a retenu votre attention ?.
+
+## [cPanel : une vulnérabilité activement exploitée - LeMagIT](https://www.lemagit.fr/actualites/366642565/cPanel-une-vulnerabilite-activement-exploitee)  
+*Source : lemagit.fr | Publication : 2026-05-05*
+
+- cPanel : une vulnérabilité activement exploitée La vulnérabilité CVE-2026-41940, dévoilée fin avril, fait l’objet d’importants efforts d’exploitation, y compris pour le déploiement d’un rançongiciel.
+- Plusieurs milliers auraient déjà été compromis.
+- Une vulnérabilité critique dans cPanel/WHM a récemment servi de vecteur à des attaques massives, illustrant la rapidité avec laquelle une faille logicielle peut se traduire par un risque opérationnel majeur pour les organisations.
+- Suivie sous la référence CVE-2026-41940, cette vulnérabilité permet de contourner les mécanismes d’authentification en place.
+
+## [<b>Cybersécurité</b> | Conseil de l'IA et du numérique](https://www.conseil-ia-numerique.fr/cybersecurite-0)  
+*Source : conseil-ia-numerique.fr | Publication : 2026-05-05*
+
+- En savoir plus Entrez votre adresse e-mail pour recevoir Décibels, la lettre d'information mensuelle du Conseil de l'IA et du numérique.
+- Au programme chaque mois : rubriques de fond, curation de contenus pour prolonger la réflexion, conseils pour augmenter ses pratiques numériques d'un demi-ton, et dates à noter.
+- Vous pouvez vous désabonner à tout moment en un clic.
+- À très vite !.
+
+## [<b>Cybercriminalité</b> : explosion de 389% des <b>ransomware</b> avec l'IA - Les Smart Grids](https://les-smartgrids.fr/cybercriminalite-ia-explose/)  
+*Source : les-smartgrids.fr | Publication : 2026-05-05*
+
+- La cybercriminalité franchit un nouveau cap avec l’intelligence artificielle La cybercriminalité traverse une mutation sans précédent, portée par l’essor fulgurant de l’intelligence artificielle.
+- Le dernier rapport de FortiGuard Labs, publié par Fortinet, l’un des géants mondiaux de la cybersécurité, révèle une explosion spectaculaire : les victimes de ransomware ont bondi de 389% en une seule année, passant d’environ 1 600 cas confirmés à 7 831 victimes recensées mondialement.
+- Cette flambée vertigineuse témoigne de l’émergence d’un écosystème criminel d’une sophistication et d’une interconnexion inédites.
+- Derek Manky, Chief Security Strategist & Global VP Threat Intelligence chez Fortinet FortiGuard Labs, n’hésite pas à qualifier la cybercriminalité d’« une des menaces les plus omniprésentes et coûteuses au monde ».
+
+## [<b>Cybercriminalité</b> : le nombre de victimes de <b>ransomware</b> explose - Enderi](https://enderi.fr/cybercriminalite-nombre-victimes-explose/)  
+*Source : enderi.fr | Publication : 2026-05-05*
+
+- La cybercriminalité franchit un seuil critique en 2025.
+- Le rapport FortiGuard Labs publié le 4 mai 2026 révèle une progression vertigineuse des victimes confirmées de ransomware : une hausse de 389% en douze mois, portant le nombre de cas recensés mondialement de 1 600 à 7 831.
+- Cette explosion trouve sa genèse dans l’émergence d’outils criminels alimentés par l’intelligence artificielle, qui démocratisent et accélèrent considérablement les cyberattaques.
+- Derek Manky, Chief Security Strategist chez Fortinet FortiGuard Labs, souligne que « la cybercriminalité s’impose comme l’une des menaces les plus omniprésentes et coûteuses au monde«.
+
+## [PARIS : SantExpo 2026 - Nexpublica dévoile ses solutions numériques pour les urgences ...](https://presseagence.fr/paris-santexpo-2026-nexpublica-devoile-ses-solutions-numeriques-pour-les-urgences-la-pmi-et-la-cybersecurite/)  
+*Source : presseagence.fr | Publication : 2026-05-05*
+
+- PARIS : SantExpo 2026 – Nexpublica dévoile ses soluti… Partager : PARIS : SantExpo 2026 – Nexpublica dévoile ses solutions numériques pour les urgences, la PMI et la cybersécurité Nexpublica présentera à SantExpo 2026 ses logiciels pour la santé, de la régulation des urgences SAMU à la gestion sécurisée des identités.
+- L’éditeur de logiciels Nexpublica, acteur majeur du secteur public et parapublic, annonce sa participation au salon SantExpo 2026, qui se tiendra du 19 au 21 mai à Paris Expo, Porte de Versailles.
+- Cet événement, rendez-vous incontournable des professionnels de la santé, sera l’occasion pour l’entreprise de présenter sur son stand (M74, Hall 1) trois de ses expertises phares conçues pour répondre aux défis opérationnels et sécuritaires des établissements de santé.
+- Avec un chiffre d’affaires de 160 millions d’euros en 2024 et plus de 4 000 organismes publics clients, Nexpublica entend réaffirmer son engagement au service du secteur médico-social.
+
+## [Jusqu'à 70 millions de sites concernés par une faille cPanel | ICTjournal](https://www.ictjournal.ch/news/2026-05-05/jusqua-70-millions-de-sites-concernes-par-une-faille-cpanel)  
+*Source : ictjournal.ch | Publication : 2026-05-05*
+
+- Jusqu’à 70 millions de sites concernés par une faille cPanel Une faille de sécurité majeure dans le logiciel serveur cPanel sert de porte d’entrée à des cybercriminels.
+- Ceux-ci exploitent déjà la vulnérabilité pour chiffrer des données et exiger une rançon.
+- Les exploitants de serveurs web sont appelés à appliquer immédiatement des correctifs d’urgence.
+- Une vulnérabilité affectant les solutions d’administration de serveurs largement répandues «cPanel» et WHM suscite de vives inquiétudes dans le secteur de la cybersécurité.
+
+## [Près de la moitié des professionnels de la <b>cybersécurité</b> souhaitent démissionner : voici pourquoi](https://www.zdnet.fr/actualites/pres-de-la-moitie-des-professionnels-de-la-cybersecurite-souhaitent-demissionner-voici-pourquoi-494532.htm)  
+*Source : zdnet.fr | Publication : 2026-05-05*
+
+- Points clés à retenir sur les emplois dans la cybersécurité Il existe un décalage important entre la demande et la rémunération dans le secteur de la cybersécurité.
+- - La pression au travail ne devrait cesser de s'accentuer en raison de l'utilisation de l'IA.
+- - Les professionnels de la sécurité devraient se concentrer sur la stratégie et les compétences en communication.
+- - Près de 20 % des organisations ont signalé une attaque majeure au cours des deux dernières années.
+
+## [L'indienne PNB accroît ses dépenses en <b>cybersécurité</b> face aux risques posés par l'IA, dont ...](https://www.zonebourse.com/actualite-bourse/l-indienne-pnb-accroit-ses-depenses-en-cybersecurite-face-aux-risques-poses-par-l-ia-dont-le-modele-ce7f58dcdd8df12d)  
+*Source : zonebourse.com | Publication : 2026-05-05*
+
+- La Punjab National Bank (PNB) intensifie ses investissements dans la cybersécurité et accélère ses acquisitions technologiques pour se prémunir contre la recrudescence des menaces numériques, notamment celles issues des modèles d&#039;IA avancés, a déclaré mardi un haut dirigeant.
+- Le troisième prêteur public du pays par capitalisation boursière a alloué environ 20% de son budget technologique à la cybersécurité, soit entre 7 et 8 milliards de roupies (73,5 à 84 millions de dollars) pour l&#039;exercice en cours, a précisé le directeur exécutif D Surendran lors d&#039;un entretien avec Reuters, ajoutant que cette enveloppe est supérieure de plus de 50% à celle de l&#039;année précédente.
+- &#039;Nous ne souhaitons faire aucun compromis sur ce type de dépenses&#039;, a affirmé M. Surendran, précisant que la banque augmenterait encore ces investissements si nécessaire.
+- L&#039;initiative de la PNB intervient dans un contexte de vigilance accrue des régulateurs face aux risques émergents liés aux modèles d&#039;IA sophistiqués, tels que Mythos d&#039;Anthropic.
+
+## [Atos et CNA renforcent leur collaboration stratégique de long terme en scellant un nouvel ...](https://www.ledevoir.com/communiques-de-presse/977591/atos-cna-renforcent-collaboration-strategique-long-terme-scellant-nouvel-accord-pluriannuel-portant-services-infrastructures)  
+*Source : ledevoir.com | Publication : 2026-05-05*
+
+- Communiqué de presse Atos et CNA renforcent leur collaboration stratégique de long terme en scellant un nouvel accord pluriannuel portant sur des services d'infrastructures Irving, Texas, Etats-Unis – 5 mai 2026 – Atos, un leader mondial de la transformation digitale portée par la puissance de l’intelligence artificielle, annonce aujourd'hui l'extension et l’élargissement de son partenariat stratégique historique avec CNA, l'un des plus grands assureurs américains couvrant les biens et la responsabilité civile des entreprises, pour la fourniture de services de gestion des infrastructures et de cybersécurité.
+- La valeur totale attendue de ce contrat est d’environ 500 millions de dollars sur la durée de l'accord principal et inclut d'éventuelles futures extensions et services supplémentaires.
+- Cet accord marque une étape majeure dans la relation entre CNA et Atos, renforçant près d'une décennie de collaboration fondée sur la confiance, une qualité de service d’excellence et un engagement commun en faveur de la résilience opérationnelle et de l'innovation.
+- Dans le cadre de ce nouvel accord, Atos continuera de fournir, sur l’ensemble du système d’information de CNA, des services d’infrastructure critiques qui incluront les services mainframe, les opérations réseau et middleware, l’environnement numérique de travail, le support aux utilisateurs, la gestion des identités et des accès, la gestion des incidents majeurs et la cybersécurité.
+
+## [Une faille informatique met en danger des millions de sites internet - Siècle Digital](https://siecledigital.fr/2026/05/05/une-faille-informatique-met-en-danger-des-millions-de-sites-internet/)  
+*Source : siecledigital.fr | Publication : 2026-05-05*
+
+- Si vous avez un site web hébergé chez un prestataire classique, il y a de fortes chances que cPanel tourne quelque part en arrière-plan.
+- C’est le tableau de bord que des millions de propriétaires de sites utilisent pour gérer leurs fichiers, leurs mails, leurs bases de données, leurs noms de domaine.
+- L’outil et son compagnon WHM (Web Host Manager) forment la colonne vertébrale invisible d’une bonne partie du web mondial.
+- Cette colonne vient de se fissurer.
