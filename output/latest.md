@@ -1,155 +1,142 @@
-# Résumés – 2026-05-05
+# Résumés – 2026-05-06
 
 
-## [Aujourd'hui, ce qui nous menace, c'est un gamin de 15 ans en Vendée - Projet Arcadie](https://projetarcadie.com/bothorel-alarme-cybersecurite/)  
-*Source : projetarcadie.com | Publication : 2026-05-05*
+## [Forum Bourse CAC 40 - 06/05/2026 23:44:34 - <b>Cybersécurité</b> - Boursorama](https://www.boursorama.com/bourse/forum/1rPCAC/detail/467956230/)  
+*Source : boursorama.com | Publication : 2026-05-06*
 
-- « Aujourd’hui, ce qui nous menace, c’est un gamin de 15 ans en Vendée » Éric Bothorel tire la sonnette d’alarme sur la cybersécurité Ce mardi 5 mai 2026, le député apparenté EPR Éric Bothorel, grand connaisseur des sujets liés au numérique a interrogé la secrétaire d’état au numérique, Anne Le Henanff sur la prise en compte de la sécurité informatique par le gouvernement.
-- En creux, s’il salue les avancées annoncées par le Premier ministre, il pointe un budget à la baisse, le retard considérable dans le déploiement du filtre anti-arnaque et l’absence d’inscription à l’ordre du jour du projet de loi résilience, qui doit transposer la directive NIS2.
-- Un média libre grâce à ses lecteurs Nous avons fait le choix d’un modèle sans paywall, ni publicité.
-- Si l’objectif mensuel est atteint, le média reste entièrement accessible à tous.
+- Forum.
+- ouverture 8 134,95 clôture veille 8 062,31 + haut 8 344,89 + bas 8 131,53 +haut 1er janvier 8 642,23 +bas 1er janvier 7 505,27 volume.
+- dernier échange 06.05.26 / 18:05:02 + Alerte Connectez-vous pour créer une alerte sur le cours de la valeur CAC 40.
+- + Liste Connectez-vous pour ajouter CAC 40 à vos listes.
 
-## [Le principal frein à l'IA ? Le manque de compétences, selon les DSI - CIO-online](https://www.cio-online.com/actualites/lire-le-principal-frein-a-l-ia-le-manque-de-competences-selon-les-dsi-17010.html)  
-*Source : cio-online.com | Publication : 2026-05-05*
+## [Fortinet relève ses objectifs annuels grâce à la forte demande en <b>cybersécurité</b>](https://www.tradingsat.com/actualites/informations-societes/fortinet-releve-ses-objectifs-annuels-grace-a-la-forte-demande-en-cybersecurite-1162313.html)  
+*Source : tradingsat.com | Publication : 2026-05-06*
 
-- Le principal frein à l'IA ?.
-- Le manque de compétences, selon les DSI De nombreux DSI considèrent que le manque d'expertise interne a été un obstacle majeur à leurs projets d'IA au cours de l'année écoulée.
-- PublicitéLe manque d'expertise freine les initiatives en IA dans de nombreuses organisations.
-- La connaissance superficielle de cette technologie empêche les professionnels de concrétiser pleinement le potentiel de l'IA.
+- (Zonebourse.com) - Fortinet a relevé ses prévisions de chiffre d'affaires et de bénéfices pour l'ensemble de l'année, porté par une demande soutenue pour les solutions de cybersécurité.
+- L'annonce a été saluée par les marchés, avec un bond de près de 15% du titre après la clôture.
+- Le secteur bénéficie de la généralisation du travail hybride et de l'essor de l'intelligence artificielle, deux tendances qui augmentent les risques de cyberattaques et renforcent les besoins des entreprises en matière de protection numérique.
+- Les analystes observent également une accélération de la consolidation du marché de la cybersécurité, favorable à des groupes comme Fortinet.
 
-## [Tunisair lance le service 'Hajj sans bagage' - Mosaique FM](https://www.mosaiquefm.net/fr/national-tunisie/1515541/tunisair-lance-le-service-hajj-sans-bagage)  
-*Source : mosaiquefm.net | Publication : 2026-05-05*
+## [Mailinblack signe avec Actual Systèmes pour la distribution de sa suite U-Cyber 360](https://itrnews.com/articles/209695/mailinblack-signe-avec-actual-systemes-pour-la-distribution-de-sa-suite-u-cyber-3600.html)  
+*Source : itrnews.com | Publication : 2026-05-06*
 
-- Healthcare IT Forum : IA et cybersécurité au centre des débats · National · Healthcare IT Forum : IA et cybersécurité au centre des ... 2026/05/05 14.
+- Veuillez activer Javascript.
 
-## [En <b>cybersécurité</b>, la fatigue des experts devient un risque d'affaires - Mon Carnet](https://moncarnet.com/2026/05/05/en-cybersecurite-la-fatigue-des-experts-devient-un-risque-daffaires/)  
-*Source : moncarnet.com | Publication : 2026-05-05*
+## [Dossier santé numérique : « On n'est pas plus niaiseux qu'ailleurs au Québec](https://ici.radio-canada.ca/nouvelle/2251554/dossier-sante-numerique-cybersecurite-ministre)  
+*Source : ici.radio-canada.ca | Publication : 2026-05-06*
 
-- Les cyberattaques se multiplient, l’intelligence artificielle ajoute de nouveaux risques et les entreprises demandent toujours plus à leurs équipes de sécurité.
-- Mais selon le rapport Tech Talent & Salary Report 2026, une partie importante des professionnels de la cybersécurité estime ne pas être reconnue à la hauteur de la pression qu’elle subit.
-- Près d’un spécialiste sur deux envisagerait même de changer d’emploi au cours des 12 prochains mois.
-- Le paradoxe est connu dans les services de sécurité informatique : quand tout va bien, leur travail reste invisible.
+- Dossier santé numérique : « On n’est pas plus niaiseux qu’ailleurs au Québec » La ministre de la Cybersécurité assure que le Dossier santé numérique va bien fonctionner samedi.
+- La ministre de la Cybersécurité et du Numérique, France-Élaine Duranceau (Photo d'archives) Photo : Radio-Canada / Sylvain Roy Roussel Le gouvernement du Québec maintient le cap sur le lancement du Dossier santé numérique (DSN) prévu le 9 mai, malgré le malaise exprimé par des responsables de la cybersécurité du projet.
+- Une enquête de Radio-Canada a ravivé les craintes des partis d'opposition.
+- Six sources impliquées dans la préparation informatique du projet ont fait part de retards dans les mesures pour mitiger les risques de cybersécurité.
 
-## [L'utilisation de l'IA dans les forums de <b>cybercriminalité</b> se concentre sur les abus de bas niveau](https://www.binance.com/fr/square/post/319971023883058)  
-*Source : binance.com | Publication : 2026-05-05*
+## [Fortinet revoit à la hausse ses prévisions de chiffre d'affaires annuel, son action s'envole](https://www.boursorama.com/bourse/actualites-amp/fortinet-revoit-a-la-hausse-ses-previsions-de-chiffre-d-affaires-annuel-son-action-s-envole-57c196d584681cd3cca9722eb1a1f3cc)  
+*Source : boursorama.com | Publication : 2026-05-06*
 
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- Fortinet revoit ses prévisions annuelles à la hausse alors que la demande en matière de cybersécurité reste soutenue ; le cours de l'action s'envole information fournie par Reuters 06/05/2026 à 23:15 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajout d'un commentaire du directeur général au paragraphe 3, d'un contexte au paragraphe 4) 6 mai - Fortinet FTNT.O a relevé mercredi ses prévisions pour l'ensemble de l'année, signe d'une forte demande en outils de cybersécurité alors que les entreprises accordent la priorité à la protection contre des menaces sophistiquées, ce qui a fait bondir son action de 17 % en séance prolongée.
+- Les dépenses en cybersécurité sont restées soutenues, alimentées par les menaces émanant d'acteurs étatiques et par des attaques par ransomware de plus en plus sophistiquées, ce qui profite à des entreprises telles que Fortinet.
+- La société a constaté « une demande généralisée sur l'ensemble de notre portefeuille et de nos zones géographiques », a déclaré le directeur général Ken Xie, soulignant un « environnement de menaces de plus en plus complexe, exacerbé par l'IA ».
+- La société de cybersécurité F5 FFIV.O a relevé d' ses prévisions de croissance du chiffre d'affaires annuel, tandis que Check Point Software Technologies CHKP.O a annoncé fin avril une hausse de 13 % de son bénéfice trimestriel , supérieure aux attentes.
 
-## [<b>Cybersécurité</b> : La France, cible de choix des hackeurs | Le Canard enchaîné](https://www.lecanardenchaine.fr/technologie-sciences/53802-la-france-cible-de-choix-des-hackeurs)  
-*Source : lecanardenchaine.fr | Publication : 2026-05-05*
+## [Votre PC redémarre deux fois après la dernière mise à jour Windows 11 ? Microsoft assure ...](https://www.clubic.com/actualite-611980-votre-pc-redemarre-deux-fois-apres-la-derniere-mise-a-jour-windows-11-microsoft-assure-que-ce-n-est-pas-un-bug.html)  
+*Source : clubic.com | Publication : 2026-05-06*
 
-- Par Camille Eider Le récent piratage de l'Agence nationale des titres sécurisés illustre la faiblesse de l'Hexagone à se protéger face aux cyberpirates.
-- Entre le manque d'investissement de l'Etat et le faible intérêt des Français pour la protection de leurs données confidentielles, ça ne leur tient pas hackeur ?.
-- L’aveu est de taille.
-- Il a été formulé par le Premier ministre, Sébastien Lecornu, le 30 avril : « Depuis le début de l’année, la France subit en moyenne trois vols de données numériques par jour.
+- Deux redémarrages pour le prix d’un après une mise à jour Windows 11, et déjà l’envie de vérifier l’état de ses sauvegardes.
+- Microsoft assure pourtant que ce comportement peut être normal, puisqu’il accompagne le renouvellement progressif des certificats Secure Boot, dont les anciennes versions doivent expirer dans quelques semaines.
+- Un redémarrage Windows Update après le téléchargement d’une mise à jour, c’est la routine.
+- Un deuxième dans la foulée, c’est déjà le moment où l’on commence à fixer son écran d’un air nettement moins détendu.
 
-## [Le hacker éthique et patron de BZHunt à Brest, Brice Augras, est décédé | Le Télégramme](https://www.letelegramme.fr/finistere/brest-29200/le-hacker-ethique-et-patron-de-bzhunt-a-brest-brice-augras-est-decede-7038871.php)  
-*Source : letelegramme.fr | Publication : 2026-05-05*
+## [Dossier santé numérique : des mesures de <b>cybersécurité</b> retardées après le lancement](https://www.youtube.com/watch?v=95LJ-3Mbcv8)  
+*Source : youtube.com | Publication : 2026-05-06*
 
-- Brice Augras, figure brestoise emblématique de la cybersécurité et fondateur de BZHunt, est décédé à l'âge de 35 ans.
-- Champion du monde de hacking.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Feuille de route cyber de l'État 2026-2027 : renforcer la résilience numérique](https://www.defense.gouv.fr/comcyber/actualites/feuille-route-cyber-letat-2026-2027-renforcer-resilience-numerique)  
-*Source : defense.gouv.fr | Publication : 2026-05-05*
+## [Épisode du mercredi 6 mai 2026 | Le téléjournal avec Patrice Roy - Radio-Canada](https://ici.radio-canada.ca/tele/le-telejournal-18h/site/episodes/1169114/episode-du-6-mai-2026)  
+*Source : ici.radio-canada.ca | Publication : 2026-05-06*
 
-- Feuille de route cyber de l’État 2026-2027 : renforcer la résilience numérique ace à l’augmentation de la menace cyber, l’Etat a sorti sa feuille de route des efforts prioritaires en matière de sécurité numérique pour 2026-2027 en lien avec la directive européenne NIS 2, qui étend son périmètre aux administrations publiques et l’urgence de préparer la transition vers la cryptographie post-quantique, face à la menace future des ordinateurs quantiques.
-- Validée par le Comité stratégique de la sécurité numérique (COSINUS), elle répond à l’urgence de renforcer la résilience face aux cybermenaces croissantes et à la transposition de la directive européenne NIS 2.
-- Une feuille de route articulée autour de 10 axes Cette feuille de route s’articule autour de dix axes majeurs, allant du renforcement de la gouvernance à l’homologation prioritaire des systèmes d’information à enjeux d’ici fin 2026.
-- La sécurisation des prestataires, le maintien en condition de sécurité des infrastructures, et la protection des services exposés sur Internet, comme le DNS (Domain Name System) et la messagerie, figurent également parmi les priorités.
+- Nous et un nombre restreint de nos partenaires publicitaires utilisons des témoins pour recueillir certaines de vos données et les utilisons afin d’améliorer votre expérience et de vous présenter des contenus et des publicités personnalisés.
+- Si vous n’êtes pas à l’aise avec l’utilisation de ces informations, veuillez revoir les paramètres de confidentialité de votre appareil et de votre navigateur (Nouvelle fenêtre) avant de poursuivre votre visite.En savoir plus (Nouvelle fenêtre) Vous naviguez sur le site de Radio-Canada Épisode du mercredi 6 mai 2026Épisode du mercredi 6 mai 2026 Cette vidéo n’est pas disponible.
+- Partager 5 éléments Épisode6 mai 2026 Épisode5 mai 2026 Épisode4 mai 2026 Épisode1 mai 2026 Épisode30 avril 2026 Radio-Canada a appris que des failles de cybersécurité ne seront pas comblées lors du lancement du Dossier santé numérique, dans trois jours (9 mai 2026).
+- Alors que des responsables de la sécurité du projet s'en inquiètent, Santé Québec tente de se faire rassurante.
 
-## [Atos élargit sa collaboration avec l'assureur CNA, un contrat de 500 millions de dollars à la clef](https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/atos-elargit-sa-collaboration-avec-lassureur-cna-un-contrat-de-500-millions-de-dollars-a-la-clef-2230138)  
-*Source : investir.lesechos.fr | Publication : 2026-05-05*
+## [Jusqu'à 110.000 euros par an : voici les 5 métiers qui recrutent en 2026 et qui permettent de ...](https://www.cnews.fr/france/2026-05-06/jusqua-110000-euros-par-voici-les-5-metiers-qui-recrutent-en-2026-et-qui)  
+*Source : cnews.fr | Publication : 2026-05-06*
 
-- cybersécurité.
-- "La valeur to ... cybersécurité.
-- "La valeur totale attendue de ce contrat est d.
+- Ces dernières années, certains domaines comme la cybersécurité ou l’intelligence artificielle ont explosé.
+- De nombreux métiers sont désormais très demandés et peuvent rapporter gros.
+- Tour d'horizon.
+- Et s'il était temps de repenser sa carrière ?.
 
-## [Venez vous informer sur les formations et métiers de la cyber - Région Bretagne](https://www.bretagne.bzh/actualites/venez-vous-informer-sur-les-formations-et-metiers-de-la-cyber/amp/)  
-*Source : bretagne.bzh | Publication : 2026-05-05*
+## [Actions Logiciels : Morgan Stanley évalue les redressements en <b>Cybersécurité</b>](https://fr.investing.com/news/stock-market-news/actions-logiciels--morgan-stanley-evalue-les-redressements-en-cybersecurite-93CH-3399761)  
+*Source : fr.investing.com | Publication : 2026-05-06*
 
-- Venez vous informer sur les formations et métiers de la cyber !.
-- Cette actualité a retenu votre attention ?.
-- Créer votre compte Pour configurer votre espace et ajouter à Mes épingles, connectez-vous ou créez votre compte.
-- 5 mai 2026 2 minutes de lecture Cette actualité a retenu votre attention ?.
+- Investing.com -- Morgan Stanley a évalué les sociétés américaines de logiciels dans le secteur de la Cybersécurité , mettant en avant des.
 
-## [cPanel : une vulnérabilité activement exploitée - LeMagIT](https://www.lemagit.fr/actualites/366642565/cPanel-une-vulnerabilite-activement-exploitee)  
-*Source : lemagit.fr | Publication : 2026-05-05*
+## [« Soit on perd, soit on perd » : avec Mythos, les entreprises françaises redoutent un « déluge »](https://www.lesechos.fr/tech-medias/hightech/soit-on-perd-soit-on-perd-avec-mythos-les-entreprises-francaises-face-au-risque-dun-deluge-de-cyberattaques-2230383)  
+*Source : lesechos.fr | Publication : 2026-05-06*
 
-- cPanel : une vulnérabilité activement exploitée La vulnérabilité CVE-2026-41940, dévoilée fin avril, fait l’objet d’importants efforts d’exploitation, y compris pour le déploiement d’un rançongiciel.
-- Plusieurs milliers auraient déjà été compromis.
-- Une vulnérabilité critique dans cPanel/WHM a récemment servi de vecteur à des attaques massives, illustrant la rapidité avec laquelle une faille logicielle peut se traduire par un risque opérationnel majeur pour les organisations.
-- Suivie sous la référence CVE-2026-41940, cette vulnérabilité permet de contourner les mécanismes d’authentification en place.
+- Une note du Campus Cyber alerte sur les risques majeurs de cyberattaques liés à l'IA Mythos d'Anthropic et à ses dérivés éventuels.
 
-## [<b>Cybersécurité</b> | Conseil de l'IA et du numérique](https://www.conseil-ia-numerique.fr/cybersecurite-0)  
-*Source : conseil-ia-numerique.fr | Publication : 2026-05-05*
+## [<b>Ransomware</b> : quand il cache (encore une fois) autre chose que de la cyber-extorsion](https://www.lemagit.fr/actualites/366642855/Ransomware-quand-il-cache-encore-une-fois-autre-chose-que-de-la-cyber-extorsion)  
+*Source : lemagit.fr | Publication : 2026-05-06*
 
-- En savoir plus Entrez votre adresse e-mail pour recevoir Décibels, la lettre d'information mensuelle du Conseil de l'IA et du numérique.
-- Au programme chaque mois : rubriques de fond, curation de contenus pour prolonger la réflexion, conseils pour augmenter ses pratiques numériques d'un demi-ton, et dates à noter.
-- Vous pouvez vous désabonner à tout moment en un clic.
-- À très vite !.
+- robsonphoto - stock.adobe.com Ransomware : quand il cache (encore une fois) autre chose que de la cyberextorsion Selon Rapid7, l’enseigne de ransomware Chaos a été récemment utilisée par l’acteur malveillant étatique MuddyWater pour maquiller ses traces, dans le cadre d’une campagne à fort composant d’ingénierie sociale.
+- L’adoption de modèles Ransomware-as-a-Service par des entités étatiques représente une évolution tactique significative dans le paysage des menaces.
+- Ces acteurs exploitent la notoriété de la cybercriminalité financière, pour dissimuler des objectifs primaires d’espionnage et d’exfiltration de données.
+- L’analyse d’un incident récent démontre comment cette stratégie permet une « fausse bannière » pour masquer des opérations de renseignement.
 
-## [<b>Cybercriminalité</b> : explosion de 389% des <b>ransomware</b> avec l'IA - Les Smart Grids](https://les-smartgrids.fr/cybercriminalite-ia-explose/)  
-*Source : les-smartgrids.fr | Publication : 2026-05-05*
+## [<b>Cybersécurité</b> : l'UE pourrait payer 368 milliards d'euros pour réduire sa dépendance à la Chine](https://www.lerevenu.com/diversifier-placements/placements-divers/cybersecurite-l-ue-pourrait-payer-368-milliards-d-euros-pour-reduire-sa-dependance-a-la-chine/)  
+*Source : lerevenu.com | Publication : 2026-05-06*
 
-- La cybercriminalité franchit un nouveau cap avec l’intelligence artificielle La cybercriminalité traverse une mutation sans précédent, portée par l’essor fulgurant de l’intelligence artificielle.
-- Le dernier rapport de FortiGuard Labs, publié par Fortinet, l’un des géants mondiaux de la cybersécurité, révèle une explosion spectaculaire : les victimes de ransomware ont bondi de 389% en une seule année, passant d’environ 1 600 cas confirmés à 7 831 victimes recensées mondialement.
-- Cette flambée vertigineuse témoigne de l’émergence d’un écosystème criminel d’une sophistication et d’une interconnexion inédites.
-- Derek Manky, Chief Security Strategist & Global VP Threat Intelligence chez Fortinet FortiGuard Labs, n’hésite pas à qualifier la cybercriminalité d’« une des menaces les plus omniprésentes et coûteuses au monde ».
+- Cette orientation vise à renforcer la protection des infrastructures stratégiques européennes face aux risques de cyberespionnage et de vulnérabilité numérique.
+- Mais cette transition pourrait avoir un coût économique gigantesque pour les États membres et les entreprises européennes.
+- Cybersécurité : l’UE pourrait payer 368 milliards d’euros pour réduire sa dépendance à la Chine L’Union européenne accélère sa stratégie de cybersécurité en envisageant de réduire fortement sa dépendance aux équipements technologiques chinois dans plusieurs secteurs critiques.
+- - Votre newsletter financière incontournable Articles similaires 0,5% de frais de courtage, est-ce un tarif compétitif ?.
 
-## [<b>Cybercriminalité</b> : le nombre de victimes de <b>ransomware</b> explose - Enderi](https://enderi.fr/cybercriminalite-nombre-victimes-explose/)  
-*Source : enderi.fr | Publication : 2026-05-05*
+## [UE-Le projet visant à se passer des technologies chinoises coûterait plus de €350 mds au ...](https://www.boursorama.com/bourse/actualites-amp/ue-le-projet-visant-a-se-passer-des-technologies-chinoises-couterait-plus-de-350-mds-au-bloc-etude-chinoise-ffdc710cee21373140a2a423d77355b3)  
+*Source : boursorama.com | Publication : 2026-05-06*
 
-- La cybercriminalité franchit un seuil critique en 2025.
-- Le rapport FortiGuard Labs publié le 4 mai 2026 révèle une progression vertigineuse des victimes confirmées de ransomware : une hausse de 389% en douze mois, portant le nombre de cas recensés mondialement de 1 600 à 7 831.
-- Cette explosion trouve sa genèse dans l’émergence d’outils criminels alimentés par l’intelligence artificielle, qui démocratisent et accélèrent considérablement les cyberattaques.
-- Derek Manky, Chief Security Strategist chez Fortinet FortiGuard Labs, souligne que « la cybercriminalité s’impose comme l’une des menaces les plus omniprésentes et coûteuses au monde«.
+- UE-Le projet visant à se passer des technologies chinoises coûterait plus de €350 mds au bloc-étude chinoise information fournie par Reuters 06/05/2026 à 14:42 Les propositions de l'Union européenne (UE) visant à renforcer la cybersécurité en supprimant progressivement les équipements provenant de fournisseurs chinois risquent de coûter plus de 350 milliards d'euros au bloc au cours des cinq prochaines années, a déclaré mercredi la Chambre de commerce de Chine auprès de l'UE (CCCEU).
+- Une étude réalisée pour le CCCEU par le cabinet d'audit et de conseil KPMG indique que le remplacement forcé des fournisseurs chinois dans 18 secteurs critiques coûterait au bloc européen 367,8 milliards d’euros entre 2026 et 2030.
+- D'après le rapport, l’UE devrait remplacer du matériel, déprécier des actifs et faire face à une baisse d’efficacité et à un retard dans la numérisation.
+- Deux des secteurs les plus touchés seraient l'énergie et les télécommunications, piliers des transitions numérique et verte prévues par l'UE.
 
-## [PARIS : SantExpo 2026 - Nexpublica dévoile ses solutions numériques pour les urgences ...](https://presseagence.fr/paris-santexpo-2026-nexpublica-devoile-ses-solutions-numeriques-pour-les-urgences-la-pmi-et-la-cybersecurite/)  
-*Source : presseagence.fr | Publication : 2026-05-05*
+## [10ème édition des Trophées de l'Innovation et de la Transformation Numérique](https://www.solutions-numeriques.com/10eme-edition-des-trophees-de-linnovation-et-de-la-transformation-numerique/)  
+*Source : solutions-numeriques.com | Publication : 2026-05-06*
 
-- PARIS : SantExpo 2026 – Nexpublica dévoile ses soluti… Partager : PARIS : SantExpo 2026 – Nexpublica dévoile ses solutions numériques pour les urgences, la PMI et la cybersécurité Nexpublica présentera à SantExpo 2026 ses logiciels pour la santé, de la régulation des urgences SAMU à la gestion sécurisée des identités.
-- L’éditeur de logiciels Nexpublica, acteur majeur du secteur public et parapublic, annonce sa participation au salon SantExpo 2026, qui se tiendra du 19 au 21 mai à Paris Expo, Porte de Versailles.
-- Cet événement, rendez-vous incontournable des professionnels de la santé, sera l’occasion pour l’entreprise de présenter sur son stand (M74, Hall 1) trois de ses expertises phares conçues pour répondre aux défis opérationnels et sécuritaires des établissements de santé.
-- Avec un chiffre d’affaires de 160 millions d’euros en 2024 et plus de 4 000 organismes publics clients, Nexpublica entend réaffirmer son engagement au service du secteur médico-social.
+- Save the date : 10 juin 2026 Le 10 juin 2026, la rédaction de Solutions Numériques & Cybersécurité organise la 10ème édition de ses Trophées.
+- L’objectif est simple : mettre en valeur les projets IT et Cyber les plus inspirants de l’année.
+- Participez à l’événement Rendez-vous le 10 juin au siège de la SMABTP (Paris 15e).
+- Cette année, nous avons l’opportunité d’organiser notre événement dans le cadre prestigieux de la Grande Soirée d’Été de la Fédération Française de la Cybersécurité.
 
-## [Jusqu'à 70 millions de sites concernés par une faille cPanel | ICTjournal](https://www.ictjournal.ch/news/2026-05-05/jusqua-70-millions-de-sites-concernes-par-une-faille-cpanel)  
-*Source : ictjournal.ch | Publication : 2026-05-05*
+## [Télécoms: selon les entreprises chinoises, leur interdiction coûterait une fortune à l'UE](https://fr.tradingview.com/news/afp:ce9cb16e391fc:0/)  
+*Source : fr.tradingview.com | Publication : 2026-05-06*
 
-- Jusqu’à 70 millions de sites concernés par une faille cPanel Une faille de sécurité majeure dans le logiciel serveur cPanel sert de porte d’entrée à des cybercriminels.
-- Ceux-ci exploitent déjà la vulnérabilité pour chiffrer des données et exiger une rançon.
-- Les exploitants de serveurs web sont appelés à appliquer immédiatement des correctifs d’urgence.
-- Une vulnérabilité affectant les solutions d’administration de serveurs largement répandues «cPanel» et WHM suscite de vives inquiétudes dans le secteur de la cybersécurité.
+- Télécoms: selon les entreprises chinoises, leur interdiction coûterait une fortune à l'UE Bannir les équipementiers en télécoms chinois du marché européen, comme l'a proposé Bruxelles, coûterait aux 27 des centaines de milliards d'euros d'ici à 2030, selon une étude publiée mercredi par la Chambre de commerce chinoise auprès de l'UE.
+- Cette proposition, si elle était mise en oeuvre, causerait "367,8 milliards d'euros de pertes économiques cumulées sur cinq ans dans les Etats membres", précise cette étude, réalisée par KPMG pour le compte de la Chambre de commerce, qui défend les intérêts des entreprises chinoises en Europe.
+- Ce chiffrage astronomique correspond aux surcoûts estimés pour l'ensemble des secteurs économiques, au-delà des seuls opérateurs de télécom, dont le remplacement des équipements déjà achetés par des solutions plus chères et potentiellement moins efficaces, mais aussi les frais administratifs et juridiques, et les retards qu'entraînerait cette transition forcée.
+- L'Allemagne aurait le plus à perdre dans cette affaire, avec une facture estimée à plus de 170 milliards d'euros, soit près de la moitié du montant total, devant la France (46,3 milliards) et l'Italie (36,5 milliards).
 
-## [Près de la moitié des professionnels de la <b>cybersécurité</b> souhaitent démissionner : voici pourquoi](https://www.zdnet.fr/actualites/pres-de-la-moitie-des-professionnels-de-la-cybersecurite-souhaitent-demissionner-voici-pourquoi-494532.htm)  
-*Source : zdnet.fr | Publication : 2026-05-05*
+## [« J'ai signé pour un BTS, pas pour une formation non reconnue » : leur école ferme ... - Le Parisien](https://www.leparisien.fr/etudiant/etudes/bts/jai-signe-pour-un-bts-pas-pour-une-formation-non-reconnue-apres-une-erreur-de-leur-ecole-ces-etudiants-sont-orientes-vers-un-bachelor-WWM7KAWPVRFCDCTLVXI5NACEQE.php)  
+*Source : leparisien.fr | Publication : 2026-05-06*
 
-- Points clés à retenir sur les emplois dans la cybersécurité Il existe un décalage important entre la demande et la rémunération dans le secteur de la cybersécurité.
-- - La pression au travail ne devrait cesser de s'accentuer en raison de l'utilisation de l'IA.
-- - Les professionnels de la sécurité devraient se concentrer sur la stratégie et les compétences en communication.
-- - Près de 20 % des organisations ont signalé une attaque majeure au cours des deux dernières années.
+- BTS cybersécurité : des étudiants parisiens découvrent que leur école ... « On n'a pas été inscrits au BTS », se désole le jeune homme qui visait un.
 
-## [L'indienne PNB accroît ses dépenses en <b>cybersécurité</b> face aux risques posés par l'IA, dont ...](https://www.zonebourse.com/actualite-bourse/l-indienne-pnb-accroit-ses-depenses-en-cybersecurite-face-aux-risques-poses-par-l-ia-dont-le-modele-ce7f58dcdd8df12d)  
-*Source : zonebourse.com | Publication : 2026-05-05*
+## [KnowBe4 se lie avec Secure Code Warrior - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64813-knowbe4-se-lie-avec-secure-code-warrior.html)  
+*Source : linformaticien.com | Publication : 2026-05-06*
 
-- La Punjab National Bank (PNB) intensifie ses investissements dans la cybersécurité et accélère ses acquisitions technologiques pour se prémunir contre la recrudescence des menaces numériques, notamment celles issues des modèles d&#039;IA avancés, a déclaré mardi un haut dirigeant.
-- Le troisième prêteur public du pays par capitalisation boursière a alloué environ 20% de son budget technologique à la cybersécurité, soit entre 7 et 8 milliards de roupies (73,5 à 84 millions de dollars) pour l&#039;exercice en cours, a précisé le directeur exécutif D Surendran lors d&#039;un entretien avec Reuters, ajoutant que cette enveloppe est supérieure de plus de 50% à celle de l&#039;année précédente.
-- &#039;Nous ne souhaitons faire aucun compromis sur ce type de dépenses&#039;, a affirmé M. Surendran, précisant que la banque augmenterait encore ces investissements si nécessaire.
-- L&#039;initiative de la PNB intervient dans un contexte de vigilance accrue des régulateurs face aux risques émergents liés aux modèles d&#039;IA sophistiqués, tels que Mythos d&#039;Anthropic.
+- L'éditeur de solutions de sensibilisation à la cybersécurité a désormais un partenariat avec Secure Code Warrior pour proposer des contenus dédiés.
 
-## [Atos et CNA renforcent leur collaboration stratégique de long terme en scellant un nouvel ...](https://www.ledevoir.com/communiques-de-presse/977591/atos-cna-renforcent-collaboration-strategique-long-terme-scellant-nouvel-accord-pluriannuel-portant-services-infrastructures)  
-*Source : ledevoir.com | Publication : 2026-05-05*
+## [Orange Cyberdefense devient autorité de référence pour l'identification des vulnérabilités](https://www.alliancy.fr/orange-cyberdefense-devient-autorite-de-reference-pour-lidentification-des-vulnerabilites-8ed2ecf6-a754-45af-a34c-5bb57ac7242d)  
+*Source : alliancy.fr | Publication : 2026-05-06*
 
-- Communiqué de presse Atos et CNA renforcent leur collaboration stratégique de long terme en scellant un nouvel accord pluriannuel portant sur des services d'infrastructures Irving, Texas, Etats-Unis – 5 mai 2026 – Atos, un leader mondial de la transformation digitale portée par la puissance de l’intelligence artificielle, annonce aujourd'hui l'extension et l’élargissement de son partenariat stratégique historique avec CNA, l'un des plus grands assureurs américains couvrant les biens et la responsabilité civile des entreprises, pour la fourniture de services de gestion des infrastructures et de cybersécurité.
-- La valeur totale attendue de ce contrat est d’environ 500 millions de dollars sur la durée de l'accord principal et inclut d'éventuelles futures extensions et services supplémentaires.
-- Cet accord marque une étape majeure dans la relation entre CNA et Atos, renforçant près d'une décennie de collaboration fondée sur la confiance, une qualité de service d’excellence et un engagement commun en faveur de la résilience opérationnelle et de l'innovation.
-- Dans le cadre de ce nouvel accord, Atos continuera de fournir, sur l’ensemble du système d’information de CNA, des services d’infrastructure critiques qui incluront les services mainframe, les opérations réseau et middleware, l’environnement numérique de travail, le support aux utilisateurs, la gestion des identités et des accès, la gestion des incidents majeurs et la cybersécurité.
+- Orange Cyberdefense devient autorité de référence pour l’identification des vulnérabilités Orange Cyberdefense obtient le statut CNA, lui permettant d’identifier et publier des vulnérabilités de cybersécurité au niveau international.
+- Publié à 10h24 Lecture 2 min.
+- Orange Cyberdefense annonce avoir obtenu le statut d’Autorité de numérotation CVE (CNA) dans le cadre du programme CVE.
+- Cette reconnaissance lui permet désormais d’attribuer directement des identifiants CVE (Common Vulnerabilities and Exposures) aux vulnérabilités affectant ses propres produits ainsi que ceux de tiers, qu’elles soient détectées en interne ou signalées par des chercheurs externes.
 
-## [Une faille informatique met en danger des millions de sites internet - Siècle Digital](https://siecledigital.fr/2026/05/05/une-faille-informatique-met-en-danger-des-millions-de-sites-internet/)  
-*Source : siecledigital.fr | Publication : 2026-05-05*
+## [Le Gouvernement annonce plusieurs mesures d'urgence pour la <b>cybersécurité</b> de l'État](https://www.hospimedia.fr/actualite/articles/20260506-e-sante-le-gouvernement-annonce-plusieurs-mesures-d)  
+*Source : hospimedia.fr | Publication : 2026-05-06*
 
-- Si vous avez un site web hébergé chez un prestataire classique, il y a de fortes chances que cPanel tourne quelque part en arrière-plan.
-- C’est le tableau de bord que des millions de propriétaires de sites utilisent pour gérer leurs fichiers, leurs mails, leurs bases de données, leurs noms de domaine.
-- L’outil et son compagnon WHM (Web Host Manager) forment la colonne vertébrale invisible d’une bonne partie du web mondial.
-- Cette colonne vient de se fissurer.
+- 16h02 Article Près de 80% des métiers du prendre soin étaient occupés par des femmes à Lyon en 2022 Par Manuel Magrez aujourd'hui à 16h02 C'est depuis les locaux de l'Agence nationale des titres sécurisés, le 30 avril, que le Premier ministre Sébastien Lecornu a annoncé la mobilisation de 200 millions d'euros (M€) spécifiquement dédiés à la cybersécurité des institutions publiques.
+- Le lieu de l'annonce n'est en….
