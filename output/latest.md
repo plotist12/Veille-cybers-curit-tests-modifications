@@ -1,142 +1,140 @@
-# Résumés – 2026-05-06
+# Résumés – 2026-05-07
 
 
-## [Forum Bourse CAC 40 - 06/05/2026 23:44:34 - <b>Cybersécurité</b> - Boursorama](https://www.boursorama.com/bourse/forum/1rPCAC/detail/467956230/)  
-*Source : boursorama.com | Publication : 2026-05-06*
+## [Le Conseil de la <b>cybersécurité</b> lance un centre d'excellence OT pour sécuriser les infrastructures clés](https://www.wam.ae/fr/article/c02strm-conseil-cybers%C3%A9curit%C3%A9-lance-centre-d%E2%80%99excellence)  
+*Source : wam.ae | Publication : 2026-05-07*
 
-- Forum.
-- ouverture 8 134,95 clôture veille 8 062,31 + haut 8 344,89 + bas 8 131,53 +haut 1er janvier 8 642,23 +bas 1er janvier 7 505,27 volume.
-- dernier échange 06.05.26 / 18:05:02 + Alerte Connectez-vous pour créer une alerte sur le cours de la valeur CAC 40.
-- + Liste Connectez-vous pour ajouter CAC 40 à vos listes.
+- ABOU DHABI, 6 mai 2026 (WAM) – Le Conseil de la cybersécurité des Émirats arabes unis (CSC) et Rilian ont annoncé une collaboration stratégique.
 
-## [Fortinet relève ses objectifs annuels grâce à la forte demande en <b>cybersécurité</b>](https://www.tradingsat.com/actualites/informations-societes/fortinet-releve-ses-objectifs-annuels-grace-a-la-forte-demande-en-cybersecurite-1162313.html)  
-*Source : tradingsat.com | Publication : 2026-05-06*
+## [OpenAI dévoile son modèle de <b>cybersécurité</b> le plus avancé - WSJ | Zonebourse](https://www.zonebourse.com/actualite-bourse/openai-devoile-son-modele-de-cybersecurite-le-plus-avance-wsj-ce7f5bdadd8ff022)  
+*Source : zonebourse.com | Publication : 2026-05-07*
 
-- (Zonebourse.com) - Fortinet a relevé ses prévisions de chiffre d'affaires et de bénéfices pour l'ensemble de l'année, porté par une demande soutenue pour les solutions de cybersécurité.
-- L'annonce a été saluée par les marchés, avec un bond de près de 15% du titre après la clôture.
-- Le secteur bénéficie de la généralisation du travail hybride et de l'essor de l'intelligence artificielle, deux tendances qui augmentent les risques de cyberattaques et renforcent les besoins des entreprises en matière de protection numérique.
-- Les analystes observent également une accélération de la consolidation du marché de la cybersécurité, favorable à des groupes comme Fortinet.
+- Par Amrith Ramkumar OpenAI a annoncé présenter en avant-première un puissant modèle d'intelligence artificielle capable de détecter les vulnérabilités logicielles à un groupe restreint de partenaires, ce qui intensifie la course du secteur pour offrir aux clients les capacités de cybersécurité les plus avancées.
+- Le créateur de ChatGPT a indiqué qu'il mettait à disposition GPT-5.5-Cyber, une version de son modèle d'IA le plus performant, à un groupe restreint d'utilisateurs effectuant un travail de sécurité essentiel.
+- D'autres versions de GPT-5.5 sont disponibles pour les clients qui effectuent des tâches de cybersécurité plus larges ou des requêtes générales.
+- Cette annonce fait suite à une consultation avec la Maison Blanche, qui collabore avec les principales entreprises d'IA sur la publication de modèles qui présentent des risques pour la sécurité nationale.
 
-## [Mailinblack signe avec Actual Systèmes pour la distribution de sa suite U-Cyber 360](https://itrnews.com/articles/209695/mailinblack-signe-avec-actual-systemes-pour-la-distribution-de-sa-suite-u-cyber-3600.html)  
-*Source : itrnews.com | Publication : 2026-05-06*
+## [Niger: libération de deux journalistes, dont le correspondant de la radio allemande Deustche Welle](https://www.france24.com/fr/info-en-continu/20260507-niger-libération-de-deux-journalistes-dont-le-correspondant-de-la-radio-allemande-deustche-welle)  
+*Source : france24.com | Publication : 2026-05-07*
 
-- Veuillez activer Javascript.
+- Niger: libération de deux journalistes, dont le correspondant de la radio allemande Deustche Welle Niamey (Niger) (AFP) – Deux journalistes nigériens écroués depuis plusieurs mois, dont le correspondant de la radio allemande Deutsche Welle, ont été remis en liberté cette semaine, ont annoncé jeudi des médias locaux et leurs proches.
+- Publié le : Modifié le : Plus d'une dizaine de journalistes ont été interpellés, incarcérés et pour certains condamnés au Niger depuis l'arrivée de militaires au pouvoir par un coup d’État en juillet 2023.
+- "La décision est tombée ce jeudi matin: la liberté provisoire est accordée à Gazali Abdou", correspondant de la Deustche Welle, a indiqué la télévision locale nigérienne Gaskia.
+- Le journaliste avait été incarcéré en janvier après avoir réalisé un reportage consacré aux conditions de vie de centaines de réfugiés du Nigeria voisin à Niamey.
 
-## [Dossier santé numérique : « On n'est pas plus niaiseux qu'ailleurs au Québec](https://ici.radio-canada.ca/nouvelle/2251554/dossier-sante-numerique-cybersecurite-ministre)  
-*Source : ici.radio-canada.ca | Publication : 2026-05-06*
+## [Gen Digital prévoit des résultats annuels supérieurs aux estimations grâce à une forte ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N41K302:0/)  
+*Source : fr.tradingview.com | Publication : 2026-05-07*
 
-- Dossier santé numérique : « On n’est pas plus niaiseux qu’ailleurs au Québec » La ministre de la Cybersécurité assure que le Dossier santé numérique va bien fonctionner samedi.
-- La ministre de la Cybersécurité et du Numérique, France-Élaine Duranceau (Photo d'archives) Photo : Radio-Canada / Sylvain Roy Roussel Le gouvernement du Québec maintient le cap sur le lancement du Dossier santé numérique (DSN) prévu le 9 mai, malgré le malaise exprimé par des responsables de la cybersécurité du projet.
-- Une enquête de Radio-Canada a ravivé les craintes des partis d'opposition.
-- Six sources impliquées dans la préparation informatique du projet ont fait part de retards dans les mesures pour mitiger les risques de cybersécurité.
+- Gen Digital prévoit des résultats annuels supérieurs aux estimations grâce à une forte demande en matière de cybersécurité Refinitiv2 min de lecture © Copyright Thomson Reuters 2026.
+- Click For Restrictions - https://agency.reuters.com/en/copyright.html Connectez-vous ou créez un compte gratuit à vie pour lire ces nouvelles.
 
-## [Fortinet revoit à la hausse ses prévisions de chiffre d'affaires annuel, son action s'envole](https://www.boursorama.com/bourse/actualites-amp/fortinet-revoit-a-la-hausse-ses-previsions-de-chiffre-d-affaires-annuel-son-action-s-envole-57c196d584681cd3cca9722eb1a1f3cc)  
-*Source : boursorama.com | Publication : 2026-05-06*
+## [<b>Cybersécurité</b> au Maroc : les leçons de l'affaire Al Barid Bank - Médias24](https://medias24.com/2026/05/07/cybersecurite-au-maroc-les-lecons-de-laffaire-al-barid-bank-1672681/)  
+*Source : medias24.com | Publication : 2026-05-07*
 
-- Fortinet revoit ses prévisions annuelles à la hausse alors que la demande en matière de cybersécurité reste soutenue ; le cours de l'action s'envole information fournie par Reuters 06/05/2026 à 23:15 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajout d'un commentaire du directeur général au paragraphe 3, d'un contexte au paragraphe 4) 6 mai - Fortinet FTNT.O a relevé mercredi ses prévisions pour l'ensemble de l'année, signe d'une forte demande en outils de cybersécurité alors que les entreprises accordent la priorité à la protection contre des menaces sophistiquées, ce qui a fait bondir son action de 17 % en séance prolongée.
-- Les dépenses en cybersécurité sont restées soutenues, alimentées par les menaces émanant d'acteurs étatiques et par des attaques par ransomware de plus en plus sophistiquées, ce qui profite à des entreprises telles que Fortinet.
-- La société a constaté « une demande généralisée sur l'ensemble de notre portefeuille et de nos zones géographiques », a déclaré le directeur général Ken Xie, soulignant un « environnement de menaces de plus en plus complexe, exacerbé par l'IA ».
-- La société de cybersécurité F5 FFIV.O a relevé d' ses prévisions de croissance du chiffre d'affaires annuel, tandis que Check Point Software Technologies CHKP.O a annoncé fin avril une hausse de 13 % de son bénéfice trimestriel , supérieure aux attentes.
+- Cybersécurité au Maroc : les leçons de l'affaire Al Barid Bank L’expert en cybersécurité Badr Bellaj, invité du "12/13" de Médias24, a décortiqué les dessous de la récente fuite de données ayant touché Al Barid Bank.
+- Si la banque se veut rassurante, cet incident lève le voile sur une menace plus insidieuse : l’ingénierie sociale et la vulnérabilité des prestataires tiers.
+- Il y a quelques semaines, un message posté sur un forum spécialisé faisait l’effet d’une bombe : un hacker affirmait détenir les données de plus de 2 millions de clients de la banque postale marocaine, Al Barid Bank.
+- Si l’institution a rapidement communiqué pour exclure tout risque d’accès direct aux comptes, l’affaire est loin d’être anecdotique.
 
-## [Votre PC redémarre deux fois après la dernière mise à jour Windows 11 ? Microsoft assure ...](https://www.clubic.com/actualite-611980-votre-pc-redemarre-deux-fois-apres-la-derniere-mise-a-jour-windows-11-microsoft-assure-que-ce-n-est-pas-un-bug.html)  
-*Source : clubic.com | Publication : 2026-05-06*
+## [<b>Cybersécurité</b> : le Clusir monte en puissance - Eco Austral](https://ecoaustral.com/cybersecurite-le-clusir-monte-en-puissance/)  
+*Source : ecoaustral.com | Publication : 2026-05-07*
 
-- Deux redémarrages pour le prix d’un après une mise à jour Windows 11, et déjà l’envie de vérifier l’état de ses sauvegardes.
-- Microsoft assure pourtant que ce comportement peut être normal, puisqu’il accompagne le renouvellement progressif des certificats Secure Boot, dont les anciennes versions doivent expirer dans quelques semaines.
-- Un redémarrage Windows Update après le téléchargement d’une mise à jour, c’est la routine.
-- Un deuxième dans la foulée, c’est déjà le moment où l’on commence à fixer son écran d’un air nettement moins détendu.
+- Le Club de la sécurité de l'information en réseau (Clusir) compte 80 adhérents, utilisateurs et offreurs de services de cybersécurité à La Réunion.
 
-## [Dossier santé numérique : des mesures de <b>cybersécurité</b> retardées après le lancement](https://www.youtube.com/watch?v=95LJ-3Mbcv8)  
-*Source : youtube.com | Publication : 2026-05-06*
+## [<b>Cybersécurité</b> et digitalisation : l'ANAC et l'ANINF scellent un partenariat stratégique](https://anacgabon.org/cybersecurite-et-digitalisation-lanac-et-laninf-scellent-un-partenariat-strategique/)  
+*Source : anacgabon.org | Publication : 2026-05-07*
+
+- Cette rencontre intervient dans un contexte international marqué par la recrudescence et la montée croissante des cyberattaques ciblant les systèmes d’aviation civile et les infrastructures critiques.
+- Face aux nouveaux défis liés à l’interconnexion des environnements IT (Technologies de l’Information) et OT (Technologies Opérationnelles), la protection des systèmes numériques, la sécurisation des données sensibles ainsi que la continuité des opérations constituent désormais des priorités stratégiques pour les autorités aéronautiques.
+- Dans cette dynamique, l’ANAC a sollicité l’appui de l’ANINF en vue d’un accompagnement axé sur le renforcement et la modernisation de son écosystème numérique, notamment à travers la sécurisation des infrastructures informatiques, l’amélioration de la continuité des services ainsi que l’optimisation des outils numériques de gestion, de communication et de collaboration.
+- Compte tenu du caractère sensible et stratégique des données exploitées dans le secteur aérien, les échanges ont mis en lumière l’impérieuse nécessité de garantir leur confidentialité, leur disponibilité, leur intégrité et leur fiabilité, conformément aux exigences internationales en matière de cybersécurité.
+
+## [Group-IB désigné comme leader dans le premier Magic Quadrant™ de Gartner® pour les ...](https://fr.finance.yahoo.com/actualites/group-ib-désigné-leader-premier-183000247.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-05-07*
+
+- Group-IB désigné comme leader dans le premier Magic Quadrant™ de Gartner® pour les technologies de renseignement sur les cybermenaces Reconnu comme l'un des cinq seuls leaders parmi 18 fournisseurs évalués lors de la toute première évaluation Gartner® du marché du renseignement sur les menaces, la plateforme de renseignement sur les menaces prédictive et centrée sur l'adversaire de Group-IB offre aux organisations la visibilité nécessaire pour stopper les menaces avant qu'elles ne les atteignent.
+- Dubaï, Émirats arabes unis, May 07, 2026--(BUSINESS WIRE)--Group-IB, un des principaux créateurs de technologies de cybersécurité prédictives pour enquêter sur la cybercriminalité, la prévenir et la combattre, a été désigné comme leader dans le Magic Quadrant™ 2026 de Gartner® pour les technologies de renseignement sur les cybermenaces.
+- Cette distinction place Group-IB parmi les cinq seuls fournisseurs à avoir obtenu le statut de leader dans le premier Magic Quadrant™ jamais publié par Gartner® pour le marché du renseignement sur les menaces, une évaluation qui a analysé dix-huit fournisseurs selon l'exhaustivité de leur vision et leur capacité d'exécution.
+- Cette reconnaissance témoigne de plus de vingt ans de recherche axée sur les adversaires, de l'envergure et de la sophistication de sa plateforme de gestion des risques unifiée, ainsi que de son avantage en matière de renseignement prédictif sur les menaces.
+
+## [Attention : cette arnaque au téléphone prend de l'ampleur, voici les réflexes à adopter avant ...](https://www.futura-sciences.com/tech/actualites/cybersecurite-attention-cette-arnaque-telephone-prend-ampleur-voici-reflexes-adopter-avant-quil-ne-soit-trop-tard-134367/)  
+*Source : futura-sciences.com | Publication : 2026-05-07*
+
+- Le téléphone sonne.
+- Il s'agit d'un numéro banal.
+- Il commence par un 06 ou un 07.
+- Vous répondez, comme tout le monde le fait par un simple « allô ».
+
+## [Cadre européen de certification de <b>cybersécurité</b> - Sénat](https://www.senat.fr/travaux-parlementaires/commissions/commission-des-affaires-europeennes/detail-actualite-1/cadre-europeen-de-certification-de-cybersecurite-7504.html)  
+*Source : senat.fr | Publication : 2026-05-07*
+
+- La commission des affaires européennes examinera la proposition de résolution européenne, présentée par Mmes Catherine Morin-Desailly et Audrey Linkenheld, rapporteures, portant avis motivé sur la conformité au principe de subsidiarité de la proposition de règlement du Parlement européen et du Conseil relatif à l'Agence de l’Union européenne pour la cybersécurité (ENISA), au cadre européen de certification de cybersécurité et à la sécurité de la chaîne d’approvisionnement des TIC, et abrogeant le règlement (UE) 2019/881 (règlement sur la cybersécurité 2) – COM(2026) 11 final et de la proposition de directive du Parlement européen et du conseil modifiant la directive (UE) 2022/2555 en ce qui concerne l’introduction de mesures de simplification et l’alignement sur [la proposition de règlement sur la cybersécurité 2] – COM(2026) 13 final Cadre européen de certification de cybersécurité Proposition de résolution portant avis motivé Partager cette page.
+
+## [Proofpoint dévoile Prime Investigator, sa première plateforme d'enquêtes entièrement autonome](https://www.proofpoint.com/fr/newsroom/press-releases/proofpoint-devoile-prime-investigator-sa-premiere-plateforme-denquetes)  
+*Source : proofpoint.com | Publication : 2026-05-07*
+
+- Proofpoint dévoile Prime Investigator, sa première plateforme d’enquêtes entièrement autonome Proofpoint Prism Investigator se positionne comme la première solution d'IA agentique entièrement autonome permettant de simplifier considérablement les enquêtes pour les entreprises hautement réglementées et exposées aux contentieux Prism Investigator est la première plateforme d'enquêtes entièrement autonome parmi les fournisseurs de solutions DCGA suivis par Gartner, conçue pour accélérer les enquêtes de conformité et juridiques.
+- - Cette plateforme d'IA indépendante de la source corrèle les communications et les données métier pour reconstituer les événements et fournir des récits d'affaires explicables et défendables.
+- - Conçu pour les organisations hautement réglementées, Prism Investigator réduit le temps d'enquête de plusieurs semaines à quelques minutes grâce à des workflows d'IA agentique.
+- - PARIS, France, le 6 mai 2026 – Proofpoint, Inc., acteur majeur de la cybersécurité et de la conformité, annonce aujourd'hui une nouvelle solution d'enquêtes intégrée au sein de son portefeuille Digital Communications Governance (DCG).
+
+## [Qu'est-ce qu'un infostealer ? Fonctionnement des malwares voleurs d'identifiants](https://www.sentinelone.com/fr/cybersecurity-101/cybersecurity/infostealer/)  
+*Source : sentinelone.com | Publication : 2026-05-07*
+
+- Qu'est-ce qu'un infostealer ?.
+- Un ordinateur portable de sous-traitant compromis, sans protection des endpoints, a exposé des identifiants à une plateforme de données cloud, et les attaquants n'ont jamais eu besoin de casser un seul mot de passe.
+- Voilà le problème des infostealers résumé en une phrase.
+- Un infostealer est une catégorie de malware conçue pour extraire discrètement des données sensibles des systèmes infectés, notamment les mots de passe enregistrés, les cookies de session, les fichiers de portefeuilles de cryptomonnaies et les données de saisie automatique des navigateurs.
+
+## [RGPD PME : exemple concret de non-conformité (et comment corriger) - YouTube](https://www.youtube.com/watch?v=b0hwVH3vURI)  
+*Source : youtube.com | Publication : 2026-05-07*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Épisode du mercredi 6 mai 2026 | Le téléjournal avec Patrice Roy - Radio-Canada](https://ici.radio-canada.ca/tele/le-telejournal-18h/site/episodes/1169114/episode-du-6-mai-2026)  
-*Source : ici.radio-canada.ca | Publication : 2026-05-06*
+## [La PME normande Attineos <b>cybersécurité</b> noue un partenariat avec le Crédit Agricole ...](https://www.lejournaldesentreprises.com/article/la-pme-normande-attineos-cybersecurite-noue-un-partenariat-avec-le-credit-agricole-normandie-seine-2142548)  
+*Source : lejournaldesentreprises.com | Publication : 2026-05-07*
 
-- Nous et un nombre restreint de nos partenaires publicitaires utilisons des témoins pour recueillir certaines de vos données et les utilisons afin d’améliorer votre expérience et de vous présenter des contenus et des publicités personnalisés.
-- Si vous n’êtes pas à l’aise avec l’utilisation de ces informations, veuillez revoir les paramètres de confidentialité de votre appareil et de votre navigateur (Nouvelle fenêtre) avant de poursuivre votre visite.En savoir plus (Nouvelle fenêtre) Vous naviguez sur le site de Radio-Canada Épisode du mercredi 6 mai 2026Épisode du mercredi 6 mai 2026 Cette vidéo n’est pas disponible.
-- Partager 5 éléments Épisode6 mai 2026 Épisode5 mai 2026 Épisode4 mai 2026 Épisode1 mai 2026 Épisode30 avril 2026 Radio-Canada a appris que des failles de cybersécurité ne seront pas comblées lors du lancement du Dossier santé numérique, dans trois jours (9 mai 2026).
-- Alors que des responsables de la sécurité du projet s'en inquiètent, Santé Québec tente de se faire rassurante.
+- Attineos Cybersécurité , PME rouennaise de 30 collaborateurs fondée en 2022 annonce un partenariat avec le Crédit Agricole Normandie Seine en vue de.
 
-## [Jusqu'à 110.000 euros par an : voici les 5 métiers qui recrutent en 2026 et qui permettent de ...](https://www.cnews.fr/france/2026-05-06/jusqua-110000-euros-par-voici-les-5-metiers-qui-recrutent-en-2026-et-qui)  
-*Source : cnews.fr | Publication : 2026-05-06*
+## [Journée mondiale du mot de passe 2026 : pourquoi les &quot;mots de passe forts&quot; ne peuvent ...](https://www.journaldunet.com/cybersecurite/1550071-journee-mondiale-du-mot-de-passe-2026-pourquoi-les-mots-de-passe-forts-ne-peuvent-pas-vous-proteger-de-l-ia-des-voleurs-d-informations-et-du-reseau-telegram-underground/)  
+*Source : journaldunet.com | Publication : 2026-05-07*
 
-- Ces dernières années, certains domaines comme la cybersécurité ou l’intelligence artificielle ont explosé.
-- De nombreux métiers sont désormais très demandés et peuvent rapporter gros.
-- Tour d'horizon.
-- Et s'il était temps de repenser sa carrière ?.
+- Journée mondiale du mot de passe 2026 : pourquoi les "mots de passe forts" ne peuvent pas vous protéger de l'IA, des voleurs d'informations et du réseau Telegram underground En 2026, les mots de passe complexes ne suffisent plus à garantir la sécurité : les cybercriminels s'appuient sur des malwares voleurs de données, le dark web et Telegram.
+- Alors que nous célébrons la Journée mondiale du mot de passe en 2026, le conseil traditionnel d'« utiliser un mot de passe complexe avec des chiffres et des symboles » paraît totalement obsolète.
+- Aujourd'hui, un mot de passe de 16 caractères est inutile si un malware vole des données et l'extrait directement du cache du navigateur, ou si un employé le saisit volontairement dans un chatbot IA non contrôlé.
+- Bienvenue à la véritable Journée mondiale du mot de passe 2026.
 
-## [Actions Logiciels : Morgan Stanley évalue les redressements en <b>Cybersécurité</b>](https://fr.investing.com/news/stock-market-news/actions-logiciels--morgan-stanley-evalue-les-redressements-en-cybersecurite-93CH-3399761)  
-*Source : fr.investing.com | Publication : 2026-05-06*
+## [Le Réseau Radiologique Romand victime d'un <b>ransomware</b> - RTS](https://www.rts.ch/info/regions/2026/article/le-reseau-radiologique-romand-touche-par-une-cyberattaque-ransomware-29235207.html)  
+*Source : rts.ch | Publication : 2026-05-07*
 
-- Investing.com -- Morgan Stanley a évalué les sociétés américaines de logiciels dans le secteur de la Cybersécurité , mettant en avant des.
+- Le Réseau Radiologique Romand victime d’un ransomware L'entreprise n'est pour l'instant pas en mesure d'indiquer si des données de patients ont été volées ou détruites ou non.
+- Des investigations sont en cours, peut-on lire jeudi sur son site.
+- Et d'assurer que la confidentialité des données des nouveaux examens est garantie.
+- L’incident a été signalé à l’Office fédéral de la cybersécurité (OFCS) et une plainte pénale a été déposée.
 
-## [« Soit on perd, soit on perd » : avec Mythos, les entreprises françaises redoutent un « déluge »](https://www.lesechos.fr/tech-medias/hightech/soit-on-perd-soit-on-perd-avec-mythos-les-entreprises-francaises-face-au-risque-dun-deluge-de-cyberattaques-2230383)  
-*Source : lesechos.fr | Publication : 2026-05-06*
+## [Longuenesse : une conférence à l'ULCO sur la <b>cybersécurité</b>, donnée par des experts du ...](https://www.nordlittoral.fr/284848/article/2026-05-07/longuenesse-une-conference-l-ulco-sur-la-cybersecurite-donnee-par-des-experts-du)  
+*Source : nordlittoral.fr | Publication : 2026-05-07*
 
-- Une note du Campus Cyber alerte sur les risques majeurs de cyberattaques liés à l'IA Mythos d'Anthropic et à ses dérivés éventuels.
+- Une société sur deux a déjà été victime en France d'une cyber attaque.
+- La motivation des attaques est essentiellement à but lucratif, elles peuvent.
 
-## [<b>Ransomware</b> : quand il cache (encore une fois) autre chose que de la cyber-extorsion](https://www.lemagit.fr/actualites/366642855/Ransomware-quand-il-cache-encore-une-fois-autre-chose-que-de-la-cyber-extorsion)  
-*Source : lemagit.fr | Publication : 2026-05-06*
+## [<b>Cybersécurité</b> : Proofpoint ouvre son centre d'innovation européen à Neuilly - Les Echos](https://www.lesechos.fr/pme-regions/ile-de-france/cybersecurite-proofpoint-ouvre-son-centre-dinnovation-europeen-a-neuilly-2230607)  
+*Source : lesechos.fr | Publication : 2026-05-07*
 
-- robsonphoto - stock.adobe.com Ransomware : quand il cache (encore une fois) autre chose que de la cyberextorsion Selon Rapid7, l’enseigne de ransomware Chaos a été récemment utilisée par l’acteur malveillant étatique MuddyWater pour maquiller ses traces, dans le cadre d’une campagne à fort composant d’ingénierie sociale.
-- L’adoption de modèles Ransomware-as-a-Service par des entités étatiques représente une évolution tactique significative dans le paysage des menaces.
-- Ces acteurs exploitent la notoriété de la cybercriminalité financière, pour dissimuler des objectifs primaires d’espionnage et d’exfiltration de données.
-- L’analyse d’un incident récent démontre comment cette stratégie permet une « fausse bannière » pour masquer des opérations de renseignement.
+- Quelques mois après des discussions serrées avec Bercy autour du rachat de l'allemand Hornetsecurity, le groupe américain de la cybersécurité inaugure.
 
-## [<b>Cybersécurité</b> : l'UE pourrait payer 368 milliards d'euros pour réduire sa dépendance à la Chine](https://www.lerevenu.com/diversifier-placements/placements-divers/cybersecurite-l-ue-pourrait-payer-368-milliards-d-euros-pour-reduire-sa-dependance-a-la-chine/)  
-*Source : lerevenu.com | Publication : 2026-05-06*
+## [<b>Cybersécurité</b> des environnements industriels : une zone grise privilégiée pour les attaques](https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-des-environnements-industriels-une-zone-grise-privilegiee-pour-les-attaques-100131.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-05-07*
 
-- Cette orientation vise à renforcer la protection des infrastructures stratégiques européennes face aux risques de cyberespionnage et de vulnérabilité numérique.
-- Mais cette transition pourrait avoir un coût économique gigantesque pour les États membres et les entreprises européennes.
-- Cybersécurité : l’UE pourrait payer 368 milliards d’euros pour réduire sa dépendance à la Chine L’Union européenne accélère sa stratégie de cybersécurité en envisageant de réduire fortement sa dépendance aux équipements technologiques chinois dans plusieurs secteurs critiques.
-- - Votre newsletter financière incontournable Articles similaires 0,5% de frais de courtage, est-ce un tarif compétitif ?.
+- Dans la segmentation de haut niveau entre les technologies opérationnelles (OT) et les systèmes d'information (IT), il est courant de distinguer deux dimensions : - La partie IT décorrélée des systèmes industriels : bureautique, ERP, applications financières, administratives, etc. - Les technologies IT à l’intérieur du système industriel, faites de réseaux, de machines aux OS standard (Windows ou Linux), de virtualisation, souvent d’un Active Directory, de logiciels de sauvegarde et autres qui sont propres au système industriel, bien qu’étant de technologie dite « IT ».
+- Ainsi l’usage – industriel, ICS – se décorrèle-t-il de la technologie.
+- La part métier des ICS ne se trouve plus que dans les automates, réseaux de terrain, les protocoles du monde industriel (Modbus, Enthernet/IP, S7…) et les applications de supervision, d’historisation, les ateliers logiciel d’ingénierie et parfois quelques applications techniques spécifiques.
+- Pourtant, ce qui ressort des attaques ayant un impact sur les systèmes industriels, c’est que ce ne sont pas eux qui sont touchés.
 
-## [UE-Le projet visant à se passer des technologies chinoises coûterait plus de €350 mds au ...](https://www.boursorama.com/bourse/actualites-amp/ue-le-projet-visant-a-se-passer-des-technologies-chinoises-couterait-plus-de-350-mds-au-bloc-etude-chinoise-ffdc710cee21373140a2a423d77355b3)  
-*Source : boursorama.com | Publication : 2026-05-06*
+## [Swiss Post Cybersecurity donne rendez-vous aux Hack'Events 2026 | ICTjournal](https://www.ictjournal.ch/interviews/2026-05-07/swiss-post-cybersecurity-donne-rendez-vous-aux-hackevents-2026)  
+*Source : ictjournal.ch | Publication : 2026-05-07*
 
-- UE-Le projet visant à se passer des technologies chinoises coûterait plus de €350 mds au bloc-étude chinoise information fournie par Reuters 06/05/2026 à 14:42 Les propositions de l'Union européenne (UE) visant à renforcer la cybersécurité en supprimant progressivement les équipements provenant de fournisseurs chinois risquent de coûter plus de 350 milliards d'euros au bloc au cours des cinq prochaines années, a déclaré mercredi la Chambre de commerce de Chine auprès de l'UE (CCCEU).
-- Une étude réalisée pour le CCCEU par le cabinet d'audit et de conseil KPMG indique que le remplacement forcé des fournisseurs chinois dans 18 secteurs critiques coûterait au bloc européen 367,8 milliards d’euros entre 2026 et 2030.
-- D'après le rapport, l’UE devrait remplacer du matériel, déprécier des actifs et faire face à une baisse d’efficacité et à un retard dans la numérisation.
-- Deux des secteurs les plus touchés seraient l'énergie et les télécommunications, piliers des transitions numérique et verte prévues par l'UE.
-
-## [10ème édition des Trophées de l'Innovation et de la Transformation Numérique](https://www.solutions-numeriques.com/10eme-edition-des-trophees-de-linnovation-et-de-la-transformation-numerique/)  
-*Source : solutions-numeriques.com | Publication : 2026-05-06*
-
-- Save the date : 10 juin 2026 Le 10 juin 2026, la rédaction de Solutions Numériques & Cybersécurité organise la 10ème édition de ses Trophées.
-- L’objectif est simple : mettre en valeur les projets IT et Cyber les plus inspirants de l’année.
-- Participez à l’événement Rendez-vous le 10 juin au siège de la SMABTP (Paris 15e).
-- Cette année, nous avons l’opportunité d’organiser notre événement dans le cadre prestigieux de la Grande Soirée d’Été de la Fédération Française de la Cybersécurité.
-
-## [Télécoms: selon les entreprises chinoises, leur interdiction coûterait une fortune à l'UE](https://fr.tradingview.com/news/afp:ce9cb16e391fc:0/)  
-*Source : fr.tradingview.com | Publication : 2026-05-06*
-
-- Télécoms: selon les entreprises chinoises, leur interdiction coûterait une fortune à l'UE Bannir les équipementiers en télécoms chinois du marché européen, comme l'a proposé Bruxelles, coûterait aux 27 des centaines de milliards d'euros d'ici à 2030, selon une étude publiée mercredi par la Chambre de commerce chinoise auprès de l'UE.
-- Cette proposition, si elle était mise en oeuvre, causerait "367,8 milliards d'euros de pertes économiques cumulées sur cinq ans dans les Etats membres", précise cette étude, réalisée par KPMG pour le compte de la Chambre de commerce, qui défend les intérêts des entreprises chinoises en Europe.
-- Ce chiffrage astronomique correspond aux surcoûts estimés pour l'ensemble des secteurs économiques, au-delà des seuls opérateurs de télécom, dont le remplacement des équipements déjà achetés par des solutions plus chères et potentiellement moins efficaces, mais aussi les frais administratifs et juridiques, et les retards qu'entraînerait cette transition forcée.
-- L'Allemagne aurait le plus à perdre dans cette affaire, avec une facture estimée à plus de 170 milliards d'euros, soit près de la moitié du montant total, devant la France (46,3 milliards) et l'Italie (36,5 milliards).
-
-## [« J'ai signé pour un BTS, pas pour une formation non reconnue » : leur école ferme ... - Le Parisien](https://www.leparisien.fr/etudiant/etudes/bts/jai-signe-pour-un-bts-pas-pour-une-formation-non-reconnue-apres-une-erreur-de-leur-ecole-ces-etudiants-sont-orientes-vers-un-bachelor-WWM7KAWPVRFCDCTLVXI5NACEQE.php)  
-*Source : leparisien.fr | Publication : 2026-05-06*
-
-- BTS cybersécurité : des étudiants parisiens découvrent que leur école ... « On n'a pas été inscrits au BTS », se désole le jeune homme qui visait un.
-
-## [KnowBe4 se lie avec Secure Code Warrior - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64813-knowbe4-se-lie-avec-secure-code-warrior.html)  
-*Source : linformaticien.com | Publication : 2026-05-06*
-
-- L'éditeur de solutions de sensibilisation à la cybersécurité a désormais un partenariat avec Secure Code Warrior pour proposer des contenus dédiés.
-
-## [Orange Cyberdefense devient autorité de référence pour l'identification des vulnérabilités](https://www.alliancy.fr/orange-cyberdefense-devient-autorite-de-reference-pour-lidentification-des-vulnerabilites-8ed2ecf6-a754-45af-a34c-5bb57ac7242d)  
-*Source : alliancy.fr | Publication : 2026-05-06*
-
-- Orange Cyberdefense devient autorité de référence pour l’identification des vulnérabilités Orange Cyberdefense obtient le statut CNA, lui permettant d’identifier et publier des vulnérabilités de cybersécurité au niveau international.
-- Publié à 10h24 Lecture 2 min.
-- Orange Cyberdefense annonce avoir obtenu le statut d’Autorité de numérotation CVE (CNA) dans le cadre du programme CVE.
-- Cette reconnaissance lui permet désormais d’attribuer directement des identifiants CVE (Common Vulnerabilities and Exposures) aux vulnérabilités affectant ses propres produits ainsi que ceux de tiers, qu’elles soient détectées en interne ou signalées par des chercheurs externes.
-
-## [Le Gouvernement annonce plusieurs mesures d'urgence pour la <b>cybersécurité</b> de l'État](https://www.hospimedia.fr/actualite/articles/20260506-e-sante-le-gouvernement-annonce-plusieurs-mesures-d)  
-*Source : hospimedia.fr | Publication : 2026-05-06*
-
-- 16h02 Article Près de 80% des métiers du prendre soin étaient occupés par des femmes à Lyon en 2022 Par Manuel Magrez aujourd'hui à 16h02 C'est depuis les locaux de l'Agence nationale des titres sécurisés, le 30 avril, que le Premier ministre Sébastien Lecornu a annoncé la mobilisation de 200 millions d'euros (M€) spécifiquement dédiés à la cybersécurité des institutions publiques.
-- Le lieu de l'annonce n'est en….
+- Swiss Post Cybersecurity donne rendez-vous aux Hack’Events 2026 Sous la devise «Prendre la cybersécurité au sérieux, sans se prendre au sérieux», Swiss Post Cybersecurity organise les Hack’Events 2026.
+- À Genève, le 9 juin prochain, le Genev’Hack s’adressera aussi bien aux professionnels qu’aux étudiants, aux jeunes en début de carrière et à tous ceux qui s’intéressent à l’IT.
+- Les Hack’Events à Zurich, Genève et Lugano sont placés sous le slogan «Prendre la cybersécurité au sérieux, sans se prendre au sérieux».
+- Quelle est l’idée?.
