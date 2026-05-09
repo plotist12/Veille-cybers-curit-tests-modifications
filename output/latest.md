@@ -1,151 +1,152 @@
-# Résumés – 2026-05-08
+# Résumés – 2026-05-09
 
 
-## [Des universités canadiennes touchées par une cyberattaque - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2252379/panne-information-etablissements-scolaires-pirates)  
-*Source : ici.radio-canada.ca | Publication : 2026-05-08*
+## [Pourquoi les valeurs de <b>cybersécurité</b> bénéficieront des risques liés à l'IA - Yahoo Finance](https://fr.finance.yahoo.com/actualites/pourquoi-valeurs-cybersécurité-bénéficieront-risques-221647996.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-05-09*
 
-- Des universités canadiennes touchées par une cyberattaque Le groupe de pirates informatiques ShinyHunters a revendiqué la responsabilité de la violation subie par Canvas, selon Luke Connolly, analyste en menaces chez Emisoft, une entreprise spécialisée en cybersécurité.
-- (Photo d’archives) Photo : Reuters / Kacper Pempel Des établissements d’enseignement postsecondaire de l’Ontario, dont l’Université de Toronto, figurent parmi les milliers d’établissements touchés par un incident de cybersécurité concernant le logiciel d’apprentissage Canvas.
-- Celui-ci est utilisé par les établissements scolaires pour partager du matériel pédagogique, comme des vidéos de cours, des notes et des devoirs, et pour distribuer les notes.
-- Instructure, la société mère américaine de Canvas, a initialement publié un message sur son site Web le 1er mai concernant une faille de sécurité causée par un acteur malveillant.
+- Investing.com- Les entreprises de cybersécurité sont en passe de devenir les grandes bénéficiaires des risques croissants liés à l’intelligence artificielle, même si les investisseurs se montrent plus sélectifs et que les multiples de valorisation se compriment dans l’ensemble du secteur des logiciels, selon Bank of America.
+- Les analystes de BofA indiquent que l’adoption de l’IA stimule la demande de produits de cybersécurité, les entreprises cherchant à se protéger contre les nouvelles menaces générées par les outils d’IA, notamment des cyberattaques plus sophistiquées et des risques liés aux données.
+- « Nous pensons que les valeurs de Cybersécurité seront les grands bénéficiaires des risques liés à l’IA », ont écrit les analystes, tout en soulignant que les investisseurs accordent désormais une plus grande importance à la visibilité des flux de trésorerie disponibles et à la croissance durable.
+- La banque a maintenu ses recommandations sur les sociétés de cybersécurité, notamment Sailpoint (NASDAQ:SAIL), SentinelOne (NYSE:S) et Zscaler (NASDAQ:ZS), bien qu’elle ait abaissé ses multiples de valorisation et ses objectifs de cours pour tenir compte de la compression généralisée des multiples dans le secteur des logiciels.
 
-## [Banques luxembourgeoises: pourquoi l'année 2026 s'annonce décisive pour la Place financière](https://www.virgule.lu/economie/banques-luxembourgeoises-pourquoi-lannee-2026-sannonce-decisive-pour-la-place-financiere/151236337.html)  
-*Source : virgule.lu | Publication : 2026-05-08*
+## [NordVPN casse ses prix avec la meilleur offre de l'année - JVTECH by jeuxvideo.com](https://www.jeuxvideo.com/news/2080521/nordvpn-casse-ses-prix-avec-la-meilleur-offre-de-l-annee.htm)  
+*Source : jeuxvideo.com | Publication : 2026-05-09*
 
-- cybersécurité , de technologies et de ressources humaines continuent d'augmenter.
-- Rester compétitives tout en finançant l'économie réelle.
-- Les.
+- Le réseau privé virtuel (VPN) NordVPN est reconnu pour ses performances élevées et son engagement envers la confidentialité des utilisateurs.
+- En offrant un chiffrement de nouvelle génération et une couverture mondiale étendue, il se positionne comme un outil de cybersécurité complet pour les particuliers et les professionnels.
+- Un service de cybersécurité reconnu pour sa performance La protection en ligne est devenue une préoccupation centrale face à l'augmentation des risques liés aux données personnelles et à la surveillance numérique.
+- Un réseau privé virtuel, ou VPN, agit comme un tunnel sécurisé qui chiffre la connexion Internet de l'utilisateur, masquant ainsi son adresse IP réelle.
 
-## [Première pelletée de terre pour la construction d'un nouveau gymnase à Saint-Donat](https://csslaurentides.gouv.qc.ca/premiere-pelletee-de-terre-pour-la-construction-dun-nouveau-gymnase-a-saint-donat/)  
-*Source : csslaurentides.gouv.qc.ca | Publication : 2026-05-08*
+## [<b>Cybersécurité</b> : ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données ...](https://www.lindependant.fr/2026/05/09/cybersecurite-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donnees-personnelles-et-industrielles-livrees-aux-agents-ia-13362475.php)  
+*Source : lindependant.fr | Publication : 2026-05-09*
 
-- Sur la photo, dans l’ordre habituel – Rangée arrière : Louis-Dave Bergeron, directeur de l’école Sacré-Cœur, Alexis St-Georges et Marc Bélanger, conseillers municipaux, et Pierre-Luc Normand, directeur du Service des ressources matérielles du CSSL Rangée avant : Audrey-Anne Hawkins, conseillère en ressources matérielles au CSSL, Marianne Dessureault, conseillère municipale, France-Élaine Duranceau, ministre responsable de l’Administration gouvernementale et de l’Efficacité de l’État, présidente du Conseil du trésor, ministre de la Cybersécurité et du Numérique, députée de la circonscription de Bertrand et représentante de la ministre responsable du Sport, du Loisir et du Plein air, Kariane Bourassa, Joé Deslauriers, maire de la municipalité de Saint-Donat, Sébastien Tardif, directeur général du CSSL, Johanne Babin, conseillère municipale, Olivier Malenfant, élève de l’école Sacré-Cœur, Mélanie Issa, conseillère municipale, Liam Cabana, élève de l’école Sacré-Cœur, et Norman St-Amour, conseiller municipal Sainte-Agathe-des-Monts, le 8 mai 2026 – Le Centre de services scolaire des Laurentides (CSSL) et la Municipalité de Saint-Donat ont procédé aujourd’hui à la première pelletée de terre marquant le lancement des travaux de construction d’un nouveau gymnase à Saint-Donat.
-- Cet événement symbolique s’est tenu en présence de la députée de Bertrand, ministre responsable de l’Administration gouvernementale et de l’Efficacité de l’État, présidente du Conseil du Trésor et ministre de la Cybersécurité et du Numérique, France-Élaine Duranceau, au nom de la ministre responsable du Sport, du Loisir et du Plein air, Kariane Bourassa, du maire de Saint-Donat, Joé Deslauriers, du directeur général du CSSL, Sébastien Tardif, du directeur de l’école Sacré-Cœur, Louis Dave Bergeron, ainsi que de membres de la communauté municipale et scolaire et de partenaires du projet.
-- Le représentant du conseil des élèves a également pris la parole pour souligner l’importance de disposer d’installations modernes et inspirantes, favorisant la pratique d’activités physiques et le sentiment d’appartenance des élèves à leur milieu scolaire.
-- Un partenariat fort et durable pour la communauté Ce projet conjoint illustre une collaboration étroite entre le CSSL et la Municipalité de Saint-Donat, au bénéfice direct des élèves et de l’ensemble de la population.
+- Cybersécurité : ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA Confier ses données à l’IA conversationnelle présente des dangers, notamment pour des entreprises qui peuvent y livrer des secrets industriels.
+- Alors que les attaques informatiques contre toute sorte de bases de données se multiplient ces derniers mois à un rythme effréné (418 depuis août 2025), les mises en garde de spécialistes de la cybersécurité sont précieuses.
+- Si naviguer sur Internet présente des risques connus, le danger est moins établi concernant les géants de l’IA conversationnelle tels que ChatGPT, Mistral, Claude, Grok, Perplexity ou encore Gemini.
+- Patron de l’entreprise Adamentis basée à Perpignan, Vincent Podlunsek met en garde contre ce "nouveau danger" de vouloir mettre dans l’IA des informations personnelles, voire de son entreprise, pour construire ses prompts.
 
-## [Mythos d'Anthropic secoue la stratégie IA de la Maison-Blanche - Mon Carnet](https://moncarnet.com/2026/05/07/mythos-danthropic-secoue-la-strategie-ia-de-la-maison-blanche/)  
-*Source : moncarnet.com | Publication : 2026-05-08*
+## [<b>Cybersécurité</b> : &quot;Un nombre d'attaques incroyable depuis le mois d'août&quot;… L'IA accélère les ...](https://www.lindependant.fr/2026/05/09/cybersecurite-un-nombre-dattaques-incroyable-depuis-le-mois-daout-lia-accelere-les-vols-de-donnees-cet-expert-alerte-et-donne-des-cles-pour-se-13362058.php)  
+*Source : lindependant.fr | Publication : 2026-05-09*
 
-- L’arrivée de modèles d’intelligence artificielle capables d’identifier eux-mêmes des failles informatiques force la Maison-Blanche à revoir l’équilibre entre innovation, sécurité nationale et encadrement gouvernemental.
-- Et le modèle Mythos d’Anthropic aurait provoqué une forte inquiétude au sein de l’administration Trump, au point de déclencher une série de discussions d’urgence avec les dirigeants des principaux acteurs de l’IA.
-- Le vice-président JD Vance aurait exprimé ses préoccupations lors d’un appel tenu en avril avec plusieurs grands patrons du secteur, dont Sam Altman d’OpenAI, Dario Amodei d’Anthropic, Elon Musk de SpaceX, Sundar Pichai d’Alphabet et Satya Nadella de Microsoft.
-- L’enjeu n’est pas seulement la puissance du modèle, mais sa capacité à repérer de manière autonome des vulnérabilités logicielles.
+- Cybersécurité : "Un nombre d’attaques incroyable depuis le mois d’août"… L’IA accélère les vols de données, cet expert alerte et donne des clés pour se protéger Aucune base de données ne semble échapper aux vols depuis quelques mois.
+- Alors que "l’or noir" du XXIe siècle aiguise les appétits, les particuliers et les entreprises trinquent.
+- "Les règles ne font pas la sécurité".
+- Entré en vigueur en 2018, le RGPD (pour règlement général sur la protection des données) semblait assurer aux usagers un contrôle strict de l’accès à leurs données, où qu’elles soient stockées dans l’Union européenne.
 
-## [&quot;Personne ne pourra arrêter une IA malveillante&quot;: après &quot;Terminator&quot; et &quot;Matrix&quot;, la Silicon ...](https://www.bfmtv.com/tech/intelligence-artificielle/personne-ne-pourra-arreter-une-ia-malveillante-apres-terminator-et-matrix-la-silicon-valley-s-inquiete-a-son-tour-des-ia-capables-de-se-copier-seules-sur-d-autres-ordinateurs_AV-202605080337.html)  
-*Source : bfmtv.com | Publication : 2026-05-08*
+## [<b>Cybersécurité</b> électorale : Denis Kadima vante l'expérience congolaise à Rome](https://ouragan.cd/2026/05/cybersecurite-electorale-denis-kadima-vante-lexperience-congolaise-a-rome)  
+*Source : ouragan.cd | Publication : 2026-05-09*
 
-- "Personne ne pourra arrêter une IA malveillante": après "Terminator" et "Matrix", la Silicon Valley s’inquiète à son tour des IA capables de se copier seules sur d'autres ordinateurs Dans Terminator, Skynet a pris conscience d’elle-même avant de déclencher l’apocalypse nucléaire.
-- Dans Matrix, les machines réduisent l’humanité en batteries géantes.
-- Et dans les laboratoires bien réels de la Silicon Valley, certains chercheurs commencent désormais à s’inquiéter d’un scénario plus prosaïque, mais suffisamment inquiétant: des intelligences artificielles capables de se copier toutes seules sur d’autres ordinateurs.
-- L’étude, publiée par Palisade Research, une organisation basée à Berkeley spécialisée dans les risques liés à l’IA, décrit des tests menés sur plusieurs modèles récents.
+- 8 mai dernier, à Rome, à l'occasion de la clôture d'une mission d'apprentissage entre pairs consacrée aux cybermenaces dans les processus électoraux.
 
-## [<b>Cybersécurité</b>, violences intrafamiliales... Pourquoi Caux Seine agglo veut parler sécurité autrement](https://www.paris-normandie.fr/id716495/article/2026-05-08/cybersecurite-violences-intrafamiliales-pourquoi-caux-seine-agglo-veut-parler)  
-*Source : paris-normandie.fr | Publication : 2026-05-08*
+## [Division <b>Cybersécurité</b> : La chute de la séductrice Facebook Aminata Coulibaly.](https://www.ndarinfo.com/Division-Cybersecurite-La-chute-de-la-seductrice-Facebook-Aminata-Coulibaly_a44584.html)  
+*Source : ndarinfo.com | Publication : 2026-05-09*
 
-- Ateliers, rencontres sur les marchés, sensibilisation des lycéens, cybersécurité ou encore réglementation des drones : du 26 au 31 mai 2026,.
+- Aminata Coulibaly, une jeune femme qui utilisait les réseaux sociaux pour piéger ses victimes, a été interpellée par les éléments de la Division Spéciale de Cybersécurité (DSC).
+- Son mode opératoire, d'une audace singulière, consistait à séduire des hommes sur Facebook avant de les séquestrer et de les dépouiller lors de leurs rencontres physiques.
+- Le piège se refermait généralement au moment le plus intime.
+- Selon les premiers éléments de l'enquête révélés par le journal Libération, Aminata Coulibaly, une fois dans la chambre de ses victimes, prétextait une envie soudaine d'aller aux toilettes en plein acte sexuel.
 
-## [Interview avec Hamid Chriet : « L'enjeu est désormais d'intégrer la <b>cybersécurité</b> dans une ...](https://lopinion.ma/fr/actu-maroc/interview-avec-hamid-chriet---lenjeu-est-desormais-dintegrer-la-cybersecurite-dans-une-gouvernance-strategique-_a17130?articleId=61287710-12ed-4f6a-85ca-d3309f326677)  
-*Source : lopinion.ma | Publication : 2026-05-08*
+## [« Elle séquestre des hommes et les dépouille » : Comment les enquêteurs ont fait tomber ...](https://www.senenews.com/actualites/elle-sequestre-des-hommes-et-les-depouille-comment-les-enqueteurs-ont-fait-tomber-aminata-coulibaly_585780.html)  
+*Source : senenews.com | Publication : 2026-05-09*
 
-- Actu Maroc Interview avec Hamid Chriet : « L’enjeu est désormais d’intégrer la cybersécurité dans une gouvernance stratégique » La montée des cyberattaques et la recrudescence des fraudes en ligne placent la cybersécurité au cœur des préoccupations nationales.
-- Face à cette menace grandissante, Hamid Chriet, spécialiste du domaine, apporte son regard d’expert et détaille les mesures à mettre en œuvre pour mieux protéger les systèmes numériques.
-- Par Mariem LEMRAJNI vendredi 8 mai 20267 min de lecture Fonctionnalité audio bientôt disponible Actu Maroc La NARSA alerte contre un faux site usurpant son identité 27/04/2026|2 min de lecture Actu Maroc Al Barid Bank dément les rumeurs sur une prétendue fuite de données 21/04/2026|2 min de lecture Actu Maroc Comité Consultatif de Défense : le Maroc et les États-Unis réaffirment leur alliance stratégique 18/04/2026|1 min de lecture Actu Maroc Défense : le Maroc et les États-Unis signent un nouvel accord militaire pour les 10 ans à venir 16/04/2026|2 min de lecture Actu Maroc Le média en ligne “Le Desk” cible d’une cyberattaque d’une ampleur inédite 16/04/2026|2 min de lecture Actu Maroc Cybersécurité : le Maroc adopte une approche globale et holistique pour faire face aux menaces numériques (DGSSI) 08/04/2026|3 min de lecture.
+- « Elle séquestre des hommes et les dépouille » : Comment les enquêteurs ont fait tomber Aminata Coulibaly Aminata Coulibaly, une femme de 50 ans se faisant passer pour une femme de ménage, a été arrêtée par la Division spéciale de cybersécurité après avoir séquestré et dépouillé plusieurs hommes.
+- Son mode opératoire, intriguant et audacieux, soulève des questions sur la sécurité en ligne et les dangers des rencontres virtuelles.
+- La Division spéciale de cybersécurité (Dsc) a mis fin aux agissements présumés d’une femme identifiée comme Aminata Coulibaly, âgée de 50 ans et se présentant comme femme de ménage.
+- Elle a été placée en garde à vue pour vol, escroquerie, abus de confiance et séquestration, à la suite de plusieurs plaintes déposées par des victimes.
 
-## [&quot;Pendant très longtemps, on a éduqué les femmes à ne pas prendre de risques&quot; - La Libre](https://www.lalibre.be/economie/entreprises-startup/2026/05/08/pendant-tres-longtemps-on-a-eduque-les-femmes-a-ne-pas-prendre-de-risques-V5ROK3VI4VDLDAED43VU6TCP2Q/)  
-*Source : lalibre.be | Publication : 2026-05-08*
+## [Proton Mail, Infomaniak : la souveraineté de vos emails reste une illusion face aux règles ...](https://www.clubic.com/dossier-612034-proton-mail-infomaniak-la-souverainete-de-vos-emails-reste-une-illusion-face-aux-regles-dictees-par-google.html)  
+*Source : clubic.com | Publication : 2026-05-09*
 
-- "Pendant très longtemps, on a éduqué les femmes à ne pas prendre de risques" Les métiers de la tech restent peu accessibles aux femmes.
-- Une ASBL bruxelloise et un géant IT veulent changer cela.
-- Publié le 08-05-2026 à 09h54 - Mis à jour le 08-05-2026 à 09h58 - Elles sont dix.
-- Dix Bruxelloises venues d'horizons différents et qui viennent de terminer une formation en cybersécurité.
+- Proton Mail, La Poste, Infomaniak, Mailo... les messageries "souveraines" se multiplient.
+- Mais elles reposent toutes sur le même protocole conçu en 1982 aux États-Unis, sans authentification native et sans chiffrement.
+- Les normes de sécurité ajoutées depuis ont été définies par Yahoo, Cisco, Microsoft et Google.
+- Et Gmail filtre une part considérable du trafic email mondial, sans que l'Europe ne puisse dire quoi que ce soit.
 
-## [Risque cyber : l'Australie sonne l'alarme face aux IA de pointe comme Mythos](https://www.boursier.com/actualites/economie/risque-cyber-l-australie-sonne-l-alarme-face-aux-ia-de-pointe-comme-mythos-54586.html)  
-*Source : boursier.com | Publication : 2026-05-08*
+## [Une infrastructure numérique résiliente pour un avenir sûr - Siemens](https://www.siemens.com/fr-fr/company/insights/dubai-electricity-water-authority/)  
+*Source : siemens.com | Publication : 2026-05-09*
 
-- Le régulateur financier australien appelle le secteur à renforcer en urgence sa cybersécurité face aux risques posés par les systèmes.
+- Rester en sécurité dans un monde numérique Dubaï est une ville en pleine expansion : elle est tournée vers l'avenir, elle repousse les limites et elle est une pionnière mondiale des villes intelligentes.
+- La ville privilégie l'innovation pour créer des expériences sûres, personnalisées et efficaces, améliorer ainsi la qualité de vie et la durabilité à long terme.
+- Au cœur de tout cela se trouve la Dubai Electricity & Water Authority (DEWA).
+- C'est pourquoi Siemens a collaboré avec DEWA pour développer des solutions innovantes visant à créer un réseau numérique sécurisé et résilient.
 
-## [Cyberattaque chez France Titres : une association demande 150 000 € à l'État pour ... - 01net.com](https://www.01net.com/actualites/cyberattaque-chez-france-titres-une-association-demande-150-000-e-a-letat-pour-indemniser-les-victimes.html)  
-*Source : 01net.com | Publication : 2026-05-08*
+## [<b>Cybersécurité</b> : accepter les cookies sans vérifier ce détail dans l'URL peut être risqué](https://www.journaldesfemmes.fr/maman/magazine/3264837-accepter-les-cookies-verification-url/)  
+*Source : journaldesfemmes.fr | Publication : 2026-05-09*
 
-- L’Agence nationale des titres sécurisés (ANTS), chargée de délivrer les cartes nationales d’identité, les passeports ou encore les permis de conduire des Français, a connu une cyberattaque d’envergure.
-- Au total, des dizaines de milliers de données sensibles ont été volées afin de les revendre sur le dark web.
-- Pour l’association La Ligue des Libertés, l’État est responsable et il doit indemniser les personnes concernées.
-- Une plainte et deux demandes préalables d’indemnisation L’association La Ligue des Libertés a déposé ce jeudi une plainte contre l’État auprès de la Commission nationale de l’informatique et des libertés (CNIL), soit le gendarme d’Internet.
+- Cybersécurité : accepter les cookies sans vérifier ce détail dans l'URL peut être risqué Selon les experts en cybersécurité, cliquer machinalement sur "accepter les cookies" peut poser problème.
+- On le fait tous, souvent sans réfléchir en navigant sur le web.
+- Une fenêtre s'ouvre, on clique sur "tout accepter" et on passe à autre chose.
+- Si cette validation expéditive est devenue un automatisme lors de la navigation web, derrière ce geste, il y a des enjeux bien réels autour de la confidentialité de vos données.
 
-## [Arctic Wolf supprime 250 postes pour investir davantage dans l'IA - ITdaily](https://itdaily.fr/nouvelles/business/artic-wolf-supprime-250-postes/)  
-*Source : itdaily.fr | Publication : 2026-05-08*
+## [Chiffrement de bout en bout : le renseignement français défend un accès légal aux ...](https://www.usine-digitale.fr/cybersecurite/chiffrement-de-bout-en-bout-le-renseignement-francais-defend-un-acces-legal-aux-communications-privees.5UOGOEHOTZEILOIA4C4JYLENYQ.html)  
+*Source : usine-digitale.fr | Publication : 2026-05-09*
 
-- L’entreprise de cybersécurité Arctic Wolf a licencié 250 employés pour pouvoir investir davantage dans l’IA.
-- Arctic Wolf a licencié environ 250 employés dans le cadre d’une restructuration qui, selon l’entreprise, est nécessaire pour mettre davantage l’accent sur l’IA et les opérations de sécurité automatisées.
-- Ces licenciements représentent moins de dix pour cent de l’effectif total.
-- Arctic Wolf comptait plus de 2 600 collaborateurs fin 2024, bien que certaines sources parlent désormais de plus de 3 300 employés dans le monde.
+- Alors que le Parlement s'apprête à examiner plusieurs textes relatifs à la cybersécurité , la délégation parlementaire au renseignement assume.
 
-## [S&amp;P 500 - Les actions à suivre vendredi: CoreWeave, Trade Desk, Cloudflare, Akam](https://www.abcbourse.com/marches/sp-500--les-actions-a-suivre-vendredi-coreweave-trade-desk-cloudflare-akam_696585)  
-*Source : abcbourse.com | Publication : 2026-05-08*
+## [Quatre actions logicielles sortent désormais de la « SaaSpocalypse - TradingView](https://fr.tradingview.com/news/invezz:04aeb97cab858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-05-09*
 
-- Voici un tour d'horizon des valeurs à suivre à Wall Street vendredi.
-- -COREWEAVE (-9,5% vers 15h45): le bénéfice ajusté de la société d'informatique dématérialisée (cloud) est ressorti en dessous des prévisions au deuxième trimestre.
-- Ses prévisions pour le trimestre en cours sont également inférieures aux attentes.
-- -TRADE DESK (-8,1%): la société de technologies publicitaires a publié un bénéfice ajusté plus faible que prévu pour le premier trimestre, même si son chiffre d'affaires a dépassé les attentes.
+- Quatre actions logicielles sortent désormais de la « SaaSpocalypse » SaaSpocalypse – une vague de ventes motivée par la peur, où les investisseurs craignaient que l'intelligence artificielle (IA) ne cannibalise les fournisseurs traditionnels de logiciels en tant que service – heurte enfin un mur.
+- Alors que l'iShares Expanded Tech-Software ETF (IGV) reste en baisse sur l'année, une puissante progression de 14 % sur le dernier mois suggère un retournement structurel.
+- Selon Jason Hunter, stratégiste technique chez JPMorgan, le secteur des logiciels se dissocie des semi‑conducteurs, avec des acteurs clés sortant de configurations observées depuis plusieurs semaines.
+- Alors que le marché bascule d'une panique généralisée vers une accumulation sélective, quatre géants technologiques mènent le retour dans le vert.
 
-## [Attention aux cadeaux empoisonnés : ce smartphone offert est contaminé par un virus espion](https://www.01net.com/actualites/attention-aux-cadeaux-empoisonnes-ce-smartphone-offert-est-contamine-par-un-virus-espion.html)  
-*Source : 01net.com | Publication : 2026-05-08*
+## [Quatorze équipes s'affrontent pour tester leurs compétences en matière de traque des ... - Vietnam.vn](https://www.vietnam.vn/fr/14-doi-thi-thu-suc-truy-vet-toi-pham-mang-nang-cao-nang-luc-dieu-tra-so)  
+*Source : vietnam.vn | Publication : 2026-05-09*
 
-- L’été dernier, les chercheurs de Kaspersky ont découvert LunaSpy, un nouveau spyware lancé à l’assaut des smartphones Android.
-- Actif depuis février 2025, le virus se déguise en application antivirus ou en « outil de protection bancaire » pour tromper ses victimes.
-- Il se propage principalement via des messages usurpant l’identité de contacts de confiance, ou par le biais de chaînes Telegram.
-- Une fois installée, l’application simule une analyse de sécurité et affiche de fausses alertes pour faire paniquer l’utilisateur et le pousser à accorder un maximum d’autorisations.
+- Le 8 mai à Hanoï, le Département de la cybersécurité et de la prévention de la criminalité de haute technologie (A05 - Ministère de la Sécurité publique ) a officiellement organisé le premier tour du concours « Voyage pour traquer les cybercriminels » avec la participation de 14 équipes.
+- Le concours se compose de quatre manches et a pour thème « Reconstituer le puzzle, recréer les actions ».
+- Il repose sur un nouveau modèle de formation simulant des scénarios d'enquête numérique réalistes.
+- Cette activité vise à renforcer les compétences des officiers et des militaires en matière d'enquête numérique, d'exploitation des sources ouvertes et de criminalistique numérique dans la lutte contre la cybercriminalité.
 
-## [Cyberattaques : un risque systémiqu... - HES-SO Valais-Wallis](https://www.hevs.ch/fr/actualites/cyberattaques--un-risque-systemique-qui-touche-toutes-les-organisations-214476)  
-*Source : hevs.ch | Publication : 2026-05-08*
+## [<b>Cybercriminalité</b>: Elon Musk injurie des magistrats français sur le réseau social X](https://www.lenouvelliste.ch/monde/cybercriminalite-elon-musk-injurie-des-magistrats-francais-sur-le-reseau-social-x-1498261)  
+*Source : lenouvelliste.ch | Publication : 2026-05-09*
 
-- Début mai 2026, une nouvelle cyberattaque a touché le secteur de la santé en Suisse romande.
-- Sans entrer dans les détails, cet incident rappelle une réalité désormais bien établie : aucune organisation n’est à l’abri, y compris dans des domaines sensibles et fortement réglementés [20min.ch] Au-delà du cas particulier, c’est surtout un signal fort des mutations en cours dans le paysage numérique.
-- Une intensification des menaces en Suisse Les chiffres confirment cette tendance.
-- En 2025, plus de 64 000 cyberincidents ont été signalés en Suisse, en nette augmentation par rapport aux années précédentes.
+- Votre publicité ici avec IMPACT_medias Cybercriminalité: Elon Musk injurie des magistrats français sur le réseau social X Elon Musk a injurié vendredi des magistrats français sur son réseau social X, avec des propos à caractère homophobe.
+- Votre publicité ici avec IMPACT_medias.
 
-## [L'IA peut-elle pirater la bombe nucléaire ? Ce que l'outil Mythos révèle des dangers éventuels](https://www.sudouest.fr/sciences-et-technologie/l-ia-peut-elle-pirater-la-bombe-nucleaire-ce-que-l-outil-mythos-revele-des-dangers-eventuels-28973356.php)  
-*Source : sudouest.fr | Publication : 2026-05-08*
+## [Ces pilleurs de données personnelles qui piègent les entreprises et les géants de la Tech ...](https://atlantico.fr/article/decryptage/ces-pilleurs-de-donnees-personnelles-qui-piegent-les-entreprises-et-les-geants-de-la-tech-en-se-faisant-passer-pour-la-police)  
+*Source : atlantico.fr | Publication : 2026-05-09*
 
-- Cet article a été initialement publié sur The Conversation.
-- L’apparition de l’IA Mythos, présentée comme capable de détecter rapidement des failles informatiques majeures, montre que les capacités offensives dans le cyberespace progressent très vite.
-- Cette évolution pourrait rendre les systèmes nucléaires plus vulnérables et augmenter le risque d’erreurs, de sabotage ou d’escalade accidentelle.
-- En 1983, le film WarGames imaginait un adolescent qui, entré par accident dans un système informatique du Pentagone, déclenchait un programme de simulation, lequel était interprété comme un prélude à une guerre nucléaire.
+- 9 mai 2026 Ces pilleurs de données personnelles qui piègent les entreprises et les géants de la Tech en se faisant passer pour la police L’usurpation d’identité des forces de l’ordre dans les échanges avec les plateformes révèle les fragilités d’un Internet où la confiance repose encore sur des mécanismes facilement imitables.
+- Entre failles techniques, urgence opérationnelle et explosion du doxing, cette affaire met en lumière les difficultés croissantes des États et des entreprises à sécuriser l’identité numérique et la protection des données personnelles.
+- 6 min de lecture 0:00min 100% 100%.
+- Benoît Grunenwald est expert en cybersécurité chez ESET.
 
-## [ShinyHunters intensifie ses attaques contre Canvas en piratant les pages de connexion des ...](https://www.malwarebytes.com/fr/blog/news/2026/05/shinyhunters-escalates-canvas-attacks-with-school-login-defacements)  
-*Source : malwarebytes.com | Publication : 2026-05-08*
+## [Crypto-actifs: retard des banques centrales face aux <b>cybermenaces</b> - APAnews](https://fr.apanews.net/security/crypto-actifs-lafrique-centrale-a-la-traine-face-aux-cybermenaces/)  
+*Source : fr.apanews.net | Publication : 2026-05-09*
 
-- Quelques jours après avoir confirmé une importante fuite de données, Instructure subit aujourd'hui un nouveau coup dur.
-- En début de semaine, Instructure a confirmé une importante fuite de données touchant son environnement Canvas hébergé dans le cloud ; le groupe ShinyHunters affirme avoir dérobé des centaines de millions d'enregistrements liés à des milliers d'écoles et d'universités à travers le monde.
-- Comme nous l'avons évoqué dans notre précédent article de blog, cet incident concernait des données telles que les dossiers des étudiants et du personnel, les détails d'inscription et les messages privés, auxquels il aurait été accédé via les fonctionnalités d'exportation et les API de Canvas.
-- À ce stade, l'accent était mis sur le vol de données à grande échelle et les risques à long terme pour les étudiants et les familles concernés, notamment l'usurpation d'identité et le phishing très ciblé.
+- Plusieurs gouverneurs de banques centrales africaines ont relevé le retard préoccupant du continent face à la montée des cybermenaces et à l’essor des innovations financières numériques.
+- Le constat d’un retard des banques africaines face aux cybermenaces, dressé vendredi à Dakar, est sans détour : les régulateurs africains peinent à suivre le rythme des crypto-actifs et des nouvelles technologies financières.
+- Plusieurs responsables monétaires ont appelé à un renforcement urgent des capacités de supervision et de cybersécurité.
+- S’exprimant à l’occasion de la 3e édition de la conférence internationale de la BCEAO, ouverte ce vendredi à Dakar sous le thème : « Crypto-actifs et innovations numériques : opportunités et défis pour la stabilité monétaire et financière », les responsables monétaires ont multiplié les mises en garde contre les risques liés à la finance numérique, tout en reconnaissant que leurs institutions avaient, pour beaucoup, pris du retard face à ces transformations technologiques.
 
-## [Cisco lance un partenariat stratégique avec STATION F - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites/cisco-lance-un-partenariat-strategique-avec-station-f-45077)  
-*Source : bourse.fortuneo.fr | Publication : 2026-05-08*
+## [8 000 écoles piratées, données massives en fuite, contact avec hackers, ce que les ...](https://www.carnetdebord.info/8-000-ecoles-piratees-donnees-massives-en-fuite-contact-avec-hackers-ce-que-les-etablissements-doivent-affronter/)  
+*Source : carnetdebord.info | Publication : 2026-05-09*
 
-- Cisco, leader mondial des réseaux et de la cybersécurité, a annoncé aujourd'hui une nouvelle initiative visant à soutenir la croissance des startups françaises du secteur de l'IA.
-- Cette initiative prend la forme d'un partenariat stratégique avec STATION F, le plus grand campus de startups au monde.
-- Cisco déploiera un réseau haute performance et des solutions de sécurité robustes sur le campus de STATION F afin d'offrir vitesse et connectivité aux plus de 1 000 startups qui y sont installées.
-- "La France possède une communauté de startups florissante qui se trouve à un tournant critique : le passage des concepts d'innovation au déploiement à grande échelle.
+- Une tempête numérique s’est abattue sur le monde éducatif.
+- Le piratage de Canvas, une plateforme de gestion de l’apprentissage utilisée par plus de 8 000 établissements scolaires, a révélé une faille béante dans la sécurité des données.
+- Des millions d’étudiants et de professeurs voient leur vie privée menacée, puisque des informations personnelles ont été compromises.
+- Le groupe de hackers ShinyHunters a revendiqué l’attaque, plongeant les écoles dans une période de négociations difficiles.
 
-## [Des universités canadiennes touchées par une cyberattaque - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2252379/panne-information-etablissements-scolaires-hacker-pirates)  
-*Source : ici.radio-canada.ca | Publication : 2026-05-08*
+## [Et si Pékin coupait l'électricité des panneaux photovoltaïques à distance? Les risques réels ...](https://www.levif.be/economie/energie/et-si-pekin-coupait-lelectricite-des-panneaux-photovoltaiques-a-distance-les-risques-reels-des-onduleurs-chinois/)  
+*Source : levif.be | Publication : 2026-05-09*
 
-- Des universités canadiennes touchées par une cyberattaque Le groupe de pirates informatiques ShinyHunters a revendiqué la responsabilité de la violation subie par Canvas, selon Luke Connolly, analyste en menaces chez Emisoft, une entreprise spécialisée en cybersécurité.
-- (Photo d’archives) Photo : Reuters / Kacper Pempel Des établissements d’enseignement postsecondaire de l’Ontario, dont l’Université de Toronto, figurent parmi les milliers d’établissements touchés par un incident de cybersécurité concernant le logiciel d’apprentissage Canvas.
-- Celui-ci est utilisé par les établissements scolaires pour partager du matériel pédagogique, comme des vidéos de cours, des notes et des devoirs, et pour distribuer les notes.
-- Instructure, la société mère américaine de Canvas, a initialement publié un message sur son site Web le 1er mai concernant une faille de sécurité causée par un acteur malveillant.
+- L'Europe invoque un risque de cybersécurité et de dépendance stratégique face à des fournisseurs jugés «à haut risque», notamment chinois.
+- Pourtant,.
 
-## [Webinaire <b>Cybersécurité</b>/Cyberharcèlement - Actualité illiwap de Mairie d'Épercieux-Saint-Paul](https://station.illiwap.com/fr/public/42088/actu/webinaire-cybersecurite-cyberharcelement-4)  
-*Source : station.illiwap.com | Publication : 2026-05-08*
+## [De la <b>cybersécurité</b> aux légumes dans votre assiette - Le Droit](https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/05/09/de-la-cybersecurite-aux-legumes-dans-votre-assiette-DVGWUXCEXNAKLLWQB5MAQANUXI/)  
+*Source : ledroit.com | Publication : 2026-05-09*
 
-- Webinaire Cybersécurité/Cyberharcèlement Dans le cadre de la feuille de route « France Numérique Ensemble » du Département de la Loire sur le volet « médiation numérique », nous proposons aux jeunes âgés de 12 à 18 ans : Un parcours d’autoformation sur l’Intelligence Artificielle démarrant le 11 mai 2026 - Un webinaire autour de la cybersécurité et du cyberharcèlement (plusieurs dates proposées d’ici juillet 2026) -.
+- L’idée peut surprendre au premier regard, mais tous les ingrédients sont en place pour y réfléchir sérieusement, assure le président du comité consultatif agricole (CCA) de Gatineau, Timmy Jutras.
+- Ce dernier déposait d’ailleurs au conseil municipal, plus tôt cette semaine, le nouveau Plan de développement de la zone et des activités agricoles (PDZAA) pour les années 2026 à 2030.
+- Un premier constat saute aux yeux.
+- Le territoire agricole de Gatineau est largement sous-utilisé.
 
-## [Libreville, future capitale africaine de la <b>cybersécurité</b> et de l'innovation technologique](https://www.union.sonapresse.com/fr/libreville-future-capitale-africaine-de-la-cybersecurite-et-de-linnovation-technologique)  
-*Source : union.sonapresse.com | Publication : 2026-05-08*
+## [Sarah El Haïry, haut-commissaire à l'enfance : « Confronter des enfants à des systèmes de ...](https://www.lemonde.fr/pixels/article/2026/05/09/sarah-el-hairy-haut-commissaire-a-l-enfance-confronter-des-enfants-a-des-systemes-de-captivite-algorithmique-c-est-aussi-de-la-predation_6687410_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-05-09*
 
-- Imaginez le Gabon fabriquer des produits technologiques de dernière génération pour sécuriser son avenir et celui du monde.
-- C'est le défi que s'apprête à relever le pays via l'initiative d'un compatriote qui a réussi à mobiliser l'élite scientifique américaine.
-- Du 15 au 18 juin prochain, Libreville accueillera le lancement de la production locale des technologies "Pay Rem Aegis" et la création d'un Centre d'innovation, de recherche et développement technologique.
-- Le projet prévoit aussi l'ouverture d'un institut de recherche, avec un laboratoire, d'une académie de formation multisectorielle et une usine de fabrication des produits et solutions technologiques.
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
