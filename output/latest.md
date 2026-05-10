@@ -1,152 +1,155 @@
-# Résumés – 2026-05-09
+# Résumés – 2026-05-10
 
 
-## [Pourquoi les valeurs de <b>cybersécurité</b> bénéficieront des risques liés à l'IA - Yahoo Finance](https://fr.finance.yahoo.com/actualites/pourquoi-valeurs-cybersécurité-bénéficieront-risques-221647996.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-05-09*
+## [« Du contenu criminel » : la justice se penche sur deux plateformes suspectées d'infraction ...](https://www.leparisien.fr/societe/du-contenu-criminel-la-justice-se-penche-sur-deux-plateformes-suspectees-dinfraction-a-caractere-sexuel-11-05-2026-HKT2Q3FKZBHYRJTWHU7FYS3KBI.php)  
+*Source : leparisien.fr | Publication : 2026-05-10*
 
-- Investing.com- Les entreprises de cybersécurité sont en passe de devenir les grandes bénéficiaires des risques croissants liés à l’intelligence artificielle, même si les investisseurs se montrent plus sélectifs et que les multiples de valorisation se compriment dans l’ensemble du secteur des logiciels, selon Bank of America.
-- Les analystes de BofA indiquent que l’adoption de l’IA stimule la demande de produits de cybersécurité, les entreprises cherchant à se protéger contre les nouvelles menaces générées par les outils d’IA, notamment des cyberattaques plus sophistiquées et des risques liés aux données.
-- « Nous pensons que les valeurs de Cybersécurité seront les grands bénéficiaires des risques liés à l’IA », ont écrit les analystes, tout en soulignant que les investisseurs accordent désormais une plus grande importance à la visibilité des flux de trésorerie disponibles et à la croissance durable.
-- La banque a maintenu ses recommandations sur les sociétés de cybersécurité, notamment Sailpoint (NASDAQ:SAIL), SentinelOne (NYSE:S) et Zscaler (NASDAQ:ZS), bien qu’elle ait abaissé ses multiples de valorisation et ses objectifs de cours pour tenir compte de la compression généralisée des multiples dans le secteur des logiciels.
+- « Du contenu criminel » : la justice se penche sur deux plateformes suspectées d’infraction à caractère sexuel Les signalements visant les plateformes Chatiw et Motherless, pour de possibles infractions à caractère sexuel, sont « à l’étude au sein de la section spécialisée en cybercriminalité », a indiqué dimanche le parquet de Paris.
+- Les signalements visant les plateformes Chatiw et Motherless, pour de possibles infractions à caractère sexuel, sont « à l’étude au sein de la section spécialisée en cybercriminalité », a indiqué dimanche le parquet de Paris, sollicité par l’AFP.
+- Cette phase d’analyse précède en général la décision d’ouvrir ou non une enquête.
+- La ministre déléguée chargée de l’Égalité Femmes/Hommes Aurore Bergé avait évoqué mercredi à l’Assemblée nationale des signalements auprès du procureur, notamment, concernant le site Motherless, qui héberge des vidéos d’actes sexuels sur des femmes inconscientes et fait ainsi « commerce du viol de femmes ».
 
-## [NordVPN casse ses prix avec la meilleur offre de l'année - JVTECH by jeuxvideo.com](https://www.jeuxvideo.com/news/2080521/nordvpn-casse-ses-prix-avec-la-meilleur-offre-de-l-annee.htm)  
-*Source : jeuxvideo.com | Publication : 2026-05-09*
+## [<b>Cybersécurité</b> : les 10 actualités majeures du 10 mai 2026](https://dcod.ch/2026/05/10/cybersecurite-les-10-actualites-majeures-du-10-mai-2026/)  
+*Source : dcod.ch | Publication : 2026-05-10*
 
-- Le réseau privé virtuel (VPN) NordVPN est reconnu pour ses performances élevées et son engagement envers la confidentialité des utilisateurs.
-- En offrant un chiffrement de nouvelle génération et une couverture mondiale étendue, il se positionne comme un outil de cybersécurité complet pour les particuliers et les professionnels.
-- Un service de cybersécurité reconnu pour sa performance La protection en ligne est devenue une préoccupation centrale face à l'augmentation des risques liés aux données personnelles et à la surveillance numérique.
-- Un réseau privé virtuel, ou VPN, agit comme un tunnel sécurisé qui chiffre la connexion Internet de l'utilisateur, masquant ainsi son adresse IP réelle.
+- Faits marquants de la semaine Des industriels européens redoutent que le futur Cloud and AI Development Act, censé bâtir une filière de cloud souverain, n’intègre trop largement des technologies américaines, comme l’illustre un contrat « souverain » de 180 millions d’euros incluant Google.
+- - L’Union européenne va interdire d’ici au 2 décembre 2026 les services d’intelligence artificielle capables de « dénuder » des personnes sans consentement, tout en reportant à 2027‑2028 l’application des obligations pesant sur les systèmes dits à hauts risques.
+- - Un accord politique à Bruxelles prévoit de retarder certaines règles encadrant les usages à hauts risques de l’intelligence artificielle et d’exempter les applications industrielles, ce que des représentants d’entreprises jugent insuffisant pour alléger réellement la charge réglementaire.
+- - Au Royaume‑Uni, les autorités de contrôle biométrique alertent sur un usage croissant de la reconnaissance faciale par la police et les commerçants, avec un audit indépendant repoussé et des inquiétudes publiques fortes sur la dérive vers une société de surveillance.
 
-## [<b>Cybersécurité</b> : ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données ...](https://www.lindependant.fr/2026/05/09/cybersecurite-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donnees-personnelles-et-industrielles-livrees-aux-agents-ia-13362475.php)  
-*Source : lindependant.fr | Publication : 2026-05-09*
+## [Menaces de faible gravité : le talon d'Achille de la <b>cybersécurité</b> - Foro3D](https://foro3d.com/fr/2026/mayo/amenazas-de-baja-gravedad-el-talon-de-aquiles-de-la-ciberseguridad.html)  
+*Source : foro3d.com | Publication : 2026-05-10*
 
-- Cybersécurité : ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA Confier ses données à l’IA conversationnelle présente des dangers, notamment pour des entreprises qui peuvent y livrer des secrets industriels.
-- Alors que les attaques informatiques contre toute sorte de bases de données se multiplient ces derniers mois à un rythme effréné (418 depuis août 2025), les mises en garde de spécialistes de la cybersécurité sont précieuses.
-- Si naviguer sur Internet présente des risques connus, le danger est moins établi concernant les géants de l’IA conversationnelle tels que ChatGPT, Mistral, Claude, Grok, Perplexity ou encore Gemini.
-- Patron de l’entreprise Adamentis basée à Perpignan, Vincent Podlunsek met en garde contre ce "nouveau danger" de vouloir mettre dans l’IA des informations personnelles, voire de son entreprise, pour construire ses prompts.
+- Une analyse massive de 25 millions d'alertes révèle que les équipes de sécurité ignorent, en moyenne, une menace réelle chaque semaine.
+- La raison n'est pas un manque de technologie, mais un biais dangereux : les classer comme de faible gravité.
+- Ces alertes mineures, en s'accumulant, créent des brèches que les attaquants exploitent sans se presser, mais avec efficacité.
+- Le coût caché de ne prioriser que le critique 🧠 La fatigue des alertes et le manque de ressources poussent les analystes à filtrer par niveau de sévérité, laissant de côté des événements comme les tentatives d'authentification échouées ou le trafic anormal de faible fréquence.
 
-## [<b>Cybersécurité</b> : &quot;Un nombre d'attaques incroyable depuis le mois d'août&quot;… L'IA accélère les ...](https://www.lindependant.fr/2026/05/09/cybersecurite-un-nombre-dattaques-incroyable-depuis-le-mois-daout-lia-accelere-les-vols-de-donnees-cet-expert-alerte-et-donne-des-cles-pour-se-13362058.php)  
-*Source : lindependant.fr | Publication : 2026-05-09*
+## [Le découragement gagne les professionnels de la <b>cybersécurité</b> - INCYBER NEWS](https://incyber.org/article/decouragement-gagne-professionnels-cybersecurite/)  
+*Source : incyber.org | Publication : 2026-05-10*
 
-- Cybersécurité : "Un nombre d’attaques incroyable depuis le mois d’août"… L’IA accélère les vols de données, cet expert alerte et donne des clés pour se protéger Aucune base de données ne semble échapper aux vols depuis quelques mois.
-- Alors que "l’or noir" du XXIe siècle aiguise les appétits, les particuliers et les entreprises trinquent.
-- "Les règles ne font pas la sécurité".
-- Entré en vigueur en 2018, le RGPD (pour règlement général sur la protection des données) semblait assurer aux usagers un contrôle strict de l’accès à leurs données, où qu’elles soient stockées dans l’Union européenne.
+- Le découragement gagne les professionnels de la cybersécurité Articles du même auteur : 3 Le cabinet Harvey Nash a publié, début mai 2026, son rapport annuel mondial sur l’emploi et les salaires dans les hautes technologies.
+- Il montre notamment que les responsables de la sécurité informatique comptent parmi les professionnels les plus démotivés.
+- Près d’un quart (23 %) des RSSI interrogés se disent mécontents de leur travail.
+- Près d’un sur deux (49 %) envisage de changer d’emploi dans les douze prochains mois, contre 39 % pour l’ensemble des répondants.
 
-## [<b>Cybersécurité</b> électorale : Denis Kadima vante l'expérience congolaise à Rome](https://ouragan.cd/2026/05/cybersecurite-electorale-denis-kadima-vante-lexperience-congolaise-a-rome)  
-*Source : ouragan.cd | Publication : 2026-05-09*
+## [États-Unis : l'ancien négociateur en chef de Conti condamné à huit ans de prison](https://incyber.org/article/etats-unis-ancien-negociateur-en-chef-conti-condamne-huit-ans-prison/)  
+*Source : incyber.org | Publication : 2026-05-10*
 
-- 8 mai dernier, à Rome, à l'occasion de la clôture d'une mission d'apprentissage entre pairs consacrée aux cybermenaces dans les processus électoraux.
+- États-Unis : l’ancien négociateur en chef de Conti condamné à huit ans de prison Articles du même auteur : 1 10.05.26 Secops Le découragement gagne les professionnels de la cybersécurité Lire 02.
 
-## [Division <b>Cybersécurité</b> : La chute de la séductrice Facebook Aminata Coulibaly.](https://www.ndarinfo.com/Division-Cybersecurite-La-chute-de-la-seductrice-Facebook-Aminata-Coulibaly_a44584.html)  
-*Source : ndarinfo.com | Publication : 2026-05-09*
+## [Un groupe APT nord-coréen a espionné des Coréens en Chine en piratant un jeu de cartes](https://incyber.org/article/groupe-apt-nord-coreen-espionne-coreens-chine-piratant-jeu-cartes/)  
+*Source : incyber.org | Publication : 2026-05-10*
 
-- Aminata Coulibaly, une jeune femme qui utilisait les réseaux sociaux pour piéger ses victimes, a été interpellée par les éléments de la Division Spéciale de Cybersécurité (DSC).
-- Son mode opératoire, d'une audace singulière, consistait à séduire des hommes sur Facebook avant de les séquestrer et de les dépouiller lors de leurs rencontres physiques.
-- Le piège se refermait généralement au moment le plus intime.
-- Selon les premiers éléments de l'enquête révélés par le journal Libération, Aminata Coulibaly, une fois dans la chambre de ses victimes, prétextait une envie soudaine d'aller aux toilettes en plein acte sexuel.
+- Un groupe APT nord-coréen a espionné des Coréens en Chine en piratant un jeu de cartes Articles du même auteur : 1 10.05.26 Secops Le découragement gagne les professionnels de la cybersécurité Lire 02.
+- 3.
 
-## [« Elle séquestre des hommes et les dépouille » : Comment les enquêteurs ont fait tomber ...](https://www.senenews.com/actualites/elle-sequestre-des-hommes-et-les-depouille-comment-les-enqueteurs-ont-fait-tomber-aminata-coulibaly_585780.html)  
-*Source : senenews.com | Publication : 2026-05-09*
+## [<b>Cybersécurité</b> et aviation civile : partenariat entre l'ANINF et l'ANAC pour bâtir une ... - Gabon Actu](https://gabonactu.com/blog/2026/05/10/cybersecurite-et-aviation-civile-partenariat-entre-laninf-et-lanac-pour-batir-une-administration-gabonaise-plus-performante/)  
+*Source : gabonactu.com | Publication : 2026-05-10*
 
-- « Elle séquestre des hommes et les dépouille » : Comment les enquêteurs ont fait tomber Aminata Coulibaly Aminata Coulibaly, une femme de 50 ans se faisant passer pour une femme de ménage, a été arrêtée par la Division spéciale de cybersécurité après avoir séquestré et dépouillé plusieurs hommes.
-- Son mode opératoire, intriguant et audacieux, soulève des questions sur la sécurité en ligne et les dangers des rencontres virtuelles.
-- La Division spéciale de cybersécurité (Dsc) a mis fin aux agissements présumés d’une femme identifiée comme Aminata Coulibaly, âgée de 50 ans et se présentant comme femme de ménage.
-- Elle a été placée en garde à vue pour vol, escroquerie, abus de confiance et séquestration, à la suite de plusieurs plaintes déposées par des victimes.
+- Face à la montée en puissance des cybermenaces à l’échelle mondiale et à l’impératif de modernisation des services publics, le Gabon poursuit résolument sa transformation numérique.
+- Dans cette dynamique, l’Agence nationale des infrastructures numériques et des fréquences (ANINF) et l’Agence nationale de l’aviation civile (ANAC) ont signé le 7 mai 2026, une convention de partenariat stratégique consacrée à la cybersécurité et à la modernisation des systèmes d’information.
+- L’accord marque une avancée majeure dans la volonté des pouvoirs publics de doter l’administration gabonaise d’outils numériques robustes, sécurisés et capables de répondre aux exigences d’un environnement technologique en constante évolution.
+- Dans des secteurs aussi sensibles que l’aviation civile, où la protection des données, la fiabilité des systèmes et la continuité des opérations constituent des enjeux critiques, une telle coopération revêt une importance capitale.
 
-## [Proton Mail, Infomaniak : la souveraineté de vos emails reste une illusion face aux règles ...](https://www.clubic.com/dossier-612034-proton-mail-infomaniak-la-souverainete-de-vos-emails-reste-une-illusion-face-aux-regles-dictees-par-google.html)  
-*Source : clubic.com | Publication : 2026-05-09*
+## [Distribution quantique de clés (QKD) : quand la promesse quantique se confronte au terrain](https://incyber.org/article/distribution-quantique-cles-qkd-quand-promesse-quantique-confronte-terrain/)  
+*Source : incyber.org | Publication : 2026-05-10*
 
-- Proton Mail, La Poste, Infomaniak, Mailo... les messageries "souveraines" se multiplient.
-- Mais elles reposent toutes sur le même protocole conçu en 1982 aux États-Unis, sans authentification native et sans chiffrement.
-- Les normes de sécurité ajoutées depuis ont été définies par Yahoo, Cisco, Microsoft et Google.
-- Et Gmail filtre une part considérable du trafic email mondial, sans que l'Europe ne puisse dire quoi que ce soit.
+- Accueil - Transformation numérique - Distribution quantique de clés (QKD) : quand la promesse quantique se confronte au terrain - Distribution quantique de clés (QKD) : quand la promesse quantique se confronte au terrain La distribution quantique de clés – ou QKD pour Quantum Key Distribution– n’est plus reléguée aux expérimentations confinées des laboratoires.
+- La technologie émerge bel et bien, concrètement et dans des réseaux réels avec des cas d’usage identifiés et des premiers retours d’expérience.
+- Le mouvement reste certes limité, mais il suffit à faire évoluer la perception du sujet : on ne parle plus uniquement d’une promesse technologique, mais bien d’implémentations.
+- Ce basculement intervient dans un contexte plus global autour de sujet de la cryptographie quantique qui s’impose progressivement dans les stratégies de cybersécurité.
 
-## [Une infrastructure numérique résiliente pour un avenir sûr - Siemens](https://www.siemens.com/fr-fr/company/insights/dubai-electricity-water-authority/)  
-*Source : siemens.com | Publication : 2026-05-09*
+## [Le risque Mythos - Meta n'aura pas Manus - Jobs apocalypse en doute - GitHub Copilot restreint...](https://secretsdedata.substack.com/p/le-risque-mythos-meta-naura-pas-manus)  
+*Source : secretsdedata.substack.com | Publication : 2026-05-10*
 
-- Rester en sécurité dans un monde numérique Dubaï est une ville en pleine expansion : elle est tournée vers l'avenir, elle repousse les limites et elle est une pionnière mondiale des villes intelligentes.
-- La ville privilégie l'innovation pour créer des expériences sûres, personnalisées et efficaces, améliorer ainsi la qualité de vie et la durabilité à long terme.
-- Au cœur de tout cela se trouve la Dubai Electricity & Water Authority (DEWA).
-- C'est pourquoi Siemens a collaboré avec DEWA pour développer des solutions innovantes visant à créer un réseau numérique sécurisé et résilient.
+- L'onde de choc Mythos en cybersécurité.
+- Le rapport d'analyse du Campus Cyber relatif au modèle Mythos d'.
 
-## [<b>Cybersécurité</b> : accepter les cookies sans vérifier ce détail dans l'URL peut être risqué](https://www.journaldesfemmes.fr/maman/magazine/3264837-accepter-les-cookies-verification-url/)  
-*Source : journaldesfemmes.fr | Publication : 2026-05-09*
+## [IOCTA 2026 : Europol recense plus de 120 marques de <b>ransomware</b>](https://dcod.ch/2026/05/10/iocta-2026-europol/)  
+*Source : dcod.ch | Publication : 2026-05-10*
 
-- Cybersécurité : accepter les cookies sans vérifier ce détail dans l'URL peut être risqué Selon les experts en cybersécurité, cliquer machinalement sur "accepter les cookies" peut poser problème.
-- On le fait tous, souvent sans réfléchir en navigant sur le web.
-- Une fenêtre s'ouvre, on clique sur "tout accepter" et on passe à autre chose.
-- Si cette validation expéditive est devenue un automatisme lors de la navigation web, derrière ce geste, il y a des enjeux bien réels autour de la confidentialité de vos données.
+- TL;DR : L’essentiel Le partage des profits au sein des réseaux de ransomware atteint désormais 85 %, incitant les cybercriminels à adopter des modèles économiques toujours plus agressifs.
+- - L’usage du chiffrement de bout en bout et des proxys résidentiels camoufle le trafic malveillant, compliquant ainsi la localisation des infrastructures par les enquêteurs.
+- - Des acteurs étatiques utilisent désormais des réseaux cybercriminels comme intermédiaires pour mener des opérations de déstabilisation et de vol de données stratégiques.
+- - L’exploitation sexuelle des enfants en ligne subit une mutation avec une hausse de 70 % des signalements d’extorsion financière, facilitée par la génération d’images.
 
-## [Chiffrement de bout en bout : le renseignement français défend un accès légal aux ...](https://www.usine-digitale.fr/cybersecurite/chiffrement-de-bout-en-bout-le-renseignement-francais-defend-un-acces-legal-aux-communications-privees.5UOGOEHOTZEILOIA4C4JYLENYQ.html)  
-*Source : usine-digitale.fr | Publication : 2026-05-09*
+## [Hamid Chriet : En <b>cybersécurité</b>, la vulnérabilité ne vient pas toujours de nos propres systèmes](https://lematin.ma/nation/en-cybersecurite-la-vulnerabilite-ne-vient-pas-toujours-de-nos-systemes/344953)  
+*Source : lematin.ma | Publication : 2026-05-10*
 
-- Alors que le Parlement s'apprête à examiner plusieurs textes relatifs à la cybersécurité , la délégation parlementaire au renseignement assume.
+- Le Matin : Le Maroc a subi plus de 20,7 millions de tentatives de cyberattaques au premier semestre 2025, selon Kaspersky.
+- Mais au-delà de ce chiffre impressionnant, comment caractériser aujourd’hui la nature réelle de la menace cyber au Maroc ?.
+- Hamid Chriet : Le chiffre interpelle en effet, mais au-delà de sa valeur brute, le véritable danger réside dans le fait que la menace n’est plus ponctuelle : elle est désormais structurelle et permanente.
+- Les données récentes de la DGSSI (Direction générale de la sécurité des systèmes d'information) sont claires : 879 cyberattaques recensées sur l’année, dont 109 classées comme critiques visant la finance, les télécoms, l’administration, le retail ou les services essentiels.
 
-## [Quatre actions logicielles sortent désormais de la « SaaSpocalypse - TradingView](https://fr.tradingview.com/news/invezz:04aeb97cab858:0/)  
-*Source : fr.tradingview.com | Publication : 2026-05-09*
+## [Justice numérique, extradition, <b>cybersécurité</b> : Ouahbi expose la feuille de route ...](https://fr.hespress.com/472892-justice-numerique-extradition-cybersecurite-ouahbi-expose-la-feuille-de-route-internationale-du-maroc.html)  
+*Source : fr.hespress.com | Publication : 2026-05-10*
 
-- Quatre actions logicielles sortent désormais de la « SaaSpocalypse » SaaSpocalypse – une vague de ventes motivée par la peur, où les investisseurs craignaient que l'intelligence artificielle (IA) ne cannibalise les fournisseurs traditionnels de logiciels en tant que service – heurte enfin un mur.
-- Alors que l'iShares Expanded Tech-Software ETF (IGV) reste en baisse sur l'année, une puissante progression de 14 % sur le dernier mois suggère un retournement structurel.
-- Selon Jason Hunter, stratégiste technique chez JPMorgan, le secteur des logiciels se dissocie des semi‑conducteurs, avec des acteurs clés sortant de configurations observées depuis plusieurs semaines.
-- Alors que le marché bascule d'une panique généralisée vers une accumulation sélective, quatre géants technologiques mènent le retour dans le vert.
+- Le Maroc entend faire de la coopération judiciaire internationale l’un des piliers de la modernisation de son appareil judiciaire.
+- Entre accords bilatéraux, ouverture sur les conventions internationales et accélération de la numérisation des tribunaux, le ministère de la justice revendique une stratégie tournée vers le renforcement de la sécurité juridique et l’adaptation de la justice marocaine aux enjeux croissants des contentieux transfrontaliers.
+- Dans une réponse écrite adressée au conseiller parlementaire Khalid Es-Satte à la Chambre des conseillers, le ministre de la justice, Abdellatif Ouahbi, dresse le bilan des programmes de coopération internationale menés durant l’actuelle législature.
+- Le responsable affirme que la coopération judiciaire internationale est devenue « un outil essentiel » face aux mutations imposées par la mondialisation juridique et l’augmentation des affaires impliquant plusieurs États.
 
-## [Quatorze équipes s'affrontent pour tester leurs compétences en matière de traque des ... - Vietnam.vn](https://www.vietnam.vn/fr/14-doi-thi-thu-suc-truy-vet-toi-pham-mang-nang-cao-nang-luc-dieu-tra-so)  
-*Source : vietnam.vn | Publication : 2026-05-09*
+## [Plateformes Chatiw et Motherless: des signalements étudiés par la justice - Notre Temps](https://www.notretemps.com/depeches/plateformes-chatiw-et-motherless-des-signalements-etudies-par-la-justice-132445)  
+*Source : notretemps.com | Publication : 2026-05-10*
 
-- Le 8 mai à Hanoï, le Département de la cybersécurité et de la prévention de la criminalité de haute technologie (A05 - Ministère de la Sécurité publique ) a officiellement organisé le premier tour du concours « Voyage pour traquer les cybercriminels » avec la participation de 14 équipes.
-- Le concours se compose de quatre manches et a pour thème « Reconstituer le puzzle, recréer les actions ».
-- Il repose sur un nouveau modèle de formation simulant des scénarios d'enquête numérique réalistes.
-- Cette activité vise à renforcer les compétences des officiers et des militaires en matière d'enquête numérique, d'exploitation des sources ouvertes et de criminalistique numérique dans la lutte contre la cybercriminalité.
+- Plateformes Chatiw et Motherless: des signalements étudiés par la justice Les signalements visant les plateformes Chatiw et Motherless, pour de possibles infractions à caractère sexuel, sont "à l'étude au sein de la section spécialisée en cybercriminalité", a indiqué dimanche le parquet de Paris, sollicité par l'AFP.
+- Cette phase d'analyse précède en général la décision d'ouvrir ou non une enquête.
+- La ministre déléguée chargée de l'Egalité Femmes/Hommes Aurore Bergé avait évoqué mercredi à l'Assemblée nationale des signalements auprès du procureur, notamment, concernant le site Motherless, qui héberge des vidéos d'actes sexuels sur des femmes inconscientes et fait ainsi "commerce du viol de femmes".
+- "Motherless est hors ligne", a posté samedi Aurore Bergé sur X.
 
-## [<b>Cybercriminalité</b>: Elon Musk injurie des magistrats français sur le réseau social X](https://www.lenouvelliste.ch/monde/cybercriminalite-elon-musk-injurie-des-magistrats-francais-sur-le-reseau-social-x-1498261)  
-*Source : lenouvelliste.ch | Publication : 2026-05-09*
+## [IA, drones, <b>cybersécurité</b> : Les fils Trump prépareraient un fonds géant à 1 milliard de](https://journalducoin.com/economie/fils-trump-prepareraient-fonds-geant/)  
+*Source : journalducoin.com | Publication : 2026-05-10*
 
-- Votre publicité ici avec IMPACT_medias Cybercriminalité: Elon Musk injurie des magistrats français sur le réseau social X Elon Musk a injurié vendredi des magistrats français sur son réseau social X, avec des propos à caractère homophobe.
-- Votre publicité ici avec IMPACT_medias.
+- IA, drones, cybersécurité : Les fils Trump prépareraient un fonds géant à 1 milliard de $ Les Trump à la manœuvre.
+- Selon la presse US, Eric et Donald Jr s’associeraient à plusieurs investisseurs pour lancer Trump Capital Partners, un fonds dédié à l’intelligence artificielle, aux drones, à la cybersécurité et à la robotique.
+- La famille Trump continue de pousser ses pions dans le capital-risque américain, sur des secteurs jugés stratégiques par l’administration en place.
+- Eric et Donald Jr Trump ont annoncé la création de Trump Capital Partners, un fonds d’investissement axé sur l’intelligence artificielle, la cybersécurité, les drones et la robotique.
 
-## [Ces pilleurs de données personnelles qui piègent les entreprises et les géants de la Tech ...](https://atlantico.fr/article/decryptage/ces-pilleurs-de-donnees-personnelles-qui-piegent-les-entreprises-et-les-geants-de-la-tech-en-se-faisant-passer-pour-la-police)  
-*Source : atlantico.fr | Publication : 2026-05-09*
+## [<b>Cybercriminalité</b> : Comment se prévenir des effets pervers de l'IA - Le Quotidien](https://www.lequotidien.com.tn/fr/societe/10418-cybercriminalite-comment-se-prevenir-des-effets-pervers-de-l-ia)  
+*Source : lequotidien.com.tn | Publication : 2026-05-10*
 
-- 9 mai 2026 Ces pilleurs de données personnelles qui piègent les entreprises et les géants de la Tech en se faisant passer pour la police L’usurpation d’identité des forces de l’ordre dans les échanges avec les plateformes révèle les fragilités d’un Internet où la confiance repose encore sur des mécanismes facilement imitables.
-- Entre failles techniques, urgence opérationnelle et explosion du doxing, cette affaire met en lumière les difficultés croissantes des États et des entreprises à sécuriser l’identité numérique et la protection des données personnelles.
-- 6 min de lecture 0:00min 100% 100%.
-- Benoît Grunenwald est expert en cybersécurité chez ESET.
+- Par Myriam BEN SALEM-MISSAOUI Le FMI sonne l’alarme : l’IA pourrait faire vaciller les banques et provoquer une crise mondiale.
+- Que faire pour éviter cette menace ?.
+- Le scénario ressemble à un thriller technologique.
+- Une simple faille informatique.
 
-## [Crypto-actifs: retard des banques centrales face aux <b>cybermenaces</b> - APAnews](https://fr.apanews.net/security/crypto-actifs-lafrique-centrale-a-la-traine-face-aux-cybermenaces/)  
-*Source : fr.apanews.net | Publication : 2026-05-09*
+## [SIBOS, derrière la fintech, la mécanique du système financier mondial - FrenchWeb](https://www.frenchweb.fr/sibos-derriere-la-fintech-la-mecanique-du-systeme-financier-mondial/461672)  
+*Source : frenchweb.fr | Publication : 2026-05-10*
 
-- Plusieurs gouverneurs de banques centrales africaines ont relevé le retard préoccupant du continent face à la montée des cybermenaces et à l’essor des innovations financières numériques.
-- Le constat d’un retard des banques africaines face aux cybermenaces, dressé vendredi à Dakar, est sans détour : les régulateurs africains peinent à suivre le rythme des crypto-actifs et des nouvelles technologies financières.
-- Plusieurs responsables monétaires ont appelé à un renforcement urgent des capacités de supervision et de cybersécurité.
-- S’exprimant à l’occasion de la 3e édition de la conférence internationale de la BCEAO, ouverte ce vendredi à Dakar sous le thème : « Crypto-actifs et innovations numériques : opportunités et défis pour la stabilité monétaire et financière », les responsables monétaires ont multiplié les mises en garde contre les risques liés à la finance numérique, tout en reconnaissant que leurs institutions avaient, pour beaucoup, pris du retard face à ces transformations technologiques.
+- SIBOS, derrière la fintech, la mécanique du système financier mondial 📩 Pour nous contacter: redaction@fw.media 📍 Miami 📅 28 septembre / 1 octobre 2026 Le Sibos n’est pas un salon fintech au sens classique du terme.
+- Organisé par SWIFT depuis 1978, l’événement constitue avant tout le principal sommet mondial des infrastructures financières.
+- Là où Money20/20 parle croissance, partenariats et produits fintech, et où Singapore FinTech Festival explore la convergence entre finance programmable, IA et souveraineté monétaire, Sibos traite des couches profondes du système : paiements internationaux, règlements, conformité, infrastructures bancaires, monnaies numériques et résilience financière.
+- L’édition 2026, organisée pour la première fois à Miami, intervient dans un contexte particulier.
 
-## [8 000 écoles piratées, données massives en fuite, contact avec hackers, ce que les ...](https://www.carnetdebord.info/8-000-ecoles-piratees-donnees-massives-en-fuite-contact-avec-hackers-ce-que-les-etablissements-doivent-affronter/)  
-*Source : carnetdebord.info | Publication : 2026-05-09*
+## [<b>Cybersécurité</b> : l'arnaque aux SMS blasters se généralise - Begeek](https://www.begeek.fr/cybersecurite-larnaque-aux-sms-blasters-se-generalise-432005)  
+*Source : begeek.fr | Publication : 2026-05-10*
 
-- Une tempête numérique s’est abattue sur le monde éducatif.
-- Le piratage de Canvas, une plateforme de gestion de l’apprentissage utilisée par plus de 8 000 établissements scolaires, a révélé une faille béante dans la sécurité des données.
-- Des millions d’étudiants et de professeurs voient leur vie privée menacée, puisque des informations personnelles ont été compromises.
-- Le groupe de hackers ShinyHunters a revendiqué l’attaque, plongeant les écoles dans une période de négociations difficiles.
+- Cybersécurité : l’arnaque aux SMS blasters se généralise Des dispositifs imitant des antennes-relais diffusent de faux SMS pour piéger les téléphones à grande échelle.
+- Tl;dr Une nouvelle fraude numérique utilisant des “SMS blasters” touche la Suisse et le Canada, en imitant de fausses antennes-relais.
+- - Ces dispositifs forcent les téléphones à recevoir de faux SMS d’urgence contenant des liens vers des sites frauduleux pour voler des données.
+- - Plusieurs arrestations ont eu lieu et des millions d’appareils auraient été ciblés, mettant en lumière une menace mobile de grande ampleur.
 
-## [Et si Pékin coupait l'électricité des panneaux photovoltaïques à distance? Les risques réels ...](https://www.levif.be/economie/energie/et-si-pekin-coupait-lelectricite-des-panneaux-photovoltaiques-a-distance-les-risques-reels-des-onduleurs-chinois/)  
-*Source : levif.be | Publication : 2026-05-09*
+## [Les services secrets américains vous conseillent de redémarrer votre téléphone chaque ...](https://www.science-et-vie.com/technos-et-futur/les-services-secrets-americains-vous-conseillent-de-redemarrer-votre-telephone-chaque-semaine-pour-contrer-les-cyberattaques-invisibles-238716.html)  
+*Source : science-et-vie.com | Publication : 2026-05-10*
 
-- L'Europe invoque un risque de cybersécurité et de dépendance stratégique face à des fournisseurs jugés «à haut risque», notamment chinois.
-- Pourtant,.
+- Les services secrets américains vous conseillent de redémarrer votre téléphone chaque semaine pour contrer les cyberattaques invisibles Redémarrer votre téléphone régulièrement protège vos données contre des menaces que vous ne soupçonnez même pas.
+- Ce geste anodin est aujourd'hui recommandé par les plus grandes agences de cybersécurité au monde.
+- Et la raison tient en un mot.
+- Redémarrer votre téléphone une fois par semaine protège vos données contre des cyberattaques invisibles.
 
-## [De la <b>cybersécurité</b> aux légumes dans votre assiette - Le Droit](https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/05/09/de-la-cybersecurite-aux-legumes-dans-votre-assiette-DVGWUXCEXNAKLLWQB5MAQANUXI/)  
-*Source : ledroit.com | Publication : 2026-05-09*
+## [Comment des pirates exploitent les antennes-relais pour orchestrer une redoutable arnaque ...](https://www.24matins.fr/comment-des-pirates-exploitent-les-antennes-relais-pour-orchestrer-une-redoutable-arnaque-par-sms-1407268)  
+*Source : 24matins.fr | Publication : 2026-05-10*
 
-- L’idée peut surprendre au premier regard, mais tous les ingrédients sont en place pour y réfléchir sérieusement, assure le président du comité consultatif agricole (CCA) de Gatineau, Timmy Jutras.
-- Ce dernier déposait d’ailleurs au conseil municipal, plus tôt cette semaine, le nouveau Plan de développement de la zone et des activités agricoles (PDZAA) pour les années 2026 à 2030.
-- Un premier constat saute aux yeux.
-- Le territoire agricole de Gatineau est largement sous-utilisé.
+- Comment des pirates exploitent les antennes-relais pour orchestrer une redoutable arnaque par SMS Un nouveau mode d’escroquerie inquiète les experts en cybersécurité : des fraudeurs utilisent des dispositifs sophistiqués pour détourner les antennes-relais et envoyer massivement de faux SMS aux victimes, menaçant la sécurité de leurs données personnelles.
+- Tl;dr Arnaques SMS via faux relais en hausse Suisse et Canada.
+- - Appareil force les téléphones à recevoir des messages frauduleux.
+- - Procès à Paris : des millions de victimes recensées.
 
-## [Sarah El Haïry, haut-commissaire à l'enfance : « Confronter des enfants à des systèmes de ...](https://www.lemonde.fr/pixels/article/2026/05/09/sarah-el-hairy-haut-commissaire-a-l-enfance-confronter-des-enfants-a-des-systemes-de-captivite-algorithmique-c-est-aussi-de-la-predation_6687410_4408996.html)  
-*Source : lemonde.fr | Publication : 2026-05-09*
+## [<b>Cybercriminalité</b> : pourquoi les retraités sont devenus les cibles nᵒ 1 en 2026](https://www.cesdefrance.fr/actualite/cybercriminalite-pourquoi-les-retraites-sont-devenus-les-cibles-nᵒ-1-en-2026/)  
+*Source : cesdefrance.fr | Publication : 2026-05-10*
 
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
+- En 2026, les retraités cumulent un patrimoine constitué de données sensibles en circulation permanente et une absence de filet de protection numérique.
+- Ce profil en fait des cibles de choix pour les cybercriminels, pas par naïveté, mais par construction.
+- 9 Français sur 10 ont déjà été confrontés à une situation de malveillance informatique.
+- En 2025, plus de 500 000 victimes ont été assistées par le dispositif national, en hausse de 20 % en un an.
