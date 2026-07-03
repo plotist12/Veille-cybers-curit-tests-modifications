@@ -1,5 +1,154 @@
-# Résumés – 2026-07-01
+# Résumés – 2026-07-02
 
+
+## [Voici comment renforcer efficacement votre <b>cybersécurité</b> pendant vos congés d'été - Clubic](https://www.clubic.com/bons-plans-618955-voici-comment-renforcer-efficacement-votre-cybersecurite-pendant-vos-conges-d-ete.html)  
+*Source : clubic.com | Publication : 2026-07-02*
+
+- L’été 2026 est bel et bien lancé.
+- Et pour le poursuivre de la meilleure des manières, que ce soit pour cette édition 2026 des soldes d’été, comme pour vos congés annuels, la cybersécurité doit être au rendez-vous.
+- Que ce soit pour effectuer vos achats en ligne, réserver votre prochaine destination de voyage, ou encore vous connecter avec une sécurité renforcée sur les réseaux internet publics, la solution Avast One est pensée pour s’adapter à votre besoin.
+- Disponible pour un ordinateur et un smartphone dès sa version gratuite, Avast One évolue au plus près de votre activité avec des modules complémentaires à la carte.
+
+## [AdaptHealth mène une enquête sur un incident de <b>cybersécurité</b> impliquant des données de patients](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N4341WW:0/)  
+*Source : fr.tradingview.com | Publication : 2026-07-02*
+
+- Actualités/Reuters/AdaptHealth mène une enquête sur un incident de cybersécurité impliquant des données de patientsAdaptHealth mène une enquête sur un incident de cybersécurité impliquant des données de patientsRefinitivSign up to read this newsJoin for freePlus de nouvelles provenant de Reuters.
+
+## [AdaptHealth mène une enquête sur un incident de <b>cybersécurité</b> impliquant des données de patients](https://www.boursorama.com/bourse/actualites-amp/adapthealth-mene-une-enquete-sur-un-incident-de-cybersecurite-impliquant-des-donnees-de-patients-df3c2052cdcfc94dd7b6b17ef5929ed2)  
+*Source : boursorama.com | Publication : 2026-07-02*
+
+- AdaptHealth mène une enquête sur un incident de cybersécurité impliquant des données de patients information fournie par Reuters 02/07/2026 à 22:57 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) AdaptHealth AHCO.O a annoncé jeudi qu'elle menait une enquête sur un incident de cybersécurité au cours duquel un « acteur malveillant » a obtenu un accès non autorisé à certains systèmes de l'entreprise et a dérobé des données, notamment des informations sur les patients et des mots de passe liés à la facturation des assurances.
+- La société a indiqué avoir déterminé le 27 juin que cet incident était significatif en raison de la nature et du volume potentiel des données menacées, bien qu’il n’ait pas affecté ses opérations ni sa capacité à prendre en charge ses patients.
+- Voici plus de détails: - * L'attaquant a accédé à certaines applications professionnelles hébergées dans le cloud, notamment des systèmes internes de gestion des patients et des plateformes de stockage de documents, a indiqué la société dans un communiqué réglementaire.
+- * AdaptHealth a indiqué avoir reçu un message de l’« acteur malveillant » le 15 juin, affirmant avoir obtenu des données provenant de ses systèmes, et a confirmé par la suite que certaines données avaient bien été exfiltrées.
+
+## [Wirtek A/S decroche des contrats de <b>cybersécurité</b> OT/SCADA pour trois parcs solaires en Irlande](https://www.zonebourse.com/actualite-bourse/wirtek-a-s-decroche-des-contrats-de-cybersecurite-ot-scada-pour-trois-parcs-solaires-en-irlande-ce7f5fd3dd8af525)  
+*Source : zonebourse.com | Publication : 2026-07-02*
+
+- Wirtek A/S a remporté des contrats pour la fourniture de services complets de cybersécurité OT/SCADA (technologies opérationnelles et système de contrôle et d&#039;acquisition de données) sur trois parcs de production photovoltaïque en Irlande, pour le compte d&#039;un client unique assurant la livraison et la mise en service des trois sites.
+- Les missions sont actuellement en cours et devraient s&#039;achever d&#039;ici la fin du mois de juillet 2026.
+- Chaque déploiement sur site suit la méthodologie OTShield de Wirtek : une unité de rack préconfigurée et testée en usine (FAT) est déployée sur place sans interrompre le logiciel SCADA ni les opérations en direct.Toute l&#039;infrastructure est préparée et validée dans les installations de Wirtek avant l&#039;expédition, ce qui réduit le temps passé sur site et le risque opérationnel pour le client.
+- Le périmètre complet pour les trois parcs comprend : l&#039;évaluation de la cybersécurité OT/SCADA sur site et le registre des risques ; la segmentation du réseau (zonage VLAN, listes de contrôle d&#039;accès au pare-feu et architecture d&#039;accès à distance sécurisée) ; le déploiement de racks matériels préconfigurés ; la documentation de conformité à la directive sur la sécurité des réseaux et de l&#039;information (NIS2) incluant le plan de réponse aux incidents, le plan de continuité des activités, le plan de reprise après sinistre et la politique de sécurité de la chaîne d&#039;approvisionnement ; ainsi que les tests d&#039;acceptation en usine (FAT) chez Wirtek et les tests d&#039;acceptation sur site (SAT) avec validation du client.
+
+## [Akamai Completes Acquisition of Secure Enterprise Browser Provider LayerX](https://www.akamai.com/fr/newsroom/press-release/akamai-completes-acquisition-of-secure-enterprise-browser-provider-layerx)  
+*Source : akamai.com | Publication : 2026-07-02*
+
+- Akamai est l'entreprise de cybersécurité et de Cloud Computing qui soutient et protège l'activité en ligne.
+- Nos solutions de sécurité leaders du.
+
+## [Google perturbe le réseau de proxys NetNut utilisé dans le cadre d'opérations de logiciels ...](https://www.boursorama.com/bourse/actualites-amp/google-perturbe-le-reseau-de-proxys-netnut-utilise-dans-le-cadre-d-operations-de-logiciels-malveillants-9bf268cdaa5dd51af6585f8c90962c19)  
+*Source : boursorama.com | Publication : 2026-07-02*
+
+- L'entreprise a été fondée en 2017 en tant que filiale d'Alarum Technologies, une société de cybersécurité israélienne.
+- Ad.
+- L'.
+
+## [Stratégie européenne en matière de <b>cybersécurité</b> et d'IA | 06-07-2026 | Actualité](https://www.europarl.europa.eu/news/fr/agenda/plenary-news/2026-07-06/7/strategie-europeenne-en-matiere-de-cybersecurite-et-d-ia)  
+*Source : europarl.europa.eu | Publication : 2026-07-02*
+
+- Stratégie européenne en matière de cybersécurité et d’IA Mardi, les députés interrogeront la Commission sur ses dernières propositions en matière d'intelligence artificielle et de cybersécurité.
+- Le nouveau plan d’action que la Commission communiquera le même jour devrait inclure des actions concrètes visant à aider les États membres et les entreprises en Europe à faire face aux risques de cybersécurité liés à l’IA et à renforcer les capacités avancées de l’Europe en matière de cybersécurité de l’IA.
+- Contexte: cybersécurité La Commission européenne a récemment salué la déclaration du G7 sur la cybersécurité visant à renforcer la résilience numérique mondiale.
+- Parallèlement, le Parlement européen travaille actuellement sur deux propositions législatives (le "règlement sur la cybersécurité 2"), avec une mise à jour de la directive SRI 2 et une proposition visant à renforcer l’Agence de l’Union européenne pour la cybersécurité (ENISA), le cadre de certification de cybersécurité de l’Union et la chaîne d’approvisionnement en TIC.
+
+## [Lors d'une opération mondiale, ESET participe au démantelement d'Endgame et d'Amadey](https://trends.levif.be/partenaires/lors-dune-operation-mondiale-eset-participe-au-demantelement-dendgame-et-damadey/)  
+*Source : trends.levif.be | Publication : 2026-07-02*
+
+- L'opération, coordonnée par l'unité de lutte contre la cybercriminalité de Microsoft (DCU), BitSight, Lumen et Mitsui Bussan Secure Directions.
+
+## [Le parcours pour traquer les cybercriminels. - Vietnam.vn](https://www.vietnam.vn/fr/hanh-trinh-truy-vet-toi-pham-mang)  
+*Source : vietnam.vn | Publication : 2026-07-02*
+
+- Une marque laissée par des affaires majeures.
+- Grâce à l'application synchronisée de mesures professionnelles, le Département de la cybersécurité et de la prévention de la cybercriminalité du ministère de la Sécurité publique a analysé et évalué de manière proactive les causes et les conditions des activités criminelles afin d'échanger des informations ; il s'est coordonné avec les ministères et les agences pour gérer et mettre en œuvre des mesures décisives, en se concentrant sur les domaines clés.
+- De ce fait, il a pu lutter efficacement contre les individus impliqués dans des activités criminelles telles que la fraude, les cyberattaques, le vol de données, les jeux de hasard organisés, le blanchiment d'argent et diverses infractions transnationales, les prévenir et les sanctionner.
+- Plus particulièrement, d'importantes enquêtes et opérations de répression ont été menées contre des groupes criminels impliqués dans la production et la distribution de logiciels malveillants, le piratage de comptes d'utilisateurs au niveau national et international , et la atteinte à la réputation du Vietnam sur la scène internationale.
+
+## [Fable 5 continuerait d'aider à planifier des cyberattaques après son retour](https://www.lacremedugaming.fr/high-tech/fable-5-continuerait-daider-a-planifier-des-cyberattaques-apres-son-retour-218743.html)  
+*Source : lacremedugaming.fr | Publication : 2026-07-02*
+
+- Fable 5 continuerait d’aider à planifier des cyberattaques après son retour Anthropic a remis en ligne son modèle phare Fable 5 le 1er juillet, après près de trois semaines de coupure imposée par Washington.
+- Le message officiel était clair : garde fous renforcés, sécurité mieux contrôlée.
+- Pourtant, dès ce même jour, un chercheur affirmait que le système acceptait encore d'aider à planifier des cyberattaques.
+- Pour rappel, Fable 5 est un grand modèle de langage grand public, dérivé du plus offensif Mythos 5, présenté comme un assistant pour les développeurs, les équipes de sécurité et le monde de la crypto.
+
+## [Les portes-dérobées technico-réglementaires de la cyber - INCYBER NEWS](https://incyber.org/article/les-portes-derobees-technico-reglementaires-de-la-cyber/)  
+*Source : incyber.org | Publication : 2026-07-02*
+
+- Accueil - Cybersécurité - Les portes-dérobées technico-réglementaires de la cyber - Les portes-dérobées technico-réglementaires de la cyber C’est une totale hérésie sur le plan de la cyber, et nul besoin d’avoir un BAC + 18 pour comprendre cela : que l’on soit dans le domaine de la virologie, du militaire ou de l’informatique, il faut connaître son environnement et ses actifs (et c’est Sun Tzu qui le dit) et éviter à tout prix l’introduction dans un système organisé de corps étrangers non maîtrisés.
+- Dans les années 2010, les offres de gestion de parcs BYOD pullulaient et j’ai en mémoire des discussions lunaires avec des fournisseurs de quincaillerie qui m’expliquaient doctement l’index en l’air que c’était un signe d’ouverture de l’entreprise.
+- Ben voyons.
+- Heureusement, Zorro est passé par là et les choses sont revenues à peu près à la normale.
+
+## [OpenAI a proposé au gouvernement américain une part de 5% de son capital (presse)](https://fr.tradingview.com/news/afp:dac057bab1d19:0/)  
+*Source : fr.tradingview.com | Publication : 2026-07-02*
+
+- OpenAI a proposé au gouvernement américain une part de 5% de son capital (presse) La start-up américaine d'intelligence artificielle OpenAI a proposé au gouvernement américain de prendre une participation de 5% dans son capital, pour tenter d'arrondir les angles avec l'administration de Donald Trump, rapporte jeudi le Financial Times.
+- Ces discussions sont à un stade précoce et toute entente devrait nécessiter une loi fédérale, a-t-il ajouté.
+- Selon le quotidien financier, faisant référence à des personnes proches des discussions non identifiées, le patron Sam Altman considère que cette prise de participation représente le meilleur moyen de partager les bénéfices de l'intelligence artificielle.
+- Il précise que le sujet a été abordé par Sam Altman avec des responsables de la Maison Blanche, avec le président Donald Trump lui-même ou encore avec les ministres du Commerce Howard Lutnick et des Finances Scott Bessent.
+
+## [Après Google et Cloudflare, Microsoft accélère son passage au chiffrement post‑quantique](https://www.01net.com/actualites/apres-google-cloudflare-microsoft-accelere-passage-chiffrement-post‑quantique.html)  
+*Source : 01net.com | Publication : 2026-07-02*
+
+- Le monde de la technologie se prépare progressivement à l’avènement des ordinateurs quantiques.
+- Persuadé que la menace quantique est « déjà d’actualité », Google a décidé de prendre de l’avance sur sa feuille de route.
+- Le géant de Mountain View prévoit désormais de finaliser sa transition vers le chiffrement postquantique dès 2029, au lieu de 2035.
+- Gmail, Drive, Android et Chrome deviendront ainsi résistants aux attaques quantiques dans les années à venir.
+
+## [12 personnes interpellées, 45.000 euros de matériel saisi... Hacké et sabordé en mars ... - BFM](https://www.bfmtv.com/tech/cybersecurite/12-personnes-interpellees-45-000-euros-de-materiel-saisi-hacke-et-saborde-en-mars-dernier-le-geant-du-telechargement-illegal-ygg-torrent-a-ete-demantele-par-la-gendarmerie_AN-202607020772.html)  
+*Source : bfmtv.com | Publication : 2026-07-02*
+
+- 12 personnes interpellées, 45.000 euros de matériel saisi... Hacké et sabordé en mars dernier, le géant du téléchargement illégal YggTorrent a été démantelé par la gendarmerie Pendant près d'une décennie, YggTorrent s'était imposé comme une adresse presque incontournable pour une partie des internautes francophones à la recherche de films, de musiques ou encore de logiciels piratés accessibles gratuitement.
+- Ce portail donnait accès à des dizaines de milliers de liens vers des oeuvres protégées, que l'on pouvait donc télécharger illégalement via des fichiers torrent.
+- Mais mardi 1er juillet, les gendarmes ont annoncé avoir démantelé le site.
+- Plusieurs dizaines de millions d’euros L’opération est l’aboutissement d’une enquête ouverte pour contrefaçon en bande organisée, blanchiment aggravé et administration d’une plateforme facilitant des transactions illicites.
+
+## [Economie, intelligence artificielle, <b>cybersécurité</b> : les industriels face aux nouvelles ...](https://www.constructionbtp.com/infrastructures/article/2026/07/02/155740/economie-intelligence-artificielle-cybersecurite-les-industriels-face-aux-nouvelles-incertitudes-monde)  
+*Source : constructionbtp.com | Publication : 2026-07-02*
+
+- La participation d’Anne Le Hénanff, ministre déléguée chargée de l’Intelligence artificielle et du Numérique, aux côtés de Denis Ferrand, Tariq Krim, Sylvain Louradour, Thierry Happe et Fabrice Amedeo, a illustré l’importance stratégique de ces enjeux pour la compétitivité et la résilience de l’industrie française et européenne.
+- Les échanges ont mis en évidence un constat partagé : les industriels évoluent désormais dans un environnement géopolitique complexe, où les cycles technologiques s’accélèrent, les tensions commerciales se multiplient et les exigences réglementaires se renforcent.
+- Dans ce contexte, la capacité à anticiper devient un facteur déterminant de compétitivité.
+- Les débats se sont articulés autour de quatre grands défis : 1.
+
+## [Eviden intègre son KMS à Hyperforce - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65047-eviden-integre-son-kms-a-hyperforce.html)  
+*Source : linformaticien.com | Publication : 2026-07-02*
+
+- La solution d'Eviden s'appuie sur deux piliers.
+- L'application Eviden KMS fonctionne sur des machines virtuelles confidentielles (Confidential VMs).
+
+## [L'invitation à une visioconférence cachait une arnaque… - Entreprise Romande](https://www.entrepriseromande.ch/web/er/w/l-invitation-à-une-visioconférence-cachait-une-arnaque…-1)  
+*Source : entrepriseromande.ch | Publication : 2026-07-02*
+
+- #cybercrime L’invitation conduit à une page qui semble légitime et incite à effectuer une soi-disant mise à jour.
+- On installe en fait un logiciel malveillant Un prétendu client vous propose une réunion sur Zoom, Teams ou Google Meet.
+- Manque de chance, le lien que vous lui avez envoyé ne fonctionne pas.
+- Il vous en envoie un autre, qui mène à une page ressemblant à s’y méprendre à celle de Zoom, Teams ou Google Meet.
+
+## [Digital Summit. La Région mise sur les « nouvelles intelligences » pour accélérer sa ... - Lyon people](https://www.lyonpeople.com/actualites-lyon/actualites-economiques/digital-summit-la-region-mise-sur-les-nouvelles-intelligences-pour-accelerer-sa-transformation-numerique-2026-07-02.html)  
+*Source : lyonpeople.com | Publication : 2026-07-02*
+
+- Texte : Fanny Suteau – Plus de 400 participants se sont retrouvés lundi 29 juin au Campus Région du numérique, à Charbonnières-les-Bains, pour la 5e édition du Digital Summit.
+- Une journée placée sous le thème des « nouvelles intelligences », où l’intelligence artificielle a côtoyé les enjeux du leadership, de la cybersécurité et de l’emploi.
+- En ouvrant cette nouvelle édition, le président de la Région Auvergne-Rhône-Alpes, Fabrice Pannekoucke, a réaffirmé la volonté de la collectivité d’accompagner les entreprises face aux profondes mutations numériques.
+- Parmi les annonces de la matinée, la Région a renouvelé son engagement en faveur du recrutement circulaire, une démarche qui encourage les entreprises à partager les candidatures qu’elles ne peuvent retenir afin de fluidifier le marché de l’emploi.
+
+## [<b>Cybersécurité</b> : près de la moitié du temps des équipes sécurité absorbé par des alertes ...](https://www.solutions-numeriques.com/cyber-securite-pres-de-la-moitie-du-temps-des-equipes-securite-absorbe-par-des-alertes-sans-lendemain/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-02*
+
+- Les entreprises ne manquent pas d’informations sur les cybermenaces qui les guettent.
+- Elles manquent de temps pour agir dessus.
+- Un paradoxe de la gestion des menaces en 2026, radiographié par Filigran, dans le rapport “State of Threat Management”.
+- Un fossé qui coûte cher Déployer en moyenne 14 flux de renseignements sur les menaces et ne toujours pas savoir lesquelles sont susceptibles d’être exploitées en priorité : c’est la réalité de 61 % des organisations interrogées dans le cadre du rapport State of Threat Management, conduit par Vanson Bourne auprès de 550 décideurs et professionnels de la sécurité dans neuf pays.
+
+## [Zoom sur Cato Networks. Fondateur : Shlomo Kramer, un pionnier de la <b>cybersécurité</b> (déjà ...](https://israelvalley.com/2026/07/02/zoom-sur-cato-networks-fondateur-shlomo-kramer-un-pionnier-de-la-cybersecurite-deja-cofondateur-de-check-point-et-imperva/)  
+*Source : israelvalley.com | Publication : 2026-07-02*
+
+- La startup israélienne qui a récemment fait parler d’elle pour une levée de fonds majeure avoisinant ce montant est Cato Networks, qui a levé 359 millions de dollars (environ 330 millions d’euros) lors d’un tour de table de série G pour accélérer son développement dans le domaine de la sécurité réseau.
+- Zoom sur Cato Networks Fondateur : Shlomo Kramer, un pionnier de la cybersécurité (déjà cofondateur de Check Point et Imperva).
+- - Technologie : L’entreprise propose une plateforme cloud qui remplace les réseaux d’entreprise traditionnels.
+- Elle combine des fonctions de sécurité et de réseau à l’échelle mondiale.
 
 ## [Claude Code planquait un mouchard dans la date du prompt - Korben](https://korben.info/claude-code-steganographie-requetes.html)  
 *Source : korben.info | Publication : 2026-07-01*
