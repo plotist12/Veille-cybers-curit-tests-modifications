@@ -1,5 +1,146 @@
-# Résumés – 2026-07-02
+# Résumés – 2026-07-03
 
+
+## [iOS 27 veut bloquer les arnaqueurs en temps réel - Korben](https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel.html)  
+*Source : korben.info | Publication : 2026-07-03*
+
+- iOS 27 veut bloquer les arnaqueurs en temps réel Ce qu’il faut retenir Apple dévoile Trust Insights dans iOS 27, une API qui détecte les arnaqueurs en temps réel en analysant vos schémas d'interaction, le rythme de vos gestes et le contexte, sans inspecter le contenu de vos messages ni photos.
+- - Le système fonctionne entièrement sur l'iPhone et transmet une seule information aux applications : un niveau de risque moyen ou élevé, permettant à votre banque d'imposer un délai ou une vérification supplémentaire avant de valider un virement.
+- - Trust Insights couvre cinq catégories d'actions à risque : paiements et transferts, modifications de compte, accès à ressources coûteuses, envoi de messages ou signature de documents, et autres, mais son efficacité dépend entièrement de l'intégration volontaire par les développeurs d'applications.
+- - Résumé généré par IA Le scénario est toujours le même.
+
+## [<b>Cybercriminalité</b> : le Marocain Amine Bajeddi traque les failles des organisations](https://www.wearetech.africa/fr/fils/tech-stars/cybercriminalite-le-marocain-amine-bajeddi-traque-les-failles-des-organisations)  
+*Source : wearetech.africa | Publication : 2026-07-03*
+
+- Protéger l'image et les données sensibles d'une organisation est devenu un impératif dans un paysage numérique de plus en plus hostile.
+- Cet entrepreneur simplifie la traque des menaces en ligne.
+- Amine Bajeddi (photo) est un expert en marketing et un entrepreneur technologique marocain.
+- Il est cofondateur et directeur général de Defendis, une start-up spécialisée dans la gestion des risques de cybersécurité externes.
+
+## [Mastercard investit dans un centre panafricain de <b>cybersécurité</b>, face à la hausse des menaces](https://www.wearetech.africa/fr/fils/actualites/tech/mastercard-investit-dans-un-centre-panafricain-de-cybersecurite-face-a-la-hausse-des-menaces)  
+*Source : wearetech.africa | Publication : 2026-07-03*
+
+- La transformation numérique s’accélère en Afrique, où elle est considérée comme un levier majeur de développement socio‑économique, mais elle s’accompagne de nouveaux risques.
+- Le fournisseur de solutions de paiement américain Mastercard prévoit de mettre en place un centre d’excellence en cybersécurité en Afrique.
+- Cette initiative vise à renforcer la cyberrésilience du continent face à la montée des menaces liées à l’accélération de la transformation numérique.
+- Selon un communiqué de Mastercard publié lundi 29 juin, l’entreprise précise que le centre réunira institutions financières, organisations publiques et entreprises afin de partager des renseignements, améliorer la préparation, anticiper plus tôt les menaces et renforcer durablement la résilience des systèmes.
+
+## [Lancom devient une marque de Rohde &amp; Schwarz - ITforBusiness.fr](https://www.itforbusiness.fr/lancom-devient-une-marque-de-rohde-schwarz-105434)  
+*Source : itforbusiness.fr | Publication : 2026-07-03*
+
+- ChannelScope Lancom devient une marque de Rohde & Schwarz Par Frédéric Bergonzoli, publié le 03 juillet 2026 En fusionnant Lancom Systems et Rohde & Schwarz Cybersecurity, le groupe allemand fédère réseau, chiffrement et cybersécurité sous la même entité.
+- Le channel reste au cœur du regroupement, avec une priorité affichée pour le marché français.
+- Lancom Systems et Rohde & Schwarz Cybersecurity, deux filiales du groupe bavarois Rohde & Schwarz, rapprochent leurs activités réseau, cybersécurité et chiffrement pour former Rohde & Schwarz Networks and Cybersecurity (RSNC).
+- L’union ne fait pas totalement disparaitre Lancom, dont le nom devient une marque de produits.
+
+## [Lancom Systems et Rohde &amp; Schwarz Cybersecurity fusionnent - infoDSI](https://infodsi.com/articles/210316/lancom-systems-et-rohde-schwarz-cybersecurity-fusionnent.html)  
+*Source : infodsi.com | Publication : 2026-07-03*
+
+- Veuillez activer Javascript.
+
+## [Modifications relatives au Centre pour la <b>Cybersécurité</b> | News.belgium](https://news.belgium.be/fr/modifications-relatives-au-centre-pour-la-cybersecurite)  
+*Source : news.belgium.be | Publication : 2026-07-03*
+
+- Modifications relatives au Centre pour la Cybersécurité · Bart De Wever, Premier ministre · Bernard Quintin, ministre de la Sécurité et de l'Intérieur,.
+
+## [Global Cyber Conference 2026 à Zurich | Événements cloudmagazin](https://www.cloudmagazin.com/fr/events/global-cyber-conference-2026-zurich/)  
+*Source : cloudmagazin.com | Publication : 2026-07-03*
+
+- Note événement: La Global Cyber Conference 2026 aura lieu les 1er et 2 septembre 2026 au The Dolder Grand à Zurich.
+- Sous le thème CONVERGENCE, le format relie stratégie cybersécurité, IA et technologie quantique pour cadres dirigeants.
+- Pour les décideurs, l’événement compte car la jonction entre cybersécurité, IA et quantique devient un enjeu central de gouvernance en 2026.
+- Maîtriser risques, conformité et investissements exige de comprendre la convergence de ces champs.
+
+## [Banque africaine : 20 ans de <b>cybersécurité</b> peuvent-ils tenir trente secondes fac](https://www.sikafinance.com/marches/banque-africaine-20-ans-de-cybersecurite-peuvent-ils-tenir-trente-secondes-face-a-chatgpt-claude-copilot-_62741)  
+*Source : sikafinance.com | Publication : 2026-07-03*
+
+- Il y a 20 ans, un responsable de la sécurité informatique dans une grande banque a commencé à construire un système de défense solide.
+- Année après année, il a recruté des experts, installé des outils de protection, séparé les réseaux et mis toute l'infrastructure aux normes internationales.
+- Ce travail a demandé du temps, beaucoup d'efforts et des budgets importants pour protéger la banque comme une véritable forteresse numérique.
+- Aujourd'hui, cette forteresse peut s'effondrer en un instant.
+
+## [La Commission européenne proposera une capacité propre d'évaluation des modèles d'IA ...](https://agenceurope.eu/fr/bulletin/article/13902/7/)  
+*Source : agenceurope.eu | Publication : 2026-07-03*
+
+- La Commission européenne devrait présenter, mardi 7 juillet, un nouveau 'Plan d'action sur l'intelligence artificielle et la cybersécurité' visant à doter l’UE d’une capacité propre d'évaluation des modèles d'intelligence artificielle, y compris sous l'angle de la cybersécurité, et à accélérer le développement des solutions européennes de cybersécurité fondées sur l'IA.
+- Cette initiative fait suite aux révélations selon lesquelles le modèle Mythos de la société Anthropic est capable de détecter des vulnérabilités logicielles dissimulées, faisant craindre son utilisation comme cyberarme, ainsi qu'à la décision des États-Unis de restreindre l'accès à ce modèle aux utilisateurs non américains.
+- « Les capacités d''IA de frontière' sont principalement développées en dehors de l'Union européenne et leur disponibilité dépend souvent de processus étrangers peu transparents.
+- La connaissance de ces capacités et l'accès à celles-ci constituent dès lors un enjeu non seulement de résilience numérique, mais aussi de souveraineté technologique européenne.
+
+## [Finance: Trois institutions renforcent leur coopération contre les cyberattaques](https://fr.tradingview.com/news/afp:5fb1e10a72a83:0/)  
+*Source : fr.tradingview.com | Publication : 2026-07-03*
+
+- Finance: Trois institutions renforcent leur coopération contre les cyberattaques L'agence française de cybersécurité, le régulateur des banques et des assureurs et la Banque de France ont signé vendredi un accord pour renforcer leur coopération en matière de sécurité des systèmes d'information des institutions financières.
+- "Dans un contexte où la menace cyber qui pèse sur le système financier s'intensifie", l'ANSSI, l'ACPR et la Banque de France vont "renforcer l'échange d'informations et la coopération nécessaires à l'exercice de leurs missions complémentaires dans le domaine de la sécurité des systèmes d'information", indiquent les trois institutions dans un communiqué commun.
+- "La multiplication des cyberattaques constitue aujourd'hui l'un des principaux risques systémiques pour le secteur financier.
+- Les institutions financières sont des cibles privilégiées en raison de la sensibilité et de la valeur des données qu'elles détiennent.
+
+## [Europe : les hôteliers s'inquiètent davantage des aléas climatiques et des cyberattaques](https://www.paxnouvelles.com/nouvelles/hotel-fr/europe-les-hoteliers-sinquietent-davantage-des-aleas-climatiques-et-des-cyberattaques)  
+*Source : paxnouvelles.com | Publication : 2026-07-03*
+
+- Afin de vous offrir une service optimal, ce site utilise des cookies.
+- En utilisant notre site, vous acceptez notre utilisation des cookies.
+- En savoir plus Europe : les hôteliers s'inquiètent davantage des aléas climatiques et des cyberattaques Booking.com a publié la sixième édition de son « Baromètre européen de l’hébergement », une étude fondée sur les réponses de 1240 dirigeants et gestionnaires d’établissements touristiques répartis dans 24 marchés européens.
+- Le rapport dresse le portrait d’un secteur qui demeure confiant malgré plusieurs défis persistants, notamment les risques liés aux phénomènes météorologiques extrêmes, aux cyberattaques et aux fluctuations saisonnières de la demande.
+
+## [<b>Ransomwares</b> : les groupes criminels exploitent désormais Citrix Bleed pour frapper plus fort - Clubic](https://www.clubic.com/actualite-619759-ransomwares-les-groupes-criminels-exploitent-desormais-citrix-bleed-pour-frapper-plus-fort.html)  
+*Source : clubic.com | Publication : 2026-07-03*
+
+- Les affiliés du rançongiciel Anubis exploitent la faille Citrix Bleed 2 pour pénétrer les réseaux d'entreprises.
+- Le groupe The Gentlemen arme une vulnérabilité zero-day logée dans un pilote pour désactiver des antivirus, et les rançongiciels Vect et TeamPCP mènent des attaques conjointes.
+- Il y a un peu plus d'un an, Citrix a révélé la faille Citrix Bleed 2, référencée CVE-2025-5777.
+- Il suffisait alors d'envoyer une requête spécialement conçue au point d'authentification /p/u/doAuthentication.do des équipements NetScaler ADC et Gateway pour exploiter une variable de connexion non initialisée et récupérer, parfois, des jetons de session actifs.
+
+## [Thales sécurise les documents du FED - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65053-thales-securise-les-documents-du-fed.html)  
+*Source : linformaticien.com | Publication : 2026-07-03*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des objets ... Ransomware : les jours d'après · Cybersécurité · Thales sécurise les.
+
+## [Nutanix contrôle coûts de l'IA - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/tendances/941-ia/65052-nutanix-controle-couts-de-l-ia.html)  
+*Source : linformaticien.com | Publication : 2026-07-03*
+
+- L'éditeur de solutions de cloud hybride et d'hyperconvergence annonce la disponibilité générale de la solution Nutanix Agent Gateway,.
+
+## [JAHIA pitché au DSI - Salon de la Souveraineté Numérique - IT SOCIAL](https://itsocial.fr/contenus/cas-dusages/pitch-fournisseur/jahia-pitche-au-dsi-salon-de-la-souverainete-numerique/)  
+*Source : itsocial.fr | Publication : 2026-07-03*
+
+- Interview de Julian MAUREL CEO chez JAHIA, réalisé lors de la Salon Souveraineté Numérique.
+- 1 - Elevator Pitch Jahia est un éditeur français de CMS open source issu de la French Tech.
+- Depuis plus de 20 ans, l'entreprise développe une plateforme de gestion de contenus utilisée par de grandes administrations (France Travail, ministère des Finances) et de nombreuses banques et assurances.
+- Son positionnement repose sur la sécurité, la souveraineté des données et la capacité à gérer des environnements web complexes.
+
+## [Le partenariat entre Jimber et Amotek apporte la <b>cybersécurité</b> à l'Amotek Stack - ITdaily](https://itdaily.fr/nouvelles/business/partenariat-jimber-et-amotek-apporte-la-cybersecurite-a-amotek-stack/)  
+*Source : itdaily.fr | Publication : 2026-07-03*
+
+- Jimber et Amotek annoncent un partenariat stratégique dans lequel Jimber apporte son expertise en cybersécurité à l’Amotek Stack.
+- Les deux entreprises belges Jimber (cybersécurité) et Amotek (IA) unissent leurs forces.
+- Alors qu’Amotek se concentre sur le développement de solutions numériques et d’applications d’IA au sein de son Amotek Stack, Jimber apporte ses connaissances en matière de sécurité réseau et de solutions de cybersécurité.
+- Selon les PDG, cette complémentarité crée une valeur ajoutée pour les deux entreprises et leurs clients.
+
+## [Le Cadre d'architecture numérique doit garantir l'interopérabilité nationale et locale](https://lecourrier.vn/le-cadre-darchitecture-numerique-doit-garantir-linteroperabilite-nationale-et-locale/1350704.html)  
+*Source : lecourrier.vn | Publication : 2026-07-03*
+
+- >> Un programme de transformation numérique pour accompagner 200.000 PME >> La Loi sur le commerce électronique va façonner un marché numérique transparent >> La transformation numérique au Vietnam prend de l’ampleur et accélère Le chef du gouvernement a souligné que ce cadre constituait le plan directeur de la transformation numérique à l'échelle nationale.
+- Il devra garantir l'uniformité, le partage et l'interopérabilité des systèmes dans l'ensemble de l'appareil politique, du niveau central jusqu'au niveau locale, tout en assurant la connexion avec les habitants et les entreprises.
+- Il devra également rester suffisamment ouvert pour permettre des ajustements en temps voulu, tout en garantissant la cybersécurité et la sécurité des systèmes d'information.
+- Selon le Premier ministre, ce cadre revêt une importance déterminante pour le processus de transformation numérique.
+
+## [Paris : L'ANSSI auditionnée au Sénat sur la <b>cybersécurité</b> - Presse Agence](https://presseagence.fr/paris-cybersecurite-vincent-strubel-directeur-de-lanssi-auditionne-sur-les-enjeux-economiques/)  
+*Source : presseagence.fr | Publication : 2026-07-03*
+
+- Le directeur de l'ANSSI, Vincent Strubel, est auditionné au Sénat le 8 juillet sur les enjeux économiques et les menaces liées à la cybersécurité.
+
+## [Polypus assemble la souveraineté par briques - infoDSI](https://infodsi.com/articles/210307/polypus-assemble-la-souverainete-par-briques.html)  
+*Source : infodsi.com | Publication : 2026-07-03*
+
+- Veuillez activer Javascript.
+
+## [<b>Cybersécurité</b>, intelligence artificielle et souveraineté : quels sont les thèmes porteurs pour ...](https://www.lesechos.fr/patrimoine/placement/cybersecurite-intelligence-artificielle-et-souverainete-quels-sont-les-themes-porteurs-pour-les-etf-en-2026-2240695)  
+*Source : lesechos.fr | Publication : 2026-07-03*
+
+- Le marché des ETF européens connaît une expansion sans précédent avec 44 lancements mensuels en 2026.
+- Les ETF thématiques, comme la cybersécurité.
 
 ## [Voici comment renforcer efficacement votre <b>cybersécurité</b> pendant vos congés d'été - Clubic](https://www.clubic.com/bons-plans-618955-voici-comment-renforcer-efficacement-votre-cybersecurite-pendant-vos-conges-d-ete.html)  
 *Source : clubic.com | Publication : 2026-07-02*
