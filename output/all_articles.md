@@ -1,5 +1,154 @@
-# Résumés – 2026-07-06
+# Résumés – 2026-07-07
 
+
+## [La Bourse de Paris finit emportée par les doutes sur les semi-conducteurs - Orange Actu](https://actu.orange.fr/economie/la-bourse-de-paris-finit-emportee-par-les-doutes-sur-les-semi-conducteurs-CNT000002qog7U.html)  
+*Source : actu.orange.fr | Publication : 2026-07-07*
+
+- La Bourse de Paris finit emportée par les doutes sur les semi-conducteurs © ERIC PIERMONT, AFP - La salle de contrôle d'Euronext, société qui gère la Bourse de Paris La Bourse de Paris a terminé en petite baisse mardi, prise par les doutes croissants autour des valorisations colossales des valeurs liées à l'intelligence artificielle, emportant tous les titres liés au secteur.
+- Le CAC 40 a terminé en baisse de 0,51% à 8.436,24 points.
+- La veille, l'indice des 40 plus grandes valeurs françaises avait reculé de 0,33% à 8.479,87 points.
+- Les deux spécialistes des semi-conducteurs STMicroelectronics (-7,99% à 58,30 euros) et Soitec (-17,09% à 98,16 euros), ont perdu pied.
+
+## [Des <b>ransomwares</b> IA bientôt indétectables ? - 07/07 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-des-ransomwares-ia-bientot-indetectables-07-07_VN-202607070941.html)  
+*Source : bfmtv.com | Publication : 2026-07-07*
+
+- Des ransomwares IA bientôt indétectables ?.
+- - 07/07 Ce mardi 7 juillet, Pascal Le Digol, directeur France de WatchGuard Technologies, Benoît Grunemwald, expert en cybersécurité chez ESET France, et Gerôme Billois, associé en Cybersécurité et Confiance numérique chez Wavestone, ont examiné la possibilité que les ransomwares basés sur l'IA deviennent indétectables, le long feuilleton Mythos, le démantèlement coordonné des infrastructures cybercriminelles, ainsi que l'analyse géopolitique des menaces liées aux activités des groupes APT, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 30:08.
+
+## [Fuite de données chez La Spedidam, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/alertes/la-spedidam-rw_VTNCbFpHbGtZVzFBZEdobFoyVnVkR3hsYldWdQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-07*
+
+- Revendication de cyberattaque – La Spedidam ajoutée au site de fuite du groupe ransomware The Gentlemen Le groupe de ransomware The Gentlemen a ajouté la Spedidam à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de spedidam.fr, l'organisme français chargé de la gestion collective des droits voisins des artistes-interprètes.
+- Les attaquants ont publié une fiche dédiée à la victime accompagnée d'un compte à rebours avant une éventuelle publication des données revendiquées.
+- À ce stade, aucun échantillon de données ni aucun volume de fichiers exfiltrés n'ont été rendus publics.
+
+## [Wall Street dans le rouge, turbulences sur les semi-conducteurs : Actualités - Orange Actu](https://actu.orange.fr/economie/wall-street-dans-le-rouge-turbulences-sur-les-semi-conducteurs-CNT000002qomDg.html)  
+*Source : actu.orange.fr | Publication : 2026-07-07*
+
+- Wall Street dans le rouge, turbulences sur les semi-conducteurs © TIMOTHY A. CLARY, AFP - Des opérateurs à la Bourse de New York le 6 juillet 2026 La Bourse de New York a terminé en recul mardi, souffrant de la mauvaise passe du secteur des semi-conducteurs, en pleine nervosité quant aux investissements colossaux pour développer l'intelligence artificielle (IA).
+- Le Dow Jones a cédé 0,25% et l'indice élargi S&P 500 a reculé de 0,45%.
+- Mais les pertes ont été plus marquées du côté du Nasdaq, l'indice rassemblant les grands noms technologiques ayant perdu 1,16%.
+- Il a notamment pâti du fort recul d'AMD (-6,51%), Micron (-4,71%) et Intel (-9,66%).
+
+## [Stockage : l'IA s'invite dans la prévention des temps d'arrêt - Solutions-Numeriques](https://www.solutions-numeriques.com/stockage-lia-sinvite-dans-la-prevention-des-temps-darret/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-07*
+
+- Face à la complexité croissante des infrastructures hybrides, le monitoring du stockage devient plus difficile à piloter manuellement.
+- L’IA promet d’aider les équipes IT à repérer plus tôt les anomalies, anticiper les saturations et limiter les interruptions de service.
+- Un sujet central pour la continuité d’activité.
+- Le stockage reste l’un des socles les plus critiques du système d’information.
+
+## [Fuite de données chez Spedidam, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/alertes/spedidam-rw_VTNCbFpHbGtZVzFBZEdobFoyVnVkR3hsYldWdQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-07*
+
+- Revendication de cyberattaque – La Spedidam ajoutée au site de fuite du groupe ransomware The Gentlemen Le groupe de ransomware The Gentlemen a ajouté la Spedidam à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de spedidam.fr, l'organisme français chargé de la gestion collective des droits voisins des artistes-interprètes.
+- Les attaquants ont publié une fiche dédiée à la victime accompagnée d'un compte à rebours avant une éventuelle publication des données revendiquées.
+- À ce stade, aucun échantillon de données ni aucun volume de fichiers exfiltrés n'ont été rendus publics.
+
+## [La Commission européenne lancera fin 2026 les premiers projets destinés à entraîner et ...](https://agenceurope.eu/fr/bulletin/article/13904/16/la-commission-europeenne-lancera-fin-2026-les-premiers-projets-destines-a-entrainer-et-tester-des-systemes-dia)  
+*Source : agenceurope.eu | Publication : 2026-07-07*
+
+- La Commission européenne lancera, d'ici la fin de l'année, trois projets phares dans le cadre d'Horizon Europe afin de soutenir le développement, l'entraînement et les essais de systèmes d'intelligence artificielle destinés à la détection, à la réponse aux cybermenaces et aux capacités d'autoréparation.
+- Elle soutiendra également le développement de « capacités européennes souveraines en matière de cybersécurité fondée sur l'IA, y compris dans le domaine de la défense, par l'intermédiaire du Fonds européen pour la compétitivité », dans le cadre du prochain Cadre financier pluriannuel (CFP) « afin de mieux protéger les intérêts stratégiques de l'Europe et de réduire ses dépendances critiques ».
+- Ces initiatives s'inscrivent dans le plan d'action sur la cybersécurité et l'intelligence artificielle présenté par la Commission mardi 7 juillet.
+- Comme l'avait déjà indiqué Agence Europe (EUROPE 13902/7), le plan d'action prévoit une série de mesures concrètes, y compris l’établissement d’une capacité de l'Union à évaluer les modèles d'intelligence artificielle, notamment sous l'angle de la cybersécurité, avant leur mise sur le marché - une capacité qui devrait être opérationnelle en 2027.
+
+## [La Commission européenne lancera fin 2026 les premiers projets destinés à entraîner et ...](https://agenceurope.eu/fr/bulletin/article/13904/16/)  
+*Source : agenceurope.eu | Publication : 2026-07-07*
+
+- La Commission européenne lancera, d'ici la fin de l'année, trois projets phares dans le cadre d'Horizon Europe afin de soutenir le développement, l'entraînement et les essais de systèmes d'intelligence artificielle destinés à la détection, à la réponse aux cybermenaces et aux capacités d'autoréparation.
+- Elle soutiendra également le développement de « capacités européennes souveraines en matière de cybersécurité fondée sur l'IA, y compris dans le domaine de la défense, par l'intermédiaire du Fonds européen pour la compétitivité », dans le cadre du prochain Cadre financier pluriannuel (CFP) « afin de mieux protéger les intérêts stratégiques de l'Europe et de réduire ses dépendances critiques ».
+- Ces initiatives s'inscrivent dans le plan d'action sur la cybersécurité et l'intelligence artificielle présenté par la Commission mardi 7 juillet.
+- Comme l'avait déjà indiqué Agence Europe (EUROPE 13902/7), le plan d'action prévoit une série de mesures concrètes, y compris l’établissement d’une capacité de l'Union à évaluer les modèles d'intelligence artificielle, notamment sous l'angle de la cybersécurité, avant leur mise sur le marché - une capacité qui devrait être opérationnelle en 2027.
+
+## [AuthID et SynerComm concluent un partenariat de distribution en <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/authid-et-synercomm-concluent-un-partenariat-de-distribution-en-cybersecurite-ce7f5ed8d88af725)  
+*Source : zonebourse.com | Publication : 2026-07-07*
+
+- AuthID et SynerComm concluent un partenariat de distribution en cybersécuritéauthID a conclu un partenariat de distribution avec SynerComm afin d'étendre la disponibilité de ses services de vérification d'identité et d'authentification biométrique auprès des.
+
+## [Au Quai d'Orsay, Jean-Noël Barrot recase quatre de ses proches conseillers - Orange Actu](https://actu.orange.fr/politique/au-quai-d-orsay-jean-noel-barrot-recase-quatre-de-ses-proches-conseillers-magicExpress-CNT000002qoeBZ.html)  
+*Source : actu.orange.fr | Publication : 2026-07-07*
+
+- Au Quai d’Orsay, Jean-Noël Barrot recase quatre de ses proches conseillers © EPA - Le ministre français des Affaires étrangères, Jean-Noël Barrot, quitte l'Elysée à l'issue du Conseil des ministres à Paris, en France, le 24 juin 2026.
+- Trois membres du cabinet du ministre de l’Europe et des Affaires étrangères sont promis à des postes d’ambassadeurs.
+- Sa cheffe de cabinet vise un poste de consule générale.
+- A la valse des ambassadeurs et au très classique renouvellement estival des postes diplomatiques à travers le monde s’ajoute la nécessité de récompenser les plus fidèles conseillers ministériels.
+
+## [IA : face au spectre de Mythos, la BCE somme les banques d'agir « sans délai » - Les Echos](https://www.lesechos.fr/finance-marches/banque-assurances/ia-face-au-spectre-de-mythos-la-bce-somme-les-banques-dagir-sans-delai-2241202)  
+*Source : lesechos.fr | Publication : 2026-07-07*
+
+- La BCE demande aux dirigeants des principales banques de la zone euro d'évaluer « sans délai » l'évolution du risque cyber et de remettre un plan.
+
+## [Le tsunami de l'IA générative bouscule le monde de la Cyber Offensive | LeMagIT](https://www.lemagit.fr/actualites/366645517/Le-tsunami-de-lIA-generative-bouscule-le-monde-de-la-Cyber-Offensive)  
+*Source : lemagit.fr | Publication : 2026-07-07*
+
+- peterzayda - stock.adobe.com Le tsunami de l’IA générative bouscule le monde de la Cyber Offensive L’impact de l’IA sur la sécurité offensive, est désormais manifeste.
+- C’est une aide à de nombreux égards, mais aussi un bouleversement complet de l’écosystème du Bug Bounty.
+- La première édition des rencontres du Clusif a été l’occasion d’aborder un thème relativement nouveau, celui de l’impact de l’IA générative dans la cybersécurité offensive.
+- L’IA s’est fait une place dans les outils de détection, dans les SOC depuis quelques années.
+
+## [Un ESP32 à quelques euros pour éviter le clavier Touch ID d'Apple - Korben](https://korben.info/tinytouch-esp32-empreinte-deverrouillage.html)  
+*Source : korben.info | Publication : 2026-07-07*
+
+- Un ESP32 à quelques euros pour éviter le clavier Touch ID d'Apple Ce qu’il faut retenir Un bidouilleur a créé un lecteur d'empreinte DIY avec un ESP32-S3 et un capteur ZW101 pour débloquer un Mac sans passer par le Magic Keyboard d'Apple, le tout pour quelques euros.
+- - Le mot de passe ne réside jamais sur la carte : elle demande le mot de passe via un échange chiffré avec clé d'appairage et nonce aléatoire, le déchiffre en RAM le temps de le taper, puis efface tout en millisecondes.
+- - Le maillon faible reste la liaison série non protégée entre capteur et ESP32, contournable en noyant l'électronique dans de l'epoxy noir, et une version émulant une carte à puce sans saisie de mot de passe est en cours.
+- - Résumé généré par IA Posez votre doigt sur un capteur et hop, votre session s'ouvre.
+
+## [Comment l'arnaque aux fausses signalations sur Reddit et Discord permet de pirater des comptes](https://www.malwarebytes.com/fr/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts)  
+*Source : malwarebytes.com | Publication : 2026-07-07*
+
+- Un inconnu vous envoie un message sur Reddit.
+- Il vous dit que quelqu'un l'a signalé et que le compte à l'origine du signalement ressemble beaucoup au vôtre.
+- Est-ce que c'était vous ?.
+- Ce n'était pas ça.
+
+## [La CCI Lyon Métropole accélère ses investissements pour soutenir les entreprises](https://www.lyon-entreprises.com/actualites/article/cci-lyon-metropole-bilan-mi-annee-2026-projets-entreprises)  
+*Source : lyon-entreprises.com | Publication : 2026-07-07*
+
+- La CCI Lyon Métropole accélère ses investissements pour soutenir les entreprises Transmission d’entreprises, intelligence artificielle, cybersécurité, immobilier économique, formation ou encore réindustrialisation : à l’occasion de son bilan de mi-année, la CCI Lyon Métropole Saint-Étienne Roanne dévoile une feuille de route ambitieuse pour le second semestre 2026.
+- Dans un contexte économique marqué par le ralentissement de l’activité et la hausse des défaillances, l’institution consulaire entend renforcer son rôle d’investisseur et d’accélérateur de projets au service des entreprises du territoire.
+- Une CCI qui veut passer de l’accompagnement à l’investissement Le constat dressé par la CCI est celui d’une économie sous tension.
+- En Auvergne-Rhône-Alpes, les défaillances d’entreprises ont progressé de près de 8 % en 2025, tandis que le chiffre d’affaires des entreprises régionales a reculé de 2,2 %, que l’investissement a diminué de 6,2 % et que l’activité industrielle s’est contractée de 4,7 %.
+
+## [Vacances connectées : guide de survie contre les <b>cybermenaces</b> en déplacement - GNT](https://www.generation-nt.com/actualites/bitdefender-premium-security-vpn-illimite-usages-internet-vacances-2077910)  
+*Source : generation-nt.com | Publication : 2026-07-07*
+
+- Avec l'été qui s'installe chaudement, les périodes de grandes migrations estivales vont débuter.
+- Que ce soit pour partir loin tout en restant connecté à ses applications et réseaux sociaux ou pour maintenir un lien avec son activité en passant au télétravail, le cadre quotidien va évoluer...et sa sécurité numérique aussi.
+- Vouloir rester connecté même en vacances ou en déplacement fait désormais partie de la vie numérique mais gare aux mauvaises surprises.
+- En sortant du cadre a priori sécurisé de l'accès internet domestique ou du bureau, on peut se retrouver exposé à différentes menaces.
+
+## [Jannik Sinner bat Jan-Lennard Struff et fonce en demi-finales de Wimbledon - Tennis](https://sports.orange.fr/videos/tennis/jannik-sinner-bat-jan-lennard-struff-et-fonce-en-demi-finales-de-wimbledon-tennis-wimbledon-h-CNT000002qoksj.html)  
+*Source : sports.orange.fr | Publication : 2026-07-07*
+
+- Vidéo suivante dans 5 secondes Jannik Sinner bat Jan-Lennard Struff et fonce en demi-finales de Wimbledon - Tennis - Wimbledon (H) par L'Équipe info - Le numéro 1 mondial Jannik Sinner a logiquement battu l'Allemand Jan-Lennard Struff (7-5, 7-6 [4], 6-3), mardi en quarts de finale de Wimbledon.
+- vidéos similaires lecture autoOUINON.
+
+## [Quand le numérique devient un outil de prévention : l'ONUDC et ses partenaires réunissent ...](https://www.un.org/fr/information-center-dakar/quand-le-numérique-devient-un-outil-de-prévention-lonudc-et-ses-partenaires)  
+*Source : un.org | Publication : 2026-07-07*
+
+- Les 30 juin et 1er juillet 2026, l'Office des Nations Unies contre la drogue et le crime (ONUDC) et ses partenaires ont organisé, à Dakar, une retraite régionale réunissant 17 créateurs de contenu et journalistes venus de sept pays d'Afrique de l'Ouest et du Centre (Burkina Faso, Côte d'Ivoire, Guinée, Mali, Niger, Tchad, Sénégal), ainsi qu’un influenceur originaire du Congo-Brazzaville.
+- Cette activité inédite s'est tenue au Centre d'information des Nations Unies (CINU) de Dakar qui a contribué à la formation sur le plan technique.
+- Mieux comprendre les risques liés au numérique Face à l'exploitation qui se propage aussi en ligne, des créateurs de contenu d'Afrique de l'Ouest et du Centre se sont mobilisés pour faire des réseaux sociaux un outil de prévention plutôt que de recrutement des trafiquants.
+- Pendant deux jours, ils ont renforcé leurs connaissances sur les cadres juridiques internationaux relatifs à la traite des personnes et au trafic illicite de migrants, tout en explorant les liens croissants entre ces crimes, la cybercriminalité et les plateformes numériques.
+
+## [Plan d'action de l'UE en matière de <b>cybersécurité</b> et d'intelligence artificielle](https://digital-strategy.ec.europa.eu/fr/library/eu-action-plan-cybersecurity-and-artificial-intelligence)  
+*Source : digital-strategy.ec.europa.eu | Publication : 2026-07-07*
+
+- L'intelligence artificielle transforme rapidement le paysage de la cybersécurité.
+- L’IA peut aider à détecter les vulnérabilités, à prévenir les cyberattaques et à renforcer la protection des infrastructures critiques.
+- Dans le même temps, il peut également être exploité par des acteurs malveillants pour automatiser les attaques, identifier les faiblesses et mener des cyberopérations à une vitesse et à une échelle sans précédent.
+- S’appuyant sur le cadre juridique existant de l’UE en matière d’IA et de cybersécurité, le plan d’action définit une approche coordonnée pour aider les États membres, les entreprises et les pouvoirs publics à tirer parti des possibilités offertes par l’IA tout en s’attaquant aux nouveaux risques qu’elle crée.
+
+## [Le régulateur LTA intensifie sa campagne de <b>cybersécurité</b> et cible les élèves et les jeunes ...](https://www.capmad.com/article/le-regulateur-lta-intensifie-sa-campagne-de-cybersecurite-et-cible-les-eleves-et-les-jeunes-internautes)  
+*Source : capmad.com | Publication : 2026-07-07*
+
+- La Liberia Telecommunications Authority étend son Cyber Marathon aux écoles de l'intérieur du pays et s'appuie sur School Connect et un appui de.
 
 ## [D'après une étude, les Deux-Sèvres figurent dans le top 10 des départements](https://www.lanouvellerepublique.fr/deux-sevres/d-apres-une-etude-les-deux-sevres-figurent-dans-le-top-10-des-departements-les-plus-sensibles-aux-risques-cyber-1783353232)  
 *Source : lanouvellerepublique.fr | Publication : 2026-07-06*
