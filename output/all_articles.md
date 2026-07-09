@@ -1,5 +1,148 @@
-# Résumés – 2026-07-07
+# Résumés – 2026-07-08
 
+
+## [Crise cyber : comment préparer sa communication face à la pression médiatique](https://www.journaldunet.com/cybersecurite/1552471-crise-cyber-comment-preparer-sa-communication-face-a-la-pression-mediatique/)  
+*Source : journaldunet.com | Publication : 2026-07-08*
+
+- Crise cyber : comment préparer sa communication face à la pression médiatique En cas de fuite de données, les organisations doivent anticiper l'exposition médiatique en développant une relation de confiance avec les médias, en formant leur RSSI à la communication, et en communiquant au bon moment pour maîtriser le récit de l'attaque.
+- Il est fini le temps où les organisations pouvaient dissimuler des fuites de données aux médias.
+- "Préparez votre communication de crise, car on ne peut pas cacher une attaque cyber : l'information se retrouvera sur le web", avertissait même Patrick Touak, général commandant le COMCYBER-MI, lors de l'édition 2026 de Ready For IT, devant un parterre de DSI et RSSI.
+- La médiatisation des fuites de données n'a en effet jamais été aussi importante, amplifiée par des influenceurs cyber toujours plus nombreux qui annoncent parfois des fuites de données sans en vérifier l'authenticité, selon Stéphanie Ledoux, fondatrice d'Alcyconie, une entreprise spécialisée dans la gestion de crise cyber.
+
+## [Jadepuffer : un agent IA qui se comporte comme un rançongiciel autonome - ChannelNews](https://www.channelnews.fr/jadepuffer-un-agent-ia-qui-se-comporte-comme-un-rancongiciel-autonome-157728)  
+*Source : channelnews.fr | Publication : 2026-07-08*
+
+- Sysdig, une société spécialisée dans la sécurité cloud, met en garde contre Jadepuffer : un rançongiciel agentique, entièrement orchestré par de l’IA.
+- Ce ransomware d’un nouveau type n’a eu besoin d’aucune intervention humaine pour mener une cyberattaque, suivie d’une demande de rançon.
+- Pour ce faire, il a exploité la vulnérabilité CVE-2025-3248 de l’outil open source Langflow de création d’applications d’IA agentique.
+- Il est parvenu sans difficulté à scanner l’environnement hôte, obtenir des identifiants et clés API, récupérer des fichiers sensibles et exfiltrer des données, puis à se déplacer latéralement et s’orienter vers une cible secondaire : un service de configuration Nacos de Alibaba.
+
+## [La Commission assigne l'Irlande, l'Espagne, la France et les Pays-Bas devant la CJUE pour ...](https://agenceurope.eu/fr/bulletin/article/13905/33/la-commission-assigne-lirlande-lespagne-la-france-et-les-pays-bas-devant-la-cjue-pour-defaut-de-transposition-des-regles-sur-la-cybersecurite)  
+*Source : agenceurope.eu | Publication : 2026-07-08*
+
+- La Commission européenne a décidé de saisir la Cour de justice de l'Union européenne (CJUE) contre l'Irlande, l'Espagne, la France et les Pays-Bas pour ne pas avoir notifié les mesures transposant dans leur droit national la directive NIS2, qui devait être transposée au plus tard le 17 octobre 2024.
+- Celle-ci fixe des normes visant à protéger les réseaux et les systèmes d'information et à garantir un niveau élevé commun de cybersécurité dans 18 secteurs critiques, notamment la santé, l'énergie, les transports et le secteur public.
+- La Commission avait ouvert des procédures d'infraction contre ces États membres en novembre 2024.
+- Le 7 mai 2025, elle leur avait adressé un avis motivé, leur accordant un délai supplémentaire de deux mois pour adopter les mesures nécessaires.
+
+## [La BCE presse les banques d'accélérer face aux nouvelles menaces de l'IA liées à la <b>cybersécurité</b>](https://zoominvest.fr/actualites/la-bce-presse-les-banques-daccelerer-face-aux-nouvelles-menaces-de-lia-liees-a-l/ibiwvw6aa16f9cu5miw8j8j6)  
+*Source : zoominvest.fr | Publication : 2026-07-08*
+
+- Actions 1Obligations 1Flexibles 1Perf.
+- absolue 1L'essentiel de l'actualité patrimoniale et financière pour les CIF, chaque matin dans votre boîte mail.
+- La Banque centrale européenne (BCE) demande aux principales banques de la zone euro de renforcer rapidement leur dispositif de cybersécurité face aux risques croissants liés à l’intelligence artificielle.
+- Dans une lettre adressée aux dirigeants des établissements, la présidente du conseil de surveillance prudentielle, Claudia Buch, leur impose de remettre, avant le 31 octobre, un plan d’action détaillant les mesures prévues pour faire face à l’évolution des cybermenaces.
+
+## [<b>Cybersécurité</b> : Bruxelles poursuit la France et trois autres États devant la justice de l'UE](https://www.aa.com.tr/fr/monde/cybersécurité-bruxelles-poursuit-la-france-et-trois-autres-états-devant-la-justice-de-lue/3992311)  
+*Source : aa.com.tr | Publication : 2026-07-08*
+
+- La Commission européenne reproche à la France, l'Espagne, l'Irlande et les Pays-Bas de ne pas avoir transposé la directive NIS2, qui renforce les obligations de cybersécurité des secteurs critiques.
+
+## [Sophos nomme Naveed Malik au poste de Senior Director, EMEA MSP Channel Sales](https://infodsi.com/articles/210377/sophos-nomme-naveed-malik-au-poste-de-senior-director-emea-msp-channel-sales.html)  
+*Source : infodsi.com | Publication : 2026-07-08*
+
+- Veuillez activer Javascript.
+
+## [Charles Hudon, candidat officiel du Parti libéral du Québec dans Vanier–Les Rivières](https://plq.org/charles-hudon-candidat-officiel-du-parti-liberal-du-quebec-dans-vanier-les-rivieres/)  
+*Source : plq.org | Publication : 2026-07-08*
+
+- Québec, le 18 juin 2026 — C’est en compagnie du chef du Parti libéral du Québec, Charles Milliard, que M. Charles Hudon a été officiellement investi comme candidat dans la circonscription de Vanier–Les Rivières.
+- Natif de Jonquière, Charles Hudon réside dans le quartier de Lebourgneuf dans la circonscription de Vanier–Les Rivières depuis 2014.
+- Jusqu’à récemment, il occupait le poste de directeur adjoint à la Direction des enquêtes criminelles (crimes financiers et cybercriminalité) à la Sûreté du Québec.
+- Diplômé d’une maîtrise en administration à l’Université du Québec à Trois-Rivières (UQTR), en collaboration avec l’École nationale de police du Québec, Charles Hudon cumule près de 28 ans d’expérience au sein de la Sûreté du Québec.
+
+## [Publication d'un nouveau plan d'action UE-Europe pour la <b>cybersécurité</b> et l'intelligence ...](https://europa.regione.campania.it/fr/pubblicato-il-nuovo-piano-dazione-sulla-sicurezza-informatica-e-lintelligenza-artificiale-ue/)  
+*Source : europa.regione.campania.it | Publication : 2026-07-08*
+
+- La Commission européenne a publié le nouveau Plan d’action en matière de cybersécurité et d’intelligence artificielle, un document d’orientation qui marque une étape décisive dans la capacité de l’Europe à protéger les infrastructures critiques, les entreprises et les citoyens dans un contexte où l’IA transforme et complique le paysage des menaces numériques.
+- "L'intelligence artificielle de pointe marque un tournant dans la cybersécurité", a déclaré la Commission européenne dans un communiqué.
+- «Les capacités avancées en matière d’IA déjà disponibles aujourd’hui, …, peuvent être utilisées pour renforcer la cyberrésilience de l’UE.» Un contexte en évolution rapide L’IA n’est plus seulement un outil défensif: Il est déjà utilisé pour automatiser les cyberattaques, amplifier leur portée et réduire les compétences nécessaires aux criminels.
+- Des modèles de plus en plus puissants, y compris l’open source, mettent à disposition des capacités qui, il y a quelques années encore, étaient l’apanage de quelques acteurs mondiaux.
+
+## [Scattered Spider : un membre présumé arrêté en Finlande - LeMagIT](https://www.lemagit.fr/actualites/366645718/Scattered-Spider-un-membre-presume-arrete-en-Finlande)  
+*Source : lemagit.fr | Publication : 2026-07-08*
+
+- Ruslan Grumble - Fotolia Scattered Spider : un membre présumé arrêté en Finlande Ágé de 19 ans, il a été identifié grâce à une série de marqueurs techniques, jusqu'à l'identifiant Windows de son PC, ainsi que par ce qu'il partageait, en ligne, de ses activités.
+- Scattered Spider, également suivi sous les noms d'Octo Tempest, UNC3944 et 0ktapus, est avant tout un ensemble de techniques, tactiques et procédures combinant l'ingénierie sociale et l'exploitation technique pour obtenir un accès aux réseaux : leur méthode d'attaque repose sur l'obtention d'accès aux comptes des employés par des prétextes frauduleux.
+- Derrière l'étiquette, de nombreux acteurs malveillants, plus ou moins organisés en groupes aux contours flous.
+- Selon le ministère américain de la Justice, la recette fonctionne plutôt bien : Scattered Spider est impliqué dans plus de 100 intrusions réseau, générant plus de 100 millions de dollars de paiements de rançon et des millions de dollars de dommages pour les victimes.
+
+## [Portuaire L'ANP prépare sa stratégie à l'horizon 2035 - Le Desk](https://ledesk.ma/enoff/lanp-prepare-sa-strategie-a-lhorizon-2035/)  
+*Source : ledesk.ma | Publication : 2026-07-08*
+
+- Portuaire L’ANP prépare sa stratégie à l’horizon 2035 Mustapha Farès, directeur général de l’Agence nationale des ports (ANP).
+- Crédit : Mustapha Razi / Le Desk L’Agence nationale des ports (ANP) ouvre un nouveau chantier de planification à long terme, alors que le système portuaire marocain entre dans une phase de recomposition marquée par l’émergence de nouvelles infrastructures, la transformation des chaînes logistiques et la montée des impératifs de souveraineté, de résilience et de décarbonation.
+- Abonnez-vous pour continuer la lecture à partir de 40 dh par mois (facturé annuellement) Choisir une offreLe Desk a été le premier à révéler Choisir une offre Déjà abonné ?.
+- Identifiez-vous ©️ Copyright Pulse Media.
+
+## [Pax silica, une diplomatie commerciale au service de la stratégie américaine en matière d'IA](https://incyber.org/article/pax-silica-une-diplomatie-commerciale-au-service-de-la-strategie-americaine-en-matiere-dia/)  
+*Source : incyber.org | Publication : 2026-07-08*
+
+- Lors de la conférence donnant officiellement naissance à la Pax Silica à Washington le 13 décembre 2025, celle-ci a été présentée comme une coalition de partenaires désireux d’assurer la sécurité des chaînes d’approvisionnement et permettant le fonctionnement de l’IA.
+- La supply chain est considérée comme une priorité de souveraineté nationale pour les États-Unis et ses alliés.
+- Le maître d’œuvre de cette initiative diplomatique, le sous-secrétaire d’État à la CroissanceÉconomique Jacob Helberg, établissait un parallèle entre chaîne d’approvisionnement et territoire : « La souveraineté ne consiste plus à simplement protéger ses frontières.
+- Elle consiste à assurer la fiabilité des chaînes d’approvisionnement de l’ère de l’IA ».
+
+## [Bruxelles attaque la France en justice pour son retard sur la directive NIS 2 - La Tribune](https://www.latribune.fr/article/tech/10913215921251/on-ne-joue-pas-avec-la-cybersecurite-bruxelles-attaque-la-france-en-justice-pour-son-retard-sur-la-directive-nis-2)  
+*Source : latribune.fr | Publication : 2026-07-08*
+
+- « On ne joue pas avec la cybersécurité » : Bruxelles attaque la France en justice pour son retard sur la directive NIS 2 Ce contenu est réservé aux abonnés La Tribune La France s'expose à des sanctions financières avec ce retard de transposition.
+- Unsplash.
+
+## [<b>Cybersécurité</b> : de la recommandation à l'exécution, ou comment automatiser la sécurité de ... - GNT](https://www.generation-nt.com/actualites/cybersecurite-recommandation-execution-comment-automatiser-securite-infrastructures-2078344)  
+*Source : generation-nt.com | Publication : 2026-07-08*
+
+- Maîtriser en continu Pendant longtemps, on a présenté, plus ou moins à raison, la cybersécurité comme un travail de surveillance.
+- Aujourd’hui, cela ne suffit plus à décrire ce que les organisations doivent réellement accomplir face à des systèmes d’information plus distribués, plus hybrides, plus exposés.
+- En 2026, les conseils cyber se ressemblent sur un point : le sujet n’est plus seulement de voir le risque, mais d’être capable d’agir dessus.
+- Ce sujet est particulièrement sensible dans les DSI, car les équipes savent désormais que les incidents les plus importants ne naissent plus forcément d’une attaque très sophistiquée.
+
+## [ISO 27001 &amp; SOC 2, les certifications de <b>cybersécurité</b> pour accéder aux marchés gouvernementaux.](https://www.youtube.com/watch?v=TxDHPg05Lr4)  
+*Source : youtube.com | Publication : 2026-07-08*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Barracuda se renforce dans la gestion des identités - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/cybersecurite/65069-barracuda-se-renforce-dans-la-gestion-des-identites.html)  
+*Source : linformaticien.com | Publication : 2026-07-08*
+
+- Le fournisseur e solutions de sécurité acquiert Evo Security, un fournisseur de gestion d'identité et d'accès (IAM) conçu spécialement pour les.
+
+## [Les 5 compétences de <b>cybersécurité</b> les plus recherchées en 2026 ! - YouTube](https://www.youtube.com/watch?v=GCUI3akCFA8)  
+*Source : youtube.com | Publication : 2026-07-08*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [ANSSI et ACPR coopèrent sur la cyber offensive - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/anssi-acpr-ssi-228198)  
+*Source : silicon.fr | Publication : 2026-07-08*
+
+- « Vers un formulaire commun de déclaration ACPR/AMF + ANSSI + CNIL ?.
+- [..] Les entreprises l’attendent.
+- » Le député Philippe Latombe a récemment interpellé, en ces mots, le directeur général de l’ANSSI Vincent Strubel.
+- L’intéressé a répondu se méfier des guichets ou formulaires uniques, qui « peuvent rapidement servir de cache-misère ».
+
+## [La Chine met en garde contre une faille de sécurité dans l'outil de programmation d'IA d'Anthropic](https://fr.finance.yahoo.com/actualites/chine-met-garde-contre-faille-104433022.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-07-08*
+
+- Une autorité chinoise de régulation a mis en garde mercredi les utilisateurs contre une "porte dérobée de sécurité" intégrée dans certaines versions de l'outil de codage Claude Code, développé par la société américaine d'intelligence artificielle (IA) Anthropic, qui de son côté met en avant un mécanisme antifraude.
+- La faille pourrait permettre au logiciel de "transmettre des informations sensibles", notamment la localisation des utilisateurs et des identifiants liés à leur identité, vers les serveurs d'Anthropic sans leur consentement, estime la Base de données nationale chinoise sur les vulnérabilités (NVDB), plateforme de cybersécurité rattachée au ministère chinois de l'Industrie et des Technologies de l'information.
+- Claude Code est un agent IA capable de générer du code informatique, de déboguer des logiciels et d'analyser du code en fonction des instructions de l'utilisateur.
+- Anthropic, start-up basée à San Francisco, interdit l'accès à ses services aux utilisateurs et entreprises situés en Chine et dans d'autres pays qu'elle considère comme hostiles, mais il est toujours possible d'utiliser la plateforme via un VPN ou des services de proxy tiers.
+
+## [AI Act : la Commission européenne muscle son dispositif juste avant l'échéance](https://www.solutions-numeriques.com/ai-act-la-commission-europeenne-muscle-son-dispositif-juste-avant-lecheance/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-08*
+
+- La Commission européenne a présenté un plan d’action articulant cybersécurité et intelligence artificielle.
+- Il arrive quelques semaines avant l’entrée en application, le 2 août 2026, des obligations de l’AI Act pour les modèles d’IA à usage général avancés.
+- Évaluer, encadrer, tester La première brique du plan touche à l’évaluation des modèles eux-mêmes.
+- Un appel à projets doit faire émerger une capacité européenne dédiée, incluant leur volet cybersécurité, avec une mise en service visée pour 2027.
+
+## [Le timide plan de l'UE face aux modèles IA spécialisés en <b>cybersécurité</b>](https://www.lemondeinformatique.fr/actualites/lire-le-timide-plan-de-l-ue-face-aux-modeles-ia-specialises-en-cybersecurite-100685.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-07-08*
+
+- En matière de cybersécurité, l’IA est une arme à double tranchant.
+- Si elle sert aux défenseurs pour accroitre leurs capacités pour anticiper les attaques informatiques, elle constitue en même temps une arme redoutable dans les mains des pirates.
+- Consciente de la situation et pour tenter de faire face au scénario du pire - à savoir l’utilisation de modèles avancés servant à des cyberattaques d’ampleur inédite - la Commission européenne a présenté un dernier plan d’action.
+- Celui-ci s’appuie sur différents réglements existants de l’UE, notamment celui sur l’IA, la cyberrésilience (applicable d’ici fin 2027), la cybersolidarité, ainsi que la directive sur les réseaux et les systèmes d’information (SRI 2).
 
 ## [La Bourse de Paris finit emportée par les doutes sur les semi-conducteurs - Orange Actu](https://actu.orange.fr/economie/la-bourse-de-paris-finit-emportee-par-les-doutes-sur-les-semi-conducteurs-CNT000002qog7U.html)  
 *Source : actu.orange.fr | Publication : 2026-07-07*
