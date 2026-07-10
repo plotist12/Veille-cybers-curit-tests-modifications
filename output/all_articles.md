@@ -1,5 +1,146 @@
-# Résumés – 2026-07-08
+# Résumés – 2026-07-09
 
+
+## [Plan <b>Cybersécurité</b>-IA de l'UE 2026 : 9 Actions, ENISA - Tech Insider](https://tech-insider.org/fr/ue-plan-action-cybersecurite-ia-2026/)  
+*Source : tech-insider.org | Publication : 2026-07-09*
+
+- Le 7 juillet 2026, la Commission européenne a présenté son plan d’action sur la cybersécurité et l’intelligence artificielle.
+- Objectif affiché : préparer les secteurs critiques du continent à une IA capable de repérer en quelques secondes une faille qu’un chercheur humain mettrait des semaines à trouver.
+- Le texte s’articule autour de trois objectifs et, selon les premières lectures du dossier par la presse spécialisée bruxelloise, neuf actions concrètes.
+- Aucun montant budgétaire global n’accompagne l’annonce.
+
+## [Importations de biens au Missouri: attention aux vérifications sur la taxe d'utilisation](https://www.rcgt.com/conseils/avis-d-experts/importations-de-biens-au-missouri--attention-aux-verifications-sur-la-taxe-dutilisation/)  
+*Source : rcgt.com | Publication : 2026-07-09*
+
+- Sommaire Le Missouri Department of Revenue mène actuellement une campagne de vérification ciblant des entreprises ayant importé des biens dans cet État.
+- Les avis transmis s’appuient sur des données obtenues du U.S.
+- Customs Service pour certaines marchandises entrées au Missouri sans que la taxe d’utilisation applicable ait été déclarée ou payée.
+- Plusieurs entreprises pourraient avoir reçu, ou recevoir un avis semblable au cours des prochaines semaines.
+
+## [La <b>cybercriminalité</b> ne s'arrête pas aux infrastructures, aux identifiants ou aux rançongiciels](https://infodsi.com/articles/210389/la-cybercriminalite-ne-sarrete-pas-aux-infrastructures-aux-identifiants-ou-aux-rancongiciels.html)  
+*Source : infodsi.com | Publication : 2026-07-09*
+
+- Veuillez activer Javascript.
+
+## [<b>Cybersécurité</b> : la France risque une lourde sanction de l'UE après 20 mois de retard](https://www.universfreebox.com/article/595730/cybersecurite-la-france-risque-une-lourde-sanction-de-lue-apres-20-mois-de-retard)  
+*Source : universfreebox.com | Publication : 2026-07-09*
+
+- Cybersécurité : la France risque une lourde sanction de l’UE après 20 mois de retard Le retard de la France sur la cybersécurité européenne n’est plus sans conséquence.
+- La Commission européenne a décidé de saisir la Cour de justice de l’Union européenne, ouvrant la voie à d’importantes sanctions financières tant que le texte ne sera pas adopté.
+- La Commission européenne hausse le ton contre la France.
+- Estimant que le pays accuse un important retard dans la mise en œuvre de la directive européenne NIS 2, destinée à renforcer la cybersécurité des entreprises et des administrations, Bruxelles a décidé de saisir la Cour de justice de l’Union européenne.
+
+## [Keysight lance la plateforme de test de <b>cybersécurité</b> APS-ONE-400 - Investing.com](https://fr.investing.com/news/company-news/keysight-lance-la-plateforme-de-test-de-cybersecurite-apsone400-93CH-3492559)  
+*Source : fr.investing.com | Publication : 2026-07-09*
+
+- (NYSE:KEYS) a annoncé aujourd'hui le lancement de l'APS-ONE-400, une plateforme modulaire de test de cybersécurité réseau destinée aux fabricants.
+
+## [Mastercard ouvre un hub cyber pour l'Afrique - INCYBER NEWS](https://incyber.org/article/mastercard-ouvre-un-hub-cyber-pour-lafrique/)  
+*Source : incyber.org | Publication : 2026-07-09*
+
+- Mastercard ouvre un hub cyber pour l’Afrique Articles du même auteur : Le dispositif prendra d’abord la forme d’un hub virtuel, opéré via des plateformes numériques connectées.
+- Mastercard annonce, pour la première année, une analyse du risque cyber pour un maximum de 50 organisations, ainsi qu’un flux de renseignement sur les menaces dédié au continent africain.
+- Ce dernier s’appuiera notamment sur Recorded Future, spécialiste américain de la threat intelligence racheté par Mastercard fin 2024.
+- Le groupe inscrit cette initiative dans un contexte de forte exposition du continent aux cyberattaques.
+
+## [Fuite de données chez La commune de Castries, 110 Go exfiltrés par <b>ransomware</b> - FrenchBreaches](https://frenchbreaches.com/alertes/la-commune-de-castries-rw_VkdobElHTnZiVzExYm1VZ2IyWWdRMkZ6ZEhKcFpYTkFjR0Y1Ykc5aFpBPT0)  
+*Source : frenchbreaches.com | Publication : 2026-07-09*
+
+- Revendication de cyberattaque – La commune de Castries ajoutée au site de fuite du groupe ransomware Paylod Le groupe de ransomware Paylod a ajouté la commune de Castries à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de castries.fr, le site officiel de la commune située dans l'Hérault, en région Occitanie.
+- Les attaquants indiquent détenir environ 110 Go de données et ont publié une fiche dédiée à la victime sur leur plateforme de divulgation.
+- À ce stade, aucun échantillon de données ni aucune catégorie précise d'informations exfiltrées n'ont été rendus publics.
+
+## [Keysight Technologies annonce APS-ONE-400, une plateforme modulaire de test de ...](https://ch.zonebourse.com/actualite-bourse/keysight-technologies-annonce-aps-one-400-une-plateforme-modulaire-de-test-de-cybersecurite-reseau-ce7f5ededa8bff2c)  
+*Source : ch.zonebourse.com | Publication : 2026-07-09*
+
+- Keysight Technologies, Inc. a annoncé le lancement de l&#039;APS-ONE-400, une plateforme modulaire dédiée aux tests de cybersécurité réseau.
+- Cette nouvelle solution 4x100GE améliore considérablement les performances pour le trafic des couches 4 à 7 (L4-7), le trafic chiffré et les flux de données massifs (Elephant Flows), le tout dans un système compact d&#039;une unité de rack (1 RU).
+- Elle permet aux équipementiers réseau, aux fournisseurs de services et aux opérateurs de centres de données de valider des scénarios exigeants tout en réduisant les besoins globaux en infrastructure.La plateforme de test de cybersécurité réseau modulaire Keysight APS-ONE-400 4x100GE génère un trafic L4-7 à l&#039;échelle hyperscale, du trafic chiffré TLS (Transport Layer Security), des simulations d&#039;attaques de sécurité et des Elephant Flows via un format 1RU qui minimise l&#039;occupation de l&#039;espace rack, la consommation d&#039;énergie et les besoins en refroidissement.
+- La complexité et le volume croissants des charges réseau — incluant le trafic légitime et malveillant, le trafic chiffré par cryptographie post-quantique (PQC), l&#039;accès réseau de type Zero Trust (ZTNA) et les transmissions Elephant Flow courantes dans les charges de travail liées à l&#039;intelligence artificielle et aux grands modèles de langage (LLM) —exigent que les équipementiers réseau, les fournisseurs de services et les opérateurs de centres de données valident la capacité de leurs solutions à supporter ces demandes avant leur déploiement.
+
+## [L'explosion des vulnérabilités identifiées grâce à l'IA pourrait saturer les équipes cyber à ... - AEF info](https://www.aefinfo.fr/depeche/753963-lexplosion-des-vulnerabilites-identifiees-grace-a-lia-pourrait-saturer-les-equipes-cyber-a-court-terme-selon-lanssi)  
+*Source : aefinfo.fr | Publication : 2026-07-09*
+
+- La Commission européenne saisit officiellement la Cour de justice de l'Union européenne contre la France pour défaut de transposition de la directive La section cyber du parquet de Paris "a décidé de nommer un référent mineurs" pour mieux prendre en compte la jeunesse des mis en cause dans les dossiers de vols de données, déclare sa cheffe, la vice-procur Dans une note publiée mercredi 6 mai 2026, le Campus cyber appelle à relativiser les performances du modèle américain d'IA "Claude Mythos".
+- Il alerte notamment sur l'objectivité des informations rela "L’IA générative est progressivement intégrée à l’éventail d’outils et de services auxquels sont susceptibles de recourir des attaquants informatiques", relève l’Anssi, mercredi 4 février 2026.
+- Les.
+
+## [EKINOPS : Chiffre d'affaires de 30,6 M EUR au 2ème trimestre 2026 - Boursorama](https://www.boursorama.com/bourse/actualites-amp/ekinops-chiffre-d-affaires-de-30-6-m-eur-au-2eme-trimestre-2026-6917dfd6e32905e9e42385c39aa49592)  
+*Source : boursorama.com | Publication : 2026-07-09*
+
+- EKINOPS : Chiffre d'affaires de 30,6 M EUR au 2ème trimestre 2026 information fournie par Actusnews 09/07/2026 à 18:00 3 ème trimestre consécutif de croissance séquentielle (+11%) - Progression de +6% de l'activité par rapport au 2 ème trimestre 2025 -.
+- PARIS, le 9 juillet 2026 - 18h00 - EKINOPS (Euronext Paris - FR0011466069 - EKI) , fournisseur leader de solutions de réseaux optiques, de connectivité et de réseaux SASE destinées aux opérateurs de services et aux entreprises, publie son chiffre d'affaires du 2 ème trimestre 2026 (période du 1 er avril au 30 juin 2026).
+- Chiffre d'affaires du 2 ème trimestre 2026 en progression séquentielle de +11% Au 2 ème trimestre de l'exercice 2026, Ekinops a enregistré un chiffre d'affaires consolidé de 30,6 M€, son plus haut niveau d'activité trimestrielle depuis 3 ans.
+- Cette bonne performance confirme la dynamique commerciale positive engagée depuis plusieurs trimestres.
+
+## [“Les entreprises sont moins fidèles à leurs fournisseurs” : Comment l'IA, les coûts et la ...](https://www.usine-digitale.fr/cybersecurite/les-entreprises-sont-moins-fideles-a-leurs-fournisseurs-comment-lia-les-couts-et-la-souverainete-rebattent-les-cartes-des-achats-de-cybersecurite.KSQ4A2YPJ5EGZJ4XCKULEFDWZI.html)  
+*Source : usine-digitale.fr | Publication : 2026-07-09*
+
+- Pour Florie Lhuillier, responsable de la cybersécurité et vice-présidente Senior chez The Hoffman Agency, ce chiffre ne traduit pourtant pas une.
+
+## [Lightwell disponible commercialement - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65070-lightwell-disponible-commercialement.html)  
+*Source : linformaticien.com | Publication : 2026-07-09*
+
+- Ransomware : les jours d'après · Cybersécurité · Lightwell disponible commercialement.
+- Détails: Bertrand Garé: 9 juillet 2026.
+- Le projet lancé par IBM.
+
+## [IronStream identifie les logiciels IBM z/OS - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/logiciel/65072-ironstream-identifie-les-logiciels-ibm-z-os.html)  
+*Source : linformaticien.com | Publication : 2026-07-09*
+
+- Les clients de ServiceNow peuvent désormais recenser automatiquement les logiciels mainframe et les intégrer à la ServiceNow Configuration.
+
+## [Anaplan renforce son partenariat avec Google Cloud - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/cloud/65071-anaplan-renforce-son-partenariat-avec-google-cloud.html)  
+*Source : linformaticien.com | Publication : 2026-07-09*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cloud · Anaplan renforce son partenariat.
+
+## [Service de proximité, <b>cybersécurité</b>, SFR Business… Comment Bouygues Telecom ... - Les Echos](https://www.lesechos.fr/tech-medias/hightech/service-de-proximite-cybersecurite-sfr-business-comment-bouygues-telecom-veut-construire-un-challenger-serieux-a-orange-sur-le-marche-des-entreprises-2241690)  
+*Source : lesechos.fr | Publication : 2026-07-09*
+
+- Service de proximité, cybersécurité , SFR Business… Comment Bouygues Telecom veut construire un « challenger sérieux » à Orange sur le marché des.
+
+## [<b>Ransomware</b> : léger recul en juin pour conclure un semestre intense - LeMagIT](https://www.lemagit.fr/actualites/366645642/Ransomware-leger-recul-en-juin-pour-conclure-un-semestre-intense)  
+*Source : lemagit.fr | Publication : 2026-07-09*
+
+- Afiq Sam - stock.adobe.com Ransomware : léger recul en juin pour conclure un semestre intense L’activité observable sur le front des cyberattaques avec rançongiciel a continué son recul séquentiel en juin.
+- Mais elle reste marquée par un niveau bien supérieur à celui de 2025, sur fond d’écosystème fragmenté.
+- Pour le mois de juin 2026, nous avons compté, avec l’aide de ransomware.live, un total de 705 incidents de rançongiciel à travers le monde, marquant une légère décélération par rapport au mois précédent.
+- Ce recul mensuel de 4,3 % marque un reflux temporaire de l’activité : traditionnellement, depuis six ans, elle baisse en juin jusqu’à atteindre son taux le plus bas annuel en juillet, avec une reprise en août.
+
+## [L'été : haute saison des cyberattaques ! - Beaboss.fr](https://www.beaboss.fr/digital-1074/cybersecurite-2020/lete-haute-saison-des-cyberattaques-55486)  
+*Source : beaboss.fr | Publication : 2026-07-09*
+
+- Ce n’est pas un hasard si les cyberattaques les plus dévastatrices surviennent régulièrement pendant les périodes estivales.
+- Les pirates informatiques ne prennent pas de vacances.
+- Ils les attendent.
+- Et ce constat, que je fais mission après mission depuis plus dix ans, repose sur une réalité simple : l’été réunit toutes les conditions d’un coup de chaud pour la sécurité des systèmes d’information.
+
+## [La cyber-assurance en Afrique : un marché en construction face à des risques en hausse](https://www.atlas-mag.net/fr/articles/la-cyber-assurance-en-afrique-un-marche-en-construction-face-des-risques-en-hausse)  
+*Source : atlas-mag.net | Publication : 2026-07-09*
+
+- L’Afrique connaît une accélération de sa transformation numérique, portée par l’expansion de l’Internet mobile, l’essor des services financiers digitaux tels que le mobile banking, le mobile money et le commerce électronique.
+- La modernisation des administrations publiques pousse également à la transformation numérique de l’écosystème assurance.
+- Cette dynamique s’accompagne toutefois d’une recrudescence des cyber-risques, exposant davantage les institutions financières, les entreprises et les utilisateurs à de nouvelles formes de menace.
+- Dans ce contexte, la cyberassurance émerge progressivement comme un segment stratégique pour les assureurs africains et une nouvelle solution pour les entreprises.
+
+## [PME françaises : la <b>cybersécurité</b> change de statut, pas encore de bilan](https://www.solutions-numeriques.com/pme-francaises-la-cybersecurite-change-de-statut-pas-encore-de-bilan/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-09*
+
+- Le budget n’est plus l’excuse.
+- La formation progresse, l’IA s’installe sous surveillance, le MDR grignote du terrain.
+- Et pourtant, 44 % des entreprises continuent d’encaisser des incidents évitables, une proportion qui frôle une sur deux dans les structures de 500 à 1 000 endpoints.
+- C’est le tableau que dresse le dernier baromètre d’ESET consacré aux PME françaises, mené auprès de 500 décideurs cyber entre février et mars 2026.
+
+## [GitHub Actions devient un canal d'injection de prompts - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/github-injection-prompt-228214)  
+*Source : silicon.fr | Publication : 2026-07-09*
+
+- Limitez les permissions de vos agents au strict nécessaire, a fortiori s’ils ont accès à plusieurs dépôts.
+- Là n’est pas le seul conseil que Noma Security donne aux utilisateurs des workflows agentiques GitHub.
+- Mais c’est probablement celui qui se justifie après la démonstration de l’entreprise israélienne.
+- Elle a, en l’occurrence, mis en lumière une vulnérabilité d’injection de prompt.
 
 ## [Crise cyber : comment préparer sa communication face à la pression médiatique](https://www.journaldunet.com/cybersecurite/1552471-crise-cyber-comment-preparer-sa-communication-face-a-la-pression-mediatique/)  
 *Source : journaldunet.com | Publication : 2026-07-08*
