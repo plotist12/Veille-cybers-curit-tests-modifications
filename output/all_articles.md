@@ -1,5 +1,163 @@
-# Résumés – 2026-07-10
+# Résumés – 2026-07-11
 
+
+## [Cameroun/<b>Cybersécurité</b> : L'Église face aux nouveaux défis du monde numérique](https://chretiens.com/actualites/cameroun-cybersecurite-leglise-face-aux-nouveaux-defis-du-monde-numerique/2026/07/11/10/52/)  
+*Source : chretiens.com | Publication : 2026-07-11*
+
+- Cameroun/Cybersécurité : L’Église face aux nouveaux défis du monde numérique Le 9 juillet 2026, à Yaoundé, le lancement du programme « Bouclier numérique » a mis en lumière une réalité préoccupante : la montée en puissance des violences en ligne au Cameroun.
+- Si cette initiative portée par la société civile est salutaire, elle interpelle également l’Église.
+- Comment le corps du Christ doit-il réagir face aux pièges qui déchirent des vies dans l’anonymat du web ?.
+- Une responsabilité face à la vulnérabilité Les escroqueries financières, la sextorsion et le harcèlement en ligne ne sont pas que des problèmes techniques ; ils sont des crises morales qui frappent les familles.
+
+## [Carita ciblée par <b>ransomware</b>, une fuite de données revendiquée en ligne - FrenchBreaches](https://frenchbreaches.com/alertes/carita-rw_UTJGeWFYUmhRSFJvWldkbGJuUnNaVzFsYmc9PQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-11*
+
+- Revendication de cyberattaque – Carita ajoutée au site de fuite du groupe ransomware The Gentleman Le groupe de ransomware The Gentleman a ajouté Carita à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de Carita, maison française de soins de luxe et de cosmétique haut de gamme fondée en 1945 et appartenant aujourd'hui à la division Luxe de L'Oréal.
+- Les attaquants indiquent détenir des données issues des systèmes de l'entreprise et ont publié une fiche dédiée à la victime sur leur plateforme de divulgation.
+- À ce stade, aucun échantillon de données ni aucune catégorie précise d'informations exfiltrées n'ont été rendus publics.
+
+## [Fuite de données chez hotel-bourse.com, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/alertes/hotel-bourse-com-rw_YUc5MFpXd3RZbTkxY25ObExtTnZiVUJzYjJOclltbDBOUT09)  
+*Source : frenchbreaches.com | Publication : 2026-07-11*
+
+- Revendication de cyberattaque – Hôtel Bourse ajouté au site de fuite du groupe ransomware LockBit 5.0 Le groupe de ransomware LockBit 5.0 a ajouté Hôtel Bourse à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de hotel-bourse.com, établissement hôtelier situé à Mulhouse, dans le département du Haut-Rhin.
+- Les attaquants ont publié une fiche dédiée à la victime sur leur plateforme de divulgation et affichent un compte à rebours avant une éventuelle publication des données prétendument exfiltrées.
+- À ce stade, aucun échantillon de données ni aucune catégorie précise d'informations compromises n'ont été rendus publics.
+
+## [Mur du patch : l'avertissement de l'ANSSI face aux vulnérabilités découvertes par l'IA](https://www.dpo-partage.fr/mur-du-patch-lavertissement-de-lanssi-face-aux-vulnerabilites-decouvertes-par-lia/)  
+*Source : dpo-partage.fr | Publication : 2026-07-11*
+
+- Auditionné le mercredi 8 juillet 2026 par la commission des affaires économiques du Sénat, Vincent Strubel, directeur général de l’ANSSI, a livré un avertissement sans détour : « Ça va secouer pendant les trois prochaines années au moins ».
+- En cause, le « mur du patch », cette vague de vulnérabilités découvertes par l’intelligence artificielle qui menace de saturer les équipes chargées de la sécurité des systèmes d’information.
+- Les responsables de traitement et leurs DPO sont directement concernés.
+- L’IA découvre les failles plus vite qu’elles ne se corrigent Pour le directeur général de l’agence, la découverte de failles inédites grâce aux modèles d’IA est fondamentalement une bonne nouvelle : chaque vulnérabilité identifiée peut être corrigée avant d’être exploitée.
+
+## [Le PI-SF est essentiel au renforcement de la gouvernance et de la coopération ...](https://www.ena.et/web/fre/w/fre_9195560)  
+*Source : ena.et | Publication : 2026-07-11*
+
+- Le PI-SF est essentiel au renforcement de la gouvernance et de la coopération internationale en matière de sécurité : le président de l'Assemblée nationale - ENA Français Le PI-SF est essentiel au renforcement de la gouvernance et de la coopération internationale en matière de sécurité : le président de l'Assemblée nationale Addis Ababa le 10 juillet, 2026 (ENA) Le président de la Chambre des représentants du peuple (HPR), Tagesse Chaffo, a déclaré que le Forum parlementaire sur le renseignement et la sécurité, qui se tient actuellement à Addis-Abeba pendant deux jours, arrive à point nommé et revêt une importance cruciale pour le renforcement de la gouvernance démocratique, de la responsabilité et de la coopération internationale en matière de sécurité.
+- Des parlementaires, des responsables des services de renseignement, des experts en cybersécurité et des décideurs politiques de 36 pays se sont réunis à Addis-Abeba à l’occasion du Forum parlementaire sur le renseignement et la sécurité (PI-SF).
+- Le Forum parlementaire sur le renseignement et la sécurité organise régulièrement des rencontres destinées aux parlementaires et aux responsables gouvernementaux du monde entier afin qu’ils puissent bénéficier de l’expertise d’éminents spécialistes dans des domaines tels que la lutte contre le financement du terrorisme, la cybersécurité, les investissements étrangers prédateurs, le partage de renseignements, la 5G, l’intelligence artificielle et d’autres sujets pertinents.
+- Lors de l’ouverture du forum, le président de la Chambre des représentants, M. Tagesse, a souligné une évolution dans la manière dont le renseignement et la sécurité sont gérés à l’échelle mondiale : on s’éloigne des modèles qui considèrent le renseignement comme une fonction exclusivement exécutive pour s’orienter vers des systèmes qui reconnaissent le rôle des représentants élus, la confiance du public, la responsabilité, la légitimité démocratique et une gouvernance efficace en matière de sécurité.
+
+## [Voitures chinoises made in Europe, <b>cybersécurité</b> et Groenland : les signaux faibles de la ...](https://www.lesechos.fr/monde/enjeux-internationaux/voitures-chinoises-made-in-europe-cybersecurite-et-groenland-les-signaux-faibles-de-la-geopolitique-2241945)  
+*Source : lesechos.fr | Publication : 2026-07-11*
+
+- Le Groenland, à nouveau menacé ?.
+- A l'autre bout de l'Europe, la Finlande s'inquiète des menaces de cybersécurité liées à l'intelligence artificielle.
+
+## [Fuite de données chez Hotel Bourse, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/alertes/hotel-bourse-rw_YUc5MFpXd3RZbTkxY25ObExtTnZiVUJzYjJOclltbDBOUT09)  
+*Source : frenchbreaches.com | Publication : 2026-07-11*
+
+- Revendication de cyberattaque – Hôtel Bourse ajouté au site de fuite du groupe ransomware LockBit 5.0 Le groupe de ransomware LockBit 5.0 a ajouté Hôtel Bourse à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de hotel-bourse.com, établissement hôtelier situé à Mulhouse, dans le département du Haut-Rhin.
+- Les attaquants ont publié une fiche dédiée à la victime sur leur plateforme de divulgation et affichent un compte à rebours avant une éventuelle publication des données prétendument exfiltrées.
+- À ce stade, aucun échantillon de données ni aucune catégorie précise d'informations compromises n'ont été rendus publics.
+
+## [Les délégués du Forum international sur la sécurité rejoignent l'initiative « Green Legacy](https://www.ena.et/web/fre/w/fre_9200016)  
+*Source : ena.et | Publication : 2026-07-11*
+
+- Les délégués du Forum international sur la sécurité rejoignent l'initiative « Green Legacy » en Éthiopie - ENA Français Les délégués du Forum international sur la sécurité rejoignent l'initiative « Green Legacy » en Éthiopie Addis Ababa le 11 juillet, 2026 (ENA) Les délégués participant au Forum parlementaire international sur le renseignement et la sécurité se sont associés à l’initiative phare éthiopienne « Green Legacy » en plantant des jeunes arbres dans l’enceinte de la Chambre des représentants du peuple.
+- Leur participation a été considérée comme une manifestation symbolique de leur engagement commun en faveur de la durabilité environnementale et de la lutte contre le changement climatique.
+- Cette cérémonie de plantation d’arbres a réuni des membres de la délégation internationale, dont Robert Pittenger, fondateur et président du Forum parlementaire sur le renseignement et la sécurité, aux côtés du président de la Chambre des représentants du peuple, Tagesse Chafo, et du vice-président, Lomi Bedo.
+- En participant à cette initiative, les délégués ont laissé une empreinte écologique durable tout en exprimant leur solidarité avec la campagne nationale menée par l’Éthiopie pour restaurer les paysages dégradés et lutter contre le changement climatique.
+
+## [Les jeunes forces sur un nouveau front - Vietnam.vn](https://www.vietnam.vn/fr/luc-luong-tre-tren-mat-tran-moi)  
+*Source : vietnam.vn | Publication : 2026-07-11*
+
+- Priorité à la lutte contre la cybercriminalité.
+- L'unité PA05, relativement jeune, doit relever de nombreux défis, le domaine de la cybersécurité étant en constante évolution au gré des progrès technologiques.
+- Les criminels utilisent de multiples niveaux de sécurité, des serveurs situés à l'étranger et les preuves sont principalement des données électroniques, ce qui exige des officiers et des soldats qu'ils soient non seulement compétents dans leur domaine, mais aussi qu'ils mettent constamment à jour leurs connaissances et maîtrisent les nouvelles technologies.
+- Avec une équipe d'agents hautement qualifiés en cybersécurité, en technologies de l'information et en enquêtes sur la criminalité de haute technologie, ainsi qu'un esprit proactif d'apprentissage et de recherche, le département PA05 affirme progressivement son rôle de force centrale dans la garantie de la cybersécurité, remplissant efficacement sa mission de protection de la sécurité nationale et du développement socio-économique de la province.
+
+## [Mise en chantier du Centre de lutte contre la <b>cybercriminalité</b> pour la région Asie-Pacifique](https://vov.vn/fr-CH/actualites/mise-en-chantier-du-centre-de-lutte-contre-la-cybercriminalite-pour-la-region-asie-pacifique-2449508.vov)  
+*Source : vov.vn | Publication : 2026-07-11*
+
+- cybercriminalité pour l'Asie-Pacifique.
+- Facebook Share Facebook.
+- samedi, 15:23, 11/07/2026.
+- VOV5.
+
+## [Codex, GPT-5.6, ChatGPT relégué au second plan, OpenAI vise la narration face à Fable ...](https://www.carnetdebord.info/codex-gpt-5-6-chatgpt-relegue-au-second-plan-openai-vise-la-narration-face-a-fable-ce-qui-change-pour-vos-usages/)  
+*Source : carnetdebord.info | Publication : 2026-07-11*
+
+- OpenAI a dévoilé une série d’annonces mettant en avant Codex comme nouveau produit central, reléguant ChatGPT à un rôle moins visible, tandis que GPT-5.6 est présenté comme une réponse à des outils orientés narration comme Fable.
+- Le signal est clair, la priorité se déplace vers des agents plus spécialisés, capables de produire du code et des contenus structurés, avec une expérience plus proche d’un « outil métier » que d’un simple chatbot.
+- Ces informations, rapportées par MacGeneration, s’inscrivent dans un contexte où les assistants généralistes cohabitent désormais avec des produits davantage ciblés, pour le développement, l’écriture, l’audio ou la vidéo.
+- Pour le grand public, la question n’est pas seulement le nom affiché dans une interface.
+
+## [Amazon Kindle : une faille critique permet de pirater votre liseuse à distance - 01net.com](https://www.01net.com/actualites/amazon-kindle-faille-critique-permet-pirater-liseuse-distance.html)  
+*Source : 01net.com | Publication : 2026-07-11*
+
+- Un chercheur de Synacktiv, une société de cybersécurité française, a découvert une faille dans les Kindle, les fameuses liseuses vendues par Amazon.
+- En exploitant cette vulnérabilité, le chercheur est parvenu à prendre le contrôle total de la tablette à l’insu de son propriétaire.
+- Lors de la conférence LeHack 2026, Tanguy Dubroca, le chercheur à l’origine de la découverte, explique avoir voulu « comprendre comment prendre le contrôle d’un appareil fermé sans utiliser les outils de jailbreak existants ».
+- C’est de cette façon qu’il a fini par débusquer une défaillance dans le système de son Kindle Paperwhite 5 sortie en 2021.
+
+## [Monoprix, BCE, Electra : les cinq infos économiques de la semaine - JDD](https://www.lejdd.fr/economie/monoprix-bce-electra-les-cinq-infos-economiques-de-la-semaine-178743)  
+*Source : lejdd.fr | Publication : 2026-07-11*
+
+- Monoprix, BCE, Electra : les cinq infos économiques de la semaine Monoprix mise sur la beauté et la restauration, la BCE alerte sur la cybermenace, Electra veut devenir l'Android de la recharge… Voici les informations économiques à retenir cette semaine.
+- Monoprix mise sur la beauté et la restauration L’enseigne du groupe Casino lance la rénovation de tous ses magasins dans l’Hexagone cet été.
+- Le chantier devrait être achevé en 2030.
+- Le but : des lieux plus esthétiques, mieux identifiés et conçus autour de deux activités génératrices de croissance, la restauration et la beauté.
+
+## [Climatiseur miracle, NASA, complot : une nouvelle arnaque fait rage sur les réseaux sociaux](https://www.01net.com/actualites/nasa-climatiseur-miracle-complot-nouvelle-arnaque-reseaux-sociaux.html)  
+*Source : 01net.com | Publication : 2026-07-11*
+
+- Il va encore faire chaud ces prochains jours.
+- Chacun essaye de faire face à la chaleur comme il le peut.
+- Sur les réseaux sociaux, les arnaques promettant des climatiseurs sans tuyau de sortie se multiplient.
+- Les promesses ont de quoi faire rêver : des appareils vendus à quelques dizaines d’euros capables de refroidir une pièce en un temps record.
+
+## [Afrique: Sommet africain de l'intelligence artificielle et de la <b>cybersécurité</b> - allAfrica.com](https://fr.allafrica.com/stories/202607110013.html)  
+*Source : fr.allafrica.com | Publication : 2026-07-11*
+
+- Du 13 au 15 juillet 2026, Hammamet réunira experts, universitaires et décideurs africains à l'occasion du Sommet africain de l'intelligence artificielle et de la cybersécurité.
+- L'événement ambitionne de renforcer la coopération continentale autour de la gouvernance numérique, de la sécurité des infrastructures digitales et de l'innovation technologique.
+- -Face à l'accélération de la transformation numérique et à l'essor des technologies basées sur l'intelligence artificielle, la Tunisie accueillera, du 13 au 15 juillet 2026 à Hammamet, le Sommet africain de l'intelligence artificielle et de la cybersécurité.
+- Placée sous le thème «Vers une gouvernance numérique intelligente et sécurisée pour la transformation digitale des gouvernements africains », cette rencontre se veut un espace de réflexion sur les défis et les opportunités liés au développement numérique en Afrique.
+
+## [<b>Cybersécurité</b> : La gouvernance et la responsabilité au cœur d'une lutte efficace | FratMat](https://www.fratmat.info/article/2643179/societe/cybersecurite-la-gouvernance-et-la-responsabilite-au-cur-dune-lutte-efficace)  
+*Source : fratmat.info | Publication : 2026-07-11*
+
+- Cybersécurité : La gouvernance et la responsabilité au cœur d’une lutte efficace Au regard de l’évolution de la réglementation et des risques récurrents en matière de cybersécurité, des dirigeants d’entreprises en Côte d’Ivoire et en Afrique ont été instruits aux bonnes pratiques lors de la 21ᵉ édition d’Orange Business Live, qui s’est tenue le jeudi 09 juillet 2026 à la Rivera Golf.
+- Autour du thème : « Cybersécurité, gouvernance et responsabilité : le nouveau triangle du risque pour les entreprises » les spécialistes d’Orange et de l’Agence nationale de la sécurité des systèmes d’information de Côte d’Ivoire (Anssi) Côte d'Ivoire ont précisé que la cybersécurité, c’est 30 % de technologie et 70 % de gouvernance, de responsabilité et de culture.
+- Pour Ferdinand Tra, directeur Orange Business & Broadband et président d’Orange Cloud & cyber solution la cybersécurité n’est pas uniquement de l’informatique, car cette discipline ne compte que pour un tiers.
+- Il faut nécessairement mettre en place une bonne gouvernance tout en impliquant les personnes adéquates.
+
+## [<b>Cybersécurité</b> industrielle : le français TYREX part à la conquête de l'Amérique du Nord](https://goodtech.info/tyrex-canada-seclab-station-blanche-linux-cybersecurite/)  
+*Source : goodtech.info | Publication : 2026-07-11*
+
+- L’excellence cyber française s’exporte !.
+- Le spécialiste de la décontamination USB TYREX annonce l’ouverture de sa filiale au Canada 🍁, en partenariat avec SECLAB.
+- Objectif : déployer ses stations blanches industrielles durcies sous KubianOS (Debian Linux) pour protéger les infrastructures critiques nord-américaines.
+- La protection des réseaux critiques se focalise souvent sur les barrières logicielles et le cloud.
+
+## [Sans eux, le spectacle historique n'existerait pas : Découvrez les bénévoles de La Fresque, à Sens](https://www.lyonne.fr/sens-89100/loisirs/sans-eux-le-spectacle-historique-n-existerait-pas-decouvrez-les-benevoles-de-la-fresque-a-sens_15018561/)  
+*Source : lyonne.fr | Publication : 2026-07-11*
+
+- Avant chaque représentation de La Fresque, à Sens, c'est l'ébullition.
+- Dans les coulisses, 85 comédiens se préparent à entrer en scène, révisant leur texte ou les chorégraphies pour la plupart.
+- Ils sont bénévoles dans leur très grande majorité.
+- Et sont animés par une même passion, le théâtre.
+
+## [Opération Endgame : Europol Saisit 326 Serveurs [2026] - Tech Insider](https://tech-insider.org/fr/operation-endgame-europol-2026/)  
+*Source : tech-insider.org | Publication : 2026-07-11*
+
+- Le 24 juin 2026, Europol a dévoilé le résultat d’une frappe menée sur deux semaines, entre le 15 et le 19 juin, contre trois familles de logiciels malveillants qui alimentent une large part des attaques par rançongiciel en Europe.
+- Baptisée opération Endgame, cette action coordonnée s’est soldée par la saisie de 326 serveurs, 142 noms de domaine et plus de 41 millions d’euros en cryptomonnaie.
+- Neuf pays et une douzaine d’entreprises privées, dont le français Orange Cyberdefense, y ont participé.
+- Europol la décrit comme l’opération internationale la plus importante jamais menée contre les infrastructures qui alimentent l’industrie du rançongiciel.
+
+## [<b>Cybersécurité</b>: Le code QR, nouvel appât des cybercriminels | SNRT News](https://snrtnews.com/fr/article/cybersecurite-le-code-qr-nouvel-appat-des-cybercriminels-155178)  
+*Source : snrtnews.com | Publication : 2026-07-11*
+
+- Technologie Cybersécurité: Le code QR, nouvel appât des cybercriminels 11/07/2026 - 11:05 Halima AamirL'utilisation des QR Code ne se limite plus à faciliter l'accès aux sites électroniques ou aux services numériques.
+- Ils sont devenus une partie intégrante des détails de la vie quotidienne, que ce soit pour consulter les menus dans les restaurants, effectuer des opérations de paiement ou accéder aux réseaux Internet dans les espaces publics.
+- Cependant, cette large diffusion s'est accompagnée d'un développement des méthodes de cyberfraude, après que les pirates ont trouvé dans cette technologie un nouveau moyen d'attirer les victimes en dissimulant des liens malveillants.
+- Ces derniers visent à voler des données personnelles ou bancaires, en exploitant la confiance que de nombreux utilisateurs accordent à ces codes sans vérifier leur source ou la destination vers laquelle ils mènent.
 
 ## [IA et <b>cybersécurité</b> : Tarik Fadli dans L'Info en Face - YouTube](https://www.youtube.com/watch?v=ZhzYIWB6_sA)  
 *Source : youtube.com | Publication : 2026-07-10*
