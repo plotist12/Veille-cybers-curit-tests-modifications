@@ -1,5 +1,153 @@
-# Résumés – 2026-07-11
+# Résumés – 2026-07-12
 
+
+## [Les 20 principales entreprises de la sécurité des réseaux mondiaux - Spherical Insights](https://www.sphericalinsights.com/fr/blogs/top-20-companies-in-global-network-security-firewall-market-2026-2035-expert-view-by-spherical-insights)  
+*Source : sphericalinsights.com | Publication : 2026-07-12*
+
+- cybersécurité et de sécurité des infrastructures (CISA), la stratégie de cybersécurité de l'Union européenne et les cadres nationaux de.
+
+## [Suspension des réseaux sociaux : les limites des VPN gratuits face au piratage(expert) -](https://gabonactu.com/blog/2026/07/12/suspension-des-reseaux-sociaux-les-limites-des-vpn-gratuits-face-au-piratageexpert/)  
+*Source : gabonactu.com | Publication : 2026-07-12*
+
+- Le recours massif aux VPN depuis la suspension des réseaux sociaux au Gabon n’offre pas la sécurité espérée.
+- Qemal Affagnon, expert en cybersécurité de l’ONG Internet Sans Frontières, a expliqué dans un entretien exclusif à Gabonactu.com que les VPN, notamment les versions gratuites, ne protègent ni contre le piratage informatique, ni contre les logiciels malveillants ou les virus.
+- Il appelle les internautes à faire preuve de vigilance face à ces outils dont l’utilisation a fortement augmenté depuis la décision de la Haute Autorité de la Communication (HAC).
+- Selon Qemal Affagnon, de nombreux internautes surestiment les capacités des VPN.
+
+## [À côté de la plaque, ces hackers chinois laissent leur propre serveur grand ouvert pendant ...](https://www.numerama.com/cyberguerre/2294119-a-cote-de-la-plaque-ces-hackers-chinois-laissent-leur-propre-serveur-grand-ouvert-pendant-trois-semaines.html)  
+*Source : numerama.com | Publication : 2026-07-12*
+
+- C’est une négligence presque comique au regard du reste.
+- Une équipe capable de construire des scanners automatisés et de déployer des webshells à plusieurs couches d’obfuscation a laissé un simple serveur Python tourner en accès libre pendant 22 jours.
+- De quoi permettre aux chercheurs de Ctrl-Alt-Intel et SOCRadar de reconstituer, presque en temps réel, l’intégralité de la campagne.
+- Dans leurs analyses distinctes, publiées respectivement le 22 juin et le 9 juillet 2026, les équipes de recherche en cybersécurité pointent la même erreur basique : l’opérateur a lancé un serveur web Python pour déplacer des fichiers, et l’a laissé actif sans la moindre authentification.
+
+## [&quot;Si la <b>cybercriminalité</b> était un pays, elle serait la troisième économie mondiale&quot;: comment le ...](https://www.facebook.com/BFMBusiness/posts/si-la-cybercriminalité-était-un-pays-elle-serait-la-troisième-économie-mondiale-/1477142024460008/)  
+*Source : facebook.com | Publication : 2026-07-12*
+
+- "Si la cybercriminalité était un pays, elle serait la troisième économie mondiale": comment le crime numérique s'est industrialisé au point de.
+
+## [La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs ...](https://www.boursorama.com/bourse/actualites-amp/la-societe-indienne-tata-consultancy-services-prevoit-de-recruter-jusqu-a-8-900-ingenieurs-specialises-dans-le-deploiement-de-l-ia-et-cherche-a-realiser-des-acquisitions-dans-ce-domaine-3b963fc267d291d18fc13d32675d6e28)  
+*Source : boursorama.com | Publication : 2026-07-12*
+
+- La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs spécialisés dans le déploiement de l'IA et cherche à réaliser des acquisitions dans ce domaine information fournie par Reuters 12/07/2026 à 10:30 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Selon le directeur général Krithivasan, le groupe FDE représenterait entre 1 % et 1,5 % des collaborateurs * TCS étudie actuellement des acquisitions dans les domaines de l’IA, de la sécurité des données et de la cybersécurité * La croissance trimestrielle annualisée du chiffre d’affaires lié à l’IA a ralenti, passant de 28 % à 13 % par Sai Ishwarbharath B et Haripriya Suresh Tata Consultancy Services TCS.NS met en place une équipe pouvant compter jusqu’à 8 900 ingénieurs déployés sur le terrain et recherche des opportunités d’acquisition dans le domaine de l’IA, pariant que l’intelligence artificielle créera de nouvelles opportunités commerciales plutôt que de nuire à l’externalisation, ont déclaré deux dirigeants de TCS à Reuters.
+- Cette stratégie voit le jour alors que les investisseurs craignent que l’IA ne vienne perturber le secteur indien des services informatiques, évalué à 315 milliards de dollars, en réduisant la demande d’équipes d’ingénieurs, en raccourcissant les délais des projets et en faisant baisser les prix, les clients cherchant à tirer parti des gains de productivité.
+- « Nous veillerions à ce que 1 % à 1,5 % de nos collaborateurs puissent être ce que l’on appelle des FDE », a déclaré le directeur général K. Krithivasan lors d’une interview.
+- TCS TCS.NS est la plus grande entreprise indienne de services logiciels.
+
+## [&quot;Si la <b>cybercriminalité</b> était un pays, elle serait la troisième économie mondiale&quot;: comment le ...](https://www.bfmtv.com/tech/cybersecurite/si-la-cybercriminalite-etait-un-pays-elle-serait-la-troisieme-economie-mondiale-comment-le-crime-numerique-s-est-industrialise-au-point-de-siphonner-des-centaines-de-milliards-a-l-economie-mondiale_AN-202607120041.html)  
+*Source : bfmtv.com | Publication : 2026-07-12*
+
+- "Si la cybercriminalité était un pays, elle serait la troisième économie mondiale": comment le crime numérique s’est industrialisé au point de siphonner des centaines de milliards à l’économie mondiale Voici la troisième puissance mondiale.
+- Ce n’est ni l’Inde, ni le Japon, ni même la France.
+- C’est une nation sans territoire: le cybercrime.
+- "Si la cybercriminalité était un pays, elle serait la troisième économie mondiale", derrière les États-Unis et la Chine, relate l'un des principaux réassureurs mondiaux Munich Re.
+
+## [Plan d'action <b>cybersécurité</b> et IA : l'UE souhaite se protéger](https://dcod.ch/2026/07/12/plan-d-action-cybersecurite-ia-ue/)  
+*Source : dcod.ch | Publication : 2026-07-12*
+
+- TL;DR : L’essentiel L’Union européenne encadrera strictement l’usage de l’intelligence artificielle avancée dès août 2026 grâce à la mise en œuvre de sa réglementation sur l’IA, ciblant en priorité l’atténuation des risques systémiques.
+- - Une capacité européenne d’évaluation des modèles, axée sur la cybersécurité, sera opérationnelle d’ici 2027 afin d’auditer de manière transparente et indépendante les technologies de pointe avant leur mise sur le marché.
+- - Pour faire face aux menaces automatisées, le plan modernise la gestion des vulnérabilités en ciblant en priorité la sécurisation et la correction rapide des briques logicielles libres critiques utilisées par les infrastructures de l’Union.
+- - L’Europe mobilisera d’importants financements publics et privés pour développer ses propres capacités d’intelligence artificielle souveraines et former ses professionnels de la sécurité aux compétences défensives requises.
+
+## [Comment l'IA influence-t-elle l'avenir de la sécurité en ligne ? - Infos-IT](https://infos-it.fr/tech/9789/comment-lia-influence-t-elle-lavenir-de-la-securite-en-ligne/)  
+*Source : infos-it.fr | Publication : 2026-07-12*
+
+- Les cyberattaques augmentent à un rythme jamais observé auparavant.
+- Rien qu’au premier semestre 2026, les autorités françaises ont enregistre une hausse significative des incidents de sécurité visant aussi bien les entreprises que les particuliers.
+- Face à cette escalade préoccupante des cyberattaques, les méthodes traditionnelles de protection, qui reposent sur des approches statiques et réactives, montrent clairement leurs limites dans un paysage numérique en constante mutation.
+- Les pare-feu traditionnels et les antivirus reposant sur des signatures connues ne parviennent plus à contrer des menaces en constante évolution.
+
+## [<b>Cybersécurité</b> : les 11 actualités majeures du 12 juillet 2026](https://dcod.ch/2026/07/12/cybersecurite-les-11-actualites-majeures-du-12-juillet-2026/)  
+*Source : dcod.ch | Publication : 2026-07-12*
+
+- Faits marquants de la semaine Le Parlement européen échoue à réunir la majorité qualifiée nécessaire pour enterrer le dispositif temporaire « Chat Control », rouvrant la voie à la réintroduction d’un cadre permettant aux plateformes de scanner les messages pour détecter des contenus pédocriminels hors communications chiffrées de bout en bout, potentiellement jusqu’en 2028.
+- - Des analyses de Citizen Lab révèlent l’infection par Pegasus de l’iPhone d’un ancien eurodéputé en plein travaux de la commission PEGA, poussant des organisations de défense des libertés à exiger une enquête de la direction générale en charge des technologies et une mise en œuvre transparente des recommandations de régulation du spyware.
+- - La Commission européenne accuse Meta de ne pas avoir suffisamment réduit les risques que les fonctionnalités d’autoplay vidéo et de défilement infini de Facebook et Instagram font peser sur la santé physique et mentale des utilisateurs, en favorisant des usages jugés compulsifs.
+- - Un chercheur signale à un journaliste que des mots de passe en grand nombre se trouvent exposés dans un dépôt GitHub public, mis en ligne par un employé d’un sous-traitant de l’agence américaine de cybersécurité CISA, révélant un incident de sécurité lié à la gestion des identifiants.
+
+## [<b>Cybersécurité</b> : le nouveau défi des rédactions togolaises - Icilome](https://icilome.com/2026/07/cybersecurite-le-nouveau-defi-des-redactions-togolaises/)  
+*Source : icilome.com | Publication : 2026-07-12*
+
+- À l’heure où les rédactions s’appuient de plus en plus sur les outils numériques, la cybersécurité s’impose désormais comme un enjeu majeur pour les professionnels des médias.
+- Piratage de comptes, vol de données, usurpation d’identité, deepfakes, campagnes de désinformation… les cybermenaces se multiplient et exposent les journalistes à des risques qui peuvent compromettre aussi bien leur travail que la protection de leurs sources.
+- C’est dans cette perspective que l’Agence Nationale de la Cybersécurité (ANCy), en collaboration avec Cyber Defense Africa (CDA) et avec l’appui de l’Observatoire Togolais des Médias (OTM), a réuni du 7 au 9 juillet à Kpalimé une quarantaine de professionnels des médias venus renforcer leurs compétences en cybersécurité et en hygiène numérique.
+- Durant trois jours, les échanges ont porté sur les bonnes pratiques permettant de mieux sécuriser les comptes de messagerie et les réseaux sociaux, protéger les données sensibles, renforcer la gestion des mots de passe grâce à l’authentification multifacteur, sécuriser les smartphones et les postes de travail, tout en adoptant des mécanismes efficaces de sauvegarde des informations.
+
+## [Marraine de 46 enfants orphelins et défavorisés de Ca Mau - Vietnam.vn](https://www.vietnam.vn/fr/me-do-dau-cua-46-tre-mo-coi-kho-khan-o-ca-mau)  
+*Source : vietnam.vn | Publication : 2026-07-12*
+
+- Dans leur petite maison au toit de chaume, construite sur un terrain emprunté à des proches, Quynh et Nhu étudiaient avec application.
+- Dès qu'elles aperçurent leur marraine An, elles posèrent aussitôt leurs stylos et coururent l'embrasser.
+- Nhu Quynh et Quynh Nhu sont des sœurs jumelles ; elles vivent actuellement avec leur mère, leur père étant décédé des suites du Covid-19.
+- Touchée par la détresse des enfants, Mme Thanh An devint leur marraine.
+
+## [Bruxelles présente un plan de <b>cybersécurité</b> de l'IA dans un contexte de dépendance aux ...](https://www.observatoiredeleurope.com/bruxelles-presente-un-plan-de-cybersecurite-de-lia-dans-un-contexte-de-dependance-aux-modeles-americains_a91010.html)  
+*Source : observatoiredeleurope.com | Publication : 2026-07-12*
+
+- L’UE dévoile un plan d’action pour la cybersécurité de l’IA, mais propose principalement des recommandations alors que Bruxelles s’appuie sur un accès négocié aux modèles d’IA américains comme Mythos d’Anthropic, révélant ainsi sa dépendance technologique.
+- La Commission européenne a présenté son plan pour lutter contre les risques de cybersécurité posés par l’IA de pointe, mais Bruxelles n’a pas grand-chose à offrir au-delà de recommandations et d’une tentative de négocier un accès anticipé avec les sociétés américaines d’IA.
+- L’intelligence artificielle redéfinit le paysage des cybermenaces, permettant aux acteurs malveillants de mener des opérations moins coûteuses, plus évolutives et plus sophistiquées.
+- Dans ce que les critiques considèrent comme un réflexe typique de l’UE consistant à générer de la paperasse plutôt qu’à résoudre des problèmes complexes, la Commission a produit un plan d’action – une mosaïque d’outils réglementaires existants et de nouvelles initiatives assemblés dans une réponse soi-disant cohérente.
+
+## [Anthropic, OpenAI et Google face à la réalité de l'Internet moderne - Brief IA](https://www.briefia.fr/article/anthropic-openai-et-google-face-a-la-realite-de-l-internet-moderne)  
+*Source : briefia.fr | Publication : 2026-07-12*
+
+- Tu suis la course aux modèles IA ?.
+- Chaque sortie (GPT, Claude, Gemini, Mistral…) décryptée le soir même, en 5 min.
+- Gratuit.
+- Inclus dès l'inscription : notre sélection des meilleurs guides & comparatifs IA.
+
+## [Identifier les arnaques en ligne grâce à l'exposition « Mur de la <b>cybersécurité</b> ». - Vietnam.vn](https://www.vietnam.vn/fr/nhan-dien-bay-lua-dao-truc-tuyen-qua-trien-lam-buc-tuong-an-ninh-mang)  
+*Source : vietnam.vn | Publication : 2026-07-12*
+
+- L'exposition s'inscrit dans le cadre du gala « Patrie paisible » et des célébrations du 80e anniversaire de la Journée traditionnelle des Forces de sécurité populaire (12 juillet 1946 – 12 juillet 2026).
+- Après son succès à Da Nang et à Hô Chi Minh -Ville, le programme se poursuit à Hanoï, offrant un espace d'expérience visuelle immersif au cœur de la zone piétonne de Ho Guom.
+- Dans un contexte de transformation numérique rapide, les services en ligne et les réseaux sociaux sont devenus indispensables, tandis que les escroqueries en ligne évoluent constamment, adoptant des méthodes toujours plus sophistiquées et difficiles à détecter.
+- Savoir identifier et prévenir les escroqueries est donc devenu une nécessité pour chaque citoyen afin de se protéger dans l'espace numérique.
+
+## [<b>Cybersécurité</b>: Ozoos, société de Waterloo, se développe grâce à son nouvel outil Veezo](https://www.lavenir.net/regions/brabantwallon/waterloo/2026/07/12/cybersecurite-ozoos-societe-de-waterloo-se-developpe-grace-a-son-nouvel-outil-veezo-O37U7UCWBRF6NEXWN3M5FIPIEI/)  
+*Source : lavenir.net | Publication : 2026-07-12*
+
+- Cybersécurité: Ozoos, société de Waterloo, se développe grâce à son nouvel outil Veezo Experte en cybersécurité, la société waterlootoise Ozoos connaît un développement rapide ces derniers mois grâce "Veezo" Publié le 12-07-2026 à 14h36 - Mis à jour le 12-07-2026 à 14h38 - Experte en cybersécurité, la société waterlootoise Ozoos connaît un développement rapide ces derniers mois grâce à "Veezo", un service automatisé de réduction du risque informatique.
+- Depuis sa création en 2014 par Tanguy Derriks de Tervuren, Ozoos se consacre entièrement à la cybersécurité, que ce soit pour des PME, de grandes sociétés ou les pouvoirs publics.
+- Elle propose une gamme complète de services couvrant l'audit, la guidance et la gouvernance en sécurité informatique….
+
+## [Les 20 meilleures entreprises dans la configuration de réseau mondial et la gestion du ...](https://www.sphericalinsights.com/fr/blogs/top-20-companies-in-global-network-configuration-and-change-management-market-2026-2035-spherical-insights-analysis)  
+*Source : sphericalinsights.com | Publication : 2026-07-12*
+
+- Cisco Systems est un leader mondial dans les solutions de réseautage et de cybersécurité , offrant des technologies de configuration de réseau et de.
+
+## [Faux paiement Wero : cette arnaque par SMS peut vider votre compte bancaire - 01net.com](https://www.01net.com/actualites/faux-paiement-wero-cette-arnaque-par-sms-peut-vider-votre-compte-bancaire.html)  
+*Source : 01net.com | Publication : 2026-07-12*
+
+- Cette arnaque se développe particulièrement sur les plateformes de revente en ligne, comme Marketplace (Facebook) et Vinted, mais elle peut aussi être appliquée à n’importe quel produit ou service vendu en ligne.
+- En envoyant un simple SMS, l’arnaqueur fait croire à la victime qu’elle doit accepter un virement Wero.
+- Ce SMS renvoie en réalité vers un formulaire frauduleux.
+- Voici comment repérer cette arnaque.
+
+## [117 appels d'offres en 2026, 84 attendus en 2027, Iter dope la sous-traitance, ces exigences ...](https://www.carnetdebord.info/117-appels-doffres-en-2026-84-attendus-en-2027-iter-dope-la-sous-traitance-ces-exigences-strictes-surprennent-les-pme/)  
+*Source : carnetdebord.info | Publication : 2026-07-12*
+
+- Le projet de réacteur à fusion nucléaire Iter, installé à Saint-Paul-lez-Durance (Bouches-du-Rhône), maintient un rythme d’achats élevé.
+- Selon des données relayées par L’Usine Nouvelle, 117 appels d’offres sont publiés en 2026, et 84 sont attendus en 2027.
+- Derrière ces chiffres, un effet concret pour des PME et ETI de la sous-traitance, sollicitées sur des lots techniques, des services d’ingénierie et des prestations de chantier, dans un cadre où les exigences de qualité, de traçabilité et de sûreté restent déterminantes.
+- Sommaires Iter structure 117 appels d’offres en 2026 pour alimenter le tissu industriel La volumétrie annoncée, 117 appels d’offres en 2026, traduit une mécanique d’achats devenue régulière sur un programme industriel long.
+
+## [Lutte contre la cyberfraude : les grandes banques espagnoles font front commun](https://www.lesechos.fr/finance-marches/banque-assurances/lutte-contre-la-cyberfraude-les-grandes-banques-espagnoles-font-front-commun-2241966)  
+*Source : lesechos.fr | Publication : 2026-07-11*
+
+- Les banques espagnoles s'allient pour la cybersécurité.
+- Les trois poids lourds du secteur, Santander, CaixaBank et BBVA, ont inauguré FrauDfense,.
+
+## [<b>Cybersécurité</b> locale : l'écart entre priorité et action – ZATAZ.COM](https://www.zataz.com/cybersecurite-locale-lecart-entre-priorite-et-action/)  
+*Source : zataz.com | Publication : 2026-07-11*
+
+- En 2026, la cybersécurité domine les priorités informatiques locales.
+- Pourtant, seule une collectivité sur trois possède une stratégie écrite, testée et pilotée.
+- La cybersécurité devient le premier chantier informatique de 61 % des collectivités locales pour 2026, selon le baromètre Quorum–Konica Minolta publié en novembre 2025.
+- Cette priorité masque toutefois un retard structurel : 33 % seulement disposent d’une stratégie formalisée.
 
 ## [Cameroun/<b>Cybersécurité</b> : L'Église face aux nouveaux défis du monde numérique](https://chretiens.com/actualites/cameroun-cybersecurite-leglise-face-aux-nouveaux-defis-du-monde-numerique/2026/07/11/10/52/)  
 *Source : chretiens.com | Publication : 2026-07-11*
