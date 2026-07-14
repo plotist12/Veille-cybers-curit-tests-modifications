@@ -1,5 +1,151 @@
-# Résumés – 2026-07-13
+# Résumés – 2026-07-14
 
+
+## [Les États-Unis vont mettre en place un groupe de coordination sur l'IA et la <b>cybersécurité</b> ...](https://www.boursorama.com/bourse/actualites/les-etats-unis-vont-mettre-en-place-un-groupe-de-coordination-sur-l-ia-et-la-cybersecurite-annonce-la-maison-blanche-1b46e951f861babd83b3a5bc86d3b50c)  
+*Source : boursorama.com | Publication : 2026-07-14*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajoute un commentaire du directeur de la cybersécurité de la Maison Blanche, des détails sur le groupe, le contexte des entreprises et du secteur, paragraphes 2-3 et 5) par Courtney Rozen Les États-Unis vont officiellement réunir des développeurs d’IA et des prestataires de services essentiels afin de partager des informations sur les vulnérabilités en matière de cybersécurité identifiées par des systèmes d’IA avancés et de coordonner les réponses, selon un communiqué de la Maison Blanche, donnant ainsi suite au décret présidentiel signé en juin par le président américain Donald Trump.
+- Des entreprises telles qu’Anthropic et OpenAI ont mis sur le marché de puissants systèmes d’IA capables d’identifier à grande échelle les vulnérabilités des logiciels et des infrastructures.
+- Les responsables américains craignent que des acteurs malveillants ne s’en servent pour exploiter les failles des systèmes logiciels qui sous-tendent les services critiques — notamment ceux des institutions financières, des hôpitaux et des réseaux énergétiques — dont dépendent les Américains.
+- L’administration Trump a mis en place un groupe de coordination entre les principaux développeurs d’IA et les fournisseurs de services essentiels afin qu’ils puissent partager des informations sur les vulnérabilités qu’ils ont découvertes dans leurs logiciels et éviter ainsi les doublons.
+
+## [Les États-Unis vont mettre en place un groupe de coordination sur l'IA et la <b>cybersécurité</b> ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N43G2KN:0/)  
+*Source : fr.tradingview.com | Publication : 2026-07-14*
+
+- Actualités/Reuters/Les États-Unis vont mettre en place un groupe de coordination sur l'IA et la cybersécurité, annonce la Maison BlancheLes États-Unis vont mettre en place un groupe de coordination sur l'IA et la cybersécurité, annonce la Maison BlancheRefinitivDémarrez un essai gratuit pour lire cette actualitéEssai gratuit de 30 joursPlus de nouvelles provenant de Reuters.
+
+## [Le titre CrowdStrike approche son record : 3 raisons d'un retournement imminent](https://fr.tradingview.com/news/invezz:a86ae2018b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-07-14*
+
+- Le titre CrowdStrike approche son record : 3 raisons d’un retournement imminent L'action CrowdStrike a poursuivi son récent rally aujourd'hui, July 14, et se rapproche lentement de son plus haut historique de $209.55.
+- Elle a bondi de 80% au cours des six derniers mois, portant sa valorisation à plus de $212 milliards.
+- CRWD et d'autres grandes entreprises de cybersécurité comme Fortinet, SentinelOne et Palo Alto Networks ont également flambé.
+- La thèse générale est que la montée des agents d'IA entraînera une demande accrue en dépenses de cybersécurité.
+
+## [Chassé-croisé de l'été : ces erreurs fréquentes qui siphonnent Android Auto sur la route des ...](https://www.zdnet.fr/pratique/chasse-croise-de-lete-ces-erreurs-frequentes-qui-siphonnent-android-auto-sur-la-route-des-vacances-498100.htm)  
+*Source : zdnet.fr | Publication : 2026-07-14*
+
+- Ça y est, les grands départs sont là.
+- Et votre smartphone sera le copilote officiel de votre voyage.
+- Mais entre les coupures de navigation et les surchauffes de batterie, Android Auto peut parfois vous faire perdre patience.
+- Heureusement, ces dysfonctionnements sont souvent liés à de mauvaises habitudes faciles à corriger.
+
+## [Les États-Unis lancent un groupe de coordination sur l'IA et la <b>cybersécurité</b>, selon la ...](https://ch.zonebourse.com/actualite-bourse/les-etats-unis-lancent-un-groupe-de-coordination-sur-l-ia-et-la-cybersecurite-selon-la-maison-blanc-ce7f5edddd8bf32d)  
+*Source : ch.zonebourse.com | Publication : 2026-07-14*
+
+- Les États-Unis vont officiellement réunir les développeurs d&#039;intelligence artificielle (IA) et les prestataires de services essentiels afin de partager des informations sur les vulnérabilités de cybersécurité identifiées par les systèmes d&#039;IA avancés et de coordonner les réponses, selon un communiqué de la Maison-Blanche.
+- Cette initiative concrétise un décret du président américain Donald Trump datant de juin.Des entreprises telles qu&#039;Anthropic et OpenAI ont mis sur le marché des systèmes d&#039;IA puissants, capables d&#039;identifier à grande échelle des failles dans les logiciels et les infrastructures.
+- Les autorités américaines craignent que des acteurs malveillants ne les utilisent pour exploiter les faiblesses des systèmes informatiques qui soutiennent les services critiques — notamment ceux des institutions financières, des hôpitaux et des réseaux énergétiques — dont dépendent les Américains.L&#039;administration Trump a mis en place un groupe de coordination entre les principaux développeurs d&#039;IA et les fournisseurs de services essentiels afin qu&#039;ils puissent partager les informations relatives aux vulnérabilités découvertes dans leurs logiciels et éviter les doublons.
+- Ce dispositif inclut les développeurs de modèles d&#039;IA en &quot;open-source&quot; (code source ouvert), a précisé Sean Cairncross, directeur de la cybersécurité à la Maison-Blanche.
+
+## [Les États-Unis lancent un groupe de coordination sur l'IA et la <b>cybersécurité</b>, selon la ...](https://www.zonebourse.com/actualite-bourse/les-etats-unis-lancent-un-groupe-de-coordination-sur-l-ia-et-la-cybersecurite-selon-la-maison-blanc-ce7f5edddd8bf32d)  
+*Source : zonebourse.com | Publication : 2026-07-14*
+
+- Les États-Unis vont officiellement réunir les développeurs d&#039;intelligence artificielle (IA) et les prestataires de services essentiels afin de partager des informations sur les vulnérabilités de cybersécurité identifiées par les systèmes d&#039;IA avancés et de coordonner les réponses, selon un communiqué de la Maison-Blanche.
+- Cette initiative concrétise un décret du président américain Donald Trump datant de juin.Des entreprises telles qu&#039;Anthropic et OpenAI ont mis sur le marché des systèmes d&#039;IA puissants, capables d&#039;identifier à grande échelle des failles dans les logiciels et les infrastructures.
+- Les autorités américaines craignent que des acteurs malveillants ne les utilisent pour exploiter les faiblesses des systèmes informatiques qui soutiennent les services critiques — notamment ceux des institutions financières, des hôpitaux et des réseaux énergétiques — dont dépendent les Américains.L&#039;administration Trump a mis en place un groupe de coordination entre les principaux développeurs d&#039;IA et les fournisseurs de services essentiels afin qu&#039;ils puissent partager les informations relatives aux vulnérabilités découvertes dans leurs logiciels et éviter les doublons.
+- Ce dispositif inclut les développeurs de modèles d&#039;IA en &quot;open-source&quot; (code source ouvert), a précisé Sean Cairncross, directeur de la cybersécurité à la Maison-Blanche.
+
+## [France-Élaine Duranceau annonce une entente avec l'Alberta pour accélérer le ... - Newswire.ca](https://www.newswire.ca/fr/news-releases/france-elaine-duranceau-annonce-une-entente-avec-l-alberta-pour-accelerer-le-deploiement-de-l-intelligence-artificielle-au-sein-de-l-etat-833042560.html)  
+*Source : newswire.ca | Publication : 2026-07-14*
+
+- France-Élaine Duranceau annonce une entente avec l'Alberta pour accélérer le déploiement de l'intelligence artificielle au sein de l'État Nouvelles fournies par Cabinet du ministre de la Cybersécurité et du Numérique14 juil, 2026, 16:11 ET QUÉBEC, le 14 juill.
+- 2026 /CNW/ -- Le gouvernement du Québec franchit une nouvelle étape pour moderniser l'État grâce à l'intelligence artificielle.
+- La ministre de la Cybersécurité et du Numérique, Mme France-Élaine Duranceau, annonce la signature d'une entente de coopération opérationnelle en intelligence artificielle (IA) avec M. Nate Glubish, ministre des Technologies et de l'Innovation de l'Alberta.
+- D'une durée de 5 ans et sans engagement financier, cette entente vise à accélérer le déploiement de l'IA dans l'administration publique.
+
+## [Rapport annuel consolidé 2025 de l'ENISA : l'Europe s'unit - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/07/14/rapport-annuel-consolide-2025-enisa/)  
+*Source : dcod.ch | Publication : 2026-07-14*
+
+- TL;DR : L’essentiel Le déploiement opérationnel de la base de données européenne centralise les informations techniques validées sur les vulnérabilités critiques.
+- Cet outil commun accélère la correction des failles logicielles à l’échelle du marché unique.
+- - La gestion de la réserve de cybersécurité de l’Union européenne est confiée à l’agence pour mobiliser en urgence des prestataires privés audités.
+- Ce bouclier opérationnel soutient directement les infrastructures paralysées par des attaques d’envergure.
+
+## [Anthropic plaide pour la coopération sur les modèles d'IA en cyberdéfense et ... - Agence Europe](https://agenceurope.eu/fr/bulletin/article/13909/20/)  
+*Source : agenceurope.eu | Publication : 2026-07-14*
+
+- Donny Greenberg, expert en entraînement des modèles d’intelligence artificielle chez Anthropic, a salué le dialogue « constructif » engagé avec la Commission européenne et l’Agence de l’Union européenne pour la cybersécurité (ENISA) concernant l’accès à son modèle d’IA de frontière, Mythos et a plaidé en faveur d’une coopération mondiale pour faire face aux risques de cybersécurité liés à ces modèles, estimant qu’ aucune organisation ni aucun pays ne peut les relever seul.
+- « Notre objectif est de permettre à ces modèles d’éliminer les risques de cyberattaques visant toutes les infrastructures critiques : les infrastructures financières, physiques, civiques et numériques », a-t-il déclaré, mardi14 juillet, lors d’un échange au sein de la commission du marché intérieur et de la protection des consommateurs (IMCO) du Parlement européen, laissant par ailleurs sans réponse la plupart des questions des députés européens.
+- Les députés européens lui ont demandé si l’entreprise estimait que l’Union européenne devait développer ses propres alternatives et si Anthropic pourrait aider l’Europe à concevoir ses propres modèles.
+- Ils ont également demandé qui, en dernier ressort, contrôlait le 'kill switch' permettant de désactiver les modèles - le gouvernement américain ou l’entreprise ?.
+
+## [L'intelligence artificielle de pointe dans le secteur de la santé : gestion de la chaîne d ...](https://health-isac.org/fr/L'intelligence-artificielle-de-pointe-dans-le-secteur-de-la-santé-gère-les-risques-liés-à-la-chaîne-d'approvisionnement-et-aux-fournisseurs/)  
+*Source : health-isac.org | Publication : 2026-07-14*
+
+- L'intelligence artificielle de pointe dans le secteur de la santé : gestion de la chaîne d'approvisionnement et des risques liés aux fournisseurs Les modèles d'IA de pointe transforment la cybersécurité.
+- Ces nouveaux modèles de langage à grande échelle (LLM) peuvent détecter les vulnérabilités à un rythme inédit, mettant ainsi en péril les systèmes et les données.
+- Face à ces nouveaux modèles, les organismes du secteur de la santé doivent s'adapter.
+- Les principes fondamentaux de la cybersécurité restent les mêmes, mais tout s'accélère.
+
+## [<b>Cybersécurité</b>, un cadre renforcé en préparation - SenePlus](https://www.seneplus.com/article/cybersecurite-un-cadre-renforce-en-preparation)  
+*Source : seneplus.com | Publication : 2026-07-14*
+
+- contre les cybermenaces.
+- Selon la RTS qui relaie l'information, une réunion de concertation était présidée, à ce sujet, par le ministre des.
+
+## [<b>Cybersécurité</b> : avec Atlas, faites de vos équipes un bouclier opérationnel - Livestorm](https://app.livestorm.co/opco-atlas/cybersecurite-avec-atlas-faites-de-vos-equipes-un-bouclier-operationnel)  
+*Source : app.livestorm.co | Publication : 2026-07-14*
+
+- À propos de cet événement Face à la multiplication des cybermenaces, la meilleure protection reste une équipe sensibilisée et formée aux bons réflexes.
+- À travers ce webinaire, Atlas vous présente les solutions concrètes pour développer les compétences de vos collaborateurs, instaurer une véritable culture de la cybersécurité et mobiliser les dispositifs de formation et de financement adaptés à votre entreprise.
+- 📅 Le jeudi 17 septembre 🕐 De 14h00 à 15h00 🎯 Au programme Faites le point sur : Un temps d'échange avec nos experts est prévu pour répondre à vos questions.
+- 🎤 Les intervenants Atlas est l’opérateur de compétences des entreprises et salariés des services financiers et du conseil.
+
+## [Infrastructures souveraines : le retour de la Tech européenne - Techerati](https://www.techerati.com/fr/hub-actualités/le-retour-de-la-tech-europeenne-vers-une-nouvelle-generation-dinfrastructures-souveraines/)  
+*Source : techerati.com | Publication : 2026-07-14*
+
+- Eviden reste présent dans le calcul intensif et la cybersécurité.
+- OVHcloud, Scaleway, Outscale, Cloud Temple ou NumSpot participent à la construction.
+
+## [Plex ou Jellyfin : lequel choisir pour gérer votre médiathèque personnelle ? | Android MT](https://android-mt.ouest-france.fr/tutoriel/plex-ou-jellyfin-lequel-choisir-pour-gerer-votre-mediatheque-personnelle/207926/)  
+*Source : android-mt.ouest-france.fr | Publication : 2026-07-14*
+
+- En bref Plex a triplé son abonnement à vie, passant à 680 €.
+- - Jellyfin est gratuit, open source et très personnalisable.
+- - L’accès à distance et la TV en direct restent complexes sur Jellyfin.
+- - Pourquoi Plex agace de plus en plus ses utilisateurs fidèles Pendant longtemps, Plex a représenté la solution idéale pour transformer une collection de films et de séries stockée sur un ordinateur en véritable service de diffusion à la demande, accessible depuis n’importe quel écran.
+
+## [Préparer les ressources humaines pour l'ère quantique - Le Courrier du VietNam](https://lecourrier.vn/preparer-les-ressources-humaines-pour-lere-quantique/1351369.html)  
+*Source : lecourrier.vn | Publication : 2026-07-14*
+
+- >> Trois propositions pour le développement progressif des capacités quantiques nationales au Vietnam >> Le Vietnam accélère son positionnement dans les technologies quantiques >> Le Vietnam mise sur les ressources humaines STEM pour accélérer son essor technologique Au Vietnam, les technologies quantiques et la cybersécurité figurent désormais parmi les dix technologies stratégiques nationales.
+- Elles sont considérées comme un levier essentiel pour renforcer l’autonomie technologique du pays et améliorer sa compétitivité dans une économie mondiale fondée sur l’innovation.
+- En tant que principal pôle scientifique, technologique et d’innovation du pays, Hô Chi Minh-Ville s’emploie à construire les bases nécessaires pour entrer dans cette nouvelle ère.
+- La priorité est clairement accordée au développement des ressources humaines, considéré comme la condition indispensable pour exploiter pleinement le potentiel des technologies quantiques dans les années à venir.
+
+## [Impact de NordVPN sur la batterie : rapport de West Coast Labs](https://nordvpn.com/fr/blog/vpn-mobile-impact-batterie-rapport-wcl/)  
+*Source : nordvpn.com | Publication : 2026-07-14*
+
+- Elle aide les lecteurs à naviguer dans l'univers de la cybersécurité.
+- Glossaire de cybersécurité Centre de Cybersécurité Responsabilité Sociale.
+
+## [DataExpert acquiert la société danoise Ado Security pour son expansion européenne](https://itdaily.fr/nouvelles/business/dataexpert-ado-security/)  
+*Source : itdaily.fr | Publication : 2026-07-14*
+
+- DataExpert Group acquiert la société Ado Security, basée à Copenhague.
+- Avec cette acquisition, l’entreprise de cybersécurité néerlandaise souhaite renforcer sa position de fournisseur de services de cybersécurité de bout en bout en Europe.
+- La société néerlandaise DataExpert rachète Ado Security, une entreprise de sécurité dont le siège social se situe à Copenhague.
+- Avec cette acquisition, DataExpert souhaite combiner sa propre expertise en informatique légale et réponse aux incidents, threat intelligence, governance, risk & compliance et cyber-enquête avec les capacités d’Ado Security.
+
+## [Barclays : IBM signale une priorité accordée à la <b>cybersécurité</b> - Investing.com](https://fr.investing.com/news/analyst-ratings/barclays--ibm-signale-une-priorite-accordee-a-la-cybersecurite-93CH-3498169)  
+*Source : fr.investing.com | Publication : 2026-07-14*
+
+- Investing.com - Barclays indique que la récente mise à jour commerciale d'IBM suggère que les clients privilégient les dépenses en cybersécurité.
+
+## [Les ministres azerbaïdjanais et slovaque de l'Intérieur signent un mémorandum d'accord ...](https://azertag.az/fr/xeber/les_ministres_azerbaidjanais_et_slovaque_de_l_039interieur_signent_un_memorandum_daccord_sur_la_cooperation-4319253)  
+*Source : azertag.az | Publication : 2026-07-14*
+
+- cybercriminalité.
+- Matúš Šutaj-Eštok a exprimé sa gratitude pour l'accueil chaleureux, ajoutant que son pays était intéressé par l'expansion de la.
+
+## [<b>Cybersécurité</b> et intelligence artificielle : la difficile riposte européenne - ZDNET](https://www.zdnet.fr/actualites/cybersecurite-et-intelligence-artificielle-la-difficile-riposte-europeenne-498554.htm)  
+*Source : zdnet.fr | Publication : 2026-07-14*
+
+- Après le psychodrame autour de Mythos 5, ce modèle de l’éditeur américain d’IA Anthropic dont le lancement restreint puis la fermeture aux non-américains avait créé un véritable séisme géopolitique, la Commission européenne tente de riposter.
+- Bruxelles vient en effet de présenter son plan d’action en matière de cybersécurité et d’intelligence artificielle.
+- Un document touffu de quinze pages à la fois décevant, une sorte de catalogue de bonnes intentions, mais aussi sans surprise.
+- Difficile en effet de reprocher aux institutions européennes d’arriver en quelques semaines à inverser un rapport de force défavorable.
 
 ## [Fakher Zaïbi : la demande en compétences numériques s'accélère, l'IA et la <b>cybersécurité</b> ...](https://www.lapresse.tn/2026/07/13/fakher-zaibi-la-demande-en-competences-numeriques-saccelere-lia-et-la-cybersecurite-en-tete-des-profils-recherches/)  
 *Source : lapresse.tn | Publication : 2026-07-13*
