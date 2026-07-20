@@ -1,5 +1,151 @@
-# Résumés – 2026-07-18
+# Résumés – 2026-07-19
 
+
+## [Criminalité financière: le Maroc muscle sa riposte face à des cyber-escroqueries dopées par l'IA](https://fr.le360.ma/economie/criminalite-financiere-le-maroc-muscle-sa-riposte-face-a-des-cyber-escroqueries-dopees-par-lia_DZQYGMZOLFB4TJ4HLJM5QL4KVU/)  
+*Source : fr.le360.ma | Publication : 2026-07-19*
+
+- Face à une criminalité financière transnationale en pleine mutation, la menace des escroqueries est devenue globale et interconnectée.
+- Selon le rapport 2026 d’Interpol, les fraudes dopées à l’intelligence artificielle s’avèrent désormais quatre fois et demie plus rentables que les méthodes traditionnelles.
+- Elles se trouvent désormais au cœur de la polycriminalité, croisant la criminalité organisée, la traite d’êtres humains et le cybercrime.
+- Dans ce contexte où les réseaux criminels collaborent étroitement avec des spécialistes du blanchiment d’argent et où certains groupes terroristes en Afrique exploitent les arnaques aux cryptomonnaies pour se financer, les dispositifs de sécurité uniquement technologiques se révèlent insuffisants, écrit le quotidien L’Economiste dans son édition du lundi 20 juillet.
+
+## [Priorité à la formation et à l'attraction de jeunes talents en <b>cybersécurité</b> - journal Lao Dong](https://fr.laodong.vn/thoi-su/uu-tien-dao-tao-thu-hut-tai-nang-tre-ve-an-ninh-mang-1737517.ldo)  
+*Source : fr.laodong.vn | Publication : 2026-07-19*
+
+- Priorité à la formation et à l'attraction de jeunes talents en cybersécurité La loi sur la cybersécurité donne la priorité à la formation et au développement de forces de protection de la cybersécurité de haute qualité; à la découverte de jeunes talents à sélectionner et à utiliser dans ce domaine.
+- À partir du début du mois de juillet 2026, la loi sur la cybersécurité entre officiellement en vigueur.
+- Cette loi réglemente la cybersécurité, la protection de la cybersécurité; les droits, obligations et responsabilités des agences, organisations et individus concernés.
+- Cette loi stipule que l'État forme et développe des ressources humaines pour la protection de la cybersécurité, en assurant la quantité et la qualité, en répondant aux exigences de la capacité de protection de la cybersécurité nationale.
+
+## [Alerte <b>cybercriminalité</b> : La Gendarmerie et la Police traquent de nouveaux procédés d'escroquerie](https://just-infodz.com/alerte-cybercriminalite-gendarmerie-police-arnaque-edahabia/)  
+*Source : just-infodz.com | Publication : 2026-07-19*
+
+- La Gendarmerie et la DGSN alertent sur de nouveaux procédés de cybercriminalité.
+- Attention aux fausses demandes de carte Edahabia et comptes.
+
+## [Les angles morts de la <b>cybersécurité</b> pour les entreprises à l'ère de l'IA. - Vietnam.vn](https://www.vietnam.vn/fr/diem-mu-an-ninh-mang-cua-doanh-nghiep-thoi-dai-ai)  
+*Source : vietnam.vn | Publication : 2026-07-19*
+
+- L'entreprise a mis 241 jours à découvrir qu'elle avait été attaquée.
+- Les cyberattaques actuelles ne se limitent plus à un seul point, mais se propagent à l'ensemble de l'infrastructure numérique, des applications et réseaux aux terminaux et environnements cloud.
+- Parallèlement, de nombreuses entreprises utilisent encore des outils de sécurité disparates et souffrent d'une pénurie de personnel hautement spécialisé en cybersécurité.
+- De ce fait, les organisations peuvent recevoir des alertes ponctuelles sans percevoir la chaîne d'attaques complète.
+
+## [WALLIX annonce de solides résultats pour le premier semestre 2026 malgré les difficultés du marché](https://www.webdisclosure.com/article/wallix-epa-allix-wallix-annonce-de-solides-resultats-pour-le-premier-semestre-2026-malgre-les-difficultes-du-marche-qfoC6GbOoRa)  
+*Source : webdisclosure.com | Publication : 2026-07-19*
+
+- on WALLIX (EPA:ALLIX) WALLIX annonce de solides résultats pour le premier semestre 2026 malgré les difficultés du marché WALLIX, société européenne de développement de solutions de cybersécurité basée à Paris, a annoncé une hausse de 19,4 % de son chiffre d'affaires mensuel récurrent (MRR) pour le premier semestre 2026, atteignant 2,8 millions d'euros.
+- Son chiffre d'affaires global sur la période a progressé de 14,2 %, s'établissant à 20,6 millions d'euros, dont 81 % proviennent des revenus récurrents.
+- L'entreprise confirme ses objectifs pour 2026, misant sur une forte croissance des abonnements, un résultat d'exploitation positif et un flux de trésorerie disponible important.
+- Cette forte croissance s'explique par l'arrivée de nouveaux clients clés, les exigences réglementaires et les progrès en matière de souveraineté numérique et d'intelligence artificielle.
+
+## [Kenya : la présidence victime d'une cyberattaque, Nairobi confirme un incident - LSi Africa](https://www.lsi-africa.com/fr/actualite-africaine/kenya-site-presidence-piratage-rancon.html)  
+*Source : lsi-africa.com | Publication : 2026-07-19*
+
+- Kenya : la présidence victime d’une cyberattaque, Nairobi confirme un incident Le site internet de la présidence kényane a été hacké, les pirates informatiques ayant procédé à une demande de rançon samedi, ont indiqué plusieurs médias kényans, Nairobi reconnaissant de son côté un «incident» l'ayant forcé à fermer temporairement ce site.
+- Plusieurs ministères kényans avaient déjà été victimes d'attaques informatiques en novembre dernier.
+- Sécurité - Selon plusieurs médias kényans, des messages critiques adressés au chef de l'État William Ruto sont apparus samedi sur la page de garde du site de la présidence, assortis d'une demande de rançon de 5 bitcoins (environ 280.000 euros), les pirates menaçant de diffuser des informations non précisées si leurs exigences n'étaient pas satisfaites.
+- «Par mesure de précaution, l'accès au site web de la présidence a été temporairement restreint afin de faciliter les opérations de confinement, d'analyse forensique et de restauration», a indiqué dans un communiqué le ministre de l'Information William Kabogo Gitau, qui a évoqué la «détection d'un incident», sans toutefois mentionner d'acte de piraterie informatique.
+
+## [<b>Cybercriminalité</b> : La Gendarmerie nationale et la DGSN mettent en garde contre des ...](https://lapatrienews.dz/cybercriminalite-la-gendarmerie-nationale-et-la-dgsn-mettent-en-garde-contre-des-tentatives-descroquerie-electronique/)  
+*Source : lapatrienews.dz | Publication : 2026-07-19*
+
+- Loader Please wait while your request is being verified.
+
+## [Trois nouvelles tendances façonnent le développement mondial de l'IA - journal Lao Dong](https://fr.laodong.vn/cong-nghe/ba-xu-huong-moi-dinh-hinh-su-phat-trien-ai-toan-cau-1737250.ldo)  
+*Source : fr.laodong.vn | Publication : 2026-07-19*
+
+- Trois nouvelles tendances façonnent le développement mondial de l'IA Un rapport publié à la Conférence mondiale sur l'IA 2026 à Shanghai (Chine) montre que le développement de l'IA mondiale entre dans une nouvelle phase.
+- Selon Xinhua, le rapport Global AI Innovation Index 2026 a été publié lors de la Conférence mondiale sur l'IA 2026 et du Sommet mondial sur l'administration de l'IA à Shanghai.
+- Le rapport, compilé par l'Institut chinois d'information scientifique et technique en collaboration avec l'Université de Pékin, évalue l'innovation et le développement de l'IA dans 46 pays.
+- Les résultats montrent que l'IA mondiale connaît trois grandes tendances.
+
+## [<b>Cybersécurité</b>, désinformation, IA verte : quelle coopération entre la Chine et l'Europe ... - Facebook](https://www.facebook.com/CGTNFrancais/videos/cybersécurité-désinformation-ia-verte-quelle-coopération-entre-la-chine-et-leuro/1332040905578091/)  
+*Source : facebook.com | Publication : 2026-07-19*
+
+- Cybersécurité , désinformation, IA verte : quelle coopération entre la Chine et l'Europe ?.
+- Entretien de Shanhui Zhang, présentatrice de CGTN.
+
+## [1.000, batteries solaires près de Clermont-Ferrand, stocker l'électricité des panneaux le soir ...](https://www.carnetdebord.info/1-000-batteries-solaires-pres-de-clermont-ferrand-stocker-lelectricite-des-panneaux-le-soir-ce-qui-change-pour-les-foyers/)  
+*Source : carnetdebord.info | Publication : 2026-07-19*
+
+- Près de Clermont-Ferrand, un entrepreneur local parie sur une idée simple, rendre le stockage d’énergie accessible à plus de foyers grâce à des batteries solaires annoncées à 1.000 euros.
+- L’objectif, permettre à chacun de conserver une partie de l’électricité produite par ses panneaux, puis de la consommer le soir ou lors d’une coupure.
+- Dans un contexte où les factures restent un sujet sensible et où l’autoconsommation progresse, ce positionnement à prix serré cherche à lever un frein classique, le coût d’entrée des systèmes de batteries domestiques.
+- Le projet s’inscrit dans la montée en puissance du solaire résidentiel, porté par la baisse du prix des panneaux et par l’envie d’arbitrer soi-même entre consommation, vente du surplus et protection contre les aléas du réseau.
+
+## [<b>Cybersécurité</b> : La maturité des business à 56% en 2026 - L'Economiste](https://www.leconomiste.com/cybersecurite-la-maturite-des-business-a-56-en-2026/)  
+*Source : leconomiste.com | Publication : 2026-07-19*
+
+- Cybersécurité : La maturité des business à 56% en 2026.
+- Par Layane EL MASSAOUDI | Edition N°: Le 20/07/2026.
+- Les organisations marocaines ont marqué.
+
+## [TikTok sort du bannissement fédéral - 24matins](https://www.24matins.fr/tiktok-sort-du-bannissement-federal-1417428)  
+*Source : 24matins.fr | Publication : 2026-07-19*
+
+- En bref TikTok est de nouveau autorisé sur les appareils du gouvernement américain.
+- - La décision repose sur une nouvelle structure américaine séparée de ByteDance.
+- - Les agences gardent le droit de maintenir leurs propres restrictions.
+- - Les agents fédéraux américains peuvent de nouveau télécharger TikTok sur des appareils fournis par l’Etat.
+
+## [<b>Cybersécurité</b> : seules 35 % des organisations maîtrisent les enjeux de souveraineté ...](https://lematin.ma/economie/cybersecurite-au-maroc-la-souverainete-numerique-reste-fragile/356679/amp)  
+*Source : lematin.ma | Publication : 2026-07-19*
+
+- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Économie Cybersécurité : seules 35 % des organisations maîtrisent les enjeux de souveraineté numérique au Maroc (enquête) La cybersécurité gagne du terrain dans les organisations marocaines, mais la souveraineté numérique reste leur principal point faible.
+- Selon l'AUSIMètre 2026, le baromètre annuel de la cybersécurité au Maroc, seules 35 % des organisations maîtrisent réellement cet enjeu stratégique.
+- L'étude met également en lumière une forte dépendance au cloud, une pénurie persistante de talents et une gouvernance encore insuffisante de l'intelligence artificielle.
+- Saloua Islah 19 Juillet 2026 À 11:26 Your browser doesn't support HTML5 audio La cybersécurité poursuit sa montée en puissance au sein des organisations marocaines, mais un maillon reste particulièrement fragile : la souveraineté numérique.
+
+## [<b>Cybersécurité</b> : seules 35 % des organisations maîtrisent les enjeux de souveraineté ...](https://lematin.ma/economie/cybersecurite-au-maroc-la-souverainete-numerique-reste-fragile/356679)  
+*Source : lematin.ma | Publication : 2026-07-19*
+
+- La cybersécurité poursuit sa montée en puissance au sein des organisations marocaines, mais un maillon reste particulièrement fragile : la souveraineté numérique.
+- C'est l'un des principaux constats de l'AUSIMètre 2026, le baromètre annuel de la cybersécurité au Maroc réalisé par l'Association des utilisateurs des systèmes d'information au Maroc (AUSIM) en partenariat avec PwC.
+- L'étude révèle que seules 35 % des organisations disposent d'un niveau de maturité satisfaisant sur cette dimension, soit le score le plus faible parmi les sept piliers évalués.
+- Cette progression contraste toutefois avec les résultats enregistrés en matière de souveraineté numérique.
+
+## [<b>Cybersécurité</b> &amp; IA : Odile Duthil, présidente du Clusif, alerte sur le fait que les entreprises ...](https://investir.lesechos.fr/marches-indices/opinions/cybersecurite-ia-odile-duthil-presidente-du-clusif-alerte-sur-le-fait-que-les-entreprises-entrent-dans-une-zone-de-turbulence-2243036)  
+*Source : investir.lesechos.fr | Publication : 2026-07-19*
+
+- Dans ce contexte, il est important à la fois d'encadrer les risques liés à l'usage des intelligences artificielles, la cybersécurité pour l'IA,.
+
+## [Les 20 principales entreprises Marché mondial de la dotation en TI - Spherical Insights](https://www.sphericalinsights.com/fr/blogs/top-20-companies-global-it-staffing-market-in-2026-2035-spherical-insights-analysis)  
+*Source : sphericalinsights.com | Publication : 2026-07-19*
+
+- cybersécurité et l'intelligence artificielle, l'adoption croissante de modèles de recrutement fondés sur des contrats et des projets et l.
+
+## [« Votre carte va être débitée de 1 000 € », n'appelez surtout pas ce numéro de téléphone, c ...](https://www.01net.com/actualites/arnaque-carte-etre-debitee-1-000-e-nappelez-surtout-pas-numero-telephone.html)  
+*Source : 01net.com | Publication : 2026-07-19*
+
+- Certains arnaqueurs se font passer pour le service client de géants du e-commerce et alertent leurs victimes à propos d’un prétendu paiement de 1 000 euros détecté sur leur compte.
+- Contrairement aux campagnes d’hameçonnage classiques, aucun formulaire frauduleux n’est proposé.
+- Les victimes sont simplement invitées à appeler un numéro de téléphone pour annuler le soi-disant paiement en cours.
+- Il s’agit en réalité du numéro des arnaqueurs Cette arnaque vous pousse à appeler les arnaqueurs Sur les réseaux sociaux, les signalements concernant une nouvelle arnaque se multiplient.
+
+## [L'UE oblige Google à partager les données Android et de recherche avec les assistants d'IA ...](https://www.unite.ai/fr/eu-compels-google-to-share-android-and-search-data-with-rival-ai-assistants/)  
+*Source : unite.ai | Publication : 2026-07-19*
+
+- Réglementation L’UE oblige Google à partager les données Android et de recherche avec les assistants d’IA concurrents Ajouter Unite.AI à vos sources préférées sur GoogleGoogle doit donner aux assistants d’IA et aux moteurs de recherche concurrents le même accès à Android et à Google Search qu’il réserve à ses propres produits, selon deux décisions contraignantes que la Commission européenne a adoptées le 16 juillet 2026.
+- Les décisions ciblent les deux plateformes qui ancrent l’activité de Google en Europe, et elles offrent aux concurrents un niveau d’accès à ses systèmes et à ses données que les régulateurs disent qu’ils n’ont jamais eu.
+- Les décisions précisent comment Google doit se conformer au règlement sur les marchés numériques, la loi de l’UE de 2022 qui exige que les plateformes « gardiennes » dominantes offrent aux concurrents le même accès à leurs fonctionnalités et à leurs données qu’elles accordent à leurs propres services.
+- Ce sont des décisions de spécification – des mesures contraignantes qui définissent, fonction par fonction, à quoi ressemble la conformité, plutôt qu’une pénalité financière.
+
+## [700 escrocs, 20 centres d'appels : ce réseau criminel a fait des dizaines de milliers de victimes](https://www.01net.com/actualites/700-escrocs-20-centres-appels-reseau-criminel-dizaines-milliers-victimes.html)  
+*Source : 01net.com | Publication : 2026-07-19*
+
+- La police néerlandaise vient de démanteler une organisation criminelle internationale spécialisée dans l’arnaque aux faux investissements.
+- Le réseau a été neutralisé dans le cadre d’une opération d’envergure, intitulée « Operation Sunflower ».
+- Elle a mobilisé les polices néerlandaise et belge pendant près de quatre ans.
+- Selon les forces de l’ordre des Pays-Bas, l’organisation fonctionnait comme une véritable entreprise, avec une vingtaine de centres d’appels répartis dans plusieurs pays.
+
+## [Nouveaux défis en matière de lutte contre le blanchiment d'argent et de <b>cybersécurité</b> sur le ...](https://www.vietnam.vn/fr/thach-thuc-moi-ve-phong-chong-rua-tien-va-an-ninh-mang-trong-thi-truong-tai-san-ma-hoa)  
+*Source : vietnam.vn | Publication : 2026-07-19*
+
+- Les données montrent que le Vietnam figure parmi les pays affichant la plus grande valeur de transactions sur la blockchain, estimée à environ 220 à 230 milliards de dollars sur la période allant de juillet 2024 à juin 2025, soit une moyenne de plus de 600 millions de dollars par jour (selon des rapports compilés citant Chainalysis).
+- Méthodes et tactiques utilisées pour exploiter les actifs cryptographiques afin de commettre des crimes.
+- Au Vietnam, de nombreux groupes privés spécialisés dans l'achat, la vente et l'échange de cryptomonnaies existent sur les réseaux sociaux, comptant des dizaines de milliers de membres.
+- Ces derniers publient des informations sur leurs besoins en cryptomonnaies.
 
 ## [Marchés publics pour le Centre pour la <b>cybersécurité</b> | News.belgium](https://news.belgium.be/fr/marches-publics-pour-le-centre-pour-la-cybersecurite)  
 *Source : news.belgium.be | Publication : 2026-07-18*
