@@ -1,5 +1,158 @@
-# Résumés – 2026-07-25
+# Résumés – 2026-07-26
 
+
+## [Identifier les signes de commentaires créés par l'IA pour inciter et attirer l'opinion publique](https://fr.laodong.vn/thoi-su/nhan-dien-dau-hieu-binh-luan-do-ai-tao-nham-kich-dong-loi-keo-du-luan-1736967.ldo)  
+*Source : fr.laodong.vn | Publication : 2026-07-26*
+
+- Identifier les signes de commentaires créés par l'IA pour inciter et attirer l'opinion publique Un expert en cybersécurité souligne les signes d'identification des commentaires créés par l'IA pour inciter et diriger l'opinion publique.
+- Doutes lorsque de nombreux comptes répètent le même message Sous de nombreux articles à contenu controversé sur les réseaux sociaux, il n'est pas difficile de rencontrer une série de commentaires apparaissant en peu de temps avec des expressions similaires, répétant le même message.
+- À première vue, cela peut être considéré comme une réaction de la communauté.
+- Cependant, dans de nombreux cas, derrière ces "vagues" de commentaires se cachent peut-être des contenus réalisés par l'intelligence artificielle (IA).
+
+## [Taxe sur les petits colis : attention, les pirates pourraient s'en servir pour vous piéger](https://www.01net.com/actualites/taxe-sur-les-petits-colis-attention-les-pirates-pourraient-sen-servir-pour-vous-pieger.html)  
+*Source : 01net.com | Publication : 2026-07-26*
+
+- La taxe douanière européenne de 3 euros sur les petits colis est officiellement entrée en vigueur.
+- De leur côté, certains arnaqueurs multiplient les arnaques au colis non livré ou bloqué à la douane.
+- Justement, la société de cybersécurité Bitdefender craint que des escrocs mobilisent la nouvelle taxe douanière européenne pour piéger leurs victimes.
+- Mais de quelle façon ?.
+
+## [L'Éthiopie inaugure un laboratoire de défense de pointe pour stimuler l'IA, la <b>cybersécurité</b> ...](https://www.ena.et/web/fre/w/fre_9278528)  
+*Source : ena.et | Publication : 2026-07-26*
+
+- L'Éthiopie inaugure un laboratoire de défense de pointe pour stimuler l'IA, la cybersécurité et l'innovation stratégique - ENA Français L'Éthiopie inaugure un laboratoire de défense de pointe pour stimuler l'IA, la cybersécurité et l'innovation stratégique Addis Ababa le 26 juillet, 2026 (ENA) L’Université de la Défense éthiopienne a inauguré un laboratoire central de pointe.
+- Cette installation devrait permettre à l’Éthiopie de s’imposer comme un pôle national dédié à la recherche de pointe, à la formation spécialisée, à l’innovation technologique et au développement scientifique stratégique.
+- La ministre de la Défense, Aisha Mohammed, ainsi que de hauts responsables gouvernementaux, des diplomates et des invités d’honneur ont assisté à la cérémonie d’inauguration.
+- Construit sur un site de 20 850 mètres carrés avec le soutien du gouvernement des Émirats arabes unis (EAU) dans le cadre du partenariat bilatéral de développement entre l’Éthiopie et les EAU, ce laboratoire est conçu pour faire le lien entre les connaissances universitaires et leurs applications pratiques afin de relever les nouveaux défis en matière de sécurité nationale, de technologie et d’industrie.
+
+## [Hack de Hugging Face : OpenAI a mis près d'une semaine pour s'en rendre compte - Clubic](https://www.clubic.com/actualite-622777-hack-de-hugging-face-openai-a-mis-pres-d-une-semaine-pour-s-en-rendre-compte.html)  
+*Source : clubic.com | Publication : 2026-07-26*
+
+- Le hack inédit de Hugging Face par un agent IA d'OpenAI a éveillé de nombreuses craintes.
+- Des craintes qui s'intensifient quand on sait le temps qu'a mis la société de Sam Altman pour s'en rendre compte.
+- Les intelligences artificielles vont-elles un jour échapper au contrôle des êtres humains ?.
+- C'est le scénario de science-fiction que l'on ne cesse de ressasser depuis plus de trois ans, et qui semble s'être matérialisé avec l'annonce cette semaine du hack de la plateforme Hugging Face par un agent IA d'OpenAI.
+
+## [Quand les chefs d'entreprise d'Occitanie cherchent à se protéger - ToulÉco](https://www.touleco.fr/En-mode-Eco-Cybersecurite-espionnage-propriete-intellectuelle,52861)  
+*Source : touleco.fr | Publication : 2026-07-26*
+
+- D’emblée, Marc Sztulman pose un constat amer à la lecture de ce 4e Baromètre En mode éco, soulignant « la faiblesse du nombre de requêtes, compte tenu des enjeux ».
+- Cybersécurité, propriété intellectuelle, sécurisation des sites de production, lutte contre l’espionnage industriel… : pour le conseiller régional délégué au numérique, par ailleurs président du centre de ressources Cyber’Occ, ces sujets sont en effet éminemment stratégiques, puisqu’ils concourent à la sécurisation des entreprises régionales.
+- Premier item analysé : la cybersécurité.
+- « Le volume de recherches est important en Occitanie, avec près de 4200 requêtes mensuelles en 2025, contre moins de 2900 en 2022 », constate Victor Gajan, cofondateur de Big Happy en charge de l’innovation.
+
+## [Comment transférer et accéder à vos mots de passe dans l'appli SFR <b>Cybersécurité</b>](https://actus.sfr.fr/tech/news/comment-transferer-et-acceder-a-vos-mots-de-passe-dans-l-appli-sfr-cybersecurite_AN-202607260004.html)  
+*Source : actus.sfr.fr | Publication : 2026-07-26*
+
+- Détenteur de l’option SFR Cybersécurité ?.
+- Votre application se refait une beauté !.
+- Vous pouvez désormais y gérer directement vos mots de passe, auparavant accessibles via l’application SFR Cybersécurité – Password.
+- Pour les retrouver, il suffit de les transférer vers l’application SFR Cybersécurité.
+
+## [Québec écarte des projets en IA et automatisation dans la fonction publique - Le Devoir](https://www.ledevoir.com/politique/quebec/997367/quebec-ecarte-projets-ia-automatisation-fonction-publique)  
+*Source : ledevoir.com | Publication : 2026-07-26*
+
+- Québec a abandonné des initiatives en matière d’automatisation et d’intelligence artificielle (IA) au sein de la fonction publique, dont l’implantation d’un robot conversationnel sur le site gouvernemental « Quebec.ca », après des projets pilotes qui ont connu des « défis significatifs ».
+- Un document, obtenu récemment par La Presse canadienne en vertu de la Loi sur l’accès aux documents des organismes publics et sur la protection des renseignements personnels, révèle que trois projets pilotes menés par le ministère de la Cybersécurité et du Numérique (MCN) et son Centre québécois d’excellence numérique ont rencontré plusieurs enjeux et obstacles.
+- En février 2024, le ministre responsable du MCN de l’époque, Éric Caire, annonçait en conférence de presse la mise à l’essai de prototypes devant réduire le temps de traitement des formulaires d’assurances des fonctionnaires et du processus de facturation, grâce à l’automatisation.
+- Il indiquait également qu’un agent conversationnel utilisant l’IA générative serait testé sur le portail « Données Québec », afin d’améliorer l’accessibilité des jeux de données disponibles sur le site.
+
+## [La Côte d'Ivoire peaufine sa stratégie de <b>cybersécurité</b> 2026-2030 - TAP.info.tn](https://www.tap.info.tn/fr/Portail-Monde/20428973-la-côte-d-ivoire)  
+*Source : tap.info.tn | Publication : 2026-07-26*
+
+- Abidjan, 26/07/2026 (TAP)- Les autorités ivoiriennes poursuivent l'élaboration de la stratégie nationale de cybersécurité 2026-2030,.
+
+## [François LOCOH-DONOU, PCA &amp; PDG – F5, Cofondateur - Cajou Espoir - Togo First](https://www.togofirst.com/fr/trombinoscope/2607-19676-francois-locoh-donou-pca-pdg-f5-cofondateur-cajou-espoir)  
+*Source : togofirst.com | Publication : 2026-07-26*
+
+- (Togo First) - A la tête de F5, groupe américain coté au Nasdaq et spécialisé dans la cybersécurité ainsi que la sécurité des applications et des API (Application Programming Interface), François LOCOH-DONOU figure parmi les dirigeants africains les plus influents de l'industrie technologique mondiale.
+- Depuis mars 2026, il cumule les fonctions de Chairman of the Board (PCA), President et de Chief Executive Officer (CEO, Ndlr : PDG) du groupe américain F5.
+- Franco-Togolais, ingénieur diplômé de Centrale Méditerranée (anciennement École Centrale de Marseille) et de Télécom Paris, il est également titulaire d'un MBA de la Stanford Graduate School of Business (Californie, Etats-Unis).
+- Après des débuts dans les télécommunications, il construit l'essentiel de sa carrière aux États-Unis.
+
+## [SentinelOne s'impose comme le nouveau bouclier IA pour la maison intelligente](https://www.objetconnecte.com/sentinelone-simpose-comme-le-nouveau-bouclier-ia-pour-la-maison-intelligente/)  
+*Source : objetconnecte.com | Publication : 2026-07-26*
+
+- Face à la montée en puissance des objets connectés domestiques, la cybersécurité doit se réinventer.
+- SentinelOne déploie une plateforme d’IA sophistiquée pour protéger les maisons intelligentes.
+- Cette nouvelle technologie promet une défense prompte et autonome contre les menaces numériques.
+- Avec l’essor exponentiel de la maison intelligente, les cyberattaques ciblées font peser un risque élevé sur la sécurité privée.
+
+## [IA, loi numérique, <b>cybersécurité</b> : le grand tournant tech de 2026 - Nice Premium](https://www.nicepremium.fr/technologie/ia-loi-numerique-cybersecurite-le-grand-tournant-tech-de-2026/)  
+*Source : nicepremium.fr | Publication : 2026-07-26*
+
+- L’été 2026 s’annonce comme une saison charnière pour le monde du numérique.
+- Entre l’irruption de l’intelligence artificielle dans nos moteurs de recherche quotidiens, une législation inédite sur la protection des mineurs en ligne et des menaces cybernétiques de plus en plus sophistiquées, le paysage tech se reconfigure à une vitesse vertigineuse.
+- Sur la Côte d’Azur, où l’écosystème de Sophia Antipolis incarne depuis des décennies l’avant-garde de l’innovation française, ces bouleversements résonnent avec une acuité particulière.
+- Google réinvente la recherche : bienvenue dans l’ère des résumés IA C’est un changement qui était attendu, redouté ou espéré selon les acteurs concernés : Google a officiellement déployé ses résumés générés par intelligence artificielle en France.
+
+## [Lors d'un test de <b>cybersécurité</b>, des IA d'OpenAI se sont échappées d'un bac à sable et ont ...](https://www.science-et-vie.com/technos-et-futur/lors-dun-test-de-cybersecurite-des-ia-dopenai-se-sont-echappees-dun-bac-a-sable-et-ont-pirate-hugging-face-251726.html)  
+*Source : science-et-vie.com | Publication : 2026-07-26*
+
+- Lors d’un test de cybersécurité, des IA d’OpenAI se sont échappées d’un bac à sable et ont piraté Hugging Face Les géants de la tech testent leurs modèles dans des espaces clos et sécurisés.
+- Sauf qu'un programme assez doué peut retourner ce huis clos contre ses barreaux.
+- OpenAI admet que deux des siens s'en sont échappés pour voler les réponses d'un examen, un piratage par une IA sans main humaine.
+- OpenAI a reconnu, le 21 juillet 2026, que deux de ses modèles avaient forcé les systèmes de la plateforme Hugging Face pendant une campagne interne de tests de cybersécurité.
+
+## [Transformation numérique : pourquoi les entreprises marocaines peinent encore à accélérer](https://lematin.ma/economie/numerique-pourquoi-les-entreprises-marocaines-peinent-encore-a-accelerer/358014/amp)  
+*Source : lematin.ma | Publication : 2026-07-26*
+
+- Économie Moncef Ben Hayoun 26 Juillet 2026.
+- Cybersécurité : les entreprises marocaines gagnent en maturité, mais les nouveaux risques s'intensifient PwC au Maroc et l'Association des Utilisateurs des Systèmes d'Information au Maroc (AUSIM) ont dévoilé les résultats de la troisième édition de l'AUSIMètre, leur baromètre annuel de la cybersécurité au Maroc.
+- Réalisée auprès de 62 grandes entreprises et PME, l'étude met en évidence une progression du niveau de maturité cyber des organisations marocaines, tout en révélant des vulnérabilités persistantes face aux grandes ruptures technologiques de 2026.
+
+## [La Côte d'Ivoire active son Infrastructure à clés publiques nationale - Africtelegraph](https://africtelegraph.com/blog/la-cote-divoire-active-son-infrastructure-a-cles-publiques-nationale/)  
+*Source : africtelegraph.com | Publication : 2026-07-26*
+
+- La cybersécurité en Côte d’Ivoire franchit une étape structurante.
+- Les autorités ivoiriennes ont officialisé la mise en service de l’Infrastructure à clés publiques (ICP), dispositif national chargé d’émettre et de gérer les certificats électroniques qui authentifient identités, transactions et échanges dématérialisés.
+- Dans le même mouvement, Abidjan a lancé les travaux de sa nouvelle stratégie nationale de cybersécurité, qui couvrira la période 2026-2030 et succédera au cadre en vigueur depuis plusieurs années.
+- Le déploiement d’une ICP souveraine répond à un impératif technique et politique.
+
+## [Fuite de données chez Brazer Ingenierie, une attaque <b>ransomware</b> revendiquée - FrenchBreaches](https://frenchbreaches.com/alertes/brazer-ingenierie-rw_UW5KaGVtVnlJRWx1WjJWdWFXVnlhV1ZBWVhKamRYTnRaV1JwWVE9PQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-26*
+
+- Fuite de données chez Brazer Ingenierie, une attaque ransomware revendiquée victime d'une fuite de données revendiquée.
+
+## [Pourquoi le hightech israélien ne s'effondre pas? Le VRAI secret de l'Etat Hébreu?](https://israelvalley.com/2026/07/26/pourquoi-le-hightech-israelien-ne-seffondre-pas-le-vrai-secret-de-letat-hebreu/)  
+*Source : israelvalley.com | Publication : 2026-07-26*
+
+- Le secteur de la high-tech en Israël ne s’effondre pas malgré les crises et les guerres successives grâce à la force de son écosystème d’innovation, à l’essor des technologies de défense (Defense Tech) et au soutien constant des investisseurs et fonds étrangers axés sur la valeur technologique pure.
+- Le vrai secret d’Israël?.
+- La diaspora juive et israélienne joue un rôle crucial de soutien financier, matériel et diplomatique pour Israël, notamment en temps de crise.
+- Environ 630 000 citoyens nés ou de nationalité israélienne vivent à l’étranger.
+
+## [La <b>cybersécurité</b> est devenue un défi économique majeur pour l'Australie. - Vietnam.vn](https://www.vietnam.vn/fr/an-ninh-mang-tro-thanh-thach-thuc-kinh-te-lon-cua-australia)  
+*Source : vietnam.vn | Publication : 2026-07-26*
+
+- La cyberattaque contre Origin Energy, l'une des plus grandes entreprises australiennes d'électricité et de gaz, annoncée fin juillet 2026, tire encore plus la sonnette d'alarme quant au niveau croissant des menaces de cybersécurité qui pèsent sur les entreprises du pays.
+- Ces dernières années, non seulement le secteur de l'énergie, mais aussi les secteurs de la santé, de la finance, des télécommunications et du commerce de détail ont été la cible répétée de pirates informatiques, ce qui montre que la cybersécurité devient l'un des principaux risques pour les opérations commerciales et la stabilité économique.
+- Origin Energy a déclaré que des pirates informatiques avaient accédé illégalement à une partie des données clients de l'entreprise, notamment les noms, adresses, dates de naissance, numéros de téléphone et certaines informations relatives aux comptes bancaires et aux cartes de paiement.
+- L'entreprise coopère désormais avec le Centre australien de cybersécurité (ACSC), la police fédérale australienne (AFP) et le Bureau du commissaire à l'information (OAIC) afin d'enquêter sur l'ampleur de l'incident.
+
+## [Allemagne renforce la <b>cybersécurité</b> et laide aux mères en deux mille vingt-sept - Foro3D](https://foro3d.com/fr/2026/julio/alemania-refuerza-ciberseguridad-y-ayuda-a-madres-en-2027.html)  
+*Source : foro3d.com | Publication : 2026-07-26*
+
+- Le gouvernement allemand a approuvé une nouvelle stratégie de cybersécurité pour protéger l'administration fédérale contre l'espionnage et les cyberattaques, dans un contexte de sécurité sans précédent.
+- Parallèlement, il augmentera l'aide annuelle aux femmes enceintes en difficulté de 92 à 101 millions d'euros en 2027.
+- Les citoyens obtiendront davantage de protection des données personnelles et un soutien économique accru pour les mères vulnérables, renforçant ainsi la sécurité numérique et le soutien social.
+- Chiffrement quantique et pare-feux prédictifs pour sécuriser les données 🛡️ La stratégie déploie des mesures techniques telles que le chiffrement post-quantique pour protéger les communications gouvernementales contre les futurs ordinateurs quantiques.
+
+## [BofA relève ses objectifs de cours sur des valeurs de <b>cybersécurité</b> - Yahoo Finance](https://fr.finance.yahoo.com/actualites/bofa-relève-objectifs-cours-valeurs-232723059.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-07-25*
+
+- Investing.com - Bank of America a relevé ses objectifs de cours pour Cloudflare, Palo Alto Networks, SentinelOne et CrowdStrike, citant l'expansion des valorisations dans la cybersécurité, l'accélération de l'adoption de l'intelligence artificielle et des perspectives de croissance à long terme plus solides.
+- Le courtier s'attend à ce que chaque entreprise maintienne une croissance de son chiffre d'affaires d'environ 20% ou plus.
+- L'IA accroît les volumes de données, élargit les surfaces d'attaque et complexifie les systèmes de sécurité, ce qui soutient des dépenses durables dans l'ensemble du secteur.
+- Les plateformes leaders pourraient bénéficier de la demande croissante en matière de protection ainsi que de la valeur grandissante de leurs données, de leurs outils d'automatisation et de leurs capacités basées sur l'IA.
+
+## [Les experts en sécurité disent qu'OpenAI a dépassé sa propre limite de risque critique](https://www.unite.ai/fr/safety-experts-say-openai-crossed-its-own-critical-risk-line/)  
+*Source : unite.ai | Publication : 2026-07-25*
+
+- Cybersécurité Les experts en sécurité disent qu’OpenAI a dépassé sa propre limite de risque critique Ajouter Unite.AI à vos sources préférées sur GoogleLes spécialistes de la politique d’IA externes à OpenAI affirment que les modèles d’OpenAI qui ont échappé à un bac à sable de test et ont violé Hugging Face ce mois-ci semblent avoir atteint le niveau de danger le plus élevé défini dans la politique de sécurité d’OpenAI : le niveau auquel l’entreprise s’est engagée par écrit à arrêter le développement d’un modèle jusqu’à ce qu’elle puisse construire des contrôles pour correspondre.
+- Lorsqu’on leur a demandé directement si les modèles répondaient à cette norme, OpenAI n’a pas répondu.
+- L’affirmation est vérifiable, car le seuil et la conséquence qui y est attachée sont publiés.
+- Ce qui n’a pas été publié, c’est une détermination par OpenAI sur le fait que le seuil a été franchi.
 
 ## [BofA relève ses objectifs de cours sur des valeurs de <b>cybersécurité</b> - Investing.com](https://fr.investing.com/news/stock-market-news/bofa-releve-ses-objectifs-de-cours-sur-des-valeurs-de-cybersecurite-3516120)  
 *Source : fr.investing.com | Publication : 2026-07-25*
