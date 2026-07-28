@@ -1,5 +1,158 @@
-# Résumés – 2026-07-26
+# Résumés – 2026-07-27
 
+
+## [Près de 4 900 cyberattaques massives en Europe révèlent le vrai point faible des entreprises](https://www.science-et-vie.com/technos-et-futur/pres-de-4-900-cyberattaques-massives-en-europe-revelent-le-vrai-point-faible-des-entreprises-la-negligence-humaine-251858.html)  
+*Source : science-et-vie.com | Publication : 2026-07-27*
+
+- Près de 4 900 cyberattaques massives en Europe révèlent le vrai point faible des entreprises : la négligence humaine Hôpitaux bloqués, serveurs internes ouverts, logiciels de surveillance détournés, les attaques informatiques les plus marquantes ont toutes exploité une faille évitable.
+- Les cyberattaques recensées dans l'Union européenne ont approché les 4 900 cas entre juillet 2024 et juin 2025.
+- L'agence européenne chargée de la cybersécurité place l'hameçonnage en tête des portes d'entrée, devant les applications mal protégées.
+- Trois affaires devenues des cas d'école, WannaCry, Uber et SolarWinds, donnent un visage à cette statistique.
+
+## [Incendies : cinq services départementaux de pompiers victimes de cyberattaques en pleine ...](https://www.ladepeche.fr/2026/07/27/incendies-cinq-services-departementaux-de-pompiers-victimes-de-cyberattaques-en-pleine-crise-une-enquete-ouverte-13486135.php)  
+*Source : ladepeche.fr | Publication : 2026-07-27*
+
+- Incendies : cinq services départementaux de pompiers victimes de cyberattaques en pleine crise, une enquête ouverte l'essentiel Le parquet de Paris a ouvert une enquête, confiée à l’Office anti-cybercriminalité, après que cinq Services départementaux d’Incendie et de Secours (SDIS) ont été ciblés par des piratages informatiques depuis juin.
+- Alors que des incendies hors normes dévastent plusieurs forêts de l’Hexagone, depuis juin, plusieurs services départementaux de pompiers ont été visés par des cyberattaques, indique l'AFP ce lundi 27 juillet.
+- La section de lutte contre la cybercriminalité du parquet de Paris a été saisie après le piratage des sites Internet de cinq Services départementaux d’Incendie et de Secours (SDIS).
+- Pour autant, ceux-ci n'ont eu aucune incidence sur leur fonctionnement, assure le parquet.
+
+## [La France est le pays européen le plus touché par les fuites de données : déjà 43,4 millions ...](https://www.capital.fr/economie-politique/la-france-est-le-pays-europeen-le-plus-touche-par-les-fuites-de-donnees-deja-434-millions-de-comptes-compromis-au-1er-semestre-2026-1528803)  
+*Source : capital.fr | Publication : 2026-07-27*
+
+- Une première place dont le pays ne peut pas vraiment se targuer.
+- Selon une nouvelle étude de Surfshark, la France est le premier pays européen le plus ciblé par les fuites de données et le deuxième à l'échelle mondiale.
+- En effet, 43,4 millions de comptes français ont été compromis au cours du premier semestre de 2026, soit une hausse de 62,3 % comparé au second semestre de l’année dernière, rapporte BFM Business.
+- Sur le continent européen, la France représente plus de la moitié des comptes compromis au sein de l'Europe, puisque 58 % d'entre eux sont liés à des utilisateurs français.
+
+## [Passwork : le gestionnaire de mots de passe “européen” toujours lié à son homologue russe](https://www.solutions-numeriques.com/passwork-le-gestionnaire-de-mots-de-passe-europeen-toujours-lie-a-son-homologue-russe/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-27*
+
+- Une enquête d’OCCRP publiée fin juillet révèle qu’un gestionnaire de mots de passe présenté comme entièrement européen partage un codebase, des cycles de mise à jour et une documentation quasi identique avec un produit russe certifié par le Ministère de la Défense et le FSB.
+- Au-delà du cas Passwork, l’affaire pose une question que peu d’organisations savent encore trancher correctement : comment vérifier qu’un éditeur logiciel est réellement ce qu’il prétend être Une frontière technique plus fine que la frontière commerciale Une société enregistrée en Espagne, Passwork Europe SL, revendique une identité entièrement européenne et des serveurs hébergés sur le continent.
+- Son produit trouve pourtant son origine dans une entreprise russe fondée à Arkhangelsk en 2014, dont les fondateurs restent aujourd’hui liés à une structure basée aux Émirats arabes unis chargée de livrer les mises à jour du logiciel.
+- Selon les éléments recueillis par OCCRP, les deux versions, russe et européenne, partagent une origine de code commune et publient des mises à jour à quelques jours d’intervalle, avec des descriptions de fonctionnalités quasiment identiques.
+
+## [Quelle est la valeur de vos données sur le dark web ? (Lock and Code S07E15)](https://www.malwarebytes.com/fr/blog/podcast/2026/07/whats-your-data-worth-on-the-dark-web-lock-and-code-s07e15)  
+*Source : malwarebytes.com | Publication : 2026-07-27*
+
+- Cette semaine dans le podcast Lock and Code… Il y a vingt ans, un mathématicien britannique du nom de Clive Humby a popularisé une expression qui en est venue à décrire la relation entre les données et l'ensemble de l'économie mondiale : « Les données sont le nouvel or noir.
+- » Aussi concise que puisse paraître cette phrase, elle est indéniablement vraie.
+- Les données orientent les décisions dans les entreprises de toutes tailles.
+- Elles ont créé des secteurs d'activité entièrement nouveaux, fondés sur leur collecte.
+
+## [Repenser la sécurité à l'ère de l'IA - Source EMEA](https://news.microsoft.com/source/emea/2026/07/repenser-la-securite-a-lere-de-lia/?lang=fr)  
+*Source : news.microsoft.com | Publication : 2026-07-27*
+
+- Les règles fondamentales de la cybersécurité sont en train de changer.
+- Les systèmes autonomes sont désormais capables de raisonner, s’adapter et fonctionner en continu.
+- Dans le même temps, le coût des attaques diminue, tandis que le volume, la rapidité et la complexité des éléments à sécuriser ne cessent de croître.
+- Les attaquants peuvent générer des exploits plus rapidement, déployer leurs campagnes à plus grande échelle et opérer avec une efficacité sans précédent.
+
+## [Déclaration du Conseil des affaires sur l'inauguration du pont international Gordie Howe](https://www.thebusinesscouncil.ca/fr/publication/declaration-du-conseil-des-affaires-sur-linauguration-du-pont-international-gordie-howe/)  
+*Source : thebusinesscouncil.ca | Publication : 2026-07-27*
+
+- Déclaration du Conseil des affaires sur l’inauguration du pont international Gordie Howe Le pont international Gordie-Howe est un exemple éloquent de ce qui peut être accompli lorsque les gouvernements, les entreprises et les collectivités collaborent à un objectif commun.
+- Comme l’a souligné le Conseil canadien des affaires lors de l’annonce du projet en 2012, ce nouveau pont facilitera la circulation efficace des personnes, des marchandises et des investissements et renforcera la compétitivité des entreprises des deux côtés de la frontière, soutenant ainsi la création d’emplois de qualité pour les générations à venir.
+- Tournés vers l’avenir, le Canada doit continuer d’investir dans les infrastructures qui soutiennent la croissance économique et renforcent notre compétitivité à l’échelle mondiale.
+- Le pont international Gordie-Howe illustre l’importance de voir grand, d’agir avec audace et de bâtir pour l’avenir.
+
+## [Aléas climatiques, santé, <b>cybercriminalité</b> : « Pourquoi ne pas ouvrir, dès le début du ...](https://www.lesechos.fr/idees-debats/cercle/aleas-climatiques-sante-cybercriminalite-pourquoi-ne-pas-ouvrir-des-le-debut-du-prochain-quinquennat-de-veritables-assises-de-la-protection-2244599)  
+*Source : lesechos.fr | Publication : 2026-07-27*
+
+- Aléas climatiques, santé, cybercriminalité : « Pourquoi ne pas ouvrir, dès le début du prochain quinquennat, de véritables Assises de la Protection ?.
+
+## [Le SDIS de l'Aisne victime d'une cyberattaque, l'office anti-<b>cybercriminalité</b> enquête - ICI](https://www.ici.fr/hauts-de-france/aisne-02/le-sdis-de-l-aisne-victime-d-une-cyberattaque-l-office-anti-cybercriminalite-enquete-2749533)  
+*Source : ici.fr | Publication : 2026-07-27*
+
+- Le SDIS de l'Aisne victime d'une cyberattaque, l'office anti-cybercriminalité enquête Publié le Le site internet du SDIS de l'Aisne a été touché par une cyberattaque.
+- Une enquête a été ouverte par le parquet de Paris, compétent au niveau national.
+- Les pompiers de l'Aisne victimes d'une cyberattaque.
+- Le parquet de Paris s'est saisi de l'enquête ce dimanche 26 juillet, il est compétent partout en France pour ce type d'affaire.
+
+## [Le Cyber Resilience Act approche : pourquoi la communauté open source doit se préparer ...](https://www.elektormagazine.fr/news/le-cyber-resilience-act-approche-pourquoi-la-communaute-open-source-doit-se-preparer-des-aujourd-hui)  
+*Source : elektormagazine.fr | Publication : 2026-07-27*
+
+- Le Cyber Resilience Act approche : pourquoi la communauté open source doit se préparer dès aujourd’hui sur Avec l’arrivée du Cyber Resilience Act, le monde du logiciel entre dans une nouvelle phase où les exigences de sécurité deviennent une responsabilité partagée entre les développeurs, les éditeurs et les acteurs de l’open source.
+- Pour accompagner cette transition, la Fondation Eclipse et le groupe de travail ORC lancent un centre de formation mondial destiné à aider l’ensemble de l’écosystème à se préparer.
+- Une réglementation qui change les habitudes Le Cyber Resilience Act ne demande pas simplement de sécuriser un produit au moment de sa commercialisation.Il impose une vision beaucoup plus large où la cybersécurité doit être prise en compte pendant toute la durée de vie du logiciel.
+- La gestion des failles, le suivi des composants utilisés et la transparence sur les dépendances deviennent désormais des éléments essentiels.
+
+## [<b>Cybercriminalité</b> : cinq Sdis, dont celui des Landes, victimes de piratage informatique](https://www.sudouest.fr/faits-divers/incendies/cybercriminalite-cinq-sdis-dont-celui-des-landes-victimes-de-piratage-informatique-pas-d-impact-sur-leur-fonctionnement-30083247.php)  
+*Source : sudouest.fr | Publication : 2026-07-27*
+
+- Le piratage a permis la captation et diffusion de 2 100 identités de personnels et 700 mégaoctet (Mo) de données La section de lutte contre la cybercriminalité du parquet de Paris a été saisie d’une enquête après le piratage des sites internet de cinq Services départementaux d’Incendie et de Secours (Sdis), sans incidence sur leur fonctionnement, a-t-on appris lundi auprès du parquet : « Il ressort des premières investigations que ces piratages n’impactent pas le fonctionnement de ces sites, mais qu’ils ont eu pour effet d’extraire des données personnelles y étant stockées ».
+
+## [Le système de défense aérienne russe a-t-il été &quot;piraté&quot; par Kiev? Un chasseur russe de ... - BFM](https://www.bfmtv.com/tech/cybersecurite/le-systeme-de-defense-aerienne-russe-a-t-il-ete-pirate-par-kiev-un-chasseur-russe-de-derniere-generation-aurait-ete-detruit-apres-une-cyberoperation-revendiquee-par-des-ukrainiens_AV-202607270349.html)  
+*Source : bfmtv.com | Publication : 2026-07-27*
+
+- Le système de défense aérienne russe a-t-il été "piraté" par Kiev?.
+- Un chasseur russe de dernière génération aurait été détruit après une cyberopération revendiquée par des Ukrainiens Un avion de chasse russe de cinquième génération Su-57 s’est écrasé jeudi dans une zone inhabitée près de Moscou, peu après son décollage.
+- Le pilote aurait réussi à s’éjecter à temps et à survivre à l’accident.
+- Les autorités russes privilégient officiellement la thèse d'une défaillance technique.
+
+## [Claude Cowork pouvait fouiller tout votre Mac sans jamais demander la moindre permission](https://www.01net.com/actualites/claude-cowork-pouvait-fouiller-tout-votre-mac-sans-jamais-demander-la-moindre-permission.html)  
+*Source : 01net.com | Publication : 2026-07-27*
+
+- Les agents qui écrivent du code reposent tous sur la même promesse : on les enferme dans un espace clos, on leur ouvre l’accès à un dossier précis, et on les laisse travailler l’esprit tranquille.
+- Des chercheurs en sécurité viennent de démontrer que chez l’agent de bureau d’Anthropic, cet espace clos tenait davantage de la ligne tracée au sol que du mur porteur.
+- Ils ont raccordé un dossier à une session neuve, envoyé un message court, et regardé l’agent sortir.
+- Le Mac entier était déjà à l’intérieur du bac à sable L’application macOS lance une machine virtuelle Linux et y installe l’agent sous un compte dépourvu de privilèges, ce qui ressemble à une précaution sérieuse.
+
+## [Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement](https://www.leparisien.fr/faits-divers/incendies-cinq-sdis-victimes-de-cyberattaques-sans-incidence-sur-leur-fonctionnement-27-07-2026-PY4CBMBQD5BSFDJTQDMEVW6ARE.php)  
+*Source : leparisien.fr | Publication : 2026-07-27*
+
+- Le parquet de Paris a ouvert une enquête, confiée à l'Office anti- cybercriminalité.
+- Par Le Parisien avec AFP.
+- Le 27 juillet 2026 à 08h30.
+
+## [Synology ActiveProtect DP7400 : une appliance de sauvegarde validée par les pros](https://www.zdnet.fr/cybersecurite/synology-activeprotect-dp7400-une-appliance-de-sauvegarde-validee-par-les-pros-499020.htm)  
+*Source : zdnet.fr | Publication : 2026-07-27*
+
+- En 2025, l'ANSSI a recensé 128 compromissions par rançongiciel en France, un léger repli sur les 141 de 2024, mais un fléau qui continue de frapper des PME aux grands groupes.
+- Dans ce contexte, la sauvegarde s’impose comme une dernière ligne de défense stratégique, qui permet de reprendre le contrôle rapidement après l’attaque.
+- C'est cette promesse que Synology met en avant avec sa gamme ActiveProtect, et son modèle amiral DP7400, qu'a testé grandeur nature l'équipe infrastructure de Reworld Media, éditeur de ZDnet.fr et des Numériques.fr.
+- Simplicité et ergonomie ?.
+
+## [Avec 43,4 millions de comptes compromis entre janvier et juin 2026, la France reste le pays ...](https://www.bfmtv.com/tech/actualites/cybersecurite/avec-43-4-millions-de-comptes-compromis-entre-janvier-et-juin-2026-la-france-reste-le-pays-europeen-le-plus-touche-par-les-fuites-de-donnees-et-le-second-dans-le-monde_AV-202607270386.html)  
+*Source : bfmtv.com | Publication : 2026-07-27*
+
+- Avec 43,4 millions de comptes compromis entre janvier et juin 2026, la France reste le pays européen le plus touché par les fuites de données (et le second dans le monde) Une première place dont la France ne peut pas se réjouir.
+- L'Hexagone reste le pays d'Europe le plus touché par les fuites de données, révèle une nouvelle étude de l'entreprise de cybersécurité Surfshark.
+- Au cours des six premiers mois de l'année, 43,4 millions de comptes ont été compromis, soit une hausse de 62,3% comparé au second semestre de 2025.
+- La France représente ainsi plus de la moitié des comptes compromis au sein de l'Europe, 58% d'entre eux étant liés à des utilisateurs français.
+
+## [Comment configurer un réseau domestique sécurisé - Panda Security](https://www.pandasecurity.com/fr/mediacenter/comment-configurer-reseau-domestique-securise/)  
+*Source : pandasecurity.com | Publication : 2026-07-27*
+
+- Modifier le nom par défaut de votre réseau, utiliser un mot de passe fort et installer un VPN ne sont que quelques-unes des façons de sécuriser votre réseau domestique.
+- Découvrez-en davantage ici.
+- Dans cet article Sécuriser le réseau sans fil de votre routeur - Sécuriser les appareils de votre réseau domestique - Protégez les appareils de votre réseau domestique avec Panda Security - Si vous avez déjà constaté que vos voisins utilisent votre Wi-Fi gratuitement, ou si vous craignez que quelqu’un ait piraté votre réseau, il est peut-être temps de le sécuriser.
+- Grâce aux objets connectés, aussi appelés internet des objets (IoT), les réseaux domestiques sont plus vulnérables que jamais.
+
+## [Le Sdis des Alpes-Maritimes visé par un piratage informatique : ce que l'on sait de la cyberattaque](https://www.nicematin.com/societe/securite/le-sdis-des-alpes-maritimes-vise-par-un-piratage-informatique-ce-que-l-on-sait-de-la-cyberattaque-10696001)  
+*Source : nicematin.com | Publication : 2026-07-27*
+
+- Le Sdis des Alpes-Maritimes visé par un piratage informatique : ce que l’on sait de la cyberattaque Les sites internet de cinq Services départementaux d’incendie et de secours (Sdis), dont celui des Alpes-Maritimes, ont été la cible d’une cyberattaque.
+- Si le fonctionnement des secours n’a pas été perturbé, des données personnelles ont été dérobées, poussant le parquet de Paris à ouvrir une enquête confiée à l’Office anti-cybercriminalité.
+- La section de lutte contre la cybercriminalité du parquet de Paris a été saisie d’une enquête après le piratage des sites internet de cinq Services départementaux d’Incendie et de Secours (Sdis), sans incidence sur leur fonctionnement, a-t-on appris lundi 27 juillet 2026 auprès du parquet.
+- Une extraction des données personnelles « Il ressort des premières investigations que ces piratages n’impactent pas le fonctionnement de ces sites, mais qu’ils ont eu pour effet d’extraire des données personnelles y étant stockées », a-t-on précisé de même source.
+
+## [Le rançongiciel version IA n'attaque plus les machines, il cible la confiance](https://www.solutions-numeriques.com/le-rancongiciel-version-ia-nattaque-plus-les-machines-il-cible-la-confiance/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-27*
+
+- Une étude mondiale de Proofpoint, menée auprès de 953 professionnels de la cybersécurité dans douze pays, bouscule une conviction bien ancrée dans la gestion de crise : payer une rançon ne referme plus le dossier.
+- En France, 44 % des organisations qui ont cédé au chantage ont vu resurgir une seconde demande d’extorsion, signe que le rançongiciel a changé de nature sous l’effet de l’intelligence artificielle.
+- Le rapport de Proofpoint sur le rançongiciel à l’ère de l’IA documente ce glissement.
+- Un tiers des organisations françaises touchées (33 %) ont payé, un taux inférieur à la moyenne mondiale, mais ce choix ne met plus fin à la pression.
+
+## [Cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement - Notre Temps](https://www.notretemps.com/depeches/cinq-sdis-victimes-de-cyberattaques-sans-incidence-sur-leur-fonctionnement-136550)  
+*Source : notretemps.com | Publication : 2026-07-27*
+
+- Cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement La section de lutte contre la cybercriminalité du parquet de Paris a été saisie d'une enquête après le piratage des sites internet de cinq Services départementaux d'Incendie et de Secours (Sdis), sans incidence sur leur fonctionnement, a-t-on appris lundi auprès du parquet.
+- "Il ressort des premières investigations que ces piratages n'impactent pas le fonctionnement de ces sites, mais qu'ils ont eu pour effet d'extraire des données personnelles y étant stockées", a-t-on précisé de même source.
+- L'enquête, ouverte notamment pour accès frauduleux dans un système de traitement automatisé de données, et extraction de ces données, a été confiée à l'Office anti-cybercriminalité.
+- Les cinq Sdis concernés sont ceux de l'Aisne, des Alpes-de-Haute-Provence, des Alpes-Maritimes, des Landes et de la Marne.
 
 ## [Identifier les signes de commentaires créés par l'IA pour inciter et attirer l'opinion publique](https://fr.laodong.vn/thoi-su/nhan-dien-dau-hieu-binh-luan-do-ai-tao-nham-kich-dong-loi-keo-du-luan-1736967.ldo)  
 *Source : fr.laodong.vn | Publication : 2026-07-26*
