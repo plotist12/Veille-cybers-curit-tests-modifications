@@ -1,5 +1,159 @@
-# Résumés – 2026-07-28
+# Résumés – 2026-07-29
 
+
+## [<b>Cybersécurité</b>: les entreprises face à la &quot;bombe à retardement&quot; des progrès de l'IA](https://www.notretemps.com/depeches/cybersecurite-les-entreprises-face-a-la-bombe-a-retardement-des-progres-de-l-ia-136623)  
+*Source : notretemps.com | Publication : 2026-07-29*
+
+- Cybersécurité: les entreprises face à la "bombe à retardement" des progrès de l'IA De nouvelles failles de sécurité détectées et des modèles qui mènent une cyberattaque autonome: face aux progrès de l'intelligence artificielle (IA), entreprises et organisations tentent de se préparer et d'identifier les risques parmi le flot d'annonces de la tech.
+- Quand déferlera la vague de vulnérabilités informatiques découvertes par l'IA ?.
+- La question revient inlassablement depuis l'annonce en avril par le géant américain Anthropic de son nouveau modèle Mythos, capable de détecter des failles jusque-là ignorées et qui "pourrait refaçonner la cybersécurité".
+- D'abord réservés à quelques entreprises triées sur le volet puis adaptés en modèles censés être plus sécurisés, suspendus avant d'être remis en ligne, Claude Mythos et sa version grand public Claude Fable 5 ont rapidement suscité l'inquiétude.
+
+## [Responsable infrastructure, systèmes et <b>cybersécurité</b> (h/f) - Malakoff - Choisir le service public](https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-infrastructure-systemes-et-cybersecurite-hf---malakoff-reference-O092260408000299/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2026-07-29*
+
+- Responsable infrastructure, systèmes et cybersécurité (h/f) - Malakoff Référence : O092260408000299 Fonction publique : Fonction publique Territoriale - Employeur : Communes - Localisation : Malakoff - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Confirmé - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie A (cadre) - Management Non renseigné - Télétravail possible Non renseigné - Vos missions en quelques mots La Ville de Malakoff (31 000 habitants, Hauts-de-Seine) située aux portes de Paris (accessible en métro, bus et tram) recrute un(e) responsable Infrastructure, Systèmes et Cybersécurité pour sa direction des systèmes d’informations.
+- Sous la responsabilité directe du Directeur des systèmes d’informations, vous avez pour mission de garantir la performance, la sécurité et l’évolution des infrastructures du système d’information de la collectivité.
+- À ce titre, vous assurez à la fois un rôle opérationnel et stratégique.
+
+## [Ethiopie : inauguration d'un laboratoire central de pointe à l'Université de la défense](https://africa24tv.com/ethiopie-inauguration-dun-laboratoire-central-de-pointe-a-luniversite-de-la-defense/)  
+*Source : africa24tv.com | Publication : 2026-07-29*
+
+- Accélération majeure pour la souveraineté numérique éthiopienne.
+- Avec l’ouverture d’un laboratoire central ultra-moderne au sein de son Université de la défense, Addis-Abeba muscle ses capacités en IA et en cybersécurité.
+- Ce projet, soutenu par les Émirats arabes unis, marque un tournant dans la coopération bilatérale dédiée à l’innovation et à la recherche stratégique.
+- Ce 26 juillet 2026 marque un jalon historique pour la recherche éthiopienne.
+
+## [L'AM Tech Day 2026 mettra l'innovation technologique au cœur de la gestion d'actifs](https://zoominvest.fr/actualites/lam-tech-day-2026-mettra-linnovation-technologique-au-cur-de-la-gestion-dactifs/e3wh9cbvpou8yo7cvseipui2)  
+*Source : zoominvest.fr | Publication : 2026-07-29*
+
+- Actions 1Obligations 1Flexibles 1Perf.
+- absolue 1L'essentiel de l'actualité patrimoniale et financière pour les CIF, chaque matin dans votre boîte mail.
+- L’AGEFI organisera le 3 novembre 2026, au Palais Brongniart à Paris, une nouvelle édition de l’AM Tech Day, un événement consacré aux transformations technologiques de la gestion d’actifs, du wealth management et des services financiers.
+- Cette journée réunira les professionnels du secteur autour des principaux enjeux liés à l’intelligence artificielle, à la cybersécurité, à la blockchain, au trading et à la souveraineté numérique.
+
+## [Une enquête Health-ISAC révèle que la reprise économique est le maillon faible de la ...](https://health-isac.org/fr/Une-enquête-de-l'ISAC-sur-la-santé-révèle-que-la-reprise-après-sinistre-est-le-maillon-faible-de-la-maturité-cybernétique./)  
+*Source : health-isac.org | Publication : 2026-07-29*
+
+- Une enquête Health-ISAC révèle que la reprise économique est le maillon faible de la maturité en matière de cybersécurité.
+- La récupération est le point faible des programmes de cybersécurité du secteur de la santé.
+- Seulement 22 % des RSSI interrogés s'estiment aux deux niveaux de maturité les plus élevés en matière de rétablissement des opérations après un incident.
+- Ce constat provient de l'étude comparative des RSSI 2026. rapport D'après une enquête menée par Health-ISAC auprès de 76 responsables de la sécurité, issus des secteurs des prestataires de soins, de l'industrie pharmaceutique, des dispositifs médicaux, des organismes payeurs et des technologies de l'information en santé, plus d'un quart d'entre eux se sont classés aux niveaux 1 ou 2 de la fonction « Recover » du cadre de cybersécurité du NIST.
+
+## [<b>Cybersécurité</b> : comment l'État est devenu la cible préférée des hackers - Valeurs actuelles](https://www.valeursactuelles.com/clubvaleurs/societe/cybersecurite-comment-letat-est-devenu-la-cible-preferee-des-hackers)  
+*Source : valeursactuelles.com | Publication : 2026-07-29*
+
+- Mercredi 15 avril 2026.
+- Les ingénieurs de l’Agence nationale des titres sécurisés (ANTS, la plate-forme qui sert à déposer les demandes de cartes d’identité, passeports ou cartes grises) détectent avec stupeur une activité suspecte sur leur portail.
+- En quelques jours, un hackeur répondant au pseudonyme de “Breach3d ” s’est emparé des données de millions de comptes : 11,7 millions selon le ministère de l’Intérieur, 18 millions selon le pirate.
+- Nom, prénoms, adresse électronique, date de naissance, parfois même l’adresse et le numéro de téléphone se retrouvent dans la nature, vendus au plus offrant.
+
+## [Cyberattaque : et si l'eau arrêtait de couler ? | LeMagIT](https://www.lemagit.fr/actualites/366646653/Cyberattaque-et-si-leau-arretait-de-couler)  
+*Source : lemagit.fr | Publication : 2026-07-29*
+
+- alexandrink1966 - stock.adobe.co Cyberattaque : et si l'eau arrêtait de couler ?.
+- De la science-fiction ?.
+- Peut-être pas.
+- Une cyberattaque coordonnée a ciblé l'outil opérationnel de plus de 30 systèmes d'eau communautaires au Minnesota, mettant en lumière la vulnérabilité des infrastructures critiques.
+
+## [OpenAI explique comment son agent d'IA a pénétré Hugging Face - Malwarebytes](https://www.malwarebytes.com/fr/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face)  
+*Source : malwarebytes.com | Publication : 2026-07-29*
+
+- Le 28 juillet, OpenAI a publié une mise à jour concernant l'agent qui s'est échappé de son environnement de test et a piraté Hugging Face lors d'une évaluation interne de cybersécurité.
+- Dans sa mise à jour , OpenAI réaffirme que le système « défaillant » était un modèle de recherche plus performant, en phase de pré-lancement, et non destiné à un déploiement public.
+- Il a depuis été désactivé et son accès est désormais restreint à la recherche.
+- L’entreprise indique également n’avoir trouvé aucune preuve d’un comportement similaire de la part d’autres modèles ou agents.
+
+## [Sopra Steria relève son objectif de croissance face à la forte demande européenne en IA et ...](https://www.zonebourse.com/actualite-bourse/sopra-steria-releve-ses-previsions-de-chiffre-d-affaires-portee-par-la-croissance-de-ses-activites-ce7f51d2dd8ff123)  
+*Source : zonebourse.com | Publication : 2026-07-29*
+
+- Le groupe informatique français Sopra Steria a relevé mercredi son objectif de croissance du chiffre d&#039;affaires pour l&#039;ensemble de l&#039;année, porté par les investissements dans l&#039;intelligence artificielle (IA), la cybersécurité et les technologies souveraines, alors que les gouvernements et les grandes organisations en Europe continuent de prioriser leurs projets stratégiques.
+- Ce relèvement témoigne de la résilience des segments les plus protégés des dépenses technologiques — de la défense et des infrastructures critiques à la modernisation du secteur public et aux systèmes de données sécurisés — alors même que la demande globale en conseil reste inégale.
+- L&#039;entreprise table désormais sur une croissance organique du chiffre d&#039;affaires pour 2026 comprise entre 2,0 % et 2,5 %, contre une prévision précédente de 1,0 % à 2,0 %, après une accélération de la croissance sous-jacente à 5,3 % au deuxième trimestre, contre 4,4 % au premier.
+- Sopra, qui collabore avec des organismes du secteur public, des sous-traitants de la défense, des groupes aéronautiques, des banques et des entreprises industrielles ayant de fortes exigences de souveraineté, a bénéficié de la poursuite des investissements dans les projets technologiques stratégiques.
+
+## [Le GIFAS lance « Cyber Boost » pour renforcer la <b>cybersécurité</b> de la filière aéronautique et spatiale](https://www.aerocontact.com/actualite-aeronautique-spatiale/100665-le-gifas-lance-cyber-boost-pour-renforcer-la-cybersecurite-de-la-filiere-aeronautique-et-spatiale)  
+*Source : aerocontact.com | Publication : 2026-07-29*
+
+- « La cybersécurité est devenue une condition de la performance industrielle.
+- Avec GIFAS Cyber Boost, la filière investit concrètement pour accompagner.
+
+## [Les incroyables coulisses du piratage d'Hugging Face par des IA d'OpenAI - ZDNET](https://www.zdnet.fr/actualites/les-incroyables-coulisses-du-piratage-dhugging-face-par-des-ia-dopenai-499107.htm)  
+*Source : zdnet.fr | Publication : 2026-07-29*
+
+- Mi-juillet 2026 : la pépite de l'intelligence artificielle Hugging Face, fondée par des français à New-York, signale la détection d’une intrusion dans son infrastructure de production.
+- Quelques jours plus tard, le géant de l’IA générative OpenAI avoue que le piratage est à mettre au débit de deux de ses modèles, GPT‑5.6 Sol et un autre plus performant, en cours d’évaluation sur leurs capacités cyber.
+- Plus d’une dizaine de jours après ce piratage considéré par Clément Delangue, le directeur général de Hugging Face, comme l’un des premiers du genre, on commence à en savoir plus sur les détails techniques de l’intrusion.
+- Un exercice assez stupéfiant qui va donner du grain à moudre aux spécialistes de la cybersécurité.
+
+## [Syrie. L'application de la loi sur la <b>cybercriminalité</b> datant de l'ère Bachar el Assad doit être ...](https://www.amnesty.fr/communiques/syrie-lapplication-de-la-loi-sur-la-cybercriminalite-datant-de-lere-bachar-el-assad-doit-etre-suspendue-dans-lattente-de-sa-reforme/)  
+*Source : amnesty.fr | Publication : 2026-07-29*
+
+- Les autorités syriennes doivent suspendre l’application de la loi n° 20 de 2022 relative à la lutte contre la cybercriminalité, adoptée par l’ancien gouvernement de Bachar el Assad, et la modifier en profondeur afin de la mettre en conformité avec les obligations de la Syrie au regard du droit international relatif aux droits humains, a déclaré Amnesty International le 24 juillet.
+- En juin 2026, le ministère syrien de la Justice a annoncé un réexamen de la loi relative à la cybercriminalité et a mis en place des restrictions concernant son application, mais ce texte continue d’être utilisé pour restreindre le droit à la liberté d’expression.
+- Amnesty International a réuni des informations sur cinq cas de journalistes et de militants qui ont été placés en détention entre janvier et juin 2026, parfois jusqu’à sept jours, au titre de la loi de 2022 relative à la cybercriminalité, en raison de leurs publications en ligne.
+- Ces cinq personnes ont toutes été arrêtées en vertu de dispositions de cette loi qui répriment pénalement l’expression pacifique en ligne d’opinions, avec des dispositions énonçant des infractions définies de manière large et vague comme l’« atteinte au prestige de l’État », l’« atteinte à la situation financière de l’État » et la « diffamation électronique ».
+
+## [Le Zero Trust à l'ère des agents : une approche dépassée ? - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/le-zero-trust-a-lere-des-agents-une-approche-depassee-228583/amp)  
+*Source : silicon.fr | Publication : 2026-07-29*
+
+- L’intelligence artificielle agentique marque une nouvelle étape dans l’évolution des systèmes numériques.
+- D’après une étude récente de KPMG, les agents s’intègrent désormais comme de véritables coéquipiers pour gérer des tâches opérationnelles clés, offrant de nouvelles opportunités d’automatisation et d’efficacité.
+- Ils peuvent analyser des informations, prendre des décisions et interagir avec des applications ou des données sans intervention humaine constante.
+- Néanmoins, cette autonomie croissante soulève également de nouveaux enjeux de sécurité.
+
+## [Cato Networks s'intègre avec la plate-forme de Crowdstrike - L'INFORMATICIEN](https://www.linformaticien.com/magazine/cybersecurite/65139-cato-networks-s-integre-avec-la-plate-forme-de-crowdstrike.html)  
+*Source : linformaticien.com | Publication : 2026-07-29*
+
+- LES DOSSIERS CYBERSECURITE.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cybersécurité · Cato Networks s'intègre.
+
+## [Wallix sécurise 25 M€ - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/65135-wallix-securise-25-m.html)  
+*Source : linformaticien.com | Publication : 2026-07-29*
+
+- Ransomware : les jours d'après · Biz'IT · Wallix sécurise 25 M€.
+- Détails: Bertrand Garé: 29 juillet 2026.
+- Le spécialiste français de la gestion des.
+
+## [Mali : les FAMa frappent des groupes armés près de Dagabory - APAnews](https://fr.apanews.net/security/mali-les-fama-frappent-des-groupes-armes-pres-de-dagabory/)  
+*Source : fr.apanews.net | Publication : 2026-07-29*
+
+- Les Forces armées maliennes (FAMa) ont annoncé avoir neutralisé, mardi 28 juillet, deux pick-up armés ainsi qu’un groupe de combattants près de Dagabory, dans le cercle de Sokolo (région de Ségou), lors d’une opération menée dans le cadre de l’opération Dougoukoloko.
+- Selon l’état-major général des armées maliennes, les éléments visés dans le cadre de l’opération Dougoukoloko appartenaient au Groupe de soutien à l’islam et aux musulmans (JNIM), affilié à Al-Qaïda, ainsi qu’au Front de libération de l’Azawad (FLA).
+- L’intervention a été conduite au cours d’une mission de reconnaissance.
+- Après avoir localisé les deux véhicules et identifié le groupe armé, les forces engagées ont confirmé les renseignements recueillis avant de procéder à la neutralisation des cibles avec l’appui de leurs partenaires.
+
+## [Leidos lance la plateforme d'IA Parcata pour identifier et corriger les vulnérabilités de <b>cybersécurité</b>](https://ch.zonebourse.com/actualite-bourse/leidos-lance-la-plateforme-d-ia-parcata-pour-identifier-et-corriger-les-vulnerabilites-de-cybersecur-ce7f51d3d889f12d)  
+*Source : ch.zonebourse.com | Publication : 2026-07-29*
+
+- Leidos a développé Parcata, une plateforme propriétaire conçue pour identifier et corriger de manière autonome les vulnérabilités logicielles.
+- Cet outil de nouvelle génération, indépendant des modèles (model-agnostic), exploite un ensemble diversifié de grands modèles de langage (LLM) pour accélérer la détection des failles dans les logiciels propriétaires et tiers, et peut corriger les vulnérabilités de type « zero-day » en temps réel.
+- La plateforme a démontré ses capacités lors de récents exercices techniques internes et est actuellement déployée sur le code source de Leidos avant d&#039;être intégrée aux environnements opérationnels.Ces travaux s&#039;inscrivent dans la stratégie NorthStar 2030 de Leidos, qui met l&#039;accent sur les capacités basées sur l&#039;intelligence artificielle (IA) et leur impact à l&#039;échelle opérationnelle dans des environnements de combat dynamiques.
+
+## [<b>Cybersécurité</b> : la Banque centrale de Tunisie lance un projet stratégique pour protéger son ...](https://www.lapresse.tn/2026/07/29/cybersecurite-la-banque-centrale-de-tunisie-lance-un-projet-strategique-pour-proteger-son-systeme-dinformation/)  
+*Source : lapresse.tn | Publication : 2026-07-29*
+
+- La Banque centrale de Tunisie (BCT) a lancé un appel d’offres national en vue de la création d’un Centre des opérations de cybersécurité (Security Operations Center – SOC), une nouvelle étape dans le renforcement de la sécurité de son système d’information face à la multiplication des cybermenaces et des cyberattaques.
+- Selon le dossier d’appel d’offres, ce projet vise à mettre en place une plateforme intégrée capable de détecter, analyser et traiter efficacement les incidents de sécurité informatique, tout en assurant une surveillance permanente de l’environnement numérique de la Banque centrale.
+- L’objectif est de renforcer la résilience de ses infrastructures informatiques et de garantir la continuité de ses activités.
+- Un consortium tuniso-étranger recherché Pour la réalisation du projet, la Banque centrale prévoit de sélectionner un consortium composé d’un prestataire tunisien et d’un prestataire étranger spécialisés en cybersécurité.
+
+## [Fuites de données : la France, pire passoire numérique de l'Europe - Front Populaire](https://frontpopulaire.fr/societe/contents/fuites-de-donnees-la-france-pire-passoire-numerique-de-l-europe_tco_31846685)  
+*Source : frontpopulaire.fr | Publication : 2026-07-29*
+
+- Fuites de données : la France, pire passoire numérique de l’Europe ARTICLE.
+- Avec 43,4 millions de comptes compromis au premier semestre 2026, les Français sont la population la plus vulnérable en Europe… la seconde dans le monde.
+- Au moment où l’exécutif s’apprête à obliger les internautes français à renseigner leur carte d’identité pour accéder aux réseaux sociaux, l’information passe mal.
+- De janvier à juin 2026, 43,4 millions de comptes français ont été piratés, d’après une étude de Surfshark, une entreprise lituanienne spécialisée en cybersécurité.
+
+## [L'INPT élargit l'externalisation de ses masters en <b>cybersécurité</b> à Rabat et Casablanca](http://ledesk.ma/enoff/linpt-elargit-lexternalisation-de-ses-masters-en-cybersecurite-a-rabat-et-casablanca/)  
+*Source : ledesk.ma | Publication : 2026-07-29*
+
+- Formation L’INPT élargit l’externalisation de ses masters en cybersécurité à Rabat et Casablanca Des étudiants de l’INPT devant le bâtiment de l’institut.
+- Crédit : INPT L’Institut national des postes et télécommunications (INPT) poursuit l’externalisation de ses formations en cybersécurité et change cette fois d’échelle.
+- Après avoir confié en 2025 l’animation d’une première promotion de master à un prestataire externe, l’établissement prépare désormais le déploiement simultané de deux cursus, à Rabat et à Casablanca pour une enveloppe globale estimée à près de 6,8 millions de dirhams (MDH).
+- Abonnez-vous pour continuer la lecture à partir de 40 dh par mois (facturé annuellement) Choisir une offreLe Desk a été le premier à révéler Choisir une offre Déjà abonné ?.
 
 ## [La Côte d'Ivoire crée un Master en <b>cybersécurité</b> | APAnews - Agence de Presse Africaine](https://fr.apanews.net/security/la-cote-divoire-cree-un-master-en-cybersecurite/)  
 *Source : fr.apanews.net | Publication : 2026-07-28*
