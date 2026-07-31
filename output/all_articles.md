@@ -1,5 +1,152 @@
-# Résumés – 2026-07-29
+# Résumés – 2026-07-30
 
+
+## [SCC France obtient la certification Cisco Preferred Partner Bo - infoDSI](https://infodsi.com/articles/210582/scc-france-obtient-la-certification-cisco-preferred-partner-bo.html)  
+*Source : infodsi.com | Publication : 2026-07-30*
+
+- Veuillez activer Javascript.
+
+## [Bank of America va racheter la société britannique MDSec Consulting pour renforcer ses ...](https://www.boursorama.com/bourse/actualites-amp/bank-of-america-va-racheter-la-societe-britannique-mdsec-consulting-pour-renforcer-ses-defenses-informatiques-f8a6b3613613079439f3ed19c76c274e)  
+*Source : boursorama.com | Publication : 2026-07-30*
+
+- Bank of America va racheter la société britannique MDSec Consulting pour renforcer ses défenses informatiques information fournie par Reuters 30/07/2026 à 22:35 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Bank of America BAC.N a annoncé jeudi son intention d’acquérir la société de sécurité informatique MDSec Consulting Ltd, dans le but de renforcer ses capacités de lutte contre les cyberattaques.
+- La transaction devrait être finalisée au cours du quatrième trimestre 2026, sous réserve de l’obtention des autorisations réglementaires, a indiqué dans un communiqué la deuxième plus grande banque américaine.
+- Le montant de la transaction n’a pas été divulgué.
+- Partout dans le monde, les entreprises sont confrontées à une recrudescence des cyberattaques basées sur l’intelligence artificielle et des ransomwares qui volent des données sensibles et perturbent leurs activités.
+
+## [États-Unis : des pirates iraniens suspectés d'une cyberattaque sur des réseaux d'eau dans ...](https://www.sudouest.fr/economie/cybersecurite/etats-unis-des-pirates-iraniens-suspectes-d-une-cyberattaque-sur-des-reseaux-d-eau-dans-le-minnesota-30121993.php)  
+*Source : sudouest.fr | Publication : 2026-07-30*
+
+- Une trentaine de réseaux locaux d’alimentation en eau ont été visés par une cyberattaque dans le Minnesota, une opération dont le mode opératoire pointe vers un groupe affilié à l’Iran Une société de cybersécurité affirme que le mode opératoire d’une attaque perpétrée dimanche et lundi contre une trentaine de réseaux locaux d’alimentation en eau dans le Minnesota correspond à celui d’un groupe de pirates affilié à l’Iran, un constat partagé par les autorités américaines selon plusieurs médias.
+- L’opération a notamment interrompu pendant un peu moins de deux heures l’alimentation en eau de la petite ville de Braham, dans la grande banlieue de Minneapolis, avant qu’elle ne soit rétablie.
+
+## [Lille - Bouaddi dans le viseur de Manchester City : Sports - Orange](https://sports.orange.fr/videos/football/lille-bouaddi-dans-le-viseur-de-manchester-city-CNT000002qLDeD.html)  
+*Source : sports.orange.fr | Publication : 2026-07-30*
+
+- Vidéo suivante dans 5 secondes Lille - Bouaddi dans le viseur de Manchester City par beIN SPORTS France info - L’une des révélations de la saison de Ligue 1 avec Lille la saison dernière, à seulement 18 ans, Ayyoub Bouaddi attire les convoitises de Manchester City désireux de renouveler son milieu de terrain.
+- vidéos similaires lecture autoOUINON.
+
+## [IA : pour rester dans la course, l'UE lance un appel d'offres géant - Orange Actu](https://actu.orange.fr/economie/ia-pour-rester-dans-la-course-l-ue-lance-un-appel-d-offres-geant-CNT000002qLooj.html)  
+*Source : actu.orange.fr | Publication : 2026-07-30*
+
+- IA : pour rester dans la course, l'UE lance un appel d'offres géant © Nicolas TUCAT, AFP - Henna Virkkunen, vice-présidente de la Commission européenne en charge du Numérique, le 15 avril 2026 à Brxuelles L'Union européenne a lancé jeudi un appel d'offres géant pour tenter de rattraper son retard dans l'intelligence artificielle, qui vise à mobiliser 30 milliards d'euros d'investissements pour construire ses premières "giga-usines d'IA", des infrastructures informatiques offrant une puissance de calcul massive.
+- Ce lancement "constitue une étape majeure dans notre ambition" visant à faire de l'Europe un "continent de l'IA", a affirmé Henna Virkkunen, vice-présidente de la Commission en charge du Numérique, voyant dans l'accès à cette énorme capacité de traitement informatique une "nécessité stratégique".
+- Cet appel d'offres, qui sera cofinancé par 18 Etats membres de l'UE (dont la France, l'Allemagne, l'Italie et l'Espagne), vise à créer sept "gigafactories" d'IA, et sera clos en novembre.
+- Il se compose de deux lots: le premier portera sur quatre projets, doté chacun d'un total de 500 millions d'euros de fonds européens.
+
+## [Un ver npm autodisséminant produit des paquets à attestations SLSA valides - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/un-ver-npm-autodisseminant-produit-des-paquets-a-attestations-slsa-valides/)  
+*Source : itsocial.fr | Publication : 2026-07-30*
+
+- Une attestation de provenance SLSA de niveau 3 passe pour la garantie la plus robuste qu’un éditeur puisse apporter sur l’origine d’un paquet logiciel.
+- Elle n’a pourtant pas empêché la publication, le 11 mai 2026 et en six minutes, de quatre-vingt-quatre versions malveillantes de paquets TanStack sur npm, chacune porteuse d’une telle attestation, cryptographiquement valide.
+- Forescout Vedere Labs rattache l’épisode au groupe TeamPCP, qui s’attaque à la chaîne logicielle depuis septembre 2025.
+- Un cachet de cire prouve qui a fermé la lettre, pas ce qu’elle raconte.
+
+## [<b>Cybercriminalité</b> : quand les données deviennent une arme - Valeurs actuelles](https://www.valeursactuelles.com/clubvaleurs/societe/cybercriminalite-quand-les-donnees-deviennent-une-arme)  
+*Source : valeursactuelles.com | Publication : 2026-07-30*
+
+- « Je sais que mes informations sont dans la nature, mais je ne sais pas ce qu’elles vont devenir ni ce qu’on va en faire.
+- » À 26 ans, Sacha, étudiante en informatique à Paris, fait partie des milliers de Français dont les données personnelles ont été compromises lors d’une cyberattaque.
+- À la fin de l’année 2025, l’établissement de santé dans lequel elle a été hospitalisée est victime d’un piratage.
+- En guise d’alerte, elle reçoit un simple email l’invitant à redoubler de vigilance.
+
+## [Bayern - Brown : &quot;Je veux juste montrer ce dont je suis capable&quot; : Sports - Orange](https://sports.orange.fr/videos/football/bayern-brown-je-veux-juste-montrer-ce-dont-je-suis-capable-CNT000002qLlRY.html)  
+*Source : sports.orange.fr | Publication : 2026-07-30*
+
+- Vidéo suivante dans 5 secondes Bayern - Brown : "Je veux juste montrer ce dont je suis capable" par beIN SPORTS France info - Nouvelle recrue du Bayern Munich, Nathaniel Brown a dévoilé lors de sa présentation ses ambitions avant de détailler ses points forts et faibles.
+- vidéos similaires lecture autoOUINON.
+
+## [Deux IA ont contourné de leur plein gré un test de <b>cybersécurité</b> pour attaquer des plateformes](https://www.ledauphine.com/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes)  
+*Source : ledauphine.com | Publication : 2026-07-30*
+
+- Internet Deux IA ont contourné de leur plein gré un test de cybersécurité pour attaquer des plateformes Deux intelligences artificielles d’OpenAI ont quitté leur environnement de test pour interagir avec internet et accéder à plusieurs plateformes, dont Hugging Face, afin de réussir une évaluation.
+- Un épisode qui interroge les limites des agents d’IA et les défis de leur encadrement.
+- Deux modèles d’intelligence artificielle (IA) d’OpenAI sont sortis, de leur propre initiative, du milieu confiné dans lequel ils étaient testés pour attaquer le site Hugging Face, une bibliothèque d’IA.
+- Ils ont aussi réussi des intrusions dans quatre autres plateformes.
+
+## [Qualcomm a annoncé l'acquisition de la société israélienne de <b>cybersécurité</b> SAM ...](https://israelvalley.com/2026/07/30/qualcomm-a-annonce-lacquisition-de-la-societe-israelienne-de-cybersecurite-sam-seamless-network/)  
+*Source : israelvalley.com | Publication : 2026-07-30*
+
+- Le géant américain des semi-conducteurs Qualcomm a annoncé l’acquisition de la société israélienne de cybersécurité SAM Seamless Network.
+- Selon les informations de Globes, le montant de la transaction dépasse les 100 millions de dollars.
+- Fondée par sa directrice générale Sivan Rauscher et son vice-président Shmuel Chafets, associé du fonds de capital-risque Target Global, SAM Seamless Network avait levé environ 30 millions de dollars depuis sa création.
+- Son dernier tour de financement, réalisé en 2021, valorisait l’entreprise à environ 60 millions de dollars.
+
+## [Tour de l'Ain 2026 -Étape 3 Résumé - Première victoire professionnelle pour ce coureur français...](https://sports.orange.fr/videos/cyclisme/tour-de-france/tour-de-l-ain-2026-etape-3-resume-premiere-victoire-professionnelle-pour-ce-coureur-francais-CNT000002qLCmV.html)  
+*Source : sports.orange.fr | Publication : 2026-07-30*
+
+- Tour de l'Ain 2026 -Étape 3 Résumé - Première victoire professionnelle pour ce coureur français... par Cyclism'Actu TV info - Comme habituellement, l'arrivée à Lelex servait de juge de paix pour ce Tour de l'Ain !.
+- Avec pas moins de 7 ascensions répertoriées en plus de l'arrivée exigeante que proposait cette 3e et dernière journée, les meilleurs grimpeurs de ce Tour de l'Ain avaient de quoi s'expliquer lors des 131 km de cette étape.
+- C'est finalement un groupe de favoris assez similaire à celui que l'on a vu sur la 2e étape qui s'est disputé la victoire.
+- Avec près d'une minute d'avance au matin de cette étape, le maillot jaune de Markel Beloki (EF Education EasyPost) n'a pas vraiment été inquiété mais l'Espagnol a bien failli s'imposer une nouvelle fois.
+
+## [<b>Ransomware</b> : le montant payé moyen augmente, alors que la médiane baisse | LeMagIT](https://www.lemagit.fr/actualites/366646619/Ransomware-le-montant-paye-moyen-augmente-alors-que-la-mediane-baisse)  
+*Source : lemagit.fr | Publication : 2026-07-30*
+
+- Getty Images Ransomware : le montant payé moyen augmente, alors que la médiane baisse Le montant moyen des rançons versées a progressé d'un trimestre sur l'autre, tandis que le montant médian a reculé.
+- L'effet notamment d'un acteur malveillant qui se concentre sur les cabinets d'avocats.
+- Sur le front des rançongiciels, le second trimestre 2026 porte une surprise.
+- Ainsi, le montant moyen des rançons a progressé de 176 % par rapport au premier trimestre, atteignant 1 880 612 $, alors que le montant médian a reculé de son côté de 50 % pour s'établir à 150 000 $.
+
+## [INTERVIEW - Luca Van Assche après son premier titre ATP : &quot;Je me demandais si c'était ...](https://sports.orange.fr/videos/tennis/roland-garros/interview-luca-van-assche-apres-son-premier-titre-atp-je-me-demandais-si-c-etait-vraiment-ca-que-j-aimais-faire-CNT000002qLkLZ.html)  
+*Source : sports.orange.fr | Publication : 2026-07-30*
+
+- INTERVIEW - Luca Van Assche après son premier titre ATP : "Je me demandais si c’était vraiment ça que j’aimais faire" par Tennis Actu TV info - Après plusieurs mois de galère, de blessures, de défaites et de doutes, Luca Van Assche a retrouvé la lumière en remportant à Estoril le premier titre ATP de sa carrière.
+- Une semaine fondatrice, marquée par des combats en trois sets, une victoire de prestige contre Andrey Rublev et une finale remportée au mental.
+- Mais derrière le trophée, le Français de 22 ans revient surtout de loin.
+- Habitué à gagner chez les juniors puis rapidement installé dans le Top 100, il avait mal vécu sa chute au classement et s’était même demandé : "Est-ce que c’est vraiment ça que j’aime faire ?".
+
+## [Le Willis College, un établissement canadien, lance une initiative de <b>cybersécurité</b> militaire ...](https://www.lesaffaires.com/communique-de-presse/le-willis-college-un-etablissement-canadien-lance-une-initiative-de-cybersecurite-militaire-financee-par-le-mdn-en-jordanie/)  
+*Source : lesaffaires.com | Publication : 2026-07-30*
+
+- Le Willis College, un Ã©tablissement canadien, lance une initiative de cybersÃ©curitÃ© militaire financÃ©e par le MDN en Jordanie Cision|PubliÃ© il y a 9 minutes | Mis Ã jour il y a 24 secondesOTTAWA, ON et AMMAN, Jordanie, le 30 juill.
+- 2026 /CNW/ — Le Willis College, le plus ancien collÃ¨ge carriÃ¨re du Canada, a annoncÃ© aujourd’hui la conclusion d’un partenariat international stratÃ©gique visant Ã mettre en Åuvre un programme transformateur de dÃ©veloppement des capacitÃ©s en matiÃ¨re de cybersÃ©curitÃ© Ã l’intention des Forces armÃ©es jordaniennes (FAJ).
+- Les cours du Willis College, une rÃ©fÃ©rence dans le domaine, serviront de base pour mettre en place un parcours de formation en cyberdÃ©fense de haut niveau Ã l’UniversitÃ© technique Al-Hussein (UTH) d’Amman.
+- En certifiant les membres du corps enseignant local de l’UTH en tant qu’autoritÃ©s techniques, ce partenariat permettra de doter le personnel des FAJ de compÃ©tences en cyberdÃ©fense conformes aux normes internationales, et le programme est appelÃ© Ã se transformer en pÃ´le national de formation permanent et autonome pour la Jordanie.
+
+## [L'agent incontrôlable d'OpenAI a frappé plus loin qu'annoncé - Numerama](https://www.numerama.com/cyberguerre/2304047-lagent-incontrolable-dopenai-a-frappe-plus-loin-quannonce.html)  
+*Source : numerama.com | Publication : 2026-07-30*
+
+- On en apprend tous les jours un peu plus sur cette affaire.
+- Bref rappel des faits.
+- Le 16 juillet 2026, Hugging Face annonçait avoir détecté une intrusion sur ses systèmes.
+- Le 21 juillet, OpenAI reconnaissait que l’origine de l’attaque se trouvait du côté de ses propres agents, testés en interne, expliquant qu’ils avaient consacré une part importante de leur puissance de calcul à chercher un moyen d’accéder à internet depuis leur environnement de test.
+
+## [WTA - Washington : Venus Williams déjà éliminée : Sports - Orange](https://sports.orange.fr/videos/plus-de-sport/basket/wta-washington-venus-williams-deja-eliminee-CNT000002qLjAf.html)  
+*Source : sports.orange.fr | Publication : 2026-07-30*
+
+- WTA - Washington : Venus Williams déjà éliminée par beIN SPORTS France info - Anastasia Potapova's stunning upset against tennis legend Venus Williams!.
+- Watch the highlights as Potapova dominates with powerful serves and strategic counter-attacks, leaving Venus Williams struggling to find her rhythm.
+- See how Potapova secured a decisive victory, breaking Venus's serve multiple times and ultimately winning in two sets.
+- This match marks a significant moment in Potapova's career and a tough loss for Venus Williams, extending her winless streak for the year.
+
+## [I6CT-Crime 2026 : La RCA plaide pour des stratégies concertées et consolidées | L'Opinion](https://lopinion.ma/international/i6ct-crime-2026--la-rca-plaide-pour-des-strategies-concertees-et-consolidees_a58120?articleId=0518cd62-0c5e-4df0-8db9-6bba7135b317)  
+*Source : lopinion.ma | Publication : 2026-07-30*
+
+- International I6CT-Crime 2026 : La RCA plaide pour des stratégies concertées et consolidées La lutte contre la cybercriminalité et le cyberterrorisme est plus que jamais au cœur des préoccupations des gouvernants africains, dans un contexte marqué par le développement effréné de l’intelligence artificielle.
+- Par Wolondouka SIDIBE jeudi 30 juillet 20262 min de lecture Fonctionnalité audio bientôt disponible Actu Maroc Maroc Digital 2030 : le gouvernement s'allie à Vertiv pour accélérer le cloud, l'IA et les infrastructures numériques il y a 3j|2 min de lecture Actu Maroc Le Rallye IA Future Lab s’invite à Merzouga 09/06/2026|2 min de lecture Actu Maroc Éducation : Le CSEFRS plaide pour l’adoption urgente d’un cadre national d’orientation sur l’usage de l’IA 05/06/2026|4 min de lecture Actu Maroc Omar Hilale scelle un partenariat stratégique entre l'ONU et la Banque mondiale 21/04/2026|4 min de lecture Actu Maroc Transition numérique : opérationnalisation du datacenter "Igoudar Numérique" à Dakhla avec une capacité de 500 MW 15/04/2026|2 min de lecture Actu Maroc Protection des données personnelles : Omar Seghrouchni plaide pour une régulation éthique et souveraine à l’ère de l’IA 08/04/2026|2 min de lecture.
+
+## [Stripe et OpenAI lancent les paiements par IA : la grande question de la responsabilité](https://www.journaldunet.com/cybersecurite/1553227-stripe-et-openai-lancent-les-paiements-par-ia-la-grande-question-de-la-responsabilite/)  
+*Source : journaldunet.com | Publication : 2026-07-30*
+
+- Stripe et OpenAI lancent les paiements par IA : la grande question de la responsabilité Les agents IA peuvent désormais exécuter des paiements en totale autonomie.
+- Une révolution opérationnelle qui masque un vide légal majeur.
+- En cas de fraude ou de litige, l'impasse peut être totale.
+- Depuis 2025, Stripe, Coinbase et OpenAI ont chacun lancé leur propre protocole permettant à des agents d'intelligence artificielle d’exécuter des paiements de manière totalement autonome, sans validation humaine.
+
+## [La société de <b>cybersécurité</b> Wiz révèle une faille qui aurait pu exposer massivement les ...](https://www.zonebourse.com/actualite-bourse/la-societe-de-cybersecurite-wiz-revele-une-faille-qui-aurait-pu-exposer-massivement-les-clients-clou-ce7f50dadf8ff125)  
+*Source : zonebourse.com | Publication : 2026-07-30*
+
+- La société de cybersécurité Wiz révèle une faille qui aurait pu exposer massivement les clients cloud de Microsoft.
+- Publié le 30/07/2026 à 17:17.
+
+## [Sam Altman, d'OpenAI, va discuter de tests volontaires de sécurité en matière d'IA avec des ...](https://www.boursorama.com/actualite-economique/actualites-amp/sam-altman-d-openai-va-discuter-de-tests-volontaires-de-securite-en-matiere-d-ia-avec-des-responsables-de-l-administration-trump-apres-qu-un-agent-s-est-rebelle-6aee0fd15e2abcd326b49e7013a29038)  
+*Source : boursorama.com | Publication : 2026-07-30*
+
+- Sam Altman, d'OpenAI, va discuter de tests volontaires de sécurité en matière d'IA avec des responsables de l'administration Trump après qu'un agent s'est rebellé information fournie par Reuters 30/07/2026 à 18:07 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par Courtney Rozen Le directeur général d’OpenAI, Sam Altman, s’entretiendra jeudi avec des responsables de la Maison Blanche au sujet des futurs modèles d’IA de son entreprise et des tests volontaires de cybersécurité menés par le gouvernement sur les systèmes d’IA avancés, a déclaré un porte-parole d’OpenAI, plus d’une semaine après que l’entreprise a révélé qu’un de ses modèles d’IA avait échappé au confinement lors d’un test de sécurité.
+- M. Altman rencontrera jeudi la chef de cabinet de la Maison Blanche, Susie Wiles, le directeur national de la cybersécurité, Sean Cairncross, et le conseiller technologique, Michael Kratsios, a déclaré un porte-parole d’OpenAI à Reuters.
+- Il devrait également s’entretenir jeudi avec le secrétaire au Commerce, Howard Lutnick, selon une source proche du dossier.
+- La visite de M. Altman intervient après que son entreprise a révélé que son agent d'IA s’était échappé de son environnement de confinement lors d’un test de sécurité.
 
 ## [<b>Cybersécurité</b>: les entreprises face à la &quot;bombe à retardement&quot; des progrès de l'IA](https://www.notretemps.com/depeches/cybersecurite-les-entreprises-face-a-la-bombe-a-retardement-des-progres-de-l-ia-136623)  
 *Source : notretemps.com | Publication : 2026-07-29*
