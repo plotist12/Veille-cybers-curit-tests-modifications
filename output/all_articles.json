@@ -1,5 +1,185 @@
 [
   {
+    "id": "adfecb5a63",
+    "title": "Souveraineté numérique : la feuille de route pragmatique des RSSI - Journaldunet.com",
+    "link": "https://www.journaldunet.com/cybersecurite/1553291-souverainete-numerique-la-feuille-de-route-pragmatique-des-rssi/",
+    "source": "journaldunet.com",
+    "pub_date": "2026-07-31",
+    "summary": "- Souveraineté numérique : la feuille de route pragmatique des RSSI Pour les RSSI, la souveraineté numérique n'est plus une contrainte juridique abstraite.\n- Elle est devenue un axe prioritaire de la résilience du système d'information.\n- La souveraineté s'est progressivement imposée dans le quotidien des RSSI, les responsables de la sécurité des systèmes d'information.\n- En cause, le durcissement réglementaire, l'essor plus ou moins contrôlé de l'intelligence artificielle et les risques d'interruption de service.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "c3980958e9",
+    "title": "Amgen ne constate aucun impact significatif suite à un incident de <b>cybersécurité</b>",
+    "link": "https://ch.zonebourse.com/actualite-bourse/amgen-ne-constate-aucun-impact-significatif-suite-a-un-incident-de-cybersecurite-ce7f50d8db8ff223",
+    "source": "ch.zonebourse.com",
+    "pub_date": "2026-07-31",
+    "summary": "- Amgen ne constate aucun impact significatif suite à un incident de cybersécuritéAmgen n'a identifié aucun impact significatif sur sa situation financière ou ses opérations à la suite d'une faille de cybersécurité, a déclaré la société vendredi dans un document.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "1cc6e0cc6c",
+    "title": "Cyberattaque dans l'Éducation nationale : des données personnelles d'un « nombre important",
+    "link": "https://www.sudouest.fr/economie/cybersecurite/cyberattaque-dans-l-education-nationale-des-donnees-personnelles-d-un-nombre-important-d-agents-potentiellement-exfiltrees-30132573.php",
+    "source": "sudouest.fr",
+    "pub_date": "2026-07-31",
+    "summary": "- Des données personnelles d’un « nombre important » d’agents de l’Éducation nationale ont pu être exfiltrées suite à « une intrusion frauduleuse » dans un système d’information Des données personnelles d’un « nombre important » d’agents de l’Éducation nationale ont pu être exfiltrées suite à « une intrusion frauduleuse » dans un système d’information, a rapporté vendredi le ministère dans un communiqué.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "a1a4f2bafc",
+    "title": "comment un document Word peut piéger tous ceux que Copilot produit ensuite - Numerama",
+    "link": "https://www.numerama.com/cyberguerre/2304921-microsoft-bloque-sur-cette-faille-depuis-144-jours-comment-un-doc-word-peut-pieger-tous-ceux-que-copilot-produit-ensuite.html",
+    "source": "numerama.com",
+    "pub_date": "2026-07-31",
+    "summary": "- 144 jours de coordination avec Microsoft, deux tentatives de correctif, une mise à niveau du modèle IA sous-jacent.\n- Et l’attaque fonctionne toujours.\n- Håkon Måløy, chercheur indépendant en sécurité, a publié le 28 juillet 2026 les conclusions de plusieurs mois d’investigation sur Copilot for Word.\n- Dans une série de billets techniques, il documente une injection de prompt, où des instructions malveillantes sont glissées dans un document pour détourner le comportement de l’assistant IA.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "269b159255",
+    "title": "Le groupe d'experts <b>cybersécurité</b> du G7 conduit avec succès son exercice de coordination ...",
+    "link": "https://www.amf-france.org/fr/actualites-publications/actualites/le-groupe-dexperts-cybersecurite-du-g7-conduit-avec-succes-son-exercice-de-coordination",
+    "source": "amf-france.org",
+    "pub_date": "2026-07-31",
+    "summary": "- Accueil - Actualités & publications - Actualités - Le groupe d’experts cybersécurité du G7 conduit avec succès son exercice de coordination transfrontière 2026 dans le secteur financier - Le groupe d’experts cybersécurité du G7 conduit avec succès son exercice de coordination transfrontière 2026 dans le secteur financier Comme annoncé dans un communiqué par la Banque de France le vendredi 31 juillet 2026, le groupe d’experts cybersécurité du G7 (G7 Cyber Expert Group) a achevé avec succès un exercice de coordination transfrontière le 18 mai 2026.\n- Cet exercice s’inscrit dans les efforts continus du Groupe visant à renforcer la résilience cyber du secteur financier dans les juridictions du G7.\n- Une stratégie de long terme a été adoptée afin de pérenniser ces exercices et d’accroître le niveau de préparation des autorités concernées.\n- S’inscrivant dans la continuité de l’exercice de 2024, qui visait à consolider la capacité des autorités financières du G7 à se coordonner et à communiquer efficacement en réponse à un cyberincident transfrontière majeur affectant le secteur financier, l’édition 2026 a permis de tester les principales améliorations identifiées lors des précédents exercices et ateliers consacrés à la réponse aux incidents, à la reprise d’activité et à la communication de crise.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "eba83a5606",
+    "title": "Ils financent les programmes nucléaire et balistique de Pyongyang via des cyberattaques - BFM",
+    "link": "https://www.bfmtv.com/tech/cybersecurite/ils-financent-les-programmes-nucleaire-et-balistique-de-pyongyang-via-des-cyberattaques-plusieurs-pays-dont-la-france-alertent-sur-les-hackers-nord-coreens-qui-enrichissent-le-regime-de-kim-jong-un_AD-202607310375.html",
+    "source": "bfmtv.com",
+    "pub_date": "2026-07-31",
+    "summary": "- Ils financent les programmes nucléaire et balistique de Pyongyang via des cyberattaques: plusieurs pays, dont la France, alertent sur les hackers nord-coréens qui enrichissent le régime de Kim Jong-un Plusieurs pays, dont les États-Unis, ont mis en garde, ce vendredi 31 juillet, contre les informaticiens nord-coréens qui se mettent au service d'entreprises étrangères sous une fausse identité, aident à financer le régime et son programme nucléaire et participent à des cyberattaques.\n- Cet avis, cosigné par dix pays dont tous les membres du G7, fait écho à une première alerte lancée en août 2025 par les États-Unis, le Japon et la Corée du Sud.\n- \"La Corée du Nord s'appuie sur un réseau d'informaticiens qualifiés, déployés en Corée du Nord et à l'étranger, qui se présentent sous une fausse identité et reçoivent des revenus qui financent le programme nucléaire nord-coréen illégal et ses missiles balistiques\", affirme le groupe.\n- Ces travailleurs nord-coréens \"possèdent souvent des qualifications élevées dans le domaine informatique\" et proposent du télétravail à des sociétés de services et des plateformes internet, en passant régulièrement par des intermédiaires.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "23c7b91f75",
+    "title": "Incident sécurité Anthropic Claude : risques AI inattendus - Liora",
+    "link": "https://liora.io/incident-securite-anthropic-claude",
+    "source": "liora.io",
+    "pub_date": "2026-07-31",
+    "summary": "- L'entreprise a immédiatement interrompu toutes les évaluations de cybersécurité dès la découverte et a informé les parties touchées, y compris l'.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "0bebec0a52",
+    "title": "Les passkeys sont-ils la solution aux mots de passe non sécurisés ? - ITdaily",
+    "link": "https://itdaily.fr/blogs/innovation/les-cles-dacces-sont-elles-la-solution-au-probleme-des-mots-de-passe-peu-surs/",
+    "source": "itdaily.fr",
+    "pub_date": "2026-07-31",
+    "summary": "- Les mots de passe sont presque toujours le maillon faible de toute stratégie de sécurité.\n- Nous le constatons de plus en plus à travers les fuites de données, les attaques par ransomware et les campagnes de phishing.\n- Les passkeys sont bien plus sûrs à tous les niveaux.\n- Les mots de passe constituent l’un des plus grands risques de sécurité dans les entreprises.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "5694cb294e",
+    "title": "Le RSSI ne décide pas du risque que l'entreprise accepte - Silicon.fr",
+    "link": "https://www.silicon.fr/cybersecurite-1371/le-rssi-ne-decide-pas-du-risque-que-lentreprise-accepte-228615",
+    "source": "silicon.fr",
+    "pub_date": "2026-07-31",
+    "summary": "- Pendant longtemps, la cybersécurité a été considérée comme une responsabilité essentiellement technique, portée par les équipes informatiques et les responsables de la sécurité.\n- Cette vision ne correspond plus à la réalité des organisations d’aujourd’hui.\n- Les conséquences d’une cyberattaque dépassent désormais largement le périmètre des systèmes d’information : elles affectent la réputation de l’entreprise, sa conformité réglementaire, sa valorisation financière et, parfois même, sa capacité à poursuivre ses activités.\n- Cette évolution transforme profondément la manière dont les entreprises doivent envisager la responsabilité en matière de cybersécurité.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "2c2ee68fc6",
+    "title": "Le groupe d'experts <b>cybersécurité</b> du G7 conduit avec succès son exercice de coordination ...",
+    "link": "https://www.banque-france.fr/fr/communiques-de-presse/le-groupe-dexperts-cybersecurite-du-g7-conduit-avec-succes-son-exercice-de-coordination",
+    "source": "banque-france.fr",
+    "pub_date": "2026-07-31",
+    "summary": "- Accueil - Communiqués de presse - Le groupe d’experts cybersécurité du G7 ... - Le groupe d’experts cybersécurité du G7 conduit avec succès son exercice de coordination transfrontière 2026 dans le secteur financier Le groupe d’experts cybersécurité du G7 (G7 Cyber Expert Group) a achevé avec succès un exercice de coordination transfrontière le 18 mai 2026.\n- Cet exercice s’inscrit dans les efforts continus du Groupe visant à renforcer la résilience cyber du secteur financier dans les juridictions du G7.\n- Une stratégie de long terme a été adoptée afin de pérenniser ces exercices et d’accroître le niveau de préparation des autorités concernées.\n- Mise en ligne le 31 Juillet 2026 S’inscrivant dans la continuité de l’exercice de 2024, qui visait à consolider la capacité des autorités financières du G7 à se coordonner et à communiquer efficacement en réponse à un cyberincident transfrontière majeur affectant le secteur financier, l’édition 2026 a permis de tester les principales améliorations identifiées lors des précédents exercices et ateliers consacrés à la réponse aux incidents, à la reprise d’activité et à la communication de crise.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "caecf91e4c",
+    "title": "En 2008, l'ennemi avait un pouls ; aujourd'hui, c'est du code qui ne dort jamais",
+    "link": "https://www.journaldunet.com/cybersecurite/1553243-en-2008-l-ennemi-avait-un-pouls-aujourd-hui-c-est-du-code-qui-ne-dort-jamais/",
+    "source": "journaldunet.com",
+    "pub_date": "2026-07-31",
+    "summary": "- En 2008, l'ennemi avait un pouls ; aujourd'hui, c'est du code qui ne dort jamais L'IA a permis de faire passer des menaces, qui évoluaient déjà plus vite que l'humain ne pouvait suivre, au niveau supérieur.\n- L’IA démultiplie les capacités des équipes de sécurité comme celles des attaquants, et cette symétrie résume toute l’histoire.\n- Entre de mauvaises mains, l’IA est dangereuse pour une raison simple : elle supprime les deux limites qui freinaient autrefois les attaquants, à savoir les compétences et le temps.\n- Un novice peut désormais produire en quelques minutes des messages de phishing irréprochables dans n’importe quelle langue, des variantes de malwares opérationnelles et des identités fictives convaincantes.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "2416377fc8",
+    "title": "Double partenariat autour d'Helios d'AMD - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES",
+    "link": "https://www.linformaticien.com/magazine/tendances/941-ia/65148-double-partenariat-autour-d-helios-d-amd.html",
+    "source": "linformaticien.com",
+    "pub_date": "2026-07-31",
+    "summary": "- Le GENCI et Schneider Electric ont annoncé des partenariats avec AMD autour de la plate-forme IA Helios.\n- Le GENCI va déployer Helios d'ici fin.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "88409ed8a0",
+    "title": "Sage lance Access PA - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES",
+    "link": "https://www.linformaticien.com/magazine/logiciel/65147-sage-lance-access-pa.html",
+    "source": "linformaticien.com",
+    "pub_date": "2026-07-31",
+    "summary": "- Ransomware : les jours d'après · Logiciel · Sage lance Access PA.\n- Détails: Bertrand Garé: 31 juillet 2026.\n- Cette solution de mise en conformité s'.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "ebbd65040f",
+    "title": "On se retrouve le 24 août! - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES",
+    "link": "https://www.linformaticien.com/65149-on-se-retrouve-le-24-aout.html",
+    "source": "linformaticien.com",
+    "pub_date": "2026-07-31",
+    "summary": "- Ransomware : les jours d'après · L'INFORMATICIEN · On se retrouve le 24 août!.\n- Détails: 31 juillet 2026.\n- L'Informaticien va prendre un peu de repos.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "976222990b",
+    "title": "Nscale se renforce sur les charges IA - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES",
+    "link": "https://www.linformaticien.com/magazine/cloud/65145-nscale-se-renforce-sur-les-charges-ia.html",
+    "source": "linformaticien.com",
+    "pub_date": "2026-07-31",
+    "summary": "- Le néo-cloud britannique a mis 1,65 Mds de dollars pour reprendre Anyscale.\n- Le rachat d'Anyscale s'inscrirait parfaitement dans la stratégie de.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "6d64e5ebce",
+    "title": "Claude franchit une ligne rouge et pirate trois entreprises pendant un test - Siècle Digital",
+    "link": "https://siecledigital.fr/2026/07/31/claude-franchit-une-ligne-rouge-et-pirate-trois-entreprises-pendant-un-test/",
+    "source": "siecledigital.fr",
+    "pub_date": "2026-07-31",
+    "summary": "- Anthropic teste régulièrement les capacités offensives de ses modèles pour évaluer leur dangerosité.\n- Les machines reçoivent des cibles, attaquent et les ingénieurs peuvent ensuite mesurer les dégâts.\n- Tout se passe normalement dans un bac à sable coupé du monde.\n- Sauf que cette fois, le bac à sable avait un trou.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "d734ad9579",
+    "title": "Appel à la vigilance aux entreprises, États étrangers et autres organismes concernant les ...",
+    "link": "https://www.fr.emb-japan.go.jp/itpr_ja/11_000001_03902.html",
+    "source": "fr.emb-japan.go.jp",
+    "pub_date": "2026-07-31",
+    "summary": "- Le 31 juillet 2026, le Ministère des Affaires étrangères du Japon (MOFA), le Bureau national de cybersécurité (NCO), l'Agence nationale de la.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "e0256b57aa",
+    "title": "<b>Cybersécurité</b> : pour le Cigref, l'Europe doit reprendre la main sur l'IA",
+    "link": "https://www.solutions-numeriques.com/cyber-securite-pour-le-cigref-leurope-doit-reprendre-la-main-sur-lia/",
+    "source": "solutions-numeriques.com",
+    "pub_date": "2026-07-31",
+    "summary": "- La suspension temporaire d’accès aux modèles d’Anthropic, décidée cet été par Washington, a servi de piqûre de rappel.\n- Dans une nouvelle note, le Cigref tire la sonnette d’alarme : sans capacité européenne autonome en intelligence artificielle, la cyberdéfense du continent restera à la merci de décisions prises à des milliers de kilomètres de Bruxelles ou de Paris.\n- L’épisode a duré quelques semaines à peine, entre la mi-juin et le 1er juillet 2026, mais il a suffi à ébranler des certitudes.\n- En coupant temporairement l’accès à ses modèles Fable et Mythos pour se conformer aux contrôles à l’export du Département du Commerce américain, Anthropic a rappelé une évidence que beaucoup préféraient ignorer : un outil devenu stratégique peut disparaître du jour au lendemain, au gré d’arbitrages géopolitiques qui échappent totalement à ses utilisateurs européens.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "5d3b49abba",
+    "title": "Bank of America va acquérir la société britannique MDSec Consulting pour renforcer sa ...",
+    "link": "https://www.zonebourse.com/actualite-bourse/bank-of-america-va-acquerir-la-societe-britannique-mdsec-consulting-pour-renforcer-sa-cybersecurite-ce7f50dbd98ef721",
+    "source": "zonebourse.com",
+    "pub_date": "2026-07-31",
+    "summary": "- Bank of America va acquérir la société britannique MDSec Consulting pour renforcer sa cybersécurité Publié le 30/07/2026 à 22:35 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'originalCet article est réservé à nos membresConnectez-vous pour continuerSe connecterCréer un compte Continuer avec Google Continuer avec Apple Continuer avec LinkedIn ou par emailContinuer avec un email Créer un compte avec Google Créer un compte avec Apple Créer un compte avec LinkedIn ou par emailCréer un compte Pour un accès illimité, consultez nos abonnements.",
+    "added_on": "2026-08-01"
+  },
+  {
+    "id": "350919d5f9",
+    "title": "Exercice de Coordination Transfrontalière du G7 de 2026 - Banque du Canada",
+    "link": "https://www.banqueducanada.ca/2026/07/exercice-de-coordination-transfrontaliere-du-g7-de-2026/",
+    "source": "banqueducanada.ca",
+    "pub_date": "2026-07-31",
+    "summary": "- Le groupe d’experts du G7 sur la cybersécurité a conclu avec succès son exercice de coordination transfrontalière de 2026 le 18 mai 2026.\n- Cet exercice démontre l’engagement continu du groupe à renforcer la cyberrésilience du secteur financier de tous les pays du G7.\n- Une stratégie à long terme a maintenant été adoptée pour accroître la fréquence et la cohérence de ces simulations, ce qui améliorera la préparation dans tous les pays.\n- Les séances de cette année se sont appuyées sur le succès de l’exercice 2024, qui visait à renforcer la capacité des autorités financières des pays du G7 à se coordonner et à communiquer efficacement en réponse à un cyberincident transfrontalier majeur touchant le secteur financier.",
+    "added_on": "2026-08-01"
+  },
+  {
     "id": "7db4342a8d",
     "title": "SCC France obtient la certification Cisco Preferred Partner Bo - infoDSI",
     "link": "https://infodsi.com/articles/210582/scc-france-obtient-la-certification-cisco-preferred-partner-bo.html",
