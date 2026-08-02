@@ -1,5 +1,154 @@
-# Résumés – 2026-07-31
+# Résumés – 2026-08-01
 
+
+## [L'Iran suspecté de cyberattaque contre les réseaux d'eau potable des Etats-unis - IsraJ](https://israj.media-j.com/article/66556/liran-suspecte-de-cyberattaque-contre-les-reseaux-deau-potable-des-etats-unis)  
+*Source : israj.media-j.com | Publication : 2026-08-01*
+
+- Plusieurs experts en cybersécurité estiment néanmoins que l'opération s'inscrit dans une intensification des activités offensives iraniennes depuis le.
+
+## [Cyberattaque sur Chrome et Edge : ce virus manipule votre navigateur pour piller vos données](https://www.01net.com/actualites/cyberattaque-sur-chrome-et-edge-ce-virus-manipule-votre-navigateur-pour-piller-vos-donnees.html)  
+*Source : 01net.com | Publication : 2026-08-01*
+
+- Un nouveau logiciel malveillant s’attaque aux utilisateurs de Google Chrome et de Microsoft Edge.
+- Débusqué par les chercheurs de Cisco Talos le 22 juillet 2026, le virus s’intitule « msaRAT ».
+- Ce « nouveau cheval de Troie d’accès à distance » est massivement utilisé par Chaos, un gang de pirates spécialisés dans les attaques par ransomware, pour arriver à ses fins.
+- La cyberattaque commence par une opération de phishing.
+
+## [Yas Togo : Rémunération au mérite, nouveaux avantages... Direction et syndicats scellent un accord](https://24heureinfo.com/techweb/yas-togo-remuneration-au-merite-nouveaux-avantages-direction-et-syndicats-scellent-un-accord/)  
+*Source : 24heureinfo.com | Publication : 2026-08-01*
+
+- Yas Togo : Rémunération au mérite, nouveaux avantages… Direction et syndicats scellent un accord Révolution dans le monde du travail chez le premier opérateur télécom du pays.
+- Après dix-huit mois de tractations intenses, la direction de Yas Togo et les organisations syndicales ont signé un accord d’envergure sur la classification et la rémunération.
+- Plus qu’une simple révision salariale, cette alliance pose les bases d’une nouvelle méthode de dialogue social axée sur la cohésion et la performance économique.
+- Un partenariat fondé sur la maturité et l’anticipation Dans un secteur en perpétuelle mutation, Yas Togo et ses partenaires sociaux ont pris un pari fort : celui de l’intelligence collective.
+
+## [Bloctel tire sa révérence, Claude pirate trois entreprises par erreur et Google rebaptise ses hackers](https://www.numerama.com/tech/2305275-bloctel-tire-sa-reverence-claude-pirate-trois-entreprises-par-erreur-et-google-rebaptise-ses-hackers-on-vous-raconte-la-semaine-cyberguerre.html)  
+*Source : numerama.com | Publication : 2026-08-01*
+
+- Démarchage téléphonique : que va-t-il se passer avec l’arrêt de Bloctel le 11 août 2026 ?.
+- À partir du 11 août 2026, Bloctel, la liste française d’opposition au démarchage téléphonique, sera fermée, car la loi interdit désormais le démarchage par défaut.
+- - Le décret n° 2026-662 stipule que le consentement doit être clair, spécifique et révocable, et les entreprises doivent prouver qu’elles l’ont obtenu de manière légale.
+- - Des applications telles que Saracroche, Begone, WinCalls et Préfixe Bloqueur offrent des solutions efficaces pour bloquer les appels indésirables et les arnaques en utilisant des listes communautaires et des filtres de numéros.
+
+## [<b>Cybersécurité</b> : l'ANSSI certifie 88 Experts Auditeurs RGSSI et ambitionne de former 500 ...](https://news.abidjan.net/articles/748760/cybersecurite-lanssi-certifie-88-experts-auditeurs-rgssi-et-ambitionne-de-former-500-experts-en-2026)  
+*Source : news.abidjan.net | Publication : 2026-08-01*
+
+- L'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) a procédé, le mercredi 29 juillet 2026 à Abidjan, à la remise des certificats aux 88 Experts Auditeurs du Référentiel Général de Sécurité des Systèmes d'Information (RGSSI).
+- Cette initiative s'inscrit dans la stratégie nationale de renforcement du capital humain en cybersécurité portée par le ministère de la Transition Numérique et de l'Innovation Technologique (MTNIT), avec pour objectif de former plus de 500 experts hautement qualifiés d'ici à la fin de l'année 2026.
+- Présidant la cérémonie, le Directeur général de l'ANSSI, le Colonel-Major Guelpétchin Ouattara, a rappelé que la cybersécurité constitue désormais un enjeu stratégique pour les États africains, confrontés à une accélération de leur transformation numérique.
+- S'appuyant sur les estimations de l'Union internationale des télécommunications (UIT), il a indiqué que le continent africain fait face à un déficit de près de 100 000 experts hautement qualifiés dans les métiers de la cybersécurité, notamment les analystes SOC, les auditeurs de sécurité, les spécialistes en cryptographie et infrastructures à clés publiques (PKI), ainsi que les ingénieurs spécialisés dans la réponse aux incidents.
+
+## [La CONECT plaide pour un statut juridique de l'agriculteur - Radio RTCI](https://www.rtci.tn/article/6a6decc61eaddd36476bf40b/la-conect-plaide-pour-un-statut-juridique-de-lagriculteur)  
+*Source : rtci.tn | Publication : 2026-08-01*
+
+- La CONECT plaide pour un statut juridique de l’agriculteur La Confédération des entreprises citoyennes de Tunisie appelle les autorités à instaurer un statut juridique de l’agriculteur.
+- l’objectif est de mieux reconnaître son métier, renforcer sa protection et faciliter son accès aux mécanismes de financement.
+- Eclairage de Aslen Ben Rejeb, président de CONECT au micro de Zeïneb Farès.
+- Partagez:.
+
+## [Cyber'Smile : la playlist d'été de ZATAZ est de sortie](https://www.zataz.com/cybersmile-la-playlist-dete-de-zataz-est-de-sortie/)  
+*Source : zataz.com | Publication : 2026-08-01*
+
+- Cet été, ZATAZ monte le son.
+- Entre deux alertes cyber, quelques mots de passe à changer et un Wi-Fi d’hôtel à regarder avec un œil légèrement méfiant, place à la musique.
+- ZATAZ vous propose une playlist composée de cinq titres originaux, pensés pour accompagner les vacances, les trajets, les pauses au soleil… ou les longues soirées devant un écran.
+- Rock, funk, électro, pop, RnB : cinq morceaux, cinq ambiances, avec un mot d’ordre simple : sourire.
+
+## [Sault-Sainte-Marie : un projet de centre de données lié à l'IA suscite la controverse](https://ici.radio-canada.ca/nouvelle/2272728/centre-donnees-sault-intelligence-artificielle)  
+*Source : ici.radio-canada.ca | Publication : 2026-08-01*
+
+- Sault-Sainte-Marie : un projet de centre de données d’IA suscite la controverse Une personne opposée aux centres de données d’IA manifeste devant l’hôtel de ville de Hamilton, le 15 juillet 2026.
+- Photo : La Presse canadienne / Nick Iwanyshyn Approuvée en décembre dernier par le conseil municipal de Sault-Sainte-Marie, dans le Nord-Est de l’Ontario, la construction imminente d’un centre de données suscite un vif débat depuis quelques jours.
+- Plus de 2600 personnes ont signé une pétition pour s’opposer à cette installation de surveillance et de formation en cybersécurité, prévue sur l’avenue Yates, dans le parc industriel de l’ouest de la ville.
+- Né d’un partenariat entre l’entreprise de cybersécurité Protexxa et la Première Nation crie de Missanabie, le projet intègre un centre de données optimisé pour l’intelligence artificielle (IA).
+
+## [Mazamet. Fin de la 2G : quoi faire ? - ladepeche.fr](https://www.ladepeche.fr/2026/08/01/fin-de-la-2g-quoi-faire-13492834.php)  
+*Source : ladepeche.fr | Publication : 2026-08-01*
+
+- Mazamet.
+- Fin de la 2G : quoi faire ?.
+- Le réseau 2G d’Orange, technologie devenue obsolète et jugée moins sécurisée face à la cybercriminalité, sera définitivement fermé dans le Tarn le 6 octobre 2026, dans le cadre d’un plan national d’arrêt progressif engagé depuis 2022 et qui doit s’achever fin décembre sur l’ensemble du territoire.
+- A Mazamet, 37 personnes disposent encore d’un mobile fonctionnant uniquement en 2G, malgré les courriers, emails et SMS de prévention déjà envoyés par l’opérateur ; il s’agit pour la plupart de personnes âgées.
+
+## [L'IA d'Anthropic auraient compromis trois organisations lors d'un exercice de <b>cybersécurité</b>](https://www.hardwarecooking.fr/ia-danthropic-auraient-compromis-trois-organisations-exercice-cybersecurite/)  
+*Source : hardwarecooking.fr | Publication : 2026-08-01*
+
+- Les capacités des modèles d’intelligence artificielle continuent de progresser à un rythme soutenu, au point de soulever de nouvelles interrogations sur leur niveau d’autonomie et les risques associés.
+- Après l’incident récent impliquant un agent d’IA d’OpenAI qui aurait quitté son environnement de test pour accéder à une infrastructure externe, c’est désormais Anthropic qui se retrouve au centre de l’attention.
+- Selon les informations rapportées, plusieurs modèles expérimentaux de l’entreprise auraient réussi à accéder à trois organisations distinctes dans le cadre d’un exercice de type « Capture The Flag » (CTF).
+- Ces événements alimentent les débats autour de la sécurité des agents d’IA avancés.
+
+## [Nouvelle cyberattaque contre l'Éducation nationale : les données d'un grand nombre d ... - Clubic](https://www.clubic.com/actualite-623734-nouvelle-cyberattaque-contre-l-education-nationale-les-donnees-d-un-grand-nombre-d-agents-potentiellement-dans-la-nature.html)  
+*Source : clubic.com | Publication : 2026-08-01*
+
+- Le ministère de l'Éducation nationale a annoncé, vendredi en fin de journée, avoir subi une nouvelle intrusion informatique.
+- Les données personnelles d'un nombre important d'agents ont potentiellement été aspirées par un cybercriminel.
+- C'est une nouvelle journée noire pour le ministère de l'Éducation nationale, encore frappé par une cyberattaque.
+- Ce dernier a révélé vendredi 31 juillet 2026 avoir été victime d'un incident de sécurité, une intrusion qui a lieu quelques jours plus tôt, dans la nuit du 25 juillet, cette fois dirigée non pas vers les élèves, mais vers son propre personnel.
+
+## [Les citoyens doivent avoir l'habitude de vérifier les informations face au risque de fausses ...](https://fr.laodong.vn/ldt/tin-tuc/nguoi-dan-can-co-thoi-quen-kiem-chung-thong-tin-truoc-nguy-co-tin-gia-do-ai-tao-ra-1744021.ldo)  
+*Source : fr.laodong.vn | Publication : 2026-08-01*
+
+- Les citoyens doivent avoir l'habitude de vérifier les informations face au risque de fausses nouvelles créées par l'IA Face au risque de fausses nouvelles et de faux contenus créés par l'IA qui deviennent de plus en plus difficiles à identifier, les citoyens doivent vérifier les sources d'information avant de faire confiance et de partager.
+- Le 31 juillet, le Département de la cybersécurité et de la prévention et de la lutte contre la criminalité utilisant les hautes technologies (ministère de la Sécurité publique) en coordination avec la Télévision vietnamienne a lancé la campagne de communication "Informations sur l'IA? ".
+- et a lancé le bulletin d'information "Vérité ou fausseté - Vérification" afin de contribuer à améliorer les compétences en matière de vérification des informations et de prévention des fausses informations.
+- Dans son discours d'ouverture, le lieutenant-général Lê Xuân Minh, directeur du Département de la cybersécurité et de la prévention et de la lutte contre la criminalité utilisant les hautes technologies (ministère de la Sécurité publique), a déclaré que l'intelligence artificielle (IA) crée de profonds changements dans la façon dont les humains créent, accèdent et diffusent des informations.
+
+## [La foi à l'ère numérique : le défi de la <b>cybersécurité</b> - Le Courrier du VietNam](https://lecourrier.vn/la-foi-a-lere-numerique-le-defi-de-la-cybersecurite/1352403.html)  
+*Source : lecourrier.vn | Publication : 2026-08-01*
+
+- >> Le Vietnam garantit la liberté de religion à l’ère du numérique >> Les religions au Vietnam à l’ère numérique : s’adapter pour se développer, garantir la liberté de croyance Au milieu de l’année 2024, l’image d’un homme marchant pieds nus à travers le pays, une cuve de cuiseur à riz en guise de bol à aumônes, a captivé l’attention nationale.
+- Derrière lui, une foule grandissante de curieux s’est formée, donnant naissance au “phénomène” Lê Anh Tú, plus connu sous le nom de “Thích Minh Tuê” sur les réseaux sociaux.
+- En l’espace de quelques semaines, entre mai et juin 2024, cette démarche spirituelle entamée des années plus tôt dans la discrétion s’est retrouvée propulsée au cœur du maelström numérique.
+- Ce pèlerinage silencieux est devenu le symbole saisissant du pouvoir des médias sociaux : celui de s’immiscer dans la vie réelle et d’en bouleverser le cours.
+
+## [Lansweeper passe sous pavillon Bridgepoint pour accélérer l'intelligence des actifs technologiques](https://www.mediavenir.fr/lansweeper-passe-sous-pavillon-bridgepoint-pour-accelerer-lintelligence-des-actifs-technologiques/)  
+*Source : mediavenir.fr | Publication : 2026-08-01*
+
+- Bridgepoint prépare sa prise de contrôle de Lansweeper afin d’accompagner l’éditeur belge dans une phase de croissance internationale.
+- Cette acquisition majoritaire réunira la direction et Dovesco à ses côtés au capital.
+- À l’échelle mondiale, la plateforme répertorie déjà plus de deux milliards d’actifs grâce aux données, au logiciel et à l’IA.
+- Son savoir-faire dans l’intelligence des actifs technologiques nourrit ses ambitions pour la cybersécurité des entreprises, tandis que Bridgepoint compte financer le produit, les partenaires et des acquisitions ciblées.
+
+## [Enjeu <b>cybersécurité</b>: l'antivirus est-il mort ? - 04/05 : Actualités - Orange Actu](https://actu.orange.fr/videos/economie/enjeu-cybersecurite-l-antivirus-est-il-mort-04-05-CNT000002qNf8b.html)  
+*Source : actu.orange.fr | Publication : 2026-08-01*
+
+- Enjeu cybersécurité: l'antivirus est-il mort ?.
+- - 04/05 par BFMBUSINESS Dans la cybersécurité, nous entendons de plus en plus parler des anti-malwares et des anti-ransomwares.
+- Mais qu'en est-il des antivirus ?.
+- Sont-ils dépassés ?.
+
+## [Anthropic relance le débat sur les garde-fous de l'IA : &quot;Ces IA peuvent devenir une vraie menace&quot;](https://trends.levif.be/a-la-une/tech/anthropic-relance-le-debat-sur-les-garde-fous-de-lia-ces-ia-peuvent-devenir-une-vraie-menace/)  
+*Source : trends.levif.be | Publication : 2026-08-01*
+
+- cybersécurité , Anthropic fait face à de nombreuses interrogations.
+- Si l'incident est attribué à une erreur humaine, les experts plaident avant.
+
+## [Amgen ne constate aucun impact significatif suite à un incident de <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/amgen-ne-constate-aucun-impact-significatif-suite-a-un-incident-de-cybersecurite-ce7f50d8db8ff223)  
+*Source : zonebourse.com | Publication : 2026-08-01*
+
+- Amgen ne constate aucun impact significatif suite à un incident de cybersécuritéAmgen n'a identifié aucun impact significatif sur sa situation financière ou ses opérations à la suite d'une faille de cybersécurité, a déclaré la société vendredi dans un document.
+
+## [Leonardo cherche à réaliser des acquisitions pour répondre à la demande croissante dans ...](https://fr.businessam.be/leonardo-cherche-a-realiser-des-acquisitions-pour-repondre-a-la-demande-croissante-dans-le-secteur-de-la-defense/)  
+*Source : fr.businessam.be | Publication : 2026-08-01*
+
+- Principaux renseignements Leonardo mène une politique d’acquisitions agressive pour répondre à la demande militaire mondiale en forte hausse.
+- - Des investissements stratégiques dans l’IA et la cybersécurité diversifient le champ d’action technique de l’entreprise.
+- - De solides performances initiales alimentent la révision à la hausse des prévisions financières pour 2026.
+- - Porté par la forte hausse des dépenses militaires européennes, le groupe italien de défense Leonardo recherche activement de nouvelles acquisitions et alliances stratégiques afin d’assurer une croissance durable.
+
+## [SCC France devient Cisco Preferred Partner pour l'IA à Paris - Presse Agence](https://presseagence.fr/paris-technologie-scc-france-devient-cisco-preferred-partner-et-vise-les-projets-dia-et-de-cybersecurite/)  
+*Source : presseagence.fr | Publication : 2026-08-01*
+
+- PARIS : Technologie – SCC France devient « Cisco Pref… Partager : PARIS : Technologie – SCC France devient « Cisco Preferred Partner » et vise les projets d’IA et de cybersécurité SCC France obtient la certification maximale de Cisco, renforçant ainsi son expertise en infrastructures, IA et cybersécurité pour les entreprises.
+- SCC France, présenté comme le plus grand fournisseur technologique privé d’Europe, a annoncé le 30 juillet 2026 avoir obtenu le statut « Cisco Preferred Partner ».
+- Cette certification représente le plus haut niveau de reconnaissance du nouveau programme de partenariat de l’équipementier américain.
+- Elle consacre la capacité de l’entreprise à maîtriser, intégrer et déployer l’ensemble des technologies Cisco, des infrastructures de centres de données aux solutions de cybersécurité les plus avancées.
+
+## [Images pédopornographiques : la haute-commissaire à l'Enfance réclame des mesures durables](https://www.sudouest.fr/economie/cybersecurite/images-pedopornographiques-la-haute-commissaire-a-l-enfance-reclame-des-mesures-durables-30141442.php)  
+*Source : sudouest.fr | Publication : 2026-08-01*
+
+- Sarah El Haïry salue le retour d’un outil de détection des contenus pédopornographiques sur les plateformes numériques tout en appelant à une action plus ambitieuse La haute-commissaire à l’Enfance, Sarah El Haïry, a salué samedi la remise en place d’un outil permettant aux plateformes numériques de détecter les images pédopornographiques, tout en avertissant qu’elle ne se satisferait pas d’un « demi-pas » dans cette lutte.
 
 ## [Souveraineté numérique : la feuille de route pragmatique des RSSI - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1553291-souverainete-numerique-la-feuille-de-route-pragmatique-des-rssi/)  
 *Source : journaldunet.com | Publication : 2026-07-31*
