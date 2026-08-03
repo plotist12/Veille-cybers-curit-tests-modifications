@@ -1,5 +1,159 @@
-# Résumés – 2026-08-01
+# Résumés – 2026-08-02
 
+
+## [Fortinet Is Up 104% in 2026. Is It Too Late to Buy? - TIKR.com](https://www.tikr.com/fr/blog/fortinet-is-up-104-in-2026-is-it-too-late-to-buy?ref=tikrblog)  
+*Source : tikr.com | Publication : 2026-08-02*
+
+- Principales Statistiques pour l'Action Fortinet Prix Actuel : $161.95 - Prix Cible (Moyen) : ~$189 - Cible du Marché : ~$158 - Rendement Total Potentiel : ~17% - TRI Annualisé : ~4% / an - Désormais en ligne : Découvrez le potentiel de hausse de vos actions préférées avec le nouveau Modèle de Valorisation de TIKR (C'est gratuit) >>> Que s'est-il passé ?.
+- Fortinet (FTNT) a clôturé à $161.95 le 31 juillet, en hausse de 104% en 2026 et à quelques dollars de son plus haut sur 52 semaines à $170.35.
+- Cette hausse n'est pas une histoire de spéculation dépassant les résultats.
+- Ces deux dernières semaines, la société a obtenu Intel comme partenaire de fabrication pour sa prochaine puce de sécurité, a obtenu la meilleure notation de crédit dans la cybersécurité, et a publié un deuxième trimestre qui a dépassé chaque ligne de ses prévisions.
+
+## [Conçue pour les contraintes locales et par des compétences nationales : «RAQIB - El Moudjahid](https://www.elmoudjahid.dz/fr/actualite/concue-pour-les-contraintes-locales-et-par-des-competences-nationales-raqib-la-solution-qui-transforme-la-cybersecurite-en-levier-de-performance-256486)  
+*Source : elmoudjahid.dz | Publication : 2026-08-02*
+
+- cybersécurité en levier de performance.
+- Dans un contexte marqué par une explosion des cybermenaces et une course à la souveraineté numérique, une.
+
+## [AI Made in Morocco : la troisième voie défendue par Amal El Fallah Seghrouchni](https://fnh.ma/article/actualite-high-tech/ai-made-in-morocco-troisieme-voie-amal-el-fallah-seghrouchni)  
+*Source : fnh.ma | Publication : 2026-08-02*
+
+- Le Maroc accélère sa mutation numérique avec l’ambition de devenir, d'ici 2030, un hub technologique régional et un producteur de solutions numériques souveraines.
+- Dans cet entretien, la ministre déléguée chargée de la Transition numérique et de la Réforme de l'Administration, détaille les fondements de cette stratégie, les investissements dans les infrastructures, l'intelligence artificielle, les talents et la cybersécurité, tout en défendant une vision marocaine de l'innovation fondée sur la souveraineté, la confiance et l'ouverture sur l'Afrique.
+- Propos recueillis par D. William Finances News Hebdo : Sous l'impulsion de Sa Majesté le Roi Mohammed VI, le Maroc a accéléré sa transformation numérique.
+- Quel bilan dressez-vous aujourd'hui des principales avancées réalisées et des chantiers qui restent à mener ?.
+
+## [Quand l'IA commet une cyberattaque toute seule, qui est responsable légalement?](https://actu.orange.fr/societe/high-tech/quand-l-ia-commet-une-cyberattaque-toute-seule-qui-est-responsable-legalement-CNT000002qRdOc.html)  
+*Source : actu.orange.fr | Publication : 2026-08-02*
+
+- Quand l'IA commet une cyberattaque toute seule, qui est responsable légalement?.
+- La cyberattaque perpétrée par deux modèles d'intelligence artificielle (IA) d'OpenAI de leur propre initiative pose la question de la responsabilité légale de l'IA et de son concepteur, un terrain juridique encore vierge.
+- Vendredi, Clément Delangue, patron d'Hugging Face, la plateforme victime de ces intrusions, a estimé publiquement nécessaire "que les sociétés qui ont commis des erreurs ayant mené à ça (des cyberattaques autonomes) puissent être tenues pour responsables".
+- "Il est très important (...) que ces cyberattaques soient encadrées légalement aux Etats-Unis et qu'elles restent illégales afin d'éviter qu'elles n'explosent à l'avenir", a-t-il justifié dimanche sur CBS, rappelant qu'elles s'étaient produites pendant la phase de développement de l'agent.
+
+## [Sécurité : selon cette étude, 1 SMS sur 20 est potentiellement une arnaque | SFR ACTUS](https://actus.sfr.fr/tech/news/securite-selon-cette-etude-1-sms-sur-20-est-potentiellement-une-arnaque_AN-202608020004.html)  
+*Source : actus.sfr.fr | Publication : 2026-08-02*
+
+- De plus en plus sophistiquées et persistantes, les arnaques par SMS continuent d'envahir le quotidien des Français.
+- Dans un récent rapport, le spécialiste de la cybersécurité Bitdefender met en lumière un chiffre particulièrement inquiétant : en 2026, près d'un SMS sur 20 présente des signes de fraude.
+- Décryptage.
+- Peu importe la saison ou l'actualité, les cybercriminels ne manquent jamais d'imagination pour tenter de piéger les utilisateurs les plus vulnérables.
+
+## [SIDO et Lyon Cyber Expo 2026 à Lyon - Oise Hebdo](https://www.oisehebdo.fr/2026/08/02/sido-lyon-cyber-expo-2026/)  
+*Source : oisehebdo.fr | Publication : 2026-08-02*
+
+- Pendant deux jours, ce double rendez-vous réunira les professionnels du numérique, de l'industrie et de la cybersécurité.
+- Plus de 8 000.
+
+## [Sam Altman commence à s'inquiéter de son IA et de l'avenir qu'elle pourrait laisser aux ...](https://www.lacremedugaming.fr/high-tech/sam-altman-commence-a-sinquieter-de-son-ia-et-de-lavenir-quelle-pourrait-laisser-aux-prochaines-generations-221518.html)  
+*Source : lacremedugaming.fr | Publication : 2026-08-02*
+
+- Sam Altman commence à s’inquiéter de son IA et de l’avenir qu’elle pourrait laisser aux prochaines générations À 41 ans, patron de OpenAI et père d’un petit garçon d’un an, Sam Altman ne parle plus de la même façon de l’intelligence artificielle.
+- Celui qui refusait en 2023 toute "pause" dans la recherche commence aujourd’hui à admettre que ses propres modèles lui font peur.
+- Un incident de cybersécurité inédit dans les labos d’OpenAI a servi de déclic.
+- Face à une IA capable de s’échapper de son environnement de test et de pirater une entreprise tierce, Altman ne pense plus seulement en tant qu’ingénieur ambitieux, mais en père qui s’interroge sur le monde numérique qu’il laissera à son fils.
+
+## [Questel SAS ciblée par <b>ransomware</b>, une fuite de données revendiquée en ligne - FrenchBreaches](https://frenchbreaches.com/alertes/questel-sas-rw_VVhWbGMzUmxiQ0JUUVZOQWMyaHBibmxvZFc1MFpYSno)  
+*Source : frenchbreaches.com | Publication : 2026-08-02*
+
+- Over 21 million Salesforce records containing some PII and 147GB+ of internal corporate data was compromised.
+- This is a final warning to reach out.
+
+## [Nommage des cyberattaquants : Google ajoute sa norme - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/08/02/nommage-google-cyberattaquants/)  
+*Source : dcod.ch | Publication : 2026-08-02*
+
+- TL;DR : L’essentiel La fusion des équipes de sécurité au sein du groupe Google Threat Intelligence a nécessité le rapprochement de deux systèmes de suivi historiques.
+- L’entreprise remplace désormais ces bases divergentes par une structure unifiée de désignation des pirates.
+- - Le nouveau schéma s’appuie sur une combinaison de deux mots associant un terme mémorisable à une catégorie d’origine ou de motivation.
+- Des repères comme RELIC ou CASTLE qualifient ainsi les acteurs étatiques russes ou chinois.
+
+## [Les modèles IA d'OpenAI ont piraté cinq plateformes pour réussir un examen](https://www.journaldugeek.com/2026/08/02/les-modeles-ia-dopenai-ont-pirate-cinq-plateformes-pour-reussir-un-examen/)  
+*Source : journaldugeek.com | Publication : 2026-08-02*
+
+- Les modèles d’OpenAI tenaient manifestement beaucoup à leur bonne note.
+- Lors d’une évaluation de cybersécurité, ils ne se sont pas contentés de chercher les failles demandées : ils se sont échappés de leur environnement de test, ont trouvé un accès à internet et sont allés récupérer directement les réponses chez Hugging Face.
+- Un bac à sable qui ferme mal On savait déjà que cette opération avait provoqué une intrusion sérieuse dans les systèmes de la plateforme.
+- OpenAI a cependant ajouté une précision importante à son compte rendu du 28 juillet : quatre autres services en ligne ont également été touchés.
+
+## [Robots intelligents : les États-Unis bloquent l'importation - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/08/02/robots-etrangers-bloque-etats-unis/)  
+*Source : dcod.ch | Publication : 2026-08-02*
+
+- TL;DR : L’essentiel La Federal Communications Commission intègre les appareils robotiques avancés fabriqués hors du sol américain à sa liste d’équipements interdits, bloquant ainsi toute nouvelle homologation préalable à leur commercialisation.
+- - La définition légale cible tout appareil autonome de plus de deux kilogrammes doté de capteurs, d’une connexion réseau et d’un logiciel de navigation, englobant ainsi les aspirateurs autonomes domestiques.
+- - Les autorités américaines justifient cette mesure par des risques d’espionnage et de piratage à distance, rappelant le compromis de milliers d’appareils ayant exposé des données vidéo, audio et cartographiques.
+- - Le marché mondial reste dominé à près de 70% par des entreprises chinoises, contraignant les constructeurs à solliciter des dérogations complexes conditionnées à une relocalisation industrielle sur le territoire américain.
+
+## [Cyberattaques Iraniennes : Israël Dévoile L'ampleur De La Menace Quotidienne - i24NEWS](https://www.i24news.tv/fr/actu/israel/artc-cyberattaques-iraniennes-israel-devoile-l-ampleur-de-la-menace-quotidienne)  
+*Source : i24news.tv | Publication : 2026-08-02*
+
+- Cyberattaques iraniennes : Israël dévoile l'ampleur de la menace quotidienne Le Directoire national du cyberespace révèle que le pays est la cible de cyberattaques quotidiennes, notamment de tentatives iraniennes contre son secteur de l'eau.
+- Après les informations faisant état d'une cyberattaque attribuée à l'Iran contre les infrastructures d'eau de sept États américains, le Directoire national israélien du cyberespace a affirmé suivre la situation de près, tout en soulignant qu'Israël fait face à des attaques similaires au quotidien.
+- Dans un communiqué, l'organisme a indiqué être en contact permanent avec ses partenaires américains afin de coordonner la défense contre les cybermenaces et de partager les informations liées à l'attaque ayant visé le secteur de l'eau aux États-Unis.
+- Le Directoire rappelle qu'Israël est la cible de cyberattaques dans tous les secteurs et que des tentatives iraniennes répétées ont déjà visé les infrastructures hydrauliques israéliennes ces dernières années.
+
+## [Le Vietnam adapte son cadre juridique aux pratiques religieuses en ligne](https://lecourrier.vn/le-vietnam-adapte-son-cadre-juridique-aux-pratiques-religieuses-en-ligne/1352396.html)  
+*Source : lecourrier.vn | Publication : 2026-08-02*
+
+- >> Les religions au Vietnam à l’ère numérique : s’adapter pour se développer, garantir la liberté de croyance >> Construire la souveraineté culturelle dans l'espace numérique >> La foi à l’ère numérique : le défi de la cybersécurité Selon le ministère des Affaires ethniques et religieuses, plus de 95% des Vietnamiens entretiennent une vie spirituelle.
+- Le pays compte aujourd’hui 43 organisations issues de 16 religions officiellement reconnues par l’État et titulaires d’un certificat d’enregistrement d’activités.
+- Elles rassemblent environ 28 millions de fidèles, 54.000 dignitaires, 135.000 cadres religieux et près de 30.000 lieux de culte répartis sur l’ensemble du territoire.
+- Parmi elles, cinq grandes confessions regroupent chacune plus d’un million d’adeptes : le bouddhisme, le catholicisme, la secte bouddhiste Hoà Hảo, le protestantisme et le caodaïsme.
+
+## [200 000 appareils piratés : ce botnet utilise la blockchain pour brouiller les pistes](https://www.01net.com/actualites/200-000-appareils-pirates-ce-botnet-utilise-la-blockchain-pour-brouiller-les-pistes.html)  
+*Source : 01net.com | Publication : 2026-08-02*
+
+- Un nouveau botnet en pleine expansion a été débusqué par les chercheurs de QiAnXin XLab.
+- Identifié au cours du premier trimestre 2026, le botnet s’intitule Dysphoria et vise surtout des objets connectés, comme des routeurs ou des caméras.
+- Selon les chercheurs, le réseau sous la coupe de Dysphoria est composé de 200 000 appareils éparpillés dans le monde entier.
+- Le rapport parle d’une famille complète de botnets « émergente » et qui prend énormément d’ampleur.
+
+## [Gérôme Billois (Wavestone): <b>Cybersécurité</b> en France, quelle situation sur le terrain](https://actu.orange.fr/videos/economie/gerome-billois-wavestone-cybersecurite-en-france-quelle-situation-sur-le-terrain-13-10-CNT000002qQ2Cs.html)  
+*Source : actu.orange.fr | Publication : 2026-08-02*
+
+- Gérôme Billois (Wavestone): Cybersécurité en France, quelle situation sur le terrain ?.
+- - 13/10 par BFMBUSINESS Ce mardi 13 octobre, Gérôme Billois, associé cybersécurité chez Wavestone, s'est penché sur l'étude de Wavestone sur la cybersécurité en France dans l'émission Tech & Co présentée par Sébastien Couasnon.
+- Tech & Co est à voir ou écouter du lundi au jeudi sur BFM Business.
+- Tech & Co est le rendez-vous de l’actu du numérique sur BFM Business.
+
+## [24h dans la Tech: Renforçons la <b>cybersécurité</b> ! - 28/06 : Actualités - Orange Actu](https://actu.orange.fr/videos/economie/24h-dans-la-tech-renforcons-la-cybersecurite-28-06-CNT000002qNyJ2.html)  
+*Source : actu.orange.fr | Publication : 2026-08-02*
+
+- 24h dans la Tech: Renforçons la cybersécurité !.
+- - 28/06 par BFMBUSINESS Au sommaire: Appels à renforcer la cybersécurité.
+- Trump accuse Amazon de contourner les taxes.
+- La Banque Postale rachète KissKissBankBank.
+
+## [Pourquoi l'interdiction des réseaux sociaux en Australie et en France inquiète les experts de ...](https://www.science-et-vie.com/societe/pourquoi-linterdiction-des-reseaux-sociaux-en-australie-et-en-france-inquiete-les-experts-de-la-cybersecurite-252692.html)  
+*Source : science-et-vie.com | Publication : 2026-08-02*
+
+- Pourquoi l'interdiction des réseaux sociaux en Australie et en France inquiète les experts de la cybersécurité Plusieurs pays votent des lois pour interdire les réseaux sociaux aux mineurs.
+- Mais les premiers retours de terrain révèlent des résultats très en dessous des attentes affichées Le 21 juillet 2026, le Parlement français a interdit les réseaux sociaux aux mineurs de moins de 15 ans.
+- Cette mesure vise à limiter les risques d'anxiété et de dépression liés à ces applications.
+- L'Australie applique une loi similaire depuis décembre 2025 avec un seuil fixé à 16 ans.
+
+## [Francs Jeux Dakar 2026 : Un partenaire premium pour assurer la <b>cybersécurité</b> des JOJ](https://www.francsjeux.com/breves/dakar-2026-un-partenaire-premium-pour-assurer-la-cybersecurite-des-joj/)  
+*Source : francsjeux.com | Publication : 2026-08-02*
+
+- Le cercle des partenaires de Dakar 2026 s’élargit.
+- Le comité d’organisation des Jeux olympiques de la Jeunesse a introduit un partenaire premium, Check Point Software Technologies, qui sera fournisseur officiel des services de cybersécurité des JOJ.
+- « Référence mondiale de la cybersécurité, Check Point apportera son expertise pour garantir la protection numérique du premier événement olympique organisé en Afrique », souligne le COJOJ.
+- Cette collaboration répond à un besoin crucial : assurer que les Jeux et leurs acteurs seront bien protégés dans la sphère numérique.
+
+## [Fraude massive à la carte grise : la France impose de nouvelles règles dès le 1er août 2026](https://www.01net.com/actualites/fraude-massive-carte-grise-france-impose-nouvelles-regles-1er-aout-2026.html)  
+*Source : 01net.com | Publication : 2026-08-02*
+
+- En seulement deux ans, près d’un million de véhicules ont été immatriculés via des structures fictives.
+- En effet, une faille du système a permis une fraude massive à la carte grise qui a eu un impact sur les finances publiques, les garages habilités, la sécurité routière et le marché de la revente de voitures.
+- Afin d’endiguer le problème, l’État français met en place dès ce 1ᵉʳ août cinq critères qui devront être remplis par les professionnels chargés des immatriculations.
+- Près d’un million de voitures fantômes sur les routes françaises Le 12 mars dernier, un rapport de la Cour des comptes a mis en lumière une fraude massive à la carte grise.
+
+## [Le 2 août 2026, les dirigeants deviennent comptables de l'intelligence artificielle](https://www.cadre-dirigeant-magazine.com/manager/le-2-aout-2026-les-dirigeants-deviennent-comptables-de-lia/)  
+*Source : cadre-dirigeant-magazine.com | Publication : 2026-08-02*
+
+- Le 2 août 2026, les dirigeants deviennent comptables de l’intelligence artificielle Avec l’échéance du 2 août, l’intelligence artificielle cesse d’être un sujet d’innovation pour devenir un sujet de gouvernance.
+- Les dirigeants deviennent comptables d’usages qui se sont diffusés dans leur entreprise sans qu’ils les aient décidés.
+- Le 2 août prochain, une nouvelle étape du règlement européen sur l’intelligence artificielle entre en application.
+- Beaucoup d’entreprises y voient une strate réglementaire de plus, après le RGPD.
 
 ## [L'Iran suspecté de cyberattaque contre les réseaux d'eau potable des Etats-unis - IsraJ](https://israj.media-j.com/article/66556/liran-suspecte-de-cyberattaque-contre-les-reseaux-deau-potable-des-etats-unis)  
 *Source : israj.media-j.com | Publication : 2026-08-01*
