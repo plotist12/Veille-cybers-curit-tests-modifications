@@ -1,5 +1,153 @@
-# Résumés – 2026-08-02
+# Résumés – 2026-08-03
 
+
+## [« Aucun risque pour la sécurité » : comment une faille critique notée 10/10 s'est révélée être ...](https://www.numerama.com/cyberguerre/2305767-aucun-risque-pour-la-securite-comment-une-faille-critique-dans-sqlite-sest-revelee-etre-une-pure-invention-de-lia.html)  
+*Source : numerama.com | Publication : 2026-08-03*
+
+- Nous sommes le 27 juillet 2026 et un compte GitHub tout juste créé publie une série d’avis de vulnérabilité visant SQLite.
+- L’alerte fait rapidement le tour des hautes instances cyber : il s’agit ici du moteur de base de données embarqué le plus utilisé au monde.
+- L’une des vulnérabilités référencées sous le code CVE-2026-51302 décrit une faille de type use-after-free jugée si sérieuse qu’elle décroche d’abord un score CVSS parfait de 10 sur 10.
+- La NVD, base de données officielle du gouvernement américaine, la classe critique, le programme de la CISA, lagence de cybersécurité fédérale valide, puis le centre néerlandais de cybersécurité (NCSC) publie à son tour une alerte reprenant l’avis.
+
+## [<b>Cybersécurité</b>. Intermarché victime d'une cyberattaque, près de 300.000 clients concernés](https://www.ledauphine.com/faits-divers-justice/2026/08/03/intermarche-victime-d-une-cyberattaque-pres-de-300-000-clients-concernes)  
+*Source : ledauphine.com | Publication : 2026-08-03*
+
+- Cybersécurité Intermarché victime d'une cyberattaque, près de 300.000 clients concernés Le Groupement Mousquetaires/Intermarché a été victime d'une cyberattaque portant sur les données (nom, adresse, etc.) de près de 300.000 clients du Drive d'Intermarché.
+- Le Groupement Mousquetaires/Intermarché a été victime d'une cyberattaque portant sur les données (nom, adresse, etc.) de près de 300.000 clients du Drive d'Intermarché, a indiqué le distributeur lundi, confirmant une information du site spécialisé French Breaches.
+- Cet « incident de cybersécurité » est survenu la semaine dernière, a expliqué le groupement, précisant l'avoir notifié à la Cnil (Commission nationale de l'informatique et des libertés) et avoir porté plainte auprès du parquet de Paris.
+- Cela a « entraîné un accès non autorisé à certaines données de clients » du service Drive (courses en ligne) d'Intermarché, « notamment leurs nom, prénom, numéro de téléphone, adresse postale, date de naissance, numéro de carte de fidélité ainsi que certaines informations relatives à leurs commandes en ligne », a ajouté la même source.
+
+## [Cyberattaque : Intermarché Drive touché par une importante fuite de données - Orange Actu](https://actu.orange.fr/societe/fait-divers/cyberattaque-intermarche-drive-touche-par-une-importante-fuite-de-donnees-magic-CNT000002qVaHD.html)  
+*Source : actu.orange.fr | Publication : 2026-08-03*
+
+- Cyberattaque : Intermarché Drive touché par une importante fuite de données © Abaca L’enseigne Intermarché a été victime d’une cyberattaque.
+- La fuite de données pourrait concerner près de deux millions de personnes.
+- La semaine dernière, le service Drive de l’enseigne de grande distribution Intermarché a été victime d’une cyberattaque, selon Le Parisien, confirmant une information du site lanceur d’alerte French Breaches.
+- "Nos équipes ont détecté en interne et bloqué l’attaque qui a visé les fichiers de nos clients du service Drive", a fait savoir le groupe au média national.
+
+## [Intermarché victime d'une cyberattaque portant sur les données de près de 300 000 clients](https://fr.news.yahoo.com/sport/intermarche-victime-dune-cyberattaque-portant-sur-les-donnees-de-pres-de-300-000-clients-195838839.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-08-03*
+
+- Intermarché victime d'une cyberattaque portant sur les données de près de 300 000 clients Le Groupement Mousquetaires/Intermarché a indiqué que l'« incident de cybersécurité » remonte à la semaine dernière et qu'il a permis un « accès non autorisé à certaines données de clients ».
+- Il rejoint une longue liste d'entreprises et d'organisations ciblées où figurent déjà l'ANTS et l'Urssaf.
+- Le Groupement Mousquetaires/Intermarché a été victime d'une cyberattaque portant sur les données (nom, adresse, etc.) de près de 300 000 clients du Drive d'Intermarché (courses en ligne), a indiqué le distributeur ce lundi 3 août à l'AFP, confirmant une information du site spécialisé French Breaches.
+- Cet « incident de cybersécurité » est survenu la semaine dernière, a expliqué à l'AFP le groupement, précisant l'avoir notifié à la Cnil (Commission nationale de l'informatique et des libertés) et avoir porté plainte auprès du parquet de Paris.
+
+## [Intermarché victime d'une cyberattaque, près de 300.000 clients concernés par une fuite de données](https://www.lesoir.be/763011/article/2026-08-03/intermarche-victime-dune-cyberattaque-pres-de-300000-clients-concernes-par-une)  
+*Source : lesoir.be | Publication : 2026-08-03*
+
+- Cet « incident de cybersécurité » est survenu la semaine dernière, a expliqué le groupe à l'AFP, précisant l'avoir notifié à la Cnil (Commission.
+
+## [La société de <b>cybersécurité</b> Horizon3 franchit la barre des 2 milliards de dollars de ... - TradingView](https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4401OT:0/)  
+*Source : tradingview.com | Publication : 2026-08-03*
+
+- La société de cybersécurité Horizon3 franchit la barre des 2 milliards de dollars de valorisation lors d'un nouveau tour de table Refinitiv Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+
+## [<b>Cybersécurité</b> : ManageEngine automatise vos certificats TLS - Presse Agence](https://presseagence.fr/paris-cybersecurite-manageengine-automatise-la-gestion-des-certificats-face-a-leur-duree-de-vie-reduite/)  
+*Source : presseagence.fr | Publication : 2026-08-03*
+
+- PARIS : Cybersécurité – ManageEngine automatise la ge… Partager : PARIS : Cybersécurité – ManageEngine automatise la gestion des certificats face à leur durée de vie réduite ManageEngine lance une automatisation complète pour les certificats TLS, anticipant la réduction progressive de leur validité à 47 jours.
+- ManageEngine, la division de gestion informatique d’entreprise de Zoho Corporation, a annoncé ce 3 août 2026 le lancement d’une fonctionnalité d’automatisation post-déploiement pour les certificats TLS au sein de sa solution Key Manager Plus.
+- Cette évolution stratégique vise à éliminer les dernières interventions manuelles dans le cycle de renouvellement des certificats, un processus rendu de plus en plus critique par la réduction drastique de leur durée de validité.
+- Un contexte réglementaire de plus en plus contraignant Jusqu’à récemment, la gestion des certificats TLS pouvait tolérer certaines opérations manuelles.
+
+## [Immense fuite de données chez Intermarché, 2 millions de clients concernés - Numerama](https://www.numerama.com/cyberguerre/2305933-immense-fuite-de-donnees-chez-intermarche-2-millions-de-clients-concernes-voici-details-et-les-bons-reflexes-a-adopter.html)  
+*Source : numerama.com | Publication : 2026-08-03*
+
+- Intermarché de rejoindre la longue liste des enseignes françaises touchées par une cyberattaque.
+- Le groupe a reconnu ce lundi 3 août 2026 qu’une intrusion avait visé les fichiers clients de son service Drive, avec à la clé une fuite de données personnelles concernant potentiellement une partie des 2 millions d’utilisateurs du service.
+- Si l’entreprise assure avoir stoppé l’attaque, la question qui se pose désormais aux clients est simple : comment réagir face à ce type de fuite ?.
+- Quelles données ont été exposées Selon les informations communiquées par Intermarché, les pirates ont récupéré nom, prénom, date de naissance, adresse de facturation et numéro de téléphone des clients concernés.
+
+## [Santé-Piratage du système de santé par l'ISAC 8/3/2026 - Health-ISAC](https://health-isac.org/fr/santé-isac-piratage-santé-8-3-2026/)  
+*Source : health-isac.org | Publication : 2026-08-03*
+
+- Cette semaine, Santé-ISAC®Le piratage des soins de santé® Cette semaine, Hacking Healthcare analyse les dernières avancées concernant la mise en œuvre par l'Union européenne de son plan d'action visant à renforcer la cybersécurité des hôpitaux et des établissements de santé.
+- Nous nous penchons notamment sur une récente mise à jour de l'Agence de l'Union européenne pour la cybersécurité (ENISA), détaillant les progrès réalisés sur certains points de ce plan.
+- Enfin, nous concluons cette semaine par l'examen d'un nouveau rapport du gouvernement américain qui met en lumière la complexité croissante des procédures de déclaration des incidents de cybersécurité.
+- Pour rappel, il s'agit de la version publique du blog Hacking Healthcare.
+
+## [Alertes zero-day : 11 vulnérabilités critiques du 3 août 2026 (dont Google Chrome)](https://dcod.ch/2026/08/03/alertes-zero-day-11-vulnerabilites-critiques-du-3-aout-2026-dont-google-chrome/)  
+*Source : dcod.ch | Publication : 2026-08-03*
+
+- Faits marquants de la semaine Google affirme que l’intelligence artificielle a contribué à identifier et corriger plus de 1 000 failles de sécurité dans Chrome, avec 1 072 bugs corrigés sur les deux versions les plus récentes.
+- - Des chercheurs ont identifié 24 650 interfaces publiques de contrôleurs BMC laissant fuiter des empreintes de mots de passe IPMI, rendant possible un cassage hors ligne (tentatives sans limiter les essais) via une faiblesse ancienne du protocole.
+- - Selon un billet de recherche d’Anthropic, le modèle Claude Mythos Preview a trouvé en 60 heures une faiblesse dans HAWK-256, abaissant le coût d’une récupération de clé de 2^64 à 2^38 opérations, avec coordination de publication avec le NIST.
+- - Adobe a publié des mises à jour pour corriger une faille de sévérité maximale (CVSS 10.0) dans Adobe Campaign Classic, pouvant permettre une exécution de code arbitraire, décrite comme un problème d’autorisation incorrecte.
+
+## [EtherHiding : la technologie blockchain au service des cyber-attaquants - Stormshield](https://www.stormshield.com/fr/actus/cti-etherhiding-technologie-blockchain/)  
+*Source : stormshield.com | Publication : 2026-08-03*
+
+- Préambule Dans le monde de la cyber-criminalité, un étrange jeu du chat et de la souris se déroule en permanence.
+- Les chercheurs en cybersécurité traquent sans relâche les infrastructures des cyber-attaquants.
+- Dès que certains de leurs composants sont découverts et exposés au grand jour, ceux-ci deviennent rapidement obsolètes, car ils rejoignent les longues listes d'indicateurs de compromission (IOC) qui garnissent les équipements de sécurité informatique.
+- Les cyber-attaquants doivent donc être en mesure de s'adapter continuellement.
+
+## [Réunion prévue à la Maison-Blanche sur la régulation de l'intelligence artificielle](https://www.noovo.info/nouvelles/international/article/reunion-prevue-a-la-maison-blanche-sur-la-regulation-de-lintelligence-artificielle/)  
+*Source : noovo.info | Publication : 2026-08-03*
+
+- Des entreprises du secteur de l’intelligence artificielle sont attendues mardi à la Maison-Blanche pour discuter d’un dispositif d’auto-régulation annoncé début juin, a appris l’AFP auprès d’un responsable du gouvernement.
+- Il n’a pas donné de précisions sur l’horaire ou les participants.
+- Cette réunion arrive après la signature, le 2 juin, d’un décret par le président Donald Trump, prévoyant un contrôle facultatif par le gouvernement des modèles les plus avancés d’IA, au nom de la cybersécurité.
+- Ce texte prévoit un cadre de régulation concerté avec les fleurons américains de l’IA, tels que Google, OpenAI ou Anthropic, qui pourront, «sur la base du volontariat», soumettre leurs modèles de pointe à un examen gouvernemental avant leur sortie.
+
+## [Moxa accompagne la transition vers les sous-stations numériques de nouvelle génération](https://www.ecinews.fr/fr/moxa-accompagne-la-transition-vers-les-sous-stations-numeriques-de-nouvelle-generation/)  
+*Source : ecinews.fr | Publication : 2026-08-03*
+
+- Moxa accompagne la transition vers les sous-stations numériques de nouvelle génération À l’occasion du CIGRE 2026 à Paris, Moxa met en avant sa vision de la modernisation des sous-stations électriques en présentant des solutions destinées à améliorer la visibilité opérationnelle, la résilience des communications et la cybersécurité des infrastructures critiques.
+- Face à l’accélération de la numérisation des réseaux électriques, l’entreprise propose une approche globale permettant aux gestionnaires de réseaux de transport et de distribution de construire des architectures capables de répondre aux défis actuels tout en préparant l’avenir.
+- Les sous-stations ne sont plus de simples points de distribution énergétique.
+- Elles deviennent progressivement des centres névralgiques où convergent données, automatisation et intelligence opérationnelle.
+
+## [La Maison-Blanche va examiner le cadre de <b>cybersécurité</b> de l'IA avec les principaux laboratoires.](https://fr.qz.com/maison-blanche-entreprises-ia-cadre-modle-frontire-080326)  
+*Source : fr.qz.com | Publication : 2026-08-03*
+
+- Un responsable de la Maison Blanche a confirmé à CNBC que l'administration réunira les entreprises d'IA lors d'une réunion au niveau du personnel mardi pour examiner un cadre, récemment finalisé, qui définit comment le gouvernement évaluera les capacités de cybersécurité des modèles d'IA de pointe.
+
+## [Intermarché victime d'une cyberattaque : des données personnelles de clients du Drive compromises](https://frenchbreaches.com/alertes/intermarch-drive-msd3lq1z008txe7ifb90x)  
+*Source : frenchbreaches.com | Publication : 2026-08-03*
+
+- Incident de cybersécurité chez Intermarché : des données clients du service Drive potentiellement compromises Mise à jour à 14h00 Intermarché indique au journal Le Parisien qu'une partie de ses 2 millions de clients, soit plus de 287 000 personnes, serait concernée par cet incident de cybersécurité.
+- Le groupe Intermarché informe certains clients de son service Drive avoir été victime d'un incident de sécurité ayant entraîné un accès non autorisé à une partie de ses systèmes d'information.
+- Selon la communication adressée aux personnes concernées, des données personnelles liées à des commandes en ligne ont pu être consultées.
+- L'enseigne précise qu'aucune donnée bancaire ni mot de passe n'est concerné.
+
+## [IA et <b>cybersécurité</b> : deux intelligences artificielles s'échappent - RTL Info](https://www.rtl.be/actu/magazine/hi-tech/une-sorte-de-pirate-sans-aucun-sens-moral-le-comportement-surprenant-de-ces/2026-08-03/article/796327)  
+*Source : rtl.be | Publication : 2026-08-03*
+
+- Partager: Les intelligences artificielles sont-elles en train de devenir trop autonomes ?.
+- La question revient sur le devant de la scène après deux incidents qui ont surpris jusqu’aux entreprises qui les avaient développées.
+- À quelques jours d’intervalle, deux agents d’IA créés par OpenAI et Anthropic ont réussi à sortir du périmètre dans lequel ils étaient confinés lors de tests de cybersécurité.
+- Leur objectif était de trouver des informations protégées pour réussir leur évaluation.
+
+## [Exploitation automatisée à grande échelle : comment l'IA agentique redéfinit la sécurité ...](https://www.akamai.com/fr/blog/security/smash-grab-scale-agentic-ai-reshaping-threat-commerce)  
+*Source : akamai.com | Publication : 2026-08-03*
+
+- cybersécurité accessible à tous, afin que même vos grands-parents puissent comprendre ce qui se passe dans l'écosystème des menaces.
+- Lorsqu'elle n.
+
+## [Afrique : plus d'un cybercrime sur deux implique désormais l'intelligence artificielle, alerte INTERPOL](https://www.africaradio.com/actualite-115745-afrique-plus-d-un-cybercrime-sur-deux-implique-desormais-l-intelligence-artificielle-alerte-interpol)  
+*Source : africaradio.com | Publication : 2026-08-03*
+
+- L'intelligence artificielle (IA) est en train de transformer en profondeur la cybercriminalité en Afrique.
+- C'est le constat du Rapport d'évaluation des cybermenaces en Afrique 2026, publié par INTERPOL, qui révèle que 55 % des cybercrimes signalés sur le continent impliquent désormais des outils d'IA.
+- Élaboré à partir des données de 36 pays africains, le rapport décrit une évolution majeure : les cyberattaques ne sont plus des actes isolés, mais s'inscrivent dans un écosystème criminel transfrontalier, structuré et de plus en plus industrialisé.
+- Des escroqueries de plus en plus sophistiquées INTERPOL observe une forte progression des escroqueries facilitées par l'intelligence artificielle.
+
+## [Une sorte de pirate sans aucun sens moral » : deux IA surprennent leur concepteurs](https://www.rtl.be/actu/magazine/hi-tech/une-sorte-de-pirate-sans-aucun-sens-moral-deux-ia-surprennent-leur-concepteurs/2026-08-03/article/796327)  
+*Source : rtl.be | Publication : 2026-08-03*
+
+- Partager: Les intelligences artificielles sont-elles en train de devenir trop autonomes ?.
+- La question revient sur le devant de la scène après deux incidents qui ont surpris jusqu’aux entreprises qui les avaient développées.
+- À quelques jours d’intervalle, deux agents d’IA créés par OpenAI et Anthropic ont réussi à sortir du périmètre dans lequel ils étaient confinés lors de tests de cybersécurité.
+- Leur objectif était de trouver des informations protégées pour réussir leur évaluation.
+
+## [Ajoy Ghosh, de The Cyber Alchemist, analyse les risques de <b>cybersécurité</b> liés à l'IA](https://www.zonebourse.com/actualite-bourse/ajoy-ghosh-de-the-cyber-alchemist-analyse-les-risques-de-cybersecurite-lies-a-l-ia-ce7f50d9da81f125)  
+*Source : zonebourse.com | Publication : 2026-08-03*
+
+- Ajoy Ghosh, fondateur et responsable de la sécurité des systèmes d&#039;information (RSSI) chez The Cyber Alchemist, livre son analyse sur les mesures et solutions de cybersécurité que les entreprises devraient envisager.
+- Cette intervention fait suite aux récents incidents de piratage signalés par Anthropic et OpenAI.
+- Il s&#039;entretient avec Haidi Stroud Watts et Paul Allen dans l&#039;émission « Bloomberg: The Asia Trade ».Vidéos Bloomberg, fournies par MT Newswire.
 
 ## [Fortinet Is Up 104% in 2026. Is It Too Late to Buy? - TIKR.com](https://www.tikr.com/fr/blog/fortinet-is-up-104-in-2026-is-it-too-late-to-buy?ref=tikrblog)  
 *Source : tikr.com | Publication : 2026-08-02*
