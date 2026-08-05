@@ -1,5 +1,156 @@
-# Résumés – 2026-08-03
+# Résumés – 2026-08-04
 
+
+## [La licorne israélo-américaine Deel rachète Clarity face aux fausses embauches](https://fr.timesofisrael.com/la-licorne-israelo-americaine-deel-rachete-clarity-face-aux-fausses-embauches/)  
+*Source : fr.timesofisrael.com | Publication : 2026-08-04*
+
+- L'équipe de la startup de cybersécurité adossée à de l'IA Clarity, à Tel-Aviv.
+- Cyber-sécurité.
+- Pour commenter, rejoignez la Communauté du.
+
+## [Obsidian Security lève des fonds sur une valorisation de 1,1 milliard de dollars face à la ...](https://ch.zonebourse.com/actualite-bourse/obsidian-security-leve-des-fonds-sur-une-valorisation-de-1-1-milliard-de-dollars-face-a-la-demande-e-ce7f50deda8bf525)  
+*Source : ch.zonebourse.com | Publication : 2026-08-04*
+
+- Obsidian Security a annoncé mardi avoir levé 85 millions de dollars lors d&#039;un tour de table de série D, valorisant la startup de sécurité de l&#039;intelligence artificielle (IA) à 1,1 milliard de dollars, alors que les entreprises cherchent à sécuriser un nombre croissant d&#039;agents d&#039;IA accédant à des données d&#039;entreprise sensibles.
+- Ce tour de table, mené par Crescent Cove Advisors, intervient alors que les entreprises adoptent des agents logiciels autonomes ayant accès aux dossiers clients, au code source et à d&#039;autres systèmes critiques, dans un contexte de surveillance accrue de la sécurité des agents d&#039;IA.
+- OpenAI a révélé la semaine dernière que l&#039;un de ses modèles de pointe s&#039;était échappé de son environnement de test après avoir exploité une erreur de configuration, accédant à la plateforme d&#039;IA Hugging Face pour y récupérer des données d&#039;évaluation.
+- De son côté, Anthropic a déclaré que l&#039;un de ses agents expérimentaux avait infiltré plusieurs environnements d&#039;entreprise lors de tests internes, après avoir exploité des contrôles d&#039;authentification défaillants.
+
+## [Dassault Systèmes accompagne Babcock dans sa transformation numérique - Aérocontact](https://www.aerocontact.com/actualite-aeronautique-spatiale/91612-dassault-syst-mes-accompagne-babcock-dans-sa-transformation-num-rique)  
+*Source : aerocontact.com | Publication : 2026-08-04*
+
+- Même thématique.
+- Le GIFAS lance « Cyber Boost » pour renforcer la cybersécurité de la filière aéronautique et · EMPLOI & CARRIÈRE · Le GIFAS lance.
+
+## [Health-ISAC met en garde contre la recrudescence des attaques de vol de données de type ...](https://health-isac.org/fr/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/)  
+*Source : health-isac.org | Publication : 2026-08-04*
+
+- Health-ISAC met en garde contre la recrudescence des attaques de vol de données de type ShinyHunters dans le secteur de la santé.
+- Health-ISAC, une organisation de partage d'informations sur la cybersécurité pour le secteur de la santé, met en garde les organismes de soins de santé et de technologies médicales contre une augmentation observée des attaques réussies menées par ShinyHunters.
+- ShinyHunters est un groupe d'extorsion qui mène principalement des attaques contre la chaîne d'approvisionnement et l'identité pour compromettre les plateformes SaaS et de stockage cloud lors d'attaques de vol de données.
+- Ces deux dernières années, les cybercriminels se sont fait connaître pour leurs nombreuses attaques ciblant la chaîne d'approvisionnement de partenaires d'intégration tiers.
+
+## [Faux CAPTCHA, fausses mises à jour... attention à cette cyberattaque russe visant les ... - CNews](https://www.cnews.fr/vie-numerique/2026-08-04/faux-captcha-fausses-mises-jour-attention-cette-cyberattaque-russe-visant)  
+*Source : cnews.fr | Publication : 2026-08-04*
+
+- L’entreprise américaine de cybersécurité ReliaQuest a alerté fin juillet sur une cyberattaque russe visant les passerelles Wi-Fi d’hôtels et de centres de conférence via des faux CAPTCHA et de fausses mises à jour.
+- Les arnaques «ClickFix» et «Cornflake» se démocratisent chez les utilisateurs Microsoft et Android.
+- ReliaQuest, une société spécialiste en cybersécurité, a alerté le 23 juillet dernier sur une cyberattaque russe ciblant particulièrement les clients d’hôtels aux Etats-Unis et à l’international.
+- Les escrocs manipulent ainsi les passerelles Wi-Fi dans des hôtels et des centres de conférence internationaux afin de rediriger les utilisateurs vers des sites Web secrètement malveillants.
+
+## [Comment certains MSP pourraient devenir des fournisseurs essentiels dans le cadre du ... - Kaseya](https://www.kaseya.com/fr/?post_type=post&p=29484)  
+*Source : kaseya.com | Publication : 2026-08-04*
+
+- Même si les MSP ne sont pas directement soumis à une réglementation, le projet de loi britannique sur la cybersécurité et la résilience pourrait les concerner d'une autre manière.
+- Dans la première partie de notre blog, nous avons présenté le projet de loi sur la cybersécurité et la résilience (CSBR) et expliqué en quoi il actualise la législation NIS de 2018.
+- L'un des changements majeurs concerne la manière dont les entreprises peuvent devenir un prestataire de services gérés réglementé (RMSP) en vertu de la nouvelle législation.
+- Il existe toutefois une autre manière dont les MSP pourraient être concernés par cette législation : en tant que « fournisseur essentiel désigné » (DCS).
+
+## [<b>Cybercriminalité</b> : les pertes en Afrique atteignent 5 milliards $ en 2025, alerte INTERPOL](https://www.agenceecofin.com/actualites/0408-140752-cybercriminalite-les-pertes-en-afrique-atteignent-5-milliards-en-2025-alerte-interpol)  
+*Source : agenceecofin.com | Publication : 2026-08-04*
+
+- (Agence Ecofin) - L’Afrique devient un marché numérique majeur, mais cette croissance s’accompagne d’une recrudescence de cyberattaques, de plus en plus sophistiquées grâce à l’intelligence artificielle et à l’automatisation.
+- Les dommages économiques directs causés par la cybercriminalité en Afrique sont estimés à au moins 5 milliards $ en 2025, selon le rapport d’INTERPOL consacré aux tendances de la cybercriminalité sur le continent, publié le 3 août 2026.
+- Le rapport souligne que les escroqueries en ligne demeurent la forme de cybercriminalité la plus répandue en Afrique.
+- Elles constituent souvent le point d’entrée vers des attaques plus complexes, notamment l’usurpation d’identité et la fraude financière.
+
+## [Le SASE, un marché sujet à « surplateformisation » - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/sase-magic-quadrant-2026-228654)  
+*Source : silicon.fr | Publication : 2026-08-04*
+
+- Le périmètre fonctionnel des solutions SASE continue à s’élargir… au risque d’une « surplateformisation ».
+- Gartner met le phénomène en avant dans la synthèse du dernier Magic Quadrant dédié à ce marché.
+- Ce n’est pas, et de loin, la première année que le cabinet américain constate la tendance à inclure des briques relevant d’autres segments (NDR et XDR, notamment).
+- Mais jamais il ne l’avait assimilée à une « surplateformisation »… susceptible, selon lui, de détourner l’offre des véritables besoins des acheteurs de SASE.
+
+## [IA et <b>cybersécurité</b> : Thales modernise la gestion du trafic aérien à Singapour et en Mongolie](https://www.air-journal.fr/2026-08-04-ia-et-cybersecurite-thales-modernise-la-gestion-du-trafic-aerien-a-singapour-et-en-mongolie-5276727.html)  
+*Source : air-journal.fr | Publication : 2026-08-04*
+
+- Le groupe français Thales a décroché deux contrats majeurs pour moderniser les systèmes de gestion du trafic aérien à Singapour et en Mongolie, confortant sa position de leader sur le marché mondial des solutions de navigation aérienne.
+- Singapour : un système NexGen pour un espace aérien saturé À Singapour, l’Autorité de l’aviation civile (CAAS) a choisi Thales pour déployer d’ici 2030 un système de gestion du trafic aérien de dernière génération, baptisé NexGen, dans l’un des espaces aériens les plus denses d’Asie.
+- Selon le communiqué du groupe, ce système, doté de capacités d’intelligence artificielle et de cybersécurité, pourra traiter jusqu’à « un million de mouvements d’aéronefs par an » et fournira aux contrôleurs aériens des outils d’aide à la décision en temps réel pour optimiser les flux d’arrivées et de départ.
+- Thales déploiera également deux radars de contrôle aérien 24 h/24, 7 j/7, conçus pour assurer une détection fiable des aéronefs même dans des conditions météorologiques difficiles, et pour fournir des données plus précises aux contrôleurs.
+
+## [Intermarché victime d'une cyberattaque, près de 300 000 clients concernés par une fuite de données](https://www.liberation.fr/economie/conso/intermarche-victime-dune-cyberattaque-pres-de-300-000-clients-concernes-par-une-fuite-de-donnees-20260803_QRWEGVYWT5BGBJCXF25GJGIMYY/)  
+*Source : liberation.fr | Publication : 2026-08-04*
+
+- Cet «incident de cybersécurité » est survenu la semaine dernière, a expliqué le groupement, précisant l'avoir notifié à la Cnil (Commission nationale.
+
+## [Des noms, des adresses mais pas d'informations bancaires: les données de 300.000 clients ...](https://www.bfmtv.com/tech/cybersecurite/des-noms-des-adresses-mais-pas-d-informations-bancaires-les-donnees-300-000-clients-d-intermarche-divulgues-apres-une-importante-cyberattaque_AD-202608040063.html)  
+*Source : bfmtv.com | Publication : 2026-08-04*
+
+- Des noms, des adresses mais pas d'informations bancaires: les données de 300.000 clients d'Intermarché divulguées après une importante cyberattaque Le Groupement Mousquetaires/Intermarché a été victime d'une cyberattaque portant sur les données (nom, adresse, etc.) de près de 300.000 clients du Drive d'Intermarché, a indiqué le distributeur lundi à l'AFP, confirmant une information du site spécialisé French Breaches.
+- Cet "incident de cybersécurité" est survenu la semaine dernière, a expliqué à l'AFP le groupement, précisant l'avoir notifié à la Cnil (Commission nationale de l'informatique et des libertés) et avoir porté plainte auprès du parquet de Paris.
+- Cela a "entraîné un accès non autorisé à certaines données de clients" du service Drive (courses en ligne) d'Intermarché, "notamment leurs nom, prénom, numéro de téléphone, adresse postale, date de naissance, numéro de carte de fidélité ainsi que certaines informations relatives à leurs commandes en ligne", a ajouté la même source.
+- En revanche, "aucune donnée bancaire, aucune information relative au montant des cagnottes de fidélité, aucun mot de passe ni aucune adresse électronique ne sont concernés par cet incident", a ajouté l'enseigne.
+
+## [Repérer les escroqueries : les principales menaces visant les enfants et les jeunes](https://www.rbcroyalbank.com/fr-ca/mes-finances-dabord/academie-financiere/cybersecurite/comprendre-la-cybersecurite/reperer-les-escroqueries-les-principales-menaces-visant-les-enfants-et-les-jeunes/)  
+*Source : rbcroyalbank.com | Publication : 2026-08-04*
+
+- Les jeunes dépensent de l’argent et nouent des liens d’amitié par l’entremise des jeux, des médias sociaux et des groupes de clavardage.
+- C’est pour cette raison que les escrocs y sont présents.
+- Les escroqueries les plus courantes visant les enfants et les jeunes consistent en des offres gratuites ou des aubaines alléchantes sur des produits ou services qui les intéressent.
+- Les escrocs peuvent être très convaincants : ils écument les profils publics pour forger le leur et inventer des commentaires, des recommandations et des gagnants.
+
+## [Cette faille géante pourrait permettre d'accuser à tort un innocent: le logiciel américain qui ...](https://www.bfmtv.com/tech/cybersecurite/cette-faille-geante-pourrait-permettre-d-accuser-a-tort-un-innocent-le-logiciel-americain-qui-gere-les-dossiers-criminels-numeriques-presente-un-risque-eleve-de-piratage_AV-202608040290.html)  
+*Source : bfmtv.com | Publication : 2026-08-04*
+
+- Cette faille géante pourrait permettre d'accuser à tort un innocent: le logiciel américain qui gère les dossiers criminels numériques présente un risque élevé de piratage Trente ans de dossiers criminels américains peuvent être piratés, et les données ADN liées être modifiées, révèle le Wall Street Journal, qui a eu accès aux découvertes de chercheurs composés de médecins légistes et d'informaticiens.
+- Au cœur de cette faille béante, une entreprise : Thermo Fisher Scientific, qui a confirmé vendredi le problème en publiant une mise en garde contre "un risque de modification presque indétectable" de certains dossiers dans le cas où "les contrôles en laboratoires sont contournés".
+- Un correctif dans les prochaines semaines Pour découvrir cette affaire, les chercheurs ont utilisé un code informatique généré par l'IA, ce qui leur a permis de modifier les données produites à partir de scans informatisées de preuves physiques d'ADN, et ce, sans laisser aucune trace au sein des dossiers altérés.
+- La vulnérabilité pourrait être présente dans des fichiers remontant jusqu'en 1995, et les progrès technologiques permettent aujourd'hui d'aller beaucoup plus loin dans la falsification, comme dans la modification.
+
+## [Avis Internxt Cleaner (2026), un nettoyeur trop peu clair pour supprimer sans risque - Clubic](https://www.clubic.com/avis-623134-avis-internxt-cleaner-2026-un-nettoyeur-trop-peu-clair-pour-supprimer-sans-risque.html)  
+*Source : clubic.com | Publication : 2026-08-04*
+
+- Intégré à Internxt Drive, Internxt Cleaner promet de débarrasser l’ordinateur de ses fichiers inutiles en quelques clics.
+- Un bonus a priori pratique, qui nous a pourtant réservé quelques surprises, et pas les meilleures.
+- Autour de son service de stockage chiffré, Internxt construit progressivement un écosystème européen tourné vers la confidentialité et la souveraineté numérique.
+- Après le VPN et l’antivirus, l’éditeur espagnol a aussi glissé un nettoyeur dans les paramètres de Drive.
+
+## [2CRSi et Quanthor unissent leurs expertises pour sécuriser les infrastructures critiques](https://www.easybourse.com/international/news/1535815/2crsi-quanthor-unissent-leurs-expertises-pour-securiser-infrastructures-critiques.html)  
+*Source : easybourse.com | Publication : 2026-08-04*
+
+- (Zonebourse.com) - 2CRSi annonce la signature d'une lettre d'intention (LOI) avec Quanthor, spécialiste canadien de la sécurité matérielle souveraine.
+- L'objectif est de développer une offre commune de cybersécurité post-quantique destinée aux infrastructures critiques des secteurs de la défense, du spatial, de l'énergie et de l'industrie.
+- Ce partenariat intervient alors que la transition vers la cryptographie post-quantique devient une priorité.
+- Avec la publication des premiers standards du NIST et la dépréciation annoncée des algorithmes cryptographiques actuels à l'horizon 2030, les organisations disposent de peu de temps pour sécuriser leurs infrastructures face aux futures capacités de calcul quantique.
+
+## [2CRSi et Quanthor unissent leurs expertises pour sécuriser les infrastructures critiques](https://www.optionfinance.fr/info-financiere-en-continu/d/2026-08-04-2crsi-et-quanthor-unissent-leurs-expertises-pour-securiser-les-infrastructures-critiques.html)  
+*Source : optionfinance.fr | Publication : 2026-08-04*
+
+- 2CRSi annonce la signature d'une lettre d'intention (LOI) avec Quanthor, spécialiste canadien de la sécurité matérielle souveraine.
+- L'objectif est de développer une offre commune de cybersécurité post-quantique destinée aux infrastructures critiques des secteurs de la défense, du spatial, de l'énergie et de l'industrie.
+- Ce partenariat intervient alors que la transition vers la cryptographie post-quantique devient une priorité.
+- Avec la publication des premiers standards du NIST et la dépréciation annoncée des algorithmes cryptographiques actuels à l'horizon 2030, les organisations disposent de peu de temps pour sécuriser leurs infrastructures face aux futures capacités de calcul quantique.
+
+## [<b>Cybersécurité</b> : plus de 280 000 clients du Drive Intermarché touchés par une fuite de données - LSA](https://www.lsa-conso.fr/cybersecurite-plus-de-280-000-clients-du-drive-intermarche-touches-par-une-fuite-de-donnees.466820)  
+*Source : lsa-conso.fr | Publication : 2026-08-04*
+
+- Selon les informations publiées par French Breaches, le nombre de clients potentiellement concernés pourrait être plus élevé, mais Intermarché ne.
+
+## [«L'intelligence artificielle amplifie les cyberattaques» en Afrique «et les rend plus sophistiquées»](https://www.rfi.fr/fr/podcasts/invité-afrique-midi/20260804-l-intelligence-artificielle-amplifie-les-cyberattaques-en-afrique-et-les-rend-plus-sophistiquées)  
+*Source : rfi.fr | Publication : 2026-08-04*
+
+- «L'intelligence artificielle amplifie les cyberattaques» en Afrique «et les rend plus sophistiquées» Publié le : L'intelligence artificielle (IA) est désormais au cœur d'une grande partie des cybermenaces en Afrique.
+- Selon un rapport d'évaluation des cybermenaces africaines publié par Interpol, l'IA serait impliquée dans plus de la moitié des cybercrimes recensés sur le continent, soit 55% des attaques.
+- Ces activités malveillantes auraient entraîné près de 500 millions de dollars de pertes en 2025.
+- Franck Kié, consultant en cybersécurité et commissaire général du Cyber Africa Forum, est l'invité d'Afrique Midi.
+
+## [Deepfakes, faux SMS, arnaques par IA : la suite qui protège 5 appareils à moins de 40 - Clubic](https://www.clubic.com/bons-plans-623935-deepfakes-faux-sms-arnaques-par-ia-la-suite-qui-protege-5-appareils-a-moins-de-40.html)  
+*Source : clubic.com | Publication : 2026-08-04*
+
+- Faux SMS de livraison, e-mails bancaires truqués, vidéos deepfake : les arnaques générées par IA sont devenues quasi indétectables à l’œil nu.
+- Une suite de cybersécurité complète les repère désormais à votre place et protège 5 appareils dès 39,99 € la première année, soit 63 % de moins que son prix de renouvellement.
+- Les escroqueries en ligne ont changé de dimension.
+- L’IA permet aujourd’hui de fabriquer des messages et des vidéos si crédibles qu’un œil averti se fait piéger.
+
+## [35 fois moins chères que ChatGPT et (presque) aussi performantes, comment les IA ...](https://www.lechorepublicain.fr/paris-75000/economie/35-fois-moins-cheres-que-chatgpt-et-presque-aussi-performantes-comment-les-ia-chinoises-font-trembler-l-amerique_15027521/)  
+*Source : lechorepublicain.fr | Publication : 2026-08-04*
+
+- Après Wall street, passablement secoué mi-juillet, les bourses asiatiques ont connu un gros trou d’air en début de semaine.
+- A chaque fois, tous les regards se tournent vers Pékin d’où proviennent des nuages menaçants.
+- La montée en puissance des acteurs chinois de l’IA (Intelligence artificielle) menace de provoquer un séisme technologique, et par ricochet un krach boursier.
+- La remise en cause de la suprématie des modèles des Big Tech américaines, ChatGpt en tête, et des fabricants taïwanais, sud-coréens et japonais de semi-conducteurs, de turbines, de gaz rares, etc. terrifient les marchés.
 
 ## [« Aucun risque pour la sécurité » : comment une faille critique notée 10/10 s'est révélée être ...](https://www.numerama.com/cyberguerre/2305767-aucun-risque-pour-la-securite-comment-une-faille-critique-dans-sqlite-sest-revelee-etre-une-pure-invention-de-lia.html)  
 *Source : numerama.com | Publication : 2026-08-03*
