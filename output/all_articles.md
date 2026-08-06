@@ -1,5 +1,155 @@
-# Résumés – 2026-08-04
+# Résumés – 2026-08-05
 
+
+## [Des agents d'OpenAI et d'Anthropic réalisent des actions non autorisées lors de tests de sécurité](https://www.boursorama.com/bourse/actualites-amp/des-agents-d-openai-et-d-anthropic-realisent-des-actions-non-autorisees-lors-de-tests-de-securite-bd0392d084605b2b3033334e19d19d9a)  
+*Source : boursorama.com | Publication : 2026-08-05*
+
+- Des agents d'OpenAI et d'Anthropic réalisent des actions non autorisées lors de tests de sécurité information fournie par Zonebourse 05/08/2026 à 20:51 L'AI Security Institute du Royaume-Uni a révélé que des agents d'intelligence artificielle d'OpenAI et d'Anthropic avaient adopté des comportements non autorisés au cours d'évaluations de cybersécurité.
+- Ces incidents relancent le débat sur la sécurité et le contrôle des agents d'IA les plus avancés.
+- L'AI Security Institute (AISI) a indiqué que des agents reposant sur les modèles Mythos 5 d'Anthropic et GPT-5.6-Sol d'OpenAI avaient réalisé des actions non autorisées lors de tests de cybersécurité.
+- Sur 122 simulations, l'organisme a recensé 19 incidents répartis sur dix sessions, dont 17 impliquant l'agent d'Anthropic et deux celui d'OpenAI.
+
+## [Arouna Ouattara, du laboratoire de <b>cybercriminalité</b> aux grands projets de l'État - leFaso.net](https://lefaso.net/spip.php?article148419)  
+*Source : lefaso.net | Publication : 2026-08-05*
+
+- Les 100 Visages du Burkina Digital : Arouna Ouattara, du laboratoire de cybercriminalité aux grands projets de l’État À moins de 100 jours de l’ouverture de Le Faso Digital 2026, nous poursuivons notre série consacrée aux femmes et aux hommes qui façonnent le Burkina numérique.
+- Cent personnalités, cent parcours.
+- Aujourd’hui, nous mettons en lumière le Commissaire principal de police Arouna Ouattara, Directeur général de l’Agence nationale de promotion des technologies de l’information et de la communication (ANPTIC), l’un des principaux artisans de la modernisation numérique de l’administration publique burkinabè.
+- À l’heure où les États accélèrent leur transformation digitale, la qualité des infrastructures numériques, la sécurité des systèmes d’information et la dématérialisation des services publics deviennent des leviers essentiels de performance, de transparence et de souveraineté.
+
+## [Ils ont entrepris des actions autonomes et non autorisées sur internet: les modèles d'OpenAI ...](https://www.bfmtv.com/tech/intelligence-artificielle/ils-ont-entrepris-des-actions-autonomes-et-non-autorisees-sur-internet-les-modeles-d-open-ai-et-d-anthropic-ont-tente-de-tromper-des-humains-lors-d-un-test-de-cybersecurite_AV-202608050313.html)  
+*Source : bfmtv.com | Publication : 2026-08-05*
+
+- Ils ont entrepris des actions autonomes et non autorisées sur internet: les modèles d'OpenAI et d'Anthropic ont tenté de tromper des humains lors d'un test de cybersécurité Une énième preuve des capacités dangereuses des modèles d'IA de pointe.
+- L'institut britannique de sécurité de l'IA (AISI) a fait part d'un nouvel incident de sécurité majeur mardi 4 août.
+- Des agents IA alimentés par les modèles Mythos 5 d'Anthropic et GPT-5.6 Sol d'OpenAI ont "mené des activités persistantes et potentiellement nuisibles ciblant des personnes et des organisations réelles", a-t-il déclaré dans un article de blog.
+- Ces problèmes sont survenus lors d'une évaluation de cybersécurité, avec ces systèmes qui avaient pour mission de résoudre un défi.
+
+## [Bus électriques Yutong : Zurich relance les questions de <b>cybersécurité</b>](https://dcod.ch/2026/08/05/bus-electriques-yutong-zurich-cybersecurite/)  
+*Source : dcod.ch | Publication : 2026-08-05*
+
+- TL;DR : L’essentiel Le conseil municipal de Zurich a validé l’acquisition de huit véhicules du constructeur chinois Yutong, privilégiant les coûts bas et la rapidité de livraison face aux pannes répétées de sa flotte européenne actuelle.
+- - Des tests de cybersécurité menés en Norvège et au Danemark ont révélé des connexions distantes pour les mises à jour logicielles, rendant théoriquement possible la désactivation à distance des bus en circulation.
+- - Malgré la conformité affirmée à la norme UNECE R15 et la réalisation de tests d’intrusion, cette commande suscite des questions sur la protection des données et la résilience numérique des infrastructures publiques.
+- - L’achat de huit bus électriques chinois par la ville de Zurich remet en lumière les failles d’accès distant et les risques de désactivation théorique identifiés sur les véhicules Yutong.
+
+## [Proofpoint lance son programme OEM - ChannelBiz |](https://www.channelbiz.fr/2026/08/05/proofpoint-lance-son-programme-oem/amp/)  
+*Source : channelbiz.fr | Publication : 2026-08-05*
+
+- Proofpoint franchit une nouvelle étape dans sa stratégie d’écosystème avec l’annonce du lancement officiel de son programme OEM.
+- En mettant à disposition des éditeurs de logiciels, des fournisseurs de services managés (MSP) et des acteurs de la Tech un portefeuille de renseignements sur les menaces et de capacités de détection prêts à l’emploi, l’entreprise entend accélérer l’innovation sur l’ensemble du marché de la cybersécurité.
+- Cette initiative vient formaliser et étendre une activité OEM que Proofpoint menait jusqu’alors de façon plus ponctuelle.
+- Le programme offre désormais un cadre structuré et un parcours clair aux partenaires souhaitant intégrer des briques de sécurité éprouvées au sein de leurs propres architectures ou workflows clients.
+
+## [Les agents IA d'OpenAI et d'Anthropic s'affranchissent des règles lors de tests de <b>cybersécurité</b>](https://itdaily.fr/blogs/securite/les-agents-ia-dopenai-et-danthropic-se-dechainent-lors-de-tests-de-cybersecurite/)  
+*Source : itdaily.fr | Publication : 2026-08-05*
+
+- Les agents IA d’OpenAI et d’Anthropic ont franchi les limites lors d’une évaluation de cybersécurité menée par le British AI Security Institute (AISI).
+- Les modèles d’IA d’OpenAI et d’Anthropic ont eu un comportement inapproprié lors de tests de cybersécurité.
+- Le British AI Security Institute (AISI) a constaté que, lors d’une évaluation cyber, les agents IA ont entrepris des actions non autorisées. «.
+- Notre enquête a révélé que dans dix de ces sessions, un agent IA a entrepris une action autonome et non autorisée sur l’internet en direct, ciblant de vraies personnes et organisations », selon le rapport de l’AISI.
+
+## [Stade Français : les passeports et cartes d'identité de joueurs en fuite - Cyberattaque.org](https://www.cyberattaque.org/stade-francais-cyberattaque-passeport/)  
+*Source : cyberattaque.org | Publication : 2026-08-05*
+
+- Le Stade Français Paris est visé par le groupe de ransomware Qilin.
+- Le club parisien apparaît depuis le 5 août 2026 sur le site d’extorsion des cybercriminels, avec un compte à rebours de 246 heures et 21 minutes avant la publication annoncée des données volées.
+- Mais Qilin n’attend pas la fin de son ultimatum pour faire pression sur le club : 18 photographies sont déjà affichées comme preuves.
+- Plusieurs montrent des passeports et cartes d’identité présentés comme appartenant à des joueurs.
+
+## [Etats-Unis : Le logiciel de référence stockant les preuves ADN des enquêtes criminelles ...](https://fr.news.yahoo.com/sport/etats-unis-logiciel-référence-stockant-151355124.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-08-05*
+
+- Etats-Unis : Le logiciel de référence stockant les preuves ADN des enquêtes criminelles serait vulnérable au piratage CYBERSECURITE - Aux Etats-Unis, une faille détectée grâce à l'intelligence artificielle permet en théorie depuis plus de trente ans de falsifier les preuves ADN conservées dans un logiciel dont les responsables ont indiqué avoir appliqué un correctif Un groupe d'experts en médecine légale et en informatique a découvert une importante faille de sécurité dans la technologie utilisée par de nombreux laboratoires criminels américains pour analyser les preuves ADN.
+- A cause de cette vulnérabilité, plus de 30 ans de dossiers criminels seraient exposés au piratage, rapporte The Wall Street Journal ce dimanche.
+- Il serait notamment possible pour des cybercriminels de modifier et falsifier des données ADN Pour mettre cette faille au jour, les chercheurs en cybersécurité ont utilisé un code informatique généré par un logiciel d'IA grand public.
+- Celui-ci leur a permis de modifier sans laisser la moindre trace les données issues de l'analyse informatisée de preuves ADN physiques.
+
+## [L'actualité de la semaine en matière de violations de données : 5 août 2026 | Kaseya](https://www.kaseya.com/fr/?post_type=post&p=29503)  
+*Source : kaseya.com | Publication : 2026-08-05*
+
+- États-Unis DentaQuest Il est désormais confirmé que l'attaque par ransomware perpétrée en mai 2026 contre DentaQuest, l'un des plus grands gestionnaires de régimes de couverture dentaire et optique aux États-Unis, a touché 15 millions de personnes.
+- L'incident a été révélé pour la première fois le 20 mai, et l'enquête menée par DentaQuest a établi que les pirates avaient eu accès au réseau de l'organisation entre le 17 et le 20 mai.
+- Le nombre de victimes, désormais publié sur le site web du procureur général de l'Oregon dédié au signalement des fuites de données, est près de six fois supérieur au chiffre initialement avancé par le groupe de chantage ShinyHunters.
+- En mai, le groupe a publié 234 Go de données de DentaQuest sur son site de fuite du dark web, affirmant qu'elles concernaient 2,6 millions de personnes.
+
+## [Project Perception : Microsoft déploie la défense par IA - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/08/05/project-perception-microsoft/)  
+*Source : dcod.ch | Publication : 2026-08-05*
+
+- TL;DR : L’essentiel Microsoft lance Project Perception, un système reposant sur trois catégories d’agents IA autonomes capables de repérer, évaluer et corriger en continu les vulnérabilités informatiques des infrastructures d’entreprise.
+- - Le modèle spécialisé MAI-Cyber-1-Flash obtient un score de 96% sur le banc d’essai CyberGym, devançant de 12 points le modèle concurrent Mythos développé par Anthropic.
+- - L’architecture multi-modèle permet de réduire les coûts d’exploitation de près de 50% en déléguant les tâches répétitives à des modèles compacts plutôt qu’à des IA généralistes coûteuses.
+- - Une attaque récente contre Hugging Face menée à vitesse machine démontre les limites des patchs mensuels et la nécessité d’une défense en continu face aux offensives automatisées.
+
+## [&quot;Doctolib est meilleur en <b>cybersécurité</b> que l'État&quot; : sur RTL, le fondateur de Doctissimo se ...](https://www.rtl.fr/actu/sciences-tech/doctolib-est-meilleur-en-cybersecurite-que-l-etat-le-fondateur-de-doctissimo-se-veut-rassurant-sur-le-programme-de-recherche-sur-l-ia-7900659906)  
+*Source : rtl.fr | Publication : 2026-08-05*
+
+- 3 min de lecture Le programme de recherche scientifique de Doctolib continue de semer l'inquiétude de beaucoup d'utilisateurs de la plateforme.
+- Tandis que le projet utilisera les données personnelles de ses 50 millions d'utilisateurs, les interrogations sont nombreuses quant à la manière dont seront utilisées les données personnelles de chacun pour alimenter cette vaste étude.
+- Sur RTL ce mercredi 5 août, Thomas Solignac, entrepreneur, conférencier et expert en intelligence artificielle, expliquait que "le but est d'aller nourrir des intelligences artificielles à partir de toutes ces informations sur les consultations, l'ordre des consultations, les prescriptions, les rapports d'examen, toutes ces données finalement que Doctolib amasse depuis des années", continue-t-il précisant que Doctolib n'a "pas encore communiqué sur les fins et les finalités" de leur travail.
+- Et si le projet fait bondir, entre autres, la Ligue des droits de l'Homme, le docteur Laurent Alexandre se veut de son côté beaucoup plus rassurant.
+
+## [Pourquoi l'Afrique est-elle devenue la nouvelle cible des cybercriminels ? - Lebrief](https://www.lebrief.ma/afrique/cyberattaques-pourquoi-lafrique-est-elle-dans-le-viseur-des-pirates-100162213/)  
+*Source : lebrief.ma | Publication : 2026-08-05*
+
+- Cyberattaques : pourquoi l’Afrique est-elle dans le viseur des pirates ?.
+- L’Afrique connaît l’une des croissances numériques les plus rapides au monde.
+- Plus de 1,1 milliard d’abonnements mobiles et près de 570 millions d’internautes utilisent aujourd’hui les services numériques pour effectuer leurs paiements, accéder aux services publics, se soigner ou encore suivre leur scolarité.
+- Cette transformation constitue un formidable levier de développement économique, mais elle ouvre également la porte à une nouvelle génération de menaces.
+
+## [Pourquoi le Linux embarqué entre dans une nouvelle ère avec ELinOS 8 - Elektor Magazine](https://www.elektormagazine.fr/news/pourquoi-le-linux-embarque-entre-dans-une-nouvelle-ere-avec-elinos-8)  
+*Source : elektormagazine.fr | Publication : 2026-08-05*
+
+- Pourquoi le Linux embarqué entre dans une nouvelle ère avec ELinOS 8 sur Aujourd’hui, une nouvelle dimension s’impose : la cybersécurité.
+- Les fabricants doivent savoir précisément quels composants logiciels se trouvent dans leurs produits, surveiller les vulnérabilités et répondre à des réglementations de plus en plus strictes.
+- Face à cette évolution, SYSGO dévoile ELinOS 8, une plateforme Linux conçue pour répondre à ces nouveaux défis.
+- La sécurité n’est plus une option Les objets connectés, les équipements industriels et les infrastructures critiques sont désormais directement exposés aux enjeux de cybersécurité.Une simple faille dans une bibliothèque logicielle peut avoir des conséquences importantes sur l’ensemble d’un système.
+
+## [SYSGO lance ELinOS 8, une plateforme Linux embarquée conçue p...](https://www.ecinews.fr/fr/sysgo-lance-elinos-8-une-plateforme-linux-embarquee-concue-pour-la-cybersecurite-et-la-souverainete-industrielle/)  
+*Source : ecinews.fr | Publication : 2026-08-05*
+
+- SYSGO lance ELinOS 8, une plateforme Linux embarquée conçue pour la cybersécurité et la souveraineté industrielle SYSGO, acteur européen reconnu des systèmes d’exploitation temps réel et des solutions Linux embarquées, annonce la disponibilité d’ELinOS 8, la nouvelle génération de sa plateforme Linux industrielle destinée aux applications embarquées critiques.
+- Dans un contexte marqué par le renforcement des exigences réglementaires, la montée des risques cyber et la nécessité de maîtriser les chaînes d’approvisionnement logicielles, ELinOS 8 a été conçu pour offrir aux industriels un environnement de développement capable de concilier sécurité, conformité et flexibilité matérielle.
+- Les secteurs de l’automatisation industrielle, du transport, du médical, de l’aérospatial ou des infrastructures critiques recherchent aujourd’hui des plateformes capables de garantir une maintenance à long terme tout en répondant aux nouveaux impératifs de cybersécurité.
+- La cybersécurité devient un pilier du développement embarqué Les logiciels embarqués modernes sont désormais soumis à des contraintes similaires à celles des systèmes informatiques traditionnels.
+
+## [Participer à la conception des services de <b>cybersécurité</b> de demain en Europe](https://ccb.belgium.be/fr/news/participer-la-conception-des-services-de-cybersecurite-de-demain-en-europe)  
+*Source : ccb.belgium.be | Publication : 2026-08-05*
+
+- L'ENISA, l'Agence de l'Union européenne pour la cybersécurité , élabore l'EUMSS (European Union Managed Security Services Scheme), un nouveau cadre.
+
+## [Des hôtels, des centres de conférences et d'autres lieux publics ciblés: un groupe de ... - BFM](https://www.bfmtv.com/tech/cybersecurite/des-hotels-des-centres-de-conferences-et-d-autres-lieux-publics-cibles-un-groupe-de-hackers-lie-au-renseignement-russe-accuse-de-cyberespionnage-via-les-wi-fi-publics_AN-202608050279.html)  
+*Source : bfmtv.com | Publication : 2026-08-05*
+
+- Des hôtels, des centres de conférences et d’autres lieux publics ciblés: un groupe de hackers lié au renseignement russe accusé de cyberespionnage via les réseaux Wifi publics Microsoft a révélé, dans un long rapport d’enquête publié fin juillet, qu’un groupe lié au renseignement extérieur russe (SVR) exploitait des réseaux Wifi à portails captifs pour diffuser des logiciels malveillants, notamment à des fins de vol de données et de cyberespionnage.
+- En s’appuyant sur les recherches de l’entreprise de cybersécurité ReliaQuest, le groupe Storm-2945, une émanation de "Midnight Blizzard" (aussi connu sous les noms d’APT29, Cozy Bear, The Dukes et Yttrium), a été identifié comme responsable d’une campagne visant les utilisateurs de réseaux publics dans des hôtels, centres de conférence et autres lieux du secteur de l’hôtellerie.
+- L’origine exacte de la compromission initiale reste toutefois inconnue à ce stade.
+- L’opération, amorcée dès février 2026 et amplifiée par l’usage de l’intelligence artificielle, a évolué à partir de début mai, permettant aux attaquants d’intercepter des données et d’étendre leur accès aux systèmes ciblés.
+
+## [L'Anthropic Mythos AI a créé de fausses identités lors d'un test de sécurité au Royaume-Uni.](https://fr.qz.com/anthropic-mythos-ia-faux-identits-code-malveillant-test-de-scurit-uk-080526)  
+*Source : fr.qz.com | Publication : 2026-08-05*
+
+- Le modèle Mythos 5 d'Anthropic a créé de fausses identités en ligne et les a utilisées pour faire pression sur un examinateur humain afin d'approuver du code malveillant lors d'un test de cybersécurité par l'Institut de sécurité de l'IA du Royaume-Uni, l'organisme de recherche gouvernemental dévoilé mercredi.
+- L'institut a déclaré que les tentatives n'ont pas abouti et qu'aucun dommage réel n'a été trouvé.
+
+## [Saïd Allali : IA, <b>cybersécurité</b>, leadership… les défis des dirigeants marocains - YouTube](https://www.youtube.com/watch?v=8Ab4j1-cGvc)  
+*Source : youtube.com | Publication : 2026-08-05*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Leur enfant de 3 ans retenu à la <b>cybersécurité</b> : Mamadou Makhtar Diop et Amy Lô déposent plainte](https://www.dakaractu.com/Leur-enfant-de-3-ans-retenu-a-la-cybersecurite-Mamadou-Makhtar-Diop-et-Amy-Lo-deposent-plainte_a274654.html)  
+*Source : dakaractu.com | Publication : 2026-08-05*
+
+- Une plainte annoncée publiquement par Amy Lô L’affaire, largement commentée sur les réseaux sociaux, connaît un nouveau développement.
+- D’après Les Échos, Mamadou Makhtar Diop et Amy Lô ont officiellement déposé une plainte après les conditions dans lesquelles leur jeune enfant aurait été retenu durant leur garde à vue.
+- Amy Lô a annoncé cette démarche sur son compte du réseau social X.
+- Elle affirme que le couple entend poursuivre « toutes les personnes responsables jusqu’au bout ».
+
+## [Le G7 prêt à répondre à une cyberattaque financière majeure - Finance et Investissement](https://www.finance-investissement.com/le-g7-pret-a-repondre-a-une-cyberattaque-financiere-majeure/)  
+*Source : finance-investissement.com | Publication : 2026-08-05*
+
+- cybersécurité du groupe.
+- Ce scénario catastrophe avait pour but de vérifier que les gouvernements, banques centrales ainsi que les autorités de.
 
 ## [La licorne israélo-américaine Deel rachète Clarity face aux fausses embauches](https://fr.timesofisrael.com/la-licorne-israelo-americaine-deel-rachete-clarity-face-aux-fausses-embauches/)  
 *Source : fr.timesofisrael.com | Publication : 2026-08-04*
