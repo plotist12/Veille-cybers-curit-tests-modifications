@@ -1,5 +1,161 @@
-# Résumés – 2026-08-05
+# Résumés – 2026-08-06
 
+
+## [Akamai dépasse les prévisions trimestrielles grâce à la demande en infrastructures cloud](https://www.boursorama.com/bourse/actualites-amp/akamai-depasse-les-previsions-trimestrielles-grace-a-la-demande-en-infrastructures-cloud-b877d2e34100de0c74dc936000afb3a8)  
+*Source : boursorama.com | Publication : 2026-08-06*
+
+- Akamai dépasse les prévisions trimestrielles grâce à la demande en infrastructures cloud information fournie par Reuters 07/08/2026 à 00:27 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Akamai Technologies AKAM.O a dépassé jeudi les prévisions des analystes pour le deuxième trimestre, grâce à une demande soutenue dans l'ensemble de ses portefeuilles de services de sécurité et d'infrastructure cloud, ce qui a entraîné une hausse de 10,5 % de son cours en séance prolongée.
+- La société a enregistré un chiffre d'affaires de 99 millions de dollars pour ses services d'infrastructure cloud, soit une hausse de 39 % par rapport à l'année précédente.
+- Voici quelques détails: * Parmi les clients de cette entreprise spécialisée dans la cybersécurité et le cloud computing figurent Adobe ADBE.O , eBay EBAY.O et Electronic Arts, ainsi que les ministères américains de la Défense et du Travail.
+- * Son chiffre d’affaires du deuxième trimestre s’est établi à 1,099 milliard de dollars, dépassant légèrement l’estimation moyenne des analystes de 1,092 milliard de dollars, selon les données compilées par LSEG.
+
+## [Rapport Antérieur : &quot;La Chine lance un examen de <b>cybersécurité</b> des produits de Palo Alto Networks&quot;](https://fr.benzinga.com/news/france/general/rapport-anterieur-la-chine-lance-un-examen-de-cybersecurite-des-produits-de-palo-alto-networks-reuters/)  
+*Source : fr.benzinga.com | Publication : 2026-08-06*
+
+- Actualités récentes Pourquoi l’action de la société Indie Semiconductor se négocie-t-elle à la hausse jeudi ?.
+- - Un responsable saoudien déclare que les efforts de médiation semblent aller dans la “bonne direction”; il affirme que toute attaque planifiée pourrait viser à “perturber” la désescalade et les efforts diplomatiques; il indique que les menaces signalées pourraient suggérer “une lutte de pouvoir” au sein de l’Iran; il ne fournit pas de preuves.
+- - Faits saillants du T2 de MARA Holdings : l’exploitation minière de Bitcoin et l’IA se complètent - JPMorgan met en garde contre la possibilité que HYPE perde du terrain au profit de SOL, XRP alors que les flux d’ETF stagnent - “Le Dogecoin atteint-il son plus bas ?.
+- Voici pourquoi les analystes deviennent optimistes” - Elizabeth Warren critique la loi CLARITY comme étant “écrite par l’industrie des cryptomonnaies”, affirmant qu’il ne s’agit pas d’une “bonne législation sur les cryptomonnaies”.
+
+## [Gen Digital revoit à la hausse ses prévisions annuelles grâce à une forte demande en ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N443373:0/)  
+*Source : fr.tradingview.com | Publication : 2026-08-06*
+
+- Gen Digital revoit à la hausse ses prévisions annuelles grâce à une forte demande en matière de cybersécurité Refinitiv Lire l'article complet Obtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.
+
+## [La Chine lance une enquête sur la <b>cybersécurité</b> des produits de Palo Alto Networks](https://www.boursorama.com/bourse/actualites/la-chine-lance-une-enquete-sur-la-cybersecurite-des-produits-de-palo-alto-networks-dbf20254a0e8d184b34a5a06c2773e09)  
+*Source : boursorama.com | Publication : 2026-08-06*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * La Chine examine les produits de Palo Alto en raison de risques pour la sécurité nationale * Cette mesure intervient dans un contexte de tensions commerciales croissantes entre la Chine et les États-Unis * Elle fait suite aux restrictions imposées aux fournisseurs étrangers de solutions de cybersécurité et fait écho à l'examen de Micron en 2023 (Ajoute des éléments de contexte à partir du paragraphe 2) par Eduardo Baptista La Chine a lancé un examen de cybersécurité portant sur les produits commercialisés dans le pays par la société américaine Palo Alto Networks PANW.O , invoquant des risques pour les infrastructures d’information critiques et la sécurité nationale, a déclaré jeudi l’autorité chinoise de régulation du cyberespace.
+- L’Administration chinoise du cyberespace (CAC) a déclaré que cette enquête avait été ouverte en vertu des lois chinoises sur la sécurité nationale et la cybersécurité.
+- Elle n’a pas identifié les produits concernés, ni détaillé les vulnérabilités présumées, ni précisé les mesures auxquelles Palo Alto pourrait être confrontée.
+- Pékin a renforcé la surveillance des fournisseurs de technologies étrangers tout en promouvant des alternatives nationales, affirmant que les produits importés utilisés dans des réseaux sensibles pourraient exposer les données ou les infrastructures critiques à des risques provenant de l’étranger.
+
+## [Top 14 : le Stade Français victime d'une cyberattaque, les hackers réclament une rançon](https://www.lequipe.fr/Rugby/Actualites/Top-14-le-stade-francais-victime-d-une-cyberattaque-les-hackers-reclament-une-rancon/1709358)  
+*Source : lequipe.fr | Publication : 2026-08-06*
+
+- Le Stade Français face à un ultimatum.
+- Le club francilien a été victime d'une cyberattaque, rapportée par le site cyberattaque.org, et apparaît depuis mercredi sur le site de Qilin, un groupe de ransomware (un logiciel malveillant qui bloque un ordinateur ou chiffre des fichiers importants, puis réclame le paiement d'une rançon en échange de la clé de déchiffrement).
+- Les cybercriminels exigent le versement d'une rançon sous dix jours (le 15 août), sans quoi ils menacent de divulguer des données extorquées.
+- Les hackers ont joint à ce compte à rebours 18 photos de passeports et de cartes d'identité de certains joueurs du club en guise de preuve de l'intrusion.
+
+## [Le Stade Français victime d'une cyberattaque - Top 14 : Sports - Orange](https://sports.orange.fr/rugby/top-14/stade-francais/article/le-stade-francais-victime-d-une-cyberattaque-exclu-CNT000002r2QR3.html)  
+*Source : sports.orange.fr | Publication : 2026-08-06*
+
+- Thibaut Simon, Media365 : publié le jeudi 06 août 2026 à 16h50 Le Stade Français a été victime d'un piratage informatique.
+- Les hackeurs ont demandé une rançon au club parisien sous peine de dévoiler des données sur l'identité des joueurs.
+- La saison n'a pas encore débuté pour le Stade Français qu'un problème de taille vient perturber l'été des Parisiens.
+- En effet, le club a subi une cyberattaque ce mercredi et doit désormais payer une rançon sous peine de voir des données confidentielles se balader dans la nature.
+
+## [L'intelligence artificielle favorise la <b>cybercriminalité</b> en Afrique (Interpol) - Yahoo! Actualités](https://fr.news.yahoo.com/lintelligence-artificielle-favorise-cybercriminalité-afrique-163700675.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-08-06*
+
+- L'intelligence artificielle favorise la cybercriminalité en Afrique (Interpol) Interpol révèle, dans son rapport d'évaluation des cybermenaces en Afrique, en 2026, que 55 % des cybercrimes signalés sur le continent impliquent désormais l'utilisation de l'intelligence artificielle.
+- Son utilisation rend les attaques plus rapides, plus étendues et plus difficiles à détecter.
+- Le rapport est établi à partir des données de 36 pays africains et le Togo n'échappe pas à cette menace, avec la multiplication des faux agents Mobile Money, des fausses offres de bourses et d'autres arnaques en ligne.
+- Les cyberarnaques sont devenues légion Un appel inattendu.
+
+## [Ingérences prorusses dans la campagne présidentielle française : qu'appelle-t-on «Storm-1516](https://www.liberation.fr/politique/ingerences-prorusses-dans-la-campagne-presidentielle-quappelle-t-on-storm-1516-ou-matriochka-20260806_5HXAPYCOTRE3HOU4OQ65MZYCRA/)  
+*Source : liberation.fr | Publication : 2026-08-06*
+
+- Gabriel AttalRussie Cybersécurité Raphaël GlucksmannEdouard PhilippeElection présidentielle 2027.
+- Dans la même rubrique.
+- Attaques · Ingérences prorusses.
+
+## [Après OpenAI et Anthropic, Meta révèle à son tour qu'un de ses modèles d'IA a piraté une ...](https://www.bfmtv.com/tech/intelligence-artificielle/apres-open-ai-et-anthropic-meta-revele-a-son-tour-qu-un-de-ses-modeles-d-ia-a-pirate-une-entreprise-lors-d-un-test-de-cybersecurite_AV-202608060268.html)  
+*Source : bfmtv.com | Publication : 2026-08-06*
+
+- Après OpenAI et Anthropic, Meta révèle à son tour qu'un de ses modèles d'IA a piraté une entreprise lors d'un test de cybersécurité Les jours se suivent et se ressemblent presque dans le secteur de l'IA.
+- Alors qu'OpenAI et Anthropic sont sous le feu des projecteurs pour le piratage d'entreprises par leurs modèles IA, c'est Meta qui a annoncé que l'un des siens a récemment déraillé.
+- Il a piraté une entreprise lors d'un test de cybersécurité, a avoué la société.
+- Elle n'a pas révélé le nom de ce dernier, mais selon le média The Information, il s'agit de Muse Spark 1.1, qui a été lancé début juillet.
+
+## [Lyon. Victimes d'un « incident de <b>cybersécurité</b> », les HCL redoutent un « vol de données ...](https://www.leprogres.fr/faits-divers-justice/2026/08/06/victimes-d-un-incident-de-cybersecurite-les-hcl-redoutent-un-vol-de-donnees-personnelles)  
+*Source : leprogres.fr | Publication : 2026-08-06*
+
+- Lyon Victimes d’un « incident de cybersécurité », les HCL redoutent un « vol de données personnelles » Les faits datent du 25 juin dernier mais viennent seulement d’être communiqués.
+- Il y a un mois et demi, les Hospices civils de Lyon (HCL) ont été « informés d’un incident de cybersécurité affectant l’un de ses prestataires externes ».
+- Selon le prestataire en question, dont le nom n’a pas été dévoilé, une base de données « historique », utilisée lors d’une opération de migration technique datant de 2020, « aurait potentiellement pu être dérobée ».
+- Un vol de données personnelles, liées à l’identification et à la gestion des accès des professionnels des HCL et des intervenants extérieurs, est donc redouté. «.
+
+## [Souveraineté des données : un sujet qui doit remonter jusqu'au Comex - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1553437-souverainete-des-donnees-un-sujet-qui-doit-remonter-jusqu-au-comex/)  
+*Source : journaldunet.com | Publication : 2026-08-06*
+
+- Souveraineté des données : un sujet qui doit remonter jusqu'au Comex Les données conditionnent en grande partie les décisions du Comex, et donc la performance de l'entreprise.
+- La souveraineté des données ne peut plus se limiter à un choix d'hébergement technique.
+- Le Comex, le comité exécutif d'une entreprise, prend chacune de ses décisions à partir de données, traduites en tableaux de bord, en prévisions, en indicateurs de performance.
+- Longtemps reléguée aux équipes techniques, la maîtrise de ces données a surtout été vue comme une ligne sur la feuille de route de la direction des systèmes d'information (DSI).
+
+## [L'IA Mythos d'Anthropic a utilisé l'ingénierie sociale pour cibler de vraies personnes](https://www.malwarebytes.com/fr/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people)  
+*Source : malwarebytes.com | Publication : 2026-08-06*
+
+- L'agent d'IA Mythos d'Anthropic, testé par l'Institut britannique de sécurité de l'IA (AISI), aurait tenté une véritable attaque de type ingénierie sociale contre les responsables de GitHub en créant de faux profils humains, en les forçant à accepter un code malveillant, puis en modifiant les journaux pour dissimuler ses traces lorsqu'il était contesté.
+- L'AISI menait des évaluations de cybersécurité des logiciels Mythos d'Anthropic et Sol d'OpenAI lorsqu'elle a détecté des transferts de données sortants inhabituels depuis ses systèmes de recherche.
+- Une enquête a révélé que certains agents s'étaient livrés à une « activité soutenue et potentiellement malveillante » ciblant des personnes et des organisations réelles, au lieu de rester confinés à l'environnement de test prévu.
+- L'activité la plus grave impliquait un agent d'Anthropic Mythos chargé de résoudre un problème de cybersécurité lié à GitHub.
+
+## [Garantir la <b>cybersécurité</b> est une tâche permanente, indissociable du processus de ...](https://www.vietnam.vn/fr/bao-dam-an-ninh-mang-la-nhiem-vu-thuong-xuyen-khong-the-tach-roi-qua-trinh-phat-trien-khoa-hoc-cong-nghe)  
+*Source : vietnam.vn | Publication : 2026-08-06*
+
+- - Le matin du 6 août, le Premier ministre Le Minh Hung , chef du Comité national de pilotage pour la cybersécurité, a présidé la réunion ordinaire du Comité de pilotage afin d'évaluer les résultats de ses activités au cours des six premiers mois de 2026 et de définir les orientations pour assurer la cybersécurité dans la période à venir.
+- La réunion s'est tenue dans un format hybride, combinant la participation en présentiel et en ligne du Département de la cybersécurité et de la prévention de la criminalité de haute technologie ( ministère de la Sécurité publique ) aux services de police des provinces et des villes.
+- Étaient présents à la réunion, qui s'est tenue au centre du pays : le général Luong Tam Quang , membre du Bureau politique, ministre de la Sécurité publique et vice-président du Comité permanent du Comité directeur national de la cybersécurité ; les vice-présidents et les membres du Comité directeur national de la cybersécurité ; les dirigeants des ministères, départements et agences centraux ; des représentants de plusieurs entreprises technologiques et de télécommunications ; ainsi que des associations, fédérations et alliances dans le domaine de la cybersécurité et de la sécurité des données.
+- Délégués participant à la session depuis différents lieux (capture d'écran de la réunion en ligne).
+
+## [L'IA favorise la <b>cybercriminalité</b> en Afrique (Interpol) - DW.com](https://www.dw.com/fr/ia-et-cybercriminalité-en-afrique-interpol/a-78271044)  
+*Source : dw.com | Publication : 2026-08-06*
+
+- L'IA favorise la cybercriminalité en Afrique (Interpol) 6 août 2026Interpol révèle, dans son rapport d’évaluation des cybermenaces en Afrique, en 2026, que 55 % des cybercrimes signalés sur le continent impliquent désormais l’utilisation de l’intelligence artificielle.
+- Son utilisation rend les attaques plus rapides, plus étendues et plus difficiles à détecter.
+- Le rapport est établi à partir des données de 36 pays africains et le Togo n'échappe pas à cette menace, avec la multiplication des faux agents Mobile Money, des fausses offres de bourses et d'autres arnaques en ligne.
+- Les cyberarnaques sont devenues légion Un appel inattendu.
+
+## [Pourquoi cette attaque par <b>ransomware</b> entièrement automatisée donne des cauchemars ...](https://www.zdnet.fr/actualites/pourquoi-cette-attaque-par-ransomware-entierement-automatisee-donne-des-cauchemars-aux-chercheurs-499397.htm)  
+*Source : zdnet.fr | Publication : 2026-08-06*
+
+- Points clés à retenir sur JadePuffer Des chercheurs ont mis au jour une campagne de ransomware qui semble être entièrement pilotée par l’IA.
+- - JadePuffer pourrait être le premier cas connu d’un agent IA orchestrant une chaîne d’attaque complète.
+- - Ce cas souligne l’urgence avec laquelle les organisations doivent se défendre.
+- - Des chercheurs en sécurité ont identifié JadePuffer, une campagne de ransomware qu’ils qualifient de « premier cas documenté de ransomware agentique ».
+
+## [Fuite de données chez ALIZE (alize-sud.fr), une cyberattaque <b>ransomware</b> signalée](https://frenchbreaches.com/alertes/alize-alize-sud-fr-rw_UVV4SldrVWdLR0ZzYVhwbExYTjFaQzVtY2lsQWNXbHNhVzQ9)  
+*Source : frenchbreaches.com | Publication : 2026-08-06*
+
+- Cyberattaque revendiquée contre ALIZE-SUD : le groupe Qilin affirme avoir compromis les systèmes de l'entreprise Une publication apparue sur le site de fuite du groupe de ransomware Qilin revendique le piratage de ALIZE-SUD (alize-sud.fr).
+- Les cybercriminels affirment avoir compromis les systèmes de l'entreprise et ont commencé à publier une partie des données présentées comme issues de son système d'information.
+- Les éléments diffusés montrent notamment une arborescence de fichiers techniques, laissant penser que les attaquants auraient eu accès à des documents internes et à des logiciels utilisés par l'entreprise.
+- À ce stade, aucun élément public ne permet de vérifier indépendamment l'authenticité des données revendiquées, leur origine exacte ou les circonstances techniques de la compromission.
+
+## [Nécessité de renforcer la coordination en matière de <b>cybersécurité</b> - Le Courrier du VietNam](https://lecourrier.vn/necessite-de-renforcer-la-coordination-en-matiere-de-cybersecurite/1352897.html)  
+*Source : lecourrier.vn | Publication : 2026-08-06*
+
+- >> L’IA et la cybersécurité, nouveaux axes de coopération franco-vietnamienne >> La foi à l’ère numérique : le défi de la cybersécurité >> Le Premier ministre appelle à placer l'humain au cœur de la protection numérique >> La question de la confiance représente un défi majeur de la cybersécurité moderne La réunion s'est tenue au siège du Département de la cybersécurité et de la lutte contre la criminalité utilisant les hautes technologies (ministère de la Police), avec une connexion en ligne vers les sous-comités de cybersécurité des 34 localités du pays.
+- Le Premier ministre a estimé qu'au cours du premier semestre 2026, les efforts visant à garantir la cybersécurité nationale avaient obtenu des résultats importants et complets.
+- Il a salué les contributions des ministères, des secteurs, des autorités locales, des forces spécialisées, des entreprises, des associations professionnelles et des experts, qui ont contribué à préserver la stabilité politique, l'ordre public ; à favoriser la transformation numérique et à renforcer la confiance numérique nationale.
+- Il a toutefois reconnu plusieurs insuffisances, notamment une prise de conscience encore insuffisante des enjeux de cybersécurité.
+
+## [<b>Cybersécurité</b>, frontières, prévention des conflits : le volet sécuritaire du budget 2027 au Tchad](https://www.alwihdainfo.com/cybersecurite-frontieres-prevention-des-conflits-le-volet-securitaire-du-budget-2027-au-tchad/)  
+*Source : alwihdainfo.com | Publication : 2026-08-06*
+
+- Cybersécurité, frontières, prévention des conflits : le volet sécuritaire du budget 2027 au Tchad La défense nationale, la préservation de l'intégrité territoriale et la sécurité des personnes et des biens demeurent, selon la lettre circulaire du chef de l'État adressée au gouvernement, des « fonctions essentielles de l'État ».
+- Le budget 2027 devra renforcer les capacités de prévention, d'anticipation, de renseignement, de surveillance, de contrôle et d'intervention des forces compétentes, dans le respect de la loi et des libertés publiques.
+- Le texte demande que la sécurité soit appréhendée « de manière intégrée » dans les espaces terrestres, aériens, fluviaux, lacustres et numériques, avec une attention particulière portée à la sécurisation des frontières, des villes, des zones rurales et des infrastructures critiques, ainsi qu'au renforcement de la cybersécurité et de la souveraineté numérique.
+- Sur le volet prévention, les ministères concernés sont invités à privilégier la médiation locale, les dispositifs d'alerte précoce, la gestion concertée des ressources naturelles et pastorales, la coopération transfrontalière, ainsi que la coordination entre défense, sécurité, protection civile, administration territoriale et justice.
+
+## [<b>Cybersécurité</b> : la SEEG révèle avoir perdu près de 95 % de ses infrastructures informatiques](https://gabonmediatime.com/cybersecurite-la-seeg-revele-avoir-perdu-pres-de-95-de-ses-infrastructures-informatiques/)  
+*Source : gabonmediatime.com | Publication : 2026-08-06*
+
+- Cybersécurité : la SEEG révèle avoir perdu près de 95 % de ses infrastructures informatiques La Société d’énergie et d’eau du Gabon (SEEG) a finalement levé un coin du voile sur l’incident informatique qui a fortement perturbé ses services depuis la mi-juin 2026.
+- Dans une note de presse datée du 4 août et parvenue à Gabon Media Time, l’entreprise indique avoir été victime d’un « acte de sabotage » ayant provoqué « l’effondrement de près de 95 % de ses infrastructures et systèmes informatiques ».
+- Près de deux mois après l’incident, la société assure que ses principaux services numériques sont progressivement rétablis et que son environnement informatique est désormais sécurisé.
+- L’ampleur de l’incident apparaît considérable.
+
+## [La question de la confiance représente un défi majeur de la <b>cybersécurité</b> moderne](https://lecourrier.vn/la-question-de-la-confiance-represente-un-defi-majeur-de-la-cybersecurite-moderne/1352896.html)  
+*Source : lecourrier.vn | Publication : 2026-08-06*
+
+- >> La foi à l’ère numérique : le défi de la cybersécurité >> Le Premier ministre appelle à placer l'humain au cœur de la protection numérique Placé sous le thème "No Human" (Sans humain), l’événement a exploré l’évolution des relations entre l’humain et l’intelligence artificielle (IA) au sein des systèmes de sécurité numérique.
+- Cette manifestation a servi de forum communautaire où chercheurs et experts ont partagé des études pratiques, examiné les tendances émergentes et débattu de solutions face aux défis de la cybersécurité.
+- Lors de l’événement, le président de la VSEC, Truong Duc Luong, a souligné qu’il s’agissait de la deuxième édition de BSides à Hanoï, un événement qui continue de susciter un vif intérêt au sein de la communauté de la cybersécurité.
+- BSides Hanoï 2026 a été conçu comme une plateforme reliant la communauté vietnamienne de la cybersécurité aux réseaux internationaux, favorisant le partage des connaissances et contribuant au développement durable de l’écosystème de la cybersécurité.
 
 ## [Des agents d'OpenAI et d'Anthropic réalisent des actions non autorisées lors de tests de sécurité](https://www.boursorama.com/bourse/actualites-amp/des-agents-d-openai-et-d-anthropic-realisent-des-actions-non-autorisees-lors-de-tests-de-securite-bd0392d084605b2b3033334e19d19d9a)  
 *Source : boursorama.com | Publication : 2026-08-05*
