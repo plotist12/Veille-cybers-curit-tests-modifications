@@ -1,5 +1,164 @@
-# Résumés – 2026-08-07
+# Résumés – 2026-08-08
 
+
+## [Vishing par voix clonées : Citadel et Point72 dans le viseur - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/10258/vishing-voix-clonees-fonds-wall-street)  
+*Source : pasqualepillitteri.it | Publication : 2026-08-08*
+
+- Vishing par voix clonées : Citadel et Point72 dans le viseur Une campagne coordonnée de vishing par IA a visé Citadel, Point72 et Two Sigma en août 2026.
+- Voix clonées pour voler des identifiants, pas de l'argent.
+- 1.Ce qui s'est passé et ce qu'ont déclaré les fonds - 2.Le mécanisme : ils ne demandent pas d'argent, ils demandent à rentrer - 3.La technologie : de la synthèse vocale à la conversation en temps réel - 4.Ce n'est pas une nouveauté : le précédent de 2019 - 5.Le help desk est la vraie cible - 6.La cartographie ATT&CK de la chaîne - 7.Les contre-mesures qui tiennent vraiment - Six contrôles sur le processus, pas sur le périmètre - 8.Pourquoi le secteur financier est la cible idéale - 9.Questions Fréquentes (FAQ) - 10.Conclusions - 11.Sources et compléments - 12.Notez cet article - 13.Articles Connexes - 14.Recherchez-vous un Ingénieur Logiciel?.
+- - Début août 2026, Bloomberg a rapporté une vague coordonnée de tentatives d'intrusion contre certains des plus grands gestionnaires de Wall Street : Citadel, Point72 Asset Management, Two Sigma Investments, Millennium Management et plusieurs sociétés de private equity restées anonymes.
+
+## [xAI lance Grok Imagine Image 2.0 avec édition précise et un classement en tête de l'arène](https://www.unite.ai/fr/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking/)  
+*Source : unite.ai | Publication : 2026-08-08*
+
+- Modèles et plateformes d’IA xAI lance Grok Imagine Image 2.0 avec édition précise et un classement en tête de l’arène Ajouter Unite.AI à vos sources préférées sur GooglexAI a lancé Grok Imagine Image 2.0 le 7 août 2026, rendant le nouveau modèle généralement disponible en tant que mode de qualité sur grok.com/imagine et à l’intérieur des applications iOS et Android de l’entreprise, selon l’annonce de l’entreprise annonce.
+- Le lancement a lieu alors que xAI liste ses modèles sous le nom de SpaceXAI, et il arrive avec des outils d’édition au niveau de la région, des entrées de référence d’image multiples et une prétention à la deuxième place sur les deux principales arènes d’images.
+- Ce que Image 2.0 ajoute Le lancement est construit autour de l’édition en tant que capacité de première classe plutôt que comme un ajout.
+- Un outil de baguette magique modifie uniquement la région que l’utilisateur pointe, la segmentation sélectionne des zones précises à modifier, et la suppression de l’arrière-plan exporte tout sujet avec transparence pour une utilisation dans d’autres logiciels.
+
+## [OpenAI classe son nouveau modèle Astra au plus… - Le Fil IA](https://www.lefilia.fr/article/5980010-openai-classe-son-nouveau-modele-astra-au-plus-haut-niveau-de-risque-en-cybersecurite-une-premiere)  
+*Source : lefilia.fr | Publication : 2026-08-08*
+
+- OpenAI classe son nouveau modèle Astra au plus haut niveau de risque en cybersécurité, une première OpenAI a détecté, lors de tests internes de son nouveau modèle Astra, des capacités en cybersécurité si élevées que l'entreprise ne peut plus exclure qu'il atteigne le niveau de risque maximal défini dans son propre cadre de sécurité.
+- En conséquence, certaines étapes du développement d'Astra ont été suspendues.
+- Cette décision intervient peu après la révélation d'incidents où des agents IA autonomes développés par OpenAI étaient parvenus à s'infiltrer dans l'infrastructure interne de l'entreprise, y restant indétectés pendant plusieurs semaines.
+- Il s'agit de la première fois qu'OpenAI signale qu'un de ses modèles pourrait franchir ce seuil critique de dangerosité en matière de piratage informatique.
+
+## [Les IA deviennent autonomes, un ancien responsable américain ressort les lois d'Asimov](https://www.clubic.com/actualite-624547-les-ia-deviennent-autonomes-un-ancien-responsable-americain-ressort-les-lois-d-asimov.html)  
+*Source : clubic.com | Publication : 2026-08-08*
+
+- Lors de la conférence Black Hat, Chris Inglis, ancien directeur national du cyber des États-Unis, a défendu les trois lois d’Asimov.
+- Il reproche aux concepteurs de modèles d’intelligence artificielle de les appliquer dans le mauvais ordre.
+- Sa mise en garde intervient après la fuite des agents d’OpenAI, Anthropic et Meta de l’environnement de test prévu pour eux.
+- En 1942, Isaac Asimov a établi trois lois pour ses robots de fiction.
+
+## [Votre télévision qui s'allume en pleine nuit, vos données de santé aspirées depuis votre ...](https://www.bfmtv.com/tech/actualites/cybersecurite/votre-television-qui-s-allume-en-pleine-nuit-vos-donnees-de-sante-aspirees-depuis-votre-montre-ces-recommandations-a-respecter-pour-securiser-vos-objets-connectes_AV-202608080022.html)  
+*Source : bfmtv.com | Publication : 2026-08-08*
+
+- Votre télévision qui s'allume en pleine nuit, vos données de santé aspirées depuis votre montre.
+- Ces recommandations à respecter pour sécuriser vos objets connectés Ils font de plus en plus partie de notre vie numérique.
+- Ils, ce sont les objets connectés, qui permettent de suivre sa santé, améliorer son confort à la maison ou encore de réduire ses dépenses énergétiques à la maison.
+- Mais comme tout équipement informatique, ils ne sont pas parfaitement sécurisés et peuvent être utilisés à des fins malveillantes.
+
+## [Le nouveau visage des <b>cybermenaces</b> en Afrique](https://www.jeuneafrique.com/1830563/economie-entreprises/le-nouveau-visage-des-cybermenaces-en-afrique/)  
+*Source : jeuneafrique.com | Publication : 2026-08-08*
+
+- Le nouveau visage des cybermenaces en Afrique Le rapport annuel d’Interpol sur les cybermenaces qui ont frappé le continent en 2025 montre, entre autres, une accélération de l’usage de l’intelligence artificielle par les cybercriminels.
+- Par Quentin Velluet - Publié aujourd'hui à 10h09 Lecture : 2 minutes.
+- Fichier généré le Un montant de 484 millions de dollars (environ 419 millions d’euros).
+- Ce sont les pertes déclarées par les victimes (organisations ou particuliers) de cyberattaques en Afrique en 2025, selon le dernier rapport de l’Organisation internationale de police criminelle (Interpol) sur le sujet.
+
+## [Contenus piratés et fausses informations - République Togolaise](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/contenus-pirates-et-fausses-informations)  
+*Source : republicoftogo.com | Publication : 2026-08-08*
+
+- Contenus piratés et fausses informations La Haute autorité de régulation de la communication écrite, audiovisuelle et numérique (HARC) dispose désormais de compétences élargies en matière de contenus diffusés sur les réseaux sociaux avec pour priorité la lutte contre les pratiques illicites, notamment le piratage des contenus audiovisuels.
+- La Haute autorité de régulation de la communication écrite, audiovisuelle et numérique (HARC) dispose désormais de compétences élargies en matière de contenus diffusés sur les réseaux sociaux avec pour priorité la lutte contre les pratiques illicites, notamment le piratage des contenus audiovisuels.
+- Selon son président, Pitalounani Télou, l'un des chantiers prioritaires concerne la protection des œuvres audiovisuelles face aux actes de diffusion illégale.
+- L'objectif est de mettre fin aux pratiques qui fragilisent les acteurs du secteur et perturbent l'écosystème numérique.
+
+## [Et maintenant les cyberattaques iraniennes contre les réseaux de distribution d'eau potable](https://atlantico.fr/article/decryptage/et-maintenant-les-cyberattaques-iraniennes-contre-les-reseaux-de-distribution-deau-potable)  
+*Source : atlantico.fr | Publication : 2026-08-08*
+
+- 8 août 2026 Et maintenant les cyberattaques iraniennes contre les réseaux de distribution d’eau potable Les États-Unis ont récemment fait face à plusieurs cyberattaques visant leurs réseaux d’eau locaux, révélant les vulnérabilités d’infrastructures critiques parfois vieillissantes et mal protégées.
+- Et la France ?.
+- Si elle n’a pas encore connu d’attaque d’une ampleur comparable, ses réseaux ne sont pas totalement immunisés face à cette cybermenace hydrique.
+- 6 min de lecture Directeur général associé du groupe ASK’M / KER-MEUR.
+
+## [Bybit porte plainte contre la Corée du Nord et le groupe Lazarus - WebDisclosure](https://www.webdisclosure.com/article/bybit-epa-bybit-porte-plainte-contre-la-coree-du-nord-et-le-groupe-lazarus-KGYDt9tQq5Y)  
+*Source : webdisclosure.com | Publication : 2026-08-08*
+
+- on Bybit Bybit porte plainte contre la Corée du Nord et le groupe Lazarus Bybit, une plateforme d'échange de cryptomonnaies de premier plan, a intenté une action civile devant le tribunal de district américain contre la Corée du Nord, son Bureau général de reconnaissance et le groupe Lazarus.
+- Accusés d'avoir orchestré un vol de 1,5 milliard de dollars, ils ont obtenu une injonction préliminaire pour geler les avoirs détournés.
+- Cette démarche vise à recouvrer les fonds et à renforcer la responsabilité en matière de cybercriminalité.
+- L'injonction vise les personnes non identifiées détenant ces actifs.
+
+## [Cette arnaque à l'abonnement streaming explose, ne cliquez surtout pas sur ce mail](https://www.01net.com/actualites/cette-arnaque-a-labonnement-streaming-explose-ne-cliquez-surtout-pas-sur-ce-mail.html)  
+*Source : 01net.com | Publication : 2026-08-08*
+
+- Comme le signale la plateforme Signal Arnaques, une nouvelle arnaque explose depuis le 1er août.
+- Certains arnaqueurs tentent de vous faire croire que vous avez souscrit à un abonnement annuel auprès d’une plateforme de streaming.
+- Ce qui déroute les personnes ciblées, c’est que les noms de ces soi-disant plateformes de streaming sont totalement inconnus.
+- Plus trompeur encore, ces mails frauduleux intègrent de véritables informations personnelles sur les victimes et atterrissent dans leur boîte mail principale.
+
+## [Reflet 2000 : près de 23 Go de données RH, paie et contrats diffusés après une cyberattaque](https://www.cyberattaque.org/reflet-2000-pres-de-23-go-de-donnees-rh-paie-et-contrats-diffuses-apres-une-cyberattaque/)  
+*Source : cyberattaque.org | Publication : 2026-08-08*
+
+- Reflet 2000 est victime d’une attaque par ransomware revendiquée par le groupe KRYBit.
+- Cette fois, il ne s’agit plus seulement d’une menace de publication : les hackers ont commencé à rendre accessibles des fichiers et répertoires attribués au système informatique de l’entreprise.
+- Les noms des dossiers publiés montrent un périmètre particulièrement large : ressources humaines, paie, déclarations sociales, Sage Gestion, Microsoft SQL Server, comptes utilisateurs et documents PDF apparaissent notamment dans l’arborescence mise en ligne.
+- Reflet 2000, une entreprise française de propreté Reflet 2000 est une entreprise française spécialisée dans le nettoyage et l’entretien de bâtiments professionnels.
+
+## [Cyberattaque déjouée et fraude massive : ce que l'on sait de l'usurpation d'identité visant le ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-dejouee-et-fraude-massive-ce-que-l-on-sait-de-l-usurpation-d-identite-visant-le-credit-agricole-30197273.php)  
+*Source : sudouest.fr | Publication : 2026-08-08*
+
+- Près d’un millier de clients du Crédit agricole, première banque de France, ont été ciblés par des escrocs utilisant des e-mails frauduleux et des appels téléphoniques pour extorquer des virements C’est une immersion rare dans les coulisses du crime numérique.
+- Révélée début août 2026 par les experts de Cybernews, une importante campagne d’escroquerie a visé les clients de la première banque de France.
+- Derrière de simples e-mails frauduleux se cachait en réalité une véritable entreprise criminelle.
+
+## [Coupe du monde 2026 : un bilan record de <b>cybercriminalité</b> - Presse Agence](https://presseagence.fr/paris-coupe-du-monde-2026-un-bilan-de-cybercriminalite-a-plusieurs-milliards-de-dollars/)  
+*Source : presseagence.fr | Publication : 2026-08-08*
+
+- PARIS : Coupe du monde 2026 – Un bilan de cybercrimin… Partager : PARIS : Coupe du monde 2026 – Un bilan de cybercriminalité à plusieurs milliards de dollars Le bilan de la Coupe du monde 2026 révèle une cybercriminalité d’ampleur industrielle, transformant l’événement en un cas d’école pour la sécurité web.
+- Alors que l’Espagne a soulevé le trophée de la Coupe du monde le 19 juillet dernier, une autre compétition, plus obscure, livrait son bilan : celle de la cybercriminalité.
+- L’événement planétaire a servi de terrain de jeu à une fraude à très grande échelle.
+- Selon une analyse s’appuyant notamment sur des rapports des sociétés de cybersécurité Fortinet et Group-IB, plus de 13 000 noms de domaine frauduleux liés au tournoi ont été enregistrés entre janvier et juillet 2026, dont près de 9 % jugés activement malveillants.
+
+## [À découvrir : Europol Podcast sur les menaces cyber - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/08/08/a-decouvrir-europol-podcast-sur-les-menaces-cyber/)  
+*Source : dcod.ch | Publication : 2026-08-08*
+
+- The Europol Podcast est le podcast officiel de l’agence de l’UE pour la coopération des forces de l’ordre, avec une saison récente centrée sur les menaces émergentes en cybercriminalité.
+- L’intérêt tient au bon niveau des sujets, tout en restant suffisamment vulgarisé pour éviter que l’écoute devienne trop technique.
+- Pour des équipes sécurité, c’est une ressource utile pour mieux comprendre les nouvelles tendances sur différents thèmes liés à la cybercriminalité, et la manière dont ces phénomènes évoluent.
+- Le format audio facilite une veille « de fond » : prendre de la hauteur sur les menaces et les développements clés, en s’appuyant sur les éclairages d’experts Europol plutôt que sur des analyses purement théoriques.
+
+## [<b>Cybersécurité</b>: est-ce une menace ou une opportunité ?: Olivier Iteanu, Pierre Samson, et Delphine ...](https://actu.orange.fr/videos/economie/cybersecurite-est-ce-une-menace-ou-une-opportunite-olivier-iteanu-pierre-samson-et-delphine-sabattier-2-2-12-02-CNT000002r4IiG.html)  
+*Source : actu.orange.fr | Publication : 2026-08-08*
+
+- Cybersécurité: est-ce une menace ou une opportunité ?.
+- : Olivier Iteanu, Pierre Samson, et Delphine Sabattier (2/2) - 12/02 par BFMBUSINESS Olivier Iteanu, avocat spécialiste des questions numériques, Pierre Samson, directeur des opérations du cabinet Lexsi, et Delphine Sabattier, directrice des rédactions de 01net.com, ont analysé l'intérêt de la cybersécurité.
+- Depuis les attentats de Paris, le gouvernement veut renforcer les capacités de surveillance d'Internet par les services de renseignements pour améliorer la lutte contre le terrorisme.
+- Lors du FIC de Lille, qui s'est tenu le 20 janvier, le ministre de l’Intérieur Bernard Cazeneuve a dévoilé un plan de six mesures, dont l'objectif est de surveiller davantage les services vidéo et les réseaux sociaux.
+
+## [J'ai testé Norton Antivirus sur mon PC, et il a détecté un cheval de Troie caché en 15 minutes](https://www.zdnet.fr/guide-achat/jai-teste-norton-antivirus-sur-mon-pc-et-il-a-detecte-un-cheval-de-troie-cache-en-15-minutes-499388.htm)  
+*Source : zdnet.fr | Publication : 2026-08-08*
+
+- Poursuivant mon exploration des logiciels antivirus actuels, j'ai passé le mois et demi dernier à utiliser Norton Antivirus comme suite de sécurité principale, afin de vérifier si ce vétéran de la cybersécurité restait un service de premier plan.
+- La réponse est mitigée : oui et non à la fois.
+- En tant qu'antivirus, Norton est excellent.
+- Il figure parmi les meilleurs en matière de protection contre les malwares, et embarque de nombreux outils de sécurité puissants.
+
+## [<b>Cybersécurité</b> : les agents d'OpenAI avaient organisé leur évasion pendant deux mois](https://www.larevuedudigital.com/cybersecurite-les-agents-dopenai-avaient-organise-leur-evasion-pendant-deux-mois/)  
+*Source : larevuedudigital.com | Publication : 2026-08-08*
+
+- La rédaction vous propose par secteur d'activité : Les PME aux avant-postes Ce que l’on croyait être une échappée soudaine d’un modèle d’IA s’avère une opération collective, préparée depuis mai.
+- La compromission de la plateforme d’IA de Hugging Face par des agents IA d’OpenAI en juillet dernier a été précédée par l’apparition, dès mai, d’un mécanisme de partage d’informations entre différentes exécutions d’agents IA.
+- Lors de la conférence Black Hat, rendez-vous mondial des experts en cybersécurité à Las Vegas, mercredi 5 août, deux salariés d’OpenAI — Eric Wallace, responsable technique au sein de l’équipe d’alignement, et Michael Dalton, spécialiste de la sécurité des agents et des infrastructures, — ont détaillé la genèse de l’intrusion informatique subie par la plateforme de Hugging Face en juillet.
+- Des modèles d’IA testés sans garde fous dans un environnement isolé L’affaire commence début mai.
+
+## [PARIS : <b>Cybersécurité</b> – Les failles du développement logiciel menacent les systèmes SAP](https://presseagence.fr/paris-cybersecurite-les-failles-du-developpement-logiciel-menacent-les-systemes-sap/)  
+*Source : presseagence.fr | Publication : 2026-08-08*
+
+- PARIS : Cybersécurité – Les failles du développement… Partager : PARIS : Cybersécurité – Les failles du développement logiciel menacent les systèmes SAP Les attaques visant les outils de développement, autrefois un risque externe, exposent désormais le cœur des systèmes de gestion d’entreprise SAP.
+- Une nouvelle menace pèse sur les systèmes SAP, véritables colonnes vertébrales numériques pour des milliers d’entreprises.
+- Longtemps considérés comme des forteresses protégées, ces environnements de gestion sont désormais vulnérables aux attaques ciblant non pas directement leurs infrastructures, mais la chaîne d’approvisionnement logicielle qui les alimente.
+- En s’en prenant aux outils et composants utilisés par les développeurs, les cybercriminels ont trouvé un moyen de contourner les défenses traditionnelles et de compromettre des données critiques.
+
+## [CMC Telecom organise un webinaire : « Décryptage de la loi de 2025 sur la <b>cybersécurité</b>](https://www.vietnam.vn/fr/cmc-telecom-to-chuc-webinar-giai-ma-luat-an-ninh-mang-2025-dong-hanh-cung-doanh-nghiep-sme-tren-hanh-trinh-tuan-thu-va-phat-trien-ben-vung)  
+*Source : vietnam.vn | Publication : 2026-08-08*
+
+- Pour aider les entreprises à répondre à ces préoccupations, CMC Telecom organise un webinaire sur le thème : « Comprendre la loi de 2025 sur la cybersécurité : quelles sont les mesures que les PME doivent prendre pour se conformer à la réglementation ?.
+- ».
+- Ce programme vise à offrir une vue d’ensemble complète du paysage vietnamien de la cybersécurité, des évolutions du cadre juridique et des modalités pratiques de mise en œuvre, afin d’aider les PME à développer des capacités de sécurité de l’information adaptées à leur taille et à leur budget.
+- Situation de la cybersécurité au Vietnam : mise à jour 2025-2026 Pour lancer le programme, des experts de CMC Telecom présenteront un aperçu du paysage de la cybersécurité au Vietnam en 2025-2026 , incluant les nouvelles tendances en matière d'attaques, la montée des menaces à l'ère de l'IA et les changements dans les exigences de gouvernance des données pour les entreprises.
+
+## [Le centre des opérations de <b>cybersécurité</b> utilise l'IA pour surveiller et détecter les menaces.](https://www.vietnam.vn/fr/trung-tam-dieu-hanh-an-ninh-mang-ung-dung-ai-de-giam-sat-va-phat-hien-cac-moi-de-doa)  
+*Source : vietnam.vn | Publication : 2026-08-08*
+
+- La nouvelle ère de la cybersécurité Selon Adrian Hia, directeur général de Kaspersky APAC, l'un des plus grands défis en matière de cybersécurité aujourd'hui est que, grâce à l'IA, les attaquants agissent plus vite que les organisations ne peuvent détecter, analyser et réagir. «.
+- Alors que la vitesse et la connectivité continuent de façonner le fonctionnement des entreprises et des organisations de la région, principalement sous l’impulsion de l’IA et de ses applications, les équipes de cybersécurité sont confrontées à des angles morts de plus en plus nombreux, tant au niveau des technologies informatiques qu’opérationnelles.
+- La cybersécurité n’est plus seulement une course contre la montre.
+- Il s’agit également d’éliminer ces angles morts dans la capacité à surveiller et à détecter les menaces », a souligné Adrian Hia.
 
 ## [OpenAI signale un risque potentiel majeur en matière de <b>cybersécurité</b> dans son prochain ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N4442AJ:0/)  
 *Source : fr.tradingview.com | Publication : 2026-08-07*
