@@ -1,5 +1,185 @@
 [
   {
+    "id": "0bd118c282",
+    "title": "<b>Cybersécurité</b> : Dissecto intègre l'IA agentique à sa plateforme HydraVision - Actutem",
+    "link": "https://www.actutem.com/cybersecurite-dissecto-integre-lia-agentique-a-sa-plateforme-hydravision/",
+    "source": "actutem.com",
+    "pub_date": "2026-08-09",
+    "summary": "- La société allemande Dissecto, filiale du groupe dSpace, a annoncé l’intégration de workflows d’intelligence artificielle agentique au sein d’HydraVision, sa plateforme automatisée de tests de cybersécurité pour les systèmes embarqués et cyber-physiques.\n- - Cette mise à jour vise à automatiser la génération et l’exécution de scénarios de validation sur des équipements réels.\n- Concrètement, le système transforme les données d’ingénierie de sécurité — telles que les analyses de menaces (TARA), les inventaires logiciels (SBOM) ou les alertes issues de centres d’opérations de sécurité (SOC/VSOC) — en scripts de test exécutables sur des cibles matérielles.\n- Sur le plan technique, la plateforme s’appuie sur une séparation entre la phase de génération par l’IA et la phase d’exécution.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "52f27149b9",
+    "title": "10 ans, été 2027, MaxSolar et DB Energie signent le premier PPA hybride solaire-batterie ...",
+    "link": "https://www.carnetdebord.info/10-ans-ete-2027-maxsolar-et-db-energie-signent-le-premier-ppa-hybride-solaire-batterie-sans-subvention-inattendu/",
+    "source": "carnetdebord.info",
+    "pub_date": "2026-08-09",
+    "summary": "- MaxSolar et DB Energie ont signé en Allemagne un contrat d’achat d’électricité, un PPA hybride associant production solaire et stockage par batteries, présenté comme une première dans le pays pour une combinaison sans subvention publique.\n- L’accord porte sur le projet de Friedrichshof, dans la commune de Klein Belitz, en Mecklembourg-Poméranie-Occidentale, et prévoit une durée de dix ans.\n- Le dispositif doit réunir une centrale photovoltaïque au sol et un système de stockage co-localisé, avec une mise en service annoncée pour l’été 2027.\n- Sur le plan industriel, l’annonce s’inscrit dans un contexte où l’intégration des renouvelables dans le système électrique allemand exige plus de flexibilité.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "7986c869c7",
+    "title": "«L'Odyssée» de Christopher Nolan, nouveau cheval de Troie des arnaqueurs en ligne",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/l-odyssee-de-christopher-nolan-nouveau-cheval-de-troie-des-arnaqueurs-en-ligne-20260809",
+    "source": "lefigaro.fr",
+    "pub_date": "2026-08-09",
+    "summary": "- «L’Odyssée» de Christopher Nolan, nouveau cheval de Troie des arnaqueurs en ligne Peu après sa sortie en salles, le film a rapidement été exploité par des réseaux d’escroquerie ciblant les internautes cherchant à voir le film en ligne gratuitement.\n- Passer la publicité Passer la publicitéLe héros d’Homère aurait-il inspiré les spécialistes de l’arnaque en ligne ?.\n- La sortie de L’Odyssée, de Christopher Nolan, a suscité l’intérêt de ceux qui misent sur l’impatience des spectateurs pour les attirer vers de faux sites et dérober leurs données personnelles.\n- C’est d’abord l’entreprise de cybersécurité Malwarebytes qui a alerté sur le phénomène.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "c97291e0f4",
+    "title": "OpenAI ralentit le développement d'Astra après des tests de <b>cybersécurité</b> inquiétants",
+    "link": "https://www.clubic.com/actualite-624556-openai-ralentit-le-developpement-d-astra-apres-des-tests-de-cybersecurite-inquietants.html",
+    "source": "clubic.com",
+    "pub_date": "2026-08-09",
+    "summary": "- C’est une première pour OpenAI, qui ne sait plus si son futur modèle Astra dépasse ou non le niveau de risque cybersécurité le plus élevé de son cadre de sécurité interne.\n- L’entreprise suspend donc certains développements internes du modèle et renforce ses contrôles de sécurité.\n- OpenAI évalue chacun de ses modèles avec Preparedness Framework, qui date de 2023.\n- Cette grille mesure notamment les risques liés à la cybersécurité, jusqu’à un niveau maximal appelé « Critique ».",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "a896b5fd8c",
+    "title": "Ingérences étrangères : sur RTL, un expert en <b>cybercriminalité</b> estime qu'il sera &quot;de plus en ...",
+    "link": "https://www.rtl.fr/actu/sciences-tech/ingerences-etrangeres-sur-rtl-un-expert-en-cybercriminalite-estime-qu-il-sera-de-plus-en-plus-difficile-de-detecter-les-faux-contenus-generes-par-ia-7900660872",
+    "source": "rtl.fr",
+    "pub_date": "2026-08-09",
+    "summary": "- 2 min de lecture À l'approche de la présidentielle, les attaques numériques vont se multiplier.\n- Les autorités et les experts appellent donc à la vigilance face à l'afflux de faux contenus, souvent orchestré depuis l'étranger pour influencer le débat public.\n- Récemment, trois candidats à l'élection de l'année prochaine, Édouard Philippe, Raphaël Glucksmann et Gabriel Attal, ont été ciblés par une campagne de fake news venue de Russie.\n- Pour Denis Jacopini, expert informatique et spécialiste en cybercriminalité et en protection des données, les progrès dans l'intelligence artificielle (IA) vont rendre la détection de ces faux contenus \"de plus en plus difficile\".",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "2e55940a75",
+    "title": "Astra, le prochain modèle d'OpenAI, fait tellement peur que son créateur le place en confinement",
+    "link": "https://www.lesnumeriques.com/intelligence-artificielle/astra-le-prochain-modele-d-openai-fait-tellement-peur-a-son-createur-que-le-developpement-est-ralenti-n260233.html",
+    "source": "lesnumeriques.com",
+    "pub_date": "2026-08-09",
+    "summary": "- Astra, le prochain modèle d'OpenAI, fait tellement peur que son créateur le place en confinement C'est la panique chez OpenAI.\n- Le laboratoire IA a décidé qu'une partie du développement de son prochain modèle Astra est désormais mis en pause.\n- Selon l'entreprise de Sam Altman, ses capacités en cybersécurité inquiètent suffisamment.\n- L'IA serait capable de lancer une cyberattaque en toute autonomie, sans intervention humaine.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "3fe85802cc",
+    "title": "OpenAI freine Astra, un modèle jugé déjà trop fort en <b>cybersécurité</b> - Servicesmobiles.fr",
+    "link": "https://www.servicesmobiles.fr/openai-freine-astra-un-modele-juge-deja-trop-fort-en-cybersecurite-113687",
+    "source": "servicesmobiles.fr",
+    "pub_date": "2026-08-09",
+    "summary": "- OpenAI a ralenti certains travaux sur Astra après avoir jugé son niveau en cybersécurité potentiellement critique.\n- Un signal rare, et lourd, pour le secteur.\n- En bref OpenAI ralentit une partie d’Astra - Le modèle atteint un seuil cyber critique - Des tests externes et garde-fous suivent - Qu’un labo d’IA expose publiquement ses propres freins, avant même la sortie d’un produit, ce n’est pas courant.\n- C’est pourtant ce que fait OpenAI avec Astra, un modèle encore en développement dont certains volets ont été mis en pause après une revue interne.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "4fbf94f11c",
+    "title": "OpenAI suspend les projets Astra en raison des risques de cyberattaques - Business AM",
+    "link": "https://fr.businessam.be/openai-suspend-les-projets-astra-en-raison-des-risques-de-cyberattaques/",
+    "source": "fr.businessam.be",
+    "pub_date": "2026-08-09",
+    "summary": "- Principaux renseignements OpenAI a suspendu certains projets Astra en raison de risques potentiels « critiques » en matière de cybersécurité.\n- - Des environnements sandbox strictement contrôlés isolent désormais le développement du modèle afin d’empêcher toute attaque autonome.\n- - Sam Altman prévoit toujours une mise à disposition publique malgré des défis croissants en matière de confinement.\n- - OpenAI a mis en place des mesures de sécurité plus strictes et suspendu certains projets internes après avoir été incapable d’écarter la possibilité que son modèle de nouvelle génération, Astra, possède des capacités de cybersécurité « critiques ».",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "3b3d708e7f",
+    "title": "Un kit d'espionnage pour iPhone se retrouve sur Internet, n'importe qui peut s'en servir",
+    "link": "https://www.01net.com/actualites/kit-espionnage-iphone-nimporte-qui-peut-desormais-servir.html",
+    "source": "01net.com",
+    "pub_date": "2026-08-09",
+    "summary": "- Les chaînes d’exploitation capables de prendre le contrôle d’un iPhone depuis une simple page web ne courent pas les rues, et leur tarif se négocie habituellement en millions auprès d’une clientèle très particulière.\n- DarkSword appartenait à ce club fermé jusqu’à ce que son code se retrouve dans la nature.\n- L’outil poursuit sa carrière entre des mains qui n’ont rien à voir avec celles de ses commanditaires d’origine, et cette fois à une échelle industrielle.\n- De fausses consoles Amazon et de faux écrans Apple pour appâter Le procédé tient en quelques lignes de JavaScript caché non pas dans une application mais sur une page web.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "f7f7e87691",
+    "title": "Vidéo trompeuses faites avec l'IA : &quot;Il faut augmenter son niveau de prudence&quot;. - YouTube",
+    "link": "https://www.youtube.com/watch?v=jML59feZdKk",
+    "source": "youtube.com",
+    "pub_date": "2026-08-09",
+    "summary": "- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "aab5e8be66",
+    "title": "Impact Centre Chrétien frappé par Qilin : passeports, permis et titres de séjour déjà exposés",
+    "link": "https://www.cyberattaque.org/impact-centre-chretien-frappe-par-qilin-passeports-permis-et-titres-de-sejour-deja-exposes/",
+    "source": "cyberattaque.org",
+    "pub_date": "2026-08-09",
+    "summary": "- Le groupe de ransomware Qilin revendique une cyberattaque contre Impact Centre Chrétien (ICC).\n- Le 8 août 2026, l’organisation apparaît sur le site de fuite des cybercriminels, accompagnée de huit images servant d’échantillon.\n- Ces premières preuves sont particulièrement sensibles : les images publiées montrent notamment des passeports, permis de conduire, titres de séjour et autres documents d’identité.\n- Nous ne reproduisons ni l’identité des personnes concernées ni les informations visibles sur ces documents.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "225ba05a48",
+    "title": "Bitcoin Red Team : quand l'IA débusque des failles critiques au cœur de l'écosystème Bitcoin | JDW",
+    "link": "https://www.journalduweb.org/bitcoin-red-team-quand-lia-debusque-des-failles-critiques-au-coeur-de-lecosysteme-bitcoin/",
+    "source": "journalduweb.org",
+    "pub_date": "2026-08-09",
+    "summary": "- Seize développeurs bénévoles, armés de quatre modèles d’intelligence artificielle, ont passé au crible environ 400 projets Bitcoin en vingt-quatre heures et exhumé quelque 5 000 vulnérabilités, dont 85 jugées critiques.\n- L’initiative, baptisée Bitcoin Red Team, a dépensé près de 40 000 dollars en jetons IA la semaine dernière pour bâtir ce qui ressemble à l’audit de sécurité le plus massif jamais conduit sur l’infrastructure open-source du réseau.\n- En vidéo, le résumé de l’audit à grande échelle mené par la Bitcoin Red Team : 390 projets scrutés en 27,5 heures avec l’IA, 85 failles critiques identifiées.\n- Le principe d’une red team est ancien dans la cybersécurité, il consiste à simuler le comportement d’un attaquant pour identifier les brèches avant qu’un adversaire réel ne s’y engouffre.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "98a36a33d1",
+    "title": "<b>Ransomware</b> : 37% des victimes subissent un second chantage",
+    "link": "https://dcod.ch/2026/08/09/ransomware-second-chantage/",
+    "source": "dcod.ch",
+    "pub_date": "2026-08-09",
+    "summary": "- TL;DR : L’essentiel Selon une enquête menée par Proofpoint auprès de plus de 900 responsables de sécurité, un peu plus de la moitié des organisations victimes de rançongiciel choisissent de payer la somme exigée pour restaurer leurs activités.\n- - Céder au chantage ne garantit pas la fin de l’incident.\n- Près de 37% des entreprises ayant versé une première rançon subissent immédiatement une seconde demande d’extorsion de la part des pirates.\n- - L’intelligence artificielle renforce considérablement l’efficacité des piratages.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "0eb693881f",
+    "title": "Émission spéciale 01 business en direct du IBM Solutions Connect (2/4) – 11/10 : Actualités",
+    "link": "https://actu.orange.fr/videos/economie/emission-speciale-01-business-en-direct-du-ibm-solutions-connect-2-4-11-10-CNT000002r8K7i.html",
+    "source": "actu.orange.fr",
+    "pub_date": "2026-08-09",
+    "summary": "- Émission spéciale 01 business en direct du IBM Solutions Connect (2/4) – 11/10 par BFMBUSINESS La sécurité des données dans les entreprises a été abordée par Jean-François Louâpre, responsable sécurité AG2R et président du Club des experts de la sécurité et de l’information (CESIN), Hervé Schauer, membre du conseil d’administration de Clusif, et Anthony Morel, journaliste High-tech BFM Business.\n- - Émission spéciale 01 business en direct du IBM Solutions Connect, du 11 octobre, présenté par Frédéric Simottel, sur BFM Business.\n- Vidéo suivante dans 5 secondes Autres vidéos Vos réactions doivent respecter nos CGU.\n- 00:34Sports - OM : Genesio a eu « des frissons » - 09/08France - Vague d’hommages après la mort de l’actrice Dominique Frot - 09/08France - Détention de Redouane Faïd : un juge demande son changement de prison pour détention \"indignes\", le parquet fait appel - 09/08France - Décès de la comédienne Dominique Frot à 68 ans - 09/08Auto - Tesla prend l'avantage lors d'un test de sécurité face aux voitures chinoises -.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "95a0a377fa",
+    "title": "Plus de 1 000 athlètes ont participé à la course de la Journée de la <b>cybersécurité</b>.",
+    "link": "https://www.vietnam.vn/fr/hon-1-000-van-dong-vien-tham-gia-giai-chay-ngay-an-ninh-mang",
+    "source": "vietnam.vn",
+    "pub_date": "2026-08-09",
+    "summary": "- Le matin du 9 août, sur le campus VNG (zone franche d'exportation de Tan Thuan, Hô Chi Minh-Ville), le Département de la cybersécurité et de la prévention de la criminalité de haute technologie ( ministère de la Sécurité publique ), en coordination avec la police de Hô Chi Minh-Ville et l'Association nationale de la cybersécurité, a organisé la course de la Journée vietnamienne de la cybersécurité 2026.\n- L'événement a attiré plus de 1 000 athlètes.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "2392f25c26",
+    "title": "Des défis à l'ère numérique au rôle de la <b>cybersécurité</b> - Journal Lao Động",
+    "link": "https://fr.laodong.vn/lao-dong-cuoi-tuan/tu-thach-thuc-trong-ky-nguyen-so-den-vai-tro-cua-an-ninh-mang-1746619.ldo",
+    "source": "fr.laodong.vn",
+    "pub_date": "2026-08-09",
+    "summary": "- Des défis à l'ère numérique au rôle de la cybersécurité À partir de 2024, le gouvernement a fixé le 6 août de chaque année comme Journée vietnamienne de la cybersécurité afin de sensibiliser le public au rôle et à la signification de la cybersécurité.\n- La cybercriminalité devient de plus en plus sophistiquée Début juillet 2026, s'adressant au journal Lao Dong, Mme Nguyen Thi Lan (nom du personnage modifié), ouvrière dans une entreprise de confection à Can Tho, a déclaré qu'elle avait failli devenir victime d'un stratagème d'usurpation d'identité de fonds caritatifs.\n- Son mari a eu un accident vasculaire cérébral, a perdu sa capacité de travail, ses deux jeunes enfants, toute la famille ne compte que sur son maigre salaire d'ouvrière.\n- Après que sa situation a été connue de nombreuses personnes, Mme Lan a reçu un appel d'une personne se présentant comme un représentant d'un fonds de bienfaisance, annonçant que le dossier de soutien de sa famille avait été approuvé pour un montant de 30 millions de dongs.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "07ccc87938",
+    "title": "OpenAI freine Astra suite à des inquiétudes en <b>cybersécurité</b> - Brief IA",
+    "link": "https://www.briefia.fr/article/openai-freine-astra-suite-a-des-inquietudes-en-cybersecurite",
+    "source": "briefia.fr",
+    "pub_date": "2026-08-09",
+    "summary": "- Tu suis la course aux modèles IA ?.\n- Chaque sortie (GPT, Claude, Gemini, Mistral…) décryptée le soir même, en 5 min.\n- Gratuit.\n- Inclus dès l'inscription : notre sélection des meilleurs guides & comparatifs IA.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "c976c928de",
+    "title": "L'actualité IT: Le redressement fragile d'IBM - 26/01 - Orange Actu",
+    "link": "https://actu.orange.fr/videos/economie/l-actualite-it-le-redressement-fragile-d-ibm-26-01-CNT000002r8KCm.html",
+    "source": "actu.orange.fr",
+    "pub_date": "2026-08-09",
+    "summary": "- L’actualité IT: Le redressement fragile d’IBM - 26/01 par BFMBUSINESS Passage en revue de l’actualité IT de la semaine avec Frédéric Simottel.\n- Au programme: le redressement fragile d’IBM, le déroulement du Forum International de la Cybersécurité (FIC), le décodage de l’ADN organisationnel, et la mise à l’amende d’Oracle pour discrimination.\n- - 01 Business Forum - L’hebdo, du DATE, présenté par Frédéric Simottel, sur BFM Business.\n- L'émission qui accompagne les entreprises dans leur transition numérique.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "b59cd14c66",
+    "title": "OpenAI suspend le développement de son nouveau modèle Astra en raison de problèmes ...",
+    "link": "https://www3.nhk.or.jp/nhkworld/fr/news/20260809_01/",
+    "source": "www3.nhk.or.jp",
+    "pub_date": "2026-08-09",
+    "summary": "- OpenAI a annoncé vendredi qu'il suspendait le développement de son prochain modèle d'IA, Astra, invoquant un risque critique potentiel en matière de cybersécurité.\n- Le développeur américain de ChatGPT a déclaré que ses évaluations internes du modèle ont révélé « des progrès significatifs en matière de codage d'agents et de cybersécurité ».\n- OpenAI a indiqué ne pas pouvoir exclure qu'Astra ait atteint un niveau de capacité critique en matière de cybersécurité.\n- Le développeur d'IA a précisé que le modèle pourrait détecter des failles logicielles zero-day ou exécuter de manière autonome des cyberattaques de grande envergure.",
+    "added_on": "2026-08-09"
+  },
+  {
+    "id": "d524b9b044",
+    "title": "<b>Cybersécurité</b> : Keeper Security surveille les agents IA à Paris - Presse Agence",
+    "link": "https://presseagence.fr/paris-cybersecurite-keeper-security-etend-sa-surveillance-aux-agents-dintelligence-artificielle/",
+    "source": "presseagence.fr",
+    "pub_date": "2026-08-09",
+    "summary": "- PARIS : Cybersécurité – Keeper Security étend sa surv… Partager : PARIS : Cybersécurité – Keeper Security étend sa surveillance aux agents d’intelligence artificielle Face à la prolifération des agents IA, Keeper Security lance une solution de gouvernance pour contrôler leur activité sur les terminaux d’entreprise.\n- Keeper Security, acteur majeur de la sécurité des identités et de la gestion des accès privilégiés (PAM), a annoncé une avancée significative pour sa solution Keeper Endpoint Privilege Manager.\n- L’entreprise y intègre désormais une gouvernance par intelligence artificielle dite « agentique », permettant de superviser et de contrôler les actions des agents d’IA directement sur les postes de travail des employés.\n- Cette innovation vise à combler une faille de sécurité grandissante à l’heure où l’adoption de l’IA s’accélère dans le monde professionnel.",
+    "added_on": "2026-08-09"
+  },
+  {
     "id": "d2b0ad2445",
     "title": "Vishing par voix clonées : Citadel et Point72 dans le viseur - Pasquale Pillitteri",
     "link": "https://pasqualepillitteri.it/fr/news/10258/vishing-voix-clonees-fonds-wall-street",
