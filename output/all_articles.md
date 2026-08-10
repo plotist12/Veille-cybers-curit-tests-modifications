@@ -1,5 +1,156 @@
-# Résumés – 2026-08-09
+# Résumés – 2026-08-10
 
+
+## [L'incident Hugging Face: à qui profite la peur? - Les Affaires](https://www.lesaffaires.com/opinions/lincident-hugging-face-a-qui-profite-la-peur/)  
+*Source : lesaffaires.com | Publication : 2026-08-10*
+
+- L’incident Hugging Face: Ã qui profite la peur?.
+- Martin Berthiaume|PubliÃ© il y a 14 secondes(Photo: AP/Michael Dwyer, File) EXPERT INVITÃ.
+- Quand un modÃ¨le d’OpenAI Â«s’Ã©vadeÂ» de son environnement au moment prÃ©cis oÃ¹ le marchÃ© doute de la valeur des modÃ¨les de pointe, le dirigeant avisÃ© a le droit de poser une question inconfortable: Ã qui profite ce scÃ©nario?.
+- Rappelons de quoi il s’agit.
+
+## [Le pétrole remonte et rattrape Wall Street, les logiciels limitent la casse | Option finance](https://www.optionfinance.fr/info-financiere-en-continu/d/2026-08-10-le-petrole-remonte-et-rattrape-wall-street-les-logiciels-limitent-la-casse.html)  
+*Source : optionfinance.fr | Publication : 2026-08-10*
+
+- Les marchés américains ont commencé la semaine en légère baisse lundi, la remontée du pétrole et des rendements obligataires effaçant une partie du soulagement provoqué vendredi par le rapport sur l'emploi, tandis que la vigueur des logiciels et de la cybersécurité a limité les pertes.
+- Le S&P 500 a terminé en baisse de 0,06% à 7753,0 points, le Nasdaq 100 a cédé 0,34% à 29 621,8 points et le Dow Jones a reculé de 0,11% à 53 976,1 points.
+- Alors que les investisseurs avaient terminé la semaine dernière en réduisant leurs anticipations de resserrement monétaire après la faiblesse des créations d'emplois, le dossier iranien a rapidement remis le risque inflationniste au premier plan.
+- Le WTI a gagné près de 5% alors que Téhéran et Oman semblaient encore éloignés d'un accord définitif permettant de normaliser le trafic dans le détroit d'Ormuz.
+
+## [OpenAI lance GPT-5.6-Cyber pour aider les défenseurs à repérer les failles avant les attaquants](https://www.lefilia.fr/article/5993140-openai-lance-gpt-5-6-cyber-pour-aider-les-defenseurs-a-reperer-les-failles-avant-les-attaquants)  
+*Source : lefilia.fr | Publication : 2026-08-10*
+
+- OpenAI lance GPT-5.6-Cyber pour aider les défenseurs à repérer les failles avant les attaquants L'entreprise OpenAI a présenté GPT-5.6-Cyber, un modèle d'intelligence artificielle conçu pour aider les équipes de cybersécurité à repérer des failles avant que des attaquants ne les exploitent.
+- Selon OpenAI, ce modèle répond correctement jusqu'à 98,5 % des requêtes liées à la sécurité qui seraient normalement bloquées par les garde-fous habituels des systèmes d'IA.
+- GPT-5.6-Cyber a déjà permis de découvrir deux vulnérabilités jusqu'alors inconnues dans le navigateur Chrome.
+- L'accès à cet outil nécessite une vérification d'identité, une mesure destinée à limiter les usages malveillants tout en permettant aux professionnels légitimes de l'utiliser pleinement.
+
+## [Sekur Private Data Ltd. (NASDAQ:SWISF) | - WebDisclosure](http://www.webdisclosure.com/article/sekur-private-data-ltd-nasdaq-swisf-sekur-private-data-presente-ses-solutions-de-communication-avancees-a-la-conference-dodiis-OiWqYyeVXdy)  
+*Source : webdisclosure.com | Publication : 2026-08-10*
+
+- on Sekur Private Data Ltd.
+- (NASDAQ:SWISF) Sekur Private Data présente ses solutions de communication avancées à la conférence DoDIIS Sekur Private Data, une entreprise de Miami spécialisée dans la cybersécurité et les communications privées, participe à la conférence mondiale DoDIIS 2026 à Tampa, en Floride.
+- Elle y présente ses solutions de communication SekurOne CUI à la communauté du renseignement, avant leur lancement prévu en octobre.
+- Les conseillers de Sekur rencontrent des clients et partenaires potentiels pour promouvoir SekurOne.
+
+## [Les actions de CrowdStrike et Palo Alto Networks atteignent de nouveaux sommets après Black Hat.](https://fr.qz.com/crowdstrike-palo-alto-networks-stock-black-hat-ai-scurit-081026)  
+*Source : fr.qz.com | Publication : 2026-08-10*
+
+- Les actions de CrowdStrike $CRWD et Palo Alto Networks $PANW ont grimpé de plus de 5 % pour atteindre des sommets historiques lundi après la conférence annuelle Black Hat sur la cybersécurité à Las Vegas, où la demande pour les outils de sécurité basés sur l'intelligence artificielle a dominé les conversations de l'industrie, selon CNBC.
+
+## [OpenAI met son IA Astra en pause après un test de <b>cybersécurité</b> inquiétant - CNET France](https://fr.cnet.com/openai/5416/openai-met-son-ia-astra-en-pause-apres-un-test-de-cybersecurite-inquietant)  
+*Source : fr.cnet.com | Publication : 2026-08-10*
+
+- Une IA capable de repérer des failles informatiques et de lancer une attaque presque seule ?.
+- C’est le scénario qui inquiète OpenAI.
+- Le laboratoire vient de mettre une partie des travaux sur son modèle Astra en pause après des tests qui ont révélé des capacités très élevées en cybersécurité.
+- Astra est encore en développement et n’est pas disponible au public.
+
+## [Les cyberattaques contre le secteur de la santé ont bondi de 14 % au premier semestre 2026.](https://health-isac.org/fr/Les-cyberattaques-contre-le-secteur-de-la-santé-ont-bondi-de-14-%-au-premier-semestre-2026./)  
+*Source : health-isac.org | Publication : 2026-08-10*
+
+- Les cyberattaques contre le secteur de la santé ont bondi de 14 % au premier semestre 2026.
+- Les hôpitaux constatent une augmentation des attaques par usurpation d'identité et par ingénierie sociale, tout en devant relever le défi permanent de la recherche et de la mise à jour des anciens équipements, explique Errol Weiss, responsable de la sécurité chez Health-ISAC. «.
+- Les RSSI hospitaliers avec lesquels je m’entretiens prennent cette menace au sérieux », affirme-t-il.
+- Leur priorité absolue est de disposer des ressources nécessaires pour protéger efficacement les réseaux hospitaliers : cela implique de pouvoir recruter et fidéliser des talents expérimentés en cybersécurité et d’acquérir les technologies indispensables.
+
+## [Inde : une loi ouvre la voie à des commissions sur les paiements numériques - TradingView](https://fr.tradingview.com/news/afp:84c3813b0670c:0/)  
+*Source : fr.tradingview.com | Publication : 2026-08-10*
+
+- Inde : une loi ouvre la voie à des commissions sur les paiements numériques La chambre haute du parlement indien a adopté lundi une loi qui prépare le terrain à une évolution de son système de paiements numériques, le gouvernement espérant qu'elle contribuera au financement de l'amélioration des infrastructures et au renforcement de la cybersécurité.
+- L'interface de paiement unifiée (Unified Payments Interface, UPI), soutenue par le gouvernement, constitue l'épine dorsale du traitement des paiements numériques sur smartphone, permettant d'effectuer des paiements entre applications et banques participantes.
+- C'est "le plus grand système de paiements en temps réel au monde en volume", selon le Fonds monétaire international (FMI), traitant plus de transactions que Visa ou Mastercard à l'échelle mondiale.
+- UPI a rapidement gagné en ampleur depuis son lancement en 2016, les volumes de transactions ayant été multipliés par cinq au cours des cinq dernières années - pour atteindre 241 milliards de paiements d'une valeur d'environ 3.300 milliards de dollars au cours du dernier exercice, selon les chiffres du ministère des Finances.
+
+## [Un virus chinois se propage en Europe : routeurs, PC et smartphones dans le viseur des pirates](https://www.01net.com/actualites/virus-chinois-propage-13-pays-europe-routeurs-pc-smartphones-viseur-pirates.html)  
+*Source : 01net.com | Publication : 2026-08-10*
+
+- Les chercheurs d’Arctic Wolf ont découvert qu’un redoutable virus chinois opère un retour en force.
+- Intitulé LightSpy, le logiciel malveillant est apparu pour la première fois il y a huit ans, en 2018.
+- À l’époque, le malware s’est montré plutôt discret et s’est surtout distingué par des fonctions rudimentaires.
+- Deux ans plus tard, LightSpy a attiré l’attention des chercheurs de Trend Micro en s’attaquant aux iPhone de militants pro-démocratie à Hong Kong.
+
+## [ServiceNow Autonomous Security réunit six solutions de sécurité, de l'exposition à la ...](https://itsocial.fr/cybersecurite/cybersecurite-actualites/servicenow-autonomous-security-reunit-six-solutions-de-securite-de-lexposition-a-la-conformite-post-quantique/)  
+*Source : itsocial.fr | Publication : 2026-08-10*
+
+- ServiceNow a réuni six solutions de sécurité sous le nom d’Autonomous Security, de la gestion d’exposition à la conformité, en passant par les identités et la réponse à incident.
+- L’ensemble repose sur les technologies d’Armis et de Veza, deux sociétés absorbées par l’éditeur, et se greffe sur son AI Control Tower.
+- Huit des douze fonctions annoncées sont disponibles, les quatre autres n’arriveront qu’en décembre 2026.
+- Une direction informatique empile les outils de sécurité, du SIEM au scanner de vulnérabilités, chacun avec sa console.
+
+## [le gestionnaire du fichier national d'identification des chiens, chats et furets (I-CAD) révèle ... - BFM](https://www.bfmtv.com/tech/cybersecurite/dans-l-impossibilite-technique-de-notifier-les-utilisateurs-le-gestionnaire-du-fichier-national-d-identification-des-chiens-chats-et-furets-i-cad-revele-avoir-ete-victime-d-une-cyberattaque-un-an-apres_AV-202608100375.html)  
+*Source : bfmtv.com | Publication : 2026-08-10*
+
+- Dans "l'impossibilité technique" de notifier les utilisateurs: le gestionnaire du fichier national d'identification des chiens, chats et furets (I-CAD) révèle avoir été victime d'une cyberattaque… un an après L'affaire aura pris près d'un an pour être rendue publique : en septembre 2025, les serveurs d'Ingenium Animalis, le gestionnaire du fichier national d'identification des chiens, chats et furets (ou I-CAD), ont été victimes d'une cyberattaque menant à une fuite de données.
+- Elle vient seulement d'être révélée après une vague de mails de phishing.
+- "En septembre 2025, nos équipes ont identifié une vulnérabilité informatique susceptible d'avoir permis l'interrogation automatisée de certains enregistrements présents dans notre base.
+- L'incident a été immédiatement circonscrit et des mesures techniques ont été déployées pour en empêcher toute réapparition," précise Ingenium Animalis dans un communiqué.
+
+## [OpenAI craint que son futur modèle ne soit trop puissant: la start-up met en pause une partie ...](https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-craint-que-son-futur-modele-ne-soit-trop-puissant-la-start-up-met-en-pause-une-partie-des-activites-d-astra-a-cause-des-risques-en-cybersecurite_AV-202608100269.html)  
+*Source : bfmtv.com | Publication : 2026-08-10*
+
+- OpenAI craint que son futur modèle ne soit trop puissant: la start-up met en pause une partie des activités d'Astra à cause des risques en cybersécurité Mieux vaut prévenir que guérir.
+- Après les récents incidents en cybersécurité qu'OpenAI a rencontré, la start-up préfère jouer la carte de la prudence.
+- Elle a annoncé vendredi suspendre ses activités internes autour d'un nouveau modèle d'IA en développement baptisé Astra.
+- La raison: il ne répond pas encore aux normes de sécurité mises en place par l'entreprise.
+
+## [Astra suspendu : un risque de <b>cybersécurité</b> critique aurait été atteint. - Facebook](https://www.facebook.com/Numerama/posts/astra-suspendu-un-risque-de-cybersécurité-critique-aurait-été-atteint/1517223987101846/)  
+*Source : facebook.com | Publication : 2026-08-10*
+
+- Nous privilégierons le transfert de technologies: formation de spécialistes locaux à l'utilisation des solutions russes en cybersécurité , intelligence.
+
+## [Après son succès dans la <b>cybersécurité</b>, Israël part à la conquête de l'IA mondiale - IsraJ](https://israj.media-j.com/article/67003/apres-son-succes-dans-la-cybersecurite-israel-part-a-la-conquete-de-lia-mondiale)  
+*Source : israj.media-j.com | Publication : 2026-08-10*
+
+- Netanyahu veut reproduire avec l'intelligence artificielle la stratégie qui a permis à Israël de s'imposer dans la cybersécurité.
+- Il rappelle qu'il y.
+
+## [Les API, nouvel angle mort de la <b>cybersécurité</b> à l'heure de l'IA - ITforBusiness.fr](https://www.itforbusiness.fr/les-api-nouvel-angle-mort-de-la-cybersecurite-a-lheure-de-lia-106267)  
+*Source : itforbusiness.fr | Publication : 2026-08-10*
+
+- Secu Les API, nouvel angle mort de la cybersécurité à l’heure de l’IA Par Laurent Delattre, publié le 10 août 2026 L’IA agentique a besoin d’API pour accéder aux données et agir dans le système d’information.
+- Mais à mesure qu’elles prolifèrent, ces portes d’entrée deviennent aussi l’un des nouveaux angles morts de la cybersécurité.
+- Et en matière de sécurité des API, les entreprises semblent courir derrière leurs propres infrastructures si l’on en croit le dernier rapport Akamai.
+- Un rapport d’Akamai pointe la vogue des intrusions passant par les API, désormais devenues des cibles privilégiées des attaquants.
+
+## [Émirats arabes unis : des cyberattaques visant des secteurs stratégiques mises en échec](https://lematin.ma/monde/eau-des-cyberattaques-visant-des-secteurs-strategiques-mises-en-echec/360333)  
+*Source : lematin.ma | Publication : 2026-08-10*
+
+- Ces attaques ont fait l’objet d’une réponse "proactive et immédiate", permettant de contenir les tentatives d’intrusion avant que leurs auteurs ne puissent atteindre leurs objectifs ou affecter la continuité des systèmes et des services vitaux, a indiqué le Conseil de cybersécurité du gouvernement émirati dans un communiqué, relayé par l’agence de presse émiratie.
+- Le Conseil a également précisé que les attaques ont adopté plusieurs vecteurs et méthodes, notamment des tentatives d’intrusion dans les systèmes et infrastructures numériques, le ciblage de comptes et de données opérationnelles, ainsi que des campagnes ciblées d’hameçonnage (phishing) et des tentatives d’exploiter les utilisateurs comme point d’entrée dans les espaces visés.
+- Les équipes nationales de cybersécurité sont parvenues à détecter et à repousser ces diverses attaques, à suivre leurs vecteurs et à identifier les indicateurs de compromission qui leur étaient associés, tout en prenant les mesures techniques nécessaires pour neutraliser les menaces et empêcher leur propagation, a ajouté la même source.
+- Les attaques ont été traitées dès leur détection, avec la mise en œuvre simultanée de mesures de protection, ce qui a permis d’empêcher les assaillants d’atteindre leurs objectifs et de préserver la sécurité et la continuité des secteurs ciblés, a conclu le Conseil.
+
+## [Jugé à risque, le modèle Astra d'OpenAI voit sa sortie repoussée - BDM](https://www.blogdumoderateur.com/modele-astra-openai-sortie-repoussee/)  
+*Source : blogdumoderateur.com | Publication : 2026-08-10*
+
+- Jugé à risque, le modèle Astra d’OpenAI voit sa sortie repoussée OpenAI suspend une partie du développement de son modèle Astra et repousse sa sortie, faute de pouvoir exclure un niveau de risque cyber jugé « critique ».
+- OpenAI a annoncé, vendredi 7 août 2026, suspendre une partie de ses activités internes autour d’Astra, son prochain modèle majeur.
+- Ses évaluations internes montrent des progrès marqués en codage agentique et en cybersécurité, au point que la firme ne peut plus écarter le niveau de risque le plus élevé de son cadre de sécurité.
+- La sortie du modèle est repoussée, sans calendrier annoncé.
+
+## [OpenAI renforce la sécurité d'Astra en raison de ses capacités cyber - ITdaily](https://itdaily.fr/nouvelles/securite/openai-suspend-le-developpement-du-modele-astra-pour-des-raisons-de-securite/)  
+*Source : itdaily.fr | Publication : 2026-08-10*
+
+- Selon OpenAI, le futur modèle d’IA Astra réalise de tels progrès dans le domaine des capacités de cybersécurité que les mesures de sécurité sont renforcées.
+- OpenAI indique dans un blogpost que son nouveau modèle Astra, encore en développement, a atteint un « seuil critique de cybersécurité ».
+- Des évaluations internes signalent un possible dépassement de seuil, ce qui a conduit l’entreprise à ralentir temporairement le développement.
+- Les modèles précédents, tels que GPT-5.6 Sol, étaient encore évalués sur un seuil élevé, mais non critique.
+
+## [Aux États-Unis, une nouvelle vague de cyberattaques cible les réseaux d'eau en s'attaquant ...](https://www.usine-digitale.fr/cybersecurite/aux-etats-unis-une-nouvelle-vague-de-cyberattaques-cible-les-reseaux-deau-en-sattaquant-a-des-equipements-industriels-exposes-sur-internet.QSGBHVFQUZE6NG6MXOHIB3AEVA.html)  
+*Source : usine-digitale.fr | Publication : 2026-08-10*
+
+- cybermenaces.
+- Un constat partagé par plusieurs spécialistes du secteur ... cybersécurité de base capables de freiner ce type d'intrusion.
+- La.
+
+## [Anthropic : Claude Code active le mode Auto par défaut pour programmer avec moins d'interventions](https://www.blog-nouvelles-technologies.fr/377805/claude-code-mode-auto-anthropic/)  
+*Source : blog-nouvelles-technologies.fr | Publication : 2026-08-10*
+
+- Anthropic franchit une nouvelle étape dans l’automatisation du développement assisté par IA.
+- À partir du 14 août, le mode Auto de Claude Code deviendra l’expérience par défaut pour les abonnés Pro, Max et Team.
+- L’objectif est clair : réduire les interruptions liées aux demandes de validation et permettre à l’assistant de programmer avec une autonomie bien plus importante.
+- Une évolution qui illustre la confiance grandissante des éditeurs d’IA dans leurs agents… tout en relançant le débat sur la place du contrôle humain.
 
 ## [<b>Cybersécurité</b> : Dissecto intègre l'IA agentique à sa plateforme HydraVision - Actutem](https://www.actutem.com/cybersecurite-dissecto-integre-lia-agentique-a-sa-plateforme-hydravision/)  
 *Source : actutem.com | Publication : 2026-08-09*
