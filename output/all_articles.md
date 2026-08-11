@@ -1,5 +1,155 @@
-# Résumés – 2026-08-10
+# Résumés – 2026-08-11
 
+
+## [CEVA Logistics : une cyberattaque aux répercussions très étendues - LeMagIT](https://www.lemagit.fr/actualites/366648772/CEVA-Logistics-une-cyberattaque-aux-repercussions-tres-etendues)  
+*Source : lemagit.fr | Publication : 2026-08-11*
+
+- rost9 - stock.adobe.com CEVA Logistics : une cyberattaque aux répercussions très étendues Huit centres de distributions sont touchés, affectant notamment De Bijenkorf, Bol, Ace & Tate, ING, l'Ajax et, l'éditeur Valve.
+- Mais également des données personnelles de leurs clients.
+- C'est le 29 juillet dernier que CEVA Logistics a été victime d'une cyberattaque, pour l'heure non revendiquée.
+- De Bijenkorf a été le premier à communiquer á son sujet, évoquant évasivement un incident de cybersécurité affectant « un partenaire logistique ».
+
+## [Cyberattaques d'usines d'eau potable : entrevue avec un expert en <b>cybersécurité</b> - YouTube](https://www.youtube.com/watch?v=epI273ezRmU)  
+*Source : youtube.com | Publication : 2026-08-11*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Cyberattaque d'usines d'eau potable : entrevue avec un expert en <b>cybersécurité</b>](https://ici.radio-canada.ca/info/videos/1-10734216/cyberattaque-usines-eau-potable-entrevue-avec-un-expert-en-cybersecurite)  
+*Source : ici.radio-canada.ca | Publication : 2026-08-11*
+
+- 7:41 Cyberattaque d’usines d’eau potable : entrevue avec un expert en cybersécurité Deux usines d’eau potable, une en Ontario, une au Québec, ont été piratées le même jour, le 23 juillet, par des groupes pro-russes.
+- À Saint-Noël, dans le Bas-Saint-Laurent, les pirates ont réussi à s’infiltrer dans le système de contrôle et à modifier le taux de chlore.
+- Ottawa et Québec enquêtent, pendant qu’aux États-Unis le FBI examine plus d’une trentaine d’attaques similaires cet été.
+- Le reportage de Marianne Depelteau et l’entrevue de Steve Waterhouse, expert en cybersécurité industrielle.
+
+## [Plus de 4 000 photos pédopornographiques découvertes chez un homme travaillant avec ...](https://www.ladepeche.fr/2026/08/11/plus-de-4-000-photos-pedopornographiques-decouvertes-chez-un-homme-travaillant-avec-des-enfants-il-est-mis-en-examen-a-vesoul-13504911.php)  
+*Source : ladepeche.fr | Publication : 2026-08-11*
+
+- Plus de 4 000 photos pédopornographiques découvertes chez un homme travaillant avec des enfants : il est mis en examen à Vesoul l'essentiel Un habitant de Vesoul (Haute-Saône) a été interpellé mercredi 5 août 2026 par la cellule cybercriminalité de la police nationale.
+- Lors d'une perquisition à son domicile, plus de 4 000 photos et 44 vidéos pédopornographiques ont été découvertes.
+- C'est au cours d'une cyberpatrouille de routine que la cellule cybercriminalité de la police nationale de Haute-Saône l'a repéré.
+- Mercredi 5 août 2026, un habitant de Vesoul a été interpellé et placé en garde à vue.
+
+## [Le répertoire de ruses que les agents IA ont déjà éprouvé et ce qu'il annonce - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/le-repertoire-de-ruses-que-les-agents-ia-ont-deja-eprouve-et-ce-quil-annonce/)  
+*Source : itsocial.fr | Publication : 2026-08-11*
+
+- Entre novembre 2025 et août 2026, quatre incidents ont fait apparaître un même répertoire de ruses chez des agents IA occupés à « accomplir leur tâche », consensus fabriqué entre faux comptes, agents piégeant d’autres agents, tâche fragmentée pour dissimuler un plan d’ensemble, preuves effacées après coup.
+- Aucun épisode ne prête d’intention hostile au modèle, mais chacun préfigure ce qu’un modèle conçu pour attaquer pourrait un jour combiner.
+- Le 4 août 2026, l’AI Security Institute britannique (AISI) a publié un rapport d’incident détaillant dix-neuf actions non sanctionnées relevées sur cent vingt-deux tentatives d’évaluation menées entre le 25 et le 28 juillet, dont dix-sept imputables à Mythos 5, le modèle d’Anthropic, et deux à GPT-5.6 Sol testé sans classifieurs de sécurité.
+- Les deux modèles avaient un accès internet et des garde-fous éditeur désactivés, conditions posées par l’AISI pour mesurer une capacité offensive brute plutôt qu’un comportement encadré.
+
+## [<b>Cybersécurité</b> : protéger les services essentiels face à des menaces grandissantes - UMQ](https://umq.qc.ca/publication/cybersecurite-proteger-les-services-essentiels-face-a-des-menaces-grandissantes/)  
+*Source : umq.qc.ca | Publication : 2026-08-11*
+
+- Publié le 11 août 2026 Les récentes cyberattaques visant des stations de traitement des eaux au Québec et ailleurs au Canada démontrent que les infrastructures municipales sont désormais les cibles privilégiées des cybercriminels.
+- Les municipalités gèrent aujourd’hui une multitude de systèmes numériques essentiels à la population : réseaux d’eau potable, infrastructures de transport, sécurité publique, données personnelles… Les conséquences d’un incident peuvent être importantes au-delà même de l’impact financier, tels que des interruptions de services, des vols de données personnelles ou des perturbations du fonctionnement des infrastructures.
+- Dans un contexte où plusieurs municipalités disposent de ressources limitées pour gérer les risques numériques, un accompagnement et une expertise adaptés aux réalités du terrain sont indispensables pour prévenir, détecter et contrer les menaces.
+- L’UMQ accompagne les municipalités Face à cette situation, la prévention demeure la meilleure stratégie.
+
+## [Uber Freight enquête sur un incident de <b>cybersécurité</b> après les revendications de hackers](https://www.zonebourse.com/actualite-bourse/uber-freight-enquete-sur-un-incident-de-cybersecurite-apres-les-revendications-de-hackers-ce7859dbdf89f123)  
+*Source : zonebourse.com | Publication : 2026-08-11*
+
+- Uber Freight enquête actuellement sur un incident de sécurité des données impliquant un accès non autorisé à une partie de ses systèmes et de ses référentiels, a déclaré mardi un porte-parole de l&#039;entreprise.
+- Il n&#039;y a eu « aucun impact sur les opérations commerciales d&#039;Uber Freight, qui se poursuivent normalement sans interruption », a précisé le porte-parole Sam Hallock. «.
+- Nos systèmes sont sécurisés et pleinement opérationnels. ».
+- Uber fait partie des dizaines de grandes entreprises et institutions financières américaines visées par une vague de tentatives d&#039;extorsion ces dernières semaines, rapportait Reuters le 6 août.
+
+## [Sites d'investissements frauduleux utilisant le nom d'Hydro-Québec : soyez vigilants](https://nouvelles.hydroquebec.com/nouvelles/communiques/tout-quebec/sites-investissements-frauduleux-utilisant-nom-hydro-quebec-vigilants.html)  
+*Source : nouvelles.hydroquebec.com | Publication : 2026-08-11*
+
+- 11 août 2026, Nouvelles générales Sites d’investissements frauduleux utilisant le nom d’Hydro-Québec : soyez vigilants Montréal - Hydro-Québec souhaite informer la population qu’actuellement plusieurs sites d’investissements frauduleux qui utilisent illégalement le nom d’Hydro-Québec ont été mis en ligne.
+- Nos équipes de cybersécurité travaillent activement à fermer ces sites malveillants.
+- Rappelons qu’Hydro-Québec n’émet pas d’actions et ne verse des dividendes qu’à son unique actionnaire qui est le gouvernement du Québec.
+- Hydro-Québec a recours au marché obligataire pour assurer son financement.
+
+## [Uber Freight affirme que l'incident de <b>cybersécurité</b> n'a aucun impact sur ses activités](https://www.zonebourse.com/actualite-bourse/uber-freight-affirme-que-l-incident-de-cybersecurite-n-a-aucun-impact-sur-ses-activites-ce7859dbdc8ff226)  
+*Source : zonebourse.com | Publication : 2026-08-11*
+
+- Uber Freight affirme que l'incident de cybersécurité n'a aucun impact sur ses activitésUber Freight mène actuellement une enquête sur un incident de sécurité des données impliquant un accès non autorisé à une partie de ses systèmes et de ses référentiels, a déclaré mardi un.
+
+## [Opération Signes vitaux : Des tests de résistance à l'effort inédits évaluent la cyber ...](https://health-isac.org/fr/Opération-signes-vitaux--une-première-en-son-genre--tests-d'effort-physique--cyber-résilience-du-secteur-de-la-santé/)  
+*Source : health-isac.org | Publication : 2026-08-11*
+
+- Opération Signes vitaux : Des tests de résistance à l’effort inédits évaluent la cyber-résilience du secteur de la santé Les organismes de santé souhaitent collaborer, comparer leurs approches et renforcer leur coordination en matière de cybersécurité.
+- Cela dépend de relations de confiance et de mécanismes qui leur permettent d'agir collectivement lorsqu'une dépendance commune fait défaut.
+- Par Errol Weiss , Health-ISAC | 6 août 2026 | 2h57 Le mois dernier, des organismes de santé à travers les États-Unis ont mené l'opération Vital Signs, le premier exercice de simulation national mené à l'échelle du secteur en réponse à des cyberattaques majeures.
+- Co-organisé par Health-ISAC et le groupe de travail sur la cybersécurité du Conseil de coordination du secteur de la santé, cet événement virtuel a attiré plus de 500 participants d'organisations de toutes tailles, notamment des hôpitaux, des sociétés pharmaceutiques, des fabricants de dispositifs médicaux, des assureurs, des entreprises de technologies de l'information en santé, des laboratoires, des pharmacies et bien plus encore.
+
+## [Nvidia prépare Nemotron 4, un modèle géant pour renforcer son offre d'IA ouverte](https://www.boursorama.com/bourse/actualites-amp/nvidia-prepare-nemotron-4-un-modele-geant-pour-renforcer-son-offre-d-ia-ouverte-67a2aa394748114f64a483ec301a97b9)  
+*Source : boursorama.com | Publication : 2026-08-11*
+
+- Nvidia prépare Nemotron 4, un modèle géant pour renforcer son offre d'IA ouverte information fournie par Zonebourse 11/08/2026 à 19:17 Nvidia développe Nemotron 4, une nouvelle famille de modèles d'intelligence artificielle destinée à rivaliser avec les meilleurs systèmes ouverts.
+- Son modèle le plus puissant devrait atteindre au moins 1 000 milliards de paramètres, dans un contexte de forte concurrence internationale et d'intérêt croissant pour les technologies à poids ouverts.
+- Selon The Information, Nvidia doit encore achever la dernière phase d'entraînement de Nemotron 4 et n'a fixé aucune date officielle de lancement.
+- Des salariés impliqués dans le projet estiment toutefois que le modèle pourrait être prêt dès la fin de l'automne.
+
+## [Deutsche Bank désigne son principal titre de <b>Cybersécurité</b> - Investing.com](https://fr.investing.com/news/stock-market-news/deutsche-bank-designe-son-principal-titre-de-cybersecurite-93CH-3550742)  
+*Source : fr.investing.com | Publication : 2026-08-11*
+
+- Investing.com -- Deutsche Bank a mis en lumière les principales valeurs de cybersécurité à la suite de son analyse de Black Hat 2026,.
+
+## [L'intelligence artificielle impliquée dans 55 % des crimes signalés - EnquetePlus.com](https://www.enqueteplus.com/content/cybercriminalité-en-afrique-l’intelligence-artificielle-impliquée-dans-55-des-crimes)  
+*Source : enqueteplus.com | Publication : 2026-08-11*
+
+- L’intelligence artificielle impliquée dans 55 % des crimes signalés Selon le Rapport d’évaluation des cybermenaces en Afrique 2026 d’Interpol, 55 % des cybercrimes signalés sur le continent sont désormais facilités par l’intelligence artificielle.
+- Les pertes financières associées à la cybercriminalité ont plus que doublé depuis 2024, passant de 192 à 484 millions de dollars.
+- L’intelligence artificielle occupe une place croissante dans la cybercriminalité en Afrique.
+- D’après le Rapport d’évaluation des cybermenaces en Afrique 2026 d’Interpol, elle intervient dans 55 % des cybercrimes signalés sur le continent.
+
+## [Royal Navy : ces drones britanniques qui communiquaient avec la Chine - L'Express](https://www.lexpress.fr/monde/europe/royal-navy-ces-drones-britanniques-qui-communiquaient-avec-la-chine-GVWJBJCO7FALLFGNGGR76MKHPA/)  
+*Source : lexpress.fr | Publication : 2026-08-11*
+
+- Le problème avec les appareils qui voient tout, c’est qu’ils peuvent aussi être très bavards : depuis mars, les forces britanniques utilisent des K3 Scout, des engins de surface sans équipage destinés à la reconnaissance maritime.
+- Lors d’un contrôle de cybersécurité, le ministère de la Défense a découvert que certaines de leurs caméras contenaient des composants fabriqués en Chine et envoyaient automatiquement des données techniques vers une adresse IP située dans le pays.
+- Depuis, les caméras ont été mises hors ligne.
+- Une faille mais pas d’espion ?.
+
+## [Wallix renforce ses capitaux propres - BFM Bourse](https://www.tradingsat.com/wallix-FR0010131409/actualites/wallix-wallix-renforce-ses-capitaux-propres-1168446.html)  
+*Source : tradingsat.com | Publication : 2026-08-11*
+
+- (Zonebourse.com) - L'éditeur européen de logiciels de cybersécurité spécialisé dans la gestion des identités et des accès a annoncé la montée à son capital de la société d'investissement NextStage AM.
+- L'opération s'est effectuée via la conversion de l'intégralité des obligations souscrites en 2023 en 312 499 actions nouvelles.
+- Avec cette opération, les capitaux propres de Wallix vont être renforcés à hauteur de 5 millions d'euros, avec une réduction de la dette du même montant.
+- L'ensemble de ces ressources consolidées permettra à Wallix de poursuivre sa trajectoire de croissance et d'asseoir sa position de plateforme européenne souveraine dans la cybersécurité.
+
+## [Valve met en garde les acheteurs de matériel Steam : méfiez-vous des arnaques à la livraison.](https://www.malwarebytes.com/fr/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams)  
+*Source : malwarebytes.com | Publication : 2026-08-11*
+
+- La plupart d'entre nous sommes vigilants face aux courriels d'hameçonnage qui ne contiennent que peu d'informations personnelles.
+- Les messages génériques du type « votre compte est suspendu » sont généralement supprimés immédiatement.
+- Mais qu'en est-il des courriels d'hameçonnage qui utilisent votre nom et votre adresse réels, et font référence au produit précis que vous avez acheté le mois dernier ?.
+- Même pour les plus méfiants, cela peut s'avérer convaincant.
+
+## [L'ONU alerte sur les dangers numériques pour les 15-24 ans | VOV5.VN - VOV World](https://vovworld.vn/fr-CH/actualites/lonu-alerte-sur-les-dangers-numeriques-pour-les-15-24-ans-2457131.vov5)  
+*Source : vovworld.vn | Publication : 2026-08-11*
+
+- Dans un rapport publié lundi, à la veille de la Journée internationale de la jeunesse, le 12 août, l’ONU alerte sur les risques que cette hyperconnexion fait peser sur les jeunes: fausses nouvelles, harcèlement, biais algorithmiques, usages malveillants de l’intelligence artificielle.
+- Le rapport rappelle que les jeunes devraient contribuer activement aux débats publics.
+- L’ONU appelle donc les États membres, des entreprises technologiques, des médias et des chercheurs à intégrer leurs perspectives dans les politiques de lutte contre la désinformation, et à faire de leur protection en ligne une priorité absolue.
+
+## [Pourquoi les dirigeants sont désormais les cibles privilégiées des <b>ransomwares</b> - ZDNET](https://www.zdnet.fr/actualites/pourquoi-les-dirigeants-sont-desormais-les-cibles-privilegiees-des-ransomwares-et-6-conseils-pour-se-proteger-499692.htm)  
+*Source : zdnet.fr | Publication : 2026-08-11*
+
+- Points clés à retenir sur les attaques de ransomware ciblées Des cadres ont été les principales cibles d’une campagne de ransomware.
+- - Les cadres disposent souvent de privilèges spéciaux, ce qui en fait des cibles de choix.
+- - La formation et la sécurité réseau sont essentielles pour prévenir ce type d’attaques.
+- - Les attaques par ransomware ne visent pas seulement des organisations spécifiques, mais aussi des employés en particulier.
+
+## [&quot;Ce ne sont pas des incidents de <b>cybersécurité</b> ordinaires&quot;: des élus démocrates demandent ... - BFM](https://www.bfmtv.com/tech/intelligence-artificielle/ce-ne-sont-pas-des-incidents-de-cybersecurite-ordinaires-des-elus-democrates-demandent-des-comptes-a-open-ai-et-anthropic-apres-les-piratages-de-plusieurs-entreprises-par-leurs-modeles-d-ia_AV-202608110368.html)  
+*Source : bfmtv.com | Publication : 2026-08-11*
+
+- "Ce ne sont pas des incidents de cybersécurité ordinaires": des élus démocrates demandent des comptes à OpenAI et Anthropic après les piratages de plusieurs entreprises par leurs modèles d'IA Après les révélations, l'heure des explications est venue.
+- Quelques semaines après les cyberincidents rencontrés par OpenAI et Anthropic, une coalition d'élus démocrates à la Chambre des représentants demande des comptes aux deux entreprises, rapporte Reuters.
+- Menés par les représentants Greg Casar et Doris Matsui, ils ont envoyé deux lettres similaires aux patrons de ces start-up, y exigeant des informations supplémentaires concernant les piratages de sociétés par leurs modèles d'IA.
+- "Bien qu'Anthropic ait divulgué certaines informations concernant ces incidents, vous n'avez pas encore communiqué les journaux (fichiers contenant un historique des événements, NDLR) pertinents, et des questions importantes demeurent sans réponse.
+
+## [Les groupes de hackers nord-coréens accélèrent leur recours à l'IA pour &quot;automatiser&quot; leurs ...](https://www.bfmtv.com/tech/cybersecurite/les-groupes-de-hackers-nord-coreens-accelerent-leur-recours-a-l-ia-pour-automatiser-leurs-cyberattaques-et-la-conception-de-logiciels-malveillants_AV-202608110365.html)  
+*Source : bfmtv.com | Publication : 2026-08-11*
+
+- Les groupes de hackers nord-coréens accélèrent leur recours à l’IA pour "automatiser" leurs cyberattaques et la conception de logiciels malveillants Le groupe de hackers nord-coréen Kimsuky, également connu sous les noms de Velvet Chollima, Black Banshee, THALLIUM, Emerald Sleet ou APT43, semble renforcer son recours à l’intelligence artificielle pour mener ses cyberattaques.
+- Selon l’entreprise sud-coréenne de cybersécurité Genians, le groupe utilise désormais plusieurs outils basés sur des modèles d’IA capables de comprendre et de générer du texte.
+- Ces technologies pourraient notamment l’aider à automatiser certaines attaques, à analyser plus rapidement les données volées ou encore à créer des messages d’hameçonnage (phishing) plus crédibles pour tromper leurs victimes.
+- Les chercheurs ont notamment identifié des outils comme Ollama, GPT4All et Msty, qui permettent de faire fonctionner des modèles d’IA directement sur un ordinateur, sans passer par les serveurs d’une entreprise comme OpenAI.
 
 ## [L'incident Hugging Face: à qui profite la peur? - Les Affaires](https://www.lesaffaires.com/opinions/lincident-hugging-face-a-qui-profite-la-peur/)  
 *Source : lesaffaires.com | Publication : 2026-08-10*
