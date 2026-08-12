@@ -1,5 +1,156 @@
-# Résumés – 2026-08-11
+# Résumés – 2026-08-12
 
+
+## [Kudelski: Nagravision s'associe à Narrative Entertainment](https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/kudelski-nagravision-sassocie-narrative-entertainment)  
+*Source : vermoegenszentrum.ch | Publication : 2026-08-12*
+
+- Il y a 2 heures Description Genève (awp) - Kudelski annonce mercredi avoir conclu un partenariat avec le diffuseur britannique indépendant Narrative Entertainment par l'intermédiaire de sa division Nagravision.
+- Le spécialiste du cryptage de contenus et de la cybersécurité entend améliorer ses services de streaming grâce à ce partenariat.
+- Narrative Entertainment adoptera la plateforme cloud Opentv Entera de Nagravision, dédiée à la découverte de contenus, à la personnalisation et à l'orchestration de services, rapporte un communiqué.
+- La solution permettra à Narrative Entertainment de mieux exploiter les données de ses téléspectateurs et d'étendre sa présence sur des plateformes de télévision connectée telles que Youview et Freeview.
+
+## [Piratages entre amis : les bourdes d'OpenAI et Anthropic ne sont qu'un prélude](https://actu.orange.fr/monde/piratages-entre-amis-les-bourdes-d-openai-et-anthropic-ne-sont-qu-un-prelude-magicExpress-CNT000002riOdS.html)  
+*Source : actu.orange.fr | Publication : 2026-08-12*
+
+- Piratages entre amis : les bourdes d'OpenAI et Anthropic ne sont qu'un prélude © L'Express - Le développement de l'intelligence artificielle va-t-elle créer une cyber-apocalypse ?.
+- Enquête.
+- Elles sommeillent depuis des années dans nos entreprises, nos hôpitaux et nos administrations.
+- Ces faiblesses informatiques que personne n'a encore repérées, les intelligences artificielles les débusquent maintenant en une demi-heure.
+
+## [Les chatbots sont déjà de meilleurs arnaqueurs que les humains, et ce n'est que le début](https://www.science-et-vie.com/technos-et-futur/les-chatbots-sont-deja-de-meilleurs-arnaqueurs-que-les-humains-et-ce-nest-que-le-debut-254127.html)  
+*Source : science-et-vie.com | Publication : 2026-08-12*
+
+- Les chatbots sont déjà de meilleurs arnaqueurs que les humains, et ce n'est que le début Une étude sur 22 personnes montre qu'un chatbot a mieux réussi qu'un opérateur humain formé à obtenir la confiance de ses cibles.
+- Les chatbots arnaqueurs pourraient bientôt automatiser un secteur criminel mondial.
+- Les chatbots arnaqueurs battent déjà les humains sur leur propre terrain.
+- Près d'un sur deux contre à peine deux sur dix, c'est l'écart de réussite entre un agent d'IA et un opérateur humain formé aux tactiques d'arnaque sentimentale.
+
+## [Elle subit 2,63 millions de cyberattaques par jour: Taïwan simule des coupures d'Internet ...](https://www.bfmtv.com/tech/cybersecurite/elle-subit-2-63-millions-de-cyberattaques-par-jour-taiwan-simule-des-coupures-d-internet-pour-se-preparer-a-la-guerre-hybride-contre-la-chine_AV-202608120242.html)  
+*Source : bfmtv.com | Publication : 2026-08-12*
+
+- Elle subit 2,63 millions de cyberattaques par jour: Taïwan simule des coupures d’Internet pour se préparer à la guerre hybride contre la Chine Des pirates informatiques soupçonnés d’être liés à la Chine ont utilisé des outils d’IA accessibles au public pour s’introduire dans des sites gouvernementaux taïwanais.
+- Selon les chercheurs de “Dream”, une entreprise israélienne spécialisée dans l’IA, les attaquants ont notamment développé un outil autonome capable de coordonner plusieurs “agents” d’IA.
+- Pendant quatre jours, jusqu’à huit agents ont simultanément cartographié 21 systèmes, recherché des failles et adapté leurs méthodes lorsqu’ils rencontraient des obstacles.
+- L’opération aurait permis de compromettre au moins 85 comptes gouvernementaux et d’exfiltrer plus de 2.500 dossiers de personnel, avant de viser l’agence taïwanaise de sûreté nucléaire et plusieurs entreprises du secteur de l’énergie.
+
+## [Arnaque à l'éclipse : attention, les pirates vont en profiter pour vous piéger - 01net.com](https://www.01net.com/actualites/arnaque-eclipse-attention-pirates-profiter-pieger.html)  
+*Source : 01net.com | Publication : 2026-08-12*
+
+- Ce 12 août 2026 autour de 19h, une éclipse totale sera visible depuis l’Europe.
+- C’est la première éclipse complète visible sur le continent depuis celle du 11 août 1999.
+- En France, l’éclipse sera partielle, mais elle déchaîne malgré tout les passions.
+- Dans de nombreuses régions, les lunettes solaires taillées pour l’occasion sont en rupture de stock.
+
+## [La <b>cybersécurité</b> en laboratoire - Health-ISAC](https://health-isac.org/fr/cybersécurité-en-laboratoire/)  
+*Source : health-isac.org | Publication : 2026-08-12*
+
+- Quels sont les risques de cybersécurité les plus spécifiques aux environnements de laboratoire par rapport aux autres établissements de santé, et les laboratoires sont-ils souvent négligés dans les stratégies de sécurité des entreprises ?.
+- Phil Englert, vice-président de Health-ISAC en charge de la sécurité des dispositifs médicaux, aborde trois risques majeurs dont les laboratoires doivent être conscients et formule quelques recommandations.
+- Lisez l'article dans Medical Laboratory Observer.
+- En savoir plus Ressources et actualités connexes - Le niveau de risque humain de l'IA - Opération Signes vitaux : Des tests de résistance à l’effort inédits évaluent la cyber-résilience du secteur de la santé - Que contient le code américain ?.
+
+## [Nador : deux jeunes arrêtés pour avoir incité au franchissement de la frontière vers Melilla](https://www.yabiladi.com/articles/details/200549/nador-deux-jeunes-arretes-pour.html)  
+*Source : yabiladi.com | Publication : 2026-08-12*
+
+- Ces arrestations font suite à des informations recueillies par l'unité de lutte contre la cybercriminalité relevant de la Direction générale de la.
+
+## [NUVITIA.COM ciblée par <b>ransomware</b>, une fuite de... - FrenchBreaches](https://frenchbreaches.com/alertes/nuvitia-com-rw_VGxWV1NWUkpRUzVEVDAxQVkyeHZjQT09)  
+*Source : frenchbreaches.com | Publication : 2026-08-12*
+
+- Ressources utiles : Annuaire fuite de données | Que faire après une fuite de données | Blog fuite de données Alertes liées Autres victimes de clop Si cet article vous a plu, n’hésitez pas à nous suivre sur X pour plus de contenus exclusifs.
+
+## [Des pirates informatiques ciblent les usines de traitement d'eau québécoises - 98.5 Montréal](https://www.985fm.ca/audio/794543/des-pirates-informatiques-ciblent-les-usines-de-traitement-d-eau-quebecoises)  
+*Source : 985fm.ca | Publication : 2026-08-12*
+
+- Des cyberpirates russophones ciblent des infrastructures d'eau potable au Québec et en Ontario.
+- L'expert en cybersécurité Steve Waterhouse déplore la vulnérabilité des municipalités et la lenteur des gouvernements à réagir face à ces attaques, souvent commises pour le simple défi ou la notoriété.
+- Bien que des systèmes de contrôle industriel aient été exposés, aucun dommage majeur n'a été causé cette fois-ci.
+- Toutefois, l'expert avertit que ces intrusions pourraient un jour perturber l'approvisionnement ou empoisonner l'eau.
+
+## [Pologne : une cyberattaque expose les données médicales de près de 19 millions de personnes](https://www.lalibre.be/international/europe/2026/08/12/pologne-une-cyberattaque-expose-les-donnees-medicales-de-pres-de-19-millions-de-personnes-REYGXRF33RGJHMMASOCFMEBSQE/)  
+*Source : lalibre.be | Publication : 2026-08-12*
+
+- Pologne : une cyberattaque expose les données médicales de près de 19 millions de personnes La Pologne fait face à une crise majeure de cybersécurité, dont les conséquences pourraient se faire sentir bien au-delà du secteur de la santé.
+- Publié le 12-08-2026 à 17h05 - Mis à jour le 12-08-2026 à 17h25 - Les autorités polonaises ont annoncé mercredi une fuite massive de données médicales et personnelles concernant près de 19 millions de citoyens, lors d'une cyberattaque contre un fournisseur de logiciels médicaux.
+- Selon le ministre du Numérique Krzysztof Gawkowski, l'incident constitue "l'un des plus grands" en matière de cybersécurité jamais enregistrés dans l'histoire de ce pays de 37 millions d'habitants.
+- "Rien n'indique aujourd'hui que nous ayons affaire à une attaque extérieure (...) provenant de la Russie ou de tout autre État", a-t-il précisé.
+
+## [Les infrastructures critiques des Maritimes sont-elles à risque de cyberattaque?](https://ici.radio-canada.ca/nouvelle/2274836/cybersecurite-usine-traitement-eau-maritimes)  
+*Source : ici.radio-canada.ca | Publication : 2026-08-12*
+
+- Cyberattaque : les usines d’eau potable au N.-B. et en N.-É.
+- aux aguets Dans la foulée de cyberattaques contre des usines de traitement d’eau potable au Québec et en Ontario, certains se demandent si les infrastructures des Maritimes sont suffisamment protégées.
+- Selon un expert en cybersécurité, il est temps pour les Maritimes d'adhérer à une norme canadienne sur les meilleures pratiques en cybersécurité pour protéger les infrastructures critiques.
+- Photo : iStock D’après un expert en cybersécurité, les normes actuelles de certification sont insuffisantes pour protéger les infrastructures critiques dans les Maritimes, par exemple les usines de traitement d’eau potable.
+
+## [Guerre en Ukraine : l'Allemagne renforce ses services secrets sur fond de menace russe](https://www.sudouest.fr/economie/cybersecurite/guerre-en-ukraine-l-allemagne-renforce-ses-services-secrets-sur-fond-de-menace-russe-30231601.php)  
+*Source : sudouest.fr | Publication : 2026-08-12*
+
+- Face à la menace russe et aux risques de cyberattaques, le gouvernement allemand autorise ses services secrets à mener des opérations de sabotage et de piratage à l’étranger Le gouvernement allemand a présenté mercredi une vaste réforme de ses services de renseignement, leur octroyant des pouvoirs élargis, un tournant jugé nécessaire face à la multiplication des menaces depuis l’invasion russe de l’Ukraine.
+
+## [OpenAI lance une IA de <b>cybersécurité</b> réservée à un cercle restreint d'utilisateurs](https://www.ictjournal.ch/news/2026-08-12/openai-lance-une-ia-de-cybersecurite-reservee-a-un-cercle-restreint-dutilisateurs)  
+*Source : ictjournal.ch | Publication : 2026-08-12*
+
+- OpenAI lance une IA de cybersécurité réservée à un cercle restreint d’utilisateurs OpenAI a développé «GPT 5.6 Cyber», un nouveau modèle d’IA dédié à la cybersécurité.
+- L’entreprise à l’origine de ChatGPT le met à disposition d’un groupe restreint d’entreprises dans le cadre de son programme Daybreak.
+- Aucune commercialisation à grande échelle n’est prévue pour l’heure.
+- OpenAI a lancé une version de son dernier modèle GPT 5.6 spécialisée dans la cybersécurité.
+
+## [Jusqu'à 3 millions de numéros concernés: fermée le 11 août, la plateforme Bloctel qui luttait ...](https://www.bfmtv.com/tech/cybersecurite/jusqu-a-3-millions-de-numeros-concernes-fermee-le-11-aout-la-plateforme-bloctel-qui-luttait-contre-les-appels-indesirables-victime-d-une-fuite-de-donnees_AV-202608120262.html)  
+*Source : bfmtv.com | Publication : 2026-08-12*
+
+- Jusqu'à 3 millions de numéros concernés: fermée le 11 août, la plateforme Bloctel qui luttait contre les appels indésirables… victime d'une fuite de données Au lendemain de sa fermeture au profit d'une nouvelle loi contre le démarchage téléphonique, la plateforme Bloctel annonce avoir été victime d'une fuite de données particulièrement importante.
+- Elle concernerait jusqu'à 3 millions d'utilisateurs inscrits.
+- L'attaque, confirmée par l'État, avait été relevée en premier lieu par le site spécialisé French Breaches après la publication et la mise en vente sur un forum cybercriminel de données liées à celle-ci.
+- Selon l'administration, c'est l'absence de double authentification sur un compte destiné aux entreprises qui aurait permis de récupérer librement des numéros de téléphone d'usagers, qui s'affichaient en clair dans les recherches.
+
+## [L&amp;#039;Iran et la Russie discutent du renforcement de la coopération dans le domaine de la ...](https://www.saba.ye/fr/news3763115.htm)  
+*Source : saba.ye | Publication : 2026-08-12*
+
+- Agence de Presse Yéménite.
+- Accueil Chef de la révolution le président Locales Internationale L‘agression Américain saoudienne Economie Le Développement et les initiatives English | فارسي | Español | Deutsch | عـربـي |.
+- Rechercher | Recherche avancée Caricatures Galerie photo Locales Taiz : Al-Masawi lance un projet d'installation d'énergie solaire et de deux réseaux d'irrigation à l'occasion de la commémoration de la Naissance du Prophète [12 August 2026] Al-Bayda : Le gouverneur de la province lance les travaux de rénovation et d'amélioration de la peinture des rues principales [12 August 2026] Al-Hodeidah : Un rassemblement de protestation colérique pour condamner les atteintes américaines répétées au Saint Coran [12 August 2026] L'autorité locale du district de Hays, dans la province d'Al-Hodeidah, a annoncé son soutien aux opérations militaires menées par les forces armées contre les rassemblements et les mouvements de l'ennemi saoudien sur la Côte Ouest et à travers les différentes provinces [12 August 2026] Raimah : Des marches de grande envergure pour dénoncer les atteintes américaines au Saint Coran [12 August 2026] Enquêtes et reportages Crimes des colons sionistes en Cisjordanie ... Faits et Objectifs : rapport [12 August 2026] Exclusivité à « Saba » : Plus de 66 000 orphelins à Gaza : les pertes et les traumatismes de guerre doublent les souffrances des enfants [12 August 2026] Sana'a : Travaux continus pour l'aménagement de la place réservée aux femmes afin de célébrer la Naissance du Prophète dans la capitale [11 August 2026] Rapport sur les droits humains : Violations et détérioration de la situation humanitaire dans les gouvernorats occupés [10 August 2026] Yémen ... De la tutelle à la souveraineté.
+- Évolution des rapports de force : Rédacteur politique [08 August 2026] L‘agression Américain saoudienne Crimes de l'agression américano-saoudienne-émiratie du 11 août [11 August 2026] Crimes de l'agression américano-saoudienne-émiratie du 10 août [10 August 2026] Crimes de l'agression américano-saoudienne-émiratie du 9 août [09 August 2026] Crimes de l'agression américano-saoudienne-émiratie du 8 août [08 August 2026] Crimes de l'agression américano-saoudienne-émiratie du 5 août [05 August 2026] Internationale L'Iran et la Russie discutent du renforcement de la coopération dans le domaine de la cybersécurité et de la protection des infrastructures critiques [Mercredi, 12 Ao˚t 2026 17:19:30 +0300] Moscou - Saba : L'Iran et la Russie ont tenu une nouvelle série de consultations bilatérales dans la capitale russe, Moscou, sur les mécanismes visant à renforcer la coopération dans le domaine de la cybersécurité, à lutter contre la cybercriminalité et à accroître le niveau de flexibilité et de résilience des infrastructures vitales et des réseaux de communication des deux pays contre les attaques.
+
+## [GPT-5.6-Cyber : quand la cyberdéfense doit, elle aussi, passer à la vitesse machine](https://www.itforbusiness.fr/gpt-5-6-cyber-quand-la-cyberdefense-doit-elle-aussi-passer-a-la-vitesse-machine-106307)  
+*Source : itforbusiness.fr | Publication : 2026-08-12*
+
+- Data / IA GPT-5.6-Cyber : quand la cyberdéfense doit, elle aussi, passer à la vitesse machine Par Laurent Delattre, publié le 12 août 2026 Avec GPT-5.6-Cyber et la refonte de son initiative Daybreak autour de deux niveaux d’accès, Blue et Red, OpenAI ne livre pas simplement un modèle supplémentaire aux experts en cybersécurité.
+- L’entreprise dessine un monde où recherche de vulnérabilités, validation d’exploits, analyse d’incidents et remédiation seront de plus en plus confiées à des agents capables de travailler à une vitesse inaccessible aux équipes humaines.
+- Pour les DSI et les RSSI, le défi ne sera donc bientôt plus seulement d’adopter l’IA.
+- Il sera d’organiser une cyberdéfense capable de la commander, de la surveiller, de lui fixer des limites et de la contrer lorsqu’elle est exploitée à des fins d’attaque.
+
+## [<b>Cybersécurité</b>: l'Albanie en tête du classement mondial - Euronews.com](https://fr.euronews.com/next/2026/08/12/cybersecurite-lalbanie-en-tete-du-classement-mondial)  
+*Source : fr.euronews.com | Publication : 2026-08-12*
+
+- Selon l'e-Governance Academy d'Estonie, l'Albanie et la Tchéquie sont les pays les plus sûrs en cybersécurité, devant l'Allemagne et les États-Unis.
+- L'Albanie affiche les défenses informatiques les plus solides au monde, selon un indice mondial qui place ce pays des Balkans devant des poids lourds technologiques comme l'Allemagne, le Royaume-Uni et les États-Unis.
+- Ce classement, établi par l'e-Governance Academy (eGA) estonienne, attribue une note sur 100 à 155 pays et territoires en fonction de leur capacité à prévenir et à contrer les cyberattaques.
+- En tête, l'Albanie et la Tchéquie ne sont pas forcément les noms auxquels on penserait pour dominer un palmarès mondial de la sécurité.
+
+## [Un PC Windows a 6 fois plus de risques d'être infecté qu'un Mac - Clubic](https://www.clubic.com/actualite-624943-un-pc-windows-a-6-fois-plus-de-chances-d-etre-infecte-qu-un-mac.html)  
+*Source : clubic.com | Publication : 2026-08-12*
+
+- Entre janvier et juillet 2026, l'antivirus de Surfshark a enregistré 391 305 détections de logiciels malveillants.
+- Les appareils Windows, qui représentent 66% des utilisateurs actifs du service, concentrent 92,1% de ces alertes, contre 7,9% pour macOS, qui rassemble pourtant 34% des utilisateurs.
+- Rapporté au nombre d'utilisateurs, cela se traduit par un taux de détection environ six fois plus élevé sur Windows que sur macOS.
+- Ces données sont collectées de façon anonyme par Surfshark Antivirus, lequel, pour mémoire, se base sur la technologie d'Avira.
+
+## [Cette puce dans votre poche semble anodine : elle peut envoyer des SMS à votre insu et ...](https://www.futura-sciences.com/tech/actualites/cybersecurite-cette-puce-votre-poche-semble-anodine-elle-peut-envoyer-sms-votre-insu-declencher-actions-distance-136898/)  
+*Source : futura-sciences.com | Publication : 2026-08-12*
+
+- La première carte SIM a été créée en 1991.
+- Trente-cinq ans plus tard, cette petite puce à l'apparence si simple et anodine se révèle être un nouveau vecteur d'attaque pour des individus malveillants.
+- Une étude, menée par des chercheurs de l'université de Birmingham au Royaume-Uni et présentée cette semaine à la conférence Usenix Woot, dévoile une méthode pour utiliser une carte SIM afin de pirater un appareil.
+- Les chercheurs se sont intéressés aux commandes AT, des instructions envoyées par la carte SIM au modem de l'appareil.
+
+## [Une arnaque téléphonique piège des centaines de mairies en France - 01net.com](https://www.01net.com/actualites/une-arnaque-telephonique-piege-des-centaines-de-mairies-en-france.html)  
+*Source : 01net.com | Publication : 2026-08-12*
+
+- Un commercial a promis à la mairie de Farges-Allichamps un standard téléphonique complet pour 67,50 € par mois.
+- Celle-ci s’est retrouvée avec trois téléphones fixes et des lignes la plupart du temps hors service.
+- La facture s’est quant à elle élevée à 541 € par mois, soit plus de 6 000 € par an.
+- La maire de l’époque n’avait pas lu les petites lignes du contrat.
 
 ## [CEVA Logistics : une cyberattaque aux répercussions très étendues - LeMagIT](https://www.lemagit.fr/actualites/366648772/CEVA-Logistics-une-cyberattaque-aux-repercussions-tres-etendues)  
 *Source : lemagit.fr | Publication : 2026-08-11*
