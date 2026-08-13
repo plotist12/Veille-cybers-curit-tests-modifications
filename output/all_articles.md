@@ -1,5 +1,155 @@
-# Résumés – 2026-08-12
+# Résumés – 2026-08-13
 
+
+## [<b>Cybercriminalité</b> : la Direction des finances publiques a été victime d'un vaste piratage](https://www.nouvelobs.com/economie/20260813.OBS117389/cybercriminalite-la-direction-des-finances-publiques-a-ete-victime-d-un-vaste-piratage.html)  
+*Source : nouvelobs.com | Publication : 2026-08-13*
+
+- Cybercriminalité : la Direction des finances publiques a été victime d’un vaste piratage Un « acteur malveillant » a revendiqué un accès illégal fin juin au système d’information de la DGFiP - la plateforme des impôts -, annonce Bercy ce jeudi.
+- Vous voulez participer au débat ?.
+- S’abonner permet de commenter les articles.
+- Et pas que : vous pouvez les consulter et les offrir à vos proches.
+
+## [Cisco à la peine, les prises de commandes des hyperscalers déçoivent - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites-amp/cisco-a-la-peine-les-prises-de-commandes-des-hyperscalers-decoivent-2155322)  
+*Source : bourse.fortuneo.fr | Publication : 2026-08-13*
+
+- (Zonebourse.com) - Cisco reculait très nettement ce jeudi en Bourse après avoir fait état hier soir de nouvelles commandes jugées décevantes auprès des grands fournisseurs d'infrastructures de centres de données (hyperscalers) alors même que le groupe a fait mieux que prévu sur son 4ème trimestre fiscal.
+- Le spécialiste américain des équipements de réseau, de la cybersécurité et des infrastructures pour centres de données a dévoilé mercredi soir, après la clôture des marchés américains, un chiffre d'affaires de 17,25 MdsUSD au titre de son 4ème trimestre fiscal, en hausse de 18% sur un an, contre 16,84 MdsUSD attendus.
+- Son bénéfice ajusté par action atteint 1,22 dollar, contre 1,17 dollar anticipé par le consensus.
+- La progression reste largement alimentée par les activités de réseau, dont les ventes ont augmenté de 28%, mais elle devient plus large puisque la cybersécurité progresse de 14% et les solutions de collaboration de 12%.
+
+## [Trump enrôle le secteur privé pour les missions de <b>cybersécurité</b> des États-Unis - Next.ink](https://next.ink/251582/trump-enrole-le-secteur-prive-pour-les-missions-de-cybersecurite-des-etats-unis/)  
+*Source : next.ink | Publication : 2026-08-13*
+
+- Trump enrôle le secteur privé pour les missions de cybersécurité des États-Unis Le club des cyber-flibustiers Le 13 août à 14h01 Via un mémo officiel, Donald Trump change la politique de cybersécurité de son pays.
+- Il autorise, sous contrôle de l’État fédéral américain, des entreprises préalablement listées à mener des cyberattaques contre des « organisations criminelles transnationales ».
+- Trump enrôle le secteur privé pour les missions de cybersécurité des États-Unis Le club des cyber-flibustiers Via un mémo officiel, Donald Trump change la politique de cybersécurité de son pays.
+- Il autorise, sous contrôle de l’État fédéral américain, des entreprises préalablement listées à mener des cyberattaques contre des « organisations criminelles transnationales ».
+
+## [Impôts : le site de Bercy piraté, les données de contribuables ont pu être extraites](https://www.lesechos.fr/politique-societe/gouvernement/impots-le-site-de-bercy-pirate-les-donnees-de-contribuables-ont-pu-etre-extraites-2247021)  
+*Source : lesechos.fr | Publication : 2026-08-13*
+
+- Cybersécurité · Finances Publiques.
+- Le ministère des Finances, à Paris, a été.
+
+## [Piratage DGFiP : un hacker dit avoir dérobé les données fiscales de plus de 670 000 Français](https://www.clubic.com/actualite-625210-piratage-dgfip-un-hacker-dit-avoir-derobe-les-donnees-fiscales-de-plus-de-670-000-francais.html)  
+*Source : clubic.com | Publication : 2026-08-13*
+
+- C'est un piratage incroyablement inquiétant qui vient d'être revendiqué sur le dark web.
+- Un hacker affirme avoir volé aux impôts les données de plus de 670 000 Français.
+- On commence aujourd'hui à avoir l'habitude des vols de données.
+- Et ce, tellement que l'on ne fait plus attention à la plupart d'entre eux, ceux dans lesquels les pirates récoltent surtout les identités et les adresses de contact.
+
+## [La plateforme des impôts victime d'une cyberattaque - Le Monde](https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-08-13*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Impôts : la Direction générale des Finances publiques piratée fin juin par un «acteur malveillant](https://www.liberation.fr/economie/la-direction-generale-des-finances-publiques-victime-dun-acces-illegitime-fin-juin-de-la-part-dun-acteur-malveillant-20260813_BGLBBKAFJVDJ3GYUCP2PKHR4UU/)  
+*Source : liberation.fr | Publication : 2026-08-13*
+
+- Ministère de l'EconomieImpôts CybercriminalitéCybersécurité.
+- Dans la même rubrique.
+- Fuites · Impôts : la Direction générale des Finances publiques.
+
+## [La GCSA et l'AETDEW créent conjointement un centre de recherche sur la <b>cybersécurité</b> et l'IA](https://fr.finance.yahoo.com/actualites/gcsa-l-aetdew-créent-conjointement-155941031.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-08-13*
+
+- Un partenariat stratégique réunit l'expertise en ingénierie, en technologie et en cybersécurité de l'IA afin de faire progresser la recherche internationale, le développement des talents et la transformation numérique dans les pays en développement et les économies émergentes.
+- La Global Cybersecurity Alliance (GCSA) et l'Academy of Engineering and Technology of the Developing World (AETDEW) ont signé un accord de coopération à Kuala Lumpur, en Malaisie, établissant officiellement un partenariat stratégique et lançant conjointement le Centre de recherche sur la cybersécurité et l'IA.
+- Le centre de recherche combinera le leadership de l'AETDEW dans le domaine de l'ingénierie et de la technologie avec l'expertise de la GCSA en matière de cybersécurité appliquée à l'IA pour créer une plateforme internationale de collaboration scientifique et de renforcement des capacités.
+- Les deux organisations feront progresser la recherche sur la cybersécurité de l'IA, le développement des talents professionnels, les échanges techniques, la valorisation des résultats de la recherche en applications pratiques et la coopération internationale, tout en favorisant la collaboration entre les gouvernements, l'industrie, le monde universitaire, les institutions de recherche et les organisations internationales.
+
+## [Nouveau Android Un logiciel malveillant permet aux criminels d'utiliser votre carte bancaire ...](https://www.malwarebytes.com/fr/blog/mobile/2026/08/new-android-malware-lets-criminals-use-your-bank-card-in-real-time)  
+*Source : malwarebytes.com | Publication : 2026-08-13*
+
+- Des chercheurs de Group-IB ont découvert une nouvelle famille de logiciels malveillants de type relais NFC, conçue spécifiquement pour capturer des données de cartes en direct via NFC et les transmettre en temps réel à des attaquants.
+- Ils l'ont baptisée « WindRelay ».
+- La technologie NFC (Near Field Communication) est une technologie sans fil qui permet à des appareils tels que les smartphones, les cartes de paiement et les terminaux de paiement de communiquer lorsqu'ils sont très proches.
+- Ainsi, au lieu de voler physiquement votre carte bancaire, les pirates interceptent l'activité NFC d'un téléphone portable infecté et la transmettent en temps réel à un dispositif contrôlé par le criminel et placé devant un terminal de paiement sans contact ou un distributeur automatique de billets compatible avec les retraits sans contact.
+
+## [Le filigrane invisible des textes de Claude n'apporte qu'une illusion de réponse aux risques de l'IA](https://www.latribune.fr/article/tech/90917283870934/le-filigrane-invisible-des-textes-de-claude-n-apporte-qu-une-illusion-de-reponse-aux-risques-de-l-ia)  
+*Source : latribune.fr | Publication : 2026-08-13*
+
+- Le filigrane invisible des textes de Claude n’apporte qu’une illusion de réponse aux risques de l’IA Ce contenu est réservé aux abonnés La Tribune Plusieurs géants de la cybersécurité ont payé cher l’annonce récente l’annonce d’Anthropic, avec des chutes en bourse de 25% pour certains acteurs.
+- Claude.IA.
+
+## [Démarchage téléphonique : 3 millions de numéros exposés après un piratage du service d ...](https://www.sudouest.fr/economie/cybersecurite/demarchage-telephonique-3-millions-de-numeros-exposes-apres-un-piratage-du-service-d-opposition-bloctel-30241646.php)  
+*Source : sudouest.fr | Publication : 2026-08-13*
+
+- La Répression des fraudes a confirmé une fuite de données touchant la liste d’opposition au démarchage téléphonique, tout en précisant que la base de données principale n’a pas été compromise La Répression des fraudes a alerté mercredi les consommateurs à la suite d’une fuite de données de la liste d’opposition Bloctel, concernant 3 millions de numéros de téléphone, mais la base de données elle-même n’a pas été compromise, assure-t-elle.
+
+## [Cisco à la peine, les prises de commandes des hyperscalers déçoivent - Option Finance](https://www.optionfinance.fr/info-financiere-en-continu/d/2026-08-13-cisco-a-la-peine-les-prises-de-commandes-des-hyperscalers-decoivent.html)  
+*Source : optionfinance.fr | Publication : 2026-08-13*
+
+- Cisco reculait très nettement ce jeudi en Bourse après avoir fait état hier soir de nouvelles commandes jugées décevantes auprès des grands fournisseurs d'infrastructures de centres de données (hyperscalers) alors même que le groupe a fait mieux que prévu sur son 4ème trimestre fiscal.
+- Le spécialiste américain des équipements de réseau, de la cybersécurité et des infrastructures pour centres de données a dévoilé mercredi soir, après la clôture des marchés américains, un chiffre d'affaires de 17,25 MdsUSD au titre de son 4ème trimestre fiscal, en hausse de 18% sur un an, contre 16,84 MdsUSD attendus.
+- Son bénéfice ajusté par action atteint 1,22 dollar, contre 1,17 dollar anticipé par le consensus.
+- La progression reste largement alimentée par les activités de réseau, dont les ventes ont augmenté de 28%, mais elle devient plus large puisque la cybersécurité progresse de 14% et les solutions de collaboration de 12%.
+
+## [Ghana : le contrôle des prestataires de <b>cybersécurité</b> se durcit - AGENCE ECOFIN](https://www.agenceecofin.com/actualites-numerique/1308-140886-ghana-le-controle-des-prestataires-de-cybersecurite-se-durcit)  
+*Source : agenceecofin.com | Publication : 2026-08-13*
+
+- (Agence Ecofin) - La montée en puissance du numérique au Ghana s’accompagne d’un besoin accru de protection des infrastructures et des données.
+- Le pays durcit progressivement son cadre réglementaire afin de renforcer la confiance et la résilience de son écosystème numérique.
+- Le Ghana renforce le contrôle des activités de cybersécurité sur son territoire.
+- La Cyber Security Authority (CSA) a récemment sanctionné l’Office of the Registrar of Companies (ORC) et la société Purpleline Solutions pour avoir engagé et fourni, respectivement, des services de cybersécurité sans respecter les exigences de licence prévues par la réglementation nationale.
+
+## [Comment Astrée Software se prépare à l'entrée en vigueur du CRA - LeMagIT](https://www.lemagit.fr/actualites/366649220/Comment-Astree-Software-se-prepare-a-lentree-en-vigueur-du-CRA)  
+*Source : lemagit.fr | Publication : 2026-08-13*
+
+- icetray - Fotolia Comment Astrée Software se prépare à l’entrée en vigueur du CRA Éditeur de logiciels pour l’industrie, Astrée Software va être soumis aux obligations du CRA (Cyber Resilient Act) à partir du mois de septembre.
+- Ses applications ne sont pas considérées comme importantes ou critiques par le texte européen.
+- Mais les moyens à mettre en œuvre restent très structurants.
+- Filiale de 4CAD Group, Astrée Software édite des logiciels de type MES (Manufacturing Execution System) pour les PME et ETI.
+
+## [<b>Cybersécurité</b> et lutte anti-fraude : WhatsApp et Surfshark innovent pour contrer la ...](https://www.socialnetlink.org/2026/08/13/cybersecurite-et-lutte-anti-fraude-whatsapp-et-surfshark-innovent-pour-contrer-la-proliferation-des-arnaques/)  
+*Source : socialnetlink.org | Publication : 2026-08-13*
+
+- La lutte contre les cybermenaces franchit une étape décisive avec l’offensive conjointe de Meta et de Surfshark.
+- Alors que la menace des arnaques textuelles et du phishing ne cesse d’évoluer, les deux acteurs dévoilent des stratégies technologiques distinctes mais complémentaires.
+- D’un côté, WhatsApp cherche à concilier détection automatisée par intelligence artificielle et inviolabilité du chiffrement de bout en bout ; de l’autre, Surfshark mise sur un filtrage intelligent et direct des SMS entrants pour neutraliser les menaces en amont.
+- WhatsApp et l’analyse locale : déjouer les pièges sans trahir le secret des correspondances Face à l’arsenal des escrocs, allant de l’usurpation d’identité aux hameçonnages générés par des algorithmes, WhatsApp officialise Scam Alert, une fonctionnalité optionnelle conçue pour analyser le contenu textuel directement sur l’appareil de l’utilisateur.
+
+## [Washington va confier à des entreprises privées des opérations de piratage contre des ...](https://www.usine-digitale.fr/cybersecurite/washington-va-confier-a-des-entreprises-privees-des-operations-de-piratage-contre-des-groupes-criminels-etrangers.XS2AFFJEAZHT3DFCBEJZ3KHLPM.html)  
+*Source : usine-digitale.fr | Publication : 2026-08-13*
+
+- cybersécurité.
+- La Cybersecurity and Infrastructure Security Agency (Cisa) a perdu environ un tiers de ses effectifs depuis le retour de Donald.
+
+## [Google Chrome : une faille du moteur V8 permet de vous piéger avec une page web trafiquée](https://www.01net.com/actualites/google-chrome-faille-moteur-v8-permet-vous-pieger-page-web-trafiquee.html)  
+*Source : 01net.com | Publication : 2026-08-13*
+
+- Google vient de dégainer une nouvelle mise à jour de sécurité pour Chrome.
+- La mise à jour colmate cinq vulnérabilités, de sévérité élevée, dans le code du navigateur web.
+- Comme toujours, le géant de Mountain View recommande à tous les utilisateurs de mettre à jour leur navigateur sans délai.
+- À lire aussi : Chrome tue votre bloqueur de pub préféré, ce navigateur a trouvé la parade Une nouvelle faille du moteur V8 La première faille concerne le moteur V8, chargé d’exécuter le code Javascript sur Chrome.
+
+## [86 % des PME ont subi un incident de <b>cybersécurité</b> au cours de l'année écoulée - ITdaily](https://itdaily.fr/nouvelles/securite/kaspersky-pme-cyberincident/)  
+*Source : itdaily.fr | Publication : 2026-08-13*
+
+- 86 % des petites et moyennes entreprises ont été confrontées à au moins un incident de cybersécurité au cours de l’année écoulée.
+- Le phishing, l’exploitation de vulnérabilités logicielles et les accès externes ont été les vecteurs d’attaque les plus fréquents.
+- Kaspersky fonde son étude sur 1 800 entretiens avec des spécialistes de la sécurité informatique dans dix-sept pays, provenant d’organisations de moins de 500 employés ainsi que de plus grandes entreprises.
+- En moyenne, chaque organisation a été confrontée à trois types différents d’incidents de sécurité.
+
+## [IBM Intègre les Modèles OpenAI dans sa Plateforme de Livraison de Conseil - Unite.AI](https://www.unite.ai/fr/ibm-embeds-openai-models-into-its-consulting-delivery-platform/)  
+*Source : unite.ai | Publication : 2026-08-13*
+
+- Partenariats IBM Intègre les Modèles OpenAI dans sa Plateforme de Livraison de Conseil Ajouter Unite.AI à vos sources préférées sur GoogleIBM a annoncé un partenariat stratégique avec OpenAI le 13 août 2026, qui intègre les modèles de pointe d’OpenAI, notamment GPT-5.6, et des produits tels que Codex et ChatGPT Work directement dans IBM Consulting Advantage, la plateforme de livraison que ses consultants utilisent pour les engagements clients.
+- L’accord associe le plus profond canal de distribution d’entreprise dans le secteur du conseil avec la famille de modèles la plus utilisée de l’industrie, et il comprend des initiatives de marketing conjointes visant les services financiers, le gouvernement, les télécommunications et la vente au détail.
+- Le partenariat est structuré autour de trois flux de travail, selon l’annonce d’IBM: la conversion des opérations legacy en flux de travail prêts pour l’IA à travers les finances, les achats, les opérations client et les ressources humaines ; la modernisation des applications et le développement logiciel à l’aide de Codex et ChatGPT Work ; et une pratique de cybersécurité élargie basée sur le programme Daybreak d’OpenAI et le service de sécurité autonome d’IBM.
+- IBM met également en place une pratique OpenAI dédiée, avec ce qu’elle décrit comme des milliers de consultants et d’ingénieurs poursuivant des certifications de niveau expert sous le réseau de partenaires d’OpenAI, ainsi que des unités déployées à l’avant qui travaillent à l’intérieur des environnements clients.
+
+## [Unit 42 exécute GPT-5.6 Daybreak chez ses clients et relève 36 % d'expositions hors catalogue CVE](https://itsocial.fr/cybersecurite/cybersecurite-actualites/unit-42-execute-gpt-5-6-daybreak-chez-ses-clients-et-releve-36-dexpositions-hors-catalogue-cve/)  
+*Source : itsocial.fr | Publication : 2026-08-13*
+
+- Palo Alto Networks fait travailler depuis le 12 août des modèles d’intelligence artificielle spécialisés en cybersécurité à l’intérieur des systèmes de ses clients.
+- Ses équipes Unit 42 les emploient à chercher les chemins d’attaque et à vérifier lesquels sont exploitables.
+- Trente-six pour cent des expositions ainsi trouvées ne correspondent à aucune vulnérabilité répertoriée.
+- Palo Alto Networks a annoncé l’extension de son service Unit 42 Frontier AI Exposure Analysis.
 
 ## [Kudelski: Nagravision s'associe à Narrative Entertainment](https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/kudelski-nagravision-sassocie-narrative-entertainment)  
 *Source : vermoegenszentrum.ch | Publication : 2026-08-12*
