@@ -1,5 +1,145 @@
-# Résumés – 2026-08-13
+# Résumés – 2026-08-14
 
+
+## [L'intelligence artificielle industrialise la <b>cybercriminalité</b> en Afrique - Socialnetlink](https://www.socialnetlink.org/2026/08/14/lintelligence-artificielle-industrialise-la-cybercriminalite-en-afrique/)  
+*Source : socialnetlink.org | Publication : 2026-08-14*
+
+- L’intelligence artificielle ne transforme pas seulement les entreprises, les administrations ou les métiers de la création.
+- Elle donne également aux cybercriminels les moyens d’attaquer plus vite, à plus grande échelle et avec un niveau de sophistication jusque-là réservé aux groupes les mieux organisés.
+- Dans son Évaluation des cybermenaces en Afrique 2026, INTERPOL estime que l’IA intervient désormais dans 55 % des cybercrimes signalés sur le continent.
+- L’organisation décrit un écosystème criminel devenu « industrialisé » et sans frontières, alimenté par les escroqueries en ligne, les faux profils, les deepfakes et l’automatisation des attaques.
+
+## [Piratage du site des impôts : 678 000 usagers concernés, selon un nouveau bilan de la ...](https://www.lemonde.fr/pixels/article/2026/08/14/piratage-du-fisc-des-centaines-de-milliers-d-usagers-concernes-la-dgfip-alerte-sur-la-fuite-de-donnees_6746264_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-08-14*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Google intègre la vidéo selfie pour débloquer son compte - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/08/14/google-video-selfie-debloquer-compte/)  
+*Source : dcod.ch | Publication : 2026-08-14*
+
+- TL;DR : L’essentiel Google déploie une nouvelle option de connexion basée sur la vidéo selfie afin d’aider les utilisateurs à retrouver l’accès à leur compte en cas de blocage ou d’absence d’appareil habituel.
+- - La configuration initiale requiert de filmer son visage en effectuant de courts mouvements guidés de la tête, permettant ainsi à la plateforme d’enregistrer plusieurs angles d’analyse.
+- - Lors d’une tentative de récupération, une nouvelle séquence vidéo est comparée au modèle enregistré pour valider l’identité de l’utilisateur et déverrouiller le compte Google de manière sécurisée.
+- - La vidéo selfie constitue la nouvelle option d’authentification lancée par Google pour permettre la récupération d’un compte utilisateur verrouillé grâce à une vérification biométrique faciale dynamique.
+
+## [Cyberattaque contre le fisc : 678 000 usagers concernés, selon un nouveau bilan](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-contre-le-fisc-678-000-usagers-concernes-selon-un-nouveau-bilan-30259377.php)  
+*Source : sudouest.fr | Publication : 2026-08-14*
+
+- La Direction générale des finances publiques a revu à la hausse le nombre de contribuables touchés par le piratage de ses systèmes informatiques Un total de 678 000 particuliers et professionnels sont concernés à ce jour par la cyberattaque contre le système d’information du fisc qui a permis d’extraire des données de contribuables et d’entreprises, a annoncé la Direction générale des finances publiques (DGFiP), qui présente ses excuses.
+
+## [<b>Cybersécurité</b> : pourquoi l'été est la saison préférée des hackeurs - l'Opinion](https://www.lopinion.fr/economie/cybersecurite-pourquoi-lete-est-la-saison-preferee-des-hackeurs)  
+*Source : lopinion.fr | Publication : 2026-08-14*
+
+- Cybersécurité : pourquoi l'été est la saison préférée des hackeurs Alors que la Direction générale des finances publiques a révélé, jeudi 13 août, que les données fiscales de près de 680 000 personnes avaient été piratées, le sujet de la cybercriminalité est plus actuel que jamais.
+- Les attaques, menées par des pirates de plus en plus néophytes, ont souvent lieu l'été, saison de tous les dangers en la matière.
+- C’est un constat établi par les professionnels de la sécurité : l’été, les cyberpirates profitent des équipes réduites et de leur vigilance relâchée pour passer à l’action.
+- Neil Levin, expert cyber et senior manager dans les équipes de MC2I, un cabinet de conseil français spécialisé en transformation numérique, explique à l’Opinion comment s’en prémunir.
+
+## [Plateforme des impôts piratée: 678.000 personnes concernées par la cyberattaque - BFM](https://www.bfmtv.com/tech/cybersecurite/video-plateforme-des-impots-piratee-678-000-personnes-concernees-par-la-cyberattaque_VN-202608140484.html)  
+*Source : bfmtv.com | Publication : 2026-08-14*
+
+- Plateforme des impôts piratée: 678.000 personnes concernées par la cyberattaque Poursuivant ses investigations, la Direction générale des Finances publiques a révélé 678.000 comptes étaient concernés par la cyberattaque contre la plateforme des impôts, qui s'est accompagnée d'un vol de données.
+- | Durée : 1:55.
+
+## [USA : TRUMP privatise la <b>cybersécurité</b> offensive - HardwareCooking](https://www.hardwarecooking.fr/usa-trump-privatise-la-cybersecurite-offensive/)  
+*Source : hardwarecooking.fr | Publication : 2026-08-14*
+
+- Dans ce qui constitue un tournant majeur pour la doctrine numérique américaine, Donald TRUMP a signé un mémorandum de sécurité nationale autorisant des entreprises privées accréditées à mener des opérations de piratage offensif contre des organisations criminelles étrangères.
+- Une délégation inédite de la riposte numérique Le document présidentiel, intitulé « Expanding Capabilities to Combat Transnational Cyber-Enabled Crime », charge le Département de la Justice (DOJ) et le Département de la Sécurité intérieure (DHS) d’établir un programme permettant de mobiliser l’expertise du secteur privé américain.
+- Les entreprises sélectionnées pourront réaliser deux types d’opérations hors des frontières américaines : La cyber-surveillance : l’infiltration clandestine de réseaux criminels afin de collecter des informations stratégiques.
+- Il s’agit ici de légaliser une pratique courante, tout en élargissant le champ des actions autorisées.
+
+## [Les réductions des dépenses publiques conduisent aussi à plus de vols de données fiscales](https://www.liberation.fr/economie/economie-numerique/piratage-dimpotsgouv-les-reductions-des-depenses-publiques-conduisent-aussi-a-plus-de-vols-de-donnees-fiscales-20260814_XL57IEB7YNF3JIILDRMN6FJDMY/)  
+*Source : liberation.fr | Publication : 2026-08-14*
+
+- Il déplore une priorisation des investissements vers le déploiement de l'IA plutôt que la sécurité des outils informatiques.
+- Cybercriminalité.
+
+## [<b>Cybersécurité</b> : le spectre d'un fatalisme numérique - Les Echos](https://www.lesechos.fr/idees-debats/editos-analyses/cybersecurite-le-spectre-dun-fatalisme-numerique-2247159)  
+*Source : lesechos.fr | Publication : 2026-08-14*
+
+- Cybersécurité : le spectre d'un fatalisme numérique.
+- Le piratage du fisc, révélé jeudi, illustre encore les failles de l'Etat en matière de sécurité.
+
+## [DGFIP piratée : revenu fiscal, prélèvement à la source... L'hémorragie des données ... - Challenges](https://www.challenges.fr/entreprise/dgfip-piratee-revenu-fiscal-prelevement-a-la-source-lhemorragie-des-donnees-personnelles-des-francais-se-poursuit-a-grande-echelle_645229)  
+*Source : challenges.fr | Publication : 2026-08-14*
+
+- DGFIP piratée : revenu fiscal, prélèvement à la source.
+- L'hémorragie des données personnelles des Français se poursuit à grande échelle Données fiscales et coordonnées : la fuite de données touchant la direction générale des finances publiques, annoncée jeudi soir, devrait concerner des centaines de milliers de Français.
+- De quoi illustrer, une fois encore, le laxisme de l’Etat français en matière de cybersécurité.
+- La série noire se poursuit pour l’Etat français.
+
+## [Plan blanc : mini-série de prévention - ARS Bourgogne-Franche-Comté - Santé.fr](https://www.bourgogne-franche-comte.ars.sante.fr/plan-blanc-mini-serie-de-prevention)  
+*Source : bourgogne-franche-comte.ars.sante.fr | Publication : 2026-08-14*
+
+- La protection des systèmes d'information ne repose pas uniquement sur des solutions techniques.
+- Les comportements du quotidien jouent un rôle essentiel dans la prévention des cyberattaques.
+- Sensibiliser l'ensemble des professionnels constitue donc un levier majeur pour renforcer la sécurité des établissements de santé et garantir la continuité des prises en charge.
+- Une série inspirée de situations réelles Plan Blanc est une mini-série pédagogique composée de six épisodes courts retraçant les différentes étapes d'une cyberattaque, de la compromission initiale jusqu'à la gestion de crise.
+
+## [Le programme CaRE : comprendre la stratégie nationale de <b>cybersécurité</b> en santé et ses ...](https://www.bourgogne-franche-comte.ars.sante.fr/le-programme-care-comprendre-la-strategie-nationale-de-cybersecurite-en-sante-et-ses-implications)  
+*Source : bourgogne-franche-comte.ars.sante.fr | Publication : 2026-08-14*
+
+- Axe 1 : Gouvernance et résilience Axe 2 : Ressources et mutualisation Axe 3 : sensibilisation Axe 4 : Sécurité organisationnelle Après plusieurs cyberattaques majeures contre des établissements de santé français, l’État a lancé le programme CaRE pour élever durablement le niveau de protection des établissements de santé et médico-sociaux.
+- Nous vous présentons ce programme et sa déclinaison dans notre région.
+- Ces dernières années, plusieurs établissements de santé français ont été victimes de cyberattaques majeures, avec des conséquences très concrètes : dossiers patients inaccessibles, blocs opératoires à l’arrêt, urgences réorientées vers d’autres hôpitaux.
+- Ces incidents ont montré que la sécurité informatique n’est plus un sujet réservé aux techniciens, elle conditionne directement la continuité et la qualité des soins.
+
+## [Créer une machine virtuelle pour isoler un .exe douteux ? Ce logiciel libre rend ça ... - Clubic](https://www.clubic.com/actualite-625339-creer-une-machine-virtuelle-pour-isoler-un-exe-douteux-ce-logiciel-libre-rend-ca-beaucoup-plus-simple.html)  
+*Source : clubic.com | Publication : 2026-08-14*
+
+- Windows sait isoler une application dans un bac à sable, à condition de posséder une édition Pro et d'accepter que tout s'efface à la fermeture.
+- Sandboxie Plus fait les deux, gratuitement.
+- Il arrive régulièrement de devoir lancer un exécutable dont on ne sait pas grand-chose : un utilitaire trouvé sur un forum, la version d'essai d'un éditeur inconnu, un installeur téléchargé sur un miroir douteux.
+- La réponse habituelle consiste à faire confiance à son antivirus, ce qui revient à vérifier l'identité d'un visiteur une fois qu'il est déjà dans le salon.
+
+## [« C'était le dernier bastion » : après le piratage du fisc, l'Etat affiche ses lacunes sur le front ...](https://www.lesechos.fr/tech-medias/hightech/cetait-le-dernier-bastion-apres-le-piratage-du-fisc-letat-affiche-ses-lacunes-sur-le-front-cyber-2247146)  
+*Source : lesechos.fr | Publication : 2026-08-14*
+
+- Et maintenant, le fisc.
+- Dans les couloirs de l'Etat, il se disait que c'était le dernier bastion à ne pas être tombé.
+- Non parce que ses murs cyber.
+
+## [Un &quot;acteur malveillant&quot; a piraté le fisc fin juin, près de 680 000 personnes seraient concernées](https://www.france24.com/fr/france/20260813-acteur-malveillant-piraté-fisc-fin-juin-près-de-680-000-personnes-seraient-concernées)  
+*Source : france24.com | Publication : 2026-08-14*
+
+- Un "acteur malveillant" a piraté le fisc fin juin, près de 680 000 personnes seraient concernées Le système d'information du fisc a été piraté fin juin, a annoncé jeudi le ministère français de l'Économie et des Finances.
+- Selon French Breaches, un site spécialisé dans les cyberattaques, près de 680 000 personnes seraient concernées.
+- Publié le : Le système d'information du fisc a été victime fin juin d'un "accès illégitime", permettant "la consultation et l'extraction de données concernant des particuliers et des professionnels", a annoncé Bercy jeudi 13 août dans un communiqué, sans préciser la nature des données ni le nombre de contribuables concernés.
+- "Mercredi, un acteur malveillant a revendiqué un accès illégitime au système d'information de la Direction générale des finances publiques (DGFiP), intervenu fin juin 2026, après une usurpation d'identité", explique Bercy.
+
+## [Cyberattaque des impôts: &quot;Les données sont déjà en vente&quot;, affirme l'expert en ... - BFM](https://www.bfmtv.com/tech/video-cyberattaque-des-impots-les-donnees-sont-deja-en-vente-affirme-l-expert-en-cybersecurite-clement-domingo_VN-202608140286.html)  
+*Source : bfmtv.com | Publication : 2026-08-14*
+
+- Cyberattaque des impôts: "Les données sont déjà en vente", affirme l'expert en cybersécurité Clément Domingo Moins de 24 heures après la revendication d'une cyberattaque sur la plateforme des impôts sur des forums spécialisés, le ministère de l'Économie prend la parole et officialise la fuite de données très sensibles.
+- | Durée : 1:16.
+
+## [Wallix : deux bonnes nouvelles estivales qui viennent renforcer notre sentiment positif du dossier](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/wallix-deux-bonnes-nouvelles-estivales-qui-viennent-renforcer-notre-sentiment-positif-du-dossier-2247039)  
+*Source : investir.lesechos.fr | Publication : 2026-08-14*
+
+- L'éditeur de logiciels de cybersécurité renforce son assise financière avec l'arrivée au capital de NextStage AM, deux semaines après avoir annoncé de.
+
+## [Cyberattaque contre le fisc : ce que l'on sait sur le vol de données des contribuables - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-contre-le-fisc-ce-que-l-on-sait-sur-le-vol-de-donnees-des-contribuables-30255846.php)  
+*Source : sudouest.fr | Publication : 2026-08-14*
+
+- L’intrusion dans les systèmes de la DGFiP et le détournement de fichiers cadastraux exposent des centaines de milliers de particuliers et de professionnels à des risques accrus d’hameçonnage Le fisc a confirmé jeudi une intrusion et un vol de données dans son système informatique, peu après qu’un cybercriminel a revendiqué une seconde attaque visant des fichiers cadastraux.
+
+## [<b>Cybersécurité</b>: la plateforme des impôts victime d'une cyberattaque, des données sensibles ... - BFM](https://www.bfmtv.com/tech/cybersecurite/video-cybersecurite-la-plateforme-des-impots-victime-d-une-cyberattaque-des-donnees-sensibles-dans-la-nature_VN-202608140299.html)  
+*Source : bfmtv.com | Publication : 2026-08-14*
+
+- Cybersécurité: la plateforme des impôts victime d'une cyberattaque, des données sensibles dans la nature Moins de 24 heures après la revendication d'une cyberattaque sur la plateforme des impôts sur des forums spécialisés, le ministère de l'Économie prend la parole et officialise la fuite de données très sensibles.
+- | Durée : 1:20.
+
+## [&quot;On peut imaginer des tentatives de cambriolage&quot; : une experte en <b>cybersécurité</b> met en ... - TF1 Info](https://www.tf1info.fr/justice-faits-divers/on-peut-imaginer-des-tentatives-de-cambriolage-une-experte-en-cybersecurite-met-en-garde-apres-le-piratage-du-site-des-impots-2458423.html)  
+*Source : tf1info.fr | Publication : 2026-08-14*
+
+- Le système d'information du fisc a été piraté à la fin du mois de juin, a annoncé Bercy, jeudi.
+- - De nombreuses données de particuliers ont été volées et "il ne faut pas prendre ces fuites à la légère", alerte sur LCI Yasmine Douadi, experte en cybersécurité.
+- - "On peut imaginer des cambriolages", ajoute-t-elle.
+- - Une nouvelle fuite de données affole Bercy.
 
 ## [<b>Cybercriminalité</b> : la Direction des finances publiques a été victime d'un vaste piratage](https://www.nouvelobs.com/economie/20260813.OBS117389/cybercriminalite-la-direction-des-finances-publiques-a-ete-victime-d-un-vaste-piratage.html)  
 *Source : nouvelobs.com | Publication : 2026-08-13*
