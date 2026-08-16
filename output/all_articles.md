@@ -1,5 +1,149 @@
-# Résumés – 2026-08-15
+# Résumés – 2026-08-16
 
+
+## [<b>Cybercriminalité</b>. Vous êtes victime ? L'État vous préviendra à partir de ce lundi](https://www.ledauphine.com/faits-divers-justice/2026/08/17/vous-etes-victime-du-piratage-du-fisc-l-etat-vous-previendra-a-partir-de-ce-lundi)  
+*Source : ledauphine.com | Publication : 2026-08-16*
+
+- Cybercriminalité Vous êtes victime du piratage du fisc ?.
+- L’État vous préviendra à partir de ce lundi Etes-vous victimes du piratage informatique à grande échelle ayant visé l’administration fiscale fin juin ?.
+- Les premiers particuliers concernés seront informés dès ce lundi.
+- On fait le point sur cette nouvelle cyberattaque ciblant les services de l’État.
+
+## [The coffee : prendre votre commande à distance, directement du bureau](https://imazpress.com/notre-selection-video/the-coffee-prendre-votre-com)  
+*Source : imazpress.com | Publication : 2026-08-16*
+
+- SAINT-DENIS Un incendie se déclare dans une cour, aucun blessé à déplorer À RETENIR CE SOIR Innovation réunionnaise, contrôles routiers, Euro de natation, cybersécurité et Tambours Sacrés & Co À RETENIR CE SOIR Innovation réunionnaise, contrôles routiers, Euro de natation, cybersécurité et Tambours Sacrés & Co.
+
+## [Piratage du fisc : les sénateurs socialistes demandent une commission d'enquête parlementaire](https://www.lemonde.fr/pixels/article/2026/08/16/piratage-du-fisc-les-senateurs-socialistes-demandent-une-commission-d-enquete-parlementaire_6747471_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-08-16*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Jone Précision menacé par un <b>ransomware</b> : 18 Go et plus de 12 500 fichiers revendiqués](https://www.cyberattaque.org/jone-precision-menace-ransomware-cyberattaque/)  
+*Source : cyberattaque.org | Publication : 2026-08-16*
+
+- Jone Précision est la cible d’une attaque par ransomware revendiquée par le groupe Qilin qui vient de publier l’ensemble des fichiers de la fuite du Stade Français.
+- L’entreprise française apparaît depuis le 15 août 2026 sur le site de fuite des cybercriminels, qui affirment avoir récupéré 18 Go de données représentant 12 578 fichiers.
+- La publication de Jone Précision sur l’infrastructure de Qilin indique qu’une phase d’exfiltration de données aurait eu lieu.
+- En revanche, aucun élément disponible ne permet à ce stade d’affirmer que les systèmes de l’entreprise ont également été chiffrés.
+
+## [Cyberattaques : L'Iran Cible Des Journalistes Israéliens Via WhatsApp Et Telegram](https://www.i24news.tv/fr/actu/international/moyen-orient/artc-cyberattaques-l-iran-cible-des-journalistes-israeliens-via-whatsapp-et-telegram)  
+*Source : i24news.tv | Publication : 2026-08-16*
+
+- i24NEWS - International - Moyen-Orient - Cyberattaques : l’Iran cible des journalistes israéliens via WhatsApp et Telegram - Cyberattaques : l’Iran cible des journalistes israéliens via WhatsApp et Telegram Des journalistes israéliens sont notamment ciblés via WhatsApp et Telegram afin d’accéder à leurs sources, échanges et informations sensibles.
+- Le Shin Bet et la Direction nationale israélienne de la cybersécurité alertent sur une nouvelle vague de tentatives de phishing attribuées aux services de renseignement iraniens et visant spécifiquement des journalistes et professionnels des médias en Israël.
+- Selon un communiqué conjoint, les auteurs cherchent à obtenir des informations sensibles sur les développements politiques et sécuritaires récents.
+- Leur méthode consiste à contacter directement les journalistes, principalement via WhatsApp ou Telegram, en se faisant passer pour des interlocuteurs connus, parfois même pour d’autres journalistes.
+
+## [Windows 11 : Microsoft confirme la refonte majeure de la Taskbar et du menu Démarrer ...](https://www.journalduweb.org/windows-11-microsoft-confirme-la-refonte-majeure-de-la-taskbar-et-du-menu-demarrer-deploiement-imminent/)  
+*Source : journalduweb.org | Publication : 2026-08-16*
+
+- La barre des tâches de Windows 11 va enfin pouvoir migrer sur les bords latéraux de l’écran, et le menu Démarrer se plier aux préférences de chacun.
+- Microsoft vient de pousser ces nouveautés dans le canal Release Preview, dernière antichambre avant la distribution publique, confirmant un calendrier de déploiement qui s’étend de la fin août au mois de septembre 2026.
+- Cinq ans.
+- Il aura fallu cinq ans à Microsoft pour restaurer une fonctionnalité que Windows 10 offrait nativement et que le passage à Windows 11, en 2021, avait froidement supprimée.
+
+## [Piratage du fisc : Sébastien Lecornu présidera lundi une cellule interministérielle de crise](https://www.lemonde.fr/pixels/article/2026/08/16/piratage-du-fisc-sebastien-lecornu-presidera-lundi-une-cellule-interministerielle-de-crise_6747576_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-08-16*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Piratage du Crédit Agricole : un expert en <b>cybersécurité</b> dévoile &quot;la principale façon de ...](https://www.aufeminin.com/societe/piratage-du-credit-agricole-un-expert-en-cybersecurite-devoile-la-principale-facon-de-gagner-de-largent-pour-les-escrocs-2845950.html)  
+*Source : aufeminin.com | Publication : 2026-08-16*
+
+- Piratage du Crédit Agricole : un expert en cybersécurité dévoile "la principale façon de gagner de l’argent" pour les escrocs Des chercheurs en cybersécurité ont révélé au grand jour une campagne de phishing ciblant les clients du Crédit Agricole.
+- Ils dévoilent comment les escrocs utilisent les données personnelles de leur cible pour tenter de leur soutirer de l’argent.
+- Les clients des banques françaises doivent redoubler de vigilance.
+- Une vaste campagne de phishing usurpant l’identité du Crédit Agricole a récemment été dévoilée par les chercheurs de Cybernews.
+
+## [OFCS : un quiz pour apprendre à repérer les images IA - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/08/16/ofcs-quiz-images-ia/)  
+*Source : dcod.ch | Publication : 2026-08-16*
+
+- L’OFCS met en ligne un quiz pour apprendre à distinguer des photos authentiques d’images générées par un modèle d’IA, via trois catégories d’images à analyser.
+- Publiée le 11 août 2026, cette page de l’Office fédéral de la cybersécurité s’inscrit dans une série estivale en quatre parties sur les capacités actuelles de l’IA et ses usages déjà observés côté cybercriminalité.
+- Le principe est simple : observer trois images par catégorie (rues, paysages, personnes), repérer des incohérences, puis décider lesquelles sont originales ou artificielles.
+- Après chaque choix, un clic sur « Vérifier » donne une correction immédiate et une explication des caractéristiques typiques pouvant trahir une génération par IA, avec la possibilité que plusieurs images d’une même catégorie soient artificielles (page du quiz).
+
+## [dupouy-associes.fr ciblée par <b>ransomware</b>, une fuite... - FrenchBreaches](https://frenchbreaches.com/alertes/dupouy-associes-fr-rw_WkhWd2IzVjVMV0Z6YzI5amFXVnpMbVp5UUd4dlkydGlhWFEx)  
+*Source : frenchbreaches.com | Publication : 2026-08-16*
+
+- Dupouy et Associes - Crowe Horwath is a company that operates in the Accounting Services industry.
+- Ressources utiles : Annuaire fuite de données | Que faire après une fuite de données | Blog fuite de données Alertes liées Autres victimes de lockbit5 Si cet article vous a plu, n’hésitez pas à nous suivre sur X pour plus de contenus exclusifs.
+
+## [Tunisie : 114 projets numériques en mise en oeuvre | Africa24 TV](https://africa24tv.com/tunisie-114-projets-numeriques-en-mise-en-oeuvre/)  
+*Source : africa24tv.com | Publication : 2026-08-16*
+
+- La cheffe du gouvernement tunisien, Sarra Zaâfrani Zenzri, a présidé le 15 août 2026, un Conseil ministériel consacré à l’avancement des projets de transformation numérique.
+- 114 projets sont actuellement en cours, tandis que l’application « Khadamet », avec plus de 40 services administratifs, doit être lancée prochainement.
+- Le gouvernement mise aussi sur la fibre optique, la cybersécurité et l’intelligence artificielle pour moderniser l’administration.
+- Objectif : simplifier les démarches, renforcer la transparence et réduire les disparités régionales.
+
+## [Non, votre VPN gratuit ne vous protège pas vraiment : l'alternative suisse est à -70 - Clubic](https://www.clubic.com/bons-plans-623854-non-votre-vpn-gratuit-ne-vous-protege-pas-vraiment-l-alternative-suisse-est-a--70.html)  
+*Source : clubic.com | Publication : 2026-08-16*
+
+- Pour passer un cap en termes de cyberconfidentialité, mieux vaut miser sur un réseau virtuel privé de premier plan.
+- En plus, grâce à l'offre exclusive Clubic, vous profitez d'une belle réduction à long terme sur Proton VPN.
+- Grâce à cette offre exclusive, c'est une réduction de -70 % qui s'applique automatiquement à votre abonnement de 2 ans, disponible dès 2,99 € par mois.
+- Découvrez pourquoi votre suite Proton VPN Plus fait la différence, en termes de cybersécurité, par rapport à un réseau virtuel privé gratuit.
+
+## [Piratage du fisc : Sébastien Lecornu préside lundi une cellule interministérielle de crise, les ...](https://www.liberation.fr/politique/piratage-du-fisc-sebastien-lecornu-preside-lundi-une-cellule-interministerielle-de-crise-les-victimes-informees-a-partir-de-demain-20260816_KHYV3RG5SFABFIKKVKOCJ7YP6A/)  
+*Source : liberation.fr | Publication : 2026-08-16*
+
+- A peine de retour de Gironde lundi, le Premier ministre Sébastien Lecornu va devoir passer à un autre dossier épineux, le piratage informatique à grande échelle dont a été victime le site de l’administration fiscale.
+- Sébastien Lecornu a convoqué une cellule interministérielle de crise (CIC) sur le sujet.
+- Il la présidera en «visioconférence sécurisée», a annoncé dimanche Matignon.
+- Cette réunion des responsables des ministères concernés visera, entre autres, à préparer l’information des 678 000 particuliers ou entreprises victimes d’un accès à leurs données qui doit commencer lundi, a-t-on précisé.
+
+## [85 % des PME interrogées signalent un incident de <b>Cybersécurité</b> selon Kaspersky - ITRmanager](https://itrmanager.com/articles/210666/85-des-pme-interrogees-signalent-un-incident-de-cybersecurite-selon-kaspersky.html)  
+*Source : itrmanager.com | Publication : 2026-08-16*
+
+- Le shadow IT atteint 28 %.
+- Le manque de clarté dans l'attribution des responsabilités et la surcharge des équipes IT ou cyber recueillent chacun 25 %,.
+
+## [Brest arrive en tête du recrutement IA rapporté à la population - La Vie Numerique](https://lavienumerique.com/articles/210669/brest-arrive-en-tete-du-recrutement-ia-rapporte-a-la-population.html)  
+*Source : lavienumerique.com | Publication : 2026-08-16*
+
+- Veuillez activer Javascript pour accéder au site web.
+
+## [L'usurpation d'un proche change d'échelle en Europe - ITchannel](https://itchannel.info/articles/210668/lusurpation-dun-proche-change-dechelle-en-europe.html)  
+*Source : itchannel.info | Publication : 2026-08-16*
+
+- Veuillez activer Javascript.
+
+## [Le <b>ransomware</b> se fragmente et l'IA abaisse la barrière d'entrée - ITRmobiles](https://itrmobiles.com/articles/210665/le-ransomware-se-fragmente-et-lia-abaisse-la-barriere-dentree.html)  
+*Source : itrmobiles.com | Publication : 2026-08-16*
+
+- Veuillez activer Javascript pour accéder au site web.
+
+## [Toute une identité derrière un numéro | Le Defi Media Group](https://defimedia.info/toute-une-identite-derriere-un-numero)  
+*Source : defimedia.info | Publication : 2026-08-16*
+
+- De simple coordonnée, le numéro de téléphone est devenu une clé d’accès à notre identité numérique.
+- À force de le communiquer, nous avons aussi multiplié les portes d’entrée vers notre vie personnelle.
+- On le donne sans y penser.
+- À un livreur, à un commerçant, à un chauffeur, à une école.
+
+## [Cyberattaques : le plan de Lecornu suffira-t-il à colmater les brèches de l'État - La Dépêche](https://www.ladepeche.fr/2026/08/16/cyberattaques-le-plan-de-lecornu-suffira-t-il-a-colmater-les-breches-de-letat-13511008.php)  
+*Source : ladepeche.fr | Publication : 2026-08-16*
+
+- Cyberattaques : le plan de Lecornu suffira-t-il à colmater les brèches de l'État ?.
+- l'essentiel Après une nouvelle fuite de données à la Direction générale des Finances publiques, Sébastien Lecornu accélère la sécurisation informatique de l’État : 200 millions d’euros, nouvelle gouvernance, audits, tests d’intrusion et budgets sanctuarisés.
+- Un changement d’échelle qui intervient toutefois après une succession d’attaques et alors que Solidaires Finances Publiques affirme avoir alerté la DGFiP dès juin.
+- La réponse se veut à la mesure de la menace.
+
+## [Piratage massif de la plateforme des impôts : le parquet de Paris ouvre une enquête](https://www.nouvelobs.com/economie/20260816.OBS117440/piratage-massif-de-la-plateforme-des-impots-le-parquet-de-paris-ouvre-une-enquete.html)  
+*Source : nouvelobs.com | Publication : 2026-08-16*
+
+- Piratage massif de la plateforme des impôts : les sénateurs socialistes demandent une commission d’enquête parlementaire Le parquet de Paris a ouvert une enquête sur la cyberattaque de la Direction générale des Finances publiques (DGFiP), qui a touché près de 700 000 usagers.
+- Vous voulez participer au débat ?.
+- S’abonner permet de commenter les articles.
+- Et pas que : vous pouvez les consulter et les offrir à vos proches. «.
 
 ## [<b>Cybersécurité</b> : 5 choses que vous croyez sûres et qui ne le sont pas - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/11364/cybersecurite-5-choses-que-vous-croyez-sures)  
 *Source : pasqualepillitteri.it | Publication : 2026-08-15*
