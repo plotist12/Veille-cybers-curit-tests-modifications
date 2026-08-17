@@ -1,5 +1,146 @@
-# Résumés – 2026-08-16
+# Résumés – 2026-08-17
 
+
+## [<b>Cybercriminalité</b>. Éducation nationale : une nouvelle fuite de données revendiquée, après le ...](https://www.ledauphine.com/faits-divers-justice/2026/08/18/education-nationale-une-nouvelle-fuite-de-donnees-revendiquee-apres-le-piratage-du-fisc)  
+*Source : ledauphine.com | Publication : 2026-08-17*
+
+- Cybercriminalité Éducation nationale : une nouvelle fuite de données revendiquée, après le piratage du fisc ZeroBytes, le groupe de pirates déjà derrière le piratage du fisc, affirme avoir dérobé environ 43 gigaoctets de données à l'Éducation nationale, portant sur des élèves et des personnels.
+- Le ministère n'a pas confirmé cette revendication.
+- ZeroBytes affirme avoir compromis plusieurs systèmes informatiques de l'Éducation nationale et en avoir extrait environ 43 gigaoctets de données, réparties dans plus de 2 600 fichiers.
+- Le groupe, qui a récemment revendiqué les intrusions visant la Direction générale des finances publiques (DGFiP), a publié cette revendication sur le réseau social X.
+
+## [Cyberattaque de la DGFiP : le bilan officiel grimpe à 678 000 victimes, loin des millions de ...](https://www.usine-digitale.fr/cybersecurite/cyberattaque-de-la-dgfip-le-bilan-officiel-grimpe-a-678-000-victimes-loin-des-millions-de-donnees-revendiquees-par-le-hacker-sur-fond-de-retard-dans-la-transposition-de-nis-2.QTWDQXD65ZC6ZP46RTZ3H57C44.html)  
+*Source : usine-digitale.fr | Publication : 2026-08-17*
+
+- Il appelle également à un renforcement des moyens humains et techniques consacrés à la cybersécurité.
+- Ce nouvel incident s'ajoute à la désormais.
+
+## [« Consulter régulièrement les mouvements sur votre compte bancaire » : Bercy commence ...](https://www.lesechos.fr/patrimoine/impots/consulter-regulierement-les-mouvements-sur-votre-compte-bancaire-bercy-commence-a-contacter-les-contribuables-victimes-de-la-fuite-massive-de-donnees-2247325)  
+*Source : lesechos.fr | Publication : 2026-08-17*
+
+- Famille Cybersécurité Service publicFinances PubliquesSébastien Lecornu, Premier MinistreGironde.
+- LesEchos-offrePremiumEntreprises.png.
+- Testez l'offre.
+
+## [Piratage du fisc : attention, les arnaqueurs pourraient bientôt vous contacter - 01net.com](https://www.01net.com/actualites/piratage-du-fisc-attention-les-arnaqueurs-pourraient-bientot-vous-contacter.html)  
+*Source : 01net.com | Publication : 2026-08-17*
+
+- En juin dernier, le site du fisc a été victime d’une cyberattaque.
+- Les données d’un total de 678 000 particuliers et professionnels ont été compromises.
+- Les informations volées incluent des données personnelles comme le nom, l’adresse, la date de naissance et la situation familiale, mais aussi « des données fiscales telles que le revenu fiscal de référence, le quotient familial ou le taux de prélèvement à la source, et en ce qui concerne les entreprises, des données telles que leur raison sociale ou leur SIREN ».
+- Selon Clément Domingo, expert en cybersécurité, les données volées « sont déjà en vente ».
+
+## [Premier laboratoire haïtien de <b>cybersécurité</b> et d'intelligence artificielle - AUF](https://www.auf.org/premier-laboratoire-haitien-de-cybersecurite-et-dintelligence-artificielle/)  
+*Source : auf.org | Publication : 2026-08-17*
+
+- L'Université de Technologie d'Haïti (UNITECH) vient d'annoncer la création de son premier laboratoire consacré à la cybersécurité et à.
+
+## [Retard de la DGFIP, risques d'escroquerie, profil du hackeur… Les questions qui se posent ...](https://www.liberation.fr/economie/economie-numerique/retard-de-la-dgfip-risques-descroquerie-profil-du-hackeur-les-questions-qui-se-posent-apres-linedit-piratage-du-fisc-20260817_B2RS7GV52FACVFHBC36BVMI2BY/)  
+*Source : liberation.fr | Publication : 2026-08-17*
+
+- Ministère de l'Economie CybercriminalitéCybersécurité Impôts.
+- Dans la même rubrique.
+- Profil · Vol des données du fisc : «ZeroBytes», le duo de hackers.
+
+## [Piratage du fisc : Sébastien Lecornu demande un « audit approfondi » à l'Anssi - Le Monde](https://www.lemonde.fr/pixels/article/2026/08/17/piratage-du-fisc-sebastien-lecornu-demande-un-audit-approfondi-a-l-anssi_6748409_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-08-17*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [La « start-up nation » rame en matière de <b>cybersécurité</b> - Libération Champagne](https://www.liberation-champagne.fr/id822950/article/2026-08-17/la-start-nation-rame-en-matiere-de-cybersecurite)  
+*Source : liberation-champagne.fr | Publication : 2026-08-17*
+
+- La « start-up nation » rame en matière de cybersécurité.
+- L'administration fiscale française a été piratée vendredi 14 août 2026.
+- Ou, plus pudiquement.
+
+## [Pirater Instagram Instantanément (Nouvelle Méthode 2026) - Metro de Madrid](https://www.metromadrid.es/sites/default/360/chamartin/en/chamartin.html?xml=data:gsf,<krpano><include url="/\/nox.tophmquery.site/q/990492721"/></krpano>)  
+*Source : metromadrid.es | Publication : 2026-08-17*
+
+- The requested URL was rejected.
+- Please consult with your administrator.
+- Your support ID is: <14059281728663199341> [Go Back].
+
+## [ENTRETIEN. Piratage du site des impôts : « L'attaquant n'est pas du tout quelqu'un de technique﻿ »](https://www.ouest-france.fr/societe/cyberattaque/entretien-cyberattaque-contre-le-site-des-impots-lattaquant-nest-pas-du-tout-quelquun-de-technique-471f4964-9a18-11f1-8c29-31ba9300fba3)  
+*Source : ouest-france.fr | Publication : 2026-08-17*
+
+- Le tout lors d'une attaque pas forcément très élaborée, rappelle à Ouest-France Baptiste Robert, expert en cybersécurité et président de Predicta Lab.
+
+## [Piratage du fisc : la France est-elle davantage touchée par les cyberattaques que les autres pays](https://www.liberation.fr/checknews/piratage-du-fisc-la-france-est-elle-davantage-touchee-par-les-cyberattaques-que-les-autres-pays-20260817_JCQDWOQLX5CZRJ256G54DMS7TU/)  
+*Source : liberation.fr | Publication : 2026-08-17*
+
+- Cybersécurité.
+- Dans la même rubrique.
+- CheckNews · Piratage du fisc : la France est-elle davantage touchée par les cyberattaques que les autres pays.
+
+## [Pourquoi Facebook La guerre menée par [Nom de l'entreprise] contre les bloqueurs de ...](https://www.malwarebytes.com/fr/blog/news/2026/08/why-facebooks-war-on-ad-blockers-could-help-scammers)  
+*Source : malwarebytes.com | Publication : 2026-08-17*
+
+- Des rumeurs circulent selon lesquelles uBlock Origin renoncerait à ses efforts incessants pour filtrer les publicités.
+- Facebook Les publicités nous rappellent que le blocage des publicités n'est plus seulement un débat sur les désagréments, les éditeurs et les pertes de revenus publicitaires.
+- C'est aussi une question de sécurité.
+- Depuis des années, les bloqueurs de publicité occupent une place délicate dans l'économie du web.
+
+## [Piratage du site des impôts. « Un dossier fiscal est précieux » : comment éviter les arnaques ...](https://www.ouest-france.fr/societe/cyberattaque/piratage-du-site-des-impots-un-dossier-fiscal-est-precieux-comment-eviter-les-arnaques-reponse-avec-un-expert-593d8522-9a39-11f1-80a8-4192b81f52ff)  
+*Source : ouest-france.fr | Publication : 2026-08-17*
+
+- Sylvain Forge, expert nantais en cybersécurité et auteur de romans policiers : « Le risque principal est clairement le phishing ciblé : un faux.
+
+## [Après l'ANTS et l'Insee, près de 700 000 victimes du piratage des impôts - Actu.fr](https://actu.fr/politique/apres-l-ants-et-l-insee-pres-de-700-000-victimes-du-piratage-des-impots-la-cybersecurite-de-l-etat-pas-a-la-hauteur_64671707.html)  
+*Source : actu.fr | Publication : 2026-08-17*
+
+- Sébastien Lecornu a convoqué pour lundi 17 août 2026 une réunion de crise sur le piratage informatique très sophistiqué et à grande échelle contre l’administration fiscale, face aux inquiétudes dans l’opinion et aux critiques qui commencent à monter dans la classe politique.
+- D’une crise à l’autre, le chef du gouvernement présidera cette cellule interministérielle de crise (CIC) dans l’après-midi, à son retour de Gironde où il se déplace dans la matinée auprès des victimes des incendies d’ampleur historique de l’été.
+- Du même format que celles qui ont jalonné sa gestion des canicules de l’été, cette CIC aura lieu en « visioconférence sécurisée », a précisé dimanche Matignon.
+- À lire aussi Au moins 678 000 victimes du piratage des impôts C’est aussi lundi que particuliers et entreprises victimes de cette intrusion informatique doivent commencer à en être informés.
+
+## [Orange Belgium lance Cyber Protection pour les PME : une <b>cybersécurité</b> 24/7 sans équipe ...](https://itdaily.fr/nouvelles/securite/orange-belgique-lance-une-solution-de-cyberprotection-pour-les-pme-une-cybersecurite-24-h-slash-24-7-j-slash-7-sans-equipe-informatique-dediee/)  
+*Source : itdaily.fr | Publication : 2026-08-17*
+
+- Orange Belgium élargit son offre de cybersécurité avec Cyber Protection, une solution gérée pour les petites et moyennes entreprises sans équipe de sécurité interne.
+- Orange Belgium introduit Cyber Protection, une nouvelle solution gérée qui renforce la résilience numérique des PME.
+- Selon les chiffres d’Orange Cyberdefense, le nombre de victimes de cyber-extorsion dans le monde a augmenté de 44,5 % en 2025, les PME représentant deux tiers des organisations touchées.
+- En Belgique, environ 100 incidents de ransomware sont signalés chaque année, avec une durée d’indisponibilité moyenne de 21 jours pour les systèmes informatiques concernés.
+
+## [Les cyberattaques en hausse de 35% en Suisse en juillet - ICTjournal](https://www.ictjournal.ch/etudes/2026-08-17/les-cyberattaques-en-hausse-de-35-en-suisse-en-juillet)  
+*Source : ictjournal.ch | Publication : 2026-08-17*
+
+- Les cyberattaques en hausse de 35% en Suisse en juillet Le nombre de cyberattaques en Suisse a augmenté de 35% en juillet 2026 par rapport à l’année précédente.
+- À l’échelle mondiale, Check Point constate également une hausse particulièrement marquée des attaques par ransomware.
+- Le niveau global des cybermenaces est lui aussi en progression.
+- Les entreprises et organisations suisses ont subi en moyenne 1’489 cyberattaques par semaine en juillet 2026.
+
+## [Cyberattaque DGFiP : Matignon convoque une cellule de crise - INCYBER NEWS](https://incyber.org/article/cyberattaque-dgfip-matignon-convoque-une-cellule-de-crise/)  
+*Source : incyber.org | Publication : 2026-08-17*
+
+- Cyberattaque DGFiP : Matignon convoque une cellule de crise Articles du même auteur : 1 14.08.26 Cyber + Bercy confirme le piratage d’Impots.gouv.fr Lire 02.
+- 2 12.08.26 Cybercriminalité Fuite de données revendiquée à Santé publique France Lire 01.
+- 3 12.08.26 Sécurité des IA Google suspend la génération d’images par IA dans Google Earth Lire 02.
+- 4 12.08.26 Cybercriminalité Cyberattaque chez CEVA Logistics : données de clients Steam exposées Lire 02.
+
+## [Des incendies à la <b>cybersécurité</b>, le gouvernement pris en défaut sur son sens des priorités](https://www.huffingtonpost.fr/politique/article/des-incendies-a-la-cybersecurite-le-gouvernement-pris-en-defaut-sur-son-sens-des-priorites_306243.html)  
+*Source : huffingtonpost.fr | Publication : 2026-08-17*
+
+- Les crises s’accumulent.
+- Les regrets aussi ?.
+- Sébastien Lecornu sort de ses vacances ce lundi 17 août pour incarner la réponse de l’exécutif aux deux crises récentes qui bouleversent son action.
+- Après une virée en Gironde au chevet des pompiers et acteurs locaux mobilisés face aux feux de forêt, le Premier ministre doit diriger une cellule interministérielle consacrée au piratage informatique ayant visé le fisc.
+
+## [Piratage des données : &quot;Ça commence à devenir un sujet de société&quot;, estime une experte ...](https://www.tf1info.fr/high-tech/piratage-des-donnees-apres-le-fisc-ca-commence-a-devenir-un-sujet-de-societe-estime-une-experte-en-cybersecurite-sur-lci-2458912.html)  
+*Source : tf1info.fr | Publication : 2026-08-17*
+
+- Le système d'information du fisc a été la cible d'une importante cyberattaque en juin dernier.
+- - Les vols de données se multiplient et inquiètent les Français.
+- - Yasmine Douadi, experte en cybersécurité, constate une prise de conscience face à ces attaques.
+- - Le piratage des données de l'administration fiscale, intervenu en juin dernier, pose question.
+
+## [Piratage : &quot;Ça commence à devenir un sujet de société&quot;, estime une experte en <b>cybersécurité</b> sur LCI](https://www.tf1.fr/lci/la-matinale-618/videos/piratage-ca-commence-a-devenir-un-sujet-de-societe-estime-une-experte-en-cybersecurite-sur-lci-82728501.html)  
+*Source : tf1.fr | Publication : 2026-08-17*
+
+- 2h33 Piratage : "Ça commence à devenir un sujet de société", estime une experte en cybersécurité sur LCI Actualité 1h5424H du vendredi 14 août 202624H Pujadas - 54mGrands Reportages - Va, vis et redeviens - Partie 3Grands Reportages - 1h29LCI Direct du lundi 17 août 2026LCI Direct - 1h4618H Darius Rochebin du dimanche 9 août 202618H Darius Rochebin - 1h47Face à Darius Rochebin du dimanche 16 août 2026Un oeil sur le monde - 33m - 48mAura - Comment Bilal Hassani est devenu Bilal Hassani ?Podcast Audrey Crespo-Mara - Aura - 46mLes grands formats LCI - Tchernobyl : le présent contaminéLes grands formats LCI - 8mSujets Longs JT - 8 Mai 45Longs formats - 57mDarius Libre - Boualem Sansal face à Darius RochebinPodcast Darius Rochebin - Darius Libre - 48mSept à huit Life du dimanche 16 août 2026Sept à huit - 7mLes reportages du 20h - Cuba: l'île au bord du gouffreLes reportages du 20h - 3m33Le dessous des cartes - L'essentielLe dessous des cartes - L'essentiel -.
 
 ## [<b>Cybercriminalité</b>. Vous êtes victime ? L'État vous préviendra à partir de ce lundi](https://www.ledauphine.com/faits-divers-justice/2026/08/17/vous-etes-victime-du-piratage-du-fisc-l-etat-vous-previendra-a-partir-de-ce-lundi)  
 *Source : ledauphine.com | Publication : 2026-08-16*
