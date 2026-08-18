@@ -1,5 +1,154 @@
-# Résumés – 2026-08-17
+# Résumés – 2026-08-18
 
+
+## [Piratage du fisc, l'autre incendie que le gouvernement peine à éteindre - Libération](https://www.liberation.fr/economie/economie-numerique/piratage-du-fisc-lautre-incendie-que-le-gouvernement-peine-a-eteindre-20260818_RMVAMXGYVJFNPKJRA7OYBRRIHQ/)  
+*Source : liberation.fr | Publication : 2026-08-18*
+
+- Ministère de l'EconomieImpôts CybercriminalitéCybersécurité.
+- Dans la même rubrique.
+- Cybersécurité · Piratage du fisc, l'autre incendie que le.
+
+## [&quot;La <b>cybersécurité</b> n'a pas été une priorité&quot; : les syndicats dénoncent une gestion exposant ...](https://www.lanouvellerepublique.fr/a-la-une/la-cybersecurite-n-a-pas-ete-une-priorite-les-syndicats-denoncent-une-gestion-exposant-les-donnees-de-milliers-de-francais-1787080114)  
+*Source : lanouvellerepublique.fr | Publication : 2026-08-18*
+
+- « La cybersécurité n’a pas été une priorité » : les syndicats dénoncent une gestion exposant les données de milliers de Français AbonnésCet article est réservé aux abonnés numériques.
+- Numérique - France - AbonnésCet article est réservé aux abonnés numériques.
+- Les cyberattaques et fuites de données visant des services de l’État s’enchaînent depuis plusieurs mois.
+- L’Agence nationale des titres sécurisés (ANTS), la Direction générale des Finances publiques (DGFiP), Santé publique France, ou encore l’Éducation nationale ont été visées cette année.
+
+## [<b>Cybersécurité</b> : la France ciblée et fragilisée [L'éditorial de CL] - Charente Libre.fr](https://www.charentelibre.fr/editorial/cybersecurite-la-france-ciblee-et-fragilisee-l-editorial-de-cl-30297290.php)  
+*Source : charentelibre.fr | Publication : 2026-08-18*
+
+- Cybersécurité : la France ciblée et fragilisée [L’éditorial de CL] L’ampleur de ces évasions de données peuvent donner des idées à d’autres, moins attirés par l’argent des individus que par la facilité à déstabiliser un pays entier.
+- Retrouvez notre éditorial du mercredi 19 août 2026.
+- Deux pirates du net au surnom improbable digne d’une blague potache vont-ils transformer leurs actes criminels répétés en affaire d’État ?.
+- Ils s’appellent « Zerobytes »,s’introduiraient dans nombre d’institutions publiques mais aussi privées, voleraient des millions de données sans parfois même que la victime ne s’en rende compte... Deux pirates du net au surnom improbable digne d’une blague potache vont-ils transformer leurs actes criminels répétés en affaire d’État ?.
+
+## [<b>Cybercriminalité</b>. Piratage du fisc : Bercy s'excuse, une nouvelle fuite de données confirmée](https://www.dna.fr/economie/2026/08/18/piratage-du-fisc-bercy-s-excuse-une-nouvelle-fuite-de-donnees-confirmee)  
+*Source : dna.fr | Publication : 2026-08-18*
+
+- Cybercriminalité Piratage du fisc : Bercy s’excuse, une nouvelle fuite de données confirmée Au cœur de l’été, le gouvernement n’avait pas prévu de gérer une polémique nationale.
+- Mais la fuite de données dont a fait l’objet la Direction générale des finances publiques (Dgfip), le 12 août, en a décidé autrement.
+- Ce vol massif a touché 350 000 particuliers et 250 000 professionnels, selon Bercy, un peu moins que les 678 000 comptes annoncés dans un premier temps.
+- Déjà, les hackers ont annoncé les avoir vendues.
+
+## [Vol de données : « Dans les ministères, on fait de la <b>cybersécurité</b> quand on y pense » | Mediapart](https://www.mediapart.fr/journal/france/180826/vol-de-donnees-dans-les-ministeres-fait-de-la-cybersecurite-quand-y-pense)  
+*Source : mediapart.fr | Publication : 2026-08-18*
+
+- Le duo de pirates informatiques ZeroBytes a fait des services de l’État sa cible favorite.
+- Après avoir visé le fisc, il revendique à présent un vol massif de données du ministère de l’éducation nationale, le 25 juillet.
+- Selon le site FrenchBreaches, qui documente les fuites de données en France, les cybercriminels affirment avoir extrait 43 gigaoctets (Go) de données, remontant pour certaines à vingt-cinq ans.
+- Vol de données : « Dans les ministères, on fait de la cybersécurité quand on y pense » Après le fisc, un vol massif de données du ministère de l’éducation nationale a été revendiqué et là encore, l’ampleur de la fuite n’avait pas été mesurée par les autorités.
+
+## [<b>Cybercriminalité</b>. Un faux site internet tente d'arnaquer les amateurs d'Europa-Park](https://www.ledauphine.com/societe/2026/08/18/un-faux-site-internet-tente-d-arnaquer-les-amateurs-d-europa-park)  
+*Source : ledauphine.com | Publication : 2026-08-18*
+
+- Cybercriminalité Un faux site internet tente d’arnaquer les amateurs d’Europa-Park Un faux site imitant celui du célèbre parc d’attractions allemand tente d’attirer les visiteurs avec des offres alléchantes.
+- Une nouvelle arnaque vise les visiteurs d’Europa-Park, rapporte le site d’information Watson.
+- Un site imitant l’interface de celui du célèbre parc d’attractions est récemment apparu.
+- Il tente d’attirer les visiteurs avec des offres exclusives et des promotions alléchantes.
+
+## [Double authentification généralisée, campagnes internes et &quot;bug bounty&quot;: le gouvernement ... - BFM](https://www.bfmtv.com/tech/cybersecurite/double-authentification-generalisee-campagnes-internes-et-bug-bounty-le-gouvernement-detaille-son-plan-pour-renforcer-la-cybersecurite-de-l-administration-fiscale_AV-202608180479.html)  
+*Source : bfmtv.com | Publication : 2026-08-18*
+
+- Double authentification généralisée, campagnes internes et "bug bounty": le gouvernement détaille son plan pour renforcer la cybersécurité de l'administration fiscale Bercy voit trouble depuis les confirmations de trois cyberattaques majeures ayant donné lieu à la fuite de données personnelles et fiscales d'au moins trois millions de personnes.
+- Alors que les investigations se poursuivent contre le groupe de pirates à l'origine des casses, le ministre de l'Action et des comptes publics, David Amiel, a dévoilé un "plan d'action".
+- Objectif affiché : renforcer la cybersécurité de l'administration fiscale, et permettre un audit de l'Annsi, l'agence nationale de la sécurité des systèmes d'information, dont les conclusions sont attendues pour septembre 2026.
+- La double authentification toujours pas généralisée en 2026 Dans un premier temps, la double authentification va être généralisée pour les agents de la Direction générale des finances publiques (DGFiP).
+
+## [Les entreprises de <b>cybersécurité</b> portées par une demande &quot; durable » face à l'adoption de l ...](https://ch.zonebourse.com/actualite-bourse/les-entreprises-de-cybersecurite-portees-par-une-demande-durable-face-a-l-adoption-de-l-ia-en-en-ce7859ddda8ef626)  
+*Source : ch.zonebourse.com | Publication : 2026-08-18*
+
+- Les entreprises de cybersécurité portées par une demande " durable » face à l'adoption de l'IA en entreprise, selon BofALes entreprises de cybersécurité sont en passe de bénéficier d'une demande « durable » en raison de leur rôle croissant dans l'adoption de l'intelligence artificielle par les entreprises,.
+
+## [200 000 personnes et 133 000 informations bancaires concernées : la Mutuelle générale de ...](https://www.sudouest.fr/economie/cybersecurite/200-000-personnes-et-133-000-informations-bancaires-concernees-la-mutuelle-generale-de-prevoyance-victime-d-une-cyberattaque-30296888.php)  
+*Source : sudouest.fr | Publication : 2026-08-18*
+
+- La Mutuelle générale de prévoyance a confirmé avoir subi une intrusion informatique par l’intermédiaire d’un prestataire, sans toutefois pouvoir confirmer l’ampleur des données compromises La Mutuelle générale de prévoyance a confirmé mardi avoir été victime d’une cyberattaque ayant touché l’un de ses prestataires, sans pouvoir à ce stade déterminer quelles données ont été compromises. «.
+- À ce stade, des investigations sont toujours en cours afin de déterminer précisément le périmètre de l’incident et les données concernées », selon un communiqué de cette mutuelle qui compte 480 000 adhérents.
+
+## [Le fisc annonce une troisième fuite rapidement coupée, sur des données liées aux successions](https://www.ledauphine.com/faits-divers-justice/2026/08/18/le-fisc-annonce-une-troisieme-fuite-rapidement-coupee-sur-des-donnees-liees-aux-successions)  
+*Source : ledauphine.com | Publication : 2026-08-18*
+
+- Cybercriminalité Le fisc annonce une troisième fuite rapidement coupée, sur des données liées aux successions Le ministre de l'Action et des Comptes publics David Amiel a présenté des « excuses » mardi pour le piratage du fisc, alors que l'administration a reconnu une « troisième fuite » sur des données moins sensibles liés aux successions, rapidement « coupée ».
+- Le ministre de l'Action et des Comptes publics David Amiel a présenté des « excuses » mardi pour le piratage du fisc, alors que l'administration a reconnu une « troisième fuite » sur des données moins sensibles liés aux successions, rapidement « coupée ». «.
+- Oui, nous nous excusons, parce que ce qui est arrivé est insupportable pour les Français », a avancé David Amiel à l'occasion d'une conférence de presse à Bercy sur le piratage d'ampleur de la Direction générale des finances publiques (DGFiP) qui a abouti au vol des données personnelles de quelque 700.000 particuliers et entreprises.
+- La directrice générale de la DGFiP Amélie Verdier a par ailleurs reconnu mardi une nouvelle « fuite » concernant des données liées aux successions, identifiée lundi par les services de l'Etat avant d'être « coupée ».
+
+## [Piratage du fisc : &quot;La problématique, c'est que cette fuite est conjointe avec d'autres ... - franceinfo](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-la-problematique-c-est-que-cette-fuite-est-conjointe-avec-d-autres-fuites-de-donnees-estime-l-expert-en-cybersecurite-benoit-grunenwald_8151944.html)  
+*Source : franceinfo.fr | Publication : 2026-08-18*
+
+- Piratage du fisc : "La problématique, c'est que cette fuite est conjointe avec d'autres fuites de données", estime l'expert en cybersécurité Benoît Grunenwald Invité de "Télématin" sur France 2, il a alerté mardi sur les tentatives d'escroquerie par mail, par SMS, par appel et même en physique.
+- Après le piratage du fisc, quels sont les risques pour les particuliers ?.
+- Invité de "Télématin" sur France 2, mardi 18 août, un expert en cybersécurité de l'entreprise Eset, Benoît Grunenwald, a estimé que cette fuite de données était "très importante".
+- "La problématique, c'est qu'elle est conséquente, mais qu'elle est surtout conjointe avec d'autres fuites de données.
+
+## [<b>Ransomwares</b> &amp; piratages : 16 cyberattaques d'ampleur du 18 août 2026 (dont Fortinet)](https://dcod.ch/2026/08/18/ransomwares-piratages-16-cyberattaques-dampleur-du-18-aout-2026-dont-fortinet/)  
+*Source : dcod.ch | Publication : 2026-08-18*
+
+- Faits marquants de la semaine Gunra, un ransomware-as-a-service, a ciblé des infrastructures critiques en s’appuyant sur du code Conti divulgué et sur d’anciennes failles affectant des pare-feu et des appliances VPN Fortinet, avec contournement de l’authentification multifacteur.
+- - DeadLock s’appuie sur une infrastructure décentralisée utilisant des services adossés à la blockchain, afin de protéger ses communications avec les victimes et ses activités de fuite de données, dans une logique de résistance aux opérations de démantèlement.
+- - Deux attaques visant des « crypto bridges » (ponts entre blockchains) ont été rapportées à quelques heures d’intervalle : AFX, une bourse décentralisée sur Arbitrum, aurait perdu 24,15 millions de dollars, puis le bridge Verus Ethereum a été visé.
+- - CERT-UA a indiqué qu’une campagne d’usurpation se faisant passer pour des recruteurs cible des informaticiens ukrainiens depuis au moins mai, et l’a reliée à Sandworm, une unité de piratage associée au renseignement militaire russe (GRU).
+
+## [Piratage du fisc : «Si vous recevez un mail, un message ou un appel, il faut le considérer ...](https://www.cnews.fr/france/2026-08-18/piratages-du-fisc-si-vous-recevez-un-mail-un-message-ou-un-appel-il-faut-le)  
+*Source : cnews.fr | Publication : 2026-08-18*
+
+- «Si vous recevez un mail, un message ou un appel, il faut le considérer comme suspect», a conseillé Benoît Grünemwald, expert en cybersécurité, ce mardi sur CNEWS, après les attaques informatiques ayant visé le fisc.
+- Piratage du fisc : «Si vous recevez un mail, un message ou un appel, il faut le considérer comme suspect», conseille cet expert Par.
+- Publié le - Mis à jour le.
+
+## [Éducation nationale : le groupe de pirates ZeroBytes affirme avoir volé les données de ...](https://www.sudouest.fr/economie/cybersecurite/education-nationale-le-groupe-de-pirates-zerobytes-affirme-avoir-vole-les-donnees-de-millions-d-eleves-30296928.php)  
+*Source : sudouest.fr | Publication : 2026-08-18*
+
+- ZeroBytes revendique le vol de données personnelles concernant des millions d’élèves et des dizaines de milliers d’enseignants français Les pirates, qui ont revendiqué avoir dérobé des données du fisc, affirment également avoir mis la main sur des données personnelles de plusieurs millions d’élèves français et des dizaines de milliers d’enseignants, dans un message publié sur un forum.
+- Les pirates, se présentant comme un duo français, ZeroBytes, assurent avoir pu « absorber 346 millions de lignes » de données, dans un message posté lundi.
+- Ils revendiquent avoir des numéros de téléphone, des adresses mails et des adresses de domicile notamment, remontant parfois jusqu’aux années 2000.
+
+## [<b>Cybersécurité</b> : les approches offensives reviennent en force - LeMagIT](https://www.lemagit.fr/dessin/Cybersecurite-les-approches-offensives-reviennent-en-force)  
+*Source : lemagit.fr | Publication : 2026-08-18*
+
+- Cybersécurité : les approches offensives reviennent en force L’administration Trump a l’intention d’autoriser des entreprises privées à conduire des opérations de riposte numérique.
+- Dans le même temps, le gouvernement allemand élargit les pouvoirs offensifs de ses services.
+- > Lire l’article de Valéry Rieß-Marchive.
+
+## [<b>Cybercriminalité</b>. Piratage du fisc : Bercy s'excuse, une nouvelle fuite de données confirmée](https://www.ledauphine.com/economie/2026/08/18/piratage-du-fisc-bercy-s-excuse-une-nouvelle-fuite-de-donnees-confirmee)  
+*Source : ledauphine.com | Publication : 2026-08-18*
+
+- Cybercriminalité Piratage du fisc : Bercy s’excuse, une nouvelle fuite de données confirmée Au cœur de l’été, le gouvernement n’avait pas prévu de gérer une polémique nationale.
+- Mais la fuite de données dont a fait l’objet la Direction générale des finances publiques (Dgfip), le 12 août, en a décidé autrement.
+- Ce vol massif a touché 350 000 particuliers et 250 000 professionnels, selon Bercy, un peu moins que les 678 000 comptes annoncés dans un premier temps.
+- Déjà, les hackers ont annoncé les avoir vendues.
+
+## [ANTS, DGFiP : pourquoi la France reste la plus exposée - Atlantico](https://atlantico.fr/article/decryptage/fuites-donnees-france-parmi-pays-plus-exposes-ants-dgfip-grunemwald-berthier)  
+*Source : atlantico.fr | Publication : 2026-08-18*
+
+- 18 août 2026 Hier l’ANTS, maintenant la DGFIP, et demain ?.
+- Pourquoi la France reste parmi les pays les plus exposés aux fuites massives de données Après l’ANTS et la DGFiP, c’est désormais l’Éducation nationale qui se retrouve au cœur d’une affaire de piratage massif.
+- Le même hacker affirme avoir exfiltré près de 43 Go de données, soit environ 346 millions de lignes couvrant plus de vingt ans, avec potentiellement des millions d’élèves, d’enseignants et de personnels concernés.
+- Deux experts, Benoit Grunemwald et Thierry Berthier, décryptent pour Atlantico ce que révèle vraiment cette accumulation de cyberattaques, entre classements internationaux trompeurs, gouvernance fragmentée et diagnostics comparés avec l’Allemagne et l’Estonie.
+
+## [<b>Cybersécurité</b> : « Confier son réseau à une IA est un risque par nature, car elle a tendance à ...](https://www.latribune.fr/article/tech/17056674666285/cybersecurite-confier-son-reseau-a-une-ia-est-un-risque-par-nature-car-elle-a-tendance-a-improviser)  
+*Source : latribune.fr | Publication : 2026-08-18*
+
+- Cybersécurité : « Confier son réseau à une IA est un risque par nature, car elle a tendance à improviser » Ce contenu est réservé aux abonnés La Tribune Les experts en cybersécurité insistent sur les risques d'un déploiement de l'IA sans garde-fous appropriés.
+- La Tribune avec Gemini.
+
+## [Piratage du site des impôts : si vous faites partie des victimes de la fuite de données ...](https://www.tf1info.fr/justice-faits-divers/piratage-du-site-des-impots-si-vous-faites-partie-des-victimes-de-la-fuite-de-donnees-comment-s-en-proteger-2458958.html)  
+*Source : tf1info.fr | Publication : 2026-08-18*
+
+- Les données de près de 700.000 usagers de l'administration fiscale ont été volées.
+- - Les contribuables concernés vont être contactés dans la semaine.
+- - Le 20H de TF1 fait le point sur les risques et la façon de s'en prémunir.
+- - Une nouvelle attaque informatique d'ampleur qui plonge le fisc dans l'embarras.
+
+## [Tendances du financement des soins de santé pour 2026 : un bilan à mi-année](https://health-isac.org/fr/Tendances-du-financement-des-soins-de-santé-pour-2026-:-mise-à-jour-de-mi-année/)  
+*Source : health-isac.org | Publication : 2026-08-18*
+
+- Tendances du financement des soins de santé pour 2026 : un bilan à mi-année L’année 2026 a été marquée par un mélange dynamique de risques et de récompenses.
+- Ce rapport de CommerceHealthcare® examine les principaux enjeux : Finances et remboursement - Expérience financière des patients - Technologie et automatisation - Ce rapport fait le point sur l'état d'avancement des thèmes à mi-année afin d'aider les dirigeants à évaluer les orientations actuelles.
+- Health-ISAC a cité des rapports : Surmonter les obstacles à la réussite de l'automatisation pilotée par l'IA.
+- L'adoption des paiements numériques continue de s'accélérer.
 
 ## [<b>Cybercriminalité</b>. Éducation nationale : une nouvelle fuite de données revendiquée, après le ...](https://www.ledauphine.com/faits-divers-justice/2026/08/18/education-nationale-une-nouvelle-fuite-de-donnees-revendiquee-apres-le-piratage-du-fisc)  
 *Source : ledauphine.com | Publication : 2026-08-17*
