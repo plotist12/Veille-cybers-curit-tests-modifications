@@ -1,5 +1,153 @@
-# Résumés – 2026-08-18
+# Résumés – 2026-08-19
 
+
+## [Cyberattaques en série: &quot;Cela fait depuis 2023 que s'enchaînent les scandales de ... - BFM](https://www.bfmtv.com/politique/video-cyberattaques-en-serie-cela-fait-depuis-2023-que-s-enchainent-les-scandales-de-cybersecurite-rappelle-hadrien-clouet-depute-lfi_VN-202608190578.html)  
+*Source : bfmtv.com | Publication : 2026-08-19*
+
+- Cyberattaques en série: "Cela fait depuis 2023 que s'enchaînent les scandales de cybersécurité", rappelle Hadrien Clouet, député LFI Hadrien Clouet, député LFI de la Haute-Garonne et vice-président de la commission des affaires sociales, était invité au micro de BFMTV, ce mercredi 19 août.
+- | Durée : 1:07.
+
+## [« Peu de ministères sont au niveau requis » : Lecornu admet un retard sur la <b>cybersécurité</b> ...](https://www.letelegramme.fr/france/peu-de-ministeres-sont-au-niveau-requis-lecornu-admet-un-retard-sur-la-cybersecurite-en-france-et-annonce-la-creation-dune-unite-cyber-7102339.php)  
+*Source : letelegramme.fr | Publication : 2026-08-19*
+
+- Le Premier ministre Sébastien Lecornu a demandé ce mercredi la formation d'une « nouvelle unité cyber » pour offrir une « réponse opérationnelle.
+
+## [&quot;Peu de ministères sont au niveau&quot; : la confession de Sébastien Lecornu après trois ...](https://www.rtl.fr/actu/politique/peu-de-ministeres-sont-au-niveau-la-confession-de-sebastien-lecornu-apres-trois-piratages-visant-l-administration-francaise-7900663299)  
+*Source : rtl.fr | Publication : 2026-08-19*
+
+- 3 min de lecture Le gouvernement veut passer à l'action.
+- Après les trois piratages visant l'administration française et qui ont visé les données de centaines de milliers de contribuables, plusieurs millions d'élèves et des dizaines de milliers d'enseignants au sein de l'Éducation nationale, Sébastien Lecornu demande une réponse forte face à ces cyberattaques.
+- Le Premier ministre a demandé la création d'une "unité cyber" dans une lettre adressée au secrétaire général de la Défense et de la Sécurité nationale, que RTL a pu consulter.
+- Dans son courrier, Sébastien Lecornu souligne qu'"en termes de cybersécurité, peu de ministères sont au niveau requis en France", ce qui n'est "pas acceptable" selon le Premier ministre.
+
+## [GLACY-e et CyberSPEX : les pays hubs asiatiques réunis à Bucarest pour consolider leur ...](https://www.coe.int/fr/web/cybercrime/-/glacy-e-and-cyberspex-asian-hub-countries-meet-in-bucharest-to-consolidate-their-regional-roles-and-discuss-the-second-additional-protocol-with-eu-member-states)  
+*Source : coe.int | Publication : 2026-08-19*
+
+- Du 17 au 19 août 2026, le Bureau de programme sur la cybercriminalité du Conseil de l'Europe (C-PROC) a organisé à Bucarest une réunion régionale.
+
+## [Loi sur la <b>cybersécurité</b> 2025 et droit des données : à quoi les entreprises doivent-elles se ...](https://www.vietnam.vn/fr/luat-an-ninh-mang-2025-luat-du-lieu-doanh-nghiep-dang-phai-tuan-thu-nhung-gi)  
+*Source : vietnam.vn | Publication : 2026-08-19*
+
+- Lorsque la loi sur la cybersécurité de 2025 entrera officiellement en vigueur le 1er juillet 2026, les entreprises devront non seulement se conformer à de nouvelles exigences en matière de cybersécurité, mais aussi à la loi sur la protection des données, en vigueur depuis un an, qui définit des obligations relatives à la gouvernance, au traitement et à la protection des données.
+- Au lieu de considérer ces obligations comme des défis de conformité distincts, les entreprises doivent les appréhender dans un contexte plus large : comment les données sont gérées et quels systèmes de protection des données sont mis en place.
+- Alors que la gouvernance des données et la cybersécurité se chevauchent de plus en plus Dans de nombreuses entreprises, les données et la sécurité sont encore gérées comme deux mondes distincts.
+- La gouvernance des données est généralement liée à la manière dont les données sont collectées, où elles sont stockées, qui les utilise et comment elles sont partagées.
+
+## [Un « niveau critique » : OpenAI suspend le développement de son prochain ChatGPT](https://www.01net.com/actualites/un-seuil-de-capacite-critique-openai-suspend-le-developpement-de-son-prochain-chatgpt.html)  
+*Source : 01net.com | Publication : 2026-08-19*
+
+- Le 7 août, OpenAI a publié un avertissement rare : ses évaluations préliminaires ne permettent plus d’exclure qu’Astra (GPT-6), le prochain modèle majeur du labo, atteigne le seuil « critique » en cybersécurité.
+- Cette classification, la plus haute, vient du Preparedness Framework, le règlement interne qui conditionne les lancements de l’entreprise.
+- Un second billet, publié le 18 août, dévoile l’ampleur des conséquences : deux semaines de pause sur une partie de l’entraînement, et le plus gros chantier de la maison toujours à l’arrêt.
+- Que sait faire une IA classée « critique » en cyberattaque ?.
+
+## [PARIS : « Le filigrane de l'IA est une obligation de transparence, pas de <b>cybersécurité</b>](https://presseagence.fr/paris-le-filigrane-de-lia-est-une-obligation-de-transparence-pas-de-cybersecurite/)  
+*Source : presseagence.fr | Publication : 2026-08-19*
+
+- PARIS : « Le filigrane de l’IA est une obligation de… Partager : PARIS : « Le filigrane de l’IA est une obligation de transparence, pas de cybersécurité » Un expert de Keeper Security alerte : le nouveau filigrane de l’IA imposé par l’Europe n’est pas une mesure de cybersécurité efficace.
+- Alors que la société Anthropic déploie un filigrane invisible sur les contenus générés par son intelligence artificielle Claude, une nouvelle voix s’élève pour tempérer les attentes en matière de sécurité.
+- Conformément au Code de transparence de l’AI Act européen, entré en vigueur le 2 août dernier, cette mesure vise à identifier les créations artificielles.
+- Cependant, pour Shane Barney, directeur de la sécurité des systèmes d’information (CISO) de Keeper Security, cette initiative relève de l’obligation réglementaire et ne constitue en rien un rempart contre les cybermenaces.
+
+## [Numérique. Qui est &quot;ZeroBytes&quot;, le duo de hackers français à l'origine du piratage du fisc ?](https://www.ledauphine.com/societe/2026/08/19/qui-est-zerobytes-le-duo-de-hackers-francais-a-l-origine-du-piratage-du-fisc)  
+*Source : ledauphine.com | Publication : 2026-08-19*
+
+- Numérique Qui est "ZeroBytes", le duo de hackers français à l'origine du piratage du fisc ?.
+- Le duo “ZeroBytes” a revendiqué la cyberattaque massive subie par la Direction générale des finances publiques en juin dernier.
+- Mais qui sont ces cybercriminels, connus pour voler des données confidentielles avant de les revendre au plus offrant ?.
+- Intermarché Drive, la Fédération française de handball, Bureau Vallée ou encore l’Agence pour l’enseignement français à l’étranger (AEFE).
+
+## [En quoi consiste la « nouvelle unité cyber », réponse de Sébastien Lecornu aux piratages en série](https://www.huffingtonpost.fr/politique/article/en-quoi-consiste-la-nouvelle-unite-cyber-reponse-de-sebastien-lecornu-aux-piratages-en-serie_307607.html)  
+*Source : huffingtonpost.fr | Publication : 2026-08-19*
+
+- Face à la multiplication des cyberattaques visant les administrations françaises, Sébastien Lecornu demande à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre sur pied une « nouvelle unité cyber » pour offrir une « réponse opérationnelle plus réactive » en cas d’attaque grave contre les systèmes informatiques de l’État.
+- Une demande formulée mercredi 19 août, quelques jours après la révélation du vol massif de données à la Direction générale des finances publiques (DGFIP). «.
+- Il y a urgence à concevoir et conduire sans délai une réponse opérationnelle plus réactive et plus forte aux cyberattaques que l’État rencontre actuellement.
+- Il faut reprendre l’initiative sur le terrain », écrit le Premier ministre dans un courrier adressé au secrétaire général de la défense et de la sécurité nationale, dont les services chapeautent l’ANSSI.
+
+## [TF1 - <b>Cybersécurité</b> : &quot;Peu de ministères sont au niveau requis&quot;, reconnaît Sébastien Lecornu](https://www.facebook.com/TF1Info/photos/cybersécurité-peu-de-ministères-sont-au-niveau-requis-reconnaît-sébastien-lecorn/1385368857059847/)  
+*Source : facebook.com | Publication : 2026-08-19*
+
+- Explore the things you love.
+- Log into Facebook Email or mobile number Password Log in Forgot password?.
+- Create new account English (US) Español Français (France) 中文(简体) العربية Português (Brasil) Italiano More languages… Sign Up Log In Messenger Facebook Lite Video Meta Pay Meta Store Meta Quest Ray-Ban Meta Meta AI Instagram Threads Privacy Policy Privacy Center About Create ad Create Page Developers Careers Cookies Ad choices Terms Help Contact Uploading & Non-Users Meta © 2026.
+
+## [Cyberattaques &amp; vols de données : comme un parfum de 2021 | LeMagIT](https://www.lemagit.fr/tribune/Cyberattaques-vols-de-donnees-comme-un-de-2021)  
+*Source : lemagit.fr | Publication : 2026-08-19*
+
+- pigprox - Fotolia Cyberattaques & vols de données : comme un parfum de 2021 2021 avait des airs d'années du sursaut.
+- La cybersécurité était hissée au rang de priorité nationale sur fond d'explosion de la menace des rançongiciels.
+- 5 ans plus tard, rebelote.
+- Remontons le temps jusqu'au tout début 2021.
+
+## [<b>Cybersécurité</b> : &quot;Peu de ministères sont au niveau requis&quot;, admet le premier ministre](https://www.lanouvellerepublique.fr/a-la-une/cybersecurite-peu-de-ministeres-sont-au-niveau-requis-admet-le-premier-ministre-1787160434)  
+*Source : lanouvellerepublique.fr | Publication : 2026-08-19*
+
+- Sébastien Lecornu a demandé mercredi 19 août 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de constituer une nouvelle unité cyber au plus vite tout en se défendant de ne pas avoir agi en amont.
+- Sébastien Lecornu a demandé mercredi 19 août 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de constituer une « nouvelle unité cyber » pour offrir une « réponse opérationnelle plus réactive » aux cyberattaques qui visent la France. «.
+- Il y a urgence à concevoir et conduire sans délai une réponse opérationnelle plus réactive et plus forte aux cyberattaques que l’État rencontre actuellement.
+- Il faut reprendre l’initiative sur le terrain », écrit le premier ministre dans un courrier adressé au secrétaire général de la défense et de la sécurité nationale, reconnaissant et déplorant par ailleurs qu’en termes de cybersécurité, « peu de ministères sont au niveau requis » en France.
+
+## [OpenAI ralentit le développement de ses modèles face à la montée des capacités cyber](https://www.silicon.fr/cybersecurite-1371/openai-ralentit-le-developpement-de-ses-modeles-face-a-la-montee-des-capacites-cyber-228736)  
+*Source : silicon.fr | Publication : 2026-08-19*
+
+- Dans un billet publié le 18 août, OpenAI indique avoir temporairement ralenti la montée en puissance de l’entraînement de ses modèles de pointe, notamment avec une pause de deux semaines dans l’apprentissage par renforcement (RL) de ses derniers modèles destinés au déploiement.
+- OpenAI explique que deux développements récents ont accru l’urgence de renforcer ses garde-fous.
+- D’une part, « l’incident OpenAI-Hugging Face », au cours duquel un agent IA en test aurait mené une cyberattaque autonome contre une autre entreprise d’IA.
+- OpenAI affirme que cet incident a conduit l’entreprise à revoir à la hausse son évaluation des capacités cyber de ses modèles.
+
+## [«La France est une cible privilégiée» : notre pays est le deuxième au monde subissant le ...](https://www.cnews.fr/videos/vie-numerique/2026-08-19/la-france-est-une-cible-privilegiee-notre-pays-est-le-deuxieme-au)  
+*Source : cnews.fr | Publication : 2026-08-19*
+
+- A cause d'un retard important en matière d'utilisation d'intelligence artificielle, la France est l'un des pays les plus vulnérables aux cyberattaques, comme l'ont montré les récentes pertes d'informations confidentielles qu'ont subi le fisc, l'Education nationale ou encore certaines structures hospitalières françaises.
+- Notre nation fait partie des cancres mondiaux sur le plan de l'intelligence artificielle.
+- La France figure parmi les pays les plus touchés par les fuites de données, selon une étude de l’entreprise de cybersécurité Surfshark.
+- Entre janvier et juin 2026, 43,4 millions de comptes ont été compromis en France.
+
+## [En quoi consiste la « nouvelle unité cyber », réponse de Sébastien Lecornu aux piratages en série](https://fr.news.yahoo.com/sport/consiste-nouvelle-unité-cyber-réponse-164125535.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-08-19*
+
+- En quoi consiste la « nouvelle unité cyber », réponse de Sébastien Lecornu aux piratages en série Face à la multiplication des cyberattaques visant les administrations françaises, Sébastien Lecornu demande à l'Agence nationale de la sécurité des systèmes d'information (ANSSI) de mettre sur pied une « nouvelle unité cyber » pour offrir une « réponse opérationnelle plus réactive » en cas d'attaque grave contre les systèmes informatiques de l'État.
+- Une demande formulée mercredi 19 août, quelques jours après la révélation du vol massif de données à la Direction générale des finances publiques (DGFIP). «.
+- Il y a urgence à concevoir et conduire sans délai une réponse opérationnelle plus réactive et plus forte aux cyberattaques que l'État rencontre actuellement.
+- Il faut reprendre l'initiative sur le terrain », écrit le Premier ministre dans un courrier adressé au secrétaire général de la défense et de la sécurité nationale, dont les services chapeautent l'ANSSI.
+
+## [Piratage du fisc : “La <b>cybersécurité</b> est le canari dans la mine, c'est le premier sujet qui va ...](https://www.nouvelobs.com/economie/20260819.OBS117520/piratage-du-fisc-la-cybersecurite-est-le-canari-dans-la-mine-c-est-le-premier-sujet-qui-va-nous-exploser-a-la-figure.html)  
+*Source : nouvelobs.com | Publication : 2026-08-19*
+
+- Piratage du fisc : « La cybersécurité est le canari dans la mine, c’est le premier sujet qui va nous exploser à la figure » Entretien Un nouveau scandale d’Etat ?.
+- Le piratage des données fiscales de 678 000 Français, dévoilé à la mi-août, a ouvert une boîte de Pandore qui interroge sur la capacité de l’Etat à protéger ses administrés.
+- Tariq Krim, ex-vice-président du Conseil du numérique, nous livre son analyse du retard français en matière de cybersécurité.
+- Abonné Vous voulez participer au débat ?.
+
+## [Piratage du site des impôts : « L'Etat a créé une surface d'attaque gigantesque - Les Echos](https://www.lesechos.fr/tech-medias/hightech/piratage-du-site-des-impots-letat-a-cree-une-surface-dattaque-gigantesque-2247579)  
+*Source : lesechos.fr | Publication : 2026-08-19*
+
+- Après les piratages massifs ayant visé la Direction générale des finances publiques et l'Education nationale, Karim Hamia, expert en cybersécurité.
+
+## [<b>Cybersécurité</b> : pourquoi la France est-elle particulièrement touchée par les fuites de ...](https://www.ici.fr/infos/societe/cybersecurite-pourquoi-la-france-est-elle-particulierement-touchee-par-les-fuites-de-donnees-personnelles-4343267)  
+*Source : ici.fr | Publication : 2026-08-19*
+
+- Cybersécurité : pourquoi la France est-elle particulièrement touchée par les fuites de données personnelles ?.
+- Publié le "Peu de ministères sont au niveau requis" en matière de cybersécurité, a reconnu ce mercredi Sébastien Lecornu, en demandant la création d'une "nouvelle unité cyber".
+- La France figure parmi les pays les plus ciblés par des cyberattaques, confirment plusieurs études.
+- Le Premier ministre Sébastien Lecornu a reconnu mercredi qu'en termes de cybersécurité, "peu de ministères sont au niveau requis" en France.
+
+## [Services de l'Etat piratés, fuites de données... Pourquoi la France est-elle autant ciblée par ...](https://actu.fr/sciences-technologie/services-de-l-etat-pirates-fuites-de-donnees-pour-la-france-est-elle-autant-ciblee-par-les-cyberattaques_64679856.html)  
+*Source : actu.fr | Publication : 2026-08-19*
+
+- Touchée par de nombreuses fuites de données, la France figure parmi les pays les plus ciblés par des cyberattaques.
+- Après la consultation d’un vaste fichier de données bancaires, révélée en février, et l’attaque ayant visé l’Agence nationale des titres sécurisés (ANTS) en avril 2026, le piratage massif du fisc français dévoilé ces derniers jours illustre à nouveau la fréquence des incidents subis en France.
+- Données particulièrement attractives ?.
+- Faiblesses dans sa cybersécurité ?.
+
+## [Piratage du fisc : Lecornu veut une &quot;nouvelle unité&quot; pour lutter contre les cyberattaques](https://www.france24.com/fr/france/20260819-piratage-du-fisc-l-exécutif-veut-une-nouvelle-unité-pour-lutter-contre-les-cyberattaques)  
+*Source : france24.com | Publication : 2026-08-19*
+
+- Piratage du fisc : Lecornu veut une "nouvelle unité" pour lutter contre les cyberattaques Le Premier ministre Sébastien Lecornu a demandé, mercredi, à l'Agence nationale de la sécurité des systèmes d'information de constituer une "nouvelle unité cyber".
+- Cette création devrait apporter une "réponse opérationnelle plus réactive" aux cyberattaques qui visent la France, comme le récent vol des données du Fisc.
+- Publié le : Modifié le : Après avoir présenté ses excuses au sujet du piratage du fisc, l'exécutif français dit maintenant vouloir se montrer plus réactif en matière de cybersécurité.
+- C'est en tout cas le sens des mots du Premier ministre Sébastien Lecornu, qui a demandé mercredi 19 août à l'Agence nationale de la sécurité des systèmes d'information (Anssi) de constituer une "nouvelle unité cyber" pour apporter une "réponse opérationnelle plus réactive" aux cyberattaques qui visent la France.
 
 ## [Piratage du fisc, l'autre incendie que le gouvernement peine à éteindre - Libération](https://www.liberation.fr/economie/economie-numerique/piratage-du-fisc-lautre-incendie-que-le-gouvernement-peine-a-eteindre-20260818_RMVAMXGYVJFNPKJRA7OYBRRIHQ/)  
 *Source : liberation.fr | Publication : 2026-08-18*
