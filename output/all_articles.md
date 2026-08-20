@@ -1,5 +1,153 @@
-# Résumés – 2026-08-19
+# Résumés – 2026-08-20
 
+
+## [Agence de services et de paiement - XXX - Offres d'emploi](https://agencedeservicesetdepaiement.recruitee.com/o/charge-de-cybersecurite-hf)  
+*Source : agencedeservicesetdepaiement.recruitee.com | Publication : 2026-08-20*
+
+- Chargé de cybersécurité H/F Hybride - Description de l'offre d'emploi _______________________ Domaine : Numérique Nature du poste : Pérenne Statut : Fonctionnaire cat A- ouvert aux contractuels Corps : AAE / IAE Cotation RIFSEEP : G4 Cotation Parcours professionnel : 1 Pour les contractuels Fondement juridique du contrat : L 332-1 Niveau d’études : à partir de Bac +3 Durée du contrat : jusqu’à 3 ans Date de vacance de l’emploi : Immédiat Date limite de candidature : 23/08/2026 ________________________ Environnement professionnel L'Agence de services et de paiement (ASP) est un établissement public administratif sous la double tutelle des ministères en charge de l’Agriculture et de l'Emploi.
+- Premier organisme payeur européen des aides agricoles de la Politique agricole commune, l’ASP dispose d’un savoir-faire reconnu en ingénierie administrative, instruction, contrôle, paiement et d’assistance aux utilisateurs de nombreux dispositifs d’aides publiques.
+- Vous rejoindrez la Direction du numérique et des systèmes d’information (DNSI).
+- Elle a en charge la construction, l’administration, l’exploitation et le maintien en condition opérationnelle du système d’information de l’ASP.
+
+## [Siemens ne constate pas d'augmentation du nombre de cyberattaques industrielles malgré l ...](https://www.boursorama.com/bourse/actualites-amp/siemens-ne-constate-pas-d-augmentation-du-nombre-de-cyberattaques-industrielles-malgre-l-alerte-lancee-par-les-etats-unis-5ff1a421140d7caefca97d4e93aa3fb2)  
+*Source : boursorama.com | Publication : 2026-08-20*
+
+- Siemens ne constate pas d'augmentation du nombre de cyberattaques industrielles malgré l'alerte lancée par les États-Unis information fournie par Reuters 20/08/2026 à 17:32 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Les agences américaines alertent sur le fait que les dispositifs de contrôle Siemens font l'objet d'une menace active dans divers secteurs d'infrastructures critiques * Siemens affirme n'avoir détecté aucune vulnérabilité inconnue jusqu'à présent dans ses contrôleurs de la série S7 * Siemens précise que l'avis de sécurité signale l'exploitation d'erreurs de configuration déjà abordées dans le bulletin de sécurité du mois dernier (Ajout d'un commentaire de Siemens au paragraphe 5 et d'un commentaire d'E.ON au paragraphe 7) par Alexander Hübner L'entreprise allemande Siemens SIEGn.DE a déclaré jeudi n'avoir détecté aucune augmentation des cyberattaques visant ses dispositifs de contrôle industriels, ni aucune vulnérabilité jusqu'alors inconnue, après que les autorités américaines ont averti que des pirates informatiques les ciblaient.
+- Mercredi, plusieurs agences gouvernementales américaines ont averti que les dispositifs de contrôle Siemens, largement utilisés dans les usines et les installations industrielles, faisaient l'objet d'une "menace active".
+- Cet avertissement, qui intervient dans un contexte d'incidents visant les réseaux locaux d'approvisionnement en eau aux États-Unis et que les experts en cybersécurité soupçonnent d'être liés à l'Iran, met en évidence le risque pesant sur les infrastructures critiques.
+- L’avis américain précise que tous les automates programmables de la série S7 de Siemens constituent des cibles potentielles, ce qui affecte des secteurs tels que l’industrie manufacturière, l’énergie, l’eau, la chimie et l’agroalimentaire, où ces équipements sont utilisés.
+
+## [Immersion dans l'école du (cyber)crime : comment les aînés forment les plus jeunes au ...](https://www.journaldunet.com/cybersecurite/1553287-des-premiers-clics-au-piratage-immersion-dans-les-forums-du-dark-web-qui-initient-les-jeunes-au-cybercrime/)  
+*Source : journaldunet.com | Publication : 2026-08-20*
+
+- Immersion dans l'école du (cyber)crime : comment les aînés forment les plus jeunes au hacking dans le darknet A travers des tutoriels ou des formations, les forums cybercriminels initient de jeunes hackers aux pratiques de la cybercriminalité, tout en leur offrant un espace où acquérir réputation et reconnaissance.
+- Fisc, Agence nationale des titres sécurisés (ANTS), Fédération française de tir (FFT), Urssaf… On ne compte plus les organisations qui ont été victimes de fuites de données depuis le début de l'année 2026.
+- Ceux qui les provoquent sont souvent des "jeunes hackers âgés entre 14 et 22 ans", affirme le lieutenant-colonel Sophie Lambert, adjointe à la division de la connaissance, de l'anticipation et de la gestion de crise cyber au Commandement du ministère de l'intérieur dans le cyberespace (Comcyber-MI).
+- C'est notamment le cas de l'adolescent de 15 ans soupçonné d'être à l'origine de l'attaque visant l'ANTS en avril 2026, au cours de laquelle les données personnelles de près de 12 millions de personnes ont été divulguées.
+
+## [SFR victime d'une fuite de données : les abonnés fibre majoritairement concernés - L'Alsace](https://www.lalsace.fr/faits-divers-justice/2026/08/20/sfr-victime-d-une-fuite-de-donnees-les-abonnes-fibre-majoritairement-concernes)  
+*Source : lalsace.fr | Publication : 2026-08-20*
+
+- Cybercriminalité SFR victime d'une fuite de données : les abonnés fibre majoritairement concernés Le groupe a confirmé ce jeudi avoir été la cible de cybermalveillance en juillet : des données de ses clients fibre – comme l’adresse, l’e-mail ou le numéro de téléphone – ont été dérobées.
+- L’opérateur de télécommunications SFR a fait l’objet en juillet d’une fuite de données, concernant ses clients fibre, a confirmé ce jeudi le groupe après la diffusion de lettres adressées à ses abonnés. «.
+- SFR a détecté un incident de sécurité suite à un acte de cybermalveillance dont les conséquences ont pu se traduire par l’accessibilité temporaire de données liées aux lignes d’abonnés Fibre comme l’adresse, l’e-mail ou le numéro de téléphone », a indiqué l’opérateur, sans préciser le nombre total de clients concernés. «.
+- Les mots de passe et données bancaires ne sont pas concernés », a-t-il ajouté.
+
+## [<b>Cybersécurité</b> : le nécessaire réarmement numérique - l'Opinion](https://www.lopinion.fr/politique/cybersecurite-le-necessaire-rearmement-numerique)  
+*Source : lopinion.fr | Publication : 2026-08-20*
+
+- Cybersécurité : le nécessaire réarmement numérique Sébastien Lecornu ne quitte plus son costume de l’été, celui de pompier.
+- Mais, sur la défensive, c’est le Premier ministre lui-même qui attise le feu avec cet incroyable aveu : « Arrêtons de découvrir la lune à chaque cyberattaque.
+- La menace est connue : massive, organisée, hybride ».
+- Pire, reconnaît-il, « peu de ministères sont au niveau requis » en matière de cybersécurité.
+
+## [Bonnes pratiques de l'IA pour les petites entreprises : Comment utiliser l'intelligence ...](https://www.staysafeonline.org/fr/articles/meilleures-pratiques-de-l-ia-pour-les-petites-entreprises-comment-utiliser-l-intelligence-artificielle-de-maniere-responsable)  
+*Source : staysafeonline.org | Publication : 2026-08-20*
+
+- Cybersécurité pour les entreprises | Lecteur Min Bonnes pratiques de l'IA pour les petites entreprises : Comment utiliser l'intelligence artificielle de manière responsable L'IA devient rapidement une partie intégrante des opérations commerciales quotidiennes.
+- De la rédaction de courriels à l'analyse de données, les petites et moyennes entreprises du monde entier adoptent des outils d'IA pour gagner du temps et accroître leur efficacité.
+- Cependant, l'adoption va souvent plus vite que la gouvernance.
+- Alors que les employés peuvent être impatients d'utiliser l' intelligence artificielle pour stimuler la productivité, les entreprises qui manquent de politiques et de garanties claires peuvent involontairement exposer des informations sensibles, créer des problèmes de conformité et introduire des risques de cybersécurité.
+
+## [<b>Cybersécurité</b>: pourquoi la France est autant ciblée par les hackers - BFM](https://www.bfmtv.com/societe/video-cybersecurite-pourquoi-la-france-est-autant-ciblee-par-les-hackers_VN-202608200501.html)  
+*Source : bfmtv.com | Publication : 2026-08-20*
+
+- Cybersécurité: pourquoi la France est autant ciblée par les hackers La France est le pays européen le plus touché par les violations de données et même le deuxième dans le monde.
+- Fin juin, des hackers subtilisent les accès d’agents pour obtenir des données fiscales.
+- Ce n’est que le 12 août que le gouvernement annonce que ce sont les données de près de 700.000 usagers qui ont été volées | Durée : 2:49.
+
+## [La France est-elle devenue une « passoire » ? Le manque de spécialistes en <b>cybersécurité</b> inquiète](https://www.01net.com/actualites/france-est-elle-devenue-passoire-manque-specialistes-cybersecurite-inquiete.html)  
+*Source : 01net.com | Publication : 2026-08-20*
+
+- Alors que la France a connu un nombre de cyberattaques sans précédent ces derniers mois, le secteur de la cybersécurité est actuellement sous tension.
+- Les attaques se multiplient, mais les candidats qualifiés sur le marché manquent pour y faire face.
+- Pour Thibaut Carré, expert en cybersécurité, la France « n’est pas allée assez vite dans la formation des nouveaux talents par rapport aux besoins qui existent aujourd’hui ».
+- Le secteur de la cybersécurité recrute activement, mais le nombre de candidats qualifiés ne suit pas Nous n’allons pas lister ici toutes les cyberattaques dont la France a été victime ces derniers mois, tant elles sont nombreuses.
+
+## [<b>Ransomware</b> Everest : victimes en France - FrenchBreaches](https://frenchbreaches.com/ransomware/everest)  
+*Source : frenchbreaches.com | Publication : 2026-08-20*
+
+- Groupe de ransomware Ransomware Everest : les victimes en France Le groupe Everest a revendiqué 3 victimes françaises recensées par FrenchBreaches.
+- Ces revendications proviennent des sites de fuite opérés par le groupe et ne constituent pas une confirmation par les organisations concernées.
+- Dernière revendication : 20/08/2026 Victimes revendiquées Votre organisation est visée ?.
+- Consultez notre guide de réaction après une fuite de données, les fuites par secteur d'activité ou nos analyses cybersécurité.
+
+## [ChatGPT pour adolescents aborde les conversations à risque et les raccourcis pour faire ses devoirs.](https://www.malwarebytes.com/fr/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts)  
+*Source : malwarebytes.com | Publication : 2026-08-20*
+
+- OpenAI a répondu aux critiques concernant l'utilisation de son système ChatGPT par les adolescents en lançant ChatGPT for Teens, une version de l'assistant IA conçue spécifiquement pour les utilisateurs âgés de 13 à 17 ans.
+- Mais cela empêchera-t-il les jeunes les plus déterminés de contourner le système ?.
+- Elle rassemble plusieurs protections introduites par OpenAI au cours de l'année écoulée, ainsi que de nouvelles fonctionnalités destinées à encourager une utilisation plus saine et plus sûre.
+- Que fait ChatGPT pour adolescents ?.
+
+## [L'opérateur SFR victime d'une cyberattaque, des données personnelles de 2,1 millions ... - Libération](https://www.liberation.fr/economie/economie-numerique/loperateur-sfr-victime-dune-cyberattaque-des-donnees-personnelles-de-ses-abonnes-a-la-fibre-dans-la-nature-20260820_2HDAEASKSFA5JP5CYF4KHCNBGE/)  
+*Source : liberation.fr | Publication : 2026-08-20*
+
+- Les jours se suivent et se ressemblent dans le domaine de la cybercriminalité.
+- SFR CybercriminalitéCybersécurité.
+- Dans la même rubrique.
+- Failles · L.
+
+## [Piratage : une fuite de données a touché les abonnés fibre de SFR - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/piratage-une-fuite-de-donnees-a-touche-les-abonnes-fibre-de-sfr-30313473.php)  
+*Source : sudouest.fr | Publication : 2026-08-20*
+
+- L’opérateur SFR a confirmé avoir été victime d’une cyberattaque en juillet, entraînant l’exposition de données personnelles liées à ses clients fibre L’opérateur de télécommunications SFR a fait l’objet en juillet d’une fuite de données concernant ses clients fibre, a confirmé jeudi le groupe après la diffusion de lettres adressées à ses abonnés.
+
+## [Après le piratage du fisc, Sébastien Lecornu veut créer une «nouvelle unité cyber](https://www.liberation.fr/politique/apres-le-piratage-du-fisc-sebastien-lecornu-souhaite-creer-une-nouvelle-unite-cyber-de-letat-francais-20260820_NU3GRX3CG5FLJOXVHN7A7PDJZA/)  
+*Source : liberation.fr | Publication : 2026-08-20*
+
+- Le Premier ministre reconnaît et déplore qu'en termes de cybersécurité , «peu de ministères sont au niveau requis» en France.
+- «Ce n'est pas.
+
+## [Une « nouvelle unité » d'urgence contre les cyberattaques : la France veut une équipe ... - 01net.com](https://www.01net.com/actualites/nouvelle-unite-urgence-contre-cyberattaques-france-veut-une-riposte-forte-aux-crises-potentielles.html)  
+*Source : 01net.com | Publication : 2026-08-20*
+
+- La Direction générale des Finances publiques a essuyé une cyberattaque d’ampleur inédite.
+- Un duo de hackers, identifiés comme des pirates francophones, a pillé les données fiscales de 700 000 contribuables, avant de s’emparer de données cadastrales et de voler les données relatives aux successions vacantes.
+- En réponse à cette vague d’attaques, la France a reconnu une série de manquements en matière de cybersécurité, et de « dettes techniques ».
+- Le gouvernement français a annoncé un vaste « plan d’action » par le biais de David Amiel, ministre de l’Action et des Comptes publics.
+
+## [Piratage du site des impôts : la <b>cybersécurité</b> de l'Etat est une affaire de volonté politique](https://www.lemonde.fr/pixels/article/2026/08/20/piratage-du-site-des-impots-la-cybersecurite-de-l-etat-est-une-affaire-de-volonte-politique_6750968_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-08-20*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Damien Bancal, journaliste expert en <b>cybersécurité</b>, invité de Bonjour le Nord - BFM](https://www.bfmtv.com/grand-littoral/replay-emissions/bonjour-littoral/video-damien-bancal-journaliste-expert-en-cybersecurite-invite-de-bonjour-le-nord_VN-202608200262.html)  
+*Source : bfmtv.com | Publication : 2026-08-20*
+
+- Damien Bancal, journaliste expert en cybersécurité, invité de Bonjour le Nord Vol de données sur Internet : qui sont les pirates ?.
+- quels réflexes adopter ?.
+- Damien Bancal, journaliste expert en cybersécurité, était l'invité de Bonjour le Nord | Durée : 6:40.
+
+## [Piratage des données du fisc : « En matière de <b>cybersécurité</b>, on passe pour les ânes de l'Europe »](https://www.lepoint.fr/high-tech-internet/piratage-des-donnees-du-fisc-en-matiere-de-cybersecurite-on-passe-pour-les-anes-de-leurope-TJ5GZ2QQLBH2ZF6KFFR7M5LAFE/)  
+*Source : lepoint.fr | Publication : 2026-08-20*
+
+- ENTRETIEN.
+- Le piratage de la Direction générale des finances publiques révèle les profondes vulnérabilités numériques de l'État, alerte le hackeur.
+
+## [Le coût de l'assurance contre le cyber-risque ne s'envole pas (encore) en France](https://www.usinenouvelle.com/cybersecurite/le-cout-de-lassurance-contre-le-cyber-risque-ne-senvole-pas-encore-en-france.K2UEVUTMZ5MONGOCLNAMK47ONM.html)  
+*Source : usinenouvelle.com | Publication : 2026-08-20*
+
+- Le coût des assurances cyber ne s'envole pas (encore) pour les entreprises françaises, malgré des menaces toujours plus nombreuses.
+
+## [<b>Cybersécurité</b> : Khady Sarr alerte sur les risques pour la continuité des soins - APS](https://aps.sn/cybersecurite-khady-sarr-alerte-sur-les-risques-pour-la-continuite-des-soins/)  
+*Source : aps.sn | Publication : 2026-08-20*
+
+- Dakar, 20 août (APS) – La députée Khady Sarr a alerté jeudi sur les risques qu’une cyberattaque ferait peser sur la continuité des soins dans les établissements sanitaires, appelant à renforcer la résilience numérique des hôpitaux, centres de santé et services d’urgence, notamment le SAMU.
+- “Comment le gouvernement compte-t-il garantir que les hôpitaux, les centres de santé et les systèmes comme SAMU disposeront de la résilience numérique nécessaire pour assurer la continuité des soins de santé en cas d’attaque ?.
+- ”, a-t-elle demandé lors de l’examen du projet de loi relatif à la protection des infrastructures d’information critiques.
+- Mme Sarr a demandé au gouvernement de préciser les mesures prévues pour permettre aux structures de santé de maintenir leurs activités essentielles en cas d’attaque informatique.
+
+## [Angola: pourquoi la loi sur la <b>cybersécurité</b> inquiète la société civile? - Appels sur l'actualité](https://www.rfi.fr/fr/podcasts/appels-sur-l-actualité/20260820-angola-pourquoi-la-loi-sur-la-cybersécurité-inquiète-la-société-civile)  
+*Source : rfi.fr | Publication : 2026-08-20*
+
+- Angola: pourquoi la loi sur la cybersécurité inquiète la société civile?.
+- Publié le : En Angola, l’Assemblée nationale a adopté une loi sur la cybersécurité soutenue par le MPLA au pouvoir et rejetée par l’Unita, principale force d’opposition.
+- Présenté comme un outil pour mieux réprimer les cybercrimes après une attaque massive contre l’opérateur Unitel, le texte impose aux compagnies télécoms de transmettre aux autorités « toute communication au contenu criminel ou portant atteinte à la sécurité de l’État ».
+- Que sait-on de la cyberattaque qui a visé l’opérateur Unitel ?.
 
 ## [Cyberattaques en série: &quot;Cela fait depuis 2023 que s'enchaînent les scandales de ... - BFM](https://www.bfmtv.com/politique/video-cyberattaques-en-serie-cela-fait-depuis-2023-que-s-enchainent-les-scandales-de-cybersecurite-rappelle-hadrien-clouet-depute-lfi_VN-202608190578.html)  
 *Source : bfmtv.com | Publication : 2026-08-19*
