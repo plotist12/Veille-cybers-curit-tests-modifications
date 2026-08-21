@@ -1,5 +1,152 @@
-# Résumés – 2026-08-20
+# Résumés – 2026-08-21
 
+
+## [Rappel de Mélange de la mer de marque Kim Phat en raison de la présence non déclarée d ...](https://www.lesaffaires.com/communique-de-presse/rappel-de-melange-de-la-mer-de-marque-kim-phat-en-raison-de-la-presence-non-declaree-doeufs-de-poisson-de-soja-et-de-ble/)  
+*Source : lesaffaires.com | Publication : 2026-08-21*
+
+- Rappel de MÃ©lange de la mer de marque Kim Phat en raison de la prÃ©sence non dÃ©clarÃ©e d’Åufs, de poisson, de soja et de blÃ© Cision|PubliÃ© il y a 27 minutes | Mis Ã jour il y a 11 minutesOTTAWA, ON, le 21 aoÃ»t 2026 /CNW/ — Produit:Â MÃ©lange de la mer ProblÃ¨meÂ : Aliments – AllergÃ¨ne – Åufs Aliments – AllergÃ¨ne – Poisson Aliments – AllergÃ¨ne – Gluten Aliments – AllergÃ¨ne – Soja Aliments – AllergÃ¨ne – BlÃ© DistributionÂ : QuÃ©bec Â Voir les produits concernÃ©s et les photos des produits pour ce rappel Consulter le contenu original : http://www.newswire.ca/fr/releases/archive/August2026/21/c0541.html.
+
+## [Le fossé de la confiance : la <b>cybersécurité</b> des PME en 2026](https://www.staysafeonline.org/fr/evenements/le-fossé-de-la-confiance-la-cybersécurité-des-pme-en-2026)  
+*Source : staysafeonline.org | Publication : 2026-08-21*
+
+- Webinaire Date de l'événement : | Le fossé de la confiance : la cybersécurité des PME en 2026 Les petites entreprises se sentent plus confiantes que jamais face à leur cybersécurité, mais les chiffres racontent une tout autre histoire.
+- Jours avant le webinaire days Ajouter au calendrier Dans ce webinaire, nous décrypterons les conclusions de l'enquête 2026 de l'NCA sur la sensibilisation et les pratiques de cybersécurité des petites entreprises, un nouveau rapport en partenariat avec la CISA, basé sur les réponses de 1 000 dirigeants de PME dans 10 secteurs d'activité.
+- Vous apprendrez : Pourquoi plus de la moitié des PME ne peuvent pas garantir l'absence d'incidents de sécurité, et ce qui explique ce déficit de confiance La différence entre avoir des outils de sécurité et les utiliser correctement Comment l'adoption de l'IA dépasse la gouvernance de l'IA dans les petites entreprises, et les risques que cela engendre Des meilleures pratiques concrètes et peu coûteuses que votre équipe peut mettre en œuvre immédiatement Que vous soyez chef d'entreprise, responsable informatique ou défenseur de la sécurité, vous repartirez avec une vision claire et exploitable de la situation réelle de la cybersécurité des PME, et des moyens de combler cet écart.
+
+## [<b>Cybersécurité</b> : Elhadji Ndiaga Gueye soutient l'alerte d'El. Malick Ndiaye sur le facteur humain](https://www.leral.net/Cybersecurite-Elhadji-Ndiaga-Gueye-soutient-l-alerte-d-El-Malick-Ndiaye-sur-le-facteur-humain_a404543.html)  
+*Source : leral.net | Publication : 2026-08-21*
+
+- En Côte d'Ivoire, sur 27 millions de tentatives d'attaques détectées en 2024, les recommandations des experts en cybersécurité insistent explicitement.
+
+## [Ce malware Android fait circuler vos données bancaires de téléphone en téléphone, même ...](https://www.clubic.com/actualite-626104-ce-malware-android-fait-circuler-vos-donnees-bancaires-de-telephone-en-telephone-meme-sans-internet.html)  
+*Source : clubic.com | Publication : 2026-08-21*
+
+- ThreatFabric a identifié Manic, un logiciel malveillant Android, lequel combine le vol de données bancaires à l'espionnage du terminal.
+- Repéré principalement en Ukraine, il vise aussi des services financiers russes et européens, ainsi que des messageries sensibles.
+- Et il a plus d'un tour dans son sac puisqu'il est capable de relayer les données volées via un autre téléphone infecté à proximité si l'appareil visé perd sa connexion Internet.
+- Comment Manic vole le code PIN Manic se propage via des sites de phishing et des applications piégées imitant des utilitaires système.
+
+## [Palo Alto Networks et NTT Data visent 1 Md$ de contrats communs autour de la sécurité de l'IA](https://www.lemondeinformatique.fr/actualites/lire-palo-alto-networks-et-ntt-data-visent-1-md$-de-contrats-communs-autour-de-la-securite-de-l-ia-100749.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-08-21*
+
+- Palo Alto Networks et NTT DATA passent à la vitesse supérieure.
+- Les deux groupes viennent de signer une alliance stratégique mondiale de plusieurs années, destinée à accompagner les entreprises dans l’adoption de l’IA tout en renforçant leur protection contre les nouvelles menaces.
+- L’accord vise 1 milliard de dollars de contrats et de commandes cumulés d’ici fin 2029.
+- La sécurisation de l’IA au coeur de l’alliance L’opération constitue une étape supplémentaire dans une relation déjà engagée.
+
+## [Encore, encore, encore … un nouveau groupe <b>ransomware</b> : SovCali – ZATAZ.COM](https://www.zataz.com/encore-encore-encore-un-nouveau-groupe-ransomware-sovcali/)  
+*Source : zataz.com | Publication : 2026-08-21*
+
+- Un nouvel acteur du rançongiciel, SovCali, apparaît et affirme détenir des données de Lucid Motors, première cible publiquement revendiquée.
+- Et encore un !.
+- La création de groupe de pirates informatiques n’a jamais été aussi imporante que ces derniers mois.
+- C’est du moins mes constatations.
+
+## [Criminalité financière : des enquêteurs de la FCC formés en Inde aux crimes ... - Défi Media](https://defimedia.info/criminalite-financiere-des-enqueteurs-de-la-fcc-formes-en-inde-aux-crimes-financiers-et-la)  
+*Source : defimedia.info | Publication : 2026-08-21*
+
+- Le Central Bureau of Investigation (CBI) a annoncé, ce vendredi 21 août 2026, l’achèvement d’une formation de deux semaines destinée à des agents de la Financial Crimes Commission (FCC) de Maurice.
+- Organisé à la CBI Academy de Ghaziabad, dans le cadre du programme indien ITEC, le cursus portait sur les enquêtes financières et les crimes facilités par les technologies numériques.
+- Selon l’agence de presse indienne PTI, les participants ont notamment été formés aux techniques d’enquête sur la fraude financière et la cybercriminalité.
+- Cette formation intervient alors que la FCC renforce ses capacités d’enquête et que Maurice prépare son dispositif de lutte contre le blanchiment d’argent et le financement du terrorisme en vue de sa prochaine évaluation internationale.
+
+## [64' débat ! Cyberattaque en France. - YouTube](https://www.youtube.com/watch?v=ywJeBE3vOEQ)  
+*Source : youtube.com | Publication : 2026-08-21*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Des partenaires prêts pour Next-Gen SIEM - CrowdStrike](https://www.crowdstrike.com/fr-fr/platform/next-gen-siem/ready-partners/)  
+*Source : crowdstrike.com | Publication : 2026-08-21*
+
+- CrowdStrike Falcon® Next-Gen SIEM Optimisez le SOC natif de l'IA grâce aux partenaires de CrowdStrike Transformez votre SOC et stoppez les brèches avec l'un des meilleurs écosystèmes du secteur, le tout sur une seule plateforme.
+- Débloquez votre écosystème.
+- Obtenez une visibilité complète.
+- Réagissez sans attendre.
+
+## [Nouvelle réglementation sur le commerce des produits et services de <b>cybersécurité</b>.](https://www.vietnam.vn/fr/quy-dinh-moi-ve-kinh-doanh-san-pham-dich-vu-an-ninh-mang)  
+*Source : vietnam.vn | Publication : 2026-08-21*
+
+- Produits de cybersécurité Selon le décret récemment publié, les produits de cybersécurité comprennent : Les produits de test et d'évaluation de la cybersécurité sont des dispositifs matériels et logiciels qui possèdent ou sont conçus pour intégrer les fonctionnalités suivantes : analyse, test et analyse de la configuration, de l'état et des données de journalisation des systèmes d'information et des appareils électroniques ; détection des vulnérabilités et des faiblesses ; et fourniture d'évaluations des risques de cybersécurité.
+
+## [Une plateforme de gestion de rendez-vous médicaux piratée : 6,8 millions de profils volés](https://www.01net.com/actualites/plateforme-gestion-rendez-vous-medicaux-piratee-68-millions-profils-voles.html)  
+*Source : 01net.com | Publication : 2026-08-21*
+
+- Nouveau jour, nouvelle cyberattaque en France.
+- Alaxione, une plateforme notamment spécialisée dans la gestion de rendez-vous médicaux, a été victime d’une cyberattaque.
+- Le hacker revendique le vol de 6,8 millions de profils.
+- De son côté, Alaxione a confirmé l’attaque, tout en tempérant la situation.
+
+## [Cyberattaque : la Protection Civile affirme avoir été visée par un vol de donnés en mars dernier](https://www.cnews.fr/france/2026-08-21/cyberattaque-la-protection-civile-affirme-avoir-ete-visee-par-un-vol-de-donnes-en)  
+*Source : cnews.fr | Publication : 2026-08-21*
+
+- Ce vendredi, la Protection Civile a annoncé avoir été victime d'une cyberattaque au mois de mars dernier.
+- Plus de 525.000 personnes seraient concernées, selon un site spécialisé.
+- La France n'est pas encore à la pointe en matière de cybersécurité.
+- Preuve en est, la Protection Civile a annoncé ce vendredi avoir été victime d'un piratage informatique et d'un vol de données au mois de mars dernier.
+
+## [Fuite de données : Groupe Géotec confirme une exfiltration après un... - FrenchBreaches](https://frenchbreaches.com/alertes/g-otec-mt2pm5hv08jyfc9vlj2c)  
+*Source : frenchbreaches.com | Publication : 2026-08-21*
+
+- Groupe Géotec : une exfiltration de données confirmée après un incident de cybersécurité Groupe Géotec confirme avoir récemment détecté un incident de sécurité ayant touché certains de ses outils.
+- L’entreprise indique que l’incident a entraîné une exfiltration de données et pourrait avoir un impact sur certains de ses services et échanges.Dans un communiqué officiel de notification d’incident de sécurité, Groupe Géotec indique que ses équipes internes, accompagnées de partenaires spécialisés, sont intervenues afin d’identifier et de traiter l’incident.
+- L’entreprise confirme néanmoins qu’une exfiltration de données a eu lieu.
+- Des investigations sont toujours en cours afin d’analyser la nature et le périmètre exacts de l’incident.
+
+## [Loi sur la <b>cybersécurité</b> 2025 : Nouveaux points à prendre en compte lors de sa mise en œuvre.](https://www.vietnam.vn/fr/luat-an-ninh-mang-2025-nhung-diem-moi-can-chu-y-khi-thuc-thi)  
+*Source : vietnam.vn | Publication : 2026-08-21*
+
+- Le 21 août, le ministère de la Sécurité publique, en collaboration avec l'Association nationale de cybersécurité (NCA), a organisé une conférence afin de diffuser et d'accompagner la mise en œuvre de la loi sur la cybersécurité et de la loi sur la protection des données personnelles auprès des ministères, agences, organisations et entreprises, tant au niveau national qu'international.
+- Cet événement s'inscrivait dans le cadre des activités menées à l'occasion de la Journée vietnamienne de la cybersécurité, placée sous le thème « Pour un cyberespace humain pour tous ».
+- Dans le contexte d'une économie numérique en plein essor, les données deviennent une ressource de plus en plus cruciale pour les entreprises et l'économie.
+- Cependant, les risques de cyberattaques, de fuites de données, de fraudes en ligne et de cybercriminalité augmentent également.
+
+## [Groupe Géotec : une cyberattaque provoque une exfiltration de données et perturbe ...](https://www.cyberattaque.org/groupe-geotec-une-cyberattaque-provoque-une-exfiltration-de-donnees-et-perturbe-certains-services/)  
+*Source : cyberattaque.org | Publication : 2026-08-21*
+
+- Groupe Géotec confirme avoir récemment été victime d’un incident de cybersécurité ayant entraîné une exfiltration de données.
+- L’attaque touche certains de ses outils et pourrait également avoir des conséquences sur plusieurs services et échanges de l’entreprise.
+- Le groupe indique avoir rapidement identifié l’incident avec l’aide de ses équipes internes et de partenaires spécialisés en cybersécurité.
+- Des investigations sont toujours en cours afin de déterminer précisément la nature des données récupérées et l’étendue de la compromission.
+
+## [Le ministère de l'intérieur piraté depuis la boîte mail d'un fonctionnaire - Le Monde](https://www.lemonde.fr/societe/article/2026/08/20/le-ministere-de-l-interieur-pirate-depuis-la-boite-mail-d-un-fonctionnaire-autopsie-d-une-intrusion-qui-revele-les-failles-informatiques-de-l-etat_6751123_3224.html)  
+*Source : lemonde.fr | Publication : 2026-08-21*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [La plateforme de mode sud-coréenne Musinsa s'implante au Vietnam](https://lecourrier.vn/la-plateforme-de-mode-sud-coreenne-musinsa-simplante-au-vietnam/1353910.html)  
+*Source : lecourrier.vn | Publication : 2026-08-21*
+
+- >> La question de la confiance représente un défi majeur de la cybersécurité moderne >> Thu Lâm, laboratoire d’un nouveau modèle de développement local >> L’art peut "éveiller" à un mode de vie durable Musinsa a signé un accord de partenariat avec Au Chau Fashion and Cosmetics (ACFC), filiale d’Imex Pan Pacific Group (IPPG), l’un des principaux distributeurs au Vietnam.
+- Aux termes de cet accord, les deux entreprises développeront conjointement l’enseigne "Musinsa Standard" au Vietnam et prévoient d’ouvrir des magasins physiques à Hô Chi Minh-Ville ainsi que dans d’autres sites stratégiques.
+- IPPG distribue plus de 100 marques internationales à travers plus de 1.200 magasins, tandis qu’ACFC gère 28 marques de mode internationales et plus de 280 points de vente dans le pays.
+- Musinsa entend s’appuyer sur le réseau et l’expertise de ses partenaires locaux plutôt que de mettre en place son propre système de distribution, une stratégie qui devrait lui permettre de s’adapter plus rapidement au marché et d’atteindre plus efficacement les consommateurs.
+
+## [L'Assemblée nationale muscle la défense numérique du Sénégal - EnquetePlus.com](https://www.enqueteplus.com/content/cybersécurité-souveraineté-numérique-l’assemblée-nationale-muscle-la-défense-numérique-du)  
+*Source : enqueteplus.com | Publication : 2026-08-21*
+
+- L’Assemblée nationale muscle la défense numérique du Sénégal Réunis en séance plénière ce jeudi 20 août 2026, les députés ont adopté à l’unanimité le projet de loi n°25/2026 relatif à la protection des infrastructures d’Information Critiques (IIC) et à la sécurité numérique.
+- Le texte entend renforcer l’arsenal juridique du Sénégal face à la multiplication et à la sophistication des cybermenaces.
+- Le numérique n’est plus seulement une question de connexion ou de services en ligne.
+- Il devient un enjeu de souveraineté.
+
+## [Pas toujours correctement sécurisées, les bornes de recharge des véhicules électriques ... - BFM](https://www.bfmtv.com/tech/actualites/cybersecurite/pas-toujours-correctement-securisees-les-bornes-de-recharge-des-vehicules-electriques-commencent-a-faire-le-bonheur-des-hackers_AN-202608210323.html)  
+*Source : bfmtv.com | Publication : 2026-08-21*
+
+- Pas toujours correctement sécurisées, les bornes de recharge des véhicules électriques commencent à faire le bonheur des hackers Des équipements qui n'attendent que d'être piratés.
+- Depuis des années, des chercheurs en sécurité alertent sur la vulnérabilité des bornes de recharge pour véhicules électriques.
+- Elles ne seraient pas suffisamment protégées pour empêcher les pirates de s'y introduire, comme le montre un récent rapport de Flare, entreprise de cybersécurité.
+- Entre le 14 juin et le 14 juillet 2026, ses chercheurs ont scruté de près 1.000 terminaux de recharge OCPP (protocole de communication permettant de lier les bornes à un système de gestion centralisé, NDLR) dans 56 pays.
+
+## [Les <b>cybermenaces</b> se complexifient et exigent une défense à plusieurs niveaux](https://portail-assurance.ca/article/les-cybermenaces-se-complexifient-et-exigent-une-defense-a-plusieurs-niveaux/)  
+*Source : portail-assurance.ca | Publication : 2026-08-21*
+
+- Les spécialistes de la cybersécurité qui suivent les vulnérabilités les plus dangereuses à l’heure actuelle affirment que les menaces internes, l’injection de requêtes visant l’intelligence artificielle (IA), l’hameçonnage alimenté par l’IA et les rançongiciels en tant que service figurent tous parmi les principales préoccupations auxquelles les responsables et les professionnels de la sécurité doivent accorder une attention immédiate.
+- Fait intéressant, ils soulignent que l’IA elle-même présente certaines faiblesses fondamentales qui la rendent vulnérable, particulièrement aux attaques par injection de requêtes.
+- Gestion des risques liés aux menaces internes Le chercheur en cybersécurité Jason Clark a présenté ses perspectives lors d’un récent webinaire de Dark Reading, commandité par la firme de gestion des identités Okta.
+- Il affirme que les menaces internes demeurent actuellement l’un des risques de cybersécurité les plus importants, mais qu’elles sont souvent sous-estimées.
 
 ## [Agence de services et de paiement - XXX - Offres d'emploi](https://agencedeservicesetdepaiement.recruitee.com/o/charge-de-cybersecurite-hf)  
 *Source : agencedeservicesetdepaiement.recruitee.com | Publication : 2026-08-20*
