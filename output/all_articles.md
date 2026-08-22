@@ -1,5 +1,156 @@
-# Résumés – 2026-08-21
+# Résumés – 2026-08-22
 
+
+## [Bandes de quartier, trafic de stupéfiants, <b>cybercriminalité</b>, sécurité routière… Les services ...](https://www.elmoudjahid.dz/fr/actualite/bandes-de-quartier-trafic-de-stupefiants-cybercriminalite-securite-routiere-les-services-de-securite-sur-tous-les-fronts-257376)  
+*Source : elmoudjahid.dz | Publication : 2026-08-22*
+
+- Bandes de quartier, trafic de stupéfiants, cybercriminalité , sécurité routière… Les services de sécurité sur tous les fronts.
+- Ces opérations «coup de.
+
+## [Cameroun-Algérie : terrorisme, <b>cybercriminalité</b> et formation au cœur des échanges entre ...](https://actucameroun.com/2026/08/22/cameroun-algerie-terrorisme-cybercriminalite-et-formation-au-coeur-des-echanges-entre-les-gendarmeries/)  
+*Source : actucameroun.com | Publication : 2026-08-22*
+
+- La Gendarmerie nationale camerounaise a accueilli, les 18 et 19 août 2026, une délégation de quatre gendarmes algériens conduite par le Commandant Houd Rechdi.
+- Cette visite a permis de renforcer les bases d’une coopération axée notamment sur la lutte contre le terrorisme, la cybercriminalité et la formation.
+- Reçue par le Général de Brigade Louba Zal Pierre, Directeur central de la Coordination, la délégation algérienne a échangé avec plusieurs responsables de la Gendarmerie nationale camerounaise sur les perspectives de coopération entre les deux institutions.
+- Au cours de leur séjour, les visiteurs ont notamment découvert le Centre numérique national de commandement, le Service central des recherches judiciaires (SCRJ), le Centre de perfectionnement à la police judiciaire (CPPJ) ainsi que le Groupement polyvalent d’intervention de la Gendarmerie nationale (GPIGN) à Mbankomo.
+
+## [<b>Cybersécurité</b> : le Maroc dans le Top 50 mondial, mais est-il bien protégé ? Explications ...](https://www.medi1news.com/fr/article/405949.html)  
+*Source : medi1news.com | Publication : 2026-08-22*
+
+- Le Maroc se classe 43e sur 155 pays dans le classement mondial de la cybersécurité 2026, publié par l'Académie estonienne de la gouvernance.
+
+## [Vidéo : <b>Cybersécurité</b> : le Maroc dans le Top 50 mondial, mais est-il bien protégé ...](https://www.medi1tv.com/fr/reportage/405949/Cybersécurité--le-Maroc-dans-le-Top-50-mondial-mais-est-il-bien-protégé-Explications-Sofiane-El-Abdi)  
+*Source : medi1tv.com | Publication : 2026-08-22*
+
+- Les explications de Sofiane El Abdi, expert en cybersécurité et Intelligence artificielle.
+- Source : MEDI1TV — MEDI1 NEWS.
+
+## [Les véhicules connectées soulèvent des questions relatives à la vie privée - Noovo Info](https://www.noovo.info/nouvelles/technologie/article/les-vehicules-connectees-soulevent-des-questions-relatives-a-la-vie-privee/)  
+*Source : noovo.info | Publication : 2026-08-22*
+
+- Les véhicules modernes sont devenus de véritables centres numériques complexes qui surveillent et enregistrent en permanence vos faits et gestes.
+- Telles sont les conclusions publiées dans un nouveau rapport de la Commission d’éthique en science et en technologie (CEST).
+- «Nous avons voulu recenser les risques et les défis liés aux véhicules connectés, a déclaré le président de la CEST, Luc Bégin.
+- Les voitures d’aujourd’hui sont essentiellement des ordinateurs sur roues.».
+
+## [Méfiez-vous des emojis dans vos e-mails, ils peuvent cacher un malware - Clubic](https://www.clubic.com/actualite-626329-mefiez-vous-des-emojis-dans-vos-e-mails-ils-peuvent-cacher-un-malware.html)  
+*Source : clubic.com | Publication : 2026-08-22*
+
+- Une campagne de piratage a été découverte dans laquelle un fichier joint à un faux e-mail bancaire dissimule le logiciel espion Agent Tesla derrière de simples emojis Unicode glissés dans son code.
+- Elle concerne les services financiers d’entreprises, sous couvert d’un virement bancaire à traiter en urgence.
+- Un e-mail piégé peut dissimuler son malware derrière des emojis anodins, glissés dans le code de sa pièce jointe.
+- Dans une campagne analysée par les chercheurs du KnowBe4 Threat Lab, un message imite la Metropolitan Bank and Trust Company, banque philippine, pour piéger des services financiers d’entreprises avec un faux virement à confirmer en urgence, sous une pièce jointe intitulée « SWIFT Payment Maker 103 ».
+
+## [Cette nouvelle arnaque utilise vos données personnelles pour vous piéger - 01net.com](https://www.01net.com/actualites/cette-nouvelle-arnaque-utilise-vos-donnees-personnelles-pour-vous-pieger.html)  
+*Source : 01net.com | Publication : 2026-08-22*
+
+- En mai dernier, Bouygues Telecom a été victime d’une cyberattaque ayant exposé les données personnelles de plusieurs millions de Français.
+- Quelques mois plus tard, nous en voyons certaines conséquences.
+- L’arnaque à l’abonnement streaming, qui mobilise des noms tels que Cellcast Vidéos ou Vidéos +, Family, ciblait récemment les abonnés de Bouygues, mais une nouvelle vague de phishing vise désormais, elle aussi, les clients de l’opérateur.
+- En effet, que ce soit sur Reddit ou Facebook, les messages d’alerte se multiplient depuis plusieurs jours.
+
+## [Cyberattaques en France, pourquoi l'État reste vulnérable et comment réagir - Atlantico.fr](https://atlantico.fr/article/video/cyberattaques-pourquoi-la-france-est-devenue-une-cible-de-choix-pour-les-hackers)  
+*Source : atlantico.fr | Publication : 2026-08-22*
+
+- 22 août 2026 Cyberattaques : pourquoi la France est devenue une cible de choix pour les hackers Les cyberattaques à répétition contre des organismes publics français révèlent des vulnérabilités qui dépassent la seule question technique.
+- 1 min de lecture 0:00min 100% 100%.
+- Tech & IAA PROPOS DES AUTEURS Kimberley Bort est analyste et vulgarisatrice spécialisée dans la criminalité organisée, collaboratrice de CrimOrg.com et à la tête de Mobstars Stories, un projet de contenus sur les réseaux sociaux qui explore les dynamiques du crime organisé et ses représentations.
+- Populaires.
+
+## [Vous pensez être protégé après avoir changé votre mot de passe ? Ce dangereux malware ...](https://www.phonandroid.com/vous-pensez-etre-protege-apres-avoir-change-votre-mot-de-passe-ce-dangereux-malware-prouve-le-contraire.html)  
+*Source : phonandroid.com | Publication : 2026-08-22*
+
+- Vous pensez être protégé après avoir changé votre mot de passe ?.
+- Ce dangereux malware prouve le contraire Sur le dark web, un nouveau malware fait parler de lui.
+- Celui-ci permet à l’attaquant non seulement de voler vos identifiants, mais également de continuer à avoir accès à vos comptes même après un changement de mot de passe.
+- Le moins que l’on puisse dire, c’est qu’en 2026, les hackers redoublent d’inventivité pour commettre leurs méfaits.
+
+## [INFO SUD OUEST. Bordeaux : La Grande Maison de Bernard Magrez rachetée par l ...](https://www.sudouest.fr/gironde/bordeaux/info-sud-ouest-bordeaux-la-grande-maison-de-bernard-magrez-rachetee-par-l-entrepreneur-nicolas-leroy-floriot-30334402.php)  
+*Source : sudouest.fr | Publication : 2026-08-22*
+
+- Le chef d’entreprise Nicolas Leroy-Fleuriot annonce avoir racheté à Bernard Magrez, La Grande Maison, cet hôtel particulier qui a abrité un restaurant étoilé Portée par ses 215 millions de chiffre d’affaires, l’entreprise spécialisée dans la cybersécurité Cheops Technology, dont le siège est à Canéjan en Gironde, va s’agrandir.
+- Portée par ses 215 millions de chiffre d’affaires, l’entreprise spécialisée dans la cybersécurité Cheops Technology, dont le siège est à Canéjan en Gironde, va s’agrandir.
+- Nicolas Leroy-Fleuriot, son PDG, a annoncé à « Sud Ouest » avoir racheté, à Bernard Magrez, l’homme d’affaires aux quatre grands crus classés en Gironde, La Grande Maison, rue Labottière à Bordeaux.
+
+## [À 25 € la première année, cet antivirus primé vous protège comme il se doit contre les <b>cybermenaces</b>](https://www.iphon.fr/post/25-euros-premiere-annee-antivirus-prime-protege-comme-il-se-doit-cybermenaces)  
+*Source : iphon.fr | Publication : 2026-08-22*
+
+- À 25 € la première année, cet antivirus primé vous protège comme il se doit contre les cybermenaces Vous souhaitez protéger vos appareils contre les menaces du web ?.
+- Bitdefender sécurise jusqu’à trois de vos appareils pendant un an pour un prix dérisoire.
+- L’antivirus Bitdefender vous fait profiter d’une remise de 50 % sur son offre Antivirus Plus.
+- Ce logiciel peut protéger jusqu’à trois appareils en même temps et il est compatible avec tous les appareils : Mac, PC, Android, iOS, iPadOS, Apple Watch.
+
+## [Me Bhavish Budhoo : «Tout contenu choquant, dérangeant ou offensant n'est pas ...](https://defimedia.info/me-bhavish-budhoo-tout-contenu-choquant-derangeant-ou-offensant-nest-pas-necessairement-illegal)  
+*Source : defimedia.info | Publication : 2026-08-22*
+
+- Le Cybersecurity and Cybercrime Act 2021 est au cœur du débat actuel sur le contrôle des réseaux sociaux.
+- Que permet réellement cette loi et quel est son objectif ?.
+- La loi ne vise pas uniquement les réseaux sociaux.
+- Elle établit un cadre plus large pour lutter contre la cybercriminalité et renforcer la cybersécurité.
+
+## [Glossaire <b>cybersécurité</b> : 55 définitions essentielles - Hucency](https://hucency.com/glossaire-de-la-cybersecurite/)  
+*Source : hucency.com | Publication : 2026-08-22*
+
+- Glossaire de la cybersécurité Ce glossaire réunit les termes essentiels de la cybersécurité.
+- Chaque définition est sourcée auprès d’autorités de référence : ANSSI, CNIL, Cybermalveillance.gouv.fr, ENISA.
+- Un outil indispensable pour comprendre les menaces et renforcer la protection de votre organisation.
+- ANSSI (Agence Nationale de la Sécurité des Systèmes d’Information) Autorité nationale française en matière de cybersécurité et de cyberdéfense.
+
+## [Le Vietnam publie de nouvelles règles de <b>cybersécurité</b> pour les entreprises](https://vietnam.vnanet.vn/french/tin-van/le-vietnam-publie-de-nouvelles-regles-de-cybersecurite-pour-les-entreprises-463222.html)  
+*Source : vietnam.vnanet.vn | Publication : 2026-08-22*
+
+- Nouvelles Le Vietnam publie de nouvelles règles de cybersécurité pour les entreprises Le gouvernement a promulgué le décret n°333/2026/ND-CP détaillant les mesures d’application de la Loi sur la cybersécurité, notamment des exigences notables concernant les activités de garantie de la sécurité de l’information menées par les entreprises nationales et étrangères opérant dans le cyberespace au Vietnam.
+- Publié le 19 août, le décret comprend six chapitres et 32 articles portant sur les mesures de protection en matière de cybersécurité, la garantie de la sécurité de l’information, la formation spécialisée en cybersécurité ainsi que la gestion de l’identification des adresses IP pour les fournisseurs de services de télécommunications et d’accès à Internet.
+- Conformément à l’article 16, les entreprises nationales et étrangères fournissant des services sur les réseaux de télécommunications, Internet et des services à valeur ajoutée basés dans le cyberespace au Vietnam sont tenues de mener des activités garantissant la sécurité de l’information, en conformité avec ledit article et les autres réglementations pertinentes du droit vietnamien.
+- Les entreprises doivent vérifier les informations des utilisateurs lors de l’enregistrement de comptes numériques et authentifier ces comptes utilisant un numéro de téléphone mobile au Vietnam.
+
+## [<b>Ransomware</b> : avec 181 victimes, 2026 dépasse déjà toute l'année 2025 - Zataz](https://www.zataz.com/ransomware-avec-181-victimes-2026-depasse-deja-toute-lannee-2025/)  
+*Source : zataz.com | Publication : 2026-08-22*
+
+- Au 20 août 2026, 181 revendications ransomware concernent la France dans les données étudiées par ZATAZ, un indicateur utile qui ne prouve toutefois pas l’étendue réelle des intrusions.
+- Les données disponibles et documentés par ZATAZ recensent désormais 181 publications attribuées à des groupes de ransomware en France en 2026.
+- Imaginez, nous venons de dépasser le chiffre de 2025 et nous ne sommes qu’à la fin du mois d’août !.
+- Trois nouvelles entrées apparaissent le 20 août : JP Molyneux Studio, Experts Entreprendre et Capgemini Engineering.
+
+## [Cyberattaque chez un prestataire de Suez : des données sensibles dérobées et mises en ligne](https://www.01net.com/actualites/cyberattaque-chez-un-prestataire-de-suez-des-donnees-sensibles-derobees-et-mises-en-ligne.html)  
+*Source : 01net.com | Publication : 2026-08-22*
+
+- Un prestataire de Suez Eau France a été victime d’une cyberattaque.
+- Le fournisseur d’eau a confirmé l’information, tout en précisant quelles sont les données qui ont potentiellement été compromises.
+- Il faut noter qu’une partie des données dérobées a été extraite et rendue accessible sur Internet.
+- La prudence est donc de mise.
+
+## [<b>Cybersécurité</b>: des défaillances au sein des institutions publiques pointées du doigt après ...](https://www.bfmtv.com/tech/video-cybersecurite-des-defaillances-au-sein-des-institutions-publiques-pointees-du-doigt-apres-de-nombreux-piratages_VN-202608220060.html)  
+*Source : bfmtv.com | Publication : 2026-08-22*
+
+- Cybersécurité: des défaillances au sein des institutions publiques pointées du doigt après de nombreux piratages Après avoir subi plusieurs attaques d’envergure ces derniers mois, les organismes gouvernementaux doivent repenser leurs méthodes de fonctionnement en matière de cybersécurité.
+- Ces changements doivent être à la fois organisationnels et budgétaires, estiment les experts.
+- | Durée : 1:08.
+
+## [Fuite de données chez OTEIS Conseil &amp; Ingénierie : intrusion par... - FrenchBreaches](https://frenchbreaches.com/alertes/oteis-conseil-ing-nierie-rw_VDFSRlNWTWdRMjl1YzJWcGJDQW1JRWx1WjhPcGJtbGxjbWxsUUdOdmFXNWlZWE5sWTJGeWRHVnM)  
+*Source : frenchbreaches.com | Publication : 2026-08-22*
+
+- OTEIS Conseil & Ingénierie : le groupe CoinbaseCartel revendique une cyberattaque contre l’entreprise française Le groupe cybercriminel CoinbaseCartel revendique une cyberattaque visant OTEIS Conseil & Ingénierie, une entreprise française spécialisée dans l’architecture, l’ingénierie et la conception.OTEIS apparaît sur le site de divulgation de CoinbaseCartel, où l’organisation est actuellement répertoriée avec le statut « active ».
+- À ce stade, la publication visible ne précise ni la nature des données qui auraient été compromises, ni leur volume, ni le nombre de personnes potentiellement concernées.
+- La présence d’OTEIS Conseil & Ingénierie sur le site de CoinbaseCartel constitue une revendication du groupe cybercriminel.
+- Elle ne permet pas, à elle seule, de confirmer indépendamment une intrusion ou une exfiltration de données.
+
+## [Cyberattaque : la Protection civile victime d'une fuite de données, plusieurs milliers de ...](https://actu.orange.fr/france/cyberattaque-la-protection-civile-victime-d-une-fuite-de-donnees-plusieurs-milliers-de-benevoles-concernes-magic-CNT000002rsaCb.html)  
+*Source : actu.orange.fr | Publication : 2026-08-22*
+
+- Cyberattaque : la Protection civile victime d’une fuite de données, plusieurs milliers de bénévoles concernés © Kevin Horvat/ Unsplash La Protection civile a révélé avoir subi un piratage informatique en mars dernier, touchant les données personnelles de plusieurs milliers de bénévoles, dont des mineurs.
+- Une plainte a été déposée.
+- Vendredi 21 août, la Protection civile a révélé avoir été la cible d’un piratage informatique remontant au mois de mars dernier, confirmant une information publiée par le site spécialisé Frenchbreaches.
+- La fuite concerne la plateforme e-Protec, utilisée notamment par les bénévoles de l’association.
+
+## [A découvrir : 404 Media d'investigation Tech et IA - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/08/22/a-d404-media-investigation-tech-et-ia/)  
+*Source : dcod.ch | Publication : 2026-08-22*
+
+- 404 Media, nouveau média numérique fondé par quatre journalistes issus de VICE’s Motherboard, annonce son lancement avec une ligne axée sur le hacking, la cybersécurité et la vie privée.
+- Présenté comme une entreprise “créée, détenue, écrite et éditée” par cette même équipe, le site revendique une production mêlant enquêtes, formats long, blogs et scoops, sur des sujets allant de la cybercriminalité à l’intelligence artificielle, en passant par la surveillance et les droits des consommateurs.
+- L’ambition affichée est de publier des histoires introuvables ailleurs, capables d’influencer le débat public et de “dénoncer les mauvais acteurs”, tout en assumant un ton parfois râpeux.
+- Le projet est accessible ici : 404 Media.
 
 ## [Rappel de Mélange de la mer de marque Kim Phat en raison de la présence non déclarée d ...](https://www.lesaffaires.com/communique-de-presse/rappel-de-melange-de-la-mer-de-marque-kim-phat-en-raison-de-la-presence-non-declaree-doeufs-de-poisson-de-soja-et-de-ble/)  
 *Source : lesaffaires.com | Publication : 2026-08-21*
