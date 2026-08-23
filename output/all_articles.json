@@ -1,5 +1,185 @@
 [
   {
+    "id": "c0045a553f",
+    "title": "Car hacking, le guide de la sécurité automobile du bus CAN aux attaques relais",
+    "link": "https://pasqualepillitteri.it/fr/news/12502/car-hacking-securite-automobile-can-bus",
+    "source": "pasqualepillitteri.it",
+    "pub_date": "2026-08-23",
+    "summary": "- Car hacking, le guide de la sécurité automobile du bus CAN aux attaques relais Le car hacking et la sécurité automobile expliqués, comment fonctionne le bus CAN, ce que sont les attaques relais et quels outils utiliser pour apprendre légalement.\n- 1.Qu'est-ce que le car hacking - 2.Le bus CAN, un réseau de 1986 né sans sécurité - 3.La Jeep de 2015, l'attaque qui a réveillé l'industrie - 4.Les relay attack, comment disparaissent les voitures keyless - 5.Les outils pour étudier la sécurité d'une voiture - 6.Où apprendre de manière légale - 7.Voitures connectées et nouveaux fronts d'attaque - 8.Pwn2Own Automotive 2026 et l'état de l'art - 9.Key Takeaways - 10.Questions fréquentes (FAQ) - 11.Conclusions - 12.Notez cet article - 13.Articles Connexes - 14.Recherchez-vous un Ingénieur Logiciel?.\n- - En janvier 2026, dans le pavillon de Tokyo de l'Automotive World, les chercheurs réunis pour le concours Pwn2Own Automotive ont percé en trois jours 76 vulnérabilités zero-day jamais vues auparavant, empochant 1 047 000 dollars de récompenses.\n- Tesla à elle seule a collectionné 37 failles, dont un exploit qui a permis l'accès root à l'infodivertissement avec une simple clé USB.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "30a583b659",
+    "title": "Après le piratage qui ébranle la France, voici les leçons concrètes pour mieux nous protéger",
+    "link": "https://www.letemps.ch/cyber/cybersecurite/apres-le-piratage-qui-ebranle-la-france-voici-les-lecons-concretes-pour-mieux-nous-proteger",
+    "source": "letemps.ch",
+    "pub_date": "2026-08-23",
+    "summary": "- La France est toujours sous le choc après le piratage de son administration fiscale au niveau national.\n- Il y a bien sûr l’ampleur de cette cyberattaque hors norme, qui a frappé le cœur de l’Etat et conduit au vol de données fiscales de plus de 700 000 personnes et entreprises.\n- Il y a aussi le rythme des révélations qui s’enchaînent, montrant l’ampleur des failles non seulement techniques, mais aussi humaines.\n- En termes de cybersécurité, «peu de ministères sont au niveau requis» en France, a ainsi admis le premier ministre, Sébastien Lecornu, ajoutant que «ce n’est pas acceptable».",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "49632aa738",
+    "title": "Netim : code source, données clients et infrastructure interne menacés de publication par un ...",
+    "link": "https://www.cyberattaque.org/netim-code-source-cyberattaque-ransomware/",
+    "source": "cyberattaque.org",
+    "pub_date": "2026-08-23",
+    "summary": "- Netim, registrar français spécialisé dans les noms de domaine et l’hébergement web, est revendiqué par le groupe de ransomware DYSPHOR1A.\n- Les cybercriminels affirment avoir compromis une large partie de l’infrastructure interne de l’entreprise et menacent désormais de publier les données.\n- Un compte à rebours d’environ 2 jours et 12 heures accompagne actuellement la revendication.\n- Le groupe évoque une compromission allant bien au-delà d’une simple base clients, avec du code source, des informations d’infrastructure, des données personnelles et des éléments liés aux paiements.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "de1d1b0ca8",
+    "title": "Cyberattaque contre NETIM : le <b>ransomware</b> DYSPHOR1A revendique une... - FrenchBreaches",
+    "link": "https://frenchbreaches.com/alertes/netim-company-mt60oa0h3iof98zmci3",
+    "source": "frenchbreaches.com",
+    "pub_date": "2026-08-23",
+    "summary": "- Cyberattaque contre NETIM COMPANY : DYSPHOR1A revendique une compromission majeure Le groupe de ransomware DYSPHOR1A revendique une cyberattaque contre NETIM COMPANY, un registrar français de noms de domaine et fournisseur de services d’hébergement web.\n- Selon les éléments publiés dans la revendication, les cybercriminels affirment avoir obtenu un accès étendu à l’infrastructure interne de NETIM, avec l’exposition potentielle de code source, adresses IP internes, configurations de serveurs, bases de données liées aux paiements, données personnelles de clients et informations internes de l’entreprise.\n- Les données revendiquées comprendraient notamment du code source, des informations sur l’infrastructure interne, des configurations de serveurs, des données clients, des informations de facturation ainsi que des données relatives aux systèmes de paiement utilisés par NETIM.\n- Que revendique le groupe DYSPHOR1A ?.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "42c8093731",
+    "title": "Cartes Visa périmées : une faille NFC permet de valider des paiements",
+    "link": "https://dcod.ch/2026/08/23/cartes-visa-perimees-une-faille-nfc-permet-de-valider-des-paiements/",
+    "source": "dcod.ch",
+    "pub_date": "2026-08-23",
+    "summary": "- Les cartes Visa périmées ne sont pas systématiquement inactives lorsqu’elles passent sur un terminal de paiement.\n- Une étude menée par l’University of Massachusetts Amherst démontre qu’un intermédiaire technique peut altérer la date d’expiration vue par le commerçant et faire valider un achat réel.\n- Une manipulation technique qui réactive les cartes Visa périmées L’expérimentation documentée par Malwarebytes Labs a porté sur plusieurs réseaux bancaires : Visa, Mastercard, Discover et American Express.\n- Les tests ont impliqué divers commerçants, des terminaux variés et des cartes émises par cinq grandes banques américaines.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "792fee2acf",
+    "title": "Borne de recharge électrique : pourquoi elles restent encore vulnérables au piratage ? - Tinynews",
+    "link": "https://www.tinynews.be/borne-de-recharge-electrique-pourquoi-elles-restent-encore-vulnerables-au-piratage/amp/",
+    "source": "tinynews.be",
+    "pub_date": "2026-08-23",
+    "summary": "- Les voitures électriques ont beau être bardées d’électronique, de logiciels et de connexions réseau, il existe encore un endroit où la cybersécurité semble parfois avoir été garée en double file : la borne de recharge.\n- Contrairement à ce que pourrait laisser penser son apparence plutôt inoffensive, une borne publique moderne est loin d’être un simple gros interrupteur qui envoie des électrons dans une batterie.\n- Elle communique avec votre voiture, avec un serveur distant, avec une application mobile, avec un système de paiement et parfois avec les systèmes énergétiques du site.\n- Bref, derrière la prise CCS se cache une véritable petite infrastructure informatique.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "6143609b86",
+    "title": "Cyberattaques contre les réseaux d'eau : pourquoi les Etats-Unis ne parviennent pas à ...",
+    "link": "https://www.challenges.fr/la-verticale-cyber/cyberattaques-contre-les-reseaux-deau-pourquoi-les-etats-unis-ne-parviennent-pas-a-proteger-leurs-infrastructures-vitales_645302",
+    "source": "challenges.fr",
+    "pub_date": "2026-08-23",
+    "summary": "- Cyberattaques contre les réseaux d’eau : pourquoi les Etats-Unis ne parviennent pas à protéger leurs infrastructures vitales Ciblé par de nombreuses cyberattaques, le secteur de l’eau américain est victime de systèmes informatiques obsolètes et d’un manque de volonté politique.\n- Une situation qui n’est pas sans rappeler le cas français.\n- L’eau constitue une vulnérabilité stratégique, un fait que les commandants militaires connaissent bien.\n- Lorsque les Ostrogoths ont voulu paralyser Rome en 537, ils ont détruit ses aqueducs.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "5aac535604",
+    "title": "Sommet syrien de la <b>cybersécurité</b> lancé avec la participation de 500 experts",
+    "link": "https://sana.sy/fr/syrie/2325620/",
+    "source": "sana.sy",
+    "pub_date": "2026-08-23",
+    "summary": "- Damas, ( SANA) Les travaux du Sommet syrien de la cybersécurité 2026 ont débuté ce dimanche, avec la participation de plus de 500 experts et spécialistes syriens, arabes et étrangers, réunis virtuellement via une plateforme numérique interactive dédiée aux participants.\n- Le sommet se tient jusqu’au 27 août et propose plus de 37 heures de sessions sur le cyberespace, l’IA, les menaces cybernétiques, la sécurité industrielle et l’innovation.\n- La cybersécurité, une question nationale Lors de l’ouverture du sommet, l’ingénieur Chahada Al‑Ibrahim, directeur général de l’Autorité nationale des services de technologie de l’information, a affirmé que la cybersécurité est désormais un enjeu national touchant l’économie, les services publics et la vie des citoyens.\n- Il a insisté sur la nécessité d’un système national intégré pour protéger l’infrastructure numérique, coordonner la réponse et assurer l’échange d’informations entre les secteurs public et privé. «.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "5fa1f96e0d",
+    "title": "Cybertech Europe 2026 réunit les experts du secteur à Rome",
+    "link": "https://www.objetconnecte.com/cybertech-europe-2026-reunit-les-experts-du-secteur-a-rome/",
+    "source": "objetconnecte.com",
+    "pub_date": "2026-08-23",
+    "summary": "- Cybertech Europe 2026 représente un rendez-vous incontournable pour les professionnels de la cybersécurité en Europe.\n- Cette manifestation se tiendra à Rome, un centre stratégique où les enjeux numériques deviennent de plus en plus cruciaux.\n- La conférence réunira les acteurs clés issus des gouvernements, de l’industrie et de la recherche.\n- Au cœur d’une ère où les cybermenaces s’intensifient et évoluent sans cesse, le rôle des experts en sécurité informatique devient capital pour préserver les infrastructures critiques.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "a0a885131f",
+    "title": "Arnaque aux faux colis IA : ce SMS circule toujours, voici comment éviter le piège",
+    "link": "https://www.01net.com/actualites/arnaque-aux-faux-colis-ia-ce-sms-circule-toujours-voici-comment-eviter-le-piege.html",
+    "source": "01net.com",
+    "pub_date": "2026-08-23",
+    "summary": "- En mars 2026, une première vague d’arnaques avait surpris les Français en combinant des données personnelles authentiques, issues de fuites successives chez des transporteurs comme Mondial Relay, avec une photo générée par intelligence artificielle montrant un livreur tenant un colis à leur nom.\n- Un mois plus tard, les escrocs avaient ajouté une corde à leur arc en glissant un message vocal synthétique dans le même scénario, une voix masculine imitant à la perfection le ton pressé d’un livreur venu déposer un paquet trop volumineux pour la boîte aux lettres.\n- Le message que j’ai reçu récemment reprend exactement cette combinaison.\n- Un message vocal d’une douzaine de secondes, accompagné d’une photo d’un carton Mondial Relay posé sur le tableau de bord d’une camionnette, suivi d’un SMS reprenant le même argumentaire : le colis ne serait pas rentré dans la boîte aux lettres, une nouvelle consigne de livraison serait à donner via un lien.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "1ba3822c31",
+    "title": "Paris : Les crawlers d'IA, une menace invisible pour vos sites - Presse Agence",
+    "link": "https://presseagence.fr/paris-cybersecurite-les-crawlers-des-ia-une-nouvelle-menace-invisible-pour-les-sites-web/",
+    "source": "presseagence.fr",
+    "pub_date": "2026-08-23",
+    "summary": "- PARIS : Cybersécurité – Les crawlers des IA, une nouv… Partager : PARIS : Cybersécurité – Les crawlers des IA, une nouvelle menace invisible pour les sites web Les robots des IA génératives menacent la performance des sites web par un scraping massif et furtif, souvent invisible aux protections traditionnelles.\n- Un nouveau type de trafic, aussi massif que discret, déferle depuis plusieurs mois sur les infrastructures web : celui des crawlers des intelligences artificielles (IA) génératives.\n- Ces robots, chargés de collecter d’immenses volumes de contenu pour entraîner des modèles de langage ou pour alimenter les réponses des moteurs conversationnels, représentent une part croissante des requêtes.\n- Selon une analyse d’Olivier Arous, CEO d’OGO Security, leur essor pose un défi majeur aux entreprises, dont les protections classiques se révèlent souvent inefficaces pour identifier et gérer ce flux qui pèse lourdement sur leurs ressources.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "eec318210c",
+    "title": "GTA 6 : Take-Two assigne Microsoft et Discord pour traquer le leaker - Clubic",
+    "link": "https://www.clubic.com/actualite-626359-gta-6-take-two-assigne-microsoft-et-discord-pour-traquer-le-leaker.html",
+    "source": "clubic.com",
+    "pub_date": "2026-08-23",
+    "summary": "- Des extraits confidentiels de GTA 6 ont commencé à circuler en ligne quelques jours avant la présentation officielle prévue sur Netflix.\n- Take-Two, maison mère de Rockstar Games, a décidé de riposter par voie judiciaire en contraignant Microsoft et Discord à livrer des données permettant d'identifier la source des fuites.\n- Quelques jours auront suffi pour faire passer l’affaire des réseaux sociaux aux tribunaux.\n- Alors que des extraits confidentiels de GTA 6 ont commencé à circuler en ligne, Take-Two cherche désormais à remonter jusqu’à leur source et vient pour cela de solliciter Microsoft et Discord devant la justice américaine.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "5d4fc622fd",
+    "title": "Le traitement et la collecte de données personnelles sans le consentement de la personne ...",
+    "link": "https://www.vietnam.vn/fr/xu-ly-thu-thap-du-lieu-ca-nhan-khi-chua-co-su-dong-y-cua-chu-the-co-the-bi-xu-phat-len-den-50-trieu-dong",
+    "source": "vietnam.vn",
+    "pub_date": "2026-08-23",
+    "summary": "- En conséquence, le Gouvernement vient de publier le décret n° 330/2026/ND-CP du 19 août 2026, stipulant des sanctions administratives pour les violations dans le domaine de la cybersécurité et de la protection des données personnelles.\n- Il convient de souligner en particulier la réglementation relative au traitement des violations liées à la protection des données personnelles.\n- Ce décret comprend 4 chapitres et 82 articles, réglementant les infractions administratives ; les infractions administratives achevées et en cours ; les formes de sanctions, les niveaux de sanctions et les mesures correctives pour chaque infraction administrative.\n- Les sujets des sanctions ; le pouvoir d’imposer des sanctions, les amendes spécifiques pour chaque poste et le pouvoir d’établir des rapports de violation pour les infractions administratives ; la mise en œuvre des sanctions administratives et les mesures correctives dans chaque domaine de la cybersécurité et de la protection des données personnelles.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "ddb48c6ce8",
+    "title": "ENTRETIEN. Myriam Quéméner, magistrate et docteure en droit : « Il y a une vraie fragilité ...",
+    "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/61202115757086/myriam-quemener-magistrate-et-docteure-en-droit-il-y-a-une-vraie-fragilite-des-systemes-d-information-les-cybercriminels-le-savent",
+    "source": "latribune.fr",
+    "pub_date": "2026-08-23",
+    "summary": "- Myriam Quéméner, magistrate et docteure en droit : « Il y a une vraie fragilité des systèmes d’information, les cybercriminels le savent » Ce contenu est réservé aux abonnés La Tribune Myriam Quéméner, spécialiste en cybercriminalité, appelle à un état d'urgence numérique.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "1c2f961f80",
+    "title": "Le Wi-Fi vous identifie à 99,5%, même téléphone éteint - Pasquale Pillitteri",
+    "link": "https://pasqualepillitteri.it/fr/news/12362/wifi-identifie-personnes-sans-cameras",
+    "source": "pasqualepillitteri.it",
+    "pub_date": "2026-08-23",
+    "summary": "- Le Wi-Fi vous identifie à 99,5%, même téléphone éteint Le système BFId du KIT reconnaît les personnes via un Wi-Fi ordinaire à 99,5%, sans caméra ni appareil porté.\n- Comment ça marche et pourquoi la 6G aggrave tout.\n- 1.Ce qu'a fait l'équipe de Karlsruhe avec un routeur normal - 2.Beamforming feedback, la donnée que votre routeur offre à qui écoute - 3.Pourquoi le téléphone éteint ne vous protège pas - 4.Ce que dit vraiment le 99,5% sur 197 personnes, et ce qu'il ne dit pas - 5.Le pont vers la 6G et la norme 802.11bf - 6.Ce qui change pour votre vie privée - 7.Comment se défendre aujourd'hui - 8.Points clés à retenir - 9.Questions fréquentes (FAQ) - 10.Conclusion - 11.Sources et approfondissements - 12.Notez cet article - 13.Articles Connexes - 14.Recherchez-vous un Ingénieur Logiciel?.\n- - Une équipe de l'institut KASTEL au Karlsruhe Institute of Technology (KIT) a utilisé un routeur Wi-Fi commercial, sans modification et sans logiciel spécial, pour reconnaître 197 personnes qui marchaient dans une pièce avec une précision proche de 99,5%.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "2ccde73d40",
+    "title": "Attention aux arnaques proposant des billets d'avion à bas prix via une « allocation interne",
+    "link": "https://www.vietnam.vn/fr/canh-bao-bay-lua-dao-ve-may-bay-gia-re-suat-noi-bo-dip-2-9",
+    "source": "vietnam.vn",
+    "pub_date": "2026-08-23",
+    "summary": "- D'après les statistiques du Département de la cybersécurité et de la prévention de la cybercriminalité ( ministère de la Sécurité publique ), 959 cas de cyberfraude ont été recensés au Vietnam au cours du premier semestre 2026, pour un préjudice total estimé à environ 1 500 milliards de dongs.\n- Les techniques frauduleuses évoluent constamment et l'exploitation de la réputation des grandes marques pour gagner la confiance des victimes avant de s'emparer de leurs actifs devient de plus en plus complexe.\n- Dans le secteur de l'aviation, les auteurs de ces actes peuvent créer de faux sites web, des pages de fans ou des comptes sur les réseaux sociaux pour faire la publicité de billets d'avion à bas prix, d'offres spéciales, d'offres d'emploi, d'expériences professionnelles ou d'activités pour enfants afin d'atteindre les utilisateurs, de voler de l'argent et de collecter des informations personnelles.\n- À noter que Vietnam Airlines vient de mettre en garde contre une escroquerie qui exploite des informations relatives aux politiques préférentielles accordées aux employés de la compagnie et à leurs proches afin de proposer des billets d'avion à des prix attractifs.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "be2e033ce1",
+    "title": "Turquie : Erdogan lance un programme pour former 550 doctorants en technologies stratégiques",
+    "link": "https://africa-news-agency.com/turquie-erdogan-lance-un-programme-pour-former-550-doctorants-en-technologies-strategiques/",
+    "source": "africa-news-agency.com",
+    "pub_date": "2026-08-23",
+    "summary": "- La Turquie sélectionnera dans un premier temps 550 doctorants dans des domaines stratégiques tels que l'intelligence artificielle, la cybersécurité.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "7d0ed884b0",
+    "title": "L'économie numérique du sport, un nouvel espace de croissance pour le Vietnam",
+    "link": "https://lecourrier.vn/leconomie-numerique-du-sport-un-nouvel-espace-de-croissance-pour-le-vietnam/1353995.html",
+    "source": "lecourrier.vn",
+    "pub_date": "2026-08-23",
+    "summary": "- >> La sécurité du système bancaire et l’économie numérique au menu des députés >> Quang Ninh accélère sa transformation vers une économie numérique et de la connaissance >> Le Vietnam mise sur la cybersécurité et l’autonomie technologique Le sport est depuis longtemps considéré comme un domaine au service de la santé publique et de l’éducation, contribuant également au rayonnement national grâce aux performances dans les compétitions internationales.\n- Cependant, dans le contexte de la transformation numérique et du développement des industries culturelles, il est de plus en plus envisagé sous un nouvel angle : celui d’un secteur économique capable de créer de la valeur ajoutée, de stimuler l’innovation et d’ouvrir de nouveaux espaces de croissance.\n- Le sport électronique (Esports), qui se développe sur les plateformes numériques, illustre clairement cette évolution.\n- Quand le sport ne se résume plus aux médailles De plus en plus de pays considèrent le sport comme un secteur économique à part entière, où chaque compétition vise non seulement la performance sportive, mais stimule également les médias, le tourisme, le commerce, les technologies, la publicité, les services et l’innovation.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "499a0326a1",
+    "title": "Attention, votre carte bancaire expirée peut encore servir à payer sans contact - 01net.com",
+    "link": "https://www.01net.com/actualites/attention-votre-carte-bancaire-expiree-peut-encore-servir-a-payer-sans-contact.html",
+    "source": "01net.com",
+    "pub_date": "2026-08-23",
+    "summary": "- Des chercheurs de l’université du Massachusetts à Amherst ont présenté à la conférence USENIX Security 2026 une attaque au nom évocateur : « Zombie Cards Back Online ».\n- Leur démonstration ranime des cartes sans contact expirées pour payer en magasin, face à des terminaux parfaitement à jour.\n- Visa a été prévenue en mai 2025, relancée en décembre, et aucun correctif n’a été confirmé depuis.\n- Démonstration de l’attaque : Comment deux téléphones ressuscitent une carte morte ?.",
+    "added_on": "2026-08-23"
+  },
+  {
+    "id": "5ffa820b84",
+    "title": "Sénégal – <b>Cybersécurité</b> : face aux multiples attaques, le Sénégal réagit - Ouestaf.com",
+    "link": "https://www.ouestaf.com/senegal-cybersecurite-face-aux-multiples-attaques-le-senegal-reagit/",
+    "source": "ouestaf.com",
+    "pub_date": "2026-08-23",
+    "summary": "- Ouestafnews – Le Sénégal a adopté une nouvelle loi sur la protection des « infrastructures d’information critiques et la sécurité numérique ».\n- Selon le gouvernement, ce texte instaure un cadre juridique plus adapté pour prévenir les menaces et mieux coordonner la riposte contre les actes cybercriminels visant notamment les administrations publiques.\n- Le Sénégal a subi ces derniers mois plusieurs attaques informatiques qui ont affecté des services essentiels de l’Etat.\n- Le texte qui vient d’être adopté à l’Assemblée nationale veut « sécuriser » et « défendre » les systèmes d’information et les plateformes numériques nationales, a indiqué le ministre des Télécommunications et de l’Economie numérique, Samba Diouf, devant les députés.",
+    "added_on": "2026-08-23"
+  },
+  {
     "id": "3bc4c0baa0",
     "title": "Bandes de quartier, trafic de stupéfiants, <b>cybercriminalité</b>, sécurité routière… Les services ...",
     "link": "https://www.elmoudjahid.dz/fr/actualite/bandes-de-quartier-trafic-de-stupefiants-cybercriminalite-securite-routiere-les-services-de-securite-sur-tous-les-fronts-257376",
