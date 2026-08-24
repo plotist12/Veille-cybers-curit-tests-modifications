@@ -1,5 +1,153 @@
-# Résumés – 2026-08-23
+# Résumés – 2026-08-24
 
+
+## [Nutex Health signale un incident de <b>cybersécurité</b> et confirme un accès aux données](https://ch.zonebourse.com/actualite-bourse/nutex-health-signale-un-incident-de-cybersecurite-et-confirme-un-acces-aux-donnees-ce7858dbd188f720)  
+*Source : ch.zonebourse.com | Publication : 2026-08-24*
+
+- Nutex Health signale un incident de cybersécurité et confirme un accès aux donnéesNutex Health a déclaré lundi avoir récemment pris connaissance d'une activité non autorisée impliquant des données stockées sur son réseau informatique, incluant des informations.
+
+## [<b>Cybercriminalité</b>: l'IA, atout et menace pour la Suisse - 24 Heures](https://www.24heures.ch/cybercriminalite-lia-atout-et-menace-pour-la-suisse-714594586944)  
+*Source : 24heures.ch | Publication : 2026-08-24*
+
+- Abo CybersÃ©curitÃ© en Suisse Lâessor de lâintelligence artificielle augmente le risque dâattaques toujours plus perfectionnÃ©es.
+- Mais câest aussi une chance de mieux y rÃ©sister.
+- Nous suivre sur Google Ajoutez 24 heures comme votre source prÃ©fÃ©rÃ©e sur Google En bref: Les pirates utilisent lâIA pour crÃ©er des attaques crÃ©dibles et personnalisÃ©es.
+- - Les appels frauduleux ont diminuÃ© de 75% grÃ¢ce Ã de nouvelles mesures.
+
+## [#smartcyber #<b>cybersécurité</b> #guerre #infrastructures #iran #russie | BSMART 4Change - LinkedIn](https://fr.linkedin.com/posts/bsmarttv_smartcyber-cybersécurité-guerre-activity-7497620292324917250-ZIXK)  
+*Source : fr.linkedin.com | Publication : 2026-08-24*
+
+- 🚨 Guerre hybride : quels risques pour les États face aux cyberattaques ?.
+- Dans SMART CYBER, Olivier Morel, directeur général de Snowpack et membre d’HEXATRUST, alerte sur la montée des cyberattaques ciblant les infrastructures critiques : nucléaire, électricité, eau, avec un impact physique réel.
+- Dans ce contexte de guerre hybride, il devient possible de paralyser un État sans un seul soldat sur le terrain.
+- Une menace qui transforme la sécurité nationale et questionne nos stratégies de défense.
+
+## [ToxicPanda 2.0 peut prendre le contrôle de votre Android Applications mobiles et bancaires](https://www.malwarebytes.com/fr/blog/mobile/2026/08/toxicpanda-2-0-can-take-over-your-android-phone-and-banking-apps)  
+*Source : malwarebytes.com | Publication : 2026-08-24*
+
+- Des chercheurs ont découvert ToxicPanda 2.0, un Android Cheval de Troie bancaire et outil d'accès à distance conçus pour la prise de contrôle de comptes et la « fraude sur appareil ».
+- Non seulement ToxicPanda 2.0 cible une liste beaucoup plus longue de banques et de portefeuilles électroniques, mais il a également étendu ses fonctionnalités en combinant des superpositions bancaires, l'accès à distance, la capture de code PIN, Android L’exploitation abusive de l’accessibilité et les tentatives d’automatisation du débogage sans fil permettent aux opérateurs de transformer un téléphone compromis en plateforme pour la prise de contrôle de comptes, la fraude financière et le contrôle à long terme de l’appareil.
+- L'objectif principal est la fraude directement sur l'appareil.
+- Cela signifie qu'au lieu de se connecter depuis une machine contrôlée par un attaquant, ce dernier peut agir directement depuis le téléphone infecté de la victime, en prenant le contrôle de l'appareil, de l'adresse IP, de la session de l'application et du contexte comportemental que les banques peuvent utiliser pour déterminer si une transaction est frauduleuse.
+
+## [&quot;Si on vous demande un paiement au travers d'un lien, ne faites rien&quot; : les conseils d'une ...](https://www.tf1info.fr/societe/si-on-vous-demande-un-paiement-au-travers-d-un-lien-ne-faites-rien-les-conseils-d-une-avocate-specialiste-en-cybersecurite-pour-se-proteger-du-piratage-2460082.html)  
+*Source : tf1info.fr | Publication : 2026-08-24*
+
+- Le site des impôts a été piraté cet été.
+- - Les données de centaines de milliers de contribuables ont été volées.
+- - Oriana Labruyère, avocate spécialiste en cybersécurité, est l'invitée de "Bonjour !.
+- Avec vous".
+
+## [Rouen. Face aux vols de données personnelles, ce spécialiste de la <b>cybersécurité</b> appelle à ...](https://www.tendanceouest.com/actualite-441910-rouen-face-aux-vols-de-donnees-personnelles-ce-specialiste-de-la-cybersecurite-appelle-a-la-vigilance)  
+*Source : tendanceouest.com | Publication : 2026-08-24*
+
+- Alors que les vols de données personnelles en ligne se multiplient, Jean-François Escolier, dirigeant de Getzem secure à Rouen, livre ses conseils.
+- Faut-il avoir peur des vols de données ?.
+- "Ces vols de données doivent nous conduire à une forme de prise de conscience.
+- Aucun de ces récents piratages n'est de nature à permettre de vider vos comptes en banque.
+
+## [Qui a piraté le Liechtenstein ? La principauté dans la tourmente - 01net.com](https://www.01net.com/actualites/qui-a-pirate-le-liechtenstein-la-principaute-dans-la-tourmente.html)  
+*Source : 01net.com | Publication : 2026-08-24*
+
+- Une cyberattaque a visé début août le registre des ayants droit économiques du Liechtenstein.
+- Bilan : les données de 31 000 sociétés, fondations et fiduciaires enregistrées dans la principauté ont été dérobées.
+- Trois semaines après les faits, personne n’a encore identifié les coupables, mais l’affaire prend de l’ampleur à mesure que ses conséquences pour la réputation du havre fiscal se précisent.
+- Une intrusion de plusieurs heures, restée indétectée Selon le gouvernement liechtensteinois, tout s’est joué dans la nuit du 29 au 30 juillet.
+
+## [Les communes rurales « trop petites pour intéresser les pirates » : l'idée reçue qui inquiète ...](https://www.lamontagne.fr/aurillac-15000/economie/les-communes-rurales-trop-petites-pour-interesser-les-pirates-lidee-recue-qui-inquiete-les-specialistes_15035389/)  
+*Source : lamontagne.fr | Publication : 2026-08-24*
+
+- Écouter l'article Comme chaque année, le salon Ruralitic explore non seulement les opportunités qu’offre la technologie pour les communes rurales, mais aussi la manière de relever les défis posés par ces dernières.
+- À lire aussi L’édition 2026 aura trois axes de travail.
+- Le premier est celui des objets connectés, qui ne se limitent pas qu’aux montres ou aux enceintes, mais peuvent être aussi déployés à l’échelle d’un village. «.
+- Prenez par exemple un sujet d’actualité qu’est l’eau.
+
+## [Cyberattaques : demain, tous hackés ? La nouvelle bataille de l'identification - L'Express](https://www.lexpress.fr/economie/high-tech/cyberattaques-demain-tous-hackes-la-nouvelle-bataille-de-lidentification-RQMGYATZ6RCGLPX5J2YLNPPTFM/)  
+*Source : lexpress.fr | Publication : 2026-08-24*
+
+- Le phénomène touche n’importe qui, même les plus aguerris.
+- Benoît Grünemwald, expert en cybersécurité au sein de l’entreprise Eset, est une victime parmi d’autres d’une fuite de données.
+- Un jour, il est descendu dans le terrier pour le vérifier : sur le "dark Web", là où les hackers se réunissent et fixent le prix de leurs butins.
+- Ce spécialiste des attaques informatiques avait eu vent d’une faille sur un site de réservation de voyages où il avait effectué une transaction.
+
+## [Rançongiciel : l'accès métier, nouvelle cible de l'extorsion | LeMagIT](https://www.lemagit.fr/actualites/366649286/Rancongiciel-lacces-metier-nouvelle-cible-de-lextorsion)  
+*Source : lemagit.fr | Publication : 2026-08-24*
+
+- Artur Marciniec - Fotolia Rançongiciel : l’accès métier, nouvelle cible de l’extorsion Viser les fonctions métiers pour accéder spécifiquement à des données susceptibles d’augmenter les capacités de pression sur les victimes : c’est l’approche observée dans une récente campagne de rançongiciel.
+- Les chercheurs du ThreatLabz de Zscaler viennent de documenter une pratique pour le moins intéressante.
+- Elle signe une campagne de cyberattaques avec rançongiciel ayant concerné 351 victimes au sein de 334 organisations.
+- L’analyse révèle que la sélection des victimes n’est pas aléatoire, mais intrinsèquement liée au niveau d’autorité et à l’accès métier détenu par l’utilisateur.
+
+## [Cyberattaque de la DGFiP : l'électrochoc qui accélère la sécurisation des administrations](https://www.journaldunet.com/cybersecurite/1553815-cyberattaque-de-la-dgfip-l-electrochoc-qui-accelere-la-securisation-des-administrations/)  
+*Source : journaldunet.com | Publication : 2026-08-24*
+
+- Cyberattaque de la DGFiP : l'électrochoc qui accélère la sécurisation des administrations Une série d'intrusions détectées depuis juin 2026 a exposé des données fiscales.
+- Face aux failles révélées, Bercy annonce un durcissement de la cybersécurité de la DGFiP.
+- Le piratage récent de la Direction générale des finances publiques (DGFiP) ne restera pas sans conséquence sur la cybersécurité de l’État.
+- Après plusieurs compromissions ayant exposé des données fiscales sensibles, le gouvernement reconnaît la nécessité de renforcer la protection de ses systèmes d’information.
+
+## [Justice. Piratage du fisc : des victimes prennent part à une action collective contre l'État](https://www.ledauphine.com/economie/2026/08/24/piratage-du-fisc-des-victimes-prennent-part-a-une-action-collective-contre-l-etat)  
+*Source : ledauphine.com | Publication : 2026-08-24*
+
+- Justice Piratage du fisc : des victimes prennent part à une action collective contre l'État Cette démarche vise à obtenir réparation des préjudices subis par ce piratage.
+- Un conseil de défense est prévu à la « mi-septembre », a annoncé la porte-parole du gouvernement ce lundi.
+- Plusieurs « centaines de personnes » victimes du piratage du fisc survenu cet été vont se joindre à une action collective contre l'État, a annoncé sur franceinfo ce lundi Jérémy Roche, avocat au barreau de Béziers et spécialiste en droit de la protection des données personnelles.
+- Pour rappel, la Direction générale des finances publiques (DGFiP) a confirmé le 14 août dernier deux intrusions, survenues fin juin et fin juillet, ayant abouti au vol de données concernant au moins 678 000 particuliers et professionnels et environ 200 000 comptes présents dans ses fichiers cadastraux. «.
+
+## [une préparation de rentrée compliquée par la cyberattaque contre l'Education nationale - Libération](https://www.liberation.fr/societe/education/on-paye-les-economies-faites-sur-la-securite-une-preparation-de-rentree-compliquee-par-la-cyberattaque-contre-leducation-nationale-20260824_XWW3A7JLOBCHFNPD3WW3IDFIP4/)  
+*Source : liberation.fr | Publication : 2026-08-24*
+
+- Xavier Yvart, secrétaire académique du syndicat SNPDEN-Unsa, revient sur les enjeux soulevés par ces incidents.
+- Cybersécurité ... EcoleCollègeLycée.
+
+## [Recul de 75% des appels au nom de prétendues autorités - Agefi.com](https://agefi.com/actualites/politique/recul-de-75-des-appels-au-nom-de-pretendues-autorites)  
+*Source : agefi.com | Publication : 2026-08-24*
+
+- Selon le rapport semestriel de l'Office fédéral de la cybersécurité (OFCS), le nombre de signalements a diminué de plus de 75%,.
+
+## [Piratage du fisc : un Conseil de défense prévu mi-septembre pour prévenir les cyberattaques](https://actu.orange.fr/politique/piratage-du-fisc-un-conseil-de-defense-prevu-mi-septembre-pour-prevenir-les-cyberattaques-magic-CNT000002ruG3B.html)  
+*Source : actu.orange.fr | Publication : 2026-08-24*
+
+- Piratage du fisc : un Conseil de défense prévu mi-septembre pour prévenir les cyberattaques © Kevin Horvat / Unsplash Un Conseil de défense sur la cyberattaque visant la DGFiP se tiendra mi-septembre, a annoncé Maud Bregeon, la porte-parole du gouvernement, lundi 24 août.
+- De son côté, David Amiel, ministre des Comptes publics, assure qu’aucun impôt n’a été détourné, alors que les attaques informatiques contre les services publics se multiplient.
+- Un Conseil de défense consacré à la cyberattaque ayant visé la Direction générale des finances publiques (DGFiP) se tiendra "d’ici à la mi-septembre", a annoncé la porte-parole du gouvernement, Maud Bregeon, à l’issue du Conseil des ministres, ce lundi 24 août.
+- L’objectif affiché est d’établir les responsabilités après le vol de données ayant concerné au moins 678 000 particuliers et professionnels, ainsi qu’environ 200 000 comptes présents dans les fichiers cadastraux de l’administration.
+
+## [Les risques liés à la <b>cybermenace</b> restent élevés en Suisse, selon l'Office fédéral de la <b>cybersécurité</b>](https://www.rts.ch/audio-podcast/2026/audio/les-risques-lies-a-la-cybermenace-restent-eleves-en-suisse-selon-l-office-federal-de-la-cybersecurite-29336594.html)  
+*Source : rts.ch | Publication : 2026-08-24*
+
+- Info Sport Culture TV & Streaming Audio Retour Découvrir plus S'informer Info Sport Culture S'informer Info Sport Culture Approfondir Les archives Documentaires Podcasts Religion Avis d'experts Se divertir Séries & films Enfants et jeunes Kids Tataki RTS Education À propos RTS avec vous Programme TV Streaming Portail Audio Info Sport Culture TV & Streaming Audio Découvrir plus m'inscrire / me connecter.
+- Compte RTS Mon profil Mes vidéos Me déconnecter Retour Découvrir plus S'informer Info Sport Culture S'informer Info Sport Culture Approfondir Les archives Documentaires Podcasts Religion Avis d'experts Se divertir Séries & films Enfants et jeunes Kids Tataki RTS Education À propos RTS avec vous Programme TV Streaming Portail Audio Retour TV & Streaming Programme TV Accueil En direct Replay émissions Séries & films Documentaires Kids Retour Audio Portail audio Accueil En direct Émissions radio Podcasts Les directs Audio & Podcast Plus Accueil Emissions A-Z Chaines RTS Première RTS Espace 2 RTS Couleur 3 RTS Option Musique Accueil Emissions A-Z Chaines RTS Première RTS Espace 2 RTS Couleur 3 RTS Option Musique Les risques liés à la cybermenace restent élevés en Suisse, selon l’Office fédéral de la cybersécurité Partager Télécharger Le 12h30 Episode d'hier à 12:34 Info Partager Télécharger Le 12h30 Episode d'hier à 12:34 Tous les épisodes Les risques liés à la cybermenace restent élevés en Suisse, selon l’Office fédéral de la cybersécurité D'info Le sommaire de l’émission Émission entière 30 min Télécharger Partager Le procès de l’éboulement de Bondo (GR) pourrait changer les mesures de protection en montagne 1 min Télécharger Partager Les risques liés à la cybermenace restent élevés en Suisse, selon l’Office fédéral de la cybersécurité 1 min Télécharger Partager Animateur emblématique de RTL, le journaliste français Philippe Bouvard est décédé à l’âge de 96 ans 2 min Télécharger Partager Réunie à Kiev, la 'Coalition des volontaires' va débloquer d’importants moyens pour l’Ukraine 1 min Télécharger Partager Aleksander Ceferin ne sera pas candidat face à Gianni Infantino pour la présidence de la FIFA 1 min Télécharger Partager Le procès de la patineuse blessée lors des répétitions des JOJ 2020 s’ouvre à Lausanne 2 min Télécharger Partager Le Bureau de l’égalité du canton de Fribourg peine à rédiger un projet de loi sur les violences conjugales 1 min Télécharger Partager Le géant de la fast fashion Shein s’apprête à entrer en Bourse en septembre 1 min Télécharger Partager Le niveau en français des élèves genevois est alarmant, selon les enseignants du secondaire II 1 min Télécharger Partager Bloqués par un glissement de terrain, des écoliers du val Calanca (GR) vont à l’école…en hélicoptère 1 min Télécharger Partager L’invité du 12h30 - Stéphane Malfettes, nouveau directeur du festival cinquantenaire "La Bâtie" 8 min Télécharger Partager Derniers épisodes Le 12h30 Tout voir.
+
+## [<b>Cybercriminalité</b>: l'IA, atout et menace pour la Suisse - 24 Heures](https://www.24heures.ch/714594586944)  
+*Source : 24heures.ch | Publication : 2026-08-24*
+
+- Abo CybersÃ©curitÃ© en Suisse Lâessor de lâintelligence artificielle augmente le risque dâattaques toujours plus perfectionnÃ©es.
+- Mais câest aussi une chance de mieux y rÃ©sister.
+- Nous suivre sur Google Ajoutez 24 heures comme votre source prÃ©fÃ©rÃ©e sur Google En bref: Les pirates utilisent lâIA pour crÃ©er des attaques crÃ©dibles et personnalisÃ©es.
+- - Les appels frauduleux ont diminuÃ© de 75% grÃ¢ce Ã de nouvelles mesures.
+
+## [<b>Cybersécurité</b>. Recul de 75% des appels au nom de prétendues autorités - La Liberté](https://www.laliberte.ch/articles/recul-de-75-des-appels-au-nom-de-pretendues-autorites-1430217)  
+*Source : laliberte.ch | Publication : 2026-08-24*
+
+- Les appels au nom de prétendues autorités sont de plus en plus contrés avec succès en Suisse.
+- Grâce à une nouvelle réglementation, le nombre de signalements a diminué de plus de 75%.
+- La cybermenace reste toutefois élevée, surtout à l'ère de l'IA, note la Confédération.
+- Les appels frauduleux passés au nom des autorités figurent parmi les incidents les plus signalés ces dernières années, rappelle lundi l'Office fédéral de la cybersécurité (OFCS).
+
+## [Recul de 75% des appels au nom de prétendues autorités - Léman Bleu](https://www.lemanbleu.ch/Scripts/Index.aspx?id=540786)  
+*Source : lemanbleu.ch | Publication : 2026-08-24*
+
+- Le directeur de l'OFCS Florian Schütz a présenté mardi le rapport semestriel en matière de cybersécurité en Suisse (archives).
+- Photo: KEYSTONE/.
+
+## [<b>Cybersécurité</b>: les appels frauduleux en recul de 75% - 24 Heures](https://www.24heures.ch/cybersecurite-les-appels-frauduleux-en-recul-de-75-448249606420)  
+*Source : 24heures.ch | Publication : 2026-08-24*
+
+- CybersÃ©curitÃ© en Suisse Une nouvelle rÃ©glementation oblige Ã identifier les appels Ã©trangers usurpant des numÃ©ros suisses.
+- La montÃ©e des cyberattaques dopÃ©es Ã lâIA menace toutefois.
+- Les fraudes tÃ©lÃ©phoniques baissent en Suisse.
+- En effet, les appels au nom de prÃ©tendues autoritÃ©s sont de plus en plus contrÃ©s avec succÃ¨s.
 
 ## [Car hacking, le guide de la sécurité automobile du bus CAN aux attaques relais](https://pasqualepillitteri.it/fr/news/12502/car-hacking-securite-automobile-can-bus)  
 *Source : pasqualepillitteri.it | Publication : 2026-08-23*
