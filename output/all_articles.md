@@ -1,5 +1,163 @@
-# Résumés – 2026-08-24
+# Résumés – 2026-08-25
 
+
+## [<b>Cybersécurité</b> : Ces failles numériques qui paniquent le gouvernement | Le Canard enchaîné](https://www.lecanardenchaine.fr/politique/54721-ces-failles-numeriques-qui-paniquent-le-gouvernement)  
+*Source : lecanardenchaine.fr | Publication : 2026-08-25*
+
+- Bien avant que les données fiscales de 700 000 contribuables soient piratées, les services de l'Etat avaient déjà alerté sur des failles informatiques au ministère des Finances, notamment dues à du matériel et des logiciels obsolètes.
+- Des milliards d'euros ont été investis dans la sécurité depuis, sans grand effet… « On a l’impression que quelque chose nous échappe. ».
+- A Matignon, on n’en mène pas large après le récent vol de données fiscales de près de 700 000 particuliers et professionnels par un hackeur.
+- D’autant que l’approche de la présidentielle va mettre en appétit toutes sortes de pirates.
+
+## [Onans. Protection des données personnelles et <b>cybersécurité</b> - L'Est Républicain](https://www.estrepublicain.fr/societe/2026/08/25/protection-des-donnees-personnelles-et-cybersecurite)  
+*Source : estrepublicain.fr | Publication : 2026-08-25*
+
+- Onans Protection des données personnelles et cybersécurité La municipalité d'Onans donne rendez-vous aux habitants, le vendredi 11 septembre à 10 heures, à la mairie d'Onans pour une animation de sensibilisation à la cybersécurité, organisée en partenariat avec la Gendarmerie Nationale.
+- Au programme figurent arnaques en ligne, mots de passe, protection des données personnelles, avec un quiz de fin d'animation sur les notions abordées.
+- La réservation est obligatoire au 03 81 97 80 52 ou auprès des Espaces France Services de L'Isle-sur-le-Doubs, Pays-de-Clerval, Rougemont et Arcey.
+
+## [la fronde anti-Flock se propage aussi vite que ses caméras de surveillance aux Etats-Unis](https://www.lopinion.fr/international/la-fronde-anti-flock-se-propage-aussi-vite-que-ses-cameras-de-surveillance-aux-etats-unis)  
+*Source : lopinion.fr | Publication : 2026-08-25*
+
+- La fronde anti-Flock se propage aussi vite que ses caméras de surveillance aux Etats-Unis L’entreprise de surveillance assistée par IA se heurte au même type d’opposition bipartisane que celle à laquelle ont été confrontés les data centers.
+- Kris Maher ATLANTA — La lutte contre l’entreprise Flock Safety devient plus bruyante et protéiforme à mesure que ses caméras équipées d’IA continuent de se répandre sur le territoire américain.
+- La semaine dernière, à Atlanta, l’entreprise de système de reconnaissance automatique de plaques d’immatriculation a interdit aux médias d’assister à sa conférence annuelle avec les agences de force de l’ordre.
+- Cela n’a pas dissuadé Benn Jordan, chercheur spécialisé en cybersécurité qui cumule des millions de vues sur YouTube grâce à ses vidéos critiques de l’entreprise.
+
+## [<b>Ransomware</b> : la France entre dans le top 6 mondial des pays les plus ciblés - Clubic](https://www.clubic.com/actualite-626584-cp-bitdefender-ransomware.html)  
+*Source : clubic.com | Publication : 2026-08-25*
+
+- Entre janvier et juin 2026, Bitdefender a recensé 131 organisations françaises désignées comme victimes de ransomware.
+- La France est désormais au sixième rang mondial des pays visés par ces groupes.
+- L'éditeur s'appuie sur les revendications publiques des groupes cybercriminels.
+- La tendance est à la hausse sur le Vieux Continent.
+
+## [Les <b>cybermenaces</b> continuent de peser sur la Suisse | ICTjournal](https://www.ictjournal.ch/etudes/2026-08-25/les-cybermenaces-continuent-de-peser-sur-la-suisse)  
+*Source : ictjournal.ch | Publication : 2026-08-25*
+
+- Les cybermenaces continuent de peser sur la Suisse L’Office fédéral de la cybersécurité reçoit quotidiennement des signalements concernant des cybermenaces.
+- Au premier semestre 2026, leur nombre a diminué, mais reste élevé.
+- Dans le même temps, les tensions géopolitiques font évoluer le risque de cybersabotage, tandis que l’IA permet aux cybercriminels de personnaliser toujours davantage leurs attaques.
+- Dans son rapport sur le premier semestre 2026, l’Office fédéral de la cybersécurité (OFCS) fait le point sur les cybermenaces observées en Suisse.
+
+## [La France, cible privilégiée des attaques de <b>ransomware</b> par usurpation d'identité](https://www.channelnews.fr/la-france-cible-privilegiee-des-attaques-de-ransomware-par-usurpation-didentite-158468)  
+*Source : channelnews.fr | Publication : 2026-08-25*
+
+- Une nouvelle étude de Sophos révèle que la France est particulièrement ciblée par des attaques de rançongiciel via une usurpation d’identité.
+- L’Hexagone connait notamment le taux le plus élevé d’attaques ayant un VPN (réseau virtuel privé) comme point d’entrée (15%).
+- En dépit d’une légère baisse des rançons demandées, le coût moyen de remédiation après sinistre est en hausse de 65% en France par rapport à 2025. «.
+- Ces résultats confirment une réalité que nous constatons de plus en plus souvent en France : le ransomware est désormais autant une crise de l’identité qu’un problème de malware », commente Bruno Durand, vice-président Europe du Sud chez Sophos, dans un communiqué. «.
+
+## [Six Matinales 2026 pour prendre le pouls des urgences numériques des DSI](https://www.itforbusiness.fr/six-matinales-2026-pour-prendre-le-pouls-des-urgences-numeriques-des-dsi-106555)  
+*Source : itforbusiness.fr | Publication : 2026-08-25*
+
+- Gouvernance Six Matinales 2026 pour prendre le pouls des urgences numériques des DSI Par Laurent Delattre, publié le 25 août 2026 Facturation électronique, cyberattaques dopées à l’IA, souveraineté cloud, gouvernance des données, résilience réglementaire et diffusion des agents dans les métiers… De janvier à juillet 2026, les Matinales IT for Business ont accompagné les DSI sur six fronts devenus stratégiques.
+- Six émissions à revoir en replay pour prendre du recul, comparer les pratiques et préparer une rentrée qui s’annonce tout aussi dense.
+- De mémoire de DSI, jamais l’actualité technologique n’a semblé avancer aussi vite.
+- Chaque semaine apporte son nouveau modèle d’intelligence artificielle, son agent présenté comme autonome, son incident de cybersécurité, sa réglementation européenne, sa plateforme cloud ou sa promesse d’automatisation.
+
+## [Les membres de SEAJust renforcent leur coopération contre la criminalité organisée transnationale](https://lecourrier.vn/les-membres-de-seajust-renforcent-leur-cooperation-contre-la-criminalite-organisee-transnationale/1354150.html)  
+*Source : lecourrier.vn | Publication : 2026-08-25*
+
+- >> Le Vietnam, la Chine, le Laos et le Myanmar adoptent un plan d’action anti-drogue >> ASEAN - ONUDC : unir les efforts contre la cybercriminalité et la criminalité >> 8e Conférence des tribunaux frontaliers : coopération Vietnam - Cambodge - Laos Cette réunion de trois jours est organisée conjointement par l’Office des Nations unies contre la drogue et le crime (ONUDC) et le Parquet populaire suprême du Vietnam, avec le soutien financier du gouvernement de la République de Corée.
+- Lors de la cérémonie d’ouverture, le vice-procureur général du Parquet populaire suprême du Vietnam, Nguyen Quang Dung, a souligné que la criminalité transnationale était devenue de plus en plus complexe ces dernières années, avec des méthodes plus sophistiquées et une portée opérationnelle accrue.
+- Les criminels exploitent les avancées technologiques et la transformation numérique pour commettre des infractions transfrontalières, notamment la criminalité organisée, la cybercriminalité, le trafic de drogue, le blanchiment d’argent, la traite des êtres humains et la fraude transnationale, a-t-il précisé.
+- Nguyên Quang Dung a insisté sur le fait qu’aucun pays ne pouvait relever seul ces défis transfrontaliers, appelant à renforcer le partage d’informations, la coordination en matière d’enquête, de poursuites et de jugement, ainsi que l’entraide judiciaire dans les affaires pénales.
+
+## [Podcast -Reconversion en <b>cybersécurité</b> : oser la technique à 30 ans - INCYBER NEWS](https://incyber.org/article/podcast-reconversion-en-cybersecurite-oser-la-technique-a-30-ans/)  
+*Source : incyber.org | Publication : 2026-08-25*
+
+- Accueil - Cybersécurité - Podcast -Reconversion en cybersécurité : oser la technique à 30 ans - Podcast -Reconversion en cybersécurité : oser la technique à 30 ans On imagine souvent la cybersécurité peuplée de profils qui codent depuis le collège, passés par une prépa puis une école d’ingénieurs.
+- Sophie Baudin, aujourd’hui ingénieure chez Access Group, filiale numérique d’Eiffage Énergie Systèmes, vient prouver le contraire.
+- Il y a six ans et demi, elle exerçait encore comme ostéopathe.
+- Invitée de cet épisode d’INCYBER Voices, elle revient avec Mélissa Périé Betton sur ce basculement, sur ce que signifie réellement apprendre un métier technique quand on n’en vient pas, et sur la place qu’on se construit dans le secteur de la cyber, où les profils restent, malgré tout, très homogènes.
+
+## [<b>Cybersécurité</b> à l'Éducation nationale : compte rendu du 25 août 2026 - SNALC](https://snalc.fr/cybersecurite-cr-25-aout-2026/)  
+*Source : snalc.fr | Publication : 2026-08-25*
+
+- Réunion ministérielle sur la cybersécurité à l'Éducation nationale Compte rendu du SNALC du 25 août 2026 Avec la participation de Sébastien HUAUMÉ, SNALC Orléans-Tours.
+- La cybersécurité à l’Éducation nationale, suite à la dernière fuite massive de données.
+- Plusieurs attaques, dont la dernière il y a une quinzaine de jours.
+- Retour à la normale dans la quasi-totalité des académies avant la rentrée.
+
+## [IA et renouvelables en débat à Toulouse le 3 septembre prochain - Tecsol Quotidien](https://tecsol-quotidien.fr/ia-et-renouvelables-en-debat-a-toulouse-le-3-septembre-prochain/)  
+*Source : tecsol-quotidien.fr | Publication : 2026-08-25*
+
+- Le pôle Derbi-Cemater, l’agence AD’OCC, France Renouvelables, le pôle Mer Méditerranée, Wind’OCC et leur partenaire Digital 113 invitent les acteurs de la filière énergies renouvelables à se réunir pour la 4ème édition des RDV des Dirigeants qui sera consacrée à l’intelligence artificielle dans la filière des énergies renouvelables.
+- Cette rencontre aura lieu le jeudi 3 septembre 2026 de 16h à 19h à La Cité à Toulouse.
+- Objectifs du meeting : réunir les acteurs de la filière en Occitanie, apporter des informations clés pour favoriser le développement de projets en Région et favoriser les échanges entre les professionnels et encourager la formation de réseaux.
+- Deux keynotes ouvriront les débats.
+
+## [<b>Cybersécurité</b> : la répartition des compétences dans l'UE mise à l'épreuve - TIME France](https://www.timefrance.fr/idees/cybersecurite-le-csa-2-met-a-lepreuve-la-repartition-des-competences-dans-lue/)  
+*Source : timefrance.fr | Publication : 2026-08-25*
+
+- Sous couvert de renforcer la résilience numérique de l’UE, le récent projet de la Commission européenne visant à réformer la législation sur la cybersécurité pourrait modifier l’équilibre des compétences déterminé par les traités.
+- Dévoilée le 20 janvier dernier, cette proposition de règlement, intitulée Cybersecurity Act 2, lui permettrait de désigner certains pays tiers comme constituant une menace pour la cybersécurité et d’interdire aux fournisseurs qui leur sont liés l’accès aux infrastructures critiques européennes.
+- Si le contexte géopolitique d’une telle mesure est clair, son fondement juridique l’est beaucoup moins.
+- La Commission a choisi de fonder les importantes restrictions qu’elle pourrait imposer en matière de chaîne d’approvisionnement, au titre du CSA2, sur l’article 114 du TFUE qui confère à l’Union la compétence d’harmoniser les règles relatives au marché intérieur.
+
+## [L'IA générative devient l'arme des États-nations : TrendAI dévoile les menaces du H1 2026](https://www.trendmicro.com/fr_fr/about/newsroom/press-releases/2026/2026-08-25-trendai-devoile-les-menaces-du-h1-2026.html)  
+*Source : trendmicro.com | Publication : 2026-08-25*
+
+- L'IA générative devient l'arme des États-nations : TrendAI dévoile les menaces du H1 2026 Les conclusions de ce rapport révèlent que les acteurs étatiques exploitent désormais l’IA générative pour perfectionner leurs techniques d’attaque, automatiser les phases de reconnaissance et accroître la sophistication de leurs campagnes.
+- Rueil-Malmaison, le 25 août 2026 – TrendAI™, leader mondial de la sécurité basée sur l’IA et division entreprise de Trend Micro Incorporated (TYO : 4704 ; TSE : 4704), livre le bilan des attaques APT référencées au cours du premier semestre 2026 dans le rapport intitulé « How APTs Are Weaponizing Trust in the Age of AI ».
+- Les conclusions de cette analyse ont montré que l’IA a dépassé le stade des expériences isolées.
+- Jamais auparavant les États-nations n’avaient utilisé cette technologie à autant d’étapes du cycle de vie des intrusions.
+
+## [Lyon Cyber Expo les 16 et 17 Septembre - Solutions-Numeriques](https://www.solutions-numeriques.com/agenda/lyon-cyber-expo-les-16-et-17-septembre/)  
+*Source : solutions-numeriques.com | Publication : 2026-08-25*
+
+- Les réponses à vos enjeux cyber Pour sa 3e édition, Lyon Cyber Expo s’affirme comme le rendez-vous business de référence de la confiance numérique au sein de la 2e région économique de France.
+- Dans un contexte marqué par l’entrée en vigueur de NIS2 et par la complexification des menaces, sécuriser la transformation digitale n’est plus une option mais un impératif de résilience.
+- Les 16 et 17 septembre 2026 à la Cité Internationale de Lyon, nous réunissons toute la chaîne de valeur de la cybersécurité autour de trois piliers critiques : la stratégie & préparation, l’action au quotidien et la gestion de crise afin de sécuriser votre activité quel que soit votre niveau de maturité cyber Site de l'organisateur : https://www.lyoncyberexpo.com/fr/visiter/creer-mon-badge?payment_promo_code=P-SNCLCE26&utm_source=lce26&utm_medium=email&utm_campaign=SNC.
+
+## [Une nouvelle mutuelle, Solimut, victime d'une cyberattaque ce dimanche - Le Figaro](https://www.lefigaro.fr/societes/une-nouvelle-mutuelle-solimut-victime-d-une-cyberattaque-les-donnees-de-plus-de-1-2-million-d-assures-en-jeu-20260825)  
+*Source : lefigaro.fr | Publication : 2026-08-25*
+
+- Une nouvelle mutuelle, Solimut, victime d'une cyberattaque ce dimanche Après détection de cette cyberattaque dimanche «en début de journée, les équipes de la mutuelle ont rapidement isolé et mis un terme à l’intrusion et sont désormais mobilisées pour définir et inventorier de façon précise le périmètre touché», indique la mutuelle sur son site internet.
+- Passer la publicité Passer la publicitéUne nouvelle mutuelle, Solimut, a confirmé lundi avoir été victime d'une cyberattaque, disant ignorer à ce stade l'ampleur précise de cette fuite de données, susceptible de concerner, selon un site spécialisé, plus de 1,2 million d'assurés.
+- Après détection de cette cyberattaque dimanche «en début de journée, les équipes de la mutuelle ont rapidement isolé et mis un terme à l'intrusion et sont désormais mobilisées pour définir et inventorier de façon précise le périmètre touché», indique la mutuelle sur son site internet.
+- Selon le site Frenchbreaches spécialisé dans le recensement de fuites de données, qui a prévenu dimanche de cette cyberattaque, plus de 1,2 million d'assurés figureraient dans les données revendiquées par le pirate, parmi lesquelles 770.467 comptes bancaires avec IBAN et BIC, près de 3 millions d'adresses postales ou encore 1,08 million de déclarations de salaires.
+
+## [Everpure conserve sa place de Leader dans le Magic Quadrant Gartner](https://www.solutions-numeriques.com/communiques/everpure-conserve-sa-place-de-leader-dans-le-magic-quadrant-gartner/)  
+*Source : solutions-numeriques.com | Publication : 2026-08-25*
+
+- Pour la deuxième année consécutive, Everpure est positionné au plus haut sur la capacité d’exécution et le plus loin sur la vision dans le Magic Quadrant 2026 consacré aux plateformes de stockage d’entreprise.
+- Everpure annonce avoir été reconnu Leader du Gartner Magic Quadrant 2026 consacré aux Enterprise Storage Platforms.
+- Selon l’entreprise, elle obtient pour la deuxième année consécutive la position la plus élevée sur l’axe de la capacité d’exécution et la plus avancée sur celui de la vision.
+- Cette distinction fait suite à onze précédentes apparitions d’Everpure parmi les Leaders d’autres Magic Quadrants de Gartner.
+
+## [Les Trophées de la <b>Cybersécurité</b> 2026 - Solutions-Numeriques](https://www.solutions-numeriques.com/agenda/les-trophees-de-la-cybersecurite-2026/)  
+*Source : solutions-numeriques.com | Publication : 2026-08-25*
+
+- Les Trophées de la Cybersécurité reviennent le 19 novembre 2026 Cette nouvelle édition mettra à l’honneur les entreprises, équipes et projets qui contribuent à faire évoluer les pratiques de cybersécurité, de résilience numérique et de protection des organisations face aux nouveaux risques cyber.
+- À travers ces distinctions, les Trophées valorisent les approches capables d’apporter des réponses concrètes aux enjeux actuels : sécurisation des environnements cloud, protection des données, résilience opérationnelle, conformité, gouvernance cyber et transformation des pratiques de sécurité.
+- L’événement réunit chaque année startups, grands groupes, experts cybersécurité, décideurs IT et acteurs institutionnels autour d’un objectif commun : mettre en lumière les innovations et initiatives qui font progresser l’écosystème cyber français.
+- Les Trophées récompenseront cette année des initiatives autour de : l’innovation cyber, - la résilience et la protection des organisations, - le leadership et l’engagement en cybersécurité.
+
+## [Comment les CISO font évoluer leurs pratiques face à la transformation des attaques par ...](https://alliancy.fr/comment-les-ciso-font-evoluer-leurs-pratiques-face-a-la-transformation-des-attaques-par-deni-de-service-f3608887-74f9-4fed-9360-8213d8a600d5)  
+*Source : alliancy.fr | Publication : 2026-08-25*
+
+- Article partenaire Comment les CISO font évoluer leurs pratiques face à la transformation des attaques par déni de service Longtemps cantonné à un sujet réseau et de continuité, le déni de service distribué (DDoS) est devenu un enjeu de gouvernance, de gestion des risques et de résilience.
+- Sa fréquence augmente fortement, ses usages se sophistiquent, et ses cibles débordent largement les seules grandes entreprises.
+- Sacha Hilic Directeur Général d'IMS Networks, opérateur français spécialisé dans les infrastructures critiques et les services de cybersécurité, Sacha Hilic pilote l'organisation et la performance de l'ensemble des activités d'intégration, de services managés et de cyberdéfense.
+- Il accompagne la transformation stratégique de l'entreprise avec l'ambition de renforcer son positionnement sur les services managés, le cloud et les solutions de cybersécurité souveraines, en France comme en Europe.Docteur de formation, Sacha Hilic débute sa carrière aux États-Unis au sein de l'Oak Ridge National Laboratory avant d'évoluer dans le conseil et le management des services informatiques, notamment chez Unilog Management.
+
+## [<b>Cybersécurité</b> : quatre projets personnels pour se démarquer auprès des recruteurs](https://www.journaldunet.com/cybersecurite/1553303-cybersecurite-voici-quatre-projets-personnels-pour-se-demarquer-aupres-des-recruteurs/)  
+*Source : journaldunet.com | Publication : 2026-08-25*
+
+- Cybersécurité : quatre projets personnels pour se démarquer auprès des recruteurs Pour accéder à leur premier emploi, les étudiants en cybersécurité ne peuvent plus se contenter de leurs diplômes.
+- Ils doivent se démarquer en concevant un homelab ou un lançant une activité en freelance.
+- En cybersécurité, trouver un stage, une alternance ou un premier emploi est devenu un véritable défi pour de nombreux étudiants.
+- "Aujourd'hui, la plupart des étudiants n'arrivent même pas à avoir de stages.
+
+## [<b>Cybersécurité</b> – Éducation nationale – Diplomatie - Acteurs Publics](https://acteurspublics.fr/articles/cybersecurite-education-nationale-diplomatie/)  
+*Source : acteurspublics.fr | Publication : 2026-08-25*
+
+- Un conseil de défense se tiendra à la mi-septembre sur le sujet de la cybersécurité.
+- Dans la continuité de la cyberattaque ayant visé la direction générale des finances publiques, et plus largement, de celles qui ont récemment visé les services de l’État, Emmanuel Macron a annoncé la tenue de ce conseil.
+- L’attention portera notamment sur le fait “d’établir les responsabilités et de renforcer la vigilance dans toutes les administrations” – À la veille de la conférence de rentrée du ministre de l’Éducation nationale, Édouard Geffray, qui se tient ce 25 août, les candidats à la présidentielle Gabriel Attal et Édouard Philippe ont détaillé leurs ambitions programmatiques pour l’école.
+- Le premier précise dans Le Monde qu’il envisage, s’il est élu, “une loi de programmation pour l’école et un ministre de l’Éducation nationale qui restera en poste 5 ans”.
 
 ## [Nutex Health signale un incident de <b>cybersécurité</b> et confirme un accès aux données](https://ch.zonebourse.com/actualite-bourse/nutex-health-signale-un-incident-de-cybersecurite-et-confirme-un-acces-aux-donnees-ce7858dbd188f720)  
 *Source : ch.zonebourse.com | Publication : 2026-08-24*
