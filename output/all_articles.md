@@ -1,5 +1,161 @@
-# Résumés – 2026-08-25
+# Résumés – 2026-08-27
 
+
+## [CrowdStrike s'envole à Wall Street - Boursier.com](https://www.boursier.com/actions/actualites/news/crowdstrike-s-envole-a-wall-street-992557.html)  
+*Source : boursier.com | Publication : 2026-08-27*
+
+- (Boursier.com) — CrowdStrike, le spécialiste de la cybersécurité , flambe après bourse à Wall Street.
+- Le groupe a publié pour son 2e trimestre.
+
+## [CrowdStrike s'envole à Wall Street - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites/crowdstrike-s-envole-a-wall-street-5098255)  
+*Source : bourse.fortuneo.fr | Publication : 2026-08-26*
+
+- CrowdStrike, le spécialiste de la cybersécurité, flambe après bourse à Wall Street.
+- Le groupe a publié pour son 2e trimestre fiscal 2027 des revenus de 1,47 milliard de dollars et un bénéfice ajusté par action de 31 cents, soit deux mesures supérieures aux attentes.
+- Le chiffre d'affaires total s'est élevé à 1,47 milliard de dollars, soit une hausse de 26% par rapport aux 1,17 milliard de dollars enregistrés au deuxième trimestre de l'exercice 2026.
+- Le chiffre d'affaires issu des abonnements a atteint 1,40 milliard de dollars, en progression de 27%.
+
+## [Aujourd'hui, un ordinateur industriel doit prouver qu'il est sécurisé avant même d'être installé](https://www.elektormagazine.fr/news/aujourd-hui-un-ordinateur-industriel-doit-prouver-qu-il-est-securise-avant-meme-d-etre-installe)  
+*Source : elektormagazine.fr | Publication : 2026-08-26*
+
+- Aujourd’hui, un ordinateur industriel doit prouver qu’il est sécurisé avant même d’être installé sur Cette approche évolue rapidement.
+- Avec l'augmentation des attaques visant les infrastructures critiques et l’arrivée de réglementations telles que le Cyber Resilience Act européen, les industriels doivent désormais démontrer que la sécurité est intégrée dès la conception des équipements qu’ils déploient.
+- C’est dans ce contexte que Moxa annonce la certification IEC 62443-4-2 Security Level 2 de l’ensemble de ses ordinateurs industriels Arm 64 bits de la série UC fonctionnant sous MIL4 Secure OS.
+- La cybersécurité devient une exigence de base Les applications Edge Computing occupent aujourd’hui une place centrale dans les réseaux industriels.Collecte de données, supervision distante, analyse locale, intelligence artificielle embarquée ou connectivité 5G s’appuient désormais sur des ordinateurs industriels installés au plus près des équipements de terrain.
+
+## [CrowdStrike relève ses prévisions de chiffre d'affaires annuel face à la solidité de la ...](https://ch.zonebourse.com/actualite-bourse/crowdstrike-releve-ses-previsions-de-chiffre-d-affaires-annuel-face-a-la-solidite-de-la-demande-en-c-ce7858d9d18df720)  
+*Source : ch.zonebourse.com | Publication : 2026-08-26*
+
+- CrowdStrike a dépassé les estimations de bénéfices pour le deuxième trimestre et a relevé mercredi ses prévisions de chiffre d&#039;affaires annuel, alors que la demande pour sa plateforme de cybersécurité basée sur le cloud continue de croître.
+- Les actions de la société basée à Austin, au Texas, ont progressé de plus de 10 % lors des échanges après-bourse.
+- o CrowdStrike est une entreprise de logiciels de cybersécurité native du cloud qui aide les entreprises à protéger leurs ordinateurs, systèmes cloud, comptes et données contre les cyberattaques.
+- o Des révélations récentes de Meta, Anthropic et OpenAI ont montré que des modèles d&#039;intelligence artificielle (IA) de plus en plus performants exploitent des vulnérabilités ou s&#039;introduisent dans des systèmes lors de tests de cybersécurité, soulignant les risques de piratage posés par cette technologie et le besoin croissant de produits de cybersécurité.
+
+## [CrowdStrike revoit à la hausse ses prévisions de chiffre d'affaires annuel grâce à une forte ...](https://www.boursorama.com/bourse/actualites-amp/crowdstrike-revoit-a-la-hausse-ses-previsions-de-chiffre-d-affaires-annuel-grace-a-une-forte-demande-en-matiere-de-cybersecurite-f5952b89ffa5c6ae7a0e7af07a805631)  
+*Source : boursorama.com | Publication : 2026-08-26*
+
+- CrowdStrike revoit à la hausse ses prévisions de chiffre d'affaires annuel grâce à une forte demande en matière de cybersécurité information fournie par Reuters 26/08/2026 à 22:42 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) CrowdStrike CRWD.O a dépassé mercredi les prévisions de résultats pour le deuxième trimestre et a revu à la hausse ses prévisions de chiffre d'affaires annuel, alors que la demande pour sa plateforme de cybersécurité basée sur le cloud continue de croître.
+- L'action de la société basée à Austin, au Texas, a progressé de plus de 10 % en séance prolongée.
+- * CrowdStrike est un éditeur de logiciels de cybersécurité natifs du cloud qui aide les entreprises à protéger leurs ordinateurs, leurs systèmes cloud, leurs comptes et leurs données contre les cyberattaques.
+- * Les récentes révélations provenant de Meta, Anthropic et OpenAI ont montré que des modèles d'IA de plus en plus performants exploitaient des vulnérabilités ou parvenaient à pénétrer des systèmes lors de tests de cybersécurité, soulignant ainsi les risques de piratage posés par cette technologie et le besoin croissant de produits de cybersécurité.
+
+## [Moxa renforce la <b>cybersécurité</b> des infrastructures Edge avec la certification IEC 62443-4-2 ...](https://www.ecinews.fr/fr/moxa-renforce-la-cybersecurite-des-infrastructures-edge-avec-la-certification-iec-62443-4-2-sl2-de-sa-serie-uc/)  
+*Source : ecinews.fr | Publication : 2026-08-26*
+
+- Moxa renforce la cybersécurité des infrastructures Edge avec la certification IEC 62443-4-2 SL2 de sa série UC Moxa annonce que l’ensemble de ses ordinateurs industriels Arm 64 bits de la série UC, fonctionnant sous Moxa Industrial Linux 4 Secure OS (MIL4), a obtenu la certification IEC 62443-4-2 Security Level 2 (SL2) dans le cadre du programme de certification international IECEE CB Scheme.
+- Cette certification marque une nouvelle étape dans la stratégie de cybersécurité de l’entreprise.
+- Après avoir obtenu en 2023 la première certification IEC 62443-4-2 au monde pour un ordinateur hôte industriel avec la série UC-8200, Moxa étend désormais cette reconnaissance à l’ensemble de sa plateforme informatique dédiée aux applications OT, Edge Computing et communications industrielles.
+- La cybersécurité industrielle devient un impératif réglementaire Les infrastructures industrielles sont confrontées à une multiplication des exigences de cybersécurité.
+
+## [Kudelski compte sur l'IA pour se remettre à flots](https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/kudelski-compte-sur-lia-pour-se-remettre-flots-0)  
+*Source : vermoegenszentrum.ch | Publication : 2026-08-26*
+
+- 26.
+- Aoû 2026 Description Genève (awp) - Kudelski a levé le voile mardi sur des revenus semestriels en recul, tout en ayant pu réduire ses pertes et améliorer une rentabilité toujours dans le rouge.
+- Le retour de la croissance ne sera pas pour cette année, mais le groupe technologique vaudois assure se positionner là où sont les opportunités, et avant tout dans l'intelligence artificielle.
+- De janvier à fin juin, l'entreprise sise à Cheseaux-sur-Lausanne a vu ses revenus se replier de 1,6% sur un an à 171,8 millions de dollars (139,0 millions de francs), selon son rapport financier à mi-parcours.
+
+## [Enquête lancée sur la suppression du répertoire de la fonction publique - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2277847/bottin-fonctionnaires-cyberattaques-hameconnage)  
+*Source : ici.radio-canada.ca | Publication : 2026-08-26*
+
+- Enquête sur la suppression du répertoire de la fonction publique Michael Harvey publiera des recommandations quant au système de coordonnées des employés de la fonction publique qui devrait remplacer le répertoire supprimé.
+- Photo : OIPC Le commissaire à l’information et à la protection de la vie privée de la Colombie-Britannique, Michael Harvey, annonce une enquête sur la décision de la province de retirer son répertoire public des employés en raison de préoccupations liées à la cybersécurité et à la confidentialité.
+- Le premier ministre David Eby assure qu’un nouveau système de communication avec les différents ministères est à l’étude.
+- L’équipe spécialisée dans les technologies émergentes d’information et de protection de la vie privée du Commissariat à l’information et à la protection de la vie privée (OIPC) a commencé à se pencher sur la question lorsque l’accès du public au répertoire en ligne a été coupé le 18 août, selon le communiqué.
+
+## [Google corrige plus de 300 failles Chrome, dont 10 vulnérabilités critiques - 01net.com](https://www.01net.com/actualites/google-corrige-plus-300-failles-chrome-dont-10-vulnerabilites-critiques.html)  
+*Source : 01net.com | Publication : 2026-08-26*
+
+- Google continue d’enchaîner les mises à jour de Chrome.
+- Après avoir débusqué 1 072 vulnérabilités dans le code de Chrome à l’aide de l’intelligence artificielle, le géant de Mountain View vient de déceler 327 nouvelles failles dans son navigateur phare.
+- Dix des vulnérabilités épinglées par Google sont considérées comme critiques.
+- En clair, les failles peuvent permettre à un attaquant d’exécuter du code arbitraire sur l’appareil de la victime, sans que celle-ci ne doive faire quoi que ce soit d’inhabituel.
+
+## [Vos dossiers médicaux ont-ils été divulgués ? 9 mesures urgentes pour renforcer vos ...](https://health-isac.org/fr/Vos-dossiers-médicaux-exposés :-9-mesures-urgentes-pour-renforcer-vos-défenses-dès-maintenant/)  
+*Source : health-isac.org | Publication : 2026-08-26*
+
+- Vos dossiers médicaux ont-ils été divulgués ?.
+- 9 mesures urgentes pour renforcer vos défenses dès maintenant.
+- Tirer parti du renseignement sur les menaces et de la collaborationGarder une longueur d'avance Le paysage de la cybersécurité est en constante évolution, avec l'apparition quotidienne de nouvelles variantes de rançongiciels et de vecteurs d'attaque.
+- Il est crucial de rester informé des dernières menaces.
+
+## [« Protéger nos données est une condition de notre cohésion nationale et de notre souveraineté »](https://www.lemonde.fr/idees/article/2026/08/26/proteger-nos-donnees-est-une-condition-de-notre-cohesion-nationale-et-de-notre-souverainete_6757408_3232.html)  
+*Source : lemonde.fr | Publication : 2026-08-26*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Arnaques en ligne : la police démasque plus de 250 cybercriminels lors d'une opération ...](https://www.01net.com/actualites/arnaques-ligne-police-demasque-plus-250-cybercriminels-operation-coup-poing.html)  
+*Source : 01net.com | Publication : 2026-08-26*
+
+- Interpol vient de boucler une vaste opération internationale à l’encontre de la cybercriminalité.
+- Baptisée « Operation Jackal IV », cette opération s’est étalée sur huit mois, de novembre 2025 à juin 2026.
+- Elle a permis aux forces de l’ordre de démanteler plusieurs réseaux criminels ouest-africains.
+- Les polices de 22 pays différents, répartis sur six continents, étaient impliquées dans l’opération.
+
+## [&quot;Les exigences en <b>cybersécurité</b> sont les plus élevées en Europe&quot;: quelques jours après le ...](https://www.bfmtv.com/economie/entreprises/les-exigences-en-cybersecurite-sont-les-plus-elevees-en-europe-quelques-jours-apres-le-piratage-du-fisc-bercy-rassure-sur-les-risques-de-fuites-de-donnees-liees-a-la-mise-en-place-de-la-facturation-electronique_AV-202608260490.html)  
+*Source : bfmtv.com | Publication : 2026-08-26*
+
+- "Les exigences en cybersécurité sont les plus élevées en Europe": quelques jours après le piratage du fisc, Bercy rassure sur les risques de fuites de données liées à la mise en place de la facturation électronique Éviter à tout prix un nouveau cas DGFiP.
+- Bercy a tenu à rassurer ce mercredi sur les risques cyber liés à la généralisation de la facturation électronique, prévue le 1er septembre.
+- Conscient des craintes des Français après le vol de plusieurs centaines de milliers de données privées sur la plateforme des impôts, le ministère de l'Action et des Comptes publics a reçu ce mercredi les 148 plateformes privées chargées de recevoir les factures à l'avenir.
+- "Les exigences en cybersécurité sont les plus élevées d'Europe, assure le cabinet de David Amiel, ministre en charge de la réforme.
+
+## [Cyberattaque de la DGFiP : 678 000 contribuables touchés : ce que révèle la](https://www.lenouveleconomiste.fr/cyberattaque-de-la-dgfip-678-000-contribuables-touches-ce-que-revele-la-139446/)  
+*Source : lenouveleconomiste.fr | Publication : 2026-08-26*
+
+- La fonction publique n’échappe pas aux cyberattaques.
+- Le 14 août 2026, la Direction générale des Finances publiques (DGFiP) confirme des accès illégitimes à son système d’information.
+- Le groupe de pirates ZeroBytes revendique l’intrusion les 12 et 13 août.
+- Les investigations montrent que ces accès ont permis d’extraire les données de 678 000 particuliers et professionnels, selon le ministère de l’Action et des Comptes publics.
+
+## [Fuites de données : « La France souffre d'une mauvaise perception des enjeux cyber, y ...](https://www.lemonde.fr/idees/article/2026/08/26/fuites-de-donnees-la-france-souffre-d-une-mauvaise-perception-des-enjeux-cyber-y-compris-au-plus-haut-niveau-de-l-etat_6757405_3232.html)  
+*Source : lemonde.fr | Publication : 2026-08-26*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Fuites de GTA VI : Rockstar sort du silence et reconnaît des vidéos de gameplay diffusées ...](https://www.usine-digitale.fr/cybersecurite/fuites-de-gta-vi-rockstar-sort-du-silence-et-reconnait-des-videos-de-gameplay-diffusees-avant-lheure.YO2FZLRCWZG57N4WVBC5SWMUQM.html)  
+*Source : usine-digitale.fr | Publication : 2026-08-26*
+
+- Cybersécurité.
+- Fuites de GTA VI : Rockstar sort du silence et reconnaît.
+- Les plus lus : Cybersécurité.
+- Fuites de GTA VI : Rockstar sort du.
+
+## [Lancez-vous en tant que Consultant IT ! | Bpifrance Création](https://bpifrance-creation.fr/entrepreneur/actualites/lancez-vous-tant-que-consultant-it)  
+*Source : bpifrance-creation.fr | Publication : 2026-08-26*
+
+- L’essor de l’intelligence artificielle (IA), le renforcement de la cybersécurité et l’évolution des réglementations font du conseil IT un levier stratégique de la transformation numérique des organisations, même les plus petites.
+- Dans un contexte de systèmes d’information toujours plus complexes et de pénurie de compétences, les consultants IT accompagnent les entreprises dans leurs choix technologiques, la sécurisation de leurs infrastructures et, plus globalement, dans le pilotage de leurs projets digitaux.
+- Un marché en croissance, soutenu par la transformation digitale des organisations Malgré un contexte économique général contrasté, le marché du numérique poursuit sa progression.
+- En France, son chiffre d’affaires a dépassé 71 milliards d’euros en 2025, porté par les investissements dans le cloud, l’intelligence artificielle, la cybersécurité et la modernisation des systèmes d’information.
+
+## [“Je récolte la colère populaire” : dans l'affaire du piratage du fisc, une action collective salutaire](https://www.nouvelobs.com/economie/20260826.OBS117685/je-recolte-la-colere-populaire-dans-l-affaire-du-piratage-du-fisc-une-action-collective-salutaire.html)  
+*Source : nouvelobs.com | Publication : 2026-08-26*
+
+- « Je récolte la colère populaire » : dans l’affaire du piratage du fisc, une action collective salutaire Des centaines de plaignants ont rejoint une action collective menée par un jeune avocat contre l’Etat pour obtenir réparation du préjudice moral subi après la révélation des cyberattaques contre la Direction générale des Finances publiques (DGFiP).
+- Abonné Vous voulez participer au débat ?.
+- S’abonner permet de commenter les articles.
+- Et pas que : vous pouvez les consulter et les offrir à vos proches.
+
+## [Rapport Sophos - L'état des <b>ransomwares</b> 2026 - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/livres-blancs/65166-rapport-sophos-l-etat-des-ransomwares-2026.html)  
+*Source : linformaticien.com | Publication : 2026-08-26*
+
+- Comment les attaques par ransomware commencent, ce qui se passe lorsqu’elles aboutissent et quel est le coût réel du rétablissement.
+- Sept ans de données sur les ransomwares - le rapport 2026 est la septième édition de cette enquête indépendante sur les attaques de ransomwares.
+- Les réponses ont été recueillies de janvier à mars 2026 et sont basées sur les expériences des répondants au cours des 12 mois précédents.
+- Perspectives de 2 158 responsables informatiques et cybersécurité de 17 pays.
+
+## [Stifel maintient sa recommandation sur Boston Scientific après un incident <b>cybersécurité</b>](https://fr.investing.com/news/analyst-ratings/stifel-maintient-sa-recommandation-sur-boston-scientific-apres-un-incident-cybersecurite-93CH-3573083)  
+*Source : fr.investing.com | Publication : 2026-08-26*
+
+- (NYSE:BSX) suite à la divulgation par la Société d'un incident de cybersécurité affectant ses opérations.
+- L'action se négocie actuellement à 49,86.
 
 ## [<b>Cybersécurité</b> : Ces failles numériques qui paniquent le gouvernement | Le Canard enchaîné](https://www.lecanardenchaine.fr/politique/54721-ces-failles-numeriques-qui-paniquent-le-gouvernement)  
 *Source : lecanardenchaine.fr | Publication : 2026-08-25*
