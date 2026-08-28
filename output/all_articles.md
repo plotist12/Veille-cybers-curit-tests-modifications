@@ -1,5 +1,144 @@
-# Résumés – 2026-08-27
+# Résumés – 2026-08-28
 
+
+## [Visa met à jour VVAH et renforce son conseil en <b>cybersécurité</b> pour accélérer la](https://www.abcbourse.com/marches/visa-met-a-jour-vvah-et-renforce-son-conseil-en-cybersecurite-pour-accelerer-la_701735)  
+*Source : abcbourse.com | Publication : 2026-08-28*
+
+- (ABC Bourse) - Visa (NYSE : V) annonce des améliorations de son portefeuille de solutions de cybersécurité pour aider les organisations à identifier et corriger plus efficacement leurs vulnérabilités.
+- Le groupe dévoile une nouvelle version de son cadre open source et indépendant de tout modèle, Visa Vulnerability Agentic Harness (VVAH), avec un objectif affiché : réduire fortement le « Mean Time to Adapt » (MTTA), c’est-à-dire le délai entre la découverte et la résolution des vecteurs d’attaque, certaines résolutions passant de plusieurs semaines à quelques heures.
+- En parallèle, Visa élargit son pôle de conseil « Visa Consulting & Analytics (VCA) » avec de nouveaux services conçus pour aider les clients à évaluer les risques, à hiérarchiser les mesures correctives et à renforcer leur résilience face à un environnement de menaces en constante évolution, alors que l’IA accélère le rythme entre détection et exploitation des failles.
+- VVAH étend son flux de travail de la détection à la correction et à la validation « L’IA réduit le délai entre la découverte d’une vulnérabilité et son exploitation, ce qui signifie que les défenseurs ont besoin d’une voie d’action plus rapide et plus fiable », a déclaré Rajat Taneja, président de la division Technologie chez Visa. «.
+
+## [Optro annonce la participation de Rana el Kaliouby, pionnière de l'IA, et d'Alex Stamos ...](https://www.newswire.ca/fr/news-releases/optro-annonce-la-participation-de-rana-el-kaliouby-pionniere-de-l-ia-et-d-alex-stamos-expert-en-cybersecurite-au-crx-26-894281444.html)  
+*Source : newswire.ca | Publication : 2026-08-28*
+
+- Optro annonce la participation de Rana el Kaliouby, pionnière de l'IA, et d'Alex Stamos, expert en cybersécurité, au CRX'26 EnglishNouvelles fournies par Optro, Inc27 août, 2026, 23:39 ET L'événement phare consacrée à la GRC réunit des dirigeants de la gestion des risques du monde entier pour explorer l'IA centrée sur l'humain, la gouvernance agentique et la sécurité d'entreprise à grande échelle.
+- SAN FRANCISCO, 27 août 2026 /CNW/ -- Optro, la principale plateforme d'intelligence GRC optimisée par l'IA qui permet aux entreprises de transformer les risques en opportunités, annonce aujourd'hui ses conférenciers pour le CRX (anciennement Audit & Beyond), qui aura lieu du 13 au 15 octobre 2026 au Gaylord Pacific Resort à San Diego, en Californie.
+- Les allocutions sur la scène principale mettront en vedette Rana el Kaliouby, pionnière en intelligence artificielle, investisseuse, cofondatrice et associée directrice chez Blue Tulip Ventures, et Alex Stamos, directeur des produits chez Corridor, professeur adjoint à l'Université Stanford et ancien responsable de la sécurité de l'information de Facebook, Yahoo et SentinelOne, aux côtés de dirigeants d'Optro, dont Raul Villar Jr., Richard Chambers et Kieran Taylor.
+- Le CRX'26 rassemble des milliers de praticiens, de dirigeants et de cadres pour trois jours de séances dirigées par des pairs, de réseautage et d'une analyse approfondie de l'ère de l'intelligence GRC, un changement de paradigme fondamental qui passe de la gestion des données sur la gouvernance, les risques et la conformité à l'exploitation de l'IA pour générer activement des renseignements prêts à prendre des décisions.
+
+## [Près de la moitié des cyberattaques au Vietnam impliquent l'IA](https://lecourrier.vn/pres-de-la-moitie-des-cyberattaques-au-vietnam-impliquent-lia/1354265.html)  
+*Source : lecourrier.vn | Publication : 2026-08-28*
+
+- >> Le Vietnam entend bâtir un écosystème national de l’intelligence artificielle >> Réinventer l’éducation artistique à l’ère du numérique >> L’économie numérique, levier de croissance pour les entreprises vietnamiennes Lors d’une conférence consacrée à la présentation de la Loi sur la cybersécurité et de la Loi sur la protection des données personnelles, le 21 août, le lieutenant-colonel Nguyên Dinh Dô Thi, chef adjoint du Bureau 1 du Département de cybersécurité et de prévention et de lutte contre la criminalité utilisant les hautes technologies (A05) du ministère de la Police, a souligné la complexité croissante des atteintes aux données personnelles.
+- Selon lui, les cyberattaques constituent l’une des principales causes de cette situation.
+- Au cours des six premiers mois de l’année, le système de surveillance du Centre national de surveillance de la cybersécurité (VNCERT) a enregistré près de deux millions d’alertes de cyberattaques.
+- "Près de 50% de ces attaques impliquent l’IA, principalement pour automatiser la détection des vulnérabilités, la propagation de logiciels malveillants et l’intrusion dans les systèmes", a-t-il indiqué.
+
+## [Affaire Jabaroot : le pôle DGSN-DGST dément toute intrusion dans ses sytèmes - TelQuel](https://mobile.telquel.ma/instant-t/2026/08/27/affaire-jabaroot-le-pole-dgsn-dgst-dement-toute-intrusion-dans-ses-sytemes_2004525/)  
+*Source : mobile.telquel.ma | Publication : 2026-08-28*
+
+- Dans un communiqué diffusé ce jeudi, le pôle DGSN-DGST, dirigé par Abdellatif Hammouchi, affirme que les données personnelles publiées récemment “ne résultent en aucun cas d’une intrusion dans ses systèmes de sécurité”, soulignant qu’il s’agit “de données anciennes ayant été téléchargées à partir de bases de données et de systèmes d’information gérés par des compagnies d’assurance et des organismes de couverture sociale et de santé”.
+- De même, le communiqué met en garde contre “la diffusion fréquente de photographies truquées, présentées de manière trompeuse et malveillante comme représentant des fonctionnaires femmes et hommes dans divers services de sécurité” et de “la mise en circulation de documents falsifiés et contrefaits présentés comme des documents de sécurité”.
+- Et d’ajouter qu’il s’agit manifestement de fausses images et de documents falsifiés, “compte tenu de l’utilisation d’uniformes et de grades militaires qui n’existent pas au Maroc et ne sont pas d’usage au sein de la DGSN”, souligne la même source.
+- De plus, “les documents divulgués contiennent des identités visuelles erronées et des fautes de grammaire flagrantes”.
+
+## [Cyberattaque contre Hugging Face : près de 700 agents IA se sont coordonnés lors de cette intrusion](https://www.lemonde.fr/pixels/article/2026/08/27/cyberattaque-contre-hugging-face-pres-de-700-agents-ia-se-sont-coordonnes-lors-de-cette-intrusion_6757763_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-08-27*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Visa renforce son soutien à ses clients et au secteur alors que les entreprises entrent dans ...](https://fr.finance.yahoo.com/actualites/visa-renforce-soutien-à-clients-200300996.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-08-27*
+
+- Visa renforce son soutien à ses clients et au secteur alors que les entreprises entrent dans une nouvelle ère de la cybersécurité marquée par l'intelligence artificielle La dernière version d'Agentic Harness, consacrée aux vulnérabilités Visa, fait passer la gestion des cyberrisques basée sur l'IA de la détection à la correction validée Les nouveaux services proposés par Visa Consulting & Analytics aident les clients à identifier les vulnérabilités les plus critiques et à agir avant que les cybercriminels ne le fassent SAN FRANCISCO, August 27, 2026--(BUSINESS WIRE)--Visa (NYSE : V) a annoncé aujourd'hui des améliorations apportées à son portefeuille de solutions de cybersécurité afin d'aider les organisations à identifier et à corriger plus efficacement leurs vulnérabilités.
+- En dévoilant la nouvelle version du Visa Vulnerability Agentic Harness (VVAH), son cadre open source et indépendant de tout modèle, Visa aide les organisations à réduire considérablement le « Mean Time to Adapt » (MTTA), c'est-à-dire le délai entre la découverte et la résolution des vecteurs d'attaque, certaines résolutions passant de plusieurs semaines à quelques heures.
+- Et pour aider ses clients à s'y retrouver dans ce paysage de menaces en constante évolution, Visa a également annoncé l'élargissement de son pôle de conseil en cybersécurité « Visa Consulting & Analytics (VCA) » avec de nouveaux services de conseil conçus pour aider les clients à évaluer les risques, à hiérarchiser les mesures correctives et à renforcer leur résilience dans un environnement de menaces en constante évolution. «.
+- L'IA réduit le délai entre la découverte d'une vulnérabilité et son exploitation, ce qui signifie que les défenseurs ont besoin d'une voie d'action plus rapide et plus fiable », a déclaré Rajat Taneja, président de la division Technologie chez Visa. «.
+
+## [Les actualités à noter selon Fasken : Protection des renseignements confidentiels, vie ...](https://www.fasken.com/fr/knowledge/2026/08/faskens-noteworthy-news-privacy-cybersecurity-in-canada-the-us-and-the-eu-august-2026)  
+*Source : fasken.com | Publication : 2026-08-27*
+
+- Protection des renseignements confidentiels, vie privée et cybersécurité au Canada, aux États-Unis et dans l'Union européenne.
+- Ce bulletin mensuel a.
+
+## [Visa renforce son soutien à ses clients et au secteur alors que les entreprises entrent dans ...](https://www.businesswire.com/news/home/20260827135453/fr)  
+*Source : businesswire.com | Publication : 2026-08-27*
+
+- Au cours de l'année écoulée, le pôle de conseil en cybersécurité de Visa Consulting & Analytics a accompagné ses clients dans le cadre de diverses.
+
+## [Les Assises de la <b>Cybersécurité</b> | 7 au 10 octobre 2026 - IT SOCIAL](https://itsocial.fr/evenement/les-assises-de-la-cybersecurite-monaco-7-au-10-octobre-2026/)  
+*Source : itsocial.fr | Publication : 2026-08-27*
+
+- Les Assises de la Cybersécurité | 7 au 10 octobre 2026 Les Assises de la cybersécurité sont, depuis 25 ans, l’institution de référence de la communauté cyber en France et en Europe.
+- La 26e édition réunit du 7 au 10 octobre 2026 au Grimaldi Forum de Monaco les dirigeants cybersécurité des grands comptes et les offreurs de solutions les plus à la pointe du marché, pour quatre jours de rendez-vous d’affaires, de contenus experts et de networking entre pairs.
+- Un format unique : le One to One Aux Assises, on ne s’inscrit pas : on y est invité.
+- Les décideurs déposent une demande de participation, validée par l’organisation sur la réalité de leurs projets d’investissement.
+
+## [« Le confort des étudiants plutôt qu'une rentrée à l'arrache » : à Vannes, pas d ... - Le Télégramme](https://www.letelegramme.fr/morbihan/vannes-56000/le-confort-des-etudiants-plutot-quune-rentree-a-larrache-a-vannes-pas-detudiants-en-septembre-sur-le-nouveau-campus-cyber-7105951.php)  
+*Source : letelegramme.fr | Publication : 2026-08-27*
+
+- Près de 700 personnes devaient investir le nouveau campus cybersécurité de Vannes pour cette rentrée 2026.
+- Il n'en sera rien.
+
+## [L'Arabie Saoudite participe à la 5e réunion du Comité ministériel de la <b>cybersécurité</b> du CCG](https://www.spa.gov.sa/fr/N2663078)  
+*Source : spa.gov.sa | Publication : 2026-08-27*
+
+- Manama, 27 août 2026, SPA -- Le Royaume d'Arabie Saoudite, représenté par l'Autorité nationale de cybersécurité (NCA) et sous la direction de son.
+
+## [Résultats et perspectives supérieurs aux attentes permettent à CrowdStrike de revenir sur ... - Investir](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/resultats-et-perspectives-superieurs-aux-attentes-permettent-a-crowdstrike-de-revenir-sur-ses-sommets-atteints-debut-aout-mais-la-valorisation-se-tend-drastiquement-2248595)  
+*Source : investir.lesechos.fr | Publication : 2026-08-27*
+
+- C'est en ces termes flatteurs que le directeur général du spécialiste texan de la cybersécurité a qualifié la performance enregistrée au 31 juillet.
+
+## [Fuites de données fiscales à la DGFiP : AC!! Anticorruption saisit le Parquet national financier](https://infodujour.fr/societe/86587-fuites-de-donnees-fiscales-a-la-dgfip-ac-anticorruption-saisit-le-parquet-national-financier)  
+*Source : infodujour.fr | Publication : 2026-08-27*
+
+- L’association, représentée par Maître Vincent Poudampa, ne met pas en cause l’administration fiscale, victime des intrusions, mais elle demande que soit examinée l’hypothèse d’un concours interne volontaire ayant facilité l’accès aux données de centaines de milliers de contribuables.
+- Cette fuite de données intervient alors que l’État impose la facturation électronique (voir le communiqué d’AC!!.
+- ci-dessous).
+- L’avocat bordelais Vincent Poudampa a déposé plainte contre X, ce 27 août 2026, au nom de l’association Anti-Corruption AC!.
+
+## [<b>Cybersécurité</b> : la DGSN-DGST démentent toute intrusion dans leurs systèmes - Médias24](https://medias24.com/2026/08/27/cybersecurite-la-dgsn-dgst-dementent-toute-intrusion-dans-leurs-systemes-1744155/)  
+*Source : medias24.com | Publication : 2026-08-27*
+
+- Cybersécurité : la DGSN-DGST démentent toute intrusion dans leurs systèmes.
+- Le Pôle DGSN-DGST a démenti toute intrusion dans ses systèmes de.
+
+## [CrowdStrike déclenche une vague de hausse des valeurs du secteur de la <b>cybersécurité</b> ...](https://www.boursorama.com/bourse/actualites-amp/crowdstrike-declenche-une-vague-de-hausse-des-valeurs-du-secteur-de-la-cybersecurite-apres-des-previsions-optimistes-011806d87efeb31fa80d33f461cb3019)  
+*Source : boursorama.com | Publication : 2026-08-27*
+
+- CrowdStrike déclenche une vague de hausse des valeurs du secteur de la cybersécurité après des prévisions optimistes information fournie par Reuters 27/08/2026 à 17:59 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Actualités) 27 août - ** L'action de la société de cybersécurité CrowdStrike CRWD.O bondit de 17% à 221,53 dollars, ce qui devrait lui permettre d'enregistrer sa meilleure journée depuis fin mars 2020 ** Cette hausse se répercute sur l'ensemble du secteur de la cybersécurité, les actions de Palo Alto PANW.O , Fortinet FTNT.O , Zscaler ZS.O , SentinelOne S.N , SailPoint SAIL.O et Rapid7 RPD.O enregistrant des hausses comprises entre 6% et 14% ** La société a dépassé les estimations de concernant son chiffre d’affaires et ses bénéfices du deuxième trimestre et a revu à la hausse ses prévisions de chiffre d’affaires annuel, invoquant une forte demande en matière de cybersécurité ** Affiche un chiffre d’affaires de 1,47 milliard de dollars au deuxième trimestre, dépassant les estimations de 1,44 milliard de dollars, selon les données de LSEG ** La société relève ses prévisions de chiffre d’affaires annuel à une fourchette comprise entre 5,99 et 6,01 milliards de dollars, contre une fourchette précédente de 5,91 à 5,96 milliards de dollars ** Le titre se négocie actuellement à 132 fois les bénéfices attendus, contre un PER prévisionnel moyen sur cinq ans de 111, selon les données de LSEG, ce qui suggère que le titre pourrait être surévalué ** La recommandation moyenne des 55 analystes couvrant le titre est "acheter", et leur objectif de cours médian est de 235 $ – données compilées par LSEG ** Le titre a bondi d’environ 90% depuis le début de l’année, surpassant la hausse de 13,7% enregistrée par le Nasdaq.
+
+## [Charente-Maritime. <b>Cybersécurité</b> : &quot;On n'a pas pris le problème à bras-le-corps&quot;](https://www.lhebdo17.fr/actualite-9298-charente-maritime-cybersecurite-on-n-a-pas-pris-le-probleme-a-bras-le-corps)  
+*Source : lhebdo17.fr | Publication : 2026-08-27*
+
+- Site des impôts, Agence nationale des titres sécurisés (ANTS), SFR… au cours des derniers mois, les piratages se sont multipliés dans le pays.
+- Des attaques d'envergure qui ne surprennent malheureusement pas Adrien Guillo, l'un des animateurs du centre de ressources en cybersécurité de Charente-Maritime, une structure associative portée par le collectif Rochefort numérique. «.
+- La France est très mal protégée, les systèmes.
+- L'espace des commentaires est ouvert aux inscrits.
+
+## [Un test cyber, un canal clandestin et 700 agents d'OpenAI : les dessous du piratage de ...](https://www.usine-digitale.fr/cybersecurite/un-test-cyber-un-canal-clandestin-et-700-agents-dopenai-les-dessous-du-piratage-de-hugging-face.CK7H47XHUVCHVJPUBQIKNKWHUE.html)  
+*Source : usine-digitale.fr | Publication : 2026-08-27*
+
+- Tout commence par des agents d'OpenAI chargés de résoudre des exercices de cybersécurité dans des environnements cloisonnés.
+
+## [Okta et CrowdStrike rassurent sur la vigueur des dépenses de <b>cybersécurité</b> - ChannelNews](https://www.channelnews.fr/okta-et-crowdstrike-rassurent-sur-la-vigueur-des-depenses-de-cybersecurite-158502)  
+*Source : channelnews.fr | Publication : 2026-08-27*
+
+- Okta et CrowdStrike ont tous deux dépassé les attentes au deuxième trimestre de leur exercice 2027 et relevé leurs perspectives annuelles, provoquant de fortes hausses en Bourse.
+- Leurs résultats témoignent d’une demande toujours solide pour les outils de cybersécurité, tandis que l’essor de l’IA agentique commence à créer de nouveaux besoins de protection.
+- CrowdStrike a réalisé sur le trimestre clos fin juillet un chiffre d’affaires de 1,47 milliard de dollars, en hausse de 26% sur un an, dont 1,40 Md$ issus des abonnements (+27%).
+- Son revenu récurrent annualisé (ARR) atteint 5,84 Md$, en progression de 25%, après l’ajout d’un montant record de 333 M$ de nouveaux ARR.
+
+## [Face aux <b>cybermenaces</b>, la Sierra Leone prépare le renforcement de ses défenses numériques](https://www.agenceecofin.com/actualites-numerique/2708-141090-face-aux-cybermenaces-la-sierra-leone-prepare-le-renforcement-de-ses-defenses-numeriques)  
+*Source : agenceecofin.com | Publication : 2026-08-27*
+
+- (Agence Ecofin) - La multiplication des services numériques accroît l’exposition des activités essentielles aux cybermenaces et aux risques de perturbation liés aux cyberattaques.
+- Les autorités sierra-léonaises ont adopté de nouveaux plans sectoriels pour renforcer la protection des systèmes numériques.
+- En Sierra Leone, le Centre national de coordination de la cybersécurité (NC3) et le ministère des Communications, des Technologies et de l’Innovation ont adopté, mercredi 26 août, quatre plans sectoriels visant à renforcer la cybersécurité dans les secteurs de l’énergie, de la santé, de l’éducation et de la défense.
+- L’initiative, soutenue par la Banque mondiale, s’inscrit dans le programme de transformation numérique du pays et prolonge une première phase consacrée notamment aux technologies de l’information et de la communication, à l’administration publique, à la finance et aux transports.
+
+## [<b>Cybersécurité</b> Norton 360, offre rentrée 2026 - Clubic](https://www.clubic.com/bons-plans-626140-protegez-votre-ordinateur-portable-votre-telephone-et-votre-tablette-achetes-pour-la-rentree-scolaire.html)  
+*Source : clubic.com | Publication : 2026-08-27*
+
+- Cette offre de rentrée vous aide à renforcer votre cybersécurité en 2026.
+- Elle vous permet également d’économiser.
+- Vous obtenez jusqu’à - 71 %* de réduction sur votre première année d’abonnement par rapport au prix de renouvellement.
+- Norton vous aide à gagner en cybersécurité sans vous ruiner.
 
 ## [CrowdStrike s'envole à Wall Street - Boursier.com](https://www.boursier.com/actions/actualites/news/crowdstrike-s-envole-a-wall-street-992557.html)  
 *Source : boursier.com | Publication : 2026-08-27*
