@@ -1,5 +1,157 @@
-# Résumés – 2026-08-28
+# Résumés – 2026-08-29
 
+
+## [Le piratage du registre des transplantations rénales soulève des inquiétudes en matière de sécurité](https://health-isac.org/fr/Le-piratage-du-registre-des-transplantations-rénales-soulève-des-inquiétudes-quant-à-la-sécurité/)  
+*Source : health-isac.org | Publication : 2026-08-29*
+
+- Le piratage du registre des transplantations rénales soulève des inquiétudes en matière de sécurité L'attaque présumée de DireWolf met en lumière les risques pour les fournisseurs de soins de santé essentiels et les patients. «.
+- Dans le secteur de la santé, la cybersécurité est synonyme de sécurité des patients », a déclaré Errol Weiss, responsable de la sécurité au Centre d'analyse et de partage des informations sur la santé . «.
+- Si une attaque perturbe la coordination des transplantations – compatibilité tissulaire, analyses de laboratoire, planification, logistique, communications – les soins sont ralentis, le risque d'erreur augmente et, en cas de pannes extrêmes et prolongées, des personnes peuvent en mourir. ».
+- « Le vol de données dans ces cas est également dévastateur, car les dossiers relatifs aux transplantations sont extrêmement sensibles et peuvent donner lieu à des années de fraude et d’extorsion », a déclaré Weiss. «.
+
+## [Burkina Faso : 205 plateformes publiques testées pour renforcer la <b>cybersécurité</b>](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-205-plateformes-publiques-testees-pour-renforcer-la-cybersecurite)  
+*Source : wearetech.africa | Publication : 2026-08-29*
+
+- Face à la multiplication des services numériques, le Burkina Faso renforce progressivement les dispositifs destinés à protéger ses systèmes d’information.
+- L’enjeu est de réduire leur exposition aux cybermenaces dans un contexte où les attaques numériques gagnent du terrain en Afrique.
+- Le Burkina Faso a soumis 205 plateformes numériques de l’État à des tests de sécurité afin d’identifier et de corriger leurs vulnérabilités.
+- Les autorités ont également cartographié 1460 plateformes en « .bf » accessibles depuis Internet et placé 28 organismes publics sous protection renforcée, dans le cadre du déploiement du chantier national consacré à la sécurisation des infrastructures critiques.
+
+## [France : le Premier ministre veut une &quot;unité de première intervention&quot; pour protéger les ...](https://sciencepost.fr/france-le-premier-ministre-veut-une-unite-de-premiere-intervention-pour-proteger-les-administrations-face-aux-cyberattaques/)  
+*Source : sciencepost.fr | Publication : 2026-08-28*
+
+- Suite au récent piratage de la Direction générale des Finances publiques (DGFiP), le Premier ministre français Sébastien Lecornu a activé une cellule interministérielle de crise afin de constituer une « unité de première intervention ».
+- Cette structure sera pilotée par l’Agence nationale de la sécurité des systèmes d’information (ANSSI).
+- Une équipe d’experts en cybercriminalité Le 14 aout 2026, la Direction générale des Finances publiques (DGFiP) publiait son communiqué de presse officiel à propos d’une fuite massive de données.
+- Il est question d’une cyberattaque historique revendiquée par le groupe de hackers ZeroBytes, à l’origine d’une fuite de données fiscales concernant 678 000 particuliers et professionnels.
+
+## [Cyberattaques contre l'État français : Lecornu réclame une unité d'intervention rapide](https://www.youtube.com/watch?v=zhdAPPObNJw)  
+*Source : youtube.com | Publication : 2026-08-28*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [McKesson signale un incident de <b>cybersécurité</b> | Zonebourse Suisse](https://ch.zonebourse.com/actualite-bourse/mckesson-signale-un-incident-de-cybersecurite-ce7858dfd08dff22)  
+*Source : ch.zonebourse.com | Publication : 2026-08-28*
+
+- McKesson signale un incident de cybersécurité Publié le 28/08/2026 à 22:26 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'originalCet article est réservé à nos membresConnectez-vous pour continuerSe connecterCréer un compte Continuer avec Google Continuer avec Apple Continuer avec LinkedIn ou par emailContinuer avec un email Créer un compte avec Google Créer un compte avec Apple Créer un compte avec LinkedIn ou par emailCréer un compte Pour un accès illimité, consultez nos abonnements.
+
+## [Berlin victime d'un chantage aux bitcoins après une cyberattaque - Libération](https://www.liberation.fr/international/berlin-victime-dun-chantage-aux-bitcoins-apres-une-cyberattaque-20260828_H57CTDGNLBEIBFAJNKUX6CIDGI/)  
+*Source : liberation.fr | Publication : 2026-08-28*
+
+- «Le scrutin est sécurisé à 100 %», a-t-elle assuré.
+- Pour aller plus loin : BitcoinAllemagne CybercriminalitéCybersécurité.
+- Dans la même rubrique.
+- L.
+
+## [Un groupe de <b>ransomware</b> met aux enchères des données volées à Berlin - Investing.com](https://fr.investing.com/news/world-news/un-groupe-de-ransomware-met-aux-encheres-des-donnees-volees-a-berlin-93CH-3577315)  
+*Source : fr.investing.com | Publication : 2026-08-28*
+
+- ransomware ne revendique l'attaque sur son site web.
+- Les responsables n ... Rhysida a revendiqué près de 280 attaques depuis son apparition en juin 2023.
+
+## [Top 20 des entreprises Marché mondial des services gérés - Spherical Insights](https://www.sphericalinsights.com/fr/blogs/top-20-companies-global-managed-services-market-in-2026-2035-spherical-insights-analysis)  
+*Source : sphericalinsights.com | Publication : 2026-08-28*
+
+- Top 20 des entreprises Marché mondial des services gérés DATE DE PUBLICATION: Aug 2026 Auteur: Spherical InsightsDemander un échantillon gratuit Parler à un analyste Désignation des marchandises Selon un rapport de recherche publié par Spheric Insights & Consulting, la taille du marché mondial des services gérés devrait passer de 373,94 milliards de dollars en 2025 à 1 083,90 milliards de dollars en 2035, soit un TCAC de 11,37 % au cours de la période de prévision 2026-2035.
+- La croissance du marché s'explique par l'adoption croissante du cloud d'entreprise, la demande croissante de cybersécurité externalisée, la complexité croissante de l'infrastructure informatique hybride, l'intégration de l'intelligence artificielle et de l'automatisation dans la prestation de services, et une pénurie persistante de professionnels de l'informatique qualifiés à l'interne.
+- Présentation Le marché mondial des services gérés comprend l'externalisation de la gestion de l'infrastructure informatique, cybersécurité, les opérations de réseau, l'administration en nuage, la gestion des centres de données et le soutien des utilisateurs finaux aux fournisseurs de services gérés par des tiers spécialisés.
+- Dans le cadre d'un modèle de services gérés, les entreprises transfèrent le suivi quotidien, l'entretien et l'optimisation de leur environnement technologique à des fournisseurs extérieurs dans le cadre d'accords de services définis, passant des dépenses en capital aux dépenses opérationnelles prévisibles.
+
+## [Un groupe de <b>ransomware</b> affirme avoir volé des données de Berlin et les met aux enchères](https://www.zonebourse.com/actualite-bourse/un-groupe-de-ransomware-affirme-avoir-vole-des-donnees-de-berlin-et-les-met-aux-encheres-ce7858dfd08bf623)  
+*Source : zonebourse.com | Publication : 2026-08-28*
+
+- Le groupe Rhysida, qui, selon les chercheurs, opère depuis la Russie ou l'Europe de l'Est, a affirmé sur son site web avoir dérobé 5,79 téraoctets de données, comprenant 46 500 contrats ainsi que des courriels, des numéros de téléphone, des mots de passe et des informations classifiées.
+- Le groupe a précisé qu'il mettait ces données aux enchères avec un prix de départ de 30 bitcoins (77 622 $) pour une durée d'un peu moins de sept jours, affichant un compte à rebours sur son site.
+- Cette cyberattaque contre le réseau de Berlin survient moins d'un mois avant la tenue des élections dans la ville-État le 20 septembre 2024.
+- Le diffuseur RBB a rapporté jeudi soir que Berlin avait reçu des demandes de rançon d'un montant non spécifié à la suite de l'attaque.
+
+## [État des lieux de la sécurité Microsoft 365 - Solutions-Numeriques](https://www.solutions-numeriques.com/livres-blancs/etat-des-lieux-de-la-securite-microsoft-365/)  
+*Source : solutions-numeriques.com | Publication : 2026-08-28*
+
+- La confiance accordée à Microsoft 365 n’est pas une preuve de contrôle 62 % des responsables affirment que leur posture de sécurité pour Microsoft 365 est mature.
+- Pourtant, ils sont encore 54 % à ne pas avoir mis en place toutes les mesures fondamentales.
+- Les risques viennent de ce décalage.
+- Les comptes privilégiés peuvent rester exposés.
+
+## [La Fondation Eclipse et l'OWASP s'allient pour renforcer la sécurité de l'open source et ...](https://www.ecinews.fr/fr/la-fondation-eclipse-et-lowasp-sallient-pour-renforcer-la-securite-de-lopen-source-et-preparer-lindustrie-au-cyber-resilience-act/)  
+*Source : ecinews.fr | Publication : 2026-08-28*
+
+- La Fondation Eclipse et l’OWASP s’allient pour renforcer la sécurité de l’open source et préparer l’industrie au Cyber Resilience Act La Fondation Eclipse et l’Open Worldwide Application Security Project (OWASP) annoncent un partenariat stratégique visant à améliorer la sécurité des logiciels open source et à accompagner les organisations dans leur préparation à l’entrée en application du Cyber Resilience Act (CRA) de l’Union européenne.
+- Alors que les logiciels open source constituent aujourd’hui une composante essentielle de la quasi-totalité des produits numériques, les nouvelles exigences réglementaires imposent aux entreprises, aux éditeurs et aux mainteneurs de projets de renforcer leurs pratiques en matière de cybersécurité, de gestion des vulnérabilités et de transparence logicielle.
+- Cette collaboration réunit deux acteurs majeurs de l’écosystème afin de proposer des ressources concrètes destinées à faciliter cette transition.
+- Le Cyber Resilience Act transforme les pratiques de développement Les réglementations liées à la cybersécurité prennent une importance croissante dans l’industrie du logiciel.
+
+## [Cyberattaques contre l'État français : Lecornu réclame une unité d'intervention rapide](https://www.france24.com/fr/vidéo/20260828-cyberattaques-contre-l-état-français-lecornu-réclame-une-unité-d-intervention-rapide)  
+*Source : france24.com | Publication : 2026-08-28*
+
+- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
+- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
+
+## [Un investissement du gouvernement fédéral renforce la collaboration et l'innovation en ...](https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/08/un-investissement-du-gouvernement-federal-renforce-la-collaboration-et-linnovation-en-matiere-de-cybersecurite-au-canada-atlantique.html)  
+*Source : canada.ca | Publication : 2026-08-28*
+
+- Un investissement du gouvernement fédéral renforce la collaboration et l’innovation en matière de cybersécurité au Canada atlantique Communiqué de presse Un sommet sur la cybersécurité réunit l’industrie, le gouvernement, le milieu universitaire et les étudiants à Fredericton Le 28 août 2026 · Fredericton (Nouveau-Brunswick) · Agence de promotion économique du Canada atlantique (APECA) La cybersécurité est essentielle à l’économie numérique du Canada, aidant les entreprises, les gouvernements et les communautés à protéger des systèmes essentiels tout en soutenant l’innovation et la croissance.
+- Les investissements dans la recherche et la collaboration en matière de cybersécurité contribuent à renforcer la capacité du Canada à faire face aux menaces émergentes tout en renforçant la main-d’œuvre qualifiée nécessaire pour l’avenir.
+- Aujourd’hui, David Myles, secrétaire parlementaire du premier ministre et député de Fredericton—Oromocto, a annoncé l’appui du gouvernement fédéral à l’Institut canadien sur la cybersécurité (ICC) de l’Université du Nouveau-Brunswick pour organiser le sommet sur la cybersécurité Privacy, Security and Trust (PST) de 2026, qui s’est tenu à Fredericton, le 20 août dernier (50 000 $ non remboursables).
+- Cette contribution a permis aux organisateurs du sommet de réunir des représentants de l’industrie, du gouvernement, du monde universitaire et des étudiants afin de discuter des avancées en matière de recherche sur la cybersécurité, d’intelligence artificielle et d’applications de sécurité.
+
+## [Informatique et <b>cybersécurité</b> : Ancien militaire, Romain se met à son compte - Actu](https://actu.fr/bretagne/plaudren_56157/informatique-et-cybersecurite-ancien-militaire-romain-se-met-a-son-compte_64721460.html)  
+*Source : actu.fr | Publication : 2026-08-28*
+
+- Sur la commune de Plaudren, près de Locminé dans le Morbihan, Romain Pommier se lance à son compte dans un domaine qu’il maîtrise : l’informatique.
+- À 34 ans, cet ancien militaire a décidé d’ouvrir son entreprise, Human Forge 3D, spécialisée en dépannage informatique.
+- Services et cours Parmi les solutions qu’il apporte : dépannage, réparation, installation, configuration, sécurité, optimisation, déploiement de serveur ou de bornes Wifi, paramétrage… À titre d’exemple, il faut compter 50 à 70 € pour un dépannage de PC classique.
+- Il propose également des cours d’informatique pour les particuliers.
+
+## [L'essaim d'agents IA qui a attaqué Hugging Face est un avertissement pour l'avenir](https://www.malwarebytes.com/fr/blog/ai/2026/08/the-ai-agent-swarm-that-attacked-hugging-face-is-a-warning-for-the-future)  
+*Source : malwarebytes.com | Publication : 2026-08-28*
+
+- L'incident de piratage impliquant les agents d'évaluation d'OpenAI et Hugging Face offre un aperçu exceptionnellement concret de ce que peut signifier en pratique une intrusion avancée assistée par l'IA : non pas une simple exploitation astucieuse, mais des milliers de décisions automatisées , des expérimentations rapides, des déplacements latéraux, le vol d'identifiants, la persistance et des tentatives d'échapper à la détection.
+- L'incident OpenAI–Hugging Face a débuté lors d'évaluations internes de cybersécurité réalisées avec ExploitGym, un outil de test conçu pour évaluer la capacité des agents d'IA à identifier et exploiter les vulnérabilités logicielles.
+- OpenAI précise que les agents concernés étaient censés fonctionner dans des environnements de test cloud isolés, sans accès à Internet ni communication entre eux dans la plupart des environnements d'évaluation.
+- Comment les agents ont-ils contourné ces limites ?.
+
+## [Voici comment Surfshark protège votre smartphone des SMS frauduleux (Android ou iOS)](https://www.clubic.com/bons-plans-626992-voici-comment-surfshark-protege-votre-smartphone-des-sms-frauduleux-android-ou-ios.html)  
+*Source : clubic.com | Publication : 2026-08-28*
+
+- La rentrée scolaire 2026 approche, et le risque de recevoir des SMS indésirables augmente en conséquence.
+- Avec votre suite Surfshark One, vous pouvez riposter efficacement dès 2,49 euros par mois.
+- Grâce à lui, une filtration fine des SMS permet de réduire efficacement les prises de contact indésirables à votre égard.
+- Surfshark One est en plus une suite de cybersécurité très complète.
+
+## [Yassine, hacker éthique : &quot;Il y a encore plein de choses à découvrir dans la <b>cybersécurité</b>&quot;](https://www.letudiant.fr/metiers/yassine-hacker-ethique-il-y-a-encore-plein-de-choses-a-decouvrir-dans-la-cybersecurite.html)  
+*Source : letudiant.fr | Publication : 2026-08-28*
+
+- Portrait Yassine, hacker éthique : "Il y a encore plein de choses à découvrir dans la cybersécurité" À 25 ans, Yassine s’est déjà forgé une solide expérience dans le monde de la cybersécurité.
+- Alors que la menace cyber se fait de plus en plus présente, ce jeune ingénieur sécurité traque les vulnérabilités et partage son expertise lors de conférences spécialisées.
+- Par Clément Rocher Publié le 28 août 2026 5 min Article disponible en audio Chargement de votre vidéo.
+- Désactivez votre bloqueur de publicité si celle-ci ne s'affiche pas.
+
+## [OpenAI appelle à renforcer la cyberdéfense face à l'IA - INCYBER NEWS](https://incyber.org/article/openai-appelle-a-renforcer-la-cyberdefense-face-a-lia/)  
+*Source : incyber.org | Publication : 2026-08-28*
+
+- OpenAI appelle à renforcer la cyberdéfense face à l’IA Articles du même auteur : 1 28.08.26 Cybercriminalité Fuite de 464 Go de données chez Actis Location Lire 01.
+- 2 27.08.26 Cybercriminalité TeamPCP démantelé ?.
+- Deux suspects arrêtés en Australie Lire 02.
+- 3 27.08.26 Industrie et OT Dispositifs médicaux : Boston Scientific piraté Lire 02.
+
+## [OpenAI veut fédérer face à la montée des cyberattaques IA - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/openai-veut-federer-lindustrie-face-a-la-montee-des-cyberattaques-dopees-a-lia-228858/amp)  
+*Source : silicon.fr | Publication : 2026-08-28*
+
+- Le timing n’est pas anodin.
+- Le 27 août, OpenAI publie une lettre ouverte appelant à une « action collective en matière de cyberdéfense », signée par plus d’une centaine d’organisations.
+- Parmi elles figurent plusieurs poids lourds de la tech et de la cybersécurité, dont Anthropic, Microsoft, Google, AWS, IBM, Cisco, CrowdStrike ou encore Cloudflare.
+- Le message est simple : les défenseurs doivent accélérer maintenant, avant que l’avantage ne bascule durablement du côté des attaquants.
+
+## [<b>Cybersécurité</b> : l'éducation, cible prioritaire à Paris - Presse Agence](https://presseagence.fr/paris-cybersecurite-leducation-cible-privilegiee-des-ransomwares-via-le-vol-didentites/)  
+*Source : presseagence.fr | Publication : 2026-08-28*
+
+- PARIS : Cybersécurité – L’éducation, cible priv… Partager : PARIS : Cybersécurité – L’éducation, cible privilégiée des ransomwares via le vol d’identités Une nouvelle étude de Sophos révèle que 85 % des cyberattaques contre le secteur de l’éducation exploitent l’identité, avec des coûts de reprise records.
+- Alors que le ministère de l’Éducation nationale a récemment été la cible d’une cyberattaque d’ampleur, le fournisseur de cybersécurité Sophos publie ce jeudi son rapport 2026 sur l’état des ransomwares dans le secteur de l’éducation.
+- Le constat est alarmant : les techniques basées sur l’usurpation d’identité sont désormais le principal vecteur d’attaque, utilisées dans 85 % des cas, un taux supérieur à la moyenne intersectorielle qui s’établit à 79 %.
+- L’étude, menée auprès de 226 responsables informatiques dans 17 pays, souligne que les e-mails malveillants et le hameçonnage (phishing) constituent la porte d’entrée la plus fréquente, tant dans l’enseignement primaire et secondaire (31 %) que supérieur (29 %).
 
 ## [Visa met à jour VVAH et renforce son conseil en <b>cybersécurité</b> pour accélérer la](https://www.abcbourse.com/marches/visa-met-a-jour-vvah-et-renforce-son-conseil-en-cybersecurite-pour-accelerer-la_701735)  
 *Source : abcbourse.com | Publication : 2026-08-28*
