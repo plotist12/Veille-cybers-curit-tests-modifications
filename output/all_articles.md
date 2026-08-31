@@ -1,5 +1,158 @@
-# Résumés – 2026-08-29
+# Résumés – 2026-08-30
 
+
+## [Internet Matters, ce que c'est et comment l'utiliser pour protéger ses enfants en ligne](https://pasqualepillitteri.it/fr/news/13558/internet-matters-guide-securite-enfants-en-ligne)  
+*Source : pasqualepillitteri.it | Publication : 2026-08-30*
+
+- Internet Matters, ce que c'est et comment l'utiliser pour protéger ses enfants en ligne Internet Matters est le guide gratuit de la sécurité des enfants en ligne.
+- Ce que c'est, qui le finance et ce que ses données disent des chatbots IA.
+- 1.Ce qu'est Internet Matters et qui la finance - 2.Ce que tu trouves sur le site d'Internet Matters - 3.Ce que disent ses données sur les enfants et les chatbots IA - 4.Comment configurer les contrôles parentaux étape par étape - Bloque les contenus au niveau du réseau domestique - Configure les contrôles sur le système d'exploitation de l'appareil - Règle les applications une par une - Contrôle le réseau mobile du smartphone - 5.Les limites d'Internet Matters et comment bien l'utiliser - 6.À retenir - 7.Questions fréquentes - 8.Conclusion - 9.Notez cet article - 10.Articles Connexes - 11.Recherchez-vous un Ingénieur Logiciel?.
+- - Internet Matters est une organisation britannique à but non lucratif, née en 2014, qui offre gratuitement aux parents et aux enseignants des guides et des outils pour la sécurité en ligne des mineurs.
+
+## [Après les impôts, un autre site du gouvernement victime d'un piratage massif](https://www.femmeactuelle.fr/actu/news-actu/les-hackers-derriere-l-attaque-du-site-des-impots-revendiquent-le-piratage-d-un-site-du-ministere-de-la-ville-et-du-logement-2211041)  
+*Source : femmeactuelle.fr | Publication : 2026-08-30*
+
+- Nouvelle cyberattaque visant un ministère.
+- Ce dimanche 30 août, le site Zéro logement vacant, affilié au ministère de la Ville et du Logement, est inaccessible.
+- La raison ?.
+- Une cyberattaque massive, et une fuite de près d’un million de données hébergées sur la plateforme par les mêmes hackers qui ont déjà visé le site du fisc, d’après le site spécialisé French Breaches cité par Le Parisien.
+
+## [Épinal. Un hackeur revendique une cyberattaque visant les sapeurs-pompiers des Vosges](https://www.vosgesmatin.fr/faits-divers-justice/2026/08/30/un-hackeur-revendique-une-cyberattaque-du-service-departemental-d-incendie-et-de-secours-des-vosges)  
+*Source : vosgesmatin.fr | Publication : 2026-08-30*
+
+- Épinal Un hackeur revendique une cyberattaque visant les sapeurs-pompiers des Vosges Comme d’autres services départementaux d’incendie et de secours, le Sdis des Vosges semble avoir été victime d’une cyberattaque dans la nuit de samedi à dimanche.
+- Un hackeur, utilisant le pseudo ChimeraZ, a revendiqué les faits sur un forum au petit matin.
+- Dans le.
+
+## [Alerte Anthropic, un infostealer vole les sessions Claude, cartes bancaires supprimées](https://pasqualepillitteri.it/fr/news/13418/anthropic-deconnecte-utilisateurs-claude-vol-sessions-infostealer)  
+*Source : pasqualepillitteri.it | Publication : 2026-08-30*
+
+- Alerte Anthropic, un infostealer vole les sessions Claude, cartes bancaires supprimées Anthropic a déconnecté les utilisateurs de Claude et supprimé la carte enregistrée après qu'un malware infostealer a volé leurs sessions de connexion.
+- Que faire.
+- 1.Pourquoi voler la session suffit à entrer sans le mot de passe - 2.Les six familles d'infostealers impliquées - 3.Ce qu'Anthropic a fait et pourquoi - 4.Le malware ne vient pas de Claude - 5.Que faire si vous avez reçu la notification - 6.Un problème qui concerne tous les abonnements, pas seulement Claude - 7.Questions fréquentes (FAQ) - 8.Le point - 9.Notez cet article - 10.Articles Connexes - 11.Recherchez-vous un Ingénieur Logiciel?.
+- - Anthropic a déconnecté une partie de ses utilisateurs de Claude et a supprimé la carte de paiement enregistrée sur leur compte.
+
+## [« Le principe est le même que dans le Far West » : les « hackers éthiques » - Challenges](https://www.challenges.fr/la-verticale-cyber/le-principe-est-le-meme-que-dans-le-far-west-les-hackers-ethiques-ces-gentils-pirates-qui-traquent-les-failles-de-cybersecurite_645386)  
+*Source : challenges.fr | Publication : 2026-08-30*
+
+- « Le principe est le même que dans le Far West » : les « hackers éthiques », ces gentils pirates qui traquent les failles de cybersécurité Face aux fuites de données qui ont touché la direction générale des finances publiques, le ministre David Amiel a notamment annoncé un programme de détection des failles de cybersécurité.
+- De quoi faire appel à des « hackers éthiques », métier que Clément Domingo a présenté à Challenges.
+- Ministère de l’Intérieur, Fichier national des comptes bancaires (FICOBA), direction générale des finances publiques (DGFIP) : depuis fin 2025, les fuites s’accumulent par dizaines au sommet de l’État.
+- Une hémorragie qui semble inarrêtable : le groupe de cybercriminels à l’origine de la fuite à la DGFIP à la mi-août a également revendiqué l’extraction de millions de données de personnels et d’élèves de l’Éducation nationale dans la foulée. «.
+
+## [Palo Alto Networks. Le géant de la cyber est la plus importante firme cotée à la bourse de Tel-Aviv.](https://israelvalley.com/2026/08/30/palo-alto-networks-le-geant-de-la-cyber-est-la-plus-importante-firme-cotee-a-la-bourse-de-tel-aviv/)  
+*Source : israelvalley.com | Publication : 2026-08-30*
+
+- Aura profite d’un succès immobilier Le promoteur israélien Aura a vu son action bondir de près de 9 % après la publication de ses résultats.
+- L’entreprise a vendu environ 720 logements depuis le début de l’année, malgré le ralentissement du marché immobilier.
+- Aura a notamment réservé 385 appartements en cinq jours dans le cadre d’une opération destinée aux membres de « Hever », l’organisation regroupant notamment les militaires de carrière.
+- La valeur totale de ces logements dépasse un milliard de shekels.
+
+## [Cyberattaque : le site « Zéro logement vacant » du ministère du Logement inaccessible ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-le-site-zero-logement-vacant-du-ministere-du-logement-inaccessible-apres-une-revendication-de-piratage-massif-par-le-groupe-zerobytes-30420474.php)  
+*Source : sudouest.fr | Publication : 2026-08-30*
+
+- Le portail numérique dédié à la lutte contre les logements vacants est hors ligne après une revendication de cyberattaque par le groupe ZeroBytes Le site « Zéro logement vacant », rattaché au ministère de la Ville et du Logement, était inaccessible dimanche après la revendication par les pirates du fisc d’une cyberattaque massive de données hébergées sur la plateforme, révélée par le site spécialisé French Breaches.
+- Sollicité, le ministère n’a pas souhaité communiquer à ce stade.
+
+## [Les géants de la Tech alertent solennellement contre le risque pressant de cyber attaques ...](https://atlantico.fr/article/decryptage/les-geants-de-la-tech-alertent-solennellement-contre-le-risque-pressant-de-cyber-attaques-boostees-a-lia-mais-qui-les-entend-ici-Benoit-Grunemwald-Vincent-Susplugas)  
+*Source : atlantico.fr | Publication : 2026-08-30*
+
+- 30 août 2026 Les géants de la Tech alertent solennellement contre le risque pressant de cyber attaques boostées à l’IA mais qui les entend ici ?.
+- Les cybercriminels peuvent désormais s’appuyer sur des IA pour automatiser la reconnaissance, l'hameçonnage et l'exploitation de vulnérabilités.
+- Face à cette accélération, les géants de la Tech appellent à renforcer d’urgence les défenses.
+- Mais les États, les infrastructures critiques et les entreprises sont-ils réellement prêts à suivre le rythme ?.
+
+## [1 200 agents IA ont formé un essaim rebelle… et ont tenté de le dissimuler - Notebookcheck](https://www.notebookcheck.biz/1-200-agents-IA-ont-forme-un-essaim-rebelle-et-ont-tente-de-le-dissimuler.1383254.0.html)  
+*Source : notebookcheck.biz | Publication : 2026-08-30*
+
+- 1 200 agents IA ont formé un essaim rebelle… et ont tenté de le dissimuler Selon de nouvelles enquêtes menées par OpenAI et des chercheurs indépendants, environ 1 200 agents d’IA se sont soudainement regroupés lors d’une expérience d’OpenAI, créant leur propre organisation et leur propre réseau de communication, partageant des informations et lançant finalement une attaque contre Hugging Face.
+- Les agents ont également pris conscience que certaines de leurs actions enfreignaient les règles et, dans certains cas, ont tenté de dissimuler leurs agissements.
+- L’épisode a débuté lorsque OpenAI a déployé des dizaines de milliers d’agents pour travailler sur un test complexe de cybersécurité.
+- Au lieu de se contenter de travailler de manière indépendante, environ 1 200 agents ont découvert un forum secret et ont échangé plus de 70 000 messages et fichiers.
+
+## [Des acteurs de l'IA appellent à une réponse mondiale aux cyberattaques - Image - CB News](https://www.cbnews.fr/digital/acteurs-ia-appellent-reponse-mondiale-aux-cyberattaques)  
+*Source : cbnews.fr | Publication : 2026-08-30*
+
+- Des acteurs de l’IA appellent à une réponse mondiale aux cyberattaques OpenAI, avec plus d’une centaine d’entreprises, tire la sonnette d’alarme face à la progression des cyberattaques utilisant l’intelligence artificielle.
+- Dans une lettre ouverte intitulée « A call for collective action on cyber defense », l’entreprise estime que le monde ne dispose plus que d’une « fenêtre limitée » pour renforcer ses cyberdéfenses.
+- Dans les prochains mois, prévient le texte, les attaques assistées par l’IA devraient devenir « beaucoup plus répandues et sophistiquées » à mesure que les capacités des modèles progressent.
+- Les hôpitaux, installations de traitement de l’eau ou encore infrastructures permettant le fonctionnement d’Internet figurent parmi les services considérés comme particulièrement exposés.
+
+## [Le risque des bornes de recharge électrique mal sécurisées face au piratage de données](https://soirmag.lesoir.be/767924/article/2026-08-30/le-risque-des-bornes-de-recharge-electrique-mal-securisees-face-au-piratage-de)  
+*Source : soirmag.lesoir.be | Publication : 2026-08-30*
+
+- Un piratage d'un nouveau genre vient d'être découvert par Flare, une société spécialisée dans la cybersécurité.
+- Durant cet été, ses chercheurs ont.
+
+## [Fuite de données CarteDePeche.fr : les données personnelles d'adhérents... - FrenchBreaches](https://frenchbreaches.com/alertes/carte-de-p-che-mtfr2p7gwirp63lb8q)  
+*Source : frenchbreaches.com | Publication : 2026-08-30*
+
+- ## CarteDePeche.fr : une nouvelle fuite de données revendiquée Une nouvelle fuite de données visant CarteDePeche.fr est revendiquée sur un forum cybercriminel.
+- Dans une publication datée du 30 août 2026, un acteur utilisant le pseudonyme Alduin affirme avoir récupéré des données concernant les adhérents et les dépositaires de la plateforme.
+- Cette revendication intervient après deux incidents de cybersécurité déjà documentés, en septembre 2022 et décembre 2025.
+- À ce stade, rien ne permet toutefois de confirmer qu’il s’agit d’une nouvelle intrusion indépendante.
+
+## [«Si l'on ne revoit pas le paysage informatique Français, il faut s'attendre à une augmentation ...](https://www.facebook.com/CNEWSofficiel/videos/laurent-maréchal-il-faut-sattendre-à-une-augmentation-des-cyberattaques/4530447557275812/)  
+*Source : facebook.com | Publication : 2026-08-30*
+
+- des attaques», explique Laurent Maréchal, expert en cybersécurité , dans #100Actu Toute l'info est à retrouver sur cnews.fr.
+- 󰍸 29 · 󰍹 10 · 󰤧 4.
+
+## [Les premiers rendus de mozaik-alpha-fdm, le checkpoint Astra d'OpenAI, ont fuité](https://pasqualepillitteri.it/fr/news/13446/mozaik-alpha-fdm-premiers-rendus-astra)  
+*Source : pasqualepillitteri.it | Publication : 2026-08-30*
+
+- Les premiers rendus de mozaik-alpha-fdm, le checkpoint Astra d'OpenAI, ont fuité OpenAI, les premiers rendus de mozaik-alpha-fdm ont fuité.
+- Un jeu façon GTA 2 et des sites web générés du premier coup en Max effort, mais le modèle Astra reste non officiel et sans date.
+- 1.Qu'est-ce que mozaik-alpha-fdm - 2.Le mode Max effort et l'écart avec GPT-5.6 Sol - 3.Qu'est-ce qu'Astra et pourquoi ce nom compte - 4.L'ombre de la pause sur la sécurité cyber - 5.Ce que vaut vraiment une telle fuite - 6.Questions fréquentes - 7.Conclusion - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+- - Les premiers résultats publics de mozaik-alpha-fdm sont apparus, le nom de code qui, selon les rumeurs, désigne un checkpoint interne d'Astra, le prochain grand modèle d'OpenAI.
+
+## [Exercice de prévention des incidents de <b>cybersécurité</b> - Vietnam.vn](https://www.vietnam.vn/fr/dien-tap-phong-ngua-su-co-an-ninh-mang)  
+*Source : vietnam.vn | Publication : 2026-08-30*
+
+- Ont participé au programme des dirigeants, des fonctionnaires, des membres du Parti, des agents de la fonction publique et des employés du secteur public chargés de la protection des secrets d'État, de la gestion des documents, de l'archivage et des technologies de l'information au sein des agences du Parti et du gouvernement, du Front de la Patrie, des unités et des écoles de la région ; des commandants, des officiers et des soldats de la police communale, du commandement militaire communal, ainsi que des secrétaires de section du Parti et des chefs de village.
+- Exercice de prévention des incidents de cybersécurité ANTD.VN - Le département de la cybersécurité et de la prévention de la criminalité de haute technologie de la police de la ville de Hanoï a récemment collaboré avec les communes de Hong Son et Phuc Son pour mener des formations et des exercices sur la prévention et la lutte contre les cyberattaques, et pour diffuser des informations sur les méthodes et les astuces utilisées dans la fraude en ligne et le vol de biens.
+- Lors de la conférence, des intervenants du Département de la cybersécurité et de la prévention de la criminalité de haute technologie ont présenté les points clés de la loi de 2025 sur la cybersécurité et les nouveaux documents connexes, ainsi que les responsabilités des agences, des organisations et des individus en matière de cybersécurité, de sécurité de l'information et de protection des secrets d'État dans le cyberespace.
+- En outre, les délégués ont été formés à l'identification des risques liés à la sécurité de l'information lors de l'utilisation d'équipements et de systèmes informatiques ; aux méthodes et tactiques courantes de fraude et de vol de biens dans le cyberespace, ce qui a permis d'améliorer leur sensibilisation et leurs compétences en matière de prévention proactive.
+
+## [Rentrée scolaire 2026 : des milliers de cyberattaques frappent les écoles, les lycées et les ...](https://www.01net.com/actualites/rentree-scolaire-2026-milliers-cyberattaques-frappent-ecoles-lycees-universites.html)  
+*Source : 01net.com | Publication : 2026-08-30*
+
+- C’est reparti pour une nouvelle année scolaire.
+- Dès le mardi 1ᵉʳ septembre 2026, la grande majorité des élèves français, qu’ils soient en maternelle, en primaire, au collège ou au lycée, va reprendre le chemin de l’école.
+- Côté enseignants, la pré-rentrée a lieu la veille, le lundi 31 août, pour préparer l’accueil des élèves.
+- À lire aussi : Plus de 700 000 IBAN piratés – une seconde mutuelle victime d’une fuite massive de données en France L’école, une cible de choix pour les hackers Alors que la rentrée approche, les chercheurs de Check Point Research rappellent que le monde de l’éducation reste l’une des cibles privilégiées des pirates.
+
+## [Usines, nucléaire, IA : SOS, la France manque d'ingénieurs - l'Opinion](https://www.lopinion.fr/economie/usines-nucleaire-ia-sos-la-france-manque-dingenieurs)  
+*Source : lopinion.fr | Publication : 2026-08-30*
+
+- Usines, nucléaire, IA : SOS, la France manque d’ingénieurs Un scénario de réindustrialisation de la France atteignant 12 % du PIB d’ici à 2035 impliquerait la formation de 28 000 ingénieurs et 29 000 techniciens supplémentaires par an.
+- La tendance est pourtant inverse.
+- Cette année encore, le nombre d’étudiants inscrits en école d’ingénieurs est en recul.
+- En cette rentrée scolaire et politique, un point commun se dégage chez les candidats à la présidentielle : tous appellent à renouer avec une France technologique et souveraine.
+
+## [Mozilla Thundermail : &quot;un équilibre entre confidentialité totale sans confort, et confort total ... - Clubic](https://www.clubic.com/dossier-626974-thunderbird-un-equilibre-entre-confidentialite-totale-sans-confort-et-confort-total-sans-confidentialite---interview.html)  
+*Source : clubic.com | Publication : 2026-08-30*
+
+- A-t-on encore besoin d'une nouvelle messagerie ?.
+- Pour Mozilla, il y a sans doute une place à prendre et Thundermail est actuellement en version alpha.
+- Ryan Sipes, PDG de MZLA Technologies, a répondu à nos questions sur les choix stratégiques et techniques de ce service.
+- Ryan Sipes dirige MZLA Technologies, la filiale de Mozilla derrière Thunderbird, depuis 2017, d'abord comme directeur produit puis désormais comme PDG.
+
+## [Conditions d'exercice d'une activité commerciale dans le secteur des produits et services de ...](https://www.vietnam.vn/fr/dieu-kien-ve-kinh-doanh-san-pham-dich-vu-an-ninh-mang)  
+*Source : vietnam.vn | Publication : 2026-08-30*
+
+- Conformément au décret, les organisations et entreprises commercialisant des produits et services de cybersécurité obtiennent une licence pour exercer ces activités lorsqu'elles remplissent les conditions suivantes : Conditions d'exercice d'une activité commerciale dans le secteur des produits et services de cybersécurité.
+- Le gouvernement a publié le décret n° 332/2026/ND-CP réglementant les activités commerciales liées aux produits et services de cybersécurité.
+- Ce décret précise les conditions d’exercice de ces activités.
+- L’entreprise doit être constituée conformément à la législation vietnamienne et ne doit enfreindre aucune réglementation relative aux activités liées aux produits et services de cybersécurité.
+
+## [Rencontre des entrepreneurs de France : l'absence de débats sur le numérique, le cyber ou ...](https://www.europe1.fr/economie/rencontre-des-entrepreneurs-de-france-labsence-de-debats-sur-le-numerique-le-cyber-ou-lia-inquiete-les-patrons-1043021)  
+*Source : europe1.fr | Publication : 2026-08-30*
+
+- Alors que la campagne présidentielle débute à peine, les chefs d’entreprise veulent déjà entendre davantage les candidats sur le numérique.
+- À la Rencontre des Entrepreneurs, l’intelligence artificielle et la cybersécurité sont apparues comme des enjeux majeurs de compétitivité et de souveraineté.
+- La Rencontre des entrepreneurs a marqué la rentrée économique de cette semaine, mais aussi la rentrée politique, avec ce grand débat entre sept principaux candidats à la présidentielle, à Roland-Garros, devant des milliers de chefs d'entreprise.
+- Beaucoup restent sur leur faim à propos de sujets autour du numérique, de l'IA et de la cybersécurité, qui sont pour eux à la fois des leviers de croissance et des enjeux de souveraineté.
 
 ## [Tarnos : une rançon réclamée à la mairie pour récupérer ses données sensibles](https://www.cyberattaque.org/mairie-tarnos-rancon-cyberattaque/)  
 *Source : cyberattaque.org | Publication : 2026-08-29*
