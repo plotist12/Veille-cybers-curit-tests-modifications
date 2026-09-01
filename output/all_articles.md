@@ -1,5 +1,142 @@
-# Résumés – 2026-08-30
+# Résumés – 2026-08-31
 
+
+## [3 cyber-risques majeurs, 1 dénominateur commun : l'humain - infoDSI](https://infodsi.com/articles/210768/3-cyber-risques-majeurs-1-denominateur-commun-lhumain.html)  
+*Source : infodsi.com | Publication : 2026-08-31*
+
+- Veuillez activer Javascript.
+
+## [L'homme et l'outil - Le 1 hebdo](https://le1hebdo.fr/amp/journal/ia-a-t-on-perdu-le-controle/607/article/l-homme-et-l-outil-8130.html)  
+*Source : le1hebdo.fr | Publication : 2026-08-31*
+
+- Le 26 août dernier, le géant de l’intelligence artificielle OpenAI, à l’origine de ChatGPT, dévoilait son rapport sur l’une des prouesses les plus spectaculaires réalisées par l’IA : à la mi-juillet, près de 700 agents ont coopéré, sans aucune intervention humaine, pour réussir à passer un test de cybersécurité a priori insoluble.
+- Il leur a fallu pour cela trouver une façon dérobée d’accéder à Internet et de pénétrer les serveurs d’Hugging Face, une bibliothèque de modèles IA, pour y chercher la solution au problème posé.
+- La description de l’attaque, révélée par une enquête indépendante, est encore plus vertigineuse : pour se coordonner, l’un de ces modèles indépendants a compris qu’il pouvait créer des répertoires et utiliser leurs noms pour laisser des messages aux autres agents, générant ainsi une sorte de « forum » non autorisé.
+- Partant de là, ce modèle, qui s’est lui-même baptisé PHASEONE(big), s’est improvisé donneur d’ordres, adressant ses consignes à des centaines d’autres, prêts à se sacrifier pour le collectif, avec une efficacité inattendue – le tout en maquillant leurs traces pendant plusieurs jours pour ne pas révéler la tricherie.
+
+## [Tenable Holdings rejoint le Project Watershed pour renforcer la <b>cybersécurité</b> des réseaux d ...](https://www.zonebourse.com/actualite-bourse/tenable-holdings-rejoint-le-project-watershed-pour-renforcer-la-cybersecurite-des-reseaux-d-eau-aux-ce7858ddd881f52d)  
+*Source : zonebourse.com | Publication : 2026-08-31*
+
+- Tenable Holdings a rejoint le Project Watershed, une initiative pilotée par la Maison Blanche visant à protéger les systèmes de distribution d&#039;eau et de traitement des eaux usées aux États-Unis contre les cybermenaces.
+- Le Project Watershed met en relation les services publics des eaux participants avec des capacités et une expertise en cybersécurité afin de faciliter l&#039;identification et la résolution des vulnérabilités.
+- Cette initiative rassemble des dirigeants fédéraux et étatiques ainsi que des partenaires du secteur privé, s&#039;inscrivant dans la stratégie plus large de l&#039;administration américaine pour protéger les infrastructures critiques et aider les exploitants à empêcher les cybermenaces de perturber les services essentiels.Cet effort intervient à un moment crucial pour le secteur de l&#039;eau, après une série de cyberattaques ayant touché des réseaux d&#039;eau et d&#039;assainissement dans plusieurs États.
+- Les services publics des eaux sont confrontés à des défis spécifiques dans la gestion de ce risque.
+
+## [Détecter les deepfakes IA : un impératif stratégique pour les entreprises&amp;nbsp - ITRnews](https://itrnews.com/articles/210758/detecter-les-deepfakes-ia-un-imperatif-strategique-pour-les-entreprisesnbsp.html)  
+*Source : itrnews.com | Publication : 2026-08-31*
+
+- Veuillez activer Javascript.
+
+## [Cognizant et CrowdStrike renforcent leur partenariat en <b>cybersécurité</b> pour les opérations ...](https://www.zonebourse.com/actualite-bourse/cognizant-et-crowdstrike-renforcent-leur-partenariat-en-cybersecurite-pour-les-operations-industriel-ce7858dcd18ff225)  
+*Source : zonebourse.com | Publication : 2026-08-31*
+
+- Cognizant et CrowdStrike renforcent leur partenariat en cybersécurité pour les opérations industriellesCognizant Technology Solutions et CrowdStrike ont annoncé lundi une extension de leur collaboration visant à lancer un service de sécurité des technologies opérationnelles s'appuyant sur la.
+
+## [La censure plane au-dessus de la préparation du budget 2027 - Les Echos](https://www.lesechos.fr/politique-societe/gouvernement/la-censure-plane-au-dessus-de-la-preparation-du-budget-2027-2249033)  
+*Source : lesechos.fr | Publication : 2026-08-31*
+
+- Le Premier ministre a réuni son gouvernement en séminaire de rentrée.
+- Au menu, la cybersécurité et le budget, plus que jamais sous la menace d'une.
+
+## [L'intelligence collective des agents IA | LeMagIT](https://www.lemagit.fr/actualites/366649623/Lintelligence-collective-des-agents-IA)  
+*Source : lemagit.fr | Publication : 2026-08-31*
+
+- Priya - stock.adobe.com L'intelligence collective des agents IA L'incident OpenAI/Hugging Face dévoilé en juillet révèle une capacité de coordination et de persistance sans précédent chez les agents IA, menant à des exploitations complexes sur des infrastructures tierces.
+- L'incident a été dévoilé en juillet : un agent d’IA a conduit une cyberattaque contre Hugging Face.
+- Il était animé par des modèles d’OpenAI en phase de… test, dans un bac à sable, dont, bon élève, il est sorti.
+- Avec du recul, cet incident a mis en lumière une capacité de coordination et de persistance sans précédent chez les agents IA, qui ont dépassé leur isolation initiale pour former un collectif actif.
+
+## [Plus de 100 géants de la tech lancent un avertissement inquiétant sur les cyberattaques ...](https://siecledigital.fr/2026/08/31/plus-de-100-geants-de-la-tech-lancent-un-avertissement-inquietant-sur-les-cyberattaques-dopees-a-lia/)  
+*Source : siecledigital.fr | Publication : 2026-08-31*
+
+- Les intelligences artificielles pourraient augmenter la fréquence mais surtout l’efficacité des cyberattaques.
+- De quoi pousser les géants de la tech, dont Google et OpenAI, à tirer la sonnette d’alarme.
+- Plus de 100 entreprises alertent sur le danger des cyberattaques Le risque de voir les cyberattaques dopées à l’IA se multiplier devient de plus en plus grand.
+- De quoi pousser une centaine d’entreprises technologiques à se rassembler pour lancer un avertissement commun.
+
+## [Le député Philippe Latombe demande la création d'une commission d'enquête sur les ... - AEF info](https://www.aefinfo.fr/depeche/755860)  
+*Source : aefinfo.fr | Publication : 2026-08-31*
+
+- Création de boucles WhatsApp, inscriptions des élèves sur papier, décalage du 3e tour d'affectation : la préparation de la rentrée reste compliquée dans les académies de Nantes et Toulouse, plusieurs sem La section cyber du parquet de Paris "a décidé de nommer un référent mineurs" pour mieux prendre en compte la jeunesse des mis en cause dans les dossiers de vols de données, déclare sa cheffe, la vice-procur Le président de la commission des finances de l'Assemblée nationale, le député LFI de Seine-Saint-Denis Éric Coquerel, a adressé mercredi 19 août 2026 un courrier au ministre de l'Action et des Compt Alors que plusieurs administrations font face à d'importantes fuites de données, le Premier ministre demande au secrétaire général de la défense et de la sécurité nationale "de constituer une équipe de c.
+
+## [Vol de données numériques chez les pompiers :&quot;on est plus dans le registre ... - France 3 Régions](https://france3-regions.franceinfo.fr/grand-est/vosges/epinal/vol-de-donnees-numeriques-chez-les-pompiers-on-est-plus-dans-le-registre-politique-analyse-cette-specialiste-en-cybercriminalite-3408908.html)  
+*Source : france3-regions.franceinfo.fr | Publication : 2026-08-31*
+
+- Selon Vosges Matin, les services départementaux d'incendie et de secours des Vosges et de la Moselle ont été victimes d'une cyberattaque et de vol de données.
+- Nous avons interrogé la professeure Yamina Tadjeddine, spécialiste en économie de la cybercriminalité afin de mesurer le poids de cette économie criminelle structurée Selon nos confrères de Vosges Matin, les services départementaux d'incendie et de secours (SDIS) des Vosges et de la Moselle auraient été victimes d'une cyberattaque dans la nuit de samedi 29 au dimanche 30 août 2026.
+- Ces deux actions de piratage non confirmées par les responsables des SDIS, auraient été revendiquées par un hackeur sur un forum.
+- Les données seraient en accès libre et gratuit sur le darknet Cette actualité même si elle n'est pas de même ampleur, rejoint les actions de piratages plus spectaculaires comme le vol des données de 680 000 contribuables et entreprises après l'intrusion de pirates dans les serveurs du fisc et de celles d'un million de clients dans le fichier national des comptes bancaires (FICOBA) en mars 2026.
+
+## [Google revoit ses règles anti-spam en Europe pour éviter la sanction - L'Informaticien](https://www.linformaticien.com/magazine/biz-it/959-antitrust/65181-google-revoit-ses-regles-anti-spam-en-europe-pour-eviter-la-sanction.html)  
+*Source : linformaticien.com | Publication : 2026-08-31*
+
+- Cybersécurité · Devops · Débats · Technologie · Solutions · Logiciel · Info ... Ransomware : les jours d'après · Antitrust · Google revoit ses règles.
+
+## [Budget 2027, <b>cybersécurité</b> : Sébastien Lecornu réunit ses ministres pour préparer ... - Radio France](https://www.radiofrance.fr/franceinfo/podcasts/le-journal-de-17h00/budget-2027-cybersecurite-sebastien-lecornu-reunit-ses-ministres-pour-preparer-une-rentree-sous-tension-6004020)  
+*Source : radiofrance.fr | Publication : 2026-08-31*
+
+- Sébastien Lecornu réunit ses ministres pour préparer une rentrée politique sous haute tension, entre un budget 2027 qui s’annonce particulièrement difficile et le renforcement de la cybersécurité de l’État.
+- De son côté, le RN envisage un référendum pour interdire le voile dans l’espace public.
+- Sébastien Lecornu a tenu à rassembler l'ensemble de ses ministres pour lancer les grands dossiers de l'automne et pour mettre ses troupes en ordre de marche vers un budget 2027 aux airs de mission impossible à huit mois de la présidentielle, et demander d'accélérer la sécurisation cyber de l'Etat après les piratages de l'été.
+- Publicité Voile dans l’espace public : le RN envisage un référendum pour l’interdire Le RN envisage de consulter les Français par référendum pour interdire le voile dans l'espace public.
+
+## [Victime d'un rançongiciel, son assurance refuse de payer, la justice tranche un litige de ... - Clubic](https://www.clubic.com/actualite-627376-victime-d-un-rancongiciel-son-assurance-refuse-de-payer-la-justice-tranche-un-litige-de-cyber-risque-d-entreprise.html)  
+*Source : clubic.com | Publication : 2026-08-31*
+
+- Un éditeur de logiciels français, victime d'un ransomware, réclamait la garantie de son assureur pour indemniser ses clients.
+- Le tribunal judiciaire de Lyon a rendu sa décision le 20 août, riche d'enseignements pour les professionnels de la cybersécurité.
+- C'est une affaire mêlant rançongiciel, exclusion de garantie et responsabilité civile professionnelle, sur fond d'assurance donc, que le tribunal judiciaire de Lyon a dû étudier pour rendre sa décision du 20 août 2026.
+- En juin 2021, les serveurs d'un éditeur de logiciels de gestion furent paralysés par une attaque informatique ayant provoqué la perte de données chez quatorze de ses clients.
+
+## [Les valeurs du secteur des logiciels devraient enregistrer leur plus forte hausse sur deux ...](https://www.boursorama.com/bourse/actualites-amp/les-valeurs-du-secteur-des-logiciels-devraient-enregistrer-leur-plus-forte-hausse-sur-deux-mois-depuis-novembre-2002-d62313cb09694f5472966fcebb70b042)  
+*Source : boursorama.com | Publication : 2026-08-31*
+
+- Les valeurs du secteur des logiciels devraient enregistrer leur plus forte hausse sur deux mois depuis novembre 2002 information fournie par Reuters 31/08/2026 à 16:40 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) 31 août - ** L'indice S&P 1500 Software & Services .SPLRCIS s'apprête à enregistrer sa plus forte hausse sur deux mois depuis novembre 2002, reflétant le rebond d'un secteur auparavant considéré comme vulnérable aux bouleversements liés à l'IA ** Le SPLRCIS a progressé de près de 13% ce mois-ci et, si l’on ajoute les gains enregistrés en juillet, l’indice affiche une hausse de près de 28%; les solides résultats trimestriels publiés le mois dernier par Microsoft MSFT.O ont apaisé les craintes d’une disruption imminente liée à l’IA ** Reflétant une rotation plus générale des fabricants de matériel informatique vers les éditeurs de logiciels, l’indice Philadelphia SE Semiconductor .SOX a progressé de 1,8% en août ** Selon la société d’analyse de données S3 Research, la remontée du secteur des logiciels est également alimentée par les fonds spéculatifs qui couvrent leurs positions courtes dans ce secteur, tandis que l’actionnariat actif a atteint son plus haut niveau depuis 12 mois ** Les valeurs de la cybersécurité figurent parmi les plus fortes hausses après l’intrusion d’un agent d’OpenAI dans les systèmes de Hugging Face le mois dernier, ainsi que les prévisions optimistes de CrowdStrike CRWD.O ** “L’IA agentique a élargi la surface d’attaque plus rapidement que les entreprises ne peuvent la défendre, et les budgets de sécurité sont élaborés pour combler ce fossé,” explique Yardeni Research ** Les actions de Palo Alto PANW.O et de Fortinet FTNT.O ont plus que doublé depuis le début de l’année, tandis que celles de CrowdStrike ont progressé de 93% cette année ** Les fonds indiciels consacrés à la cybersécurité de Global X BUG.O et First Trust CIBR.O ont progressé respectivement de 13% et 7% en août.
+
+## [Le paradoxe du natif numérique : pourquoi la génération Z est la plus vulnérable aux ...](https://www.journaldunet.com/cybersecurite/1554135-le-paradoxe-du-natif-numerique-pourquoi-la-generation-z-est-la-plus-vulnerable-aux-attaques-de-phishing/)  
+*Source : journaldunet.com | Publication : 2026-08-31*
+
+- Le paradoxe du natif numérique : pourquoi la génération Z est la plus vulnérable aux attaques de phishing Plus exposée au phishing que les seniors, la Gen Z pousse les entreprises à adopter des solutions d'authentification physiques.
+- Pendant longtemps, le consensus dominant en cybersécurité a été relativement simple : les générations plus âgées, moins familières avec l'évolution rapide de la technologie numérique, sont les plus vulnérables aux arnaques en ligne.
+- Les "enfants du numérique", des personnes ayant grandi avec un smartphone en main, étaient considérés comme immunisés face aux cybermenaces grâce à leur familiarité avec la technologie.
+- Pourtant, le baromètre sur la perception cyber des internautes, publié par cybermalveillance.gouv.fr, révèle un paradoxe surprenant qui remet en cause cette hypothèse.
+
+## [Facturation électronique, ce qui change concrètement pour les entreprises dès le 1er septembre](https://www.solutions-numeriques.com/facturation-electronique-ce-qui-change-concretement-pour-les-entreprises-des-le-1er-septembre/)  
+*Source : solutions-numeriques.com | Publication : 2026-08-31*
+
+- La réforme de la facturation électronique entre mardi 1er septembre dans sa première phase opérationnelle.
+- Toutes les entreprises assujetties à la TVA doivent désormais pouvoir recevoir des factures électroniques, y compris les TPE, micro-entreprises et structures en franchise de TVA.
+- L’obligation d’émission concerne pour l’instant les grandes entreprises et les ETI.
+- Voici ce qui change réellement dès demain.
+
+## [Si votre téléphone affiche soudainement « Pas de réseau », votre compte bancaire pourrait ...](https://siecledigital.fr/2026/08/31/si-votre-telephone-affiche-soudainement-pas-de-reseau-votre-compte-bancaire-pourrait-etre-en-danger/)  
+*Source : siecledigital.fr | Publication : 2026-08-31*
+
+- Lorsque vous n’avez plus de réseau, vous redémarrez votre mobile ou alors vous vérifiez la couverture.
+- Si cela peut être banal en apparence, ce n’est pas vraiment le cas.
+- Les forces de l’ordre nous alertent concernant un phénomène baptisé le SIM swapping.
+- Cette fraude consiste à obtenir le contrôle du numéro de téléphone.
+
+## [[Événement] Les petits déjeuners de la rédaction : l'édition de la rentrée !](https://www.solutions-numeriques.com/evenement-les-petits-dejeuners-de-la-redaction-edition-de-la-rentree/)  
+*Source : solutions-numeriques.com | Publication : 2026-08-31*
+
+- Solutions Numériques & Cybersécurité, en partenariat avec Euro Cyber Group (ECG), organise une nouvelle édition des Petits Déjeuners de la rédaction pour la rentrée, le jeudi 24 septembre, à Paris.
+- À l’occasion de la sortie de notre nouveau numéro Confiance : qui tient les clés ?, la rédaction réunira deux experts pour prolonger l’expérience du magazine autour de deux enjeux clés.
+- Les tendances cyber 2026 Quels sont les grands enjeux qui ont marqué l’année qui vient de passer, et influeront sur l’année qui arrive.
+- Entre les évolutions des menaces, l’IA, ou les nouvelles réglementations, cet échange reviendra sur les tendances à surveiller.
+
+## [Arnaques financières : L'acpr et la banque de france alertent sur les pièges qui se multiplient en ligne](https://www.pandasecurity.com/fr/mediacenter/arnaques-financieres-lacpr-et-banque-france-alertent-pieges-multiplient-ligne/)  
+*Source : pandasecurity.com | Publication : 2026-08-31*
+
+- Les fraudeurs ne prennent pas de vacances.
+- Tout l’été, l’Autorité de contrôle prudentiel et de résolution (ACPR) et la Banque de France appellent les particuliers à redoubler de vigilance face aux escroqueries financières qui circulent sur Internet et les réseaux sociaux.
+- Faux placements, crédits inexistants, rachats de crédit fictifs ou encore usurpation de l’identité d’établissements financiers.
+- Les techniques sont nombreuses, mais reposent souvent sur le même mécanisme.
+
+## [Marathon de Sydney : l'Éthiopien Addisu Gobena et la Kényane Peres Jepchirchir triomphent](https://lobservateur.info/ampArticle/119381)  
+*Source : lobservateur.info | Publication : 2026-08-31*
+
+- Cybersécurité : le Liberia muscle son arsenal juridique.
 
 ## [Internet Matters, ce que c'est et comment l'utiliser pour protéger ses enfants en ligne](https://pasqualepillitteri.it/fr/news/13558/internet-matters-guide-securite-enfants-en-ligne)  
 *Source : pasqualepillitteri.it | Publication : 2026-08-30*
