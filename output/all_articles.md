@@ -1,5 +1,151 @@
-# Résumés – 2026-09-01
+# Résumés – 2026-09-02
 
+
+## [Le ministère de la transition écologique, cible d'une « attaque informatique sophistiquée »](https://www.lemonde.fr/pixels/article/2026/09/02/le-ministere-de-la-transition-ecologique-cible-d-une-attaque-informatique-sophistiquee_6764539_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-09-02*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Edouard Geffray, ministre de l'Éducation nationale, à la rencontre de lycéens vannetais, lors ...](https://www.ouest-france.fr/education/edouard-geffray-ministre-de-leducation-nationale-a-la-rencontre-de-lyceens-vannetais-lors-dun-repas-a-la-cantine-105ee1dc-a6fc-11f1-95a1-d7cb1b3759ac)  
+*Source : ouest-france.fr | Publication : 2026-09-02*
+
+- cybersécurité.
+- En l'occurrence, elle s'appelle Julie Donnio do Fundo, elle est étudiante en prépa Mathématiques, physique, Informatique et.
+
+## [Google dévoile Gemini 3.8 Flash et une déclinaison dédiée à la <b>cybersécurité</b> - BDM](https://www.blogdumoderateur.com/google-gemini-3-8-flash-declinaison-cybersecurite/)  
+*Source : blogdumoderateur.com | Publication : 2026-09-02*
+
+- Google dévoile Gemini 3.8 Flash et une déclinaison dédiée à la cybersécurité Le modèle Gemini Flash 3.8 progresse sur le code et les tâches agentiques.
+- En contrepartie, il consomme davantage de tokens sur les demandes complexes.
+- Google enchaîne les sorties sur sa gamme Gemini.
+- En seulement six semaines, la firme de Mountain View vient de publier sa troisième mouture Flash, la version 3.8, cette fois déclinée en deux variantes bâties sur la même base technique.
+
+## [<b>Cybersécurité</b> : le réglage fin, pour aller au-delà du modèle d'IA brut | LeMagIT](https://www.lemagit.fr/actualites/366650012/Cybersecurite-le-reglage-fin-pour-aller-au-dela-du-modele-brut)  
+*Source : lemagit.fr | Publication : 2026-09-02*
+
+- Sandwish - stock.adobe.com Cybersécurité : le réglage fin, pour aller au-delà du modèle d’IA brut CrowdStrike a procédé au réglage fin du modèle Nemotron 3 Nano 30B-A3B de Nvidia pour développer une approche de raisonnement vérifiable et transformer le triage de menaces en cybersécurité.
+- Le triage des alertes de sécurité repose sur la distinction entre une menace réelle et un bruit de fond.
+- Les modèles d’IA actuels répondent à cette question à « vitesse machine », produisant un verdict de faux positif ou de vrai positif accompagné d’un score de confiance calibré.
+- Cependant, les analystes expérimentés ne se contentent pas d’un verdict : ils évaluent les preuves à travers les lignes de commande, le contexte comportemental et d’autres signaux pour comprendre non seulement ce qui s’est passé, mais surtout sa signification.
+
+## [<b>Cybersécurité</b> : la DGSSI alerte sur des failles de Firefox et Artifactory - Lebrief](https://www.lebrief.ma/cybersecurite-la-dgssi-alerte-sur-des-failles-de-firefox-et-artifactory-100164488/)  
+*Source : lebrief.ma | Publication : 2026-09-02*
+
+- Cybersécurité : la DGSSI alerte sur des failles de Firefox et Artifactory Photo illustration © DR.
+- La Direction générale de la sécurité des systèmes d’information (DGSSI) a publié, mercredi 2 septembre, deux bulletins de sécurité consacrés à des vulnérabilités affectant des solutions largement utilisées dans les environnements numériques.
+- Les alertes concernent notamment JFrog Artifactory et le navigateur Mozilla Firefox, avec des niveaux de risque allant d’important à critique.
+- Le premier bulletin porte sur JFrog Artifactory, une plateforme concernée par plusieurs failles de sécurité.
+
+## [Cohesity ouvre une clean room dans HCLTech VaultNXT - L'INFORMATICIEN &amp; L'INFO ...](https://www.linformaticien.com/magazine/cybersecurite/65191-cohesity-ouvre-une-clean-room-dans-hcltech-vaultnxt.html)  
+*Source : linformaticien.com | Publication : 2026-09-02*
+
+- L'éditeur de cybersécurité Cohesity a annoncé, ce mercredi, le lancement d'une fonctionnalité de salle blanche managée alimentée par l'IA dans son.
+
+## [<b>Cybersécurité</b>, fisc, justice : l'État renforce son partenariat avec Mistral pour déployer l'IA ...](https://www.letelegramme.fr/economie/cybersecurite-fisc-justice-letat-renforce-son-partenariat-avec-mistral-pour-deployer-lia-dans-plusieurs-ministeres-7109874.php)  
+*Source : letelegramme.fr | Publication : 2026-09-02*
+
+- Le premier concerne la cybersécurité , alors que l'État cherche à renforcer ses capacités de défense après plusieurs attaques informatiques.
+- Le sujet.
+
+## [Fraudes, <b>cybersécurité</b>... L'Etat s'engage avec Mistral pour déployer l'IA dans des ministères](https://www.ledauphine.com/politique/2026/09/02/fraudes-cybersecurite-l-etat-s-engage-avec-mistral-pour-deployer-l-ia-dans-des-ministeres)  
+*Source : ledauphine.com | Publication : 2026-09-02*
+
+- Intelligence artificielle Fraudes, cybersécurité.
+- L'Etat s'engage avec Mistral pour déployer l'IA dans des ministères L'Etat a signé un nouveau contrat avec la start-up française d'intelligence artificielle Mistral pour déployer l'IA dans des ministères, notamment en matière de cybersécurité ou de lutte contre la fraude.
+- L'Etat va renforcer son partenariat avec la start-up française d'intelligence artificielle Mistral en lançant plusieurs expérimentations dans des ministères, notamment en matière de cybersécurité, lutte contre la fraude, indique-t-on à Bercy mercredi, confirmant une information des Echos.
+- Cette nouvelle étape, confirmée par le cabinet du ministre des Comptes publics David Amiel qui signe le partenariat, intervient quelques mois après la généralisation, en juin, d'un assistant d'intelligence artificielle développé avec Mistral auprès de deux millions d'agents publics.
+
+## [Proofpoint, filiale de Thoma Bravo, serait en pourparlers pour racheter la société de ... - Boursorama](https://www.boursorama.com/bourse/actualites/proofpoint-filiale-de-thoma-bravo-serait-en-pourparlers-pour-racheter-la-societe-de-cybersecurite-varonis-selon-une-source-77df8c2f085425495bcb500ab1ddd665)  
+*Source : boursorama.com | Publication : 2026-09-02*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajoute des détails et des informations contextuelles tout au long de l'article) Proofpoint, détenue par Thoma Bravo, serait en pourparlers en vue d'acquérir la société de cybersécurité Varonis Systems VRNS.O , a déclaré mercredi à Reuters une source proche du dossier.
+- L'action de Varonis, dont la capitalisation boursière s'élève à environ 5 milliards de dollars, a clôturé en hausse de plus de 10 %.
+- La société de capital-investissement Thoma Bravo a refusé de commenter cette information, tandis que Proofpoint et Varonis n’ont pas immédiatement répondu.
+- Basée à Miami, Varonis propose des services de cybersécurité, notamment la classification des données sur les systèmes de stockage dans le cloud et le suivi du comportement des employés.
+
+## [Astra n'est pas encore sorti… mais OpenAI affirme avoir franchi un seuil critique en ...](https://www.usine-digitale.fr/intelligence-artificielle/openai/astra-nest-pas-encore-sorti-mais-openai-affirme-avoir-franchi-un-seuil-critique-en-cybersecurite-sans-pouvoir-eliminer-tous-les-risques.R2AT524TYNBO5BIGHA7STVS7LY.html)  
+*Source : usine-digitale.fr | Publication : 2026-09-02*
+
+- Astra n'est pas encore sorti… mais OpenAI affirme avoir franchi un seuil critique en cybersécurité sans pouvoir éliminer tous les risques.
+- Le.
+
+## [Proofpoint, propriété de Thoma Bravo, en discussions pour racheter la société de ... - Zonebourse](https://ch.zonebourse.com/actualite-bourse/proofpoint-filiale-de-thoma-bravo-en-discussions-pour-racheter-la-societe-de-cybersecurite-varonis-ce7858d3db8cf42d)  
+*Source : ch.zonebourse.com | Publication : 2026-09-02*
+
+- Proofpoint, filiale de Thoma Bravo, en discussions pour racheter la société de cybersécurité Varonis, selon une sourceProofpoint, propriété de la société de capital-investissement Thoma Bravo, est en discussions pour acquérir la firme de cybersécurité Varonis Systems, a déclaré mercredi à Reuters une source.
+
+## [&quot;Environ 1.000 milliards de dollars&quot;, c'est ce qu'il faudrait investir pour mettre les ... - BFM](https://www.bfmtv.com/tech/cybersecurite/environ-1-000-milliards-de-dollars-c-est-ce-qu-il-faudrait-investir-pour-mettre-les-infrastructures-informatiques-mondiales-a-niveau-face-a-la-menace-grandissante-de-l-ia_AV-202609020685.html)  
+*Source : bfmtv.com | Publication : 2026-09-02*
+
+- "Environ 1.000 milliards de dollars", c’est ce qu’il faudrait investir pour mettre les infrastructures informatiques mondiales à niveau face à la menace grandissante de l’IA Alors que les cyberattaques se font de plus en plus nombreuses, l'intelligence artificielle va contribuer à leur multiplication dans les mois et années à venir.
+- Pour s'armer contre cette situation, Nikesh Arora, patron de Palo Alto Networks, un des géants mondiaux de la cybersécurité, annonce la couleur: il va falloir dépenser au moins 1.000 milliards de dollars.
+- "Rien de ce qui a été déployé il y a sept ou dix ans n'est préparé ou prêt à gérer la vitesse de l'essor de l'IA," a-t-il expliqué à CNBC.
+- "Il faut repenser votre cyberarchitecture.".
+
+## [<b>Ransomware</b> &amp; IA : l'union tant attendue est avérée - LeMagIT](https://www.lemagit.fr/actualites/366649311/Ransomware-IA-lunion-tant-attendue-est-averee)  
+*Source : lemagit.fr | Publication : 2026-09-02*
+
+- Who is Danny - stock.adobe.com Ransomware & IA : l'union tant attendue est avérée L'intelligence artificielle est désormais effectivement exploitée dans la cyber-extorsion, que ce soit pour valoriser les données volées ou conduire les cyberattaques.
+- Depuis au moins le printemps, l'utilisation de l'intelligence artificielle par des cybercriminels est devenue une réalité bien concrète.
+- Elle a permis aux groupes de rançongiciels de passer d'une simple demande de rançon à des campagnes d'extorsion hyper-personnalisées.
+- L'IA générative est désormais utilisée pour transformer l'information brute des données volées en un levier de pression ciblé et sophistiqué.
+
+## [Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique inaccessibles](https://actu.orange.fr/economie/plusieurs-sites-internet-gouvernementaux-lies-au-ministere-de-la-transition-ecologique-inaccessibles-CNT000002rG0DA.html)  
+*Source : actu.orange.fr | Publication : 2026-09-02*
+
+- Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique inaccessibles © Thomas SAMSON, AFP - L'Anssi, chargée de protéger la France face aux menaces de cybersécurité, "intervient actuellement au profit d'administrations du ministère de la transition écologique, suite à des suspicions de compromission de certains comptes utilisateurs" Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique sont inaccessibles mercredi, a constaté l'AFP, et l'Agence nationale de la sécurité des systèmes d'information (Anssi) a indiqué mener des "investigations".
+- Le site des consultations publiques en matière d'environnement, qui permet au public d'exprimer son opinion sur des projets d'arrêtés ou de décrets, ou encore plusieurs sites d'administrations régionales affichent "Maintenance en cours".
+- "Merci de réessayer plus tard, vous serez bientôt en mesure de réutiliser ce service", indique le message.
+- Selon le site spécialisé FrenchBreaches, une cyberattaque visant le ministère a été revendiquée mercredi sur un forum criminel par un utilisateur anonyme.
+
+## [Cellebrite Federal Solutions, Inc. (CFSI) répond à la norme avancée de <b>cybersécurité</b> du ...](https://www.prnewswire.com/news-releases/cellebrite-federal-solutions-inc-cfsi-repond-a-la-norme-avancee-de-cybersecurite-du-ministere-americain-de-la-defense-renforcant-ainsi-son-engagement-en-faveur-de-la-securite-des-operations-federales-302867701.html)  
+*Source : prnewswire.com | Publication : 2026-09-02*
+
+- Cellebrite Federal Solutions, Inc. (CFSI) répond à la norme avancée de cybersécurité du ministère américain de la Défense, renforçant ainsi son engagement en faveur de la sécurité des opérations fédérales News provided by CellebriteSep 02, 2026, 08:35 ET TYSONS CORNER, Virginie, 2 septembre 2026 /PRNewswire/ -- Cellebrite (Nasdaq : CLBT), leader mondial des solutions d'investigation et de renseignement numériques basées sur l'IA pour les secteurs public et privé, a annoncé aujourd'hui que sa filiale, Cellebrite Federal Solutions, Inc. (CFSI), a obtenu la certification de niveau 2 de la certification Cybersecurity Maturity Model Certification (CMMC), une évaluation indépendante menée par un organisme d'évaluation tiers certifié (C3PAO).
+- Le niveau 2 de la CMMC est un niveau avancé de cybersécurité dans le cadre du Department of War (DoW, ministère de la Guerre), établi pour les entrepreneurs qui traitent des renseignements contrôlés non classifiés (CUI) du ministère de la Guerre.
+- La conformité à la norme CMMC de niveau 2 englobe à la fois les mesures de sécurité techniques nécessaires et les politiques, procédures, documentation ainsi qu'une maturité opérationnelle démontrable, telles que vérifiées par un évaluateur tiers indépendant.
+- CFSI a obtenu cette certification après avoir mis en œuvre et documenté 110 pratiques de sécurité réparties dans 14 familles de contrôles, notamment le contrôle d'accès, la gestion des incidents, la gestion des risques, la protection des systèmes et des communications, ainsi que l'audit et la responsabilité. «.
+
+## [&quot;La Rentrée des Leaders 2026&quot; : le grand rendez-vous des entrepreneurs de Haute-Savoie](https://www.lyoncapitale.fr/actualite/la-rentree-des-leaders-2026-le-grand-rendez-vous-des-entrepreneurs-de-haute-savoie)  
+*Source : lyoncapitale.fr | Publication : 2026-09-02*
+
+- Avec un programme qui mêle économie, cybersécurité, recherche scientifique, sport et culture, La Rentrée des Leaders 2026 confirme sa vocation de grand rendez-vous économique et humain pour les dirigeants de Haute-Savoie.
+- Jeudi 3 septembre 2026, la Haute-Savoie accueille la sixième édition de "La Rentrée des Leaders", un événement organisé par Les Entrepreneurs Haute-Savoie (ex-CPME) à destination des dirigeants d'entreprise du territoire.
+- Pour cette sixième édition, l'événement franchit un nouveau cap : plus de 500 dirigeants sont déjà inscrits, et les organisateurs en attendent jusqu'à 600.
+- Autour d'eux, quarante stands composeront le "Marché des Leaders", un espace d'exposition où entreprises et partenaires locaux viendront présenter leurs solutions.
+
+## [Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique inaccessibles](https://www.sudouest.fr/economie/cybersecurite/plusieurs-sites-internet-gouvernementaux-lies-au-ministere-de-la-transition-ecologique-inaccessibles-30456894.php)  
+*Source : sudouest.fr | Publication : 2026-09-02*
+
+- Plusieurs sites gouvernementaux sont inaccessibles, une enquête a été lancée avec une suspicion « d’intrusion malveillante » Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique sont inaccessibles ce mercredi.
+- L’Agence nationale de la sécurité des systèmes d’information (Anssi) a indiqué mener des « investigations ».
+
+## [Un été 2026 marqué par les vols de données et les cyberattaques - Maire-info](https://www.maire-info.com/cybermalveillance/un-ete-2026-marque-par-les-vols-de-donnees-et-les-cyberattaques-article-31026)  
+*Source : maire-info.com | Publication : 2026-09-02*
+
+- Un été 2026 marqué par les vols de données et les cyberattaques Par Lucile Bonnin Voilà plusieurs mois que l'on parle dans la presse d'une « série noire pour les administrations françaises » en matière de cybersécurité et pour cause… Déjà en avril 2026, l'ANTS (Agence nationale des titres sécurisés), récemment rebaptisée France Titres, a été victime d'un piratage.
+- Selon le ministère de l'Intérieur, 11,7 millions de comptes ont été compromis.
+- Cet été, la pression cyber-malveillante est encore montée d'un cran, mettant une fois encore en lumière la nécessité pour toutes les administrations – et notamment pour les systèmes d'information de l'État – de mieux protéger leurs données.
+- La rentrée perturbée par une cyberattaque À la fin du mois de juillet, le ministère de l'Éducation nationale a déclaré via un communiqué avoir « été victime d'une intrusion frauduleuse dans l'un de ses systèmes d'information ».
+
+## [Drones, espionnage, <b>cybersécurité</b> : huit mois d'innombrables attaques russes en Europe](https://www.lopinion.fr/international/drones-espionnage-cybersecurite-huit-mois-dinnombrables-attaques-russes-en-europe)  
+*Source : lopinion.fr | Publication : 2026-09-02*
+
+- Drones, espionnage, cybersécurité : huit mois d’innombrables attaques russes en Europe Depuis quelques années, l’actualité bruisse de toutes les attaques hybrides, parfois réussies, menées par Moscou contre l’Europe.
+- Mais 2026 est marquée par une accumulation de tentatives de déstabilisation, qu’il s’agisse d’espionnage, d’attentats ou de cyberattaques, au point où l’Union Européenne a dû taper violemment du poing sur la table à la fin de l’été.
+- Pour y voir plus clair, l’Opinion vous propose un récapitulatif.
+- Une précision s’impose : cet article ne recense pas les incursions de drones russes impliqués dans la guerre en Ukraine sur le reste du territoire européen.
+
+## [Prix des Lecteurs Les Numériques 2026 : Le dossier révélation](https://www.lesnumeriques.com/partenaire/prix-des-lecteurs-les-numeriques-2026-le-palmares-pa260956.html)  
+*Source : lesnumeriques.com | Publication : 2026-09-02*
+
+- Prix des Lecteurs Les Numériques 2026 : Le dossier révélation !.
+- La 3e édition du Prix des Lecteurs Les Numériques est arrivée à son terme le 25 juin 2026.
+- Elle couronne, cette année encore, les lauréats désignés par un jury de lecteurs.
+- Plus de 111 produits et services du secteur du digital ont concouru cette année, répartis dans 34 catégories.
 
 ## [La <b>cybersécurité</b> doit être au cœur de la présidentielle - 01/09 : Actualités - Orange Actu](https://actu.orange.fr/videos/economie/la-cybersecurite-doit-etre-au-c-ur-de-la-presidentielle-01-09-CNT000002rEBNH.html)  
 *Source : actu.orange.fr | Publication : 2026-09-01*
