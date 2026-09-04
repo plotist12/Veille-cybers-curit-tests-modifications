@@ -1,5 +1,153 @@
-# Résumés – 2026-09-02
+# Résumés – 2026-09-03
 
+
+## [Zscaler s'envole grâce à la demande en <b>cybersécurité</b> liée à l'IA - 03/09/2026 à 22:37](https://www.boursorama.com/bourse/actualites-amp/zscaler-s-envole-grace-a-la-demande-en-cybersecurite-liee-a-l-ia-2263996d12de7249ee8ebfe1140d4971)  
+*Source : boursorama.com | Publication : 2026-09-03*
+
+- Zscaler s'envole grâce à la demande en cybersécurité liée à l'IA information fournie par Zonebourse 03/09/2026 à 22:37 Zscaler a dépassé les attentes de Wall Street au quatrième trimestre et présenté des perspectives solides, porté par la demande croissante pour les outils de cybersécurité face aux risques liés à l'intelligence artificielle.
+- Le chiffre d'affaires a progressé de 25% à 898 millions de dollars, contre 877 millions attendus, tandis que le bénéfice ajusté a atteint 1,19 dollar par action, contre 1,09 dollar anticipé.
+- La perte nette s'est parallèlement réduite à 3,4 millions de dollars.
+- Le titre progresse de 2% dans les échanges prolongés.
+
+## [Zscaler s'envole grâce à la demande en <b>cybersécurité</b> liée à l'IA - 03/09/2026 à 22:37](https://www.boursorama.com/bourse/actualites/zscaler-s-envole-grace-a-la-demande-en-cybersecurite-liee-a-l-ia-2263996d12de7249ee8ebfe1140d4971)  
+*Source : boursorama.com | Publication : 2026-09-03*
+
+- Zscaler a dépassé les attentes de Wall Street au quatrième trimestre et présenté des perspectives solides, porté par la demande croissante pour les outils de cybersécurité face aux risques liés à l'intelligence artificielle.
+- Le chiffre d'affaires a progressé de 25% à 898 millions de dollars, contre 877 millions attendus, tandis que le bénéfice ajusté a atteint 1,19 dollar par action, contre 1,09 dollar anticipé.
+- La perte nette s'est parallèlement réduite à 3,4 millions de dollars.
+- Le titre progresse de 2% dans les échanges prolongés.
+
+## [IA cyber : les modèles les plus puissants ne seront plus accessibles à tout le monde de la ...](https://www.solutions-numeriques.com/ia-cyber-les-modeles-les-plus-puissants-ne-seront-plus-accessibles-a-tout-le-monde-de-la-meme-maniere/)  
+*Source : solutions-numeriques.com | Publication : 2026-09-03*
+
+- Google, Anthropic et OpenAI commencent à réserver certaines capacités avancées de leurs modèles à des utilisateurs vérifiés, notamment des équipes de cybersécurité, des opérateurs d’infrastructures critiques ou des administrations.
+- Derrière ces programmes d’accès contrôlé se dessine une nouvelle façon de distribuer l’IA : un même socle technologique, mais des capacités différentes selon le niveau de confiance accordé à l’utilisateur.
+- Google réserve Gemini 3.8 Flash Cyber aux « défenseurs de confiance » Google a présenté le 2 septembre Gemini 3.8 Flash Cyber, son modèle le plus avancé spécifiquement consacré à la cybersécurité.
+- Il est capable de rechercher automatiquement des vulnérabilités et de produire des correctifs, avec des performances que Google situe au niveau des modèles de pointe sur plusieurs benchmarks.
+
+## [Zscaler s'envole grâce à la demande en <b>cybersécurité</b> liée à l'IA | Option finance](https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-03-zscaler-senvole-grace-a-la-demande-en-cybersecurite-liee-a-lia.html)  
+*Source : optionfinance.fr | Publication : 2026-09-03*
+
+- Zscaler a dépassé les attentes de Wall Street au quatrième trimestre et présenté des perspectives solides, porté par la demande croissante pour les outils de cybersécurité face aux risques liés à l'intelligence artificielle.
+- Le chiffre d'affaires a progressé de 25% à 898 millions de dollars, contre 877 millions attendus, tandis que le bénéfice ajusté a atteint 1,19 dollar par action, contre 1,09 dollar anticipé.
+- La perte nette s'est parallèlement réduite à 3,4 millions de dollars.
+- Le titre progresse de 2% dans les échanges prolongés.
+
+## [Zscaler s'envole grâce à la demande en <b>cybersécurité</b> liée à l'IA | Zonebourse Suisse](https://ch.zonebourse.com/actualite-bourse/zscaler-s-envole-grace-a-la-demande-en-cybersecurite-liee-a-l-ia-ce785bdada89f522)  
+*Source : ch.zonebourse.com | Publication : 2026-09-03*
+
+- Les revenus récurrents annuels ont également augmenté de 25% pour atteindre 3,77 milliards de dollars.
+- Zscaler mise notamment sur sa technologie Zero Trust pour sécuriser les agents d&#039;IA, une activité que son directeur général Jay Chaudhry considère comme une importante source de croissance à long terme.
+- Les commandes liées à la sécurisation de l&#039;IA ont atteint 100 millions de dollars sur les douze derniers mois et progressé de 50% séquentiellement au dernier trimestre, avec une accélération attendue en 2028 et 2029.Pour le premier trimestre, Zscaler prévoit entre 935 et 939 millions de dollars de revenus et un bénéfice ajusté compris entre 1,15 et 1,16 dollar par action, au-dessus des attentes de Wall Street.
+- Sur l&#039;ensemble du nouvel exercice, le groupe vise un chiffre d&#039;affaires de 3,91 à 3,94 milliards de dollars et un bénéfice ajusté de 4,86 à 4,90 dollars par action, contre 4,60 dollars attendus.
+
+## [OpenAI lance GPT-6, son modèle le plus puissant, balisé pour limiter les risques](https://ici.radio-canada.ca/rci/fr/nouvelle/2280393/openai-lance-gpt-6-modele-plus-puissant-limiter-risques)  
+*Source : ici.radio-canada.ca | Publication : 2026-09-03*
+
+- OpenAI lance GPT-6, son modèle le plus puissant, balisé pour limiter les risques OpenAI a commencé à déployer jeudi GPT-6 Astra, présenté comme son modèle d'intelligence artificielle (IA) le plus puissant.
+- Il est capable, selon l'entreprise de San Francisco, de se servir seul d'un ordinateur et est diffusé avec un dispositif pouvant l'arrêter s'il sort de son cadre.
+- Ce saut de génération, un an après GPT-5, apparaît après une série de cyberattaques (nouvelle fenêtre) menées cet été par des IA en phase de test, dont des outils d'OpenAI et de son rival Anthropic, qui ont illustré les risques posés par les modèles de pointe.
+- GPT-6 est réservé dans un premier temps à un nombre limité d'organisations , avant d'être ouvert dans les prochains jours aux abonnés payants de ChatGPT et aux développeurs.
+
+## [Meilleures pratiques de sécurité OpenClaw pour les RSSI - LeMagIT](https://www.lemagit.fr/conseil/Meilleures-pratiques-de-securite-OpenClaw-pour-les-RSSI)  
+*Source : lemagit.fr | Publication : 2026-09-03*
+
+- InfiniteFlow-stock.adobe.com Meilleures pratiques de sécurité OpenClaw pour les RSSI OpenClaw introduit d'énormes risques pour les entreprises, mais l'adoption par les employés pourrait être inévitable, que les RSSI l'approuvent ou non.
+- Voici comment permettre des déploiements plus sûrs.
+- OpenClaw est devenu l'un des outils open source les plus rapidement adoptés de ces dernières années.
+- Initialement publié fin 2025 sous le nom de Clawdbot, cet agent IA autonome affiche désormais des centaines de milliers d'étoiles sur GitHub et un écosystème en pleine expansion de compétences tierces.
+
+## [L'Europe injecte 96 millions d'euros dans la <b>cybersécurité</b>, dont 35 millions consacrés à l'IA](https://www.usine-digitale.fr/cybersecurite/leurope-injecte-96-millions-deuros-dans-la-cybersecurite-dont-35-millions-consacres-a-lia.DDXWFKF7CFEUTBDBXOY5DMNFUM.html)  
+*Source : usine-digitale.fr | Publication : 2026-09-03*
+
+- Le Centre européen de compétences en cybersécurité ouvre un nouvel appel à projets doté de 96 millions d'euros.
+- Une partie importante de.
+
+## [<b>Cybersécurité</b> : le Togo veut se constituer un vivier de talents face à la menace grandissante](https://www.agenceecofin.com/actualites-numerique/0309-141285-cybersecurite-le-togo-veut-se-constituer-un-vivier-de-talents-face-a-la-menace-grandissante)  
+*Source : agenceecofin.com | Publication : 2026-09-03*
+
+- (Agence Ecofin) - La transformation numérique en cours en Afrique s’accompagne d’une intensification des cybermenaces.
+- Pour protéger leurs infrastructures, leurs entreprises et leurs citoyens, les pays du continent multiplient les initiatives visant à renforcer leurs dispositifs de cybersécurité.
+- Le Togo veut se doter d’un vivier national de compétences en cybersécurité.
+- L’initiative vise à réunir, au niveau national, des profils diversifiés et qualifiés, capables d’être mobilisés pour renforcer la protection du cyberespace togolais.
+
+## [Loi sur la <b>cybercriminalité</b> : Madagascar renforce sa sécurité numérique - Linfo.re](https://www.linfo.re/ocean-indien/madagascar/loi-sur-la-cybercriminalite-madagascar-renforce-sa-securite-numerique)  
+*Source : linfo.re | Publication : 2026-09-03*
+
+- Les députés malgaches examinent un texte encadrant la sécurité virtuelle.
+- Cette réforme débouchera sur la création de l'Upin.
+- .
+- p cette entite.
+
+## [Danemark, Royaume-Uni, Allemagne... Les puissances européennes renforcent leur ... - CNews](https://www.cnews.fr/monde/2026-09-03/danemark-royaume-uni-allemagne-les-puissances-europeennes-renforcent-leur)  
+*Source : cnews.fr | Publication : 2026-09-03*
+
+- De nombreux pays européens font état de récentes cyberattaques russes et annoncent avoir travaillé sur leurs systèmes de défense en ligne.
+- Espionnage, demande de rançon, attaque d'entités étatiques.
+- La Russie menace l'ensemble des systèmes informatiques du continent.
+- Une menace plane.
+
+## [Google lance son modèle d'IA de codage le plus performant à ce jour, ainsi qu'une version ... - Quartz](https://fr.qz.com/google-gemini-38-flash-modle-dia-cyber-090326)  
+*Source : fr.qz.com | Publication : 2026-09-03*
+
+- Google $GOOGL introduit deux modèles d'IA mercredi: Gemini 3.8 Flash, un modèle polyvalent destiné au génie logiciel et aux tâches autonomes, et Gemini 3.8 Flash Cyber, une variante conçue pour le travail en cybersécurité.
+- Google a noté que le lancement intervient trois semaines après Gemini 3.7 Flash et représente la troisième version de génération Flash ce trimestre.
+
+## [688 agents IA se coordonnent : ce qu'en dit un expert en <b>cybersécurité</b> - Sciences et Avenir](https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/openai-688-agents-ia-se-coordonnent-ce-qu-en-dit-un-expert-en-cybersecurite_194644)  
+*Source : sciencesetavenir.fr | Publication : 2026-09-03*
+
+- 688 agents IA d'OpenAI se sont coordonnés lors d'une intrusion dans les systèmes de Hugging Face.
+- Pour l'expert en cybersécurité Gérôme Billois,.
+
+## [Après le piratage des impôts, des ingénieurs de Mistral vont s'installer dans les ministères](https://www.01net.com/actualites/apres-le-piratage-des-impots-des-ingenieurs-de-mistral-vont-sinstaller-dans-les-ministeres.html)  
+*Source : 01net.com | Publication : 2026-09-03*
+
+- L’été a été rude pour la Direction générale des finances publiques.
+- Le piratage subi par le fisc a exposé les données fiscales de 678 000 particuliers et professionnels, et étalé au passage les lacunes de l’État sur le front cyber.
+- La réponse prend la forme d’un nouvel accord avec Mistral AI, dévoilé par Les Echos et confirmé par le cabinet de David Amiel, le ministre de l’Action et des comptes publics, qui signe le partenariat.
+- Six millions d’euros et des ingénieurs Mistral dans les ministères L’accord, conclu à l’issue d’une procédure de marché public et sans exclusivité, représente un investissement de 6 millions d’euros sur 2026-2027.
+
+## [Confiance, stabilité, résilience et innovation : les piliers de 25 ans de leadership dans la ...](https://www.challenges.fr/partenaires/confiance-stabilite-resilience-et-innovation-les-piliers-de-25-ans-de-leadership-dans-la-cybersecurite_645487)  
+*Source : challenges.fr | Publication : 2026-09-03*
+
+- Confiance, stabilité, résilience et innovation : les piliers de 25 ans de leadership dans la cybersécurité La transformation digitale a profondément remodelé les architectures opérationnelles et technologiques des entreprises.
+- Le SaaS, le cloud et désormais l’IA ont permis des gains financiers et de productivité considérables, mais ils ont également alimenté la complexité organisationnelle des entreprises et élargi sensiblement leur surface d’attaque.
+- L’IA dote les cybercriminels d’outils pour tester en permanence l’arsenal de défense des entreprises, à la recherche de vulnérabilités.
+- Les cyberattaques peuvent avoir de lourdes conséquences financières et en termes d’image de marque et, pour les opérateurs d’infrastructures critiques, des répercussions directes sur les communautés qui dépendent d’eux, voire sur la société dans son ensemble.
+
+## [Gemini 3.8 Flash : Google transforme la vitesse, le prix et la <b>cybersécurité</b> en armes stratégiques](https://www.itforbusiness.fr/gemini-3-8-flash-google-transforme-la-vitesse-le-prix-et-la-cybersecurite-en-armes-strategiques-106793)  
+*Source : itforbusiness.fr | Publication : 2026-09-03*
+
+- Data / IA Gemini 3.8 Flash : Google transforme la vitesse, le prix et la cybersécurité en armes stratégiques Par Laurent Delattre, publié le 03 septembre 2026 Avec Gemini 3.8 Flash, Google ne cherche plus seulement à améliorer un modèle généraliste : le groupe tente de déplacer la frontière économique de l’IA vers des agents suffisamment performants pour être exécutés en continu.
+- Sa déclinaison Cyber et le programme Fairwind prolongent cette offensive sur un terrain plus sensible, où le contrôle de l’accès, les outils d’orchestration et la capacité à produire des correctifs comptent désormais autant que la puissance brute du modèle.
+- En matière de génération de modèles, Google semble avoir changé de stratégie.
+- Alors qu’Anthropic et OpenAI itèrent leurs modèles frontières à peine tous les 3 mois, Google préfère accélérer les itérations de ses plus petits modèles et ne proposer une évolution de Gemini Pro que lorsque ses petits modèles ont rattrapé les performances de son modèle frontière pour une fraction du coût d’inférence et donc du coût au token.
+
+## [<b>Cybersécurité</b>: en France, les failles dans les services publics posent - RFI](https://www.rfi.fr/fr/france/20260903-cybersécurité-en-france-les-failles-dans-les-services-publiques-posent-un-problème-de-défense-du-citoyen)  
+*Source : rfi.fr | Publication : 2026-09-03*
+
+- Cybersécurité: en France, les failles dans les services publics posent «un problème de défense du citoyen» Une question récurrente ces dernières années s’impose de plus en plus face à l’avalanche de fuites de données en France : les services publics sont-ils suffisamment outillés pour faire face à la montée du risque cybercriminel ?.
+- Dans sa course vers le « tout numérique », l'administration semble avoir négligé la sécurité de ces systèmes.
+- Publié le : Modifié le : Les attaques se suivent et se ressemblent.
+- Depuis la fin décembre 2025, les services de France Travail, des impôts, de l’Éducation nationale et du Logement – pour ne citer qu’eux – ont été tour à tour pris pour cible par des pirates informatiques.
+
+## [« Au-delà des cyberattaques, c'est la question de la confiance des usagers dans le service ...](https://www.lagazettedescommunes.com/numerique/cybersecurite/au-dela-des-cyberattaques-cest-la-question-de-la-confiance-des-usagers-dans-le-service-public-qui-est-posee.VH3HBDCQ4NB4DGRYVBHQIYAJWM.html)  
+*Source : lagazettedescommunes.com | Publication : 2026-09-03*
+
+- Ensuite, se pose la question de la priorité que l'on donne aux enjeux de cybersécurité , alors qu'on demande aux administrations de dématérialiser.
+
+## [Zscaler en hausse avant la publication de ses résultats - TradingView](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N44V1KG:0/)  
+*Source : fr.tradingview.com | Publication : 2026-09-03*
+
+- Zscaler en hausse avant la publication de ses résultats ; la demande en matière de cybersécurité au centre de l'attention Lire l'article complet Obtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.
+
+## [<b>Cybersécurité</b> : face à la multiplication des fuites de données, le gouvernement cherche à ...](https://www.banquedesterritoires.fr/cybersecurite-face-la-multiplication-des-fuites-de-donnees-le-gouvernement-cherche-accelerer-sa)  
+*Source : banquedesterritoires.fr | Publication : 2026-09-03*
+
+- Cybersécurité : face à la multiplication des fuites de données, le gouvernement cherche à accélérer sa riposte Alors que la liste des fuites de données concernant des entités publiques ne cesse de s'allonger, le gouvernement multiplie les initiatives pour tenter de colmater les brèches.
+- Outre l'augmentation des moyens alloués à la cybersécurité par les ministères, le gouvernement a décidé de faire appel à l'IA via un nouveau partenariat avec Mistral.
+- Après la DGFiP et l'Éducation nationale, la série noire continue pour les fuites de données dans la sphère publique.
+- Le 2 septembre 2026, le ministère de la Transition écologique a reconnu avoir été visé par une cyberattaque et l'Anssi a confirmé être intervenue à la suite de "suspicions de compromission de certains comptes utilisateurs".
 
 ## [Le ministère de la transition écologique, cible d'une « attaque informatique sophistiquée »](https://www.lemonde.fr/pixels/article/2026/09/02/le-ministere-de-la-transition-ecologique-cible-d-une-attaque-informatique-sophistiquee_6764539_4408996.html)  
 *Source : lemonde.fr | Publication : 2026-09-02*
