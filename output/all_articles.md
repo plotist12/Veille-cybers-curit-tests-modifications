@@ -1,5 +1,154 @@
-# Résumés – 2026-09-03
+# Résumés – 2026-09-04
 
+
+## [Spectra ID renforce la protection de Microsoft Entra ID - L'INFORMATICIEN](https://www.linformaticien.com/magazine/cybersecurite/65209-spectra-id-renforce-la-protection-de-microsoft-entra-id.html)  
+*Source : linformaticien.com | Publication : 2026-09-04*
+
+- Ransomware : les jours d'après · Cybersécurité · Spectra ID renforce la protection de Microsoft Entra ID.
+- Détails: Bertrand Garé: 4 septembre 2026.
+
+## [La justice place en détention l'un des pirates présumés du fisc - Orange Actu](https://actu.orange.fr/france/la-justice-place-en-detention-l-un-des-pirates-presumes-du-fisc-CNT000002rJ64y.html)  
+*Source : actu.orange.fr | Publication : 2026-09-04*
+
+- La justice place en détention l'un des pirates présumés du fisc © AFP, AFP - A 18 ans, il est suspecté d'être l'un des hackers derrière le retentissant piratage du fisc A 18 ans, il est suspecté d'être l'un des hackers derrière le retentissant piratage du fisc.
+- Un membre présumé du groupe de pirates Zerobytes qui a volé les données de 678.000 contribuables a été mis en examen et placé en détention provisoire à Paris.
+- Un deuxième suspect, âgé de moins de 16 ans, a également été interpellé et placé en garde à vue, mais libéré ensuite, a précisé le parquet, après des informations de Franceinfo et du Monde.
+- Les enquêteurs vont désormais exploiter son matériel informatique.
+
+## [Piratage du site des impôts : une note du Sénat pointe des « fragilités structurelles](https://www.lemonde.fr/pixels/article/2026/09/04/piratage-de-la-dgfip-une-note-du-senat-pointe-des-fragilites-structurelles-dans-l-infrastructure-de-bercy_6765851_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-09-04*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Une intrusion assistée par des agents IA enchaîne plus de 50 techniques en moins de dix heures](https://itsocial.fr/contenus/articles-decideurs/une-intrusion-assistee-par-des-agents-ia-enchaine-plus-de-50-techniques-en-moins-de-dix-heures/)  
+*Source : itsocial.fr | Publication : 2026-09-04*
+
+- Un attaquant a piloté des agents d’intelligence artificielle pour conduire une intrusion dans le réseau et le cloud d’une entreprise en moins de dix heures.
+- L’Unit 42 de Palo Alto Networks a recensé plus de 50 techniques MITRE ATTACK dans cette séquence, qu’une équipe humaine aurait mis environ deux semaines à reproduire.
+- Cette vitesse réduit le temps laissé aux défenseurs pour relier des alertes dispersées entre les identités, le code, l’intégration continue et les services d’IA.
+- L’incident analysé par l’Unit 42 correspond à une intrusion orchestrée par un humain et exécutée par plusieurs agents spécialisés.
+
+## [L'IA dans la <b>cybersécurité</b> : fonctionnement, cas d'usage et avantages - Snowflake](https://www.snowflake.com/fr/artificial-intelligence/industries/ai-in-cybersecurity/)  
+*Source : snowflake.com | Publication : 2026-09-04*
+
+- L’IA dans la cybersécurité : fonctionnement, cas d’usage et perspectives Ce guide explique comment l’IA est utilisée aujourd’hui dans la cybersécurité, où elle apporte le plus de valeur, quelles sont les limites que les entreprises doivent prendre en compte, et comment les responsables de la sécurité peuvent créer une stratégie qui aligne l’adoption de l’IA avec la gouvernance, la conception opérationnelle et les risques réels.
+- Qu’est-ce que l’IA dans la cybersécurité ?.
+- - Pourquoi l'IA est essentielle à la cybersécurité aujourd'hui - Comment l’IA est utilisée dans la cybersécurité - Outils et technologies de cybersécurité basés sur l’IA - L’essor de l’IA agentique dans la cyberdéfense - Comment les attaquants utilisent l'IA, et comment y répondre - Les avantages de l’IA en cybersécurité - Défis et limites de l’IA dans la cybersécurité - Stratégie de cybersécurité basée sur l'IA : feuille de route - L’avenir de l’IA dans la cybersécurité - Les clés pour bien utiliser l’IA dans la cybersécurité - FAQ sur l’IA dans la cybersécurité - Ressources - L’environnement de sécurité typique d’une entreprise produit plus de signaux qu’aucune équipe ne peut traiter manuellement.
+- Ce qui ralentit les équipes n’est pas seulement le volume d’alertes, mais aussi l’effort nécessaire pour relier les événements entre les systèmes et déterminer quels modèles indiquent un risque réel.
+
+## [Intego ONE lance une application de <b>cybersécurité</b> pour l'iPhone - Mac4Ever](https://www.mac4ever.com/securite/197866-intego-one-lance-une-application-de-cybersecurite-pour-l-iphone)  
+*Source : mac4ever.com | Publication : 2026-09-04*
+
+- Intego ONE lance une application de cybersécurité pour l'iPhone Article sponsorisé - Publié le - Bon Plan Intego, leader de l'antivirus et de la cybersécurité sur Mac, lance une nouvelle application de protection sur iPhone.
+- En effet, même si Apple a conçu un écosystème très fermé, beaucoup plus difficile à attaquer qu'un Mac ou qu'un PC, il reste quelques points négligés qu'Intego vise à couvrir avec cette nouvelle évolution majeure de sa solution phare Intego ONE.
+- Intego garantit la confidentialité de votre connexion sur les réseaux Wi-Fi que vous ne contrôlez pas, vous indique si le réseau auquel vous êtes connecté est sûr et vous indique les protections intégrées à votre iPhone qui sont désactivées.
+- Apple dote chaque iPhone d’une protection solide.
+
+## [Elastic prévoit d'intégrer les modèles de <b>cybersécurité</b> OpenAI GPT à Elastic Security](https://www.zonebourse.com/actualite-bourse/elastic-prevoit-d-integrer-les-modeles-de-cybersecurite-openai-gpt-a-elastic-security-ce785bdbd98ff125)  
+*Source : zonebourse.com | Publication : 2026-09-04*
+
+- Elastic prévoit d'intégrer les modèles de cybersécurité OpenAI GPT à Elastic Security Publié le 04/09/2026 à 19:46 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'originalCet article est réservé à nos membresConnectez-vous pour continuerSe connecterCréer un compte Continuer avec Google Continuer avec Apple Continuer avec LinkedIn ou par emailContinuer avec un email Créer un compte avec Google Créer un compte avec Apple Créer un compte avec LinkedIn ou par emailCréer un compte Pour un accès illimité, consultez nos abonnements.
+
+## [Une ligne rouge vient d'être franchie : le nouveau GPT-6 atteint un niveau qualifié de « critique](https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-nouveau-gpt-6-atteint-niveau-surpuissant-meme-openai-qualifie-critique-137529/)  
+*Source : futura-sciences.com | Publication : 2026-09-04*
+
+- Alors qu'hier une panne toujours inexpliquée a fait tomber les serveurs des principales IA américaines, OpenAI annonçait en même temps l'arrivée de son nouveau modèle GPT-6 Astra.
+- Celui-ci peut agir de manière totalement autonome sur de nombreuses tâches considérées comme fastidieuses en informatique.
+- C'est le cas pour le développement de jeux, le codage, l'analyse scientifique, la création de sites web, ou encore la cybersécurité.
+- Et sur ce dernier point, ce puissant modèle est, d'après son éditeur, le premier à franchir le seuil « critique ».
+
+## [« Nous ne sommes pas prêts à ce qui va suivre » : les puissants modèles d'OpenAI et ... - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/nous-ne-sommes-pas-prets-a-ce-qui-va-suivre-les-puissants-modeles-d-openai-et-anthropic-une-menace-sans-precedent-pour-la-cybersecurite-mondiale-20260904)  
+*Source : lefigaro.fr | Publication : 2026-09-04*
+
+- « Nous ne sommes pas prêts à ce qui va suivre » : les puissants modèles d’OpenAI et Anthropic, une menace sans précédent pour la cybersécurité mondiale DÉCRYPTAGE - Face à des modèles IA capables d’identifier et d’exploiter des failles à une vitesse inédite, entreprises et États doivent revoir d’urgence leurs défenses.
+- Passer la publicitéEt si nous n’avions encore rien vu ?.
+- La France se remet tout juste d’un été suffocant, marqué par une série de piratages ayant touché certains de ses plus cruciaux services publics.
+- Direction générale des finances publiques, France Travail, ministère de l’Éducation nationale ou encore site du ministère du Logement… Le patrimoine numérique de l’État a été sérieusement secoué en l’espace de deux mois.
+
+## [Piratage de la DGFiP : deux suspects interpellés, l'enquête se poursuit - Next.ink](https://next.ink/brief-article/piratage-de-la-dgfip-deux-suspects-interpelles-lenquete-se-poursuit/)  
+*Source : next.ink | Publication : 2026-09-04*
+
+- Piratage de la DGFiP : deux suspects interpellés, l’enquête se poursuit 2 min Sécurité Sécurité L’enquête lancée par la section cybercriminalité du parquet de Paris et confiée à l’office anti-cybercriminalité (Ofac) suite au piratage de la plateforme cet été de la Direction générale des finances publiques a débouché sur l’interpellation de deux suspects, rapporte Franceinfo.
+- Suite à son interpellation le 18 août, un homme de 18 ans a été mis en examen le 20 août et placé en détention provisoire.
+- Un second suspect âgé de 16 ans, interpellé le 26 août, a été libéré après sa garde à vue.
+- Son matériel sera cependant utilisé par les enquêteurs.
+
+## [Votre téléphone n'a plus de réseau ? Attention à cette arnaque qui peut vider votre compte ...](https://www.01net.com/actualites/votre-telephone-na-plus-de-reseau-attention-a-cette-arnaque-qui-peut-vider-votre-compte-en-banque.html)  
+*Source : 01net.com | Publication : 2026-09-04*
+
+- Les cas d’arnaque au SIM swapping se sont multipliés ces derniers temps.
+- À un tel point que la gendarmerie a partagé un message de prévention sur les réseaux sociaux.
+- Il faut dire qu’un détournement de la ligne téléphonique d’une victime peut mener à un accès direct à ses comptes en banque.
+- D’ailleurs, le piratage de cartes SIM est aujourd’hui devenu un véritable business.
+
+## [Piratage du fisc : un membre présumé du groupe de pirates informatiques « Zerobytes » écroué](https://www.sudouest.fr/economie/cybersecurite/piratage-du-fisc-un-membre-presume-du-groupe-de-pirates-informatiques-zerobytes-ecroue-30483643.php)  
+*Source : sudouest.fr | Publication : 2026-09-04*
+
+- Un jeune homme de 18 ans, soupçonné d’appartenir au collectif de pirates informatiques à l’origine du vol de données de 678 000 contribuables, est placé en détention provisoire Un homme de 18 ans, suspecté par la justice d’être l’un des membres du groupe de pirates informatiques « Zerobytes » et d’avoir participé aux attaques contre le fisc cet été, a été mis en examen et placé en détention provisoire, a annoncé vendredi le parquet de Paris.
+
+## [<b>Cybersécurité</b> | Des millions de permis de conduire à vendre sur le web obscur](https://www.lapresse.ca/affaires/techno/2026-09-04/cybersecurite/des-millions-de-permis-de-conduire-a-vendre-sur-le-web-obscur.php)  
+*Source : lapresse.ca | Publication : 2026-09-04*
+
+- Cybersécurité Des millions de permis de conduire à vendre sur le web obscur 153 millions de pièces d’identité, principalement des permis de conduire, y compris au moins 1,1 million de permis canadiens, sont à vendre sur le web obscur, ont découvert plus tôt cette semaine des experts américains en cybersécurité.
+- Le gouvernement du Québec est au courant de la situation, mais ne dit pas s’il y a des victimes québécoises.
+- Le ministère de la Cybersécurité et du Numérique, responsable de ce genre de dossiers, se dit « au fait de la situation rapportée et la prend très au sérieux », mais il ne précise pas combien de pièces d’identité québécoises, comme des permis de conduire, pourraient être touchées par cette fuite.
+- Cela dit, il a été permis de savoir que la grande majorité des quelques 1,1 million de documents d’origine canadienne contenus dans cette opération sont des permis de conduire ontariens.
+
+## [Notariat : une fragilité chronique face aux cyber-menaces ? | LeMagIT](https://www.lemagit.fr/actualites/366649961/Notariat-une-fragilite-chronique-face-aux-cyber-menaces)  
+*Source : lemagit.fr | Publication : 2026-09-04*
+
+- Corgarashu - stock.adobe.com Notariat : une fragilité chronique face aux cybermenaces ?.
+- Depuis la fin 2022, des dizaines de millions d’euros auraient été détournés par le truchement de boîtes de messagerie d’offices notariaux compromis.
+- Dommage : les alertes n’avaient pas manqué avant cela.
+- Nos confrères du Monde viennent de révéler que des pirates ont détourné, en deux ans, au moins 35 millions d’euros en compromettant des offices notariaux.
+
+## [<b>Cybercriminalité</b> en Afrique centrale : la menace progresse plus vite que les défenses des États](https://enderi.fr/cybercriminalite-en-afrique-centrale-la-menace-progresse-plus-vite-que-les-defenses-des-etats/)  
+*Source : enderi.fr | Publication : 2026-09-04*
+
+- Piratage de comptes, hameçonnage, fraude au mobile money, rançongiciels, vols de données bancaires : la transformation numérique de l’Afrique centrale s’accompagne d’une progression de la cybercriminalité.
+- Une étude publiée en août 2026 par l’Institut français des relations internationales (Ifri) montre que le Cameroun, le Gabon, le Tchad, la Centrafrique et le Congo ont commencé à construire leurs défenses, mais restent confrontés au manque de moyens techniques, à une coopération internationale encore insuffisante et à la faible sensibilisation des populations.
+- L’Afrique centrale connaît une transformation numérique rapide.
+- Le développement de la téléphonie mobile, des réseaux sociaux et surtout du paiement électronique crée de nouveaux usages économiques, mais également de nouvelles vulnérabilités.
+
+## [Piratage du site des impôts : l'ombre de « ChatNoir », pirate juvénile multi-mis en examen](https://www.lemonde.fr/societe/article/2026/09/04/piratage-du-site-des-impots-l-ombre-de-chatnoir-pirate-juvenile-multi-mis-en-examen_6765819_3224.html)  
+*Source : lemonde.fr | Publication : 2026-09-04*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [« Tout le monde est impacté » : face aux risques de cyberattaques, la création d'un ...](https://www.lunion.fr/id826000/article/2026-09-04/tout-le-monde-est-impacte-face-aux-risques-de-cyberattaques-la-creation-dun)  
+*Source : lunion.fr | Publication : 2026-09-04*
+
+- La filière cybersécurité du Grand Est se dote d'un nouvel outil, le Cyberpôle Marne Ardennes, lancé lors de cette 80e Foire de Châlons.
+
+## [OpenAI dévoile GPT-6 Astra, son modèle d'IA le plus puissant à ce jour - Siècle Digital](https://siecledigital.fr/2026/09/04/openai-devoile-gpt-6-astra-son-modele-dia-le-plus-puissant-a-ce-jour/)  
+*Source : siecledigital.fr | Publication : 2026-09-04*
+
+- Au fil des générations, les modèles bénéficient d’une meilleure autonomie.
+- C’est le cas pour GPT-6 Astra dévoilé le 3 septembre.
+- OpenAI estime qu’il s’agit de la version la plus intelligente.
+- Il peut interagir avec votre ordinateur, résoudre des problèmes scientifiques et même coder.
+
+## [ABB va moderniser une centrale nucléaire en Roumanie - 04/09/2026 à 16:00 - Boursorama](https://www.boursorama.com/bourse/actualites-amp/abb-va-moderniser-une-centrale-nucleaire-en-roumanie-cc965656559276f8fe2108e9006a2a29)  
+*Source : boursorama.com | Publication : 2026-09-04*
+
+- ABB va moderniser une centrale nucléaire en Roumanie information fournie par Zonebourse 04/09/2026 à 16:00 ABB a signé un contrat avec Ansaldo Nucleare pour moderniser les systèmes de contrôle et de sécurité de l'unité 1 de la centrale nucléaire de Cernavod?.
+- en Roumanie.
+- L'installation, située à environ 165 kilomètres à l'est de Bucarest, est exploitée par la Societatea Na?ionala Nuclearelectrica (SNN) et constitue la seule centrale nucléaire de Roumanie.
+- Le projet permettra de prolonger la durée de vie opérationnelle de l'Unité 1 de 30 années supplémentaires, contribuant à garantir la poursuite de la fourniture d'une alimentation à faible émission de carbone.
+
+## [ChatGPT-6 Astra débarque : pourquoi ce modèle inquiète en <b>cybersécurité</b> | MCETV](https://mcetv.ouest-france.fr/2026/chatgpt-6-astra-openai-cybersecurite/)  
+*Source : mcetv.ouest-france.fr | Publication : 2026-09-04*
+
+- ChatGPT-6 Astra débarque : pourquoi ce modèle inquiète en cybersécurité OpenAI a commencé à déployer ChatGPT-6, aussi baptisé Astra, présenté comme le modèle d’intelligence artificielle le plus puissant jamais lancé par l’entreprise.
+- Selon franceinfo, cette nouvelle version inquiète toutefois les experts en cybersécurité, au point d’être classée par OpenAI elle-même dans la catégorie des risques dits critiques.
+- Contrairement aux versions précédentes de ChatGPT, plutôt cantonnées à la conversation et à la rédaction de textes, Astra franchit un cap en matière d’autonomie.
+- Une évolution qui pourrait changer notre façon d’utiliser l’intelligence artificielle au quotidien, mais qui soulève aussi de nouvelles questions de sécurité.
 
 ## [Zscaler s'envole grâce à la demande en <b>cybersécurité</b> liée à l'IA - 03/09/2026 à 22:37](https://www.boursorama.com/bourse/actualites-amp/zscaler-s-envole-grace-a-la-demande-en-cybersecurite-liee-a-l-ia-2263996d12de7249ee8ebfe1140d4971)  
 *Source : boursorama.com | Publication : 2026-09-03*
