@@ -1,5 +1,160 @@
-# Résumés – 2026-09-04
+# Résumés – 2026-09-05
 
+
+## [Cyber actualités ZATAZ du 6 septembre](https://www.zataz.com/cyber-actualites-zataz-du-6-septembre/)  
+*Source : zataz.com | Publication : 2026-09-05*
+
+- Bonjour à toutes et tous Cette semaine, les fuites de données occupent une nouvelle fois une place majeure dans l’actualité cyber.
+- Au Togo, plus de 90 000 cartes d’identité seraient exposées, tandis qu’en Belgique un pirate revendique 148 251 fiches contenant notamment des IBAN.
+- L’Égypte est aussi visée par plusieurs revendications concernant des millions de données.
+- CareCloud confirme de son côté le vol d’informations médicales et personnelles de plus de 3,75 millions de personnes.
+
+## [Mac Mini M6, Mac Studio M5 Max, Ultra  ORLM-595 - Mac4Ever](https://www.mac4ever.com/mac/197867-mac-mini-m6-mac-studio-m5-max-ultra-orlm-595)  
+*Source : mac4ever.com | Publication : 2026-09-05*
+
+- Mac Mini M6, Mac Studio M5 Max, Ultra⎜ORLM-595 Par Didier Pulicani - Publié le Et oui les amis, c'est le week-end, l'heure de... refaire le Mac !.
+- L'émission hebdomadaire animée par Olivier Frigara revient cette semaine avec une actualité bien chargée !.
+- Au sommaire d’On refait le Mac : AMac Mini M6, Mac Studio M5 Max, Ultra Au sommaire d’On refait le Mac : Mac Mini M6, Mac Studio M5 Max, Ultra Au sommaire d’On refait le Mac : iPhone pliable, iPhone 18 Pro, nouveaux AirPods, Apple TV et peut-être le mystérieux HomePad !.
+- Que va dévoiler John Ternus ?.
+
+## [Burkina Faso : <b>Cybercriminalité</b>, cinq individus interpellés pour usurpation d'identité, faux et ...](https://www.koaci.com/article/2026/09/05/burkina-faso/societe/burkina-faso-cybercriminalite-cinq-individus-interpelles-pour-usurpation-didentite-faux-et-usage-de-faux_200228.html)  
+*Source : koaci.com | Publication : 2026-09-05*
+
+- Burkina Faso : Cybercriminalité, cinq individus interpellés pour usurpation d'identité, faux et usage de faux Vue des présumés délinquants (Ph) La Brigade Centrale de Lutte Contre la Cybercriminalité (BCLCC) a interpellé cinq présumés auteurs de faits d’usurpation d’identité, de faux et usage de faux, qui enregistraient délibérément des cartes SIM sous de fausses identités moyennant rémunération.
+- Les investigations menées par la Division des enquêtes (DE) ont permis d'abord de remonter jusqu’à un jeune homme âgé de 23 ans, employé de commerce exerçant dans la vente de cartes SIM et de téléphones devant les locaux d’un opérateur de téléphonie de la place.
+- Il était régulièrement en contact avec un dénommé Kevin, de nationalité béninoise et résidant dans son pays, identifié comme le cerveau présumé des opérations.
+- Ce dernier commandait, depuis son pays, des cartes SIM d’opérateurs de téléphonie mobile burkinabè déjà identifiées et orientait également certains de ses compatriotes vers celui-ci pour tout besoin de ce type.
+
+## [IA : GPT-6 Astra, une menace pour la <b>cybersécurité</b> ? - YouTube](https://www.youtube.com/watch?v=jXAGQklk5Vc)  
+*Source : youtube.com | Publication : 2026-09-05*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [GPT-6 Astra : le nouveau modèle d'IA, une menace pour la <b>cybersécurité</b> - TV5MONDE Info](https://information.tv5monde.com/international/video/gpt-6-astra-le-nouveau-modele-dia-une-menace-pour-la-cybersecurite-2836264?amp)  
+*Source : information.tv5monde.com | Publication : 2026-09-05*
+
+- GPT-6 Astra: le nouveau modèle d'IA, une menace pour la cybersécurité ?.
+- Le 05 Sep.
+- 2026 à 17h48 Mis à jour le Par.
+- TV5 JWPlayer Field Your browser doesn't support HTML5 video.
+
+## [Élections en Allemagne : la crainte de l'extrême droite - TV5MONDE Info](https://information.tv5monde.com/international/video/elections-en-allemagne-la-crainte-de-lextreme-droite-2836262?amp)  
+*Source : information.tv5monde.com | Publication : 2026-09-05*
+
+- Élections régionales en Allemagne: l’extrême droite donnée gagnante en Saxe-Anhalt, la communauté étrangère inquiète Le 05 Sep.
+- 2026 à 17h48 Mis à jour le Par.
+- TV5 JWPlayer Field Your browser doesn't support HTML5 video.
+- 2 minutes de lecture 2 minutes 30 secondes L’extrême droite allemande veut croire en sa victoire, ce dimanche 6 septembre, en Saxe-Anhalt.
+
+## [Cancers infantiles : un &quot;Septembre en or&quot; pour un meilleur accès aux soins](https://information.tv5monde.com/international/video/cancers-infantiles-un-septembre-en-or-pour-un-meilleur-acces-aux-soins-2836266?amp)  
+*Source : information.tv5monde.com | Publication : 2026-09-05*
+
+- Cancers infantiles: un "Septembre en or" pour un meilleur accès aux soins chez les enfants Le 05 Sep.
+- 2026 à 17h49 Mis à jour le Par Caroline GOSSE TV5 JWPlayer Field Your browser doesn't support HTML5 video.
+- 3 minutes de lecture 3 minutes 5 secondes Chaque année, le mois de septembre se pare d'or pour attirer l'attention sur une cause cruciale : les cancers infantiles.
+- À l'instar d'Octobre Rose pour le cancer du sein,"Septembre en Or" sensibilise le public et à mobiliser des ressources pour lutter contre les cancers qui touchent les enfants.
+
+## [<b>Cybersécurité</b> : le grand tournant pour l'administration ? - La Presse de Tunisie](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/)  
+*Source : lapresse.tn | Publication : 2026-09-05*
+
+- Cybersécurité : le grand tournant pour l’administration ?.
+- LE 2 septembre 2026, la Cheffe du gouvernement a promulgué la circulaire n°5 avec une ambition claire, celle de bâtir une véritable forteresse numérique autour de l’administration tunisienne.
+- Des sites officiels aux plateformes de services publics, en passant par les messageries d’État, l’ensemble du dispositif public est désormais soumis à un niveau d’exigence inédit.
+- Entre la généralisation des connexions cryptées, le renouvellement obligatoire des serrures numériques de sécurité, la double vérification pour l’accès des administrateurs, la protection contre le piratage par saturation de trafic et l’obligation d’héberger les données sur des serveurs agréés par l’État, l’exécutif verrouille chaque accès pour mettre les services publics à l’abri de toute attaque informatique.
+
+## [Global Sian Motors lance un recrutement en RH et IT - Dreamjob.ma](https://www.dreamjob.ma/emploi/global-sian-motors-lance-un-recrutement-en-rh-et-it/)  
+*Source : dreamjob.ma | Publication : 2026-09-05*
+
+- Global Sian Motors recrute 2 profils à Casablanca afin de renforcer ses fonctions Ressources Humaines et Systèmes d’Information.
+- Les postes ouverts concernent un(e) Directeur(trice) des Ressources Humaines et un IT Manager orienté gouvernance des systèmes et cybersécurité.
+- Global Sian Motors (GSM) est un acteur du secteur automobile au Maroc, spécialisé dans la représentation et le développement de marques internationales.
+- L’entreprise représente notamment Changan et Deepal et développe progressivement son réseau au Maroc.
+
+## [Piratage de la DGFiP : deux interpellations et une mise en examen - ZDNET](https://www.zdnet.fr/actualites/piratage-de-la-dgfip-deux-interpellations-et-une-mise-en-examen-502870.htm)  
+*Source : zdnet.fr | Publication : 2026-09-05*
+
+- Le parquet de Paris a confirmé de récentes avancées judiciaires dans la compromission des données de plus de 678 000 particuliers et professionnels.
+- Deux suspects affiliés au collectif « ZeroBytes » ont été interpellés fin août par l'Office anti-cybercriminalité (Ofac), relève l'AFP.
+- Le premier, un homme de 18 ans arrêté dès le 18 août, est décrit comme un pirate chevronné.
+- Domicilié en région parisienne, il est déjà mis en examen à deux reprises pour des faits similaires commis alors qu'il était mineur, il a été placé en détention provisoire.
+
+## [Meilleur qu'un humain, le nouveau ChatGPT 6 nous fait entrer dans une nouvelle ère, digne de la SF](https://www.jeuxvideo.com/news/2102361/meilleur-qu-un-humain-le-nouveau-chatgpt-6-nous-fait-entrer-dans-une-nouvelle-ere-digne-de-la-sf.htm)  
+*Source : jeuxvideo.com | Publication : 2026-09-05*
+
+- Un cap historique vient d'être franchi chez OpenAI avec le lancement de GPT-6 Astra, marquant l'arrivée officielle des agents autonomes capables de piloter un ordinateur et de tous nous dépasser… Avènement de l'IAG : La direction d'OpenAI annonce avoir atteint l'intelligence artificielle générale avec GPT-6 Astra, un modèle agentique capable de contrôler directement les systèmes informatiques.
+- - Automatisation et productivité : Dotée d'une vitesse d'exécution inédite et d'une mémoire structurée, cette architecture surpasse les performances humaines dans l'accomplissement autonome de tâches complexes d'ingénierie et de recherche.
+- - Risques de cybersécurité : La capacité du modèle à découvrir et exploiter de manière autonome des failles Zero-Day a contraint OpenAI à classer la menace comme critique et à restreindre strictement ses fonctions offensives.
+- - Alors que la compétition s’intensifie avec des rivaux de plus en plus agressifs, la firme de Sam Altman passe à la vitesse supérieure.
+
+## [Pourquoi l'État français n'arrive plus à protéger vos données personnelles - Slate](https://www.slate.fr/tech-internet/etat-francais-donnees-personnelles-numerique-fuites-informatique-hackers)  
+*Source : slate.fr | Publication : 2026-09-05*
+
+- Pourquoi l'État français n'arrive plus à protéger vos données personnelles Pendant l'été, la DGFiP a subi deux attaques majeures en toute discrétion.
+- En ajoutant 678.000 dossiers à la liste déjà longue des fuites publiques, l'administration française montre une vulnérabilité critique face aux hackers.
+- Des failles de plus en plus manifestes dans les systèmes informatiques de l'État français: après l'Éducation nationale, l'Agence nationale des titres sécurisés (ANTS) ou encore l'Urssaf, c'est au tour de la DGFiP d'être victime d'un piratage.
+- Deux intrusions sur le site des impôts sont survenues cet été, entraînant le vol de données de 678.000 particuliers et professionnels.
+
+## [TSIMBAZAZA - Les députés ajournent le vote du projet de loi sur la <b>cybercriminalité</b>](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html)  
+*Source : lexpress.mg | Publication : 2026-09-05*
+
+- Le vote du projet de loi sur la cybercriminalité est reporté.
+- Les députés veulent approfondir le texte, étant donné les enjeux liés aux impératifs sécuritaires et à la préservation des libertés fondamentales.
+- Rendez-vous à une prochaine session.
+- Au terme de la session extraordinaire de l’Assemblée nationale, hier, les députés se sont accordés sur le report à une prochaine session parlementaire du vote de cinq projets de loi, dont celui portant refonte de la loi sur la cybercriminalité.
+
+## [OpenAI prévoit un cadre de signalement des incidents de désalignement après l'incident Wiki](https://www.unite.ai/fr/openai-plans-misalignment-incident-reporting-framework-after-wiki-incident/)  
+*Source : unite.ai | Publication : 2026-09-05*
+
+- Modèles et plateformes d’IA OpenAI prévoit un cadre de signalement des incidents de désalignement après l’incident Wiki Ajouter Unite.AI à vos sources préférées sur GoogleOpenAI a déclaré le 5 septembre 2026 qu’elle élabore un cadre définissant quand et comment elle signalera les incidents de désalignement qui apparaissent pendant la formation, l’évaluation et le déploiement, présentant ce travail comme une réponse à « l’incident wiki », au cours duquel ses agents ont écrit sur plusieurs sites publics d’internet.
+- L’engagement est apparu dans une publication sur le compte officiel X d’OpenAI, où l’entreprise a déclaré qu’il était grand temps de définir des normes pour partager les incidents de désalignement plutôt que seulement les propriétés de désalignement de ses modèles.
+- OpenAI a indiqué que le cadre sera partagé dans les semaines à venir et qu’en parallèle, elle collabore avec des dizaines d’agences de régulation gouvernementales du monde entier sur ces questions.
+- Comment OpenAI décrit ses pratiques actuelles de divulgation Dans la publication, OpenAI a indiqué qu’elle a historiquement traité le désalignement principalement comme une question de recherche, communiquée via des publications scientifiques telles que les fiches système.
+
+## [<b>Cybersécurité</b> : Les administrations tunisiennes face à de nouvelles obligations - Webdo.tn](https://www.webdo.tn/fr/actualite/national/cybersecurite-les-administrations-tunisiennes-face-a-de-nouvelles-obligations/403557/)  
+*Source : webdo.tn | Publication : 2026-09-05*
+
+- La circulaire gouvernementale n°05 du 2 septembre 2026 impose de nouvelles obligations de cybersécurité aux administrations et entreprises publiques.
+- Elle prévoit notamment l’authentification multifacteur (MFA), l’hébergement auprès d’opérateurs agréés, l’utilisation du protocole HTTPS, un audit annuel de sécurité et le signalement immédiat des incidents.
+- Elle interdit également la transmission de documents administratifs via les applications de messagerie ou les réseaux sociaux et réserve les échanges officiels aux courriels institutionnels en « .tn ».
+- Le MFA devient obligatoire L’une des principales mesures concerne l’authentification multifacteur, qui doit renforcer la protection des accès aux systèmes et services numériques publics.
+
+## [Helium, le navigateur Chromium sans Google avec uBlock intégré - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/14573/helium-navigateur-chromium-sans-google)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-05*
+
+- Helium, le navigateur Chromium sans Google avec uBlock intégré Helium est le navigateur Chromium qui retire les services Google, la télémétrie et la publicité, et démarre avec uBlock Origin déjà activé.
+- Gratuit et open source pour Windows, macOS et Linux.
+- 1.Qu'est-ce qu'Helium et qui le développe - 2.Ce qu'Helium retire à Chrome, et ce qu'il ajoute - 3.uBlock et Manifest V2, le point qui pèse le plus - 4.Là où Helium déçoit, sans détour - 5.Disponibilité en France - 6.Questions fréquentes (FAQ) - 7.Conclusion - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+- - Helium est un navigateur basé sur Chromium qui écarte les services de Google, la télémétrie et la publicité, et démarre avec uBlock Origin déjà activé.
+
+## [Instructions pour identifier et vérifier avec précision les avis de retard de paiement des ...](https://www.vietnam.vn/fr/huong-dan-cach-nhan-biet-va-kiem-tra-chinh-xac-khi-nhan-thong-bao-no-tien-dien)  
+*Source : vietnam.vn | Publication : 2026-09-05*
+
+- Face à la sophistication croissante des arnaques, les clients doivent savoir comment vérifier les informations par les voies officielles.
+- Une tactique courante utilisée par ces escrocs consiste à appeler ou à envoyer des SMS aux clients en prétendant qu'ils n'ont pas payé leur facture d'électricité, puis à leur demander de les ajouter sur les réseaux sociaux, de cliquer sur des liens suspects, de scanner des codes QR ou d'installer des applications sous prétexte de mettre à jour leur contrat et d'effectuer des paiements.
+
+## [Saint-Orens-de-Gameville. Une superbe rentrée au lycée - ladepeche.fr](https://www.ladepeche.fr/2026/09/05/une-superbe-rentree-au-lycee-13536777.php)  
+*Source : ladepeche.fr | Publication : 2026-09-05*
+
+- Saint-Orens-de-Gameville.
+- Une superbe rentrée au lycée Ce lundi 31 août a sonné la fin des vacances scolaires pour tous les enseignants et personnel administratifs ; donc Hervé Ameziane, proviseur, accompagné de Agnés Marty et Valérie Teinturier, proviseures adjointes, a eu le plaisir d’accueillir les quelque cent -vingt- six enseignants pour cette prérentrée du lycée Pierre-Paul Riquet.
+- Les emplois du temps distribués, les dernières informations et directives pour cette rentrée ont été donnés, surtout en matière de sécurité, comme une zone réservée à l’intérieur de l’établissement pour les attroupements des lycéens au moment des poses, évitant ainsi des rassemblements devant l’établissement.
+- Le lycée voit cette année accueillir mille six cent quarante et un élèves.
+
+## [Fuite de données aux impôts : la France arrête un « pirate chevronné » - 01net.com](https://www.01net.com/actualites/fuite-donnees-impots-france-arrete-pirate-chevronne.html)  
+*Source : 01net.com | Publication : 2026-09-05*
+
+- L’enquête sur le piratage des données du fisc commence à porter ses fruits.
+- Domicilié en région parisienne, un jeune homme de 18 ans a été interpellé le 18 août 2026 par les forces de l’ordre, annonce le parquet de Paris dans un communiqué de presse.
+- Le suspect a été mis en examen deux jours plus tard.
+- Le supposé pirate est actuellement en détention provisoire.
+
+## [Jouvet SAS : Qilin revendique une cyberattaque contre l'entreprise sarthoise](https://www.cyberattaque.org/jouvet-sas-qilin-revendique-une-cyberattaque-contre-lentreprise-sarthoise/)  
+*Source : cyberattaque.org | Publication : 2026-09-05*
+
+- Jouvet SAS, entreprise française spécialisée dans la plomberie, le chauffage et la climatisation, est désormais revendiquée comme victime par le groupe de ransomware Qilin.
+- L’entreprise a été ajoutée ce 5 septembre 2026 au site d’extorsion utilisé par les cybercriminels.
+- À ce stade, Qilin ne communique toutefois aucun volume de données et n’a publié aucun échantillon permettant de vérifier la nature des informations qui auraient été récupérées.
+- Une entreprise du bâtiment implantée près du Mans Basée à Allonnes, dans la Sarthe, Jouvet SAS intervient notamment dans la plomberie, le chauffage, la climatisation, la ventilation, l’électricité et le traitement de l’eau.
 
 ## [Spectra ID renforce la protection de Microsoft Entra ID - L'INFORMATICIEN](https://www.linformaticien.com/magazine/cybersecurite/65209-spectra-id-renforce-la-protection-de-microsoft-entra-id.html)  
 *Source : linformaticien.com | Publication : 2026-09-04*
