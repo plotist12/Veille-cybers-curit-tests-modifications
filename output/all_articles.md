@@ -1,5 +1,158 @@
-# Résumés – 2026-09-05
+# Résumés – 2026-09-06
 
+
+## [Automatisme industriel : pourquoi la <b>cybersécurité</b> et l'IA redéfinissent les règles du jeu](https://www.usinenouvelle.com/publi-redactionnel/lingenierie-au-service-de-la-performance-industrielle/automatisme-industriel-pourquoi-la-cybersecurite-et-lia-redefinissent-les-regles-du-jeu.I7WECOZ7RBC6FDQ3WL2KREFDN4.html)  
+*Source : usinenouvelle.com | Publication : 2026-09-06*
+
+- « L’automatisme industriel consiste, schématiquement, à faire dialoguer des capteurs, des automates et des actionneurs pour piloter une chaîne de production », explique Lucas Chevalier, consultant expert en automatisme et supervision chez CGI.
+- Pourtant, il ne s’agit aujourd’hui pas seulement d’automatiser.
+- Beaucoup de sites le sont déjà, et ce (parfois) depuis longtemps.
+- Le sujet est plutôt de moderniser des installations construites par couches successives et fonctionnant donc sur des équipements anciens. «.
+
+## [RiseupVPN : Comment utiliser cette application sous Linux pour utiliser un VPN - DesdeLinux](https://blog.desdelinux.net/fr/riseupvpn-vpn/)  
+*Source : blog.desdelinux.net | Publication : 2026-09-06*
+
+- Pour toute personne possédant un ordinateur à domicile ou en utilisant un au travail, la cybersécurité est généralement la principale préoccupation, et devrait l'être.
+- Elle englobe la protection de la vie privée, l'anonymat et la sécurité informatique.
+- Cependant, les utilisateurs à domicile manquent souvent des connaissances techniques nécessaires pour atteindre cet objectif efficacement par eux-mêmes, ce qui peut rendre la tâche plus difficile.
+- En revanche , pour ceux qui utilisent un système d'exploitation basé sur GNU/Linux , c'est généralement beaucoup plus simple, sûr et gratuit, car, comme mentionné précédemment, de nombreuses applications sont disponibles pour différents usages.
+
+## [<b>Cybersécurité</b>, Cloud, IA… le Maroc, eldorado des géants de la «tech](https://aujourdhui.ma/economie/cybersecurite-cloud-ia-le-maroc-eldorado-des-geants-de-la-tech)  
+*Source : aujourdhui.ma | Publication : 2026-09-06*
+
+- Cybersécurité , Cloud, IA… le Maroc, eldorado des géants de la «tech ... cybersécurité et de cloud Computing.
+- Selon le ministère, les échanges.
+
+## [J'ai demandé à Gemini et à Claude de rédiger mes réponses par e-m ... - ZDNET](https://www.zdnet.fr/pratique/jai-demande-a-gemini-et-a-claude-de-rediger-mes-reponses-par-e-mail-mais-il-ny-en-a-quun-qui-ecrit-vraiment-comme-moi-502812.htm)  
+*Source : zdnet.fr | Publication : 2026-09-06*
+
+- Les points clés à retenir sur les capacités de Claude et Gemini pour la rédaction de courriel Gemini alimente «Aide-moi à écrire » pour plus d’efficacité dans Gmail.
+- - Vous pouvez utiliser Gemini ou Claude pour rédiger des e-mails adaptés au contexte.
+- - Mes tests ont montré que Claude était plus performant pour s’adapter au ton et aux exigences.
+- - Il y a trois ans, j’ai commencé à utiliser « Aide-moi à écrire », l’une des premières tentatives de Google en matière d’IA appliquée.
+
+## [Des hackers réclament 2 millions de dollars en Bitcoin à l'Allemagne, Berlin refuse de payer](https://fr.finance.yahoo.com/actualites/hackers-réclament-2-millions-dollars-164004776.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-09-06*
+
+- Le gouvernement de l'État de Berlin a refusé une rançon de 30 Bitcoin, et les hackers à l'origine de l'attaque ont publié 5,7 téraoctets de données dérobées sur le dark web.
+- Le groupe de ransomware Rhysida avait ouvert les enchères à 30 BTC.
+- Berlin a laissé passer la date limite au lieu de payer.
+- Pourquoi la demande de rançon en Bitcoin a échoué Rhysida, un groupe spécialisé dans le ransomware actif depuis 2023, proposait les fichiers au plus offrant.
+
+## [PARIS : <b>Cybersécurité</b> - L'alarmant décalage entre la menace <b>ransomware</b> et les protections ...](https://presseagence.fr/paris-cybersecurite-lalarmant-decalage-entre-la-menace-ransomware-et-les-protections-des-entreprises/)  
+*Source : presseagence.fr | Publication : 2026-09-06*
+
+- PARIS : Cybersécurité – L’alarmant décalage ent… Partager : PARIS : Cybersécurité – L’alarmant décalage entre la menace ransomware et les protections des entreprises Une étude Omdia révèle que si 83 % des entreprises ont été victimes de ransomwares, seules 16 % disposent des sauvegardes immuables jugées essentielles.
+- La menace des rançongiciels, ou ransomwares, s’intensifie et les entreprises peinent de plus en plus à s’en remettre.
+- C’est le constat d’une nouvelle étude publiée le 1er septembre 2026 par le cabinet d’analyse Omdia, à la demande d’Object First, spécialiste du stockage de sauvegardes.
+- L’enquête, menée auprès de 700 professionnels en Europe et aux États-Unis, met en lumière une progression inquiétante des attaques et une baisse significative de la capacité des organisations à restaurer leurs données.
+
+## [C'est quoi le SIM-swapping ? Cette arnaque peut vider vos comptes en 1 min - Le Progrès](https://www.leprogres.fr/videos/c-est-quoi-le-sim-swapping-cette-arnaque-peut-vider-vos-comptes-en-1-min-3k3m3x5)  
+*Source : leprogres.fr | Publication : 2026-09-06*
+
+- C'est quoi le SIM-swapping ?.
+- Cette arnaque peut vider vos comptes en 1 min Cette nouvelle arnaque permet aux escrocs de prendre le contrôle d’un numéro de téléphone, puis d'accéder aux comptes de leurs victimes.
+- Comment faire attention face à cette arnaque en recrudescence ?.
+- #ebrainfo #arnaque #escroquerie Vidéos A la Une - Le Progrès Elle installe des toilettes sèches chez elle 06 sept.
+
+## [Les agences de <b>cybersécurité</b> américaines et britanniques révèlent les méthodes de piratage russes](https://www.arabnews.fr/international/les-agences-de-cybersecurite-americaines-et-britanniques-revelent-les-methodes-de-piratage-russes-113086)  
+*Source : arabnews.fr | Publication : 2026-09-06*
+
+- WASHINGTON (Reuters): Les agences américaines et britanniques ont divulgué jeudi dernier les détails des méthodes de «force brute» qui, selon elles, ont été utilisées par les services de renseignement russes pour tenter de pénétrer dans les services cloud de centaines d'agences gouvernementales, de sociétés énergétiques et d'autres organisations.
+- Un avis publié par l'Agence de sécurité nationale des États-Unis précise que ces attaques ont été menées par des agents qui seraient liés au GRU, le service de renseignement militaire russe, qui a déjà été mêlé à des cyberattaques importantes à l'étranger ainsi qu’à des actions qui avaient pour objectif de perturber les élections américaines de 2016 et de 2020.
+- Dans un communiqué, le directeur de la cybersécurité de la National Security Agency (NSA), Rob Joyce, déclare que la campagne est «probablement en cours à l'échelle mondiale».
+- Les attaques par force brute impliquent la pulvérisation automatisée de sites grâce à l’utilisation de mots de passe potentiels qui finissent par permettre aux pirates d’en forcer l’accès.
+
+## [Piratage du fisc : deux suspects arrêtés après le vol de données, la DGFiP évoque une ... - Melty](https://www.melty.fr/divers/piratage-du-fisc-deux-suspects-arretes-apres-le-vol-de-donnees-la-dgfip-evoque-une-excellente-nouvelle-mais-sexcuse-a-nouveau-2345020.html)  
+*Source : melty.fr | Publication : 2026-09-06*
+
+- Piratage du fisc : deux suspects arrêtés après le vol de données, la DGFiP évoque une "excellente nouvelle" mais s’excuse à nouveau Le piratage du fisc a franchi une nouvelle étape judiciaire avec l'interpellation de deux suspects liés aux attaques contre la Direction générale des finances publiques (DGFiP) à l'été 2026.
+- Sur France Inter, la directrice générale Amélie Verdier a salué "une excellente nouvelle" après ces arrestations, tout en qualifiant le "vol de données" de "grave".
+- Entre fin juin et fin juillet 2026, le groupe de hackers ZeroBytes a revendiqué deux intrusions dans les systèmes de la DGFiP, au cours desquelles les données d'au moins 678.000 particuliers et entreprises ont été copiées.
+- La DGFiP indique que 350.000 particuliers ont vu s'échapper leur identité, leur adresse, le revenu fiscal de référence, le quotient familial et le taux de prélèvement à la source, ouvrant la voie à des hameçonnages très ciblés.
+
+## [<b>Cybersécurité</b> : 14 actualités majeures du 6 septembre 2026 (dont le G7)](https://dcod.ch/2026/09/06/cybersecurite-14-actualites-majeures-du-6-septembre-2026-dont-le-g7/)  
+*Source : dcod.ch | Publication : 2026-09-06*
+
+- Faits marquants de la semaine Le groupe de travail cybersécurité du G7 appelle à accélérer la transition vers la « post-quantum cryptography » (chiffrement résistant aux ordinateurs quantiques) et juge qu’on ne peut plus la repousser pour les systèmes et données critiques.
+- - La Commission européenne classe ChatGPT, Reddit et Roblox parmi les plus grands services du DSA, après au moins 45 millions d’utilisateurs mensuels dans l’Union européenne, avec quatre mois (jusqu’à fin décembre) pour se conformer.
+- - Une juge fédérale estime inconstitutionnelle l’inscription d’Anthropic sur une liste noire du Pentagone, qualifiant la décision de « représailles » et de mesure « arbitraire et capricieuse » liée à un litige sur des usages militaires de l’IA.
+- - OpenAI publie son modèle Astra, présenté comme un « major advance » et doté d’un niveau « critical » de capacité cybersécurité (pouvant compromettre des systèmes), après un incident d’alignement ayant entraîné une pause d’entraînement et des restrictions d’accès.
+
+## [<b>Cybersécurité</b> : Kaliop muscle son ancrage toulousain en rachetant Confluences IT](https://www.touleco.fr/Kaliop-muscle-son-ancrage-toulousain-en-rachetant-Confluences-IT,53411)  
+*Source : touleco.fr | Publication : 2026-09-06*
+
+- Muscler son ancrage local grâce à une croissance externe.
+- Voilà ce que vient de réaliser le groupe montpelliérain Kaliop, spécialiste du digital et de la transformation numérique, en faisant l’acquisition, ce 26 août, de Confluences IT, société toulousaine d’assistance technique fondée en 2012 et détenue jusqu’ici par le groupe Orians.
+- Cette acquisition enrichit le socle d’expertises du groupe et renforce sa capacité à répondre à des besoins d’accompagnement, du conseil à la mise en œuvre.
+- Elle permet également un modèle d’accompagnement hybride : à la fois des équipes en plateau, mobilisées collectivement sur des projets ou en digital factory, et des consultants en régie, déployés directement chez les clients. «.
+
+## [Climat, <b>cybersécurité</b>, dette : l'été de tous les dangers et la fin de l'illusion française](https://www.challenges.fr/economie/climat-cybersecurite-dette-lete-de-tous-les-dangers-et-la-fin-de-lillusion-francaise_645548)  
+*Source : challenges.fr | Publication : 2026-09-06*
+
+- Climat, cybersécurité, dette : l’été de tous les dangers et la fin de l’illusion française Des incendies aux cyberattaques contre les services publics, cet été a fait tomber une même illusion, celle d’une France durablement protégée.
+- S’adapter à ce nouveau monde aura un coût.
+- Continuer à croire que nous sommes à l’abri en aura un bien plus élevé.
+- Nous pensions être protégés.
+
+## [<b>Cybersécurité</b> en Chine : les conseils d'I-TRACING à Paris - Presse Agence](https://presseagence.fr/paris-pierre-malgorn-i-tracing-la-cybersecurite-un-veritable-accelerateur-de-croissance-en-chine/)  
+*Source : presseagence.fr | Publication : 2026-09-06*
+
+- PARIS : Pierre MALGORN (I-TRACING) : « La cybersécurité, un… Partager : PARIS : Pierre MALGORN (I-TRACING) : « La cybersécurité, un véritable accélérateur de croissance en Chine » Pour l’expert I-TRACING, réussir en Chine impose une vision pragmatique de la cybersécurité, transformant la contrainte en levier de performance.
+- Alors que la Chine représente un marché stratégique pour près de 2 100 entreprises françaises, la perception d’un risque cyber élevé constitue souvent un frein majeur à leur développement.
+- Selon une analyse d’I-TRACING, pure-player européen des services de cybersécurité, cette appréhension est largement fondée sur un malentendu.
+- Loin d’être une barrière technique insurmontable, la cybersécurité en Chine relève avant tout d’une approche de gouvernance et d’adaptation culturelle qui, une fois maîtrisée, devient un avantage compétitif.
+
+## [GPT-6 Astra: le nouveau modèle d'IA, une menace pour la <b>cybersécurité</b> - TV5MONDE Info](https://information.tv5monde.com/international/video/gpt-6-astra-le-nouveau-modele-dia-une-menace-pour-la-cybersecurite-2836264)  
+*Source : information.tv5monde.com | Publication : 2026-09-06*
+
+- TV5 JWPlayer Field La société américaine OpenAI a lancé, ce jeudi 3 septembre, son nouveau modèle d’intelligence artificielle, GPT-6 Astra.
+- Cette nouvelle génération peut créer des documents, des feuilles de calcul et des présentations, en s’adaptant aux modifications apportées par l’utilisateur au cours de son travail.
+
+## [SAMI-AEC conclut sa participation au LEAP 26 avec la signature de partenariats ...](https://www.spa.gov.sa/fr/N2669963)  
+*Source : spa.gov.sa | Publication : 2026-09-06*
+
+- La société a signé un mémorandum d'entente avec « Fortra » visant à renforcer la présence des solutions de cybersécurité sur les marchés.
+
+## [Pegasus et NoviSpy ciblent 14 opposants politiques en Serbie - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/09/06/pegasus-et-novispy-serbie/)  
+*Source : dcod.ch | Publication : 2026-09-06*
+
+- TL;DR : L’essentiel Au moins quatorze membres de la société civile serbe, incluant des étudiants contestataires et des élus d’opposition, ont subi des tentatives d’espionnage via des programmes malveillants sophistiqués au cours de l’année 2026.
+- - Une analyse technique a confirmé l’infection d’un téléphone par Pegasus sans aucune interaction de la victime, grâce à une vulnérabilité présente dans la messagerie iMessage qu’un correctif d’Apple a neutralisée plus tard.
+- - Un second outil malveillant nommé NoviSpy a été détecté sur l’appareil d’un manifestant après sa garde à vue par les autorités, dans un contexte électoral marqué par de fortes contestations populaires.
+- - Au moins quatorze représentants de la société civile serbe ont été visés par un logiciel espion sophistiqué, marquant la plus importante campagne de surveillance numérique documentée dans le pays.
+
+## [Dans quelques jours, le Cyber Resilience Act va changer la sécurité de presque tous vos ... - Clubic](https://www.clubic.com/actualite-628393-dans-quelques-jours-le-cyber-resilience-act-va-changer-la-securite-de-presque-tous-vos-objets-connectes.html)  
+*Source : clubic.com | Publication : 2026-09-06*
+
+- Dès le 11 septembre 2026, le Cyber Resilience Act imposera aux fabricants de signaler les failles et incidents graves touchant leurs objets connectés.
+- Voici ce que ce règlement européen change concrètement pour vous.
+- La sécurité numérique change de dimension en France et en Europe.
+- Qu'il s'agisse des téléphones portables, routeurs, jouets connectés ou gestionnaires de mots de passe, plus aucun produit numérique vendu dans l'Union européenne n'échappera, à partir du vendredi 11 septembre, aux nouvelles règles de cybersécurité imposées par Bruxelles.
+
+## [L'IA redessine le métier d'avocat - Le Courrier du VietNam](https://lecourrier.vn/lia-redessine-le-metier-davocat/1354840.html)  
+*Source : lecourrier.vn | Publication : 2026-09-06*
+
+- >> La question de la confiance représente un défi majeur de la cybersécurité moderne >> FPT devient partenaire mondial d’OpenAI dans la transformation par l’IA >> Les vidéos verticales sont en train de transformer les réseaux sociaux >> Fondation d’un réseau mondial des experts vietnamiens en IA À Hô Chi Minh-Ville, où sont concentrés de nombreux avocats, entreprises et besoins juridiques diversifiés, l’application des technologies ouvre de nouvelles possibilités pour améliorer l’efficacité professionnelle, tout en posant de nouvelles exigences en matière de vérification des informations, de protection des données, de déontologie et de responsabilité humaine.
+- La technologie en appui, l’humain aux commandes Selon le juriste et avocat Dang Dinh Thinh, directeur du Centre de conseil juridique de Hô Chi Minh-Ville relevant de l’Association vietnamienne des juristes, l’IA n’est plus une technologie du futur.
+- Elle est désormais présente dans la vie quotidienne et transforme progressivement les modes d’apprentissage, de travail et de prise de décision, y compris dans le domaine juridique.
+- L’IA peut accélérer la recherche d’informations, faciliter le traitement des dossiers, soutenir la recherche juridique, la rédaction de contrats et la gestion des données, tout en réduisant certaines tâches administratives et répétitives.
+
+## [L'expert Ngo Minh Hieu évoque la structure des fausses informations et la vague d ... - Vietnam.vn](https://www.vietnam.vn/fr/chuyen-gia-ngo-minh-hieu-noi-ve-ma-tran-tin-gia-lan-song-lua-dao-ai)  
+*Source : vietnam.vn | Publication : 2026-09-06*
+
+- Demain (7 septembre), au centre de congrès Thiskyhall Sala (quartier d'An Khanh, Hô Chi Minh-Ville), plus de 1 000 délégués, dont des agences de gestion, des entreprises technologiques, des experts en cybersécurité et plus de 500 artistes, KOL, KOC (influenceurs) et créateurs de premier plan de tout le pays, se réuniront à l'occasion du 2e Sommet national des KOL (KOL Summit 2026).
+- Avec pour thème « Les KOL et le parcours de construction de la confiance numérique », ce forum national annuel se déroule à un moment où le cyberespace est confronté à une épreuve rigoureuse de conduite, d'éthique professionnelle et de sécurité de l'information face à la vague d'intelligence artificielle (IA).
+- Le KOL Summit 2026 devrait devenir un point de rencontre pour une génération d’« influenceurs » de plus en plus diversifiés dans leurs domaines, leurs formes créatives et leurs façons de créer de la valeur.
+- Dans un contexte où l'IA transforme rapidement la manière dont le contenu est créé, diffusé et reçu, la question n'est pas seulement de savoir qui a de l'influence, mais quelle valeur cette influence permettra de créer pour la communauté. «.
+
+## [Cameroun : Cybastion annonce un investissement de 42,3 milliards FCFA dans un ...](https://www.newsducamer.com/cameroun-cybastion-investissement-datacenter-douala/)  
+*Source : newsducamer.com | Publication : 2026-09-06*
+
+- Cybastion veut prendre position sur le marché camerounais des infrastructures numériques.
+- L’entreprise technologique basée en Virginie a annoncé son intention d’engager 42,3 milliards de FCFA, soit 75 millions de dollars, dans un projet comprenant un datacenter et une centrale électrique à Douala, dans le Littoral.
+- L’annonce a été faite le 27 août 2026 par l’ambassade des États-Unis au Cameroun, en marge du premier dialogue économique et commercial bilatéral entre les deux pays.
+- Le projet figurait parmi les nouvelles opportunités d’investissement et d’affaires américaines annoncées à cette occasion.
 
 ## [Cyber actualités ZATAZ du 6 septembre](https://www.zataz.com/cyber-actualites-zataz-du-6-septembre/)  
 *Source : zataz.com | Publication : 2026-09-05*
