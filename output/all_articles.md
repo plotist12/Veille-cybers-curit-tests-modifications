@@ -1,5 +1,160 @@
-# Résumés – 2026-09-06
+# Résumés – 2026-09-07
 
+
+## [Se protéger contre les cyberattaques avec la Chambre de commerce et d'industrie du Vaucluse](https://www.laprovence.com/article/region/44305529860891/se-proteger-contre-les-cyberattaques-avec-la-chambre-de-commerce-et-dindustrie-du-vaucluse)  
+*Source : laprovence.com | Publication : 2026-09-07*
+
+- Se protéger contre les cyberattaques avec la Chambre de commerce et d'industrie du Vaucluse Par Alexandra PORTLOCK Se protéger contre les cyberattaques, un enjeu stratégique qui concerne tout type d’entreprise.
+- La CCI du Vaucluse invite les entrepreneurs à une matinale sur la cybersécurité vendredi 11 septembre 2026.
+- Des thématiques de souveraineté numérique ou encore d’attaque d’objets connectés seront abordées.
+- Stratégie économique, données confidentielles, protection des collaborateurs : le numérique prend de plus en plus de place sur l’écran d’une entreprise.
+
+## [Mali: deux années de prison ferme requises contre le journaliste Abdrahamane Keïta - RFI](https://www.rfi.fr/fr/afrique/20260907-mali-deux-années-de-prison-ferme-requises-contre-le-journaliste-abdrahamane-keïta)  
+*Source : rfi.fr | Publication : 2026-09-07*
+
+- Mali: deux années de prison ferme requises contre le journaliste Abdrahamane Keïta Au Mali, le journaliste Abdrahamane Keïta a comparu ce lundi 7 septembre devant le pôle judiciaire contre la cybercriminalité.
+- Fin avril, l'armée malienne et l'Africa Corps russe avaient été chassés de Kidal après leur défaite face aux indépendantistes du FLA et aux jihadistes du Jnim, liés à al-Qaïda, qui contrôlent toujours la ville depuis.
+- Le directeur du journal Le Témoin avait été arrêté et emprisonné le 9 juin après avoir déploré sur un plateau de télévision que la ville soit désormais « administrée » par le Jnim.
+- Pour ce strict constat, le procureur du pôle anticybercriminalité a requis deux années de prison ferme.
+
+## [Le scientifique en chef d'OpenAI appelle à « ralentir » sur l'intelligence artificielle](https://fr.news.yahoo.com/sport/scientifique-chef-d-openai-appelle-154417857.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-09-07*
+
+- Le scientifique en chef d’OpenAI appelle à « ralentir » sur l’intelligence artificielle Et si l'intelligence artificielle allait trop vite pour nous ?.
+- Dans un texte publié dimanche 6 septembre sur le site d'OpenAI, Jakub Pachocki, son scientifique en chef, a expliqué redouter que le monde ne soit pas prêt à faire face aux conséquences des progrès de l'intelligence artificielle. «.
+- C'est une période qui appelle à une extrême prudence.
+- Je crains que personne ne soit préparé aux conséquences de la poursuite rapide de la progression de l'intelligence des machines », écrit-il.
+
+## [Cyberattaque contre le ministère de la Transition écologique - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/65214-cyberattaque-contre-le-ministere-de-la-transition-ecologique.html)  
+*Source : linformaticien.com | Publication : 2026-09-07*
+
+- Un nouvel incident qui intervient alors même que le chef du gouvernement, Sébastien Lecornu, presse l'administration de muscler sa cybersécurité.
+- La.
+
+## [<b>Cybercriminalité</b>, ça coûte cher (à contrer) - Radio France](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-07-septembre-2026-6078415)  
+*Source : radiofrance.fr | Publication : 2026-09-07*
+
+- Cybercriminalité, ça coûte cher (à contrer) Retour sur le vol de données de nos impôts : le Chat Noir et le prix des octets.
+- Publié le Cela pourrait être le titre d’un polar.
+- Vendredi, on a appris grâce à France Info et au Monde que la police avait arrêté fin août un individu suspecté d’avoir organisé le vol des données fiscales de centaines de milliers de contribuables.
+- Individu connu de la police pour cybercriminalité et surnommé le « Chat Noir ».
+
+## [Les meilleurs navigateurs privés en 2026 et celui que tout le monde oublie](https://pasqualepillitteri.it/fr/news/14982/meilleurs-navigateurs-prives-2026)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-07*
+
+- Les meilleurs navigateurs privés en 2026 et celui que tout le monde oublie Les meilleurs navigateurs privés de 2026 comparés, Brave, Mullvad Browser, Tor et Firefox, au-delà des biais des guides et le navigateur anti-fingerprinting que presque personne ne cite.
+- 1.Ce que veut vraiment dire "navigateur privé" - 2.Le classement 2026, qui gagne et pour quoi - 3.Brave, le quotidien que les guides punissent - 4.Mullvad Browser, celui que presque personne ne cite - 5.Tor Browser, l'anonymat vrai - 6.Firefox et ses forks, pratiques mais à configurer - 7.DuckDuckGo et Helium, les pratiques avec un astérisque - 8.Pourquoi un guide sur la vie privée peut être partial - 9.Comment choisir, en pratique - 10.Questions fréquentes - 11.Conclusions - 12.Notez cet article - 13.Articles Connexes - 14.Recherchez-vous un Ingénieur Logiciel?.
+- - Les navigateurs privés qui comptent en 2026 sont au nombre de cinq.
+- Le choix dépend de ce que tu veux cacher.
+
+## [&quot;Je refuse d'appliquer cette facturation électronique qui met en danger les données de mon ...](https://www.journaldunet.com/cybersecurite/1554485-je-refuse-que-cette-facturation-electronique-mette-en-danger-les-donnees-de-mon-entreprise-et-de-mes-partenaires/)  
+*Source : journaldunet.com | Publication : 2026-09-07*
+
+- Laurent Jaunaux (Intègr'Action) "Je refuse d'appliquer cette facturation électronique qui met en danger les données de mon entreprise et de mes partenaires" Depuis le 1er septembre 2026, toutes les entreprises assujetties à la TVA doivent recevoir leurs factures électroniquement.
+- Laurent Jaunaux, qui dirige une entreprise de conseil en cybersécurité, explique pourquoi il refuse d'appliquer cette réforme.
+- JDN.
+- Sur LinkedIn, vous avez rédigé un post dans lequel vous annoncez la résiliation de votre abonnement à une plateforme agréée de facturation électronique, alors même qu'il est désormais obligatoire.
+
+## [Le scientifique en chef d'OpenAI appelle à « ralentir » sur l'intelligence artificielle](https://www.huffingtonpost.fr/tech-futurs/article/le-scientifique-en-chef-d-openai-appelle-a-ralentir-sur-l-intelligence-artificielle_320036.html)  
+*Source : huffingtonpost.fr | Publication : 2026-09-07*
+
+- Et si l’intelligence artificielle allait trop vite pour nous ?.
+- Dans un texte publié dimanche 6 septembre sur le site d’OpenAI, Jakub Pachocki, son scientifique en chef, a expliqué redouter que le monde ne soit pas prêt à faire face aux conséquences des progrès de l’intelligence artificielle. «.
+- C’est une période qui appelle à une extrême prudence.
+- Je crains que personne ne soit préparé aux conséquences de la poursuite rapide de la progression de l’intelligence des machines », écrit-il.
+
+## [<b>Cybersécurité</b> : face aux fuites de données, l'Anssi renforce sa capacité d'intervention](https://www.lefigaro.fr/flash-eco/cybersecurite-face-aux-fuites-de-donnees-l-anssi-renforce-sa-capacite-d-intervention-20260907)  
+*Source : lefigaro.fr | Publication : 2026-09-07*
+
+- Cybersécurité : face aux fuites de données, l'Anssi renforce sa capacité d'intervention L'Agence nationale de la sécurité des systèmes d'information (Anssi) a annoncé lundi la création d'un dispositif censé mieux sécuriser les données des services de l'État face aux cyberattaques, après plusieurs piratages ayant visé des ministères et administrations françaises, dont le vol massif de données fiscales.
+- L'objectif est de «mieux circonscrire les attaques et de lutter plus réactivement contre les exfiltrations de données», souligne l'Anssi dans un communiqué.
+- Pour cela, ce mécanisme doit permettre «de mobiliser immédiatement les compétences et les moyens nécessaires à l'agence aux côtés des ministères concernés», ajoute l'Anssi.
+- Il donne notamment au gendarme français de la cybersécurité le pouvoir de «faire prendre aux ministères, dans des délais contraints, les mesures immédiates qui s'imposent pour protéger les données des citoyens confiées aux administrations».
+
+## [Une véritable autorité de l'Anssi en cas de cyberattaque - LeMagIT](https://www.lemagit.fr/actualites/366650134/Une-veritable-autorite-de-lAnssi-en-cas-de-cyberattaque)  
+*Source : lemagit.fr | Publication : 2026-09-07*
+
+- viperagp - stock.adobe.com Une véritable autorité de l'Anssi en cas de cyberattaque Le premier ministre avait demandé à l'Agence de se mettre en ordre de bataille pour renforcer la réponse en cas de cyberattaque contre des systèmes ministériels.
+- Et ça va passer par plus d'autorité.
+- La nouvelle risque de ne pas être accueillie par tous de très bon coeur.
+- Finis les éventuels atermoiements dans les ministères à l'occasion de la découverte d'une cyberattaque : l'Agence nationale de la sécurité des systèmes d'information (Anssi) va pouvoir désormais, dans une telle situation, « faire prendre aux ministères, dans des délais contraints, les mesures immédiates qui s'imposent pour protéger les données des citoyens confiés aux administrations ».
+
+## [CYDEF2026 réunira la communauté internationale de la cyberdéfense à Tokyo](https://defensehere.com/fr/cydef2026-reunira-la-communaute-internationale-de-la-cyberdefense-a-tokyo/)  
+*Source : defensehere.com | Publication : 2026-09-07*
+
+- Le Japon se prépare à accueillir CYDEF2026, une conférence internationale consacrée à la cyberdéfense, à la sécurité nationale et aux technologies émergentes, alors que les organisateurs cherchent à réunir des gouvernements, des entreprises de défense, des start-up et des institutions de recherche du Japon et de l’étranger.
+- La Conférence internationale CYDEF2026 sur l’innovation en matière de cyberdéfense se tiendra les 9 et 10 décembre à Iino Hall & Conference Center de Tokyo, sous le thème « La résilience nationale à l’ère de l’IA ».
+- Organisé par l’Organization for Cyber Defense Innovation (OCDI), l’événement devrait attirer environ 1 000 participants et près de 50 intervenants issus des gouvernements, des forces armées, du monde universitaire, des institutions de recherche et de l’industrie, avec une participation de l’Europe, de l’Amérique du Nord et de la région indo-pacifique.
+- La conférence abordera notamment des sujets tels que l’IA et la sécurité nationale, la protection des infrastructures critiques, la cybersécurité et la guerre moderne, la guerre cognitive et informationnelle, la sécurité spatiale, les technologies émergentes et la résilience nationale.
+
+## [<b>Cybersécurité</b>: face aux fuites de données, l'Anssi renforce sa capacité d'intervention](https://www.notretemps.com/depeches/cybersecurite-face-aux-fuites-de-donnees-l-anssi-renforce-sa-capacite-d-intervention-138041)  
+*Source : notretemps.com | Publication : 2026-09-07*
+
+- Cybersécurité: face aux fuites de données, l'Anssi renforce sa capacité d'intervention L'Agence nationale de la sécurité des systèmes d'information (Anssi) a annoncé lundi la création d'un dispositif censé mieux sécuriser les données des services de l'Etat face aux cyberattaques, après plusieurs piratages ayant visé des ministères et administrations françaises, dont le vol massif de données fiscales.
+- L'objectif est de "mieux circonscrire les attaques et de lutter plus réactivement contre les exfiltrations de données", souligne l'Anssi dans un communiqué.
+- Pour cela, ce mécanisme doit permettre "de mobiliser immédiatement les compétences et les moyens nécessaires à l'agence aux côtés des ministères concernés", ajoute l'Anssi.
+- Il donne notamment au gendarme français de la cybersécurité le pouvoir de "faire prendre aux ministères, dans des délais contraints, les mesures immédiates qui s'imposent pour protéger les données des citoyens confiées aux administrations".
+
+## [Question n°18006 : Piratage massif des données - été 2026 - Assemblée nationale](https://questions.assemblee-nationale.fr/q17/17-18006QE.htm)  
+*Source : questions.assemblee-nationale.fr | Publication : 2026-09-07*
+
+- Piratage massif des données - été 2026 Question de : M. Michel Barnier Paris (2e circonscription) - Droite Républicaine M. Michel Barnier attire l'attention de M. le ministre de l'action et des comptes publics sur le piratage informatique massif survenu au mois de juin 2026 et sur les défaillances de cybersécurité ayant pu permettre cette attaque qui interpelle à juste titre nombre des citoyens.
+- Alors que l'Union européenne a adopté la directive (UE) 2022/2555, dite « NIS 2 », afin de renforcer le niveau de cybersécurité des entités essentielles et importantes, notamment au moyen d'obligations en matière de prévention, de gestion des risques, de détection et de notification des incidents, la survenue d'un piratage d'une telle ampleur interroge sur l'effectivité des dispositifs de protection existants.
+- M. le député demande à M. le ministre de préciser par quel vecteur l'attaque a été rendue possible, quelles vulnérabilités ont été exploitées et pendant combien de temps les attaquants ont pu demeurer dans les systèmes concernés avant leur détection.
+- Il souhaite également savoir si les systèmes visés étaient soumis aux obligations de cybersécurité issues de la réglementation européenne et française, si les mesures prévues en matière d'authentification, de contrôle des accès, de segmentation des réseaux, de sauvegarde et de surveillance étaient effectivement mises en œuvre et si des audits ou tests d'intrusion avaient permis d'identifier antérieurement des failles qui n'auraient pas été corrigées ; et si ce n'est pas le cas, pourquoi ces réglementations françaises et européennes n'ont pas été mises en œuvre.
+
+## [<b>Cybersécurité</b> : pourquoi les défenseurs devraient se concentrer sur le comportement des ...](https://www.journaldunet.com/cybersecurite/1554383-cybersecurite-pourquoi-les-defenseurs-devraient-se-concentrer-sur-le-comportement-des-attaquants-plutot-que-sur-leurs-techniques-d-attaque/)  
+*Source : journaldunet.com | Publication : 2026-09-07*
+
+- Cybersécurité : pourquoi les défenseurs devraient se concentrer sur le comportement des attaquants plutôt que sur leurs techniques d'attaque Face à la multiplication des menaces, les organisations ont tout intérêt à concentrer leurs efforts sur ce qui ne change pas : la manière dont les cybercriminels opèrent.
+- ClickFix, Browser-in-the-Browser, deepfakes, phishing généré par intelligence artificielle, attaques sur les chaînes logistiques… Chaque semaine semble apporter son lot de nouvelles techniques d'attaque.
+- Cette accélération nourrit un sentiment largement partagé : celui d'une course permanente entre les cybercriminels et les défenseurs.
+- Pour les équipes de sécurité, le défi est immense.
+
+## [EKINOPS : Ekinops choisi par 1und1 Versatel pour le déploiement de ses services ... - Boursorama](https://www.boursorama.com/bourse/actualites-amp/ekinops-ekinops-choisi-par-1und1-versatel-pour-le-deploiement-de-ses-services-manages-b2b-nouvelle-generation-avec-un-portefeuille-de-connectivite-unifie-e22dbc66b4797302c0b2444a8c9a57c0)  
+*Source : boursorama.com | Publication : 2026-09-07*
+
+- EKINOPS : Ekinops choisi par 1und1 Versatel pour le déploiement de ses services managés B2B nouvelle génération avec un portefeuille de connectivité unifié information fournie par Actusnews 07/09/2026 à 18:00 PARIS, 7 septembre 2026 – EKINOPS (Euronext Paris – FR0011466069 – EKI), fournisseur européen de premier plan de solutions de réseaux optiques, de connectivité et de cybersécurité SASE destinées aux opérateurs de télécommunications et aux entreprises, annonce aujourd'hui que 1&1 Versatel GmbH, opérateur allemand de télécommunications basé à Düsseldorf et disposant d'une couverture nationale en fibre optique, a commencé à déployer le portefeuille de connectivité Ekinops.
+- Cette collaboration repose sur des équipements modernes installés chez les clients ( Customer Premise Equipment , CPE), tels que des routeurs, qui regroupent plusieurs services au sein d'une plateforme centralisée.
+- Pour les clients, cela signifie moins d'équipements sur site, une charge opérationnelle réduite et une intégration nettement simplifiée des nouveaux services.
+- Cette nouvelle génération d'équipements offre une flexibilité de connectivité maximale : outre la fibre, elle prend également en charge les connexions DSL ou mobiles.
+
+## [Budget 2027 : quand Lecornu écrit à Larcher pour lui demander d'assumer réellement des ...](https://www.lesechos.fr/politique-societe/gouvernement/budget-2027-quand-lecornu-ecrit-a-larcher-pour-lui-demander-dassumer-reellement-des-economies-2250208)  
+*Source : lesechos.fr | Publication : 2026-09-07*
+
+- Cybercriminalité : la rentrée de tous les dangers · Sébastien Lecornu a marqué sa rentrée par un séminaire de son gouvernement.
+- Décryptage.
+- La.
+
+## [Plateforme agréée : la <b>cybersécurité</b> devient un critère de choix - Compta Online](https://www.compta-online.com/plateforme-agreee-cybersecurite-ao8858)  
+*Source : compta-online.com | Publication : 2026-09-07*
+
+- Du 16 au 18 septembre 2026, le 81e Congrčs de l'Ordre des experts-comptables se tient ŕ Paris Expo Porte de Versailles, sur le thčme « [Re]fondation des cabinets : environnement, valeur, compétences ».
+- 328 partenaires, dont 70 nouvelles marques, y attendent 9 000 congressistes.
+- Euro-Information Épithčte donne rendez-vous aux cabinets sur le stand R475, aux côtés du Crédit Mutuel et du CIC.
+- Un stand qui réunit l'éditeur et ses deux réseaux bancaires partenaires, ŕ un moment charničre : le congrčs s'ouvre quinze jours aprčs l'entrée en vigueur de l'obligation de réception des factures électroniques, et quelques semaines aprčs une cyberattaque qui a rebattu les cartes du débat sur la réforme.
+
+## [L'AMF visée par une fuite de données après une attaque contre son site internet](https://www.lagazettedescommunes.com/numerique/cybersecurite/lamf-visee-par-une-fuite-de-donnees-apres-une-attaque-contre-son-site-internet.WO3CR2I2LVACFCHPZDGXAYPYUM.html)  
+*Source : lagazettedescommunes.com | Publication : 2026-09-07*
+
+- Cyberattaques : par quoi commencer pour protéger votre collectivité ?.
+- La cybersécurité , l'affaire de tous · « Au-delà des cyberattaques, c'est la.
+
+## [« Chat noir » et « casquette », qui sont les deux nouveaux enfants terribles du web français](https://www.zdnet.fr/actualites/chat-noir-et-casquette-qui-sont-les-deux-nouveaux-enfants-terribles-du-web-francais-502910.htm)  
+*Source : zdnet.fr | Publication : 2026-09-07*
+
+- La police n’a finalement pas été très loin dans son enquête sur les piratages de la DGFiP, découverts à la mi-août.
+- Car les deux personnes qui sont actuellement mises en cause ont déjà un lourd passif judiciaire.
+- Comme le précise le parquet de Paris à ZDNET, le jeune de 18 ans qui a été mis en examen à la fin août a en effet déjà été inculpé à deux reprises, en juin 2024 puis en janvier 2025.
+- Accusé d’être l’une des personnes derrière le pseudonyme « ZeroBytes », ce jeune né en janvier 2008 et domicilié en région parisienne, est soupçonné d’être impliqué dans plusieurs piratages récents.
+
+## [L'ANSSI met en place une capacité renforcée de réaction dédiée aux services de l'Etat](https://cyber.gouv.fr/actualites/cyberattaques-lanssi-met-en-place-une-capacite-renforcee-de-reaction-dediee-aux-services-de-letat/)  
+*Source : cyber.gouv.fr | Publication : 2026-09-07*
+
+- Cyberattaques : L’ANSSI met en place une capacité renforcée de réaction dédiée aux services de l’État Publié le lundi 7 septembre 2026 Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de réaction, d’intervention et d’assistance aux services de l’État.
+- Baptisé « REponse & ACTion Interministérielle face aux Violations de données » (REACTIV), ce dispositif opérationnel permet de mobiliser immédiatement les compétences et les moyens nécessaires à l’Agence aux côtés des ministères concernés.
+- L’opération de cyberdéfense REACTIV consiste ainsi en un basculement immédiat des efforts opérationnels de l’ANSSI pour renforcer l’appui qu’elle fournit aux ministères dans le traitement des compromissions de comptes utilisateurs et dans l’analyse des violations de données.
+- Ce renforcement doit permettre de mieux circonscrire les attaques et de lutter plus réactivement contre les exfiltrations de données.
 
 ## [Automatisme industriel : pourquoi la <b>cybersécurité</b> et l'IA redéfinissent les règles du jeu](https://www.usinenouvelle.com/publi-redactionnel/lingenierie-au-service-de-la-performance-industrielle/automatisme-industriel-pourquoi-la-cybersecurite-et-lia-redefinissent-les-regles-du-jeu.I7WECOZ7RBC6FDQ3WL2KREFDN4.html)  
 *Source : usinenouvelle.com | Publication : 2026-09-06*
