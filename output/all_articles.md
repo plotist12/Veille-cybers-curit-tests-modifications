@@ -1,5 +1,156 @@
-# Résumés – 2026-09-07
+# Résumés – 2026-09-08
 
+
+## [5 obstacles à la cyber-résilience - LeMagIT](https://www.lemagit.fr/conseil/5-obstacles-a-la-cyber-resilience)  
+*Source : lemagit.fr | Publication : 2026-09-08*
+
+- by-studio - Fotolia 5 obstacles à la cyber-résilience La dette technique, les pénuries de compétences en cybersécurité et les risques liés à l'identité sont parmi les défis qui peuvent rendre difficile pour une organisation d'atteindre la cyber-résilience.
+- Toute organisation souhaite être résiliente face aux cyberattaques, c'est-à-dire être capable d'y résister, de maintenir ses opérations et de réduire les risques dans l'ensemble.
+- Mais le désir et la réalité sont deux choses différentes.
+- Malgré les meilleures intentions de la direction et du personnel informatique, la véritable cyber-résilience est souvent plus un objectif idéaliste qu'un fait sur le terrain. «.
+
+## [5 conseils pour sensibiliser ses collaborateurs à la <b>cybersécurité</b> - Generation Cyb](https://www.generationcyb.net/5-conseils-pour-sensibiliser-ses-collaborateurs-a-la-cybersecurite/)  
+*Source : generationcyb.net | Publication : 2026-09-08*
+
+- 5 conseils pour sensibiliser ses collaborateurs à la cybersécurité Quand on parle de sensibilisation à la cybersécurité en entreprise, on pense souvent à des outils techniques, des pare-feux, des antivirus.
+- Et pourtant, vous le savez sans doute déjà, le maillon le plus fragile, c’est bien souvent l’humain.
+- Un clic trop rapide sur un lien malveillant, un mot de passe trop faible, et voilà toute une infrastructure qui peut vaciller.
+- Alors, comment transformer ce risque en force ?.
+
+## [Les responsables américains de la <b>cybersécurité</b> et de l'application de la loi accusent les ...](https://fr.benzinga.com/news/france/general/les-responsables-americains-de-la-cybersecurite-et-de-lapplication-de-la-loi-accusent-les-entreprises-chinoises-dia-dactivites-de-distillation-agressives-a-grande-echelle/)  
+*Source : fr.benzinga.com | Publication : 2026-09-08*
+
+- – Reuters Actualités récentes Bitcoin se prépare pour l’IPC alors que le pétrole approche les 100 dollars et les flux d’ETF atteignent 3,8 milliards de dollars - Evommune révèle les résultats principaux de l’essai de phase 2b de l’EVO756 dans la dermatite atopique modérée à sévère ; indique que l’essai n’a pas atteint le critère d’évaluation principal, à savoir le pourcentage de changement du score de l’index de la zone et de la gravité de l’eczéma par rapport à la ligne de base à la semaine 12 ; l’EVO756 a été généralement bien toléré ; poursuivra le développement de l’EVO756 dans la prophylaxie de la migraine en phase 2b ; ne fera pas avancer l’EVO756 dans la dermatite atopique.
+- - “Les régulateurs intérimaires des médicaments et des vaccins de la FDA sont choisis pour des rôles permanents” – Bloomberg - Les États-Unis sont “longtemps insolvable”, dit le gourou macro-économique – et le Bitcoin en bénéficiera - Bitcoin, Ethereum, Dogecoin stables tandis que XRP grimpe de 2% : les traders qualifient le repli du BTC de “normal” - Pyxis Oncology présentera les données mises à jour de la phase 1 du MICVO dans le cancer de la tête et du cou lors d’une webdiffusion en direct le 9 septembre 2026 à 7h30 (heure de l’Est).
+- - La marine du CGRI d’Iran met en garde tout l’équipage des pétroliers à proximité des ports koweïtiens et bahreïniens qui accueillent des Américains de prendre des mesures d’évacuation - L’Iran a lancé une deuxième vague d’attaques non divulguées contre les navires de guerre américains ; la deuxième frappe en trois jours a manqué ses cibles, alors que les inquiétudes grandissent quant à la sophistication des missiles de Téhéran – Exclusivité du WSJ -.
+
+## [Menace quantique : la France et le G7 appellent à agir dès maintenant - Cryptoast](https://cryptoast.fr/menace-quantique-france-g7-appellent-agir-maintenant/)  
+*Source : cryptoast.fr | Publication : 2026-09-08*
+
+- Menace quantique : la France et le G7 appellent à agir dès maintenant Dans le cadre de la présidence française du G7, l’ANSSI, qui dirige le groupe de travail du G7 sur la cybersécurité, vient de publier avec ses partenaires un appel à l’action sur la cryptographie post-quantique.
+- La menace quantique est désormais considérée comme un risque à court terme, et les organisations publiques comme privées sont appelées à préparer leur migration dès maintenant.
+- L’ANSSI et le G7 tirent la sonnette d’alarme La menace quantique n’est plus considérée comme suffisamment lointaine pour être ignorée.
+- Même si aucun ordinateur quantique n’est aujourd’hui capable de casser à grande échelle les principaux systèmes cryptographiques utilisés sur Internet, leur éventuelle arrivée impose de préparer dès maintenant la migration vers des technologies résistantes à ces futures capacités de calcul.
+
+## [Rhysida publie le méga leak de Berlin, 5,26 To de données secrètes - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/15108/berlin-mega-leak-rhysida-fuite)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-08*
+
+- Rhysida publie le méga leak de Berlin, 5,26 To de données secrètes Le gang de ransomware Rhysida a publié 1,44 million de fichiers volés à l'administration de Berlin.
+- Mots de passe en clair et données sur l'eau et l'énergie exposés.
+- 1.Ce qui s'est passé, jour par jour - 2.Ce que contient vraiment la fuite de Berlin - Les infrastructures critiques, elles aussi dans le lot - 3.Des mots de passe en clair, et aucun zero-day - 4.Qui est la Rhysida et pourquoi elle vise le secteur public - 5.La colère politique et une négligence annoncée - 6.Ce que cela signifie pour l'administration française - 7.Questions fréquentes sur la fuite de Berlin - 8.Conclusion - 9.Notez cet article - 10.Articles Connexes - 11.Recherchez-vous un Ingénieur Logiciel?.
+- - Le groupe de ransomware Rhysida a en effet publié sur le dark web 5,26 téraoctets de documents volés à l'administration de Berlin, 1.439.893 fichiers en tout, après que le Sénat de la capitale allemande a refusé de payer les 30 Bitcoin de rançon réclamés, environ 2 millions d'euros.
+
+## [L'énorme fuite de données chez Jinko, plateforme française dédiée aux malades du cancer ...](https://www.clubic.com/actualite-628717-l-enorme-fuite-de-donnees-chez-jinko-plateforme-francaise-dediee-aux-malades-du-cancer-qui-confirme-le-piratage.html)  
+*Source : clubic.com | Publication : 2026-09-08*
+
+- Jinko, une plateforme française d'accompagnement dédiée aux malades du cancer, confirme avoir été victime d'un piratage.
+- Des données personnelles et, pour certains patients, des informations médicales sensibles, ont été dérobées, contraignant la start-up à s'expliquer.
+- On le sait depuis longtemps, les pirates n'ont aucun remord à pirater certaines structures dans le domaine de santé, les hôpitaux figurant au premier rang.
+- Ici, c'est Jinko, une application française d'accompagnement des patients atteints du cancer, qui en fait les frais, et le bilan pourrait être lourd, comme pour ajouter de la peine à la peine.
+
+## [Convene: Floride 2027 - National Cybersecurity Alliance](https://www.staysafeonline.org/fr/evenements/convene-florida-2027)  
+*Source : staysafeonline.org | Publication : 2026-09-08*
+
+- Événement sur site Date de l'événement : | Convene: Floride 2027 À l'intersection des personnes et de la sécurité.
+- Convene est une conférence sur la cybersécurité axée sur la gestion des risques humains et la sensibilisation à la sécurité.
+- Les 9 et 10 février à Clearwater Beach, Convene réunira des professionnels de la cybersécurité, des responsables de la sensibilisation à la sécurité et des experts en sciences comportementales pour explorer les menaces de cybersécurité émergentes et les stratégies pratiques pour réduire le risque humain.
+- Convene : Floride 2027 months days Conçu par et pour des professionnels qui se soucient des personnes, de la culture et de l'impact réel de la sécurité.
+
+## [Financière d'Uzès : 70 Go de données volées après une cyberattaque](https://www.cyberattaque.org/financiere-duzes-70-go-de-donnees-volees-apres-une-cyberattaque/)  
+*Source : cyberattaque.org | Publication : 2026-09-08*
+
+- La Financière d’Uzès, maison française spécialisée dans la gestion de patrimoine et les services d’investissement, apparaît ce 8 septembre 2026 parmi les victimes revendiquées par le groupe de ransomware Panzer.
+- Les cybercriminels affirment avoir récupéré environ 70 Go de données.
+- À ce stade, aucun échantillon permettant de déterminer précisément la nature des fichiers dérobés n’accompagne les éléments dont dispose Cyberattaque.org.
+- Le volume de 70 Go reste donc une revendication du groupe et aucune confirmation publique de la Financière d’Uzès n’a encore été identifiée.
+
+## [[IA Insider] Des agents IA aux commandes de cyberattaques : OpenAI perd le contrôle](https://www.usine-digitale.fr/intelligence-artificielle/le-recap-ia/ia-insider-des-agents-ia-aux-commandes-de-cyberattaques-openai-perd-le-controle.UREIYFJU5VEF7HDXMQL2G3NNGQ.html)  
+*Source : usine-digitale.fr | Publication : 2026-09-08*
+
+- Ce modèle, classé « critique » en interne doit symboliser le passage d'une intelligence artificielle qui assiste les experts en cybersécurité à une IA.
+
+## [HarfangLab ajoute une solution de protection des identités. - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/65222-harfanglab-ajoute-une-solution-de-protection-des-identites.html)  
+*Source : linformaticien.com | Publication : 2026-09-08*
+
+- Home · Le mag.
+- Biz'IT · Tendances · Transfo · Cloud · Infra · Cybersécurité · Devops · Débats · Technologie · Solutions · Logiciel · Info Partenaire.
+
+## [L'Arménie et la Lettonie vont renforcer leur coopération dans les domaines de l'intelligence ...](https://www.armenews.com/larmenie-et-la-lettonie-vont-renforcer-leur-cooperation-dans-les-domaines-de-lintelligence-artificielle-et-de-la-cybersecurite/)  
+*Source : armenews.com | Publication : 2026-09-08*
+
+- Le ministre arménien des Affaires étrangères et du Commerce international, Ararat Mirzoyan, s’est entretenu avec la ministre lettone des Affaires étrangères, Baiba Braže, sur les principaux dossiers de l’agenda bilatéral, les relations entre l’Arménie et l’Union européenne, le renforcement de la coopération économique, ainsi que sur l’actualité régionale et internationale.
+- Selon un communiqué publié par le ministère des Affaires étrangères et du Commerce international, M. Mirzoyan a déclaré, lors d’une conférence de presse conjointe avec Baiba Braže à Riga, qu’il était particulièrement heureux de se rendre dans la capitale lettone dans le cadre de ses nouvelles fonctions de ministre arménien des Affaires étrangères et du Commerce international.
+- Il a indiqué qu’il entretenait des contacts réguliers avec le ministre letton des Affaires étrangères sur un large éventail de questions d’intérêt commun.
+- Selon M. Mirzoyan, ces dernières années, l’Arménie et la Lettonie ont réussi à instaurer un dialogue politique solide et dynamique, ainsi qu’un partenariat fondé sur l’amitié et des valeurs démocratiques communes. «.
+
+## [<b>Cybersécurité</b>. Asbl, pme, pouvoirs publics : adoptez les bons réflexes ! - TV Lux](https://www.tvlux.be/actu/info/economie/cybersecurite-asbl-pme-pouvoirs-publics-adoptez-les-bons-reflexes_52413)  
+*Source : tvlux.be | Publication : 2026-09-08*
+
+- "La question n'est pas savoir s'il y a un risque, mais bien si l'on prêt à faire face à une cyberattaque !".
+- Que l'on exerce au sein d'une asbl, d'une entreprise, pour le compte d'un pouvoir public... personne n'est à l'abri d'un piratage informatique.
+- A Transinne, le centre de cyberdéfense informe, forme et teste.
+- La province de Luxembourg a encore en mémoire l'attaque dont ont été victimes les services de Vivalia.
+
+## [Boston Scientific alerte sur ses objectifs suite à l'impact matériel d'un incident de <b>cybersécurité</b>](https://ch.zonebourse.com/actualite-bourse/boston-scientific-alerte-sur-ses-objectifs-suite-a-l-impact-materiel-d-un-incident-de-cybersecurite-ce785bd8d181f121)  
+*Source : ch.zonebourse.com | Publication : 2026-09-08*
+
+- Boston Scientific alerte sur ses objectifs suite à l'impact matériel d'un incident de cybersécurité ; le titre chuteBoston Scientific a signalé son incapacité à atteindre ses prévisions financières à court terme en raison de l'impact matériel d'un récent incident de cybersécurité, entraînant une.
+
+## [Consultant <b>Cybersécurité</b> GRC / SecOps (H/F) — ALGOSECURE - FrenchBreaches](https://frenchbreaches.com/offres-emploi/213NHLF)  
+*Source : frenchbreaches.com | Publication : 2026-09-08*
+
+- Consultant Cybersécurité GRC / SecOps (H/F) 📋 Description de l'offre Vous aimez les environnements où la cybersécurité se vit au plus près du terrain, au croisement de la gouvernance, de l'opérationnel et de la conformité ?.
+- Nous recrutons un(e) Consultant(e) Cybersécurité GRC / SecOps en CDI pour intervenir chez l'un de nos clients lyonnais, acteur reconnu de l'industrie financière.
+- Vous accompagnerez le RSSI d'un éditeur de logiciels et services spécialisé dans les métiers du post-marché / titres.
+- Dans ce contexte, le RSSI conserve la direction, la stratégie, la comitologie et les arbitrages, tandis que vous agissez comme son relais autonome sur les sujets opérationnels du quotidien.
+
+## [&quot;Ça doit vous alerter...&quot; : Une spécialiste en <b>cybersécurité</b> vous livre ses astuces pour ...](https://www.tf1info.fr/societe/ca-doit-vous-alerter-une-specialiste-en-cybersecurite-vous-livre-ses-astuces-pour-reperer-les-arnaques-en-ligne-2462965.html)  
+*Source : tf1info.fr | Publication : 2026-09-08*
+
+- Face à la multiplication des arnaques lors des achats en ligne, la vigilance sur Internet s’impose plus que jamais.
+- - Dans "Bonjour !.
+- Avec vous", Maître Oriana Labruyère, avocate spécialiste en cybersécurité, livre ses conseils pratiques.
+- - Elle donne des astuces pour déjouer les pièges des escrocs.
+
+## [Budget, dépenses de l'Etat, <b>cybersécurité</b>... Sébastien Lecornu, un Premier ministre en ... - l'Opinion](https://www.lopinion.fr/politique/budget-depenses-de-letat-cybersecurite-sebastien-lecornu-un-premier-ministre-en-colere-contre-les-siens)  
+*Source : lopinion.fr | Publication : 2026-09-08*
+
+- Budget, dépenses de l’Etat, cybersécurité... Sébastien Lecornu, un Premier ministre en colère contre les siens Lundi soir, le Premier ministre a annoncé saisir le procureur de la République au titre de l’article 40 après la publication par la presse d’informations concernant le projet de loi de finances 2027.
+- Lundi soir, au terme d’une journée rocambolesque, Sébastien Lecornu a surpris tout le monde en signalant au procureur de la République des faits commis par l’administration qu’il juge délictueux.
+- Cet article 40 vise des informations relatives à la construction du budget 2027 parues dans la presse.
+- Le Premier ministre demande à la justice d’enquêter pour identifier les fonctionnaires qui transmettent aux journalistes des documents.
+
+## [Téléphonie IP : l'IA et la <b>cybersécurité</b> changent la donne - InformatiqueNews.fr](https://www.informatiquenews.fr/ia-et-cybersecurite-deux-drivers-strategiques-dans-le-secteur-de-la-telephonie-gregory-roge-snom-113407)  
+*Source : informatiquenews.fr | Publication : 2026-09-08*
+
+- Longtemps cantonné à la voix, le téléphone IP est en train de changer de dimension.
+- Désormais connecté au SI, enrichi par l’IA et exposé aux mêmes menaces que n’importe quel terminal réseau, il devient à la fois outil de productivité… et maillon de cybersécurité.
+- Une évolution qui impose de regarder bien au-delà de la simple qualité des appels.
+- La téléphonique de bureau continue de se positionner comme l’un des principaux vecteurs de communication entre les professionnels.
+
+## [Sébastien Lecornu, le faux tranquille - Les Echos](https://www.lesechos.fr/politique-societe/gouvernement/sebastien-lecornu-le-faux-tranquille-2250525)  
+*Source : lesechos.fr | Publication : 2026-09-08*
+
+- Cybercriminalité : la rentrée de tous les dangers · Le fait du jour Politique.
+- Sébastien Lecornu, le faux tranquille.
+- Publicité.
+- À la Une.
+
+## [Tissendo lève des fonds auprès d'idiCo pour accélérer ses acquisitions - Lyon Entreprises [LE]](https://www.lyon-entreprises.com/actualites/article/tissendo-leve-des-fonds-aupres-didico-pour-accelerer-ses-acquisitions)  
+*Source : lyon-entreprises.com | Publication : 2026-09-08*
+
+- Tissendo lève des fonds auprès d’idiCo pour accélérer ses acquisitions Le cabinet d’expertise comptable Tissendo fait entrer idiCo à son capital afin d’accélérer son développement en France.
+- Le montant de l’opération n’a pas été communiqué.
+- Les nouveaux moyens doivent notamment financer des acquisitions, renforcer les expertises du groupe et poursuivre les investissements dans l’intelligence artificielle, la cybersécurité et les outils collaboratifs.
+- La croissance externe au cœur du changement d’échelle Tissendo ouvre une nouvelle étape de son développement avec l’appui d’idiCo, société de gestion indépendante spécialisée dans le capital-investissement.
+
+## [<b>Cybersécurité</b> : l'ANSSI lance son mécanisme REACTIV dédié aux services de l'État - Next](https://next.ink/brief-article/cybersecurite-lanssi-lance-son-mecanisme-reactiv-dedie-aux-services-de-letat/)  
+*Source : next.ink | Publication : 2026-09-08*
+
+- Cybersécurité : l’ANSSI lance son mécanisme REACTIV dédié aux services de l’État 3 min Sécurité Sécurité L’ANSSI a annoncé ce 7 septembre la mise en place d’un dispositif nommé REACTIV (REponse & ACTion Interministérielle face aux Violations de données).
+- Créé à la demande du Premier ministre, il doit permettre la mobilisation immédiate des compétences et moyens de l’agence de sécurité pour les ministères touchés par des cyberattaques.
+- Selon l’annonce officielle, le nouveau mécanisme se traduit concrètement par une bascule des efforts opérationnels pour renforcer l’appui aux ministères sur deux volets : le traitement des compromissions de comptes utilisateurs et l’analyse des violations de données.
+- Surtout, REACTIV renforce l’autorité de l’agence sur deux points spécifiques.
 
 ## [Se protéger contre les cyberattaques avec la Chambre de commerce et d'industrie du Vaucluse](https://www.laprovence.com/article/region/44305529860891/se-proteger-contre-les-cyberattaques-avec-la-chambre-de-commerce-et-dindustrie-du-vaucluse)  
 *Source : laprovence.com | Publication : 2026-09-07*
