@@ -1,5 +1,145 @@
-# Résumés – 2026-09-08
+# Résumés – 2026-09-09
 
+
+## [Anthropic signale un quatrième incident de <b>cybersécurité</b> lié à une première version de Claude](https://www.boursorama.com/bourse/actualites/anthropic-signale-un-quatrieme-incident-de-cybersecurite-lie-a-une-premiere-version-de-claude-fef71094d6b959db1115b6106e1936fc)  
+*Source : boursorama.com | Publication : 2026-09-09*
+
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Le quatrième incident concernait une première version de Claude Opus 4.6 en janvier * Anthropic affirme que des sessions de test manquées lors de l'examen initial ont conduit à la dernière découverte le mois dernier * L'entreprise cite un raisonnement biaisé et une imprudence comme des comportements récurrents dans l'ensemble des incidents (Ajout de détails et de contexte tout au long de l'article) Mercredi, Anthropic a révélé un nouvel épisode au cours duquel un modèle d’IA a piraté des systèmes externes pendant une phase de test, le dernier d’une liste croissante d’incidents de ce type qui ont suscité des inquiétudes quant au risque posé par les agents IA autonomes.
+- L’incident de janvier est passé inaperçu jusqu’au mois dernier, malgré un examen préalable à l’échelle de l’entreprise, a déclaré Anthropic, soulignant la difficulté à laquelle sont confrontés les développeurs d’IA pour identifier et contenir les comportements inattendus de modèles avancés.
+- L’entreprise a indiqué dans un article de blog que l’incident concernait une première version de Claude Opus 4.6.
+- Elle a précisé avoir informé toutes les parties concernées, mais n’a pas divulgué davantage de détails.
+
+## [Anthropic signale un quatrième incident de <b>cybersécurité</b> lié à une version préliminaire de Claude](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N4512AS:0/)  
+*Source : fr.tradingview.com | Publication : 2026-09-09*
+
+- Actualités/Reuters/Anthropic signale un quatrième incident de cybersécurité lié à une version préliminaire de ClaudeAnthropic signale un quatrième incident de cybersécurité lié à une version préliminaire de ClaudeLire l'article completObtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.Continuer à lire.
+
+## [Anthropic signale un quatrième incident de <b>cybersécurité</b> impliquant une version ... - Zonebourse](https://www.zonebourse.com/actualite-bourse/anthropic-signale-un-quatrieme-incident-de-cybersecurite-impliquant-une-version-preliminaire-de-clau-ce785bd9d08cf223)  
+*Source : zonebourse.com | Publication : 2026-09-09*
+
+- Anthropic a révélé mercredi un nouveau cas de piratage de systèmes externes par un modèle d&#039;intelligence artificielle lors de phases de test, s&#039;ajoutant à une liste croissante d&#039;incidents qui alimentent les inquiétudes sur les risques posés par les agents IA autonomes.
+- L&#039;incident, survenu en janvier, n&#039;a été détecté que le mois dernier malgré un précédent audit à l&#039;échelle de l&#039;entreprise, a déclaré Anthropic, soulignant le défi auquel sont confrontés les développeurs d&#039;IA pour identifier et contenir les comportements imprévus des modèles avancés.
+- La société a précisé dans un article de blog que l&#039;incident impliquait une version préliminaire de Claude Opus 4.6.
+- Elle a indiqué avoir informé toutes les parties concernées mais n&#039;a pas divulgué davantage de détails.
+
+## [Vos mots de passe circulent-ils sur le dark web ? Deux outils gratuits pour le savoir en une minute](https://www.charentelibre.fr/societe/vos-mots-de-passe-circulent-ils-sur-le-dark-web-deux-outils-gratuits-pour-le-savoir-en-une-minute-30533077.php)  
+*Source : charentelibre.fr | Publication : 2026-09-09*
+
+- Vos mots de passe circulent-ils sur le dark web ?.
+- Deux outils gratuits pour le savoir en une minute Adresses mail, numéros de téléphone, mots de passe : les fuites de données peuvent exposer une partie de notre vie numérique sans que nous le sachions.
+- Quelques minutes suffisent pourtant pour vérifier si une adresse mail ou un mot de passe apparaît dans des fuites connues.
+- Et pour agir si le résultat est positif.
+
+## [Mali : pourquoi un journaliste est-il poursuivi pour <b>cybercriminalité</b> ? • RFI - YouTube](https://www.youtube.com/shorts/e7illBG9PKw)  
+*Source : youtube.com | Publication : 2026-09-09*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Face à l'IA, la <b>cybersécurité</b> voit ses procédés bousculés - Libération](https://www.liberation.fr/economie/economie-numerique/face-a-lia-la-cybersecurite-voit-ses-procedes-bouscules-20260909_G6YJVZVUFJFCJLDMRA2LHHHA2A/)  
+*Source : liberation.fr | Publication : 2026-09-09*
+
+- D'un côté des hackers en mode augmenté, de l'autre des défenses renforcées.
+- L'intelligence artificielle change la donne dans ce secteur.
+
+## [L'armée désactive le suivi publicitaire sur ses téléphones. Et vous ? - Bitdefender](https://www.bitdefender.com/fr-fr/blog/hotforsecurity/larmee-desactive-le-suivi-publicitaire-sur-ses-telephones-et-vous)  
+*Source : bitdefender.com | Publication : 2026-09-09*
+
+- Plusieurs branches de l'armée américaine auraient désactivé le suivi publicitaire sur les téléphones et ordinateurs fournis par le gouvernement, suite à des inquiétudes quant à l'utilisation de données de géolocalisation commerciales pour cibler les forces américaines au Moyen-Orient.
+- La confirmation que l'armée de terre (US Army), l'armée de l'air (US Air Force), la marine (US Navy) et le Commandement des opérations spéciales avaient désactivé les identifiants publicitaires sur les appareils officiels pour protéger le personnel a été révélée la semaine dernière par le sénateur Ron Wyden, qui exhortait le Pentagone à prendre cette mesure depuis des mois.
+- Chaque smartphone possède un identifiant publicitaire mobile ; Apple appelle le sien « IDFA » et Google le nomme « GAID ».
+- Cet identifiant est une chaîne de caractères liée à votre smartphone qui permet aux annonceurs de vous reconnaître lorsque vous passez d'une application à une autre.
+
+## [<b>Cybersécurité</b> : &quot;La France n'est pas une passoire mais il y a peut-être une impréparation&quot;](https://www.radiofrance.fr/franceinter/podcasts/l-invite-du-13-14/l-invite-du-13-14-du-mercredi-09-septembre-2026-2582971)  
+*Source : radiofrance.fr | Publication : 2026-09-09*
+
+- Comment mieux se protéger des cyber attaques ?.
+- Les vols de données dont ont été victimes plusieurs ministères cet été ont marqué les esprits.
+- Un pays d’Europe fait figure d’exemple en la matière : l’Estonie, qui a bâti une forteresse numérique ces dernières années.
+- Cybersécurité : "La France n'est pas une passoire mais il y a peut-être une impréparation" Publié le Publicité Provenant du podcast L'équipe Les dernières infos 25 min France Culture Épisodes précédents Sur le même thème.
+
+## [Cyberattaque: BMS Engineering affirme que 40 cabinets médicaux ont été touchés](https://www.lessentiel.lu/fr/story/sante-au-luxembourg-la-cyberattaque-n-a-en-fait-impacte-que-40-cabinets-medicaux-103630414)  
+*Source : lessentiel.lu | Publication : 2026-09-09*
+
+- Santé au LuxembourgLa cyberattaque «a impacté 40 cabinets médicaux et non 80» Le prestataire informatique BMS Engineering s'explique ce mercredi sur l'incident de cybersécurité ayant touché une partie de son infrastructure, le 22 août dernier.
+- Le prestataire informatique BMS Engineering apporte ce mercredi des précisions sur l'incident de cybersécurité ayant affecté une partie de son infrastructure, le 22 août dernier.
+- «Le périmètre réel de l'incident concerne 40 cabinets médicaux», souligne BMS Engineering, alors que Reporter.lu parlait d'au moins 80 cabinets.
+- Dès la découverte de l'incident, BMS Engineering explique avoir engagé des mesures de confinement, de restauration et de sécurisation.
+
+## [La trajectoire financière contrariée d'Orange Cyberdefense en Europe - LA LETTRE](https://www.lalettre.fr/fr/entreprises_tech-et-telecoms/2026/09/09/la-trajectoire-financiere-contrariee-d-orange-cyberdefense-en-europe,110873618-art)  
+*Source : lalettre.fr | Publication : 2026-09-09*
+
+- La filiale de cybersécurité de l'opérateur de télécoms a été contrainte de passer d'importantes dépréciations d'actifs dans ses comptes ces deux.
+
+## [WALLIX : WALLIX accompagne les ministères dans la mise en oeuvre de la feuille de route ...](https://www.boursorama.com/bourse/actualites-amp/wallix-wallix-accompagne-les-ministeres-dans-la-mise-en-oeuvre-de-la-feuille-de-route-des-efforts-prioritaires-en-matiere-de-securite-numerique-de-l-etat-2026-2030-570cbb74efd2ffe6aa54b6b7caf05043)  
+*Source : boursorama.com | Publication : 2026-09-09*
+
+- WALLIX : WALLIX accompagne les ministères dans la mise en oeuvre de la feuille de route des efforts prioritaires en matière de sécurité numérique de l'État 2026-2030 information fournie par Actusnews 09/09/2026 à 18:00 Paris, le 9 septembre 2026 - WALLIX (Euronext ALLIX), éditeur européen de logiciels de cybersécurité, expert de la gestion des identités et des accès (IAM) et de la gouvernance des comptes à privilèges (PAM), publie son guide opérationnel « De la sécurité numérique à l'usage de l'État », destiné aux ministères, dans le cadre de la mise en œuvre de la feuille de route de sécurité numérique de l'État 2026-2030.
+- Ce guide est consultable gratuitement via ce lien : https://www.wallix.com/LIVRE_ORANGE_DE_LA_SECURITE_NUMERIQUE.pdf Répondre à une urgence nationale Publiée le 9 avril 2026, la feuille de route 2026-2027 fixe aux ministères 40 actions, réparties en dix chapitres et assorties d'échéances précises et resserrées.
+- Le premier ministre a aussi annoncé le 30 avril un plan de 200 millions d'euros pour renforcer la sécurité numérique de l'État, après la cyberattaque ayant visé l'Agence nationale des titres sécurisés (ANTS).
+- Les intrusions subies cet été par la Direction générale des Finances publiques (DGFiP) et le ministère de l'Éducation nationale ont conduit Sébastien Lecornu, le 31 août, à demander à son équipe gouvernementale d'accélérer la mise en œuvre intégrale de ce plan dans un délai de quinze jours.
+
+## [<b>Ransomware</b> : un été 2026 d'une violence inédite - LeMagIT](https://www.lemagit.fr/actualites/366650223/Ransomware-un-ete-2026-dune-violence-inedite)  
+*Source : lemagit.fr | Publication : 2026-09-09*
+
+- Afiq Sam - stock.adobe.com Ransomware : un été 2026 d’une violence inédite Les mois de juillet et août 2026 ont rompu avec l’habituelle trêve estivale sur le front des rançongiciels, battant tous les recours absolus précédents.
+- Avec en tête deux enseignes, Qilin et The Gentlemen.
+- L’été 2026 n’aura pas été seulement remarquable par ses vagues de chaleur à répétition : il l’aura également été par le nombre de cyberattaques enregistrées dans le monde.
+- Ainsi, nous avons recensé, entre revendications et cas rapportés dans la presse du monde entier, plus de 920 incidents en juillet et autant en août.
+
+## [Evicys, faire de la <b>cybersécurité</b> une véritable stratégie - Le Dauphiné Libéré](https://www.ledauphine.com/paroles-de-partenaires/2026/09/09/evicys-faire-de-la-cybersecurite-une-veritable-strategie)  
+*Source : ledauphine.com | Publication : 2026-09-09*
+
+- Cybersécurité Evicys, faire de la cybersécurité une véritable stratégie Pendant longtemps, la cybersécurité a surtout été perçue comme une préoccupation des grandes entreprises ou des grandes administrations.
+- Cette époque est révolue.
+- Les collectivités, y compris les plus petites, sont désormais directement concernées.
+- Contenu conçu et proposé par EBRA Inspirations en partenariat avec EBRA Inspirations est une marque qui valorise les contenus rédactionnels promotionnels.
+
+## [Le Tampon : une cyberattaque frappe la mairie et perturbe fortement les services municipaux](https://www.cyberattaque.org/le-tampon-une-cyberattaque-frappe-la-mairie-et-perturbe-fortement-les-services-municipaux/)  
+*Source : cyberattaque.org | Publication : 2026-09-09*
+
+- La mairie du Tampon, à La Réunion, est touchée par une cyberattaque depuis la matinée de ce mercredi 9 septembre 2026.
+- Plusieurs services municipaux sont fortement perturbés et les agents ne sont actuellement plus en mesure d’assurer certaines de leurs missions dans des conditions normales.
+- Les équipes techniques de la collectivité sont mobilisées pour rétablir progressivement les services.
+- La Ville indique qu’elle communiquera de nouvelles informations lorsque des éléments fiables sur l’ampleur de l’incident seront disponibles.
+
+## [La relève suisse en <b>cybersécurité</b> manque de compétences en IA - ICTjournal](https://www.ictjournal.ch/etudes/2026-09-09/la-releve-suisse-en-cybersecurite-manque-de-competences-en-ia)  
+*Source : ictjournal.ch | Publication : 2026-09-09*
+
+- La relève suisse en cybersécurité manque de compétences en IA L’ère de l’IA impose de nouvelles exigences aux spécialistes de la cybersécurité.
+- Pour contrer des attaques assistées par l’intelligence artificielle, les défenseurs doivent eux aussi maîtriser ces technologies.
+- Des enquêtes internationales montrent que l’esprit critique et la capacité à évaluer les résultats produits par l’IA figurent désormais parmi les compétences les plus recherchées.
+- Or, elles font particulièrement défaut chez les profils débutants.
+
+## [<b>Cybersécurité</b> : le secteur financier face aux risques de dépendance - ACPR](https://acpr.banque-france.fr/fr/actualites/cybersecurite-le-secteur-financier-face-aux-risques-de-dependance)  
+*Source : acpr.banque-france.fr | Publication : 2026-09-09*
+
+- Actualité Intervention Cybersécurité : le secteur financier face aux risques de dépendance Mise en ligne le 9 Septembre 2026 Association des avocats en droit boursier Paris, 9 septembre 2026 Discours de Denis Beau Premier sous-gouverneur de la Banque de France et Président désigné de l’ACPR.
+
+## [Chrome corrige en urgence une faille déjà exploitée par des pirates - 01net.com](https://www.01net.com/actualites/chrome-corrige-en-urgence-une-faille-deja-exploitee-par-des-pirates.html)  
+*Source : 01net.com | Publication : 2026-09-09*
+
+- Google a déployé une nouvelle version de Chrome.
+- Cette nouvelle itération corrige un total de 230 failles de sécurité identifiées dans le code du navigateur web.
+- Le géant de Mountain View dénombre notamment cinq vulnérabilités jugées critiques, principalement des bugs d’utilisation de la mémoire, très fréquents sur Chrome, et 43 failles de sévérité élevée.
+- À lire aussi : Près de 300 extensions Chrome se font passer pour des VPN populaires Une nouvelle faille dans le moteur V8 de Chrome Surtout, l’éditeur américain a colmaté une nouvelle vulnérabilité dans le moteur V8, qui est chargé d’exécuter du code JavaScript dans le navigateur web.
+
+## [Deepfakes : le nouveau visage des escroqueries - Didier Sam Fat - Defimedia.info](https://defimedia.info/deepfakes-le-nouveau-visage-des-escroqueries-didier-sam-fat-pas-simple-de-distinguer-le-vrai-du)  
+*Source : defimedia.info | Publication : 2026-09-09*
+
+- Deepfakes : le nouveau visage des escroqueries - Didier Sam Fat : « Pas simple de distinguer le vrai du faux » Les deepfakes gagnent en sophistication et brouillent les repères.
+- Après l’alerte d’IBL, deux experts expliquent pourquoi ces manipulations imposent désormais de vérifier systématiquement toute information à la source.
+- Une vidéo peut aujourd’hui montrer un dirigeant en train de vanter un investissement qu’il n’a jamais recommandé, avec un visage et une voix qui semblent authentiques.
+- L’alerte lancée par IBL, après la circulation de contenus utilisant une représentation générée par intelligence artificielle de son Group CEO, Arnaud Lagesse, met en lumière une menace qui prend de l’ampleur.
+
+## [SITA rend le passage des frontières intelligent - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65228-sita-rend-le-passage-des-frontieres-intelligent.html)  
+*Source : linformaticien.com | Publication : 2026-09-09*
+
+- Le fournisseur technologique de l'industrie du transport aérien rend disponible sa solution Border Flow Lane, une nouvelle solution qui fait.
+
+## [SailPoint recule après avoir publié des prévisions de bénéfices en baisse pour le troisième trimestre](https://www.boursorama.com/bourse/actualites-amp/sailpoint-recule-apres-avoir-publie-des-previsions-de-benefices-en-baisse-pour-le-troisieme-trimestre-eb603b5057ea688b60178a3d837ad8ee)  
+*Source : boursorama.com | Publication : 2026-09-09*
+
+- SailPoint recule après avoir publié des prévisions de bénéfices en baisse pour le troisième trimestre information fournie par Reuters 09/09/2026 à 15:36 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) 9 septembre - ** L'action de la société de cybersécurité SailPoint SAIL.O recule de 17,1% à 3,7 dollars, sa plus forte baisse journalière depuis plus d'un mois ** La société prévoit un BPA ajusté pour le troisième trimestre compris entre 7 et 8 cents, dont la valeur médiane est inférieure aux estimations des analystes, qui s'élèvent à 8 cents – données compilées par LSEG ** Le chiffre d’affaires du deuxième trimestre, à 309 millions de dollars, s’avère légèrement inférieur aux estimations de 310,2 millions de dollars ** La transition vers le modèle "Software as a Service" (SaaS) génère des "fluctuations" dans le compte de résultat de la société et entraîne un report de la comptabilisation des revenus, ce qui freine la croissance du chiffre d’affaires – selon la société de courtage BTIG ** Sur 25 courtiers, 19 attribuent à l'action la recommandation "acheter" ou mieux, cinq "conserver" et un "vendre"; le cours-cible médian est de 19,5 dollars ** Compte tenu de l'évolution de la séance, le titre affiche une baisse de 15,2% depuis le début de l'année.
 
 ## [5 obstacles à la cyber-résilience - LeMagIT](https://www.lemagit.fr/conseil/5-obstacles-a-la-cyber-resilience)  
 *Source : lemagit.fr | Publication : 2026-09-08*
