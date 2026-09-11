@@ -1,5 +1,147 @@
-# Résumés – 2026-09-09
+# Résumés – 2026-09-10
 
+
+## [Des failles de sécurité sur des téléviseurs LG pourraient permettre de les mettre sur écoute](https://www.rtbf.be/article/des-failles-de-securite-sur-des-televiseurs-lg-pourraient-permettre-de-les-mettre-sur-ecoute-que-faire-pour-se-proteger-11782233)  
+*Source : rtbf.be | Publication : 2026-09-10*
+
+- Dans une vidéo de deux heures postée sur Youtube, le créateur de contenu Gamers Nexus, avec l’aide de Level1Techs et d’experts indépendants en cybersécurité, a dévoilé plusieurs failles sur des téléviseurs LG.
+- Après 500 heures de tests et 70.000 dollars dépensés, les conclusions de l’enquête sont peu flatteuses.
+- Tout d’abord, en analysant le trafic réseau, ils ont découvert que des téléviseurs LG sous WebOS, c’est-à-dire le système d’exploitation des Smart TV LG, scannaient les objets connectés aux alentours comme les smartphones, ainsi que les wi-fi environnants et les IP internes.
+- C’est ce qui permet à nos appareils de pouvoir se relier directement aux télés connectées, mais les experts pointent le fait que des téléviseurs vont beaucoup plus loin en détectant également des appareils qui n’ont pas de lien direct avec le téléviseur.
+
+## [<b>Cybercriminalité</b> : le combat d'une procureure - 28 minutes (10/09/2026) - Arte.tv](https://www.arte.tv/fr/videos/134947-001-A/cybercriminalite-le-combat-d-une-procureure/)  
+*Source : arte.tv | Publication : 2026-09-10*
+
+- Cybercriminalité : le combat d'une procureure 28 minutes (10/09/2026) À suivre"La vie d'une femme" de Charline Bourgeois-Tacquet 28 minutes (09/09/2026) - Pisa : la France décroche encore 28 minutes (08/09/2026) L'histoire de Carrie Buck, stérilisée de force au siècle dernier 28 minutes (07/09/2026) "Dans la tête d'un platiste” avec Sylvain Chaty 28 minutes (03/09/26) Sexe, religion et piercing avec la philosophe Margaux Cassan 28 minutes (02/09/2026) Les glaciers fondent, le monde tremble 28 minutes (01/09/2026) Pour des raisons de droits, ce programme n’est pas disponible dans le pays dans lequel vous vous trouvez.
+- Cybercriminalité : le combat d'une procureure 28 minutes (10/09/2026)11 min Disponible jusqu'au 10/09/2027 Pays France Année 2026 Vous pourriez aimer aussi Le dessous des cartes - L'essentiel Pourquoi l’AfD est en tête dans l’ex-RDA Le dessous des cartes - L'essentiel Pourquoi Trump multiplie les provocations cartographiques White Power - Au cœur de l'extrême droite européenne Le dessous des cartes - L'essentiel Cisjordanie : l’escalade avant les élections Le dessous des cartes - L'essentiel Fleuves d’Europe : les conséquences de la sécheresse Pourquoi la communication de l’AFD séduit les électeurs ?.
+- Le dessous des cartes Russie-UE : la guerre hybride est déclarée Le dessous des cartes - L'essentiel Pourquoi l'Iran ne perd pas la guerre face aux États-Unis Le dessous des cartes - L'essentiel Pourquoi la mer Noire est au cœur de la guerre Russie-Ukraine Les vidéos les plus vues sur ARTE La dernière heure ARTE Journal - 09/09/2026 Débats tendus sur le budget au Bundestag Le dessous des cartes - L'essentiel Pourquoi l’AfD est en tête dans l’ex-RDA Le dessous des cartes - L'essentiel Pourquoi Trump multiplie les provocations cartographiques White Power - Au cœur de l'extrême droite européenne Compartiment n° 6 Twist Amour, luxe et likes : le grand manège du mariage la devinette du 6/09/2026 - à vous de jouer !.
+- Karambolage Le dessous des cartes - L'essentiel Cisjordanie : l’escalade avant les élections Twist Sein-plement libre ?.
+
+## [L'État signe un pacte &quot;numérique et IA&quot; pour développer des solutions souveraines en ...](https://www.aefinfo.fr/depeche/756457-letat-signe-un-pacte-numerique-et-ia-pour-developper-des-solutions-souveraines-en-matiere-de-cybersecurite)  
+*Source : aefinfo.fr | Publication : 2026-09-10*
+
+- Lors d'une conférence de presse le 18 août, le ministre de l'Action et des Comptes publics, David Amiel, la directrice générale des finances publiques, Amélie Verdier, et le directeur général adjoint Le député Philippe Latombe (Les Démocrates, Vendée) a déposé, jeudi 27 août 2026, une proposition de résolution visant à créer une commission d'enquête sur les cyberattaques qui ont touché plusieurs serv Le parquet de Paris recense, mercredi 2 septembre 2026, onze services départementaux d'incendie et de secours victimes d'une cyberattaque revendiquée par un acteur malveillant appelé "Chimeraz".
+- Fin.
+
+## [L'ENISA accède à Mythos - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65233-l-enisa-accede-a-mythos.html)  
+*Source : linformaticien.com | Publication : 2026-09-10*
+
+- L'agence européenne de cybersécurité , l'Enisa, a obtenu un accès à Mythos 5, le modèle d'intelligence artificielle le plus puissant d'Anthropic.
+
+## [Intelligence artificielle, microélectronique, <b>cybersécurité</b>... : les grands chantiers de l'UGA à l ...](https://www.ledauphine.com/education/2026/09/10/enseignement-superieur-isere-intelligence-artificielle-microelectronique-cybersecurite-les-grands-chantiers-de-l-uga-a-l-horizon-2030)  
+*Source : ledauphine.com | Publication : 2026-09-10*
+
+- Enseignement supérieur Intelligence artificielle, microélectronique, cybersécurité... : les grands chantiers de l’UGA à l’horizon 2030 Alors que la rentrée 2026 bat son plein, Yassine Lakhnech, président de l’UGA, revient sur les chantiers qui attendent l'université grenobloise d'ici 2030.
+- Sensibiliser à l’IA et à la transition écologique À partir de la rentrée prochaine, les étudiants en licence seront sensibilisés aux enjeux de la transition écologique et de la transition numérique, notamment autour des usages de l’intelligence artificielle. «.
+- Il faut apprendre aux étudiants à utiliser l’IA de manière raisonnée, accompagner cette.
+
+## [<b>Cybercriminalité</b> : combat d'une procureure / Espace : l'Europe aspire à décoller | 28 minutes | ARTE](https://www.youtube.com/watch?v=ksXZbXX1zlA)  
+*Source : youtube.com | Publication : 2026-09-10*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Un expert en <b>cybersécurité</b> recouvre sa voiture d'un motif d'autocollants et la rend invisible ...](https://www.lacremedugaming.fr/high-tech/expert-cybersecurite-recouvre-voiture-dun-motif-dautocollants-la-rend-invisible-aux-radars-et-cameras-ia-222709.html)  
+*Source : lacremedugaming.fr | Publication : 2026-09-10*
+
+- Un expert en cybersécurité recouvre sa voiture d’un motif d’autocollants et la rend invisible aux radars et aux caméras IA À Las Vegas, lors de DEF CON 2026, l’expert en cybersécurité Bill Swearingen a présenté une démo qui fait frémir les fans de Tech et les services de police.
+- Il a recouvert une modeste Toyota Yaris 2009 d’un motif d’autocollants généré par IA, puis l’a fait passer devant une caméra intelligente Flock Safety, utilisée pour la reconnaissance automatique de plaques.
+- Résultat annoncé : la caméra filme toujours la scène, mais le modèle embarqué ne voit plus de "voiture" ni de "plaque".
+- Dans un contexte où les réseaux ALPR comme Flock (environ 90 000 caméras aux États-Unis) et la LAPI française se généralisent, cette voiture quasi invisible aux radars IA soulève autant de fantasmes que de questions techniques.
+
+## [La proc qui a défié Elon Musk raconte son combat contre la <b>cybercriminalité</b> | 28 minutes](https://www.youtube.com/watch?v=9OXGluVIqTk)  
+*Source : youtube.com | Publication : 2026-09-10*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Cyber Resilience Act : l'Europe impose de nouvelles règles de sécurité numérique](https://www.lopinion.fr/economie/cyber-resilience-act-leurope-impose-de-nouvelles-regles-de-securite-numerique)  
+*Source : lopinion.fr | Publication : 2026-09-10*
+
+- Cyber Resilience Act : l’Europe impose de nouvelles règles de sécurité numérique Cette réglementation arrive à point nommé, à l’heure où la France et l’Europe sont de plus en plus les cibles de cyberattaques C’est une réglementation passée sous les radars.
+- Le Cyber Resilience Act (CRA) est un règlement de l’Union européenne qui impose des exigences de cybersécurité à tous les produits comportant des éléments numériques vendus sur son territoire.
+- Il concerne aussi bien les éditeurs de logiciels que les fabricants de produits numériques, importateurs et distributeurs sur le marché européen.
+- Ce jeudi, la première obligation de ce règlement datant de 2024 est entrée en vigueur.
+
+## [France 2 bouleverse exceptionnellement ses programmes : pourquoi la grille de ce jeudi 10 ...](https://www.centrepresseaveyron.fr/2026/09/10/france-2-bouleverse-exceptionnellement-ses-programmes-pourquoi-la-grille-de-ce-jeudi-10-septembre-a-t-elle-ete-modifiee-13544651.php)  
+*Source : centrepresseaveyron.fr | Publication : 2026-09-10*
+
+- France 2 bouleverse exceptionnellement ses programmes : pourquoi la grille de ce jeudi 10 septembre a-t-elle été modifiée ?.
+- "Envoyé Spécial" et "Complément d’enquête" devaient investir la grille des programmes de France 2, en cette soirée du jeudi 10 septembre 2026.
+- Mais il n’en sera rien : pourquoi ?.
+- En ce jeudi 10 septembre 2026, "Envoyé Spécial" et "Complément d’enquête" devaient animer la soirée du France 2.
+
+## [Huang (Nvidia) : la <b>cybersécurité</b> sera le prochain grand cas d'usage de l'IA - Investing.com](https://fr.investing.com/news/stock-market-news/huang-nvidia--la-cybersecurite-sera-le-prochain-grand-cas-dusage-de-lia-3591593)  
+*Source : fr.investing.com | Publication : 2026-09-10*
+
+- Huang a indiqué à l'assistance que les avancées en matière d'IA sont sur le point de bouleverser le secteur de la cybersécurité , qui se concentre sur.
+
+## [&quot;Beaucoup de fournisseurs ont livré des IA bâclées, sans la télémétrie nécessaire&quot;](https://www.journaldunet.com/cybersecurite/1554713-beaucoup-de-fournisseurs-ont-livre-des-ia-baclees-sans-la-telemetrie-necessaire/)  
+*Source : journaldunet.com | Publication : 2026-09-10*
+
+- David Girard (TrendAI) "Beaucoup de fournisseurs ont livré des IA bâclées, sans la télémétrie nécessaire" David Girard, directeur de la sécurité de l'IA et des partenariats chez TrendAI, précise pourquoi il a fondé un groupe de travail qui veut imposer aux fournisseurs d'IA la traçabilité des actions de leurs systèmes.
+- JDN.
+- Vous avez créé un groupe de travail au sein de la coalition pour la sécurité de l'IA (CoSAI) chargé de produire un framework dédié à la télémétrie de l'IA.
+- Pourquoi ?.
+
+## [La septième conférence sur l'économie souterraine se tient au siège du Conseil de l'Europe](https://www.coe.int/fr/web/cybercrime/-/seventh-underground-economy-conference-convenes-at-council-of-europe-s-headquarters-advancing-global-co-operation-against-cybercrime-1)  
+*Source : coe.int | Publication : 2026-09-10*
+
+- Le programme 2026 a abordé un large éventail de cybermenaces , notamment les ransomwares , la fraude financière, le phishing, les logiciels de vol d'.
+
+## [Fuites de données: pourquoi le phénomène doit inquiéter les entreprises françaises et européennes](https://www.rfi.fr/fr/podcasts/aujourd-hui-l-économie/20260910-fuites-de-données-pourquoi-le-phénomène-c-est-grave-pour-les-entreprises-en-france-et-dans-l-ue)  
+*Source : rfi.fr | Publication : 2026-09-10*
+
+- Fuites de données: pourquoi le phénomène doit inquiéter les entreprises françaises et européennes Publié le : Durant l'été 2026, les fuites de données se sont multipliées en France, à tel point que le pays se retrouve désormais en première ligne face à ces cyberattaques : l'Éducation nationale, le fisc, ou encore la plateforme Zéro logement vacant ont été touchés.
+- Si cette accélération confirme leur industrialisation, elle témoigne aussi de la vulnérabilité des institutions.
+- Selon Surfshark, une entreprise de cybersécurité, 43,4 millions de comptes ont été piratés dans l'Hexagone durant les six premiers mois de cette année, soit l'équivalent de près de trois comptes compromis chaque seconde.
+- Ce triste record fait de la France le pays le plus touché par le vol de données en Europe.
+
+## [SASE OpsLab Ltd nomme Franck Burtin, expert chevronné en <b>cybersécurité</b>, au poste ... - Le Devoir](https://www.ledevoir.com/communiques-de-presse/1007954/sase-opslab-ltd-nomme-franck-burtin-expert-chevronne-cybersecurite-poste-directeur-developpement-commercial-accelerer-expansion-mondiale-automatisation-sase)  
+*Source : ledevoir.com | Publication : 2026-09-10*
+
+- LONDRES, 10 sept.
+- 2026 (GLOBE NEWSWIRE) — SASE OpsLab Ltd, entreprise spécialisée dans les plateformes logicielles d’automatisation et d’orchestration du SASE, a annoncé aujourd’hui la nomination de Franck Burtin au poste de Directeur du développement commercial (CRO).
+- Fort de plus de 30 années d’expérience dans les secteurs de l’informatique et de la cybersécurité, M. Burtin rejoint cette entreprise londonienne afin de développer sa présence commerciale à l’échelle mondiale, d’accélérer l’adoption de son catalogue « OpsKit » de kits opérationnels et de piloter sa stratégie de vente sur les principaux marchés internationaux.
+- Cette nomination intervient alors que SASE OpsLab Ltd connaît une forte dynamique de croissance dans un contexte où les organisations qui migrent d’infrastructures sur site vers des modèles Secure Access Service Edge (SASE) natifs du cloud sont confrontées à une complexité opérationnelle croissante.
+
+## [ensIIE - Nouvelle Vie Professionnelle](https://www.nouvelleviepro.fr/acteur/ensiie)  
+*Source : nouvelleviepro.fr | Publication : 2026-09-10*
+
+- ensIIE École, Organisme de formation Établissement public du Ministère de l'Enseignement Supérieur et de la Recherche, certifié Qualiopi et habilité par la CTI.
+- Une offre autour de quatre domaines (cybersécurité, data et IA, DevOps, entrepreneuriat) et des parcours diplômants labellisés Conférence des Grandes Écoles.
+- Accessibilité PMR garantie, sur-mesure possible.
+- Se former Rebondir après 50 ans L’ensIIE, école d’ingénieurs publique certifiée Qualiopi et habilitée par la CTI, propose une offre de formation continue structurée autour de cinq domaines à savoir la cybersécurité, la data et l’IA, le DevOps, le système d’information souverain et l’entrepreneuriat.
+
+## [Paiements internationaux : la <b>cybersécurité</b> entre dans l'ère de la preuve… Olivier Patole, Trustable](https://www.informatiquenews.fr/paiements-internationaux-la-cybersecurite-entre-dans-lere-de-la-preuve-olivier-patole-trustable-113457)  
+*Source : informatiquenews.fr | Publication : 2026-09-10*
+
+- Protéger les paiements internationaux ne suffit plus.
+- Face à des menaces mouvantes et à des exigences réglementaires croissantes, les acteurs financiers doivent désormais mesurer, auditer et surtout démontrer leur niveau réel de maîtrise du risque cyber.
+- La cybersécurité des paiements internationaux a longtemps été pensée sous l’angle de la protection : sécuriser les infrastructures, protéger les échanges, réduire les vulnérabilités, etc.
+- Si cette approche reste essentielle, elle ne suffit plus face à l’évolution des menaces.
+
+## [UECC 2026 : La Grande Emission Live - ITforBusiness.fr](https://www.itforbusiness.fr/uecc-2026-la-grande-emission-live-107054)  
+*Source : itforbusiness.fr | Publication : 2026-09-10*
+
+- Secu UECC 2026 : La Grande Emission Live Par Laurent Delattre, publié le 10 septembre 2026 Les Universités d’Été de la Cybersécurité et du Cloud de Confiance avaient choisi un thème pour le moins martial voire guerrier : « Réarmement numérique : l’Europe est-elle prête à conquérir sa souveraineté ?.
+- ».
+- Après l’été 2026, le choix paraît presque prémonitoire.
+- De quoi lancer des débats enflammés sur la réduction des dépendances numériques et l’impact des IA sur les RSSI et la cybersécurité.
+
+## [NordVPN alerte sur l'industrialisation de la <b>cybercriminalité</b> assistée par IA - ZDNET](https://www.zdnet.fr/actualites/nordvpn-alerte-sur-lindustrialisation-de-la-cybercriminalite-assistee-par-ia-503207.htm)  
+*Source : zdnet.fr | Publication : 2026-09-10*
+
+- Dans son rapport sur la cybersécurité des consommateurs 2026, NordVPN dresse un état des lieux des menaces observées au premier semestre 2026.
+- Le rapport documente un changement de nature de la cybercriminalité : des attaques massives et peu ciblées d’hier, on passerait à des campagnes hautement personnalisées, exploitant l’urgence, la cupidité et la confiance envers des marques familières, un basculement que l’accessibilité croissante de l’IA générative rendrait possible à moindre coût.
+- Des kits de fraude accessibles à tous grâce à l’IA Selon NordVPN, des kits de fraude prêts à l’emploi et des modèles d’IA sans restriction abaisseraient considérablement la barrière à l’entrée de la cybercriminalité, menaçant sérieusement les finances, les données personnelles et la sécurité numérique des consommateurs ordinaires.
+- Le rapport propose en parallèle des recommandations pratiques combinant défenses techniques et réflexes comportementaux pour protéger les internautes.
+
+## [VAST Data et CrowdStrike renforcent la <b>cybersécurité</b> sur l'ensemble de la stack de données pour l'IA](https://www.decideo.fr/VAST-Data-et-CrowdStrike-renforcent-la-cybersecurite-sur-l-ensemble-de-la-stack-de-donnees-pour-l-IA_a14792.html)  
+*Source : decideo.fr | Publication : 2026-09-10*
+
+- Données et décisions : Gouvernance, Analyse, Intelligence Artificielle, Business Intelligence, Data Science, Big Data Accueil Fiches pratiques Dossiers de synthèse Data Visualization Web analytique En bref Decideo.fr Recherche avancée Base de connaissances Communiqués Etudes de cas Opinion Actualités, Analyses Evènements Dossiers thématiques Administration.
+- Stockage Business Intelligence Data Mining Applications Analytiques Services Data Visualization Web Analytique A découvrir Glossaire / Lexique VAST Data et CrowdStrike renforcent la cybersécurité sur l’ensemble de la stack de données pour l’IA Rédigé par Communiqué de Vast Data le 10 Septembre 2026 Le VAST AI Operating System prend désormais en charge nativement CrowdStrike Falcon, en intégrant la protection de l’infrastructure IA, des accès aux données d’entreprise et des pipelines IA via VAST InsightEngine.
+- VAST Data, l’entreprise à l’origine du AI Operating System, et CrowdStrike annoncent aujourd’hui de nouvelles intégrations qui étendent des capacités de cybersécurité de niveau entreprise à l’infrastructure, aux données et aux workloads IA nécessaires au fonctionnement de l’IA en production.
+- La plateforme d’infrastructure IA de VAST prend en charge nativement le capteur CrowdStrike Falcon®, posant ainsi les bases d’intégrations plus poussées avec Falcon® Next-Gen SIEM et Falcon® AIDR, la solution AI Detection and Response (AIDR) de CrowdStrike, au sein du VAST AI Operating System.
 
 ## [Anthropic signale un quatrième incident de <b>cybersécurité</b> lié à une première version de Claude](https://www.boursorama.com/bourse/actualites/anthropic-signale-un-quatrieme-incident-de-cybersecurite-lie-a-une-premiere-version-de-claude-fef71094d6b959db1115b6106e1936fc)  
 *Source : boursorama.com | Publication : 2026-09-09*
