@@ -1,5 +1,159 @@
-# Résumés – 2026-09-11
+# Résumés – 2026-09-12
 
+
+## [Après des années de violences des réseaux criminels, la Suède inverse la tendance](https://actu.orange.fr/monde/apres-des-annees-de-violences-des-reseaux-criminels-la-suede-inverse-la-tendance-CNT000002rR6XH.html)  
+*Source : actu.orange.fr | Publication : 2026-09-12*
+
+- Après des années de violences des réseaux criminels, la Suède inverse la tendance "Bravo!".
+- Devant la station de métro de Farsta, banlieue du sud de Stockholm, où une fusillade en 2023 a tué deux passants, les habitants félicitent le policier Max Åkerwall et ses collègues pour avoir finalement réussi à faire reculer la violence des réseaux criminels en Suède.
+- "Une vague de violence s'est abattue sur la Suède en 2022 et 2023", explique à l'AFP ce policier, en référence au pic des fusillades et explosions meurtrières entre bandes rivales qui ont choqué le pays et fait de nombreuses victimes.
+- "Mais nous avons réussi à inverser la tendance", affirme-t-il devant la station de métro d'une banlieue où ces changements sont palpables.
+
+## [<b>Cybersécurité</b> : l'ANINF plonge les administrations gabonaises au cœur d'une cyberattaque simulée -](https://gabonactu.com/blog/2026/09/12/cybersecurite-laninf-plonge-les-administrations-gabonaises-au-coeur-dune-cyberattaque-simulee/)  
+*Source : gabonactu.com | Publication : 2026-09-12*
+
+- Face à la montée des menaces numériques, la meilleure défense reste la préparation.
+- À travers un Exercice national de cybersécurité organisé le 11 septembre 2026 à la Tour ANINF, l’Agence nationale des infrastructures numériques et des fréquences (ANINF, a, placé plusieurs administrations gabonaises en situation de crise, face à un scénario de cyberattaque entièrement simulé.
+- Objectif était de tester, en conditions quasi réelles, leur capacité à détecter, analyser et contenir une menace numérique.
+- La cybersécurité ne se résume désormais plus, selon-t-on, à installer des dispositifs de protection ou à anticiper les attaques.
+
+## [Grand Prix Cycliste de Québec 2026 - Remco Evenepoel après sa victoire sur la 15e édition ...](https://sports.orange.fr/videos/cyclisme/tour-de-france/grand-prix-cycliste-de-quebec-2026-remco-evenepoel-apres-sa-victoire-sur-la-15e-edition-a-quebec-CNT000002rQS8T.html)  
+*Source : sports.orange.fr | Publication : 2026-09-12*
+
+- Grand Prix Cycliste de Québec 2026 - Remco Evenepoel après sa victoire sur la 15e édition à Québec par Cyclism'Actu TV info - Pour son retour à la compétition, Remco Evenepoel n'a pas tardé à retrouver ses bonnes sensations, puisqu'il a remporté le Grand Prix Cycliste de Québec.
+- Parti loin de l'arrivée, en surprenant les autres favoris, le Belge de la Red Bull-BORA-hansgrohe s'est retrouvé dans le final en compagnie d'Anthon Charmig (3e, Uno-X Mobility), qu'il a distancé dans l'ultime ascension, et Giulio Ciccone (2e, Lidl-Trek) qu'il a battu au sprint.
+- Une première sortie particulièrement réussie pour le champion olympique, qui se tourne désormais vers le GP de Montréal et les Championnats du monde.
+- Video : @GPCQLM « Le vélo, partout & toujours ici » sur https://www.cyclismactu.net / Cyclism'Actu.
+
+## [US Open 2026 - Ben Shelton avant sa première finale de Grand Chelem - Orange Sports](https://sports.orange.fr/videos/tennis/roland-garros/us-open-2026-ben-shelton-avant-sa-premiere-finale-de-grand-chelem-le-travail-n-est-pas-termine-CNT000002rRorf.html)  
+*Source : sports.orange.fr | Publication : 2026-09-12*
+
+- US Open 2026 - Ben Shelton avant sa première finale de Grand Chelem : "Le travail n'est pas terminé" par Tennis Actu TV info - Ben Shelton disputera dimanche la première finale de Grand Chelem de sa carrière.
+- L'Américain de 23 ans a écarté Frances Tiafoe en quatre sets, 4-6, 6-3, 6-3, 7-5, en demi-finale de l'US Open 2026, et défiera désormais Alexander Zverev pour le titre.
+- Une qualification historique que Shelton refuse pourtant de considérer comme une finalité : "Le travail n'est pas terminé.".
+- « Le tennis, partout & toujours ici », sur https://www.tennisactu.net / Tennis Actu Vidéo suivante dans 5 secondes vidéos similaires lecture autoOUINON.
+
+## [Vainqueur du choc 100 % américain face à Frances Tiafoe, Ben Shelton rejoint Alexander ...](https://sports.orange.fr/videos/tennis/vainqueur-du-choc-100-americain-face-a-frances-tiafoe-ben-shelton-rejoint-alexander-zverev-en-finale-de-l-us-open-tennis-us-open-h-CNT000002rRoD5.html)  
+*Source : sports.orange.fr | Publication : 2026-09-12*
+
+- Chères lectrices, chers lecteurs, Vos avis sont précieux pour faire vivre l'actualité sur Orange.fr.
+- Nous tenions cependant à vous informer que l'espace « commentaires » de nos articles sera suspendu à partir du 29 septembre 2026.
+- La lecture et la publication de messages ne seront plus possibles.
+- Mais rassurez-vous, nos équipes sont mobilisées pour tenter de rétablir cette fonctionnalité.
+
+## [IA : « La <b>cybersécurité</b> est désormais une course de vitesse » - Les Echos](https://www.lesechos.fr/idees-debats/cercle/ia-la-cybersecurite-est-desormais-une-course-de-vitesse-2251248)  
+*Source : lesechos.fr | Publication : 2026-09-12*
+
+- Face à l'essor de l'IA, les entreprises doivent repenser leur stratégie de cybersécurité.
+- Les attaquants gagnent en rapidité, exploitant des.
+
+## [iPhone Duo testé par Numerama, la pliure presque invisible - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/15916/iphone-duo-numerama-test-pliure)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-12*
+
+- iPhone Duo testé par Numerama, la pliure presque invisible Numerama a pris en main l'iPhone Duo à la sortie du keynote Apple.
+- Écran opaque, caméra sous l'écran, pli quasi invisible et prix qui pique en France.
+- 1.La pliure est-elle visible sur l'écran interne ?.
+- - 2.Touch ID à la place du Face ID - 3.La puce A20 Pro, le titane grade 5 et l'étanchéité IP68 - 4.Une caméra sous l'écran que personne n'avait vue venir - 5.Deux capteurs 48 mégapixels mais toujours pas de zoom - 6.Format passeport pensé pour une seule main - 7.iOS repense son interface pour la charnière - 8.Glisser-déposer et écran partagé, le multitâche du Duo - 9.Écran opaque, charnière libre et mode support - 10.Autonomie annoncée et le regret du silicium carbone - 11.Mode duo caméra, mode enfant et FaceTime à trois - 12.Coques, MagSafe et le nœud Siri en Europe - 13.Combien coûte l'iPhone Duo - 14.Un bluff total ou un gadget hors de prix - 15.Ce que les autres testeurs ont remarqué - 16.Des chiffres qui ne concordent pas encore - 17.Questions fréquentes sur l'iPhone Duo - 18.Notez cet article - 19.Articles Connexes - 20.Recherchez-vous un Ingénieur Logiciel?.
+
+## [Le conseil de surveillance de Meta demande de ne pas remplacer le fact-checking par les ...](https://actu.orange.fr/economie/le-conseil-de-surveillance-de-meta-demande-de-ne-pas-remplacer-le-fact-checking-par-les-notes-de-contexte-CNT000002rRAJR.html)  
+*Source : actu.orange.fr | Publication : 2026-09-12*
+
+- Le conseil de surveillance de Meta demande de ne pas remplacer le fact-checking par les notes de contexte © JOSH EDELSON, AFP - Les bureaux du siège social de Meta (anciennement Facebook) à Menlo Park, en Californie (Etats-Unis), le 9 novembre 2022.
+- Le conseil de surveillance de Meta a appelé le groupe à ne pas abandonner le fact-checking au profit des notes de contexte, alors que le géant américain commence à tester ce système dans 16 pays d'Amérique latine, une évolution qui soulève des inquiétudes sur l'avenir de la lutte contre la désinformation.
+- Depuis mercredi, les utilisateurs de Facebook, Instagram et Threads dans 16 pays hispanophones de la région peuvent s'inscrire pour apporter du contexte à des publications en ligne.
+- Dans le cadre de cette phase pilote, leurs contributions resteront invisibles aux autres utilisateurs.
+
+## [Le Cyber Resilience Act impose désormais de signaler les failles exploitées sous 24 heures](https://kulturegeek.fr/news-359239/cyber-resilience-act-signalement-failles-24-heures)  
+*Source : kulturegeek.fr | Publication : 2026-09-12*
+
+- Depuis le 11 septembre, les fabricants de produits connectés et de logiciels vendus dans l’Union européenne doivent signaler rapidement les vulnérabilités activement exploitées et les incidents de sécurité graves.
+- Cette première obligation concrète du Cyber Resilience Act s’appuie sur une plateforme unique exploitée par l’Agence de l’Union européenne pour la cybersécurité (ENISA).
+- Le nouveau dispositif concerne les « produits comportant des éléments numériques », une définition large qui englobe aussi bien des équipements connectés que des logiciels commercialisés dans l’Union.
+- Lorsqu’un fabricant apprend qu’une faille de son produit est activement exploitée, ou qu’un incident grave en compromet la sécurité, il doit transmettre une alerte précoce sans retard injustifié et au plus tard sous 24 heures.
+
+## [Les dérives des lunettes connectées dans le collimateur des Européens - Orange Actu](https://actu.orange.fr/economie/les-derives-des-lunettes-connectees-dans-le-collimateur-des-europeens-CNT000002rR6Z0.html)  
+*Source : actu.orange.fr | Publication : 2026-09-12*
+
+- Les dérives des lunettes connectées dans le collimateur des Européens © Manaure Quintero, AFP - La colère commence à monter en Europe contre les usages "pervers" des lunettes connectées La colère commence à monter en Europe contre les lunettes connectées, utilisées pour filmer des femmes et des enfants à leur insu, nourrissant des appels à les bannir des espaces publics, voire à en interdire la vente.
+- Ces montures bardées de capteurs, caméras, hauts-parleurs et dont les verres servent aussi d'écran, sont vues depuis des années par les gourous de la tech comme la nouvelle révolution dans les objets "intelligents", après les montres et bracelets.
+- Loin d'être un gadget pour les "geeks", le groupe américain Meta en a fait un accessoire de mode : après des partenariats avec des marques très populaires comme Ray-Ban et Oakley, il a recruté cet été Kylie Jenner, et sorti une nouvelle monture capable grâce à l'IA de reproduire la voix de cette superstar des réseaux.
+- D'autres groupes s'intéressent à ce marché, notamment Google et Snap (maison-mère de Snapchat).
+
+## [Mettre un smartphone au réfrigérateur ne le refroidit pas, ça l'abîme - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/15874/smartphone-frigo-condensation-degats)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-12*
+
+- Mettre un smartphone au réfrigérateur ne le refroidit pas, ça l'abîme Refroidir un téléphone brûlant au frigo ou au congélateur crée de la condensation dans les circuits et fait sauter la garantie.
+- Voici pourquoi et comment le refroidir vraiment.
+- 1.Ce qui se passe à l'intérieur du téléphone quand on le met au frigo - 2.Le choc thermique abîme aussi le verre et la batterie - 3.Mais mon téléphone n'est-il pas étanche ?.
+- - 4.Pourquoi c'est la même erreur qu'avec le riz - 5.Que faire quand le smartphone surchauffe - 6.Questions fréquentes - 7.La règle à retenir - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+
+## [Clop revendique 270 Go volés chez Harley-Davidson via la faille Windchill](https://pasqualepillitteri.it/fr/news/15818/clop-harley-davidson-faille-windchill-270go)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-12*
+
+- Clop revendique 270 Go volés chez Harley-Davidson via la faille Windchill Clop revendique 270 Go volés chez Harley-Davidson via la faille Windchill CVE-2026-12569.
+- L'entreprise ne confirme pas.
+- Ce que l'on sait déjà et quoi faire.
+- 1.Ce que revendique Clop et ce que nous ne savons pas - 2.La faille Windchill qui a ouvert la porte - Comment fonctionne l'exploit - 3.Pourquoi Clop frappe toujours avec le même schéma - 4.Plus de 40 entreprises dans la même campagne - 5.Que peuvent faire les utilisateurs de Windchill ou FlexPLM - 6.Questions fréquentes (FAQ) - 7.Conclusions - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+
+## [40 millions d'euros volés en 3 ans : avec de faux RIB, des pirates ont fait des ravages en France](https://www.01net.com/actualites/40-millions-euros-voles-3-ans-avec-faux-rib-des-pirates-fait-ravages-france.html)  
+*Source : 01net.com | Publication : 2026-09-12*
+
+- Entre décembre 2022 et 2025, un groupe de cybercriminels a infiltré plus de 500 offices notariaux français, dérobant entre 35 et 40 millions d’euros.
+- Révélée par Le Monde sur la base de documents internes de l’Anssi et du Conseil supérieur du notariat (CSN), cette campagne a considérablement perturbé les activités notariales en France.
+- Les notaires font partie des cibles privilégiées des truands.
+- Les études notariales manient en effet chaque jour d’importantes sommes d’argent lors de transactions immobilières ou successorales… tout en étant très mal préparées contre les attaques informatiques.
+
+## [<b>Cybercriminalité</b>: Madagascar face au défi du crime sans frontière - Newsmada](https://newsmada.com/2026/09/12/cybercriminalite-madagascar-face-au-defi-du-crime-sans-frontiere/)  
+*Source : newsmada.com | Publication : 2026-09-12*
+
+- Le département américain de la Justice l’a confirmé.
+- Une équipe de la « Scam Center Strike Force » a été déployée pendant deux semaines à Madagascar afin de soutenir les autorités locales dans le démantèlement de 13 centres d’escroquerie présentés par Washington comme étant exploités par des réseaux criminels chinois bien organisés.
+- L’opération s’inscrit dans l’élargissement des activités de cette unité américaine, initialement mobilisée contre les grands centres d’escroquerie opérant notamment en Asie du Sud-Est.
+- L’affaire montre surtout la complexité croissante des réseaux auxquels les autorités nationales, doivent désormais faire face.
+
+## [Fuite de données chez eracm.fr : une attaque <b>ransomware</b> revendiquée en... - FrenchBreaches](https://frenchbreaches.com/r/0N73Cr)  
+*Source : frenchbreaches.com | Publication : 2026-09-12*
+
+- Fuite de données chez eracm.fr : une attaque ransomware revendiquée en.
+- Données exposées : Krybit, Other.
+- Incident signalé le 12 septembre.
+
+## [«Une intelligence artificielle est même capable d'aller au-delà des instructions» : Clément ...](https://www.europe1.fr/technologies/une-intelligence-artificielle-est-meme-capable-daller-au-dela-des-instructions-clement-domingo-interroge-lautonomie-croissante-de-lia-1072424)  
+*Source : europe1.fr | Publication : 2026-09-12*
+
+- Invité d'Europe 1 ce samedi matin, le hacker éthique Clément "SaxX" Domingo a réagi à une expérience menée par Anthropic dans laquelle une intelligence artificielle aurait identifié une faille dans son environnement de test afin de poursuivre sa mission.
+- Pour l'expert en cybersécurité, cette capacité à dépasser les consignes fixées par l'humain constitue un signal fort sur l'évolution des IA.
+- L'intelligence artificielle franchit-elle une nouvelle étape ?.
+- Interrogé par Alexis de la Fléchère, Clément "SaxX" Domingo est revenu sur une expérience qui suscite de nombreuses interrogations dans le secteur.
+
+## [Une campagne mondiale contre PaperCut mobilise des centaines d'agents IA et ... - Clubic](https://www.clubic.com/actualite-629296-une-campagne-mondiale-contre-papercut-mobilise-des-centaines-d-agents-ia-et-compromet-395-organisations.html)  
+*Source : clubic.com | Publication : 2026-09-12*
+
+- Plusieurs centaines d’agents IA ont participé à une offensive mondiale contre PaperCut, durant laquelle au moins 11 organisations ont été compromises en quelques secondes seulement.
+- Au total, les chercheurs ont identifié 395 victimes dans 48 pays.
+- Il n’aura fallu que quelques heures pour passer du développement des exploits aux premières intrusions réussies.
+- Selon GreyNoise, un attaquant probablement russophone a mobilisé des centaines d’agents IA pour préparer une offensive contre PaperCut.
+
+## [Les élèves de seconde construisent des robots, étudient la <b>cybersécurité</b> et jouent à ... - Vietnam.vn](https://www.vietnam.vn/fr/hoc-sinh-lop-10-lam-robot-hoc-an-ninh-mang-choi-board-game-cung-sinh-vien-dai-hoc)  
+*Source : vietnam.vn | Publication : 2026-09-12*
+
+- Pour l'année scolaire 2026-2027, le lycée Nguyen Hien (arrondissement de Binh Thoi, Hô Chi Minh-Ville) lancera 25 clubs répartis en 4 pôles : études, compétences, sports et loisirs.
+- Parmi les nouveautés, l'établissement collabore avec des universités afin d'accueillir des étudiants et des professeurs d'université spécialisés pour accompagner les élèves.
+- Apporter l'expertise universitaire au club.
+- Au sein du club de cybersécurité, des étudiants de l'Université de Technologie (Université nationale du Vietnam à Hô Chi Minh-Ville) guident des lycéens dans l'identification des arnaques en ligne et l'application de l'IA à la sécurité et à la protection des données personnelles.
+
+## [« Entre la défense et l'attaque, l'écart se creuse » : la nouvelle donne des cyberattaques à l ...](https://www.lesechos.fr/tech-medias/intelligence-artificielle/entre-la-defense-et-lattaque-lecart-se-creuse-la-nouvelle-donne-des-cyberattaques-a-lere-de-lia-2251220)  
+*Source : lesechos.fr | Publication : 2026-09-12*
+
+- armes redoutables face à la cybersécurité des organismes.
+
+## [Le Figaro : Conférences - Le Cercle France-Amériques Numérique et <b>cybersécurité</b>,](https://carnetdujour.lefigaro.fr/conferences/annonces/656849117/)  
+*Source : carnetdujour.lefigaro.fr | Publication : 2026-09-12*
+
+- Le Cercle France-Amériques vous convie à la conférence Numérique et cybersécurité, nouvelles armes de défense nationale ?.
+- Visions transatlantiques, le lundi 12 octobre 2026 de 8 h 45 à 11 heures.
+- Accueil petit-déjeuner à partir de 8 heures.
+- En partenariat avec le barreau de Paris, l’Association française des docteurs en droit (AFDD), droit et commerce et le Club des juristes.
 
 ## [Crimes financiers, <b>cybercriminalité</b> et crime organisé : la NCA pourra reprendre certaines ...](https://defimedia.info/crimes-financiers-cybercriminalite-et-crime-organise-la-nca-pourra-reprendre-certaines-enquetes-de)  
 *Source : defimedia.info | Publication : 2026-09-11*
