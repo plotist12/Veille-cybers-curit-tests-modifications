@@ -1,5 +1,158 @@
-# Résumés – 2026-09-12
+# Résumés – 2026-09-13
 
+
+## [Jazz et le SABC concluent une entente de principe réglant tous les points litigieux en ... - Les Affaires](https://www.lesaffaires.com/communique-de-presse/jazz-et-le-sabc-concluent-une-entente-de-principe-reglant-tous-les-points-litigieux-en-matiere-de-negociation-collective/)  
+*Source : lesaffaires.com | Publication : 2026-09-13*
+
+- Jazz et le SABC concluent une entente de principe rÃ©glant tous les points litigieux en matiÃ¨re de nÃ©gociation collective.
+- Cision|PubliÃ© il y a 10 minutes | Mis Ã jour il y a 22 secondesHALIFAX, NS, le 13 sept.
+- 2026 /CNW/ — JazzÂ AviationÂ S.E.C.
+- (Â«Â JazzÂ Â») et le SABC sont heureux d’annoncer que les parties sont parvenues Ã une entente de principe par voie de nÃ©gociation collectiveÂ qui rÃ¨gle tous les points litigieux en suspens, sous rÃ©serve de ratification.
+
+## [Offre de rentrée : -50% sur le meilleur antivirus Mac Intego ONE Total - Mac4Ever](https://www.mac4ever.com/securite/198010-offre-de-rentree-50-sur-le-meilleur-antivirus-mac-intego-one-total)  
+*Source : mac4ever.com | Publication : 2026-09-13*
+
+- Offre de rentrée : -50% sur le meilleur antivirus Mac Intego ONE Total Article sponsorisé - Publié le - Bon Plan Vous avez acheté un nouveau Mac pour la rentrée ?.
+- Ou bien c'est simplement le moment de mettre à jour ses logiciels ?.
+- Ça tombe bien, Intego fait coup double en lançant une nouvelle application iPhone avec antivirus et VPN sécurisé, et en offrant 50% de réduction sur l'offre Intego ONE Total avec laquelle vient cette nouvelle application.
+- C'est le moment de protéger votre Mac et votre iPhone de toutes les cybermenaces qui le guettent.
+
+## [US Open 2026 - Aryna Sabalenka après sa défaite en finale : &quot;Vous réfléchissez trop&quot;](https://sports.orange.fr/videos/tennis/roland-garros/us-open-2026-aryna-sabalenka-apres-sa-defaite-en-finale-vous-reflechissez-trop-CNT000002rS2NG.html)  
+*Source : sports.orange.fr | Publication : 2026-09-13*
+
+- US Open 2026 - Aryna Sabalenka après sa défaite en finale : "Vous réfléchissez trop" par Tennis Actu TV info - Aryna Sabalenka n'aura pas réussi le triplé à l'US Open.
+- Battue par Elena Rybakina en finale samedi, 6-4, 5-7, 6-2, la Biélorusse n'a pas caché sa frustration après la rencontre : "C'est vraiment difficile de contrôler ses émotions quand vous perdez en finale d'un Grand Chelem.".
+- Sur le point de céder également sa place de n°1 mondiale à Rybakina après 99 semaines consécutives au sommet, Sabalenka a toutefois lancé un petit défi à sa grande rivale. «.
+- Le tennis, partout & toujours ici », sur https://www.tennisactu.net / Tennis Actu Vidéo suivante dans 5 secondes vidéos similaires lecture autoOUINON.
+
+## [Présidentielle 2027 : Éric Zemmour place l'IA et la remigration au centre du programme Reconquête](https://actu.orange.fr/politique/presidentielle-2027-eric-zemmour-place-l-ia-et-la-remigration-au-centre-du-programme-reconquete-magic-CNT000002rSkIx.html)  
+*Source : actu.orange.fr | Publication : 2026-09-13*
+
+- Présidentielle 2027 : Éric Zemmour place l’IA et la remigration au centre du programme Reconquête © Stevens Tomas/ABACA Le président de Reconquête , Éric Zemmour, a pris la parole ce dimanche 13 septembre aux universités d’été du parti à Port-Marly (Yvelines).
+- Il s’est affiché aux côtés de Sarah Knafo qui a confirmé la candidature de son conjoint à l’élection présidentielle 2027, comme le rapporte Le Monde.
+- Après Jean-Luc Mélenchon et Fabien Roussel samedi 12 septembre, c’est au tour d’Éric Zemmour de s’exprimer à l’occasion des universités d’été Reconquête !.
+- à Port-Marly (Yvelines).
+
+## [Les 15 principales entreprises du marché mondial des systèmes de sécurité industrielle](https://www.sphericalinsights.com/fr/blogs/top-15-companies-in-global-industrial-security-systems-market-statistics-report-till-2035)  
+*Source : sphericalinsights.com | Publication : 2026-09-13*
+
+- Les 15 principales entreprises du marché mondial des systèmes de sécurité industrielle DATE DE PUBLICATION: Sep 2026 Auteur: Spherical InsightsDemander un échantillon gratuit Parler à un analyste Désignation des marchandises Selon un rapport de recherche publié par Spheric Insights & Consulting, la taille du marché mondial des systèmes de sécurité industrielle devrait passer de 56,21 milliards de dollars en 2025 à 117,97 milliards de dollars en 2035, soit un TCAC de 7,7 % au cours de la période de prévision 2026-2035.
+- Les possibilités de croissance future du marché mondial des systèmes de sécurité industrielle consisteraient en des solutions de sécurité pour les sites industriels temporaires, comme les projets de construction, les sites miniers éloignés et les installations de production temporaire.
+- Les caméras portables, les systèmes d'accès et la surveillance à distance peuvent être protégés sans nécessiter une infrastructure de sécurité permanente.
+- Présentation Le marché des systèmes de sécurité industrielle est un ensemble de solutions et d'appareils utilisés pour surveiller, contrôler et sécuriser les zones d'usine, les machines, les appareils, les biens et les entrepôts, ainsi que le personnel.
+
+## [Le gouvernement Trump réticent à freiner l'IA, les démocrates y voient une urgence](https://actu.orange.fr/monde/le-gouvernement-trump-reticent-a-freiner-l-ia-les-democrates-y-voient-une-urgence-CNT000002rSk3s.html)  
+*Source : actu.orange.fr | Publication : 2026-09-13*
+
+- Le gouvernement Trump réticent à freiner l'IA, les démocrates y voient une urgence © Brendan SMIALOWSKI, AFP - Donald Trump au Trump International Golf Links & Hotel, à Doonbeg, en Irelande, le 13 septembre 2026 Donald Trump et plusieurs figures de son camp se sont dits opposés dimanche à un ralentissement du développement de l'intelligence artificielle (IA), l'un des sujets phares de la campagne des législatives de mi-mandat aux Etats-Unis.
+- Samedi, le patron d'Anthropic, Dario Amodei, avait plaidé pour une décélération sur l'IA afin de permettre de mieux appréhender les risques découlant des nouvelles capacités de l'intelligence artificielle.
+- Il a été soutenu publiquement par son homologue d'OpenAI, Sam Altman, ainsi que par Elon Musk.
+- Dimanche, Donald Trump a critiqué les "forces négatives" à l'oeuvre dans le milieu de l'IA, les accusant de parler de "choses qui n'arriveront pas".
+
+## [Cyber-attaques : La France ciblée ? - Cash Investigation - YouTube](https://www.youtube.com/watch?v=lgFFPhtR4Y0)  
+*Source : youtube.com | Publication : 2026-09-13*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Faire tourner des modèles MoE géants sur un portable grâce au streaming disque](https://pasqualepillitteri.it/fr/news/15986/streaming-disque-modeles-moe-portable)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-13*
+
+- Faire tourner des modèles MoE géants sur un portable grâce au streaming disque Colibri, ds4 et kTransformers font tourner des modèles MoE de 744 milliards de paramètres sur un portable en streaming disque.
+- Comment ça marche et lequel choisir.
+- 1.Pourquoi un modèle de 744 milliards rentre pas dans ton portable - 2.Comment fonctionne le streaming depuis le disque - 3.Trois moteurs, trois voies pour le même mur - Colibrì, les experts lus depuis le NVMe - ds4 et DwarfStar, le cache KV passe sur le disque - kTransformers, les experts sur la RAM système - 4.La comparaison en un tableau - 5.Colibrì a dépassé ds4, ce que disent les chiffres - Ce qu'il faut retenir - 6.Lequel choisir, et quand - 7.Comment démarrer, les commandes essentielles - Colibri, du clone au chat - ds4 et DwarfStar, du clone au premier prompt - kTransformers, du clone au kernel - 8.Questions Fréquentes (FAQ) - 9.Conclusion - 10.Notez cet article - 11.Articles Connexes - 12.Recherchez-vous un Ingénieur Logiciel?.
+- - Un modèle de 744 milliards de paramètres tourne sur un portable avec 25 Go de RAM et aucune carte graphique.
+
+## [Cyclisme : le Nordiste Florian Sénéchal applaudi au Grand Prix de Fourmies - Sports](https://sports.orange.fr/videos/cyclisme/cyclisme-le-nordiste-florian-senechal-applaudi-au-grand-prix-de-fourmies-CNT000002rSk1J.html)  
+*Source : sports.orange.fr | Publication : 2026-09-13*
+
+- Cyclisme : le Nordiste Florian Sénéchal applaudi au Grand Prix de Fourmies par La Voix du Nord info - Après avoir chuté dans le final du Grand Prix de Fourmies - La Voix du Nord, le Nordiste Florian Sénéchal, visiblement marqué, a été très applaudi par le public Vidéo suivante dans 5 secondes vidéos similaires lecture autoOUINON.
+
+## [Arnaques : attention à ces &quot;faux collégiens&quot; qui tentent de vous soutirer de l'argent](https://actu.orange.fr/societe/fait-divers/arnaques-attention-a-ces-faux-collegiens-qui-tentent-de-vous-soutirer-de-l-argent-magic-CNT000002rSjgQ.html)  
+*Source : actu.orange.fr | Publication : 2026-09-13*
+
+- Arnaques : attention à ces "faux collégiens" qui tentent de vous soutirer de l’argent.
+- Depuis quelques jours, une arnaque circule dans le Grand-Ouest.
+- Apparue l'hiver dernier, des adolescents font du porte-à-porte pour récolter de l’argent, sous couvert de l’organisation d’un voyage scolaire, mais il n’en est rien.
+- L'objectif est seulement de soutirer de l'argent aux victimes approchées.
+
+## [Cyber Resilience Act : première échéance au 11 septembre et bilan pour le logiciel libre](https://linuxfr.org/news/cyber-resilience-act-premiere-echeance-au-11-septembre-et-bilan-pour-le-logiciel-libre)  
+*Source : linuxfr.org | Publication : 2026-09-13*
+
+- Le règlement (UE) 2024/2847, aussi appelé Cyber Resilience Act ou CRA, impose des exigences de cybersécurité à tout « produit comportant des éléments numériques » mis sur le marché de l’Union (logiciels compris, mais pas les services web).
+- Son article 14 est entré en application le 11 septembre 2026.
+- Tout fabricant doit signaler sous 24 heures toute vulnérabilité activement exploitée dans son produit et tout incident grave de sécurité, y compris pour les produits déjà sur le marché, puis compléter ce signalement sous 72 heures et le clore par un rapport final.
+- Le reste du règlement s’applique à partir du 11 décembre 2027.
+
+## [US Open 2026 - Elena Rybakina, blessée trois semaines avant son sacre : &quot;L'IRM n'avait ...](https://sports.orange.fr/videos/tennis/roland-garros/us-open-2026-elena-rybakina-blessee-trois-semaines-avant-son-sacre-l-irm-n-avait-pas-l-air-tres-bonne-CNT000002rSehc.html)  
+*Source : sports.orange.fr | Publication : 2026-09-13*
+
+- US Open 2026 - Elena Rybakina, blessée trois semaines avant son sacre : "L'IRM n'avait pas l'air très bonne" par Tennis Actu TV info - Elena Rybakina est au sommet.
+- Victorieuse d'Aryna Sabalenka en finale de l'US Open 2026, la Kazakhe a décroché son troisième Grand Chelem et s'apprête à devenir n°1 mondiale.
+- Une consécration d'autant plus impressionnante qu'après sa blessure à Cincinnati, "l'IRM n'avait pas l'air très bonne" et Rybakina avait passé sept jours sans pouvoir jouer au tennis. «.
+- Le tennis, partout & toujours ici », sur https://www.tennisactu.net / Tennis Actu Vidéo suivante dans 5 secondes vidéos similaires lecture autoOUINON.
+
+## [<b>CYBERSÉCURITÉ</b> : LA NOUVELLE LOI FAIT PASSER LE SÉNÉGAL DES ... - RTS](https://www.rts.sn/actualite/detail/a-la-une/cybersecurite-la-nouvelle-loi-fait-passer-le-senegal-des-recommandations-aux-obligations)  
+*Source : rts.sn | Publication : 2026-09-13*
+
+- Le Sénégal franchit une nouvelle étape dans la structuration de sa défense numérique.
+- Avec la nouvelle loi relative à la protection des infrastructures d’information critique et à la sécurité numérique, le pays entend passer d’un dispositif largement fondé sur des recommandations à un système reposant sur des obligations juridiquement contraignantes.
+- Pour le colonel Aly MIME, Directeur général du Chiffre et de la Sécurité des Systèmes d’information, cette évolution répond à une lacune apparue au fil du développement du numérique.
+- Le Sénégal disposait déjà, depuis 2008, d’un ensemble de textes portant notamment sur la protection des données personnelles, la cybercriminalité et la cryptologie.
+
+## [<b>Cybersécurité</b> : 16 actualités majeures du 13 septembre 2026 (dont Cyber Resilience Act)](https://dcod.ch/2026/09/13/cybersecurite-16-actualites-majeures-du-13-septembre-2026-dont-cyber-resilience-act/)  
+*Source : dcod.ch | Publication : 2026-09-13*
+
+- Faits marquants de la semaine ENISA a lancé la première étape de la Single Reporting Platform (SRP) liée au Cyber Resilience Act : un outil en ligne permettant de signaler, une seule fois, des vulnérabilités activement exploitées et des incidents graves.
+- - À Berlin, après le refus de payer une rançon de 30 bitcoins, le groupe de ransomware Rhysida a publié sur le dark web près de 6 téraoctets de données, évoquant environ 1,44 million de fichiers et 12 076 personnes.
+- - Le 6 septembre, Liquid Network (sidechain Bitcoin) a été vidé d’environ 4 000 bitcoins sur 4 200 depuis un portefeuille de fédération ; 3 400 bitcoins ont ensuite été restitués, tandis qu’environ 598 bitcoins ont été conservés.
+- - Microsoft a publié son plus gros Patch Tuesday (septembre 2026) avec jusqu’à 974 vulnérabilités corrigées selon les décomptes, dont 2 failles déjà exploitées, 20 vulnérabilités “wormable” et une exécution de code à distance sur Exchange via pièce jointe Visio.
+
+## [&quot;Ces escrocs détruisent des vies&quot; : les sommes folles des arnaques au faux conseiller bancaire](https://actu.orange.fr/france/ces-escrocs-detruisent-des-vies-les-sommes-folles-des-arnaques-au-faux-conseiller-bancaire-magic-CNT000002rRRzr.html)  
+*Source : actu.orange.fr | Publication : 2026-09-13*
+
+- "Ces escrocs détruisent des vies" : les sommes folles des arnaques au faux conseiller bancaire © Karola G de Pexels Les méthodes sont pourtant bien connues mais elles ne cessent de faire des dégâts.
+- Les arnaques au faux conseiller bancaire ne cessent de faire des victimes.
+- Elles piègent des personnes souvent vulnérables et permettent aux escrocs de siphonner à ces dernières plusieurs milliers d’euros.
+- "En l’espace de quelques secondes, il a siphonné un total de 5100 euros.".
+
+## [Google Vids transforme vos Docs, PDF et fichiers Word en resumes video](https://pasqualepillitteri.it/fr/news/16085/google-vids-documents-resumes-video)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-13*
+
+- Google Vids transforme vos Docs, PDF et fichiers Word en resumes video Google Vids convertit desormais Google Docs, PDF et fichiers Word en resumes video de deux minutes grace a Gemini, avec script et voix off automatiques.
+- Voici comment ca marche.
+- 1.Ce que fait la fonction Docs to video - 2.Comment travaille Gemini en coulisses - 3.Comment créer une vidéo à partir d'un document - 4.Qui peut l'utiliser et depuis quand - 5.Ce qui change vraiment pour ceux qui travaillent - 6.Questions fréquentes - 7.Conclusions - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+- - Google Vids prend désormais un Google Doc, un PDF ou un fichier Word et en tire une vidéo résumée d'environ deux minutes, avec voix narrative et graphismes générés par Gemini.
+
+## [Formation certifiante en <b>cybersécurité</b> de l'UCAD, du PNUD et de la JOJ Dakar 2026](https://yop.l-frii.com/formation-certifiante-en-cybersecurite-de-lucad-du-pnud-et-de-la-joj-dakar-2026/)  
+*Source : yop.l-frii.com | Publication : 2026-09-13*
+
+- Formation certifiante en cybersécurité de l’UCAD, du PNUD et de la JOJ Dakar 2026 Dans le cadre du renforcement des compétences nationales en cybersécurité et de la promotion des métiers du numérique, l’UCAD, en partenariat avec le Programme des Nations Unies pour le Développement PNUD et en collaboration avec le Comité d’Organisation des Jeux Olympiques de la Jeunesse Dakar 2026 JOJ Dakar 2026, lance un appel à candidatures pour une formation certifiante en cybersécurité.
+- Préparer les participants à la certification internationale Check Point Certified Security Administrator CCSA.
+- Public cible : étudiants intéressés par la cybersécurité et les métiers du numérique.
+- Date limite de candidature : 19 septembre 2026 Soumettre votre candidature en remplissant le formulaire disponible à l’adresse suivante : https://docs.google.com/…/1FAIpQLSf5GL31QogF…/viewform Les candidats sont invités à consulter le communiqué officiel pour prendre connaissance des conditions et informations complémentaires.
+
+## [Arsenal - Arteta très remonté contre l'arbitrage malgré la victoire : Sports - Orange](https://sports.orange.fr/videos/football/arsenal-arteta-tres-remonte-contre-l-arbitrage-malgre-la-victoire-CNT000002rSexa.html)  
+*Source : sports.orange.fr | Publication : 2026-09-13*
+
+- Arsenal - Arteta très remonté contre l’arbitrage malgré la victoire par beIN SPORTS France info - Arsenal s’est imposé 2-0 contre Sunderland.
+- Mais en conférence de presse d’après match, Mikel Arteta était très remonté contre l’arbitre pour un penalty sifflé contre son équipe en deuxième mi-temps.
+- Vidéo suivante dans 5 secondes vidéos similaires lecture autoOUINON.
+
+## [Pourquoi la <b>cybersécurité</b> pourrait-elle devenir le prochain grand marché de l'IA selon Jensen Huang](https://www.e-works.fr/blog/pourquoi-la-cybersecurite-pourrait-elle-devenir-le-prochain-grand-marche-de-lia-selon-jensen-huang/)  
+*Source : e-works.fr | Publication : 2026-09-13*
+
+- Lors de la récente conférence technologique de Goldman Sachs, Jensen Huang, le PDG de Nvidia, a exprimé sa vision ambitieuse pour l’avenir de l’intelligence artificielle.
+- Selon lui, après la programmation, la cybersécurité pourrait bien être le prochain grand marché de l’IA.
+- Cette perspective n’est pas sans fondement, puisqu’elle s’appuie sur l’évolution rapide des technologies et des besoins croissants en matière de défense numérique.
+- Mais qu’est-ce qui rend ce domaine si prometteur pour Nvidia et ses partenaires ?.
+
+## [Cybercombattante de Johanna Brousse : la cyberisation du crime organisé](https://www.cyberattaque.org/cybercombattante-de-johanna-brousse-la-cyberisation-du-crime-organise/)  
+*Source : cyberattaque.org | Publication : 2026-09-13*
+
+- Nous faisons probablement encore une erreur lorsque nous parlons de la cybercriminalité comme d’une criminalité à part.
+- C’est l’une des principales conclusions que l’on peut tirer de Cybercombattante, le livre de Johanna Brousse, magistrate spécialisée dans la lutte contre la cybercriminalité.
+- Au fil de ses quelque 250 pages, l’ouvrage passe des cyberbraquages à plusieurs millions d’euros à la pédocriminalité, des milliards en bitcoins à Sky ECC, avant d’aborder le rapport de force avec Telegram et d’autres plateformes, les IMSI-catchers, l’espionnage et le sabotage internationaux ou encore le business des ransomwares.
+- Cette diversité pourrait donner l’impression d’un simple panorama des grandes menaces numériques.
 
 ## [Après des années de violences des réseaux criminels, la Suède inverse la tendance](https://actu.orange.fr/monde/apres-des-annees-de-violences-des-reseaux-criminels-la-suede-inverse-la-tendance-CNT000002rR6XH.html)  
 *Source : actu.orange.fr | Publication : 2026-09-12*
