@@ -1,5 +1,152 @@
-# Résumés – 2026-09-13
+# Résumés – 2026-09-14
 
+
+## [CenterPoint Energy signale un incident de <b>cybersécurité</b> impliquant des données clients](https://ch.zonebourse.com/actualite-bourse/centerpoint-energy-signale-un-incident-de-cybersecurite-impliquant-des-donnees-clients-ce785bdcd08bf420)  
+*Source : ch.zonebourse.com | Publication : 2026-09-14*
+
+- CenterPoint Energy signale un incident de cybersécurité impliquant des données clientsCenterPoint Energy a déclaré lundi avoir pris connaissance, en septembre, d'une publication en ligne émanant d'un tiers prétendant avoir obtenu un ensemble de données contenant certaines.
+
+## [Tech Alternatives Nantes : la Digital Week ouvre la voie à une informatique moins ...](https://www.actu44.fr/tech-alternatives-nantes-la-digital-week-ouvre-la-voie-a-une-informatique-moins-dependante-des-geants-americains/)  
+*Source : actu44.fr | Publication : 2026-09-14*
+
+- La Nantes Digital Week accueillera le vendredi 18 septembre, à partir de 9 h 30, un rendez-vous inédit consacré à la souveraineté numérique.
+- Baptisé Tech Alternatives Nantes, l’événement se tiendra à La Cantine x La French Tech Nantes, Halle 6 Est, au 40 rue de la Tour d’Auvergne.
+- Une quinzaine d’acteurs du numérique nantais et régional y présenteront aux DSI, CTO et décideurs techniques des solutions déjà opérationnelles pour réduire la dépendance aux grands fournisseurs américains et chinois.
+- Cloud, cybersécurité, intelligence artificielle, infrastructures, outils collaboratifs ou gestion des données : autant de domaines dans lesquels des alternatives locales existent, même si elles restent souvent perçues comme insuffisantes ou immatures.
+
+## [<b>Cyber-sécurité</b> et économie numérique : la protection des données, pilier de la croissance ...](https://lessentieldeleco.fr/8438-cyber-securite-et-economie-numerique-la-protection-des-donnees-pilier-de-la-croissance-des-entreprises/)  
+*Source : lessentieldeleco.fr | Publication : 2026-09-14*
+
+- Afficher le sommaire Masquer le sommaire L’essor des technologies numériques impose une refonte globale des stratégies de sécurité au sein des organisations modernisées.
+- La numérisation du quotidien a complètement chamboulé la donne pour les acteurs économiques du monde entier.
+- Aujourd’hui, des structures de toutes tailles déplacent leurs activités vers le nuage, généralisent le télétravail et gèrent leurs flux financiers directement sur le Web.
+- Ce grand saut apporte un confort indéniable au quotidien, mais il ouvre aussi la porte à des attaques capables d’ébranler la santé financière d’une boîte en un clin d’œil.
+
+## [Un juriste ukrainien devenu cybercriminel pour un funeste <b>ransomware</b> - Generation-NT](https://www.generation-nt.com/actualites/conti-ransomware-ukrainien-condamnation-justice-2081084)  
+*Source : generation-nt.com | Publication : 2026-09-14*
+
+- Un citoyen ukrainien âgé de 44 ans a été condamné à quatre ans de prison aux États-Unis pour son implication dans le groupe de ransomware Conti.
+- Actif entre 2020 et 2022, ce groupe est responsable d'attaques contre plus d'un millier d'organisations à travers le monde.
+- Elles auraient généré plus de 150 millions de dollars en rançons, selon les estimations du FBI.
+- Quel était son rôle au sein de Conti ?.
+
+## [Info JDN. L'indice de résilience numérique va s'élargir aux PME et à toute l'Europe](https://www.journaldunet.com/cybersecurite/1554773-exclu-les-ambitions-de-l-irn-acces-aux-pme-plus-de-consultants-europeanisation/)  
+*Source : journaldunet.com | Publication : 2026-09-14*
+
+- Info JDN.
+- L'indice de résilience numérique va s'élargir aux PME et à toute l'Europe Les dirigeants de l'Association for Digital Resilience Initiative (aDRI) veulent simplifier les critères d'évaluation de l'IRN pour les PME et l'imposer en Europe grâce aux caisses des dépôts du continent.
+- L'Association for Digital Resilience Initiative (aDRI), à l'inititiative de l'indice de résilience numérique (IRN) en 2025, a du pain sur la planche.
+- David Djaïz, PDG du cabinet de conseil Ascend Partners et cofondateur de l'organisation avec Arno Pons, délégué général du think tank Digital New Deal, et l'informaticien Yan Lechelle confient au JDN que l'aDRI prévoit de rendre l'indice accessible aux PME et collectivités territoriales.
+
+## [‍  Ingénieur(e) <b>cybersécurité</b> : face à la recrudescence des cyberattaques, un métier recherché ...](https://app.livestorm.co/my-job-glasses/ingenieur-cybersecurite-face-a-la-recrudescence-des-cyberattaques-un-metier-recherche-par-les-employeurs)  
+*Source : app.livestorm.co | Publication : 2026-09-14*
+
+- À propos de cet événement Piratage, ransomware, fuites de données… Les cybermenaces sont de plus en plus courantes et surtout, ne sont plus réservées aux grandes entreprises.
+- Dans une PME, une attaque peut suffire à mettre en péril des années de travail.
+- Heureusement, un métier a pour rôle d’anticiper et d’éviter ces menaces : l'ingénieur en cybersécurité.
+- Mercredi 23 septembre à 18h, Antonin, ingénieur cybersécurité, partagera son quotidien.
+
+## [GASS 2026: Bitdefender remporte le prix de la meilleure campagne de sensibilisation aux arnaques](https://www.bitdefender.com/fr-fr/blog/hotforsecurity/gass-2026-bitdefender-remporte-le-prix-de-la-meilleure-campagne-de-sensibilisation-aux-arnaques/)  
+*Source : bitdefender.com | Publication : 2026-09-14*
+
+- Bitdefender a remporté le prix de la « Meilleure campagne de sensibilisation ou du meilleur programme éducatif » lors du Sommet Mondial Contre l’Escroquerie 2026, qui s’est tenu à San Francisco.
+- Ce prix récompense « Scam Radar », la fonctionnalité d’alerte précoce de Bitdefender qui aide les utilisateurs à repérer les nouvelles vagues d’escroqueries dans leur région avant d’en devenir les cibles.
+- Les escroqueries constituent un problème mondial.
+- Elles traversent rapidement les frontières, se propagent sur les réseaux sociaux, par SMS, e-mail et via les applications de messagerie, et utilisent des marques connues, des actualités locales et des personnalités publiques de confiance pour rendre leurs propos crédibles.
+
+## [Mali: un journaliste condamné à deux ans de prison pour des propos sur Kidal - RFI](http://www.rfi.fr/fr/afrique/20260914-mali-un-journaliste-condamné-à-deux-ans-de-prison-pour-des-propos-sur-kidal)  
+*Source : rfi.fr | Publication : 2026-09-14*
+
+- Mali: un journaliste condamné à deux ans de prison pour des propos sur Kidal Au Mali, le journaliste Abdrahamane Keita a été condamné à deux ans de prison par le Pôle de lutte contre la cybercriminalité pour atteinte à l’unité et au crédit de l’État à la suite de propos tenus dans une émission de débat.
+- Publié le : Son entourage se dit choqué.
+- À l’énoncé de sa condamnation, le journaliste, lui, est resté stoïque.
+- Le tribunal a condamné ce lundi Abdrahamane Keita a deux ans de prison ferme, sans sursis et à un million de FCFA de dommages et intérêts pour délit à caractère régionaliste pouvant porter atteinte à l’unité et au crédit de l’État, ainsi que pour diffusion de fausses informations.
+
+## [« Notre force, c'est de travailler ensemble » : les élus de 2026 échangeront sur leurs ...](https://www.ouest-france.fr/pays-de-la-loire/maine-et-loire/notre-force-cest-de-travailler-ensemble-les-elus-de-2026-echangeront-sur-leurs-preoccupations-en-maine-et-loire-844e595e-b022-11f1-8483-804bbf8224d2)  
+*Source : ouest-france.fr | Publication : 2026-09-14*
+
+- Climat, centres-bourgs, cybersécurité … Territoires d'Anjou, le salon des maires et des collectivités territoriales de Maine-et-Loire, entend.
+
+## [La sécurité de l'IA à la vitesse des machines : une feuille de route pour l'AppSec d'aujourd'hui](https://www.akamai.com/fr/blog/security/ai-security-machine-speed-roadmap-modern-appsec)  
+*Source : akamai.com | Publication : 2026-09-14*
+
+- Barney Beal est rédacteur pour le groupe de cybersécurité d'Akamai.
+- Il apporte des décennies d'expérience pour rendre les technologies complexes.
+
+## [<b>Cybersécurité</b> : l'Agence du numérique en santé veut répondre en moins d'une heure aux incidents](https://www.lequotidiendumedecin.fr/sante-societe/cybersecurite-lagence-du-numerique-en-sante-veut-repondre-en-moins-dune-heure-aux-incidents)  
+*Source : lequotidiendumedecin.fr | Publication : 2026-09-14*
+
+- Cybersécurité : l’Agence du numérique en santé veut répondre en moins d’une heure aux incidents 0 RéactionsCommenter - Partager sur Facebook Facebook - Partager sur X.
+- - Partager sur Linkedin Linkedin - Partager par mail Mail - L’Agence du numérique en santé a présenté, vendredi 11 septembre, sa feuille de route stratégique qui vise à accélérer dans les trois prochaines années le déploiement de services numériques, renforcer la cybersécurité et préparer un cadre réglementaire autour de l’éthique de l’IA en santé.
+- Dix mois après sa prise de fonction, le directeur général de l’Agence du numérique en santé (ANS), Jean-Christophe Zerbini, a présenté les grandes lignes du contrat d’objectifs et de performance (COP) de l’agence pour les trois prochaines années.
+- Cette feuille de route fixe les objectifs prioritaires jusqu’en 2028 de l’ANS, dont la La suite de l’article est réservée aux abonnés.
+
+## [Intelligence artificielle: l'IA peut-elle tuer l'humanité? - Blick](https://www.blick.ch/fr/monde/intelligence-artificielle-lia-peut-elle-tuer-lhumanite/73xj9t2)  
+*Source : blick.ch | Publication : 2026-09-14*
+
+- Avons-nous créé un monstre?.
+- Tentaculaire, exponentiel, gargantuesque et capable de raisonnement.
+- Inarrêtable, en somme, à moins d'une action immédiate et drastique, entreprise à l'échelle mondiale.
+- Voilà ce que tendent à suggérer les messages d'alerte qui fusent actuellement au sujet du développement vertigineux de l'intelligence artificielle.
+
+## [Proofpoint scrute les communications avec les IA - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/cybersecurite/65244-proofpoint-scrute-les-communications-avec-les-ia.html)  
+*Source : linformaticien.com | Publication : 2026-09-14*
+
+- L'éditeur de cybersécurité Proofpoint va intégrer de nouvelles capacités d'IA à Microsoft 365 dans ses fonctionnalités d'investigation à destination.
+
+## [Nouvelle obligation pour les professionnels du numérique, certaines failles doivent être ...](https://siecledigital.fr/2026/09/14/nouvelle-obligation-pour-les-professionnels-du-numerique-certaines-failles-doivent-etre-signalees-sous-24-heures/)  
+*Source : siecledigital.fr | Publication : 2026-09-14*
+
+- Le Cyber Resilience Act semble produire ses premiers effets.
+- Le règlement européen est entré en vigueur en décembre 2024, mais l’essentiel des exigences ne s’appliquera qu’à partir de fin 2027.
+- Une première obligation majeure pour les fabricants vient pourtant d’entrer en vigueur.
+- Elle concerne la remontée des vulnérabilités et de certains incidents qui touchent les produits numériques commercialisés dans l’Union européenne.
+
+## [Zscaler lance Agentic SOC : une nouvelle approche face aux <b>cybermenaces</b> IA](https://www.channelbiz.fr/2026/09/14/zscaler-lance-agentic-soc-une-nouvelle-approche-face-cybermenaces-ia/amp/)  
+*Source : channelbiz.fr | Publication : 2026-09-14*
+
+- « Les attaques pilotées par l’IA évoluent à une vitesse que les modèles SOC traditionnels n’ont jamais été conçus pour gérer », souligne Deepen Desai, Executive Vice President of Cybersecurity chez Zscaler. «.
+- Agentic SOC repense en profondeur les opérations de sécurité en plaçant les capacités agentiques au cœur de son approche, afin de réduire de manière proactive les expositions, de renforcer l’expertise humaine grâce aux agents IA et de contenir les menaces à la vitesse des machines. ».
+- Alterway s'associe à OUTSCALE pour proposer une offre clé en main d'IA générative opérée sur… Disponible dans Cyber Coach, cette nouvelle fonctionnalité propulsée par l'IA Néréus génère des simulations d'attaques… Avec 18,8 % de part de marché et plus de 119 300 unités vendues sur… Whaller est le premier dans sa catégorie à disposer de deux attestations indépendantes sur deux… { Tribune Expert } - Le CCaaS ne manque ni de maturité ni de pertinence.… Fort de trente ans d'expérience IT et télécoms, dont dix ans à la tête d'un….
+
+## [Zscaler lance Agentic SOC : une nouvelle approche face aux <b>cybermenaces</b> IA](https://www.channelbiz.fr/2026/09/14/zscaler-lance-agentic-soc-une-nouvelle-approche-face-cybermenaces-ia/)  
+*Source : channelbiz.fr | Publication : 2026-09-14*
+
+- Conçue dès l’origine autour de l’intelligence artificielle, Zscaler Agentic SOC redéfinit les opérations de sécurité (SecOps) en combinant réduction proactive des expositions, renforcement de l’expertise humaine et confinement automatisé des menaces à la vitesse des machines.
+- Aujourd’hui, le simple ajout de briques d’intelligence artificielle aux outils de cybersécurité existants ne suffit plus.
+- Les cyberattaquants s’appuient massivement sur l’IA pour mener des actions d’une rapidité et d’une furtivité inédites, échappant aux capacités de corrélation et d’analyse manuelle des équipes de sécurité.
+- L’équipe de recherche mondiale de Zscaler, <b »>ThreatLabz, met d’ailleurs en garde contre la recrudescence des tactiques d’évasion.
+
+## [<b>Cybersécurité</b> : la Cour des comptes tempère les ambitions officielles des autorités belges](https://lpost.be/societe/cybersecurite-la-cour-des-comptes-tempere-les-ambitions-officielles-des-autorites-belges/)  
+*Source : lpost.be | Publication : 2026-09-14*
+
+- Cybersécurité : la Cour des comptes tempère les ambitions officielles des autorités belges Publié le lundi 14 septembre 2026 à 17:20 | Temps de lecture estimé : 2 min.
+- Le CCB lui-même reconnaît ne pas disposer d'une stratégie propre intégrée.
+- BELGA.
+
+## [<b>Cybersécurité</b> industrielle : les solutions existent, reste à les rendre visibles](https://www.solutions-numeriques.com/cyber-securite-industrielle-les-solutions-existent-reste-a-les-rendre-visibles/)  
+*Source : solutions-numeriques.com | Publication : 2026-09-14*
+
+- Parmi les cibles cyber, les usines, les réseaux d’énergie ou les infrastructures critiques ont une place de choix.
+- La question n’est pas de savoir si elles seront attaquées, mais avec quels outils s’en prémunir.
+- Hexatrust a réuni 18 de ses membres, éditeurs, intégrateurs et cabinets de conseil, pour cartographier une offre française et européenne encore trop méconnue dédiée à la cyber OT.
+- Une offre qui existe, reste à la rendre visible Les référentiels et les bonnes pratiques permettant de structurer une démarche de cybersécurité industrielle existent déjà.
+
+## [Le Cyber Resilience Act descend jusqu'aux puces électroniques - VIPress.net](https://vipress.net/le-cyber-resilience-act-descend-jusquaux-puces-electroniques/)  
+*Source : vipress.net | Publication : 2026-09-14*
+
+- Le Cyber Resilience Act descend jusqu’aux puces électroniques Depuis le 11 septembre 2026, date de la première phase de la mise en œuvre du Cyber Resilience Act (CRA) européen, les fabricants de « produits comportant des éléments numériques », y compris les puces et les modules les intégrant, doivent notifier les vulnérabilités et les incidents graves affectant leurs produits.
+- Officiellement intitulé règlement européen (UE) 2024/2847, le Cyber Resilience Act (CRA) constitue le cadre horizontal de l’UE pour la cybersécurité des « produits comportant des éléments numériques ».
+- Il impose aux fabricants d’intégrer la cybersécurité dès la conception, puis tout au long du développement, de la production, de la commercialisation et de la durée de vie de ces produits.
+- L’objectif est de réduire le nombre de produits vulnérables arrivant sur le marché européen, d’améliorer la gestion des vulnérabilités et d’informer davantage les utilisateurs sur le niveau de sécurité des produits, qu’il s’agisse de solutions matérielles ou logicielles.
+
+## [Vietjet et Thales renforcent leur partenariat stratégique dans l'aéronautique de pointe](https://lecourrier.vn/vietjet-et-thales-renforcent-leur-partenariat-strategique-dans-laeronautique-de-pointe/1355408.html)  
+*Source : lecourrier.vn | Publication : 2026-09-14*
+
+- >> Vietjet ouvre tôt la vente de 3,1 millions de billets pour le Nouvel An lunaire 2027, à partir de 490.000 dôngs >> Avec Vietjet, partez à la découverte de l’automne >> Vietjet - CFM International : renforcer les capacités de maintenance des moteurs Ces accords contribuent à approfondir la coopération économique et technologique franco-vietnamienne.
+- La cérémonie de signature s'est déroulée au Palais de l'Élysée à Paris, en présence du Secrétaire général et Président To Lam, du Président français Emmanuel Macron, ainsi que de hauts responsables et représentants du monde des affaires des deux pays.
+- Dans le cadre du contrat de réparation à l'heure (RBTH), Thales assurera la maintenance et la réparation des systèmes électroniques embarqués des Airbus A320/A321, A321neo/A321XLR, A330 et A330neo de la flotte de Vietjet.
+- Cette coopération contribue à améliorer la fiabilité technique, la disponibilité de la flotte, à optimiser les coûts et à accroître l'efficacité opérationnelle.
 
 ## [Jazz et le SABC concluent une entente de principe réglant tous les points litigieux en ... - Les Affaires](https://www.lesaffaires.com/communique-de-presse/jazz-et-le-sabc-concluent-une-entente-de-principe-reglant-tous-les-points-litigieux-en-matiere-de-negociation-collective/)  
 *Source : lesaffaires.com | Publication : 2026-09-13*
