@@ -1,5 +1,155 @@
-# Résumés – 2026-09-14
+# Résumés – 2026-09-15
 
+
+## [BOURGOGNE-FRANCHE-COMTÉ : Les préconisations du CESER concernant le ... - Infos Dijon](https://www.infos-dijon.com/news/bourgogne-franche-comte/bourgogne-franche-comte/bourgogne-franche-comte-les-preconisations-du-ceser-concernant-le-developpement-de-l-intelligence-artificielle-1789423200.html)  
+*Source : infos-dijon.com | Publication : 2026-09-15*
+
+- Recherche Pour nous joindre redaction.infosdijon@gmail.com SMS au 07.86.17.77.12 Annonces légales Vie locale Vie locale.
+- Avis de décès.
+- A la «une» de la presse Ailleurs Ailleurs A voir, à découvrir, à apprécier... Sport.
+- Jeux Olympiques Natation.
+
+## [« Chaque acteur malveillant dispose désormais des capacités d'un État » : comment l'IA ...](https://www.futura-sciences.com/tech/actualites/cybersecurite-chaque-acteur-malveillant-dispose-desormais-capacites-etat-ia-change-cybercriminalite-137758/)  
+*Source : futura-sciences.com | Publication : 2026-09-15*
+
+- L’idée d’une intelligence artificielle capable de dépasser l’humain alimente depuis plusieurs années les scénarios les plus inquiétants.
+- Mais pour certains des chercheurs qui ont contribué à son développement, le risque ne relève plus seulement de la science-fiction.
+- Car si une IA voulait réellement nous détruire, elle n’aurait peut-être même pas besoin de robots ou d’armes : il lui suffirait de nous parler.
+- Lire la suite L'intelligence artificielle est une véritable menace, et ce sont les spécialistes qui le disent.
+
+## [<b>Cybersécurité</b> : une tribune pour alerter - 15/09 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cybersecurite-une-tribune-pour-alerter-15-09_VN-202609150887.html)  
+*Source : bfmtv.com | Publication : 2026-09-15*
+
+- Cybersécurité : une tribune pour alerter - 15/09 Ce mardi 15 septembre, Guillaume Vassault-Houlière, PDG fondateur de YesWeHack, est revenu sur la tribune "Moi Président, je ferai hacker l'État" pour alerter face aux cyberattaques, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 9:44.
+
+## [Pourquoi vous devriez éteindre votre téléphone au lieu de le redémarrer ?](https://www.journaldugeek.com/2026/09/15/pourquoi-vous-devriez-eteindre-votre-telephone-au-lieu-de-le-redemarrer/)  
+*Source : journaldugeek.com | Publication : 2026-09-15*
+
+- Les limites du redémarrage traditionnel Pendant longtemps, les spécialistes en cybersécurité ont encouragé les utilisateurs à redémarrer régulièrement leurs appareils mobiles pour éviter de potentielles cyberattaques.
+- La NSA, agence nationale de sécurité américaine, préconise elle-même cette pratique, à effectuer selon elle au moins deux fois par semaine.
+- L’objectif ?.
+- Empêcher d’éventuels programmes malveillants d’infiltrer le système de votre téléphone.
+
+## [Jérôme Notin : « Chaque euro investi dans Cybermalveillance.gouv.fr peut limiter fortement l ...](https://www.itforbusiness.fr/jerome-notin-chaque-euro-investi-dans-cybermalveillance-gouv-fr-peut-limiter-fortement-limpact-de-la-cybercriminalite-107204)  
+*Source : itforbusiness.fr | Publication : 2026-09-15*
+
+- Secu Jérôme Notin : « Chaque euro investi dans Cybermalveillance.gouv.fr peut limiter fortement l’impact de la cybercriminalité » Par Laurent Delattre, publié le 15 septembre 2026 Aux UECC 2026, Jérôme Notin, directeur général de Cybermalveillance.gouv.fr, est venu rappeler une évidence parfois perdue au milieu des discours sur l’IA, les attaques sophistiquées et la souveraineté : la cybersécurité reste aussi une affaire de sensibilisation, de proximité et de réflexes élémentaires.
+- Et pour cela, il faut mobiliser tout le monde… mais aussi quelques moyens supplémentaires.
+- Au milieu des experts, des RSSI et des débats très « cyber », Jérôme Notin commence par ramener la sécurité numérique sur le terrain.
+- À quelques semaines du Cybermois, Cybermalveillance.gouv.fr prépare une nouvelle campagne de sensibilisation qui entend, cette année, prendre les choses avec un peu d’humour. «.
+
+## [Les taux journaliers moyens des métiers de la tech en 2027 - BDM](https://www.blogdumoderateur.com/taux-journaliers-moyens-metiers-tech-2027/)  
+*Source : blogdumoderateur.com | Publication : 2026-09-15*
+
+- Les taux journaliers moyens des métiers de la tech en 2027 Michael Page détaille les principaux taux journaliers moyens (TJM) de 21 métiers tech recherchés en freelance et en management de transition, de 300 à plus de 1 500 € par jour.
+- En marge des grilles de salaires annuels du digital, du marketing et de la tech, le cabinet de recrutement Michael Page consacre une partie de son étude de rémunérations 2027 aux métiers de l’IT exercés en prestation de services.
+- Il présente notamment les taux journaliers moyens de 21 fonctions parmi celles qui sont les plus recherchées en freelance dans ce domaine.
+- À noter que cette grille n’a pas d’équivalent dans le volet digital, marketing et communication, pour lequel Michael Page n’a publié que les salaires annuels.
+
+## [Réunion publique - Prévention sur la <b>Cybercriminalité</b> - Les communes illiwap](https://station.illiwap.com/fr/public/72065/actu/reunion-publique-prevention-sur-la-cybercriminalite)  
+*Source : station.illiwap.com | Publication : 2026-09-15*
+
+- Réunion publique - Prévention sur la Cybercriminalité.
+- 15/09/2026.
+- Partagez l'article.
+- Partager sur Facebook · Partager sur LinkedIn · Partager.
+
+## [Une clinique de <b>cybersécurité</b> et IA à l'UQAC | Journal Informe Affaires](https://informeaffaires.com/regional/technologie/une-clinique-de-cybersecurite-et-ia-a-luqac)  
+*Source : informeaffaires.com | Publication : 2026-09-15*
+
+- SAGUENAY - Des professeurs de l'Université du Québec à Chicoutimi (UQAC) veulent mettre sur pied une clinique en cybersécurité et intelligence artificielle pour les PME et organismes de la région.
+- Ils sont présentement à la recherche d'entreprises pour participer à une première phase afin de tester le modèle.
+- Les professeurs du Département d'informatique et de mathématique (DIM) veulent permettre à des organisations régionales de bénéficier du service d'étudiants supervisés par des professeurs experts en cybersécurité ou en intelligence artificielle (IA) pour répondre à leurs besoins dans ces domaines.
+- Les PME et organismes pourraient ainsi soumettre une problématique, un enjeu ou un objectif et recevoir du soutien, tout en favorisant la formation des étudiants. «.
+
+## [Cyberattaques : les entreprises face à une menace invisible - Corse Matin](https://www.corsematin.com/article/economie/4857749997589/cyberattaques-les-entreprises-face-a-une-menace-invisible)  
+*Source : corsematin.com | Publication : 2026-09-15*
+
+- Article réservé aux abonnés Cyberattaques : les entreprises face à une menace invisible En Corse, les acteurs de la cybersécurité constatent une prise de conscience progressive, mais les TPE et PME restent fragiles.
+- Freepik En 2025, 48 % des victimes de rançongiciels identifiées étaient des TPE, PME ou ETI.
+- En Corse aussi, les petites entreprises sont particulièrement exposées.
+- Derrière une cyberattaque, il n'y a pas seulement des données volées ou des ordinateurs bloqués, mais aussi une activité qui peut s'arrêter, parfois pendant plusieurs jours ou plusieurs mois.
+
+## [« Cybercombattante » : dans les coulisses des enquêtes visant hackeurs, escrocs et pédocriminels](https://www.lemonde.fr/pixels/article/2026/09/15/cybercombattante-dans-les-coulisses-des-enquetes-visant-hackeurs-escrocs-et-pedocriminels_6774466_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-09-15*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Rockwell Automation s'appuie sur l'IA d'Anthropic pour renforcer sa <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/rockwell-automation-s-appuie-sur-l-ia-d-anthropic-pour-renforcer-sa-cybersecurite-ce785bddda81ff22)  
+*Source : zonebourse.com | Publication : 2026-09-15*
+
+- Rockwell Automation s'appuie sur l'IA d'Anthropic pour renforcer sa cybersécuritéRockwell Automation a déclaré mardi avoir rejoint le Project Glasswing d'Anthropic, une entreprise soutenue par Amazon.
+- Cette initiative mondiale vise à renforcer la cybersécurité au sein.
+
+## [&quot;Ne pas attirer les regards&quot; : La <b>cybersécurité</b>, un sujet sensible et des victimes prudentes en ...](https://www.lanouvellerepublique.fr/indre-et-loire/ne-pas-attirer-les-regards-la-cybersecurite-un-sujet-sensible-et-des-victimes-prudentes-en-indre-et-loire-1789493173)  
+*Source : lanouvellerepublique.fr | Publication : 2026-09-15*
+
+- « Ne pas attirer les regards » : La cybersécurité, un sujet sensible et des victimes prudentes en Indre-et-Loire AbonnésCet article est réservé aux abonnés numériques.
+- Faits divers / Justice - Indre-et-Loire - AbonnésCet article est réservé aux abonnés numériques.
+- Le Pôle de santé Léonard-de-Vinci, à Chambray-lès-Tours, en janvier 2022.
+- Puis le Département d’Indre-et-Loire en juillet de la même année.
+
+## [Formation IA et <b>cybersécurité</b> : l'école d'ingénieurs Enssat de Lannion fait le point sur sa ...](https://www.ouest-france.fr/education/etudiant/ecoles-ingenieurs/formation-ia-et-cybersecurite-lecole-dingenieurs-enssat-de-lannion-fait-le-point-sur-sa-rentree-2026-2027-59a3a6b2-b01a-11f1-b773-22a20d9d91fa)  
+*Source : ouest-france.fr | Publication : 2026-09-15*
+
+- Formation intelligence artificielle et cybersécurité.
+- Face à la prédominance de l'intelligence artificielle (IA) dans la société, certains étudiants.
+
+## [<b>Cybersécurité</b> : une vigilance qui ne peut plus attendre la loi - WEKA](https://www.weka.fr/actualite/administration/article/cybersecurite-une-vigilance-qui-ne-peut-plus-attendre-la-loi-218758/)  
+*Source : weka.fr | Publication : 2026-09-15*
+
+- La cybercriminalité contre les services publics a changé d’échelle.
+- Ce qui relevait, il y a encore quelques années, d’un risque lointain et abstrait s’est transformé en une réalité statistique tangible… L’ANSSI a ainsi traité 4 386 événements de sécurité en 2024, soit 15 % de plus qu’en 2023.
+- Sur ce total, 219 concernaient directement des collectivités territoriales, sans distinction de taille ni de strate, des petites communes rurales aux régions.
+- Le secteur hospitalier a lui aussi appris, à ses dépens, qu’aucun lieu n’est à l’abri : le CH de Dax en février 2021, le CHSF de Corbeil-Essonnes en août 2022, plus récemment les hôpitaux d’Armentières et de Cannes.
+
+## [Cyber Resilience Act : anticiper et préparer la conformité - ANSSI](https://cyber.gouv.fr/agenda-de-lanssi/cyber-resilience-act-anticiper-et-preparer-la-conformite/)  
+*Source : cyber.gouv.fr | Publication : 2026-09-15*
+
+- Cyber Resilience Act : anticiper et préparer la conformité 23 septembre 2026 Une matinée dédiée à l'écosystème industriel français pour comprendre les enjeux du CRA, anticiper la conformité et préparer la résilience cyber des organisations.
+- Cette rencontre sera structurée autour de trois temps forts : Mise en conformité nécessaire : accès au marché européen - Opportunité stratégique : réduire les risques cyber pour l’économie française.
+- - Échanges pratiques : solutions et bonnes pratiques pour une mise en conformité efficace - Cyber Resilience Act : anticiper et préparer la conformité Date :23 septembre 2026 08:00 - 23 septembre 2026 13:00 - Lieu : Centre de conférences Pierre Mendès France -.
+
+## [Apocalypse quantique : la fin de la <b>cybersécurité</b> pour demain ? - The Conversation](https://theconversation.com/apocalypse-quantique-la-fin-de-la-cybersecurite-pour-demain-286607)  
+*Source : theconversation.com | Publication : 2026-09-15*
+
+- Une grande partie de la cryptographie moderne repose sur l’existence de problèmes mathématiques difficiles à résoudre.
+- Ces problèmes sont conçus de telle sorte que le calcul qui permettrait de les résoudre n’est pas possible en pratique, soit parce qu’il prendrait des milliards d’années, soit parce qu’il nécessiterait de couvrir la Terre de superordinateurs.
+- L’ordinateur quantique est le genre d’outil qui peut dynamiter la cryptographie, car il pourrait casser ces limites de calcul.
+- On estime aujourd’hui qu’environ deux tiers des connexions à des sites web sont déjà sécurisées par des algorithmes post-quantiques.
+
+## [Investissement : l'américain Cybastion veut mobiliser 300 millions de dollars pour la ...](https://www.latribune.fr/article/afrique/43673903876145/investissement-lamericain-cybastion-veut-mobiliser-300-millions-de-dollars-pour-la-transformation-numerique-au-senegal)  
+*Source : latribune.fr | Publication : 2026-09-15*
+
+- Investissement : l'américain Cybastion veut mobiliser 300 millions de dollars pour la transformation numérique au Sénégal L’enveloppe couvrira notamment la cybersécurité, les centres de données, le transfert de technologies et la formation de compétences.
+- Photo DR.
+
+## [Agents autonomes, responsabilité introuvable : le paradoxe silencieux qui s'installe au cœur ...](https://www.usine-digitale.fr/cybersecurite/agents-autonomes-responsabilite-introuvable-le-paradoxe-silencieux-qui-sinstalle-au-coeur-de-la-cybersecurite.IXRUUTMSIRFXNEKNQQUIW74QQE.html)  
+*Source : usine-digitale.fr | Publication : 2026-09-15*
+
+- Agents autonomes, responsabilité introuvable : le paradoxe silencieux qui s'installe au cœur de la cybersécurité.
+- Les récents incidents montrent que.
+
+## [Cybermois 2026 : près d'un Français sur deux désormais notifié suite à une violation de ses données](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/cp-cybermois-2026)  
+*Source : cybermalveillance.gouv.fr | Publication : 2026-09-15*
+
+- Cybermois 2026 : près d’un Français sur deux désormais notifié suite à une violation de ses données Publié le 15/09/2026 - 5 minutes de lecture - À l’occasion du lancement de la 14ème édition du Cybermois, Cybermalveillance.gouv.fr, le dispositif national d’assistance et de prévention en cybersécurité, dévoile les résultats de son 3ème baromètre sur la perception cyber des Français, réalisé avec Ipsos Digital.
+- L’étude révèle une bascule majeure : les violations de données personnelles touchent désormais près de la moitié de la population.
+- En parallèle, le besoin d’être accompagné et sensibilisé augmente.
+- Face à cette industrialisation de la cybercriminalité, le Cybermois 2026 appelle à amplifier les efforts de prévention afin que la prise de conscience des risques s’accompagne des réflexes concrets de protection.
+
+## [Exein lève 270 millions de dollars et devient une licorne de la <b>cybersécurité</b> - ChannelNews](https://www.channelnews.fr/exein-leve-270-millions-de-dollars-et-devient-une-licorne-de-la-cybersecurite-158875)  
+*Source : channelnews.fr | Publication : 2026-09-15*
+
+- La pépite italienne de la cybersécurité embarquée Exein annonce une nouvelle levée de fonds de 270 millions de dollars (234 M€) qui la valorise désormais 1,7 milliard de dollars (1,4 Md€).
+- L’opération fait de la société romaine la première licorne italienne de la cybersécurité.
+- Le tour est mené par le fonds américain Headline, avec la participation notamment de Sofina, Goldman Sachs, de l’European Tech Champions Initiative, de KfW Capital et de T.Capital, le fonds de capital-risque de Deutsche Telekom.
+- Plusieurs investisseurs historiques, dont Balderton Capital et HV Capital, remettent également au pot.
 
 ## [CenterPoint Energy signale un incident de <b>cybersécurité</b> impliquant des données clients](https://ch.zonebourse.com/actualite-bourse/centerpoint-energy-signale-un-incident-de-cybersecurite-impliquant-des-donnees-clients-ce785bdcd08bf420)  
 *Source : ch.zonebourse.com | Publication : 2026-09-14*
