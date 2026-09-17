@@ -1,5 +1,154 @@
-# Résumés – 2026-09-15
+# Résumés – 2026-09-16
 
+
+## [&quot;On perd le contrôle&quot;, met en garde le pionnier de l'IA Yoshua Bengio - Orange Actu](https://actu.orange.fr/economie/quot-on-perd-le-controle-quot-met-en-garde-le-pionnier-de-l-ia-yoshua-bengio-CNT000002rW0i3.html)  
+*Source : actu.orange.fr | Publication : 2026-09-16*
+
+- "On perd le contrôle", met en garde le pionnier de l'IA Yoshua Bengio Yoshua Bengio est considéré comme l'un des pères de l'IA.
+- Dans un entretien à l'AFP, il juge que l'humanité est en train de perdre le contrôle et appelle à la mise en place de "garde-fous" face à un "enjeu international".
+- Le débat sur les risques de l'IA est monté en puissance depuis le début de l'été, alimenté par une série d'incidents et des déclarations apocalyptiques de plusieurs professionnels du secteur.
+- Plusieurs modèles d'IA d'OpenAI et Anthropic sont notamment sortis spontanément de leur milieu confiné pour se rendre sur Internet et faire intrusion sur différents sites et plateformes.
+
+## [CrowdSec, expert en <b>cybersécurité</b>, piraté : 3,4 Go de code revendiqués... - FrenchBreaches](https://frenchbreaches.com/r/iJTN9B)  
+*Source : frenchbreaches.com | Publication : 2026-09-16*
+
+- Un pirate affirme avoir volé 3,4 Go de code source de CrowdSec, entreprise française de cybersécurité , après l'exposition d'une clé API.
+
+## [DrayTek s'associe à Enea pour renforcer ses plateformes de <b>cybersécurité</b> de nouvelle génération](https://www.zonebourse.com/actualite-bourse/draytek-s-associe-a-enea-pour-renforcer-ses-plateformes-de-cybersecurite-de-nouvelle-generation-ce785bd2d088f520)  
+*Source : zonebourse.com | Publication : 2026-09-16*
+
+- DrayTek a annoncé la conclusion d&#039;une collaboration stratégique avec Enea AB afin d&#039;accroître la visibilité sur les applications et de renforcer la détection des menaces au sein de ses futures plateformes de réseaux et de cybersécurité.
+- Grâce à ce partenariat, DrayTek Corp. s&#039;appuiera sur la technologie avancée d&#039;intelligence applicative d&#039;Enea AB pour offrir des capacités d&#039;identification des applications améliorées, permettant aux équipes informatiques de bénéficier d&#039;une meilleure visibilité sur les applications actives au sein de leurs réseaux.
+- Le moteur Qosmos ixEngine d&#039;Enea AB sera intégré aux plateformes de cybersécurité haute performance de nouvelle génération de DrayTek Corp., optimisant ainsi l&#039;identification des applications et la visibilité réseau.En outre, DrayTek Corp. prévoit de déployer le kit de développement logiciel (SDK) Enea AB Qosmos TD dans sa prochaine plateforme de cybersécurité haute performance, offrant ainsi des capacités avancées de détection et de protection contre les menaces pour aider les organisations à répondre plus efficacement à l&#039;évolution des cybermenaces.
+- Les technologies d&#039;intelligence applicative et de détection des menaces d&#039;Enea AB bénéficient de la confiance des opérateurs de télécommunications et des entreprises à travers le monde.Grâce à des signatures applicatives continuellement mises à jour, des techniques d&#039;analyse de trafic avancées et des capacités de détection des menaces, cette technologie identifie avec précision des milliers d&#039;applications et de services tout en aidant les organisations à renforcer leur posture de cybersécurité.
+
+## [&quot;Pour résoudre un problème de migration de données, Claude a décidé de supprimer… la ...](https://www.journaldunet.com/cybersecurite/1554939-pour-resoudre-un-probleme-de-migration-de-donnees-claude-a-decide-de-supprimer-la-base-de-donnees/)  
+*Source : journaldunet.com | Publication : 2026-09-16*
+
+- Thomas Brethomé et Thomas Girard (Kerys Software) "Pour résoudre un problème de migration de données, Claude a décidé de supprimer… la base de données !".
+- Les cofondateurs de Kerys Software, Thomas Brethomé et Thomas Girard, témoignent des risques de sécurité qu'ils rencontrent quand ils utilisent l'IA agentique pour améliorer leur solution de virtualisation sécurisée.
+- JDN.
+- Chez Kerys, vous utilisez Claude Code pour automatiser certains tests de développement de votre solution.
+
+## [Christophe Appietto (CSIRT CyberCorsica) : « La Corse est autant exposée aux cyberattaques »](https://www.corsematin.com/article/economie/51692188050105/en-corse-il-y-a-une-illusion-de-securite-liee-a-linsularite-previent-christophe-appietto-de-cybercorsica)  
+*Source : corsematin.com | Publication : 2026-09-16*
+
+- Article réservé aux abonnés "En Corse, il y a une illusion de sécurité liée à l'insularité ", prévient Christophe Appietto de CyberCorsica Christophe Appietto, responsable du centre de cyber sécurité de Corse CSIRT CyberCorsica donne une formation aux collaborateurs d'une entreprise ajaccienne dans ses locaux à Ajaccio.
+- Pascal POCHARD-CASABIANCA Christophe Appietto pilote CyberCorsica, un centre territorial chargé de sensibiliser et d'accompagner les acteurs corses face à des cyberattaques toujours plus nombreuses.
+- Et il prévient : l'île n'est pas épargnée.
+- Créé en avril 2024, le CSIRT (à prononcer césirt) CyberCorsica, se veut le centre territorial de cybersécurité.
+
+## [UECC 2026 : bilan d'un été cyber « horrible » pour la France | LeMagIT](https://www.lemagit.fr/actualites/366650435/UECC-2026-bilan-dun-ete-cyber-horrible)  
+*Source : lemagit.fr | Publication : 2026-09-16*
+
+- shocky - Fotolia UECC 2026 : bilan d’un été cyber « horrible » pour la France Le secteur cyber français est sous le choc après un été qualifié d’horrible par l’ANSSI.
+- L’écosystème français réuni par Hexatrust pour ses Universités d’Été (UECC) doit se remobiliser après les attaques.
+- En espérant que le projet de loi Résilience passe enfin à l’Assemblée.
+- L’édition 2026 des universités d’été Hexatrust s’est tenue début septembre dans une ambiance très particulière.
+
+## [La banque en ligne Revolut victime d'une fuite de données, 680 clients concernés](https://www.liberation.fr/economie/la-banque-en-ligne-revolut-victime-dune-fuite-de-donnees-680-clients-concernees-20260916_4LZTDJCMPBFE3DK6Z5SOAUABCM/)  
+*Source : liberation.fr | Publication : 2026-09-16*
+
+- Elle a réagi en contactant les autorités compétentes et en rassurant les clients impactés.
+- Cybersécurité ... Cybersécurité Royaume-Uni.
+- Dans la même.
+
+## [Moxa mise sur l'IA, la <b>cybersécurité</b> et la durabilité pour...](https://www.ecinews.fr/fr/moxa-mise-sur-lia-la-cybersecurite-et-la-durabilite-pour-accompagner-la-transformation-des-reseaux-ferroviaires/)  
+*Source : ecinews.fr | Publication : 2026-09-16*
+
+- Moxa mise sur l’IA, la cybersécurité et la durabilité pour accompagner la transformation des réseaux ferroviaires La digitalisation du secteur ferroviaire s’accélère sous l’effet de l’intelligence artificielle, de l’automatisation et de l’augmentation constante des volumes de données générés à bord des trains et dans les infrastructures.
+- Pour répondre à ces nouveaux enjeux, Moxa profitera du salon InnoTrans 2026 pour présenter une gamme complète de solutions destinées aux communications ferroviaires, à la cybersécurité et aux applications d’intelligence artificielle embarquées.
+- Sous le thème « Forging Mobility Ahead – En route vers des transports plus intelligents et plus sûrs », l’entreprise mettra en avant ses nouvelles plateformes de calcul Edge AI, ses solutions de communication train-sol et ses équipements réseau conçus pour répondre aux exigences croissantes du transport ferroviaire moderne.
+- L’intelligence artificielle gagne du terrain dans les réseaux ferroviaires L’exploitation des données en temps réel devient un élément essentiel pour améliorer la sécurité, la ponctualité et l’efficacité opérationnelle des réseaux ferroviaires.
+
+## [<b>Cybersécurité</b>, huissiers et filtres d'inscriptions: face au risque de fraude, quel dispositif pour ...](https://rmc.bfmtv.com/actualites/politique/cybersecurite-huissiers-et-filtres-d-inscriptions-face-au-risque-de-fraude-quel-dispositif-pour-securiser-la-primaire-de-gauche_AV-202609160255.html)  
+*Source : rmc.bfmtv.com | Publication : 2026-09-16*
+
+- Cybersécurité, huissiers et filtres d'inscriptions: face au risque de fraude, quel dispositif pour sécuriser la primaire de gauche?.
+- Top départ de la primaire socialiste pour désigner le candidat à l'élection présidentielle, ce mercredi 16 septembre.
+- A priori, six candidats sont sur la ligne de départ: Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj, Philippe Brun et Emmanuel Maurel.
+- Leurs candidatures doivent être validées ce mercredi matin par la commission d'organisation de la primaire qui se réunit à 9h30.
+
+## [Le futur du rail se joue désormais entre intelligence artificielle, <b>cybersécurité</b> et données en ...](https://www.elektormagazine.fr/news/le-futur-du-rail-se-joue-desormais-entre-intelligence-artificielle-cybersecurite-et-donnees-en-temps-reel)  
+*Source : elektormagazine.fr | Publication : 2026-09-16*
+
+- Le futur du rail se joue désormais entre intelligence artificielle, cybersécurité et données en temps réel 16 septembre 2026 sur sur Pendant des décennies, l’innovation ferroviaire s’est principalement concentrée sur les performances mécaniques, la vitesse et le confort.
+- Aujourd’hui, une nouvelle révolution est en marche.
+- Les trains modernes produisent d’immenses volumes de données, communiquent en permanence avec les infrastructures et s’appuient de plus en plus sur des systèmes intelligents capables d’analyser leur environnement en temps réel.
+- À l’occasion d’InnoTrans 2026, Moxa dévoile sa vision de ce futur ferroviaire connecté.
+
+## [Board Talk avec Sandra Emme - Deloitte](https://www.deloitte.com/ch/fr/services/executives-and-board-programme/boardroom-programme/board-talk/interview-sandra-emme.html?icid=toggle_ch_fr)  
+*Source : deloitte.com | Publication : 2026-09-16*
+
+- If we have selected the wrong experience for you, please change it above.
+- Le rôle du conseil d’administration dans la cyber-résilience Sandra Emme a débuté sa carrière entrepreneuriale en France en tant que cofondatrice de plusieurs start-ups informatiques qui se sont développées à l’international avant d’être revendues avec succès.
+- Elle travaille chez Google depuis quinze ans et y occupe actuellement le poste d’Industry Leader, dans le cadre duquel elle conseille des entreprises industrielles sur leur stratégie de transformation, de cybersécurité et de données.
+- En 2018, elle est devenue membre du conseil d’administration de Panalpina Welttransport Holding AG, puis, en 2019, de Metall Zug AG.
+
+## [Sofina dans le tour de table de la première licorne italienne de <b>cybersécurité</b> - L'Echo](https://www.lecho.be/entreprises/private-equity/sofina-dans-le-tour-de-table-de-la-premiere-licorne-italienne-de-cybersecurite/10686251.html)  
+*Source : lecho.be | Publication : 2026-09-16*
+
+- La start-up italienne Exein lève 270 millions de dollars, portant sa valorisation à 1,7 milliard de dollars.
+- Sofina, le holding de la famille Boël.
+
+## [Fuite de données chez Thema Foundries : intrusion par <b>ransomware</b> et... - FrenchBreaches](https://frenchbreaches.com/r/wO8yy3)  
+*Source : frenchbreaches.com | Publication : 2026-09-16*
+
+- Fuite de données chez Thema Foundries : intrusion par ransomware et.
+- Données exposées : Qilin, Manufacturing.
+- Incident signalé le 16.
+
+## [Fuite de données : près de la moitié des Français ont été piratés cette année - 01net.com](https://www.01net.com/actualites/fuite-donnees-pres-moitie-francais-pirates-cette-annee.html)  
+*Source : 01net.com | Publication : 2026-09-16*
+
+- Cybermalveillance, la plateforme de cybersécurité de la France, vient de publier son 3ᵉ baromètre sur la perception cyber des Français.
+- Réalisée avec le groupe Ipsos, l’étude pointe du doigt une explosion du nombre de fuites de données personnelles en France.
+- Le baromètre révèle que 45% des Français déclarent avoir été informés d’une fuite de leurs données en 2026… contre 30% seulement l’année précédente.
+- En d’autres termes, les informations de près de la moitié de la population française se sont retrouvées entre les mains des cybercriminels.
+
+## [Exein devient une licorne: La start-up italienne spécialisée dans la Physical AI vaut 1,7 Md$](https://fr.finance.yahoo.com/actualites/exein-devient-licorne-start-up-150416268.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-09-16*
+
+- La startup italienne Exein, spécialisée dans la cybersécurité pour les appareils et machines industriels, vient d'atteindre le statut de licorne numérique après une levée de fonds de 270 millions de dollars.
+- Cette opération, menée par le fonds mondial Headline et à laquelle ont participé des investisseurs institutionnels, dont la Banque européenne d'investissement (BEI), a porté la valorisation globale à 1,7 milliard de dollars, a indiqué Exein mardi.
+- En seulement deux ans, la valeur de l'entreprise a été multipliée par trente, faisant d'Exein la société de cybersécurité matérielle la mieux valorisée en Europe.
+- "Les appareils ne sont plus seulement connectés ; ils deviennent intelligents.
+
+## [Une PME française sur huit renonce à toute assurance cyber, sans intention d'en souscrire](https://itsocial.fr/cybersecurite/cybersecurite-actualites/une-pme-francaise-sur-huit-renonce-a-toute-assurance-cyber-sans-intention-den-souscrire/)  
+*Source : itsocial.fr | Publication : 2026-09-16*
+
+- Le risque cyber se traite de manière empirique dans les petites entreprises françaises, qui dépensent peu pour s’en protéger et se détournent des contrats spécialisés.
+- L’enquête annuelle de l’assureur Hiscox mesure un recul de la police cyber dédiée, une couverture des risques liés à l’IA en retrait et un effort de prévention parmi les plus faibles d’Europe.
+- Les données des courtiers décrivent pourtant un marché en croissance, et l’écart entre les deux mesures oblige les dirigeants à vérifier ce que couvrent effectivement leurs contrats.
+- Les TPE et PME françaises subissent des attaques plus fréquentes et plus coûteuses, alors que leur budget de cybersécurité reste contraint et que les assureurs ont durci leurs conditions depuis 2021.
+
+## [Facturation électronique : le gouvernement aveugle face aux premiers bugs de fuites de données](https://atlantico.fr/article/decryptage/facturation-electronique-le-gouvernement-aveugle-face-aux-premiers-bugs-de-fuites-de-donnees-tva-sociale-entreprises-cybersecurite-Sebastien-Tertrais)  
+*Source : atlantico.fr | Publication : 2026-09-16*
+
+- 16 septembre 2026 Facturation électronique : le gouvernement aveugle face aux premiers bugs de fuites de données Le piratage de Welyb/AGIRIS ravive les inquiétudes autour de la sécurité de la facturation électronique.
+- Centralisation des données, exploitation par l’intelligence artificielle, risques économiques et enjeux de souveraineté : Sébastien Tertrais alerte sur les vulnérabilités que pourrait créer l’architecture du futur système.
+- 6 min de lecture Sébastien Tertrais est prospectiviste et directeur d’études, il a une solide expérience dans le numérique pour avoir édité quatre applications dont une leader sur son marché dans le cadre de sa première entreprise.
+- Ancien enseignant en techniques d’enquêtes, il collecte de multiples matériaux d’études pour faciliter la compréhension de sujets complexes et aider à la prise de décision.
+
+## [Sébastien Giai-Checa, directeur <b>Cybersécurité</b>, SCC France - ZDNET](https://www.zdnet.fr/tribune/sebastien-giai-checa-directeur-cybersecurite-scc-france-cybersecurite-le-veritable-enjeu-nest-plus-seulement-dempecher-lattaque-mais-de-maitriser-lexposition-503440.htm)  
+*Source : zdnet.fr | Publication : 2026-09-16*
+
+- Les attaques récentes le montrent avec acuité.
+- Les cybercriminels n'ont pas toujours besoin d'exploiter une faille technique sophistiquée.
+- Une identité compromise, un mot de passe récupéré, un compte insuffisamment protégé ou des droits d'accès excessifs peuvent suffire.
+- L'affaire récente autour du groupe de hackers présumé ZeroBytes en est une illustration.
+
+## [Les Français mieux informés sur les fuites de données mais plus exposés que jamais](https://www.usine-digitale.fr/cybersecurite/les-francais-mieux-informes-sur-les-fuites-de-donnees-mais-plus-exposes-que-jamais-le-paradoxe-inquietant-de-la-cybercriminalite.5MOC2RPWS5HEBLSW7BEM23QHQU.html)  
+*Source : usine-digitale.fr | Publication : 2026-09-16*
+
+- Ces chiffres sont issus du dernier baromètre de Cybermalveillance.gouv.fr, le service public d'assistance et de prévention en cybersécurité , publié le.
+
+## [Thème d'avenir : <b>Cybersécurité</b>, le péage obligatoire du monde numérique - 16/09 - BFM](https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-theme-d-avenir-cybersecurite-le-peage-obligatoire-du-monde-numerique-16-09_VN-202609160617.html)  
+*Source : bfmtv.com | Publication : 2026-09-16*
+
+- Thème d'avenir : Cybersécurité, le péage obligatoire du monde numérique - 16/09 Ce mercredi 16 septembre, Alain Pitous, senior advisor ESG, explique la cybersécurité en tant que péage obligatoire du monde numérique, dans l'émission BFM Bourse présentée par Guillaume Sommerer.
+- BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.
+- | Durée : 7:47.
 
 ## [BOURGOGNE-FRANCHE-COMTÉ : Les préconisations du CESER concernant le ... - Infos Dijon](https://www.infos-dijon.com/news/bourgogne-franche-comte/bourgogne-franche-comte/bourgogne-franche-comte-les-preconisations-du-ceser-concernant-le-developpement-de-l-intelligence-artificielle-1789423200.html)  
 *Source : infos-dijon.com | Publication : 2026-09-15*
