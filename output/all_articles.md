@@ -1,5 +1,158 @@
-# Résumés – 2026-09-16
+# Résumés – 2026-09-17
 
+
+## [Commande de 110 millions d'euros contestée : 2CRSi fait vérifier l'opération par un expert ...](https://www.solutions-numeriques.com/commande-de-110-millions-deuros-contestee-2crsi-fait-verifier-loperation-par-un-expert-independant/)  
+*Source : solutions-numeriques.com | Publication : 2026-09-17*
+
+- Trois mois après avoir annoncé une vente de 194 serveurs IA pour 110 millions d’euros en Allemagne, 2CRSi répond aux accusations du fonds vendeur à découvert Grizzly Research.
+- Un expert indépendant mandaté par le groupe confirme l’existence de la commande, son paiement et sa comptabilisation.
+- Ses conclusions ne portent toutefois que sur cette opération.
+- Une commande de 110 millions d’euros mise en doute Le 9 juin, 2CRSi annonçait la vente de 194 serveurs Godì Blackwell Ultra à une société allemande basée à Munich, pour une valeur catalogue de 110 millions d’euros.
+
+## [Télécoms : pour la PME de Lannion Ekinops, la croissance à tout prix - Les Echos](https://www.lesechos.fr/pme-regions/bretagne/telecoms-pour-la-pme-de-lannion-ekinops-la-croissance-a-tout-prix-2252112)  
+*Source : lesechos.fr | Publication : 2026-09-17*
+
+- Cap sur la cybersécurité et les data centers.
+- Ce contenu est réservé aux inscrits.
+- Vous souhaitez lire la suite ?.
+- C'est gratuit !.
+
+## [L'IA, nouvelle arme à double tranchant en <b>cybersécurité</b> | Journal Informe Affaires](https://informeaffaires.com/regional/technologie/lia-nouvelle-arme-a-double-tranchant-en-cybersecurite)  
+*Source : informeaffaires.com | Publication : 2026-09-17*
+
+- SAGUENAY - L'intelligence artificielle (IA) transforme rapidement le rapport de force en cybersécurité.
+- Capable d'accélérer la découverte et l'exploitation de vulnérabilités, elle peut aussi servir à mieux détecter les attaques.
+- Pour les entreprises, le défi n'est donc pas seulement de se protéger contre de nouveaux outils, mais de suivre un rythme qui s'accélère.
+- Professeur en informatique à l'Université du Québec à Chicoutimi (UQAC), Sylvain Hallé estime que l'arrivée des grands modèles de langage (LLM), comme ChatGPT, Copilot ou Claude, représente une nouvelle étape dans un vieux cycle. «.
+
+## [Brasles. Un café-débat pour sensibiliser à la <b>cybersécurité</b> - Axomois.fr](https://www.axomois.fr/2026/09/17/brasles-un-café-débat-pour-sensibiliser-à-la-cybersécurité/)  
+*Source : axomois.fr | Publication : 2026-09-17*
+
+- Un café-débat animé par Denis Boyer de Cybermalveillance.gouv.fr, et ouvert à tous, est organisé par l'association 1FO100NUAGES, mardi 06 octobre à partir de 18h30 en mairie de Brasles, dans le cadre du Mois européen de la cybersécurité Cybermois en France.
+- Cybermois en France vise à sensibiliser aux menaces numériques et à promouvoir les bons réflexes.
+- Face aux écrans, aux réseaux et aux risques de cyber malveillance, les parents se posent souvent les mêmes questions : comment protéger, accompagner et responsabiliser leurs enfants sans dramatiser, ni culpabiliser ?.
+- À cette occasion, 1FO100NUAGES propose aux parents d’élèves du primaire et du collège, un temps d’échange concret et bienveillant pour mieux comprendre les usages numériques des enfants, adopter les bons réflexes de sécurité et poser un cadre familial adapté.
+
+## [Fuite de données Revolut : un groupe de pirates réclame 3 millions de dollars](https://www.solutions-numeriques.com/fuite-de-donnees-revolut-un-groupe-de-pirates-reclame-3-millions-de-dollars/)  
+*Source : solutions-numeriques.com | Publication : 2026-09-17*
+
+- Un groupe se présentant sous le nom “imnotavillain” a mis en ligne un compte à rebours et une exigence claire : payer l’équivalent de 3 millions de dollars ou voir les dossiers de 680 clients Revolut vendus à d’autres groupes criminels.
+- La fintech affirme aux médias n’avoir reçu aucun contact direct des auteurs revendiqués, d’après TechCrunch.
+- Un ultimatum de 24 heures, payé en cryptomonnaie La demande formulée par iamnotavillain s’élève à environ 6 000 XMR, soit près de 3 millions de dollars au cours du Monero.
+- Le choix de cette cryptomonnaie, réputée pour rendre le traçage des transactions particulièrement difficile, n’a rien d’anodin : une partie des clients visés par la fuite détiendraient des avoirs en cryptoactifs conséquents, et les attaquants semblent avoir pris soin d’aligner leur méthode d’encaissement sur le profil de leurs victimes.
+
+## [<b>Cybersécurité</b> : le salon it-sa 2026 à Nuremberg - Presse Agence](https://presseagence.fr/nuremberg-cybersecurite-le-salon-it-sa-expocongress-prepare-son-edition-doctobre-2026/)  
+*Source : presseagence.fr | Publication : 2026-09-17*
+
+- NUREMBERG : Cybersécurité – Le salon it-sa Expo&… Partager : NUREMBERG : Cybersécurité – Le salon it-sa Expo&Congress prépare son édition d’octobre 2026 Le salon européen it-sa, dédié à la cybersécurité, se tiendra à Nuremberg du 27 au 29 octobre 2026, avec une avant-première numérique le 22 septembre.
+- Le rendez-vous majeur de la sécurité informatique en Europe, it-sa Expo&Congress, annonce les détails de son édition 2026, qui se déroulera au parc des expositions de Nuremberg.
+- Considéré comme le « Home of IT Security », l’événement réunira des fournisseurs, des experts et des responsables de la sécurité des systèmes d’information pour trois jours de conférences, d’expositions et de réseautage.
+- Une avant-première numérique pour préparer sa visite Avant l’ouverture des portes, les organisateurs proposent une journée d’avant-première entièrement numérique le 22 septembre 2026.
+
+## [Un malware Android très agressif combine spyware et <b>ransomware</b> - GNT](https://www.generation-nt.com/actualites/malware-android-mantax-otax-ransomware-spyware-zimperium-2081378)  
+*Source : generation-nt.com | Publication : 2026-09-17*
+
+- Lié à des cybercriminels indonésiens, le malware Android portant le nom de Mantax Otax a été identifié par l'équipe de recherche zLabs de Zimperium.
+- Il est particulièrement agressif.
+- La principale méthode de distribution repose sur le sideloading, où les victimes sont incitées via des campagnes de phishing et d'ingénierie sociale à installer manuellement des fichiers APK malveillants hébergés hors des boutiques d'applications officielles.
+- Après installation, le malware réclame des autorisations étendues, notamment via les services d'accessibilité, lui octroyant un contrôle presque total sur l'appareil infecté.
+
+## [&quot;Les modèles d'IA devraient dépasser les experts en <b>cybersécurité</b> et les meilleurs hackers ...](https://www.aefinfo.fr/depeche/756777)  
+*Source : aefinfo.fr | Publication : 2026-09-17*
+
+- Le ministère de la Justice va s'appuyer sur l'entreprise française d'intelligence artificielle Mistral pour déployer des outils intégrés à la procédure pénale numérique et à la gestion des conten Le ministre de la Justice annonce, le 10 septembre 2026, que "40 M€" seront consacrés "au numérique" dans le projet de loi de finances pour 2027.
+- Gérald Darmanin précise en outre que "35 emplois supplé.
+
+## [La Maison Blanche envisage un incubateur dédié à la <b>cybersécurité</b> - Investing.com](https://fr.investing.com/news/economy-news/la-maison-blanche-envisage-un-incubateur-dedie-a-la-cybersecurite-93CH-3600304)  
+*Source : fr.investing.com | Publication : 2026-09-17*
+
+- Investing.com - L'administration Trump envisage de créer un incubateur piloté par le gouvernement, axé sur la recherche en cybersécurité et le.
+
+## [<b>Cybersécurité</b> : Keeper et SailPoint automatisent la gouvernance - Presse Agence](https://presseagence.fr/chicago-cybersecurite-keeper-et-sailpoint-sallient-pour-automatiser-la-gouvernance-des-acces/)  
+*Source : presseagence.fr | Publication : 2026-09-17*
+
+- CHICAGO : Cybersécurité – Keeper et SailPoint s&rsquo… Partager : CHICAGO : Cybersécurité – Keeper et SailPoint s’allient pour automatiser la gouvernance des accès Keeper Security et SailPoint annoncent une intégration pour automatiser la gestion des accès sensibles et combler une faille de sécurité majeure.
+- Keeper Security, spécialiste de la gestion des accès à privilèges (PAM) et de la sécurité des identités, a annoncé ce jeudi une intégration stratégique avec SailPoint, acteur de référence de la gouvernance des identités (IGA).
+- Développée depuis Chicago, cette nouvelle connexion permet de piloter automatiquement depuis la plateforme de SailPoint la gestion des utilisateurs et de leurs droits au sein des coffres-forts sécurisés de Keeper, mettant fin à des processus manuels sources d’erreurs et de vulnérabilités.
+- Une réponse au cloisonnement des systèmes de sécurité Jusqu’à présent, la gouvernance des identités et la gestion des accès à privilèges opéraient le plus souvent en silos.
+
+## [Protéger les données ou lutter contre la criminalité? Un périlleux équilibre pour la Suisse](https://www.swissinfo.ch/fre/affaires-etrangeres/protéger-les-données-ou-lutter-contre-la-criminalité-un-périlleux-équilibre-pour-la-suisse/92059464)  
+*Source : swissinfo.ch | Publication : 2026-09-17*
+
+- Protéger les données ou lutter contre la criminalité?.
+- Un périlleux équilibre pour la Suisse Grâce à ses entreprises, la Suisse s’est muée en pôle mondial des services numériques garantissant la confidentialité et la sécurité des données.
+- Néanmoins, l’explosion de la cybercriminalité oblige la Suisse à trouver un équilibre entre les bénéfices économiques de cette industrie de la tech en plein essor, et la nécessité de surveiller les attaques potentielles de la part de criminels, d’États hostiles et de terroristes.
+- Le talent de la Suisse pour garder des secrets ne se cantonne pas aux comptes bancaires des grosses fortunes.
+
+## [Ingénieur-e <b>cybersécurité</b> soc/voc Centre Inria de Paris (Paris 13e) | Choisir le service public](https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-cybersecurite-socvoc-reference-2026-2412633/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2026-09-17*
+
+- Ingénieur-e cybersécurité SOC/VOC Référence : 2026-2412633 Fonction publique : Fonction publique de l'État - Employeur : Institut national de recherche en sciences et technologies du numérique (INRIA) Inria - Localisation : Centre Inria de Paris (Paris 13e) - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Confirmé - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires 100 - Catégorie Catégorie A (cadre) - Management Non - Télétravail possible Oui - Vos missions en quelques mots Mission confiée Au sein du pôle détection et réponse à incident, vous contribuerez à la surveillance de la sécurité des systèmes d’information en contribuant à la détection et au traitement des incidents que vous serez amené à piloter le cas échéant.
+- Vous participerez au développement des règles de détection, de remédiation et de prévention dans le contexte d’organisme de recherche.
+- Vous participerez aux projets d’évolution de la sécurisation du SI en collaboration étroites avec les différents services de l’institut.
+
+## [Souveraineté, sécurité et performance : les piliers d'un hébergement moderne - DCmag](https://dcmag.fr/souverainete-securite-et-performance-les-piliers-dun-hebergement-moderne/)  
+*Source : dcmag.fr | Publication : 2026-09-17*
+
+- Le choix d’un hébergement est désormais un enjeu central de la gouvernance IT.
+- Il nécessite de sélectionner un partenaire de confiance, capable d’exploiter les infrastructures, les applications et le système d’information dans les meilleures conditions.
+- Ce choix structurant conditionne non seulement la bonne conduite des opérations quotidiennes, mais aussi la réussite des projets de modernisation, notamment avec l’émergence de nouveaux usages comme l’intelligence artificielle.
+- Dans ce contexte, le choix d’un hébergeur doit s’appuyer sur trois critères majeurs : la souveraineté, la sécurité et la performance.
+
+## [<b>Cybersécurité</b> : 6 Français sur 10 n'entreprennent aucune démarche après un message frauduleux](https://www.blogdumoderateur.com/cybersecurite-six-francais-dix-aucune-demarche-message-frauduleux/)  
+*Source : blogdumoderateur.com | Publication : 2026-09-17*
+
+- Cybersécurité : 6 Français sur 10 n’entreprennent aucune démarche après un message frauduleux Selon la 3e édition du baromètre Ipsos.Digital pour Cybermalveillance.gouv.fr, menée auprès de 2 000 personnes, la connaissance des menaces numériques progresse, mais elle ne se traduit pas encore en réflexes de protection.
+- L’annonce d’une violation de données, plus que l’arnaque elle-même, décide les Français à se protéger.
+- C’est le constat qui ressort de la 3e édition du baromètre sur la perception cyber des Français, réalisée par Ipsos.Digital pour Cybermalveillance.gouv.fr.
+- Cette publication s’inscrit dans le cadre du lancement du Cybermois, le mois de la cybersécurité organisé chaque année en octobre.
+
+## [Un partenariat pour lutter contre la <b>cybercriminalité</b> ➡️ https://sur.corsematin.com/HEBA](https://www.facebook.com/Page.CorseMatin/posts/un-partenariat-pour-lutter-contre-la-cybercriminalité️/1497365899093027/)  
+*Source : facebook.com | Publication : 2026-09-17*
+
+- Hâte de voir ce projet évoluer !.
+- #ERSInformatique #CIEL # Cybersécurité #SécuritéInformatique #Partenariat.
+
+## [Splunk .conf26 : la <b>cybersécurité</b> bascule dans l'ère des guerres de robots | LeMagIT](https://www.lemagit.fr/actualites/366650573/Splunk-conf26-la-cybersecurite-bascule-dans-lere-des-guerres-de-robots)  
+*Source : lemagit.fr | Publication : 2026-09-17*
+
+- Splunk .conf26 : la cybersécurité bascule dans l’ère des guerres de robots La prochaine version du SIEM de l’éditeur apportera un « personnel » d’IA autonomes pour se défendre contre les cyberattaques menées par des IA.
+- Car l’humain ne pourra pas mener seul des combats qui se déroulent à la vitesse des machines.
+- À Denver, dans le Colorado, lors de la conférence Splunk .conf26, l’éditeur éponyme des logiciels de surveillance des ressources informatiques ne fait pas que mettre à jour ses solutions pour désormais suivre aussi à la trace les agents d’IA.
+- Il généralise surtout lui-même l’IA dans ses produits pour remplacer les humains qui les manipulaient jusqu’alors.
+
+## [Le solaire suisse présente plusieurs failles de <b>cybersécurité</b> - Bluewin](https://www.bluewin.ch/fr/infos/suisse/le-solaire-suisse-presente-plusieurs-failles-de-cybersecurite-li.3603162)  
+*Source : bluewin.ch | Publication : 2026-09-17*
+
+- Cinq des onze produits testés présentaient au moins une faille de sécurité majeure (archives).
+- Plusieurs failles de sécurité, dont certaines critiques, ont été découvertes dans des installations photovoltaïques en Suisse.
+- Elles représentent un risque pour l'ensemble du réseau électrique national.
+- L'Institut national de test pour la cybersécurité (NTC) a analysé de sa propre initiative onze produits très répandus en Suisse, soit sept onduleurs et quatre systèmes de gestion de l'énergie provenant de huit fabricants, indique-t-il jeudi dans un communiqué.
+
+## [Peut-on &quot;éteindre&quot; une intelligence artificielle ? : Actualités - Orange Actu](https://actu.orange.fr/societe/high-tech/peut-on-quot-eteindre-quot-une-intelligence-artificielle-CNT000002rX5xP.html)  
+*Source : actu.orange.fr | Publication : 2026-09-17*
+
+- Peut-on "éteindre" une intelligence artificielle ?.
+- © Kirill KUDRYAVTSEV, AFP - Des incidents de sécurité liés à des IA se multiplient Peut-on arrêter une intelligence artificielle ?.
+- Tant qu'elle reste dans un environnement contrôlé, une IA peut techniquement être arrêtée.
+- Mais plus elle agit de façon autonome sur plusieurs systèmes, plus son interruption devient complexe, expliquent des experts.
+
+## [Les petits déjeuners de la rédaction : passwordless &amp; identité des agents IA](https://www.solutions-numeriques.com/les-petits-dejeuners-de-la-redaction-passwordless-identite-des-agents-ia/)  
+*Source : solutions-numeriques.com | Publication : 2026-09-17*
+
+- Solutions Numériques & Cybersécurité, en partenariat avec Euro Cyber Group (ECG), organise une nouvelle édition des Petits Déjeuners de la rédaction pour la rentrée, le jeudi 24 septembre, à Paris.
+- À l’occasion de la sortie de notre nouveau numéro Confiance : qui tient les clés ?.
+- Date : jeudi 24 septembre Heure : 8h45 – 10h30 Lieu : Paris 15e (l’adresse exacte sera communiquée après validation de l’inscription) La fin du mot de passe : comprendre et se préparer Nous aurons le plaisir d’accueillir Alain Issarni, CEO et fondateur de Libralis, ancien directeur des systèmes d’information de la DGFiP et de la Cnam.
+- Un parcours qui l’a amené à piloter l’identité numérique à très grande échelle, sur des millions d’usagers.
+
+## [SIFA: Fréchette rejette les estimations d'un milliard de dollars - Noovo Info](https://www.noovo.info/fils-de-presse/article/sifa-frechette-rejette-les-estimations-dun-milliard-de-dollars/)  
+*Source : noovo.info | Publication : 2026-09-17*
+
+- La cheffe caquiste et première ministre Christine Fréchette a rejeté mercredi les estimations des dépassements de coûts dépassant le milliard de dollars pour un autre fiasco informatique, le SIFA, dans le réseau de la santé.
+- En point de presse après le deuxième débat télévisé de la campagne électorale, à Noovo, elle s’est exprimée sur les révélations de Radio-Canada à propos du Système d’information des finances et de l’approvisionnement (SIFA).
+- On apprenait lundi que le gouvernement Fréchette n’a pas tenu compte d’une analyse réalisée par le ministère de la Cybersécurité et du Numérique, ainsi que par des firmes d’experts-comptables, qui estimaient que ce projet informatique majeur de Santé Québec pourrait coûter 1 milliard $, bien au-delà des 96 millions $ initialement prévus.
+- La présidente du Conseil du trésor et ministre de la Cybersécurité et du Numérique, France-Élaine Duranceau, s’était défendue lundi en plaidant que c’était parce que l’estimation initiale était erronée et avait en quelque sorte jeté le blâme sur les fonctionnaires.
 
 ## [&quot;On perd le contrôle&quot;, met en garde le pionnier de l'IA Yoshua Bengio - Orange Actu](https://actu.orange.fr/economie/quot-on-perd-le-controle-quot-met-en-garde-le-pionnier-de-l-ia-yoshua-bengio-CNT000002rW0i3.html)  
 *Source : actu.orange.fr | Publication : 2026-09-16*
