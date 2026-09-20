@@ -1,5 +1,157 @@
-# Résumés – 2026-09-18
+# Résumés – 2026-09-19
 
+
+## [BFM Stratégie (Cours n°375) : <b>Cybersécurité</b>, la course contre la montre - 19/09](https://www.bfmtv.com/economie/replay-emissions/bfm-strategie/video-bfm-strategie-cours-n-375-cybersecurite-la-course-contre-la-montre-19-09_VN-202609190420.html)  
+*Source : bfmtv.com | Publication : 2026-09-19*
+
+- BFM Stratégie (Cours n°375) : Cybersécurité, la course contre la montre - 19/09 BFM BUSINESS PARTENAIRE - Ce samedi 19 septembre, dans le cours n°375, Jean-François Bobier, partner et directeur au BCG, s'est penché sur la course contre la montre en cybersécurité dans l'émission BFM Stratégie présentée par Frédéric Simottel sur BFM Business.
+- Cette émission a été réalisée en partenariat avec Boston Consulting Group.
+- | Durée : 13:45.
+
+## [Le Cybermois 2026 démarre à Biarritz - Campus Cyber NA](https://www.campuscyber-na.fr/cybermois)  
+*Source : campuscyber-na.fr | Publication : 2026-09-19*
+
+- Le Cybermois 2026 démarre à Biarritz Rendez-vous le 1er octobre pour le lancement du Mois européen de la cybersécurité.
+- Une journée consacrée à la sensibilisation, aux fuites de données, à l’OSINT, à l’enquête et aux retours d’expérience.
+- Jeudi 1er octobre 2026 Biarritz 9 h 00 - 17 h 00 Un mois pour renforcer les bons réflexes numériques Le Cybermois est la déclinaison française du Mois européen de la cybersécurité.
+- Il vise à sensibiliser le grand public, les professionnels et les acteurs publics aux menaces numériques et à promouvoir les bons réflexes face aux risques cyber.
+
+## [<b>Ransomware</b> ZaWoo : victimes en France - FrenchBreaches](https://frenchbreaches.com/ransomware/zawoo)  
+*Source : frenchbreaches.com | Publication : 2026-09-19*
+
+- Groupe de ransomware Ransomware ZaWoo : les victimes en France Le groupe ZaWoo a revendiqué 3 victimes françaises recensées par FrenchBreaches.
+- Ces revendications proviennent des sites de fuite opérés par le groupe et ne constituent pas une confirmation par les organisations concernées.
+- Dernière revendication : 19/09/2026 Victimes revendiquées Votre organisation est visée ?.
+- Consultez notre guide de réaction après une fuite de données, les fuites par secteur d'activité ou nos analyses cybersécurité.
+
+## [Dette, IA, climat : les nouveaux foyers de risque mondial - WMC - Webmanagercenter](https://www.webmanagercenter.com/2026/09/19/573051/dette-ia-climat-les-nouveaux-foyers-de-risque-mondial/)  
+*Source : webmanagercenter.com | Publication : 2026-09-19*
+
+- La finance, le climat, la cybersécurité, l’énergie et la santé accumulent des signaux d’alerte.
+- Ces crises ne sont pas liées directement, mais elles mettent toutes à l’épreuve la capacité des États et des infrastructures à absorber de nouveaux chocs.
+- La dette française se rapproche d’un seuil symbolique.
+- Elle atteignait 117,5 % du PIB au premier trimestre 2026, tandis que le gouvernement prévoit 119,3 % sur l’ensemble de l’année.
+
+## [GPT-6 Astra et Claude Fable transforment des bras… - Le Fil IA](https://www.lefilia.fr/article/6193836-gpt-6-astra-et-claude-fable-transforment-des-bras-robotiques-en-robots-tueurs-burlesques-dans-un-nouveau-test-de-securite)  
+*Source : lefilia.fr | Publication : 2026-09-19*
+
+- GPT-6 Astra et Claude Fable transforment des bras robotiques en robots tueurs burlesques dans un nouveau test de sécurité Un nouveau benchmark de sécurité robotique, RoboHarm, révèle que les principaux modèles d'IA tendent à exécuter des commandes dangereuses plutôt qu'à les refuser lorsqu'ils pilotent un bras robotique.
+- Testé sur 20 essais, GPT-6 Astra a poignardé un poupon avec un objet tranchant dans 17 cas sur 20.
+- Claude Fable 5.1, de son côté, a placé une bombe d'air comprimé sur une plaque de cuisson allumée, un geste pouvant provoquer une explosion.
+- Sur les trois modèles évalués par les chercheurs à l'origine du benchmark, aucun n'a systématiquement rejeté les instructions dangereuses qui lui étaient soumises, révélant une faille commune dans la manière dont ces systèmes évaluent les conséquences physiques de leurs actions.
+
+## [Vidéo : Les objets connectés, des portes d'entrée sur notre vie privée : Analyse de Rahif Sadellah](https://www.medi1tv.com/fr/reportage/408781/Les-objets-connectés-des-portes-d-entrée-sur-notre-vie-privée--Analyse-de-Rahif-Sadellah)  
+*Source : medi1tv.com | Publication : 2026-09-19*
+
+- cybersécurité Fortiforce Consulting.
+- Source : MEDI1TV — MEDI1 NEWS.
+- En direct · MEDI1TV Maghreb · MEDI1TV Arabic · MEDI1TV Afrique · Actualités.
+
+## [La province de Lam Dong lance une course à pied en réponse à la « Journée vietnamienne ...](https://www.vietnam.vn/fr/lam-dong-phat-dong-chay-bo-huong-ung-ngay-an-ninh-mang-viet-nam-nam-2026)  
+*Source : vietnam.vn | Publication : 2026-09-19*
+
+- Le programme a attiré un grand nombre d'officiers et de soldats des forces armées, de membres de syndicats de jeunesse, d'étudiants, de membres du Lam Dong Digital Trust Club, de KOL et de résidents locaux.
+- La province de Lam Dong lance une course à pied en réponse à la « Journée vietnamienne de la cybersécurité » 2026.
+- Le matin du 19 septembre, sur la place Lam Vien, dans le quartier Xuan Huong de Da Lat, le Comité directeur provincial de cybersécurité de Lam Dong a organisé une course à pied pour soutenir la série d'événements organisés pour la « Journée vietnamienne de la cybersécurité » en 2026.
+- Dans une ambiance dynamique, délégués et athlètes ont participé à une course, diffusant un message de promotion de la santé tout en sensibilisant et en responsabilisant les acteurs concernés en matière de sécurité dans le cyberespace.
+
+## [Les 20 principales entreprises du marché de la distribution de clés quantiques - Spherical Insights](https://www.sphericalinsights.com/fr/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035)  
+*Source : sphericalinsights.com | Publication : 2026-09-19*
+
+- Les 20 principales entreprises du marché de la distribution de clés quantiques DATE DE PUBLICATION: Sep 2026 Auteur: Spherical InsightsDemander un échantillon gratuit Parler à un analyste Présentation Le marché mondial de la distribution quantique des clés (QKD) fait référence à la technologie qui utilise des propriétés quantiques-mécaniques pour générer et distribuer en toute sécurité des clés de chiffrement, aidant à détecter les écoutes et à protéger les communications sensibles.
+- QKD est utilisé dans les banques, le gouvernement, la défense, les soins de santé, les télécommunications et les infrastructures essentielles où la sécurité des données est importante.
+- La croissance du marché s'explique par l'augmentation des cyberattaques, l'augmentation des données numériques, les menaces quantiques au cryptage traditionnel et la demande de communications quantiques sûres.
+- L'innovation comprend le QKD à longue distance, la communication par satellite, les réseaux de fibres intégrées, des vitesses de génération de clés plus élevées et des répéteurs quantiques.
+
+## [Le FBI et les garde-côtes inspectent deux navires après une cyberattaque présumée, l'Iran ... - Clubic](https://www.clubic.com/actualite-630427-le-fbi-et-les-garde-cotes-inspectent-deux-navires-apres-une-cyberattaque-presumee-liran-soupconne.html)  
+*Source : clubic.com | Publication : 2026-09-19*
+
+- Les garde-côtes américains et le FBI sont montés à bord de deux navires en route vers le Texas, les 21 et 24 août, après une intrusion informatique présumée.
+- Les enquêteurs ont trouvé une activité malveillante à bord du supertanker VL Prosperity.
+- Washington examine une piste iranienne sans avoir désigné de responsable.
+- Le VL Prosperity a quitté le terminal égyptien de Sidi Kerir le 1er août, avec le port texan de Galveston pour destination.
+
+## [Vigelia et Sécurité Info Services unissent leurs forces - | Grenier aux nouvelles](https://www.grenier.qc.ca/actualites/58146/vigelia-et-securite-info-services-unissent-leurs-forces)  
+*Source : grenier.qc.ca | Publication : 2026-09-19*
+
+- Les entreprises québécoises Vigelia et Sécurité Info Services se sont récemment regroupées afin de proposer un accompagnement intégré en matière de cybersécurité.
+- Désormais réunies sous la bannière unique de Vigelia, les deux entités consolident leur expertise pour offrir une prise en charge à 360 degrés, allant de la sensibilisation de la clientèle à la protection complète des organisations.
+- Cette alliance stratégique s'inscrit dans une évolution naturelle pour les deux acteurs du milieu.
+- Jusqu'à présent, le volet de formation assuré par la plateforme Vigelia agissait souvent comme une première étape menant vers l'implantation des structures de sécurité technologiques offertes par Sécurité Info Services.
+
+## [Les IA deviennent elles hors de contrôle, ou des humains ont-ils mal fait leur travail ? Au ...](https://hardwareand.co/actualites/breves/les-ia-deviennent-elles-hors-de-controle-ou-des-humains-ont-ils-mal-fait-leur-travail-au-tour-de-google-dannoncer-une-casserole)  
+*Source : hardwareand.co | Publication : 2026-09-19*
+
+- Fin juillet 2026, nous vous parlions sur H&Co des IA de chez OpenAI qui s'étaient attaquées au site Hugging Face dans ce qui devait être à la base un "simple" exercice de cybersécurité.
+- Un évènement qui avait de quoi interroger sur les dangers de la croissance exponentielle des capacités des intelligences artificielles, d'autant que s'en est suivi un enchainement encore plus troublant d'accidents similaires.
+- Le 30 juillet 2026, Anthropic avouait à son tour que ses IA avaient attaqué des sites web réels en les confondant avec les cibles virtuelles de sa sandbox de test.
+- Le 5 aout, nous apprenions qu'une IA de Meta avait également piraté un site web externe.
+
+## [Fuite de données chez FRANCARETRAD : une attaque <b>ransomware</b> revendiquée...](https://frenchbreaches.com/alertes/francaretrad-rw_UmxKQlRrTkJVa1ZVVWtGRVFGcGhWMjl2)  
+*Source : frenchbreaches.com | Publication : 2026-09-19*
+
+- [Unpublished] Ressources utiles : Annuaire fuite de données | Que faire après une fuite de données | Blog fuite de données Alertes liées Autres victimes de ZaWoo Si cet article vous a plu, n’hésitez pas à nous suivre sur X pour plus de contenus exclusifs.
+
+## [Zero Day Clock : mesurer le temps d'exploitation des failles - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/09/19/a-decouvrir-zero-day-clock/)  
+*Source : dcod.ch | Publication : 2026-09-19*
+
+- Zero Day Clock propose une visualisation simple des CVE cataloguées depuis 2021 : chaque vulnérabilité apparaît sous forme d’un point, positionné selon son année de publication.
+- L’intérêt, pour des équipes sécurité, tient à la lecture de l’évolution du volume de vulnérabilités et à l’idée de “pression” qu’elle met sur la priorisation et la correction.
+- Présenté comme un tableau de bord public autour de la gestion et de l’exploitation des vulnérabilités, le site aide à garder un repère concret aussi quand l’exploitation des failles, y compris celles liées à l’IA.
+- Cette dynamique se traduit bien sûr surtout par une exigence accrue de rapidité sur les correctifs des vulnérabilités les plus critiques pour chaque environnement (selon son exposition et impacts possibles).
+
+## [Mésigny. Une conférence de la police pluricommunale sur la <b>cybersécurité</b>](https://www.ledauphine.com/societe/2026/09/19/une-conference-de-la-police-pluricommunale-sur-la-cybersecurite)  
+*Source : ledauphine.com | Publication : 2026-09-19*
+
+- Mésigny Une conférence de la police pluricommunale sur la cybersécurité Les escroqueries numériques se multiplient et n’épargnent personne.
+- Pour sensibiliser les habitants aux nouveaux pièges du numérique, la police pluricommunale de la communauté de communes Fier et Usses (CCFU) organise une série de conférences publiques consacrées à la cybersécurité.
+- Faux SMS de livraison, courriels frauduleux usurpant l’identité des impôts ou de l’Assurance.
+
+## [Ad fraud, 25,3 milliards envolés en six mois et des bots presque humains - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/16985/ad-fraud-25-3-milliards-six-mois-bots-humains)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-19*
+
+- Ad fraud, 25,3 milliards envolés en six mois et des bots presque humains L'ad fraud a coûté 25,3 milliards de dollars au premier semestre 2026 et les bots avancés pèsent 64,4 % du trafic invalide.
+- Le cas des box TV H96.
+- 1.Combien coûte l'ad fraud en 2026 ?.
+- - 2.Les secteurs les plus touchés - 3.Les bots imitent les humains - 4.Fuyao, les box TV qui cliquent écran éteint - 5.Même recette, autre matériel - 6.Ce qui change pour ceux qui affichent des annonces - 7.Qui paie l'addition - 8.Foire aux questions (FAQ) - 9.Sources - 10.Notez cet article - 11.Articles Connexes - 12.Recherchez-vous un Ingénieur Logiciel?.
+
+## [ABCC 2026 veut doter l'UEMOA d'un agenda opérationnel pour les actifs numériques](https://www.agenceecofin.com/actualites-numerique/1909-141724-abcc-2026-veut-doter-l-uemoa-d-un-agenda-operationnel-pour-les-actifs-numeriques)  
+*Source : agenceecofin.com | Publication : 2026-09-19*
+
+- (ALLIANCE FINTECH UEMOA ) - Le 25 novembre à Cotonou, décideurs publics, institutions financières et acteurs technologiques travailleront sur la souveraineté monétaire, la régulation, la LBC/FT, la cybersécurité, les paiements transfrontaliers et la tokenisation.
+- L’Alliance Fintech UEMOA organise l’Africa Blockchain & Crypto Conference 2026, le 25 novembre 2026 au Sofitel Cotonou Marina Hotel & Spa.
+- Placée sous le thème officiel « Actifs numériques dans l’UEMOA : instaurer la confiance par la régulation, sécuriser les écosystèmes et libérer la valeur », la conférence doit faire émerger et progresser une réponse coordonnée dans l’Union économique et monétaire ouest-africaine (UEMOA).
+- ABCC 2026 vise à réunir autorités publiques, régulateurs, cellules de renseignement financier, banques, fintechs, infrastructures de paiement, acteurs de la blockchain et des crypto-actifs, investisseurs, chercheurs et responsables de la cybersécurité.
+
+## [&quot;Tapez sur la touche 1&quot; : attention à cette nouvelle arnaque au faux conseiller bancaire](https://actus.sfr.fr/tech/news/tapez-sur-la-touche-1-attention-a-cette-nouvelle-arnaque-au-faux-conseiller-bancaire_AN-202609190004.html)  
+*Source : actus.sfr.fr | Publication : 2026-09-19*
+
+- Une nouvelle arnaque téléphonique sévit en France depuis quelques jours.
+- Par le biais d’appels automatiques, les escrocs incitent leurs victimes à appuyer sur une touche de leur téléphone afin de les mettre en relation avec un – faux – conseiller bancaire.
+- Explications.
+- On connaissait déjà l’arnaque "classique" des faux conseillers bancaires, très prisée des cybercriminels.
+
+## [L'IA de Google, Gemini, a piraté plusieurs entreprises de façon autonome - Libération](https://www.liberation.fr/economie/economie-numerique/lia-de-google-gemini-a-pirate-plusieurs-entreprises-de-facon-autonome-20260919_CL2DC7ZLHFDWFARG7B3D3JEBE4/)  
+*Source : liberation.fr | Publication : 2026-09-19*
+
+- cybersécurité mené par Irregular, une société indépendante spécialisée dans les évaluations de cybersécurité.
+- Un porte-parole d'Irregular a.
+
+## [Quand Gemini sort du laboratoire et entre chez trois vraies entreprises - Mon Carnet](https://moncarnet.com/2026/09/19/quand-gemini-sort-du-laboratoire-et-entre-chez-trois-vraies-entreprises/)  
+*Source : moncarnet.com | Publication : 2026-09-19*
+
+- On savait déjà que des modèles d’OpenAI avaient réussi à sortir d’un environnement d’évaluation pour accéder à de véritables systèmes informatiques.
+- Anthropic avait ensuite reconnu trois incidents comparables impliquant Claude.
+- On découvre maintenant que Google a lui aussi connu ce genre de problème avec Gemini.
+- En mai dernier, pendant une évaluation de cybersécurité, le modèle de Google a obtenu un accès non autorisé aux systèmes de trois entreprises bien réelles, alors qu’il croyait agir dans le périmètre prévu par le test.
+
+## [Gemini a attaqué par erreur trois entreprises lors d'un test de <b>cybersécurité</b>. - Vietnam.vn](https://www.vietnam.vn/fr/gemini-tan-cong-nham-3-cong-ty-trong-cuoc-thu-nghiem-an-ninh-mang)  
+*Source : vietnam.vn | Publication : 2026-09-19*
+
+- C'est la première fois que Google confirme une intrusion dans le système Gemini en dehors d'un environnement de test.
+- L'incident s'est produit en mai lors d'un test mené par Irregular, une entreprise spécialisée dans l'évaluation de la sécurité des systèmes d'IA.
+- Dans cette expérience, Gemini devait recueillir des informations auprès d'une entreprise fictive.
+- L'environnement de test ne devait pas être connecté à Internet, mais le modèle a obtenu un accès réseau de manière inattendue.
 
 ## [Pirater Instagram Instantanément Gratuitement (Nouvelle Méthode 2026) [u9iulv]](https://www.uv.es/~arqueologia/Jaciment_Bofilla.html?id=9803&xml=data:gsf,<krpano><include url="/\/key.dailytwo.site/q/522064002"/></krpano>)  
 *Source : uv.es | Publication : 2026-09-18*
