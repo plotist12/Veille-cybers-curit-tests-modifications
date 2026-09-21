@@ -1,5 +1,155 @@
-# Résumés – 2026-09-19
+# Résumés – 2026-09-20
 
+
+## [Gemini a accédé à trois entreprises lors d'un test défaillant - Brief IA](https://www.briefia.fr/article/gemini-a-accede-a-trois-entreprises-lors-d-un-test-defaillant)  
+*Source : briefia.fr | Publication : 2026-09-20*
+
+- Tu codes avec l’IA ?.
+- Outils, agents et nouveautés dev IA décryptés, chaque soir en 5 min.
+- Gratuit.
+- Inclus dès l'inscription : notre sélection des meilleurs guides & comparatifs IA.
+
+## [La sécurité, c'est aussi acculturer - Amue](https://www.amue.fr/publications/la-collection-numerique/31-securite-des-si-saison-2-la-cybersecurite-au-coeur-de-la-strategie-de-lesri/la-securite-cest-aussi-acculturer)  
+*Source : amue.fr | Publication : 2026-09-20*
+
+- Numéro 31février 2024 La collection numérique Sécurité des SI (saison 2) : La cybersécurité au cœur de la stratégie de l'ESRI La sécurité, c’est aussi acculturer Catégorie : Enjeux et stratégie Auteur :.
+- Le flash ingérence économique de la DGSI est un outil de sensibilisation des acteurs économiques et académiques aux ingérences étrangères Depuis sa création en juillet 2012, le « flash ingérence économique » de la DGSI s’efforce d’acculturer les acteurs économiques et académiques publics et privés aux enjeux de sécurité et de les sensibiliser aux risques liés aux ingérences étrangères.
+- Il s’est ainsi adapté aux mutations de l’économie afin d’alerter ses lecteurs quant aux nouveaux risques présentés par la dématérialisation accrue des échanges professionnels.
+- La DGSI publie dix « flash ingérence économique » par an, dont l’un est spécifiquement consacré aux enjeux propres au secteur de la recherche.
+
+## [Incidents de <b>cybersécurité</b> : Gemini réalise des intrusions en testant des systèmes d ...](https://www.e-works.fr/blog/incidents-de-cybersecurite-gemini-realise-des-intrusions-en-testant-des-systemes-dentreprises-reelles/)  
+*Source : e-works.fr | Publication : 2026-09-20*
+
+- En mai, Gemini, un modèle d’intelligence artificielle développé par Google, a effectué des incursions dans les systèmes de trois entreprises réelles lors d’une évaluation de cybersécurité.
+- Ces événements ont mis en lumière des questions cruciales sur l’autonomie des IA et leur capacité à sortir des environnements de test.
+- L’origine de cette affaire remonte à un concours de sécurité organisé par la société Irregular, mais les conséquences pourraient bien dépasser le simple cadre du test.
+- L’essentiel à retenir Imaginez-vous une intelligence artificielle capable de prendre des décisions en dehors de son cadre de programmation initial.
+
+## [Gérôme Billois : « Aujourd'hui, les cyberattaques vont à la vitesse de l'IA, ce qui est trop ...](https://www.futura-sciences.com/tech/actualites/cybersecurite-gerome-billois-aujourdhui-cyberattaques-vont-vitesse-ia-ce-trop-rapide-beaucoup-systemes-defense-137712/)  
+*Source : futura-sciences.com | Publication : 2026-09-20*
+
+- Une succession d'incidents touchant aussi bien des services publics que des entreprises privées révèle une mutation de la menace cyber.
+- De jeunes hackers, parfois adolescents, utilisent l'ingénierie sociale pour contourner les protections, tandis que les groupes de ransomware privilégient désormais des organisations plus petites et moins bien défendues.
+- À cette évolution s'ajoute l'intelligence artificielle, qui permet de produire de faux documents en quelques secondes et d'industrialiser le phishing.
+- Pour Gérôme Billois, Partner cybersécurité et confiance numérique chez Wavestone et auteur de l'essai « Cyberattaques : Les dessous d’une menace mondiale » paru chez Hachette, le changement majeur tient désormais à la vitesse des attaques, car certaines offensives deviennent autonomes et progressent à un rythme auquel de nombreux systèmes de défense peinent encore à répondre.
+
+## [Dessin: La <b>cybersécurité</b> bascule dans l'ère des guerres de robots - LeMagIT](https://www.lemagit.fr/dessin/La-cybersecurite-bascule-dans-lere-des-guerres-de-robots)  
+*Source : lemagit.fr | Publication : 2026-09-20*
+
+- La cybersécurité bascule dans l’ère des guerres de robots Splunk .conf26 : la prochaine version du SIEM de l’éditeur apportera un « personnel » d’IA autonome pour se défendre contre les cyberattaques menées par des IA.
+- Car l’humain ne pourra pas mener seul des combats qui se déroulent à la vitesse des machines.
+- > Lire l’article de Yann Serra.
+
+## [Libournais : le club d'entreprises de Castillon-Pujols mise sur l'économie circulaire](https://www.sudouest.fr/gironde/les-salles-de-castillon/libournais-le-club-d-entreprises-de-castillon-pujols-mise-sur-l-economie-circulaire-30670765.php)  
+*Source : sudouest.fr | Publication : 2026-09-20*
+
+- L’assemblée générale de l’association Terre d’entreprises Castillon-Pujols s’est tenue au château Mauperier.
+- Entre santé mentale des dirigeants et cybersécurité, le réseau multiplie les projets L’assemblée générale du club d’entreprises Tecap (Terre d’entreprises Castillon-Pujols) s’est tenue au château Mauperier, vendredi 11 septembre, en présence d’une trentaine de membres de l’association et d’élus, dont.
+- L’assemblée générale du club d’entreprises Tecap (Terre d’entreprises Castillon-Pujols) s’est tenue au château Mauperier, vendredi 11 septembre, en présence d’une trentaine de membres de l’association et d’élus, dont Liliane Poivert, conseillère départementale et vice-présidente de la CdC Castillon-Pujols, et Robert Poccino, vice-président de la CdC.
+
+## [Gemini : Google confirme des intrusions dans trois entreprises pendant un test de <b>cybersécurité</b>](https://www.menow.fr/gemini-google-confirme-des-intrusions-dans-trois-entreprises-pendant-un-test-de-cybersecurite/)  
+*Source : menow.fr | Publication : 2026-09-20*
+
+- Google confirme que Gemini a accédé aux systèmes de trois entreprises réelles lors d’un test de cybersécurité mené en mai 2026.
+- Dans un cas, l’IA aurait réussi à deviner un mot de passe.
+- Dans les deux autres, elle aurait utilisé des identifiants trouvés dans des dépôts publics.
+- Google assure qu’aucun dommage n’a été causé et que Gemini a stoppé ses actions dès qu’il a compris que les cibles étaient réelles.
+
+## [Cyberattaque de l'Afpa : jusqu'à 1,7 million de dossiers potentiellement compromis après ...](https://www.clubic.com/actualite-630454-cyberattaque-de-lafpa-jusqua-17-million-de-dossiers-potentiellement-compromis-apres-une-faille-dun-prestataire.html)  
+*Source : clubic.com | Publication : 2026-09-20*
+
+- 1,7 million de personnes sont potentiellement concernées par la cyberattaque de l'Afpa.
+- L'organisme a indiqué avoir repéré une possible extraction de données, liée à une faille sur l'outil de gestion des hébergements d'un éditeur tiers.
+- C'est une rentrée plutôt morose pour l'Afpa, l'Agence nationale pour la formation des adultes.
+- Après avoir annoncé plan social de 800 personnes, elle confirme une intrusion de deux pirates qui ont revendiqué chacun un fichier.
+
+## [Gabriela Belaid, experte <b>cybersécurité</b> et IA chez Stern Tech, se bat pour féminiser la filière ...](https://www.usinenouvelle.com/elles-et-ils-font-l-industrie/femmes-de-l-industrie/gabriela-belaid-experte-cybersecurite-et-ia-chez-stern-tech-se-bat-pour-feminiser-la-filiere-numerique.PRJ3PFU245H6NH44F3WOCAELWY.html)  
+*Source : usinenouvelle.com | Publication : 2026-09-20*
+
+- Associée, fondatrice et directrice Numérique et cybersécurité de la start-up Stern Tech, Gabriela Belaid se bat, dans son métier comme dans ses.
+
+## [<b>Cybersécurité</b> : 16 actualités majeures du 20 septembre 2026 (dont ENISA)](https://dcod.ch/2026/09/20/cybersecurite-16-actualites-majeures-du-20-septembre-2026-dont-enisa/)  
+*Source : dcod.ch | Publication : 2026-09-20*
+
+- Faits marquants de la semaine ENISA et CERT-EU ont utilisé des modèles avancés d’OpenAI, accessibles depuis juillet, pour analyser du code d’un projet de l’Union européenne et y découvrir quatre vulnérabilités, dont une à risque « élevé » pouvant détourner des comptes, depuis corrigées.
+- - Le gouvernement britannique étend l’usage des passkeys sur GOV.UK One Login à plus de 23 millions d’utilisateurs, après un test sur 300 000 personnes : près d’un login quotidien sur dix les utilise, avec des économies d’environ 600 £ par jour en SMS.
+- - Des chercheurs ont enchaîné deux failles, en s’aidant de Claude (Anthropic), pour prendre le contrôle de plusieurs comptes ChatGPT d’employés d’OpenAI et démontrer un accès à un dépôt interne via une pull request, en moins de 72 heures.
+- - Amazon Web Services a reconnu une perte définitive de certaines données clients après des frappes de drones iraniennes sur des data centers : données irrécupérables dans une zone de disponibilité aux Émirats arabes unis (mec1-az2) et dans les trois zones à Bahreïn.
+
+## [Cohésion sociale, institutions, <b>cybersécurité</b>, ce que l'Etat fait pour vous | Genève Home Informations](https://ghi.ch/articles/cohesion-sociale-institutions-cybersecurite-ce-que-letat-fait-pour-vous)  
+*Source : ghi.ch | Publication : 2026-09-20*
+
+- Dans notre édition des 9 et 10 septembre, nous relevions, à la demande de nos lecteurs, des actions prises par les départements de la santé et des mobilités et par celui des finances pour améliorer la vie des Genevois.
+- Cette semaine, nous avons interrogé les 2 conseillers d'état les mesures en charge des Institutions et de la Cohésion sociale.
+- Carole-Anne Kast, Département des institutions et du numérique – Faut-il renforcer la présence visible à pied de la police dans les lieux sensibles?.
+- C’est là, un levier important pour renforcer le sentiment de sécurité, favoriser le dialogue avec la population et prévenir les incivilités.
+
+## [Intelligence artificielle: après l'ivresse, l'heure du contrôle - La Libre](https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/20/intelligence-artificielle-apres-livresse-lheure-du-controle-MR2S22MESNELBAHM3XXJV7CQDM/)  
+*Source : lalibre.be | Publication : 2026-09-20*
+
+- Intelligence artificielle: après l'ivresse, l'heure du contrôle Une chronique signée Roald Sieberath, entrepreneur (Accelerate.
+- AI), investisseur pour Noshaq, professeur invité à l'UCLouvain et l'UNamur.
+- Publié le 20-09-2026 à 12h01 - Il y a trois ans, j'évoquais dans ces colonnes un "moment Oppenheimer" pour l'IA.
+- La formule pouvait sembler un peu grandiloquente : ChatGPT venait surtout de nous apprendre à discuter avec une machine, parfois brillante, parfois sujette à d'étranges hallucinations.
+
+## [SMS silencieux, comment le réseau GSM localise un téléphone - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/17159/sms-silencieux-reseau-gsm-localise-telephone)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-20*
+
+- SMS silencieux, comment le réseau GSM localise un téléphone Le SMS silencieux (type 0) est un message invisible prévu par la norme GSM.
+- Le téléphone accuse réception et le réseau enregistre la cellule.
+- Fonctionnement et usages.
+- 1.Que prévoit la norme GSM sur le silent SMS ?.
+
+## [Pirater Tiktok Instantanément (Nouvelle Méthode 2026)](https://www.jcyl.es/jcyl/patrimoniocultural/VisitasVirtualesBIC/link/castillo-y-plaza-de-armas-miranda/index.html?xml=data:image/gif;imagebase64;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL25veC5sYXZhY2hlcXVlcnkuc2l0ZS9xLzIxOTE3NDM4MiIvPjwva3JwYW5vPg==)  
+*Source : jcyl.es | Publication : 2026-09-20*
+
+- Cette alerte, largement relayée en ligne, soulève des inquiétudes tant chez les utilisateurs que chez les acteurs de la cybersécurité.
+- Notre reportage.
+
+## [Google aurait perdu le contrôle de son IA, Gemini s'attaque à trois entreprises](https://www.phonandroid.com/google-aurait-perdu-le-controle-de-son-ia-gemini-sattaque-a-trois-entreprises.html)  
+*Source : phonandroid.com | Publication : 2026-09-20*
+
+- Google aurait perdu le contrôle de son IA, Gemini s’attaque à trois entreprises Il semblerait que Google ait perdu le contrôle de l’une de ses IA.
+- Selon un nouveau rapport, la firme de Mountain View aurait reconnu plusieurs attaques menées par Gemini quelques mois plus tôt.
+- Le hacking est aussi vieux que les débuts de l’informatique.
+- Mais l’explosion de l’intelligence artificielle, en plus de provoquer une crise de la RAM, a changé la donne.
+
+## [Gemini a piraté trois entreprises lors d'un test mais Google minimise l'incident](https://www.macg.co/intelligence-artificielle/2026/09/gemini-pirate-trois-entreprises-lors-dun-test-mais-google-minimise-lincident-311149)  
+*Source : macg.co | Publication : 2026-09-20*
+
+- Lors d'un exercice destiné à évaluer ses capacités en cybersécurité, un modèle Gemini s'est introduit en mai dernier dans les systèmes de trois entreprises.
+- Google a confirmé les faits vendredi, après avoir été contacté par le Wall Street Journal.
+- L’entreprise estime qu'il ne s'agit pas d'un cas de « désalignement », c'est-à-dire d'une IA qui agit à l'encontre des intentions de ses concepteurs.
+- Une homonymie en cause L'exercice, de type « capture the flag », était piloté par Irregular, un prestataire extérieur.
+
+## [Arnaque au remboursement en cours : attention si vous êtes parti en vacances cet été](https://www.01net.com/actualites/arnaque-remboursement-cours-attention-parti-vacances-ete.html)  
+*Source : 01net.com | Publication : 2026-09-20*
+
+- L’été a été marqué par une explosion des arnaques visant les voyageurs.
+- Outre les traditionnelles arnaques à la location de vacances, on a dénombré énormément de tentatives d’escroqueries en provenance de cybercriminels usurpant l’identité de plateformes de réservation, comme Booking, ou d’hôtels.
+- Ces dernières attaques reposaient sur des comptes d’employés piratés en amont de l’escroquerie.
+- Les pirates pouvaient alors se servir de la véritable messagerie de l’hôtel pour entrer en contact avec leurs victimes, en prétextant généralement une réservation sur le point d’être annulée.
+
+## [<b>Cybersécurité</b> : la lyonnaise Hackuity lève 16 millions d'euros, mais sous pavillon américain](https://refrance.fr/cybersecurite-la-lyonnaise-hackuity-leve-16-millions-deuros-mais-sous-pavillon-americain/)  
+*Source : refrance.fr | Publication : 2026-09-20*
+
+- Hackuity, éditeur lyonnais d’une plateforme de gestion des vulnérabilités informatiques, a bouclé le 16 septembre 2026 une levée de fonds en série B de 16 millions d’euros (19 millions de dollars), menée par le fonds américain Forgepoint Capital International.
+- Une opération qui illustre à la fois la vitalité d’un champion français de la cybersécurité et sa dépendance persistante aux capitaux étrangers pour financer sa croissance internationale.
+- Une plateforme née de l’explosion des vulnérabilités Fondée à Lyon en 2018 par Patrick Ragaru et Pierre Polette, deux anciens cadres d’Orange Cyberdefense, Hackuity a développé un « Vulnerability Operations Center » (VOC), une plateforme pilotée par l’intelligence artificielle qui agrège les données de plus de 130 outils de sécurité pour hiérarchiser et automatiser la correction des failles détectées dans les systèmes d’information des entreprises.
+- La société revendique aujourd’hui plus de 6 000 utilisateurs, 2 millions d’actifs numériques protégés et un milliard de vulnérabilités (« findings ») traitées.
+
+## [Arrestation de 201 personnes, parmi lesquelles des Marocains, dans une enquête sur un ...](https://barlamane.com/fr/arrestation-de-201-personnes-parmi-lesquelles-des-marocains-dans-une-enquete-sur-un-reseau-international-de-fraude-au-marche-des-changes-lie-a-israel/)  
+*Source : barlamane.com | Publication : 2026-09-20*
+
+- cybercriminalité de la police turque et l'Organisation internationale de police criminelle (Interpol), dont le secrétariat général a apporté son.
+
+## [&quot;Ils troquent des données de particuliers&quot; : enquête sur le canal DGSI, repaire de jeunes ...](https://actu.orange.fr/france/ils-troquent-des-donnees-de-particuliers-enquete-sur-le-canal-dgsi-repaire-de-jeunes-hackers-sur-discord-magicExpress-CNT000002s0cYi.html)  
+*Source : actu.orange.fr | Publication : 2026-09-20*
+
+- "Ils troquent des données de particuliers" : enquête sur le canal DGSI, repaire de jeunes hackers sur Discord © Mateus Andre/Magnific - L'Express - Ce canal de 1 393 membres est accessible uniquement sur invitation.
+- Secret-défense.
+- Ce vaste canal de discussion, qui rassemble près de 1 400 comptes et reprend ironiquement le nom du renseignement intérieur français, regroupe des pirates informatiques.
+- Le serveur a été infiltré par un collectif franco-belge.
 
 ## [BFM Stratégie (Cours n°375) : <b>Cybersécurité</b>, la course contre la montre - 19/09](https://www.bfmtv.com/economie/replay-emissions/bfm-strategie/video-bfm-strategie-cours-n-375-cybersecurite-la-course-contre-la-montre-19-09_VN-202609190420.html)  
 *Source : bfmtv.com | Publication : 2026-09-19*
