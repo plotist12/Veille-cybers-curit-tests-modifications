@@ -1,5 +1,154 @@
-# Résumés – 2026-09-20
+# Résumés – 2026-09-21
 
+
+## [Le Jura décroche une société de puces de haute sécurité, avec 250 emplois à la clé, grâce ...](https://www.lqj.ch/articles/le-jura-decroche-une-societe-de-puces-de-haute-securite-avec-250-emplois-a-la-cle-grace-aux-efforts-du-ministre-stephane-theurillat-145639)  
+*Source : lqj.ch | Publication : 2026-09-21*
+
+- Le Jura décroche une société de puces de haute sécurité, avec 250 emplois à la clé, grâce aux efforts du ministre Stéphane Theurillat Une société produisant des semi-conducteurs de cybersécurité pourrait s’installer dans le Jura, avec à la clé la création de 250 emplois.
+- Le ministre Stéphane Theurillat s’est beaucoup impliqué pour faire venir cette entreprise, cotée en Bourse aux États-Unis.
+
+## [Réunion publique - Prévention sur la <b>Cybercriminalité</b> - Les communes illiwap](https://station.illiwap.com/fr/public/72065/actu/reunion-publique-prevention-sur-la-cybercriminalite-1)  
+*Source : station.illiwap.com | Publication : 2026-09-21*
+
+- Réunion publique - Prévention sur la Cybercriminalité 21/09/2026 Source : Mairie de La Chapelle-Saint-Aubin.
+
+## [Global Public Security Index : le Maroc affiche un score solide en <b>cybersécurité</b> - LesEco.ma](https://leseco.ma/maroc/global-public-security-index-le-maroc-affiche-un-score-solide-en-cybersecurite.html)  
+*Source : leseco.ma | Publication : 2026-09-21*
+
+- Global Public Security Index : le Maroc affiche un score solide en cybersécurité Le Global public security index 2025-2026, qui vient d’être annoncé, attribue au Maroc un score global de 76,15 points, avec 71,73 points pour la cybersécurité.
+- Un résultat qui met en lumière l’élargissement du périmètre de la sécurité numérique, désormais indissociable des infrastructures, des données et des nouvelles technologies.
+- Le chiffre a de quoi retenir l’attention.
+- Dans son édition 2025-2026, le Global public security index attribue au Maroc un score global de 76,15 points.
+
+## [Hackathon de <b>cybersécurité</b> des systèmes opérationnels » à la Dhahran Techno Valley](https://www.spa.gov.sa/fr/N2682193)  
+*Source : spa.gov.sa | Publication : 2026-09-21*
+
+- Outre ses deux partenaires fondateurs, Saudi Aramco et la Fondation du Forum international de la cybersécurité , le Centre compte parmi ses membres.
+
+## [Dans un rapport consacré aux cyberincidents, la Cour des comptes européenne pointe des ...](https://agenceurope.eu/fr/bulletin/article/13942/2/dans-un-rapport-consacre-aux-cyberincidents-la-cour-des-comptes-europeenne-pointe-des-lacunes-de-la-cooperation-europeenne)  
+*Source : agenceurope.eu | Publication : 2026-09-21*
+
+- Partage d’informations limité, coordination à améliorer entre les différents organismes européens… Dans un rapport rendu public lundi 21 septembre, la Cour des comptes européenne examine l’architecture actuelle de l’UE pour détecter les cyberincidents et y répondre.
+- L’institution remarque plusieurs défaillances.
+- En réaction, la Commission européenne a indiqué par la voix d'un porte-parole qu’elle examinerait « attentivement ses recommandations afin de renforcer encore les capacités de l’UE en matière de détection, d’appréciation de situation et de réaction aux cybermenaces et incidents ».
+- Tout d’abord, la Cour reconnaît les progrès accomplis dans la mise en place d’une architecture de cybersécurité à l’échelle européenne, notamment autour de deux réseaux : celui des centres nationaux de réponse aux incidents de sécurité informatique (CSIRT) et EU-CyCLONe, chargé de la coordination en cas de crise.
+
+## [Nicolas Serre devient directeur délégué des services numériques de l'AP-HP - TICsanté](https://www.ticsante.com/story?ID=8433)  
+*Source : ticsante.com | Publication : 2026-09-21*
+
+- Ingénieur, Nicolas Serre a passé une vingtaine d'années dans le secteur bancaire, selon son profil LinkedIn.
+- Il a notamment été directeur des systèmes d'information (DSI) d'ING Bank en France de 2018 à 2020, puis directeur de la technologie et de la transformation du groupe Baobab de 2020 à 2023.
+- Avant de rejoindre l'AP-HP, il était directeur technique de la société française d'édition de logiciels d'analyse de données ChapsVision.
+- Au sein de l'établissement francilien, il travaillera "en binôme" avec Raphaël Beaufret pour mettre en œuvre le schéma directeur des services numériques 2026-2030 et les "futurs chantiers du nouveau projet d'établissement" de l'AP-HP.
+
+## [Les chercheurs de Hacktron AI ont utilisé Claude pour pirater OpenAI](https://www.lemondeinformatique.fr/actualites/lire-les-chercheurs-de-hacktron-ai-ont-utilise-claude-pour-pirater-openai-100799.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-09-21*
+
+- Dans le cadre d'un exercice organisé par OpenAI, des chercheurs de la plateforme de cybersécurité Hacktron AI ont réussi à accéder au code source privé de l'entreprise en utilisant Claude, le modèle d'IA d'Anthropic.
+- Exploiter une vulnérabilité en un temps record En seulement 72 heures, les trois chercheurs de Hacktron AI, Harsh Jaiswal, Mohan Pedhapati et Rahul Maini, sont parvenus à s'introduire dans les systèmes d’OpenAI grâce à Claude.
+- Intervenue le 25 juillet, puis relayée la semaine dernière par le Financial Times, cette affaire illustre le potentiel d’attaque des modèles d'IA les plus avancés.
+- Cette intrusion a été réalisée dans le cadre d'un exercice organisé par OpenAI pour détecter des vulnérabilités au sein de ses systèmes, avec la participation d'experts en informatique extérieurs à l'entreprise.
+
+## [5 levées de fonds qui ont marqué le second semestre 2026 - Bpifrance](https://www.bpifrance.fr/nos-actualites/5-levees-de-fonds-qui-ont-marque-le-second-semestre-2026)  
+*Source : bpifrance.fr | Publication : 2026-09-21*
+
+- 5 levées de fonds qui ont marqué le second semestre 2026 Au second semestre 2026, plusieurs startups et entreprises innovantes françaises ont bouclé des tours de table significatifs pour accélérer leur développement industriel, renforcer leur présence internationale ou investir dans de nouvelles technologies.
+- Tour d'horizon de cinq levées de fonds emblématiques accompagnées par Bpifrance.
+- - Temps de lecture: 5 min - Lever des fonds n'est jamais une fin en soi.
+- C'est souvent le point de départ d'une nouvelle phase de développement, avec des enjeux industriels, commerciaux et humains majeurs.
+
+## [Le complot de l'IA pour scanner et détruire les livres (Lock and Code S07E19)](https://www.malwarebytes.com/fr/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19)  
+*Source : malwarebytes.com | Publication : 2026-09-21*
+
+- Cette semaine dans le podcast Lock and Code… Si vous voulez qu'une IA vous raconte une histoire, elle le fera.
+- Si vous voulez que cette histoire ait le style de l'un de vos auteurs préférés, elle le peut.
+- Et si vous êtes vous-même un auteur que l'IA peut imiter, vous pourriez être quelque peu contrarié par ce qui ressemble à du plagiat.
+- En 2024, les auteurs Andrea Bartz, Charles Graeber et Kirk Wallace Johnson ont porté plainte contre Anthropic, créateur de Claude, l'accusant d'avoir utilisé illégalement des millions d'œuvres protégées par le droit d'auteur – dont certaines de leurs propres créations – pour entraîner ses modèles d'intelligence artificielle.
+
+## [Guillaume Almeida, expert en <b>Cybersécurité</b> chez GNA-CI ''Nous proposons une éval](https://www.sikafinance.com/marches/guillaume-almeida-expert-en-cybersecurite-chez-gna-ci--nous-proposons-une-evaluation-de-vulnerabilite-cyber-gratuite-en-moins-de-cinq-minutes-_64396)  
+*Source : sikafinance.com | Publication : 2026-09-21*
+
+- Guillaume Almeida, expert en Cybersécurité & Business Developer chez GNA-CI: Chez GNA-CI, nous proposons une évaluation de vulnérabilité cyber gratuite, en moins de cinq minutes Le numérique a transformé l'économie ivoirienne à une vitesse remarquable.
+- Mais cette transformation a-t-elle été accompagnée d'une protection suffisante ?.
+- Guillaume Almeida, Expert en Cybersécurité et Business Developer chez GNA-CI, pose un diagnostic sans détour sur la cybersécurité des entreprises ouest-africaines, le rôle de l'intelligence artificielle, et la solution locale qui existe déjà pour y répondre.
+- Les institutions financières sont aujourd'hui parmi les principales cibles des cyberattaques dans le monde.
+
+## [D-Link signale un incident de <b>cybersécurité</b> | Zonebourse Suisse](https://ch.zonebourse.com/actualite-bourse/d-link-signale-un-incident-de-cybersecurite-ce785adbd981f420)  
+*Source : ch.zonebourse.com | Publication : 2026-09-21*
+
+- D-Link signale un incident de cybersécurité Publié le 21/09/2026 à 05:56 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'originalCet article est réservé à nos membresConnectez-vous pour continuerSe connecterCréer un compte Continuer avec Google Continuer avec Apple Continuer avec LinkedIn ou par emailContinuer avec un email Créer un compte avec Google Créer un compte avec Apple Créer un compte avec LinkedIn ou par emailCréer un compte Pour un accès illimité, consultez nos abonnements.
+
+## [Sécurité des infrastructures critiques : les dirigeants ont besoin d'indicateurs factuels et décisionnels](https://www.journaldunet.com/cybersecurite/1555117-securite-des-infrastructures-critiques-les-dirigeants-ont-besoin-d-indicateurs-factuels-et-decisionnels/)  
+*Source : journaldunet.com | Publication : 2026-09-21*
+
+- Sécurité des infrastructures critiques : les dirigeants ont besoin d'indicateurs factuels et décisionnels Pour piloter efficacement leur cybersécurité, les opérateurs d'infrastructures critiques doivent s'appuyer sur des indicateurs fiables, capables de mesurer la résilience et d'anticiper les risques.
+- Les opérateurs d’infrastructures critiques ont considérablement renforcé leurs investissements en cybersécurité ces dernières années.
+- Pourtant, beaucoup peinent encore à définir et à mettre en œuvre des indicateurs de sécurité réellement pertinents pour mesurer leur niveau de sécurité et leur résilience.
+- Dans un contexte de maitrise des coûts, des indicateurs solides sont essentiels pour mesurer, piloter et améliorer la posture de cybersécurité d’une infrastructure critique, et donc en garantir la continuité d’activité.
+
+## [L'Union européenne est-elle prête à faire face aux cyberattaques ? La Cour des comptes ...](https://www.rtl.be/actu/monde/international/lunion-europeenne-est-elle-prete-faire-face-aux-cyberattaques-la-cour-des/2026-09-21/article/800919)  
+*Source : rtl.be | Publication : 2026-09-21*
+
+- Partager: Les mesures de l’Union européenne pour détecter et traiter les incidents majeurs de cybersécurité présentent des lacunes, a conclu la Cour des comptes européenne ce lundi dans un nouveau rapport.
+- Le manque d’échange d’informations entre les États membres constitue le talon d’Achille de la cybersécurité européenne, selon les auditeurs.
+- Les incidents de cybersécurité peuvent perturber les services publics, les entreprises, les infrastructures critiques et le marché intérieur.
+- La responsabilité de la réponse incombe principalement aux États membres, bien que l’UE joue un rôle clé lors d’incidents touchant plusieurs pays.
+
+## [Cyble et le Conseil de <b>cybersécurité</b> des Émirats arabes unis signent un protocole d'accord ...](https://fr.finance.yahoo.com/actualites/cyble-conseil-cybersécurité-émirats-arabes-060400664.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-09-21*
+
+- Cyble et le Conseil de cybersécurité des Émirats arabes unis signent un protocole d'accord visant à consolider les capacités nationales en matière de renseignements sur les menaces ABOU DABI, Émirats arabes unis, 21 septembre 2026 /PRNewswire/ -- Cyble, une entreprise mondiale spécialisée dans la cybersécurité intégrant nativement l'IA, a annoncé aujourd'hui la signature d'un protocole d'accord avec le Conseil de cybersécurité des Émirats arabes unis, l'entité fédérale chargée de renforcer la position du pays dans le domaine de la cybersécurité.
+- Cet accord, qui officialise une collaboration stratégique axée sur les capacités de Cyble relatives aux renseignements sur les menaces, marque une étape importante dans l'engagement de Cyble au sein de l'écosystème national de cybersécurité des Émirats arabes unis.
+- Le protocole d'accord établit un cadre qui permet à Cyble de soutenir la mission du Conseil visant à protéger l'infrastructure numérique des Émirats arabes unis, en mettant l'accent sur la fourniture de renseignements avancés sur les menaces, de capacités d'alerte précoce et d'analyses exploitables sur les risques cybernétiques émergents auxquels sont confrontés les organismes gouvernementaux et les entités gérant des infrastructures critiques à travers le pays.
+- Cette collaboration démontre la détermination continue des Émirats arabes unis à mettre en place au niveau national une stratégie de cybersécurité résiliente et tournée vers l'avenir, et positionne Cyble comme un partenaire technologique de confiance dans le cadre de cette initiative.
+
+## [Directive &quot;NIS 2&quot; pas appliquée, partage d'information &quot;limité&quot;: la Cour des comptes ...](https://www.bfmtv.com/tech/cybersecurite/directive-nis-2-pas-appliquee-partage-d-information-limite-la-cour-des-comptes-europeenne-alerte-sur-les-lacunes-de-l-ue-en-matiere-de-cybersecurite_AD-202609210714.html)  
+*Source : bfmtv.com | Publication : 2026-09-21*
+
+- Directive "NIS 2" pas appliquée, partage d'information "limité": la Cour des comptes européenne alerte sur les lacunes de l'UE en matière de cybersécurité Un partage d'information "limité" entre les 27 et un système d'alerte qui se fait attendre : la Cour des comptes européenne a critiqué ce lundi des lacunes dans l'action de l'UE contre les incidents de cybersécurité.
+- Malgré un budget total de 1,4 milliard d'euros en faveur de la cybersécurité sur la période 2021-2027, et un arsenal législatif qui s'est étoffé ces dernières années, "un partage d'informations limité, des faiblesses dans les signalements et des retards considérables dans la mise en œuvre empêchent les réseaux et mécanismes de l'UE d'atteindre leur plein potentiel", relève l'institution dans un rapport publié lundi.
+- La directive "NIS 2" encore en attente en France Si les 27 ont musclé leurs règles ces dernières années, la Cour relève que la directive européenne dite "NIS 2", qui oblige notamment à déclarer aux autorités les incidents, n'a toujours pas été transposée par tous les pays membres, notamment la France, près de deux ans après l'expiration de la date limite pour le faire.
+- En outre, des difficultés à "déterminer si un incident a un impact transfrontières", et des restrictions liées à la sécurité nationale subsistent, note la Cour.
+
+## [<b>Cybersécurité</b>: le SRC disculpé par une enquête administrative - Watson](https://www.watson.ch/fr/suisse/politique/681531044-cybersecurite-le-src-disculpe-par-une-enquete-administrative)  
+*Source : watson.ch | Publication : 2026-09-21*
+
+- Cybersécurité: le SRC disculpé par une enquête administrative Une enquête administrative commandée par le ministre de la Défense Martin Pfister disculpe en grande partie l'ancienne «Division Cyber» du Service de renseignement de la Confédération (SRC).
+- Il n'est toutefois toujours pas clair si des données sensibles ont été divulguées aux services secrets russes.
+- Des incertitudes subsistent L’ancienne division n’est pas encore tirée d’affaire.
+- Le rapport publié lundi sur l’enquête commandée à l’été 2025 conclut certes que les faits survenus au sein du SRC ont été «suffisamment élucidés», mais émet néanmoins des réserves, notamment en lien avec une entreprise de cybersécurité russe.
+
+## [<b>Cybersécurité</b> : l'UE insuffisamment armée face aux attaques, affirme la Cour des comptes ...](https://www.rtbf.be/article/cybersecurite-l-ue-insuffisamment-armee-face-aux-attaques-affirme-la-cour-des-comptes-europeenne-11788497)  
+*Source : rtbf.be | Publication : 2026-09-21*
+
+- Les incidents de cybersécurité peuvent perturber les services publics, les entreprises, les infrastructures critiques et le marché intérieur.
+- La responsabilité de la réponse incombe principalement aux États membres, bien que l’UE joue un rôle clef lors d’incidents touchant plusieurs pays.
+- L’UE investit massivement en matière de cybersécurité, avec notamment 1,4 milliard d’euros dans l’actuel budget pluriannuel via le programme Europe numérique.
+- Bien que des réseaux aient été mis en place pour faire collaborer les États membres en cas de crise majeure, des accords formels manquent.
+
+## [Ateliers mémoire, <b>cybersécurité</b> et yoga sur chaise au programme de la Semaine Bleue à Brou - Actu](https://actu.fr/centre-val-de-loire/brou_28061/ateliers-memoire-cybersecurite-et-yoga-sur-chaise-au-programme-de-la-semaine-bleue-a-brou_64804468.html)  
+*Source : actu.fr | Publication : 2026-09-21*
+
+- Chaque année, la Semaine Bleue offre un temps fort national dédié aux personnes âgées et aux retraités.
+- À Brou (Eure-et-Loir), le Centre communal d’action sociale (CCAS) a construit, pour cette édition du 5 au 9 octobre 2026, un programme qui mêle prévention et convivialité. «.
+- L’idée, c’est de rompre l’isolement social », explique Céline Chenault, responsable du CCAS de Brou.
+- Le lundi, un rendez-vous mensuel pour « le moral » La semaine s’ouvre avec l’atelier « C’est bon pour le moral », programmé chaque lundi d’octobre (les 5, 12, 19 et 26), de 10 h à 12 h, à la Maison des associations (MDA), 3 rue Marcel-Bordet.
+
+## [<b>Cybersécurité</b> : la coopération dans l'UE reste insuffisante - Le Figaro](https://www.lefigaro.fr/flash-eco/cybersecurite-la-cooperation-dans-l-ue-reste-insuffisante-20260921)  
+*Source : lefigaro.fr | Publication : 2026-09-21*
+
+- Cybersécurité : la coopération dans l'UE reste insuffisante Un partage d'information «limité» entre les 27 et un système d'alerte qui se fait attendre : la Cour des comptes européenne a critiqué lundi des lacunes dans l'action de l'UE contre les incidents de cybersécurité.
+- Malgré un budget total de 1,4 milliard d'euros en faveur de la cybersécurité sur la période 2021-2027, et un arsenal législatif qui s'est étoffé ces dernières années, «un partage d'informations limité, des faiblesses dans les signalements et des retards considérables dans la mise en œuvre empêchent les réseaux et mécanismes de l'UE d'atteindre leur plein potentiel», relève l'institution dans un rapport publié lundi.
+- Si les 27 ont musclé leurs règles ces dernières années, la Cour relève que la directive européenne dite «NIS 2», qui oblige notamment à déclarer aux autorités les incidents, n’a toujours pas été transposée par tous les pays membres, notamment la France, près de deux ans après l’expiration de la date limite pour le faire.
+- En outre, des difficultés à «déterminer si un incident a un impact transfrontières», et des restrictions liées à la sécurité nationale subsistent, note la Cour.
+
+## [Christophe Lasbordes Channel Director de Board of Cyber - ChannelBiz |](https://www.channelbiz.fr/2026/09/21/christophe-lasbordes-channel-director-de-board-of-cyber/)  
+*Source : channelbiz.fr | Publication : 2026-09-21*
+
+- Board of Cyber renforce son organisation avec l’arrivée de Christophe Lasbordes au poste de Channel Director.
+- Il est chargé de bâtir et de piloter la stratégie de distribution de l’entreprise, en s’appuyant sur près de trente ans d’expérience dans la cybersécurité et la vente de solutions SaaS complexes.
+- Rattaché à Sylvain Lefeuvre, directeur général adjoint, Christophe Lasbordes a une feuille de route en trois volets.
+- Il devra étoffer le réseau de partenaires de Board of Cyber, déployer des programmes de formation et conclure de nouvelles alliances technologiques.
 
 ## [Gemini a accédé à trois entreprises lors d'un test défaillant - Brief IA](https://www.briefia.fr/article/gemini-a-accede-a-trois-entreprises-lors-d-un-test-defaillant)  
 *Source : briefia.fr | Publication : 2026-09-20*
