@@ -1,5 +1,185 @@
 [
   {
+    "id": "e551866a5b",
+    "title": "Femmes filmées sans leur consentement avec des lunettes connectées: la justice ouvre ...",
+    "link": "https://www.france24.com/fr/info-en-continu/20260922-femmes-filmées-sans-leur-consentement-avec-des-lunettes-connectées-la-justice-ouvre-plusieurs-enquêtes-à-paris",
+    "source": "france24.com",
+    "pub_date": "2026-09-22",
+    "summary": "- Femmes filmées sans leur consentement avec des lunettes connectées: la justice ouvre plusieurs enquêtes à Paris Paris (France) (AFP) – Le parquet de Paris a ouvert plusieurs enquêtes après avoir été saisi de plaintes concernant des femmes filmées dans la rue avec des lunettes connectées, sans leur consentement, a-t-il indiqué mardi, sollicité par l'AFP.\n- Publié le : Le parquet a précisé avoir été \"saisi de plaintes portant sur des atteintes à l'intimité de la vie privée liées à l'usage de lunettes connectées\".\n- L'association e-Enfance, qui gère la ligne 3018, numéro national dédié aux victimes de violences numériques, avait alerté le 8 septembre sur le phénomène croissant des vidéos humiliantes réalisées avec des lunettes munies de caméra et diffusées en ligne.\n- Le parquet a lui aussi fait état d'une \"tendance montante sur les réseaux sociaux consistant à filmer des femmes dans la rue avec des lunettes connectées sans leur consentement et à publier les vidéos en ligne\".",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "f417ae6dc0",
+    "title": "L'assistant IA Muse de Meta présente une faille zero-day qui peut le transformer en un Mac ...",
+    "link": "https://www.malwarebytes.com/fr/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor",
+    "source": "malwarebytes.com",
+    "pub_date": "2026-09-22",
+    "summary": "- Mac Le chercheur en sécurité Patrick Wardle affirme qu'il est très facile de transformer Muse en « porte dérobée ultime ».\n- De plus en plus, les assistants IA évoluent : d’outils se contentant de répondre à des questions, ils deviennent de véritables agents capables de planifier des tâches, d’utiliser des services connectés et d’agir à notre place.\n- Ces actions peuvent inclure la prise de rendez-vous, le remplissage de formulaires, la création de documents, la réalisation d’achats ou encore la gestion des e-mails et des calendriers.\n- Pour ce faire, ils ont besoin de davantage d'autorisations, de connexions de comptes et de données sensibles.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "de627569de",
+    "title": "En utilisant Claude, des chercheurs ont réussi à pirater OpenAI en moins de 72 heures",
+    "link": "https://siecledigital.fr/2026/09/22/en-utilisant-claude-des-chercheurs-ont-reussi-a-pirater-openai-en-moins-de-72-heures/",
+    "source": "siecledigital.fr",
+    "pub_date": "2026-09-22",
+    "summary": "- Les attaques informatiques prennent de l’ampleur à mesure que les modèles d’IA deviennent de plus en plus performants.\n- Une équipe de Hacktron AI vient de faire une telle démonstration chez OpenAI.\n- L’entreprise avait organisé un exercice à la fin de juillet, au cours duquel trois chercheurs ont réussi, en moins de 72 heures, à remonter d’un forum public jusqu’à des comptes internes de Codex et de ChatGPT.\n- Deux failles ont permis de pénétrer les systèmes d’OpenAI Sur le forum communautaire d’OpenAI, hébergé sur Discourse, l’équipe a tenté de trouver une porte d’entrée.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "581a78052b",
+    "title": "<b>Cybersécurité</b> : face à l'explosion des deepfakes, ShareID certifié au niveau élevé contre les ...",
+    "link": "https://www.24presse.com/communique-de-presse/tech/cybersecurite___face_a_l_explosion_des_deepfakes__shareid_certifie_au_niveau_eleve_contre_les_attaques_de_presentation__9928249/",
+    "source": "24presse.com",
+    "pub_date": "2026-09-22",
+    "summary": "- 24 | Communiqué de presse Cybersécurité : face à l'explosion des deepfakes, ShareID certifié au niveau élevé contre les attaques de présentation (PAD) et d'injection (IAD) Publié le 22/09/2026 à 14:42 Vérifier une identité à distance revient à répondre à une question devenue redoutablement difficile : la personne devant l'écran est-elle réelle, présente et bien celle qu'elle prétend être ?.\n- Deux familles d'attaques cherchent à briser cette certitude.\n- Les attaques de présentation (PAD) consistent à tromper la caméra à l'aide d'un artefact : masque, photo, écran ou silicone.\n- Les attaques par injection (IAD), plus récentes et amplifiées par les deepfakes, contournent purement et simplement la caméra pour introduire un flux piraté directement dans le système.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "bac760d522",
+    "title": "Palo Alto Networks dévoile un service de <b>cybersécurité</b> dopé à l'IA s'appuyant sur les ...",
+    "link": "https://www.zonebourse.com/actualite-bourse/palo-alto-networks-devoile-un-service-de-cybersecurite-dope-a-la-ia-sa-appuyant-sur-les-modeles-cl-ce785ad8dc8ff624",
+    "source": "zonebourse.com",
+    "pub_date": "2026-09-22",
+    "summary": "- Palo Alto Networks a annoncé mardi qu’il lancerait un nouveau service de cybersécurité pour les entreprises, utilisant des modèles d’IA avancés d’Anthropic et d’OpenAI afin d’aider à identifier des vulnérabilités de sécurité dans les systèmes d’entreprise.\n- Les pirates recourent de plus en plus à l’IA pour repérer et exploiter des faiblesses dans les réseaux d’entreprise, poussant les sociétés de cybersécurité à bâtir des défenses capables de détecter et de répondre aux menaces plus rapidement.\n- Ce service, baptisé Unit 42 Continuous Frontier AI Defense, s’appuiera sur des modèles d’IA spécialisés dans la cybersécurité, dont Claude Mythos 5 d’Anthropic et GPT-5.6-Cyber d’OpenAI, ainsi que sur des modèles à poids ouverts, a indiqué l’entreprise.\n- L’offre est conçue pour tester en continu les applications web, les interfaces de programmation applicative et l’infrastructure cloud, afin d’aider les clients à identifier les vulnérabilités et les voies d’attaque possibles au gré des évolutions de leurs environnements numériques.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "4050ffb532",
+    "title": "La relation entre RSSI et DAF devient le goulot de la sécurité des agents IA - IT SOCIAL",
+    "link": "https://itsocial.fr/cybersecurite/cybersecurite-articles/la-relation-entre-rssi-et-daf-devient-le-goulot-de-la-securite-des-agents-ia/",
+    "source": "itsocial.fr",
+    "pub_date": "2026-09-22",
+    "summary": "- Les responsables de la sécurité placent désormais les agents IA en tête des menaces internes, et leurs directeurs financiers partagent ce diagnostic.\n- L'étude qu'Exabeam a fait réaliser auprès de 300 décideurs de la sécurité et de 300 décideurs financiers montre pourtant que cet unanimité ne s'étend pas jusqu'aux budgets.\n- Plus d'un responsable de la sécurité sur deux a reporté ou réduit un projet faute de pouvoir exprimer le risque dans des termes financiers acceptables pour son directeur financier.\n- Le goulot de la sécurité des agents se situe entre deux fonctions qui s'accordent sur le danger et butent sur sa mesure.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "43da472f7b",
+    "title": "Eau, data et durabilité : PERAX joue la carte de l'indépendance technologique - BFM",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/hashtag-decryptage/eau-data-et-durabilite-perax-joue-la-carte-de-l-independance-technologique_AB-202609220020.html",
+    "source": "bfmtv.com",
+    "pub_date": "2026-09-22",
+    "summary": "- Eau, data et durabilité : PERAX joue la carte de l'indépendance technologique La raréfaction de l'eau s'impose désormais comme une réalité documentée.\n- En quoi la télégestion constitue-t-elle une réponse concrète à ce défi ?.\n- La ressource se dégrade simultanément en qualité et en quantité, partout dans le monde, et la France n'échappe pas à cette tendance.\n- Dans ce contexte, on ne peut améliorer que ce que l'on mesure.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "b24b343996",
+    "title": "RECIF 2026 | La <b>cybersécurité</b> pour l'industrie du futur - Wavestone",
+    "link": "https://www.wavestone.com/fr/event/recif-2026-la-cybersecurite-pour-lindustrie-du-futur/",
+    "source": "wavestone.com",
+    "pub_date": "2026-09-22",
+    "summary": "- Forum France RECIF 2026 | La cybersécurité pour l’industrie du futur Cybersécurité - Horaires : Du 09:00 au 15:00 cetEmplacement : Évian-les-Bains, 74500, France – opens in new windowL’événement dédié à la cybersécurité industrielle Thématique 2026 : « Accélérer ou freiner la numérisation de l’industrie : choisissez votre camp » Alors que les environnements industriels sont de plus en plus connectés et numérisés, la cybersécurité est plus que jamais un enjeu majeur.\n- RECIF réunit professionnels de la cybersécurité, experts et acteurs de l’industrie pour partager leurs perspectives, découvrir les technologies émergentes et échanger autour des grands enjeux qui façonnent l’industrie du futur.\n- Speed Demo Que se passe-t-il lorsqu’un agent IA prend le contrôle d’un procédé industriel ?.\n- Jeudi 24 septembre | 10h15–12h15 Centre de conférence de l’Hôtel Royal Evian Lors du Speed Demo, Wavestone présentera un démonstrateur industriel combinant robotique, vision par ordinateur, technologies cloud et intelligence artificielle.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "fd92d35e09",
+    "title": "Outils RH - Se protéger de cyberattaques, toujours plus nombreuses - Mardi 22 septembre",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-entreprise/video-bfm-entreprise-outils-rh-se-proteger-de-cyberattaques-toujours-plus-nombreuses-mardi-22-septembre_VN-202609220414.html",
+    "source": "bfmtv.com",
+    "pub_date": "2026-09-22",
+    "summary": "- BFM Entreprise - Outils RH - Se protéger de cyberattaques, toujours plus nombreuses - Mardi 22 septembre Ce mardi 22 septembre, Sandra Gandoin a reçu Adrien Merveille, directeur technique France de Check Point Software Technologies, Akram Azzam, managing partner cybersécurité chez SIA, Benoit Grunemwald, expert en cybersécurité chez ESET France, et Malik Douaoui, associé au cabinet d'avocats Deloitte, dans l'émission BFM Entreprise, sur BFM Business.\n- Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.\n- | Durée : 26:04.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "82c841ff6e",
+    "title": "&quot;Nous avons des attaques quasi quotidiennes&quot;: Vanessa Matz assure que les données de l ... - BX1",
+    "link": "https://bx1.be/categories/news/nous-avons-des-attaques-quasi-quotidiennes-vanessa-matz-assure-que-les-donnees-de-letat-sont-sous-controle/",
+    "source": "bx1.be",
+    "pub_date": "2026-09-22",
+    "summary": "- “Nous avons des attaques quasi quotidiennes”: Vanessa Matz assure que les données de l’État sont sous contrôle Les administrations fédérales belges font face à des cyberattaques quasi quotidiennes.\n- Pour l’instant, aucune fuite de données n’a toutefois été constatée, assure Vanessa Matz, ministre fédérale de la Fonction publique et du Numérique.\n- Invitée dans Bonsoir Bruxelles, elle détaille les mesures prises pour renforcer la protection des services publics face à des cybercriminels toujours plus sophistiqués.\n- “Nous avons clairement des attaques quasi quotidiennes sur nos services, mais nous n’avons pas eu de fuite de données“, affirme Vanessa Matz.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "c8c38e47d8",
+    "title": "Femmes filmées sans leur consentement avec des lunettes connectées - Orange Actu",
+    "link": "https://actu.orange.fr/france/femmes-filmees-sans-leur-consentement-avec-des-lunettes-connectees-la-justice-ouvre-plusieurs-enquetes-a-paris-CNT000002s2I9b.html",
+    "source": "actu.orange.fr",
+    "pub_date": "2026-09-22",
+    "summary": "- Femmes filmées sans leur consentement avec des lunettes connectées: la justice ouvre plusieurs enquêtes à Paris © Julie JAMMOT, AFP - Des lunettes de soleil connectées exposées à Menlo Park, Californie, le 24 septembre 2024, avant le congrès Meta Connect Le parquet de Paris a ouvert plusieurs enquêtes après avoir été saisi de plaintes concernant des femmes filmées dans la rue avec des lunettes connectées, sans leur consentement, a-t-il indiqué mardi, sollicité par l'AFP.\n- Le parquet a précisé avoir été \"saisi de plaintes portant sur des atteintes à l'intimité de la vie privée liées à l'usage de lunettes connectées\".\n- L'association e-Enfance, qui gère la ligne 3018, numéro national dédié aux victimes de violences numériques, avait alerté le 8 septembre sur le phénomène croissant des vidéos humiliantes réalisées avec des lunettes munies de caméra et diffusées en ligne.\n- Le parquet a lui aussi fait état d'une \"tendance montante sur les réseaux sociaux consistant à filmer des femmes dans la rue avec des lunettes connectées sans leur consentement et à publier les vidéos en ligne\".",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "06b8bc100c",
+    "title": "Femmes filmées sans leur consentement avec des lunettes connectées : la justice ouvre ...",
+    "link": "https://www.lechorepublicain.fr/france-monde/faits-divers/femmes-filmees-sans-leur-consentement-avec-des-lunettes-connectees-la-justice-ouvre-plusieurs-enquetes-a-paris_15051072/",
+    "source": "lechorepublicain.fr",
+    "pub_date": "2026-09-22",
+    "summary": "- Écouter l'article Le parquet a précisé avoir été “saisi de plaintes portant sur des atteintes à l’intimité de la vie privée liées à l’usage de lunettes connectées”.\n- L’association e-Enfance, qui gère la ligne 3018, numéro national dédié aux victimes de violences numériques, avait alerté le 8 septembre sur le phénomène croissant des vidéos humiliantes réalisées avec des lunettes munies de caméra et diffusées en ligne.\n- Deux ans de prison et 45.000 euros Le parquet a lui aussi fait état d’une “tendance montante sur les réseaux sociaux consistant à filmer des femmes dans la rue avec des lunettes connectées sans leur consentement et à publier les vidéos en ligne”.\n- Il a précisé que les enquêtes étaient ouvertes pour “diffusion, par service de communication au public en ligne, d’un montage ou contenu généré par traitement algorithmique non apparent représentant l’image ou les paroles d’une personne sans son consentement”, un délit faisant encourir deux ans de prison et 45.000 euros d’amende.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "534e00560d",
+    "title": "Pacemakers détectables à 90 mètres : <b>cybersécurité</b> ? - Cardio-online",
+    "link": "https://www.cardio-online.fr/actualites/depeches-en-cardiologie/2026/des-pacemakers-identifiables-a-distance-jusqu-a-90-metres",
+    "source": "cardio-online.fr",
+    "pub_date": "2026-09-22",
+    "summary": "- 2 minutes de lecture Des pacemakers identifiables à distance, jusqu'à 90 mètres Publié le mardi 22 septembre 2026 Les stimulateurs cardiaques équipés de systèmes Bluetooth émettent des informations qui peuvent être captées jusqu'à une distance de 90 mètres, posant des questions de confidentialité, voire de cybersécurité, mettent en garde des chercheurs américains dans JAMA Cardiology.\n- Les pacemakers sont conçus pour transmettre des informations sur leur fonctionnement à un récepteur au chevet du patient, donc à proximité.\n- Les fabricants affirment que cette communication sans fil peut se faire jusqu'à environ 3 mètres.\n- Daniel Kramer du Beth Israel Deaconess Medical Center à Boston et ses collègues se sont demandé si l'on pouvait capter ces émissions à des distances plus importantes.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "8c6fcdce50",
+    "title": "CTU ICT Week 2026 : « Nous ne voulons plus regarder la Caraïbe à distance ... - Radio Péyi Guyane",
+    "link": "https://www.peyiguyane.com/actualites/ctu-ict-week-2026-nous-ne-voulons-plus-regarder-la-caraibe-a-distance-nous-voulons-innover-et-grandir-avec-elle",
+    "source": "peyiguyane.com",
+    "pub_date": "2026-09-22",
+    "summary": "- CTU ICT Week 2026 : « Nous ne voulons plus regarder la Caraïbe à distance , nous voulons innover et grandir avec elle » Cinq jours pour définir une politique numérique commune.\n- Depuis dimanche et jusqu’au 24 septembre, Cayenne accueille la CTU ICT Week 2026.\n- Cette semaine stratégique de l’Union des télécommunications de la Caraïbe réunit ministres, décideurs publics, régulateurs et acteurs du numérique autour de quatre priorités : la résilience, l’inclusion, la cybersécurité et l’innovation.\n- Pour la Guyane, récemment devenue membre associé de la CTU puis de la CARICOM, l’événement constitue une nouvelle étape dans son intégration régionale.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "a45c64a3b0",
+    "title": "Son logiciel gratuit PMR Access vise à aider les personnes handicapées dans tous leurs ...",
+    "link": "https://www.ouest-france.fr/sante/handicaps/son-logiciel-gratuit-pmr-access-vise-a-aider-les-personnes-handicapees-dans-tous-leurs-deplacements-7a23d3b6-b5e3-11f1-8a8f-88ad535f4d73",
+    "source": "ouest-france.fr",
+    "pub_date": "2026-09-22",
+    "summary": "- Constatant les difficultés de proches en fauteuil, Laurent Lavisse, chef de projet en cybersécurité , et habitant de Sainte-Luce-sur-Loire, a créé un.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "c7e34e5f4c",
+    "title": "Recrutement Orange Business pour des Experts et Managers <b>Cybersécurité</b> - Dreamjob.ma",
+    "link": "https://www.dreamjob.ma/emploi/recrutement-orange-business-pour-des-experts-et-managers-cybersecurite/",
+    "source": "dreamjob.ma",
+    "pub_date": "2026-09-22",
+    "summary": "- Orange Business recrute 4 profils expérimentés en cybersécurité, notamment dans les domaines de la sécurité réseau et applicative, du conseil GRC, de l’audit et du pentest.\n- Les opportunités concernent des fonctions d’Expert, de Consultant et de Manager au sein des activités d’Orange Business et d’Orange Cyberdefense.\n- Orange Business est un intégrateur réseau et digital présent sur l’ensemble de la chaîne de valeur du numérique, avec plus de 30 000 collaborateurs répartis en Asie, en Afrique, en Europe et dans les Amériques.\n- L’entreprise accompagne ses clients à travers des solutions globales dans les domaines du réseau, du digital et de la cybersécurité.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "8774b1a4ed",
+    "title": "<b>Cybersécurité</b>: 665 futurs ingénieurs de l'EMSI mis à l'épreuve d'un exercice immersif ...",
+    "link": "https://lareleve.ma/205126/",
+    "source": "lareleve.ma",
+    "pub_date": "2026-09-22",
+    "summary": "- Conçu avec l'école parisienne spécialisée dans les métiers de la cybersécurité Cybersup, afin de confronter les étudiants aux réalités de la gestion.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "73b44abdb6",
+    "title": "L'UE a dépensé des milliards dans un bouclier anti-cyberattaques, sans vérifier son efficacité",
+    "link": "https://fr.euronews.com/2026/09/22/lue-a-depense-des-milliards-dans-un-bouclier-anti-cyberattaques-sans-verifier-son-efficaci",
+    "source": "fr.euronews.com",
+    "pub_date": "2026-09-22",
+    "summary": "- L'UE a mis en place un système d'alerte précoce pour détecter la prochaine cyberattaque majeure avant qu'elle ne se propage.\n- Près de 20 mois plus tard, les auditeurs constatent qu'il n'est toujours pas pleinement opérationnel.\n- Bruxelles a alloué 1,4 milliard d'euros à la défense de l'Europe contre les cyberattaques.\n- Ses propres auditeurs ont constaté que, lorsque ces fonds sont versés à des tiers, personne ne vérifie de manière indépendante s'ils peuvent parvenir à des organisations exposées à l'influence d'États hostiles.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "63b01fd1a5",
+    "title": "Cyberattaques : Agoria alerte sur la vulnérabilité des entreprises tech belges - Le Soir",
+    "link": "https://www.lesoir.be/772303/article/2026-09-22/cyberattaques-agoria-alerte-sur-la-vulnerabilite-des-entreprises-tech-belges",
+    "source": "lesoir.be",
+    "pub_date": "2026-09-22",
+    "summary": "- Agoria estime que les entreprises technologiques belges ont renforcé leur cybersécurité , mais restent trop exposées aux attaques visant leurs.",
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "4256383728",
+    "title": "<b>Cybersécurité</b> : comment la Côte d'Azur prépare un bouclier quantique « inviolable » depuis l'espace",
+    "link": "https://www.nicematin.com/societe/sciences/cybersecurite-comment-la-cote-d-azur-prepare-un-bouclier-quantique-inviolable-depuis-l-espace-10725286",
+    "source": "nicematin.com",
+    "pub_date": "2026-09-22",
+    "summary": "- Cybersécurité : comment la Côte d’Azur prépare un bouclier quantique « inviolable » depuis l’espace Le lancement du projet français QRUSOE, véritable passerelle spatiale expérimentale, s’apprête à poser les jalons des télécommunications ultra-sécurisées de demain.\n- Un programme inédit auquel l’Observatoire de la Côte d’Azur participe en mobilisant son télescope.\n- À lire aussi Observatoire de la Côte d’Azur : immersion au Plateau de Calern, référence mondiale du tir laser lunaireC’est une véritable course contre la montre technologique : face à des ordinateurs de nouvelle génération qui sauront bientôt briser tous nos mots de passe, la sécurité de nos données doit entièrement se réinventer.\n- Protéger lestélécommunications futures Pour relever ce défi, la France déploie le projet de recherche QRUSOE (1), consortium mené par Thales Alenia Space, en associant plusieurs acteurs industriels et académiques clés sur ce secteur.",
+    "added_on": "2026-09-23"
+  },
+  {
     "id": "6d81c89d2f",
     "title": "Le Jura décroche une société de puces de haute sécurité, avec 250 emplois à la clé, grâce ...",
     "link": "https://www.lqj.ch/articles/le-jura-decroche-une-societe-de-puces-de-haute-securite-avec-250-emplois-a-la-cle-grace-aux-efforts-du-ministre-stephane-theurillat-145639",
