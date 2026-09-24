@@ -1,5 +1,160 @@
-# Résumés – 2026-09-22
+# Résumés – 2026-09-23
 
+
+## [<b>Cybersécurité</b>: Airbus va empêcher les secrets l'armée française de se retrouver sur un ...](https://fr.finance.yahoo.com/actualites/cybersécurité-airbus-va-empêcher-secrets-165903384.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-09-23*
+
+- Cybersécurité: Airbus va empêcher les secrets l'armée française de se retrouver sur un réseau non protégé Avions de combat, drones, blindés: le moindre équipement militaire embarque désormais quantité de données numériques, plus ou moins sensibles.
+- Pour éviter qu'un secret défense se retrouve sur un réseau non protégé, Airbus fournira aux forces françaises des "passerelles" pour contrôler les échanges de données.
+- Le géant de l'aéronautique et de la défense, via sa filiale Airbus Cybersecurity France, a été choisi mercredi par la direction générale de l'armement (DGA) pour doter l'armée française de ces équipements.
+- Ces "passerelles" doivent notamment empêcher qu'une information classifiée ne circule vers un réseau moins protégé, tout en permettant certains échanges indispensables au fonctionnement des forces.
+
+## [OpenAI donne accès à l'Ukraine à ses outils de <b>cybersécurité</b> les plus avancés - Le Figaro](https://www.lefigaro.fr/flash-eco/openai-donne-acces-a-l-ukraine-a-ses-outils-de-cybersecurite-les-plus-avances-20260923)  
+*Source : lefigaro.fr | Publication : 2026-09-23*
+
+- OpenAI donne accès à l'Ukraine à ses outils de cybersécurité les plus avancés L'entreprise américaine OpenAI va donner accès à l'Ukraine à ses outils d'intelligence artificielle les plus avancés en matière de cybersécurité pour «détecter des vulnérabilités» et les corriger, a-t-elle annoncé mercredi dans un communiqué.
+- OpenAI intègre ainsi le gouvernement ukrainien à son programme restreint de cybersécurité à l'aide de l'IA, baptisé «Daybreak», pour aider la «cyberdéfense des infrastructures civiles», a expliqué l'entreprise.
+- Cette annonce a été faite en marge de l'Assemblée générale des Nations unies où doit s'exprimer mercredi le président ukrainien Volodymyr Zelensky.
+- L'Ukraine fait face à des attaques informatiques persistantes de la Russie auxquelles s'ajoutent des attaques sur les infrastructures du pays, a relevé OpenAI.
+
+## [CRA : l'ANSSI, l'ANFR et la DGE accompagnent les fabricants](https://cyber.gouv.fr/actualites/cra-lanssi-lanfr-et-la-dge-accompagnent-les-fabricants-dans-la-conformite-des-produits-numeriques/)  
+*Source : cyber.gouv.fr | Publication : 2026-09-23*
+
+- Cyber Résilience Act : l'ANSSI, l'ANFR et la DGE accompagnent les fabricants dans la conformité des produits numériques Publié le mercredi 23 septembre 2026 L’ANSSI, l’Agence nationale des fréquences (ANFR) et la Direction générale des entreprises (DGE) ont organisé ce mercredi 23 septembre 2026 au Centre Pierre Mendès France, un évènement dédié au Cyber Resilience Act (CRA), réunissant les fabricants de produits numériques, les organismes évaluateurs de conformité (OEC) et l’ensemble de l’écosystème offreurs de solutions numériques.
+- Désireux de rappeler l’importance de cette réglementation, la ministre déléguée chargée de l’Intelligence artificielle et du Numérique, Anne Le Hénanff, la directrice générale adjointe de la DG Connect de la Commission européenne, Despina Spanou, le directeur général de l’ANFR, Gilles Brégant et le directeur général de l’ANSSI, Vincent Strubel, ont tous les quatre pris la parole en introduction de l’événement.
+- L’occasion d’expliquer pourquoi le CRA doit devenir un socle réglementaire incontournable pour les fabricants de solutions intégrant des éléments numériques.
+- Un message à l’attention des offreurs de solution numériques Force est de constater que de nombreuses vulnérabilités avérées entre 2025 et 2026 auraient pu être évitées grâce à l’implémentation des règles de sécurité basiques inscrites dans le Cyber Resilience Act (CRA).
+
+## [Nomios renforce sa présence en Europe du Sud avec l'acquisition d'Orbcom, spécialiste ...](https://www.afp.com/de/node/3843179)  
+*Source : afp.com | Publication : 2026-09-23*
+
+- Nomios, spécialiste paneuropéen des services de cybersécurité, annonce l’acquisition d’Orbcom, l’un des principaux fournisseurs portugais de services de cybersécurité et de solutions de conseil IT, réalisant environ 15 millions d’euros de chiffre d’affaires annuel et comptant 80 collaborateurs.
+- Orbcom fait partie des rares partenaires bénéficiant du statut Diamond Innovator au sein du programme Palo Alto Networks NextWave Partner Program au Portugal et constitue également un partenaire stratégique de Netskope, Infoblox et Arista.
+- Cette acquisition marque une nouvelle étape dans l’expansion européenne de Nomios, avec l’établissement de sa première implantation au Portugal, tout en renforçant sa position de partenaire de confiance en cybersécurité pour les organisations à travers l’Europe.
+- Renforcer notre expertise en sécurité grâce à des partenariats stratégiques avec les éditeurs Nomios accompagne les organisations à travers l’Europe dans la sécurisation de leurs infrastructures numériques critiques, qu’elles soient hébergées sur site ou dans le cloud.
+
+## [Claude Opus 5.5 : Anthropic promet le niveau de Fable 5.1 pour 40 % moins cher - BDM](https://www.blogdumoderateur.com/claude-opus-5-5-anthropic/)  
+*Source : blogdumoderateur.com | Publication : 2026-09-23*
+
+- Claude Opus 5.5 : Anthropic promet le niveau de Fable 5.1 pour 40 % moins cher Anthropic dévoile Claude Opus 5.5, premier modèle de la famille 5.5.
+- La firme revendique le niveau de Fable 5.1 sur la plupart des tâches, pour un coût d’usage inférieur de 40 % à la précédente version.
+- Un modèle amélioré pour les tâches longues et le travail de la connaissance Moins de deux mois après Opus 5, Claude Opus 5.5 s’installe en haut de la gamme Opus et ouvre la génération 5.5.
+- La firme le destine aux tâches longues qu’un modèle mène de bout en bout : migration d’une base de code, audit d’un dépôt, recherche documentaire ou construction d’un modèle financier.
+
+## [<b>Cybersécurité</b> : l'Efrei lance SHEFREI pour faire émerger davantage de talents féminins](https://grandes-ecoles.studyrama.com/ecoles-ingenieurs/actualites/cybersecurite-efrei-lance-shefrei-faire-emerger-davantage-talents-feminins)  
+*Source : grandes-ecoles.studyrama.com | Publication : 2026-09-23*
+
+- Pourquoi une équipe cyber 100 % féminine Les attaques informatiques et piratages de données fréquents le prouvent : les besoins en cybersécurité des entreprises et des organisations restent importants.
+- Selon une étude de Robert Half, la cybersécurité s'impose d'ailleurs comme la compétence la plus recherchée par 47 % des recruteurs en Tech en ce premier semestre 2026.
+- Or, les talents féminins dans le domaine sont encore trop rares.
+- L'Efrei a donc fait le choix de créer une équipe féminine dédiée aux compétitions cyber CTF (Capture The Flag), SHEFREI, qui regroupe des étudiantes de tous les niveaux et de toutes les spécialités de l'école.
+
+## [Guerre en Ukraine : OpenAI donne accès à Kiev à ses outils de <b>cybersécurité</b> les plus avancés pour](https://www.sudouest.fr/international/europe/ukraine/guerre-en-ukraine-openai-donne-acces-a-kiev-a-ses-outils-de-cybersecurite-les-plus-avances-pour-detecter-des-vulnerabilites-30756241.php)  
+*Source : sudouest.fr | Publication : 2026-09-23*
+
+- Face aux cyberattaques russes visant notamment les hôpitaux et l’énergie, la start-up américaine intègre le gouvernement ukrainien à son programme restreint pour sécuriser les infrastructures civiles L’entreprise américaine OpenAI va donner accès à l’Ukraine à ses outils d’intelligence artificielle les plus avancés en matière de cybersécurité pour « détecter des vulnérabilités » et les corriger, a-t-elle annoncé mercredi 23 septembre dans un communiqué.
+- OpenAI intègre ainsi le gouvernement ukrainien à son programme restreint de cybersécurité à l’aide de l’IA, baptisé « Daybreak », pour aider la « cyberdéfense des infrastructures civiles », a expliqué l’entreprise.
+
+## [ShinyHunters : des pirates informatiques qui n'ont peur de rien, même pas du FBI](https://www.france24.com/fr/éco-tech/20260923-shinyhunter-hack-pirates-informatiques-guerre-extorsion-peur-rien-même-fbi)  
+*Source : france24.com | Publication : 2026-09-23*
+
+- ShinyHunters : des pirates informatiques qui n'ont peur de rien, même pas du FBI Le collectif de pirates informatiques ShinyHunters a revendiqué une opération majeure contre le FBI.
+- Ils auraient réussi un vol massif de données personnelles des agents de la police fédérale.
+- Une attaque qui ressemble à une déclaration de guerre.
+- Publié le : Les hackers de ShinyHunters s’attaquent au FBI et cette fois, c’est personnel.
+
+## [Pour la Nouvelle-Zélande, la Chine représente la <b>cybermenace</b> étatique la plus tenace](https://www.boursorama.com/actualite-economique/actualites-amp/pour-la-nouvelle-zelande-la-chine-represente-la-cybermenace-etatique-la-plus-tenace-fc55bad5fa33df3c7b88e9168aff4512)  
+*Source : boursorama.com | Publication : 2026-09-23*
+
+- Pour la Nouvelle-Zélande, la Chine représente la cybermenace étatique la plus tenace information fournie par Reuters 23/09/2026 à 20:00 par Lucy Craymer L'agence néo-zélandaise de cybersécurité a déclaré que la Chine représentait la cybermenace étatique la plus efficace et la plus tenace, le pays étant la cible de nombreux acteurs étrangers qui s'attaquent à des agences gouvernementales dans les secteurs de la santé, de l'éducation et des technologies de l'information.
+- Le Centre national de cybersécurité (NCSC), qui fait partie des services de renseignement néo-zélandais, a déclaré avoir identifié une cyberactivité, susceptible de s'en prendre à des données néo-zélandaises jugées sensibles, qui serait le fait d'acteurs étatiques étrangers.
+- Dans son rapport annuel sur les cybermenaces, l'organisation a établi un lien entre ce type de cyberactivité encouragée par des Etats étrangers et des acteurs originaires de Chine, de Russie, d'Iran et de Corée du Nord.
+- "Parmi ces nations, la République populaire de Chine est l'acteur étatique le plus tenace et le plus en mesure de mener des cyberactivités en Nouvelle-Zélande", précise le rapport.
+
+## [Pour la Nouvelle-Zélande, la Chine représente la <b>cybermenace</b> étatique la plus tenace - Boursorama](https://www.boursorama.com/actualite-economique/actualites/pour-la-nouvelle-zelande-la-chine-represente-la-cybermenace-etatique-la-plus-tenace-fc55bad5fa33df3c7b88e9168aff4512)  
+*Source : boursorama.com | Publication : 2026-09-23*
+
+- par Lucy Craymer L'agence néo-zélandaise de cybersécurité a déclaré que la Chine représentait la cybermenace étatique la plus efficace et la plus tenace, le pays étant la cible de nombreux acteurs étrangers qui s'attaquent à des agences gouvernementales dans les secteurs de la santé, de l'éducation et des technologies de l'information.
+- Le Centre national de cybersécurité (NCSC), qui fait partie des services de renseignement néo-zélandais, a déclaré avoir identifié une cyberactivité, susceptible de s'en prendre à des données néo-zélandaises jugées sensibles, qui serait le fait d'acteurs étatiques étrangers.
+- Dans son rapport annuel sur les cybermenaces, l'organisation a établi un lien entre ce type de cyberactivité encouragée par des Etats étrangers et des acteurs originaires de Chine, de Russie, d'Iran et de Corée du Nord.
+- "Parmi ces nations, la République populaire de Chine est l'acteur étatique le plus tenace et le plus en mesure de mener des cyberactivités en Nouvelle-Zélande", précise le rapport.
+
+## [Solutions Numériques Et <b>Cybersécurité</b> N°11](https://www.solutions-numeriques.com/magazines/solutions-numeriques-et-cybersecurite-n11/)  
+*Source : solutions-numeriques.com | Publication : 2026-09-23*
+
+- Solutions Numériques Et Cybersécurité N°11 23 septembre 2026 DÉCOUVREZ La version digitale Abonnez-vous 65 euros seulement A LA UNE Threat intelligence La CTI, moteur discret des outils de sécurité et levier de décision La Cyber Threat Intelligence est déjà utilisée chaque jour par les entreprises, souvent sans être visible.
+- Elle alimente les EDR,… Passwordless Nous avons perdu la guerre des mots de passe.
+- Et maintenant ?.
+- Même refrain, année après année : malgré les campagnes de sensibilisation, les politiques de complexité et les renouvellements obligatoires, le… GED DocuWare lance sa nouvelle plateforme documentaire enrichie à l’IA, présentée au salon TechSolutions 2026 Dans un monde où la transformation numérique s’accélère, la gestion efficace et intelligente de l’information devient le socle de la… INFRASTRUCTURE Souveraineté numérique : sortir des dogmes pour reprendre le contrôle Le marché français du cloud a dépassé les 20 milliards d’euros en 2024 et affiche une croissance de 27 %,….
+
+## [Airbus décroche 25 ans de <b>cybersécurité</b> auprès du ministère des Armées](https://www.solutions-numeriques.com/airbus-decroche-25-ans-de-cybersecurite-aupres-du-ministere-des-armees/)  
+*Source : solutions-numeriques.com | Publication : 2026-09-23*
+
+- La Direction générale de l’armement a confié à Airbus, via sa filiale Airbus Cybersecurity SAS, le contrat PARACOM.
+- Pendant un quart de siècle, l’industriel conçoit, produit et maintient les passerelles de cybersécurité qui filtreront les flux entre les réseaux du ministère des Armées et des Anciens combattants, des centres de données jusqu’aux théâtres d’opérations.
+- Du « secret » au « non protégé » Vingt-cinq ans.
+- C’est un contrat de cybersécurité qui s’inscrit dans un horizon long.
+
+## [Airbus décroche un contrat PARACOM de 25 ans en <b>cybersécurité</b> - AeroMorning.com](https://aeromorning.com/airbus-decroche-un-contrat-paracom-de-25-ans-en-cybersecurite/)  
+*Source : aeromorning.com | Publication : 2026-09-23*
+
+- Airbus remporte un nouveau contrat de 25 ans en cybersécurité avec le ministère des Armées français Paris, France, le 23 septembre 2026 – La Direction Générale de l’Armement (DGA) a sélectionné Airbus, via sa filiale Airbus Cybersecurity SAS, dans le cadre d’une compétition pour le contrat PARACOM qui portent sur la fourniture de passerelles de cybersécurité pour les réseaux du ministère des Armées et des Anciens combattants français.
+- Le contrat d’une durée de 25 ans couvre l’étude et la réalisation de plusieurs prototypes de passerelles ainsi que leur production et leur maintien en condition opérationnelle.
+- Lorsqu’elles seront déployées dans les armées, les directions et les services du ministère des Armées et des Anciens combattants, les passerelles PARACOM seront un élément crucial de la cybersécurité du ministère.
+- Elles permettront de filtrer et de sécuriser les échanges de données entre des réseaux et des systèmes d’informations de niveau de classification ou de sensibilité différentes.
+
+## [<b>Cybersécurité</b>: Airbus va empêcher les secrets l'armée française de se retrouver sur un ...](https://www.france24.com/fr/info-en-continu/20260923-cybersécurité-airbus-va-empêcher-les-secrets-l-armée-française-de-se-retrouver-sur-un-réseau-non-protégé)  
+*Source : france24.com | Publication : 2026-09-23*
+
+- Cybersécurité: Airbus va empêcher les secrets l'armée française de se retrouver sur un réseau non protégé Paris (France) (AFP) – Avions de combat, drones, blindés: le moindre équipement militaire embarque désormais quantité de données numériques, plus ou moins sensibles.
+- Pour éviter qu'un secret défense se retrouve sur un réseau non protégé, Airbus fournira aux forces françaises des "passerelles" pour contrôler les échanges de données.
+- Publié le : Modifié le : Le géant de l'aéronautique et de la défense, via sa filiale Airbus Cybersecurity France, a été choisi mercredi par la direction générale de l’armement (DGA) pour doter l'armée française de ces équipements.
+- Ces "passerelles" doivent notamment empêcher qu’une information classifiée ne circule vers un réseau moins protégé, tout en permettant certains échanges indispensables au fonctionnement des forces.
+
+## [Niger : un avocat poursuivi en vertu de la loi sur la <b>cybercriminalité</b> • RFI - YouTube](https://www.youtube.com/watch?v=lBjEOUNpfd4)  
+*Source : youtube.com | Publication : 2026-09-23*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [La prochaine crise de <b>cybersécurité</b> se jouera en minutes, pas en jours - La Tribune](https://www.latribune.fr/article/partenaires/la-tribune-now/95040848534477/la-prochaine-crise-de-cybersecurite-se-jouera-en-minutes-pas-en-jours)  
+*Source : latribune.fr | Publication : 2026-09-23*
+
+- La prochaine crise de cybersécurité se jouera en minutes, pas en jours La prochaine crise de cybersécurité se jouera en minutes, pas en jours Palo Alto Networks.
+- Focus entreprise - Actualités et analyses La prochaine crise de cybersécurité se jouera en minutes, pas en jours Palo Alto Networks Par Sandrine Tarnaud, Directrice Générale France, Palo Alto Networks En guise d’introduction, une question que nous devrions tous nous poser : n’avez-vous pas l’impression d’avoir déjà vécu cette histoire ?.
+- Une technologie promet de tout révolutionner, les entreprises se précipitent, l’adoptent.
+- La sécurité s'adapte, comme elle peut, victime des silos, du shadow IT, du manque de ressources humaines ou financières.
+
+## [OpenAI donne accès à l'Ukraine à ses outils de <b>cybersécurité</b> les plus avancés - Noovo Info](https://www.noovo.info/nouvelles/technologie/article/openai-donne-acces-a-lukraine-a-ses-outils-de-cybersecurite-les-plus-avances/)  
+*Source : noovo.info | Publication : 2026-09-23*
+
+- L’entreprise américaine OpenAI va donner accès à l’Ukraine à ses outils d’intelligence artificielle les plus avancés en matière de cybersécurité pour «détecter des vulnérabilités» et les corriger, a-t-elle annoncé mercredi dans un communiqué.
+- OpenAI intègre ainsi le gouvernement ukrainien à son programme restreint de cybersécurité à l’aide de l’IA, baptisé Daybreak, pour aider la «cyberdéfense des infrastructures civiles», a expliqué l’entreprise.
+- Cette annonce a été faite en marge de l’Assemblée générale des Nations unies où doit s’exprimer mercredi le président ukrainien Volodymyr Zelensky.
+- L’Ukraine fait face à des attaques informatiques persistantes de la Russie auxquelles s’ajoutent des attaques sur les infrastructures du pays, a relevé OpenAI.
+
+## [« Pacte Numérique et IA » : une promesse de collaboration avec l'État, mais pas d'achats ...](https://www.lemagit.fr/actualites/366651016/Pacte-Numerique-et-IA-une-promesse-de-collaboration-avec-lEtat-mais-pas-dachats-publics)  
+*Source : lemagit.fr | Publication : 2026-09-23*
+
+- mehaniq41 - stock.adobe.com « Pacte Numérique et IA » : une promesse de collaboration avec l’État, mais pas d’achats publics L’État et la filière cyber française (Hexatrust, CFS et Numeum) ont signé un « Pacte » pour rapprocher les besoins des administrations et les offres souveraines.
+- Mais le texte ne garantit pas de commande publique.
+- Depuis le temps que Hexatrust attendait ça.
+- Le groupement d’entreprises françaises spécialisées dans la cybersécurité a signé, officiellement, un « Pacte numérique et IA » avec l’État.
+
+## [L'humain au cœur de la sécurité : l'approche de la <b>cybersécurité</b> centrée sur l'humain](https://www.staysafeonline.org/fr/articles/les-gens-devraient-etre-au-coeur-de-la-securite-l-approche-de-la-cybersecurite-centree-sur-l-humain)  
+*Source : staysafeonline.org | Publication : 2026-09-23*
+
+- Sécurité et confidentialité en ligne | Lecteur Min L'humain au cœur de la sécurité : l'approche de la cybersécurité centrée sur l'humain La cybersécurité fonctionne mieux lorsqu'elle est au service des personnes.
+- C'est l'idée derrière la cybersécurité centrée sur l'humain (HCC), une approche qui place les besoins, les capacités et, oui, même les limites des personnes au premier plan des décisions en matière de cybersécurité.
+- Le National Institute of Standards and Technology (NIST) explore la manière dont les organisations peuvent mettre cette approche en pratique.
+- Dans son nouveau Human-Centered Cybersecurity Guidelines and Resources Concept Paper, le NIST présente des orientations et des ressources potentielles et sollicite les commentaires de la communauté de la cybersécurité jusqu'au 30 septembre 2026.
+
+## [Atos : Atos va soutenir la <b>cybersécurité</b> du secteur maritime - BFM Bourse](https://www.tradingsat.com/atos-FR001400X2S4/actualites/atos-atos-va-soutenir-la-cybersecurite-du-secteur-maritime-1170623.html)  
+*Source : tradingsat.com | Publication : 2026-09-23*
+
+- (Zonebourse.com) - Atos annonce son adhésion à France Cyber Maritime, l'association dédiée au renforcement de la cybersécurité du monde maritime, portuaire et fluvial, afin de mettre son expertise en cybersécurité, gestion de crise, cloud, IA et exploitation des infrastructures critiques au service de l'élaboration du référentiel de cybersécurité du secteur.
+- Cette adhésion intervient alors que les environnements numériques des ports, des opérateurs logistiques, des infrastructures fluviales et maritimes, des systèmes industriels et des chaînes d'approvisionnement sont de plus en plus exposés au risque cyber.
+- De plus, la directive NIS2 renforce les exigences en matière de sécurité et de gestion des incidents pour ces acteurs.
+- Atos participera activement aux travaux collectifs de France Cyber Maritime, afin de favoriser le développement de solutions de cybersécurité adaptées aux enjeux des acteurs du secteur.
 
 ## [Femmes filmées sans leur consentement avec des lunettes connectées: la justice ouvre ...](https://www.france24.com/fr/info-en-continu/20260922-femmes-filmées-sans-leur-consentement-avec-des-lunettes-connectées-la-justice-ouvre-plusieurs-enquêtes-à-paris)  
 *Source : france24.com | Publication : 2026-09-22*
