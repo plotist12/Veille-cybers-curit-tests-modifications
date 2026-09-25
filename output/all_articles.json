@@ -1,5 +1,185 @@
 [
   {
+    "id": "695ceafac9",
+    "title": "Un agent d'OpenAI a piraté un site du gouvernement australien et a mis des mois à le signaler",
+    "link": "https://www.malwarebytes.com/fr/blog/ai/2026/09/openai-agent-breached-medicare-statistics-portal-then-took-months-to-report-it",
+    "source": "malwarebytes.com",
+    "pub_date": "2026-09-24",
+    "summary": "- Un agent d'OpenAI a contourné les contrôles d'accès d'un site web gouvernemental, ne se laissant pas décourager.\n- Il a réussi à y accéder, ce qui a incité le Premier ministre australien, Anthony Albanese, à faire part directement de ses inquiétudes au PDG d'OpenAI, Sam Altman.\n- La BBC rapporte qu'un agent d'OpenAI a accédé sans autorisation à un portail de statistiques du gouvernement australien dans le cadre d'une recherche interne.\n- Cet incident vient s'ajouter à la liste des préoccupations abstraites concernant le comportement des IA autonomes et les concrétise en un problème de cybersécurité.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "8e4c5d1c12",
+    "title": "Après l'incident OpenAI-Hugging Face, un panel de l'ONU applique le principe de ...",
+    "link": "https://www.solutions-numeriques.com/apres-lincident-openai-hugging-face-un-panel-de-lonu-applique-le-principe-de-precaution-aux-agents-ia/",
+    "source": "solutions-numeriques.com",
+    "pub_date": "2026-09-24",
+    "summary": "- On ne sait pas dire si, ni quand, des agents IA pourraient devenir réellement impossibles à contrôler.\n- Pour le panel scientifique international sur l’intelligence artificielle créé sous mandat de l’ONU, cette incertitude n’est plus une raison suffisante pour attendre.\n- Son premier rapport thématique s’appuie sur l’incident OpenAI-Hugging Face de cet été et traite désormais la perte de contrôle comme un risque auquel le principe de précaution peut s’appliquer.\n- Un incident qui sort du simple scénario théorique En juillet, OpenAI lance des dizaines de milliers d’agents sur ExploitGym, un environnement destiné à tester leurs capacités en cybersécurité.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "68ec791a44",
+    "title": "Les logiciels malveillants passent par le trafic chiffré que les entreprises renoncent à inspecter",
+    "link": "https://itsocial.fr/cybersecurite/cybersecurite-articles/les-logiciels-malveillants-passent-par-le-trafic-chiffre-que-les-entreprises-renoncent-a-inspecter/",
+    "source": "itsocial.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- Le chiffrement, qui protège les échanges des entreprises, sert aussi de couverture aux logiciels malveillants.\n- Selon le dernier rapport semestriel de WatchGuard, 95 % d’entre eux arrivent par des connexions chiffrées, quand 20 % seulement des équipements de sécurité du parc de l’éditeur les déchiffrent pour les inspecter.\n- Les charges malveillantes deviennent en même temps uniques à chaque victime, ce qui prive les signatures de leur efficacité.\n- Rendre la vue au réseau suppose de déchiffrer.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "bdf4142ba6",
+    "title": "Sécurité des données en France : elle ne se présume pas, elle se démontre",
+    "link": "https://www.journaldunet.com/cybersecurite/1555223-securite-des-donnees-en-france-elle-ne-se-presume-pas-elle-se-demontre/",
+    "source": "journaldunet.com",
+    "pub_date": "2026-09-24",
+    "summary": "- Sécurité des données en France : elle ne se présume pas, elle se démontre La cybersécurité française mérite-t-elle encore la confiance qu'on lui accorde ?.\n- Cette confiance ne se décrète pas, elle se démontre, incident après incident.\n- Un hôpital parisien, une plateforme d'affacturage, un réseau de magasins bio, un programme de fidélité pétrolier, une administration en charge des titres sécurisés, une autre en charge de l'impôt : en l'espace de quelques semaines, ce sont des organisations aux profils radicalement différents qui ont dû notifier une fuite de données.\n- Cette accumulation, confirmée par les chiffres officiels autant que par l'actualité quotidienne, pose une question qui dépasse chaque incident pris isolément : la cybersécurité française mérite-t-elle encore la confiance qu'on lui accorde ?.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "1bf15b5bd7",
+    "title": "Léna Jakubowicz, Lead Solutions Engineer, HarfangLab - ZDNET",
+    "link": "https://www.zdnet.fr/tribune/lena-jakubowicz-lead-solutions-engineer-harfanglab-en-cybersecurite-le-temps-est-du-cote-de-lattaquant-504363.htm",
+    "source": "zdnet.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- Lorsqu'une fuite de données est révélée, l'attention se porte presque immédiatement sur les informations exfiltrées, le volume concerné ou les conséquences réglementaires qui pourraient en découler.\n- Pourtant, cette focalisation sur la donnée elle-même tend à occulter l'essentiel ; dans la majorité des cas, une fuite n'est pas l'incident, elle constitue le premier indice visible d'une compromission souvent plus ancienne, plus profonde et plus étendue que ce que l'organisation imagine au moment où l'alerte survient.\n- Cette confusion reflète une vision de la cybersécurité héritée d'une époque où la principale préoccupation consistait à empêcher l'intrusion.\n- Or les campagnes les plus marquantes de ces dernières années ont démontré que les attaquants ne cherchent plus seulement à franchir un périmètre de sécurité ; leur objectif consiste désormais souvent à s'installer durablement dans un environnement, à en comprendre les mécanismes internes, à exploiter les relations de confiance entre systèmes et à progresser discrètement jusqu'à atteindre les actifs qui présentent la plus forte valeur stratégique.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "bfc1987d9f",
+    "title": "Sewan Cyber : une gamme dédiée à la <b>cybersécurité</b> des entreprises - Programmez!",
+    "link": "https://www.programmez.com/actualites/sewan-cyber-une-gamme-dediee-la-cybersecurite-des-entreprises-40197",
+    "source": "programmez.com",
+    "pub_date": "2026-09-24",
+    "summary": "- Mais au-delà du volume, c'est la nature des attaques qui change : selon le CrowdStrike Global Threat Report, un attaquant met désormais moins de 48.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "20b4f5c3db",
+    "title": "&quot;En informatique, tout système est faillible&quot; : une nouvelle formation sur la <b>cybersécurité</b> ...",
+    "link": "https://www.lanouvellerepublique.fr/chateauroux/en-informatique-tout-systeme-est-faillible-une-nouvelle-formation-sur-la-cybersecurite-proposee-a-chateauroux-1790269573",
+    "source": "lanouvellerepublique.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- « En informatique, tout système est faillible » : une nouvelle formation sur la cybersécurité proposée à Châteauroux AbonnésCet article est réservé aux abonnés numériques.\n- Formation - Indre - AbonnésCet article est réservé aux abonnés numériques.\n- Il y avait de la nouveauté dans l’air, jeudi 24 septembre 2026, au CCI Campus Centre, dans le centre-ville de Châteauroux, où les étudiants du nouveau bachelor Administrateur d’infrastructures sécurisées (AIS) faisaient leur rentrée des classes.\n- Axée notamment sur la cybersécurité, cette formation d’un an lancée en cette rentrée 2026 entend former les étudiants à « analyser des menaces et à réagir en cas d’incident sur un réseau informatique », explique Christelle Berthouloux-Sautreuil, responsable pédagogique du CCI Campus Centre.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "b544f167ab",
+    "title": "Comment une équipe d'experts en <b>cybersécurité</b> de Microsoft a contribué à faire tomber ... - BFM",
+    "link": "https://www.bfmtv.com/tech/cybersecurite/comment-une-equipe-d-experts-en-cybersecurite-de-microsoft-a-contribue-a-faire-tomber-eviltokens-une-des-plateformes-stars-du-phishing-as-a-service_AV-202609240767.html",
+    "source": "bfmtv.com",
+    "pub_date": "2026-09-24",
+    "summary": "- Comment une équipe d’experts en cybersécurité de Microsoft a contribué à faire tomber Eviltokens, une des plateformes stars du \"phishing-as-a-service\" Microsoft a annoncé avoir participé au démantèlement d'Eviltokens, une plateforme de \"phishing-as-a-service\", qui propose donc des outils clé en main d'hameçonnage, moyennant finance.\n- Si le géant s'est penché sur son cas, c'est que ce service utilisait l'intelligence artificielle afin de compromettre des comptes Microsoft 365.\n- C'est son unité dédiée à l'analyse et à la lutte contre les crimes numériques (Digital Crimes Unit) qui est à l'origine de ce que Microsoft décrit comme une opération d'envergure qui a permis de mettre à mal toute l'activité de cette plateforme criminelle.\n- Les équipes du géant de Redmond ont travaillé en partenariat avec Cloudflare, Coinbase, OpenAI, Spycloud et Heatlth-ISAC, et les autorités cyber anglaises et américaines.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "9515fa6733",
+    "title": "Le piratage d'un site du FBI a exposé les données personnelles de milliers d'agents, y ... - BFM",
+    "link": "https://www.bfmtv.com/tech/cybersecurite/le-piratage-d-un-site-du-fbi-a-expose-les-donnees-personnelles-de-milliers-d-agents-y-compris-celles-d-une-unite-tres-secrete-mobilisee-contre-les-cybercriminels-et-la-chine_AV-202609240657.html",
+    "source": "bfmtv.com",
+    "pub_date": "2026-09-24",
+    "summary": "- Le piratage d’un site du FBI a exposé les données personnelles de milliers d'agents, y compris celles d’une unité très secrète, mobilisée contre les cybercriminels et la Chine Qui se cache derrière la puissante et secrète équipe de hackers du FBI?.\n- Grâce à un vaste piratage ayant compromis les données de plusieurs milliers d'agents du bureau fédéral américain, il est possible de le savoir.\n- C'est en tout cas ce qu'indique le média américain en ligne 404.\n- Un piratage rendu possible par la compromission du portail dédié aux offres d'emploi de l'agence, FBIJobs.gov.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "91c25cfff7",
+    "title": "Hanoï renforce sa <b>cybersécurité</b> avec la création d'un centre dédié - Team France Export",
+    "link": "https://www.teamfrance-export.fr/infos-sectorielles/41832/41832-hanoi-renforce-sa-cybersecurite-avec-la-creation-dun-centre-dedie",
+    "source": "teamfrance-export.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- Date de publication : Je souhaite aller plus loin, je veux être contacté(e) par un expert gratuitement.\n- Être contactéL’accord conclu entre les autorités nationales et locales s’inscrit dans la stratégie du Vietnam visant à renforcer la résilience de ses infrastructures numériques face à l’augmentation des cybermenaces.\n- La coopération portera sur la sécurisation des systèmes d’information, la protection des réseaux informatiques et le renforcement des capacités de surveillance et de réponse aux incidents cyber dans la capitale.\n- La création d’un Centre de cybersécurité à Hanoï constitue une étape supplémentaire dans le développement de l’écosystème vietnamien de confiance numérique.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "ec112db437",
+    "title": "Le problème des cyberattaques dans le secteur de la santé s'aggrave. - Health-ISAC",
+    "link": "https://health-isac.org/fr/healthcares-cyberattack-problem-is-getting-worse/",
+    "source": "health-isac.org",
+    "pub_date": "2026-09-24",
+    "summary": "- Le problème des cyberattaques dans le secteur de la santé s'aggrave.\n- Ces attaques peuvent exposer les informations personnelles des individus et interrompre ou retarder des services de santé essentiels.\n- Les cyberattaques ne sont jamais une bonne nouvelle.\n- Mais elles peuvent être particulièrement dévastatrices pour les prestataires et fournisseurs de services médicaux, et elles sont de plus en plus fréquentes.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "1753412903",
+    "title": "Renforcer la <b>cybersécurité</b> de la Suisse grâce à la coopération",
+    "link": "https://www.bacs.admin.ch/fr/ncsk26-fr",
+    "source": "bacs.admin.ch",
+    "pub_date": "2026-09-24",
+    "summary": "- Renforcer la cybersécurité de la Suisse grâce à la coopération À l’occasion de la Conférence nationale sur la cybersécurité à Berne, près de 250 représentantes et représentants de l’administration et des milieux politiques, économiques et scientifiques ont échangé sur les défis et les possibilités en lien avec la sécurité numérique en Suisse.\n- Dans son discours d’ouverture, le conseiller fédéral Martin Pfister a exhorté à renforcer conjointement la cybersécurité de notre pays.\n- L’évolution fulgurante de l’intelligence artificielle (IA) et les tensions géopolitiques constantes influent sur les menaces actuelles dans le cyberespace, mais offrent aussi de nouvelles perspectives.\n- La Conférence nationale sur la cybersécurité 2026 (CNCS) a examiné comment gérer au mieux cette situation tendue en s’appuyant sur l’effort commun.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "9fc151362c",
+    "title": "Attaques russes : l'Ukraine aura accès aux outils de <b>cybersécurité</b> les plus avancés d ... - Boursorama",
+    "link": "https://www.boursorama.com/actualite-economique/actualites/attaques-russes-l-ukraine-aura-acces-aux-outils-de-cybersecurite-les-plus-avances-d-openai-promet-l-entreprise-americaine-223fd9eb15b2e67211fd519aa5bc1bc5",
+    "source": "boursorama.com",
+    "pub_date": "2026-09-24",
+    "summary": "- Kiev, le 23 septembre 2026.\n- ( AFP / SERGEI SUPINSKY ) OpenAI affirme avoir déjà fourni un accès à ses modèles d'IA spécialisés dans la sécurité informatique à l'agence de cybersécurité européenne, l'Enisa, ainsi qu'à certains pays, dont la France et l'Allemagne.\n- Face à la multiplication des attaques russes, OpenAI apporte son aide à l'Ukraine.\n- L'entreprise américaine va donner accès au pays à ses outils d'intelligence artificielle les plus avancés en matière de cybersécurité pour \"détecter des vulnérabilités\" et les corriger, a-t-elle annoncé mercredi 23 septembre dans un communiqué.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "17e4752a61",
+    "title": "Le Gouvernement accélère sur la déclinaison des règles européennes de <b>cybersécurité</b>",
+    "link": "https://www.hospimedia.fr/actualite/articles/20260923-e-sante-le-gouvernement-accelere-sur-la-declinaison?ref=recommandation-actualites-edito",
+    "source": "hospimedia.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- 17h47 Article Les soignants des Pays de la Loire manquent de formation sur l'intelligence artificielle Par Manuel Magrez — à Paris 23 septembre 2026 à 18h06 Bercy a voulu réunir, le 23 septembre, bon nombre de représentants de l'écosystème du numérique français, éditeurs de logiciels au premier plan.\n- Ils sont venus….",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "ea99d4d85b",
+    "title": "Séminaire de rentrée du COMCYBER : « garantir une capacité opérationnelle efficace ...",
+    "link": "https://www.defense.gouv.fr/comcyber/actualites/seminaire-rentree-du-comcyber-garantir-capacite-operationnelle-efficace-complete-resiliente",
+    "source": "defense.gouv.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- Séminaire de rentrée du COMCYBER : « garantir une capacité opérationnelle efficace, complète et résiliente à l’horizon 2029 » S’adressant aux cybercombattants le 16 septembre à Rennes, le général de division aérienne Emmanuel Naëgelen, commandant la cyberdéfense, a rappelé que la mission du COMCYBER s’inscrit dans une dynamique exigeante, définie par les plus hautes autorités de nos Armées.\n- Un an après son arrivée, le général a souligné à nouveau l'importance aux cybercombattants de se préparer, de se préparer utilement, et de se préparer vite.\n- L’occasion aussi de saluer les nouveaux arrivants et fixer le cap à venir.\n- Entre manœuvres hybrides continues contre les intérêts de la France, émergence de l’intelligence artificielle comme atout majeur pour des attaquants toujours plus déterminés et instabilité géopolitique chronique et croissante, la possibilité d’une escalade des tensions est réelle.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "b25e58f0d2",
+    "title": "Les « bootcamps » se cherchent une nouvelle légitimité à l'heure de l'IA - ITforBusiness.fr",
+    "link": "https://www.itforbusiness.fr/les-bootcamps-se-cherchent-une-nouvelle-legitimite-a-lheure-de-lia-107533",
+    "source": "itforbusiness.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- Par Xavier Biseul, publié le 24 septembre 2026 Longtemps présentées comme une voie rapide vers les métiers du développement, de la data ou de la cybersécurité, ces formations intensives n’offrent plus le même attrait en temps de crise et à l’ère de l’IA.\n- Des entreprises continuent néanmoins à recruter ce type de profils et avancent de bonnes raisons.\n- Vous souvenez-vous de la Grande École du Numérique (GEN) ?.\n- Née en 2015, sous la présidence de François Hollande, ce groupement d’intérêt public, aujourd’hui dissous, avait pour mission d’ouvrir les métiers du numérique à d’autres populations que les seuls diplômés d’écoles d’ingénieurs.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "31b3e6fc7f",
+    "title": "<b>Ransomware</b> : négocier avec un hacker ne s'improvise pas - Journaldunet.com",
+    "link": "https://www.journaldunet.com/cybersecurite/1555323-ransomware-negocier-avec-un-hacker-ne-s-improvise-pas/",
+    "source": "journaldunet.com",
+    "pub_date": "2026-09-24",
+    "summary": "- Ransomware : négocier avec un hacker ne s'improvise pas En cas d'attaque par ransomware, le RSSI est-il le profil adéquat pour négocier avec le hacker ?.\n- Ce dernier est-il fiable ?.\n- Des questions à se poser en amont d'une crise pour s'y préparer au mieux.\n- Entre 2021 et 2025, le nombre de groupes cybercriminels spécialisés dans le ransomware est passé de 51 à 124.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "b77bd19f87",
+    "title": "<b>Cybersécurité</b> : le FBI aurait été touché par une fuite de données orchestrée par ShinyHunters",
+    "link": "https://www.zdnet.fr/actualites/cybersecurite-le-fbi-aurait-ete-touche-par-une-fuite-massive-de-donnees-orchestree-par-shinyhunters-504455.htm",
+    "source": "zdnet.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- Le FBI a confirmé enquêter sur une compromission de son portail de recrutement, FBIJobs.gov.\n- Les pirates de ShinyHunters affirment eux détenir entre deux et trois téraoctets de données et ont publié, en guise de preuve, un tableur de 5 000 lignes.\n- Ce document contient : noms, numéros de sécurité sociale, affectations géographiques, mais surtout, appartenance à des unités d'élite.\n- L'analyse des données révèle l'identité de quatorze membres du personnel travaillant sur des dossiers liés à la Chine, et de neuf autres assignés à des opérations visant la Russie.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "481bab2361",
+    "title": "Ouverture au Cambodge d'une conférence internationale contre la <b>cybercriminalité</b>",
+    "link": "https://lepetitjournal.com/cambodge/ouverture-au-cambodge-une-conference-internationale-contre-la-cybercriminalite-454209",
+    "source": "lepetitjournal.com",
+    "pub_date": "2026-09-24",
+    "summary": "- Alors que le Cambodge ouvrait ce mercredi 23 septembre, à Phnom Penh une conférence internationale consacrée aux arnaques en ligne, le Premier ministre Hun Manet a déclaré que la lutte contre la criminalité transnationale exigeait de « reconnaître les vulnérabilités systémiques ».\n- L’événement vise à mettre en avant la répression menée par le pays contre une industrie évaluée à plusieurs milliards de dollars, dont le Cambodge est devenu l’un des principaux pôles.\n- La conférence se tient alors que les présidents de deux commissions de la Chambre des représentants américaine réclament une enquête afin de déterminer si plusieurs hauts responsables cambodgiens, dont deux intervenants à la conférence, devraient faire l’objet de sanctions pour leurs liens présumés avec des opérations d’arnaque. «.\n- Un véritable leadership et une gouvernance efficace exigent que nous affrontions les défis urgents avec clarté et détermination », a déclaré Hun Manet. «.",
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "9fa231fa4d",
+    "title": "Sous-marins, drones, blindés... Airbus va sécuriser les communications de l'armée pour 25 ans",
+    "link": "https://www.capital.fr/entreprises-marches/sous-marins-drones-blindes-airbus-va-securiser-les-communications-de-l-armee-pour-25-ans-1530430",
+    "source": "capital.fr",
+    "pub_date": "2026-09-24",
+    "summary": "- Airbus a annoncé ce mercredi 23 septembre avoir été sélectionné par la Direction générale de l'armement (DGA), via sa filiale Airbus Cybersecurity, pour fournir à l'armée française des passerelles de cybersécurité baptisées Paracom.\n- Signé pour 25 ans, le contrat couvre l'étude, la réalisation de prototypes, la production et le maintien en condition opérationnelle de ces équipements, dont le montant n'a pas encore été dévoilé.\n- Ces passerelles doivent empêcher qu'une information classifiée ne circule vers un réseau moins protégé, tout en autorisant certains échanges indispensables au fonctionnement des forces.\n- «L'armée a besoin de cette passerelle pour pouvoir à la fois protéger ses systèmes qui contiennent des informations secrètes et permettre, dans des conditions très maîtrisées, d'échanger des données entre des réseaux de niveau secret et (...) moins secret», explique Nicolas Razy, directeur des activités de cybersécurité d'Airbus France, dans une prise de parole relayée par France 24.",
+    "added_on": "2026-09-25"
+  },
+  {
     "id": "de3b7aa36d",
     "title": "<b>Cybersécurité</b>: Airbus va empêcher les secrets l'armée française de se retrouver sur un ...",
     "link": "https://fr.finance.yahoo.com/actualites/cybersécurité-airbus-va-empêcher-secrets-165903384.html",
