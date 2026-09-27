@@ -1,5 +1,157 @@
-# Résumés – 2026-09-25
+# Résumés – 2026-09-26
 
+
+## [Cyber XPR : la <b>cybersécurité</b> pensée comme une capacité de reprise en main](https://www.usinenouvelle.com/electronique-informatique/cyber-xpr-la-cybersecurite-pensee-comme-une-capacite-de-reprise-en-main.JBDY5XHSLJFGRNYB3V4O7FK2AE.html)  
+*Source : usinenouvelle.com | Publication : 2026-09-26*
+
+- Scanner les vulnérabilités ou détecter une menace ne suffit plus lorsque les environnements numériques deviennent plus distribués.
+
+## [Plainte pour diffamation : Mansour Diop pourrait être entendu par la <b>cybersécurité</b> - Leral.net](https://www.leral.net/Plainte-pour-diffamation-Mansour-Diop-pourrait-etre-entendu-par-la-cybersecurite_a406707.html)  
+*Source : leral.net | Publication : 2026-09-26*
+
+- Une plainte pour diffamation et diffusion de fausses nouvelles oppose Amy Collé Sakho à Kiné Zahra Diop.
+- Dans le cadre de l'enquête, les éléments.
+
+## [Hack du FBI : ShinyHunters affirme avoir volé les dossiers psychiatriques et médicaux du personnel](https://www.clubic.com/actualite-631420-hack-du-fbi-shinyhunters-affirme-avoir-vole-les-dossiers-psychiatriques-et-medicaux-du-personnel.html)  
+*Source : clubic.com | Publication : 2026-09-26*
+
+- Le piratage du FBI par ShinyHunters prend une tournure inquiétante.
+- Des informations confidentielles en lien avec la santé des agents auraient en effet fuité.
+- Cette semaine, on apprenait que le groupe de cybercriminels ShinyHunters avait réussi à s'introduire dans les fichiers du FBI, via une faille zero-day.
+- L'institution américaine avait alors confirmé l'intrusion, sans pour autant pouvoir dire jusqu'où elle était allée.
+
+## [Le monde adopte un plan commun face à un crime numérique qui évolue sans cesse](https://news.un.org/fr/story/2026/09/1159560)  
+*Source : news.un.org | Publication : 2026-09-26*
+
+- Le monde adopte un plan commun face à un crime numérique qui évolue sans cesse De la cybercriminalité à la fraude, ou encore aux nouvelles formes de violence, les États réunis au 15e Congrès des Nations Unies pour la prévention du crime et la justice pénale ont adopté samedi la Déclaration d’Abou Dhabi.
+- Approuvé par acclamation dès l’ouverture de la rencontre dans la capitale émirienne, le texte appelle notamment à renforcer la coopération internationale face à des formes de criminalité en rapide évolution.
+- La Déclaration décrit un paysage criminel de plus en plus complexe, dans lequel des services, des infrastructures et des technologies peuvent être détournés à des fins criminelles.
+- Elle relève notamment l’émergence du « crime en tant que service » et de la « violence en tant que service ».
+
+## [Des pirates &quot;white hat&quot; ont compromis OpenAI en moins de trois jours à l'aide de l'IA Claude !](https://sciencepost.fr/ces-pirates-white-hat-ont-compromis-openai-en-moins-de-trois-jours-a-laide-de-lia-claude/)  
+*Source : sciencepost.fr | Publication : 2026-09-26*
+
+- Il y a quelques mois, des experts en sécurité informatique ont réussi à s’introduire dans les systèmes internes d’OpenAI et à accéder aux comptes ChatGPT de ses employés en moins de 72 heures.
+- Il s’agissait d’une opération de piratage éthique intégrant l’utilisation de Claude, l’IA d’Anthropic.
+- Pourquoi une telle opération ?.
+- Comment celle-ci s’est-elle déroulée ?.
+
+## [Island, la start-up de <b>cybersécurité</b> israélo-américaine, une valorisation de $6,4 milliards.](https://israelvalley.com/2026/09/26/island-la-start-up-de-cybersecurite-israelo-americaine-une-valorisation-de-64-milliards/)  
+*Source : israelvalley.com | Publication : 2026-09-26*
+
+- Island, la start-up de cybersécurité à l’origine d’un navigateur d’entreprise développé en Israël, rival de ceux de Google et Microsoft, a levé de nouveaux fonds, portant sa valorisation à 6,4 milliards de dollars.
+- Avec ces 400 millions de dollars supplémentaires qui ont été annoncés ce jeudi, la firme américano-israélienne entend recruter de nouveaux ingénieurs pour son centre de recherche et développement à Tel Aviv et développer sa plateforme afin d’aider les entreprises à gérer les menaces de sécurité, au moment où les agents d’IA investissent toujours plus la vie au travail.
+- Island avait levé 250 millions de dollars, pour une valorisation de 4,8 milliards, en mai 2025, après un investissement de 175 millions de dollars sur une valeur de 3 milliards deux ans plus tôt.
+- La société dont le siège se trouve à Dallas a été créée en 2020 par Dan Amiga, multi-entrepreneur et ex-membre de l’unité 8200 de l’armée israélienne, et par Mike Fey, ex-président de Symantec.
+
+## [<b>Cybersécurité</b> à Mérignac : matinée de sensibilisation Asklépian - Presse Agence](https://presseagence.fr/merignac-cybersecurite-asklepian-organise-une-matinee-de-sensibilisation-pour-les-professionnels/)  
+*Source : presseagence.fr | Publication : 2026-09-26*
+
+- MÉRIGNAC : Cybersécurité – Asklépian organise une mat… Partager : MÉRIGNAC : Cybersécurité – Asklépian organise une matinée de sensibilisation pour les professionnels À l’occasion du cybermois, l’entreprise mérignacaise Asklépian propose le 1er octobre une matinée gratuite dédiée à la cybersécurité.
+- Dans un contexte de transformation numérique accélérée où les menaces informatiques se multiplient, la sensibilisation des professionnels aux enjeux de la cybersécurité devient un impératif stratégique.
+- C’est dans cette optique que la société Asklépian, spécialisée dans la sécurité des systèmes d’information, organise une matinée d’information et de prévention le jeudi 1er octobre prochain.
+- L’événement se tiendra au sein du Cockpit de Bordeaux Technowest, situé au 58, avenue Marcel Dassault à Mérignac.
+
+## [Offre de rentrée : -50% sur le meilleur antivirus Mac Intego ONE Total - Mac4Ever](https://www.mac4ever.com/securite/198229-offre-de-rentree-50-sur-le-meilleur-antivirus-mac-intego-one-total)  
+*Source : mac4ever.com | Publication : 2026-09-26*
+
+- Offre de rentrée : -50% sur le meilleur antivirus Mac Intego ONE Total Article sponsorisé - Publié le - Bon Plan Derniers jours pour l'offre de rentrée d'Intego !.
+- Le meilleur antivirus Mac est à -50% jusqu'au 30 septembre seulement.
+- Intego fait même coup double cette année en lançant une nouvelle application iPhone avec antivirus et VPN sécurisé.
+- C'est le moment de protéger votre Mac et votre iPhone de toutes les cybermenaces qui le guettent.
+
+## [Le journaliste Hamid Barrada nous a quittés - H24info.ma](https://h24info.ma/maroc/le-journaliste-hamid-barrada-nous-a-quittes/)  
+*Source : h24info.ma | Publication : 2026-09-26*
+
+- Le journaliste et ancien directeur de publication du site Badil.info, Hamid El Mahdaoui, a été… Le journaliste Hamid Barrada nous a quittés Publié leLe journaliste marocain Hamid Barrada est décédé dans la nuit de vendredi à samedi, à l’âge de 87 ans.
+- Né en 1939 à Tanger, le défunt, diplômé en philosophie, en droit et en sociologie politique, avait rejoint l’hebdomadaire «Jeune Afrique», où il est devenu grand reporter.
+- Il en a été, ensuite, rédacteur en chef de 1974 à 1985 et collaborateur régulier, avant d’être nommé directeur Maghreb/Moyen-Orient de la chaîne francophone « TV5 ».
+- Il a été le présentateur et animateur, entre 2007 et 2018, de l’émission «Mais Encore ?».
+
+## [Call for Me arrive sur les Pixel 11, Gemini téléphone aux magasins à votre place](https://pasqualepillitteri.it/fr/news/18625/gemini-call-for-me-pixel-11-telephone-magasins)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-26*
+
+- Call for Me arrive sur les Pixel 11, Gemini téléphone aux magasins à votre place Google teste Call for Me sur les Pixel 11 aux États-Unis.
+- Gemini téléphone aux magasins à votre place.
+- Conditions, limites et disponibilité en France.
+- 1.Qu'est-ce que Call for Me de Gemini ?.
+
+## [Hoxha signe la Convention des Nations Unies contre la <b>cybercriminalité</b> à New York - RTSH](https://rtsh.al/rti/fr/hoxha-signe-la-convention-des-nations-unies-contre-la-cybercriminalite-a-new-york/)  
+*Source : rtsh.al | Publication : 2026-09-26*
+
+- Hoxha signe la Convention des Nations Unies contre la cybercriminalité à New York En marge de la Semaine de haut niveau de l’Assemblée générale des Nations Unies, le ministre de l’Europe et des Affaires étrangères, Ferit Hoxha, a signé la Convention des Nations Unies contre la cybercriminalité au nom de l’Albanie.
+- L’Albanie confirme ainsi son engagement en faveur d’une coopération internationale renforcée pour faire face à une menace qui affecte de plus en plus les citoyens, les entreprises et les institutions publiques.
+- La Convention crée un cadre important pour une coopération internationale renforcée, facilitant le partage de preuves électroniques et renforçant les efforts collectifs visant à prévenir, enquêter sur et poursuivre les crimes graves commis dans l’espace numérique.
+- Le ministre Hoxha a déclaré que pour l’Albanie, le renforcement de la sécurité, de la stabilité et de la confiance dans le domaine technologique fait partie intégrante du programme plus large de transformation numérique. «.
+
+## [Adif rouvre ses sites après une cyberattaque - Demócrata](https://www.democrata.es/fr/economie/les-sites-d-adif-recommencent-a-fonctionner-avec-la-securite-garantie-apres-le-cyberattaque/)  
+*Source : democrata.es | Publication : 2026-09-26*
+
+- Renfe a ouvert ce vendredi une enquête technique sur un "incident de cybersécurité " relatif à l'obtention de données de voyageurs dont l'origine se.
+
+## [Khattab: lutter contre le crime et développer les capacités nationales sont priorités](https://sana.sy/fr/syria-and-the-world/2331773/)  
+*Source : sana.sy | Publication : 2026-09-26*
+
+- Abou Dhab, (SANA) Le ministre syrien de l’Intérieur, Anas Khattab, a affirmé dans une allocution à l’ouverture du quinzième Congrès des Nations unies pour la prévention du crime et la justice pénale, tenu à Abou Dhabi, que la Syrie place parmi ses premières priorités la lutte contre la criminalité organisée, le développement des capacités nationales en matière de preuves numériques, d’enquêtes financières et criminelles, et la lutte contre la cybercriminalité.
+- Le Congrès se tient alors que les réseaux criminels exploitent davantage les technologies et franchissent les frontières, dans des activités allant de la drogue à la cybercriminalité, a fait savoir Khattab.
+- La Syrie entre dans une nouvelle phase, où elle cherche à reconstruire les institutions de l’État sur la base de l’état de droit et de la protection sociale, en préservant la dignité humaine et en restaurant la confiance dans les institutions publiques, a-t-il indiqué.
+- Il a affirmé que le ministère de l’Intérieur s’efforce de développer des institutions policières professionnelles et efficaces, de consolider les principes d’intégrité, de transparence, de légitimité, et de bâtir la confiance entre les citoyens et les institutions chargées de l’application de la loi. «.
+
+## [Guerre sur le dark web : les hackers de ShinyHunters piratent un rival, c'est une mauvaise ...](https://www.01net.com/actualites/guerre-hackers-shinyhunters-pirate-rival-clop-dark-web.html)  
+*Source : 01net.com | Publication : 2026-09-26*
+
+- Les cybercriminels continuent de se faire la guerre.
+- Dans la nuit du 18 au 19 septembre 2026, le groupe ShinyHunters a piraté le site de Clop, l’un des gangs de ransomware les plus redoutés du monde.
+- Hébergé sur le réseau décentralisé Tor, ce site permet à Clop d’exposer ses victimes et de négocier ses demandes de rançons.
+- De son côté, ShinyHunters est apparu en 2019 et s’est spécialisé dans le vol massif de données.
+
+## [Nous remarquons que les violences interviennent dans un contexte de plus en plus complexe](https://www.la-vie-nouvelle.fr/2026/09/nous-remarquons-que-les-violences-interviennent-dans-un-contexte-de-plus-en-plus-complexe/)  
+*Source : la-vie-nouvelle.fr | Publication : 2026-09-26*
+
+- ÉLODIE LAMARQUE, directrice de SaVoie de femmes « Nous remarquons que les violences interviennent dans un contexte de plus en plus complexe » Depuis deux ans, Élodie Lamarque est à la tête de l'association SaVoie de femmes, composée de sept salariés et une trentaine de bénévoles.
+- Tous participent à lutter contre toutes formes de violences conjugales, en accueillant les femmes et leurs enfants.
+- Élodie Lamarque, directrice de l'association SaVoie de Femmes DR Un accueil de jour inconditionnel et anonyme « Notre association propose un accueil de jour inconditionnel qui peut être anonyme, physique et téléphonique.
+- C'est un moment d'écoute, d'orientation, un temps de pause pour les femmes victimes de violences conjugales et leurs enfants mais pas uniquement, puisque les proches et les personnes ressources peuvent aussi se mobiliser et nous alerter par téléphone.
+
+## [Un agent d'OpenAI contourne ses restrictions Internet en passant par le DNS - Mon Carnet](https://moncarnet.com/2026/09/26/un-agent-dopenai-contourne-ses-restrictions-internet-en-passant-par-le-dns/)  
+*Source : moncarnet.com | Publication : 2026-09-26*
+
+- OpenAI vient de rendre public un incident de sécurité pour le moins révélateur des défis posés par les agents d’intelligence artificielle.
+- Lors d’un exercice interne de recherche, un de ses modèles a réussi à contourner les restrictions Internet de son environnement d’entraînement pour communiquer avec un robot conversationnel externe en utilisant le système DNS.
+- L’incident s’est produit dimanche dernier, le 20 septembre, dans un environnement de recherche interne.
+- Selon OpenAI, l’agent devait simplement retrouver de l’information au sujet d’une personne à partir d’indices biographiques et d’un billet de blogue.
+
+## [Faille CVE-2026-85102 chez Check Point, exploitée depuis le 12 septembre](https://pasqualepillitteri.it/fr/news/18487/check-point-faille-cve-2026-85102-vpn-exploitee)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-26*
+
+- Faille CVE-2026-85102 chez Check Point, exploitée depuis le 12 septembre Check Point confirme l'exploitation de la faille CVE-2026-85102, notée 9,8, dans ses passerelles VPN, trois jours après le correctif du 9 septembre.
+- 1.Ce qui cède dans le VPN - 2.La faille de gestion, une autre histoire - 3.Chronologie d'une mise à jour en retard - 4.Que faire, dans l'ordre - 5.Un septembre de failles graves - 6.Foire aux questions (FAQ) - 7.La prochaine étape pour qui administre un périmètre Check Point - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+- - Check Point a confirmé que la faille CVE-2026-85102, une vulnérabilité d'exécution de code à distance sans authentification dans ses passerelles VPN, est exploitée dans des attaques réelles.
+- Le score de gravité est de 9,8 sur 10.
+
+## [OpenAI prépare GPT-6 Cyber, son nouveau modèle dédié à la <b>cybersécurité</b> - BlogNT](https://www.blog-nouvelles-technologies.fr/384576/openai-gpt-6-cyber-cybersecurite/)  
+*Source : blog-nouvelles-technologies.fr | Publication : 2026-09-26*
+
+- OpenAI prépare GPT-6 Cyber, son nouveau modèle dédié à la cybersécurité OpenAI préparerait le lancement de GPT-6 Cyber, un nouveau modèle spécifiquement conçu pour les tâches de cybersécurité.
+- Sa présentation pourrait intervenir dans les prochaines semaines, accompagnée d’un nouveau produit destiné à faciliter son déploiement dans les entreprises.
+- Selon Fortune, un petit nombre de clients dispose déjà d’un accès anticipé à GPT-6 Cyber dans le cadre de Daybreak Red, le programme réservé aux capacités de cybersécurité les plus avancées d’OpenAI.
+- GPT-6 Cyber deviendrait le quatrième modèle spécialisé en cybersécurité lancé par OpenAI en 2026, après GPT-5.4 Cyber, GPT-5.5 Cyber et GPT-5.6 Cyber, ce dernier ayant été lancé en août.
+
+## [Numérique en santé : deux jours de réflexion et d'innovation au Palais des congrès de Beaune](https://www.info-beaune.com/articles/2026/09/26/16695/numerique-en-sante-deux-jours-de-reflexion-et-d-innovation-au-palais-des-congres-de-beaune/)  
+*Source : info-beaune.com | Publication : 2026-09-26*
+
+- Numérique en santé : deux jours de réflexion et d’innovation au Palais des congrès de Beaune Publié le 26 Septembre 2026 à 08h00 L’Agence Régionale de Santé et le GRADeS* Bourgogne-Franche-Comté organisent les journées régionales du numérique en santé, qui se tiendront les 30 septembre et 1eroctobre, au palais des congrès de Beaune.
+- Au cœur du programme pour cette nouvelle édition, deux priorités de santé publique fortes pour l’ARS : la santé mentale et la santé des enfants.
+- Mobiliser l’ensemble des acteurs du territoire autour d’un numérique au service des pratiques, des organisations et des usagers, tel est l’objectif de l’ARS et du GRADeS, qui organisent la seconde édition des journées régionales du numérique en santé ces 30 septembre et 1er octobre, à Beaune.
+- L’occasion de favoriser les échanges et la transversalité entre représentants des établissements de santé, professionnels libéraux, institutions, associations d’usagers ou industriels du secteur… 2 thématiques au cœur des priorités de l’ARS Pendant deux jours, ces participants pourront assister à des tables-rondes associant intervenants locaux et nationaux, à des retours d’expériences de terrain et à des démonstrations concrètes d’usages numériques.
+
+## [Paiement mobile : La BCT durcit les règles et impose un audit cyber annuel - Webdo.tn](https://www.webdo.tn/fr/actualite/national/paiement-mobile-la-bct-durcit-les-regles-et-impose-un-audit-cyber-annuel/404596/)  
+*Source : webdo.tn | Publication : 2026-09-26*
+
+- La Banque centrale de Tunisie a publié une nouvelle circulaire qui remplace le cadre réglementaire de 2018 applicable aux établissements de paiement.
+- Gouvernance renforcée, audit annuel des systèmes informatiques, authentification renforcée et contrôle accru des partenaires : les opérateurs disposent de trois mois pour se mettre en conformité.
+- Huit ans après le précédent cadre réglementaire, la Banque centrale de Tunisie (BCT) revoit les règles applicables aux établissements de paiement.
+- La circulaire n°2026-10, publiée le 25 septembre 2026 et signée par le gouverneur Fethi Zouhaier Nouri, abroge et remplace la circulaire de 2018.
 
 ## [Espagne : la compagnie ferroviaire publique touchée par une cyberattaque | TV5MONDE](https://information.tv5monde.com/economie/espagne-la-compagnie-ferroviaire-publique-touchee-par-une-cyberattaque-2839061?amp)  
 *Source : information.tv5monde.com | Publication : 2026-09-25*
