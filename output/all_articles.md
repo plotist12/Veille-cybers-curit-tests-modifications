@@ -1,5 +1,152 @@
-# Résumés – 2026-09-26
+# Résumés – 2026-09-27
 
+
+## [<b>Cybercriminalité</b> : la Déclaration d'Abou Dhabi appelle à une riposte globale](https://fr.hespress.com/490254-cybercriminalite-la-declaration-dabou-dhabi-appelle-a-une-riposte-globale.html)  
+*Source : fr.hespress.com | Publication : 2026-09-27*
+
+- Réunis dans la capitale émiratie à l’occasion du 15e Congrès des Nations Unies pour la prévention du crime et la justice pénale, les États membres ont adopté par acclamation, dès l’ouverture des travaux, la Déclaration d’Abou Dhabi.
+- Ce texte d’orientation stratégique formalise un engagement international renforcé pour contrer les nouvelles menaces criminelles amplifiées par les technologies de pointe et l’intelligence artificielle.
+- La Déclaration dresse un constat alarmant de la mutation du paysage criminel transfrontalier, caractérisé par l’émergence de nouveaux modèles opératoires tels que le « crime en tant que service » (Crime-as-a-Service) et la « violence en tant que service ».
+- Les réseaux organisés exploitent désormais les failles institutionnelles et les outils numériques, plateformes de communication globales, actifs virtuels et algorithmes génératifs, pour orchestrer des fraudes massives, manipuler l’opinion et dissimuler le produit d’activités illicites.
+
+## [<b>Cybersécurité</b> : VONA atteint 50 % de femmes et réinvente le recrutement - Refrance](https://refrance.fr/cybersecurite-vona-atteint-50-de-femmes-et-reinvente-le-recrutement/)  
+*Source : refrance.fr | Publication : 2026-09-27*
+
+- Dans un secteur où les femmes ne représentent que 11 % des effectifs, VONA, cabinet de conseil en cybergouvernance du groupe Audensiel, affiche une parité proche de 50 %.
+- Pour poursuivre sa croissance, le cabinet lance « VONA Inside », un dispositif de recrutement immersif fondé sur l’échange de pair à pair, en rupture totale avec les formats traditionnels.
+- Un recrutement en cybersécurité réinventé par l’immersion Face aux tensions persistantes sur le marché de l’emploi dans la cybersécurité, VONA a choisi de rompre avec les codes habituels du recrutement.
+- Salons professionnels, job dating, campagnes d’affichage généralistes : le cabinet tourne le dos à ces formats jugés insuffisamment convaincants pour des profils expérimentés.
+
+## [Des agents IA hors de contrôle : OpenAI et Anthropic enquêtent sur des dizaines de milliers ...](https://moncarnet.com/2026/09/27/des-agents-ia-hors-de-controle-openai-et-anthropic-enquetent-sur-des-dizaines-de-milliers-dincidents/)  
+*Source : moncarnet.com | Publication : 2026-09-27*
+
+- Les incidents impliquant des agents d’intelligence artificielle capables de contourner leurs propres garde-fous pourraient être beaucoup plus nombreux qu’on ne le pensait jusqu’ici.
+- Selon Axios, OpenAI, Anthropic et plusieurs chercheurs en sécurité enquêtent actuellement sur des dizaines de milliers de cas survenus au cours des derniers mois, pendant des évaluations internes mais aussi, dans certains cas, dans des environnements réels.
+- Les comportements observés vont du contournement de mécanismes de sécurité à l’évasion d’environnements isolés, en passant par l’accès non autorisé à des sites web, la création de systèmes de communication entre agents ou encore des tentatives visant à échapper à la surveillance humaine.
+- Axios précise qu’une grande partie de ces événements provient d’exercices volontairement conçus pour pousser les modèles dans leurs retranchements.
+
+## [Collectivités locales de la Vienne : quand l'union fait la force](https://www.lanouvellerepublique.fr/centre-presse/collectivites-locales-de-la-vienne-quand-l-union-fait-la-force-1790535960)  
+*Source : lanouvellerepublique.fr | Publication : 2026-09-27*
+
+- Créée pour aider les communes à s’informatiser, l’Agence des territoires de la Vienne les accompagne aussi sur la cybersécurité, l’intelligence artificielle et l’urbanisme.
+- Les municipales ont amené de nouveaux élus dans les conseils municipaux et de communautés de communes.
+- Mais quelles que soient leurs options politiques, presque tous sont restés fidèles à l’Agence des territoires de la Vienne.
+- Elle les a invités à se réunir à Saint-Georges-lès-Baillargeaux, en cette rentrée, pour leur présenter quelques-unes de ses actions ainsi que son nouveau conseil d’administration. «.
+
+## [Les compétences algériennes tracent les priorités - Horizons](https://www.horizons.dz/2026/09/les-competences-algeriennes-tracent-les-priorites/)  
+*Source : horizons.dz | Publication : 2026-09-27*
+
+- cybersécurité.
+- Il souligne que l'Algérie a déjà entamé l'intégration de l'IA dans les universités et les filières scientifiques, mais que l'étape.
+
+## [Rapport INTERPOL 2026 : l'IA accélère la transformation de la <b>cybercriminalité</b> en Afrique](https://www.thd.tn/rapport-interpol-2026-lia-accelere-la-transformation-de-la-cybercriminalite-en-afrique/)  
+*Source : thd.tn | Publication : 2026-09-27*
+
+- La cybercriminalité en Afrique change d’échelle.
+- Dans son African Cyberthreat Assessment Report 2026, INTERPOL dresse un état des lieux des menaces observées sur le continent en 2025 et décrit un écosystème criminel de plus en plus organisé, transnational et soutenu par l’intelligence artificielle.
+- Le rapport s’appuie notamment sur les réponses de 36 pays africains sur les 49 membres sollicités, soit un taux de réponse de 73 %.
+- Selon INTERPOL, les pertes liées à la cybercriminalité rapportées par les pays interrogés sont passées de 192 millions de dollars en 2024 à 484 millions de dollars en 2025.
+
+## [Huawei Watch D3 arrive en Italie le 29 septembre, journée mondiale du cœur](https://pasqualepillitteri.it/fr/news/18921/huawei-watch-d3-arrive-italie-coeur)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-27*
+
+- Huawei Watch D3 arrive en Italie le 29 septembre, journée mondiale du cœur Huawei Watch D3 arrive en Italie le 29 septembre à 449,99 euros, avec un brassard gonflable certifié CE-MDR pour mesurer la tension artérielle.
+- 1.Le bracelet qui se gonfle vraiment pour mesurer la pression - 2.29 % plus fine que le modèle précédent - 3.Un Italien sur trois contrôle vraiment sa pression - 4.Prix et disponibilité en Italie - 5.Questions fréquentes (FAQ) - 6.Conclusions - 7.Notez cet article - 8.Articles Connexes - 9.Recherchez-vous un Ingénieur Logiciel?.
+- - Le 29 septembre, Huawei Watch D3 débarque officiellement sur le marché italien au prix de 449,99 euros, et la date n'a rien d'un hasard : elle coïncide avec la journée mondiale du cœur, la manifestation portée par la World Heart Federation pour pousser la prévention cardiovasculaire.
+- La montre connectée, troisième génération de la série D dédiée à la mesure de la pression artérielle, avait déjà été dévoilée à l'échelle mondiale le 2 septembre à Munich, lors de l'événement « Chase the Wild » et du congrès de l'European Society of Cardiology.
+
+## [Scanner les codes QR : comment permettent-ils de prévenir les transactions frauduleuses ?](https://www.vietnam.vn/fr/quet-ma-qr-ngan-cac-giao-dich-gian-lan-ra-sao)  
+*Source : vietnam.vn | Publication : 2026-09-27*
+
+- Avec l'expansion des paiements transfrontaliers, la commodité s'accompagne également de risques de fraude, de cybersécurité et de protection des données personnelles.
+- L'étendue du risque s'étend également en conséquence.
+- Les paiements par QR code sont de plus en plus répandus dans les achats, les ventes, les prestations de services et les transactions transfrontalières.
+- Avec la réduction des distances géographiques, une seule transaction peut impliquer plusieurs systèmes, plateformes et entités dans différents pays.
+
+## [L'animatrice chinoise d'un club ciblant les patrons met en alerte les services de renseignement](https://www.lalettre.fr/fr/rub/fr/entreprises_defense-et-aeronautique/2026/09/27/l-animatrice-chinoise-d-un-club-ciblant-les-patrons-met-en-alerte-les-services-de-renseignement,110885622-art)  
+*Source : lalettre.fr | Publication : 2026-09-27*
+
+- Cette citoyenne chinoise basée à Bruxelles est parvenue à infiltrer le petit milieu des opérateurs de la cybersécurité de l'Otan et s'est affichée.
+
+## [Gemini 4 Pro repéré sur Arena déguisé en Gemini 3.8 Flash - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/18785/gemini-4-pro-checkpoint-arena)  
+*Source : pasqualepillitteri.it | Publication : 2026-09-27*
+
+- Gemini 4 Pro repéré sur Arena déguisé en Gemini 3.8 Flash Un checkpoint de Gemini 4 Pro a été repéré sur LMArena sous le nom Gemini 3.8 Flash, plus rapide et avec un meilleur rendu 3D.
+- Un lancement en octobre est évoqué.
+- 1.Ce qui s'est passé sur LMArena - 2.Pourquoi le nom prête à confusion avec Gemini 3.8 Flash déjà sorti - 3.Ce que les testeurs ont vu, vitesse et design - 4.Le détail en plus dans le rendu 3D - 5.Quand Gemini 4 Pro pourrait-il arriver - 6.Pourquoi cela compte aussi pour qui n'utilise pas Gemini - 7.Qu'est-ce que le checkpoint Argon de Gemini 4 Pro ?.
+- - 8.Questions fréquentes (FAQ) - 9.Conclusions - 10.Notez cet article - 11.Articles Connexes - 12.Recherchez-vous un Ingénieur Logiciel?.
+
+## [20 meilleures entreprises dans le marché mondial des technologies avancées ... - Spherical Insights](https://www.sphericalinsights.com/fr/blogs/top-20-companies-in-global-data-loss-prevention-advanced-technologies-market-2026-2035-expert-view-by-spherical-insights)  
+*Source : sphericalinsights.com | Publication : 2026-09-27*
+
+- 20 meilleures entreprises dans le marché mondial des technologies avancées de prévention de la perte de données DATE DE PUBLICATION: Sep 2026 Auteur: Spherical InsightsDemander un échantillon gratuit Parler à un analyste Présentation Le marché mondial des technologies avancées de prévention des pertes de données fait référence à des solutions de cybersécurité avancées conçues pour identifier, surveiller, classer et prévenir l'accès non autorisé, le transfert, la divulgation ou la fuite de données organisationnelles sensibles.
+- La croissance du marché est soutenue par l'augmentation des cyberattaques, l'adoption croissante des nuages, le travail à distance, le volume croissant d'informations sensibles, les menaces d'initiés et l'adoption rapide de l'intelligence artificielle.
+- Ces technologies sont utilisées pour protéger les renseignements financiers, les données personnelles, la propriété intellectuelle, les dossiers de soins de santé, les titres de compétence et les renseignements commerciaux confidentiels sur tous les paramètres, réseaux, environnements nuageux, applications et bases de données.
+- Les applications clés comprennent la découverte de données sensibles, la classification des données, la protection des paramètres, la sécurité des courriels, la protection des données dans le cloud, la gestion des risques des initiés, la surveillance de la conformité et la prévention des transferts de données non autorisés.
+
+## [« Je suis expert en <b>cybersécurité</b> et voici les 6 arnaques à connaître pour ne pas se faire piéger »](https://www.lepoint.fr/high-tech-internet/je-suis-expert-en-cybersecurite-et-voici-les-6-arnaques-a-connaitre-pour-ne-pas-se-faire-pieger-BHW7XLONSBGFFAUHAKB7UHCBL4/)  
+*Source : lepoint.fr | Publication : 2026-09-27*
+
+- Selon le dernier « Baromètre de la perception cyber », publié en septembre par le site gouvernemental Cybermalveillance et Ipsos, « 53% des Français.
+
+## [Données personnelles : 45% des Français piratés, l'État mobilise 2 400 partenaires](https://www.politiquematin.fr/donnees-personnelles-45-francais-pirates-etat)  
+*Source : politiquematin.fr | Publication : 2026-09-27*
+
+- Le baromètre 2026 de Cybermalveillance.gouv.fr révèle que 45% des Français ont été notifiés d’une violation de leurs données personnelles, contre 30% en 2025.
+- Face à cette industrialisation de la cybercriminalité, le gouvernement lance le Cybermois 2026, mobilisant 2 400 partenaires publics et privés pour transformer la sensibilisation en politique d’action concrète.
+- Données personnelles : 45% des Français piratés, l’État mobilise 2 400 partenaires Le baromètre 2026 de Cybermalveillance.gouv.fr annonce un tournant critique : 45% des Français ont été informés d'une fuite de leurs données personnelles, contre 30% en 2025.
+- Face à l'industrialisation de la cybercriminalité, le gouvernement passe d'une stratégie de sensibilisation à une politique d'action concrète.
+
+## [L'Australie convoque les dirigeants d'OpenAI et d'Anthropic devant une commission ... - TradingView](https://fr.tradingview.com/news/cointelegraph:46bb0ae38b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-09-27*
+
+- L’Australie demande aux dirigeants d’OpenAI et d’Anthropic de témoigner devant une commission d’enquête du Sénat sur un piratage incontrôlable : rapport Les PDG d’OpenAI et d’Anthropic auraient été convoqués à comparaître devant une commission d’enquête du Sénat australien sur l’IA, quelques jours seulement après l’annonce du piratage des données de santé du pays par un bot malveillant d’OpenAI.
+- La faille de sécurité de Medicare en Australie est l’un des incidents les plus médiatisés impliquant des agents d’IA accédant à des systèmes externes en dehors des États-Unis, selon un rapport publié dimanche par Business World.
+- Sam Altman, d’OpenAI, et Dario Amodei, d’Anthropic, ont été invités à comparaître devant la commission à Canberra jeudi, selon le rapport.
+- Cointelegraph a rapporté jeudi dernier que l’agent de recherche d’OpenAI avait contourné les blocages du portail gouvernemental australien de données de santé et accédé à des fichiers non publics en juin.
+
+## [PARIS : <b>Cybersécurité</b> - OGO Security accélère et vise une hausse de 50 % de ses effectifs](https://presseagence.fr/paris-cybersecurite-ogo-security-accelere-et-vise-une-hausse-de-50-de-ses-effectifs/)  
+*Source : presseagence.fr | Publication : 2026-09-27*
+
+- PARIS : Cybersécurité – OGO Security accélère et vise… Partager : PARIS : Cybersécurité – OGO Security accélère et vise une hausse de 50 % de ses effectifs L’éditeur français de solutions de cybersécurité OGO Security annonce une hausse de 50 % de ses effectifs sur un an pour répondre à la demande.
+- L’éditeur français OGO Security, spécialisé dans la protection des applications web et des API (WAAP), engage une nouvelle phase de développement stratégique.
+- L’entreprise a annoncé son intention de porter ses effectifs de 20 à 30 collaborateurs au cours des douze prochains mois, ce qui représente une croissance de 50 % de sa masse salariale.
+- Pour initier cette dynamique, une campagne de recrutement est lancée dès à présent avec l’ouverture de cinq à six postes.
+
+## [Stéphane Baumier devient président du conseil de surveillance d'Irdeto (Canal+) - CB News](https://www.cbnews.fr/mouvements/stephane-baumier-devient-president-du-conseil-surveillance-irdeto-canal)  
+*Source : cbnews.fr | Publication : 2026-09-27*
+
+- Stéphane Baumier devient président du conseil de surveillance d’Irdeto (Canal+) Stéphane Baumier, directeur des Technologies et des Systèmes d'Information du groupe Canal+ depuis 2022 et membre du comité Exécutif, prend parallèlement la présidence du conseil de surveillance d'Irdeto, société du groupe Cabnal+ basée aux Pays-Bas et spécialisée dans la cybersécurité des plateformes numériques et dans la protection des contenus. «.
+- Dans un contexte où le piratage, la fraude et la cybercriminalité pèsent directement sur la création et sur l'économie des médias », M. Baumier a pour mission « d'accompagner la stratégie de croissance d'Irdeto, de renforcer les synergies technologiques avec l'ensemble du groupe Canal+ et de soutenir le développement de la société sur ses marchés internationaux », selon un communiqué.
+- Stéphane Baumier débute sa carrière au sein d'un institut de recherche, avant de rejoindre le groupe Canal+ en 2000.
+- Il construit l'essentiel de son parcours à l’international, d'abord sur les systèmes d'information aux Caraïbes, au Sénégal puis à La Réunion, avant de participer au Vietnam à la création de la filiale K+, dont il prendra la direction générale en 2017.
+
+## [L'Australie exige des explications d'OpenAI et d'Anthropic concernant l'incident de <b>cybersécurité</b>.](https://www.vietnam.vn/fr/australia-yeu-cau-openai-va-anthropic-giai-trinh-ve-su-co-an-ninh-mang)  
+*Source : vietnam.vn | Publication : 2026-09-27*
+
+- La faille de sécurité du système Medicare, condamnée par le Premier ministre australien Anthony Albanese, est l'un des incidents les plus notables impliquant des acteurs utilisant l'IA pour obtenir un accès non autorisé à des systèmes externes dans des pays autres que les États-Unis.
+- D'après un porte-parole de la sénatrice Sarah Hanson-Young, du Parti vert australien, l'enquêteur principal, Sam Altman, PDG d'OpenAI, et Dario Amodei, PDG d'Anthropic, ont reçu une invitation écrite à assister aux auditions.
+- Ces auditions publiques sont prévues le 1er octobre à Canberra.
+- L'incident impliquant l'agent d'intelligence artificielle d'OpenAI, qui a infiltré les systèmes de l'une des agences gouvernementales australiennes les plus utilisées, pourrait inciter le gouvernement travailliste du Premier ministre Albanese à renforcer sa réglementation en matière d'IA, actuellement en préparation pour l'année prochaine.
+
+## [A l'issue d'un entretien avec le président Al-Sissi, Orange annonce un renforcement de son ...](https://french.ahram.org.eg/News/93727.aspx)  
+*Source : french.ahram.org.eg | Publication : 2026-09-27*
+
+- cybersécurité , avec, à la clé, des certifications internationales, selon un communiqué de la présidence de la République.
+- Cette annonce est.
+
+## [<b>Cybersécurité</b> - Logitud Solutions](https://www.logitud.fr/cybersecurite/)  
+*Source : logitud.fr | Publication : 2026-09-27*
+
+- Cyberattaque dans les collectivités : comment se protéger et que faire en cas d’attaque ?.
+- ActualitésCybersécurité Cyberattaque dans les collectivités : comment se protéger et que faire en cas d’attaque ?.
+- 🚨 Cyberattaques : les collectivités face à une menace qui ne cesse de progresser Une…admin20 août 2026.
+
+## [Norto : profitez de jusqu'à 67 % de remise sur l'un des meilleurs antivirus en France](https://www.macplus.net/depeche-267564-norton-profitez-jusqu-a-67-pourcents-remise-meileurs-antivirus-france)  
+*Source : macplus.net | Publication : 2026-09-27*
+
+- Des offres de cybersécurité adaptées à tous les besoins.
+- La formule Norton Antivirus Plus protège jusqu'à trois appareils (Mac, PC, téléphone,.
 
 ## [Cyber XPR : la <b>cybersécurité</b> pensée comme une capacité de reprise en main](https://www.usinenouvelle.com/electronique-informatique/cyber-xpr-la-cybersecurite-pensee-comme-une-capacite-de-reprise-en-main.JBDY5XHSLJFGRNYB3V4O7FK2AE.html)  
 *Source : usinenouvelle.com | Publication : 2026-09-26*
