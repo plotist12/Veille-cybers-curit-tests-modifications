@@ -1,5 +1,153 @@
-# Résumés – 2026-09-28
+# Résumés – 2026-09-29
 
+
+## [Orange déploiera le réseau backbone ultrasécurisé de l'Union européenne - ZDNET](https://www.zdnet.fr/actualites/orange-deploiera-le-reseau-backbone-ultrasecurise-de-lunion-europeenne-504671.htm)  
+*Source : zdnet.fr | Publication : 2026-09-29*
+
+- Le niveau de cybermenace n’a jamais été aussi élevé.
+- Dans le contexte géopolitique actuel et avec la multiplication des ingérences russes et chinoises, l'Union européenne subit un nombre croissant d’attaques qui visent à déstabiliser ou à espionner ses institutions et ses États-membres.
+- Pour garantir la confidentialité des échanges de données à l'échelle du Vieux Continent, l’UE va se doter d’un nouveau réseau informatique dorsal (backbone) privé, isolé d’internet et hautement sécurisé.
+- C’est Orange Business, filiale BtoB de l’opérateur français, qui a été retenue comme "partenaire de confiance".
+
+## [Le gouvernement du Canada renforce la cyberrésilience grâce à des partenariats public-privé](https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/09/le-gouvernement-du-canada-renforce-la-cyberresilience-grace-a-des-partenariats-public-prive.html)  
+*Source : canada.ca | Publication : 2026-09-29*
+
+- Le gouvernement du Canada renforce la cyberrésilience grâce à des partenariats public-privé Communiqué de presse Le 29 septembre 2026 – Ottawa (Ontario) Le Canada est confronté à un paysage de cybermenaces en expansion et complexe, caractérisé par un nombre croissant d’acteurs malveillants et imprévisibles – étatiques et non étatiques – qui ciblent les infrastructures essentielles et menacent la sécurité nationale.
+- En réponse à cette situation, Sécurité publique Canada et le Centre de la sécurité des télécommunications Canada ont organisé la première réunion en présentiel du Conseil consultatif du Forum stratégique du Collectif canadien de cyberdéfense au Centre canadien de cybersécurité du Centre de la sécurité des télécommunications Canada, à Ottawa.
+- En présence de la secrétaire d’État à la lutte contre la criminalité, Ruby Sahota, des dirigeants des secteurs public et privé ont discuté des défis, des priorités et des efforts de défense du Canada en matière de cybersécurité.
+- Annoncé dans le cadre de la Stratégie nationale de cybersécurité 2025, le Forum stratégique est une initiative conjointe menée par Sécurité publique Canada et le Centre pour la cybersécurité du Centre de la sécurité des télécommunications Canada visant à établir des partenariats solides impliquant l’ensemble de la société afin de renforcer la cyberrésilience collective du Canada.
+
+## [24 heures après avoir annulé Astra, OpenAI lance GPT-6.1 Sol, classé « critique » en <b>cybersécurité</b>](https://www.01net.com/actualites/24-heures-apres-avoir-annule-astra-openai-lance-gpt-6-1-sol-classe-critique-en-cybersecurite.html)  
+*Source : 01net.com | Publication : 2026-09-29*
+
+- Lundi, OpenAI renonçait à sortir GPT-6.1 Astra, son prochain modèle de pointe, en invoquant « des niveaux de tromperie plus élevés » que son prédécesseur.
+- Mardi, au DevDay, l’entreprise lançait GPT-6.1 Sol, présenté comme « près de l’intelligence d’Astra » au cinquième de son prix.
+- La carte système publiée le même jour précise le revers de cette démocratisation : le modèle est traité comme « critique » en cybersécurité, le niveau de risque le plus élevé de la maison.
+- D’une pause d’août à l’annulation de lundi Le 18 août, OpenAI expliquait déjà dans un billet que le futur Astra « pourrait atteindre le seuil de capacité critique » en cybersécurité, et suspendait son plus gros entraînement par renforcement dans la foulée.
+
+## [Les actualités à noter selon Fasken : Protection des renseignements personnels et ...](https://www.fasken.com/fr/knowledge/2026/09/faskens-noteworthy-news-privacy-cybersecurity-in-canada-the-us-and-the-eu-september-2026)  
+*Source : fasken.com | Publication : 2026-09-29*
+
+- Ce bulletin mensuel a été préparé par le groupe Protection des renseignements confidentiels, vie privée et cybersécurité de Fasken pour vous présenter.
+
+## [Les agents autonomes obligent la DSI à trancher qui construit, qui agit seul et qui paie](https://itsocial.fr/cybersecurite/cybersecurite-articles/les-agents-autonomes-obligent-la-dsi-a-trancher-qui-construit-qui-agit-seul-et-qui-paie/)  
+*Source : itsocial.fr | Publication : 2026-09-29*
+
+- Un outil de travail qui laisse des collaborateurs sans formation de développeur construire leurs propres applications, et qui confie à un agent des tâches menées en leur absence, déplace les contrôles de l’entreprise.
+- Elle doit désormais gouverner des applications et des décisions que personne n’a validées une à une.
+- Cette gouvernance se joue avant le déploiement, autour de trois questions, celles de savoir qui construit, qui agit seul et qui paie.
+- Microsoft a présenté le 25 septembre 2026, dans un billet signé de Jared Spataro, directeur marketing de l’IA au travail, un nouveau Copilot organisé en trois espaces.
+
+## [Les agents d'IA qui recopient leurs instructions transforment l'injection de prompt en risque ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/les-agents-dia-qui-recopient-leurs-instructions-transforment-linjection-de-prompt-en-risque-de-propagation/)  
+*Source : itsocial.fr | Publication : 2026-09-29*
+
+- L’injection de prompt, cette instruction dissimulée dans un message qu’un agent d’IA lit puis exécute, passait pour l’incident d’un agent, borné à sa session.
+- Elle change de nature quand l’agent recopie l’instruction dans les courriels, les fichiers et les canaux de messagerie qu’il alimente, car le risque passe alors de l’utilisateur à l’organisation entière.
+- Le laboratoire qui décrit ce phénomène ne le chiffre pas, ce qui laisse aux directions informatiques le soin de tracer elles-mêmes, dès maintenant, les frontières de confiance de leurs agents.
+- Une injection de prompt qui se recopie dans un courriel, un fichier ou un canal de messagerie cesse d’être l’incident d’un agent pour devenir celui de l’organisation.
+
+## [Le piratage de la DGFiP n'est &quot;pas la conséquence d'une attaque sophistiquée&quot;, mais de l ...](https://www.bfmtv.com/tech/cybersecurite/le-piratage-de-la-dg-fi-p-n-est-pas-la-consequence-d-une-attaque-sophistiquee-mais-de-l-exploitation-de-faiblesses-l-anssi-dresse-le-bilan-d-une-cybersecurite-qui-est-tres-loin-d-etre-au-niveau-requis_AV-202609290821.html)  
+*Source : bfmtv.com | Publication : 2026-09-29*
+
+- Le piratage de la DGFiP n'est "pas la conséquence d'une attaque sophistiquée", mais de l'"exploitation de faiblesses": dans un rapport, l'Anssi dresse le bilan d'une cybersécurité qui est très loin d'être au niveau requis Les vols de données personnelles hébergées par le fisc, survenus cet été, ne sont "pas la conséquence d'une attaque sophistiquée", a établi l'Agence nationale de la sécurité des systèmes d'information (Anssi) dans un rapport d'incident publié mardi.
+- D'après l'autorité nationale en matière de cybersécurité, ces vols de données ont reposé sur l'"exploitation de faiblesses" au sein des systèmes informatiques.
+- Des éléments déjà pointés du doigt par le Sénat au début du mois de septembre.
+- De premières tentatives dès le 2 mai Revendiqué en août par un pirate informatique, un premier vol, survenu plusieurs semaines auparavant - à partir de la mi-mai 2026, a été reconnu le lendemain par Bercy.
+
+## [Vols de données du fisc : « Une attaque pas sophistiquée », conséquence des «](https://www.sudouest.fr/societe/vols-de-donnees-du-fisc-une-attaque-pas-sophistiquee-consequence-des-faiblesses-de-l-administration-30840223.php)  
+*Source : sudouest.fr | Publication : 2026-09-29*
+
+- Selon l’Agence nationale de la sécurité des systèmes d’information, les vols de données personnelles hébergées par le fisc, survenus cet été, ne sont « pas la conséquence d’une attaque sophistiquée » Les vols de données personnelles hébergées par le fisc, survenus cet été, ne sont « pas la conséquence d’une attaque sophistiquée », a établi l’Agence nationale de la sécurité des systèmes d’information (Anssi) dans un rapport d’incident publié mardi.
+- D’après l’autorité nationale en matière de cybersécurité, ces vols de données ont reposé sur l'« exploitation de faiblesses » au sein des systèmes informatiques.
+
+## [La Pointe des Arts attire un leader mondial de la <b>cybersécurité</b> - Business Immo](https://www.businessimmo.com/actualites/article/478193393/la-pointe-des-arts-attire-un-leader-mondial-de-la-cybersecurite)  
+*Source : businessimmo.com | Publication : 2026-09-29*
+
+- La Pointe des Arts attire un leader mondial de la cybersécurité.
+- Ce projet mixte de 53 000 m² prend progressivement vie à Boulogne-Billancourt.
+
+## [des systèmes informatiques de la direction générale des finances publiques, touchée à l'été par un](https://www.facebook.com/lemonde.fr/posts/lagence-chargée-de-la-cybersécurité-lanssi-démontre-notamment-des-lacunes-dans-l/1529849749176315/)  
+*Source : facebook.com | Publication : 2026-09-29*
+
+- Piratage du site des impôts : un rapport officiel détaille les failles qui ont permis le vol des donnée.
+- L'agence chargée de la cybersécurité ,.
+
+## [Attentats, sabotages, assassinats : la note secrète qui détaille les scénarios d'une attaque ...](https://actu.orange.fr/monde/attentats-sabotages-assassinats-la-note-secrete-qui-detaille-les-scenarios-d-une-attaque-russe-en-france-magicExpress-CNT000002sbVv0.html)  
+*Source : actu.orange.fr | Publication : 2026-09-29*
+
+- Attentats, sabotages, assassinats : la note secrète qui détaille les scénarios d'une attaque russe en France © Maximo Tuja d'après Shutterstock - "Le scénario jugé le plus probable est celui d’une escalade dans laquelle la Russie intensifierait les attaques déjà observées dans le champ hybride, à horizon début 2027", est-il écrit en introduction de la note secrète.
+- Exclusif.
+- L'agressivité "désinhibée" de Vladimir Poutine pousse la France à se préparer.
+- Des responsables sécuritaires planchent sur une "escalade", sans écarter des attaques terroristes.
+
+## [<b>CYBERSÉCURITÉ</b> – Coup d'envoi à Biarritz sous l'œil de l'attaquant - PresseLib](https://presselib.com/article/cybersecurite-coup-d-envoi-a-biarritz-sous-l-oeil-de-l-attaquant)  
+*Source : presselib.com | Publication : 2026-09-29*
+
+- Le 1er octobre, Biarritz donnera le coup d’envoi régional de ce rendez-vous consacré à la cybersécurité, avec une journée organisée par le Campus régional de cybersécurité et de confiance numérique, en partenariat avec le Centre de ressources cybersécurité du Pays Basque, coordonné par Pays Basque Digital.
+- Cette édition basque choisira un angle particulier, celui de « l’œil de l’attaquant », pour mieux comprendre comment une cyberattaque peut exploiter les informations disponibles, les usages numériques ou encore les comportements.
+- La matinée sera réservée aux professionnels et s’intéressera notamment aux fuites de données et à l’OSINT, avec une intervention du Projet Vidocq consacrée aux méthodes d’enquête et aux cold cases.
+- L’après-midi ouvrira les portes au grand public avec la projection du documentaire Don’t Go to the Police, suivie d’une conférence-débat réunissant professionnels de la cybersécurité et enquêteurs.
+
+## [Piratage du site des impôts : un rapport officiel détaille les failles qui ont permis le vol des ...](https://www.lemonde.fr/pixels/article/2026/09/29/piratage-du-site-des-impots-un-rapport-officiel-detaille-les-failles-qui-ont-permis-le-vol-des-donnees-de-centaines-de-milliers-de-francais_6785671_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-09-29*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Conférence de la présidence de l'OSCE à Zoug: &quot;La dimension humaine de la <b>cybersécurité</b>](https://www.vbs.admin.ch/fr/newnsb/NzUPtkeFOyXY)  
+*Source : vbs.admin.ch | Publication : 2026-09-29*
+
+- Conférence de la présidence de l’OSCE à Zoug: "La dimension humaine de la cybersécurité : la responsabilité nous incombe toujours" (EN) Zoug, 29.09.2026 — Discours de clôture prononcé par le conseiller fédéral Ignazio Cassis, président en exercice de l’OSCE, à l’occasion de la conférence de la présidence de l’OSCE intitulée « Désescalade dans le cyberespace : médiation et diplomatie préventive ».
+- La conférence s’est tenue à Zoug, en Suisse, le 29 septembre 2026.
+- Dear representatives of Zug cantonal Government Dear Delegations from OSCE Participating States Excellencies, Ladies and gentlemen We came to Zug with one question: How do we prevent escalation in cyberspace?.
+- After these discussions, my answer is simple.
+
+## [Ce leader mondial de la <b>cybersécurité</b> séduit par Pointe des Arts | CFNEWS IMMO](https://www.cfnewsimmo.net/L-actualite/Locations/Ce-leader-mondial-de-la-cybersecurite-seduit-par-Pointe-des-Arts-506024)  
+*Source : cfnewsimmo.net | Publication : 2026-09-29*
+
+- Sur l'Île Seguin, le projet mixte de 53 000 mètres carrés porté par Emerige et détenu en majoritaire par Ardian Real Estate, attire un nouvel utilisateur.
+- La Pointe des Arts attire un nouvel utilisateur.
+- Ce projet mixte de 53 000 mètres carrés édifié sur l'Île Seguin, à Boulogne-Billancourt, a séduit un leader mondial de la cybersécurité, qui prend à bail 4 000 mètres carrés de bureaux, ainsi (...) Cet article est réservé à nos abonnés.
+- 93% reste à lire Pour accéder à cet article, à l'ensemble du site ainsi qu'à nos bases de données, découvrez nos formules d'abonnement.
+
+## [Une faille de <b>cybersécurité</b> à l'Î.-P.-É. touche jusqu'à 234 000 personnes | Radio-Canada](https://ici.radio-canada.ca/nouvelle/2288367/faille-cybersecurite-sante-ipe)  
+*Source : ici.radio-canada.ca | Publication : 2026-09-29*
+
+- Une faille de cybersécurité à l’Î.-P.-É.
+- touche jusqu’à 234 000 personnes Santé Île-du-Prince-Édouard précise que la commissaire à la protection de la vie privée de la province a été saisie de l’affaire afin de mener une enquête.
+- (Photo d'archives) Photo : Adobe Stock Les autorités sanitaires de l'Île-du-Prince-Édouard indiquent qu'une personne a accédé sans autorisation à un fichier contenant des données personnelles concernant jusqu'à 234 000 personnes, soit plus que la population entière de la province à l'heure actuelle.
+- Dans un communiqué publié lundi, Santé Île-du-Prince-Édouard précise que cet incident de cybersécurité a été signalé le 7 septembre dernier et qu'il concerne une entreprise fournissant des services à l'autorité sanitaire.
+
+## [Conférence Octopus 2026 : plus que deux semaines avant que la communauté mondiale de ...](https://www.coe.int/fr/web/cybercrime/-/octopus-conference-2026-two-more-weeks-to-go-until-the-global-cybercrime-community-meets-in-strasbourg.-livestreamed-sessions-available)  
+*Source : coe.int | Publication : 2026-09-29*
+
+- À l'horizon 2026, cette édition revêtira une importance particulière puisqu'elle marquera le 25e anniversaire de la Convention sur la cybercriminalité.
+
+## [Le FBI empêtré dans une importante fuite de données qui pourrait concerner « tous » ses agents](https://www.lemonde.fr/pixels/article/2026/09/29/le-fbi-empetre-dans-une-importante-fuite-de-donnees-qui-pourrait-concerner-tous-ses-agents_6785637_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-09-29*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Proxitel visé par une cyberattaque, 35 Go de données revendiqués par... - FrenchBreaches](https://frenchbreaches.com/alertes/groupe-proxitel-mumql7oahuw19uxxrcs)  
+*Source : frenchbreaches.com | Publication : 2026-09-29*
+
+- Proxitel revendiqué par le groupe de ransomware Vexy, 35 Go de données annoncés Proxitel, entreprise française spécialisée dans les services télécoms et informatiques pour les professionnels, apparaît sur le site de revendication du groupe de ransomware Vexy.Le groupe affirme avoir récupéré 35 Go de données appartenant à l’entreprise et affiche un compte à rebours d’environ 31 jours avant une possible publication.
+- À ce stade, la nature exacte des 35 Go de données revendiquées n’est pas précisée dans la publication observée.
+- Aucun élément présenté ne permet non plus de déterminer le nombre de personnes ou d’entreprises potentiellement concernées.
+- Qu’est-ce que Proxitel ?.
+
+## [L'ANSSI publie le rapport d'incident sur les cyberattaques ayant touché la DGFiP](https://cyber.gouv.fr/actualites/lanssi-publie-le-rapport-dincident-sur-les-cyberattaques-ayant-touche-la-dgfip/)  
+*Source : cyber.gouv.fr | Publication : 2026-09-29*
+
+- L’ANSSI publie le rapport d’incident sur les cyberattaques ayant touché la DGFiP Publié le mardi 29 septembre 2026 Le Premier ministre a demandé à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) un audit approfondi de la Direction générale des finances publiques (DGFiP), à la suite des cyberattaques qui l’ont touchée cet été.
+- L’ANSSI a ainsi conduit un travail d’investigation afin de retracer la chronologie des activités illégitimes ayant été observées sur les systèmes d’information de la DGFiP entre mai 2026 et août 2026, ainsi que d’identification de mesures qui auraient pu permettre la détection et/ou la prévention de ces actes.
+- Remis au Premier ministre le jeudi 24 septembre 2026, ce rapport est publié ce jour.
+- Les investigations ont permis de retracer les événements menant à des exfiltrations de données sur deux périmètres : le premier revendiqué le 12 août, concernant la plateforme impots.gouv.fr et le second revendiqué le lendemain, concernant des données cadastrales détenues par la DGFiP.
 
 ## [. <b>Cybersécurité</b> : la CCI pousse les entreprises à budgéter - Hebdo 39](https://hebdo39.net/economie-la-cybersecurite-devient-un-enjeu-economique/)  
 *Source : hebdo39.net | Publication : 2026-09-28*
