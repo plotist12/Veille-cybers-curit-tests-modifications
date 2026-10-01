@@ -1,5 +1,157 @@
-# Résumés – 2026-09-29
+# Résumés – 2026-10-01
 
+
+## [Cyberattaque Maileva : six jours de coupure après une tentative de détournement de la plateforme](https://www.solutions-numeriques.com/cyberattaque-maileva-six-jours-de-coupure-apres-une-tentative-de-detournement-de-la-plateforme/)  
+*Source : solutions-numeriques.com | Publication : 2026-10-01*
+
+- La plateforme de courrier en ligne de Docaposte a rétabli ses services le 29 septembre.
+- Elle avait tout arrêté par précaution après avoir détecté des tentatives d’accès non autorisé, dont le but était d’envoyer de faux courriers.
+- Le nombre de comptes visés et la méthode des attaquants restent inconnus.
+- Maileva a repris son activité. «.
+
+## [Google annonce son modèle phare d'IA “Gemini 4” après plusieurs mois de retard](https://www.boursorama.com/bourse/actualites-amp/google-annonce-son-modele-phare-d-ia-gemini-4-apres-plusieurs-mois-de-retard-b50e2654f9218c14f62611eb7f59ca75)  
+*Source : boursorama.com | Publication : 2026-09-30*
+
+- Google annonce son modèle phare d'IA “Gemini 4” après plusieurs mois de retard information fournie par Reuters 01/10/2026 à 00:15 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajoute des précisions et du contexte dans les paragraphes 5 à 9) par Kenrick Cai Google GOOGL.O , filiale d'Alphabet, a annoncé mercredi le lancement d'un nouveau modèle d'intelligence artificielle haut de gamme destiné à ancrer sa génération de modèles Gemini 4, dans une nouvelle tentative pour rattraper ses rivaux Anthropic et OpenAI dans la course à l'IA.
+- Ce nouveau modèle, baptisé “Argon”, est plus volumineux que la précédente gamme de modèles avancés “Pro” de Google, a déclaré un porte-parole de la société.
+- “C’est notre modèle le plus performant jamais conçu pour des charges de travail complexes, et nous le considérons comme comparable à des modèles de pointe tels que (OpenAI’s) Astra et (Anthropic’s) Opus sur des tests de référence clés en matière de codage et de cybersécurité”, a déclaré le porte-parole.
+- Google a indiqué qu’il mettait ce modèle à la disposition de certains partenaires spécialisés dans la cybersécurité et qu’il participait au processus volontaire mis en place par l’administration Trump pour l’accès aux modèles avant leur sortie officielle.
+
+## [Indra Group prend 30% de TRC et renforce ses capacités souveraines en <b>cybersécurité</b>](https://www.tradingsat.com/actualites/informations-societes/indra-group-prend-30-de-trc-et-renforce-ses-capacites-souveraines-en-cybersecurite-1171013.html)  
+*Source : tradingsat.com | Publication : 2026-09-30*
+
+- (Zonebourse.com) - Le groupe technologique espagnol entend compléter son offre de protection des actifs numériques et renforcer l'autonomie technologique nationale.
+- Indra Group annonce un accord pour acquérir, via IndraMind, une participation de 30% dans TRC, société madrilène de cybersécurité détenue à 100% par des capitaux espagnols.
+- L'opération doit compléter l'offre d'IndraMind dans la protection des systèmes et réseaux, notamment pour les secteurs stratégiques d'intérêt national.
+- TRC viendra renforcer une gamme couvrant l'ensemble de la chaîne de sécurité des actifs numériques, de l'identification des risques à la détection, la réponse et la récupération, ainsi que les solutions d'identité numérique.
+
+## [Google lance un nouveau modèle d'IA mais en limite l'accès à des experts en <b>cybersécurité</b>](https://www.noovo.info/nouvelles/technologie/article/google-lance-un-nouveau-modele-dia-mais-en-limite-lacces-a-des-experts-en-cybersecurite/)  
+*Source : noovo.info | Publication : 2026-09-30*
+
+- Le géant américain Google a dévoilé mercredi Gemini 4, son nouveau modèle d’intelligence artificielle (IA) de pointe, mais en réserve pour l’instant l’accès à un cercle restreint d’experts en cybersécurité, via un programme nommé Fairwind.
+- Google emboîte ainsi le pas à ses rivaux Anthropic et OpenAI, qui ont eux aussi commencé, cette année, à réserver leurs derniers modèles à un cercle restreint de partenaires de confiance, en raison de leur capacité à repérer des failles informatiques susceptibles d’être exploitées par des acteurs malveillants.
+- Le groupe promet d’ouvrir rapidement Gemini 4 aux entreprises et au grand public, en commençant par ses clients payants, sans donner de date.
+
+## [<b>Cybersécurité</b> : l'Anssi et la Dinum victimes d'une fuite de données - JDD](https://www.lejdd.fr/Societe/cybersecurite-lanssi-et-a-la-dinum-victimes-dune-fuite-de-donnees-184872)  
+*Source : lejdd.fr | Publication : 2026-09-30*
+
+- Cybersécurité : l’Anssi et la Dinum victimes d’une fuite de données Une faille de sécurité a permis à des pirates de récupérer des accès à des comptes appartenant à l’Anssi et à la Dinum.
+- Les vulnérabilités ont depuis été corrigées par les agences.
+- Nouvelle cyberattaque.
+- L’Anssi, l’autorité nationale en matière de cybersécurité et de cyberdéfense, et la Dinum, la direction interministérielle du numérique, en ont été victimes, annonce un rapport de l’Anssi relayé par BFMTV ce mercredi 30 septembre.
+
+## [Piratage de la DGFiP : l'ANSSI confirme que la <b>cybersécurité</b> de l'administration est un sketch](https://contrepoints.org/piratage-de-la-dgfip-lanssi-confirme-que-la-cybersecurite-de-ladministration-est-un-sketch/)  
+*Source : contrepoints.org | Publication : 2026-09-30*
+
+- Après le piratage de la Direction générale des Finances publiques (DGFiP) cet été, l’Agence nationale de la sécurité des systèmes d’information (ANSSI) a rendu public, le 29 septembre, son rapport d’incident.
+- Demandé par le Premier ministre, cet audit reconstitue la chronologie des événements et identifie les failles qui ont permis aux pirates d’exfiltrer des données sur deux périmètres : la plateforme impots.gouv.fr et les données cadastrales.
+- Le constat est particulièrement embarrassant pour l’administration fiscale.
+- L’ANSSI écrit que « La compromission des systèmes d’information de la DGFiP n’est pas la conséquence d’une attaque sophistiquée », mais l’exploitation de trois faiblesses principales : la protection des identifiants, l’architecture des systèmes et la détection des attaques.
+
+## [Alphabet fait son comeback dans la course aux LLM - 30/09/2026 à 22:10 - Boursorama](https://www.boursorama.com/bourse/actualites-amp/alphabet-fait-son-comeback-dans-la-course-aux-llm-c8e56d0c61f63c1b8f79c4f6b29879c9)  
+*Source : boursorama.com | Publication : 2026-09-30*
+
+- Alphabet fait son comeback dans la course aux LLM information fournie par Zonebourse 30/09/2026 à 22:10 Alphabet a présenté Gemini 4 Argon, son nouveau modèle d'intelligence artificielle destiné à renforcer ses performances dans la programmation, la cybersécurité et les tâches professionnelles complexes.
+- Selon Google, Argon établit un record dans une évaluation d'ingénierie logicielle en conditions réelles, partage la première place d'un benchmark de cybersécurité et arrive en tête d'un autre test consacré notamment à la finance et au droit.
+- Le modèle est déjà utilisé en interne pour optimiser les centres de données, où il aurait permis de libérer plusieurs centaines de téraoctets de mémoire sans matériel supplémentaire.
+- Google prévoit un déploiement progressif, d'abord auprès de partenaires spécialisés dans la cybersécurité, tout en travaillant avec le gouvernement américain à une évaluation de sécurité avant sa commercialisation.
+
+## [Alphabet fait son comeback dans la course aux LLM - BFM Bourse](https://www.tradingsat.com/actualites/informations-societes/alphabet-fait-son-comeback-dans-la-course-aux-llm-1171071.html)  
+*Source : tradingsat.com | Publication : 2026-09-30*
+
+- (Zonebourse.com) - Alphabet a présenté Gemini 4 Argon, son nouveau modèle d'intelligence artificielle destiné à renforcer ses performances dans la programmation, la cybersécurité et les tâches professionnelles complexes.
+- Selon Google, Argon établit un record dans une évaluation d'ingénierie logicielle en conditions réelles, partage la première place d'un benchmark de cybersécurité et arrive en tête d'un autre test consacré notamment à la finance et au droit.
+- Le modèle est déjà utilisé en interne pour optimiser les centres de données, où il aurait permis de libérer plusieurs centaines de téraoctets de mémoire sans matériel supplémentaire.
+- Google prévoit un déploiement progressif, d'abord auprès de partenaires spécialisés dans la cybersécurité, tout en travaillant avec le gouvernement américain à une évaluation de sécurité avant sa commercialisation.
+
+## [<b>Cybersécurité</b> - trois employés sur quatre dans l'UE ont été confrontés à des e-mails ...](https://agenceurope.eu/fr/bulletin/article/13949/29/cybersecurite-trois-employes-sur-quatre-dans-lue-ont-ete-confrontes-a-des-e-mails-suspects-au-travail-selon-un-nouvel-eurobarometre)  
+*Source : agenceurope.eu | Publication : 2026-09-30*
+
+- Trois employés sur quatre dans l’UE ont été confrontés à des e-mails, des messages ou des liens suspects au travail, selon une nouvelle enquête Eurobaromètre publiée mercredi 30 septembre par la Commission européenne à la veille du ‘Mois européen de la cybersécurité’.
+- L’hameçonnage (ou 'phishing') constitue la cybermenace la plus fréquente en milieu professionnel : 39% des employés ont signalé des messages ou des sites web frauduleux conçus pour dérober des données ou obtenir un accès non autorisé, selon un communiqué.
+- Les employés ont également fait état de tentatives de vol de données personnelles (18%) et de mots de passe (16%), d’attaques par logiciels malveillants (17%) et d’escroqueries générées par l’intelligence artificielle (IA) (15%).
+- Si 83% des personnes interrogées jugent graves les conséquences potentielles des cyberattaques, seuls 48% affirment être capables de reconnaître une fausse vidéo générée par l’IA.
+
+## [<b>Cybersécurité</b> - trois employés sur quatre dans l'UE ont été confrontés à des e-mails ...](https://agenceurope.eu/index.php/fr/bulletin/article/13949/29)  
+*Source : agenceurope.eu | Publication : 2026-09-30*
+
+- Trois employés sur quatre dans l’UE ont été confrontés à des e-mails, des messages ou des liens suspects au travail, selon une nouvelle enquête Eurobaromètre publiée mercredi 30 septembre par la Commission européenne à la veille du ‘Mois européen de la cybersécurité’.
+- L’hameçonnage (ou 'phishing') constitue la cybermenace la plus fréquente en milieu professionnel : 39% des employés ont signalé des messages ou des sites web frauduleux conçus pour dérober des données ou obtenir un accès non autorisé, selon un communiqué.
+- Les employés ont également fait état de tentatives de vol de données personnelles (18%) et de mots de passe (16%), d’attaques par logiciels malveillants (17%) et d’escroqueries générées par l’intelligence artificielle (IA) (15%).
+- Si 83% des personnes interrogées jugent graves les conséquences potentielles des cyberattaques, seuls 48% affirment être capables de reconnaître une fausse vidéo générée par l’IA.
+
+## [Crime organisé : des réseaux plus lucratifs malgré la baisse des homicides - UN News](https://news.un.org/fr/story/2026/09/1159583)  
+*Source : news.un.org | Publication : 2026-09-30*
+
+- Crime organisé : des réseaux plus lucratifs malgré la baisse des homicides Les homicides reculent dans une grande partie du monde, mais les réseaux criminels se diversifient et s’intègrent davantage aux économies légales, notamment à travers le trafic de migrants, l’exploitation des ressources naturelles et la cybercriminalité, selon un nouveau rapport de l’ONU.
+- Intitulé Crime and Justice in a Changing World (Criminalité et justice dans un monde en mutation), le rapport de l’Institut interrégional de recherche des Nations Unies sur la criminalité et la justice (UNICRI) a été présenté lors du 15e Congrès des Nations Unies pour la prévention du crime et la justice pénale, à Abou Dhabi.
+- S’appuyant sur neuf études régionales, il montre que le taux mondial d’homicides est passé de 5,9 pour 100.000 habitants en 2015 à 5,2 en 2023.
+- Si les tendances actuelles se poursuivent, il pourrait encore diminuer de 25 % entre 2015 et 2030.
+
+## [Plongée dans le dark web #4 : comment j'aurais pu finir croupier pour escroquer des ...](https://www.journaldunet.com/cybersecurite/1555653-plongee-dans-le-dark-web-4-on-m-a-propose-un-poste-de-croupier-pour-arnaquer-des-casinos-en-ligne/)  
+*Source : journaldunet.com | Publication : 2026-09-30*
+
+- Plongée dans le dark web #4 : comment j'aurais pu finir croupier pour escroquer des casinos en ligne Voyager, devenir croupier, truquer des jeux en ligne et devenir riche.
+- Une proposition aussi indécente que tentante ?.
+- Cap sur le quatrième volet de notre enquête sur le vaste marché du travail cybercriminel.
+- Le darknet est peuplé d'individus peu recommandables Après les influenceurs véreux, les faux téléconseillers et les trafiquants, ce 4e épisode de notre enquête dédiée aux business du dark web s'intéresse à une nouvelle catégorie de charmant personnage : l'insider.
+
+## [Orange Business déploie un backbone privé sécurisé pour l'UE - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/65317-orange-business-deploie-un-backbone-prive-securise-pour-l-ue.html)  
+*Source : linformaticien.com | Publication : 2026-09-30*
+
+- « Face à la dépendance croissante aux technologies numériques et à l'évolution constante des cybermenaces , l'Union européenne fait de la confiance.
+
+## [Sekoia déploie son agent IA Elevate auprès de ses clients - Distributique](https://www.distributique.com/actualites/lire-sekoia-deploie-son-agent-ia-elevate-aupres-de-ses-clients-37416.html)  
+*Source : distributique.com | Publication : 2026-09-30*
+
+- L'éditeur français de cybersécurité Sekoia lance officiellement Elevate, sa plateforme reposant sur un agent d'intelligence artificielle capable d'automatiser une partie de l'analyse des menaces.
+- Environ 2 000 utilisateurs ont participé ŕ sa phase d'accčs anticipé.
+- Sekoia passe ŕ l'étape du déploiement commercial de son agent de cybersécurité.
+- L'entreprise française a annoncé mercredi la mise ŕ disposition d'Elevate auprčs de ses clients, aprčs une phase d'accčs anticipé ayant réuni environ 2 000 utilisateurs.
+
+## [Risques liés à la <b>cybersécurité</b> de la chaîne d'approvisionnement - CCB Belgium](https://ccb.belgium.be/fr/news/risques-lies-la-cybersecurite-de-la-chaine-dapprovisionnement)  
+*Source : ccb.belgium.be | Publication : 2026-09-30*
+
+- Le rapport intitulé « Risques liés à la cybersécurité de la chaîne d'approvisionnement » présente une vue d'ensemble du paysage actuel des menaces.
+
+## [L'Anssi et la Dinum victimes à leur tour d'une fuite de données: les deux agences dédiées à ... - BFM](https://www.bfmtv.com/tech/cybersecurite/l-anssi-et-la-dinum-victimes-a-leur-tour-d-une-fuite-de-donnees-les-deux-agences-dediees-a-la-cybersecurite-ont-ete-compromises_AV-202609300718.html)  
+*Source : bfmtv.com | Publication : 2026-09-30*
+
+- L'Anssi et la Dinum victimes à leur tour d'une fuite de données: les deux agences dédiées à la cybersécurité ont été compromises Le 6 août 2026, Metabase, une plateforme de Business Intelligence et d'analyse de données, a fait état d'une compromission de ses systèmes.
+- Une vulnérabilité désormais comblée a servi de porte d'entrée, et elle a permis à des pirates de récupérer des accès à des comptes appartenant à l'Anssi, l'autorité nationale en matière de cybersécurité et de cyberdéfense, et à la Dinum, la direction interministérielle du numérique.
+- Grâce à 120 comptes (dont 118, liés à l'Anssi) compromis - une trentaine appartenant à des utilisateurs externes, des données ont pu être exfiltrées, annonce l'agence dans un rapport rendu public ce 30 septembre: Données statistiques d'utilisation - Identifiants - Mails - Mots de passe hachés - Informations administratives d'organismes publics (SIREN, SIRET, budgets, effectifs) - Métadonnées de contributions à des projets logiciels open source - Historiques de connexions anonymisés - "Des mesures de sécurisation ont été mises en place, notamment la mise à jour des instances vulnérables et un renouvellement des mots de passe pour l'ensemble des comptes," précise l'ANSSI.
+- "Les comptes n'ayant pas été utilisés depuis plus de trois mois ont été désactivés.".
+
+## [À Brou, la Semaine bleue propose ateliers bien-être et sensibilisation à la <b>cybersécurité</b> ...](https://www.lechorepublicain.fr/brou-28160/loisirs/a-brou-la-semaine-bleue-propose-ateliers-bien-etre-et-sensibilisation-a-la-cybersecurite-pour-les-seniors_15055229/)  
+*Source : lechorepublicain.fr | Publication : 2026-09-30*
+
+- À Brou, la Semaine bleue, rendez-vous national consacré aux retraités et aux seniors, sera l’occasion de proposer plusieurs animations autour du bien-être, de la prévention et du lien social.
+- Organisée par le CCAS (centre communal d’action sociale), cette nouvelle édition débutera lundi 5 octobre et se poursuivra tout au long de la semaine avec plusieurs rendez-vous.
+- Partager : A la une Générations.
+
+## [Numéro de téléphone de Marine Le Pen, adresse de Kylian Mbappé, mail d'Emmanuel ...](https://www.sudouest.fr/economie/cybersecurite/numero-de-telephone-de-marine-le-pen-adresse-de-kylian-mbappe-mail-d-emmanuel-macron-des-donnees-confidentielles-de-millions-de-francais-disponibles-en-quelques-clics-sur-internet-30852438.php)  
+*Source : sudouest.fr | Publication : 2026-09-30*
+
+- Des moteurs de recherche pirates permettent d’accéder facilement aux coordonnées confidentielles de millions de citoyens et de personnalités publiques pour seulement quelques euros Au premier abord, il ressemble à un moteur de recherche comme il en existe des milliers sur internet.
+- Pourtant, rien de ce qu’il cache n’est légal.
+- Avec quelques mots-clés, il permet de retrouver les données personnelles volées à des millions de Français.
+- Y compris celles des personnalités les plus connues dont les candidats à l’élection présidentielle 2027.
+
+## [<b>Ransomware</b> : la vitrine de KillSec saisie - LeMagIT](https://www.lemagit.fr/actualites/366651243/Ransomware-la-vitrine-de-KillSec-saisie)  
+*Source : lemagit.fr | Publication : 2026-09-30*
+
+- Ransomware : la vitrine de KillSec saisie L’opération emmenée par les autorités de Hambourg, outre-Rhin, a été baptisée, non sans une pointe d’humour potache, KillSwitch.
+- L’enseigne de rançongiciel KillSec, c’est près de 300 victimes revendiquées depuis début 2024, avec un niveau d’activité observable relativement modeste.
+- Au cours des douze derniers mois, c’est le mois d’octobre 2025 qui a été le plus intense pour l’enseigne, avec un petit total de 9 victimes revendiquées.
+- Quelques mois plus tôt, tout début avril 2025, elle avait revendiqué une victime originaire de Hambourg, en Allemagne, 747 Studios, un spécialiste de production de contenus visuels.
+
+## [Fiducial : 65 Go de données judiciaires et financières revendiqués par un <b>ransomware</b>](https://www.cyberattaque.org/fiducial-65-go-de-donnees-judiciaires-et-financieres-revendiques-par-un-ransomware/)  
+*Source : cyberattaque.org | Publication : 2026-09-30*
+
+- Fiducial, groupe français présent dans l’expertise comptable, la banque, le droit, l’informatique et les services aux entreprises, est visé par une revendication de fuite de données du groupe cybercriminel LAMASHTU.
+- Les attaquants affirment avoir récupéré environ 65 Go de données représentant près de 80 000 fichiers.
+- L’archive contiendrait des dossiers judiciaires, financiers et patrimoniaux particulièrement sensibles couvrant principalement la période 2022 à 2026.
+- Des dossiers complets de recouvrement et de procédures judiciaires Selon LAMASHTU, les fichiers proviendraient notamment d’un environnement utilisé pour le recouvrement de créances, les procédures d’exécution, les inscriptions hypothécaires et différentes actions judiciaires.
 
 ## [Orange déploiera le réseau backbone ultrasécurisé de l'Union européenne - ZDNET](https://www.zdnet.fr/actualites/orange-deploiera-le-reseau-backbone-ultrasecurise-de-lunion-europeenne-504671.htm)  
 *Source : zdnet.fr | Publication : 2026-09-29*
