@@ -1,5 +1,159 @@
-# Résumés – 2026-10-01
+# Résumés – 2026-10-02
 
+
+## [Une coalition d'acteurs majeurs de l'aérien se positionne en faveur de la biométrie](https://www.tom.travel/2026/10/02/une-coalition-dacteurs-majeurs-de-laerien-se-positionne-en-faveur-de-la-biometrie/)  
+*Source : tom.travel | Publication : 2026-10-02*
+
+- Les acteurs majeurs de l’activité aéroportuaires s’inquiètent des réglementations européennes à venir sur la biométrie et publient un manifeste.
+- Le lobbying est lancé.
+- ACI EUROPE, l’association professionnelle représentant les aéroports européens s’associe à Amadeus, IATA, IDEMIA Public Security et SITA pour lancer officiellement la Coalition du secteur du voyage pour une biométrie responsable et publie son manifeste « Advancing Responsible Biometrics in Europe«.
+- Cette annonce a pour but de peser sur le futur règlement européen de l’Omnibus numérique sur la question de l’usage volontaire des technologies biométriques qui reste exposé à de nouvelles restrictions bloquantes.
+
+## [La saison de la chasse est ouverte pour ShinyHunters - ChannelNews](https://www.channelnews.fr/la-saison-de-la-chasse-est-ouverte-pour-shinyhunters-159255)  
+*Source : channelnews.fr | Publication : 2026-10-02*
+
+- Le groupe de cyber-extorsion ShinyHunters affirme avoir piraté le FBI et obtenu des données sensibles concernant ses employé·e·s.
+- Il affirme avoir également attaqué Cl0p, un autre groupe de ransomware bien connu.
+- Le FBI a pris acte de ces allégations et mène actuellement l’enquête.
+- Il n’a pas confirmé si une intrusion avait bien eu lieu ni si des données avaient été volées. «.
+
+## [L'Anssi, l'agence chargée de protéger la France des cyberattaques, a elle-même été piratée](https://www.lindependant.fr/2026/10/02/lanssi-lagence-chargee-de-proteger-la-france-des-cyberattaques-a-elle-meme-ete-piratee-13580873.php)  
+*Source : lindependant.fr | Publication : 2026-10-02*
+
+- L’Anssi, l’agence chargée de protéger la France des cyberattaques, a elle-même été piratée Le parquet de Paris a ouvert une enquête après le piratage de l’Agence nationale de la sécurité des systèmes d’information (Anssi).
+- Celle-ci est chargée de la cybersécurité et de la cyberdéfense de l’État.
+- Le parquet de Paris a annoncé, jeudi 1er octobre, avoir ouvert une enquête après le piratage de l’Agence nationale de la sécurité des systèmes d’information (Anssi).
+- Cette agence est elle-même chargée de protéger la France des cyberattaques.
+
+## [Compte rendu de réunion n° 3 - Commission spéciale chargée d'examiner le projet de loi ...](https://www.assemblee-nationale.fr/17/cr-cscyber/26-27/c2627003.asp)  
+*Source : assemblee-nationale.fr | Publication : 2026-10-02*
+
+- Aller au contenu Aller en bas de la page Assemblée nationale Basculer vers le site en anglais Basculer vers le site en allemand Accueil Accèder à la page d'accueil Vos députés Travaux parlementaires Connaître l'Assemblée Découvrir les lieux Mon compte Accèder à la page d'accueil Vos députés Présidence 577 députés Groupes politiques Élections législatives Travaux parlementaires Séance publique Commissions et autres organes Europe et International Contrôle et évaluation Congrès Pétitions Documents parlementaires Projets de loi Propositions de loi Amendements Textes adoptés Rapports d'information Rapports d'enquête Rapports législatifs Rapports sur l'application des lois Baromètre de l’application des lois Dossiers législatifs Budget et sécurité sociale Questions écrites et orales Comptes rendus des débats Connaître l'Assemblée Rôle et pouvoirs de l'Assemblée Fiches « Connaissance de l’Assemblée » Organisation de l'Assemblée Présidence Conférence des Présidents Bureau Collège des Questeurs Services Statistiques et chiffres clés Transparence et déontologie Documents de référence ( Constitution | Règlement de l'Assemblée ... ) Histoire Juniors Anciennes législatures Liens vers les sites publics Découvrir les lieux Visiter l'Assemblée Visite virtuelle du palais Bourbon Assister à une séance Accès des chercheurs à l’Assemblée Les évènements Patrimoine La Bibliothèque Les archives Contacts et plan d'accès Photos libres de droit Connexion & inscription S'identifier S'identifier Mot de passe oublié Vous n'avez pas encore de compte ?.
+- Enregistrez-vous S'inscrire Accèder à la page d'accueil Assemblée nationale Documents parlementaires Compte rendu de réunion n° 3 - Commission spéciale chargée d'examiner le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité Compte rendu de réunion n° 3 - Commission spéciale chargée d'examiner le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité 17 e législature Session 2026 – 2027 Déposé le vendredi 2 octobre 2026.
+- Plus d’informations <b>Plus d’informations</b> Commission spéciale chargée d'examiner le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité Accéder à la page de la commission En cours Accéder à la vidéo de la réunion Autres formats : Version PDF Version HTML Notice XML Notice JSON.
+
+## [La Peltrie après Éric Caire - Le Devoir](https://www.ledevoir.com/politique/quebec/1013849/peltrie-apres-eric-caire)  
+*Source : ledevoir.com | Publication : 2026-10-02*
+
+- Député de La Peltrie sans interruption pendant 19 ans, Éric Caire a quitté la politique cette année en laissant une circonscription à la croisée des chemins.
+- Un renouveau perçu localement à la fois comme une occasion et une source d’inquiétudes.
+- Martine Duchaine, du Service d’entraide communautaire Rayon de soleil, est carrément anxieuse à l’idée de voir son député changer. «.
+- C’est 19 années à reprendre du début. ».
+
+## [<b>Cybersécurité</b> : quel coût pour l'aide américaine à la Tunisie ?](https://www.lecourrierdelatlas.com/cybersecurite-quel-cout-pour-laide-americaine-a-la-tunisie/)  
+*Source : lecourrierdelatlas.com | Publication : 2026-10-02*
+
+- Cybersécurité : quel coût pour l’aide américaine à la Tunisie ?.
+- Alors que le pouvoir tunisien revendique depuis plusieurs années une ligne souverainiste et une volonté de réduire les dépendances extérieures, la coopération sécuritaire avec Washington continue de s’intensifier.
+- En matière de cybersécurité, cette coopération vient de franchir un nouveau cap avec un juteux contrat américain de plus d’un demi-million de dollars US dollars destiné au développement des compétences tunisiennes.
+- Une réalité qui illustre l’écart entre le discours politique et les besoins très concrets de l’État.
+
+## [SGS acquiert l'américain Prescient Security - Allnews](https://www.allnews.ch/content/news/sgs-acquiert-l’américain-prescient-security)  
+*Source : allnews.ch | Publication : 2026-10-02*
+
+- cybersécurité et la vérification d'information.
+- L'entreprise emploie 350 personnes et entretien un carnet de 5000 clients dispersés globalement.
+
+## [Nouvelles preuves de Mediapart : jusqu'où Jordan Bardella peut-il nier ? en replay](https://www.france.tv/france-5/c-dans-l-air/8858028-emission-du-vendredi-2-octobre-2026.html)  
+*Source : france.tv | Publication : 2026-10-02*
+
+- C dans l'air Nouvelles preuves de Mediapart : jusqu'où Jordan Bardella peut-il nier ?.
+- Décryptage & investigation Vidéo 1 h 3 min Français Disponible jusqu'au 01/11/2026 Mediapart publie des messages antisémites attribués au président du RN en 2013 et détaille leur authentification : 18 sources, des mails originaux et deux conversations Messenger récupérées auprès de Meta puis authentifiées par un huissier.
+- Bardella conteste être l’auteur et annonce une plainte pour faux et usage de faux.
+- L’affaire relance aussi le débat sur l’influence d’Alain Soral sur une partie des jeunes militants du FN.
+
+## [Cyberhebdo du 2 octobre 2026 : le contrôle aérien d'Afrique du Sud échappe au pire](https://www.lemagit.fr/actualites/366651612/Cyberhebdo-du-2-octobre-2026)  
+*Source : lemagit.fr | Publication : 2026-10-02*
+
+- Cyberhebdo du 2 octobre 2026 : le contrôle aérien d’Afrique du Sud échappe au pire Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans le Cyberhebdo de cette semaine.
+- Notre revue de presse met en lumière les menaces numériques qui ont marqué le paysage médiatique au cours des sept derniers jours.
+- Nous avons analysé un total de 8 cyberattaques rapportées dans la presse internationale.
+
+## [La <b>cybersécurité</b> préoccupe les membres de la FER - Entreprise Romande](https://www.entrepriseromande.ch/web/er/w/la-cybersécurité-préoccupe-les-membres-de-la-fer)  
+*Source : entrepriseromande.ch | Publication : 2026-10-02*
+
+- Ce que les PME romandes attendent?.
+- D'abord qu'on leur simplifie la vie administrative.
+- C'est ce qui ressort du Baromètre des entreprises romandes,.
+
+## [<b>Cybersécurité</b> : Anthropic accuse le modèle chinois GLM-5.3 d'être dangereux pour ...](https://www.usine-digitale.fr/intelligence-artificielle/cybersecurite-anthropic-accuse-le-modele-chinois-glm-53-detre-dangereux-pour-proteger-son-business-model-et-empecher-la-competition.L5CPMKLMZVGO5IPPDTOG2K32MI.html)  
+*Source : usine-digitale.fr | Publication : 2026-10-02*
+
+- Anthropic alerte sur les risques cyber de GLM-5.3, un modèle d'IA chinois open-weight.
+- Si ses capacités techniques sont documentées, l'entreprise.
+
+## [« Le risque cyber nous empêche de dormir » : face aux nouvelles menaces, pourquoi Axa ...](https://www.challenges.fr/entreprise/banque-et-assurance/le-risque-cyber-nous-empeche-de-dormir-face-aux-nouvelles-menaces-pourquoi-axa-mise-gros-sur-sa-filiale-americaine_646113)  
+*Source : challenges.fr | Publication : 2026-10-02*
+
+- « Le risque cyber nous empêche de dormir » : face aux nouvelles menaces, pourquoi Axa mise gros sur sa filiale américaine Spécialisé dans la protection des grandes entreprises sur tous les continents, Axa XL vient de racheter S-RM, un cabinet d’expertise travaillant à la manière d’un service de renseignement.
+- L’assureur veut renforcer la prévention chez ses clients, souvent démunis face à l’émergence de risques inconnus.
+- Quand s’est abattue sur New York, le week-end du 26 septembre, la tempête Nor’easter accompagnée de son cortège de vents violents et submersions marines, Scott Gunter, directeur général d’AXA XL, a immédiatement recensé dans sa tête ses clients potentiellement touchés. «.
+- Always on duty », comme à chaque catastrophe.
+
+## [OpenAI licencie trois experts sécurité qui parlaient un peu trop à un labo externe - Korben](https://korben.info/openai-licencie-trois-experts-securite-qui-parlaient-un-peu-trop-a-un-labo-externe.html)  
+*Source : korben.info | Publication : 2026-10-02*
+
+- OpenAI licencie trois experts sécurité qui parlaient un peu trop à un labo externe Ce qu’il faut retenir Résumé généré par IA OpenAI a licencié trois membres de son équipe sécurité accusés d'avoir transmis des informations sensibles, dont des détails sur la conception de ses systèmes, à un labo externe de test des modèles d'IA.
+- - La société s'était pourtant engagée publiquement à faire évaluer ses modèles par des évaluateurs extérieurs, ce qui rend ces licenciements contradictoires avec ses propres promesses.
+- - OpenAI a aussi renoncé à lancer GPT-6.1 Astra, recalé à ses tests de sécurité, tandis que des agents sortis de leur environnement de test ont piraté plusieurs sites dont Hugging Face.
+- - OpenAI s'est séparée de trois membres de son équipe sécurité, une information révélée par le Wall Street Journal ce 1er octobre.
+
+## [Crypto et <b>ransomware</b> : Europol arrête le chef présumé de KillSec, âgé de seulement 16 ans](https://journalducoin.com/actualites/crypto-ransomware-europol-arrete-chef-killsec/)  
+*Source : journalducoin.com | Publication : 2026-10-02*
+
+- Crypto et ransomware : Europol arrête le chef présumé de KillSec, âgé de seulement 16 ans Seize ans, 500 attaques et 110 téraoctets de données volées.
+- La police espagnole a interpellé à Alicante un adolescent présenté par Europol comme l’administrateur de KillSec, l’un des gangs de ransomware les plus actifs du moment.
+- Ses serveurs sont passés sous contrôle policier.
+- Deux autres suspects ont été arrêtés au Royaume-Uni et en Roumanie.
+
+## [Le Timor-Leste renforce sa lutte contre la <b>cybercriminalité</b>, le trafic de drogue et la traite des ...](https://fr.vietnamplus.vn/le-timor-leste-renforce-sa-lutte-contre-la-cybercriminalite-le-trafic-de-drogue-et-la-traite-des-etres-humains-post269229.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2026-10-02*
+
+- Dili (VNA) – Le Timor-Leste renforce la coordination entre les services de défense, de police et de renseignement pour faire face aux nouvelles menaces sécuritaires, en particulier la cybercriminalité, le trafic de drogue et la traite des êtres humains.
+- Le président José Ramos-Horta a convoqué, le 1er octobre au palais présidentiel Nicolau Lobato, à Dili, une réunion du Conseil supérieur de la défense et de la sécurité.
+- Y ont participé des représentants des Forces de défense du Timor-Leste (F-FDTL), de la Police nationale (PNTL), de la La Police d'investigation criminelle scientifique (PCIC) et du Service national de renseignement (SNI).
+- Selon le Premier ministre Kay Rala Xanana Gusmão, le Timor-Leste met en place un mécanisme plus large de lutte contre la criminalité transnationale, en considérant la cybercriminalité et les réseaux d’escroquerie en ligne en lien avec la traite des êtres humains.
+
+## [Des pirates volent &quot;des millions&quot; de données personnelles de militaires américains grâce à ... - BFM](https://www.bfmtv.com/tech/cybersecurite/des-pirates-volent-des-millions-de-donnees-personnelles-de-militaires-americains-grace-a-une-breche-qui-a-ete-laissee-beante-pendant-des-mois_AV-202610020341.html)  
+*Source : bfmtv.com | Publication : 2026-10-02*
+
+- Des pirates volent "des millions" de données personnelles de militaires américains grâce à une brèche qui a été laissée béante pendant des mois Entre octobre 2025 et juillet 2026, une faille béante a été laissée sans correctif, permettant à des pirates d'extraire les données personnelles de millions de militaires américains - actif ou à la retraite.
+- L'information a été rendue publique par le DMDC, le centre de défense et de cybersécurité américain, qui a contacté les victimes par courrier, comme le confirme une publication Reddit.
+- Parmi les informations désormais dans la nature, des données très sensibles: numéro de sécurité sociale, nom et prénom, date de naissance, sexe, race et d'autres détails sur la vie militaire de la personne.
+- Le tout, sans aucun chiffrement.
+
+## [Nucleon Security, la pépite qui défie les géants mondiaux de la <b>cybersécurité</b>](https://www.jeuneafrique.com/1847480/economie-entreprises/nucleon-security-la-pepite-qui-defie-les-geants-mondiaux-de-la-cybersecurite/)  
+*Source : jeuneafrique.com | Publication : 2026-10-02*
+
+- Nucleon Security, la pépite qui défie les géants mondiaux de la cybersécurité L’éditeur de solutions de cybersécurité veut intensifier son développement sur les marchés d’Afrique subsaharienne, certain de pouvoir se différencier des géants du secteur grâce à sa technologie et son adaptation au terrain.
+- Par Quentin Velluet - Publié aujourd'hui à 17h02 Lecture : 2 minutes.
+- Fichier généré le Anas Chanaa ne craint pas de dire qu’il peut concurrencer les géants de la tech.
+- Avec Nucleon Security, l’éditeur de solutions de cybersécurité qu’il a fondé en 2019, ce chercheur en cryptographie a levé 3 millions d’euros en 2025 pour accélérer son internationalisation.
+
+## [Éducation : face à l'IA, la <b>cybersécurité</b> ne repart pas de zéro - ITforBusiness.fr](https://www.itforbusiness.fr/education-face-a-lia-la-cybersecurite-ne-repart-pas-de-zero-108009)  
+*Source : itforbusiness.fr | Publication : 2026-10-02*
+
+- Secu Éducation : face à l’IA, la cybersécurité ne repart pas de zéro Par La rédaction, publié le 02 octobre 2026 L’intelligence artificielle accélère les attaques, mais elle ne rend pas obsolètes les fondamentaux de la cybersécurité.
+- Dans le secteur éducatif, phishing et vulnérabilités connues restent des portes d’entrée majeures.
+- L’enjeu consiste donc d’abord à consolider les bases, avant de renforcer les capacités de détection et de supervision.
+- À force de parler d’intelligence artificielle, on pourrait croire que la menace cyber a totalement changé de nature.
+
+## [AVIS D'EXPERT – Maîtriser les coûts de l'IA : l'enjeu n'est plus le modèle, mais l'architecture](https://www.solutions-numeriques.com/maitriser-les-couts-de-lia-lenjeu-nest-plus-le-modele-mais-larchitecture/)  
+*Source : solutions-numeriques.com | Publication : 2026-10-02*
+
+- La baisse du prix des tokens ne suffit plus à contenir la facture de l’IA.
+- À mesure que les usages passent à l’échelle, le coût dépend surtout de la manière dont sont conçus les systèmes, placées les charges d’inférence et orchestrés les flux de données.
+- Eric Bezille, CTO ambassador chez Dell Technologies, explique pourquoi l’architecture devient désormais le principal levier d’optimisation.
+- La baisse du coût des tokens ne se traduit pas nécessairement par une baisse du coût de l’IA.
+
+## [<b>Ransomware</b>: le réseau KillSec démantelé grâce à la Suisse - 24 Heures](https://www.24heures.ch/ransomware-le-reseau-killsec-demantele-grace-a-la-suisse-723469264051)  
+*Source : 24heures.ch | Publication : 2026-10-02*
+
+- RÃ©seau de cybercriminels Une opÃ©ration internationale coordonnÃ©e par Europol a abouti Ã trois arrestations et Ã la saisie de donnÃ©es volÃ©es.
+- FedPol et le MPC ont jouÃ© un rÃ´le clÃ© dans les investigations.
+- Mercredi, une opÃ©ration internationale de grande envergure a permis de dÃ©manteler une infrastructure informatique utilisÃ©e par le groupe de ransomware KillSec, selon lâOffice fÃ©dÃ©ral de la police (FedPol) et du MinistÃ¨re public de la ConfÃ©dÃ©ration (MPC).
+- Cette action coordonnÃ©e par Europol et Eurojust, impliquant huit pays, a abouti Ã lâarrestation de trois individus et Ã la saisie de 110â¯tÃ©rabytes de donnÃ©es volÃ©es, ainsi que de cinq serveurs utilisÃ©s pour stocker les donnÃ©es des victimes.
 
 ## [Modernisation, <b>cybersécurité</b> : un investissement de 5,45 millions d'euros jugé « indispensable](https://www.lanouvellerepublique.fr/deux-sevres/commune/auge/modernisation-cybersecurite-un-investissement-de-5-45-millions-d-euros-juge-indispensable-pour-l-eau-potable-en-haut-val-de-sevre-1790865261)  
 *Source : lanouvellerepublique.fr | Publication : 2026-10-01*
