@@ -1,5 +1,152 @@
-# Résumés – 2026-10-02
+# Résumés – 2026-10-03
 
+
+## [Session 2026/2027 de la Formation professionnelle : <b>Cybersécurité</b>, IA et énergies ...](https://www.elmoudjahid.dz/fr/actualite/session-2026-2027-de-la-formation-professionnelle-cybersecurite-ia-et-energies-renouvelables-font-leur-entree-259711)  
+*Source : elmoudjahid.dz | Publication : 2026-10-03*
+
+- nombre de spécialités techniques, en plus des formations liées à la cybersécurité , à l'intelligence artificielle et aux énergies renouvelables.
+
+## [Bayonne s'engage pour sensibiliser aux enjeux de <b>cybersécurité</b>](https://www.bayonne.fr/information-transversale/actualites/bayonne-sengage-pour-sensibiliser-aux-enjeux-de-cybersecurite-73072)  
+*Source : bayonne.fr | Publication : 2026-10-03*
+
+- Pour mieux comprendre les cybermenaces tout en s'amusant, des ateliers de sensibilisation sont proposés dans le cadre du Cybermois.
+- Jeu de plateau :.
+
+## [Cyberattaque contre la Région Hauts-de-France : les RIB de 700 000 Français compromis](https://www.01net.com/actualites/cyberattaque-region-hauts-de-france-donnees-personnelles-rib.html)  
+*Source : 01net.com | Publication : 2026-10-03*
+
+- Une nouvelle fuite de données secoue la France.
+- Ce samedi 3 octobre, la Région Hauts-de-France a révélé à l’AFP avoir été touchée par une cyberattaque d’envergure.
+- Deux prestataires, Atexo et Docaposte, ont été pris pour cible.
+- Selon la collectivité, l’attaque a abouti à « un accès non autorisé à des données personnelles traitées pour son compte ».
+
+## [<b>Cybersécurité</b> : la région Hauts-de-France victime d'une large fuite de données personnelles](https://www.cnews.fr/vie-numerique/2026-10-03/cybersecurite-la-region-hauts-de-france-victime-dune-large-fuite-de)  
+*Source : cnews.fr | Publication : 2026-10-03*
+
+- La région Hauts-de-France a été la cible d'une cyberattaque ce samedi 3 octobre, compromettant la sécurité des données personnelles de plusieurs individus, même si l'ampleur de la fuite n'a pas été précisée.
+- Les piratages se poursuivent.
+- Après ceux du fisc et de l'Éducation nationale, c'est au tour de la région des Hauts-de-France d'être victime d'une cyberattaque.
+- Des informations personnelles ainsi que «potentiellement des RIB ont été dérobées ce samedi 3 octobre, indique la région à l'AFP.
+
+## [La région Hauts-de-France victime d'une importante fuite de données personnelles après ...](https://www.sudouest.fr/economie/cybersecurite/la-region-hauts-de-france-victime-d-une-importante-fuite-de-donnees-personnelles-apres-une-cyberattaque-30904170.php)  
+*Source : sudouest.fr | Publication : 2026-10-03*
+
+- La région Hauts-de-France a été touchée par une cyberattaque ciblant deux de ses prestataires, entraînant la compromission de données personnelles et potentiellement de RIB La Région Hauts-de-France a indiqué samedi avoir été victime d’une cyberattaque qui a mené à la diffusion d’informations personnelles ainsi que « potentiellement des RIB », sans pouvoir en détailler l’ampleur, un site spécialisé évoquant plus de 700 000 personnes touchées.
+- La collectivité a précisé « que deux de ses prestataires, Atexo et Docaposte, ont été victimes d’une cyberattaque ayant permis un accès non autorisé à des données personnelles traitées pour son compte ».
+
+## [Google lance Gemini 4 Argon, détails après le 1er octobre - Brief IA](https://www.briefia.fr/article/google-lance-gemini-4-argon-details-apres-le-1er-octobre)  
+*Source : briefia.fr | Publication : 2026-10-03*
+
+- Tu suis la course aux modèles IA ?.
+- Chaque sortie (GPT, Claude, Gemini, Mistral…) décryptée le soir même, en 5 min.
+- Gratuit.
+- Inclus dès l'inscription : notre sélection des meilleurs guides & comparatifs IA.
+
+## [<b>Cybersécurité</b> : la région Hauts-de-France victime d'une large fuite de données personnelles](https://www.aisnenouvelle.fr/id749720/article/2026-10-03/cybersecurite-la-region-hauts-de-france-victime-dune-large-fuite-de-donnees)  
+*Source : aisnenouvelle.fr | Publication : 2026-10-03*
+
+- La région Hauts-de-France a indiqué, samedi 3 octobre 2026, avoir été victime d'une cyberattaque qui a mené à la diffusion d'informations.
+
+## [<b>Cybersécurité</b> : la région Hauts-de-France victime d'une large fuite de données personnelles](https://abonne.lunion.fr/id831662/article/2026-10-03/cybersecurite-la-region-hauts-de-france-victime-dune-large-fuite-de-donnees)  
+*Source : abonne.lunion.fr | Publication : 2026-10-03*
+
+- L'identité, l'adresse mail et potentiellement le RIB de plus de 700 000 personnes pourraient avoir fuité.
+- Alors qu'une plainte a été déposée,.
+
+## [<b>Cybersécurité</b>: la région Hauts-de-France victime d'une large fuite de données personnelles](https://www.notretemps.com/depeches/cybersecurite-la-region-hauts-de-france-victime-d-une-large-fuite-de-donnees-personnelles-139402)  
+*Source : notretemps.com | Publication : 2026-10-03*
+
+- Cybersécurité: la région Hauts-de-France victime d'une large fuite de données personnelles La région Hauts-de-France a indiqué samedi à l'AFP avoir été victime d'une cyberattaque qui a mené à la diffusion d'informations personnelles ainsi que "potentiellement des RIB", sans pouvoir en détailler l'ampleur, un site spécialisé évoquant plus de 700.000 personnes touchées.
+- La région a indiqué à l'AFP "que deux de ses prestataires, Atexo et Docaposte, ont été victimes d'une cyberattaque ayant permis un accès non autorisé à des données personnelles traitées pour son compte".
+- Les premières investigations ont établi que "des noms, prénoms, adresses électroniques, ainsi que potentiellement des RIB et d'autres données d'identification figurent parmi les données susceptibles d'avoir été compromises", a-t-elle détaillé, sans être en mesure d'indiquer à ce stade "le nombre exact de personnes concernées", ou encore "si d'autres catégories de données ont également été accessibles ou extraites".
+- Selon le site spécialisé FrenchBreaches, un utilisateur aurait revendiqué l'attaque en ligne et indiqué détenir les données personnelles de plus de 700.000 personnes, sans que ce chiffre ne puisse être vérifié.
+
+## [VIDÉO. Vols, trafics, cryptomonnaie : immersion avec les gendarmes de la ... - France 3 Régions](https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/video-vols-trafics-cryptomonnaie-immersion-avec-les-gendarmes-de-la-section-de-recherches-specialises-en-cybercriminalite-3427089.html)  
+*Source : france3-regions.franceinfo.fr | Publication : 2026-10-03*
+
+- durée de la vidéo : 00h02mn27s À l’ère du numérique, la criminalité a développé ses réseaux sur la toile.
+- Pour rester au contact, la section de recherche a formé des profils plus connectés : des cyberenquêteurs.
+- Objectif : adapter les techniques d'investigation à l'environnement 2.0.
+- • ©France Télévisions VIDÉO.
+
+## [Après 1000 cyberattaques, un pirate de 16 ans a été arrêté : il était à la tête du gang KillSec](https://www.01net.com/actualites/apres-1000-cyberattaques-pirate-16-ans-arrete-tete-gang-killsec.html)  
+*Source : 01net.com | Publication : 2026-10-03*
+
+- Un adolescent de 16 ans était à la tête d’un redoutable gang de pirates.
+- La police européenne vient de démanteler KillSec, un gang de hackers spécialisé dans l’extorsion de données et les attaques par ransomware.
+- Selon Europol, le chef présumé de toute l’organisation n’a que 16 ans. «.
+- Le 30 septembre 2026, les forces de l’ordre ont pris le contrôle du site de fuite de KillSec, sécurisant au moins 110 téraoctets de données contre tout nouvel accès non autorisé », annonce Europol.
+
+## [Ingénieur le jour, hacker la nuit : la police arrête un jeune pirate suite à plusieurs fuites de données](https://www.01net.com/actualites/shinyhunters-suspect-arrete-pays-bas-soupconne-meurtres.html)  
+*Source : 01net.com | Publication : 2026-10-03*
+
+- L’étau se resserre autour du gang ShinyHunters.
+- La police néerlandaise a annoncé l’arrestation d’un pirate de 24 ans qui résidait à Amsterdam.
+- Interpellé le 15 septembre 2026, le jeune homme reste en détention provisoire jusqu’à nouvel ordre.
+- En marge de l’arrestation, du matériel informatique a été saisi par les forces de l’ordre.
+
+## [L'Académie navale promeut « l'alphabétisation numérique pour tous » et applique l'IA dans l ...](https://www.vietnam.vn/fr/hoc-vien-hai-quan-day-manh-binh-dan-hoc-vu-so-va-ung-dung-ai-trong-hoc-tap)  
+*Source : vietnam.vn | Publication : 2026-10-03*
+
+- Les étudiants s'exercent à l'exploration de données au Centre de ressources pédagogiques.
+- Le matin du 3 octobre, à Khanh Hoa, l'Académie navale a organisé une conférence de formation sur la sécurité de l'information, la cybersécurité, la transformation numérique et la culture numérique pour les cadets de la promotion 2026.
+- Le programme vise à doter les futurs officiers d'une pensée moderne et de compétences technologiques pratiques.
+
+## [Usurpation d'identité numérique, chantage et <b>cybercriminalité</b> : un individu arrêté à Zac ...](https://lesoleil.sn/justice/usurpation-didentite-numerique-chantage-et-cybercriminalite-un-individu-arrete-a-zac-mbao-six-victimes-identifiees/)  
+*Source : lesoleil.sn | Publication : 2026-10-03*
+
+- Le Commissariat d’arrondissement de la Zac de Mbao a procédé à l’interpellation d’un individu pour usurpation d’identité numérique, collecte illicite de données à caractère personnel, détention d’images contraires aux bonnes mœurs, menaces de diffusion de vidéos obscènes et chantage à caractère sexuel.
+- Selon la police, le mis en cause a été placé en garde à vue le 1ᵉʳ octobre 2026, à la suite de la plainte d’une victime.
+- Cette dernière avait fait la connaissance, sur Internet, d’un profil utilisant la photo d’une femme présentée sous le nom d’Angela.
+- Après plusieurs échanges, elle avait transmis des vidéos intimes à la personne en échange de la promesse de recevoir 500 000 FCFA.
+
+## [LDLC victime d'un piratage, des données personnelles de clients ont pu être consultées](https://www.clubic.com/actualite-632404-ldlc-victime-d-un-piratage-des-donnees-personnelles-de-clients-ont-pu-etre-consultees.html)  
+*Source : clubic.com | Publication : 2026-10-03*
+
+- Le e-commerçant français LDLC a été victime d'une cyberattaque qui a permis un accès non autorisé à l'un de ses systèmes.
+- Les noms, coordonnées et informations de compte de clients ont pu être consultés, mais pas les données bancaires, assure l'entreprise.
+- Ce n'est pas le genre de courrier électronique qu'on espère trouver entre deux promos sur les cartes graphiques, toujours est-il que LDLC informe actuellement une partie de ses clients qu'un incident de sécurité a permis à des cybercriminels d'accéder à l'un de ses systèmes d'information, avec à la clé la consultation possible de leurs données personnelles.
+- Figurent ainsi les noms, adresses, téléphones ou encore date d'inscription figurent parmi les informations exposées, tandis que les mots de passe et moyens de paiement seraient restés hors d'atteinte, fort heureusement.
+
+## [Plus de 400.000 nouveaux stagiaires rejoindront dimanche les établissements de formation ...](https://www.aps.dz/fr/algerie/education-et-technologie/mur7m4io-plus-de-400-000-nouveaux-stagiaires-rejoindront-dimanche-les-etablissements-de-formation-professionnelle)  
+*Source : aps.dz | Publication : 2026-10-03*
+
+- Site en maintenance Nous améliorons votre expérience Notre équipe travaille activement pour vous offrir un service optimisé.
+- Merci de votre patience.
+- Copyright © 2026 Algérie Presse Service - Tous droits réservés Nous améliorons votre expérience Notre équipe travaille activement pour vous offrir un service optimisé.
+- Merci de votre patience.
+
+## [Yves Le Floch, dir. développement de la <b>cybersécurité</b> de Sogeti dans Good Morning Business](https://actu.orange.fr/videos/economie/yves-le-floch-dir-developpement-de-la-cybersecurite-de-sogeti-dans-good-morning-business-19-juin-CNT000002shXBa.html?pid=)  
+*Source : actu.orange.fr | Publication : 2026-10-03*
+
+- Yves Le Floch, dir.
+- développement de la cybersécurité de Sogeti dans Good Morning Business - 19 juin par BFMBUSINESS Le 19 juin, Yves Le Floch, directeur développement de la cybersécurité de Sogeti a été interviewé par Stéphane Soumier dans Good Morning Business, sur BFM Business.
+- Vidéo suivante dans 5 secondes Autres vidéos Les commentaires ne sont plus disponibles sur les articles Orange.fr.
+- Cliquez ici pour en savoir plus Fermeture des commentaires Chères lectrices, chers lecteurs, Vos avis sont précieux pour faire vivre l'actualité sur Orange.fr.
+
+## [Hans Anders stoppe la vente des Ray-Ban Meta aux Pays-Bas et en Belgique](https://pasqualepillitteri.it/fr/news/20237/hans-anders-stoppe-vente-ray-ban-meta)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-03*
+
+- Hans Anders stoppe la vente des Ray-Ban Meta aux Pays-Bas et en Belgique Hans Anders suspend les Ray-Ban Meta aux Pays-Bas et en Belgique pour des raisons de vie privée, alors que Meta a jusqu'au 13 octobre pour répondre.
+- 1.Pourquoi Hans Anders a-t-il cessé de vendre les Ray-Ban Meta ?.
+- - 2.Le régulateur néerlandais et les vidéos de la plage de Zandvoort - 3.La motion sur les « gluurbrillen » et l'ultimatum à Meta du 13 octobre - 4.Que répond Meta sur la lumière qui clignote - 5.Et en France ?.
+- - 6.Questions fréquentes (FAQ) - 7.Conclusions - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+
+## [Meta et OpenAI dévoilent Jolly et dots, les mascottes de leurs agents IA - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/20243/meta-openai-mascottes-agents-ia-jolly-dots)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-03*
+
+- Meta et OpenAI dévoilent Jolly et dots, les mascottes de leurs agents IA Meta et OpenAI donnent des mascottes à leurs agents IA, Jolly et les dots, pour rassurer ceux qui leur confient leur messagerie et leur carte bancaire.
+- 1.Qui sont Jolly et les dots - 2.Pourquoi les agents IA ont-ils une mascotte ?.
+- - 3.Le précédent de Clippy - 4.Jolly et dots face à face - 5.Le visage tendre et les vrais problèmes - 6.Fairplay et l'iconographie enfantine - 7.Ce qui change pour les lecteurs en France - 8.Questions fréquentes (FAQ) - 9.Conclusions - 10.Notez cet article - 11.Articles Connexes - 12.Recherchez-vous un Ingénieur Logiciel?.
+- - Meta et OpenAI ont donné à leurs agents IA un visage de peluche en l'espace de trois semaines.
+
+## [<b>Cybercriminalité</b> à ZAC Mbao : 230 vidéos obscènes découvertes dans le téléphone d'un suspect](https://www.lactuacho.com/cybercriminalite-a-zac-mbao-230-videos-obscenes-decouvertes-dans-le-telephone-dun-suspect/)  
+*Source : lactuacho.com | Publication : 2026-10-03*
+
+- Le Commissariat d’arrondissement de ZAC Mbao a placé en garde à vue, le 1er octobre 2026, un individu soupçonné d’usurpation d’identité numérique, de collecte illicite de données personnelles et de chantage à caractère sexuel.
+- L’exploitation de son téléphone a permis d’identifier plusieurs victimes et de découvrir de nombreux fichiers à caractère obscène.
+- Une affaire de cybercriminalité présumée est en cours d’investigation à ZAC Mbao.
+- Le Commissariat d’arrondissement de la localité a procédé, le 1er octobre 2026, au placement en garde à vue d’un individu visé pour plusieurs faits, notamment l’usurpation d’identité numérique, la collecte illicite de données à caractère personnel, la détention d’images contraires aux bonnes mœurs, les menaces de diffusion de vidéos obscènes et le chantage à caractère sexuel.
 
 ## [Une coalition d'acteurs majeurs de l'aérien se positionne en faveur de la biométrie](https://www.tom.travel/2026/10/02/une-coalition-dacteurs-majeurs-de-laerien-se-positionne-en-faveur-de-la-biometrie/)  
 *Source : tom.travel | Publication : 2026-10-02*
