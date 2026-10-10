@@ -1,5 +1,155 @@
-# Résumés – 2026-10-08
+# Résumés – 2026-10-09
 
+
+## [Primaire sociale-démocrate : le vote prolongé jusqu'à dimanche soir - Orange Actu](https://actu.orange.fr/politique/primaire-sociale-democrate-le-vote-prolonge-jusqu-a-dimanche-soir-CNT000002suy2o.html)  
+*Source : actu.orange.fr | Publication : 2026-10-09*
+
+- Primaire sociale-démocrate : le vote prolongé jusqu'à dimanche soir Le vote du premier tour de la primaire sociale-démocrate, cible vendredi d'une cyberattaque, est prolongé jusqu'à dimanche 18H00 à cause d'un fort ralentissement des votes.
+- Quelque 140.000 électeurs doivent choisir leur candidat à la présidentielle parmi cinq prétendants, dont le favori, l'eurodéputé de Place publique Raphaël Glucksmann, et son challenger, le patron du PS Olivier Faure.
+- L'ex-candidate à la présidentielle de 2007 Ségolène Royal, le député socialiste Jérôme Guedj et le député de La Gauche républicaine et socialiste (GRS) Emmanuel Maurel, sont également en lice.
+- Le vote, qui se fait uniquement par voie électronique, a débuté à 08H00 vendredi, mais a été aussitôt perturbé par une cyberattaque, créant un "afflux massif et fictif de connexions", qui a considérablement ralenti le processus, sans l'interrompre.
+
+## [<b>Cybercriminalité</b> : une plateforme de revente de données volées démantelée - La Croix](https://www.la-croix.com/societe/cybercriminalite-une-plateforme-de-revente-de-donnees-volees-demantelee-20261009)  
+*Source : la-croix.com | Publication : 2026-10-09*
+
+- Une importante plateforme de revente de données volées, ou look up, a été démantelée et mise hors ligne et ses trois administrateurs présumés interpellés, une opération présentée par les enquêteurs comme une première de cette ampleur en France, a-t-on appris vendredi 9 octobre auprès du parquet.
+- Initialement connu sous le nom de Reacher, puis renommé Stryxx, ce site « revendiquait 730 millions de lignes de données indexées et plus de 3 millions de requêtes réalisées », a précisé le patron de l’Office français anticriminalité (Ofac), Nicolas Guidoux, dans un post LinkedIn.
+- Le site avait été créé en mars 2026 et une enquête avait été ouverte le 15 mai par la section spécialisée dans la lutte contre la cybercriminalité du parquet de Paris, a-t-il précisé. «.
+- Cette plateforme proposait, via différentes formules d’abonnement ou l’achat de crédits, trois modes de recherche, ainsi qu’une fonction multicritères », a décrit Nicolas Guidoux.
+
+## [Ces jeunes sans antécédents poursuivis après les violences contre la police - Valeurs actuelles](https://www.valeursactuelles.com/clubvaleurs/regions/ile-de-france/paris/na/societe/etudiant-en-droit-futur-militaire-lyceen-en-cybersecurite-ces-jeunes-sans-antecedents-poursuivis-apres-les-violences-contre-la-police)  
+*Source : valeursactuelles.com | Publication : 2026-10-09*
+
+- Jeudi 8 octobre, 13h30.
+- À la 23e chambre du tribunal correctionnel de Paris, le ballet des comparutions immédiates suit son cours habituel.
+- Les bancs de la salle d’audience sont garnis d’étudiants en sortie scolaire et de lycéens qui profitent du temps libre laissé par le blocage de leur établissement.
+- Deux hommes de nationalité algérienne, âgés d’une trentaine d’années, comparaissent après leur interpellation pour le vol à l’arraché, avec violences, du collier d’une femme.
+
+## [<b>Cybercriminalité</b> : une plateforme de revente de données volées démantelée - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/cybercriminalite-une-plateforme-de-revente-de-donnees-volees-demantelee-31002182.php)  
+*Source : sudouest.fr | Publication : 2026-10-09*
+
+- Initialement connu sous le nom de Reacher, puis renommé Stryxx, ce site permettait de trouver plusieurs millions de données personnelles volées Une importante plateforme de revente de données volées, ou look up, a été démantelée et mise hors ligne et ses trois administrateurs présumés interpellés, une opération présentée par les enquêteurs comme une première de cette ampleur en France, a-t-on appris auprès du parquet.
+- Initialement connu sous le nom de Reacher, puis renommé Stryxx, ce site « revendiquait 730 millions de lignes de données indexées et plus de 3 millions de requêtes réalisées », a précisé le patron de l’Office français anti-criminalité (Ofac), Nicolas Guidoux, dans un post LinkedIn.
+
+## [Fuite de données chez Mabris : une attaque <b>ransomware</b> revendiquée en ligne](https://frenchbreaches.com/r/iVGMu1)  
+*Source : frenchbreaches.com | Publication : 2026-10-09*
+
+- Fuite de données chez Mabris : une attaque ransomware revendiquée en ligne Données exposées : Thegentlemen.
+- Incident signalé le 9 octobre 2026.
+
+## [Cyberattaque sur l'iPhone : le malware DarkSword est de retour sous une nouvelle forme](https://www.01net.com/actualites/cyberattaque-sur-liphone-le-malware-darksword-est-de-retour-sous-une-nouvelle-forme.html)  
+*Source : 01net.com | Publication : 2026-10-09*
+
+- En mars 2026, le monde apprenait l’existence de DarkSword, un outil de piratage d’iPhone qui peut tout voler à l’intérieur.
+- Depuis, il fait régulièrement parler de lui, notamment après s’être retrouvé en ligne, disponible pour tout le monde.
+- Cette fois-ci, c’est une nouvelle version qui fait parler d’elle.
+- P7 DarkSword, une nouvelle version encore plus perfectionnée La société de cybersécurité mobile iVerify a publié ce 8 octobre un rapport sur P7, une variante de DarkSword qu’elle dit avoir découverte.
+
+## [Mois de la sensibilisation à la <b>cybersécurité</b>: adopter les bons réflexes à l'ère de l'IA - UdeMnouvelles](https://nouvelles.umontreal.ca/annonce/2026/10/13/mois-de-la-sensibilisation-a-la-cybersecurite-adopter-les-bons-reflexes-a-l-ere-de-l-ia)  
+*Source : nouvelles.umontreal.ca | Publication : 2026-10-09*
+
+- Mois de la sensibilisation à la cybersécurité: adopter les bons réflexes à l’ère de l'IA Chaque automne, l’Université de Montréal participe au Mois de la sensibilisation à la cybersécurité.
+- Sur le thème «Ma vie numérique, ma responsabilité: adoptons les bons réflexes à l’ère de l’IA», la campagne 2026 convie la communauté de l’UdeM à redoubler de vigilance pour contribuer à la sécurité de notre environnement numérique.
+- Avec l’essor de l’intelligence artificielle (IA), les cybermenaces se multiplient et se complexifient.
+- L’IA facilite notamment la création de contenus trompeurs de plus en plus difficiles à détecter, accentuant les risques de désinformation, d’hypertrucage (deepfake), de fraude et d’hameçonnage (phishing).
+
+## [Galaxia Transinne : vers un centre de référence wallon en <b>cybersécurité</b> - TV Lux](https://www.tvlux.be/actu/info/economie/galaxia-transinne-vers-un-centre-de-reference-wallon-en-cybersecurite_52721)  
+*Source : tvlux.be | Publication : 2026-10-09*
+
+- Le site de Galaxia Transinne (Libin) est appelé à devenir le pôle de référence wallon en matière de cybersécurité et de s'étendre en une "Wallonie Cyber Valley", selon un communiqué du ministre wallon en charge de l'Économie, Pierre-Yves Jeholet (MR), qui annonce près de 14 millions d'euros débloqués pour développer ce projet.
+- Un "cyber range" ou simulateur d'attaques informatiques, un laboratoire de cryptographie quantique et un simulateur de crise cyber sont présentés comme les bases d'un campus d'excellence, unique en Wallonie.
+- Des développements qui seront centrés sur le zoning Galaxia, à Transinne.
+- Là où la dynamique a déjà été lancée, notamment par Idélux et l'ESA, l'agence spatiale européenne.
+
+## [Nouvelle arrestation dans la sphère des Shiny Hunters | LeMagIT](https://www.lemagit.fr/actualites/366652042/Nouvelle-arrestation-dans-la-sphere-des-Shiny-Hunters)  
+*Source : lemagit.fr | Publication : 2026-10-09*
+
+- John Gomez - stock.adobe.com Nouvelle arrestation dans la sphère des Shiny Hunters Le FBI vient d'arrêter, en Pennsylvanie, un ressortant canadien suspecté d'avoir participé au vol de données du FBI.
+- Son identité n'a pas été précisée, laissant ouverte une question : s'agit-il de « Shiny » ?.
+- Près d'une semaine, jour pour jour, après la révélation de l'arrestation de Saif al-Din Khader, aussi connu sous le pseudonyme Rey, nos confrères du New York Times en annoncent une autre : celle d'un ressortissant canadien, en Pennsylvanie.
+- Selon nos confrères, ce nouvel individu est soupçonné d'être impliqué dans l'attaque d'un portail RH du FBI.
+
+## [<b>Cybercriminalité</b> : une plateforme de revente de données volées démantelée - Notre Temps](https://www.notretemps.com/depeches/cybercriminalite-une-plateforme-de-revente-de-donnees-volees-demantelee-139638)  
+*Source : notretemps.com | Publication : 2026-10-09*
+
+- Cybercriminalité : une plateforme de revente de données volées démantelée Une importante plateforme de revente de données volées, ou look up, a été démantelée et mise hors ligne et ses trois administrateurs présumés interpellés, une opération présentée par les enquêteurs comme une première de cette ampleur en France, a-t-on appris auprès du parquet.
+- Initialement connu sous le nom de Reacher, puis renommé Stryxx, ce site "revendiquait 730 millions de lignes de données indexées et plus de 3 millions de requêtes réalisées", a précisé le patron de l'Office français anti-criminalité (Ofac), Nicolas Guidoux, dans un post LinkedIn.
+- Le site avait été créé en mars 2026 et une enquête avait été ouverte le 15 mai par la section spécialisée dans la lutte contre la cybercriminalité du parquet de Paris, a-t-il précisé.
+- "Cette plateforme proposait, via différentes formules d'abonnement ou l'achat de crédits, trois modes de recherche, ainsi qu'une fonction multi-critères", a décrit M. Guidoux.
+
+## [Un nouveau consortium de cloud de confiance - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/65355-un-nouveau-consortium-de-cloud-de-confiance.html)  
+*Source : linformaticien.com | Publication : 2026-10-09*
+
+- Cloud Temple, Vates, Thales, Bull, et le CEA ont été sélectionné dans l'appel à projets « Renforcement de l'offre de services cloud » opéré par.
+
+## [Bretagne : un gros contrat avec l'enseigne de vêtements Jules pour ce groupe de Lannion ...](https://actu.fr/bretagne/lannion_22113/bretagne-un-gros-contrat-avec-lenseigne-de-vetements-jules-pour-ce-groupe-de-lannion-on-vous-explique_64903395.html)  
+*Source : actu.fr | Publication : 2026-10-09*
+
+- C’est une belle reconnaissance de l’expertise d’Ekinops, basée à Lannion (Côtes-d’Armor).
+- Pour ses 350 magasins répartis principalement en France, en Belgique et à l’international, l’enseigne française de prêt-à-porter masculin Jules a choisi de recourir à ses solutions.
+- Pour cette branche de l’Association Familiale Mulliez (AFM), l’enjeu est de renforcer sa sécurité web et de faire évoluer ses usages numériques.
+- L’ensemble des sites concerné « L’enseigne Jules s’appuie sur les solutions d’Ekinops pour améliorer la visibilité de ses usages Internet, simplifier la gestion des politiques de sécurité et sécuriser les accès web de son siège, comme de ses magasins », détaille Ekinops dans un communiqué.
+
+## [&quot;Aucune nouvelle version ne sera rendue publique&quot;: le développeur d'un outil chinois de ... - BFM](https://www.bfmtv.com/tech/cybersecurite/aucune-nouvelle-version-ne-sera-rendue-publique-le-developpeur-d-un-outil-chinois-de-securite-ferme-son-code-source-apres-qu-il-a-ete-detourne-pour-mener-des-cyberattaques_AD-202610090512.html)  
+*Source : bfmtv.com | Publication : 2026-10-09*
+
+- "Aucune nouvelle version ne sera rendue publique": le développeur d'un outil chinois de sécurité ferme son code source après qu'il a été détourné pour mener des cyberattaques Détourné par des "acteurs malveillants", Artex a été contraint de fermer son code source après avoir été détourné.
+- Cet outil de test de sécurité avait été conçu pour aider les entreprises à évaluer leurs systèmes de défense informatique au moyen de tests de sécurité visant à détecter leurs éventuels points faibles.
+- Artex a été "détourné par certains acteurs malveillants" pour lancer des cyberattaques, a écrit jeudi le développeur de l'outil, "Autumn-27", sur la plateforme d'hébergement de code Github, jugeant ce détournement "totalement contraire" à ses intentions.
+- "Compte tenu de l'utilisation abusive de l'outil, le projet Artex ne sera plus mis à jour et passera en code fermé", a-t-il annoncé.
+
+## [<b>Cybersécurité</b> et petites entreprises : 5 mesures à mettre en place sans attendre - Clubic](https://www.clubic.com/actualite-630373-cybersecurite-et-petites-entreprises-5-mesures-a-mettre-en-place-sans-attendre.html)  
+*Source : clubic.com | Publication : 2026-10-09*
+
+- Comptables, courtiers et autres professionnels de la fiscalité sont régulièrement ciblés par les cyberattaques, notamment parce qu’ils manipulent au quotidien de nombreuses données sensibles.
+- Pour limiter les risques, quelques mesures simples et concrètes permettent de renforcer leur sécurité.
+- Il ne faut pas croire que, parce qu’on est une petite structure, on est à l’abri des cyberattaques.
+- Bien au contraire, les entreprises disposant de moyens limités représentent des cibles de choix pour les cybercriminels.
+
+## [La défense passe au digital : les centres de données et l'IA en première ligne de la sécurité nationale](https://www.lombardodier.com/fr/insights/2026/october/defence-goes-digital.html)  
+*Source : lombardodier.com | Publication : 2026-10-09*
+
+- Les cookies nécessaires contribuent au bon fonctionnement du site en activant des fonctionnalités essentielles comme la navigation et l’accès aux zones sécurisées.
+- Ils ne peuvent pas être désactivés dans nos systèmes.
+- Lorsque vous visitez notre Site, des informations peuvent être stockées ou récupérées sur votre dispositif, principalement sous forme de cookies.
+- Nous utilisons des cookies nécessaires au bon fonctionnement du Site, ainsi que des cookies statistiques et marketing pour mesurer l’audience et personnaliser notre contenu.
+
+## [« On ne voit pas encore émerger d'attaques complètement autonomes » : le président d ...](https://www.usine-digitale.fr/cybersecurite/on-ne-voit-pas-encore-emerger-dattaques-completement-autonomes-le-president-dintercert-france-appelle-au-realisme-face-au-marketing-des-laboratoires-dia.7RZF3KP5B5H7DPD37AVIQ65YOE.html)  
+*Source : usine-digitale.fr | Publication : 2026-10-09*
+
+- cybersécurité , estime que l'IA continuera à rendre certaines étapes des intrusions plus efficaces.
+- Il prévoit une réduction du délai entre la.
+
+## [Pourquoi la France semble-t-elle si vulnérable en matière de <b>cybersécurité</b> ? - LinuxFr.org](https://linuxfr.org/users/frayd/liens/pourquoi-la-france-semble-t-elle-si-vulnerable-en-matiere-de-cybersecurite)  
+*Source : linuxfr.org | Publication : 2026-10-09*
+
+- On l'a vue dans des séries, avec des blackouts et des milliers de morts.
+- On l'a lue dans des romans d'anticipations avec l'effondrement de systèmes politiques entiers, d'économies, et le délitement de nations.
+- On en a parlé dans les journaux, avec les menacent sur nos vies, notre sécurité, notre souveraineté, nos économies, nos infrastructures.
+- Et elle est là !.
+
+## [Comment les agents IA bouleversent la <b>cybersécurité</b>, défensive et offensive - Next.ink](https://next.ink/260784/comment-les-agents-ia-bouleversent-la-cybersecurite-defensive-et-offensive/)  
+*Source : next.ink | Publication : 2026-10-09*
+
+- Comment les agents IA bouleversent la cybersécurité, défensive et offensive Mythos, va patcher Le 09 octobre à 17h08 Cela ne surprendra personne, mais les deux mots incontournables (ou presque) aux Assises de la cybersécurité de Monaco sont « IA » et « agent ».
+- Entre l’attaque, la défense et l’analyse (avec une forte asymétrie entre les deux), ils sont partout, à toutes les sauces.
+- Si la situation actuelle est compliquée, les élections à venir risquent d’être « un carnage ».
+- Comment les agents IA bouleversent la cybersécurité, défensive et offensive Mythos, va patcher Cela ne surprendra personne, mais les deux mots incontournables (ou presque) aux Assises de la cybersécurité de Monaco sont « IA » et « agent ».
+
+## [Cyberattaque : France Travail de nouveau visé par un piratage de données, plus de 100 ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-france-travail-de-nouveau-vise-par-un-piratage-de-donnees-plus-de-100-000-numeros-de-telephone-concernes-30981647.php)  
+*Source : sudouest.fr | Publication : 2026-10-09*
+
+- Les données personnelles de plus de 62 000 agents de France Travail ont été mises en vente sur un forum cybercriminel après une nouvelle intrusion informatique France Travail a de nouveau été victime la semaine dernière d’une cyberattaque, provoquant la mise en vente de données de 62 848 agents sur un forum cybercriminel, a rapporté jeudi le site French Breaches. «.
+- Selon nos informations, l’intrusion aurait eu lieu la semaine dernière via le compte Microsoft d’un employé.
+- L’accès aurait été détecté et bloqué quelques jours après l’exfiltration des données », selon ce site spécialisé dans la surveillance des fuites de données.
+
+## [Face à l'essor des moteurs de recherche illégaux de données, un premier site « lookup » démantelé](https://fr.news.yahoo.com/sport/face-à-l-essor-moteurs-081720749.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-10-09*
+
+- Face à l’essor des moteurs de recherche illégaux de données, un premier site « lookup » démantelé Un premier démantèlement d'un site « lookup », ces moteurs de recherche illégaux qui permettent d'accéder aux données personnelles d'un grand nombre de Français, a été réalisé mardi 6 octobre, a communiqué, jeudi, l'Office anti-cybercriminalité (OFAC). «.
+- L'OFAC a interpellé les trois administrateurs du lookup initialement connu sous le nom de Reacher, puis renommé Stryxx, qu'ils ont dans le même temps mis hors ligne », a annoncé le chef de l'OFAC Nicolas Guidoux sur le réseau social LinkedIn. «.
+- Ce démantèlement est le premier en France pour une plate-forme spécialisée dans l'organisation, la compilation et la revente de données », a-t-il ajouté.
+- Il n'y a pas que le fisc qui se fait pirater, chaque jour des milliers de données fuitent en France Selon le chef de l'office, le site, créé en mars dernier, revendiquait « 730 millions de lignes de données indexées et plus de trois millions de requêtes réalisées ».
 
 ## [Un rapport d'experts européen appelle à des restrictions pour les fournisseurs à haut risque ...](https://tecsol-quotidien.fr/un-rapport-dexperts-europeen-appelle-a-des-restrictions-pour-les-fournisseurs-a-haut-risque-dans-le-secteur-solaire-pv/)  
 *Source : tecsol-quotidien.fr | Publication : 2026-10-08*
