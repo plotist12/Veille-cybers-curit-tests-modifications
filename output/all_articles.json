@@ -1,5 +1,185 @@
 [
   {
+    "id": "aceefb4ff5",
+    "title": "Fleuret AI : la <b>cybersécurité</b> offensive en spécialité - 13/10 - BFM",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/01-business/video-fleuret-ai-la-cybersecurite-offensive-en-specialite-13-10_VN-202610130987.html",
+    "source": "bfmtv.com",
+    "pub_date": "2026-10-13",
+    "summary": "- Fleuret AI : la cybersécurité offensive en spécialité - 13/10 Ce mardi 13 octobre, Yanis Grigy, cofondateur et CEO de Fleuret AI, s'est penché sur la cyberattaque contre les frigos de supermarchés, et la cybersécurité offensive, dans l'émission Tech&Co Business présentée par Frédéric Simottel.\n- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.\n- | Durée : 9:19.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "acbd36715c",
+    "title": "<b>Cybersécurité</b> : 400 experts contre les dérives de l'IA | OHdio | Radio-Canada",
+    "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2501875/derives-ia-chercheurs-reclament-changements-immediats",
+    "source": "ici.radio-canada.ca",
+    "pub_date": "2026-10-13",
+    "summary": "- Environ 400 scientifiques spécialisés en intelligence artificielle et cybersécurité ont signé une lettre ouverte pour revendiquer des changements immédiats sur l’intelligence artificielle, craignant des futurs incidents de sécurité.\n- Un des principaux instigateurs de la lettre, Nicolas Papernot, professeur à l’Université de Toronto et titulaire d’une chaire de recherche en intelligence artificielle de l’Institut canadien de recherches avancées a expliqué ses motivations sur les ondes de l'émission C'est encore mieux l'après-midi.\n- Selon M. Papernot, un des facteurs les plus inquiétants du dossier serait la facilité avec laquelle certains modèles ont pu tromper les systèmes de sécurité.\n- Ce que l’on a vu dans les dernières failles qui ont été discutées cet été, on voit que des agents, des modèles d’IA se sont attaqués à certains sites web, certaines organisations, mais pour l’instant ça n’a pas été des organisations qui sont critiques.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "51e70caa99",
+    "title": "Cyberattaque des frigos de supermarchés : l'expert explique - RTL Info",
+    "link": "https://www.rtl.be/actu/lexpert/pourquoi-des-pirates-se-sont-ils-attaques-aux-frigos-des-supermarches-les/2026-10-13/article/803209",
+    "source": "rtl.be",
+    "pub_date": "2026-10-13",
+    "summary": "- Partager: Dans la nuit de dimanche à lundi, une cyberattaque a visé les installations frigorifiques de 150 à 200 magasins Intermarché et de moins d’une centaine de points de vente de Coopérative U en France.\n- Les produits frais et surgelés concernés ont dû être jetés.\n- Guillaume Deterville, expert en cybersécurité, a analysé cette attaque.\n- Les pirates informatiques s’en prennent d’ordinaire aux banques ou aux hôpitaux.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "24c12820d8",
+    "title": "De petites IA qui se comportent comme des vers informatiques et se répliquent sans ... - BFM",
+    "link": "https://www.bfmtv.com/tech/cybersecurite/de-petites-ia-qui-se-comportent-comme-des-vers-informatiques-et-se-repliquent-sans-intervention-humaine-pour-devenir-impossibles-a-arreter-c-est-ce-que-veut-eviter-anthropic-et-cela-pourrait-arriver-d-ici-la-fin-d-annee_AV-202610130800.html",
+    "source": "bfmtv.com",
+    "pub_date": "2026-10-13",
+    "summary": "- De petites IA qui se comportent comme des vers informatiques et se répliquent sans intervention humaine pour devenir impossibles à arrêter: c'est ce que veut éviter Anthropic et cela pourrait arriver \"d'ici la fin d'année\" Dans un article de recherche publié sur son blog, lundi 12 octobre, la firme d'intelligence artificielle Anthropic avertit sur les risques que pourraient représenter des modèles pouvant adopter le comportement de vers informatiques.\n- Ces logiciels malveillants ont pour particularité de se propager en autonomie sur les machines qu'ils arrivent à infecter.\n- Leur danger repose sur la grande difficulté à restreindre leur propagation, ou dans le cas d'une IA avec ce comportement, d'appuyer sur un bouton \"off\".\n- Infecter des objets connectés du quotidien Anthropic introduit l'idée qu'au lieu de se reposer sur des data centers, des modèles de petite taille (environ 9 milliards de paramètres) seraient capables de se répliquer sur différents objets connectés, des smart TV aux montres et autres réfrigérateurs intelligents.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "f3ffe41a7f",
+    "title": "Frigos des supermarchés cyberattaqués : transports, banques, maison connectée… À quel ...",
+    "link": "https://www.leparisien.fr/economie/frigos-des-supermarches-cyberattaques-transports-banques-maison-connectee-a-quel-point-sommes-nous-vulnerables-13-10-2026-AFXMSDATOBF55BSBDDQCT7VYDU.php",
+    "source": "leparisien.fr",
+    "pub_date": "2026-10-13",
+    "summary": "- cybersécurité alertent sur la vulnérabilité de certains secteurs face aux pirates.\n- PHOTOPQR/OUEST FRANCE/MAXPPP/ELSA RANCEL.\n- Lire dans l'app.\n- Offrir.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "290d352ec0",
+    "title": "Cyberattaque : « Les frigos des supermarchés, un coup de semonce salvateur » - Sud Ouest",
+    "link": "https://www.sudouest.fr/gironde/bordeaux/cyberattaque-les-frigos-des-supermarches-un-coup-de-semonce-salvateur-31056168.php",
+    "source": "sudouest.fr",
+    "pub_date": "2026-10-13",
+    "summary": "- Les récentes cyberattaques contre des frigos et congélateurs de marque Danfoss et Dixell de 700 enseignes de la grande distribution ont secoué la France de l’entrepreneuriat et de la cyberdéfense, mais plutôt que la panique, le secteur veut retenir la leçon.\n- Explications « À qui attribuer l’attaque des frigos des 700 supermarchés ?.\n- À cette heure, il est difficile de répondre.\n- Cela peut venir de partout, d’organisations de hackers solides, de pays tiers voulant montrer qu’ils peuvent ébranler notre système alimentaire, mais aussi d’activistes souhaitant sensibiliser sur certaines failles de sécurité de notre vie connectée. ».",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "82af54326c",
+    "title": "Cyberattaque dans les supermarchés : ce député breton presse le gouvernement d' « agir, plus vite »",
+    "link": "https://www.ouest-france.fr/societe/cyberattaque/cyberattaque-dans-les-supermarches-ce-depute-breton-presse-le-gouvernement-d-agir-plus-vite-8598799e-c714-11f1-9522-1f9ae0711c0a",
+    "source": "ouest-france.fr",
+    "pub_date": "2026-10-13",
+    "summary": "- Rapporteur d'un projet de loi sur le renforcement de la cybersécurité , il plaide pour l'accélération de l'examen de ce texte.\n- Ouest-France Céline.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "5d76af7571",
+    "title": "Un événement qui illustre l'évolution des <b>cybermenaces</b> et leurs enjeux. Explications ... - Facebook",
+    "link": "https://www.facebook.com/laprovence/posts/un-événement-qui-illustre-lévolution-des-cybermenaces-et-leurs-enjeux-explicatio/1582996983871460/",
+    "source": "facebook.com",
+    "pub_date": "2026-10-13",
+    "summary": "- Un événement qui illustre l'évolution des cybermenaces et leurs enjeux.\n- Explications.\n- https://l.laprovence.com/bqC1.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "467b23e3c3",
+    "title": "Les enquêteurs traquent les pirates informatiques qui ont attaqué les chambres froides d'un ...",
+    "link": "https://www.boursorama.com/bourse/actualites-amp/les-enqueteurs-traquent-les-pirates-informatiques-qui-ont-attaque-les-chambres-froides-d-un-supermarche-francais-aucune-revendication-n-a-ete-formulee-32f69e198501e9eb7f0cae51ec5f3cd6",
+    "source": "boursorama.com",
+    "pub_date": "2026-10-13",
+    "summary": "- Les enquêteurs traquent les pirates informatiques qui ont attaqué les chambres froides d'un supermarché français ; aucune revendication n'a été formulée information fournie par Reuters 13/10/2026 à 21:18 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajout d'un commentaire de Copeland aux paragraphes 9 et 10) * Au moins 350 supermarchés touchés par une cyberattaque, des denrées alimentaires avariées ont été jetées * Un expert suggère que l'attaque a exploité un manquement aux « règles élémentaires de cybersécurité » * Une entreprise danoise exhorte les sociétés à utiliser des systèmes à jour par Raphael Satter et Gabriel Stargardter Mardi, les enquêteurs français traquaient les pirates informatiques qui ont pris le contrôle des groupes frigorifiques dans des centaines de supermarchés lors d’une cyberattaque qui a mis en évidence les vulnérabilités des systèmes connectés , aucun groupe n’ayant revendiqué publiquement cette attaque.\n- Cette enquête intervient alors que la chaîne de supermarchés néerlandaise Ahold Delhaize AD.AS est aux prises avec un autre incident de cybersécurité qui a perturbé ses services en ligne, bien que les autorités néerlandaises aient déclaré ne voir aucun lien entre ces deux événements.\n- L'absence de revendication de la part d'hacktivistes ou de demande de rançon de la part de cybercriminels a laissé perplexes les enquêteurs français, selon une source proche de l’enquête.\n- En général, ces groupes cherchent rapidement à monnayer leurs piratages ou à s’en attribuer le mérite à des fins politiques.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "47b382b657",
+    "title": "<b>Cybersécurité</b> : L'Anssi fait écran à sa fuite de données | Le Canard enchaîné",
+    "link": "https://www.lecanardenchaine.fr/technologie-sciences/55182-l-anssi-fait-ecran-a-sa-fuite-de-donnees",
+    "source": "lecanardenchaine.fr",
+    "pub_date": "2026-10-13",
+    "summary": "- L'Agence nationale de la sécurité des systèmes d’information a attendu près de deux mois pour rendre public une fuite de données dont elle a été victime début août.\n- Le parquet de Paris a même dû ouvrir une enquête de son propre chef.\n- L'Anssi aurait-elle oublié les précautions qu'elle recommande aux victimes de piratage ?.\n- Les pirates ne respectent plus rien !.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "41d8863303",
+    "title": "La <b>cybersécurité</b> en question après le piratage de plusieurs frigos en France - 19h30 - RTS",
+    "link": "https://www.rts.ch/play/tv/19h30/video/la-cybersecurite-en-question-apres-le-piratage-de-plusieurs-frigos-en-france?urn=urn:rts:video:fbe03831-a036-3938-8920-5fff8fa7f50b",
+    "source": "rts.ch",
+    "pub_date": "2026-10-13",
+    "summary": "- Sauter le contenu Accueil Info et Société 19h30 La cybersécurité en question après le piratage de plusieurs frigos en France.\n- Plus tard Page de l’émission 19h30 Derniers épisodes Les tendances Télécharger l’app Play RTS sur smartphone S'abonner à nos newsletters Paramètres de personnalisation Aide Contact et suggestions Audio et podcast Charte de confidentialité Gérer les paramètres relatifs aux cookies RTS Radio Télevision Suisse, succursale de la Société suisse de radiodiffusion et télévision.\n- Play Suisse.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "a602fb18f7",
+    "title": "Sondage 2026 de CIRA sur la <b>cybersécurité</b>",
+    "link": "https://www.cira.ca/fr/ressources/documents/cybersecurite/sondage-2026-sur-la-cybersecurite/",
+    "source": "cira.ca",
+    "pub_date": "2026-10-13",
+    "summary": "- Executive Summary - L’adoption de l’IA progresse, tout comme les menaces faisant appel à l’IA - Les organisations dépensent davantage en cybersécurité, mais ne se sentent pas plus en sécurité - La provenance canadienne des solutions de cybersécurité devient un critère d’achat - Les cyberincidents ont diminué, mais les rançongiciels continuent de changer la donne - Le sondage 2026 de CIRA sur la cybersécurité a été réalisé par The Strategic Counsel en juin et juillet 2026.\n- Il a recueilli 503 réponses en ligne de décideur·euses en matière de cybersécurité au sein d’organisations canadiennes des secteurs privé, public et des municipalités, universités, écoles et hôpitaux (MUEH).\n- L’objectif était de cerner les tendances dans la façon dont les organisations canadiennes comprennent les menaces à la cybersécurité, s’y préparent et y réagissent.\n- Vous trouverez les résultats complets du sondage et un résumé des constatations ci-dessous.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "decf9c8e63",
+    "title": "Aide-mémoire de <b>cybersécurité</b> pour la rentrée scolaire à l'usage des administrateurs d'écoles",
+    "link": "https://www.staysafeonline.org/fr/articles/liste-de-controle-de-la-cybersecurite-pour-la-rentree-scolaire-a-l-intention-des-administrateurs-scolaires",
+    "source": "staysafeonline.org",
+    "pub_date": "2026-10-13",
+    "summary": "- Sécurité et confidentialité en ligne | Min de Lecture Aide-mémoire de cybersécurité pour la rentrée scolaire à l'usage des administrateurs d'écoles Les écoles sont une cible fréquente pour les cybercriminels, mais les administrateurs peuvent prendre quelques mesures pour mieux se préparer à une année scolaire plus sûre.\n- La rentrée scolaire est synonyme d'arrivée de nouveaux étudiants et du retour des anciens, ainsi que de leurs appareils.\n- De nouveaux comptes seront créés et une nouvelle vague d'activité déferlera sur les systèmes technologiques de votre école.\n- C'est donc le moment idéal pour revoir les bases de la sécurité qui peuvent aider à protéger les élèves, le personnel et le fonctionnement de l'école.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "d865eeb8f1",
+    "title": "Livre blanc sur la <b>cybersécurité</b> en Afrique : la course à la défense numérique du continent",
+    "link": "https://www.mastercard.com/mea/fr/business/cybersecurity-fraud-prevention/africa-cybersecurity-whitepaper.html",
+    "source": "mastercard.com",
+    "pub_date": "2026-10-13",
+    "summary": "- Le Livre blanc sur la cybersécurité en Afrique : la course à la défense numérique du continent examine les cybermenaces qui façonnent l’économie numérique africaine en pleine expansion et met en lumière les actions nécessaires pour renforcer la cyberrésilience à travers le continent.\n- S’appuyant sur les données de Mastercard Cyber Insights, des études sectorielles, des renseignements issus des forces de l’ordre et des entretiens avec des experts de premier plan en cybersécurité, ce rapport analyse l’activité cyber, les méthodes d’attaque, les secteurs visés et le niveau de préparation à la cybersécurité en Afrique du Sud, au Nigeria, au Maroc et au Kenya.\n- Alors que les paiements numériques, la fintech, le commerce électronique, la connectivité mobile et les services publics numériques poursuivent leur croissance, les cybercriminels ciblent de plus en plus les systèmes qui soutiennent l’économie numérique africaine.\n- Le rapport explore le paysage des menaces et présente quatre actions prioritaires visant à renforcer la confiance numérique et la résilience.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "8bedd3da82",
+    "title": "<b>Ransomware</b> : un négociateur de renom accusé... d'extorsion - LeMagIT",
+    "link": "https://www.lemagit.fr/actualites/366652134/Ransomware-un-negociateur-de-renom-accuse-dextorsion",
+    "source": "lemagit.fr",
+    "pub_date": "2026-10-13",
+    "summary": "- Oleksandr - stock.adobe.com Ransomware : un négociateur de renom accusé... d'extorsion Edward Dubrovsky, un personnage renommé de la cybersécurité, a été arrêté et inculpé en Pennsylvanie la semaine dernière pour tentative extorsion.\n- Les autorités américaines ont inculpé la semaine dernière un négociateur de rançongiciel pour des activités présumées d'extorsion - le dernier exemple de professionnels de la cybersécurité impliqués dans l'activité même contre laquelle ils sont censés lutter.\n- Edward Dubrovsky, 54 ans, a été inculpé de complot menaçant d'altérer la confidentialité d'informations dans le but d'extorquer de l'argent, en vertu de 18 U.S.C.\n- § 1030(a)(7)(B), une disposition fédérale du Computer Fraud and Abuse Act (CFAA) américan.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "a2eee116a9",
+    "title": "Frigos de supermarchés sabotés : les cyberattaques qui vident les rayons",
+    "link": "https://www.solutions-numeriques.com/frigos-de-supermarches-sabotes-les-cyberattaques-qui-vident-les-rayons/",
+    "source": "solutions-numeriques.com",
+    "pub_date": "2026-10-13",
+    "summary": "- Lundi, Coopérative U a révélé une cyberattaque contre les installations de froid de plusieurs de ses magasins.\n- L’ANSSI a depuis désigné les contrôleurs Danfoss comme cible d’une campagne de sabotage.\n- Selon Numerama, les régulateurs Dixell seraient eux aussi concernés, et un Leclerc du Tarn a dû jeter sa marchandise.\n- En Belgique, Ahold Delhaize affronte de son côté des problèmes informatiques.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "1e4c80c579",
+    "title": "&quot;Une évolution majeure de la <b>cybermenace</b>&quot; : pourquoi le piratage de frigos de ... - La Provence",
+    "link": "https://www.laprovence.com/article/faits-divers-justice/56774474099212/une-evolution-majeure-de-la-cybermenace-pourquoi-le-piratage-de-frigos-de-supermarches-illustre-de-nouveaux-enjeux",
+    "source": "laprovence.com",
+    "pub_date": "2026-10-13",
+    "summary": "- \"Une évolution majeure de la cybermenace\" : pourquoi le piratage de frigos de supermarchés illustre de nouveaux enjeux Le piratage des frigos de supermarchés soulève de nombreux enjeux dans le monde de la cybersécurité.\n- / Photo Frédéric Speich Une cyberattaque qui, cette fois, n'avait pas pour but de dérober les données personnelles des Français.\n- Dans la nuit du dimanche 11 au lundi 12 octobre, des frigos de nombreux supermarchés ont été la cible d'un piratage d'ampleur.\n- Un événement qui illustre l'évolution des cybermenaces et leurs enjeux.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "75893423d3",
+    "title": "<b>Cybersécurité</b> / IA : plus de 400 scientifiques appellent à une meilleure supervision",
+    "link": "https://www.lerevenu.com/reussir-bourse/avis-des-pros/cybersecurite-ia-plus-de-400-scientifiques-appelle/",
+    "source": "lerevenu.com",
+    "pub_date": "2026-10-13",
+    "summary": "- Cybersécurité / IA : plus de 400 scientifiques appellent à une meilleure supervision Face aux risques de cybersécurité liés aux modèles d’intelligence artificielle les plus avancés, des centaines de chercheurs, dont Geoffrey Hinton et Yoshua Bengio, demandent la création d’une instance internationale indépendante.\n- - Ils veulent imposer des standards de confinement plus stricts et améliorer le signalement des incidents.\n- - Écrit par Romain Delattre Votre newsletter financière incontournable Obtenez le Guide Placement 2026 GRATUITEMENT.\n- Romain Delattre Articles similaires Alibaba : une nouvelle génération de lunettes connectées dopées à l’intelligence artificielle Le géant chinois du commerce en ligne renforce sa présence dans les appareils grand public avec une nouvelle génération de lunettes dopées à l’intelligence artificielle.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "8981e4dcdc",
+    "title": "Cyberattaque dans l'Éducation nationale : la coupure numérique n'est toujours pas résolue ...",
+    "link": "https://www.ladepeche.fr/2026/10/13/cyberattaque-dans-leducation-nationale-la-coupure-numerique-nest-toujours-pas-resolue-au-sein-de-lacademie-de-toulouse-13598587.php",
+    "source": "ladepeche.fr",
+    "pub_date": "2026-10-13",
+    "summary": "- Cyberattaque dans l'Éducation nationale : la coupure numérique n'est toujours pas résolue au sein de l'Académie de Toulouse l'essentiel Depuis cet été, l'Académie de Toulouse peine à se relever de la cyberattaque revendiquée par le groupe \"ZeroBytes\".\n- À l'échelle régionale, les infrastructures numériques de 2 200 écoles et 367 établissements ont été touchées, entraînant des retards dans les salaires et les démarches administratives.\n- Aucune date de résolution n'est annoncée.\n- La coupure numérique qui impacte l'Académie de Toulouse (Haute-Garonne) depuis cet été n'est toujours pas résolue.",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "72163c0431",
+    "title": "Cyberattaque : Ascenseurs ou alarmes… Après les frigos de supermarchés, quels ...",
+    "link": "https://fr.news.yahoo.com/sport/cyberattaque-ascenseurs-alarmes-après-frigos-162733077.html",
+    "source": "fr.news.yahoo.com",
+    "pub_date": "2026-10-13",
+    "summary": "- Cyberattaque : Ascenseurs ou alarmes… Après les frigos de supermarchés, quels équipements peuvent être vulnérables ?.\n- HACKING - Après les frigos de supermarchés piratés, quels équipements connectés du quotidien pourraient être les prochaines cibles ?.\n- Antoine Hautin, expert en cybersécurité, fait le point avec « 20 Minutes » Dans la nuit de dimanche à lundi, des centaines de supermarchés dont des Leclerc, Intermarché, Super U, Carrefour ou encore Monoprix, ont vu leurs installations frigorifiques attaquées à distance.\n- Les auteurs de cette cyberattaque ont réussi à modifier la température des équipements grâce à des failles du logiciel de pilotage du refroidissement.",
+    "added_on": "2026-10-14"
+  },
+  {
     "id": "4f39789b4e",
     "title": "Presse &amp; Médias - <b>Cybersécurité</b>, le défi du siècle - CEA",
     "link": "https://www.cea.fr/presse/Pages/actualites-communiques/ntic/cybersecurite-defi-siecle.aspx",
