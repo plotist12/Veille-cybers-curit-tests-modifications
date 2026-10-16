@@ -1,5 +1,152 @@
-# Résumés – 2026-10-14
+# Résumés – 2026-10-16
 
+
+## [Cette chaîne de supermarchés touchée par un important problème jusqu'à dimanche au moins](https://www.rtl.be/actu/conso/cette-chaine-de-supermarches-touchee-par-un-important-probleme-jusqua-dimanche/2026-10-15/article/803498)  
+*Source : rtl.be | Publication : 2026-10-16*
+
+- Partager: Albert Heijn ne livrera pas de courses commandées en ligne au moins jusqu’à dimanche inclus, a annoncé la chaîne de supermarchés dans une nouvelle mise à jour concernant l’incident de cybersécurité auquel elle est confrontée depuis dimanche dernier.
+- Les magasins sont en revanche à nouveau approvisionnés normalement.
+- Selon l’enseigne, les rayons des magasins sont de mieux en mieux remplis.
+- Ces derniers jours, de nombreux manques étaient apparus en raison de la perturbation de la distribution.
+
+## [Pourquoi les PME devraient-elles faire évaluer leur posture de <b>cybersécurité</b>? - Les Affaires](https://www.lesaffaires.com/contenus-partenaires/pourquoi-les-pme-devraient-elles-faire-evaluer-leur-posture-de-cybersecurite/pourquoi-les-pme-devraient-elles-faire-evaluer-leur-posture-de-cybersecurite/)  
+*Source : lesaffaires.com | Publication : 2026-10-15*
+
+- Pourquoi les PME devraient-elles faire Ã©valuer leur posture de cybersÃ©curitÃ©?.
+- Genatec|PubliÃ© Ã 10h30Lâenvironnement TI a beaucoup Ã©voluÃ© dans les PME au cours des derniÃ¨res annÃ©es.
+- Or, tout changement peut augmenter les risques et crÃ©er de nouveaux angles morts.
+- Aujourdâhui, les dirigeants dâentreprises devraient procÃ©der Ã une Ã©valuation de leurs besoins et se doter dâun plan de cybersÃ©curitÃ© solide.
+
+## [Proofpoint, filiale de Thoma Bravo, va racheter Varonis Systems dans le cadre d'une ...](https://www.boursorama.com/bourse/actualites-amp/proofpoint-filiale-de-thoma-bravo-va-racheter-varonis-systems-dans-le-cadre-d-une-operation-entierement-en-numeraire-d-un-montant-de-6-3-milliards-de-dollars-5bd93cfa70fbcecc0b5a3bcfa47f40cd)  
+*Source : boursorama.com | Publication : 2026-10-15*
+
+- Proofpoint, filiale de Thoma Bravo, va racheter Varonis Systems dans le cadre d'une opération entièrement en numéraire d'un montant de 6,3 milliards de dollars information fournie par Reuters 15/10/2026 à 23:23 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Les entreprises indiquent que la transaction devrait être finalisée au cours du premier semestre 2027 * L'action Varonis progresse d'environ 2,7 % en séance prolongée * L'offre valorise le capital de Varonis à 5,71 milliards de dollars (Ajout de détails et de contexte tout au long de l'article) Proofpoint, société de cybersécurité détenue par Thoma Bravo, va racheter la société de sécurité des données Varonis Systems VRNS.O dans le cadre d'une opération entièrement en numéraire évaluée à environ 6,3 milliards de dollars, ont annoncé jeudi les deux entreprises.
+- Aux termes de l'accord, les actionnaires de Varonis recevront 49,75 dollars par action en numéraire, soit une prime de 52 % par rapport au cours de clôture de l'action le 22 juin, veille de l'apparition des premières rumeurs concernant une éventuelle vente, ont précisé les deux sociétés.
+- Cette offre valorise le capital de Varonis à 5,71 milliards de dollars.
+- Son titre a progressé d’environ 2,7 % en séance prolongée.
+
+## [KPMG CEO Outlook 2026 : la <b>cybersécurité</b> dépasse l'IA comme priorité d'investissement](https://finyear.com/kpmg-ceo-outlook-2026-la-cybersecurite-depasse-lia-comme-priorite-dinvestissement/)  
+*Source : finyear.com | Publication : 2026-10-15*
+
+- KPMG CEO Outlook 2026 : la cybersécurité dépasse l’IA comme priorité d’investissement 15/10/2026 La 12e édition du Global CEO Outlook de KPMG, réalisée auprès de 1 400 dirigeants d’entreprise entre août et septembre 2026, montre que les risques cyber ont dépassé l’incertitude économique comme préoccupation principale.
+- En France, 99 % des dirigeants se disent préoccupés par l’usurpation d’identité et la confidentialité des données.
+- Le Global CEO Outlook de KPMG est conduit depuis 2014 auprès de dirigeants d’entreprises réalisant plus de 500 millions de dollars de chiffre d’affaires annuel — un tiers d’entre elles dépassent 10 milliards.
+- L’édition 2026 couvre 12 marchés et 13 secteurs d’activité, dont 75 répondants en France.
+
+## [Coup de filet contre le phishing sinophone qui inonde le Japon - Solutions-Numeriques](https://www.solutions-numeriques.com/coup-de-filet-contre-le-phishing-sinophone-qui-inonde-le-japon/)  
+*Source : solutions-numeriques.com | Publication : 2026-10-15*
+
+- Microsoft et Health-ISAC, épaulés par Proofpoint et plusieurs partenaires publics et privés, ont frappé l’écosystème de phishing sinophone qui gravite autour des kits CoGUI, CoAceV et CoFish_Ws et des plateformes YAM Store et Iron Man.
+- Selon Microsoft, cette nébuleuse a permis l’envoi de plus d’un milliard de messages malveillants depuis janvier 2026, à destination de plus de 75 000 organisations.
+- Les domaines saisis affichent désormais une page de substitution.
+- Une riposte judiciaire et technique L’offensive s’est jouée sur deux fronts.
+
+## [<b>Cybersécurité</b>: le Maroc 3e pays africain le plus visé par les cyberattaques - H24info](https://h24info.ma/economie/cybersecurite-maroc-afrique/)  
+*Source : h24info.ma | Publication : 2026-10-15*
+
+- Le Cameroun affronte le Maroc, le 16 novembre prochain à Casablanca pour le compte des… Cybersécurité: le Maroc 3e pays africain le plus visé par les attaques Publié leUn récent rapport de Mastercard classe le Maroc à la troisième place africaine en nombre de cyberattaques recensées, représentant environ 10,6 % des incidents liés à la cybersécurité signalés sur le continent.
+- S’il y a des images qui illustrent à la perfection des mots, les chiffres également en disent souvent long sur la réalité des choses.
+- Et les chiffres que viennent de publier Mastercard en font partie.
+- En effet, dans un récent rapport sur la cybersécurité sur le continent africain, le géant mondial des système de paiement table une hausse vertigineuse des cyberattaques à fin 2025.
+
+## [Pourriez-vous détecter une fraude? - TVA Nouvelles](https://www.tvanouvelles.ca/2026/10/15/pourriez-vous-detecter-une-fraude)  
+*Source : tvanouvelles.ca | Publication : 2026-10-15*
+
+- Une experte rappelle que tout le monde peut tomber dans le piège.
+- Andréanne.
+
+## [Le CERT Santé alerte les hôpitaux sur un risque d'intrusion via des dispositifs médicaux connectés](https://www.ticsante.com/story?ID=8476)  
+*Source : ticsante.com | Publication : 2026-10-15*
+
+- "Une campagne d'exploitation active et fortement automatisée s'appuie sur des réseaux de relais décentralisés appelés ORB (Operational Relay Box) [et] opérés principalement par des groupes de cyberespionnage liés à la Chine", relate le centre de cybersécurité de l'Agence du numérique en santé (ANS).
+- "Ces réseaux détournent des équipements réseau vulnérables ou en fin de vie, notamment des routeurs sans fil […] et des objets connectés, afin de masquer l'origine de leurs attaques et de s'infiltrer dans les systèmes d'information cibles.".
+- "Des appareils médicaux connectés essentiels à la chaîne de soins peuvent être indirectement impactés ou servir de points d'entrée s'ils sont reliés au même réseau sans fil non segmenté", dont des pompes à perfusion, des équipements d'imagerie médicale et des moniteurs de surveillance des signes vitaux.
+- "La présence fréquente d'équipements anciens ou difficiles à redémarrer pour maintenance en fait des cibles privilégiées pour constituer des relais discrets.
+
+## [Forge de code Gitea, une faille exploitée en deux jours mène aux hyperviseurs - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/forge-de-code-gitea-une-faille-exploitee-en-deux-jours-mene-aux-hyperviseurs/)  
+*Source : itsocial.fr | Publication : 2026-10-15*
+
+- Une faille de la forge de code Gitea, corrigée fin juillet, a ouvert à un groupe d’attaquants l’accès à des NAS, à des hyperviseurs et à des systèmes industriels.
+- La forge auto-hébergée détient les secrets de l’infrastructure, son inscription ouverte a suffi à rendre la faille exploitable, et le catalogue américain des failles exploitées ne l’a inscrite que quatre semaines après les premières attaques.
+- Les forges de code auto-hébergées, Gitea, Forgejo ou GitLab, rassemblent les dépôts, les clés de déploiement et les jetons des chaînes d’intégration continue, parce que les équipes de développement y branchent l’ensemble de leur chaîne de livraison.
+- Qui prend la main sur la forge hérite de ces accès, comme l’a montré à partir du 29 juillet une campagne menée contre des instances Gitea exposées à Internet.
+
+## [Vos images sont-elles déjà en ligne ? - Docteur Imago](https://docteurimago.fr/management/qualite/vos-images-sont-elles-deja-en-ligne/)  
+*Source : docteurimago.fr | Publication : 2026-10-15*
+
+- Il y a quelques mois, je préparais des travaux pratiques (TP) pour des étudiants en cybersécurité.
+- L'idée était simple : leur montrer en conditions réelles que les serveurs d'imagerie médicale des cabinets libéraux sont une cible facile.
+- Je ne pensais pas tomber aussi vite.
+- En moins d'une heure, j'avais identifié plusieurs serveurs en Alsace qui exposaient leurs PACS sans aucune protection sérieuse.
+
+## [Au Mondial de l'Automobile, l'&quot;électro-choc&quot; des lycéens en mécanique auto - Orange Actu](https://actu.orange.fr/economie/au-mondial-de-l-automobile-l-quot-electro-choc-quot-des-lyceens-en-mecanique-auto-CNT000002sQZRI.html)  
+*Source : actu.orange.fr | Publication : 2026-10-15*
+
+- Au Mondial de l'Automobile, l'"électro-choc" des lycéens en mécanique auto "Ça pue pour nous": En sortant d'une visite du salon Mondial de l'automobile à Paris, Mya, Louise et Julie, en classe de première "mécanique auto" au lycée Narce à Angers, viennent de comprendre que leur avenir professionnel sera un peu différent de ce qu'elles avaient imaginé.
+- Les trois amies, âgées de 16 ans, disent aimer "la vraie mécanique qui fait du bruit", celle "où on entend les chevaux": les moteurs qui pétaradent, fument et sentent l'essence.
+- "Je suis plutôt thermique" dit Mya à l'AFP.
+- "Ici, il y a trop d'électricité" estiment les trois jeune-filles après une visite de stands débordant de voitures bourrées de capteurs et d'écrans numériques.
+
+## [Selon une étude, la <b>cybersécurité</b> devient la priorité numéro 1 des dirigeants d'entreprises](https://www.lefigaro.fr/flash-eco/selon-une-etude-la-cybersecurite-devient-la-priorite-numero-1-des-dirigeants-d-entreprises-20261015)  
+*Source : lefigaro.fr | Publication : 2026-10-15*
+
+- Selon une étude, la cybersécurité devient la priorité numéro 1 des dirigeants d'entreprises Les dirigeants placent désormais la cybersécurité au sommet de leurs préoccupations, devant l'incertitude économique mondiale, révèle la dernière édition du Global CEO Outlook de KPMG, publiée jeudi.
+- Ainsi, 31 % des 1.400 répondants considèrent les risques liés à la cybersécurité et à la protection des données comme la principale menace pour la croissance de leur entreprise au cours des trois prochaines années.
+- Viennent ensuite l'incertitude économique mondiale (28 %) puis l'instabilité géopolitique et les pressions réglementaires (26 %), selon cette enquête réalisée du 11 août au 21 septembre auprès de dirigeants d'entreprises réalisant un chiffre d'affaires annuel supérieur à 500 millions de dollars (environ 450 millions d'euros), issus de douze grands marchés sur l'ensemble des continents, dont 75 dirigeants en France.
+- Passer la publicitéFace à ces risques, les entreprises renforcent leurs investissements de protection.
+
+## [Oidaneos : « L'IA et la <b>cybersécurité</b>, ce n'est plus optionnel » | EWAG](https://www.ewag.fr/articles/oidaneos-lia-et-la-cybersecurite-ce-nest-plus-optionnel/)  
+*Source : ewag.fr | Publication : 2026-10-15*
+
+- Oidaneos : « L’IA et la cybersécurité, ce n’est plus optionnel » L’organisme de formation Oidaneos propose des formations et certifications spécialisées en IA et cybersécurité. «.
+- De nouvelles compétences dont les entreprises ne peuvent plus se passer », note son président fondateur, Alain Franck Valero.
+- Article en partenariat - Formation - Innovation - Expertise - Oidaneos : « L’IA et la cybersécurité, ce n’est plus optionnel » L’organisme de formation Oidaneos propose des formations et certifications spécialisées en IA et cybersécurité. «.
+- De nouvelles compétences dont les entreprises ne peuvent plus se passer », note son président fondateur, Alain Franck Valero.
+
+## [Qu'est-ce qui inquiète le plus les dirigeants d'entreprises? Dans le monde, c'est la ... - BFM](https://www.bfmtv.com/economie/entreprises/qu-est-ce-qui-inquiete-le-plus-les-dirigeants-d-entreprises-dans-le-monde-c-est-la-cybersecurite-en-france-c-est-l-incertitude-economique-mondiale_AD-202610150853.html)  
+*Source : bfmtv.com | Publication : 2026-10-15*
+
+- Qu'est-ce qui inquiète le plus les dirigeants d'entreprises?.
+- Dans le monde, c'est la cybersécurité, en France c'est l'incertitude économique Les dirigeants placent désormais la cybersécurité au sommet de leurs préoccupations, devant l'incertitude économique mondiale, révèle la dernière édition du Global CEO Outlook de KPMG, publiée jeudi.
+- Ainsi, 31 % des 1.400 répondants considèrent les risques liés à la cybersécurité et à la protection des données comme la principale menace pour la croissance de leur entreprise au cours des trois prochaines années.
+- Viennent ensuite l'incertitude économique mondiale (28 %) puis l'instabilité géopolitique et les pressions réglementaires (26 %), selon cette enquête réalisée du 11 août au 21 septembre auprès de dirigeants d'entreprises réalisant un chiffre d'affaires annuel supérieur à 500 millions de dollars (environ 450 millions d'euros), issus de douze grands marchés sur l'ensemble des continents, dont 75 dirigeants en France.
+
+## [Cohere s'apprête à racheter Aisle, une start-up spécialisée dans la <b>cybersécurité</b> basée sur l'IA](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N461256:0/)  
+*Source : fr.tradingview.com | Publication : 2026-10-15*
+
+- Actualités/Reuters/Cohere s'apprête à racheter Aisle, une start-up spécialisée dans la cybersécurité basée sur l'IACohere s'apprête à racheter Aisle, une start-up spécialisée dans la cybersécurité basée sur l'IALire l'article completObtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.Continuer à lire.
+
+## [Le Vietnam salue l'évaluation objective des États-Unis sur la lutte contre la traite des êtres humains](https://lecourrier.vn/le-vietnam-salue-levaluation-objective-des-etats-unis-sur-la-lutte-contre-la-traite-des-etres-humains/1357510.html)  
+*Source : lecourrier.vn | Publication : 2026-10-15*
+
+- >> Le Vietnam salue l'évaluation objective des États-Unis sur ses résultats en matière de lutte contre la traite des êtres humains >> La Convention de Hanoï : un outil mondial contre la cybercriminalité et la traite des êtres humains >> Le vice-PM Bùi Thanh Son plaide pour un combat accru contre la traite humaine Le Vietnam salue l'évaluation objective des États-Unis concernant les résultats positifs obtenus ces derniers temps dans la prévention et la lutte contre la traite des êtres humains, selon Pham Thu Hang, porte-parole du ministère des Affaires étrangères.
+- La porte-parole s'exprimait lors du point de presse régulier du ministère le 15 octobre, en réponse à une question concernant le Rapport 2026 sur la traite des êtres humains, publié le 9 octobre par le Département d'État américain, notamment les passages consacrés au Vietnam.
+- Selon Pham Thu Hang, le Vietnam a intensifié ses efforts dans ce domaine, notamment avec l'adoption et la mise en œuvre du Programme de prévention et de lutte contre la traite des êtres humains pour la période 2026-2030, avec des orientations à l'horizon 2035.
+- La Loi de 2024 sur la prévention et la lutte contre la traite des êtres humains est mise en œuvre de manière efficace et coordonnée.
+
+## [Prakash Panjwani prend les commandes d'Acronis - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/prakash-panjwani-prend-les-commandes-dacronis-229689)  
+*Source : silicon.fr | Publication : 2026-10-15*
+
+- Acronis, éditeur de solutions de cyberprotection IA pour MSP et équipes IT, a un nouveau CEO.
+- Prakash Panjwani succède à Jan-Jaap « JJ » Jager, qui conserve ses parts d’actionnaire au sein de l’entreprise.
+- Le nouveau CEO s’appuie sur un parcours marqué par la direction d’acteurs majeurs de la sécurité informatique.
+- Il a notamment dirigé WatchGuard Technologies et chez SafeNet.
+
+## [Les dirigeants classent la cyber comme une forte priorité - L'Informaticien](https://www.linformaticien.com/magazine/tendances/950-etudes/65376-les-dirigeants-classent-la-cyber-comme-une-forte-priorite.html)  
+*Source : linformaticien.com | Publication : 2026-10-15*
+
+- 31 % des dirigeants citent les risques liés à la cybersécurité et à la sécurité des données comme principale menace pour la croissance, devant l'.
+
+## [Tenable s'appuie sur les modèles GPT Cyber d'OpenAI - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/65373-tenable-s-appuie-sur-les-modeles-gpt-cyber-d-openai.html)  
+*Source : linformaticien.com | Publication : 2026-10-15*
+
+- La société de gestion de l'exposition au risque cyber, annonce l'élargissement du CyberAgents Exchange, sa plateforme destinée à accélérer.
+
+## [Pourquoi les PME devraient-elles faire évaluer leur posture de <b>cybersécurité</b>? - Les Affaires](https://www.lesaffaires.com/contenus-partenaires/pourquoi-les-pme-devraient-elles-faire-evaluer-leur-posture-de-cybersecurite/)  
+*Source : lesaffaires.com | Publication : 2026-10-15*
+
+- 1 article Lâenvironnement TI a beaucoup Ã©voluÃ© dans les PME au cours des derniÃ¨res annÃ©es.
+- Or, tout chang... Genatec|PubliÃ© Ã 10h30.
 
 ## [Cyberattaque nationale : pourquoi les pirates s'attaquent maintenant aux supermarchés ?](https://www.01net.com/actualites/piratage-frigos-pourquoi-hackers-attaquent-supermarches.html)  
 *Source : 01net.com | Publication : 2026-10-14*
