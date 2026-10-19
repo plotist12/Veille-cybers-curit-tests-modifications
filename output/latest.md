@@ -1,150 +1,142 @@
-# Résumés – 2026-10-17
+# Résumés – 2026-10-18
 
 
-## [Des sites institutionnels, dont celui de la Caf, visés par de possibles cyberattaques ce samedi - BFM](https://www.bfmtv.com/tech/video-des-sites-institutionnels-dont-celui-de-la-caf-vises-par-de-possibles-cyberattaques-ce-samedi_VN-202610170303.html)  
-*Source : bfmtv.com | Publication : 2026-10-17*
+## [<b>Cybersécurité</b> : Le Creusot accueille le Forum INCYBER des Territoires du 21 au 23 octobre 2026](http://www.globalsecuritymag.fr/cybersecurite-le-creusot-accueille-le-forum-incyber-des-territoires-du-21-au-23.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-10-18*
 
-- Des sites institutionnels, dont celui de la Caf, visés par de possibles cyberattaques ce samedi De nombreux utilisateurs ont signalé des difficultés d'accès au site de la Caisse d'allocations familiales (CAF) ce samedi 17 octobre.
-- Un autre site institutionnel, l'ANSSI, en charge de la cybersécurité a été la cible d'une attaque informatique revendiquée.
-- Ces pannes surviennent alors qu'une journée de mobilisation avait eu lieu partout en France.
-- Impossible pour l'heure d'évoquer un lien direct entre les deux événements.
+- La journée professionnelle du 22 octobre s’ouvrira sur un regard prospectif sur l’IA, porté par Flavien Chervet, auteur de Cyberarme ( Prix du livre Cyber, Forum INCYBER 2026 ).
+- Au fil de la journée, plusieurs temps forts animeront les débats : l’IA, accélérateur de défense et arme de disruption ; le Wallet d’identité numérique introduit par le règlement européen eIDAS 2.0 ; la mutualisation de la cybersécurité avec des spécialistes de l’ANSSI et Jérôme Notin, Directeur Général de Cybermalveillance, qui présentera le service public d’assistance 17Cyber.gouv.fr ; ou encore la cybersécurité des infrastructures critiques, avec notamment Jean-Marc Autret, ( CISO OT Groupe EDF ).
+- La Communauté Urbaine Creusot Montceau illustrera également comment le numérique peut devenir un levier d’attractivité et de développement territorial. «.
+- Solitaires ou solidaires ?.
 
-## [Euro numérique : Christine Lagarde confirme le calendrier des premiers tests - TradingView](https://fr.tradingview.com/news/cointribune:3e5dd1286b858:0/)  
-*Source : fr.tradingview.com | Publication : 2026-10-17*
+## [Check Point veut bloquer les actions dangereuses des agents IA avant leur exécution](https://itrnews.com/articles/211326/check-point-veut-bloquer-les-actions-dangereuses-des-agents-ia-avant-leur-execution.html)  
+*Source : itrnews.com | Publication : 2026-10-18*
 
-- Euro numérique : Christine Lagarde confirme le calendrier des premiers tests Christine Lagarde estime que l’économie de la zone euro résiste aux chocs mondiaux et confirme l’avancement du projet d’euro numérique.
-- Son arrivée n’est toutefois pas imminente pour le public : la BCE prévoit un pilote interne au second semestre 2027 et ne pourrait procéder à une première émission qu’en 2029, sous réserve de l’adoption préalable du règlement européen.
-- Lisez-nous sur Google NewsEn bref La BCE prévoit les premiers tests pour l’euro numérique au second semestre 2027, avant une possible émission en 2029.
-- - Le lancement dépend de l’adoption du règlement européen et de la validation finale de la BCE.
+- Veuillez activer Javascript.
 
-## [Des sites institutionnels, dont celui de la Caf, visés par de possibles cyberattaques ce samedi](https://www.youtube.com/shorts/6lj-JEyAC8I)  
-*Source : youtube.com | Publication : 2026-10-17*
+## [Stordata distribue la technologie canadienne Qohash pour sécuriser les données sensibles ...](https://itchannel.info/articles/211321/stordata-distribue-la-technologie-canadienne-qohash-pour-securiser-les-donnees-sensibles-sans-les-deplacer.html)  
+*Source : itchannel.info | Publication : 2026-10-18*
+
+- Veuillez activer Javascript.
+
+## [Proofpoint rachète Varonis pour 6,3 milliards de dollars et accélère dans la sécurité des ... - infoDSI](https://infodsi.com/articles/211319/proofpoint-rachete-varonis-pour-63-milliards-de-dollars-et-accelere-dans-la-securite-des-donnees-et-de-lia.html)  
+*Source : infodsi.com | Publication : 2026-10-18*
+
+- Veuillez activer Javascript.
+
+## [<b>Cybersécurité</b> : 10 actualités majeures du 18 octobre 2026 (dont le Danemark)](https://dcod.ch/2026/10/18/cybersecurite-10-actualites-majeures-du-18-octobre-2026-dont-le-danemark/)  
+*Source : dcod.ch | Publication : 2026-10-18*
+
+- Faits marquants de la semaine Au Danemark, une intrusion dans le Central Register of Persons (CPR) a exposé des données liées à 8,8 millions de personnes.
+- L’accès aurait été obtenu via un compte d’une société informatique protégé par « 123456 ».
+- - Bank of America a recruté 1 000 contractuels supplémentaires pour corriger des vulnérabilités identifiées par Mythos, le modèle d’Anthropic.
+- La banque évoque « quelques centaines de millions » de coûts de remédiation associés.
+
+## [OVI Ébénisterie ferme ses portes - Les Affaires](https://www.lesaffaires.com/mon-entreprise/entrepreneuriat-et-pme/ovi-ebenisterie-ferme-ses-portes/)  
+*Source : lesaffaires.com | Publication : 2026-10-18*
+
+- OVI ÃbÃ©nisterie ferme ses portes Initiative de journalisme local|PubliÃ© il y a 43 minutesPhoto: FranÃ§ois LariviÃ¨re / Le Courrier) Lâentreprise OVI ÃbÃ©nisterie a rÃ©cemment Ã©tÃ© contrainte de fermer ses portes, laissant 24Â personnes sans emploi Ã Saint-Hyacinthe et prÃ¨s de 1,5M$ de dettes envers ses crÃ©anciers.
+- Â Ãtablie dans la rÃ©gion depuis 2019, la sociÃ©tÃ© se spÃ©cialisait dans la conception et la fabrication de mobilier sur mesure et dâamÃ©nagements intÃ©rieurs haut de gamme.
+- OVI ÃbÃ©nisterie rÃ©alisait des projets dâÃ©bÃ©nisterie architecturale destinÃ©s aux secteurs rÃ©sidentiel et commercial.
+- Ã la fin de 2023, lâentreprise avait pourtant amorcÃ© une importante expansion en transfÃ©rant ses activitÃ©s dans des installations trois fois plus grandes, amÃ©nagÃ©es dans les anciens locaux de Techno-Fab, sur lâavenue Ãmilien-Letarte, dans le parc industriel ThÃ©o-PhÃ©nix.
+
+## [Le groupe américain Proofpoint a annoncé le rachat de Varonis Systems, l'une des plus ...](https://israelvalley.com/2026/10/18/le-groupe-americain-proofpoint-a-annonce-le-rachat-de-varonis-systems-lune-des-plus-grandes-transactions-du-secteur-israelien-de-la-cybersecurite/)  
+*Source : israelvalley.com | Publication : 2026-10-18*
+
+- Une entreprise israélienne rachetée pour 6,3 milliards de dollars.
+- Le groupe américain Proofpoint a annoncé le rachat de Varonis Systems, l’une des plus grandes transactions du secteur israélien de la cybersécurité La société développe une plate-forme logicielle de sécurité permettant aux organisations de gérer et de protéger leurs données non structurées.
+- Fondée en 2004 par l’Israélien Yaki Faitelson, Varonis s’est spécialisée dans la protection des données sensibles des entreprises.
+- Ses technologies permettent notamment de détecter les accès suspects et de prévenir les vols d’informations.
+
+## [Emplois, formations, arnaques en ligne… Un mois pour s'initier à la <b>cybersécurité</b> à Rennes](https://rennes.maville.com/actu/actudet_-emplois-formations-arnaques-en-ligne-un-mois-pour-s-initier-a-la-cybersecurite-a-rennes_fil-7533837_actu.Htm)  
+*Source : rennes.maville.com | Publication : 2026-10-18*
+
+- À l’occasion du Cybermois, en octobre, les acteurs de l’écosystème cyber rennais se mobilisent pour sensibiliser citoyens, jeunes, salariés et entreprises aux cybermenaces et aux bons réflexes numériques.
+- .
+- Cet article est réservé aux abonnés Pour un accès immédiat, abonnez-vous 1er mois à 1€ Déjà abonné ?.
+- Je me connecte.
+
+## [Antigravity gratuit pour 10 000 scientifiques, candidatures ouvertes - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/25434/antigravity-gratuit-6-mois-scientifiques-candidater)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-18*
+
+- Antigravity gratuit pour 10 000 scientifiques, candidatures ouvertes Google offre six mois du niveau d'utilisation maximal d'Antigravity à 10 000 scientifiques, avec Gemini 4 Argon.
+- Qui peut candidater, le formulaire et les limites.
+- Les plus lus Gemini Infrastructure Agents IA Apple Jeux Vidéo OpenAI Échecs et IA Tech Automobile Actualités IA & Tendances Cybersécurité Finance Open Source Meta IA pour Professionnels Nvidia Claude Droit & Réglementation Samsung ChatGPT Amazon Tesla Anthropic IA chinoise IA en local Outils IA & Avis Opinions Benchmarks et Comparatifs Microsoft Télémédecine Développement Logiciel Économie & Business Google Guides et Tutoriels Robotique Grok Big Tech Rapports et Analyses UI/UX Design.
+
+## [Emplois, formations, arnaques en ligne… Un mois pour s'initier à la <b>cybersécurité</b> à Rennes - St-Malo](https://saint-malo.maville.com/actu/actudet_-emplois-formations-arnaques-en-ligne-un-mois-pour-s-initier-a-la-cybersecurite-a-rennes_dep-7533837_actu.Htm)  
+*Source : saint-malo.maville.com | Publication : 2026-10-18*
+
+- À l’occasion du Cybermois, en octobre, les acteurs de l’écosystème cyber rennais se mobilisent pour sensibiliser citoyens, jeunes, salariés et entreprises aux cybermenaces et aux bons réflexes numériques.
+- .
+- Cet article est réservé aux abonnés Pour un accès immédiat, abonnez-vous 1er mois à 1€ Déjà abonné ?.
+- Je me connecte.
+
+## [Données d'élèves et de parents en vente : deux services éducatifs français visés par le même pirate](https://www.clubic.com/actualite-634687-donnees-d-eleves-et-de-parents-en-vente-deux-services-educatifs-francais-vises-par-le-meme-pirate.html)  
+*Source : clubic.com | Publication : 2026-10-18*
+
+- Près de cinq millions de comptes d’une application de révision et plus de 286 000 dossiers d’élèves de lycée sont proposés à la vente par le pirate Angel_Batista.
+- Nomad Education et Inter-Etab n’ont pas confirmé la fuite, mais les échantillons contiennent des données d’enfants et de leurs parents.
+- Angel_Batista a mis les deux fichiers, à quelques minutes d’intervalle, sur un forum cybercriminel.
+- FrenchBreaches a relevé les 4 852 437 lignes de comptes Nomad Education et, pour 250 dollars, les 286 773 dossiers d’élèves d’Inter-Etab.
+
+## [Emplois, formations, arnaques en ligne… Un mois pour s'initier à la <b>cybersécurité</b> à Rennes](https://rennes.maville.com/actu/actudet_-emplois-formations-arnaques-en-ligne-un-mois-pour-s-initier-a-la-cybersecurite-a-rennes_loc-7533837_actu.Htm)  
+*Source : rennes.maville.com | Publication : 2026-10-18*
+
+- À l’occasion du Cybermois, en octobre, les acteurs de l’écosystème cyber rennais se mobilisent pour sensibiliser citoyens, jeunes, salariés et entreprises aux cybermenaces et aux bons réflexes numériques.
+- .
+- Cet article est réservé aux abonnés Pour un accès immédiat, abonnez-vous 1er mois à 1€ Déjà abonné ?.
+- Je me connecte.
+
+## [Emplois, formations, arnaques en ligne… Un mois pour s'initier à la <b>cybersécurité</b> à Rennes](https://www.ouest-france.fr/bretagne/rennes-35000/emplois-formations-arnaques-en-ligne-un-mois-pour-sinitier-a-la-cybersecurite-a-rennes-6e085cfc-c33d-11f1-a107-88e926908e5f)  
+*Source : ouest-france.fr | Publication : 2026-10-18*
+
+- À l'occasion du Cybermois, en octobre, les acteurs de l'écosystème cyber rennais se mobilisent pour sensibiliser citoyens, jeunes,.
+
+## [AxBx, le spécialiste français de la <b>cybercriminalité</b>, lance son cybercare - 30/10 : Actualités](https://actu.orange.fr/videos/economie/axbx-le-specialiste-francais-de-la-cybercriminalite-lance-son-cybercare-30-10-CNT000002t6zT7.html?pid=)  
+*Source : actu.orange.fr | Publication : 2026-10-18*
+
+- AxBx, le spécialiste français de la cybercriminalité, lance son cybercare - 30/10 par BFMBUSINESS BFM BUSINESS PARTENAIRE - Ce samedi 30 octobre, Grégory Snauwaert, CEO d'AxBx, s'est penché sur l'offre Cybercare lancée par son entreprise, dans l'émission 01 Business présentée par Frédéric Simottel.
+- 01 Business est à voir ou écouter le samedi sur BFM Business.
+- Vidéo suivante dans 5 secondes Autres vidéos Les commentaires ne sont plus disponibles sur les articles Orange.fr.
+- Cliquez ici pour en savoir plus Fermeture des commentaires Chères lectrices, chers lecteurs, Vos avis sont précieux pour faire vivre l'actualité sur Orange.fr.
+
+## [Faille Wi-Fi critique : des Livebox d'Orange et box SFR piratables sans mot de passe](https://www.clubic.com/actualite-634699-faille-wi-fi-critique-des-livebox-d-orange-et-box-sfr-piratables-sans-mot-de-passe.html)  
+*Source : clubic.com | Publication : 2026-10-18*
+
+- Un chercheur en cybersécurité a présenté une faille vieille de seize ans dans les puces Wi-Fi de Broadcom, exploitable à portée du réseau sans connaître le mot de passe de la box.
+- Il a relevé en France une Livebox 5 d’Orange et des box SFR non corrigées.
+- Quentin Kaiser est chercheur belge en sécurité.
+- Il a dévoilé cette vulnérabilité le 16 octobre à la conférence Hexacon.
+
+## [La France face à la menace des cyberattaques - YouTube](https://www.youtube.com/watch?v=nMxPaAv3vhY)  
+*Source : youtube.com | Publication : 2026-10-18*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [OLED ou Micro RGB, quel téléviseur haut de gamme acheter en 2026 - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/24999/oled-ou-micro-rgb-tv-haut-de-gamme-2026)  
-*Source : pasqualepillitteri.it | Publication : 2026-10-17*
+## [Et si l'utilisateur n'était pas le maillon faible de la <b>cybersécurité</b> - Virgule.lu](https://www.virgule.lu/luxembourg/et-si-lutilisateur-netait-pas-le-maillon-faible-de-la-cybersecurite/162709163.html)  
+*Source : virgule.lu | Publication : 2026-10-18*
 
-- OLED ou Micro RGB, quel téléviseur haut de gamme acheter en 2026 OLED ou Micro RGB sur les téléviseurs haut de gamme 2026.
-- Luminosité mesurée, comparatifs directs et prix Amazon.it au 17 octobre, avec les références à vérifier avant d'acheter.
-- Les plus lus Samsung Meta IA pour Professionnels Nvidia Cybersécurité Claude Droit & Réglementation Jeux Vidéo ChatGPT Actualités IA & Tendances Amazon Tesla Anthropic IA chinoise Finance Tech Automobile IA en local Gemini Outils IA & Avis Open Source Apple Opinions OpenAI Benchmarks et Comparatifs Microsoft Télémédecine Développement Logiciel Économie & Business Google Guides et Tutoriels Robotique Grok Big Tech Rapports et Analyses UI/UX Design Applis Mobiles Intelligence Artificielle.
+- Attaques, IA et erreurs humaines en cybersécurité : Gabriele Lenzini explique pourquoi l'utilisateur n'est pas le maillon faible et propose une.
 
-## [INSA Connect Forum : les entreprises marocaines appelées à transformer l'IA en gains de ...](http://ledesk.ma/2026/10/17/insa-connect-forum-les-entreprises-marocaines-appelees-a-transformer-lia-en-gains-de-productivite/)  
-*Source : ledesk.ma | Publication : 2026-10-17*
+## [Start up &amp; co : HarfangLab lève 5 millions d'euros pour arrêter tout type de <b>ransomware</b> ...](https://actu.orange.fr/videos/economie/start-up-co-harfanglab-leve-5-millions-d-euros-pour-arreter-tout-type-de-ransomware-grace-a-l-intelligence-artificielle-31-05-CNT000002t5lct.html?pid=)  
+*Source : actu.orange.fr | Publication : 2026-10-18*
 
-- INSA Connect Forum : les entreprises marocaines appelées à transformer l’adoption de l’IA en gains de productivité Le 9 octobre, le roi Mohammed VI a ouvert la session parlementaire en appelant à une nouvelle génération de grandes stratégies nationales, et parmi les domaines qu’il a cités figurent l’économie numérique et l’intelligence artificielle (IA).
-- Le 15 octobre, INSA Alumni Maroc a tenu à Casablanca la première édition de l’INSA Connect Forum, sur le thème « L’IA au Maroc : du potentiel à l’impact ».
-- L'événement, qui a réuni plus de 400 participants, était organisé en partenariat avec la Confédération générale des entreprises du Maroc (CGEM), le cabinet de conseil et d'audit Deloitte et l’éditeur américain de cybersécurité Palo Alto Networks.
-- Fondée en 1970, INSA Alumni Maroc rassemble plus de 1 900 ingénieurs marocains.
+- Start up & co : HarfangLab lève 5 millions d'euros pour arrêter tout type de ransomware grâce à l'intelligence artificielle - 31/05 par BFMBUSINESS Ce lundi 31 mai, Grégoire Germain, cofondateur de HarfangLab, est revenu sur la levée de fonds de sa société pour arrêter tout type de ransomware grâce à l'intelligence artificielle, dans Start up & co, dans l'émission Tech & Co présentée par Frédéric Simottel.
+- Tech & Co est à voir ou écouter du lundi au jeudi sur BFM Business.
+- Vidéo suivante dans 5 secondes Autres vidéos Les commentaires ne sont plus disponibles sur les articles Orange.fr.
+- Cliquez ici pour en savoir plus Fermeture des commentaires Chères lectrices, chers lecteurs, Vos avis sont précieux pour faire vivre l'actualité sur Orange.fr.
 
-## [Leboncoin et Vinted : des notifications suspectes – ZATAZ.COM](https://www.zataz.com/leboncoin-et-vinted-des-notifications-suspectes/)  
-*Source : zataz.com | Publication : 2026-10-17*
+## [Albert Heijn reprendra progressivement les commandes en ligne à partir de vendredi](https://www.lalibre.be/dernieres-depeches/2026/10/18/albert-heijn-reprendra-progressivement-les-commandes-en-ligne-a-partir-de-vendredi-IRGGEMHKHVARVIYVWD2Q25RBIA/)  
+*Source : lalibre.be | Publication : 2026-10-18*
 
-- Début octobre, un utilisateur voit surgir des notifications attribuées à Leboncoin et Vinted.
-- Derrière ces applications familières, les liens empruntent un parcours publicitaire suspect, différent selon l’appareil.
-- Deux matins de suite, Françoise et Romain reçoivent une notification de chacune de deux applications dont ils sont habitués : Vinted et Leboncoin.
-- Selon leurs vérifications, elles proviennent bien des versions officielles, installées depuis Google Play.
+- Albert Heijn reprendra progressivement les commandes en ligne à partir de vendredi L'enseigne de supermarchés Albert Heijn va progressivement reprendre, à partir de vendredi, la livraison des courses à domicile.
+- Toutes les commandes jusqu'à jeudi inclus sont toutefois annulées et il n'est provisoirement pas encore possible de faire de nouvelles commandes en ligne.
+- Quant au site internet et à l'application Albert Heijn, ils sont à nouveau accessibles, a indiqué la chaîne de supermarchés dimanche midi dans une mise à jour relative à l'incident de cybersécurité qui touche l'ensemble du groupe Ahold Delhaize depuis une semaine.
+- Publié le 18-10-2026 à 14h54 - à Zaandam, Pays-Bas - L'enseigne néerlandaise, qui possède plusieurs dizaines de magasins en Flandre, subit les conséquences depuis dimanche dernier, à l'instar des magasins Delhaize, de l'incident de cybersécurité.
 
-## [Lons-le-Saunier. BTS <b>cybersécurité</b>, baccalauréat général et professionnel - Le Progrès](https://www.leprogres.fr/education/2026/10/17/bts-cybersecurite-baccalaureat-general-et-professionnel-une-grande-ceremonie-de-remise-des-diplomes-organisee-au-gymnase-sainte-marie)  
-*Source : leprogres.fr | Publication : 2026-10-17*
+## [Drupal corrige deux failles RCE critiques, mettez à jour avant les exploits - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/25258/drupal-failles-rce-critiques-field-ui-entity-list)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-18*
 
-- Lons-le-Saunier BTS cybersécurité, baccalauréat général et professionnel : une grande cérémonie de remise des diplômes organisée au gymnase Sainte-Marie Samedi 17 octobre, une cérémonie s’est déroulée dans le gymnase de Sainte-Marie pour la traditionnelle remise des diplômes en présence de Florence Stepczak, la cheffe d’établissement, Eric.
-
-## [Alerte O'Tacos : la chaîne de fast-food victime d'une fuite de données clients - Clubic](https://www.clubic.com/actualite-634675-alerte-o-tacos-la-chaine-de-fast-food-victime-d-une-fuite-de-donnees-client.html)  
-*Source : clubic.com | Publication : 2026-10-17*
-
-- Une nouvelle enseigne française est victime d'une cyberattaque.
-- Cette fois, c'est le spécialiste du fast food O'Tacos qui est touché !.
-- Il y a de sérieux soucis de cyberprotection à régler en France - un constat qui est aujourd'hui de l'ordre de la lapalissade.
-- Et aujourd'hui, on a une nouvelle illustration malheureuse du fait que la France est la troisième nation la plus touchée par le fléau de la cybercriminalité dans le monde avec l'annonce de cette cyberattaque.
-
-## [Publicités malveillantes : espionné sans cliquer, c'est possible - Tinynews](https://www.tinynews.be/publicites-malveillantes-espionnage-sans-clic/)  
-*Source : tinynews.be | Publication : 2026-10-17*
-
-- Cybersécurité : cette publicité peut vous espionner sans même que vous cliquiez dessus On connaissait les publicités qui vous suivent partout sur Internet après que vous avez cherché une paire de chaussures.
-- Vous regardez une fois des baskets et, pendant trois semaines, votre navigateur se transforme en vendeur ambulant qui vous demande si vous êtes vraiment certain de ne pas vouloir acheter des chaussures.
-- Mais voici une version nettement moins sympathique : certaines publicités pourraient servir à espionner votre appareil, voire à y installer un logiciel malveillant, sans que vous cliquiez dessus.
-- Une enquête publiée le 15 octobre par le Citizen Lab, un laboratoire de recherche de l’Université de Toronto, et la société spécialisée dans la sécurité publicitaire Confiant a révélé un mécanisme baptisé “AdFection”.
-
-## [Une phrase cachée dans un mail suffit à manipuler une IA, et même les meilleurs modèles ... - Clubic](https://www.clubic.com/actualite-634624-une-phrase-cachee-dans-un-mail-suffit-a-manipuler-une-ia-et-meme-les-meilleurs-modeles-se-font-avoir.html)  
-*Source : clubic.com | Publication : 2026-10-17*
-
-- Une simple phrase cachée dans un e-mail ou une page web peut suffire à détourner une IA.
-- Aux Assises de la cybersécurité, cinq experts ont détaillé pour Clubic la menace de l'injection de prompt, que même les meilleurs modèles ne savent pas encore parer.
-- Le prompt injection, ou injection de prompt en français, est une cyberattaque qui consiste à glisser des instructions piégées à une intelligence artificielle.
-- Avec l'arrivée des agents IA capables d'agir seuls, elle a changé de dimension.
-
-## [Léo Fernand (MGM Solutions) : MGM Solutions, expert en <b>cybersécurité</b> - 17/10 - BFM](https://www.bfmtv.com/economie/replay-emissions/les-emissions-partenaires/video-leo-fernand-mgm-solutions-mgm-solutions-expert-en-cybersecurite-17-10_VN-202610170271.html)  
-*Source : bfmtv.com | Publication : 2026-10-17*
-
-- Léo Fernand (MGM Solutions) : MGM Solutions, expert en cybersécurité - 17/10 BFM BUSINESS PARTENAIRE - Ce samedi 17 octobre, Léo Fernand, directeur général de MGM Solutions, s’est penché sur les enjeux de la cybersécurité en mettant l’accent sur la remédiation des systèmes d’information, dans l'émission Paroles d'entreprises présentée par Vincent Touraine.
-- Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business.
-- Cette émission a été réalisée par notre partenaire Médias France.
-- | Durée : 4:08.
-
-## [PARIS : Anthony CUSIMANO : « La question n'est plus d'empêcher l'attaque, mais de savoir ...](https://presseagence.fr/paris-anthony-cusimano-la-question-nest-plus-dempecher-lattaque-mais-de-savoir-sen-remettre/)  
-*Source : presseagence.fr | Publication : 2026-10-17*
-
-- PARIS : Anthony CUSIMANO : « La question n’est plus d… Partager : PARIS : Anthony CUSIMANO : « La question n’est plus d’empêcher l’attaque, mais de savoir s’en remettre » À l’occasion du Mois de la Cybersécurité, un expert souligne le retard des entreprises sur la restauration des données après une attaque.
-- Octobre est traditionnellement le mois de la sensibilisation à la cybersécurité, une période où les entreprises et les institutions publiques sont invitées à renforcer leurs défenses numériques.
-- Toutefois, pour les spécialistes du secteur, le paradigme est en train de changer radicalement.
-- La prévention, bien qu’indispensable, ne suffit plus face à des menaces de plus en plus sophistiquées comme les ransomwares.
-
-## [Joué-l'Abbé. Les chefs d'entreprise à la rencontre de la Gendarmerie - Ouest-France](https://www.ouest-france.fr/pays-de-la-loire/joue-labbe-72380/joue-l-abbe-les-chefs-dentreprise-a-la-rencontre-de-la-gendarmerie-cf658f9f-0c6d-4cec-a4ab-02ee8001d439)  
-*Source : ouest-france.fr | Publication : 2026-10-17*
-
-- .
-- Les entreprises du territoire ont été sensibilisées aux enjeux de sûreté et de cybersécurité lors d'une visite du Corg du.
-
-## [&quot;Ce qui est arrivé aux réfrigérateurs pourrait arriver sur les véhicules&quot;: alors que les voitures ...](https://www.bfmtv.com/tech/cybersecurite/ce-qui-est-arrive-aux-refrigerateurs-pourrait-arriver-sur-les-vehicules-alors-que-les-voitures-electriques-chinoises-s-imposent-l-inquietude-grandit-face-au-risque-de-prise-de-controle-a-distance_AV-202610170191.html)  
-*Source : bfmtv.com | Publication : 2026-10-17*
-
-- "Ce qui est arrivé aux réfrigérateurs pourrait arriver sur les véhicules": alors que les voitures électriques chinoises s’imposent, l'inquiétude grandit face au risque de prise de contrôle à distance Elles gagnent du terrain en Europe et le Mondial de l'auto 2026 le montre bien.
-- Les voitures électriques chinoises ont envahi la 91ème édition du salon de l'automobile, qui s'est ouverte le 12 octobre.
-- Mais cette démonstration de force, alors que les modèles de l'Empire du milieu séduisent de plus en plus les consommateurs, ne fait pas que des heureux.
-- Au contraire, elle fait même peur à certains.
-
-## [Plusieurs signalements de piratage WhatsApp au Maroc : Comment protéger votre compte ?](https://www.yabiladi.com/articles/details/205143/plusieurs-signalements-piratage-whatsapp-maroc.html)  
-*Source : yabiladi.com | Publication : 2026-10-17*
-
-- Dans cet entretien avec Yabiladi, l'experte marocaine en cybersécurité , Yousra El Haddad, explique comment des tiers peuvent prendre le contrôle d.
-
-## [Booking alerte : une nouvelle vague d'arnaques pourrait déferler cet hiver - 01net.com](https://www.01net.com/actualites/booking-alerte-une-nouvelle-vague-darnaques-pourrait-deferler-cet-hiver.html)  
-*Source : 01net.com | Publication : 2026-10-17*
-
-- Durant l’été dernier, la plateforme de réservation Booking.com a été confrontée à une vague d’arnaques d’une ampleur particulièrement importante.
-- En effet, de fausses annonces de logements à bas prix et proches de la tour Eiffel se sont multipliées sur Internet.
-- Les annonces étaient visibles sur Internet, mais les logements promis, eux, n’existaient tout simplement pas.
-- Les victimes se compteraient par dizaines.
-
-## [Post-Quantique Allemagne 2030 : la Directive du BSI [2026] - shattered.io](https://shattered.io/fr/post-quantique-allemagne-bsi-2030-2026/)  
-*Source : shattered.io | Publication : 2026-10-17*
-
-- L’Allemagne vient de poser un chiffre sur la table : 2030.
-- C’est l’échéance que Berlin fixe désormais à ses administrations et à ses opérateurs d’infrastructures critiques pour basculer vers la cryptographie post-quantique.
-- Le 16 octobre 2026, le ministère fédéral de l’Intérieur (BMI), le ministère de la Défense (BMDS) et l’Office fédéral de la sécurité des technologies de l’information (BSI) ont publié conjointement une directive nationale qui transpose la feuille de route européenne de transition.
-- Le texte distingue deux horizons : fin 2030 pour les systèmes jugés à haut risque, et 2035 pour que la migration générale soit largement achevée.
-
-## [<b>Cybercriminalité</b> : trois pages Facebook dans le viseur du CCID après des commentaires détectés](https://www.lemauricien.com/actualites/faits-divers/cybercriminalite-trois-pages-facebook-dans-le-viseur-du-ccid-apres-des-commentaires-detectes/720912/)  
-*Source : lemauricien.com | Publication : 2026-10-17*
-
-- Les administrateurs de pages Facebook ont la responsabilité de modérer et de contrôler les contenus indésirables portés à leur attention par une autorité d’enquête, en vertu de la Section 23(1) du Cybersecurity and Cybercrime Act 2021.
-- C’est ce rappel légal qui a été adressé aux administrateurs de trois pages Facebook, convoqués par le Central Criminal Investigation Department (CCID) le 15 octobre, après la détection de commentaires lors de cyberpatrouilles de la police.
-- Selon la police, les commentaires relevés avaient été publiés soit par les administrateurs eux-mêmes, soit par d’autres utilisateurs sur ces pages.
-- Les trois administrateurs ont ainsi été informés des dispositions légales qui encadrent leur responsabilité dans la modération des contenus signalés par une autorité chargée d’une enquête.
-
-## [CrowdStrike Stock Fell 7% on Friday. Here&amp;#8217;s What Could Drive Shares Through 2026](https://www.tikr.com/fr/blog/crowdstrike-stock-fell-7-on-friday-heres-what-could-drive-shares-through-2026?ref=tikrblog)  
-*Source : tikr.com | Publication : 2026-10-17*
-
-- Données Clés pour l'Action CrowdStrike Performance du 16 octobre : -7% - Fourchette sur 52 semaines : $86 à $287 - Prix cible du modèle de valorisation : Environ $240 - Potentiel de hausse implicite : Environ 6% - Analysez vos actions préférées comme CrowdStrike avec TIKR (C'est gratuit) >>> Que s'est-il passé ?.
-- L'IA crée un scénario d'investissement complexe pour CrowdStrike Holdings (NASDAQ : CRWD), car les entreprises ont besoin d'une protection cybersécurité renforcée pour soutenir l'adoption de l'IA tandis que les investisseurs craignent que les développeurs d'IA ne deviennent des concurrents.
-- L'action CrowdStrike a chuté d'environ 7% le 16 octobre, se négociant près de $227 par action, alors que les inquiétudes liées à la hausse des taux d'intérêt et une vente généralisée de la technologie ont pesé sur les actions de croissance chères.
-- Le titre avait récemment atteint un record près de $287, Reuters soulignant un affaiblissement de l'élan technique alors que les investisseurs réévaluaient la prime de valorisation de l'action.
-
-## [Black Friday : protégez tous vos appareils avec Surfshark One à seulement 2,49€/mois (-88%)](https://www.nicematin.com/guide-conso/black-friday-protegez-tous-vos-appareils-avec-surfshark-one-a-seulement-2-49-mois-88-10741889)  
-*Source : nicematin.com | Publication : 2026-10-17*
-
-- Black Friday : protégez tous vos appareils avec Surfshark One à seulement 2,49€/mois (-88%) Pendant le Black Friday, Surfshark One passe sous les 3€ par mois, soit -83% sur une suite qui remplace à la fois un VPN, un antivirus et un outil de surveillance des fuites de données.
-- Interne Surfshark One est un pack de cybersécurité tout-en-un qui regroupe VPN, antivirus, alertes de fuites de données, moteur de recherche privé et identité alternative en un seul abonnement.
-- Il couvre un nombre illimité d’appareils sans surcoût, ce qui le distingue des offres concurrentes limitées à 5 ou 10 connexions.
-- La garantie satisfait ou remboursé de 30 jours permet de le tester sans engagement financier.
+- Drupal corrige deux failles RCE critiques, mettez à jour avant les exploits Drupal corrige la faille RCE CVE-2026-108097 dans Field UI et celle d'Entity List.
+- Passez aux versions 10.6.19, 11.3.19 ou 11.4.10, ou désinstallez field_ui.
+- Les plus lus Cybersécurité Gemini Infrastructure Agents IA Apple Jeux Vidéo OpenAI Échecs et IA Tech Automobile Actualités IA & Tendances Finance Open Source Meta IA pour Professionnels Nvidia Claude Droit & Réglementation Samsung ChatGPT Amazon Tesla Anthropic IA chinoise IA en local Outils IA & Avis Opinions Benchmarks et Comparatifs Microsoft Télémédecine Développement Logiciel Économie & Business Google Guides et Tutoriels Robotique Grok Big Tech Rapports et Analyses UI/UX Design.
