@@ -1,146 +1,145 @@
-# Résumés – 2026-10-19
+# Résumés – 2026-10-20
 
 
-## [Surfshark vs TotalAV : quelle promo de fin d'année choisir pour un premier achat <b>cybersécurité</b>](https://www.lesnumeriques.com/antivirus/surfshark-vs-totalav-quelle-promo-de-fin-d-annee-choisir-pour-un-premier-achat-cybersecurite-a248247.html)  
-*Source : lesnumeriques.com | Publication : 2026-10-19*
+## [La 3e conférence des responsables arabes de la lutte contre la <b>cybercriminalité</b> se tient à Tunis](https://www.spa.gov.sa/fr/N2706444)  
+*Source : spa.gov.sa | Publication : 2026-10-20*
 
-- Surfshark vs TotalAV : quelle promo de fin d’année choisir pour un premier achat cybersécurité ?.
-- Surfshark et TotalAV proposent actuellement des promotions très attractives sur leurs suites de sécurité.
-- Mais lequel choisir lorsqu’on est novice ?.
-- Ce comparatif vous fournit tous les éléments pour prendre la meilleure décision.
+- Tunis, 21 octobre 2026, SPA -- La troisième conférence des responsables de la lutte contre la cybercriminalité au sein des ministères arabes de.
 
-## [Une semaine dans le domaine de la sécurité (12 octobre - 18 octobre) - Malwarebytes](https://www.malwarebytes.com/fr/blog/news/2026/10/a-week-in-security-october-12-october-18)  
-*Source : malwarebytes.com | Publication : 2026-10-19*
+## [La <b>cybersécurité</b> change d'échelle – Maxi Flash - Alsace du Nord](https://haguenau.maxi-flash.com/la-cybersecurite-change-dechelle/)  
+*Source : haguenau.maxi-flash.com | Publication : 2026-10-20*
 
-- La semaine dernière Malwarebytes Labs : Le robot compagnon Eiliko expose les conversations privées et peut être piraté.
-- - Les candidatures envoyées au hasard peuvent rendre plus difficile la détection d'une arnaque.
-- - OpenAI poursuivie en justice concernant la sécurité des enfants et l'utilisation des données - Mise à jour Chrome Google corrige 37 failles de sécurité, dont sept bugs critiques.
-- - Ce lien est-il sûr ?.
+- En tant que rapporteur du titre II du projet de loi « résilience et cyber », le député Vincent Thiébaut sera au cœur des débats consacrés à la transposition de la directive européenne NIS2, qui doit permettre aux États membres de l’Union européenne de renforcer leur coopération en matière de gestion de crise « cyber ».
+- Le texte marquera notamment un changement d’échelle.
+- Le nombre d’entités concernées passera d’environ 500 à près de 15 000, et le nombre de secteurs d’activité de 6 à 18.
+- Entreprises, administrations, collectivités et hôpitaux en feront partie.
 
-## [Cyberattaques du 17 octobre : des pirates revendiquent des millions de données françaises](https://www.solutions-numeriques.com/cyberattaques-du-17-octobre-des-pirates-revendiquent-des-millions-de-donnees-francaises/)  
-*Source : solutions-numeriques.com | Publication : 2026-10-19*
+## [Une panne électrique sur Google Cloud perturbe les services de plusieurs banques britanniques](https://actu.orange.fr/economie/une-panne-electrique-sur-google-cloud-perturbe-les-services-de-plusieurs-banques-britanniques-CNT000002tfzJG.html)  
+*Source : actu.orange.fr | Publication : 2026-10-20*
 
-- Fédération française de tir, I-CAD, Nomad Education, Malakoff Humanis, O’Tacos… Le samedi 17 octobre, une vingtaine d’organisations françaises auraient été ciblées par une vague coordonnée de fuites de données, doublée d’attaques DDoS contre des sites publics.
-- Selon le décompte de Sébastien Forte, alias Seb La Tombe, fondateur de FrenchBreaches, plus de 9 millions d’enregistrements seraient exposés, un volume cumulé qui pourrait toutefois inclure des doublons.
-- Une journée noire revendiquée sur les forums Le chiffre donne le vertige.
-- Dans un récapitulatif publié sur LinkedIn et X, Seb La Tombe, spécialiste OSINT, recense les fuites revendiquées par des pirates au cours du week-end.
+- Une panne électrique sur Google Cloud perturbe les services de plusieurs banques britanniques © Ben Stansall, AFP - Le Google Data Centre de Waltham Cross, au nord de Londres, le 20 octobre 2026 Une panne électrique sur l'infrastructure de Google dans la région de Londres a affecté certains de ses services de cloud (informatique à distance), d'après son site répertoriant les pannes mardi, plusieurs banques britanniques rapportant d'importantes perturbations.
+- "Le problème affectant les produits (Google Cloud) concernés a été atténué pour la plupart des clients et nous pensons qu'il ne touche actuellement qu'un très petit nombre" d'entre eux, a indiqué le géant de la tech.
+- L'entreprise américaine note que l'incident a commencé à 06H08 GMT mardi, et était en grande partie résolu vers 12H01 GMT.
+- Google avait signalé plus tôt avoir subi "une panne dans la zone europe-west2-b", "en raison d'un événement électrique".
 
-## [L'IA prête à l'emploi déçoit les entreprises françaises, les éditeurs se tournent vers le contexte métier](https://itsocial.fr/cybersecurite/cybersecurite-articles/lia-prete-a-lemploi-decoit-les-entreprises-francaises-les-editeurs-se-tournent-vers-le-contexte-metier/)  
-*Source : itsocial.fr | Publication : 2026-10-19*
+## [Une IA chinoise serait à l'origine de piratages en série au Japon - BFM](https://www.bfmtv.com/tech/intelligence-artificielle/une-ia-chinoise-serait-a-l-origine-de-piratages-en-serie-au-japon_AD-202610200387.html)  
+*Source : bfmtv.com | Publication : 2026-10-20*
 
-- Les entreprises disposent toutes des mêmes modèles de langage, et elles constatent qu’ils ne connaissent pas leur métier.
-- Les éditeurs de progiciels de gestion en font leur argument, la connaissance des processus sectoriels qu’ils ont modélisée, et la revendent sous forme d’agents intégrés à leurs suites.
-- La DSI y gagne des agents utilisables sans développement et des coûts prévisibles, au prix d’une dépendance qui se déplace du modèle vers la couche de processus de l’éditeur, dont la gouvernance reste en partie à livrer.
-- Infor, éditeur américain de progiciels de gestion sectoriels en mode cloud et filiale de Koch Industries, a publié la deuxième édition de son Enterprise AI Adoption Impact Index, une enquête menée en ligne par YouGov du 7 au 19 août 2026 auprès de 2 111 décideurs dans sept pays, dont 260 en France.
+- Une IA chinoise serait à l'origine de piratages en série au Japon Un outil chinois de cybersécurité basé sur l’IA, appelé Artex, a été utilisé dans une série de piratages récents visant des entreprises japonaises, a indiqué mardi la filiale d’un grand groupe internet basé à Tokyo.
+- Des dizaines d’entreprises japonaises, allant de chaînes de restaurants à un opérateur de location de voitures, ont révélé ces dernières semaines avoir repéré des accès non autorisés ou des violations de données touchant potentiellement des millions de clients.
+- La branche sécurité informatique de GMO Internet Group a déclaré avoir "confirmé l’utilisation d’Artex", après avoir enquêté sur les attaques en collaboration avec des organisations externes.
+- "Il est également apparu clairement (…) que les attaques ciblaient presque exclusivement le Japon", a écrit Daiki Fukumori de GMO sur le blog de l’entreprise.
 
-## [Violences du 17 octobre : les cybercriminels participent en piratant deux armureries](https://www.journaldunet.com/cybersecurite/1556813-emeutes-du-17-octobre-les-cybercriminels-participent-a-la-terreur-et-ciblent-des-armureries/)  
-*Source : journaldunet.com | Publication : 2026-10-19*
+## [Japon : une IA chinoise impliquée dans une série de cyberattaques contre des entreprises](https://www.capital.fr/entreprises-marches/japon-une-ia-chinoise-impliquee-dans-une-serie-de-cyberattaques-contre-des-entreprises-1531131)  
+*Source : capital.fr | Publication : 2026-10-20*
 
-- Violences du 17 octobre : les cybercriminels participent en piratant deux armureries Des cybercriminels ont contribué à semer le chaos ces derniers jours en publiant délibérément de nombreuses fuites de données la veille et le jour même.
-- Vitrines cassées, magasins pillés et… données fuitées !.
-- L'embrasement des rues françaises, samedi 17 octobre, s'est accompagné de nombreuses actions cybercriminelles visant à soutenir le mouvement.
-- "Hello, dans le cadre de l'opération du 17 octobre, je fais fuiter 3 400 documents de la Grande Loge Traditionnelle de France", a par exemple annoncé Angel_Batista, un hacker bien connu du forum cybercriminel PwnForums, le soir du 16 octobre 2026.
+- Un outil chinois de cybersécurité basé sur l'IA, appelé Artex, a été utilisé dans une série de piratages récents visant des entreprises japonaises, a indiqué ce mardi 20 octobre la filiale d'un grand groupe internet basé à Tokyo.
+- Des dizaines de sociétés nippones, allant de chaînes de restaurants à un opérateur de location de voitures, ont révélé ces dernières semaines avoir repéré des accès non autorisés ou des violations de données touchant des millions de clients.
+- La branche sécurité informatique de GMO Internet Group a déclaré avoir «confirmé l'utilisation d'Artex», après avoir enquêté sur les attaques en collaboration avec des organisations externes.
+- «Il est également apparu clairement (…) que les attaques ciblaient presque exclusivement le Japon», écrit Daiki Fukumori de GMO sur le blog de l'entreprise.
 
-## [Prakash Panjwani, nouveau DG d'Acronis - ChannelNews](https://www.channelnews.fr/prakash-panjwani-nouveau-dg-dacronis-159658)  
-*Source : channelnews.fr | Publication : 2026-10-19*
+## [rzilient renforce son offre cyber - Solutions-Numeriques](https://www.solutions-numeriques.com/communiques/rzilient-renforce-son-offre-cyber/)  
+*Source : solutions-numeriques.com | Publication : 2026-10-20*
 
-- Acronis a annoncé la nomination de Prakash Panjwani au poste de directeur général, avec effet immédiat.
-- Il succède à Jan-Jaap Jager, qui conserve sa qualité d’actionnaire et de conseiller de l’éditeur suisse spécialisé dans la protection des données et la cybersécurité.
-- Prakash Panjwani possède une solide expérience du secteur cyber.
-- Il a notamment dirigé pendant dix ans WatchGuard Technologies, qu’il a accompagné dans sa transformation d’un fournisseur de pare-feu en une plateforme de cybersécurité étendue à la protection des terminaux, à la gestion des identités et aux services XDR et MDR.
+- rzilient franchit une nouvelle étape dans le développement de son offre en renforçant son expertise en cybersécurité.
+- Son ambition : permettre aux entreprises de passer d’une accumulation de solutions de sécurité à une approche cyber cohérente, pilotée et adaptée à leurs usages réels.
+- Une méthodologie sur mesure pour chaque client Accompagnant aujourd’hui plus de 150 clients utilisant ses solutions, rzilient a conçu une méthode d’intervention éprouvée pour éviter l’écueil des solutions standardisées.
+- L’accompagnement débute systématiquement par un audit de l’existant et une analyse des risques.
 
-## [Delhaize porte plainte auprès de la police néerlandaise après l'incident de <b>cybersécurité</b>](https://www.lesoir.be/777803/article/2026-10-19/delhaize-porte-plainte-aupres-de-la-police-neerlandaise-apres-lincident-de)  
-*Source : lesoir.be | Publication : 2026-10-19*
+## [Marc-André Beaudet devient CTO du Groupe Squad - ChannelNews](https://www.channelnews.fr/marc-andre-beaudet-devient-cto-du-groupe-squad-159694)  
+*Source : channelnews.fr | Publication : 2026-10-20*
 
-- Le centre national néerlandais pour la cybersécurité (NCSC) a été informé dans les 24 heures suivant la découverte de l'incident.
-- Ahold Delhaize a.
+- Marc-André Beaudet devient Chief Technical Officer du Groupe Squad et rejoint son comité de direction.
+- Fort de plus de 20 ans d’expérience dans la cybersécurité, il a exercé aussi bien au sein des institutions de l’Etat que dans de grandes entreprises privées.
+- Au cours de sa carrière dans le secteur public, il a successivement occupé des fonctions d’analyste, d’architecte et d’expert cybersécurité à l’Agence nationale de la sécurité des systèmes d’information (l’Anssi), à la Cnil et au sein du Ministère de l’Intérieur.
+- Dans le secteur privé, il a été en charge de la cybersécurité de CNP Assurances Protection Sociale, après avoir été CISO chez Filhet-Allard et RSSI régional chez Enedis. «.
 
-## [Riyad devient le siège du premier conseil ministériel de l'OCI consacré à la <b>cybersécurité</b>](https://www.spa.gov.sa/fr/N2705299)  
-*Source : spa.gov.sa | Publication : 2026-10-19*
+## [Comment se protéger contre la fraude? «L'enjeu est tellement complexe - 98.5 Montréal](https://www.985fm.ca/audio/809921/comment-se-proteger-contre-la-fraude-l-enjeu-est-tellement-complexe)  
+*Source : 985fm.ca | Publication : 2026-10-20*
 
-- À cette occasion, le gouverneur de l'Autorité nationale de cybersécurité (NCA), Majed Al-Mazyed, a expliqué que la proposition saoudienne intervient.
+- Octobre est le mois de la sensibilisation à la cybersécurité.
+- Au cours des six premiers mois de 2026, le Centre antifraude du Canada évalue qu’il y a eu au moins 351 millions de dollars de pertes liées à la fraude.
+- Et ce sont seulement les cas déclarés… La réalité serait bien pire.
+- Récemment, un pirate informatique responsable d’une fraude de 1,6 million de dollars, de l’infection de 1 500 ordinateurs et du vol de centaines d’identités, a écopé d’une peine de trois ans et demi de pénitencier.
 
-## [<b>Ransomware</b> : France, des victimes trop promptes à payer ? | LeMagIT](https://www.lemagit.fr/actualites/366652479/Ransomware-France-des-victimes-trop-promptes-a-payer)  
-*Source : lemagit.fr | Publication : 2026-10-19*
+## [« C'est un nouveau monde » : une armée d'IA vient de lancer une cyberattaque « massive »](https://www.01net.com/actualites/nouveau-monde-armee-ia-vient-lancer-cyberattaque-massive-plus-100-entreprises-piratees.html)  
+*Source : 01net.com | Publication : 2026-10-20*
 
-- Afiq Sam - stock.adobe.com Ransomware : France, des victimes trop promptes à payer ?.
-- À croire Semperis, les entreprises françaises victimes de rançongiciel tendent à payer, dans des proportions non négligeables.
-- La faute à une certaine impréparation, peut-être.
-- Selon Semperis, 35 % des victimes françaises de ransomware céderaient au chantage et paieraient la rançon demandée.
+- Un pirate chinois est parvenu à infiltrer les sites de plus de 100 entreprises d’envergure.
+- Selon un rapport de NorForge, une entreprise de cybersécurité, le cybercriminel a confié la quasi-totalité du travail à une armée d’agents IA.
+- Ces intelligences artificielles ont pu agir seules, sans la moindre intervention humaine.
+- Les agents malveillants ont tenté de s’introduire dans plus de 1 200 sites à travers les États-Unis, le Canada, l’Australie et le Japon à partir de la fin du mois de septembre 2026.
 
-## [ISEP : les données de milliers d'étudiants en <b>cybersécurité</b> en fuite - Cyberattaque.org](https://www.cyberattaque.org/cyberattaque-isep-les-donnees-de-milliers-detudiants-en-cybersecurite-en-fuite/)  
-*Source : cyberattaque.org | Publication : 2026-10-19*
+## [Cohesity récompense ses partenaires les plus performants en 2026 - ChannelNews](https://www.channelnews.fr/cohesity-recompense-ses-partenaires-les-plus-performants-en-2026-159692)  
+*Source : channelnews.fr | Publication : 2026-10-20*
 
-- L’Isep, l’une des écoles françaises spécialisées dans le numérique, l’informatique et la cybersécurité, se retrouve à son tour confrontée à une fuite de données.
-- Le hacker ChimeraZ vient de diffuser gratuitement trois fichiers présentés comme provenant de l’école, en revendiquant 5 091 lignes et 5 088 personnes.
-- Cyberattaque.org s’est procuré l’archive complète et a analysé son contenu.
-- Les fichiers contiennent bien plusieurs milliers de profils associés à l’Isep, avec notamment les noms, prénoms, adresses email institutionnelles, promotions et statuts d’élèves.
+- L’éditeur californien en cybersécurité Cohesity attribue chaque année des trophées à ses partenaires les plus performants.
+- Lors de l’édition 2026 qui vient de s’achever, l’intégrateur suisse Sonio AG a été nommé partenaire européen de l’année.
+- L’ESN SCC France est partenaire croissance européen de l’année.
+- Le suédois Atea Sverige AB devient partenaire nouveaux clients européen de l’année.
 
-## [Faverges-Seythenex. Tout savoir sur la <b>cybersécurité</b> avec France services](https://www.ledauphine.com/societe/2026/10/19/tout-savoir-sur-la-cybersecurite-avec-france-services)  
-*Source : ledauphine.com | Publication : 2026-10-19*
+## [Le fichier national d'identification des chiens et des chats piraté, 2,9 millions de propriétaires ...](https://www.ouest-france.fr/societe/cyberattaque/le-fichier-national-didentification-des-chiens-et-des-chats-pirate-2-9-millions-de-proprietaires-danimaux-concernes-6d14fb52-cc84-11f1-b497-716ff9f9734b)  
+*Source : ouest-france.fr | Publication : 2026-10-20*
 
-- Une journée dédiée à la cybersécurité a été proposée aux habitants le 14 octobre.
-- Dans un contexte où le risque peut surgir de partout, les.
+- Les animaux peuvent eux aussi être concernés par la cybercriminalité.
+- Un hacker se faisant appeler ChimeraZ a ainsi mis en vente dimanche 18.
 
-## [Ahold Delhaize signale un incident de <b>cybersécurité</b> à la police néerlandaise - Zonebourse](https://ch.zonebourse.com/actualite-bourse/ahold-delhaize-signale-un-incident-de-cybersecurite-a-la-police-neerlandaise-ce785cdbda80f124)  
-*Source : ch.zonebourse.com | Publication : 2026-10-19*
+## [Saint-Cloud : Constellation fusionne Login Sécurité et Tionis - Presse Agence](https://presseagence.fr/saint-cloud-cybersecurite-constellation-unifie-ses-expertises-en-fusionnant-login-securite-et-tionis/)  
+*Source : presseagence.fr | Publication : 2026-10-20*
 
-- Le distributeur Ahold Delhaize a signalé lundi un incident de cybersécurité à la police néerlandaise après avoir détecté une activité suspecte dans son infrastructure, a indiqué le groupe, ajoutant avoir mis certains systèmes hors ligne par précaution au début du mois.
-- Bien qu’il n’ait été signalé à la police que lundi, l’incident a coïncidé avec une cyberattaque en France qui a fait monter la température des réfrigérateurs et des congélateurs jusqu’à 50 degrés Celsius (122 degrés Fahrenheit) pendant la nuit dans des centaines de magasins, provoquant des incendies et entraînant la détérioration de denrées alimentaires.
-- Le Centre national néerlandais de cybersécurité a déclaré qu’il n’y avait aucune raison de penser que l’incident aux Pays-Bas était directement lié à des cyberattaques survenues dans d’autres pays.
-- Delhaize a indiqué que ses investigations avaient établi que l’activité suspecte résultait des « actions malveillantes de tiers », sans préciser qui pourrait en être responsable. «.
+- SAINT-CLOUD : Cybersécurité – Constellation unifie se… Partager : SAINT-CLOUD : Cybersécurité – Constellation unifie ses expertises en fusionnant Login Sécurité et Tionis Le groupe Constellation fusionne ses filiales Login Sécurité et Tionis, créant un pôle unifié pour une approche globale de la cybersécurité.
+- Le groupe Constellation, acteur majeur de la transformation numérique des ETI, a annoncé une réorganisation stratégique de son pôle sécurité.
+- Depuis le 1er octobre 2026, ses filiales Login Sécurité, spécialiste de la cybersécurité réactive et proactive, et Tionis, intégrateur de solutions réseau, ont fusionné pour ne former qu’une seule entité.
+- Cette nouvelle structure, qui conserve le nom de Login Sécurité, représente désormais une force de 100 collaborateurs et un chiffre d’affaires consolidé de 30 millions d’euros.
 
-## [IA et <b>cybersécurité</b> : près de 500 chercheurs lancent l'alerte - Décideurs Juridiques](https://www.decideurs-juridiques.com/legaltech-juridiques/65475-ia-et-cybersecurite-pres-de-500-chercheurs-lancent-l-alerte.html)  
-*Source : decideurs-juridiques.com | Publication : 2026-10-19*
+## [VikingCloud et Fiserv étendent leur partenariat stratégique pour offrir une protection contre ...](https://fr.finance.yahoo.com/actualites/vikingcloud-fiserv-étendent-partenariat-stratégique-130000166.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-10-20*
 
-- Dans une lettre ouverte en date du 13 octobre 2026, les scientifiques du secteur de l'IA et de la cybersécurité alertent l'opinion publique quant.
+- VikingCloud et Fiserv étendent leur partenariat stratégique pour offrir une protection contre les cyber-risques aux commerçants Un accord pluriannuel étend la protection de la cybersécurité des commerçants en Amérique du Nord et dans la zone EMEA CHICAGO et DUBLIN, 20 octobre 2026 /PRNewswire/ -- VikingCloud, une entreprise de cybersécurité et de conformité utilisée par plus de quatre millions d'entreprises dans le monde, annonce aujourd'hui un accord pluriannuel avec Fiserv, Inc. (NASDAQ : FISV), un fournisseur mondial de premier plan de technologies de paiement et de services financiers, pour aider les entreprises à renforcer leurs défenses en matière de cybersécurité et à simplifier la conformité PCI.
+- Dès début 2027, Fiserv proposera VikingCloud Cyber Risk Defense, une solution primée conçue pour aider les entreprises à identifier, comprendre et réduire les risques de cybersécurité grâce à une surveillance continue et des conseils pratiques. «.
+- Les chefs d'entreprise ne devraient pas avoir à devenir des experts en cybersécurité pour protéger ce qu'ils ont construit », déclare Mark Brady, CEO de VikingCloud. «.
+- Ils nous ont dit ce dont ils ont besoin : une protection qui fonctionne en arrière-plan, des instructions claires sur les problèmes à résoudre en priorité et la tranquillité d'esprit en cas de problème.
 
-## [Directive européenne NIS2 : Sécurité des Réseaux et des systèmes d'Information (SRI2)](https://www.republikgroup.com/articles/e9a5b6bb-cdcb-f111-bf5c-000d3a2339c7/directive-europeenne-nis2-securite-des-reseaux-et-des-systemes-d-information-sri2-)  
-*Source : republikgroup.com | Publication : 2026-10-19*
+## [Accenture, Dragos et SANS lancent un programme communautaire de <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/accenture-dragos-et-sans-lancent-un-programme-communautaire-de-cybersecurite-ce785cd8dd8dfe23)  
+*Source : zonebourse.com | Publication : 2026-10-20*
 
-- Démystification de l’éthique NIS2 (Network and Information Security 2) ou SRI2 (Sécurité des Réseaux et des systèmes d’Information) est une directive européenne, et non une norme, destinée à accroitre et harmoniser la cybersécurité dans l’Union Européenne.
-- Adoptée le 14 décembre 2022, elle remplace la directive NIS1 de 2016 (7 secteurs) qui ne visait en France qu’environ 500 opérateurs de services essentiels ; de plus, elle corrige ses limites, notamment un périmètre trop restreint et des obligations inégales entre États membres et étend les obligations à plus d’entités économiques et publiques.
-- Elle impose notamment la gestion des risques, la notification des incidents importants et l’implication des organes de direction.
-- Les incidents venant de la chaîne d’approvisionnement (sous-traitance et cascade contractuelle) sont en forte croissance.
+- Accenture, Dragos et SANS lancent un programme communautaire de cybersécuritéAccenture , Dragos et le SANS Institute ont annoncé mardi le lancement d’une initiative de cyberdéfense destinée aux services publics américains disposant de ressources limitées, avec un.
 
-## [Sauter mise sur la régulation terminale et la <b>cybersécurité</b> à IBS](https://www.genieclimatique.fr/tendances/industriels/33348/sauter-mise-sur-la-regulation-terminale-et-la-cybersecurite-a-ibs)  
-*Source : genieclimatique.fr | Publication : 2026-10-19*
+## [Accenture et Dragos lancent une initiative de <b>cybersécurité</b> de 10M$ pour les services publics](https://fr.investing.com/news/company-news/accenture-et-dragos-lancent-une-initiative-de-cybersecurite-de-10m-pour-les-services-publics-93CH-3643958)  
+*Source : fr.investing.com | Publication : 2026-10-20*
 
-- Sauter Ecos 501 Ecos 501 Régulateur terminal, pilotage pièce par pièce, servomoteur connecté : au salon IBS, le spécialiste suisse de la gestion technique du bâtiment présentait plusieurs nouveautés pour les installations CVC.
-- Du terminal à la supervision, Sauter couvrait toute la chaîne de régulation au salon Intelligent Building Systems (IBS).
-- Le fabricant y présentait notamment : Ecos 501, un nouveau régulateur communicant dédié à la régulation terminale des installations CVC.
-- - HeatEco Control, une solution de pilotage pièce par pièce des besoins de chauffage, destinée aux installations collectives à eau chaude.
+- La Community Cyber Resilience Foundation proposera des logiciels, du matériel informatique, des services de déploiement et des formations en.
 
-## [Sewan obtient le renouvellement de ses certifications HDS et ISO 27001 - ChannelNews](https://www.channelnews.fr/sewan-obtient-le-renouvellement-de-ses-certifications-hds-et-iso-27001-2-159655)  
-*Source : channelnews.fr | Publication : 2026-10-19*
+## [VikingCloud et Fiserv étendent leur partenariat stratégique pour offrir une protection contre ...](https://fr.tradingview.com/news/prnewswire:4afc37d030028:0/)  
+*Source : fr.tradingview.com | Publication : 2026-10-20*
 
-- A l’issu d’un audit mené par l’organisme de certification en cybersécurité LSTI, filiale du groupe malouin Apave, les dispositifs de sécurité mis en œuvre par Sewan sont re-certifiés HDS (Hébergement des Données Santé) et ISO 27001 (certification des systèmes de management de la sécurité de l’information).
-- Cette reconduction confirme la capacité de l’opérateur alternatif français à maintenir des environnements d’hébergement conformes aux exigences associées aux données sensibles et aux applications critiques.
-- Sewan associe cette démarche à des investissements continus dans ses infrastructures et ses processus afin de proposer « des environnements d’hébergement sécurisés, évolutifs et souverains » à sa clientèle. «.
-- Le renouvellement de nos certifications constitue une garantie supplémentaire pour nos clients, qui peuvent ainsi héberger leurs données et solutions dans un environnement fiable et sécurisé », souligne Stanislas De Goriainoff, le directeur technique de Sewan (cf.
+- VikingCloud et Fiserv étendent leur partenariat stratégique pour offrir une protection contre les cyber-risques aux commerçants Un accord pluriannuel étend la protection de la cybersécurité des commerçants en Amérique du Nord et dans la zone EMEA CHICAGO et DUBLIN, 20 octobre 2026 /PRNewswire/ -- VikingCloud, une entreprise de cybersécurité et de conformité utilisée par plus de quatre millions d'entreprises dans le monde, annonce aujourd'hui un accord pluriannuel avec Fiserv, Inc. (NASDAQ : FISV), un fournisseur mondial de premier plan de technologies de paiement et de services financiers, pour aider les entreprises à renforcer leurs défenses en matière de cybersécurité et à simplifier la conformité PCI.
+- Dès début 2027, Fiserv proposera VikingCloud Cyber Risk Defense, une solution primée conçue pour aider les entreprises à identifier, comprendre et réduire les risques de cybersécurité grâce à une surveillance continue et des conseils pratiques. «.
+- Les chefs d'entreprise ne devraient pas avoir à devenir des experts en cybersécurité pour protéger ce qu'ils ont construit », déclare Mark Brady, CEO de VikingCloud. «.
+- Ils nous ont dit ce dont ils ont besoin : une protection qui fonctionne en arrière-plan, des instructions claires sur les problèmes à résoudre en priorité et la tranquillité d'esprit en cas de problème.
 
-## [Dix ans après, quels défis pour les données et les communs numériques](https://www.numerique.gouv.fr/actualites/dix-ans-apres-quels-defis-donnees-communs-numeriques/)  
-*Source : numerique.gouv.fr | Publication : 2026-10-19*
+## [Le ministre saoudien de l'Intérieur inaugure des centres de commandement et de contrôle ...](https://www.spa.gov.sa/fr/N2706271)  
+*Source : spa.gov.sa | Publication : 2026-10-20*
 
-- Dix ans après, quels défis pour les données et les communs numériques ?.
-- Publié le mercredi 14 octobre 2026 | DINUM Thématiques : - Il y a dix ans, la Loi pour une République numérique posait les bases d’une nouvelle relation entre l’État, les citoyens, les données et le numérique.
-- Une décennie plus tard, le contexte a profondément changé.
-- D'un côté, l’intelligence artificielle transforme les pratiques et les métiers.
+- cybersécurité , chargé de protéger les données, les réseaux et les ... cybermenaces.
+- Le ministre a par ailleurs lancé, via l'application.
 
-## [ROI <b>cybersécurité</b> : comment mesurer sa rentabilité ? - incyber news](https://incyber.org/article/roi-cybersecurite-comment-mesurer-ce-que-on-ne-perd-pas/)  
-*Source : incyber.org | Publication : 2026-10-19*
+## [<b>Ransomwares</b> &amp; piratages : 15 cyberattaques d'ampleur du 20 octobre 2026 (dont Danfoss)](https://dcod.ch/2026/10/20/ransomwares-piratages-15-cyberattaques-dampleur-du-20-octobre-2026-dont-danfoss/)  
+*Source : dcod.ch | Publication : 2026-10-20*
 
-- Des outils de détection aux audits, en passant par la formation des collaborateurs, la supervision et le volet cyberassurance, les entreprises augmentent chaque année leurs dépenses liées à la protection de leurs systèmes d’information.
-- Le cabinet IDC (1) prévoit que cette enveloppe passera, à l’échelle mondiale, de 308 milliards de dollars en 2026 à 430 milliards en 2029.
-- Pourtant, la cybersécurité demeure souvent perçue comme un centre de coûts, une assurance contre un risque incertain ou une contrainte réglementaire.
-- Les directions générales interrogent dès lors le rendement d’investissements dont le succès se manifeste par l’absence d’incident.
+- Faits marquants de la semaine Dans la nuit de dimanche à lundi, une cyberattaque a visé des systèmes de réfrigération Danfoss non corrigés dans des supermarchés français, déclenchant un dégivrage forcé continu à 50°C et détruisant des stocks de marchandises.
+- - Bitdefender décrit « Midnight Mimosa », un malware Android préinstallé dans le firmware de smartphones bon marché sous MediaTek : impossible à désinstaller, il installe/supprime des apps et alimente fraude publicitaire et botnet proxy.
+- - Le FBI, via l’opération « Operation Lonestar Roundup », a perquisitionné plus de 40 résidences au Texas et saisi 187 ordinateurs liés à des « laptop farms » utilisées pour obtenir des emplois дистанts sous fausses identités.
+- - Des chercheurs d’une université canadienne indiquent que des millions de publicités en ligne servies par Discover-Tech auraient permis l’usage de spyware « zero-click » (infection sans clic), avec des dizaines d’appareils d’Al Jazeera potentiellement compromis.
 
-## [6ème promotion de l'accélérateur d'Hexatrust - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/cybersecurite/65383-6eme-promotion-de-l-accelerateur-d-hexatrust.html)  
-*Source : linformaticien.com | Publication : 2026-10-19*
+## [La <b>cybersécurité</b>, angle mort de la gouvernance des entreprises - L'Agefi](https://agefi.com/actualites/entreprises/la-cybersecurite-angle-mort-de-la-gouvernance-des-entreprises)  
+*Source : agefi.com | Publication : 2026-10-20*
 
-- Hexatrust ouvre les candidatures pour la 6ème édition de son programme Accélérateur, destiné à accompagner les jeunes entreprises de la filière.
+- En Suisse, 68% des conseils d'administration ne comptent aucun expert en cybersécurité , selon une étude.
+- L'élu vert Gerhard Andrey appelle à une.
 
-## [L'association « On se Regeek » réunit gaming, streaming et <b>cybersécurité</b> à Recquignies](https://www.lavoixdunord.fr/1747638/article/2026-10-19/l-association-se-regeek-reunit-gaming-streaming-et-cybersecurite-recquignies)  
-*Source : lavoixdunord.fr | Publication : 2026-10-19*
+## [Les <b>ransomwares</b> INC et The Gentlemen utilisent Claude, un serveur ouvert révèle 46 ...](https://pasqualepillitteri.it/fr/news/25993/ransomware-inc-gentlemen-claude-serveur-ouvert-socradar)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-20*
 
-- curieux autour du gaming, de la réalité virtuelle, du streaming et de la cybersécurité , avec 140 participants au tournoi e-sport.
+- Les ransomwares INC et The Gentlemen utilisent Claude, un serveur ouvert révèle 46 attaques prêtes SOCRadar a trouvé un serveur ouvert d'affiliés d'INC et The Gentlemen avec 8 257 messages échangés avec Claude et Kimi, 46 versions de l'encryptor et 62 victimes nommées.
+- Les plus lus Cybersécurité Infrastructure Agents IA Jeux Vidéo Tech Automobile Applis Mobiles Meta Google Actualités IA & Tendances Claude Finance Outils IA & Avis Guides et Tutoriels IA en local Robotique Droit & Réglementation IA chinoise Big Tech Anthropic Gemini Apple OpenAI Échecs et IA Open Source IA pour Professionnels Nvidia Samsung ChatGPT Amazon Tesla Opinions Benchmarks et Comparatifs Microsoft Télémédecine Développement Logiciel Économie & Business Grok Rapports et Analyses.
