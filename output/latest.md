@@ -1,145 +1,145 @@
-# Résumés – 2026-10-20
+# Résumés – 2026-10-21
 
 
-## [La 3e conférence des responsables arabes de la lutte contre la <b>cybercriminalité</b> se tient à Tunis](https://www.spa.gov.sa/fr/N2706444)  
-*Source : spa.gov.sa | Publication : 2026-10-20*
+## [Alerte mondiale de <b>cybersécurité</b> : la police fédérale met ses sites hors ligne par précaution ...](https://www.sudinfo.be/id1213893/article/2026-10-21/alerte-mondiale-de-cybersecurite-la-police-federale-met-ses-sites-hors-ligne-par)  
+*Source : sudinfo.be | Publication : 2026-10-21*
 
-- Tunis, 21 octobre 2026, SPA -- La troisième conférence des responsables de la lutte contre la cybercriminalité au sein des ministères arabes de.
+- La police fédérale a mis ses sites hors ligne mercredi par précaution après la découverte de failles critiques dans PHP.
+- Le numéro d'urgence 101 reste.
 
-## [La <b>cybersécurité</b> change d'échelle – Maxi Flash - Alsace du Nord](https://haguenau.maxi-flash.com/la-cybersecurite-change-dechelle/)  
-*Source : haguenau.maxi-flash.com | Publication : 2026-10-20*
+## [Agents IT (3/7) Le travail au noir : Interdire l'IA, c'est pousser les collaborateurs à contourner](https://www.solutions-numeriques.com/agents-it-3-7-le-travail-au-noir-interdire-lia-cest-pousser-les-collaborateurs-a-contourner/)  
+*Source : solutions-numeriques.com | Publication : 2026-10-21*
 
-- En tant que rapporteur du titre II du projet de loi « résilience et cyber », le député Vincent Thiébaut sera au cœur des débats consacrés à la transposition de la directive européenne NIS2, qui doit permettre aux États membres de l’Union européenne de renforcer leur coopération en matière de gestion de crise « cyber ».
-- Le texte marquera notamment un changement d’échelle.
-- Le nombre d’entités concernées passera d’environ 500 à près de 15 000, et le nombre de secteurs d’activité de 6 à 18.
-- Entreprises, administrations, collectivités et hôpitaux en feront partie.
+- Fermer les portes de l’IA générative ne fait pas disparaître les usages.
+- Ils se déplacent hors des radars, sur des postes personnels et des outils non validés.
+- Troisième volet de notre série : après le shadow IT, les entreprises découvrent le shadow AI, et ses agents clandestins.
+- Le scénario n’a rien de nouveau.
 
-## [Une panne électrique sur Google Cloud perturbe les services de plusieurs banques britanniques](https://actu.orange.fr/economie/une-panne-electrique-sur-google-cloud-perturbe-les-services-de-plusieurs-banques-britanniques-CNT000002tfzJG.html)  
-*Source : actu.orange.fr | Publication : 2026-10-20*
+## [&quot;Ce n'est que le début&quot; : comment deux failles de sécurité découvertes par l'IA ont mis à l ...](https://www.rtl.fr/actu/sciences-tech/ce-n-est-que-le-debut-comment-deux-failles-de-securite-dans-un-langage-de-programmation-php-decouvertes-par-ia-ont-mis-a-l-arret-une-partie-du-web-mondial-7900687838)  
+*Source : rtl.fr | Publication : 2026-10-21*
 
-- Une panne électrique sur Google Cloud perturbe les services de plusieurs banques britanniques © Ben Stansall, AFP - Le Google Data Centre de Waltham Cross, au nord de Londres, le 20 octobre 2026 Une panne électrique sur l'infrastructure de Google dans la région de Londres a affecté certains de ses services de cloud (informatique à distance), d'après son site répertoriant les pannes mardi, plusieurs banques britanniques rapportant d'importantes perturbations.
-- "Le problème affectant les produits (Google Cloud) concernés a été atténué pour la plupart des clients et nous pensons qu'il ne touche actuellement qu'un très petit nombre" d'entre eux, a indiqué le géant de la tech.
-- L'entreprise américaine note que l'incident a commencé à 06H08 GMT mardi, et était en grande partie résolu vers 12H01 GMT.
-- Google avait signalé plus tôt avoir subi "une panne dans la zone europe-west2-b", "en raison d'un événement électrique".
+- - 01m21s 4 min de lecture De nombreux sites Internet ont été rendus temporairement inaccessibles, ce mercredi 21 octobre, en France et dans plusieurs autres pays dans le monde entier.
+- Des plateformes administratives, des services publics et certaines infrastructures numériques ont été contraints de suspendre leurs activités en ligne après la découverte de deux failles de sécurité critiques dans PHP, un langage informatique utilisé par environ 70% des sites web à travers le monde.
+- Les deux failles, identifiées sous les références CVE-2026-109618 et CVE-2026-109619, ont été considérées comme particulièrement dangereuses.
+- Leur niveau de gravité a été évalué à 9,2 sur 10 par les développeurs de PHP, ce qui les place parmi les vulnérabilités critiques.
 
-## [Une IA chinoise serait à l'origine de piratages en série au Japon - BFM](https://www.bfmtv.com/tech/intelligence-artificielle/une-ia-chinoise-serait-a-l-origine-de-piratages-en-serie-au-japon_AD-202610200387.html)  
-*Source : bfmtv.com | Publication : 2026-10-20*
+## [70 % des sites web vulnérables à une faille majeure et à un risque de piratage - 95.7 KYK](https://www.957kyk.com/audio/810170/70-des-sites-web-vulnerables-a-une-faille-majeure-et-a-un-risque-de-piratage)  
+*Source : 957kyk.com | Publication : 2026-10-21*
 
-- Une IA chinoise serait à l'origine de piratages en série au Japon Un outil chinois de cybersécurité basé sur l’IA, appelé Artex, a été utilisé dans une série de piratages récents visant des entreprises japonaises, a indiqué mardi la filiale d’un grand groupe internet basé à Tokyo.
-- Des dizaines d’entreprises japonaises, allant de chaînes de restaurants à un opérateur de location de voitures, ont révélé ces dernières semaines avoir repéré des accès non autorisés ou des violations de données touchant potentiellement des millions de clients.
-- La branche sécurité informatique de GMO Internet Group a déclaré avoir "confirmé l’utilisation d’Artex", après avoir enquêté sur les attaques en collaboration avec des organisations externes.
-- "Il est également apparu clairement (…) que les attaques ciblaient presque exclusivement le Japon", a écrit Daiki Fukumori de GMO sur le blog de l’entreprise.
+- Une vulnérabilité critique affectant le langage PHP, utilisé par près de 70 % des sites web, suscite une vive inquiétude chez les experts en cybersécurité.
+- Baptisée « PHP2Shell », cette brèche permet à un cyberpirate d'obtenir des privilèges d'administrateur en quelques secondes, exposant les sites touchés au vol de données, à la modification de leur contenu ou à la compromission de réseaux internes.
+- Découverte grâce à un outil d'IA, la faille est déjà exploitée de manière automatisée.
+- La Fondation PHP a rapidement publié des correctifs urgents, tandis que certaines organisations, comme le centre de services scolaire Marie-Victorin, ont préventivement suspendu leurs services en ligne.
 
-## [Japon : une IA chinoise impliquée dans une série de cyberattaques contre des entreprises](https://www.capital.fr/entreprises-marches/japon-une-ia-chinoise-impliquee-dans-une-serie-de-cyberattaques-contre-des-entreprises-1531131)  
-*Source : capital.fr | Publication : 2026-10-20*
+## [«Vulnérabilité critique»: de nombreux sites web inaccessibles en raison d'une importante ...](https://www.tvanouvelles.ca/2026/10/21/vulnerabilite-critique-de-nombreux-sites-web-inaccessible-en-raison-dune-importante-faille)  
+*Source : tvanouvelles.ca | Publication : 2026-10-21*
 
-- Un outil chinois de cybersécurité basé sur l'IA, appelé Artex, a été utilisé dans une série de piratages récents visant des entreprises japonaises, a indiqué ce mardi 20 octobre la filiale d'un grand groupe internet basé à Tokyo.
-- Des dizaines de sociétés nippones, allant de chaînes de restaurants à un opérateur de location de voitures, ont révélé ces dernières semaines avoir repéré des accès non autorisés ou des violations de données touchant des millions de clients.
-- La branche sécurité informatique de GMO Internet Group a déclaré avoir «confirmé l'utilisation d'Artex», après avoir enquêté sur les attaques en collaboration avec des organisations externes.
-- «Il est également apparu clairement (…) que les attaques ciblaient presque exclusivement le Japon», écrit Daiki Fukumori de GMO sur le blog de l'entreprise.
+- Le ministre de l'Intelligence artificielle, Evan Solomon, a d'ailleurs assuré que le fédéral avait des protocoles de cybersécurité « très rigoureux ».
 
-## [rzilient renforce son offre cyber - Solutions-Numeriques](https://www.solutions-numeriques.com/communiques/rzilient-renforce-son-offre-cyber/)  
-*Source : solutions-numeriques.com | Publication : 2026-10-20*
+## [<b>Cybersécurité</b> en Afrique : face aux menaces croissantes, les enjeux du Cyber Africa Forum](https://www.youtube.com/watch?v=D-ZcYjsluLM)  
+*Source : youtube.com | Publication : 2026-10-21*
 
-- rzilient franchit une nouvelle étape dans le développement de son offre en renforçant son expertise en cybersécurité.
-- Son ambition : permettre aux entreprises de passer d’une accumulation de solutions de sécurité à une approche cyber cohérente, pilotée et adaptée à leurs usages réels.
-- Une méthodologie sur mesure pour chaque client Accompagnant aujourd’hui plus de 150 clients utilisant ses solutions, rzilient a conçu une méthode d’intervention éprouvée pour éviter l’écueil des solutions standardisées.
-- L’accompagnement débute systématiquement par un audit de l’existant et une analyse des risques.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Marc-André Beaudet devient CTO du Groupe Squad - ChannelNews](https://www.channelnews.fr/marc-andre-beaudet-devient-cto-du-groupe-squad-159694)  
-*Source : channelnews.fr | Publication : 2026-10-20*
+## [qu'est-ce que le PHP, ce langage informatique qui fait tourner près de 70 % des sites web](https://www.liberation.fr/economie/quest-ce-que-le-php-ce-langage-informatique-qui-fait-tourner-pres-de-70-des-sites-web-20261021_YGFN2LUS4VDNRCJVTIZXS27RCU/)  
+*Source : liberation.fr | Publication : 2026-10-21*
 
-- Marc-André Beaudet devient Chief Technical Officer du Groupe Squad et rejoint son comité de direction.
-- Fort de plus de 20 ans d’expérience dans la cybersécurité, il a exercé aussi bien au sein des institutions de l’Etat que dans de grandes entreprises privées.
-- Au cours de sa carrière dans le secteur public, il a successivement occupé des fonctions d’analyste, d’architecte et d’expert cybersécurité à l’Agence nationale de la sécurité des systèmes d’information (l’Anssi), à la Cnil et au sein du Ministère de l’Intérieur.
-- Dans le secteur privé, il a été en charge de la cybersécurité de CNP Assurances Protection Sociale, après avoir été CISO chez Filhet-Allard et RSSI régional chez Enedis. «.
+- cybersécurité RS Strategy, Rayna Stamboliyska.
+- La force du PHP c'est qu ... CybersécuritéCybercriminalité.
+- Dans la même rubrique.
+- Perturbations.
 
-## [Comment se protéger contre la fraude? «L'enjeu est tellement complexe - 98.5 Montréal](https://www.985fm.ca/audio/809921/comment-se-proteger-contre-la-fraude-l-enjeu-est-tellement-complexe)  
-*Source : 985fm.ca | Publication : 2026-10-20*
+## [La préfecture des Landes également touchée par une alerte de <b>cybersécurité</b> après la ... - Actu.fr](https://actu.fr/nouvelle-aquitaine/mont-de-marsan_40192/la-prefecture-des-landes-egalement-touchee-par-une-alerte-de-cybersecurite-apres-la-detection-d-une-faille-de-securite_64958493.html)  
+*Source : actu.fr | Publication : 2026-10-21*
 
-- Octobre est le mois de la sensibilisation à la cybersécurité.
-- Au cours des six premiers mois de 2026, le Centre antifraude du Canada évalue qu’il y a eu au moins 351 millions de dollars de pertes liées à la fraude.
-- Et ce sont seulement les cas déclarés… La réalité serait bien pire.
-- Récemment, un pirate informatique responsable d’une fraude de 1,6 million de dollars, de l’infection de 1 500 ordinateurs et du vol de centaines d’identités, a écopé d’une peine de trois ans et demi de pénitencier.
+- « Maintenance en cours ».
+- C’est ce que l’on peut lire, ce mercredi 21 octobre 2026, en accédant à la page d’accueil du site de la préfecture des Landes.
+- Le site des services de l’État dans le département est touché par une alerte de cybersécurité, tout comme la majorité des sites préfectoraux en France.
+- À lire aussi Les sites gouvernementaux suspendus « Tous les sites gouvernementaux ont été suspendus temporairement pour la détection d’une faille de sécurité », précise la préfecture des Landes à notre rédaction, ce mercredi en fin d’après-midi.
 
-## [« C'est un nouveau monde » : une armée d'IA vient de lancer une cyberattaque « massive »](https://www.01net.com/actualites/nouveau-monde-armee-ia-vient-lancer-cyberattaque-massive-plus-100-entreprises-piratees.html)  
-*Source : 01net.com | Publication : 2026-10-20*
+## [<b>Cybersécurité</b> : des milliers de sites Internet mis hors ligne après la découverte de failles par ...](https://www.sudouest.fr/economie/cybersecurite/cybersecurite-des-milliers-de-sites-internet-mis-hors-ligne-apres-la-decouverte-de-failles-par-l-intelligence-artificielle-31178827.php)  
+*Source : sudouest.fr | Publication : 2026-10-21*
 
-- Un pirate chinois est parvenu à infiltrer les sites de plus de 100 entreprises d’envergure.
-- Selon un rapport de NorForge, une entreprise de cybersécurité, le cybercriminel a confié la quasi-totalité du travail à une armée d’agents IA.
-- Ces intelligences artificielles ont pu agir seules, sans la moindre intervention humaine.
-- Les agents malveillants ont tenté de s’introduire dans plus de 1 200 sites à travers les États-Unis, le Canada, l’Australie et le Japon à partir de la fin du mois de septembre 2026.
+- La découverte de vulnérabilités majeures dans le langage de programmation PHP par des modèles d’intelligence artificielle a entraîné la suspension préventive de nombreux portails publics en Europe et dans le monde Des failles repérées grâce à l’intelligence artificielle (IA) dans un logiciel de programmation très utilisé sur Internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu’impose l’IA à la cybersécurité.
 
-## [Cohesity récompense ses partenaires les plus performants en 2026 - ChannelNews](https://www.channelnews.fr/cohesity-recompense-ses-partenaires-les-plus-performants-en-2026-159692)  
-*Source : channelnews.fr | Publication : 2026-10-20*
+## [Violations de données, la plupart des exfiltrations passent par des identifiants légitimes](https://itsocial.fr/cybersecurite/cybersecurite-articles/violations-de-donnees-la-plupart-des-exfiltrations-passent-par-des-identifiants-legitimes/)  
+*Source : itsocial.fr | Publication : 2026-10-21*
 
-- L’éditeur californien en cybersécurité Cohesity attribue chaque année des trophées à ses partenaires les plus performants.
-- Lors de l’édition 2026 qui vient de s’achever, l’intégrateur suisse Sonio AG a été nommé partenaire européen de l’année.
-- L’ESN SCC France est partenaire croissance européen de l’année.
-- Le suédois Atea Sverige AB devient partenaire nouveaux clients européen de l’année.
+- Les fuites massives de données personnelles doivent rarement leur origine à une faille logicielle.
+- Le CERT-FR, qui a traité 196 exfiltrations en 2025 contre 130 un an plus tôt, constate que l’attaquant entre le plus souvent avec des identifiants légitimes, volés par des logiciels espions ou obtenus par ruse, ou trouve des données exposées sans contrôle d’accès.
+- Le centre de réponse aux incidents de l’ANSSI en tire un plan applicable aux applications anciennes sans attendre leur remplacement, qui limite ce qu’un compte peut extraire, trace chaque action et réagit automatiquement.
+- Les applications web adossées à de grandes bases de données personnelles, guichets d’usagers, portails de santé ou outils métier, sont devenues la cible privilégiée des voleurs de données.
 
-## [Le fichier national d'identification des chiens et des chats piraté, 2,9 millions de propriétaires ...](https://www.ouest-france.fr/societe/cyberattaque/le-fichier-national-didentification-des-chiens-et-des-chats-pirate-2-9-millions-de-proprietaires-danimaux-concernes-6d14fb52-cc84-11f1-b497-716ff9f9734b)  
-*Source : ouest-france.fr | Publication : 2026-10-20*
+## [<b>Cybersécurité</b> : la France et d'autres pays mettent leurs sites gouvernementaux en ... - L'Express](https://www.lexpress.fr/economie/high-tech/cybersecurite-la-france-et-dautres-pays-mettent-leurs-sites-gouvernementaux-en-maintenance-apres-la-RI5XYI2MCRAG5DBAW7KLZTBYYI/)  
+*Source : lexpress.fr | Publication : 2026-10-21*
 
-- Les animaux peuvent eux aussi être concernés par la cybercriminalité.
-- Un hacker se faisant appeler ChimeraZ a ainsi mis en vente dimanche 18.
+- Des sites web gouvernementaux en Europe et ailleurs ont été mis hors ligne mercredi après la révélation de failles critiques dans un langage de programmation très répandu, ce qui a poussé les opérateurs de sites web du monde entier à se démener pour protéger leurs systèmes.
+- Les développeurs du langage de programmation PHP ont publié mercredi de nouveaux correctifs urgents pour remédier à des failles qui se cachaient discrètement dans leur logiciel depuis des années jusqu’à ce qu’elles soient découvertes à l’aide de l’intelligence artificielle, précisant que tous les utilisateurs étaient "encouragés à effectuer la mise à jour immédiatement".
+- Les entreprises technologiques ayant averti que certains pirates exploitaient déjà ces failles, les agences gouvernementales à travers l’Europe ont fait partie de celles qui ont mis leurs sites hors ligne par mesure de précaution.
+- Comme le correctif est désormais public et que les outils d’intelligence artificielle sont capables de procéder à une ingénierie inverse du bug sans grand effort, les experts ont déclaré qu’ils se préparaient à une vague d’intrusions, les pirates s’empressant de devancer les mises à jour.
 
-## [Saint-Cloud : Constellation fusionne Login Sécurité et Tionis - Presse Agence](https://presseagence.fr/saint-cloud-cybersecurite-constellation-unifie-ses-expertises-en-fusionnant-login-securite-et-tionis/)  
-*Source : presseagence.fr | Publication : 2026-10-20*
+## [Des failles détectées par IA paralysent des milliers de sites - Le Quotidien](https://lequotidien.lu/a-la-une/des-failles-detectees-par-ia-paralysent-des-milliers-de-sites/)  
+*Source : lequotidien.lu | Publication : 2026-10-21*
 
-- SAINT-CLOUD : Cybersécurité – Constellation unifie se… Partager : SAINT-CLOUD : Cybersécurité – Constellation unifie ses expertises en fusionnant Login Sécurité et Tionis Le groupe Constellation fusionne ses filiales Login Sécurité et Tionis, créant un pôle unifié pour une approche globale de la cybersécurité.
-- Le groupe Constellation, acteur majeur de la transformation numérique des ETI, a annoncé une réorganisation stratégique de son pôle sécurité.
-- Depuis le 1er octobre 2026, ses filiales Login Sécurité, spécialiste de la cybersécurité réactive et proactive, et Tionis, intégrateur de solutions réseau, ont fusionné pour ne former qu’une seule entité.
-- Cette nouvelle structure, qui conserve le nom de Login Sécurité, représente désormais une force de 100 collaborateurs et un chiffre d’affaires consolidé de 30 millions d’euros.
+- Des failles repérées grâce à l’intelligence artificielle (IA) dans un protocole de programmation très utilisé sur internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu’impose l’IA à la cybersécurité.
+- L’agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) avaient recommandé à tous les sites utilisant le protocole de programmation PHP de se déconnecter avant d’avoir mis à jour le logiciel.
+- En Europe, de très nombreuses plateformes ont été suspendues, notamment celles de toutes les préfectures en France, à la demande de l’Agence de sécurité des systèmes informatiques (Anssi).
+- En Finlande, le portail internet du gouvernement a indiqué que «les sites Internet du gouvernement (étaient) totalement ou partiellement indisponibles».
 
-## [VikingCloud et Fiserv étendent leur partenariat stratégique pour offrir une protection contre ...](https://fr.finance.yahoo.com/actualites/vikingcloud-fiserv-étendent-partenariat-stratégique-130000166.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-10-20*
+## [Préfectures françaises, services publics… Pourquoi des milliers de sites internet ont été mis ...](https://www.europe1.fr/technologies/prefectures-francaises-services-publics-pourquoi-des-milliers-de-sites-internet-ont-ete-mis-hors-ligne-1171338)  
+*Source : europe1.fr | Publication : 2026-10-21*
 
-- VikingCloud et Fiserv étendent leur partenariat stratégique pour offrir une protection contre les cyber-risques aux commerçants Un accord pluriannuel étend la protection de la cybersécurité des commerçants en Amérique du Nord et dans la zone EMEA CHICAGO et DUBLIN, 20 octobre 2026 /PRNewswire/ -- VikingCloud, une entreprise de cybersécurité et de conformité utilisée par plus de quatre millions d'entreprises dans le monde, annonce aujourd'hui un accord pluriannuel avec Fiserv, Inc. (NASDAQ : FISV), un fournisseur mondial de premier plan de technologies de paiement et de services financiers, pour aider les entreprises à renforcer leurs défenses en matière de cybersécurité et à simplifier la conformité PCI.
-- Dès début 2027, Fiserv proposera VikingCloud Cyber Risk Defense, une solution primée conçue pour aider les entreprises à identifier, comprendre et réduire les risques de cybersécurité grâce à une surveillance continue et des conseils pratiques. «.
-- Les chefs d'entreprise ne devraient pas avoir à devenir des experts en cybersécurité pour protéger ce qu'ils ont construit », déclare Mark Brady, CEO de VikingCloud. «.
-- Ils nous ont dit ce dont ils ont besoin : une protection qui fonctionne en arrière-plan, des instructions claires sur les problèmes à résoudre en priorité et la tranquillité d'esprit en cas de problème.
+- Des milliers de sites internet ont été mis hors ligne par précaution mercredi, après la découverte de failles de sécurité dans PHP, un langage de programmation très répandu.
+- Identifiées grâce à l’intelligence artificielle, ces vulnérabilités illustrent les nouvelles menaces qui pèsent sur la cybersécurité, alors que l’IA accélère aussi bien la détection des failles que les capacités d’attaque des pirates.
+- Des failles repérées grâce à l'intelligence artificielle (IA) dans un logiciel de programmation très utilisé sur internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu'impose l'IA à la cybersécurité.
+- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) avaient recommandé mercredi à tous les sites utilisant le protocole de programmation PHP de se déconnecter avant d'avoir mis à jour le logiciel.
 
-## [Accenture, Dragos et SANS lancent un programme communautaire de <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/accenture-dragos-et-sans-lancent-un-programme-communautaire-de-cybersecurite-ce785cd8dd8dfe23)  
-*Source : zonebourse.com | Publication : 2026-10-20*
+## [Des failles logicielles repérées par IA provoquent la mise hors ligne de milliers de sites internet](https://www.boursedirect.fr/fr/actualites/categorie/economie-et-finances/des-failles-logicielles-reperees-par-ia-provoquent-la-mise-hors-ligne-de-milliers-de-sites-internet-afp-50c03acbfd6a78e45ae7f04630e2404b0c760013)  
+*Source : boursedirect.fr | Publication : 2026-10-21*
 
-- Accenture, Dragos et SANS lancent un programme communautaire de cybersécuritéAccenture , Dragos et le SANS Institute ont annoncé mardi le lancement d’une initiative de cyberdéfense destinée aux services publics américains disposant de ressources limitées, avec un.
+- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) ont recommandé mercredi à tous les sites.
 
-## [Accenture et Dragos lancent une initiative de <b>cybersécurité</b> de 10M$ pour les services publics](https://fr.investing.com/news/company-news/accenture-et-dragos-lancent-une-initiative-de-cybersecurite-de-10m-pour-les-services-publics-93CH-3643958)  
-*Source : fr.investing.com | Publication : 2026-10-20*
+## [Des failles logicielles repérées par IA provoquent la mise hors ligne de milliers de sites internet](https://information.tv5monde.com/economie/des-failles-logicielles-reperees-par-ia-provoquent-la-mise-hors-ligne-de-milliers-de-sites-internet-2842594)  
+*Source : information.tv5monde.com | Publication : 2026-10-21*
 
-- La Community Cyber Resilience Foundation proposera des logiciels, du matériel informatique, des services de déploiement et des formations en.
+- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) ont recommandé mercredi à tous les sites utilisant le protocole de programmation PHP de se déconnecter avant d'avoir mis à jour le logiciel Des failles repérées grâce à l'intelligence artificielle (IA) dans un logiciel de programmation très utilisé sur internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu'impose l'IA à la cybersécurité.
+- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) avaient recommandé mercredi à tous les sites utilisant le protocole de programmation PHP de se déconnecter avant d'avoir mis à jour le logiciel.
+- En Europe, de très nombreuses plateformes ont été suspendues, notamment celles de toutes les préfectures en France, à la demande de l'Agence de sécurité des systèmes informatiques (Anssi).
+- En Finlande, le portail internet du gouvernement a indiqué que "les sites Internet du gouvernement (étaient) totalement ou partiellement indisponibles".
 
-## [VikingCloud et Fiserv étendent leur partenariat stratégique pour offrir une protection contre ...](https://fr.tradingview.com/news/prnewswire:4afc37d030028:0/)  
-*Source : fr.tradingview.com | Publication : 2026-10-20*
+## [<b>Cybersécurité</b> aux TNO, « arrêtez, vérifiez, signalez » - Médias ténois](https://mediastenois.ca/actualites/2026/10/21/cybersecurite-aux-tno-arretez-verifiez-signalez/)  
+*Source : mediastenois.ca | Publication : 2026-10-21*
 
-- VikingCloud et Fiserv étendent leur partenariat stratégique pour offrir une protection contre les cyber-risques aux commerçants Un accord pluriannuel étend la protection de la cybersécurité des commerçants en Amérique du Nord et dans la zone EMEA CHICAGO et DUBLIN, 20 octobre 2026 /PRNewswire/ -- VikingCloud, une entreprise de cybersécurité et de conformité utilisée par plus de quatre millions d'entreprises dans le monde, annonce aujourd'hui un accord pluriannuel avec Fiserv, Inc. (NASDAQ : FISV), un fournisseur mondial de premier plan de technologies de paiement et de services financiers, pour aider les entreprises à renforcer leurs défenses en matière de cybersécurité et à simplifier la conformité PCI.
-- Dès début 2027, Fiserv proposera VikingCloud Cyber Risk Defense, une solution primée conçue pour aider les entreprises à identifier, comprendre et réduire les risques de cybersécurité grâce à une surveillance continue et des conseils pratiques. «.
-- Les chefs d'entreprise ne devraient pas avoir à devenir des experts en cybersécurité pour protéger ce qu'ils ont construit », déclare Mark Brady, CEO de VikingCloud. «.
-- Ils nous ont dit ce dont ils ont besoin : une protection qui fonctionne en arrière-plan, des instructions claires sur les problèmes à résoudre en priorité et la tranquillité d'esprit en cas de problème.
+- Dans le cadre du Mois de la sensibilisation à la cybersécurité, le Carrefour carrières du Cdétno (Conseil de développement économique des TNO) offre des ateliers bilingues chaque mercredi d’octobre pour apprendre à protéger ses données personnelles.
+- Au programme de la première séances : comment repérer les tentatives d’hameçonnage ?.
+- L’hameçonnage, c’est quoi Cette pratique malveillante « désigne le fait d’acquérir des renseignements sensibles en ligne, comme des noms d’utilisateur, des mots de passe, des renseignements personnels, des détails sur des cartes de crédit ou des comptes bancaires en se faisant passer pour une entité légitime ou digne de confiance, ou pour une victime », d’après le Centre antifraude du Canada.
+- Selon ce même organisme, en 2025, l’hameçonnage fait partie des dix fraudes les plus courantes signalées sur l’année.
 
-## [Le ministre saoudien de l'Intérieur inaugure des centres de commandement et de contrôle ...](https://www.spa.gov.sa/fr/N2706271)  
-*Source : spa.gov.sa | Publication : 2026-10-20*
+## [Cybermois : 15 000 marchands de presse mobilisés contre les <b>cybermenaces</b> - CB News](https://www.cbnews.fr/medias/cybermois-15-000-marchands-presse-mobilises-contre-les-cybermenaces)  
+*Source : cbnews.fr | Publication : 2026-10-21*
 
-- cybersécurité , chargé de protéger les données, les réseaux et les ... cybermenaces.
-- Le ministre a par ailleurs lancé, via l'application.
+- Cybermois : 15 000 marchands de presse mobilisés contre les cybermenaces Pour la troisième année consécutive, France Messagerie, Culture Presse et le Syndicat national des dépositaires de presse (SNDP) s’associent à Cybermalveillance.gouv.fr dans le cadre du Cybermois, dont la 14e édition se déroule en octobre.
+- Depuis le 1er octobre, 15 000 marchands de presse participent à la campagne nationale de sensibilisation aux risques numériques, baptisée « Se cyber protéger, ce n’est pas si bête ».
+- Concrètement, les points de vente mobilisés affichent pendant tout le mois d’octobre les visuels de la campagne, mettant en scène des animaux pour illustrer les bons réflexes à adopter face aux cybermenaces.
+- L’objectif des partenaires est de s’appuyer sur le maillage territorial des marchands de presse pour sensibiliser le grand public et favoriser les échanges autour de la cybersécurité.
 
-## [<b>Ransomwares</b> &amp; piratages : 15 cyberattaques d'ampleur du 20 octobre 2026 (dont Danfoss)](https://dcod.ch/2026/10/20/ransomwares-piratages-15-cyberattaques-dampleur-du-20-octobre-2026-dont-danfoss/)  
-*Source : dcod.ch | Publication : 2026-10-20*
+## [Plusieurs sites français inaccessibles afin de corriger des failles de sécurité - Orange Actu](https://actu.orange.fr/societe/high-tech/plusieurs-sites-francais-inaccessibles-afin-de-corriger-des-failles-de-securite-CNT000002tk1gn.html)  
+*Source : actu.orange.fr | Publication : 2026-10-21*
 
-- Faits marquants de la semaine Dans la nuit de dimanche à lundi, une cyberattaque a visé des systèmes de réfrigération Danfoss non corrigés dans des supermarchés français, déclenchant un dégivrage forcé continu à 50°C et détruisant des stocks de marchandises.
-- - Bitdefender décrit « Midnight Mimosa », un malware Android préinstallé dans le firmware de smartphones bon marché sous MediaTek : impossible à désinstaller, il installe/supprime des apps et alimente fraude publicitaire et botnet proxy.
-- - Le FBI, via l’opération « Operation Lonestar Roundup », a perquisitionné plus de 40 résidences au Texas et saisi 187 ordinateurs liés à des « laptop farms » utilisées pour obtenir des emplois дистанts sous fausses identités.
-- - Des chercheurs d’une université canadienne indiquent que des millions de publicités en ligne servies par Discover-Tech auraient permis l’usage de spyware « zero-click » (infection sans clic), avec des dizaines d’appareils d’Al Jazeera potentiellement compromis.
+- Plusieurs sites français inaccessibles afin de corriger des failles de sécurité © ERIC PIERMONT, AFP - Plusieurs sites internet français, dont ceux de ministères, préfectures et grands médias, sont inaccessibles afin de corriger des failles de sécurité situées dans un protocole de programmation très utilisé sur internet Plusieurs sites internet français, dont ceux de ministères, préfectures et grands médias, sont inaccessibles mercredi afin de corriger des failles de sécurité situées dans un protocole de programmation très utilisé sur internet.
+- Les sites de toutes les préfectures, dont la préfecture de police de Paris sont ainsi en maintenance, à la demande de l'Anssi, l'agence de sécurité des systèmes informatiques, a expliqué le ministère de l'Intérieur.
+- "Les équipes sont mobilisées pour procéder aux opérations de mise à jour dans les meilleurs délais, dès que le correctif de sécurité sera rendu disponible par l'éditeur", a poursuivi le ministère.
+- Dans cette attente, "les publications des préfectures seront faites sur les réseaux sociaux et par voie d'affichage", a déclaré Beauvau.
 
-## [La <b>cybersécurité</b>, angle mort de la gouvernance des entreprises - L'Agefi](https://agefi.com/actualites/entreprises/la-cybersecurite-angle-mort-de-la-gouvernance-des-entreprises)  
-*Source : agefi.com | Publication : 2026-10-20*
+## [Des failles de sécurité menacent les sites web du monde entier - RFJ votre radio régionale](https://www.rfj.ch/rfj/Actualite/economie/20261021-Une-faille-de-securite-grave-menace-les-sites-web-du-monde-entier.html)  
+*Source : rfj.ch | Publication : 2026-10-21*
 
-- En Suisse, 68% des conseils d'administration ne comptent aucun expert en cybersécurité , selon une étude.
-- L'élu vert Gerhard Andrey appelle à une.
+- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) avaient recommandé mercredi à tous les sites.
 
-## [Les <b>ransomwares</b> INC et The Gentlemen utilisent Claude, un serveur ouvert révèle 46 ...](https://pasqualepillitteri.it/fr/news/25993/ransomware-inc-gentlemen-claude-serveur-ouvert-socradar)  
-*Source : pasqualepillitteri.it | Publication : 2026-10-20*
+## [Faille de sécurité PHP : des sites web gouvernementaux européens hors ligne - Virgule.lu](https://www.virgule.lu/luxembourg/les-gouvernements-europeens-mettent-leurs-sites-web-hors-ligne-en-reponse-a-une-menace-de-securite-massive/163418644.html)  
+*Source : virgule.lu | Publication : 2026-10-21*
 
-- Les ransomwares INC et The Gentlemen utilisent Claude, un serveur ouvert révèle 46 attaques prêtes SOCRadar a trouvé un serveur ouvert d'affiliés d'INC et The Gentlemen avec 8 257 messages échangés avec Claude et Kimi, 46 versions de l'encryptor et 62 victimes nommées.
-- Les plus lus Cybersécurité Infrastructure Agents IA Jeux Vidéo Tech Automobile Applis Mobiles Meta Google Actualités IA & Tendances Claude Finance Outils IA & Avis Guides et Tutoriels IA en local Robotique Droit & Réglementation IA chinoise Big Tech Anthropic Gemini Apple OpenAI Échecs et IA Open Source IA pour Professionnels Nvidia Samsung ChatGPT Amazon Tesla Opinions Benchmarks et Comparatifs Microsoft Télémédecine Développement Logiciel Économie & Business Grok Rapports et Analyses.
+- .
+- Les gouvernements européens ont pris une mesure de sécurité face à une menace de cybersécurité.
+- © PHOTO: Shutterstock.
+- Bloomberg.
