@@ -1,145 +1,156 @@
-# Résumés – 2026-10-21
+# Résumés – 2026-10-22
 
 
-## [Alerte mondiale de <b>cybersécurité</b> : la police fédérale met ses sites hors ligne par précaution ...](https://www.sudinfo.be/id1213893/article/2026-10-21/alerte-mondiale-de-cybersecurite-la-police-federale-met-ses-sites-hors-ligne-par)  
-*Source : sudinfo.be | Publication : 2026-10-21*
+## [<b>Cybersécurité</b> : préserver le chiffrement de bout en bout - CONSTRUCTIONBTP](https://www.constructionbtp.com/reseaux-vrd/article/2026/10/22/156552/cybersecurite-preserver-chiffrement-bout-bout)  
+*Source : constructionbtp.com | Publication : 2026-10-22*
 
-- La police fédérale a mis ses sites hors ligne mercredi par précaution après la découverte de failles critiques dans PHP.
-- Le numéro d'urgence 101 reste.
+- La lutte contre le terrorisme et la criminalité organisée peut-elle justifier un accès des autorités aux communications chiffrées ?.
+- La question a ressurgi il y a un an, lors des débats sur la proposition de loi Narcotrafic.
+- La mesure envisagée, qui remettait en cause le chiffrement de bout en bout des messageries, avait suscité une vive opposition dans l’écosystème numérique et parmi les défenseurs des droits.
+- Face à ces contestations, le député Florent Boudié avait été chargé d’étudier les solutions envisageables.
 
-## [Agents IT (3/7) Le travail au noir : Interdire l'IA, c'est pousser les collaborateurs à contourner](https://www.solutions-numeriques.com/agents-it-3-7-le-travail-au-noir-interdire-lia-cest-pousser-les-collaborateurs-a-contourner/)  
-*Source : solutions-numeriques.com | Publication : 2026-10-21*
+## [DTAM, Fédération des chasseurs... La faille mondiale de <b>cybersécurité</b> a aussi impacté les ...](https://la1ere.francetvinfo.fr/saintpierremiquelon/dtam-federation-des-chasseurs-la-faille-mondiale-de-cybersecurite-a-aussi-impacte-les-sites-de-saint-pierre-et-miquelon-1750701.html)  
+*Source : la1ere.francetvinfo.fr | Publication : 2026-10-22*
 
-- Fermer les portes de l’IA générative ne fait pas disparaître les usages.
-- Ils se déplacent hors des radars, sur des postes personnels et des outils non validés.
-- Troisième volet de notre série : après le shadow IT, les entreprises découvrent le shadow AI, et ses agents clandestins.
-- Le scénario n’a rien de nouveau.
+- Depuis mercredi 21 octobre, plusieurs sites Internet français, principalement d'administrations — ministères, préfectures, directions locales, ou de grands médias, sont inaccessibles afin de corriger des failles de sécurité dans un protocole de programmation utilisé par près de 70% des sites Internet dans le monde, rapporte l'AFP.
+- Dans l'archipel, le site Internet de la direction des Territoires, de l'Alimentation et de la Mer (DTAM) était concerné "par mesure de précaution", à l'instar d'une grande partie des sites Internet gérés par le ministère de la Transition écologique, nous rapporte le service de l'État.
+- La faille a été corrigée et le site était de nouveau accessible ce jeudi matin.
+- Les sites de l'Etat inaccessibles, dont l'un d'eux indispensable pour la Fédération des chasseurs La Fédération des chasseurs de Saint-Pierre-et-Miquelon a également été impactée : le site interministériel du Fichier national des personnes interdites d'acquisition et de détention d'armes (FINIADA) a été placé en maintenance ce mercredi, empêchant alors la délivrance des validations et des bagues.
 
-## [&quot;Ce n'est que le début&quot; : comment deux failles de sécurité découvertes par l'IA ont mis à l ...](https://www.rtl.fr/actu/sciences-tech/ce-n-est-que-le-debut-comment-deux-failles-de-securite-dans-un-langage-de-programmation-php-decouvertes-par-ia-ont-mis-a-l-arret-une-partie-du-web-mondial-7900687838)  
-*Source : rtl.fr | Publication : 2026-10-21*
+## [Sites internet fermés : des failles dans PHP, &quot;colonne vertébrale du web&quot; - Orange Actu](https://actu.orange.fr/economie/sites-internet-fermes-des-failles-dans-php-quot-colonne-vertebrale-du-web-quot-CNT000002tkuVs.html)  
+*Source : actu.orange.fr | Publication : 2026-10-22*
 
-- - 01m21s 4 min de lecture De nombreux sites Internet ont été rendus temporairement inaccessibles, ce mercredi 21 octobre, en France et dans plusieurs autres pays dans le monde entier.
-- Des plateformes administratives, des services publics et certaines infrastructures numériques ont été contraints de suspendre leurs activités en ligne après la découverte de deux failles de sécurité critiques dans PHP, un langage informatique utilisé par environ 70% des sites web à travers le monde.
-- Les deux failles, identifiées sous les références CVE-2026-109618 et CVE-2026-109619, ont été considérées comme particulièrement dangereuses.
-- Leur niveau de gravité a été évalué à 9,2 sur 10 par les développeurs de PHP, ce qui les place parmi les vulnérabilités critiques.
+- Sites internet fermés : des failles dans PHP, "colonne vertébrale du web" © Kirill KUDRYAVTSEV, AFP - L'IA a découvert des failles de sécurité critiques dans PHP, un langage de programmation qui fait tourner la plupart des sites web dans le monde, ce qui a entraîné des mises hors-ligne massives pour chercher des correctifs de sécurité Après la découverte de vulnérabilités de cybersécurité, les regards se tournent vers PHP, l'un des langages de programmation les plus répandus sur le web.
+- Jeudi, de nombreux sites restaient suspendus à titre préventif.
+- Au Royaume-Uni, une ministre chargée des technologies a déclaré que 32 services gouvernementaux étaient hors service, principalement en raison de "mesures de précaution", tandis que certains sites web hors ligne la veille étaient semblaient de nouveau accessibles.
+- Qu'est-ce que PHP et comment est-il utilisé ?.
 
-## [70 % des sites web vulnérables à une faille majeure et à un risque de piratage - 95.7 KYK](https://www.957kyk.com/audio/810170/70-des-sites-web-vulnerables-a-une-faille-majeure-et-a-un-risque-de-piratage)  
-*Source : 957kyk.com | Publication : 2026-10-21*
+## [Cyberattaques : deux failles de sécurité critiques ne seront jamais corrigées sur des millions ...](https://www.capital.fr/conso/cyberattaques-deux-failles-de-securite-critiques-ne-seront-jamais-corrigees-sur-des-millions-de-sites-web-1531190)  
+*Source : capital.fr | Publication : 2026-10-22*
 
-- Une vulnérabilité critique affectant le langage PHP, utilisé par près de 70 % des sites web, suscite une vive inquiétude chez les experts en cybersécurité.
-- Baptisée « PHP2Shell », cette brèche permet à un cyberpirate d'obtenir des privilèges d'administrateur en quelques secondes, exposant les sites touchés au vol de données, à la modification de leur contenu ou à la compromission de réseaux internes.
-- Découverte grâce à un outil d'IA, la faille est déjà exploitée de manière automatisée.
-- La Fondation PHP a rapidement publié des correctifs urgents, tandis que certaines organisations, comme le centre de services scolaire Marie-Victorin, ont préventivement suspendu leurs services en ligne.
+- Deux failles de sécurité découvertes dans PHP, une technologie utilisée par près de 70% des sites web, suscitent l’inquiétude des experts.
+- Elles pourraient permettre à des pirates de prendre le contrôle de serveurs informatiques.
+- Si des correctifs sont disponibles pour les versions récentes, les plus anciennes ne bénéficieront d’aucune mise à jour officielle, rapporte le magazine spécialisé IT for Business.
+- Par précaution, plusieurs administrations ont déjà choisi de rendre leurs sites temporairement inaccessibles.
 
-## [«Vulnérabilité critique»: de nombreux sites web inaccessibles en raison d'une importante ...](https://www.tvanouvelles.ca/2026/10/21/vulnerabilite-critique-de-nombreux-sites-web-inaccessible-en-raison-dune-importante-faille)  
-*Source : tvanouvelles.ca | Publication : 2026-10-21*
+## [<b>Cybersécurité</b> : le gouvernement alerte sur des failles dans un logiciel menaçant les sites Internet](https://www.lnc.nc/article/cybersecurite-le-gouvernement-alerte-sur-des-failles-dans-un-logiciel-menacant-les-sites-internet)  
+*Source : lnc.nc | Publication : 2026-10-22*
 
-- Le ministre de l'Intelligence artificielle, Evan Solomon, a d'ailleurs assuré que le fédéral avait des protocoles de cybersécurité « très rigoureux ».
+- A.-C.P.
+- avec AFP | Crée le 22.10.2026 à 16h56 | Mis à jour le 23.10.2026 à 09h40ImprimerLes failles découvertes sur le logiciel PHP, qui "fait tourner environ 70 % du web mondial", représentent un risque important en terme de cybersécurité concernant des millions de sites dans le monde, dont de nombreux en Nouvelle-Calédonie.
+- Photo Archives LNC / Niko VincentAlors que des failles dans PHP, un langage de programmation très utilisé sur Internet partout dans le monde ont été repérées, le gouvernement calédonien appelle, ce jeudi 22 octobre, les collectivités et les entreprises disposant d’un site à mettre rapidement à jour leurs installations, sans quoi il existe un risque de prise de contrôle à distance de leur serveur web.
+- Explications.Vingt-deux millions de plateformes utilisant un langage de programmation très courant sur Internet, PHP, seraient exposées dans le monde, selon un spécialiste cité par l’AFP.
 
-## [<b>Cybersécurité</b> en Afrique : face aux menaces croissantes, les enjeux du Cyber Africa Forum](https://www.youtube.com/watch?v=D-ZcYjsluLM)  
-*Source : youtube.com | Publication : 2026-10-21*
+## [Une légère révision de la croissance organique qui laisse sur sa faim pour Thales - Investir](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/une-legere-revision-de-la-croissance-organique-qui-laisse-sur-sa-faim-pour-thales-2258454)  
+*Source : investir.lesechos.fr | Publication : 2026-10-22*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Le groupe d'électronique pour la défense, l'aérospatiale et la cybersécurité a publié de bons chiffres au terme des neuf premiers mois de l'exercice.
 
-## [qu'est-ce que le PHP, ce langage informatique qui fait tourner près de 70 % des sites web](https://www.liberation.fr/economie/quest-ce-que-le-php-ce-langage-informatique-qui-fait-tourner-pres-de-70-des-sites-web-20261021_YGFN2LUS4VDNRCJVTIZXS27RCU/)  
-*Source : liberation.fr | Publication : 2026-10-21*
+## [<b>Cybersécurité</b>. Déjà ciblée il y a un an, la Fédération Française de Tir une nouvelle fois attaquée](https://www.lalsace.fr/faits-divers-justice/2026/10/22/cyberattaque-deja-ciblee-il-y-a-un-an-la-federation-francaise-de-tir-une-nouvelle-fois-attaquee)  
+*Source : lalsace.fr | Publication : 2026-10-22*
 
-- cybersécurité RS Strategy, Rayna Stamboliyska.
-- La force du PHP c'est qu ... CybersécuritéCybercriminalité.
-- Dans la même rubrique.
-- Perturbations.
+- Cybersécurité Déjà ciblée il y a un an, la Fédération Française de Tir une nouvelle fois attaquée Les données personnelles de 250 000 adhérents et 750 000 anciens licenciés de la FFTir avaient déjà été saisies en 2025.
+- La Fédération Française de Tir a annoncé jeudi avoir été victime d'une nouvelle cyberattaque, un an après un premier piratage, qui avait eu pour conséquences plusieurs vols d'armes commis chez des tireurs sportifs. «.
+- La semaine du 12 octobre 2026, la Fédération Française de Tir a subi une nouvelle attaque préparée.
+- L’attaquant s’est connecté à l’espace licencié EDEN avec des comptes de licenciés dont il avait obtenu ou deviné les identifiants », explique l'instance dans un communiqué. «.
 
-## [La préfecture des Landes également touchée par une alerte de <b>cybersécurité</b> après la ... - Actu.fr](https://actu.fr/nouvelle-aquitaine/mont-de-marsan_40192/la-prefecture-des-landes-egalement-touchee-par-une-alerte-de-cybersecurite-apres-la-detection-d-une-faille-de-securite_64958493.html)  
-*Source : actu.fr | Publication : 2026-10-21*
+## [Failles critiques dans PHP : des sites belges hors ligne et risque de fuites de données - RTL Info](https://www.rtl.be/actu/magazine/hi-tech/sites-internet-desactives-cause-dune-faille-dans-php-peut-sattendre-enormement/2026-10-22/article/804208)  
+*Source : rtl.be | Publication : 2026-10-22*
 
-- « Maintenance en cours ».
-- C’est ce que l’on peut lire, ce mercredi 21 octobre 2026, en accédant à la page d’accueil du site de la préfecture des Landes.
-- Le site des services de l’État dans le département est touché par une alerte de cybersécurité, tout comme la majorité des sites préfectoraux en France.
-- À lire aussi Les sites gouvernementaux suspendus « Tous les sites gouvernementaux ont été suspendus temporairement pour la détection d’une faille de sécurité », précise la préfecture des Landes à notre rédaction, ce mercredi en fin d’après-midi.
+- Partager: L’intelligence artificielle a découvert des failles de sécurité critiques dans PHP, un langage de programmation qui joue l’intermédiaire entre un site internet et un serveur contenant des bases de données, et qui fait tourner environ 70 % des sites web dans le monde.
+- Conséquence, hier, de nombreux sites belges ont été mis hors ligne par précaution, le temps pour eux de mettre à jour ceux-ci avec des correctifs.
+- Ce matin, la situation s’améliorait mais plusieurs sites belges importants étaient toujours inaccessibles.
+- On peut citer la Fédération Wallonie-Bruxelles, des administrations communales comme Bruxelles et Gand, le SPF Finances, le Centre pour la cybersécurité de Belgique (CCB) ou encore certains hôpitaux du pays, comme le Grand Hôpital de Charleroi ou le CHU Brugmann à Bruxelles.
 
-## [<b>Cybersécurité</b> : des milliers de sites Internet mis hors ligne après la découverte de failles par ...](https://www.sudouest.fr/economie/cybersecurite/cybersecurite-des-milliers-de-sites-internet-mis-hors-ligne-apres-la-decouverte-de-failles-par-l-intelligence-artificielle-31178827.php)  
-*Source : sudouest.fr | Publication : 2026-10-21*
+## [Afrique : Interpol mène une vaste opération contre la <b>cybercriminalité</b>, 1 462 suspects ...](https://www.lefigaro.fr/international/afrique-interpol-mene-une-vaste-operation-contre-la-cybercriminalite-1-462-suspects-arretes-dans-21-pays-20261022)  
+*Source : lefigaro.fr | Publication : 2026-10-22*
 
-- La découverte de vulnérabilités majeures dans le langage de programmation PHP par des modèles d’intelligence artificielle a entraîné la suspension préventive de nombreux portails publics en Europe et dans le monde Des failles repérées grâce à l’intelligence artificielle (IA) dans un logiciel de programmation très utilisé sur Internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu’impose l’IA à la cybersécurité.
+- Afrique : Interpol mène une vaste opération contre la cybercriminalité, 1 462 suspects arrêtés dans 21 pays Baptisée «Serengeti III», l’opération a également permis le démantèlement de 10.909 réseaux malveillants.
+- 105 millions de dollars américains de fonds illicites ont par ailleurs été récupérés.
+- Passer la publicité Passer la publicitéElle est présentée par Interpol comme «l’une des plus grandes opérations de lutte contre la cybercriminalité jamais menées en Afrique».
+- L’opération «Serengeti III» a permis l’arrestation de 1462 suspects dans 21 pays entre le 29 juin et le 31 août.
 
-## [Violations de données, la plupart des exfiltrations passent par des identifiants légitimes](https://itsocial.fr/cybersecurite/cybersecurite-articles/violations-de-donnees-la-plupart-des-exfiltrations-passent-par-des-identifiants-legitimes/)  
-*Source : itsocial.fr | Publication : 2026-10-21*
+## [Stéphane Gochtovtt, sales manager France, Keenetic : « <b>Cybersécurité</b> : nous protégeons ...](https://www.zdnet.fr/tribune/stephane-gochtovtt-sales-manager-france-keenetic-cybersecurite-nous-protegeons-nos-appareils-mais-nous-oublions-le-reseau-qui-les-relie-506260.htm)  
+*Source : zdnet.fr | Publication : 2026-10-22*
 
-- Les fuites massives de données personnelles doivent rarement leur origine à une faille logicielle.
-- Le CERT-FR, qui a traité 196 exfiltrations en 2025 contre 130 un an plus tôt, constate que l’attaquant entre le plus souvent avec des identifiants légitimes, volés par des logiciels espions ou obtenus par ruse, ou trouve des données exposées sans contrôle d’accès.
-- Le centre de réponse aux incidents de l’ANSSI en tire un plan applicable aux applications anciennes sans attendre leur remplacement, qui limite ce qu’un compte peut extraire, trace chaque action et réagit automatiquement.
-- Les applications web adossées à de grandes bases de données personnelles, guichets d’usagers, portails de santé ou outils métier, sont devenues la cible privilégiée des voleurs de données.
+- Chaque année, le Cybermois nous rappelle les mêmes précautions : choisir des mots de passe robustes, se méfier des liens suspects, mettre à jour ses logiciels.
+- Ces conseils restent essentiels.
+- Mais ils révèlent aussi un angle mort dans notre manière d'aborder la cybersécurité.
+- À force de nous concentrer sur les appareils et leurs utilisateurs, nous avons tendance à oublier ce qui les relie : le réseau lui-même.
 
-## [<b>Cybersécurité</b> : la France et d'autres pays mettent leurs sites gouvernementaux en ... - L'Express](https://www.lexpress.fr/economie/high-tech/cybersecurite-la-france-et-dautres-pays-mettent-leurs-sites-gouvernementaux-en-maintenance-apres-la-RI5XYI2MCRAG5DBAW7KLZTBYYI/)  
-*Source : lexpress.fr | Publication : 2026-10-21*
+## [L'article à lire pour comprendre d'où vient la faille de sécurité mondiale qui affecte autant de ...](https://www.nicematin.com/societe/technologie/l-article-a-lire-pour-comprendre-d-ou-vient-la-faille-de-securite-mondiale-qui-affecte-autant-de-sites-internet-10744636)  
+*Source : nicematin.com | Publication : 2026-10-22*
 
-- Des sites web gouvernementaux en Europe et ailleurs ont été mis hors ligne mercredi après la révélation de failles critiques dans un langage de programmation très répandu, ce qui a poussé les opérateurs de sites web du monde entier à se démener pour protéger leurs systèmes.
-- Les développeurs du langage de programmation PHP ont publié mercredi de nouveaux correctifs urgents pour remédier à des failles qui se cachaient discrètement dans leur logiciel depuis des années jusqu’à ce qu’elles soient découvertes à l’aide de l’intelligence artificielle, précisant que tous les utilisateurs étaient "encouragés à effectuer la mise à jour immédiatement".
-- Les entreprises technologiques ayant averti que certains pirates exploitaient déjà ces failles, les agences gouvernementales à travers l’Europe ont fait partie de celles qui ont mis leurs sites hors ligne par mesure de précaution.
-- Comme le correctif est désormais public et que les outils d’intelligence artificielle sont capables de procéder à une ingénierie inverse du bug sans grand effort, les experts ont déclaré qu’ils se préparaient à une vague d’intrusions, les pirates s’empressant de devancer les mises à jour.
+- L’article à lire pour comprendre d’où vient la faille de sécurité mondiale qui affecte autant de sites Internet Des failles repérées grâce à l’intelligence artificielle dans un logiciel de programmation très utilisé sur internet ont entraîné ce mercredi 21 octobre 2026 la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu’impose l’IA à la cybersécurité.
+- L’intelligence artificielle a découvert des failles de sécurité critiques dans PHP, un langage de programmation qui fait tourner la plupart des sites web dans le monde, ce qui a entraîné des mises hors-ligne massives pour chercher des correctifs de sécurité.
+- Qu’est-ce que PHP et comment est-il utilisé ?.
+- Créé au début des années 1990, PHP est un langage de programmation informatique qui fait fonctionner environ 70 % des sites web dans le monde.
 
-## [Des failles détectées par IA paralysent des milliers de sites - Le Quotidien](https://lequotidien.lu/a-la-une/des-failles-detectees-par-ia-paralysent-des-milliers-de-sites/)  
-*Source : lequotidien.lu | Publication : 2026-10-21*
+## [Afrique: <b>Cybercriminalité</b> - 1 462 suspects arrêtés lors d'une opération coordonnée par Interpol](https://fr.allafrica.com/stories/202610220407.html)  
+*Source : fr.allafrica.com | Publication : 2026-10-22*
 
-- Des failles repérées grâce à l’intelligence artificielle (IA) dans un protocole de programmation très utilisé sur internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu’impose l’IA à la cybersécurité.
-- L’agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) avaient recommandé à tous les sites utilisant le protocole de programmation PHP de se déconnecter avant d’avoir mis à jour le logiciel.
-- En Europe, de très nombreuses plateformes ont été suspendues, notamment celles de toutes les préfectures en France, à la demande de l’Agence de sécurité des systèmes informatiques (Anssi).
-- En Finlande, le portail internet du gouvernement a indiqué que «les sites Internet du gouvernement (étaient) totalement ou partiellement indisponibles».
+- Interpol a annoncé, ce jeudi 22 octobre 2026, l’arrestation de 1 462 suspects dans le cadre de l’opération Serengeti III, menée dans 21 pays entre juin et août.
+- Cette campagne a également permis de neutraliser 10 909 réseaux malveillants et de récupérer plus de 105 millions de dollars de fonds illicites.
+- La lutte contre la cybercriminalité se poursuit en Afrique.
+- Selon un communiqué publié jeudi par l’Organisation internationale de police criminelle (Interpol), l’opération Serengeti III, conduite du 29 juin au 31 août 2026, a mobilisé les forces de l’ordre de 21 pays, dont le Sénégal, pour lutter contre les fraudes en ligne, les rançongiciels, les escroqueries numériques et l’extorsion.
 
-## [Préfectures françaises, services publics… Pourquoi des milliers de sites internet ont été mis ...](https://www.europe1.fr/technologies/prefectures-francaises-services-publics-pourquoi-des-milliers-de-sites-internet-ont-ete-mis-hors-ligne-1171338)  
-*Source : europe1.fr | Publication : 2026-10-21*
+## [<b>Cybermenaces</b> et fraudes : pourquoi toute l'activité e-commerce est concernée - Fevad](https://www.fevad.com/cybermenaces-fraudes-ecommerce/)  
+*Source : fevad.com | Publication : 2026-10-22*
 
-- Des milliers de sites internet ont été mis hors ligne par précaution mercredi, après la découverte de failles de sécurité dans PHP, un langage de programmation très répandu.
-- Identifiées grâce à l’intelligence artificielle, ces vulnérabilités illustrent les nouvelles menaces qui pèsent sur la cybersécurité, alors que l’IA accélère aussi bien la détection des failles que les capacités d’attaque des pirates.
-- Des failles repérées grâce à l'intelligence artificielle (IA) dans un logiciel de programmation très utilisé sur internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu'impose l'IA à la cybersécurité.
-- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) avaient recommandé mercredi à tous les sites utilisant le protocole de programmation PHP de se déconnecter avant d'avoir mis à jour le logiciel.
+- La confiance est l’un des fondements du développement du e-commerce.
+- Mais face à l’évolution des cybermenaces et des fraudes en ligne, aux usurpations de marque et à l’essor de l’intelligence artificielle, sa préservation représente un enjeu croissant pour les entreprises.
+- Le 20 octobre 2026, la FEVAD a réuni des experts de la cybersécurité, des professionnels du commerce en ligne et des acteurs institutionnels pour décrypter les menaces et leurs conséquences sur l’activité et les consommateurs.
+- Retour sur trois enseignements clés de cette conférence.
 
-## [Des failles logicielles repérées par IA provoquent la mise hors ligne de milliers de sites internet](https://www.boursedirect.fr/fr/actualites/categorie/economie-et-finances/des-failles-logicielles-reperees-par-ia-provoquent-la-mise-hors-ligne-de-milliers-de-sites-internet-afp-50c03acbfd6a78e45ae7f04630e2404b0c760013)  
-*Source : boursedirect.fr | Publication : 2026-10-21*
+## [Une faille de sécurité détectée : de nombreux sites dont celui de la préfecture de Loire ...](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/une-faille-de-securite-detectee-de-nombreux-sites-dont-celui-de-la-prefecture-de-loire-atlantique-sont-inaccessibles-8796dd9c-cdf1-11f1-bb5f-3dc5c0feacca)  
+*Source : ouest-france.fr | Publication : 2026-10-22*
 
-- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) ont recommandé mercredi à tous les sites.
+- Indépendamment de Wiz, la société de cybersécurité Calif a découvert ces failles dans le cadre d'un audit du code PHP financé par OpenAI.
+- Le problème.
 
-## [Des failles logicielles repérées par IA provoquent la mise hors ligne de milliers de sites internet](https://information.tv5monde.com/economie/des-failles-logicielles-reperees-par-ia-provoquent-la-mise-hors-ligne-de-milliers-de-sites-internet-2842594)  
-*Source : information.tv5monde.com | Publication : 2026-10-21*
+## [Des milliers de sites déconnectés en urgence, dont ceux des préfectures françaises](https://www.charentelibre.fr/societe/des-milliers-de-sites-deconnectes-en-urgence-dont-ceux-des-prefectures-francaises-comment-une-faille-geante-decouverte-par-l-ia-fait-paniquer-le-web-mondial-31184016.php)  
+*Source : charentelibre.fr | Publication : 2026-10-22*
 
-- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) ont recommandé mercredi à tous les sites utilisant le protocole de programmation PHP de se déconnecter avant d'avoir mis à jour le logiciel Des failles repérées grâce à l'intelligence artificielle (IA) dans un logiciel de programmation très utilisé sur internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu'impose l'IA à la cybersécurité.
-- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) avaient recommandé mercredi à tous les sites utilisant le protocole de programmation PHP de se déconnecter avant d'avoir mis à jour le logiciel.
-- En Europe, de très nombreuses plateformes ont été suspendues, notamment celles de toutes les préfectures en France, à la demande de l'Agence de sécurité des systèmes informatiques (Anssi).
-- En Finlande, le portail internet du gouvernement a indiqué que "les sites Internet du gouvernement (étaient) totalement ou partiellement indisponibles".
+- Des milliers de sites déconnectés en urgence, dont ceux des préfectures françaises : comment une faille géante découverte par l’IA fait paniquer le web mondial Les préfectures françaises ont dû déconnecter leurs sites en urgence.
+- En détectant deux vulnérabilités critiques dans PHP, un langage utilisé par une grande partie du Web, les nouveaux modèles d’intelligence artificielle d’OpenAI et de Google ont déclenché une vaste alerte de sécurité à travers la planète.
+- Des failles repérées grâce à l’intelligence artificielle (IA) dans un logiciel de programmation très utilisé sur internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu’impose l’IA à la cybersécurité.
 
-## [<b>Cybersécurité</b> aux TNO, « arrêtez, vérifiez, signalez » - Médias ténois](https://mediastenois.ca/actualites/2026/10/21/cybersecurite-aux-tno-arretez-verifiez-signalez/)  
-*Source : mediastenois.ca | Publication : 2026-10-21*
+## [&quot;Comprendre, anticiper et agir face aux <b>cybermenaces</b>&quot;, les Cyber Days s'ouvrent à Mayotte](https://la1ere.franceinfo.fr/mayotte/comprendre-anticiper-et-agir-face-aux-cybermenaces-les-cyber-days-s-ouvrent-a-mayotte-1750614.html)  
+*Source : la1ere.franceinfo.fr | Publication : 2026-10-22*
 
-- Dans le cadre du Mois de la sensibilisation à la cybersécurité, le Carrefour carrières du Cdétno (Conseil de développement économique des TNO) offre des ateliers bilingues chaque mercredi d’octobre pour apprendre à protéger ses données personnelles.
-- Au programme de la première séances : comment repérer les tentatives d’hameçonnage ?.
-- L’hameçonnage, c’est quoi Cette pratique malveillante « désigne le fait d’acquérir des renseignements sensibles en ligne, comme des noms d’utilisateur, des mots de passe, des renseignements personnels, des détails sur des cartes de crédit ou des comptes bancaires en se faisant passer pour une entité légitime ou digne de confiance, ou pour une victime », d’après le Centre antifraude du Canada.
-- Selon ce même organisme, en 2025, l’hameçonnage fait partie des dix fraudes les plus courantes signalées sur l’année.
+- Le site Internet de la préfecture de Mayotte et de la CSSM sont actuellement en panne.
+- Et ils sont loin d'être les seuls : depuis hier, de nombreux sites Internet ont été mis temporairement hors ligne par leurs administrateurs, afin de se prémunir de potentielles attaques.
+- C'est l'intelligence artificielle qui a découvert ces failles de sécurité critiques dans PHP, un langage de programmation qui fait tourner la plupart des sites web dans le monde.
+- Hasard du calendrier, à la Technopole de Dembéni, le Mois européen de la cybersécurité donne lieu à la première édition des Cyber Days Mayotte, aujourd'hui et demain.
 
-## [Cybermois : 15 000 marchands de presse mobilisés contre les <b>cybermenaces</b> - CB News](https://www.cbnews.fr/medias/cybermois-15-000-marchands-presse-mobilises-contre-les-cybermenaces)  
-*Source : cbnews.fr | Publication : 2026-10-21*
+## [Jusqu'à 600.000 personnes touchées: pour la seconde fois en moins d'un an, la Fédération ... - BFM](https://www.bfmtv.com/tech/cybersecurite/jusqu-a-600-000-personnes-touchees-pour-la-seconde-fois-en-moins-d-un-an-la-federation-francaise-de-tir-victime-d-une-cyberattaque_AD-202610220849.html)  
+*Source : bfmtv.com | Publication : 2026-10-22*
 
-- Cybermois : 15 000 marchands de presse mobilisés contre les cybermenaces Pour la troisième année consécutive, France Messagerie, Culture Presse et le Syndicat national des dépositaires de presse (SNDP) s’associent à Cybermalveillance.gouv.fr dans le cadre du Cybermois, dont la 14e édition se déroule en octobre.
-- Depuis le 1er octobre, 15 000 marchands de presse participent à la campagne nationale de sensibilisation aux risques numériques, baptisée « Se cyber protéger, ce n’est pas si bête ».
-- Concrètement, les points de vente mobilisés affichent pendant tout le mois d’octobre les visuels de la campagne, mettant en scène des animaux pour illustrer les bons réflexes à adopter face aux cybermenaces.
-- L’objectif des partenaires est de s’appuyer sur le maillage territorial des marchands de presse pour sensibiliser le grand public et favoriser les échanges autour de la cybersécurité.
+- Jusqu'à 600.000 personnes touchées: pour la seconde fois en moins d'un an, la Fédération française de tir victime d'une cyberattaque La Fédération française de Tir a annoncé jeudi avoir été victime d'une nouvelle cyberattaque, un an après un premier piratage, qui avait eu pour conséquences plusieurs vols d'armes commis chez des tireurs sportifs.
+- "La semaine du 12 octobre 2026, la Fédération française de Tir a subi une nouvelle attaque préparée.
+- L’attaquant s’est connecté à l’espace licencié EDEN avec des comptes de licenciés dont il avait obtenu ou deviné les identifiants", explique l'instance dans un communiqué.
+- "Son adresse a été bloquée dès le soir du 12 octobre et notre hébergeur nous a alertés le lendemain matin", a détaillé la Fédération, qui annonce avoir porté plainte.
 
-## [Plusieurs sites français inaccessibles afin de corriger des failles de sécurité - Orange Actu](https://actu.orange.fr/societe/high-tech/plusieurs-sites-francais-inaccessibles-afin-de-corriger-des-failles-de-securite-CNT000002tk1gn.html)  
-*Source : actu.orange.fr | Publication : 2026-10-21*
+## [Analyse trimestrielle des menaces - T3 2026 - Health-ISAC](https://health-isac.org/fr/informations-trimestrielles-sur-les-menaces-au-premier-trimestre-3-a/)  
+*Source : health-isac.org | Publication : 2026-10-22*
 
-- Plusieurs sites français inaccessibles afin de corriger des failles de sécurité © ERIC PIERMONT, AFP - Plusieurs sites internet français, dont ceux de ministères, préfectures et grands médias, sont inaccessibles afin de corriger des failles de sécurité situées dans un protocole de programmation très utilisé sur internet Plusieurs sites internet français, dont ceux de ministères, préfectures et grands médias, sont inaccessibles mercredi afin de corriger des failles de sécurité situées dans un protocole de programmation très utilisé sur internet.
-- Les sites de toutes les préfectures, dont la préfecture de police de Paris sont ainsi en maintenance, à la demande de l'Anssi, l'agence de sécurité des systèmes informatiques, a expliqué le ministère de l'Intérieur.
-- "Les équipes sont mobilisées pour procéder aux opérations de mise à jour dans les meilleurs délais, dès que le correctif de sécurité sera rendu disponible par l'éditeur", a poursuivi le ministère.
-- Dans cette attente, "les publications des préfectures seront faites sur les réseaux sociaux et par voie d'affichage", a déclaré Beauvau.
+- Analyse trimestrielle des menaces – T3 2026 Enregistrement du webinaire du 21 octobre 2026 Le paysage de la cybersécurité et de la sécurité physique du secteur de la santé évolue rapidement, et il est crucial de devancer les menaces émergentes.
+- Cette session inaugurale, riche d'enseignements, du Bulletin trimestriel sur les menaces présente des mises à jour et des analyses d'experts pour aider le secteur de la santé à rester informé et préparé.
+- Le webinaire trimestriel d'ISAC sur les menaces dans le secteur de la santé offre un aperçu actuel des cybermenaces et des menaces physiques qui pèsent sur ce secteur.
+- Sujets couverts: Niveau mensuel de cybermenace - Le signal d'alarme du secteur de la santé au troisième trimestre : au cœur de la vague de menaces ShinyHunters - Sécurisation des dispositifs médicaux et suivi des indicateurs - Perspectives des risques mondiaux - Hiver El Niño : Comment les températures record du Pacifique impacteront l'hiver à venir - Mise à jour juridique et réglementaire : Règle de sécurité CIRCIA et HIPAA - Tendances mondiales en matière de ransomware - Ressources mentionnées dans le webinaire : Diapositives de webinaire Rapport : Le rythme cardiaque du secteur de la santé – T3 2026 Livre blanc : Normes de sécurité des technologies médicales Livre blanc : Des indicateurs au sens Ressources et actualités connexes - Le fossé du contrôle : comment les organisations peuvent reprendre le contrôle à l'ère de l'IA de pointe - Indicateur de santé du secteur de la santé ISAC – 3e trimestre 2026 - Perspectives mondiales sur la confiance numérique à l'horizon 2027 : Guide pratique et conclusions à l'intention des dirigeants - Attaques avancées contre les outils et applications d'IA générale embarqués : ce qu'il faut surveiller - Rapport Censys sur l'état d'Internet 2026 - Tribune libre : Quand un hôpital ne parvient pas à réparer une machine, quel est le plan de secours ?.
 
-## [Des failles de sécurité menacent les sites web du monde entier - RFJ votre radio régionale](https://www.rfj.ch/rfj/Actualite/economie/20261021-Une-faille-de-securite-grave-menace-les-sites-web-du-monde-entier.html)  
-*Source : rfj.ch | Publication : 2026-10-21*
+## [Faille majeure de <b>cybersécurité</b>: de nombreux sites web sont encore vulnérables](https://www.pesesurstart.com/2026/10/22/faille-majeure-de-cybersecurite-de-nombreux-sites-web-sont-encore-vulnerables)  
+*Source : pesesurstart.com | Publication : 2026-10-22*
 
-- L'agence américaine de renseignement NSA et le Centre national britannique de cybersécurité (NCSC) avaient recommandé mercredi à tous les sites.
+- Faille majeure de cybersécurité: de nombreux sites web sont encore vulnérables Si plusieurs sites internet ont colmaté mercredi la faille majeure décelée par le programme PHP, d’autres tardent à effectuer la mise à jour et pourraient être indisponibles au cours des prochains jours.
+- • À lire aussi : Sites web perturbés dans le monde entier : comment l’IA a-t-elle trouvé les failles ?.
+- • À lire aussi : « Vulnérabilité critique »: de nombreux sites web inaccessibles en raison d’une importante faille La Fondation PHP, qui gère le déploiement de cette technologie utilisée par la majorité des sites internet du côté de ce serveur, a avisé le 22 octobre qu’une importante faille avait été décelée et qu’une mise à jour avait été préparée pour y remédier.
+- Cela a fait en sorte que de nombreux sites internet, donc ceux de la STM, de la SAQ et de Statistique Canada, ont été fermés par mesure préventive mercredi, le temps de s’assurer qu’ils étaient protégés.
 
-## [Faille de sécurité PHP : des sites web gouvernementaux européens hors ligne - Virgule.lu](https://www.virgule.lu/luxembourg/les-gouvernements-europeens-mettent-leurs-sites-web-hors-ligne-en-reponse-a-une-menace-de-securite-massive/163418644.html)  
-*Source : virgule.lu | Publication : 2026-10-21*
+## [<b>Cybersécurité</b> : «L'IA aide à trouver des failles cachées, et peut-être hélas que le pire est à ...](https://www.europe1.fr/technologies/cybersecurite-lia-aide-a-trouver-des-failles-cachees-et-peut-etre-helas-que-le-pire-est-a-venir-alerte-le-hackeur-ethique-saxx-1173219)  
+*Source : europe1.fr | Publication : 2026-10-22*
 
-- .
-- Les gouvernements européens ont pris une mesure de sécurité face à une menace de cybersécurité.
-- © PHOTO: Shutterstock.
-- Bloomberg.
+- Invité d'Europe 1 Bonjour, l’expert en cybersécurité Clément Domingo, plus connu sous le pseudonyme SaxX, estime que l’intelligence artificielle est en train de changer profondément la détection des vulnérabilités informatiques.
+- Selon lui, les prochaines semaines pourraient voir émerger davantage de failles critiques capables de fragiliser des pans entiers du numérique.
+- Pour Clément Domingo, l’alerte qui a conduit plusieurs sites publics à être temporairement mis en maintenance marque peut-être le début d’une nouvelle période pour la cybersécurité mondiale.
+- Invité d'Europe 1 Bonjour ce jeudi, l’expert affirme que l’intelligence artificielle est désormais capable d’identifier des failles jusque-là invisibles pour les équipes humaines.
