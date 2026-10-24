@@ -1,156 +1,149 @@
-# Résumés – 2026-10-22
+# Résumés – 2026-10-23
 
 
-## [<b>Cybersécurité</b> : préserver le chiffrement de bout en bout - CONSTRUCTIONBTP](https://www.constructionbtp.com/reseaux-vrd/article/2026/10/22/156552/cybersecurite-preserver-chiffrement-bout-bout)  
-*Source : constructionbtp.com | Publication : 2026-10-22*
+## [UAC-0099 et Sandworm déploient la porte dérobée MythicRatatoskr via Yggdrasil](https://socprime.com/fr/active-threats/uac-0099-et-sandworm-deploient-la-porte-derobee-mythicratatoskr-via-yggdrasil/)  
+*Source : socprime.com | Publication : 2026-10-23*
 
-- La lutte contre le terrorisme et la criminalité organisée peut-elle justifier un accès des autorités aux communications chiffrées ?.
-- La question a ressurgi il y a un an, lors des débats sur la proposition de loi Narcotrafic.
-- La mesure envisagée, qui remettait en cause le chiffrement de bout en bout des messageries, avait suscité une vive opposition dans l’écosystème numérique et parmi les défenseurs des droits.
-- Face à ces contestations, le député Florent Boudié avait été chargé d’étudier les solutions envisageables.
+- UAC-0099 et Sandworm déploient la porte dérobée MythicRatatoskr via Yggdrasil Detection stack.
+- - Alert -.
+- - Query - Résumé Les affiliés associés aux groupes de ransomware INC et The Gentlemen exploitent un écosystème d’intrusion assisté par IA pour automatiser la reconnaissance, la génération de commandes et la gestion des données.
+- Les opérateurs utilisent un cadre personnalisé appelé Phantom ainsi que des LLM commerciaux pour soutenir des intrusions à grande échelle.
 
-## [DTAM, Fédération des chasseurs... La faille mondiale de <b>cybersécurité</b> a aussi impacté les ...](https://la1ere.francetvinfo.fr/saintpierremiquelon/dtam-federation-des-chasseurs-la-faille-mondiale-de-cybersecurite-a-aussi-impacte-les-sites-de-saint-pierre-et-miquelon-1750701.html)  
-*Source : la1ere.francetvinfo.fr | Publication : 2026-10-22*
+## [INC et The Gentlemen <b>Ransomware</b> dévoilent une infrastructure d'attaque alimentée par l'IA](https://socprime.com/fr/active-threats/inc-et-the-gentlemen-ransomware-devoilent-une-infrastructure-d-attaque-alimentee-par-l-ia/)  
+*Source : socprime.com | Publication : 2026-10-23*
 
-- Depuis mercredi 21 octobre, plusieurs sites Internet français, principalement d'administrations — ministères, préfectures, directions locales, ou de grands médias, sont inaccessibles afin de corriger des failles de sécurité dans un protocole de programmation utilisé par près de 70% des sites Internet dans le monde, rapporte l'AFP.
-- Dans l'archipel, le site Internet de la direction des Territoires, de l'Alimentation et de la Mer (DTAM) était concerné "par mesure de précaution", à l'instar d'une grande partie des sites Internet gérés par le ministère de la Transition écologique, nous rapporte le service de l'État.
-- La faille a été corrigée et le site était de nouveau accessible ce jeudi matin.
-- Les sites de l'Etat inaccessibles, dont l'un d'eux indispensable pour la Fédération des chasseurs La Fédération des chasseurs de Saint-Pierre-et-Miquelon a également été impactée : le site interministériel du Fichier national des personnes interdites d'acquisition et de détention d'armes (FINIADA) a été placé en maintenance ce mercredi, empêchant alors la délivrance des validations et des bagues.
+- INC et The Gentlemen Ransomware dévoilent une infrastructure d’attaque alimentée par l’IA Detection stack.
+- - Alert -.
+- - Query - Résumé Des affiliés liés aux groupes de rançongiciels INC et The Gentlemen utilisent un écosystème d’intrusion piloté par l’IA pour automatiser la reconnaissance, la génération de commandes et le tri des données.
+- Les opérateurs s’appuient sur un cadre personnalisé appelé Phantom, associé à des LLM commerciaux pour soutenir des intrusions à grande échelle.
 
-## [Sites internet fermés : des failles dans PHP, &quot;colonne vertébrale du web&quot; - Orange Actu](https://actu.orange.fr/economie/sites-internet-fermes-des-failles-dans-php-quot-colonne-vertebrale-du-web-quot-CNT000002tkuVs.html)  
-*Source : actu.orange.fr | Publication : 2026-10-22*
+## [Cyberattaques en France : Lecornu annonce un renforcement massif de la <b>cybersécurité</b> de l'État](https://www.aa.com.tr/fr/politique/cyberattaques-en-france-lecornu-annonce-un-renforcement-massif-de-la-cybersécurité-de-l-état/3923874)  
+*Source : aa.com.tr | Publication : 2026-10-23*
 
-- Sites internet fermés : des failles dans PHP, "colonne vertébrale du web" © Kirill KUDRYAVTSEV, AFP - L'IA a découvert des failles de sécurité critiques dans PHP, un langage de programmation qui fait tourner la plupart des sites web dans le monde, ce qui a entraîné des mises hors-ligne massives pour chercher des correctifs de sécurité Après la découverte de vulnérabilités de cybersécurité, les regards se tournent vers PHP, l'un des langages de programmation les plus répandus sur le web.
-- Jeudi, de nombreux sites restaient suspendus à titre préventif.
-- Au Royaume-Uni, une ministre chargée des technologies a déclaré que 32 services gouvernementaux étaient hors service, principalement en raison de "mesures de précaution", tandis que certains sites web hors ligne la veille étaient semblaient de nouveau accessibles.
-- Qu'est-ce que PHP et comment est-il utilisé ?.
+- Après plusieurs fuites de données touchant des millions de Français, le gouvernement mobilise financements, réorganisation et intelligence artificielle face à une menace jugée stratégique.
 
-## [Cyberattaques : deux failles de sécurité critiques ne seront jamais corrigées sur des millions ...](https://www.capital.fr/conso/cyberattaques-deux-failles-de-securite-critiques-ne-seront-jamais-corrigees-sur-des-millions-de-sites-web-1531190)  
-*Source : capital.fr | Publication : 2026-10-22*
+## [Les PME, touchées de plein fouet par les failles critiques PHP](https://www.pme.ch/actualites/faille-de-securite-un-expert-met-en-garde-contre-des-dommages-importants-pour-les-pme/fcj4d72)  
+*Source : pme.ch | Publication : 2026-10-23*
 
-- Deux failles de sécurité découvertes dans PHP, une technologie utilisée par près de 70% des sites web, suscitent l’inquiétude des experts.
-- Elles pourraient permettre à des pirates de prendre le contrôle de serveurs informatiques.
-- Si des correctifs sont disponibles pour les versions récentes, les plus anciennes ne bénéficieront d’aucune mise à jour officielle, rapporte le magazine spécialisé IT for Business.
-- Par précaution, plusieurs administrations ont déjà choisi de rendre leurs sites temporairement inaccessibles.
+- Bonjour, Une dangereuse faille de sécurité paralyse des milliers de sites web suisses.
+- Pour les entreprises touchées, la facture peut vite grimper.
+- L’expert en cybersécurité Nicolas Mayencourt met en garde contre des pertes qui pourraient atteindre plusieurs millions de francs et explique comment les PME peuvent se protéger.
+- Nathalie Benn Publicité Publicité Publicité Publicité.
 
-## [<b>Cybersécurité</b> : le gouvernement alerte sur des failles dans un logiciel menaçant les sites Internet](https://www.lnc.nc/article/cybersecurite-le-gouvernement-alerte-sur-des-failles-dans-un-logiciel-menacant-les-sites-internet)  
-*Source : lnc.nc | Publication : 2026-10-22*
+## [Veeam 13.1 vs Rubrik vs Cohesity : Anti-<b>Ransomware</b> [2026] - Tech Insider](https://tech-insider.org/fr/veeam-vs-rubrik-vs-cohesity-sauvegarde-immuable-2026/)  
+*Source : tech-insider.org | Publication : 2026-10-23*
 
-- A.-C.P.
-- avec AFP | Crée le 22.10.2026 à 16h56 | Mis à jour le 23.10.2026 à 09h40ImprimerLes failles découvertes sur le logiciel PHP, qui "fait tourner environ 70 % du web mondial", représentent un risque important en terme de cybersécurité concernant des millions de sites dans le monde, dont de nombreux en Nouvelle-Calédonie.
-- Photo Archives LNC / Niko VincentAlors que des failles dans PHP, un langage de programmation très utilisé sur Internet partout dans le monde ont été repérées, le gouvernement calédonien appelle, ce jeudi 22 octobre, les collectivités et les entreprises disposant d’un site à mettre rapidement à jour leurs installations, sans quoi il existe un risque de prise de contrôle à distance de leur serveur web.
-- Explications.Vingt-deux millions de plateformes utilisant un langage de programmation très courant sur Internet, PHP, seraient exposées dans le monde, selon un spécialiste cité par l’AFP.
+- Veeam, Rubrik ou Cohesity en 2026 ?.
+- Comparatif prix, restauration et protection ransomware : Veeam gagne sur le rapport qualité-prix.
 
-## [Une légère révision de la croissance organique qui laisse sur sa faim pour Thales - Investir](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/une-legere-revision-de-la-croissance-organique-qui-laisse-sur-sa-faim-pour-thales-2258454)  
-*Source : investir.lesechos.fr | Publication : 2026-10-22*
+## [« La situation va empirer » : après le chaos PHP, Anthropic prédit d'autres turbulences sur l ...](https://www.01net.com/actualites/la-situation-va-empirer-apres-le-chaos-php-anthropic-predit-dautres-turbulences-sur-linternet-mondial.html)  
+*Source : 01net.com | Publication : 2026-10-23*
 
-- Le groupe d'électronique pour la défense, l'aérospatiale et la cybersécurité a publié de bons chiffres au terme des neuf premiers mois de l'exercice.
+- Ce mardi 20 octobre 2026, deux failles critiques ont été découvertes dans le langage informatique PHP qui est utilisé par environ 70 % des sites à travers le monde.
+- La situation s’est révélée être un véritable casse-tête pour l’Internet mondial, tant le langage PHP est omniprésent, mais aussi souvent invisible.
+- Certains sites ont d’ailleurs pris la décision de se mettre tout simplement hors ligne, à l’image d’Orange, qui a suspendu temporairement l’accès à certains de ses sites et applications par mesure de précaution.
+- L’Internet mondial a donc connu une période de crise, et cela ne devrait pas s’arranger si l’on en croit les propos de Jason Clinton, responsable adjoint de la sécurité des systèmes d’information chez Anthropic.
 
-## [<b>Cybersécurité</b>. Déjà ciblée il y a un an, la Fédération Française de Tir une nouvelle fois attaquée](https://www.lalsace.fr/faits-divers-justice/2026/10/22/cyberattaque-deja-ciblee-il-y-a-un-an-la-federation-francaise-de-tir-une-nouvelle-fois-attaquee)  
-*Source : lalsace.fr | Publication : 2026-10-22*
+## [Arabie Saoudite : Deux Bangladais Exécutés Pour Un « Acte Immoral » Dans Une Mosquée](https://www.i24news.tv/fr/actu/international/moyen-orient/artc-arabie-saoudite-deux-bangladais-executes-pour-un-acte-immoral-dans-une-mosquee)  
+*Source : i24news.tv | Publication : 2026-10-23*
 
-- Cybersécurité Déjà ciblée il y a un an, la Fédération Française de Tir une nouvelle fois attaquée Les données personnelles de 250 000 adhérents et 750 000 anciens licenciés de la FFTir avaient déjà été saisies en 2025.
-- La Fédération Française de Tir a annoncé jeudi avoir été victime d'une nouvelle cyberattaque, un an après un premier piratage, qui avait eu pour conséquences plusieurs vols d'armes commis chez des tireurs sportifs. «.
-- La semaine du 12 octobre 2026, la Fédération Française de Tir a subi une nouvelle attaque préparée.
-- L’attaquant s’est connecté à l’espace licencié EDEN avec des comptes de licenciés dont il avait obtenu ou deviné les identifiants », explique l'instance dans un communiqué. «.
+- i24NEWS - International - Moyen-Orient - Arabie saoudite : deux Bangladais exécutés pour « acte immoral » dans une mosquée - Arabie saoudite : deux Bangladais exécutés pour « acte immoral » dans une mosquée Selon des documents consulaires, les deux ressortissants étaient détenus depuis août 2023, dans le cadre d’accusations distinctes liées à la cybercriminalité et à l’adultère Le 14 octobre, l’Arabie saoudite a exécuté deux ressortissants bangladais, Nazrul Islam Abdul Basir et Siti Akhtar, accusés d’avoir porté atteinte au caractère sacré d’une mosquée de La Mecque.
+- Selon le ministère saoudien de l’Intérieur, elles ont été condamnées en vertu du ta’zir, un dispositif du droit islamique permettant aux juges de déterminer certaines sanctions.
+- Les autorités n’ont toutefois précisé ni la nature exacte des actes reprochés, ni la mosquée concernée.
+- Sur les réseaux sociaux, l’affaire a pris une dimension considérable.
 
-## [Failles critiques dans PHP : des sites belges hors ligne et risque de fuites de données - RTL Info](https://www.rtl.be/actu/magazine/hi-tech/sites-internet-desactives-cause-dune-faille-dans-php-peut-sattendre-enormement/2026-10-22/article/804208)  
-*Source : rtl.be | Publication : 2026-10-22*
+## [<b>Cybersécurité</b> aux TNO, « arrêtez, vérifiez, signalez - RCI Radio Canada International](https://www.rcinet.ca/regard-sur-arctique/2026/10/23/cybersecurite-aux-tno-arretez-verifiez-signalez/)  
+*Source : rcinet.ca | Publication : 2026-10-23*
 
-- Partager: L’intelligence artificielle a découvert des failles de sécurité critiques dans PHP, un langage de programmation qui joue l’intermédiaire entre un site internet et un serveur contenant des bases de données, et qui fait tourner environ 70 % des sites web dans le monde.
-- Conséquence, hier, de nombreux sites belges ont été mis hors ligne par précaution, le temps pour eux de mettre à jour ceux-ci avec des correctifs.
-- Ce matin, la situation s’améliorait mais plusieurs sites belges importants étaient toujours inaccessibles.
-- On peut citer la Fédération Wallonie-Bruxelles, des administrations communales comme Bruxelles et Gand, le SPF Finances, le Centre pour la cybersécurité de Belgique (CCB) ou encore certains hôpitaux du pays, comme le Grand Hôpital de Charleroi ou le CHU Brugmann à Bruxelles.
+- Cybersécurité aux TNO, « arrêtez, vérifiez, signalez » Par Inés Figuigui – L’Aquilon Pendant tout le mois d’octobre, des ateliers de sensibilisation aux cybermenaces sont proposés au Carrefour carrières de Yellowknife.
+- L’objectif : protéger les données personnelles des habitant.e.s des TNO.
+- Dans le cadre du Mois de la sensibilisation à la cybersécurité, le Carrefour carrières du Cdétno (Conseil de développement économique des TNO) offre des ateliers bilingues chaque mercredi d’octobre pour apprendre à protéger ses données personnelles.
+- Au programme de la première séances : comment repérer les tentatives d’hameçonnage ?.
 
-## [Afrique : Interpol mène une vaste opération contre la <b>cybercriminalité</b>, 1 462 suspects ...](https://www.lefigaro.fr/international/afrique-interpol-mene-une-vaste-operation-contre-la-cybercriminalite-1-462-suspects-arretes-dans-21-pays-20261022)  
-*Source : lefigaro.fr | Publication : 2026-10-22*
+## [« L'IA peut-elle aussi nous protéger de l'IA ? » : 3/10, la note de la semaine par Dominique ...](https://www.lesechos.fr/idees-debats/editos-analyses/lia-peut-elle-aussi-nous-proteger-de-lia-310-la-note-de-la-semaine-par-dominique-seux-2258851)  
+*Source : lesechos.fr | Publication : 2026-10-23*
 
-- Afrique : Interpol mène une vaste opération contre la cybercriminalité, 1 462 suspects arrêtés dans 21 pays Baptisée «Serengeti III», l’opération a également permis le démantèlement de 10.909 réseaux malveillants.
-- 105 millions de dollars américains de fonds illicites ont par ailleurs été récupérés.
-- Passer la publicité Passer la publicitéElle est présentée par Interpol comme «l’une des plus grandes opérations de lutte contre la cybercriminalité jamais menées en Afrique».
-- L’opération «Serengeti III» a permis l’arrestation de 1462 suspects dans 21 pays entre le 29 juin et le 31 août.
+- Cybersécurité · Éditos & Analyses.
+- De nombreux sites internet, dont.
 
-## [Stéphane Gochtovtt, sales manager France, Keenetic : « <b>Cybersécurité</b> : nous protégeons ...](https://www.zdnet.fr/tribune/stephane-gochtovtt-sales-manager-france-keenetic-cybersecurite-nous-protegeons-nos-appareils-mais-nous-oublions-le-reseau-qui-les-relie-506260.htm)  
-*Source : zdnet.fr | Publication : 2026-10-22*
+## [Radar gouvernement numérique 2026 : les résultats - Brussels-Capital Region](https://be.brussels/fr/propos-de-la-region/radar-gouvernement-numerique-2026-les-resultats)  
+*Source : be.brussels | Publication : 2026-10-23*
 
-- Chaque année, le Cybermois nous rappelle les mêmes précautions : choisir des mots de passe robustes, se méfier des liens suspects, mettre à jour ses logiciels.
-- Ces conseils restent essentiels.
-- Mais ils révèlent aussi un angle mort dans notre manière d'aborder la cybersécurité.
-- À force de nous concentrer sur les appareils et leurs utilisateurs, nous avons tendance à oublier ce qui les relie : le réseau lui-même.
+- Radar gouvernement numérique 2026 : les résultats Par rapport à 2025, le Radar marque un changement de perspective : la question n’est plus « Quelle technologie est intéressante ?.
+- », mais « Quelle technologie pouvons-nous mettre en œuvre de manière responsable ?.
+- ».
+- Cybersécurité et IA en tête des priorités La cybersécurité (74 % pour l’action), le cadre d’utilisation de l’IA générative (72 %), les compétences numériques et en IA (67 %) et la réglementation de l’IA ressortent nettement.
 
-## [L'article à lire pour comprendre d'où vient la faille de sécurité mondiale qui affecte autant de ...](https://www.nicematin.com/societe/technologie/l-article-a-lire-pour-comprendre-d-ou-vient-la-faille-de-securite-mondiale-qui-affecte-autant-de-sites-internet-10744636)  
-*Source : nicematin.com | Publication : 2026-10-22*
+## [<b>Cybersécurité</b> : Plusieurs sites officiels tunisiens suspendus après la découverte d'une faille ...](https://www.webdo.tn/fr/actualite/national/cybersecurite-plusieurs-sites-officiels-tunisiens-suspendus-apres-la-decouverte-dune-faille-mondiale/405990/)  
+*Source : webdo.tn | Publication : 2026-10-23*
 
-- L’article à lire pour comprendre d’où vient la faille de sécurité mondiale qui affecte autant de sites Internet Des failles repérées grâce à l’intelligence artificielle dans un logiciel de programmation très utilisé sur internet ont entraîné ce mercredi 21 octobre 2026 la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu’impose l’IA à la cybersécurité.
-- L’intelligence artificielle a découvert des failles de sécurité critiques dans PHP, un langage de programmation qui fait tourner la plupart des sites web dans le monde, ce qui a entraîné des mises hors-ligne massives pour chercher des correctifs de sécurité.
-- Qu’est-ce que PHP et comment est-il utilisé ?.
-- Créé au début des années 1990, PHP est un langage de programmation informatique qui fait fonctionner environ 70 % des sites web dans le monde.
+- Plusieurs organismes publics tunisiens ont annoncé la suspension temporaire de leurs sites internet à la suite de la découverte d’une faille de cybersécurité signalée à l’échelle mondiale.
+- Après la Société tunisienne de l’électricité et du gaz (STEG), qui a annoncé cette mesure le jeudi 22 octobre 2026, l’Agence tunisienne de coopération technique (ATCT) a fait de même vendredi 23 octobre, invoquant la nécessité de protéger ses systèmes informatiques et les données de ses utilisateurs.
+- Dans un communiqué publié sur sa page officielle Facebook, l’ATCT a indiqué que la suspension de l’accès à son site constituait une mesure préventive destinée à éviter les risques liés à une éventuelle exploitation de cette vulnérabilité.
+- L’agence a précisé qu’elle informerait le public dès le rétablissement de l’accès et le retour de ses services à leur fonctionnement normal.
 
-## [Afrique: <b>Cybercriminalité</b> - 1 462 suspects arrêtés lors d'une opération coordonnée par Interpol](https://fr.allafrica.com/stories/202610220407.html)  
-*Source : fr.allafrica.com | Publication : 2026-10-22*
+## [Coups de filet &amp; sanctions : 9 opérations contre la <b>cybercriminalité</b> du 23 octobre 2026 (dont ...](https://dcod.ch/2026/10/23/coups-de-filet-sanctions-9-operations-contre-la-cybercriminalite-du-23-octobre-2026-dont-interpol/)  
+*Source : dcod.ch | Publication : 2026-10-23*
 
-- Interpol a annoncé, ce jeudi 22 octobre 2026, l’arrestation de 1 462 suspects dans le cadre de l’opération Serengeti III, menée dans 21 pays entre juin et août.
-- Cette campagne a également permis de neutraliser 10 909 réseaux malveillants et de récupérer plus de 105 millions de dollars de fonds illicites.
-- La lutte contre la cybercriminalité se poursuit en Afrique.
-- Selon un communiqué publié jeudi par l’Organisation internationale de police criminelle (Interpol), l’opération Serengeti III, conduite du 29 juin au 31 août 2026, a mobilisé les forces de l’ordre de 21 pays, dont le Sénégal, pour lutter contre les fraudes en ligne, les rançongiciels, les escroqueries numériques et l’extorsion.
+- Faits marquants de la semaine Des agences de police et des partenaires dans le monde ont perturbé un vaste écosystème cybercriminel lié à plus d’un milliard de messages malveillants, visant plus de 75 000 organisations dans 150 pays.
+- - Des autorités de 17 pays en Amérique latine et en Europe ont arrêté 95 suspects lors d’une opération coordonnée par INTERPOL contre la diffusion de contenus pédocriminels via des groupes de messagerie en ligne.
+- - Aux États-Unis, un dirigeant de YMCO a plaidé coupable : ce réseau sophistiqué de « mules financières » (intermédiaires de transfert d’argent) aidait des pirates à faire sortir des fonds hors du territoire américain, avec environ 15 000 mules.
+- - Le ministère américain de la Justice a inculpé 14 personnes dans une affaire de faux emplois informatiques à distance liée à la Corée du Nord, avec environ 187 ordinateurs saisis et plus de 40 domiciles perquisitionnés au Texas.
 
-## [<b>Cybermenaces</b> et fraudes : pourquoi toute l'activité e-commerce est concernée - Fevad](https://www.fevad.com/cybermenaces-fraudes-ecommerce/)  
-*Source : fevad.com | Publication : 2026-10-22*
+## [Après la faille PHP, les développeurs du monde entier appelés à être plus vigilants et pro ...](https://www.bfmtv.com/tech/cybersecurite/apres-la-faille-php-les-developpeurs-du-monde-entier-appeles-a-etre-plus-vigilants-et-pro-actifs-dans-les-mises-a-jour_AV-202610230780.html)  
+*Source : bfmtv.com | Publication : 2026-10-23*
 
-- La confiance est l’un des fondements du développement du e-commerce.
-- Mais face à l’évolution des cybermenaces et des fraudes en ligne, aux usurpations de marque et à l’essor de l’intelligence artificielle, sa préservation représente un enjeu croissant pour les entreprises.
-- Le 20 octobre 2026, la FEVAD a réuni des experts de la cybersécurité, des professionnels du commerce en ligne et des acteurs institutionnels pour décrypter les menaces et leurs conséquences sur l’activité et les consommateurs.
-- Retour sur trois enseignements clés de cette conférence.
+- "Les pirates utilisent l'IA jour et nuit": des impôts aux ministères, pourquoi le web français s'est arrêté net À 16h le 21 octobre 2026, un vent de panique a soufflé sur l'internet mondial.
+- De nombreux sites web sont entrés dans une maintenance d'urgence après la découverte de deux failles critiques dans le langage de programmation PHP, suivie de la publication d'un correctif moins de 24 heures après la fuite.
+- Ces vulnérabilités permettent de prendre le contrôle d'un serveur à distance, sans authentification, afin d'y injecter un logiciel malveillant, et donc d'atteindre directement des internautes.
+- La menace a été prise très au sérieux par la NSA, l'agence de renseignement américaine, comme par les agences gouvernementales du monde entier.
 
-## [Une faille de sécurité détectée : de nombreux sites dont celui de la préfecture de Loire ...](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/une-faille-de-securite-detectee-de-nombreux-sites-dont-celui-de-la-prefecture-de-loire-atlantique-sont-inaccessibles-8796dd9c-cdf1-11f1-bb5f-3dc5c0feacca)  
-*Source : ouest-france.fr | Publication : 2026-10-22*
+## [<b>Cybersécurité</b> : plusieurs organismes publics tunisiens suspendent temporairement leurs sites web](https://www.lapresse.tn/2026/10/23/cybersecurite-plusieurs-organismes-publics-tunisiens-suspendent-temporairement-leurs-sites-web/)  
+*Source : lapresse.tn | Publication : 2026-10-23*
 
-- Indépendamment de Wiz, la société de cybersécurité Calif a découvert ces failles dans le cadre d'un audit du code PHP financé par OpenAI.
-- Le problème.
+- Cybersécurité : plusieurs organismes publics tunisiens suspendent temporairement leurs sites web Plusieurs organismes publics tunisiens ont suspendu temporairement l’accès à leurs sites internet à la suite de la découverte d’une faille de sécurité informatique à l’échelle mondiale, a rapporté la Radio nationale tunisienne vendredi 23 octobre 2026.
+- L’Agence tunisienne de coopération technique (ATCT) a annoncé la suspension provisoire de son site web à titre préventif.
+- Cette mesure vise à protéger son système numérique et les données de ses utilisateurs contre les risques potentiels liés à l’exploitation de cette vulnérabilité.
+- L’agence a indiqué qu’elle informerait le public dès la reprise de ses services en ligne.
 
-## [Des milliers de sites déconnectés en urgence, dont ceux des préfectures françaises](https://www.charentelibre.fr/societe/des-milliers-de-sites-deconnectes-en-urgence-dont-ceux-des-prefectures-francaises-comment-une-faille-geante-decouverte-par-l-ia-fait-paniquer-le-web-mondial-31184016.php)  
-*Source : charentelibre.fr | Publication : 2026-10-22*
+## [<b>Cybercriminalité</b> en Afrique : Interpol interpelle 1 462 suspects dans 21 pays - Anadolu Ajansı](https://www.aa.com.tr/fr/afrique/cybercriminalité-en-afrique-interpol-interpelle-1-462-suspects-dans-21-pays/4097778)  
+*Source : aa.com.tr | Publication : 2026-10-23*
 
-- Des milliers de sites déconnectés en urgence, dont ceux des préfectures françaises : comment une faille géante découverte par l’IA fait paniquer le web mondial Les préfectures françaises ont dû déconnecter leurs sites en urgence.
-- En détectant deux vulnérabilités critiques dans PHP, un langage utilisé par une grande partie du Web, les nouveaux modèles d’intelligence artificielle d’OpenAI et de Google ont déclenché une vaste alerte de sécurité à travers la planète.
-- Des failles repérées grâce à l’intelligence artificielle (IA) dans un logiciel de programmation très utilisé sur internet ont entraîné mercredi la mise hors ligne de milliers de sites à titre de précaution, une illustration de la nouvelle donne qu’impose l’IA à la cybersécurité.
+- L’opération s’est déroulée entre le 29 juin et le 31 août 2026.
 
-## [&quot;Comprendre, anticiper et agir face aux <b>cybermenaces</b>&quot;, les Cyber Days s'ouvrent à Mayotte](https://la1ere.franceinfo.fr/mayotte/comprendre-anticiper-et-agir-face-aux-cybermenaces-les-cyber-days-s-ouvrent-a-mayotte-1750614.html)  
-*Source : la1ere.franceinfo.fr | Publication : 2026-10-22*
+## [Rochefort-du-Gard. <b>Cybersécurité</b> : la gendarmerie à la rencontre des habitants](https://www.ledauphine.com/societe/2026/10/23/cybersecurite-la-gendarmerie-a-la-rencontre-des-habitants)  
+*Source : ledauphine.com | Publication : 2026-10-23*
 
-- Le site Internet de la préfecture de Mayotte et de la CSSM sont actuellement en panne.
-- Et ils sont loin d'être les seuls : depuis hier, de nombreux sites Internet ont été mis temporairement hors ligne par leurs administrateurs, afin de se prémunir de potentielles attaques.
-- C'est l'intelligence artificielle qui a découvert ces failles de sécurité critiques dans PHP, un langage de programmation qui fait tourner la plupart des sites web dans le monde.
-- Hasard du calendrier, à la Technopole de Dembéni, le Mois européen de la cybersécurité donne lieu à la première édition des Cyber Days Mayotte, aujourd'hui et demain.
+- Rochefort-du-Gard Cybersécurité : la gendarmerie à la rencontre des habitants Arnaques en ligne, piratage de comptes, tentatives de fraude… Face à la multiplication des risques numériques, la... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteLe Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Dauphiné Libéré, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant LDLABOWEB@ledauphine.com ou consulter les liens suivants : Protection des données, CGU du site et Contact.
 
-## [Jusqu'à 600.000 personnes touchées: pour la seconde fois en moins d'un an, la Fédération ... - BFM](https://www.bfmtv.com/tech/cybersecurite/jusqu-a-600-000-personnes-touchees-pour-la-seconde-fois-en-moins-d-un-an-la-federation-francaise-de-tir-victime-d-une-cyberattaque_AD-202610220849.html)  
-*Source : bfmtv.com | Publication : 2026-10-22*
+## [<b>Cybersécurité</b> et Intelligence Artificielle - Actualité illiwap de Mairie de Lézigneux](https://station.illiwap.com/fr/public/42122/actu/cybersecurite-et-intelligence-artificielle)  
+*Source : station.illiwap.com | Publication : 2026-10-23*
 
-- Jusqu'à 600.000 personnes touchées: pour la seconde fois en moins d'un an, la Fédération française de tir victime d'une cyberattaque La Fédération française de Tir a annoncé jeudi avoir été victime d'une nouvelle cyberattaque, un an après un premier piratage, qui avait eu pour conséquences plusieurs vols d'armes commis chez des tireurs sportifs.
-- "La semaine du 12 octobre 2026, la Fédération française de Tir a subi une nouvelle attaque préparée.
-- L’attaquant s’est connecté à l’espace licencié EDEN avec des comptes de licenciés dont il avait obtenu ou deviné les identifiants", explique l'instance dans un communiqué.
-- "Son adresse a été bloquée dès le soir du 12 octobre et notre hébergeur nous a alertés le lendemain matin", a détaillé la Fédération, qui annonce avoir porté plainte.
+- Cybersécurité et Intelligence Artificielle.
 
-## [Analyse trimestrielle des menaces - T3 2026 - Health-ISAC](https://health-isac.org/fr/informations-trimestrielles-sur-les-menaces-au-premier-trimestre-3-a/)  
-*Source : health-isac.org | Publication : 2026-10-22*
+## [PwC confirme un incident de <b>cybersécurité</b> concernant les dossiers de formation de ses ...](https://www.boursorama.com/bourse/actualites-amp/pwc-confirme-un-incident-de-cybersecurite-concernant-les-dossiers-de-formation-de-ses-collaborateurs-de48bc9a952b686dad47e8a23004d6f8)  
+*Source : boursorama.com | Publication : 2026-10-23*
 
-- Analyse trimestrielle des menaces – T3 2026 Enregistrement du webinaire du 21 octobre 2026 Le paysage de la cybersécurité et de la sécurité physique du secteur de la santé évolue rapidement, et il est crucial de devancer les menaces émergentes.
-- Cette session inaugurale, riche d'enseignements, du Bulletin trimestriel sur les menaces présente des mises à jour et des analyses d'experts pour aider le secteur de la santé à rester informé et préparé.
-- Le webinaire trimestriel d'ISAC sur les menaces dans le secteur de la santé offre un aperçu actuel des cybermenaces et des menaces physiques qui pèsent sur ce secteur.
-- Sujets couverts: Niveau mensuel de cybermenace - Le signal d'alarme du secteur de la santé au troisième trimestre : au cœur de la vague de menaces ShinyHunters - Sécurisation des dispositifs médicaux et suivi des indicateurs - Perspectives des risques mondiaux - Hiver El Niño : Comment les températures record du Pacifique impacteront l'hiver à venir - Mise à jour juridique et réglementaire : Règle de sécurité CIRCIA et HIPAA - Tendances mondiales en matière de ransomware - Ressources mentionnées dans le webinaire : Diapositives de webinaire Rapport : Le rythme cardiaque du secteur de la santé – T3 2026 Livre blanc : Normes de sécurité des technologies médicales Livre blanc : Des indicateurs au sens Ressources et actualités connexes - Le fossé du contrôle : comment les organisations peuvent reprendre le contrôle à l'ère de l'IA de pointe - Indicateur de santé du secteur de la santé ISAC – 3e trimestre 2026 - Perspectives mondiales sur la confiance numérique à l'horizon 2027 : Guide pratique et conclusions à l'intention des dirigeants - Attaques avancées contre les outils et applications d'IA générale embarqués : ce qu'il faut surveiller - Rapport Censys sur l'état d'Internet 2026 - Tribune libre : Quand un hôpital ne parvient pas à réparer une machine, quel est le plan de secours ?.
+- PwC confirme un incident de cybersécurité concernant les dossiers de formation de ses collaborateurs information fournie par Reuters 23/10/2026 à 18:19 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par AJ Vicens PwC a déclaré vendredi avoir pris connaissance d’un incident de cybersécurité impliquant un prestataire tiers chargé d’héberger les dossiers de formation des employés de l’entreprise, au lendemain d’une revendication d’un groupe de cyber-extorsion affirmant avoir dérobé 590 gigaoctets de données de l’entreprise.
+- * Un porte-parole international de PwC a déclaré: “Le site concerné ne contient ni données clients, ni données personnelles sensibles, ni informations financières.
+- Dès que nous avons eu connaissance de cet incident, nous avons agi rapidement pour sécuriser l’environnement et mener un examen approfondi.”.
+- * Cet incident “n’a aucune incidence sur notre réseau ni sur aucune de nos activités”, a précisé le porte-parole.
 
-## [Faille majeure de <b>cybersécurité</b>: de nombreux sites web sont encore vulnérables](https://www.pesesurstart.com/2026/10/22/faille-majeure-de-cybersecurite-de-nombreux-sites-web-sont-encore-vulnerables)  
-*Source : pesesurstart.com | Publication : 2026-10-22*
+## [AT&amp;T et T-Mobile renforcent les mesures de contrôle en matière d'IA alors que la mise en ...](https://www.boursorama.com/bourse/actualites-amp/at-t-et-t-mobile-renforcent-les-mesures-de-controle-en-matiere-d-ia-alors-que-la-mise-en-place-de-reseaux-autonomes-n-est-pas-pour-demain-ea855a9a24dfec808bb6f028e453609d)  
+*Source : boursorama.com | Publication : 2026-10-23*
 
-- Faille majeure de cybersécurité: de nombreux sites web sont encore vulnérables Si plusieurs sites internet ont colmaté mercredi la faille majeure décelée par le programme PHP, d’autres tardent à effectuer la mise à jour et pourraient être indisponibles au cours des prochains jours.
-- • À lire aussi : Sites web perturbés dans le monde entier : comment l’IA a-t-elle trouvé les failles ?.
-- • À lire aussi : « Vulnérabilité critique »: de nombreux sites web inaccessibles en raison d’une importante faille La Fondation PHP, qui gère le déploiement de cette technologie utilisée par la majorité des sites internet du côté de ce serveur, a avisé le 22 octobre qu’une importante faille avait été décelée et qu’une mise à jour avait été préparée pour y remédier.
-- Cela a fait en sorte que de nombreux sites internet, donc ceux de la STM, de la SAQ et de Statistique Canada, ont été fermés par mesure préventive mercredi, le temps de s’assurer qu’ils étaient protégés.
+- AT&T et T-Mobile renforcent les mesures de contrôle en matière d'IA alors que la mise en place de réseaux autonomes n'est pas pour demain information fournie par Reuters 23/10/2026 à 18:18 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par Mehnaz Yasmin et Harshita Mary Varghese Les géants des télécommunications AT&T T.N et T-Mobile TMUS.O investissent pour protéger les données de leurs clients et leur infrastructure réseau contre les nouvelles menaces de cybersécurité, alors que l'intégration de l'IA s'accélère, même si les réseaux entièrement autonomes ne verront pas le jour avant plusieurs années, ont déclaré des dirigeants de ces entreprises à Reuters.
+- À mesure que les agents d’IA automatisent les flux de travail et l’analyse des données, réduisant ainsi l’intervention humaine, les préoccupations en matière de cybersécurité s’intensifient dans tous les secteurs concernant l’accès aux informations sensibles et aux logiciels connectés.
+- Pour les opérateurs de télécommunications, qui gèrent d’énormes quantités de données clients et des infrastructures de communication critiques, les vulnérabilités des systèmes d’IA ou des logiciels tiers pourraient entraîner des conséquences allant des fuites de données aux perturbations du réseau. «.
+- Oui, nous augmentons nos investissements dans nos capacités de surveillance et de réaction », a déclaré John Saw, directeur technique de T-Mobile, lors du Global Markets Forum de Reuters.
 
-## [<b>Cybersécurité</b> : «L'IA aide à trouver des failles cachées, et peut-être hélas que le pire est à ...](https://www.europe1.fr/technologies/cybersecurite-lia-aide-a-trouver-des-failles-cachees-et-peut-etre-helas-que-le-pire-est-a-venir-alerte-le-hackeur-ethique-saxx-1173219)  
-*Source : europe1.fr | Publication : 2026-10-22*
+## [PwC confirme un incident de <b>cybersécurité</b> impliquant des données de formation de ses employés](https://www.zonebourse.com/actualite-bourse/pwc-confirme-un-incident-de-cybersecurite-impliquant-des-donnees-de-formation-de-ses-employes-ce785cdfdd8af726)  
+*Source : zonebourse.com | Publication : 2026-10-23*
 
-- Invité d'Europe 1 Bonjour, l’expert en cybersécurité Clément Domingo, plus connu sous le pseudonyme SaxX, estime que l’intelligence artificielle est en train de changer profondément la détection des vulnérabilités informatiques.
-- Selon lui, les prochaines semaines pourraient voir émerger davantage de failles critiques capables de fragiliser des pans entiers du numérique.
-- Pour Clément Domingo, l’alerte qui a conduit plusieurs sites publics à être temporairement mis en maintenance marque peut-être le début d’une nouvelle période pour la cybersécurité mondiale.
-- Invité d'Europe 1 Bonjour ce jeudi, l’expert affirme que l’intelligence artificielle est désormais capable d’identifier des failles jusque-là invisibles pour les équipes humaines.
+- PwC a déclaré vendredi avoir connaissance d’un incident de cybersécurité impliquant un prestataire tiers utilisé pour héberger les dossiers de formation des employés de l’entreprise, au lendemain de la revendication par un groupe de cyberextorsion du vol de 590 gigaoctets de données de l’entreprise.
+- o Un porte-parole mondial de PwC a déclaré que « le site concerné n’héberge pas de données clients, de données personnelles sensibles ni d’informations financières.
+- Dès que nous avons eu connaissance de cet incident, nous avons rapidement pris des mesures pour sécuriser l’environnement et mener un examen approfondi ».
+- o L’incident « n’a aucune incidence sur notre réseau ni sur aucune de nos activités », a ajouté le porte-parole.
