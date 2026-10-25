@@ -1,149 +1,153 @@
-# Résumés – 2026-10-23
+# Résumés – 2026-10-24
 
 
-## [UAC-0099 et Sandworm déploient la porte dérobée MythicRatatoskr via Yggdrasil](https://socprime.com/fr/active-threats/uac-0099-et-sandworm-deploient-la-porte-derobee-mythicratatoskr-via-yggdrasil/)  
-*Source : socprime.com | Publication : 2026-10-23*
+## [WhatsApp en Afrique : piratages et arnaques se multiplient - France 24](https://www.france24.com/fr/vidéo/20261024-whatsapp-en-afrique-piratages-et-arnaques-se-multiplient)  
+*Source : france24.com | Publication : 2026-10-24*
 
-- UAC-0099 et Sandworm déploient la porte dérobée MythicRatatoskr via Yggdrasil Detection stack.
-- - Alert -.
-- - Query - Résumé Les affiliés associés aux groupes de ransomware INC et The Gentlemen exploitent un écosystème d’intrusion assisté par IA pour automatiser la reconnaissance, la génération de commandes et la gestion des données.
-- Les opérateurs utilisent un cadre personnalisé appelé Phantom ainsi que des LLM commerciaux pour soutenir des intrusions à grande échelle.
+- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
+- Vidéo Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
 
-## [INC et The Gentlemen <b>Ransomware</b> dévoilent une infrastructure d'attaque alimentée par l'IA](https://socprime.com/fr/active-threats/inc-et-the-gentlemen-ransomware-devoilent-une-infrastructure-d-attaque-alimentee-par-l-ia/)  
-*Source : socprime.com | Publication : 2026-10-23*
+## [WhatsApp en Afrique : piratages et arnaques se multiplient - 24/10/2026 à 22:21](https://www.boursorama.com/videos/actualites-amp/whatsapp-en-afrique-piratages-et-arnaques-se-multiplient-e5c16a2eb788b4adec09ec447eeeface)  
+*Source : boursorama.com | Publication : 2026-10-24*
 
-- INC et The Gentlemen Ransomware dévoilent une infrastructure d’attaque alimentée par l’IA Detection stack.
-- - Alert -.
-- - Query - Résumé Des affiliés liés aux groupes de rançongiciels INC et The Gentlemen utilisent un écosystème d’intrusion piloté par l’IA pour automatiser la reconnaissance, la génération de commandes et le tri des données.
-- Les opérateurs s’appuient sur un cadre personnalisé appelé Phantom, associé à des LLM commerciaux pour soutenir des intrusions à grande échelle.
+- WhatsApp en Afrique : piratages et arnaques se multiplient information fournie par France 24 24/10/2026 à 22:21 En Afrique, WhatsApp est devenu un outil essentiel pour communiquer, travailler et faire du commerce.
+- Mais les tentatives de piratage et les escroqueries inquiètent de plus en plus les utilisateurs.
+- Au Sénégal, la police a récemment alerté sur des fraudes impliquant des liens malveillants.
+- Au Maroc, des spécialistes de la cybersécurité mettent en garde contre le détournement de comptes et les usurpations d'identité.
 
-## [Cyberattaques en France : Lecornu annonce un renforcement massif de la <b>cybersécurité</b> de l'État](https://www.aa.com.tr/fr/politique/cyberattaques-en-france-lecornu-annonce-un-renforcement-massif-de-la-cybersécurité-de-l-état/3923874)  
-*Source : aa.com.tr | Publication : 2026-10-23*
+## [C'est quoi l'histoire? – EP8. <b>Cybersécurité</b> au Maroc: sommes-nous vraiment protégés?](https://h24info.ma/maroc/societe/cest-quoi-lhistoire-cybersecurite/)  
+*Source : h24info.ma | Publication : 2026-10-24*
 
-- Après plusieurs fuites de données touchant des millions de Français, le gouvernement mobilise financements, réorganisation et intelligence artificielle face à une menace jugée stratégique.
+- Le Cameroun affronte le Maroc, le 16 novembre prochain à Casablanca pour le compte des… C’est quoi l’histoire?.
+- – EP8.
+- Cybersécurité au Maroc: sommes-nous vraiment protégés?.
+- Publié leÀ l’heure où les usages numériques se multiplient, les cybermenaces se font de plus en plus pressantes.
 
-## [Les PME, touchées de plein fouet par les failles critiques PHP](https://www.pme.ch/actualites/faille-de-securite-un-expert-met-en-garde-contre-des-dommages-importants-pour-les-pme/fcj4d72)  
-*Source : pme.ch | Publication : 2026-10-23*
+## [Interpol : 1 462 arrestations et des réseaux de blanchiment crypto démantelés en Afrique](https://fr.tradingview.com/news/cointribune:ad804c802b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-10-24*
 
-- Bonjour, Une dangereuse faille de sécurité paralyse des milliers de sites web suisses.
-- Pour les entreprises touchées, la facture peut vite grimper.
-- L’expert en cybersécurité Nicolas Mayencourt met en garde contre des pertes qui pourraient atteindre plusieurs millions de francs et explique comment les PME peuvent se protéger.
-- Nathalie Benn Publicité Publicité Publicité Publicité.
+- Interpol : 1 462 arrestations et des réseaux de blanchiment crypto démantelés en Afrique L’opération Serengeti III marque une nouvelle étape dans la lutte contre la cybercriminalité en Afrique.
+- Coordonnée par Interpol, cette campagne internationale a conduit à 1 462 arrestations et permis de récupérer plus de 105 millions de dollars.
+- Au Nigeria, une enquête a notamment révélé l’utilisation de transactions en crypto pour blanchir une partie des fonds issus d’une escroquerie à l’investissement.
+- Les autorités ont également ciblé des réseaux frauduleux et des installations illégales de minage.
 
-## [Veeam 13.1 vs Rubrik vs Cohesity : Anti-<b>Ransomware</b> [2026] - Tech Insider](https://tech-insider.org/fr/veeam-vs-rubrik-vs-cohesity-sauvegarde-immuable-2026/)  
-*Source : tech-insider.org | Publication : 2026-10-23*
+## [Cyber &amp; Télécoms - Réseaux, services, données : les défis d'une <b>cybersécurité</b> multi-dimensionnelle](https://cyberschool.univ-rennes.fr/a-propos/nos-evenements/les-jeudis-cyber/cyber-telecoms-reseaux-services-donnees-les-defis-dune-cybersecurite-multi-dimensionnelle/)  
+*Source : cyberschool.univ-rennes.fr | Publication : 2026-10-24*
 
-- Veeam, Rubrik ou Cohesity en 2026 ?.
-- Comparatif prix, restauration et protection ransomware : Veeam gagne sur le rapport qualité-prix.
+- Cyber & Télécoms – Réseaux, services, données : les défis d’une cybersécurité multi-dimensionnelle 5 NOVEMBRE 2026 | 18H30-20H00 | Rennes | Sur inscription Le « before » Le Cyber Twin est un jumeau numérique sémantique qui offre aux opérateurs télécoms une vision unifiée et contextualisée de leurs réseaux, de leurs services et de leur sécurité.
+- En rapprochant les équipes en charge des opérations réseau (NOC) et celles dédiées à la cybersécurité (SOC), il facilite la détection, enrichit l’analyse des incidents et contribue à optimiser leur traitement.
+- Stéphane Lagain, expert en Telecom Network Intelligence, AIOps & Analytics, nous présentera cette approche innovante.
+- La table ronde Appels, SMS, applications, facturation, géolocalisation… Les opérateurs télécoms traitent des données hétérogènes, sensibles et privées au cœur de réseaux interconnectés à l’échelle nationale et internationale.
 
-## [« La situation va empirer » : après le chaos PHP, Anthropic prédit d'autres turbulences sur l ...](https://www.01net.com/actualites/la-situation-va-empirer-apres-le-chaos-php-anthropic-predit-dautres-turbulences-sur-linternet-mondial.html)  
-*Source : 01net.com | Publication : 2026-10-23*
+## [Faille PHP : plus de 2,2 millions de services vulnérables en France - Blog FrenchBreaches](https://frenchbreaches.com/blog/faille-php-plus-de-22-millions-de-services-vulnerables-en-france)  
+*Source : frenchbreaches.com | Publication : 2026-10-24*
 
-- Ce mardi 20 octobre 2026, deux failles critiques ont été découvertes dans le langage informatique PHP qui est utilisé par environ 70 % des sites à travers le monde.
-- La situation s’est révélée être un véritable casse-tête pour l’Internet mondial, tant le langage PHP est omniprésent, mais aussi souvent invisible.
-- Certains sites ont d’ailleurs pris la décision de se mettre tout simplement hors ligne, à l’image d’Orange, qui a suspendu temporairement l’accès à certains de ses sites et applications par mesure de précaution.
-- L’Internet mondial a donc connu une période de crise, et cela ne devrait pas s’arranger si l’on en croit les propos de Jason Clinton, responsable adjoint de la sécurité des systèmes d’information chez Anthropic.
+- Alerte cybersécurité : plus de 2,2 millions de services PHP potentiellement vulnérables en France CYBERSÉCURITÉ — Une faille qui touche des millions de services dans le monde, dont plus de 2,2 millions en France.
+- Les chiffres publiés par Censys donnent la mesure d'une exposition massive, alors que de nombreux systèmes n'ont pas encore été mis à jour.Une menace invisible qui concerne une grande partie du Web Des millions de services accessibles sur Internet pourraient être concernés par des vulnérabilités affectant PHP, l'un des langages informatiques les plus utilisés pour faire fonctionner les sites web.
+- Selon les données affichées par la plateforme spécialisée Censys, 32 970 807 services PHP dans le monde utiliseraient encore une version potentiellement vulnérable.
+- La France figure parmi les pays les plus exposés, avec 2 212 446 services concernés, soit 86,7 % des services français dont la version PHP a pu être identifiée dans cette analyse.
 
-## [Arabie Saoudite : Deux Bangladais Exécutés Pour Un « Acte Immoral » Dans Une Mosquée](https://www.i24news.tv/fr/actu/international/moyen-orient/artc-arabie-saoudite-deux-bangladais-executes-pour-un-acte-immoral-dans-une-mosquee)  
-*Source : i24news.tv | Publication : 2026-10-23*
+## [Faille Brotli en Python (CVE-2026-111497), vérifier et corriger - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/26937/faille-brotli-python-cve-2026-111497-verifier-corriger)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-24*
 
-- i24NEWS - International - Moyen-Orient - Arabie saoudite : deux Bangladais exécutés pour « acte immoral » dans une mosquée - Arabie saoudite : deux Bangladais exécutés pour « acte immoral » dans une mosquée Selon des documents consulaires, les deux ressortissants étaient détenus depuis août 2023, dans le cadre d’accusations distinctes liées à la cybercriminalité et à l’adultère Le 14 octobre, l’Arabie saoudite a exécuté deux ressortissants bangladais, Nazrul Islam Abdul Basir et Siti Akhtar, accusés d’avoir porté atteinte au caractère sacré d’une mosquée de La Mecque.
-- Selon le ministère saoudien de l’Intérieur, elles ont été condamnées en vertu du ta’zir, un dispositif du droit islamique permettant aux juges de déterminer certaines sanctions.
-- Les autorités n’ont toutefois précisé ni la nature exacte des actes reprochés, ni la mosquée concernée.
-- Sur les réseaux sociaux, l’affaire a pris une dimension considérable.
+- Faille Brotli en Python (CVE-2026-111497), vérifier et corriger La faille Brotli CVE-2026-111497 touche aussi Python.
+- Les paquets Brotli et brotlicffi jusqu'à la 1.2.0 sont vulnérables.
+- Comment vérifier et mettre à jour avec pip.
+- 1.Quels paquets Python sont vulnérables à CVE-2026-111497 ?.
 
-## [<b>Cybersécurité</b> aux TNO, « arrêtez, vérifiez, signalez - RCI Radio Canada International](https://www.rcinet.ca/regard-sur-arctique/2026/10/23/cybersecurite-aux-tno-arretez-verifiez-signalez/)  
-*Source : rcinet.ca | Publication : 2026-10-23*
+## [L'Espagne découvre un appel djihadiste à attaquer la police et les manifestants en Europe](https://www.lesoir.be/778805/article/2026-10-23/lespagne-decouvre-un-appel-djihadiste-attaquer-la-police-et-les-manifestants-en)  
+*Source : lesoir.be | Publication : 2026-10-24*
 
-- Cybersécurité aux TNO, « arrêtez, vérifiez, signalez » Par Inés Figuigui – L’Aquilon Pendant tout le mois d’octobre, des ateliers de sensibilisation aux cybermenaces sont proposés au Carrefour carrières de Yellowknife.
-- L’objectif : protéger les données personnelles des habitant.e.s des TNO.
-- Dans le cadre du Mois de la sensibilisation à la cybersécurité, le Carrefour carrières du Cdétno (Conseil de développement économique des TNO) offre des ateliers bilingues chaque mercredi d’octobre pour apprendre à protéger ses données personnelles.
-- Au programme de la première séances : comment repérer les tentatives d’hameçonnage ?.
+- Cet avertissement figure dans un document interne du Bureau de coordination de la cybersécurité (OCC), auquel El País a eu accès.
 
-## [« L'IA peut-elle aussi nous protéger de l'IA ? » : 3/10, la note de la semaine par Dominique ...](https://www.lesechos.fr/idees-debats/editos-analyses/lia-peut-elle-aussi-nous-proteger-de-lia-310-la-note-de-la-semaine-par-dominique-seux-2258851)  
-*Source : lesechos.fr | Publication : 2026-10-23*
+## [Comment utiliser le skill security-audit de Cloudflare sur vos projets - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/26917/skill-security-audit-cloudflare-comment-utiliser)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-24*
 
-- Cybersécurité · Éditos & Analyses.
-- De nombreux sites internet, dont.
+- Comment utiliser le skill security-audit de Cloudflare sur vos projets Comment installer et lancer le skill security-audit de Cloudflare avec Claude Code ou Codex pour auditer votre code, lire le rapport et mesurer ses limites.
+- 1.Ce qu'est le skill security-audit et d'où il vient - 2.Comment fonctionne un audit avec le skill ?.
+- - 3.Comment installer le skill - 4.Comment lancer le premier audit - Mode guide ou audit complet - Où atterrissent les fichiers et ce que l'agent consigne - Profils quick, standard et deep - Limiter le périmètre et fixer un budget - 5.Ce que contient le dossier de l'audit - 6.Pourquoi une seule exécution ne suffit pas - 7.Bac à sable, données et limites pour l'utilisateur - 8.Pourquoi l'utiliser sur tous les projets que vous développez - 9.Questions fréquentes - 10.Par où commencer - 11.Notez cet article - 12.Articles Connexes - 13.Recherchez-vous un Ingénieur Logiciel?.
+- - Le skill security-audit de Cloudflare est un paquet d'instructions open source (licence MIT) qui transforme un agent de code en auditeur de sécurité.
 
-## [Radar gouvernement numérique 2026 : les résultats - Brussels-Capital Region](https://be.brussels/fr/propos-de-la-region/radar-gouvernement-numerique-2026-les-resultats)  
-*Source : be.brussels | Publication : 2026-10-23*
+## [Des centaines de milliers de Belges touchés par des fuites de données - LaLibre.be](https://www.lalibre.be/dernieres-depeches/2026/10/24/des-centaines-de-milliers-de-belges-touches-par-des-fuites-de-donnees-G2JOHCZRTNCLRLYBKZXOT4VP3E/)  
+*Source : lalibre.be | Publication : 2026-10-24*
 
-- Radar gouvernement numérique 2026 : les résultats Par rapport à 2025, le Radar marque un changement de perspective : la question n’est plus « Quelle technologie est intéressante ?.
-- », mais « Quelle technologie pouvons-nous mettre en œuvre de manière responsable ?.
-- ».
-- Cybersécurité et IA en tête des priorités La cybersécurité (74 % pour l’action), le cadre d’utilisation de l’IA générative (72 %), les compétences numériques et en IA (67 %) et la réglementation de l’IA ressortent nettement.
+- Des centaines de milliers de Belges touchés par des fuites de données Au moins 47 entreprises et institutions actives en Belgique ont été touchées par une fuite de données depuis le début 2026, selon le résultat d'une veille du journal L'Echo sur le dark web croisée avec celle de la société Fox&Fish Cyberdefense.
+- Le Centre pour la cybersécurité Belgique (CCB) confirme le résultat obtenu.
+- Publié le 24-10-2026 à 07h34 - à Bruxelles, Belgique - Selon L'Echo, communes, hôpitaux, agences de voyages et entreprises figurent parmi les entités concernées.
+- Le CCB avait comptabilisé 40 entités touchées sur l'ensemble de l'année 2025, ce qui montre que le phénomène s'accélère.
 
-## [<b>Cybersécurité</b> : Plusieurs sites officiels tunisiens suspendus après la découverte d'une faille ...](https://www.webdo.tn/fr/actualite/national/cybersecurite-plusieurs-sites-officiels-tunisiens-suspendus-apres-la-decouverte-dune-faille-mondiale/405990/)  
-*Source : webdo.tn | Publication : 2026-10-23*
+## [Top 10 des meilleurs cabinets de <b>cybersécurité</b> en France (2027)](https://www.planetegrandesecoles.com/meilleurs-cabinets-cybersecurite-france)  
+*Source : planetegrandesecoles.com | Publication : 2026-10-24*
 
-- Plusieurs organismes publics tunisiens ont annoncé la suspension temporaire de leurs sites internet à la suite de la découverte d’une faille de cybersécurité signalée à l’échelle mondiale.
-- Après la Société tunisienne de l’électricité et du gaz (STEG), qui a annoncé cette mesure le jeudi 22 octobre 2026, l’Agence tunisienne de coopération technique (ATCT) a fait de même vendredi 23 octobre, invoquant la nécessité de protéger ses systèmes informatiques et les données de ses utilisateurs.
-- Dans un communiqué publié sur sa page officielle Facebook, l’ATCT a indiqué que la suspension de l’accès à son site constituait une mesure préventive destinée à éviter les risques liés à une éventuelle exploitation de cette vulnérabilité.
-- L’agence a précisé qu’elle informerait le public dès le rétablissement de l’accès et le retour de ses services à leur fonctionnement normal.
+- Classement des 10 meilleurs cabinets de cybersécurité en France ; 3, Airbus Protect, Blagnac, 1985, Audit, SOC (PASSI RGS et LPM, PDIS) ; 4, Synacktiv.
 
-## [Coups de filet &amp; sanctions : 9 opérations contre la <b>cybercriminalité</b> du 23 octobre 2026 (dont ...](https://dcod.ch/2026/10/23/coups-de-filet-sanctions-9-operations-contre-la-cybercriminalite-du-23-octobre-2026-dont-interpol/)  
-*Source : dcod.ch | Publication : 2026-10-23*
+## [Le PCF victime d'une fuite de données : près de 190 000 personnes potentiellement concernées](https://actu.orange.fr/politique/le-pcf-victime-d-une-fuite-de-donnees-pres-de-190-000-personnes-potentiellement-concernees-6medias-CNT000002tn8Qu.html)  
+*Source : actu.orange.fr | Publication : 2026-10-24*
 
-- Faits marquants de la semaine Des agences de police et des partenaires dans le monde ont perturbé un vaste écosystème cybercriminel lié à plus d’un milliard de messages malveillants, visant plus de 75 000 organisations dans 150 pays.
-- - Des autorités de 17 pays en Amérique latine et en Europe ont arrêté 95 suspects lors d’une opération coordonnée par INTERPOL contre la diffusion de contenus pédocriminels via des groupes de messagerie en ligne.
-- - Aux États-Unis, un dirigeant de YMCO a plaidé coupable : ce réseau sophistiqué de « mules financières » (intermédiaires de transfert d’argent) aidait des pirates à faire sortir des fonds hors du territoire américain, avec environ 15 000 mules.
-- - Le ministère américain de la Justice a inculpé 14 personnes dans une affaire de faux emplois informatiques à distance liée à la Corée du Nord, avec environ 187 ordinateurs saisis et plus de 40 domiciles perquisitionnés au Texas.
+- Le PCF victime d’une fuite de données : près de 190 000 personnes potentiellement concernées © Pexels @Markus Spiske Le Parti communiste français a annoncé vendredi 23 octobre avoir été victime d’une fuite de données personnelles.
+- Selon le site French Breaches, près de 190 000 adhérents et sympathisants pourraient être concernés.
+- Le parti prévoit de déposer plainte.
+- Une période à haut risque de cyberattaques.
 
-## [Après la faille PHP, les développeurs du monde entier appelés à être plus vigilants et pro ...](https://www.bfmtv.com/tech/cybersecurite/apres-la-faille-php-les-developpeurs-du-monde-entier-appeles-a-etre-plus-vigilants-et-pro-actifs-dans-les-mises-a-jour_AV-202610230780.html)  
-*Source : bfmtv.com | Publication : 2026-10-23*
+## [<b>Cybersécurité</b> : cinq réflexes pour se protéger des cyberattaques liées à l'IA - 2M](https://2m.ma/fr/news/Cybersécurité-cinq-réflexes-pour-se-protéger-des-cyberattaques-20261024)  
+*Source : 2m.ma | Publication : 2026-10-24*
 
-- "Les pirates utilisent l'IA jour et nuit": des impôts aux ministères, pourquoi le web français s'est arrêté net À 16h le 21 octobre 2026, un vent de panique a soufflé sur l'internet mondial.
-- De nombreux sites web sont entrés dans une maintenance d'urgence après la découverte de deux failles critiques dans le langage de programmation PHP, suivie de la publication d'un correctif moins de 24 heures après la fuite.
-- Ces vulnérabilités permettent de prendre le contrôle d'un serveur à distance, sans authentification, afin d'y injecter un logiciel malveillant, et donc d'atteindre directement des internautes.
-- La menace a été prise très au sérieux par la NSA, l'agence de renseignement américaine, comme par les agences gouvernementales du monde entier.
+- Daniel Gardham, maître de conférences au Centre de cybersécurité de l'Université du Surrey, souligne que l'intelligence artificielle accélère la.
 
-## [<b>Cybersécurité</b> : plusieurs organismes publics tunisiens suspendent temporairement leurs sites web](https://www.lapresse.tn/2026/10/23/cybersecurite-plusieurs-organismes-publics-tunisiens-suspendent-temporairement-leurs-sites-web/)  
-*Source : lapresse.tn | Publication : 2026-10-23*
+## [des centaines de milliers de Belges concernés par des fuites de données - BruxellesToday](https://www.bruxellestoday.be/actualite/photos-de-famille-adresses-comptes-bancaires-des-centaines-de-milliers-de-belges-concernes-par-des-fuites-de-donnees.html)  
+*Source : bruxellestoday.be | Publication : 2026-10-24*
 
-- Cybersécurité : plusieurs organismes publics tunisiens suspendent temporairement leurs sites web Plusieurs organismes publics tunisiens ont suspendu temporairement l’accès à leurs sites internet à la suite de la découverte d’une faille de sécurité informatique à l’échelle mondiale, a rapporté la Radio nationale tunisienne vendredi 23 octobre 2026.
-- L’Agence tunisienne de coopération technique (ATCT) a annoncé la suspension provisoire de son site web à titre préventif.
-- Cette mesure vise à protéger son système numérique et les données de ses utilisateurs contre les risques potentiels liés à l’exploitation de cette vulnérabilité.
-- L’agence a indiqué qu’elle informerait le public dès la reprise de ses services en ligne.
+- Photos de famille, adresses, comptes bancaires : des centaines de milliers de Belges concernés par des fuites de données Depuis janvier 2026, au moins 47 entreprises et institutions actives en Belgique ont été touchées.
+- Des photos de famille, des numéros de compte, des adresses ou des dates de naissance qui se retrouvent entre les mains de pirates.
+- Des centaines de milliers de Belges sont concernés par des fuites de données, rapporte L’Echo.
+- Depuis janvier 2026, au moins 47 entreprises et institutions actives en Belgique ont été touchées, contre 40 sur toute l’année 2025.
 
-## [<b>Cybercriminalité</b> en Afrique : Interpol interpelle 1 462 suspects dans 21 pays - Anadolu Ajansı](https://www.aa.com.tr/fr/afrique/cybercriminalité-en-afrique-interpol-interpelle-1-462-suspects-dans-21-pays/4097778)  
-*Source : aa.com.tr | Publication : 2026-10-23*
+## [Vous avez gardé Popcorn Time sur votre PC ? Des pirates pourraient en profiter](https://www.phonandroid.com/vous-avez-garde-popcorn-time-sur-votre-pc-des-pirates-pourraient-en-profiter.html)  
+*Source : phonandroid.com | Publication : 2026-10-24*
 
-- L’opération s’est déroulée entre le 29 juin et le 31 août 2026.
+- Vous avez gardé Popcorn Time sur votre PC ?.
+- Des pirates pourraient en profiter Le vénérable service de streaming illégal Popcorn Time, inactif depuis plusieurs années, pourrait être utilisé par des pirates.
+- Des chercheurs en cybersécurité révèlent que l’application, toujours présente sur de nombreux appareils, regorgerait de dangers.
+- Le streaming illégal est tout d’abord, a-t-on besoin de le rappeler… illégal.
 
-## [Rochefort-du-Gard. <b>Cybersécurité</b> : la gendarmerie à la rencontre des habitants](https://www.ledauphine.com/societe/2026/10/23/cybersecurite-la-gendarmerie-a-la-rencontre-des-habitants)  
-*Source : ledauphine.com | Publication : 2026-10-23*
+## [Une fuite présumée chez LFI expose des données sur le porte-à-porte électoral - Clubic](https://www.clubic.com/actualite-635818-une-fuite-presumee-chez-lfi-expose-des-donnees-sur-le-porte-a-porte-electoral.html)  
+*Source : clubic.com | Publication : 2026-10-24*
 
-- Rochefort-du-Gard Cybersécurité : la gendarmerie à la rencontre des habitants Arnaques en ligne, piratage de comptes, tentatives de fraude… Face à la multiplication des risques numériques, la... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
-- Se connecter ou créer un compteLe Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
-- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Dauphiné Libéré, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
-- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant LDLABOWEB@ledauphine.com ou consulter les liens suivants : Protection des données, CGU du site et Contact.
+- Les militants insoumis consignent chacun de leurs passages de porte-à-porte dans les outils numériques du mouvement.
+- Un pirate vient de diffuser gratuitement plus d’un million de lignes tirées de ces relevés, dont certains remontent à cette semaine.
+- Encore lui.
+- ChimeraZ a déposé les fichiers ce samedi sur le forum PwnForums.
 
-## [<b>Cybersécurité</b> et Intelligence Artificielle - Actualité illiwap de Mairie de Lézigneux](https://station.illiwap.com/fr/public/42122/actu/cybersecurite-et-intelligence-artificielle)  
-*Source : station.illiwap.com | Publication : 2026-10-23*
+## [Des centaines de milliers de Belges touchés par des fuites de données: &quot;Avec l'IA, le volume ...](https://www.dhnet.be/actu/new-tech/2026/10/24/des-centaines-de-milliers-de-belges-touches-par-des-fuites-de-donnees-avec-lia-le-volume-de-piratage-des-donnees-va-se-multiplier-GOS2VEH3TZDGVKX5Z4HAFL5HPE/)  
+*Source : dhnet.be | Publication : 2026-10-24*
 
-- Cybersécurité et Intelligence Artificielle.
+- Des centaines de milliers de Belges touchés par des fuites de données: "Avec l'IA, le volume de piratage des données va se multiplier" Au moins 47 entreprises et institutions actives en Belgique ont été touchées par une fuite de données depuis le début 2026, selon le résultat d'une veille du journal L'Echo sur le dark web croisée avec celle de la société Fox&Fish Cyberdefense.
+- Le Centre pour la cybersécurité Belgique (CCB) confirme le résultat obtenu.
+- Publié le 24-10-2026 à 07h50 - Selon L'Echo, communes, hôpitaux, agences de voyages et entreprises figurent parmi les entités concernées.
+- Le CCB avait comptabilisé 40 entités touchées sur l'ensemble de l'année 2025, ce qui montre que le phénomène s'accélère.
 
-## [PwC confirme un incident de <b>cybersécurité</b> concernant les dossiers de formation de ses ...](https://www.boursorama.com/bourse/actualites-amp/pwc-confirme-un-incident-de-cybersecurite-concernant-les-dossiers-de-formation-de-ses-collaborateurs-de48bc9a952b686dad47e8a23004d6f8)  
-*Source : boursorama.com | Publication : 2026-10-23*
+## [Popcorn Time : des millions d'ordinateurs exposés à un piratage massif - FrenchBreaches](https://frenchbreaches.com/blog/popcorn-time-des-millions-dordinateurs-exposes-a-un-piratage-massif)  
+*Source : frenchbreaches.com | Publication : 2026-10-24*
 
-- PwC confirme un incident de cybersécurité concernant les dossiers de formation de ses collaborateurs information fournie par Reuters 23/10/2026 à 18:19 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par AJ Vicens PwC a déclaré vendredi avoir pris connaissance d’un incident de cybersécurité impliquant un prestataire tiers chargé d’héberger les dossiers de formation des employés de l’entreprise, au lendemain d’une revendication d’un groupe de cyber-extorsion affirmant avoir dérobé 590 gigaoctets de données de l’entreprise.
-- * Un porte-parole international de PwC a déclaré: “Le site concerné ne contient ni données clients, ni données personnelles sensibles, ni informations financières.
-- Dès que nous avons eu connaissance de cet incident, nous avons agi rapidement pour sécuriser l’environnement et mener un examen approfondi.”.
-- * Cet incident “n’a aucune incidence sur notre réseau ni sur aucune de nos activités”, a précisé le porte-parole.
+- Popcorn Time : des millions d'ordinateurs ont échappé à un piratage massif CYBERSÉCURITÉ — Une ancienne version du célèbre logiciel de streaming Popcorn Time présentait une faille capable de transformer des millions d'ordinateurs en cibles potentielles pour les pirates.
+- Des chercheurs en cybersécurité ont pris une décision exceptionnelle : intervenir directement sur les machines concernées pour neutraliser le danger.Un logiciel oublié qui aurait pu devenir une arme pour les pirates Des millions d'ordinateurs à travers le monde auraient pu être compromis à cause d'une faille de sécurité présente dans une ancienne version de Popcorn Time, un logiciel autrefois très populaire pour regarder des films et des séries.
+- La découverte a été rendue publique le 22 octobre 2026 par les chercheurs d'Eye Security, une entreprise spécialisée dans la cybersécurité.
+- Le problème concernait plus précisément Time4Popcorn, une déclinaison non officielle de Popcorn Time, dont certains composants continuaient de fonctionner plusieurs années après l'abandon du projet.
 
-## [AT&amp;T et T-Mobile renforcent les mesures de contrôle en matière d'IA alors que la mise en ...](https://www.boursorama.com/bourse/actualites-amp/at-t-et-t-mobile-renforcent-les-mesures-de-controle-en-matiere-d-ia-alors-que-la-mise-en-place-de-reseaux-autonomes-n-est-pas-pour-demain-ea855a9a24dfec808bb6f028e453609d)  
-*Source : boursorama.com | Publication : 2026-10-23*
+## [Une fuite de données au Parti communiste français touche 190.000 adhérents - BFM](https://www.bfmtv.com/tech/cybersecurite/une-fuite-de-donnees-au-parti-communiste-francais-touche-190-000-adherents_AN-202610240231.html)  
+*Source : bfmtv.com | Publication : 2026-10-24*
 
-- AT&T et T-Mobile renforcent les mesures de contrôle en matière d'IA alors que la mise en place de réseaux autonomes n'est pas pour demain information fournie par Reuters 23/10/2026 à 18:18 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par Mehnaz Yasmin et Harshita Mary Varghese Les géants des télécommunications AT&T T.N et T-Mobile TMUS.O investissent pour protéger les données de leurs clients et leur infrastructure réseau contre les nouvelles menaces de cybersécurité, alors que l'intégration de l'IA s'accélère, même si les réseaux entièrement autonomes ne verront pas le jour avant plusieurs années, ont déclaré des dirigeants de ces entreprises à Reuters.
-- À mesure que les agents d’IA automatisent les flux de travail et l’analyse des données, réduisant ainsi l’intervention humaine, les préoccupations en matière de cybersécurité s’intensifient dans tous les secteurs concernant l’accès aux informations sensibles et aux logiciels connectés.
-- Pour les opérateurs de télécommunications, qui gèrent d’énormes quantités de données clients et des infrastructures de communication critiques, les vulnérabilités des systèmes d’IA ou des logiciels tiers pourraient entraîner des conséquences allant des fuites de données aux perturbations du réseau. «.
-- Oui, nous augmentons nos investissements dans nos capacités de surveillance et de réaction », a déclaré John Saw, directeur technique de T-Mobile, lors du Global Markets Forum de Reuters.
+- Une fuite de données au Parti communiste français touche 190.000 adhérents Le Parti communiste français a annoncé vendredi avoir fait l'objet d’une fuite de données de son fichier des adhérents et sympathisants, qui concernerait 190.000 personnes selon le site spécialisé FrenchBreaches.
+- Le PCF explique dans un communiqué avoir été alerté par l'Agence nationale de la sécurité des systèmes d’information (Anssi), et avoir "immédiatement engagé la sécurisation de ses systèmes, de ses outils informatiques et de ses bases de données".
+- Le PCF n'a pas précisé le nombre de personnes touchées, mais le site spécialisé FrenchBreaches, qui dit avoir été contacté par un individu se présentant comme un pirate informatique affirmant détenir une importante base de données liée au Parti communiste français, a pu avoir accès au fichier, et chiffre à près de 190.000 le nombre de personnes concernées.
+- "Aucune donnée bancaire compromise" Le parti de Fabien Roussel indique qu'il va déposer plainte, et affirme qu'"à ce stade des investigations, aucune donnée bancaire n’a été compromise", car le fichier concerné ne contient ni coordonnées bancaires ni moyens de paiement.
 
-## [PwC confirme un incident de <b>cybersécurité</b> impliquant des données de formation de ses employés](https://www.zonebourse.com/actualite-bourse/pwc-confirme-un-incident-de-cybersecurite-impliquant-des-donnees-de-formation-de-ses-employes-ce785cdfdd8af726)  
-*Source : zonebourse.com | Publication : 2026-10-23*
+## [Comment les entrepreneurs innovent pour transformer les systèmes alimentaires africains ?](https://www.brut.media/afrique/videos/sciences-technologies/technologies/comment-les-entrepreneurs-innovent-pour-transformer-les-systemes-alimentaires-africains)  
+*Source : brut.media | Publication : 2026-10-24*
 
-- PwC a déclaré vendredi avoir connaissance d’un incident de cybersécurité impliquant un prestataire tiers utilisé pour héberger les dossiers de formation des employés de l’entreprise, au lendemain de la revendication par un groupe de cyberextorsion du vol de 590 gigaoctets de données de l’entreprise.
-- o Un porte-parole mondial de PwC a déclaré que « le site concerné n’héberge pas de données clients, de données personnelles sensibles ni d’informations financières.
-- Dès que nous avons eu connaissance de cet incident, nous avons rapidement pris des mesures pour sécuriser l’environnement et mener un examen approfondi ».
-- o L’incident « n’a aucune incidence sur notre réseau ni sur aucune de nos activités », a ajouté le porte-parole.
+- Comment les entrepreneurs innovent pour transformer les systèmes alimentaires africains ?.
+- 🇧🇯 Lauréate du Prix Pierre Castel 2026 au Bénin, Marietta Gonroudobou mise sur la technologie et le numérique pour aider les agriculteurs à mieux produire.
+- Comme elle, d'autres entrepreneurs africains développent des solutions pour améliorer les rendements agricoles.
+- À Cotonou, Brut.
