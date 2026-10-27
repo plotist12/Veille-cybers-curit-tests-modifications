@@ -1,144 +1,144 @@
-# Résumés – 2026-10-25
+# Résumés – 2026-10-26
 
 
-## [Marwan Ouarab, ancien hacker et expert en <b>cybersécurité</b>, revient sur son enquête ... - Instagram](https://www.instagram.com/reel/De6qHAIDeQA/)  
-*Source : instagram.com | Publication : 2026-10-25*
+## [Croissance météorique et risques en pagaille, Anthropic lève le voile avant son entrée en Bourse](https://actu.orange.fr/economie/croissance-meteorique-et-risques-en-pagaille-anthropic-leve-le-voile-avant-son-entree-en-bourse-CNT000002toHAF.html)  
+*Source : actu.orange.fr | Publication : 2026-10-26*
 
-- Marwan Ouarab, ancien hacker et expert en cybersécurité , revient sur son enquête consacrée aux brouteurs d'Anne, victime d'une arnaque au faux Brad.
+- Croissance météorique et risques en pagaille, Anthropic lève le voile avant son entrée en Bourse Anthropic a rendu public lundi son dossier d'introduction en Bourse, attendu depuis plusieurs semaines, qui confirme la croissance météorique de la start-up et insiste sur les nombreux risques liés à l'intelligence artificielle (IA).
+- Le groupe de San Francisco, créateur du chatbot Claude, a réalisé au premier semestre un chiffre d'affaires de 16,3 milliards de dollars, contre 4,6 milliards pour l'ensemble de l'année 2025.
+- Jamais une société n'avait atteint de tels revenus en seulement cinq ans d'existence.
+- Le document ne mentionne pas de valorisation ou de date d'introduction à Wall Street, plusieurs médias faisant état d'une entrée en novembre.
 
-## [Ottawa injecte 165M$ pour les quatre usines régionales de Rio Tinto - Les Affaires](https://www.lesaffaires.com/secteurs/energie-et-ressources-naturelles/ottawa-injecte-165m-pour-les-quatre-usines-regionales-de-rio-tinto/)  
-*Source : lesaffaires.com | Publication : 2026-10-25*
+## [<b>Ransomware</b> SafePay : Tactiques, Impact et Atténuation - SOC Prime](https://socprime.com/fr/active-threats/safepay-ransomware-tactiques-techniques-et-mesures-defensives/)  
+*Source : socprime.com | Publication : 2026-10-26*
 
-- Ottawa injecte 165M$ pour les quatre usines rÃ©gionales de Rio Tinto Trium MÃ©dias|PubliÃ© il y a 11 minutes(Photo: Thomas Fuller / SOPA Images / LightRocket via Getty Images) PrÃ©sente au SaguenayâLac-Saint-Jean ce vendredi, la ministre de lâIndustrie, MÃ©lanie Joly, a annoncÃ© quâOttawa injectait 165Â millions de dollars (M$) sous forme de prÃªt afin de moderniser et amÃ©liorer la productivitÃ© de quatre usines de Rio Tinto dans la rÃ©gion.
-- Selon le Quotidien, cette somme sâajoute Ã un projet de 818M$ global lancÃ© par lâentreprise.
-- Les usines de Vaudreuil, Alma, Grande-Baie et LaterriÃ¨re, sont celles qui bÃ©nÃ©ficieront de cette subvention fÃ©dÃ©rale, constituÃ©e Ã mÃªme lâenveloppe du Fonds de rÃ©ponse stratÃ©gique mis en place par le gouvernement Carney.
-- Cet investissement, qui sauvera 5â000 emplois dans la rÃ©gion selon la ministre, fait Ã©galement partie de la stratÃ©gie canadienne face aux tarifs amÃ©ricains, alors que Mme Joly souhaite rÃ©affirmer la souverainetÃ© Ã©conomique du Canada face Ã son voisin.
+- SafePay Ransomware : Tactiques, Techniques et Mesures Défensives Detection stack.
+- - Alert -.
+- - Query - Résumé Les acteurs du ransomware SafePay ciblent les entreprises et les infrastructures critiques par le vol d’identifiants, le phishing et l’exploitation de vulnérabilités connues.
+- Ils maintiennent la persistance en manipulant les comptes administratifs et s’appuient sur des techniques de squattage pour le déplacement latéral.
 
-## [Patch Tuesday : Windows 11 et Server en 13 Étapes [2026] - shattered.io](https://shattered.io/fr/patch-tuesday-windows-11-server-2025-tutoriel-2026/)  
-*Source : shattered.io | Publication : 2026-10-25*
+## [Burkina : 9 milliards de F de pertes liées à la <b>cybercriminalité</b> - APAnews](https://fr.apanews.net/security/burkina-9-milliards-de-fcfa-de-pertes-liees-a-la-cybercriminalite/)  
+*Source : fr.apanews.net | Publication : 2026-10-26*
 
-- Le Patch Tuesday d’octobre 2026 a battu tous les records: Computerworld compte 1 408 CVE corrigées, dont une faille déjà exploitée, publiées le 13 octobre 2026 pour Windows 11, Windows Server et une longue liste d’autres produits.
-- Douze jours plus tard, beaucoup de parcs français n’ont installé qu’une partie de ces correctifs, et c’est précisément le moment où les attaquants lisent les avis pour écrire leurs exploits.
-- Vous allez patcher et durcir un poste Windows 11 26H2 et un serveur Windows Server 2025 ou 2022 en 13 étapes, soit environ 90 minutes pour un premier cycle.
-- Vous partez d’un inventaire, vous finissez avec un script d’audit réutilisable chaque mois.
+- La Brigade centrale de lutte contre la cybercriminalité (BCLCC) a enregistré plus de neuf milliards de FCFA de préjudices financiers liés à la cybercriminalité, en cinq ans, a indiqué son commandant, le commissaire principal de police Bayi Akim Nignan, lors d’un point de presse le 23 octobre à Ouagadougou.
+- Parmi les infractions recensées figurent les cyber-escroqueries, le chantage à la vidéo, les atteintes aux systèmes informatiques et à la vie privée, ainsi que la diffusion de contenus illicites et de fausses informations.
+- La BCLCC met également en garde contre les fraudes liées au mobile money, aux services bancaires mobiles, au commerce en ligne et aux plateformes d’investissement.
+- Les cryptomonnaies et les paris numériques peuvent aussi servir de terrain à des escroqueries financières et au blanchiment de capitaux, selon ses responsables.
 
-## [ARLES : Numérique – La CCI accompagne les TPE/PME vers l'IA et la <b>cybersécurité</b>](https://presseagence.fr/arles-numerique-la-cci-accompagne-les-tpe-pme-vers-lia-et-la-cybersecurite/)  
-*Source : presseagence.fr | Publication : 2026-10-25*
+## [<b>Cybersécurité</b> : les bons réflexes à adopter pour se protéger - agevillage](https://www.agevillage.com/actualites/cybersecurite-les-bons-reflexes-a-adopter-pour-se-proteger)  
+*Source : agevillage.com | Publication : 2026-10-26*
 
-- ARLES : Numérique – La CCI accompagne les TPE/PME ver… Partager : ARLES : Numérique – La CCI accompagne les TPE/PME vers l’IA et la cybersécurité La CCI du Pays d’Arles et France Num organisent un après-midi dédié à la transformation digitale des TPE et PME le 3 novembre prochain.
-- Dans un contexte économique où la performance passe inévitablement par la maîtrise des outils numériques, la Chambre de Commerce et d’Industrie (CCI) du Pays d’Arles, en partenariat avec le programme gouvernemental France Num, propose une nouvelle étape du « Tour France Num ».
-- Cet événement, destiné aux dirigeants de très petites, petites et moyennes entreprises, se tiendra le mardi 3 novembre 2026, de 13h30 à 17h, au Palais des Congrès d’Arles.
-- L’objectif est de fournir des clés concrètes pour accélérer leur transformation numérique et renforcer leur compétitivité.
+- Connaître vos droits Cybersécurité : les bons réflexes à adopter pour se protéger Auteur Raphaëlle Murignieux Temps de lecture 1 min Date de publication 26/10/2026 0 commentairesIls se font passer pour « l’Assurance maladie » (sic), Doctolib, la caisse de retraite ou encore la banque… les cybercriminels ne manquent pas d’idées quand il s’agit de voler des données ou pirater les appareils de leurs victimes.
+- Retour sur le petit guide destiné aux seniors publié par l’Union nationale des associations familiales.
+- Le phishing ou hameçonnage consiste à se faire passer pour un contact dans lequel vous avez confiance, afin de vous soutirer des informations personnelles (mots de passe, code de carte bleue, informations privées...).
+- Il s’agit de la principale menace pour les entreprises et les particuliers, explique le groupement d’intérêt public Acyma (actions contre la cybermalveillance).
 
-## [Paperjam Experts - <b>Cybersécurité</b> et Souveraineté](https://paperjam.lu/club/event/paperjam-experts-cybersecurite-et-souverainete)  
-*Source : paperjam.lu | Publication : 2026-10-25*
+## [Sommet européen 2027 - Santé-ISAC - Centre d'analyse et de partage d'informations sur la santé](https://health-isac.org/fr/rencontre-au-sommet/sommet-européen-de-2027/)  
+*Source : health-isac.org | Publication : 2026-10-26*
 
-- Déjeuner - Innovation / Entrepreneurship mardi 16.02.2027 Paperjam Experts - Cybersécurité et Souveraineté (Photo: Paperjam) Paperjam Experts réunit, lors d'un déjeuner en petit comité, des experts et décideurs partageant les mêmes enjeux.
-- Un format privilégié pour approfondir les échanges du supplément Paperjam Extra portant sur le même thême, confronter les expériences et prolonger les discussions dans un cadre intimiste.
-- Programme 12:00 – Apéritif 12:15 – Déjeuner 13:45 – Espresso & Back-to-work Important Les inscriptions seront ouvertes 3 mois avant la tenue de l’événement.
+- Sommet européen 2027 Octobre 11 - Octobre 15, 2027 Marbella, province de Malaga, Espagne Les défis complexes en matière de sécurité exigent des priorités claires, des décisions éclairées et une action coordonnée.
+- Le Sommet européen Health-ISAC 2027 réunit des professionnels de la sécurité du secteur de la santé afin d'examiner les nouveaux défis, d'échanger des connaissances pratiques et de renforcer la résilience de l'ensemble du secteur.
+- Des discussions et des apprentissages ciblés permettront d'explorer les stratégies, les relations et les décisions opérationnelles qui soutiennent un secteur de la santé plus sûr et plus résilient.
+- Save the Date D'autres dates clés concernant l'appel à propositions, l'ordre du jour et les modalités d'inscription seront ajoutées dès qu'elles seront disponibles.
 
-## [IA et biosécurité : Londres mise 600 millions de livres sur sa sécurité technologique - WMC](https://www.webmanagercenter.com/2026/10/25/575491/ia-et-biosecurite-londres-mise-600-millions-de-livres-sur-sa-securite-technologique/)  
-*Source : webmanagercenter.com | Publication : 2026-10-25*
+## [Covéa mise sur le Virtual Patching pour faire face à l'explosion des vulnérabilités | LeMagIT](https://www.lemagit.fr/etude/Covea-mise-sur-le-Virtual-Patching-pour-faire-face-a-lexplosion-des-vulnerabilites)  
+*Source : lemagit.fr | Publication : 2026-10-26*
 
-- Le gouvernement britannique a présenté le 24 octobre un ensemble de mesures d’environ 600 millions de livres mêlant biosécurité, cybersécurité et capacités industrielles britanniques.
-- Au centre du dispositif : un laboratoire destiné à utiliser l’IA pour anticiper les menaces biologiques, avec le concours d’OpenAI et d’Anthropic.
-- La biosécurité devient une capacité nationale Le Royaume-Uni annonce 165 millions de livres pour la biosécurité : 100 millions dédiés au nouveau laboratoire d’IA et 65 millions à la surveillance et aux contre-mesures médicales contre des agents pathogènes prioritaires.
-- Le laboratoire doit faciliter la détection des menaces et la recherche de vaccins.
+- icetray - Fotolia Covéa mise sur le Virtual Patching pour faire face à l’explosion des vulnérabilités À la suite d’une cyberattaque majeure sur sa marque MMA en 2020, le groupe Covéa a haussé son niveau de protection.
+- L’équipe cyber a été triplée, les principales briques de sécurité ont été remplacées et le recours au Virtual Patching a été élargi.
+- La nuit du 16 au 17 juillet 2020, MMA est victime d’un ransomware.
+- 25 % du parc de serveurs est chiffré et 1 500 postes de travail sont impactés par l’attaque.
 
-## [Quel avenir économique pour l'Outaouais d'ici 10 ans? - Les Affaires](https://www.lesaffaires.com/bourse/economie/quel-avenir-economique-pour-loutaouais-dici-10-ans/)  
-*Source : lesaffaires.com | Publication : 2026-10-25*
+## [Comment les pirates parviennent-ils à voler si facilement des données ? L'Anssi décortique ...](https://www.usine-digitale.fr/cybersecurite/comment-les-pirates-parviennent-ils-a-voler-si-facilement-des-donnees-lanssi-decortique-leurs-methodes-et-livre-ses-parades.JD534Q6UNRCZDG5XTVKZI4DCI4.html)  
+*Source : usine-digitale.fr | Publication : 2026-10-26*
 
-- Quel avenir Ã©conomique pour lâOutaouais dâici 10 ans?.
-- Initiative de journalisme local|PubliÃ© Ã 14h33 | Mis Ã jour il y a 44 secondesUn camion-remorque traverse le pont Macdonald-Cartier reliant Gatineau Ã Ottawa.
-- (Photo: Spencer Colby / La Presse Canadienne) AprÃ¨s une dÃ©cennie marquÃ©e par de nombreux bouleversements, lâÃ©conomie de lâOutaouais cherche Ã tourner la page.
-- Â«On voit souvent Gatineau comme la ville Ã cÃ´tÃ© dâOttawa.
+- Et c'est tout le secteur de la cybersécurité qui pourrait en sortir profondément transformé dans les prochaines années.
+- Alice Vitard, Journaliste à L'.
 
-## [<b>Ransomware</b> chez Yodingenierie : des données sensibles compromises par... - FrenchBreaches](https://frenchbreaches.com/r/Dy4QLQ)  
-*Source : frenchbreaches.com | Publication : 2026-10-25*
+## [la dernière opération d'Interpol acte les progrès et défis concernant l'Afrique - YouTube](https://www.youtube.com/watch?v=gBRgW_yZb8g)  
+*Source : youtube.com | Publication : 2026-10-26*
 
-- YOD Engineering is an engineering company computer science, member of the NED&CO Group , a pan-African player committed to transformation digital,.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [En 2025, le Japon a mis en garde Microsoft contre une « arnaque par messages](https://health-isac.org/fr/En-2025--le-Japon-a-averti-Microsoft-d'une-arnaque-par-message ;-le-géant-du-logiciel-a-retracé-l'origine-jusqu'en-Chine./)  
-*Source : health-isac.org | Publication : 2026-10-25*
+## [Cyberattaque : 850 000 plaques d'immatriculation volées, les noms et adresses de milliers ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-850-000-plaques-d-immatriculation-volees-les-noms-et-adresses-de-milliers-de-personnes-risquent-d-etre-devoiles-31251796.php)  
+*Source : sudouest.fr | Publication : 2026-10-26*
 
-- En 2025, le Japon a mis en garde Microsoft contre une « arnaque par messages », et le géant du logiciel a retracé l'origine jusqu'en Chine… En 2025, le Japon a alerté Microsoft d'une escroquerie par messages.
-- Le géant du logiciel a retracé l'origine de cette arnaque jusqu'en Chine quelques mois plus tard, bloquant trois boutiques en ligne qui ont touché 75 000 entreprises à travers le monde.
-- Dans le cadre d'une offensive coordonnée majeure contre la cybercriminalité transnationale, Microsoft et Health-ISAC ont saisi et redirigé l'infrastructure en ligne alimentant trois boutiques de cybercriminalité en langue chinoise connues sous les noms de YAM Store, CoGui et IronMan.
-- Lisez l'article dans le Times of India.
+- Un pirate a affirmé samedi 24 octobre détenir un fichier contenant des numéros d’immatriculation associés aux noms, adresses et numéros de téléphone.
+- Si ses dires venaient à se confirmer, les risques pourraient concerner des centaines de milliers d’automobilistes Samedi, un cybercriminel utilisant le pseudonyme ChimeraZ a annoncé sur un forum spécialisé la mise en vente d’un fichier associant des plaques d’immatriculation à des informations personnelles, révèlent ce lundi les médias RMC et l’Automobile Magazine.
+- Près de 850 000 plaques seraient concernées.
 
-## [Un hacker affirme avoir mis la main sur 4,1 millions de données chez Renaissance, le parti ...](https://www.ladepeche.fr/2026/10/25/un-hacker-affirme-avoir-mis-la-main-sur-41-millions-de-donnees-chez-renaissance-le-parti-de-gabriel-attal-dement-la-fuite-de-donnees-13619861.php)  
-*Source : ladepeche.fr | Publication : 2026-10-25*
+## [<b>Cybersécurité</b> : attention à l'arnaque ! | Le journal du Gers](https://lejournaldugers.fr/article/95039-cybersecurite-attention-a-larnaque)  
+*Source : lejournaldugers.fr | Publication : 2026-10-26*
 
-- Un hacker affirme avoir mis la main sur 4,1 millions de données chez Renaissance, le parti de Gabriel Attal dément la fuite de données l'essentiel Un hacker connu sous le pseudonyme de ChimeraZ affirme avoir réussi à mettre la main sur de nombreuses données personnelles sur le site de Renaissance, le parti politique de Gabriel Attal.
-- Au total, le pirate aurait réussi à se procurer des informations liées aux opérations de porte-à-porte, des fiches de profils et des milliers d'informations relatives à l'organisation de campagne de terrain.
-- Le parti Renaissance, de son côté, dément toute "intrusion" sur son site Internet.
-- Ce seraient au total plus de 4,1 millions de données qui auraient été compromises par le pirate ChimeraZ sur le site du parti Renaissance de Gabriel Attal.
+- Vous avez reçu un message #WhatsApp d'un proche, vous demandant de voter pour aider un enfant à gagner un concours ?.
+- Il s'agit d'une arnaque destinée à prendre le contrôle de votre compte WhatsApp.
+- Ne cliquez pas sur le lien !.
+- Le lien vous demande votre numéro et un code reçu par SMS.
 
-## [Corriger les failles de <b>cybersécurité</b> : une course sans fin. - Vietnam.vn](https://www.vietnam.vn/fr/va-lo-hong-an-ninh-mang-cuoc-dua-khong-co-nut-tam-dung)  
-*Source : vietnam.vn | Publication : 2026-10-25*
+## [Failles PHP : une première cyberattaque vient de réussir, et ce n'est qu'un début - 01net.com](https://www.01net.com/actualites/failles-php-une-premiere-cyberattaque-vient-de-reussir-et-ce-nest-quun-debut.html)  
+*Source : 01net.com | Publication : 2026-10-26*
 
-- Il est à noter que cet incident a été découvert par des experts en cybersécurité en collaboration avec l'intelligence artificielle (IA).
-- Cet événement démontre que l'IA ouvre de nouvelles perspectives en matière de détection des failles de sécurité, mais il représente également un défi de taille : les vulnérabilités étant découvertes plus rapidement, les organisations doivent les corriger plus vite avant que les pirates informatiques ne puissent les exploiter.
-- Lors de l'analyse du code source PHP, les chercheurs d'OpenAI ont utilisé l'intelligence artificielle pour détecter des failles de sécurité présentes depuis des années.
-- Cependant, la découverte de ces failles n'est que la première étape.
+- Les deux failles critiques qui frappent PHP, le langage qui fait tourner la majeure partie du web, ont été exploitées lors d’une cyberattaque réussie.
+- Adel Karimi, responsable détection et réponse chez Perplexity, a découvert qu’un pirate est parvenu à se servir d’une des vulnérabilités contre un serveur.
+- En amont, le chercheur avait tendu un « pot de miel » (honeypot), un serveur-leurre volontairement vulnérable, destiné à attirer les pirates pour observer leurs méthodes. «.
+- Il s’agit maintenant d’une exécution de code à distance confirmée, avec une fuite de mémoire exploitable, et non d’un simple plantage », détaille Adel Karimi.
 
-## [<b>Cybersécurité</b> et intelligence articielle - Actualité illiwap de Mairie de Perreux](https://station.illiwap.com/fr/public/42170/actu/cybersecurite-et-intelligence-articielle)  
-*Source : station.illiwap.com | Publication : 2026-10-25*
+## [IA, SEO, <b>cybersécurité</b>… Créez votre alerte BDM pour suivre vos thématiques préférées](https://www.blogdumoderateur.com/ia-seo-cybersecurite-alerte-bdm/)  
+*Source : blogdumoderateur.com | Publication : 2026-10-26*
 
-- Cybersécurité et intelligence articielle Le Département de la Loire organise un parcours d’autoformation pour les ados.
-- Information, inscription et connexion Information, inscription et connexion Votre mairie / Actualités / Cybersécurité et intelligence articielle.
+- IA, SEO, cybersécurité… Créez votre alerte BDM pour suivre vos thématiques préférées Depuis votre profil BDM, vous pouvez sélectionner des thématiques parmi les rubriques et dossiers du site, afin de recevoir une sélection quotidienne d’articles en lien avec votre activité et les sujets que vous ne voulez pas manquer.
+- Nous lançons aujourd’hui les alertes thématiques, une nouvelle fonctionnalité accessible gratuitement depuis votre compte BDM.
+- Elle vous permet de recevoir chaque jour par email les articles publiés sur les sujets que vous avez choisis, à l’heure qui vous convient.
+- À noter que cette alerte s’ajoute à la newsletter BDM, que vous pouvez continuer à recevoir chaque matin ou chaque vendredi pour suivre l’ensemble de l’actualité du digital.
 
-## [Astra d'OpenAI atteint le niveau « critique » de <b>cybersécurité</b> — et Daybreak Blue transforme ...](https://fourweekmba.com/fr/ai-openai-astra-critical-cyber-daybreak-blue-safety-framework-g/)  
-*Source : fourweekmba.com | Publication : 2026-10-25*
+## [Conférence <b>cybercriminalité</b> de Corte - YouTube](https://www.youtube.com/watch?v=0FdWdi79SQw)  
+*Source : youtube.com | Publication : 2026-10-26*
 
-- Astra d'OpenAI atteint le niveau « critique » de cybersécurité — et Daybreak Blue transforme le cadre de sécurité en canal de vente · Qu'est-il arrivé.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Une caisse de retraite confirme un piratage : les données de près d'un demi-million de ...](https://actu.orange.fr/france/une-caisse-de-retraite-confirme-un-piratage-les-donnees-de-pres-d-un-demi-million-de-personnes-concernees-l-express-via-6medias-CNT000002tnRMY.html)  
-*Source : actu.orange.fr | Publication : 2026-10-25*
+## [Maîtriser la navigation, c'est préserver sa souveraineté - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1557073-maitriser-la-navigation-c-est-preserver-sa-souverainete/)  
+*Source : journaldunet.com | Publication : 2026-10-26*
 
-- Une caisse de retraite confirme un piratage : les données de près d’un demi-million de personnes concernées © hacker scammer computer technology.
-- cyber security protection network background.
-- malware from internet online.
-- L’Ircantec a confirmé, le 23 octobre dernier, un incident de sécurité sur sa plateforme PEP’s.
+- Maîtriser la navigation, c'est préserver sa souveraineté Face aux vulnérabilités du GPS, la navigation inertielle devient un enjeu clé de résilience et de souveraineté européenne.
+- Pendant des décennies, la navigation par satellite a été considérée comme une évidence.
+- Aujourd'hui, ses vulnérabilités ne peuvent plus être ignorées.
+- Chaque jour, des milliards d'équipements (avions, navires, drones, véhicules autonomes, objets connectés, réseaux électriques et infrastructures de télécommunications) dépendent des systèmes mondiaux de navigation par satellite (GNSS).
 
-## [<b>Cybercriminalité</b> : le Maroc a participé à l'opération mondiale &quot;Confrontation Ghost&quot;](https://medias24.com/2026/10/25/cybercriminalite-le-maroc-a-participe-a-loperation-mondiale-confrontation-ghost-1783872/)  
-*Source : medias24.com | Publication : 2026-10-25*
+## [Check Point propose son firewall par abonnement - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/65411-check-point-propose-son-firewall-par-abonnement.html)  
+*Source : linformaticien.com | Publication : 2026-10-26*
 
-- Le Royaume a pris part à la vaste opération "Confrontation Ghost", pilotée par les Émirats arabes unis, qui a permis d'identifier plus de 39.
+- L'éditeur de solutions de cybersécurité ajoute un programme Firewall-as-a-Subscription, qui donne aux organisations de toutes tailles accès aux.
 
-## [Réponse et récupération aux risques de l'IA - journal Lao Dong](https://fr.laodong.vn/lao-dong-cuoi-tuan/ung-pho-va-phuc-hoi-voi-nhung-rui-ro-tu-ai-1787808.ldo)  
-*Source : fr.laodong.vn | Publication : 2026-10-25*
+## [Après de multiples dérapages, OpenAI entraîne désormais ses modèles de pointe dans un ... - BFM](https://www.bfmtv.com/tech/cybersecurite/apres-de-multiples-derapages-open-ai-entraine-desormais-ses-modeles-de-pointe-dans-un-monde-hors-ligne-mais-ses-agents-ia-ont-malgre-tout-reussi-a-s-en-echapper-pour-acceder-a-internet_AV-202610260424.html)  
+*Source : bfmtv.com | Publication : 2026-10-26*
 
-- Le journal Lao Dong a interviewé M. Huan Pham - Directeur technique régional de la société de cybersécurité , solution technologique ManageEngine sur.
+- Après de multiples dérapages, OpenAI entraîne désormais ses modèles de pointe dans un "monde hors ligne", mais ses agents IA ont malgré tout réussi à s'en échapper pour accéder à internet Priver ses modèles d'internet lors de leur entraînement pour éviter de futurs incidents.
+- C'est la solution d'OpenAI, qui a perdu le contrôle de ses systèmes à plusieurs reprises ces derniers mois.
+- Face à ces incidents qui se sont enchaînés, le créateur de ChatGPT a décidé de couper l'accès à internet lors de la formation de ses modèles d'IA de pointe.
+- "À l'intérieur du périmètre de sécurité, les agents peuvent accéder aux navigateurs, aux environnements d'exécution de code, aux outils informatiques et aux autres services nécessaires à leurs tâches.
 
-## [Bertrand BOYER - Diploweb.com](https://www.diploweb.com/_Bertrand-BOYER_.html)  
-*Source : diploweb.com | Publication : 2026-10-25*
+## [<b>Cybersécurité</b> : l'IA gagne du terrain dans les entreprises Selon l'OCDE, 5,3 % des ... - Instagram](https://www.instagram.com/reel/De9c3TjoCXe/)  
+*Source : instagram.com | Publication : 2026-10-26*
 
-- Bertrand Boyer s’exprime en son nom propre.
-- Le colonel Bertrand Boyer est saint-cyrien de la promotion Commandant Morin (1994-1997).
-- A l’issue de sa scolarité il choisit de servir dans les troupes de Marine et rejoint le 11ème régiment d’artillerie de Marine à La Lande d’Ouée après une année de spécialisation à l’Ecole d’artillerie de Draguignan.
-- Après avoir effectué une première partie de carrière dans les forces, servant en métropole comme outremer, il s’est orienté vers les nouveaux champs de conflictualités : cyberdéfense et influence.
+- InstagramLog InSign Up.
 
-## [« La nouvelle norme » : l'IA a semé le chaos sur Internet cette semaine, et « ce n'est que le début »](https://www.01net.com/actualites/nouvelle-norme-lia-seme-chaos-internet-semaine-que-debut.html)  
-*Source : 01net.com | Publication : 2026-10-25*
+## [1 462 arrestations dans 21 pays, avec plus de 10 000 réseaux malveillants visés et près de ...](https://www.instagram.com/p/De9hOYbFeFT/)  
+*Source : instagram.com | Publication : 2026-10-26*
 
-- Les failles baptisées PHP2Shell, qui menacent une immense partie d’Internet, dormaient dans le code de PHP depuis 2004.
-- Une fois repérées par des chercheurs armés d’outils IA, les brèches ont été corrigées d’urgence.
-- Rapidement, de nombreux sites se sont retrouvés inaccessibles, le temps d’implémenter les correctifs nécessaires.
-- En France, les portails de plusieurs préfectures, le site des impôts, d’Orange et même Météo France ont été temporairement déconnectés.
+- InstagramLog InSign Up.
 
-## [Phishing : des chiffres et une décision de justice qui mettent les banques sous pression](https://www.lalibre.be/economie/entreprises-startup/2026/10/25/phishing-des-chiffres-et-une-decision-de-justice-qui-mettent-les-banques-sous-pression-D42PT5KF2RBRXKR62RV7UARYPA/)  
-*Source : lalibre.be | Publication : 2026-10-25*
+## [Un expert en <b>cybersécurité</b> recouvre sa voiture d'un motif d'autocollants et la rend invisible ...](https://www.lacremedugaming.fr/high-tech/expert-cybersecurite-recouvre-voiture-dun-motif-dautocollants-la-rend-invisible-aux-radars-aux-cameras-ia-222709.html)  
+*Source : lacremedugaming.fr | Publication : 2026-10-26*
 
-- Phishing : des chiffres et une décision de justice qui mettent les banques sous pression La fraude sur les paiements bancaires est décuplée par l'IA.
-- Un arrêt récent de la Cour de justice européenne rappelle au secteur financier son devoir permanent de sécuriser les transactions en ligne.
-- Publié le 25-10-2026 à 15h46 - Les chiffres de la fraude en ligne ont de quoi donner le frisson.
-- D'après le Centre belge pour la Cybersécurité, plus de 40 000 tentatives de phishing (fraude aux paiements bancaires) ont été signalées par jour en 2026.
+- Un expert en cybersécurité recouvre sa voiture d’un motif d’autocollants et la rend invisible aux radars et aux caméras IA À Las Vegas, une Toyota Yaris recouverte d’un motif d’autocollants généré par IA aurait échappé aux caméras Flock lors de DEF CON 2026.
+- Cette voiture invisible aux radars et aux caméras IA pourrait-elle bousculer notre façon de penser la surveillance routière ?.
+- À Las Vegas, lors de DEF CON 2026, l’expert en cybersécurité Bill Swearingen a présenté une démo qui fait frémir les fans de Tech et les services de police.
+- Il a recouvert une modeste Toyota Yaris 2009 d’un motif d’autocollants généré par IA, puis l’a fait passer devant une caméra intelligente Flock Safety, utilisée pour la reconnaissance automatique de plaques.
 
-## [Élections en Israël : les cyberattaques se multiplient à l'approche du scrutin - IsraJ - MediaJ](https://israj.media-j.com/article/72795/elections-en-israel-les-cyberattaques-se-multiplient-a-lapproche-du-scrutin)  
-*Source : israj.media-j.com | Publication : 2026-10-25*
+## [SASE et dépôt de plainte, le Clusif publie deux textes pour préparer la crise et réagir suite à ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/sase-et-depot-de-plainte-le-clusif-publie-deux-textes-pour-preparer-la-crise-et-reagir-suite-a-une-compromission/)  
+*Source : itsocial.fr | Publication : 2026-10-26*
 
-- À deux jours des élections législatives israéliennes, la menace s'intensifie.
-- Selon des données publiées dimanche 25 octobre par la société israélienne de cybersécurité Check Point, les tentatives de cyberattaques contre les organismes gouvernementaux ont bondi de 82 %, tandis que celles visant les infrastructures énergétiques ont progressé de 107 %.
-- Depuis le début du mois d'octobre, 87 attaques informatiques réussies auraient été recensées.
-- Des chiffres qui illustrent la pression croissante exercée sur les systèmes numériques israéliens à l'approche du vote de mardi.
+- Le Clusif a mis en accès libre en octobre un dossier technique sur le SASE, l’architecture qui confie le réseau et la sécurité à une même plateforme en nuage, et un livret sur le dépôt de plainte après une cyberattaque.
+- L’un sert à choisir et à contracter avant l’incident, l’autre à agir dans les 72 heures qui le suivent, et tous deux sortent de groupes de travail où acheteurs et fournisseurs de sécurité écrivent ensemble.
+- Le Clusif, le Club de la sécurité de l’information français, a mis en ligne le 22 octobre un dossier technique de 38 pages consacré au SASE, pour Secure Access Service Edge, trois jours après un livret de quatre pages intitulé « Déposer plainte après une cyber attaque ».
+- Le dossier est daté de mars 2026, le livret d’août.
