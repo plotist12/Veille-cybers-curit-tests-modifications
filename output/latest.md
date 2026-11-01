@@ -1,146 +1,152 @@
-# Résumés – 2026-10-30
+# Résumés – 2026-10-31
 
 
-## [« C'est le plus grand vol de l'histoire, et pas seulement dans la crypto » : Binance victime d ...](https://www.lesechos.fr/finance-marches/marches-financiers/cryptomonnaies-binance-fait-face-a-une-cyberattaque-record-2260035)  
-*Source : lesechos.fr | Publication : 2026-10-30*
+## [A Madagascar, des centres d'arnaque déplacés du Cambodge exploitaient des Africains](https://actu.orange.fr/monde/a-madagascar-des-centres-d-arnaque-deplaces-du-cambodge-exploitaient-des-africains-CNT000002tueIm.html)  
+*Source : actu.orange.fr | Publication : 2026-10-31*
 
-- cybersécurité . «.
-- Ce montant pourrait continuer à augmenter à mesure que nos équipes collaborent étroitement avec les autorités, les émetteurs, les.
+- A Madagascar, des centres d'arnaque déplacés du Cambodge exploitaient des Africains Derrière des centres d'arnaques en ligne à Madagascar se cache un groupe criminel qui opérait au Cambodge et dupait des ressortissants africains dans une apparente traite d'êtres humains, a appris l'AFP auprès des autorités malgaches qui ont mené de récents raids.
+- Arnaques à la romance, aux cryptomonnaies ou des pyramides de Ponzi : ces sites étaient majoritairement opérés par des ressortissants chinois, dont 148 ont été extradés vers la Chine, selon la justice malgache.
+- Treize centres de cyber-escroquerie ont été démantelés entre août et septembre à Madagascar lors d'une opération conjointe avec les autorités américaines qui a permis la saisie de "52 millions de dollars de cryptomonnaies" ainsi que de "3.200 appareils électroniques", d'après la justice américaine (DoJ).
+- L'Office des Nations Unies contre la drogue et le crime (UNODC) avait mis en garde l'an passé contre l'expansion de ces réseaux, notamment en Afrique australe.
 
-## [Orange Cyberdefense va intégrer Mistral Large 4 - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/tendances/941-ia/65433-orange-cyberdefense-va-integre-mistral-large-4.html)  
-*Source : linformaticien.com | Publication : 2026-10-30*
+## [Synology : les photos et sauvegardes prises en otage, une vague de cyberattaques frappe les NAS](https://www.cyberattaque.org/synology-c3rb3r-cyberattaque/)  
+*Source : cyberattaque.org | Publication : 2026-10-31*
 
-- Orange Cyberdefense s'appuiera sur des capacités de calcul situées en Europe pour exploiter des modèles dédiés aux opérations de cybersécurité.
+- Une vague de cyberattaques frappe les NAS Synology depuis le début du mois d’octobre 2026.
+- Des particuliers et des entreprises découvrent leurs photographies, documents et sauvegardes devenus inaccessibles après l’intervention d’un rançongiciel baptisé C3RB3R.
+- Les fichiers sont chiffrés et les pirates réclament une rançon pour permettre leur récupération.
+- Synology a officiellement reconnu ces attaques le 29 octobre 2026 et appelle ses utilisateurs à mettre immédiatement à jour leurs appareils.
 
-## [<b>CYBERSÉCURITÉ</b> : Augmenter la résilience numérique des entreprises | Le Mauricien](https://www.lemauricien.com/actualites/societe/cybersecurite-augmenter-la-resilience-numerique-des-entreprises/722121/)  
-*Source : lemauricien.com | Publication : 2026-10-30*
+## [BitLocker Windows 11 : 13 Étapes, 60 Min [2026] - shattered.io](https://shattered.io/fr/bitlocker-windows-11-chiffrer-disque-cle-recuperation-tutoriel-2026/)  
+*Source : shattered.io | Publication : 2026-10-31*
 
-- À l’heure où les technologies évoluent à un rythme fulgurant, les entreprises font face à des menaces numériques de plus en plus sophistiquées, exacerbées par l’intelligence artificielle qui rend les tentatives de fraude redoutablement crédibles.
-- Un simple incident de cybersécurité ne menace plus seulement les systèmes informatiques, mais fragilise l’ensemble des activités, les relations commerciales, la réputation de l’organisation ainsi que la sécurité de ses collaborateurs et de ses clients.
-- Pour les dirigeants et les conseils d’administration, le défi n’est plus seulement de rédiger des procédures, mais de s’assurer que l’organisation saurait détecter une attaque et réagir à temps, érigeant ainsi la cybersécurité en un pilier fondamental de la continuité des affaires.
-- C’est pour répondre à ces impératifs de gouvernance que le Mauritius Institute of Directors, en collaboration avec son partenaire Eagle Insurance, a récemment organisé une conférence sur le thème « Protecting People, Businesses & Our Digital Future ».
+- Un portable oublié dans un train ou volé dans une voiture livre tout son contenu à celui qui le démarre depuis une clé USB, tant que le disque n’est pas chiffré.
+- Mots de passe enregistrés dans le navigateur, documents clients, jetons de connexion, photos de famille : le mot de passe de session Windows n’arrête personne qui retire le SSD pour le brancher sur une autre machine.
+- BitLocker, le chiffrement de volume intégré à Windows 11, ferme cette porte sans logiciel tiers.
+- La mise en place prend environ une heure, dont la moitié sert à sauvegarder et à tester la clé de récupération, l’étape que la plupart des utilisateurs bâclent.
 
-## [Un “faux télétravailleur” nord-coréen découvert ? Une première en Corée du Sud](https://www.courrierinternational.com/article/infiltration-un-faux-teletravailleur-nord-coreen-decouvert-une-premiere-en-coree-du-sud_283485)  
-*Source : courrierinternational.com | Publication : 2026-10-30*
+## [Numérique : dans le Perche, une journée pour reprendre le contrôle de ses données personnelles](https://actu.fr/normandie/val-au-perche_61484/numerique-dans-le-perche-une-journee-pour-reprendre-le-controle-de-ses-donnees-personnelles_64990354.html)  
+*Source : actu.fr | Publication : 2026-10-31*
 
-- Se faire embaucher sous une fausse identité par des entreprises étrangères pour leur soutirer de l’argent ou des informations sensibles est une pratique des informaticiens nord-coréens désormais connue.
-- Elle a augmenté depuis 2020, avec l’essor des recrutements à distance et du télétravail après la pandémie de Covid-19.
-- Pour autant, c’est la première fois qu’un cas présumé a été identifié en Corée du Sud.
-- La police de Séoul enquête depuis février 2025 : l’individu présumé effectuerait des travaux de développement informatique en ligne, à distance depuis l’étranger, sans jamais être entré sur le territoire sud-coréen.
+- Vendredi 6 novembre 2026, une journée exceptionnelle et gratuite est organisée à Val-au-Perche (Orne) par Elabo, tiers-lieu numérique de la Communauté de communes des Collines du Perche normand afin de comprendre les enjeux de la Souveraineté du numérique (la capacité d’un État, d’une entreprise ou d’un citoyen à maîtriser et à contrôler ses propres technologies, ses infrastructures et ses données, sans dépendre de manière excessive de puissances étrangères).
+- Réfléchir ensemble aux solutions Une journée essentielle pour reprendre le pouvoir sur nos usages numériques – souveraineté, cybersécurité, données personnelles. «.
+- Accueillir un NEC, c’est avant tout une volonté de faire du numérique un sujet concret et collectif pour notre territoire.
+- Le numérique est désormais présent dans toutes nos pratiques quotidiennes.
 
-## [<b>Cybersécurité</b> : les JNC 2026 s'achèvent sur des recommandations clés - Malijet](https://malijet.com/a_la_une_du_mali/312602-cybersecurite-les-jnc-2026-sachevent-sur-des-recommandati.html)  
-*Source : malijet.com | Publication : 2026-10-30*
+## [ARLES La CCI accompagne les entreprises dans la transition numérique - Objectif Gard](https://www.objectifsud.fr/economie/arles-la-cci-accompagne-les-entreprises-dans-la-transition-numerique-171618.php)  
+*Source : objectifsud.fr | Publication : 2026-10-31*
 
-- Cybersécurité : les JNC 2026 s’achèvent sur des recommandations clés Les Journées nationales de la cybersécurité (JNC 2026) ont pris fin ce vendredi 30 octobre, après plusieurs jours d’échanges sur la cybersécurité, l’intelligence artificielle et la protection du cyberespace.
-- Les Journées nationales de la cybersécurité 2026 se sont achevées sur la présentation des recommandations issues des conférences et des panels.
-- Les participants ont insisté sur la sensibilisation du public, la formation des acteurs, le renforcement de la sécurité des systèmes informatiques et la lutte contre les menaces numériques.
-- Ils ont appelé à une action concertée face aux défis du numérique et de l'intelligence artificielle.
+- Le 3 novembre, la CCI du Pays d’Arles donne rendez-vous aux entreprises à l’occasion d’une nouvelle étape du Tour de France Num.
+- Au programme : intelligence artificielle, cybersécurité, facturation électronique et présence en ligne, avec des conseils pratiques et des solutions concrètes pour gagner en efficacité et sécuriser son activité.
+- Le numérique transforme les pratiques professionnelles et ouvre de nouvelles perspectives pour les entreprises.
+- Intelligence artificielle, dématérialisation des démarches, sécurité des données ou visibilité sur Internet : autant d’enjeux qui nécessitent de faire les bons choix et d’identifier les solutions adaptées à son activité.
 
-## [Protection des renseignements confidentiels, vie privée et <b>cybersécurité</b> en 2026 - Fasken](https://www.fasken.com/fr/events/2026/11/privacy-and-cybersecurity-in-2026)  
-*Source : fasken.com | Publication : 2026-10-30*
+## [Un pirate revendique des données de 3 partis français et 190 000 personnes concernées](https://www.science-et-vie.com/technos-et-futur/un-pirate-revendique-des-donnees-de-3-partis-francais-et-190-000-personnes-concernees-le-pcf-confirme-une-fuite-lfi-et-renaissance-dementent-toute-nouvelle-intrusion-264973.html)  
+*Source : science-et-vie.com | Publication : 2026-10-31*
 
-- Des avocates et avocats de notre équipe nationale s'exprimeront sur la cybersécurité , le droit de la protection des renseignements personnels et la.
+- Entre le 23 et le 25 octobre 2026, ChimeraZ revendique le vol de données de trois partis politiques français, seul le PCF confirme l'intrusion.
+- - Le Parti communiste français admet une fuite de données sensibles de ses adhérents, sécurise ses systèmes et porte plainte.
+- - Les partis politiques doivent renforcer leur cybersécurité pour protéger les données sensibles de leurs adhérents et éviter de futures attaques.
+- - Ce résumé généré par IA a été validé par les journalistes de la rédaction.
 
-## [IA et <b>cybersécurité</b>: les entreprises à l'heure des arbitrages - LesEco.ma](https://leseco.ma/business/ia-et-cybersecurite-les-entreprises-a-lheure-des-arbitrages.html)  
-*Source : leseco.ma | Publication : 2026-10-30*
+## [Attention à ce message WhatsApp, il permet aux pirates de prendre le contrôle de votre compte](https://www.01net.com/actualites/attention-a-ce-message-whatsapp-il-permet-aux-pirates-de-prendre-le-controle-de-votre-compte.html)  
+*Source : 01net.com | Publication : 2026-10-31*
 
-- IA et cybersécurité: les entreprises à l’heure des arbitrages L’intelligence artificielle s’invite dans les processus métiers, tandis que la cybersécurité devient un enjeu stratégique pour les directions générales.
-- Pour les entreprises marocaines, la transformation numérique entre dans une phase plus exigeante, où chaque investissement doit désormais se justifier par des gains mesurables, sans compromettre la sécurité des données.
-- Les récentes Assises de l’AUSIM, à Tanger, ont mis en lumière cette nouvelle équation : comment accélérer l’innovation tout en maîtrisant les coûts, les risques et les dépendances technologiques ?.
-- L’intelligence artificielle promet des gains de productivité, une meilleure exploitation des données et une transformation de nombreux métiers.
+- La gendarmerie nationale alerte sur la prolifération d’une arnaque qui cible les utilisateurs de WhatsApp.
+- L’objectif des arnaqueurs : prendre le contrôle de votre compte WhatsApp.
+- Pour y parvenir, l’arnaqueur se fait passer pour l’un de vos proches et vous invite à voter pour la fille d’une connaissance qui participe à un concours de danse.
+- En réalité, il n’y a aucun vote, seulement une arnaque bien ficelée.
 
-## [Mistral ouvre les poids de Mistral Large 4 et se rapproche d'Orange Cyberdefense](https://www.lemagit.fr/actualites/366653113/Mistral-ouvre-les-poids-de-Mistral-Large-4-et-se-rapproche-dOrange-Cyberdefense)  
-*Source : lemagit.fr | Publication : 2026-10-30*
+## [Un élève peut-être derrière la cyberattaque des gymnases vaudois: interview de Lennig Pedron](https://www.rts.ch/audio-podcast/2026/audio/un-eleve-peut-etre-derriere-la-cyberattaque-des-gymnases-vaudois-interview-de-lennig-pedron-29401540.html)  
+*Source : rts.ch | Publication : 2026-10-31*
 
-- g215 - stock.adobe.com Mistral ouvre les poids de Mistral Large 4 et se rapproche d'Orange Cyberdefense Si l’ouverture des poids de Mistral Large 4 n’apprend pas grand-chose sur ses qualités et ses défauts, les tests revus et corrigés d’Artificial Analysis prouvent les dires du laboratoire français en matière d’IA appliquée à la cybersécurité.
-- Si bien qu’Orange Cyberdefense entend tester le modèle en profondeur.
-- Au début du mois d’octobre, Mistral AI avait présenté la préversion publique de son modèle Mistral Large 4.
-- Le fournisseur avait promis de poursuivre son apprentissage par renforcement et de libérer les poids sur Hugging Face.
+- Un élève peut-être derrière la cyberattaque des gymnases vaudois: interview de Lennig Pedron Interview de Lennig Pedron, spécialiste en cybersécurité et directrice de l’alliance lémanique "Trust Valley".
+- Episode d'hier à 18:05 Le sommaire de l’émission Troisième samedi de manifestations contre la vie chère en France: interview de Fabien Truong Interview de Fabien Truong, sociologue spécialiste de la jeunesse à l'Université Paris 8 et ancien professeur de lycée.
+- En Allemagne, la Gen Z manifeste dans tout le pays Un élève peut-être derrière la cyberattaque des gymnases vaudois: interview de Lennig Pedron Interview de Lennig Pedron, spécialiste en cybersécurité et directrice de l’alliance lémanique "Trust Valley".
+- La guerre en Iran freine le développement du sport au Moyen-Orient: interview de Jean-Baptiste Guégan Interview de Jean-Baptiste Guégan, spécialiste de géopolitique du sport.
 
-## [Cyberattaques : comment les banques protègent-elles votre argent ? - RTBF Actus](https://www.rtbf.be/article/cyberattaques-comment-les-banques-protegent-elles-votre-argent-11808048)  
-*Source : rtbf.be | Publication : 2026-10-30*
+## [« Elle est notre premier phénomène de faits » : la <b>cybercriminalité</b> est devenue le grand ...](https://www.sudinfo.be/id1218434/article/2026-10-31/elle-est-notre-premier-phenomene-de-faits-la-cybercriminalite-est-devenue-le)  
+*Source : sudinfo.be | Publication : 2026-10-31*
 
-- La plateforme Binance a confirmé une cyberattaque massive estimée à 6,3 milliards de dollars.
-- La moitié de ces fonds visés ont été gelés par des partenaires de la plateforme pour limiter le vol.
-- Des experts suspectent que des acteurs nord-coréens soient derrière le coup.
-- L’argent des banques en ligne est-il en danger ?.
+- La sensibilisation aurait-elle porté ses fruits ?.
+- Alain Barbier, chef de corps de la zone Vesdre, reste prudent. «.
+- Pour la cybercriminalité , on a.
 
-## [Cryptomonnaie : la plus grande plateforme piratée, un préjudice estimé à 6,3 milliards de dollars](https://www.france24.com/fr/vidéo/20261030-cryptomonnaie-la-plus-grande-plateforme-piratée-un-préjudice-estimé-à-6-3-milliards-de-dollars)  
-*Source : france24.com | Publication : 2026-10-30*
+## [Forum des Idées - Des tutoriels sur la nourriture pour bébés par des professionnels de la santé | RTS](https://www.rts.ch/audio-podcast/2026/audio/forum-des-idees-des-tutoriels-sur-la-nourriture-pour-bebes-par-des-professionnels-de-la-sante-29401550.html)  
+*Source : rts.ch | Publication : 2026-10-31*
 
-- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
-- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
-- Vidéo Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
-- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
+- Forum des Idées - Des tutoriels sur la nourriture pour bébés par des professionnels de la santé Interview de Nolvenn Gambin, responsable du secteur alimentation et activités physiques chez Unisanté.
+- Episode d'hier à 18:09 Le sommaire de l’émission Troisième samedi de manifestations contre la vie chère en France: interview de Fabien Truong Interview de Fabien Truong, sociologue spécialiste de la jeunesse à l'Université Paris 8 et ancien professeur de lycée.
+- En Allemagne, la Gen Z manifeste dans tout le pays Un élève peut-être derrière la cyberattaque des gymnases vaudois: interview de Lennig Pedron Interview de Lennig Pedron, spécialiste en cybersécurité et directrice de l’alliance lémanique "Trust Valley".
+- La guerre en Iran freine le développement du sport au Moyen-Orient: interview de Jean-Baptiste Guégan Interview de Jean-Baptiste Guégan, spécialiste de géopolitique du sport.
 
-## [ONU Info on X: &quot;<b>Cybercriminalité</b> : avec l'IA, tout le monde peut devenir escroc @UNODC ...](https://x.com/ONUinfo/status/2116229590477644169)  
-*Source : x.com | Publication : 2026-10-30*
+## [DeepSeek V4.1 Flash Cyber : 552 Md Sans Refus [2026] - Tech Insider](https://tech-insider.org/fr/deepseek-v4-1-flash-1017-cyber-modele-sans-refus-2026/)  
+*Source : tech-insider.org | Publication : 2026-10-31*
 
-- ONU Info@ONUinfoShow translationCybercriminalité : avec l’IA, tout le monde peut devenir escroc @UNODCCybercriminalité : avec l’IA, tout le monde peut devenir escrocFrom news.un.org6:03 PM · Oct 30, 2026·845Views12.
+- DeepSeek V4.1 Flash Cyber : modèle de 552 Md sans refus, 57 % au Cyber Index, 0,60 $ par faille validée.
+- Chiffres, limites et enjeux pour.
 
-## [Deuxième exercice de <b>cybersécurité</b> en Suisse romande: immersion dans une enquête ... - Allnews](https://www.allnews.ch/content/points-de-vue/deuxième-exercice-de-cybersécurité-en-suisse-romande-immersion-dans-une)  
-*Source : allnews.ch | Publication : 2026-10-30*
+## [mitmproxy : Auditer le HTTPS en 13 Étapes, 60 Min [2026] - Tech Insider](https://tech-insider.org/fr/mitmproxy-auditer-trafic-https-application-2026/)  
+*Source : tech-insider.org | Publication : 2026-10-31*
 
-- De gauche à droite: Nemanja Mitic, Lead Cyber Industry Engagement chez UBS et responsable du Chapter «Exercises & Training» du Swiss FS-CSC; Simon.
+- mitmproxy : Auditer le HTTPS en 13 Étapes, 60 Min [2026].
+- Nadia Dubois; 31 October 2026; Cybersécurité · Nadia Dubois.
 
-## [Défense, <b>cybersécurité</b>, énergie… Comment jouer la souveraineté en Bourse ? - Le Figaro](https://www.lefigaro.fr/conjoncture/defense-cybersecurite-energie-comment-jouer-la-souverainete-en-bourse-20261030)  
-*Source : lefigaro.fr | Publication : 2026-10-30*
+## [Sécurité maritime : le Vietnam appelle à un usage responsable des technologies émergentes](https://lecourrier.vn/securite-maritime-le-vietnam-appelle-a-un-usage-responsable-des-technologies-emergentes/1358523.html)  
+*Source : lecourrier.vn | Publication : 2026-10-31*
 
-- Défense, cybersécurité, énergie… Comment jouer la souveraineté en Bourse ?.
-- DÉCRYPTAGE - La question de l’autonomie stratégique européenne est devenue un thème d’investissement majeur et une source d’opportunités.
-- Passer la publicitéLa publication du rapport Draghi fin 2024 sur la compétitivité de l’Europe a provoqué une prise de conscience. «.
-- Il est désormais largement admis que l’Europe doit renforcer sa compétitivité, ses capacités industrielles et son autonomie dans les domaines jugés stratégiques pour sa souveraineté », estiment les spécialistes d’Edmond de Rothschild Asset Management (Edram).
+- >> Le Conseil de sécurité condamne les attaques des Houthis contre l'Arabie saoudite >> Le Vietnam réaffirme son engagement auprès de l’ONU >> Le Vietnam fait front commun pour exiger la fin de l’embargo américain contre Cuba Selon le correspondant de l’Agence Vietnamienne d’Information à New York, les participants ont souligné que les nouvelles technologies offraient de nombreuses possibilités d’améliorer la connaissance du domaine maritime, ainsi que les capacités de surveillance et d’alerte précoce.
+- Elles faisaient toutefois émerger de nouveaux risques et défis pour la sécurité, notamment les cyberattaques visant les infrastructures maritimes essentielles et les câbles sous-marins.
+- De telles attaques sont susceptibles de perturber la navigation, le transport de marchandises et les chaînes d’approvisionnement mondiales, alors même que leur coût ne cesse de diminuer.
+- La majorité des intervenants ont insisté sur le respect du droit international, le maintien d’un contrôle humain sur l’intelligence artificielle ainsi que la protection des câbles sous-marins et des infrastructures essentielles.
 
-## [Réseaux sociaux : quatre conseils pour repérer les faux comptes • FRANCE 24 - YouTube](https://www.youtube.com/shorts/FAwJZqgjHoA)  
-*Source : youtube.com | Publication : 2026-10-30*
+## [Les cybercriminels spécialisés dans le phishing sont plus rapides que la police - Virgule.lu](https://www.virgule.lu/luxembourg/les-cybercriminels-specialises-dans-le-phishing-sont-plus-rapides-que-la-police/163771977.html)  
+*Source : virgule.lu | Publication : 2026-10-31*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Les banques luxembourgeoises examinent actuellement l'impact de cet arrêt sur leurs pratiques.
+- Luxembourgcyberattaque cybersécurité arnaques et.
 
-## [<b>Cybercriminalité</b> : avec l'IA, tout le monde peut devenir escroc | ONU Info - UN News](https://news.un.org/fr/story/2026/10/1159760)  
-*Source : news.un.org | Publication : 2026-10-30*
+## [<b>Cybersécurité</b> : Apple alerte sur une faille exploitée contre des utilisateurs d'iPhone ciblés](https://www.leconomistemaghrebin.com/2026/10/31/cybersecurite-apple-alerte-sur-une-faille-exploitee-contre-des-utilisateurs-diphone-cibles/)  
+*Source : leconomistemaghrebin.com | Publication : 2026-10-31*
 
-- Cybercriminalité : avec l’IA, tout le monde peut devenir escroc Faux messages, voix clonées, vidéos truquées.
-- L’intelligence artificielle permet aux cybercriminels de multiplier les attaques tout en réduisant leurs coûts et leurs besoins en compétences techniques.
-- L’ONU alerte sur cette démocratisation de la fraude et appelle les États à renforcer leur coopération face à une criminalité qui se joue des frontières.
-- Plus besoin d’être un pirate informatique chevronné pour monter une escroquerie sophistiquée.
+- Apple a appelé le 30 octobre les utilisateurs de ses appareils à installer sans délai les dernières mises à jour de sécurité, après avoir étendu la correction d’une vulnérabilité critique à plusieurs anciens modèles d’iPhone et d’iPad.
+- La faille aurait été exploitée dans des attaques particulièrement sophistiquées visant des individus ciblés, selon les informations communiquées par le groupe américain.
+- Identifiée sous le code CVE-2026-86950, la vulnérabilité concerne CoreGraphics, un composant du système chargé notamment du traitement des images, des textes et des contenus graphiques.
+- Elle peut permettre l’exécution de code malveillant lorsqu’un appareil traite un fichier spécialement conçu pour exploiter cette faiblesse.
 
-## [Cyberattaque contre Binance: comment des pirates ont dérobé pour 6,3 milliards de dollars ...](https://www.bfmtv.com/tech/cybersecurite/cyberattaque-contre-binance-comment-des-pirates-ont-derobe-pour-6-3-milliards-de-dollars-d-actifs-numeriques-a-la-premiere-plateforme-mondiale-de-cryptomonnaies_AV-202610300693.html)  
-*Source : bfmtv.com | Publication : 2026-10-30*
+## [<b>Cybersécurité</b> : l'ACCYB et la CTU ont lancé la C-CIRC ! - ActuMédias Outre-Mer](https://actu-medias.info/2026/10/cybersecurite-c-circ.html)  
+*Source : actu-medias.info | Publication : 2026-10-31*
 
-- Cyberattaque contre Binance: comment des pirates ont dérobé pour 6,3 milliards de dollars d'actifs numériques à la première plateforme mondiale de cryptomonnaies La nuit n'a pas été de tout repos pour Binance.
-- Elle a même été très agitée pour le géant des cryptomonnaies (et même première place mondiale en matière de volume d'échange au comptant), victime d'une cyberattaque dans la soirée du 29 octobre.
-- Au total, 6,3 milliards de dollars en actifs numériques se seraient envolés.
-- La plateforme mène depuis l'enquête pour faire la lumière sur cet incident, multipliant les annonces sur les réseaux sociaux ces dernières heures.
+- L'Agence Caribéenne pour la Cybersécurité (ACCYB) et l'Union des Télécommunications de la Caraïbe (CTU) ont officialisé le lancement de la.
 
-## [L'UE et le Canada signent des accords de coopération sur les minerais critiques et l'IA](https://www.lesaffaires.com/secteurs/manufacturier/le-canada-et-lue-officialisent-le-projet-de-nouvelle-alliance/)  
-*Source : lesaffaires.com | Publication : 2026-10-30*
+## [GTA VI : faux sites, fausses précommandes… les arnaques explosent avant la sortie du jeu ...](https://www.lamontagne.fr/france-monde/loisirs/gta-vi-faux-sites-fausses-precommandes-les-arnaques-explosent-avant-la-sortie-du-jeu-le-plus-attendu-de-lhistoire_15072416/)  
+*Source : lamontagne.fr | Publication : 2026-10-31*
 
-- LâUE et le Canada signent des accords de coopÃ©ration sur les minerais critiques et lâIA AFP|PubliÃ© Ã 12h57 | Mis Ã jour Ã 15h14Le premier ministre Mark Carney, au centre, le prÃ©sident du Conseil de l'Europe, Antonio Costa, Ã gauche, et la prÃ©sidente de la Commission europÃ©enne, Ursula von der Leyen, le jeudi 29 octobre 2026 (Photo: Christopher Katsarov / La Presse Canadienne) LâUnion europÃ©enne et le Canada, dont les relations avec les Ãtats-Unis de Donald Trump sont houleuses, ont scellÃ© vendredi lâalliance la plus Ã©troite possible entre un pays non europÃ©en et les 27, passant par une coopÃ©ration accrue dans plusieurs domaines stratÃ©giques comme les minerais critiques ou lâintelligence artificielle.
-- Symbole fort, le Canada a par ailleurs dÃ©cidÃ© de participer au prÃªt de 90Â milliards dâeuros accordÃ© par lâUE Ã lâUkraine en apportant 500Â millions dâeuros.
-- Dans un monde Â«plus dangereux et divisÃ©Â», oÃ¹ le commerce est utilisÃ© comme Â«une armeÂ», le Canada et lâUE forgent une alliance fondÃ©e sur le Â«respect mutuelÂ», destinÃ©e Ã dÃ©fendre ensemble leur Â«souverainetÃ©Â» dans un monde dominÃ© par les Ãtats-Unis et la Chine, a dit le premier ministre canadien Mark Carney devant la presse.
-- LâUE et le Canada â dÃ©jÃ liÃ©s depuis dix ans par un traitÃ© de libre-Ã©change, le CETA â ont accÃ©lÃ©rÃ© leur rapprochement depuis le retour au pouvoir dÃ©but 2025 du prÃ©sident amÃ©ricain Donald Trump, avec qui leurs relations sont houleuses.
+- Écouter l'article À trois semaines de la sortie très (très) attendue de GTA VI, prévue le 19 novembre, les escroqueries se multiplient sur Internet.
+- Faux sites de précommande, promesses d’accès anticipé ou téléchargements gratuits : les pirates profitent de l’engouement autour du jeu.
+- “Nous craignons que la situation ne s’intensifie”, prévient auprès de franceinfo Luis Corrons, expert en cybersécurité chez Avast.
+- Selon lui, les arnaques pourraient encore se multiplier dans la semaine précédant la sortie du jeu.
 
-## [14 millions de plaques d'immatriculation dérobées lors d'une cyberattaque: que risquent les ...](https://www.bfmtv.com/tech/cybersecurite/14-millions-de-plaques-d-immatriculation-derobees-lors-d-une-cyberattaque-que-risquent-les-automobilistes-concernes_AV-202610300758.html)  
-*Source : bfmtv.com | Publication : 2026-10-30*
+## [A Madagascar, des centres d'arnaque déplacés du Cambodge exploitaient des Africains](https://www.laprovence.com/article/france-monde/4750104952509214/a-madagascar-des-centres-darnaque-deplaces-du-cambodge-exploitaient-des-africains)  
+*Source : laprovence.com | Publication : 2026-10-31*
 
-- 14 millions de plaques d'immatriculation dérobées lors d'une cyberattaque: que risquent les automobilistes concernés?.
-- L'alerte a été lancée le 29 octobre par le site spécialisé French Breaches.
-- Ce jour-là, un pirate a mis en vente sur le dark web ce qu'il affirme être un énorme dossier contenant près de 14 millions de plaques d'immatriculation, ainsi que les données de 18 millions de personnes.
-- En cause, une brèche chez deux prestataires, Auto-Planning et Auto-Controle-Paris, qui donnent accès à des outils pour réserver des contrôles techniques à des partenaires-clients.
+- A Madagascar, des centres d'arnaque déplacés du Cambodge exploitaient des Africains Par AFP Vue des environs d'Antananarivo, le 24 avril 2025.
+- PHOTO AFP / Ludovic MARIN Derrière des centres d'arnaques en ligne à Madagascar se cache un groupe criminel qui opérait au Cambodge et dupait des ressortissants africains dans une apparente traite d'êtres humains, a appris l'AFP auprès des autorités malgaches qui ont mené de récents raids Arnaques à la romance, aux cryptomonnaies ou des pyramides de Ponzi : ces sites étaient majoritairement opérés par des ressortissants chinois, dont 148 ont été extradés vers la Chine, selon la justice malgache.
+- Treize centres de cyber-escroquerie ont été démantelés entre août et septembre à Madagascar lors d'une opération conjointe avec les autorités américaines qui a permis la saisie de "52 millions de dollars de cryptomonnaies" ainsi que de "3.200 appareils électroniques", d'après la justice américaine (DoJ).
+- L'Office des Nations Unies contre la drogue et le crime (UNODC) avait mis en garde l'an passé contre l'expansion de ces réseaux, notamment en Afrique australe.
 
-## [Binance : 6 milliards de dollars en crypto envolés en 20 minutes et une course contre la ...](https://www.lesechos.fr/finance-marches/marches-financiers/binance-6-milliards-de-dollars-en-crypto-envoles-en-20-minutes-et-une-course-contre-la-montre-le-recit-du-casse-du-siecle-2260264)  
-*Source : lesechos.fr | Publication : 2026-10-30*
+## [A Madagascar, des centres d'arnaque déplacés du Cambodge exploitaient des Africains](https://www.boursorama.com/actualite-economique/actualites-amp/a-madagascar-des-centres-d-arnaque-deplaces-du-cambodge-exploitaient-des-africains-15a74f24c2445eae322801ca3f55f612)  
+*Source : boursorama.com | Publication : 2026-10-31*
 
-- « C'est le plus grand vol cyber de l'histoire, et pas seulement dans la crypto », résume Aneirin Flynn, patron de la société de cybersécurité FailSafe.
+- A Madagascar, des centres d'arnaque déplacés du Cambodge exploitaient des Africains information fournie par AFP 31/10/2026 à 16:57 Derrière des centres d'arnaques en ligne à Madagascar se cache un groupe criminel qui opérait au Cambodge et dupait des ressortissants africains dans une apparente traite d'êtres humains, a appris l'AFP auprès des autorités malgaches qui ont mené de récents raids.
+- Arnaques à la romance, aux cryptomonnaies ou des pyramides de Ponzi : ces sites étaient majoritairement opérés par des ressortissants chinois, dont 148 ont été extradés vers la Chine, selon la justice malgache.
+- Treize centres de cyber-escroquerie ont été démantelés entre août et septembre à Madagascar lors d'une opération conjointe avec les autorités américaines qui a permis la saisie de "52 millions de dollars de cryptomonnaies" ainsi que de "3.200 appareils électroniques", d'après la justice américaine (DoJ).
+- L'Office des Nations Unies contre la drogue et le crime (UNODC) avait mis en garde l'an passé contre l'expansion de ces réseaux, notamment en Afrique australe.
 
-## [Le casse du siècle - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES - L'1FO Tech par L ...](https://www.linformaticien.com/magazine/cybersecurite/972-hacks-menaces/65431-le-casse-du-siecle.html)  
-*Source : linformaticien.com | Publication : 2026-10-30*
+## [AiSOC arrive sur GitHub, le SOC open source avec agents IA - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/28904/aisoc-soc-open-source-agents-ia-fr)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-31*
 
-- Benoit GrunemwaldExpert en Cybersécurité chez ESET France, ajoute : << La cryptographie n'a pas besoin d'être cassée pour qu'un portefeuille soit vidé.
-
-## [Hameçonnage de cabinets d'avocats | McCarthy Tétrault et Davies victimes de vols de données](https://www.lapresse.ca/affaires/entreprises/2026-10-29/hameconnage-de-cabinets-d-avocats/mccarthy-tetrault-et-davies-victimes-de-vols-de-donnees.php)  
-*Source : lapresse.ca | Publication : 2026-10-30*
-
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- AiSOC arrive sur GitHub, le SOC open source avec agents IA Le SOC open source AiSOC de Cyble arrive sur GitHub avec des agents IA, un registre d'enquête signé et la licence MIT, mais aussi des limites nettes.
+- 1.Ce que fait AiSOC, étape par étape - 2.De quelle machine a-t-on besoin pour le faire tourner ?.
+- - 3.Comment l'agent raisonne et qui le contrôle - 4.Quand l'agent de triage se fait piéger - 5.L'audit écrit contre soi-même - 6.Qui paie et ce qui reste gratuit - 7.Où se situe-t-il face à Wazuh et aux autres SIEM - 8.Questions fréquentes (FAQ) - 9.À essayer en laboratoire, pas encore en production - 10.Notez cet article - 11.Articles Connexes - 12.Recherchez-vous un Ingénieur Logiciel?.
+- - AiSOC est un Security Operations Center (SOC, le centre qui surveille les alertes de sécurité d'une entreprise) open source, installable sur ses propres serveurs et publié sous licence MIT.
