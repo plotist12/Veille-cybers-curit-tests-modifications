@@ -1,5 +1,185 @@
 [
   {
+    "id": "63a7ecf049",
+    "title": "Nice : Appels à projets 2027 pour l'IA et la <b>cybersécurité</b> - Presse Agence",
+    "link": "https://presseagence.fr/nice-numerique-leurope-lance-ses-appels-a-projets-2027-pour-lia-et-la-cybersecurite/",
+    "source": "presseagence.fr",
+    "pub_date": "2026-11-02",
+    "summary": "- NICE : Numérique – L’Europe lance ses appels à… Partager : NICE : Numérique – L’Europe lance ses appels à projets 2027 pour l’IA et la cybersécurité Les programmes européens Horizon Europe et Digital Europe ouvrent leurs appels à projets 2027, une opportunité pour les entreprises du numérique.\n- Intelligence artificielle, robotique, cybersécurité ou encore mondes virtuels : les entreprises innovantes de la Région Sud sont invitées à saisir les opportunités de financement offertes par les programmes Horizon Europe et Digital Europe pour 2027.\n- Présentées lors d’un récent webinaire organisé par la Région, ces enveloppes, complétées par un appel national sur la cybersécurité, visent à renforcer la souveraineté numérique du continent et à accélérer l’adoption des technologies de pointe.\n- Horizon Europe : 460 millions d’euros pour la recherche Le programme Horizon Europe, dédié à la recherche et à l’innovation, consacrera 460 millions d’euros à son volet numérique (cluster 4) en 2027.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "22ba1786fe",
+    "title": "Des pirates ont dérobé 6,3 milliards $US en cryptomonnaie - InfoBref",
+    "link": "https://infobref.com/piratage-binance-2026-11/",
+    "source": "infobref.com",
+    "pub_date": "2026-11-01",
+    "summary": "- Des pirates ont dérobé 6,3 milliards $US en cryptomonnaie Publié aujourd'hui Ce vol a été commis jeudi soir aux dépens de Binance, la plus grande plateforme d’échange de cryptomonnaies au monde.\n- Il serait le plus important de l’histoire du secteur.\n- - Le FBI et plusieurs experts en cybersécurité ont déterminé que la Corée du Nord en est responsable.\n- Binance a rapidement suspendu la possibilité pour ses clients de retirer leurs fonds, avant de la rétablir progressivement à partir de dimanche.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "30eec926c8",
+    "title": "Pi-hole + Unbound : DNS Privé en 13 Étapes, 75 Min [2026] - shattered.io",
+    "link": "https://shattered.io/fr/pi-hole-unbound-dns-prive-tutoriel-2026/",
+    "source": "shattered.io",
+    "pub_date": "2026-11-01",
+    "summary": "- Chaque appareil de la maison pose sans cesse des questions DNS, et la plupart partent en clair vers le résolveur de votre fournisseur d’accès.\n- Pi-hole intercepte ces requêtes, écarte celles qui mènent à des régies publicitaires, à des traceurs ou à des domaines malveillants, puis laisse passer le reste.\n- Associé à Unbound, il cesse aussi de confier vos requêtes à un tiers, car votre propre machine interroge directement les serveurs racines et les serveurs faisant autorité.\n- Le choix de l’outil se discute, et Pi-hole face à AdGuard Home et NextDNS pèse les trois options côté coût et usage.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "352ddfd4c4",
+    "title": "Nigéria : La <b>cybercriminalité</b> commence à bien faire ! La NCC appelle à renforcer la sécurité en ligne",
+    "link": "https://www.digitalbusiness.africa/nigeria-la-cybercriminalite-commence-a-bien-faire-la-ncc-appelle-a-renforcer-la-securite-en-ligne/",
+    "source": "digitalbusiness.africa",
+    "pub_date": "2026-11-01",
+    "summary": "- [DIGITAL Business Africain] – Fermer les portes des systèmes à double tour.\n- La cybercriminalité ne recule pas, constate la NCC à l’occasion de la deuxième édition de la Conférence internationale sur la cybersécurité (ICSC), de ce mardi 28 octobre 2026.\n- Conformément à sa mission de protéger les consommateurs, la Commission nigériane des communications (NCC) a évoqué la nécessité d’une collaboration plus étroite.\n- Le thème de la conférence était : « La cyber-résilience à l’ère de l’IA : défendre les esprits, les réseaux et la nation ».",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "28e9790d79",
+    "title": "Approuvé par les États-Unis, ce drone de 18 kg est équipé d'un fusil à pompe et d'un lance-grenade",
+    "link": "https://www.science-et-vie.com/technos-et-futur/approuve-par-les-etats-unis-ce-drone-de-18-kg-est-equipe-dun-fusil-a-pompe-et-dun-lance-grenade-265035.html",
+    "source": "science-et-vie.com",
+    "pub_date": "2026-11-01",
+    "summary": "- Le 26 octobre 2026, Skyborne Technologies a inscrit son drone Cerberus MI sur la liste Blue UAS du Pentagone.\n- - Le Cerberus MI, équipé d'un fusil et d'un lance-grenade, est conçu pour être réutilisable et contrôlé par un opérateur humain.\n- - Découvrez comment le Cerberus MI révolutionne l'usage des drones militaires avec sa technologie avancée et sa réutilisabilité.\n- - Ce résumé généré par IA a été validé par les journalistes de la rédaction.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "0b507bdb35",
+    "title": "Les petites entreprises sont ciblées par les cybercriminels | Genève Home Informations",
+    "link": "https://ghi.ch/articles/les-petites-entreprises-sont-ciblees-par-les-cybercriminels",
+    "source": "ghi.ch",
+    "pub_date": "2026-11-01",
+    "summary": "- La cybermenace est devenue l’une des principales sources d’inquiétude des dirigeants un fléau qui ne touche pas seulement les grands groupes, mais aussi les boulangers, architectes ou fiduciaires.\n- Les fédérations d’entreprises multiplient prévention et formation.\n- La vulnérabilité identifiée la semaine dernière à l'échelle internationale au sein de PHP, le langage de programmation qui actionne près de 70% des sites Internet de la planète, est loin d’être anecdotique.\n- La faille permettait à des pirates d'exécuter du code à distance sans authentification.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "0f0622076b",
+    "title": "Azeem Azhar (Exponential View) : &quot;Le prochain grand gisement de revenus de l'IA viendra ...",
+    "link": "https://www.lexpress.fr/economie/high-tech/azeem-azhar-exponential-view-les-alertes-danthropic-sur-les-dangers-de-lia-relevent-dun-argument-SK6DPLASSVHN3I6LZ6RELSYEAE/",
+    "source": "lexpress.fr",
+    "pub_date": "2026-11-01",
+    "summary": "- Des données personnelles dérobées au fisc cet été au vol, jeudi 29 octobre, de plusieurs milliards de dollars en cryptoactifs, en passant par la récente faille découverte dans le langage informatique PHP, qui menace 70 % des sites web : la cybersécurité s'invite presque quotidiennement dans l'actualité.\n- Disons-le d'emblée, tout n'est pas imputable à l'intelligence artificielle.\n- Mais la technologie est l'éléphant dans la pièce.\n- L'IA trouve les failles plus vite, elle accélère les attaques.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "ea12686232",
+    "title": "Une innovation israélienne primée à l'international - IsraJ - MediaJ",
+    "link": "https://israj.media-j.com/article/73436/une-innovation-israelienne-primee-a-linternational",
+    "source": "israj.media-j.com",
+    "pub_date": "2026-11-01",
+    "summary": "- Une recherche israélienne consacrée à la cybersécurité des infrastructures énergétiques vient de recevoir le prix du meilleur article scientifique -Best Paper Award- lors de l’atelier CPSS, organisé dans le cadre de la conférence internationale ASIA-CCS à Bangalore, en Inde.\n- Soutenu par le ministère de l’Énergie et des Infrastructures, le projet répond à un enjeu stratégique : protéger les centrales électriques et les installations énergétiques contre les cyberattaques, une menace particulièrement sensible en période de guerre.\n- Les chercheurs ont développé une méthode qui utilise l’intelligence artificielle pour identifier des comportements inhabituels dans les systèmes informatiques chargés de surveiller et de contrôler les installations industrielles.\n- Ces anomalies peuvent constituer les premiers signes d'une intrusion malveillante et permettre une détection plus précoce des menaces.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "3abb9fb487",
+    "title": "Mistral AI : les poids de Large 4 sont publiés, « Le Chonk » à mille milliards de paramètres ...",
+    "link": "https://refrance.fr/mistral-ai-les-poids-de-large-4-sont-publies-le-chonk-a-mille-milliards-de-parametres-en-acces-libre/",
+    "source": "refrance.fr",
+    "pub_date": "2026-11-01",
+    "summary": "- Mistral AI a publié le jeudi 29 octobre les poids de Mistral Large 4, son modèle d’un billion de paramètres, comme promis lors de la présentation du 6 octobre.\n- Licence, prix, résultats : explications.\n- Mistral AI a rendu publics, jeudi 29 octobre, les poids de Mistral Large 4, surnommé « Le Chonk » par l’entreprise, apprend-on dans un communiqué publié sur son site.\n- Le modèle, présenté en préversion le 6 octobre, avait fait l’objet d’une promesse : les poids annoncés pour la fin octobre.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "c0a5d6511c",
+    "title": "6,3 milliards de dollars de cryptomonnaies dérobés chez Binance : le FBI accuse Pyongyang",
+    "link": "https://fr.news.yahoo.com/fbi-accuse-corée-nord-piratage-081659634.html",
+    "source": "fr.news.yahoo.com",
+    "pub_date": "2026-11-01",
+    "summary": "- 6,3 milliards de dollars de cryptomonnaies dérobés chez Binance : le FBI accuse Pyongyang Selon l'Agence américaine de cybersécurité et de sécurité des infrastructures (CISA), TraderTraitor est un groupe de pirates nord-coréen soutenu par l'État, lié à des vols de cryptomonnaies et à des tactiques de cyberattaque depuis au moins 2020.\n- Le Federal Bureau of Investigation (FBI) des États-Unis a accusé la Corée du Nord d'être à l'origine d'un important piratage visant la plateforme d'échange de cryptomonnaies Binance plus tôt cette semaine.\n- Binance a été victime de ce que son co-directeur général Richard Teng a décrit comme une \"attaque complexe\", au cours de laquelle des pirates ont accédé à ses portefeuilles en ligne et ont dérobé 6,3 milliards de dollars d'actifs numériques.\n- \"Le Federal Bureau of Investigation (FBI) diffuse des informations indiquant que la République populaire démocratique de Corée (Corée du Nord) est responsable du vol de plus de 6 milliards USD d'actifs virtuels sur la plateforme d'échange de cryptomonnaies Binance, le ou vers le 29 octobre 2026\", a indiqué le FBI dans un communiqué samedi.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "0cdf475f09",
+    "title": "Même hors ligne, cette IA chinoise cherche à transmettre des données à Pékin - 01net.com",
+    "link": "https://www.01net.com/actualites/meme-hors-ligne-cette-ia-chinoise-cherche-a-transmettre-des-donnees-a-pekin.html",
+    "source": "01net.com",
+    "pub_date": "2026-11-01",
+    "summary": "- Le laboratoire d’IA canadien Cohere a publié lundi 26 octobre les résultats d’un test embarrassant pour Alibaba.\n- Ses équipes affirment avoir observé Qwen3.8-Flash-Next, l’un des derniers modèles ouverts du géant chinois, tenter de transmettre des données vers un serveur de stockage situé à Pékin.\n- La requête s’est heurtée à l’environnement de test, volontairement coupé d’Internet.\n- Une règle antivirus demandée, un envoi vers Pékin tenté Le protocole s’appuyait sur un banc d’essai conçu par Microsoft, qui place des IA dans la peau d’un analyste en cybersécurité.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "979cd67b99",
+    "title": "Wave plaide à Bamako pour une <b>cybersécurité</b> partagée du mobile money - Africtelegraph",
+    "link": "https://africtelegraph.com/blog/wave-plaide-a-bamako-pour-une-cybersecurite-partagee-du-mobile-money/",
+    "source": "africtelegraph.com",
+    "pub_date": "2026-11-01",
+    "summary": "- La question de la cybersécurité du mobile money s’est invitée au cœur du débat public malien lors de la 4e édition des Journées Nationales de Cybersécurité (JNC), tenues à Bamako sous l’égide de l’Autorité malienne de régulation des télécommunications, des TIC et des postes (AMRTP).\n- Placée sous le thème de l’intelligence artificielle et des nouveaux défis du cyberespace, cette édition a réuni institutions publiques, experts et entreprises du numérique autour d’une préoccupation désormais stratégique pour l’Afrique de l’Ouest : la résilience des canaux de paiement électronique.\n- Parmi les intervenants, la fintech Wave a défendu une lecture industrielle du sujet.\n- L’entreprise, qui revendique plus de 15 000 points de vente au Mali, s’inscrit dans un marché où le paiement mobile est devenu la principale porte d’entrée vers les services financiers formels.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "144c917249",
+    "title": "Conférence <b>cybersécurité</b> à Cleppé. - Actualité illiwap de Mairie de Mizérieux",
+    "link": "https://station.illiwap.com/fr/public/42143/actu/conference-cybersecurite-a-cleppe",
+    "source": "station.illiwap.com",
+    "pub_date": "2026-11-01",
+    "summary": "- Conférence cybersécurité à Cleppé.\n- 01/11/2026.\n- Partagez l'article.\n- Partager sur Facebook · Partager sur LinkedIn · Partager sur Twitter · Parger.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "cebf7925ff",
+    "title": "<b>Cybersécurité</b> et finance numérique : Wave appelle à une mobilisation collective ... - Financial Afrik",
+    "link": "https://www.financialafrik.com/2026/11/01/cybersecurite-et-finance-numerique-wave-appelle-a-une-mobilisation-collective-pour-renforcer-la-confiance-des-utilisateurs/",
+    "source": "financialafrik.com",
+    "pub_date": "2026-11-01",
+    "summary": "- Hadjarata Ouattara, Bamako.\n- À l’occasion de la 4ᵉ édition des Journées Nationales de Cybersécurité (JNC), organisée à Bamako, Wave Mali a réaffirmé l’importance d’une collaboration renforcée entre les acteurs publics et privés pour sécuriser les services financiers numériques et accompagner leur développement.\n- Placée sous le thème « L’intelligence artificielle et le cyberespace : nouveaux défis pour la cybersécurité », cette quatrième édition des Journées Nationales de Cybersécurité, organisée par l’Autorité malienne de régulation des télécommunications, des technologies de l’information et de la communication (AMRTP), a réuni des représentants des institutions publiques, des experts et des entreprises du secteur numérique.\n- Présent à cette rencontre, Cheick Touradou Sissoko, Directeur du développement des affaires de Wave pour le Mali, le Niger, le Burkina Faso et la Côte d’Ivoire, est revenu sur les enjeux de sécurité qui accompagnent le développement des services financiers numériques, ainsi que sur la nécessité d’une mobilisation collective pour protéger les utilisateurs.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "6492960d33",
+    "title": "CGECI Academy 2026 : Orange Côte d'Ivoire mise sur la formation de talents locaux pour ...",
+    "link": "https://www.agenceecofin.com/actualites-numerique/0111-142972-cgeci-academy-2026-orange-cote-d-ivoire-mise-sur-la-formation-de-talents-locaux-pour-renforcer-la-souverainete-numerique",
+    "source": "agenceecofin.com",
+    "pub_date": "2026-11-01",
+    "summary": "- (Agence Ecofin) - Face aux besoins croissants en compétences numériques, Orange Côte d’Ivoire mise sur la formation des talents locaux.\n- Cette ambition rejoint le plan d’accélération numérique 2026-2028 de l’État ivoirien, qui prévoit 40 projets prioritaires, notamment dans le développement des compétences numériques.\n- La formation de compétences locales dans les métiers du cloud, de la cybersécurité et de l’intelligence artificielle constitue un enjeu pour la souveraineté numérique de la Côte d’Ivoire.\n- C’est le message porté par Orange Côte d’Ivoire, lors du panel « Bâtir des champions nationaux de la connaissance », organisé le jeudi 29 octobre 2026, en marge de la CGECI Academy, au Sofitel Abidjan Hôtel Ivoire, à Cocody.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "e3d9a24dad",
+    "title": "Les opérations de machine learning peuvent révolutionner la <b>cybersécurité</b> - IBM",
+    "link": "https://www.ibm.com/fr-fr/think/news/machine-learning-operations-can-revolutionize-cybersecurity",
+    "source": "ibm.com",
+    "pub_date": "2026-11-01",
+    "summary": "- Le MLOps (opérations de machine learning) désigne les pratiques et les outils utilisés pour rationaliser le déploiement, la gestion et la surveillance des modèles de machine learning dans les environnements de production.\n- Si le MLOps est généralement associé aux workflows de science des données et de machine learning, son intégration à la cybersécurité apporte de nouvelles capacités pour détecter les menaces et y répondre en temps réel.\n- Il consiste à rationaliser le déploiement et la gestion des modèles machine learning pour permettre aux entreprises de tirer des informations de grands volumes de données et d’améliorer leur posture de sécurité globale.\n- Le MLOps est un domaine relativement récent qui combine machine learning et ingénierie logicielle.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "c367bf822b",
+    "title": "Un pirate affirme détenir les données de 615 000 personnes liées à Autosur - Clubic",
+    "link": "https://www.clubic.com/actualite-637012-un-pirate-affirme-detenir-les-donnees-de-615-000-personnes-liees-a-autosur.html",
+    "source": "clubic.com",
+    "pub_date": "2026-11-01",
+    "summary": "- Noms, prénoms et numéros de portable de clients d’Autosur sont en vente depuis le 31 octobre sur un forum de cybercriminels.\n- Leur vendeur, ChimeraZ, parle de près de 800 000 fiches, sans dire comment il les a obtenues.\n- Encore et toujours lui.\n- C'est ce qu'annonce FrenchBreaches.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "59bb7ad7c6",
+    "title": "Faux invitations Anthropic, une attaque de phishing vole les mots de passe Google et Microsoft",
+    "link": "https://pasqualepillitteri.it/fr/news/28980/faux-invitations-apercu-anthropic-phishing-cofense",
+    "source": "pasqualepillitteri.it",
+    "pub_date": "2026-11-01",
+    "summary": "- Faux invitations Anthropic, une attaque de phishing vole les mots de passe Google et Microsoft Cofense décrit une campagne de phishing avec de fausses invitations à un aperçu privé d'Anthropic, envoyées via GoTo Webinar, pour voler les identifiants Google et Microsoft.\n- Les plus lus Cybersécurité Outils IA & Avis Jeux Vidéo IA en local Intelligence Artificielle Gemini Biotech et longévité Actualités IA & Tendances Big Tech OpenAI Grok Google Rapports et Analyses ChatGPT Infrastructure Agents IA Droit & Réglementation Électronique IA chinoise Événements Meta Claude Finance Apple Nvidia Domotique Guides Amazon Mistral Tesla IA pour Professionnels Anthropic Économie & Business Robotique Télémédecine Microsoft Open Source.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "ad66465fb2",
+    "title": "Mistral AI ouvre à Orange Cyberdefense l'accès anticipé à une version spécialisée de Large 4",
+    "link": "https://www.lemondeinformatique.fr/actualites/lireamp-mistral-ai-ouvre-a-orange-cyberdefense-l-acces-anticipe-a-une-version-specialisee-de-large-4-100890.html",
+    "source": "lemondeinformatique.fr",
+    "pub_date": "2026-11-01",
+    "summary": "- Alors que Mistral vient d’ouvrir les poids de son modèle Large 4, le fournisseur français s'associe à Orange Cyberdefense premier partenaire européen pour la conception de services de sécurité managés.\n- Dans le cadre de son programme Design Partner, la filiale d'Orange bénéficiera d'un accès anticipé à une version spécialisée, conçue pour répondre à plusieurs problématiques opérationnelles.\n- Les premiers travaux porteront sur les tests d'intrusion et les audits techniques.\n- L'objectif est d'aider les experts à explorer davantage de scénarios d'attaque et à identifier les vulnérabilités des systèmes d'information.",
+    "added_on": "2026-11-02"
+  },
+  {
+    "id": "404f0817ba",
+    "title": "Si Washington coupe le robinet, on fait quoi ? La France dispose désormais de sa propre IA ...",
+    "link": "https://www.journaldugeek.com/2026/11/01/mistral-france-dispose-ia-cybersecurite/",
+    "source": "journaldugeek.com",
+    "pub_date": "2026-11-01",
+    "summary": "- En octobre, le laboratoire d’IA français Mistral a fait les titres de la presse, en dévoilant Mistral Large 4.\n- Par rapport aux précédents modèles Mistral, celui-ci progresse fortement en matière d’intelligence.\n- Et grâce à cette progression, Mistral Large 4 fait également partie de l’un des meilleurs modèles ouverts dans le monde (en concurrence principalement avec les technologies chinoises).\n- Selon TechCrunch, Mistral compare les performances générales de ML4 à celles de GLM-5.3, développé par la startup chinoise Z.ai, tout en consommant moins de ressources.",
+    "added_on": "2026-11-02"
+  },
+  {
     "id": "ae82ef1cc8",
     "title": "A Madagascar, des centres d'arnaque déplacés du Cambodge exploitaient des Africains",
     "link": "https://actu.orange.fr/monde/a-madagascar-des-centres-d-arnaque-deplaces-du-cambodge-exploitaient-des-africains-CNT000002tueIm.html",
