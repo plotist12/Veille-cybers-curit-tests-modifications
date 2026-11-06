@@ -1,5 +1,153 @@
-# Résumés – 2026-11-04
+# Résumés – 2026-11-06
 
+
+## [CERT Santé | Agence du Numérique en Santé](https://esante.gouv.fr/produits-services/cybersecurite/cert-sante)  
+*Source : esante.gouv.fr | Publication : 2026-11-06*
+
+- Vous êtes confronté à un incident de cybersécurité ou une cyberattaque ?.
+- Rançongiciel, exfiltration de données, compromission de comptes : signalez l'incident au CERT Santé via le Portail des signalements ou au 09 72 43 91 25 en cas d'urgence.
+- Les missions du CERT Santé Le CERT Santé contribue à la résilience collective nécessaire pour surmonter les difficultés relatives aux attaques et aux conséquences éventuelles : une baisse significative d’activité de soins, des pertes financières et un impact sur la confiance du système de soins.
+- Traiter les signalements Accompagner les établissements dans la réponse aux incidents de sécurité.
+
+## [Cyberattaque du Crédit Mutuel Arkéa : un prestataire piraté, des millions blanchis en crypto ...](https://www.01net.com/actualites/cyberattaque-du-credit-mutuel-arkea-un-prestataire-pirate-des-millions-blanchis-en-crypto-tout-ce-que-lon-sait-sur-lenquete-en-cours.html)  
+*Source : 01net.com | Publication : 2026-11-06*
+
+- Ce mercredi 4 novembre, le Crédit Mutuel Arkéa a reconnu avoir été victime d’une cyberattaque d’envergure.
+- L’offensive s’est terminée par « la réalisation d’opérations frauduleuses » qui ont fait disparaitre plus de 100 millions d’euros.
+- Le groupe, qui compte 5,6 millions de clients en France, assure que l’incident est désormais « circonscrit ».
+- Selon les informations qui circulent, les pirates ont détourné 133 millions de dollars, soit environ 118 millions d’euros.
+
+## [<b>Cybersécurité</b> et ESS : comment protéger votre structure des risques numériques ? | 6 novembre](https://www.lillemetropole.fr/evenements/cybersecurite-et-ess-comment-proteger-votre-structure-des-risques-numeriques-or-6-novembre)  
+*Source : lillemetropole.fr | Publication : 2026-11-05*
+
+- Votre quotidien Vivre à la MEL Logement - Accès au numérique - Gestion des déchets - Animations / visites - Eau & assainissement - Agriculture locale - - Entreprendre Installation - Développement - Marchés publics de la MEL - Appels à projets | Appels à candidatures | Appels à Manifestations d'Intérêts - Cessions immobilières - - Se déplacer - Sortir Grands événements - Espaces naturels métropolitains - Culture - Tourisme - Sport - Tous les événements de la Métropole - - Vivre à la MEL Logement - Accès au numérique - Gestion des déchets - Animations / visites - Eau & assainissement - Agriculture locale - - Entreprendre Installation - Développement - Marchés publics de la MEL - Appels à projets | Appels à candidatures | Appels à Manifestations d'Intérêts - Cessions immobilières - - Se déplacer - Sortir Grands événements - Espaces naturels métropolitains - Culture - Tourisme - Sport - Tous les événements de la Métropole - - - Vivre à la MEL - Votre métropole - Votre avis - Vos démarches - Médiathèque - Recherche 3 résultats Les recherches les plus fréquentes : Accueil - Votre quotidien - Evénements - Cybersécurité et ESS : comment protéger votre structure des risques numériques ?.
+- | 6 novembre - Cybersécurité et ESS : comment protéger votre structure des risques numériques ?.
+- | 6 novembre Atelier - Emploi - Formation - Numérique - Cyberattaques, protection des données, risques numériques : votre structure est-elle suffisamment protégée ?.
+- La cybersécurité ne concerne pas uniquement les grandes entreprises.
+
+## [Les campus cyber signent une charte commune - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/65455-les-campus-cyber-signent-une-charte-commune.html)  
+*Source : linformaticien.com | Publication : 2026-11-05*
+
+- Réunis à Puteaux pour la première édition de Territoires numériques qui clôture le Cybermois 2026, les Campus Cyber national et territoriaux ont.
+
+## [Programme CaRE | Agence du Numérique en Santé](https://esante.gouv.fr/produits-services/cybersecurite/programme-care)  
+*Source : esante.gouv.fr | Publication : 2026-11-05*
+
+- Le numérique transforme la santé, mais il ne peut le faire sans sécurité.
+- Le Programme CaRE offre un cadre opérationnel et financier pour accompagner les établissements dans la mise en oeuvre de leur stratégie de cybersécurité, en cohérence avec les exigences réglementaires et les enjeux de résilience.
+- Ensemble, construisons un écosystème de santé plus sûr et plus résilient !.
+- Qu’est-ce que le Programme CaRE ?.
+
+## [<b>Cybermenace</b> : l'épisode des frigos marque-t-il le début d'attaques sur les infrastructures physiques](https://www.lesoir.be/781217/article/2026-11-05/cybermenace-lepisode-des-frigos-marque-t-il-le-debut-dattaques-sur-les)  
+*Source : lesoir.be | Publication : 2026-11-05*
+
+- Le Centre pour la cybersécurité en Belgique affirme que les signalements de cyberincidents sont en hausse.
+- - REUTERS.
+- Arthur Sente.
+- Décodage - Chef.
+
+## [« Aujourd'hui, ce sont les frigos, demain, ce sont les climatiseurs qui seront piratés »](https://www.huffingtonpost.fr/tech-futurs/article/aujourd-hui-ce-sont-les-frigos-demain-ce-sont-les-climatiseurs-qui-seront-pirates_352520.html)  
+*Source : huffingtonpost.fr | Publication : 2026-11-05*
+
+- Des chambres froides à 110 degrés au lieu de -30.
+- L’Établissement français du sang (EFS) a confirmé mercredi 4 novembre avoir été la cible d’une cyberattaque, révélée par Le Canard enchaîné. «.
+- La sécurité des stocks a pu être préservée grâce aux dispositifs de surveillance et d’alarme des installations, ainsi qu’aux mesures de précaution immédiatement mises en œuvre », a assuré le ministère de la Santé dans la foulée.
+- Cet épisode est le deuxième en quelques semaines à cibler des frigos connectés ; en octobre, des centaines de supermarchés avaient été visées via un prestataire.
+
+## [Aéronautique, spatial : développement, décarbonation, « l'intelligence artificielle est un ...](https://www.sudouest.fr/societe/defense/aeronautique-spatial-developpement-decarbonation-l-intelligence-artificielle-est-un-accelerateur-31379790.php)  
+*Source : sudouest.fr | Publication : 2026-11-05*
+
+- Ce vendredi 6 novembre, la filière aéronautique et spatiale se retrouve sur le site d’Aérocampus à Lastrène, en Gironde, pour une journée dédiée aux enjeux de la digitalisation.
+- Entretien avec Catherine Jestin, la vice-présidente exécutive digital d’Airbus À l’initiative du Groupement des industries françaises aéronautiques et spatiales (Gifas), toute la filière a rendez-vous ce vendredi 6 novembre à l’Aérocampus de Lastrène, en Gironde.
+- Au programme, plusieurs tables rondes sur l’intelligence artificielle (IA), la cybersécurité, la continuité numérique, les données, la chaîne d’approvisionnement ou encore le manufacturing.
+- Catherine Jestin, vice-présidente exécutive digital d’Airbus, est la présidente de la commission digitale du Gifas.
+
+## [braquage 2.0 » du Crédit Mutuel Arkéa est un séisme pour le secteur bancaire - Challenges](https://www.challenges.fr/entreprise/avec-lia-nous-allons-assister-a-une-boucherie-dans-les-prochains-mois-pourquoi-le-braquage-20-du-credit-mutuel-arkea-est-un-seisme-pour-le-secteur-bancaire_646857)  
+*Source : challenges.fr | Publication : 2026-11-05*
+
+- « Avec l’IA, nous allons assister à une boucherie dans les prochains mois » : pourquoi le « braquage 2.0 » du Crédit Mutuel Arkéa est un séisme pour le secteur bancaire Crédit mutuel Arkéa s’est fait dérober une centaine de millions d’euros depuis l’un de ses comptes propres.
+- Si la banque affirme être la seule victime de cette cyberattaque, ses clients n’ayant pas été touchés, la place financière est sidérée.
+- Malgré les sommes colossales qu’elles consacrent à la protection de leurs systèmes, les banques ne sont plus invulnérables : aidés par l’IA, les pirates n’ont pas fini de percer des forteresses.
+- Personne n’osait le formuler tellement le risque était impensable.
+
+## [Frigos de supermarchés piratés : face à la multiplication des attaques, l'Europe sonne l'alerte](https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-de-supermarches-pirates-face-a-la-multiplication-des-attaques-leurope-sonne-lalerte.AUI23MIM3RFKLM74OKGAU4REPU.html)  
+*Source : usine-digitale.fr | Publication : 2026-11-05*
+
+- cybersécurité.
+- Les capacités de Mistral Large 4 seront progressivement intégrées aux services de cybersécurité d'Orange Cyberdefense.
+- L'objectif.
+
+## [ENTRETIEN. &quot;Cyber-casse&quot; du Crédit Mutuel Arkéa : &quot;L'IA finit toujours par trouver le maillon ...](https://www.ladepeche.fr/2026/11/05/entretien-cyber-casse-du-credit-mutuel-arkea-lia-finit-toujours-par-trouver-le-maillon-faible-faut-il-sinquieter-pour-nos-banques-et-pour-nos-comptes-13637761.php)  
+*Source : ladepeche.fr | Publication : 2026-11-05*
+
+- ENTRETIEN.
+- "Cyber-casse" du Crédit Mutuel Arkéa : "L'IA finit toujours par trouver le maillon faible..." faut-il s'inquiéter pour nos banques et pour nos comptes ?.
+- l'essentiel Le Crédit Mutuel Arkéa a subi une cyberattaque majeure début novembre, malgré sa récente distinction en cybersécurité.
+- Les pirates ont détourné 100 000 millions d'euros convertis en crypto-monnaies.
+
+## [<b>Ransomware</b> chez Logsytech Group : des données sensibles compromises par... - FrenchBreaches](https://frenchbreaches.com/alertes/logsytech-group-rw_VEc5bmMzbDBaV05vSUVkeWIzVndRSFJvWldkbGJuUnNaVzFsYmc)  
+*Source : frenchbreaches.com | Publication : 2026-11-05*
+
+- Cyberattaque : le groupe français Logsytech revendiqué comme victime par le ransomware The Gentlemen Le groupe français Logsytech, spécialisé dans la logistique et les solutions informatiques, apparaît sur une plateforme d'extorsion associée au groupe de ransomware The Gentlemen.
+- Les cybercriminels menacent de rendre publiques des informations concernant l'entreprise.
+- À ce stade, la nature des données éventuellement dérobées reste inconnue.Le groupe français Logsytech ciblé par des cybercriminels Une nouvelle entreprise française apparaît sur une plateforme utilisée par des groupes de ransomware pour faire pression sur leurs victimes présumées.
+- Le 5 novembre 2026, Logsytech Group figure parmi les organisations répertoriées sur un site d'extorsion attribué au groupe de cybercriminels The Gentlemen.
+
+## [GPT-6 Cyber : OpenAI lance sa nouvelle IA pour la <b>cybersécurité</b> - KultureGeek](https://kulturegeek.fr/news-363396/gpt-6-cyber-openai-lance-nouvelle-ia-cybersecurite)  
+*Source : kulturegeek.fr | Publication : 2026-11-05*
+
+- OpenAI vient de dévoiler GPT-6 Cyber, un nouveau modèle d’intelligence artificielle spécialisé dans la cybersécurité.
+- Capable de détecter des vulnérabilités complexes, de développer des exploits fonctionnels et d’aider à corriger des failles de sécurité, il obtient la classification « Critique », le niveau de risque le plus élevé dans le référentiel de sécurité de l’entreprise.
+- En raison de ses capacités offensives, son accès est pour le moment réservé à un groupe restreint de professionnels de la sécurité informatique.
+- GPT-6 Cyber se distingue des modèles IA généralistes par sa spécialisation dans la recherche de vulnérabilités et le développement d’exploits.
+
+## [Une cyberattaque redoutable vise des smartphones Android et des iPhone : voici comment ...](https://www.01net.com/actualites/une-cyberattaque-redoutable-vise-des-smartphones-android-et-des-iphone-voici-comment-se-proteger.html)  
+*Source : 01net.com | Publication : 2026-11-05*
+
+- L’entreprise de cybersécurité française Sekoia a publié ce 4 novembre 2026 une enquête faisant état d’une vaste campagne de piratage, visant aussi bien des smartphones Android qu’iOS.
+- Ces attaques n’impliquent aucun téléchargement ou clic : la simple consultation d’une page infectée suffit à déclencher l’exécution du code malveillant sur l’appareil de la victime.
+- Des smartphones Android et des iPhone ciblés par des cyberattaques L’attaque dont il est ici question n’implique aucun clic, téléchargement ou approbation d’autorisation de la part de la victime.
+- La simple ouverture d’une page infectée suffit à déclencher l’attaque.
+
+## [Le vol chez Binance renforce la nécessité d'une <b>cybersécurité</b> plus forte. - Quartz](https://fr.qz.com/trm-labs-ari-redbord-binance-vol-cyberscurit)  
+*Source : fr.qz.com | Publication : 2026-11-05*
+
+- Briefing quotidien gratuit sur l'actualité économique mondiale.
+- Ari Redbord de TRM Labs : le vol de Binance souligne le besoin d'une cybersécurité renforcée.
+
+## [Paris : <b>Cybersécurité</b> et Cyber Monday, attention à l'alerte - Presse Agence](https://presseagence.fr/paris-cybersecurite-lexces-dalertes-un-piege-pour-le-cyber-monday/)  
+*Source : presseagence.fr | Publication : 2026-11-05*
+
+- À Paris, la cybersécurité face au Cyber Monday : pourquoi la multiplication des alertes peut fragiliser les entreprises selon l'expert Olivier.
+
+## [OpenAI lance GPT-6 Cyber, avec une classification « critique » en matière de <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/openai-lance-gpt-6-cyber-avec-une-classification-critique-en-matiere-de-cybersecurite-ce785fddd98ff627)  
+*Source : zonebourse.com | Publication : 2026-11-05*
+
+- OpenAI a mis GPT-6 Cyber, un modèle conçu pour détecter et exploiter des failles de sécurité, à la disposition d'un petit groupe de clients.
+
+## [Crédit Mutuel Arkéa : les questions en suspens après la cyberattaque - Orange Actu](https://actu.orange.fr/economie/credit-mutuel-arkea-les-questions-en-suspens-apres-la-cyberattaque-CNT000002tzCrw.html)  
+*Source : actu.orange.fr | Publication : 2026-11-05*
+
+- Crédit Mutuel Arkéa : les questions en suspens après la cyberattaque © Fred TANNEAU, AFP - Des questions en suspens après la cyberattaque qui a touché la banque Crédit Mutuel Arkéa pour un préjudice qui pourrait dépasser 100 millions d'euros La cyberattaque qui a touché la banque Crédit Mutuel Arkéa, pour un préjudice qui pourrait dépasser 100 millions d'euros, pose de nombreuses questions sur la manière dont les pirates ont opéré, et sur la manière d'éviter de nouvelles attaques.
+- Comment s'est déroulée l'attaque ?.
+- La banque a dénoncé une "attaque sophistiquée venant de l'extérieur", et a assuré qu'il n'y a pas eu d'erreur humaine en interne.
+- Les attaquants ont "utilisé le compte propre de Crédit Mutuel Arkéa pour réaliser des transactions vers d'autres acteurs bancaires, qui leur ont ensuite potentiellement permis de convertir cet argent en cryptomonnaie via des plateformes spécialisées.
+
+## [&quot;On n'a pas pensé à les sécuriser ni à auditer leur sécurité&quot;: la nouvelle cyberattaque contre ...](https://www.bfmtv.com/tech/cybersecurite/on-n-a-pas-pense-a-les-securiser-ni-a-auditer-leur-securite-la-nouvelle-cyberattaque-contre-les-refrigerateurs-de-supermarches-reflet-du-manque-d-anticipation-et-de-preparation-des-entreprises-face-aux-cybercriminels_AV-202611050686.html)  
+*Source : bfmtv.com | Publication : 2026-11-05*
+
+- "On n'a pas pensé à les sécuriser ni à auditer leur sécurité": la nouvelle cyberattaque contre les réfrigérateurs de supermarchés, reflet du manque d'anticipation et de préparation des entreprises face aux cybercriminels Belgique, Irlande, Estonie, Italie.
+- La nuit et la journée du 2 novembre n'ont pas été de tout repos pour l'Union européenne.
+- Des milliers de réfrigérateurs de supermarchés dans douze de ses États membres ont été touchés par une cyberattaque, trois semaines après un incident similaire en France.
+- Comme dans l'Hexagone, des réfrigérateurs sont montés jusqu'à 50 degrés et des tonnes de nourriture ont été gâchées, pour des millions d'euros de pertes.
+
+## [Le Collège Saint-Alexandre victime d'une brèche de <b>cybersécurité</b> - Le Droit](https://www.ledroit.com/actualites/education/2026/11/05/le-college-saint-alexandre-victime-dune-breche-de-cybersecurite-W35ROQ2IANDW5FTRHLUBPBCC7I/)  
+*Source : ledroit.com | Publication : 2026-11-05*
+
+- Dans une missive transmise aux parents jeudi, l’école secondaire indique avoir découvert le 27 octobre dernier qu’un tiers non autorisé avait accédé au compte courriel de l’un de ses employés.
+- Un nombre «limité» de messages du compte compromis ont été consultés, et ce, pendant une courte période.
+- «Dès cette découverte, nous avons immédiatement pris des contre-mesures afin de prévenir tout autre accès non autorisé, notamment en réinitialisant le mot de passe du compte concerné.
+- Nous avons également engagé des experts externes en cybersécurité afin d’enquêter sur les causes et la portée de l’incident», écrit le Collège.
 
 ## [IA et <b>cybersécurité</b> : l'UIR inaugure le Centre EDGE - Lebrief](https://www.lebrief.ma/ia-et-cybersecurite-luir-inaugure-le-centre-edge-100172308/)  
 *Source : lebrief.ma | Publication : 2026-11-04*
