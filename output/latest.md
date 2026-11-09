@@ -1,150 +1,143 @@
-# Résumés – 2026-11-07
+# Résumés – 2026-11-08
 
 
-## [<b>Cybersécurité</b> : comment les PME romandes font face aux attaques - RTS](https://www.rts.ch/info/economie/2026/article/cybersecurite-comment-les-pme-romandes-font-face-aux-attaques-29408936.html)  
-*Source : rts.ch | Publication : 2026-11-07*
+## [<b>Cybersécurité</b> : un projet de loi très attendu arrive à l'Assemblée - Mediapart](https://www.mediapart.fr/journal/fil-dactualites/091126/cybersecurite-un-projet-de-loi-tres-attendu-arrive-l-assemblee)  
+*Source : mediapart.fr | Publication : 2026-11-08*
 
-- A Martigny, un séminaire sensibilise des cadres et des collaborateurs de PME romandes aux risques et aux bonnes pratiques pour protéger leurs données.
-- Face à la menace des cyberattaques, les PME forment leurs employés à l'autodéfense numérique Sans vigilance humaine, les données d’une entreprise peuvent facilement être exposées.
-- Pour Jean-Frédéric Lasserre, expert en cybersécurité et directeur sécurité et conformité chez AWSMTECH, le principal danger est l’interruption de l’activité.
-- "Je pense que l’interruption de vos services, de votre activité, à la suite d’un problème informatique majeur, quel qu’il soit – paralysie, chantage, rançongiciel –, représente le risque numéro un", souligne-t-il samedi dans le 19h30 de la RTS.
+- Deux ans après sa première lecture au Sénat, et un retour manqué début octobre, un projet de loi sur la cybersécurité doit arriver à l’Assemblée nationale lundi en séance publique, après un long débat sur les messageries chiffrées et un été marqué par de nouvelles cyberattaques.
+- Depuis le 29 juin 2025, notre confrère Christophe Gleizes, journaliste pour Society et So Foot, est emprisonné en Algérie.
+- Nous ne l’oublions pas et réclamons sa libération.
 
-## [IA militaire autonome : documents dévoilent le projet - Slash Média](https://slashmedia.ch/5069-des-documents-mettent-au-jour-un-projet-dia-militaire-autonome-visant-les-adversaires-americains/)  
-*Source : slashmedia.ch | Publication : 2026-11-07*
+## [Concessions automobiles : Nextlane place le cloud au cœur de la <b>cybersécurité</b>](https://itrmobiles.com/articles/211578/concessions-automobiles-nextlane-place-le-cloud-au-coeur-de-la-cybersecurite.html)  
+*Source : itrmobiles.com | Publication : 2026-11-08*
 
-- Montrer le sommaire Cacher le sommaire Le Pentagone développe un projet ambitieux d’armes numériques automatisées.
-- Des documents révélés par The Intercept présentent ECHOTRIBBLE, un cadre d’intelligence artificielle autonome destiné à détecter et neutraliser des menaces étrangères, et pour lequel l’armée recherche des partenaires privés.
-- Une initiative affichée, pas totalement secrète À la différence de programmes entièrement classifiés, ECHOTRIBBLE apparaît dans des annonces publiques.
-- Le site du Cyber Fusion Innovation Center (CFIC) contient des éléments de documentation et, ce mois-ci, l’équipe a organisé un exercice d’évaluation mené à distance.
+- Veuillez activer Javascript pour accéder au site web.
 
-## [Un agent IA de piratage échappé de son bac à sable s'est introduit chez WorkOS](https://fr.martincid.com/technologie/un-agent-ia-de-piratage-echappe-de-son-bac-a-sable-sest-introduit-chez-workos/)  
-*Source : fr.martincid.com | Publication : 2026-11-07*
+## [Comparatif SIEM 2026 : Sentinel, Splunk, Wazuh, Elastic - Tech Insider](https://tech-insider.org/fr/siem-comparatif-sentinel-splunk-elastic-wazuh-graylog-google-secops-2026/)  
+*Source : tech-insider.org | Publication : 2026-11-08*
+
+- SIEM : 6 Plateformes, Splunk ES 8.8 et Wazuh 4.14 [2026].
+- Nadia Dubois; 8 November 2026; Cybersécurité · Nadia Dubois.
+
+## [Examen du projet de loi relatif à la résilience des infrastructures critiques et au renforcement ...](https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-et-au-renforcement-de-la-cybersecurite)  
+*Source : assemblee-nationale.fr | Publication : 2026-11-08*
+
+- Du lundi 9 au vendredi 13 novembre 2026, l'Assemblée nationale examine, en première lecture, le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité.
+- Suivre l'examen sur le portail vidéo Du lundi 9 au vendredi 13 novembre 2026, l'Assemblée nationale examine, en première lecture, le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité.
+- Suivre l'examen sur le portail vidéo.
+
+## [Des entreprises en faillite cèdent les données de leurs clients - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2299189/donnees-consommateurs-ventes-entreprises-faillite)  
+*Source : ici.radio-canada.ca | Publication : 2026-11-08*
+
+- Des entreprises en faillite cèdent les données de leurs clients Les données de la clientèle, dont les adresses de courriel, les adresses postales et les numéros de téléphone, peuvent être cédées ou même vendues en cas de faillite d'une entreprise.
+- Photo : Getty Images / d3sign La Presse canadienne - Selon des experts en protection de la vie privée et en insolvabilité, les Canadiens devraient redoubler de vigilance quant à leurs données lorsque des entreprises font faillite.
+- En effet, de nombreuses entreprises en situation d'insolvabilité finissent par rembourser leurs dettes en vendant des actifs, tels que les données des consommateurs.
+- Lorsque Toys "R" Us Canada s'est placée sous la protection de la loi sur la faillite et l'insolvabilité, elle a transféré les noms de ses clients, leurs coordonnées, les informations relatives à leurs comptes ainsi que l'historique de leurs transactions à une entreprise qui avait acquis les droits relatifs aux marques commerciales de l'enseigne.
+
+## [Le ministre italien de l'Intérieur convoque une réunion sur les menaces liées à la <b>cybersécurité</b>](https://www.aa.com.tr/fr/politique/le-ministre-italien-de-l-intérieur-convoque-une-réunion-sur-les-menaces-liées-à-la-cybersécurité/4116309)  
+*Source : aa.com.tr | Publication : 2026-11-08*
+
+- Matteo Piantedosi réunit mardi le Comité national de l’ordre et de la sécurité publics afin d’examiner les risques liés aux cyberattaques.
+
+## [Des voix de PDG clonées par l'IA ont soutiré 129 millions de dollars à des hôpitaux](https://fr.martincid.com/technologie/des-voix-de-pdg-clonees-par-lia-ont-soutire-129-millions-de-dollars-a-des-hopitaux/)  
+*Source : fr.martincid.com | Publication : 2026-11-08*
 
 - Cinéma Technologie Musique Science Affaires et finances Sports Art Plus Livres Personnes Style Théâtre Histoire Actualités mondiales Santé Français English Español Deutsch Français Dansk हिन्दी Italiano 日本語 한국어 Norsk bokmål Polski Português (PT) Português (BR) Română Русский Svenska Türkçe Tiếng Việt 简体中文 繁體中文 Español (Latinoamérica) ✕.
 - Cinéma Technologie Musique Science Affaires et finances Sports Art Plus Livres Personnes Style Théâtre Histoire Actualités mondiales Santé Français English Español Deutsch Français Dansk हिन्दी Italiano 日本語 한국어 Norsk bokmål Polski Português (PT) Português (BR) Română Русский Svenska Türkçe Tiếng Việt 简体中文 繁體中文 Español (Latinoamérica) ✕ Appuyez sur Entrée pour rechercher.
 
-## [<b>Cybermenaces</b> en Europe. L'Italie veut placer la guerre hybride au cœur du G7 de Paris](https://www.destimed.fr/cybermenaces-en-europe-litalie-veut-placer-la-guerre-hybride-au-coeur-du-g7-de-paris/)  
-*Source : destimed.fr | Publication : 2026-11-07*
+## [La France renforce enfin son arsenal face aux cyberattaques - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/la-france-renforce-enfin-son-arsenal-face-aux-cyberattaques-20261108)  
+*Source : lefigaro.fr | Publication : 2026-11-08*
 
-- Publié le 7 novembre 2026 à 19h52 - Dernière mise à jour le 7 novembre 2026 à 19h52 Le ministre italien des Affaires étrangères, Antonio Tajani, a annoncé ce samedi 7 novembre avoir demandé que la guerre hybride figure au centre des discussions du G7 prévu lundi à Paris.
-- Cette initiative intervient alors que le chef de la diplomatie italienne dénonce des menaces et la diffusion de données personnelles le concernant, ainsi que sa famille, sur le dark web.
-- Il met en cause le groupe de pirates informatiques prorusse NoName057(16).
-- L’Europe connaît depuis plusieurs jours une succession d’incidents informatiques et d’alertes à la bombe visant notamment les transports aériens.
+- La France renforce enfin son arsenal face aux cyberattaques DÉCRYPTAGE - Après une longue attente, le texte sur la résilience des infrastructures critiques et la cybersécurité va être examiné à partir de ce lundi à l’Assemblée nationale.
+- Passer la publicité« C’est un texte de mobilisation générale », assure le député Éric Bothorel.
+- Alors que le nombre d’attaques informatiques contre des entreprises et des administrations ne cesse d’augmenter, le projet de loi dit « résilience », dont il est rapporteur, est examiné à partir de lundi à l’Assemblée nationale.
+- L’aboutissement d’une interminable attente.
 
-## [Tor Browser 16 arrive et peut masquer les titres des fenêtres - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/31013/tor-browser-16-titres-fenetre-generiques)  
-*Source : pasqualepillitteri.it | Publication : 2026-11-07*
+## [Le head tracking des AirPods 3 arrive sur Linux grâce à MousePods - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/31143/head-tracking-airpods-3-arrive-sur-linux-mousepods)  
+*Source : pasqualepillitteri.it | Publication : 2026-11-08*
 
-- Tor Browser 16 arrive et peut masquer les titres des fenêtres Tor Browser 16 sort sur Firefox ESR 153 avec une option qui masque les titres de fenêtre aux autres applications.
-- Elle est désactivée par défaut.
-- Les plus lus Cybersécurité IA chinoise Économie & Business Jeux Vidéo Tutoriels Infrastructure Agents IA Droit & Réglementation Nvidia Actualités IA & Tendances Benchmarks et Comparatifs Électronique Apple Rapports et Analyses Anthropic Claude OpenAI Mistral Gemini Meta Finance Microsoft Outils IA & Avis Développement Logiciel UI/UX Design Startup et Business ChatGPT Robotique Applis Mobiles Médecine IA pour Professionnels Grok IA en local Intelligence Artificielle Biotech et longévité Big Tech Google.
+- Le head tracking des AirPods 3 arrive sur Linux grâce à MousePods MousePods apporte le suivi de tête des AirPods 3 à Linux, sans appareil Apple.
+- Claude Code a trouvé la clé en un après-midi, jusqu'à 210 Hz.
+- 1.Ce que MousePods fait avec les écouteurs - 2.Pourquoi les AirPods 3 semblaient sans prise en charge - 3.Comment Claude Code a travaillé - 4.Ce qui fonctionne vraiment - 5.De la souris au TrackIR pour les simulateurs - 6.Le rapport avec LibrePods - 7.Questions fréquentes (FAQ) - 8.Ce qui change pour les utilisateurs de Linux - 9.Notez cet article - 10.Articles Connexes - 11.Recherchez-vous un Ingénieur Logiciel?.
+- - Le head tracking des AirPods 3 fonctionne désormais sur Linux.
 
-## [L'IA a bouleversé la <b>cybersécurité</b> : et maintenant - Le Fil IA](https://www.lefilia.fr/article/6450250-l-ia-a-bouleverse-la-cybersecurite-et-maintenant)  
-*Source : lefilia.fr | Publication : 2026-11-07*
+## [<b>Cybercriminalité</b> : 5 754 incidents signalés en dix mois, le harcèlement en ligne en tête](https://ionnews.mu/cybercriminalite-5-754-incidents-signales-en-dix-mois-le-harcelement-en-ligne-en-tete/)  
+*Source : ionnews.mu | Publication : 2026-11-08*
 
-- L'IA a bouleversé la cybersécurité : et maintenant ?.
-- Alex Stamos, directeur de la sécurité de Cognition et enseignant au Stanford Cyber Policy Center, décrit un mois d'octobre marqué par une vague continue de compromissions dans l'industrie technologique.
-- Octobre est traditionnellement le mois de la sensibilisation à la cybersécurité, mais cette année, plusieurs failles majeures touchant notamment PHP et Node ont été suivies d'un grand nombre de piratages moins médiatisés.
-- Plusieurs « neoclouds » spécialisés dans l'IA ont été visés successivement, tout comme la plateforme Binance, dont le vol est présenté comme le plus important de l'histoire.
+- La cybercriminalité continue de représenter un défi majeur à Maurice.
+- Selon les chiffres du Mauritian Cybercrime Online Reporting System.
 
-## [Claude Code dévoile votre e-mail aux sites web, le bug du User-Agent - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/30673/claude-code-user-agent-email-fuite)  
-*Source : pasqualepillitteri.it | Publication : 2026-11-07*
+## [Orange Côte d'Ivoire appelle les entreprises à intégrer la <b>cybersécurité</b> dans leur gouvernance](https://www.agenceecofin.com/actualites-numerique/0811-143223-orange-cote-d-ivoire-appelle-les-entreprises-a-integrer-la-cybersecurite-dans-leur-gouvernance)  
+*Source : agenceecofin.com | Publication : 2026-11-08*
 
-- Claude Code dévoile votre e-mail aux sites web, le bug du User-Agent Claude Code glisse l'e-mail de l'utilisateur dans le User-Agent.
-- Le correctif 2.1.317 ne bloque pas tout, selon des tests.
-- Comment vérifier et se protéger.
-- 1.Ce qui s'est passé avec l'e-mail dans Claude Code - 2.Pourquoi l'e-mail se retrouve dans le User-Agent - 3.Le correctif d'Anthropic, le module cc-plugin-privacy - 4.Les tests sur la 2.1.318, le blocage ne se déclenche pas - 5.Comment vérifier si Claude Code a envoyé votre e-mail - 6.Comment se protéger dès maintenant - 7.Pourquoi donner l'e-mail au modèle, la question restée sans réponse - 8.Foire aux questions (FAQ) - 9.Conclusions - 10.Notez cet article - 11.Articles Connexes - 12.Recherchez-vous un Ingénieur Logiciel?.
+- (Agence Ecofin) - En Afrique, les organisations subissent en moyenne plus de 3 200 cyberattaques par semaine, soit 72 % de plus que la moyenne mondiale.
+- Cette progression des menaces renforce la nécessité d’intégrer la cybersécurité dans la stratégie de gouvernance et de prévention des risques des entreprises.
+- La cybersécurité s’impose désormais comme un enjeu de gouvernance pour les entreprises ivoiriennes.
+- Lors de l’édition 2026 de l'Orange Cyber Connect, organisée le jeudi 5 novembre à Abidjan, Orange Côte d’Ivoire a appelé les organisations à renforcer leurs dispositifs de protection face à des cybermenaces de plus en plus sophistiquées, notamment par l’intelligence artificielle. «.
 
-## [La <b>cybercriminalité</b> n'épargne pas le monde rural - Le Journal du Centre](https://www.lejdc.fr/charite-sur-loire-58400/actualites/la-cybercriminalite-nepargne-pas-le-monde-rural_15077438/)  
-*Source : lejdc.fr | Publication : 2026-11-07*
+## [Le NIST publie son guide de <b>cybersécurité</b> pour les solopreneurs](https://dcod.ch/2026/11/08/nist-guide-de-cybersecurite-pour-solopreneurs/)  
+*Source : dcod.ch | Publication : 2026-11-08*
 
-- « Nous devons, avec nos organisations d’élus, réfléchir à mieux informer nos populations sur les problèmes de cybercriminalité.
-- Nous ne les prévenons jamais assez des risques. ».
-- Partager : A la une Votre argent Article réservé aux abonnés « Nous devons, avec nos organisations d’élus, réfléchir à mieux informer nos populations sur les problèmes de cybercriminalité.
-- Nous ne les prévenons jamais assez des risques. ».
+- TL;DR : L’essentiel Le texte transpose les principes du CSF 2.0 pour les solo-entrepreneurs sans expertise informatique.
+- - Les mesures ciblent en priorité l’authentification multifacteur, les sauvegardes isolées et la gestion de l’IA.
+- - Des scénarios concrets décrivent les actions adaptées à un avocat, un e-commerçant et un consultant.
+- - Le National Institute of Standards and Technology a mis en ligne un guide officiel de cybersécurité pour les entreprises sans salarié, comme l’indique le NIST.
 
-## [À découvrir : Deepsafe, une web app de prévention pour ados](https://dcod.ch/2026/11/07/deepsafe-app-de-prevention/)  
-*Source : dcod.ch | Publication : 2026-11-07*
+## [Segonzac : une intervention de la Cnil pour sensibiliser à la protection des données](https://www.charentelibre.fr/charente/segonzac/segonzac-une-intervention-de-la-cnil-pour-sensibiliser-a-la-protection-des-donnees-31398312.php)  
+*Source : charentelibre.fr | Publication : 2026-11-08*
 
-- Deepsafe est une application web gratuite lancée par la Police cantonale valaisanne avec le Service de l’enseignement, Promotion santé Valais et l’association Declick, sous forme de court jeu interactif.
-- La ressource traite six situations : envoi et réception de nudes, repartage d’images intimes, sextorsion, deepfakes et grooming, avec explications, cadre légal suisse, bons réflexes et ressources d’aide.
-- Cette initiative propose un découpage par scénarios et au rappel concret de la loi suisse, souvent absent des supports de sensibilisation généralistes.
-- Comme mentionné dans le communiqué de presse, le format ludique facilite la discussion autour de sujets sensibles, utiles dès qu’une organisation encadre des jeunes, des apprentis ou des publics vulnérables, et aide à cadrer une réponse cohérente quand un signalement remonte.
+- Segonzac : une intervention de la Cnil pour sensibiliser à la protection des données France Services a proposé un temps d’information à propos de la cybersécurité pour les ados et les parents.
+- Une dizaine de personnes étaient présentes pour écouter le médiateur de la Cnil.
+- Lundi 2 novembre, Sandra Da Silva et Florence Robert de France Services ont organisé une soirée dédiée à la cybersécurité avec un intervenant de la Commission nationale informatique et libertés (Cnil), Julien.
+- Lundi 2 novembre, Sandra Da Silva et Florence Robert de France Services ont organisé une soirée dédiée à la cybersécurité avec un intervenant de la Commission nationale informatique et libertés (Cnil), Julien Drochon, en charge de la médiation.
 
-## [Comment créer un VPN avec WireGuard sur un VPS, guide pas à pas - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/30998/creer-vpn-wireguard-vps)  
-*Source : pasqualepillitteri.it | Publication : 2026-11-07*
+## [Passbolt : Coffre d'Équipe en 13 Étapes, 60 Min [2026] - Tech Insider](https://tech-insider.org/fr/passbolt-coffre-equipe-docker-gpg-smtp-2026/)  
+*Source : tech-insider.org | Publication : 2026-11-08*
 
-- Comment créer un VPN avec WireGuard sur un VPS, guide pas à pas Créer un VPN personnel avec WireGuard sur un VPS Linux, avec clés, pare-feu, transfert IP et applications.
-- Que vérifier quand le tunnel est actif mais sans internet ?.
-- 1.Un VPN maison n'est pas un VPN commercial - 2.Ce qu'il faut avant de commencer - 3.Étape 1, installer WireGuard sur le serveur - 4.Étape 2, générer les clés - 5.Étape 3, le fichier de configuration du serveur - 6.Étape 4, routage IP, pare-feu et démarrage - 7.Étape 5, configurer le téléphone et l'ordinateur portable - 8.Ajouter un appareil sans couper les autres - 9.Handshake réussi, mais internet ne marche pas - 10.Trois règles pour ne pas offrir votre VPN - 11.WireGuard à la main ou Tailscale - 12.Mises à jour et maintenance - 13.Questions fréquentes - 14.Par où reprendre - 15.Notez cet article - 16.Articles Connexes - 17.Recherchez-vous un Ingénieur Logiciel?.
-- - Pour monter un VPN personnel avec WireGuard, il faut un VPS Linux, deux fichiers de configuration et un après-midi.
+- Passbolt : Coffre d'Équipe en 13 Étapes, 60 Min [2026].
+- Nadia Dubois; 8 November 2026; Cybersécurité · Nadia Dubois.
 
-## [Épinal : la gendarmerie ouvre ses portes aux jeunes dirigeants pour présenter ses métiers](https://vosgesinfo.fr/epinalinfo/2026/11/epinal-la-gendarmerie-ouvre-ses-portes-aux-jeunes-dirigeants-pour-presenter-ses-metiers/)  
-*Source : vosgesinfo.fr | Publication : 2026-11-07*
+## [Au Japon des bornes d'arcade Mario Kart perturbées après un piratage chez Sega - Clubic](https://www.clubic.com/actualite-638239-au-japon-des-bornes-d-arcade-mario-kart-perturbees-apres-un-piratage-chez-sega.html)  
+*Source : clubic.com | Publication : 2026-11-08*
 
-- Le groupement de gendarmerie des Vosges a accueilli les membres du Centre des jeunes dirigeants (CJD) d’Épinal pour une soirée de découverte consacrée aux métiers, aux équipements et aux missions des militaires.
-- Une rencontre placée sous le signe des échanges et de la prévention.
-- Comment fonctionne une enquête criminelle ?.
-- Quels sont les risques liés aux cyberattaques pour les entreprises ?.
+- Dans de nombreuses salles d’arcade japonaises, il a été impossible de lancer une course sur les bornes Mario Kart pendant plusieurs jours.
+- Un intrus s’est introduit dans les serveurs du réseau de Sega auquel elles sont reliées, et l’éditeur a dû couper l’ensemble du service.
+- Ce réseau s’appelle ALL.Net.
+- Sega l’a lancé en 2004 pour relier les bornes d’arcade à ses serveurs, avec les mises à jour automatiques et le jeu en ligne.
 
-## [Sécurité, cyberattaque contre le tunnel du Brenner. Société : « Enquête en cours »](https://fr.lapresse.it/actualite/2026/11/07/securite-cyberattaque-contre-le-tunnel-du-brenner-societe-enquete-en-cours/)  
-*Source : fr.lapresse.it | Publication : 2026-11-07*
+## [<b>Cybercriminalité</b> : Brelotte Ba, patron de la Sonatel, victime d'une usurpation d'identité, saisit la DSC](https://www.lactuacho.com/cybercriminalite-brelotte-ba-patron-de-la-sonatel-victime-dune-usurpation-didentite-saisit-la-dsc/)  
+*Source : lactuacho.com | Publication : 2026-11-08*
 
-- Bolzano, 7 nov.
-- (LaPresse) – Une cyberattaque ciblée a touché les systèmes de la société de la galerie de base du Brenner.
-- Bbt Se elle-même le confirme, tout en précisant que ses activités opérationnelles n’ont subi aucune conséquence : « Bbt Se a été victime d’une cyberattaque ciblée au cours de laquelle des personnes non autorisées ont eu accès à des données accessibles via Internet.
-- Dès que l’incident a été détecté, la société a activé ses protocoles de cybersécurité, en procédant à l’isolement immédiat des systèmes concernés et en faisant appel à des spécialistes externes en cybersécurité pour effectuer les analyses forensiques nécessaires.
+- Le directeur général de la Sonatel, Brelotte Ba, a saisi la Division spéciale de cybersécurité (DSC) d’une plainte contre X pour usurpation d’identité, de fonction et tentative d’escroquerie.
+- Un individu utiliserait frauduleusement son nom, sa qualité et sa photographie pour tromper plusieurs personnes.
+- L’identité du directeur général de la Sonatel, Brelotte Ba, aurait été utilisée à des fins frauduleuses.
+- Selon les informations rapportées par le quotidien Libération, le responsable de l’opérateur de télécommunications a déposé une plainte contre X auprès de la Division spéciale de cybersécurité (DSC), dénonçant des faits présumés d’usurpation d’identité, d’usurpation de fonction et de tentative d’escroquerie.
 
-## [Cybermatch, cabinet de recrutement en <b>cybersécurité</b> - 07/11 : Actualités - Orange Actu](https://actu.orange.fr/videos/economie/guillaume-seraphine-cybermatch-cybermatch-cabinet-de-recrutement-en-cybersecurite-07-11-CNT000002tBHP3.html)  
-*Source : actu.orange.fr | Publication : 2026-11-07*
+## [Norton : il sacrifie le prix de ses formules antivirus pour le Black Friday - MacPlus](https://www.macplus.net/depeche-268480-norton-sacrifie-prix-formules-antivirus-black-friday)  
+*Source : macplus.net | Publication : 2026-11-08*
 
-- Guillaume Séraphine (Cybermatch) :Cybermatch, cabinet de recrutement en cybersécurité - 07/11 par BFMBUSINESS BFM BUSINESS PARTENAIRE - Ce samedi 7 novembre, Guillaume Séraphine, président fondateur de Cybermatch, s'est penché sur l'état du marché de recrutement des meilleurs experts dans le domaine de la cybersécurité, dans l'émission Paroles d'entreprises présentée par Vincent Touraine.
-- Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business.
-- Cette émission a été réalisée par notre partenaire Médias France.
-- Vidéo suivante dans 5 secondes Autres vidéos 02:38Monde - Pologne : un tireur "fasciné par l'extrême droite" abat six personnes à Cracovie - 02:13Économie - Crise bancaire au Paraguay: l'argent peu à peu restitué aux épargnants, l'angoisse et la colère restent - 01:45Monde - Yémen : 33 morts dans des frappes saoudiennes, selon les Houthis - 01:29Monde - Trump veut Dana White, patron de la fédération de MMA, comme porte-parole de la Maison Blanche - 01:28Monde - En Uruguay, le pape dénonce la violence et appelle les jeunes à fonder une famille - 00:24Économie - Crise bancaire au Paraguay : le président destitué Santiago Peña placé en détention préventive - 07/11Économie - Hausse du Smic : ne pas nuire à l'emploi, demande Farandou - 07/11Économie - Iran : l'armée vante sa force, le Qatar salue un engagement américain à trouver un accord - 07/11Économie - Tarifs de l'électricité pour les particuliers: "stables" jusqu'à la fin de l'hiver, selon le PDG d'EDF - 07/11Monde - Damas déploie des soldats au Yémen et en Arabie saoudite, selon des responsables yéménites à l'AFP - 07/11Économie - Colère sociale : malgré une mobilisation en baisse, des dizaines de milliers de manifestants "toujours là" - 07/11Politique - La large coalition suggérée par Macron "décrédibilise la politique", estime Glucksmann - 07/11Monde - Gaza : des pluies diluviennes privent d'abri des dizaines de milliers de déplacés - 07/11France - Sûr de sa force, Mélenchon prévient en meeting qu'il ne déviera pas de sa ligne - 07/11Politique - Gouvernement : le ministre Mathieu Lefèvre va remplacer au porte-parolat Maud Bregeon pendant son congé maternité - 07/11Faits divers - Le procès en appel du policier qui a tué Olivio Gomes s'ouvre lundi - 07/11France - Six ans après, trois policiers jugés pour l'agression du producteur noir Michel Zecler - 07/11Politique - Présidentielle : hors la primaire, la contre-programmation d'Édouard Philippe - 07/11Politique - "Je ne suis pas le même" : Philippe souligne ses "différences" avec Macron - 07/11Monde - Controverse après la remise au fils du chah d'un prix destiné au peuple iranien - 07/11Économie - Le monde du livre tourmenté après une rentrée difficile - 07/11France - Cambriolage au palace parisien Plaza Athénée : deux hommes seront jugés en janvier - 07/11Culture - Fan fiction : des millions de lecteurs privés d'histoires après une cyberattaque - 07/11Monde - L'Ukraine touchée par des frappes russes "massives" contre le réseau énergétique - 07/11Monde - En Uruguay, le pape appelle à "transmettre la joie de la foi" et "construire des ponts" - 07/11Faits divers - Retour aux assises pour l'"homme au borsalino", vieux braqueur "introspectif" - 07/11Politique - Présidentielle : les députés qui soutiennent LFI se sont mis "en dehors du parti", dit le PCF - 07/11Monde - Législatives en Nouvelle-Zélande: le conservateur sortant croit pouvoir former le prochain gouvernement - 07/11Faits divers - Le navigateur Kevin Escoffier au tribunal pour quatre agressions sexuelles - 07/11Culture - Après Londres et Broadway, la pièce à suspense "2H22" à Paris avec Louane - 07/11Monde - Visite du pape : dans une ville d'Uruguay, des espoirs de retombées et des doutes - 07/11France - Lycéen poignardé : le suspect présenté à un juge d'instruction pour tentative d'homicide volontaire - 07/11Monde - Trump promeut Stephen Miller, représentant de la droite dure, à un poste stratégique - 07/11Monde - Stephen Miller, cerveau de la répression antimigrants sous Trump - 07/11Politique - En meeting, Philippe critique Mélenchon, sa "vision communautariste" et son "économie administrée" - 07/11Monde - Malaisie : rififi entre roi et procureur concernant la grâce de l'ex-Premier ministre - 07/11Économie - Comme les voitures ?.
+- Avec plus de 35 ans d'expérience dans l'univers de la cybersécurité et plusieurs millions d'utilisateurs protégés à travers le monde, Norton est.
 
-## [<b>Cybersécurité</b> - Fédération bancaire française (FBF)](https://fbf.fr/fr/mots-cles/cybersecurite/)  
-*Source : fbf.fr | Publication : 2026-11-07*
+## [<b>Cybersécurité</b> : 14 actualités majeures du 8 novembre 2026 (dont Binance)](https://dcod.ch/2026/11/08/cybersecurite-14-actualites-majeures-du-8-novembre-2026-dont-binance/)  
+*Source : dcod.ch | Publication : 2026-11-08*
 
-- Voir les actions Enregistrer cet article Partager cet article 24/09/2026 Fédération bancaire française Que font les banques françaises pour lutter contre la fraude aux moyens de paiement ?.
+- Faits marquants de la semaine Le FBI attribue à la Corée du Nord le vol de plus de 6 milliards de dollars d’actifs virtuels chez Binance, autour du 29 octobre 2026, via l’APT TraderTraitor (Lazarus Group, APT38).
+- - La banque coopérative française Crédit Mutuel Arkéa a été visée par une attaque via un prestataire, permettant des transactions frauduleuses jusqu’à 133 millions de dollars et la poussant à suspendre certains systèmes.
+- - Des hackers ont accédé à des systèmes de contrôle et augmenté les seuils de température et de dégivrage de trois chambres froides de supermarchés et de banques du sang.
+- - À Amsterdam, des militants ont pénétré sur le chantier d’un datacentre Microsoft.
 
-## [Rome dénonce une cyberattaque liée à son soutien à l'Ukraine - 07/11/2026 à 16:12](https://www.boursorama.com/actualite-economique/actualites-amp/rome-denonce-une-cyberattaque-liee-a-son-soutien-a-l-ukraine-0ef6c7347e589aa8158e7b21bf5b8d7a)  
-*Source : boursorama.com | Publication : 2026-11-07*
+## [La Suisse a un gros problème de cyberattaques - Watson](https://www.watson.ch/fr/suisse/commentaire/408493683-la-suisse-a-un-gros-probleme-de-cyberattaques)  
+*Source : watson.ch | Publication : 2026-11-08*
 
-- Rome dénonce une cyberattaque liée à son soutien à l'Ukraine information fournie par Reuters 07/11/2026 à 16:12 Le ministre italien des Affaires étrangères, Antonio Tajani, a déclaré samedi que ses données personnelles avaient été publiées sur le dark web par ce qu'il a présenté comme des hackers prorusses, ajoutant que cette initiative était liée au soutien apporté par le gouvernement italien à l'Ukraine.
-- La Première ministre italienne, Giorgia Meloni, qui compte parmi les dirigeants occidentaux les plus fermes dans leur soutien à l'Ukraine, a apporté son soutien à Antonio Tajani et estimé que la vente d'informations confidentielles concernant des responsables publics constituait "une question extrêmement préoccupante".
-- Moscou n'a pas commenté l'incident.
-- La Russie a toujours nié toute implication dans des cyberattaques ou opérations de piratage à l'étranger.
+- La cybersécurité en Suisse est une catastrophe Cette fois, la Suisse a été touchée, elle aussi.
+- Dans la nuit de mercredi à jeudi, des cybercriminels ont attaqué les systèmes de refroidissement d’une boucherie à Köniz, près de Berne.
+- La chaîne d'épiceries Volg fait également état de manipulations de ses systèmes de réfrigération.
+- C’est pour le moins inquiétant: même si l’on venait à découvrir que ni bandes organisées, ni États étrangers ne sont à l’origine de ces attaques — mais simplement un jeune hacker faisant des siennes (on ne le sait pas encore; la police cantonale enquête).
 
-## [Guillaume Séraphine (Cybermatch) :Cybermatch, cabinet de recrutement en <b>cybersécurité</b> - 07/11](https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-guillaume-seraphine-cybermatch-cybermatch-cabinet-de-recrutement-en-cybersecurite-07-11_VN-202611070367.html)  
-*Source : bfmtv.com | Publication : 2026-11-07*
+## [Du micro aux lignes de code : Mandione Aïdara concrétise son rêve américain dans la <b>cybersécurité</b>](https://www.seneweb.com/fr/news/Societe/du-micro-aux-lignes-de-code-mandione-aidara-concretise-son-reve-americain-dans-la-cybersecurite_n_999003019.html)  
+*Source : seneweb.com | Publication : 2026-11-08*
 
-- Guillaume Séraphine (Cybermatch) :Cybermatch, cabinet de recrutement en cybersécurité - 07/11 BFM BUSINESS PARTENAIRE - Ce samedi 7 novembre, Guillaume Séraphine, président fondateur de Cybermatch, s'est penché sur l'état du marché de recrutement des meilleurs experts dans le domaine de la cybersécurité, dans l'émission Paroles d'entreprises présentée par Vincent Touraine.
-- Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business.
-- Cette émission a été réalisée par notre partenaire Médias France.
-- | Durée : 4:10.
-
-## [L'IA, pompier ou pyromane de la sécurité ? - La Libre - LaLibre.be](https://www.lalibre.be/economie/digital/2026/11/07/lia-pompier-ou-pyromane-de-la-securite-GCIJVHUD45GDHHCCUG4HMSH2SM/)  
-*Source : lalibre.be | Publication : 2026-11-07*
-
-- L'IA, pompier ou pyromane de la sécurité ?.
-- Les IA dénichent aujourd'hui des failles restées cachées pendant des décennies.
-- Les pirates s'en servent aussi, alors que dans les entreprises, les correctifs mettent de plus en plus de temps à arriver.
-- Publié le 07-11-2026 à 15h58 - Une chronique de Roald Sieberath, entrepreneur (Accelerate.
-
-## [Élections : les Américains rejettent la big tech | Décrypteurs - YouTube](https://www.youtube.com/watch?v=89JTDP24ItI)  
-*Source : youtube.com | Publication : 2026-11-07*
-
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
-
-## [Kinshasa : la souveraineté numérique recommandée face à la domination des géants ...](https://acp.cd/nation/kinshasa-la-souverainete-numerique-recommandee-face-a-la-domination-des-geants-technologiques-etrangers/)  
-*Source : acp.cd | Publication : 2026-11-07*
-
-- - La République démocratique du Congo a été appelée à renforcer ses infrastructures numériques nationales, et sa cybersécurité pour préserver sa.
-
-## [Après avoir piraté les réfrigérateurs de supermarchés, des hackers ont aussi ciblé ... - Science et vie](https://www.science-et-vie.com/technos-et-futur/apres-avoir-pirate-les-refrigerateurs-de-supermarches-des-hackers-ont-aussi-cible-des-banques-de-sang-francaises-pour-modifier-leur-temperature-265658.html)  
-*Source : science-et-vie.com | Publication : 2026-11-07*
-
-- Lundi 2 novembre, des installations frigorifiques de l'Établissement français du sang ont subi une cyberattaque, affectant trois sites régionaux.
-- - Les paramètres des chambres froides ont été modifiés, mais aucune perte de produits sanguins n'a été déclarée grâce à une intervention rapide.
-- - Les systèmes de surveillance indépendants ont permis de détecter l'anomalie à temps, soulignant l'importance de la redondance en cybersécurité.
-- - Ce résumé généré par IA a été validé par les journalistes de la rédaction.
+- Du micro aux lignes de code : Mandione Aïdara concrétise son rêve américain dans la cybersécurité Ancien journaliste à Seneweb, Sénégal7 et au sein du groupe Excaf Telecom, puis cadre commercial chez 3MD Energy, Mandione Aïdara franchit une nouvelle étape majeure dans sa trajectoire professionnelle aux États-Unis.
+- Son parcours illustre avec force la détermination d’un citoyen sénégalais désireux d'embrasser de nouveaux horizons au plus haut niveau.
+- De la presse nationale à l’univers technologique américain, Mandione Aïdara incarne une réussite marquée par l’ambition, la persévérance et la capacité constante à se réinventer.
+- Après plusieurs expériences enrichissantes au Sénégal, il poursuit aujourd’hui son ascension dans un secteur devenu hautement stratégique à l’échelle mondiale : les technologies de l’information et la cybersécurité.
