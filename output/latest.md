@@ -1,143 +1,151 @@
-# Résumés – 2026-11-08
+# Résumés – 2026-11-09
 
 
-## [<b>Cybersécurité</b> : un projet de loi très attendu arrive à l'Assemblée - Mediapart](https://www.mediapart.fr/journal/fil-dactualites/091126/cybersecurite-un-projet-de-loi-tres-attendu-arrive-l-assemblee)  
-*Source : mediapart.fr | Publication : 2026-11-08*
+## [La Maison-Blanche nomme LoSapio, de Palantir, à la tête de l'agence de <b>cybersécurité</b> du ...](https://ch.zonebourse.com/actualite-bourse/la-maison-blanche-nomme-losapio-de-palantir-a-la-tete-de-la-agence-de-cybersecurite-du-departemen-ce785fd3d08af621)  
+*Source : ch.zonebourse.com | Publication : 2026-11-09*
 
-- Deux ans après sa première lecture au Sénat, et un retour manqué début octobre, un projet de loi sur la cybersécurité doit arriver à l’Assemblée nationale lundi en séance publique, après un long débat sur les messageries chiffrées et un été marqué par de nouvelles cyberattaques.
-- Depuis le 29 juin 2025, notre confrère Christophe Gleizes, journaliste pour Society et So Foot, est emprisonné en Algérie.
-- Nous ne l’oublions pas et réclamons sa libération.
+- La Maison-Blanche a annoncé lundi avoir nommé Michael LoSapio au poste de directeur de l'Agence de cybersécurité et de sécurité des.
 
-## [Concessions automobiles : Nextlane place le cloud au cœur de la <b>cybersécurité</b>](https://itrmobiles.com/articles/211578/concessions-automobiles-nextlane-place-le-cloud-au-coeur-de-la-cybersecurite.html)  
-*Source : itrmobiles.com | Publication : 2026-11-08*
+## [Cyberattaque contre les frigos de supermarchés : le parquet de Paris soupçonne l'Iran](https://actu.orange.fr/france/cyberattaque-contre-les-frigos-de-supermarches-le-parquet-de-paris-soupconne-l-iran-l-express-via-6medias-CNT000002tDjVm.html)  
+*Source : actu.orange.fr | Publication : 2026-11-09*
 
-- Veuillez activer Javascript pour accéder au site web.
+- Cyberattaque contre les frigos de supermarchés : le parquet de Paris soupçonne l'Iran Rayon produits laitiers dans un supermarche.
+- Yaourts – Photo by Schneider/ANDBZ/ABACAPRESS.COM – produits laitiers; alimentation; alimentaire; rayon; nourriture; yaourt; yaourts; yoghourt; yoghourts; Agro alimentaire; Agroalimentaire; Caddie ©; Commerce; Economie; GMS; Grande distribution; Grande surface; Grandes et moyennes surfaces; Industrie; Produit Laitier; Produits laitiers; Supermarche; Yaourt; yoghourt; Europe; Europe de l’Ouest; Western Europe; France Près d'un mois après la cyberattaque contre les réfrigérateurs de centaines de supermarchés français, le parquet de Paris a annoncé, lundi 9 novembre, l'ouverture d'une information judiciaire.
+- Les soupçons se portent sur un groupe iranien lié aux Gardiens de la révolution.
+- La piste iranienne se précise.
 
-## [Comparatif SIEM 2026 : Sentinel, Splunk, Wazuh, Elastic - Tech Insider](https://tech-insider.org/fr/siem-comparatif-sentinel-splunk-elastic-wazuh-graylog-google-secops-2026/)  
-*Source : tech-insider.org | Publication : 2026-11-08*
+## [Participation de l'ANSSI à l'European Cyber Week (ECW) 2026](https://cyber.gouv.fr/actualites/anssi-ecw-2026/)  
+*Source : cyber.gouv.fr | Publication : 2026-11-09*
 
-- SIEM : 6 Plateformes, Splunk ES 8.8 et Wazuh 4.14 [2026].
-- Nadia Dubois; 8 November 2026; Cybersécurité · Nadia Dubois.
+- Participation de l’ANSSI à l’European Cyber Week (ECW) 2026 Publié le lundi 9 novembre 2026 Du 16 au 19 novembre 2026, l’ANSSI participera à l’European Cyber Week (ECW), le grand rendez-vous européen des acteurs de la cybersécurité, organisé à Rennes.
+- Durant les quatre jours du salon, les agents de l’ANSSI seront présents sur le stand pour rencontrer l’écosystème cyber dans son ensemble, ainsi que les partenaires internationaux.
+- L’ECW sera également le moment pour l’Agence de parler de sujets importants, tels que NIS 2, le CRA ou encore l’intelligence artificielle.
+- Cette nouvelle édition s’articulera autour de trois thématiques majeures, qui serviront de fil rouge à l’ensemble des conférences, ateliers et tables rondes, et au cours desquels participeront des agents de l’ANSSI.
 
-## [Examen du projet de loi relatif à la résilience des infrastructures critiques et au renforcement ...](https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-et-au-renforcement-de-la-cybersecurite)  
-*Source : assemblee-nationale.fr | Publication : 2026-11-08*
+## [Comment faire face aux cyberattaques pilotées par l'IA ? - Solutions-Numeriques](https://www.solutions-numeriques.com/communiques/comment-faire-face-aux-cyberattaques-pilotees-par-lia/)  
+*Source : solutions-numeriques.com | Publication : 2026-11-09*
 
-- Du lundi 9 au vendredi 13 novembre 2026, l'Assemblée nationale examine, en première lecture, le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité.
-- Suivre l'examen sur le portail vidéo Du lundi 9 au vendredi 13 novembre 2026, l'Assemblée nationale examine, en première lecture, le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité.
-- Suivre l'examen sur le portail vidéo.
+- Les cyberattaquants confient désormais à l’IA une part croissante de leurs opérations et certaines campagnes atteignent un degré d’automatisation élevé.
+- Pour faire face aux cyberattaques pilotées par l’IA, les entreprises doivent accélérer leur capacité de détection et de réponse, en s’appuyant sur une analyse contextualisée des comportements et des protections automatisées, ciblées et réversibles.
+- Dans une opération d’espionnage décrite par Anthropic, un agent IA aurait exécuté 80 à 90 % des opérations tactiques sur une trentaine d’organisations.
+- Des opérateurs humains sont intervenus à des moments clés pour autoriser l’exploitation d’une faille ou choisir les données à exfiltrer, mais l’IA a exécuté l’essentiel de l’attaque.
 
-## [Des entreprises en faillite cèdent les données de leurs clients - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2299189/donnees-consommateurs-ventes-entreprises-faillite)  
-*Source : ici.radio-canada.ca | Publication : 2026-11-08*
+## [Cyberattaque contre des frigos connectés : la France accuse officiellement l'Iran - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-contre-des-frigos-connectes-la-france-accuse-officiellement-l-iran-31461110.php)  
+*Source : sudouest.fr | Publication : 2026-11-09*
 
-- Des entreprises en faillite cèdent les données de leurs clients Les données de la clientèle, dont les adresses de courriel, les adresses postales et les numéros de téléphone, peuvent être cédées ou même vendues en cas de faillite d'une entreprise.
-- Photo : Getty Images / d3sign La Presse canadienne - Selon des experts en protection de la vie privée et en insolvabilité, les Canadiens devraient redoubler de vigilance quant à leurs données lorsque des entreprises font faillite.
-- En effet, de nombreuses entreprises en situation d'insolvabilité finissent par rembourser leurs dettes en vendant des actifs, tels que les données des consommateurs.
-- Lorsque Toys "R" Us Canada s'est placée sous la protection de la loi sur la faillite et l'insolvabilité, elle a transféré les noms de ses clients, leurs coordonnées, les informations relatives à leurs comptes ainsi que l'historique de leurs transactions à une entreprise qui avait acquis les droits relatifs aux marques commerciales de l'enseigne.
+- Le gouvernement français attribue la cyberattaque d’octobre contre des centaines de supermarchés aux Gardiens de la révolution iraniens et annonce des sanctions à venir Les Gardiens de la révolution de la République islamique d’Iran sont derrière la cyberattaque contre les frigos de supermarchés au mois d’octobre en France, a dénoncé lundi le chef de la diplomatie française Jean-Noël Barrot, assurant que des sanctions seraient prises « à l’échelle européenne ».
 
-## [Le ministre italien de l'Intérieur convoque une réunion sur les menaces liées à la <b>cybersécurité</b>](https://www.aa.com.tr/fr/politique/le-ministre-italien-de-l-intérieur-convoque-une-réunion-sur-les-menaces-liées-à-la-cybersécurité/4116309)  
-*Source : aa.com.tr | Publication : 2026-11-08*
+## [Amendement n°306 - Projet de loi relatif à la résilience des infrastructures critiques et au ... - Datan](https://datan.fr/votes/legislature-17/vote_9762)  
+*Source : datan.fr | Publication : 2026-11-09*
 
-- Matteo Piantedosi réunit mardi le Comité national de l’ordre et de la sécurité publics afin d’examiner les risques liés aux cyberattaques.
+- LÉGISLATURE 17 - VOTE n° 9762 L'amendement n° 306 de M. Sabatou à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
+- 14.
+- 1.
+- 30 Résultat du vote Les députés ont rejeté le 09 novembre 2026 l'amendement n° 306 de M. Sabatou à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
 
-## [Des voix de PDG clonées par l'IA ont soutiré 129 millions de dollars à des hôpitaux](https://fr.martincid.com/technologie/des-voix-de-pdg-clonees-par-lia-ont-soutire-129-millions-de-dollars-a-des-hopitaux/)  
-*Source : fr.martincid.com | Publication : 2026-11-08*
+## [Article n°1 - Projet de loi relatif à la résilience des infrastructures critiques et au renforcement ...](https://datan.fr/votes/legislature-17/vote_9769)  
+*Source : datan.fr | Publication : 2026-11-09*
 
-- Cinéma Technologie Musique Science Affaires et finances Sports Art Plus Livres Personnes Style Théâtre Histoire Actualités mondiales Santé Français English Español Deutsch Français Dansk हिन्दी Italiano 日本語 한국어 Norsk bokmål Polski Português (PT) Português (BR) Română Русский Svenska Türkçe Tiếng Việt 简体中文 繁體中文 Español (Latinoamérica) ✕.
-- Cinéma Technologie Musique Science Affaires et finances Sports Art Plus Livres Personnes Style Théâtre Histoire Actualités mondiales Santé Français English Español Deutsch Français Dansk हिन्दी Italiano 日本語 한국어 Norsk bokmål Polski Português (PT) Português (BR) Română Русский Svenska Türkçe Tiếng Việt 简体中文 繁體中文 Español (Latinoamérica) ✕ Appuyez sur Entrée pour rechercher.
+- LÉGISLATURE 17 - VOTE n° 9769 L'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
+- 53.
+- 0.
+- 0 Résultat du vote Les députés ont adopté le 09 novembre 2026 l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
 
-## [La France renforce enfin son arsenal face aux cyberattaques - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/la-france-renforce-enfin-son-arsenal-face-aux-cyberattaques-20261108)  
-*Source : lefigaro.fr | Publication : 2026-11-08*
+## [Amendement n°347 - Projet de loi relatif à la résilience des infrastructures critiques et au ... - Datan](https://datan.fr/votes/legislature-17/vote_9764)  
+*Source : datan.fr | Publication : 2026-11-09*
 
-- La France renforce enfin son arsenal face aux cyberattaques DÉCRYPTAGE - Après une longue attente, le texte sur la résilience des infrastructures critiques et la cybersécurité va être examiné à partir de ce lundi à l’Assemblée nationale.
-- Passer la publicité« C’est un texte de mobilisation générale », assure le député Éric Bothorel.
-- Alors que le nombre d’attaques informatiques contre des entreprises et des administrations ne cesse d’augmenter, le projet de loi dit « résilience », dont il est rapporteur, est examiné à partir de lundi à l’Assemblée nationale.
-- L’aboutissement d’une interminable attente.
+- LÉGISLATURE 17 - VOTE n° 9764 L'amendement n° 347 de M. Bothorel à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
+- 28.
+- 0.
+- 17 Résultat du vote Les députés ont adopté le 09 novembre 2026 l'amendement n° 347 de M. Bothorel à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
 
-## [Le head tracking des AirPods 3 arrive sur Linux grâce à MousePods - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/31143/head-tracking-airpods-3-arrive-sur-linux-mousepods)  
-*Source : pasqualepillitteri.it | Publication : 2026-11-08*
+## [<b>Cybersécurité</b>: comment réduire les risques de l'IA - Les Affaires](https://www.lesaffaires.com/sans-section/cybersecurite-comment-reduire-les-risques-de-lia/)  
+*Source : lesaffaires.com | Publication : 2026-11-09*
 
-- Le head tracking des AirPods 3 arrive sur Linux grâce à MousePods MousePods apporte le suivi de tête des AirPods 3 à Linux, sans appareil Apple.
-- Claude Code a trouvé la clé en un après-midi, jusqu'à 210 Hz.
-- 1.Ce que MousePods fait avec les écouteurs - 2.Pourquoi les AirPods 3 semblaient sans prise en charge - 3.Comment Claude Code a travaillé - 4.Ce qui fonctionne vraiment - 5.De la souris au TrackIR pour les simulateurs - 6.Le rapport avec LibrePods - 7.Questions fréquentes (FAQ) - 8.Ce qui change pour les utilisateurs de Linux - 9.Notez cet article - 10.Articles Connexes - 11.Recherchez-vous un Ingénieur Logiciel?.
-- - Le head tracking des AirPods 3 fonctionne désormais sur Linux.
+- CybersÃ©curitÃ©: comment rÃ©duire les risques de lâIA Martin Berthiaume|PubliÃ© Ã 15h20 | Mis Ã jour il y a 1 minuteDeux failles critiques de PHP ont Ã©tÃ© repÃ©rÃ©es avec lâaide de Gemini.
+- (Photo: Adobe Stock) EXPERT INVITÃ.
+- Si personne nây est arrivÃ© en vingt ou trente ans, câest que câest impossible.
+- Ce raisonnement a protÃ©gÃ© nos thÃ©orÃ¨mes, nos systÃ¨mes et nos budgets pendant des dÃ©cennies.
 
-## [<b>Cybercriminalité</b> : 5 754 incidents signalés en dix mois, le harcèlement en ligne en tête](https://ionnews.mu/cybercriminalite-5-754-incidents-signales-en-dix-mois-le-harcelement-en-ligne-en-tete/)  
-*Source : ionnews.mu | Publication : 2026-11-08*
+## [<b>Cybersécurité</b> | Associations.gouv.fr](https://associations.gouv.fr/cybersécurité)  
+*Source : associations.gouv.fr | Publication : 2026-11-09*
 
-- La cybercriminalité continue de représenter un défi majeur à Maurice.
-- Selon les chiffres du Mauritian Cybercrime Online Reporting System.
+- Cybersécurité La transformation numérique des associations emporte, avec elle, de nouveaux risques pour leur fonctionnement et la sécurité des données traitées.
+- Découvrez comment agir pour votre cybersécurité et réduire votre risque d'être victime d'une cyberattaque.
+- Je souhaite être accompagné Description Le réseau d’appui à la vie associative pour que chaque association puisse trouver près de chez elle un endroit, une personne pour répondre à ses questions.
+- Description Vous ne trouvez pas une information ou souhaitez des renseignements ?.
 
-## [Orange Côte d'Ivoire appelle les entreprises à intégrer la <b>cybersécurité</b> dans leur gouvernance](https://www.agenceecofin.com/actualites-numerique/0811-143223-orange-cote-d-ivoire-appelle-les-entreprises-a-integrer-la-cybersecurite-dans-leur-gouvernance)  
-*Source : agenceecofin.com | Publication : 2026-11-08*
+## [Division spéciale de <b>cybersécurité</b> : L'animatrice Bijou Ngoné libre après son audition](https://www.seneweb.com/fr/news/Justice/division-speciale-de-cybersecurite-lanimatrice-bijou-ngone-libre-apres-son-audition_n_999003147.html)  
+*Source : seneweb.com | Publication : 2026-11-09*
 
-- (Agence Ecofin) - En Afrique, les organisations subissent en moyenne plus de 3 200 cyberattaques par semaine, soit 72 % de plus que la moyenne mondiale.
-- Cette progression des menaces renforce la nécessité d’intégrer la cybersécurité dans la stratégie de gouvernance et de prévention des risques des entreprises.
-- La cybersécurité s’impose désormais comme un enjeu de gouvernance pour les entreprises ivoiriennes.
-- Lors de l’édition 2026 de l'Orange Cyber Connect, organisée le jeudi 5 novembre à Abidjan, Orange Côte d’Ivoire a appelé les organisations à renforcer leurs dispositifs de protection face à des cybermenaces de plus en plus sophistiquées, notamment par l’intelligence artificielle. «.
+- Division spéciale de Cybersécurité :l'animatrice Bijou Ngoné libre après son audition Convoquée ce lundi dans le cadre de l'exécution de la délégation judiciaire délivrée par le juge d'instruction du 2e cabinet près le tribunal de grande instance de Pikine-Guédiawaye, l'animatrice Bijou Ngoné est sortie libre de son audition à la Division spéciale de cybersécurité (DSC).
+- Selon des sources de Seneweb, l'animatrice de l'émission « Confrontation » sur la 2STV reste toutefois à la disposition de la justice.
+- Nos informations souligent aussi qu'un célèbre homme d'affaires (E.
+- L.).
 
-## [Le NIST publie son guide de <b>cybersécurité</b> pour les solopreneurs](https://dcod.ch/2026/11/08/nist-guide-de-cybersecurite-pour-solopreneurs/)  
-*Source : dcod.ch | Publication : 2026-11-08*
+## [NIS2 et CRA, les différences et comment les gérer avec un seul système - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/31540/nis2-cra-systeme-unique-securite)  
+*Source : pasqualepillitteri.it | Publication : 2026-11-09*
 
-- TL;DR : L’essentiel Le texte transpose les principes du CSF 2.0 pour les solo-entrepreneurs sans expertise informatique.
-- - Les mesures ciblent en priorité l’authentification multifacteur, les sauvegardes isolées et la gestion de l’IA.
-- - Des scénarios concrets décrivent les actions adaptées à un avocat, un e-commerçant et un consultant.
-- - Le National Institute of Standards and Technology a mis en ligne un guide officiel de cybersécurité pour les entreprises sans salarié, comme l’indique le NIST.
+- NIS2 et CRA, les différences et comment les gérer avec un seul système La NIS2 encadre l'organisation, le CRA les produits.
+- Un seul système de contrôles, deux notifications (24 h, 72 h), plateforme ENISA dès le 11 septembre 2026.
+- 1.Deux textes, deux cibles - 2.Les dates qui comptent - 3.Là où les textes se rejoignent - 4.Là où ils restent distincts - 5.Étape 1, un inventaire unique - 6.Étape 2, un catalogue de contrôles - 7.Étape 3, une seule chaîne pour les incidents - 8.Étape 4, les fournisseurs dans le cahier des charges - 9.Étape 5, les preuves et les répétitions - 10.Questions fréquentes (FAQ) - 11.Par où commencer - 12.Notez cet article - 13.Articles Connexes - 14.Recherchez-vous un Ingénieur Logiciel?.
+- - La NIS2 (directive UE 2022/2555) encadre l'organisation et les services d'une entreprise, tandis que le Cyber Resilience Act ou CRA (règlement UE 2024/2847) encadre les produits comportant des éléments numériques que l'entreprise met sur le marché.
 
-## [Segonzac : une intervention de la Cnil pour sensibiliser à la protection des données](https://www.charentelibre.fr/charente/segonzac/segonzac-une-intervention-de-la-cnil-pour-sensibiliser-a-la-protection-des-donnees-31398312.php)  
-*Source : charentelibre.fr | Publication : 2026-11-08*
+## [Le directeur général du ministère israélien de la Défense en visite officielle au Maroc](https://fr.le360.ma/politique/le-directeur-general-du-ministere-israelien-de-la-defense-en-visite-officielle-au-maroc_J5GX7RR2VJETVGBWUDRRTUE2Z4/)  
+*Source : fr.le360.ma | Publication : 2026-11-09*
 
-- Segonzac : une intervention de la Cnil pour sensibiliser à la protection des données France Services a proposé un temps d’information à propos de la cybersécurité pour les ados et les parents.
-- Une dizaine de personnes étaient présentes pour écouter le médiateur de la Cnil.
-- Lundi 2 novembre, Sandra Da Silva et Florence Robert de France Services ont organisé une soirée dédiée à la cybersécurité avec un intervenant de la Commission nationale informatique et libertés (Cnil), Julien.
-- Lundi 2 novembre, Sandra Da Silva et Florence Robert de France Services ont organisé une soirée dédiée à la cybersécurité avec un intervenant de la Commission nationale informatique et libertés (Cnil), Julien Drochon, en charge de la médiation.
+- En exécution des hautes instructions royales, Abdeltif Loudyi, ministre délégué auprès de la cheffe du gouvernement chargé de l’Administration de la défense nationale, a reçu lundi, au siège de l’ADN, Amir Baram, directeur général du ministère de défense israélien, en visite officielle au Maroc à la tête d’une importante délégation.
+- À cette occasion, les deux responsables se sont félicités des niveaux de coopération réalisés dans le domaine de la défense et qui bénéficie d’une base juridique couvrant les domaines de la protection des informations et matériels militaires classifiés, la cybersécurité, les échanges d’expériences et d’expertises ainsi que la formation du personnel.
+- Lire aussi : Qui est Gadi Eisenkot, l’ex-chef d’état-major d’origine marocaine choisi pour former le gouvernement israélien?.
+- Dans leurs discussions, les deux responsables ont également mis en avant les avancées réalisées dans le partenariat en matière d’acquisition d’équipements et technologies militaires et dans le domaine de l’industrie de défense, tout en échangeant sur les voies de renforcement des différents aspects de la coopération bilatérale, notamment la construction d’une base industrielle de défense et le développement de la cybersécurité.
 
-## [Passbolt : Coffre d'Équipe en 13 Étapes, 60 Min [2026] - Tech Insider](https://tech-insider.org/fr/passbolt-coffre-equipe-docker-gpg-smtp-2026/)  
-*Source : tech-insider.org | Publication : 2026-11-08*
+## [Affaire des frigos piratés : comment la France a remonté la piste jusqu'à l'Iran - Les Echos](https://www.lesechos.fr/industrie-services/conso-distribution/frigos-pirates-dans-des-supermarches-liran-est-responsable-des-attaques-en-france-selon-le-quai-dorsay-2261931)  
+*Source : lesechos.fr | Publication : 2026-11-09*
 
-- Passbolt : Coffre d'Équipe en 13 Étapes, 60 Min [2026].
-- Nadia Dubois; 8 November 2026; Cybersécurité · Nadia Dubois.
+- La France accuse l'Iran d'une cyberattaque massive ayant touché 700 supermarchés en octobre.
+- Les services de renseignement et de cybersécurité.
 
-## [Au Japon des bornes d'arcade Mario Kart perturbées après un piratage chez Sega - Clubic](https://www.clubic.com/actualite-638239-au-japon-des-bornes-d-arcade-mario-kart-perturbees-apres-un-piratage-chez-sega.html)  
-*Source : clubic.com | Publication : 2026-11-08*
+## [<b>Cybersécurité</b> : enfin un peu plus de sérieux avec la loi examiné cette semaine ? - Clubic](https://www.clubic.com/actualite-638434-cybersecurite-enfin-un-peu-plus-de-serieux-avec-la-loi-examine-cette-semaine.html)  
+*Source : clubic.com | Publication : 2026-11-09*
 
-- Dans de nombreuses salles d’arcade japonaises, il a été impossible de lancer une course sur les bornes Mario Kart pendant plusieurs jours.
-- Un intrus s’est introduit dans les serveurs du réseau de Sega auquel elles sont reliées, et l’éditeur a dû couper l’ensemble du service.
-- Ce réseau s’appelle ALL.Net.
-- Sega l’a lancé en 2004 pour relier les bornes d’arcade à ses serveurs, avec les mises à jour automatiques et le jeu en ligne.
+- La question de la cybersécurité va être abordée à l'Assemblée nationale avec un projet de loi.
+- Projet de loi qui a du retard !.
+- En France, on n'est clairement pas à la pointe quant à la question de la cybersécurité des organisations.
+- À vrai dire, on serait plutôt en retard, avec des attaques qui touchent jusqu'aux plus importantes institutions, que ce soit le fisc, ou même une banque comme le Crédit Mutuel Arkéa.
 
-## [<b>Cybercriminalité</b> : Brelotte Ba, patron de la Sonatel, victime d'une usurpation d'identité, saisit la DSC](https://www.lactuacho.com/cybercriminalite-brelotte-ba-patron-de-la-sonatel-victime-dune-usurpation-didentite-saisit-la-dsc/)  
-*Source : lactuacho.com | Publication : 2026-11-08*
+## [Politique. <b>Cybersécurité</b> : que contient le projet de loi « résilience » enfin de retour à l'Assemblée ?](https://www.vosgesmatin.fr/politique/2026/11/09/cybersecurite-que-contient-le-projet-de-loi-resilience-enfin-de-retour-a-l-assemblee)  
+*Source : vosgesmatin.fr | Publication : 2026-11-09*
 
-- Le directeur général de la Sonatel, Brelotte Ba, a saisi la Division spéciale de cybersécurité (DSC) d’une plainte contre X pour usurpation d’identité, de fonction et tentative d’escroquerie.
-- Un individu utiliserait frauduleusement son nom, sa qualité et sa photographie pour tromper plusieurs personnes.
-- L’identité du directeur général de la Sonatel, Brelotte Ba, aurait été utilisée à des fins frauduleuses.
-- Selon les informations rapportées par le quotidien Libération, le responsable de l’opérateur de télécommunications a déposé une plainte contre X auprès de la Division spéciale de cybersécurité (DSC), dénonçant des faits présumés d’usurpation d’identité, d’usurpation de fonction et de tentative d’escroquerie.
+- Politique Cybersécurité : que contient le projet de loi « résilience » enfin de retour à l'Assemblée ?.
+- Attendu depuis deux ans, le projet de loi « résilience » arrive ce lundi dans l’hémicycle.
+- Le texte devrait contraindre des milliers d’entreprises et d’administration à muscler leur sécurité informatique, alors que la France est devenue une des cibles préférées des cybercriminels.
+- Mieux vaut tard que jamais, même si l’échéance est dépassée depuis longtemps.
 
-## [Norton : il sacrifie le prix de ses formules antivirus pour le Black Friday - MacPlus](https://www.macplus.net/depeche-268480-norton-sacrifie-prix-formules-antivirus-black-friday)  
-*Source : macplus.net | Publication : 2026-11-08*
+## [<b>Cybersécurité</b> : un projet de loi très attendu débattu à l'Assemblée - TV5MONDE Info](https://information.tv5monde.com/economie/cybersecurite-un-projet-de-loi-tres-attendu-debattu-lassemblee-2845125?amp)  
+*Source : information.tv5monde.com | Publication : 2026-11-09*
 
-- Avec plus de 35 ans d'expérience dans l'univers de la cybersécurité et plusieurs millions d'utilisateurs protégés à travers le monde, Norton est.
+- Cybersécurité : un projet de loi très attendu débattu à l'Assemblée Deux ans après sa première lecture au Sénat, et un retour manqué début octobre, les députés ont commencé lundi à discuter dans l'hémicycle d'un projet de loi sur la cybersécurité, après un long débat sur les messageries chiffrées et un été marqué par de nouvelles cyberattaques.
+- Le projet de loi sur la résilience des infrastructures critiques et le renforcement de la cybersécurité doit transposer en droit français trois textes européens.
+- Le projet de loi opère "un véritable changement de paradigme en matière de cybersécurité", notamment pour de nombreuses entreprises "en imposant leur sécurisation", a défendu en ouverture des débats la ministre chargée du Numérique Anne Le Hénanff.
+- "Les récentes attaques contre les installations frigorifiques (de supermarchés, NDLR) ont directement visé notre économie et nos chaînes d'approvisionnement", a-t-elle rappelé.
 
-## [<b>Cybersécurité</b> : 14 actualités majeures du 8 novembre 2026 (dont Binance)](https://dcod.ch/2026/11/08/cybersecurite-14-actualites-majeures-du-8-novembre-2026-dont-binance/)  
-*Source : dcod.ch | Publication : 2026-11-08*
+## [[DIRECT] <b>Cybersécurité</b> : début de l'examen dans l'hémicycle - 09/11/2026 - YouTube](https://www.youtube.com/watch?v=ed6EaILnj_E)  
+*Source : youtube.com | Publication : 2026-11-09*
 
-- Faits marquants de la semaine Le FBI attribue à la Corée du Nord le vol de plus de 6 milliards de dollars d’actifs virtuels chez Binance, autour du 29 octobre 2026, via l’APT TraderTraitor (Lazarus Group, APT38).
-- - La banque coopérative française Crédit Mutuel Arkéa a été visée par une attaque via un prestataire, permettant des transactions frauduleuses jusqu’à 133 millions de dollars et la poussant à suspendre certains systèmes.
-- - Des hackers ont accédé à des systèmes de contrôle et augmenté les seuils de température et de dégivrage de trois chambres froides de supermarchés et de banques du sang.
-- - À Amsterdam, des militants ont pénétré sur le chantier d’un datacentre Microsoft.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [La Suisse a un gros problème de cyberattaques - Watson](https://www.watson.ch/fr/suisse/commentaire/408493683-la-suisse-a-un-gros-probleme-de-cyberattaques)  
-*Source : watson.ch | Publication : 2026-11-08*
+## [KPMG CEO Outlook 2026 : la <b>cybersécurité</b> s'impose, les dirigeants français plus prudents](https://finyear.com/kpmg-ceo-outlook-2026-la-cybersecurite-simpose-les-dirigeants-francais-plus-prudents)  
+*Source : finyear.com | Publication : 2026-11-09*
 
-- La cybersécurité en Suisse est une catastrophe Cette fois, la Suisse a été touchée, elle aussi.
-- Dans la nuit de mercredi à jeudi, des cybercriminels ont attaqué les systèmes de refroidissement d’une boucherie à Köniz, près de Berne.
-- La chaîne d'épiceries Volg fait également état de manipulations de ses systèmes de réfrigération.
-- C’est pour le moins inquiétant: même si l’on venait à découvrir que ni bandes organisées, ni États étrangers ne sont à l’origine de ces attaques — mais simplement un jeune hacker faisant des siennes (on ne le sait pas encore; la police cantonale enquête).
+- KPMG CEO Outlook 2026 : la cybersécurité s’impose, les dirigeants français plus prudents 09/11/2026 La cybersécurité s’est hissée au rang de première menace pour la croissance des entreprises dans le monde, selon la 12e édition du CEO Outlook de KPMG, publiée le 15 octobre 2026.
+- Sur les 1 400 dirigeants interrogés entre le 11 août et le 21 septembre 2026 — tous à la tête d’entreprises réalisant plus de 500 millions de dollars de chiffre d’affaires, dans 12 marchés et 13 secteurs —, 31% citent la cybersécurité comme principal risque pour leur trajectoire de croissance, devant l’incertitude économique (28%) et l’instabilité géopolitique (26%).
+- En conséquence, 45% déclarent avoir augmenté leurs investissements en cybersécurité sur la période.
+- Les 75 dirigeants français interrogés présentent un profil légèrement différent.
 
-## [Du micro aux lignes de code : Mandione Aïdara concrétise son rêve américain dans la <b>cybersécurité</b>](https://www.seneweb.com/fr/news/Societe/du-micro-aux-lignes-de-code-mandione-aidara-concretise-son-reve-americain-dans-la-cybersecurite_n_999003019.html)  
-*Source : seneweb.com | Publication : 2026-11-08*
+## [Choisir son prestataire informatique ou son MSP : la grille d'évaluation <b>cybersécurité</b> que ... - Clubic](https://www.clubic.com/dossier-631303-choisir-son-prestataire-informatique-ou-son-msp-la-grille-d-evaluation-cybersecurite-que-tout-dirigeant-de-pme-devrait-utiliser.html)  
+*Source : clubic.com | Publication : 2026-11-09*
 
-- Du micro aux lignes de code : Mandione Aïdara concrétise son rêve américain dans la cybersécurité Ancien journaliste à Seneweb, Sénégal7 et au sein du groupe Excaf Telecom, puis cadre commercial chez 3MD Energy, Mandione Aïdara franchit une nouvelle étape majeure dans sa trajectoire professionnelle aux États-Unis.
-- Son parcours illustre avec force la détermination d’un citoyen sénégalais désireux d'embrasser de nouveaux horizons au plus haut niveau.
-- De la presse nationale à l’univers technologique américain, Mandione Aïdara incarne une réussite marquée par l’ambition, la persévérance et la capacité constante à se réinventer.
-- Après plusieurs expériences enrichissantes au Sénégal, il poursuit aujourd’hui son ascension dans un secteur devenu hautement stratégique à l’échelle mondiale : les technologies de l’information et la cybersécurité.
+- Votre prestataire informatique détient les accès administrateur de vos serveurs et de vos sauvegardes.
+- En 2026, deux juridictions françaises ont condamné des prestataires pour une sauvegarde jamais vérifiée et pour un serveur livré sans pare-feu.
+- Dans les deux dossiers, l'entreprise cliente avait d'abord payé la remise en route de son activité, avant d'attendre des années une indemnisation.
+- Dans l'exemple le plus récent d'incident cyber, jusqu'à 1,7 million de dossiers de l'Afpa ont pu être exposés à cause d'une faille dans l'outil de gestion des hébergements d'un éditeur tiers.
