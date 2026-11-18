@@ -1,5 +1,146 @@
-# Résumés – 2026-11-17
+# Résumés – 2026-11-18
 
+
+## [Microsoft lance de nouveaux modèles d'IA spécialisés pour concurrencer Anthropic et OpenAI](https://bourse.fortuneo.fr/actualites-amp/microsoft-lance-de-nouveaux-modeles-d-ia-specialises-pour-concurrencer-anthropic-et-openai-5293337)  
+*Source : bourse.fortuneo.fr | Publication : 2026-11-18*
+
+- (Zonebourse.com) - Microsoft a dévoilé mardi, lors de sa conférence Ignite à San Francisco, plusieurs modèles d'intelligence artificielle spécialisés dans la programmation, la cybersécurité, la génération d'images et la transcription.
+- Le groupe américain cherche à renforcer sa compétitivité face à Anthropic et OpenAI en proposant des systèmes aux performances comparables, mais à des coûts d'exploitation sensiblement inférieurs.
+- Cette stratégie repose sur le développement de modèles adaptés à des tâches précises, plutôt que sur la seule recherche de performances maximales avec des systèmes généralistes.
+- Microsoft entend ainsi améliorer l'efficacité économique de ses technologies tout en élargissant leur utilisation dans les entreprises.
+
+## [Un composant JavaScript malveillant distribué sur près de 180 sites Web majeurs - LeMagIT](https://www.lemagit.fr/actualites/366654823/Un-composant-JavaScript-malveillant-distribue-sur-pres-de-180-sites-Web-majeurs)  
+*Source : lemagit.fr | Publication : 2026-11-17*
+
+- Gajus - Fotolia Un composant JavaScript malveillant distribué sur près de 180 sites Web majeurs Air France-KLM, Zoom, la BBC, CNN, Salesforce, ou encore Ikea, pour ne citer que quelques exemples, ont vu leurs sites Web temporairement infectés par un dangereux script malveillant.
+- Hier, 16 novembre, un composant JavaScript a empoisonné les sites Web de près 180 organisations dans le monde entier.
+- Parmi elles, notamment, Air France-KLM, Zoom, la BBC, CNN, Salesforce, Ikea, mais aussi Thales, pour le site de sa communauté de cybersécurité.
+- Dans un billet, Scott Helme (de Report URI), qui a lancé l’alerte, explique : « le maliciel était un kit multimission.
+
+## [Au début du mois, le FBI a confirmé que des hackers nord-coréens étaient derrière le vol de ...](https://www.facebook.com/blickfr/posts/au-début-du-mois-le-fbi-a-confirmé-que-des-hackers-nord-coréens-étaient-derrière/1515756873942900/)  
+*Source : facebook.com | Publication : 2026-11-17*
+
+- # CyberSécurité #Crypto #Blockchain #Hackers #CoréeDuNord #Lazarus #Cyberattaque #SécuritéNumérique #LinkedInTech · No photo description available.
+
+## [Cyberattaque chez Optimizely : Air France, Ledger, Zoom et la BBC parmi 178 organisations ...](https://www.cyberattaque.org/cyberattaque-chez-optimizely-air-france-ledger-zoom-et-la-bbc-parmi-178-organisations-touchees/)  
+*Source : cyberattaque.org | Publication : 2026-11-17*
+
+- Air France, Transavia, Ledger, Zoom, la BBC, CNN, HSBC ou encore Salesforce figurent parmi les 178 organisations dont des scripts informatiques ont été compromis lors d’une cyberattaque mondiale survenue le 16 novembre 2026.
+- À l’origine de cette opération, une vulnérabilité exploitée sur la plateforme Optimizely, qui a permis à des cybercriminels de diffuser du JavaScript malveillant directement depuis une infrastructure normalement considérée comme fiable.
+- Le code était notamment capable de détourner des transferts de cryptomonnaies, d’intercepter des données bancaires et de cibler les iPhone à l’aide d’outils d’exploitation sophistiqués.
+- Optimizely a officiellement confirmé l’incident et annoncé avoir corrigé la vulnérabilité.
+
+## [OpenAI travaillera avec l'OTAN sur la <b>cybersécurité</b> - Le Devoir](https://www.ledevoir.com/monde/1025792/openai-travaillera-otan-cybersecurite)  
+*Source : ledevoir.com | Publication : 2026-11-17*
+
+- OpenAI a annoncé mardi coopérer avec l’OTAN pour des solutions de cyberdéfense et des moyens d’enquête, alors que se déroule en Turquie un salon de l’Alliance atlantique sur la sécurité numérique qui consacre l’omniprésence de l’IA dans la défense.
+- Avec Daybreak, OpenAI propose à l’organisation transatlantique un panel de solutions « allant de la revue de logiciels et de l’investigation d’activités suspectes à la validation de vulnérabilités et au développement et test de correctifs », selon un communiqué.
+- L’annonce intervient pendant la NATO Edge, conférence phare sur la technologie et l’armement numérique organisée par l’Agence d’information et de communication de l’OTAN (NCIA), à Izmir, dans l’ouest de la Turquie.
+- La NATO Edge réunit les commandements militaires, gouvernements et industriels de défense des pays membres pour accélérer le déploiement de capacités technologiques critiques. «.
+
+## [Cyberattaques: le FBI alerte sur la libre disponibilité d'outils utilisant l'IA et capables de ...](https://www.bfmtv.com/tech/cybersecurite/cyberattaques-le-fbi-alerte-sur-la-libre-disponibilite-d-outils-utilisant-l-ia-et-capables-de-pirater-des-entreprises-en-moins-de-trois-heures_AV-202611170701.html)  
+*Source : bfmtv.com | Publication : 2026-11-17*
+
+- Cyberattaques: le FBI alerte sur la libre disponibilité d'outils utilisant l'IA et capables de pirater des entreprises en moins de trois heures Les pirates informatiques n'ont parfois plus besoin que de quelques heures pour s'introduire dans le système d'une entreprise.
+- Et ils peuvent désormais compter sur l'IA pour accélérer considérablement leurs opérations.
+- Dans un bulletin d'alerte publié le 13 novembre, le FBI met en garde contre la multiplication des cyberattaques menées à l'aide d'outils autonomes basés sur l'IA.
+- Au cœur de ces opérations figure Artex, une plateforme open source de test d'intrusion, rapporte Techcrunch.
+
+## [Recrutement Tech : la <b>cybersécurité</b> s'impose comme la priorité absolue pour 2027 - infoDSI](https://infodsi.com/articles/211675/recrutement-tech-la-cybersecurite-simpose-comme-la-priorite-absolue-pour-2027.html)  
+*Source : infodsi.com | Publication : 2026-11-17*
+
+- Veuillez activer Javascript.
+
+## [Risque cyber fournisseurs : les achats encore trop peu impliqués](https://www.decision-achats.fr/strategie-achats-1236/relation-fournisseurs-2263/risque-cyber-fournisseurs-les-achats-encore-trop-peu-impliques-52868/amp)  
+*Source : decision-achats.fr | Publication : 2026-11-17*
+
+- La cybersécurité des fournisseurs est devenue un enjeu opérationnel pour les entreprises.
+- Selon la quatrième édition de l’Observatoire du risque cyber lié aux fournisseurs, réalisée par Board of Cyber en partenariat avec le CESIN et publiée en novembre 2026, 40 % des organisations interrogées déclarent avoir subi une cyberattaque liée à un fournisseur au cours des douze derniers mois.
+- Cette proportion atteint 55 % parmi celles qui travaillent avec plus de 200 fournisseurs, contre 21 % pour les organisations disposant d’un portefeuille plus restreint.
+- L’étude, menée entre juin et septembre 2026 auprès de près de 200 responsables de la cybersécurité, du risque et de la gestion des tiers, met en évidence un décalage entre la prise de conscience du risque et les moyens mobilisés pour le maîtriser.
+
+## [L'IA amplifie la <b>cybercriminalité</b> en Afrique - Africa Defense Forum](https://adf-magazine.com/fr/2026/11/lia-amplifie-la-cybercriminalite-en-afrique/)  
+*Source : adf-magazine.com | Publication : 2026-11-17*
+
+- Selon un nouveau rapport d’Interpol, plus de la moitié des cybercrimes signalés en Afrique sont facilités par l’intelligence artificielle ; celle-ci, qui servait autrefois à soutenir les attaques, est devenue le principal moteur de la cybercriminalité sur le continent.
+- Les chercheurs d’Interpol indiquent dans leur évaluation de la cybercriminalité en Afrique pour 2026 : « L’IA est désormais utilisée pour automatiser chaque étape du cycle de vie d’une attaque : de la reconnaissance et l’hameçonnage à l’extorsion et aux techniques d’évasion.
+- Les criminels opèrent maintenant à la vitesse des machines ; l’IA permet des attaques plus rapides, plus facilement extensibles et plus difficiles à attribuer. ».
+- Dans un rapport distinct, la société Anthropic spécialisée dans l’IA a révélé que des cybercriminels utilisent son agent (Claude) pour lancer des cyberattaques, effectuer des opérations de surveillance et orchestrer des campagnes d’influence en ligne.
+
+## [«123456» est encore le mot de passe le plus courant - l-express.ca](https://l-express.ca/123456-est-encore-le-mot-de-passe-le-plus-courant/)  
+*Source : l-express.ca | Publication : 2026-11-17*
+
+- «123456» est encore le mot de passe le plus courant au Canada comme dans le monde entier, suivi par «admin», selon le 8e classement annuel des spécialistes en cybersécurité chez NordPass.
+- Dans la majorité des 44 pays analysés, les mots de passe les plus courants étaient constitués des mêmes combinaisons simples «admin», «password», «qwerty», ainsi que des variantes de «12345» et d’autres séquences numériques similaires.
+- «Il reste encore beaucoup à faire pour sensibiliser le public à la sécurité des mots de passe», lit-on dans la page web consacrée au classement.
+- La culture populaire En plus de présenter les 200 mots de passe les plus utilisés, l’étude 2026 examine la situation sous l’angle de la culture populaire.
+
+## [La séance est ouverte ! - <b>Cybersécurité</b> et résilience : vote solennel - 17/11/2026 - Vidéo Dailymotion](https://www.dailymotion.com/video/xbxjsy6)  
+*Source : dailymotion.com | Publication : 2026-11-17*
+
+- Font.
+
+## [Microsoft dévoile des modèles pour le codage, la <b>cybersécurité</b> et la prise de décision ...](https://www.zonebourse.com/actualite-bourse/microsoft-devoile-des-modeles-pour-le-codage-la-cybersecurite-et-la-prise-de-decision-fondee-sur-la-ce785edcdd80f12d)  
+*Source : zonebourse.com | Publication : 2026-11-17*
+
+- Microsoft a annoncé mardi le lancement de modèles d'intelligence artificielle conçus spécifiquement pour le codage, la cybersécurité et la prise.
+
+## [Conf. IIC Can. 2025 – Comment l'IA change le paysage de la <b>cybersécurité</b> - Dossier public](https://www.cpac.ca/dossier-public/l-episode/conf-iic-can-2025---comment-lia-change-le-paysage-de-la-cybersecurite?id=1237b085-14de-425c-948b-b6040fb1ebe9)  
+*Source : cpac.ca | Publication : 2026-11-17*
+
+- Passer au contenu principal Défiler jusqu'au bas de la page Ouvrir le menu latéral Fermer le menu latéral Logo CPAC - Retour à la page d'accueil En direct Vidéos archivées Chambre Sénat English Ouvrir la recherche Fermer la recherche Ouvrir la recherche Fermer la recherche Aide vidéo Que recherchez-vous ?.
+- Recherche Vidéos archivées Chambre Sénat Textes Balados Émissions Horaire CPAC Dans votre région Fermer Conf.
+- IIC Can. 2025 – Comment l'IA change le paysage de la cybersécurité.
+
+## [Les députés adoptent le projet de loi renforçant les mesures de <b>cybersécurité</b> en entreprise ...](https://www.leparisien.fr/politique/les-deputes-adoptent-le-projet-de-loi-renforcant-les-mesures-de-cybersecurite-en-entreprise-alors-que-les-attaques-se-multiplient-17-11-2026-N7YSYSGXYNAHZBIKJKL3CQIAIA.php)  
+*Source : leparisien.fr | Publication : 2026-11-17*
+
+- Les députés ont adopté mardi 17 novembre un projet de loi renforçant les obligations de milliers d'entreprises en matière de cybersécurité , un texte.
+
+## [&quot;Des grandes entreprises craignent de se tromper dans la qualification NIS 2 de leurs entités&quot;](https://www.journaldunet.com/cybersecurite/1558107-certaines-grandes-entreprises-craignent-de-se-tromper-dans-la-qualification-nis-2-de-leurs-entites/)  
+*Source : journaldunet.com | Publication : 2026-11-17*
+
+- Aurélia Pons (Ashurst Perkins Coie) "Des grandes entreprises craignent de se tromper dans la qualification NIS 2 de leurs entités" Aurélia Pons, avocate spécialisée en droit de la cybersécurité chez Ashurst Perkins Coie, précise au JDN les difficultés que rencontrent ses clients dans leur conformité à la directive NIS 2.
+- JDN.
+- La directive NIS 2 est transposée différemment dans chaque pays de l'UE.
+- Quelles sont les difficultés que cela engendre pour les entreprises ?.
+
+## [Microsoft dévoile des modèles d'IA dédiés au codage et à la <b>cybersécurité</b>, alors qu'il se ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L5N46Y2AZ:0/)  
+*Source : fr.tradingview.com | Publication : 2026-11-17*
+
+- Microsoft dévoile des modèles d'IA dédiés au codage et à la cybersécurité, alors qu'il se lance dans la concurrence avec Anthropic et OpenAI Lire l'article complet Obtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.
+
+## [Que contient le projet de loi de <b>cybersécurité</b>, adopté par les députés ce mardi après une ...](https://www.lefigaro.fr/secteur/high-tech/que-contient-le-projet-de-loi-de-cybersecurite-adopte-par-les-deputes-ce-mardi-apres-une-vague-de-cyberattaques-20261117)  
+*Source : lefigaro.fr | Publication : 2026-11-17*
+
+- Que contient le projet de loi de cybersécurité, adopté par les députés ce mardi après une vague de cyberattaques ?.
+- Selon la ministre chargée du Numérique Anne Le Hénanff, plus de 18.000 entités dans 18 secteurs critiques seront concernées par de nouvelles obligations «en matière de gestion des risques, de sécurisation des sous-traitants» ou «de notification des incidents» à l’Anssi.
+- Passer la publicité Passer la publicitéLes députés ont adopté mardi un projet de loi renforçant les obligations de milliers d'entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient, mais dont beaucoup déplorent qu'il arrive avec deux années de retard.
+- Le projet de loi a été adopté par 464 voix contre 64, tous les groupes politiques votant favorablement, à l'exception de La France insoumise.
+
+## [Mises à jour de sécurité pour Java annoncées : les exploitants doivent vérifier leurs systèmes](https://www.bacs.admin.ch/fr/warnung-java-fr)  
+*Source : bacs.admin.ch | Publication : 2026-11-17*
+
+- Java4Shell : faille critique dans Java - installez immédiatement les mises à jour de sécurité Mise à jour du 18 novembre - La faille critique « Java4Shell » (CVE-2026-114938) permet à des attaquants d’exécuter du code malveillant sur les systèmes concernés via le réseau, dans certains cas sans authentification.
+- Des mises à jour de sécurité sont disponibles.
+- L’OFCS recommande aux exploitants de vérifier sans délai si leurs systèmes sont concernés et de les mettre à jour.
+- Java est une composante technique de nombreuses applications.
+
+## [Microsoft dévoile des modèles d'IA dédiés au codage et à la <b>cybersécurité</b>, alors qu'il ... - Boursorama](https://www.boursorama.com/bourse/actualites-amp/microsoft-devoile-des-modeles-d-ia-dedies-au-codage-et-a-la-cybersecurite-alors-qu-il-se-lance-dans-la-concurrence-avec-anthropic-et-openai-e44fca619524b4fcc636b4772582d6e2)  
+*Source : boursorama.com | Publication : 2026-11-17*
+
+- Microsoft dévoile des modèles d'IA dédiés au codage et à la cybersécurité, alors qu'il se lance dans la concurrence avec Anthropic et OpenAI information fournie par Reuters 17/11/2026 à 19:12 Microsoft MSFT.O a annoncé mardi une suite de modèles d'IA dotés de puissantes capacités en matière de programmation et de cybersécurité, alors que l'entreprise s'efforce de rivaliser avec des concurrents tels qu'Anthropic et OpenAI.
+- Lors de la conférence Microsoft Ignite à San Francisco, l’entreprise a dévoilé un modèle de programmation informatique baptisé MAI Code 2, qui , selon elle , offre des performances quasi équivalentes à celles des modèles d’IA concurrents , pour un coût nettement inférieur.
+- L’entreprise a également mis en avant un modèle dédié à la cybersécurité qu’elle prévoit de proposer à un groupe restreint de clients afin de contribuer à faire face à la multiplication des vulnérabilités logicielles que les outils d’IA mettent de plus en plus en évidence.
+- L’entreprise a par ailleurs lancé de nouveaux modèles d’IA dédiés à la génération d’images et à la transcription.
+
+## [Cyberattaques : l'Assemblée nationale adopte le projet de loi sur la <b>cybersécurité</b> - La Croix](https://www.la-croix.com/politique/cyberattaques-l-assemblee-nationale-adopte-le-projet-de-loi-sur-la-cybersecurite-20261117)  
+*Source : la-croix.com | Publication : 2026-11-17*
+
+- Les députés ont adopté mardi 17 novembre le projet de loi renforçant les obligations de milliers d’entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient, mais dont beaucoup déplorent qu’il arrive avec deux années de retard.
+- Le projet de loi a été adopté par 464 voix contre 64, tous les groupes politiques votant favorablement, à l’exception de La France insoumise.
+- Le texte devra encore faire l’objet d’un accord entre députés et sénateurs en commission mixte paritaire.
+- Cette version commune sera ensuite soumise au vote définitif des parlementaires des deux chambres.
 
 ## [La <b>cybercriminalité</b> : quelle est la solution ? - JW.ORG](https://www.jw.org/fr/bibliothèque/rubriques/divers/cybercriminalite-solution/)  
 *Source : jw.org | Publication : 2026-11-17*
