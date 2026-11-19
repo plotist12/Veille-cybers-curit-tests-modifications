@@ -1,5 +1,148 @@
-# Résumés – 2026-11-18
+# Résumés – 2026-11-19
 
+
+## [Saint-Pascal victime d'un incident de <b>cybersécurité</b> - Info-web](https://info-web.ca/saint-pascal-victime-dun-incident-de-cybersecurite/)  
+*Source : info-web.ca | Publication : 2026-11-19*
+
+- La Ville de Saint-Pascal confirme avoir été victime d’un incident de cybersécurité survenu le 10 novembre dernier.
+- Dès la découverte de la situation, la Municipalité a fait appel à des experts en cybersécurité et à des conseillers juridiques externes afin de sécuriser ses systèmes et de mener une enquête.
+- Les autorités policières ont également été informées.
+- Selon la Ville, l’incident a entraîné des perturbations mineures, mais les services municipaux fonctionnent maintenant normalement.
+
+## [L'Assemblée adopte enfin le projet de loi <b>cybersécurité</b> - Affaires | Dalloz Actualité](https://www.dalloz-actualite.fr/flash/l-assemblee-adopte-enfin-projet-de-loi-cybersecurite)  
+*Source : dalloz-actualite.fr | Publication : 2026-11-18*
+
+- AdministratifToute la matière - > Bien - > Collectivités territoriales - > Compétence - > Contrats et marchés - > Droit économique - > Droits fondamentaux et libertés publiques - > Elections - > Environnement - > Fonction publique - > Institution administrative - > Police - > Pouvoirs publics - > Procédure contentieuse - > Responsabilité - > Service public - > Urbanisme - - Affaires - CivilToute la matière - > Arbitrage - Médiation - Conciliation - > Biens - Propriété - > Contrats et obligations - > Droit et liberté fondamentaux - > Droit international et communautaire - > Famille - Personnes - > Filiation - > Mariage - Divorce - Couple - > Procédure civile - > Responsabilité - > Successions - Libéralités - > Sûretés - > Voies d'exécution - - Européen - Immobilier - IP/IT et Communication - PénalToute la matière - > Atteinte à l'autorité de l'état - > Atteinte à la personne - > Circulation et transport - > Criminalité organisée et terrorisme - > Droit pénal des affaires - > Droit pénal général - > Droit pénal international - > Enquête - > Etranger - > Informatique - > Instruction - > Jugement - > Mineur - > Peine et exécution des peines - > Presse et communication - > Santé publique - - SocialToute la matière - > Accident, maladie et maternité - > Contrat de travail - > Contrôle et contentieux - > Formation professionnelle - > IRP et syndicat professionnel - > Négociation collective - > Protection sociale - > Rémunération - > Rupture du contrat de travail - > Santé publique - > Temps de travail - > Travailleurs handicapés - - Avocat - Article L’Assemblée adopte enfin le projet de loi cybersécurité L’Assemblée adopte enfin le projet de loi cybersécurité Avec deux ans de retard, l’Assemblée nationale a adopté hier le projet de loi relatif « à la résilience des infrastructures critiques et au renforcement de la cybersécurité ».
+- Un texte qui transpose trois directives, REC, NIS 2 et DORA, afin de renforcer les obligations en matière de prévention de cyberattaques.
+- Revue des principales évolutions.
+- par Pierre Januel, Journalistele 18 novembre 2026 La succession de cyberattaques cet été a rappelé la nécessité de renforcer les dispositifs préventifs et mis en lumière le déficit de transposition de trois directives européennes en la matière (Dalloz actualité, 11 sept.
+
+## [Loi Résilience : l'Assemblée adopte la transposition de NIS2 par 464 voix contre 64](https://www.solutions-numeriques.com/loi-resilience-lassemblee-adopte-nis2-par-464-voix-contre-64/)  
+*Source : solutions-numeriques.com | Publication : 2026-11-18*
+
+- Par 464 voix contre 64, les députés ont adopté ce mardi 17 novembre, en première lecture, le projet de loi qui transpose NIS2.
+- Le texte a plus de deux ans de retard sur le calendrier européen et a été en partie réécrit contre l’avis du gouvernement.
+- Il doit encore passer en commission mixte paritaire.
+- Un large consensus, avec des réserves Le vote compte 464 voix pour, 64 contre et 16 abstentions.
+
+## [Pannes informatiques à répétition aux États-Unis : hasard ou cyberattaques? - YouTube](https://www.youtube.com/watch?v=Dy3bMsXTfHM)  
+*Source : youtube.com | Publication : 2026-11-18*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [&quot;Code jaune&quot;, opération de maintenance... Ce que l'on sait de la panne qui a touché ... - BFM](https://www.bfmtv.com/tech/cybersecurite/code-jaune-operation-de-maintenance-ce-que-l-on-sait-de-la-panne-qui-a-touche-nsa-net-le-reseau-interne-de-communication-de-la-nsa_AN-202611180901.html)  
+*Source : bfmtv.com | Publication : 2026-11-18*
+
+- "Code jaune", opération de maintenance.
+- Ce que l'on sait de la panne qui a touché NSANet, le réseau interne de communication de la NSA La journée du 17 novembre n'a pas été de tout repos pour la National Security Agency (NSA).
+- L'agence américaine de renseignement a été privée de son réseau de communication interne, l'obligeant à échelonner les arrivées des employés à son siège de Fort Meade, dans le Maryland, rapporte la chaîne américaine CNN.
+- Un incident qui intervient alors que les États-Unis ont été touchés par plusieurs pannes liées à des outils informatiques en moins d'une semaine.
+
+## [« Incident de <b>cybersécurité</b> » : appel à la vigilance à Saint-Pascal | Radio-Canada](https://ici.radio-canada.ca/article/info/2301584/cybersecurite-ville-saint-pascal-enquete)  
+*Source : ici.radio-canada.ca | Publication : 2026-11-18*
+
+- « Incident de cybersécurité » : appel à la vigilance à Saint-Pascal L'administration municipale invite ses citoyens à garder l'œil ouvert sur toute information inhabituelle qui semble provenir de la Ville de Saint-Pascal.
+- Photo : iStock Un « incident de cybersécurité » est survenu à la Ville de Saint-Pascal le 10 novembre dernier, informe la Municipalité dans un communiqué envoyé mercredi.
+- La Municipalité assure que l’événement a causé des impacts mineurs sur les activités et les services municipaux.
+- Ni la Ville ni la Sûreté du Québec n'ont souhaité commenter la situation ou indiquer si l’événement était lié ou non à une cyberattaque.
+
+## [Cybernégociateurs: ces experts qui traitent avec les pirates informatiques - 98.5 Montréal](https://www.985fm.ca/audio/816621/cybernegociateurs-ces-experts-qui-traitent-avec-les-pirates-informatiques)  
+*Source : 985fm.ca | Publication : 2026-11-18*
+
+- Alors que les pannes informatiques et les cyberattaques se multiplient, les réponses à ces attaques se professionnalisent, donnant naissance notamment au métier de cybernégociateur.
+- Mandatés principalement par les compagnies d'assurance, les cybernégociateurs agissent comme médiateurs neutres entre les entreprises victimes de rançongiciels et des groupes criminels de plus en plus structurés.
+- Face à environ 150 organisations criminelles professionnelles actives dans le monde, Maxime Coulon rappelle qu'aucune entreprise n'est totalement à l'abri et qu'il faut adopter une bonne hygiène numérique.
+- Écoutez le directeur de Secutec Canada et expert en surveillance des cybermenaces, partager les avancées de la cybersécurité, mercredi à La commission.
+
+## [L'agence allemande de <b>cybersécurité</b> met en garde contre la faille critique Java4Shell](https://ch.zonebourse.com/actualite-bourse/la-agence-allemande-de-cybersecurite-met-en-garde-contre-la-faille-critique-java4shell-ce785eddda88f625)  
+*Source : ch.zonebourse.com | Publication : 2026-11-18*
+
+- L'Office fédéral allemand pour la sécurité des technologies de l'information a émis mercredi une mise en garde concernant une faille logicielle.
+
+## [<b>Cybersécurité</b> : les failles détectées augmentent de 30 % | Brief IA](https://www.briefia.fr/article/cybersecurite-les-failles-detectees-augmentent-de-30)  
+*Source : briefia.fr | Publication : 2026-11-18*
+
+- Selon une étude non identifiée, les vulnérabilités détectées ont été 30 % plus nombreuses que l'année précédente.
+- La recherche de failles progresse plus vite grâce à l'IA, ce qui risque de saturer les capacités de réponse des entreprises et des agences gouvernementales.
+- Des experts proposent de hiérarchiser les corrections Pour des experts en cybersécurité, la réponse passe par une révision des méthodes de traitement des vulnérabilités.
+- Certains recommandent des outils d'IA capables de classer les corrections selon la gravité des failles et leurs conséquences possibles, plutôt que de se limiter à leur détection.
+
+## [Défense et intelligence artificielle : Rennes accueillera un centre international dès 2027](https://hitwest.ouest-france.fr/rennes-va-accueillir-le-centre-international-pour-l-ia-de-defense-european-cyber-week-cybersecurite)  
+*Source : hitwest.ouest-france.fr | Publication : 2026-11-18*
+
+- Défense et intelligence artificielle : Rennes accueillera un centre international dès 2027 La ville de Rennes a été choisie pour accueillir le futur centre international dédié à l'intelligence artificielle de défense.
+- Opérationnel à l'été 2027, il réunira des civils et des militaires français et de pays alliés de l'OTAN pour partager leurs expériences et développer leur coopération dans ce domaine stratégique.
+- Publié : 18 novembre 2026 à 15h38 par Noëlline Garon La Bretagne : capitale de la cybersécurité.
+- L’European Cyber Week se poursuit jusqu’à ce jeudi 19 novembre, à Rennes.
+
+## [Thomas Mann : le prix de l'exil / La France face aux hackers | 28 minutes | ARTE - YouTube](https://www.youtube.com/watch?v=NBfqti_ipUA)  
+*Source : youtube.com | Publication : 2026-11-18*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [Les députés adoptent le projet de loi <b>cybersécurité</b>, en pleine multiplication des cyberattaques](https://imazpress.com/france-monde/cybersecurite-en-pleine-multiplication-des-cyberattaques)  
+*Source : imazpress.com | Publication : 2026-11-18*
+
+- Les députés ont adopté mardi un projet de loi renforçant les obligations de milliers d'entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient, mais dont beaucoup déplorent qu'il arrive avec deux années de retard.
+- Le projet de loi a été adopté par 464 voix contre 64, tous les groupes politiques votant favorablement, à l'exception de La France insoumise.
+- Le texte devra encore faire l'objet d'un accord entre députés et sénateurs en commission mixte paritaire.
+- Cette version commune sera ensuite soumise au vote définitif des parlementaires des deux chambres.
+
+## [<b>Cybersécurité</b> : les inquiétantes vulnérabilités du secteur spatial français - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1558213-cybersecurite-les-inquietantes-vulnerabilites-du-secteur-spatial-francaiscybersecurite-les-inquietantes-vulnerabilites-du-secteur-spatial-francais/)  
+*Source : journaldunet.com | Publication : 2026-11-18*
+
+- Cybersécurité : les inquiétantes vulnérabilités du secteur spatial français Porté par l'essor du new space, le secteur spatial français accueille de nombreuses jeunes pousses moins matures en cybersécurité que les grands acteurs historiques.
+- Résultat : la filière est confrontée à d'importantes failles de sécurité.
+- Le secteur critique de l'industrie spatiale française souffre d'importantes failles cyber, selon le premier observatoire de la performance cybersécurité du secteur spatial publié ce 19 novembre 2026.
+- Il est l'œuvre du groupe de travail sur la cyberdéfense du spatial, créé en 2026 et piloté par le Pôle d'excellence cyber et IRISPACE.
+
+## [Cyberattaques : pourquoi la France est-elle si vulnérable ? | 28 minutes | ARTE - YouTube](https://www.youtube.com/watch?v=6e3gf14u1H8)  
+*Source : youtube.com | Publication : 2026-11-18*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [La numérisation du système électrique accentue les risques de cyberattaques](https://www.pv-magazine.fr/2026/11/18/la-numerisation-du-systeme-electrique-accentue-les-risques-de-cyberattaques/)  
+*Source : pv-magazine.fr | Publication : 2026-11-18*
+
+- La numérisation du système électrique accentue les risques de cyberattaques La numérisation du système électrique européen, portée par le développement des énergies renouvelables et l’électrification des usages, multiplie les actifs connectés, les échanges de données et les accès distants.
+- Si ces évolutions facilitent le pilotage en temps réel et l’intégration des productions décentralisées, elles élargissent également la surface d’exposition aux cyberattaques.
+- C’est le constat de l’étude « État de la menace cyber sur le secteur de la transition énergétique et priorités à adresser », publiée par Wavestone et l’Office franco-allemand pour la transition énergétique (OFATE).
+- Elle souligne que la cybersécurité dépasse désormais le seul périmètre informatique pour devenir un enjeu de continuité d’exploitation, de souveraineté et de résilience du système énergétique européen.
+
+## [Alerte contre une faille dans le langage Java, très répandu dans le monde - L'Orient-Le Jour](https://www.lorientlejour.com/article/1554897/alerte-contre-une-faille-dans-le-langage-java-tres-repandu-dans-le-monde.html)  
+*Source : lorientlejour.com | Publication : 2026-11-18*
+
+- Les autorités de plusieurs pays ont lancé, entre mardi et mercredi, des alertes après la découverte d'une faille dans le langage de programmation Java, qui est très répandu dans le monde et particulièrement utilisé par les entreprises.
+- La société technologique américaine Calif, qui avait découvert en octobre dernier une faille de cybersécurité dans un autre langage de programmation PHP, a annoncé mercredi avoir identifié cette nouvelle vulnérabilité, baptisée « Java4Shell », dans les fonctions de gestion de la mémoire de Java.
+- Les autorités américaines, sud-coréennes, allemandes et britanniques, ainsi que le groupe chinois Tencent, ont exhorté les entreprises et les organisations à installer un correctif pour remédier à cette vulnérabilité.
+- L'agence néerlandaise de cybersécurité a, de son côté, indiqué qu'elle enquêtait sur le problème.
+
+## [La Finlande et l'Estonie réclament une réponse UE aux incidents d'IA](https://dcod.ch/2026/11/18/menaces-ia-12-derives-et-avancees-cles-du-18-novembre-2026-dont-claude-code/)  
+*Source : dcod.ch | Publication : 2026-11-18*
+
+- Faits marquants de la semaine La Finlande et l’Estonie demandent des dispositifs au niveau de l’Union européenne pour répondre aux « incidents graves » liés à l’IA, à l’approche d’un Conseil européen consacré à l’IA.
+- - Google présente Gemini 4 Hydrogen, un modèle d’IA destiné à remplacer Flash.
+- Selon des benchmarks, il approche le niveau de Claude Sonnet 5.5, mais est moins bon sur le travail agentique en terminal.
+- - Le responsable du développement du noyau Linux dit voir des signes d’accalmie dans l’afflux de correctifs lié à l’IA.
+
+## [Les députés adoptent le projet de loi <b>cybersécurité</b> - Stratégies](https://www.strategies.fr/actualites/medias/LQ6934014C/les-deputes-adoptent-le-projet-de-loi-cybersecurite.html)  
+*Source : strategies.fr | Publication : 2026-11-18*
+
+- Les députés ont adopté un projet de loi renforçant les obligations de milliers d’entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient.
+- Le projet de loi renforçant les obligations de milliers d’entreprises en matière de cybersécurité a été adopté par 464 voix contre 64, tous les groupes politiques votant favorablement, à l’exception de La France insoumise.
+- Le texte devra encore faire l’objet d’un accord entre députés et sénateurs en commission mixte paritaire.
+- Cette version commune sera ensuite soumise au vote définitif des parlementaires des deux chambres.
+
+## [ENTRETIEN. Cyberattaques : « L'intensité des menaces est sans précédent - Ouest-France](https://www.ouest-france.fr/societe/cyberattaque/entretien-cyberattaques-lintensite-de-la-menace-est-sans-precedent-alerte-le-patron-de-lagence-de-cyberdefense-b1c67e60-e327-11f1-a3b1-0c6de532ce7d)  
+*Source : ouest-france.fr | Publication : 2026-11-18*
+
+- Vincent Strubel, le patron de l'Anssi, l'agence de cybersécurité française, était ce mercredi 18 novembre à l'European Cyber Week de Rennes.
+
+## [Une faille dans le langage de programmation Java expose les systèmes informatiques au ...](https://www.boursier.com/actualites/reuters/une-faille-dans-le-langage-de-programmation-java-expose-les-systemes-informatiques-au-piratage-selon-des-etats-430469.html)  
+*Source : boursier.com | Publication : 2026-11-18*
+
+- cybersécurité.
+- L'entreprise technologique américaine Calif, celle qui avait découvert le mois dernier une faille de cybersécurité dans un autre.
 
 ## [Microsoft lance de nouveaux modèles d'IA spécialisés pour concurrencer Anthropic et OpenAI](https://bourse.fortuneo.fr/actualites-amp/microsoft-lance-de-nouveaux-modeles-d-ia-specialises-pour-concurrencer-anthropic-et-openai-5293337)  
 *Source : bourse.fortuneo.fr | Publication : 2026-11-18*
