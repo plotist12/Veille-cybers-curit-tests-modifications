@@ -1,5 +1,154 @@
-# Résumés – 2026-11-21
+# Résumés – 2026-11-23
 
+
+## [Asahi Group va consacrer 13,5 milliards de yens à la <b>cybersécurité</b> sur trois ans](https://ch.zonebourse.com/actualite-bourse/asahi-group-va-consacrer-13-5-milliards-de-yens-a-la-cybersecurite-sur-trois-ans-ce785ed3d18ef12c)  
+*Source : ch.zonebourse.com | Publication : 2026-11-23*
+
+- Asahi Group prévoit d'investir 13,5 milliards de yens dans la cybersécurité sur trois ans, notamment en utilisant l'intelligence artificielle pour.
+
+## [Jay Clayton va assurer temporairement l'intérim à la direction nationale de la <b>cybersécurité</b>](https://www.unite.ai/fr/jay-clayton-to-temporarily-serve-as-acting-national-cyber-director/)  
+*Source : unite.ai | Publication : 2026-11-23*
+
+- Réglementation Jay Clayton va assurer temporairement l’intérim à la direction nationale de la cybersécurité Ajouter Unite.AI à vos sources préférées sur GooglePoints clésLe double rôle de Clayton concentre la politique cyber et la coordination de l'IA sous… Voir plus Le double rôle de Clayton concentre la politique cyber et la coordination de l'IA sous un seul chef du renseignement.
+- - Davies apporte son expérience de la modernisation informatique du Pentagone à un bureau cyber lié à l'analyse des vulnérabilités par l'IA.
+- - Clayton attribue les récentes pannes à des échecs de correctifs plutôt qu'à des attaques coordonnées.
+- - Axios a rapporté le 23 novembre 2026 que le directeur du renseignement national, Jay Clayton, assurera également l’intérim à la direction nationale de la cybersécurité pendant que Kirsten A. Davies attend la confirmation du Sénat.
+
+## [Bénin : SaH Analytics débarque avec ses solutions d'IA et de <b>cybersécurité</b>](https://lanouvelletribune.info/2026/11/benin-sah-analytics-debarque-avec-ses-solutions-dia-et-de-cybersecurite/)  
+*Source : lanouvelletribune.info | Publication : 2026-11-23*
+
+- SaH Analytics International étend ses activités au Bénin.
+- La société ivoirienne de services et de conseil informatique a procédé au lancement de sa filiale béninoise à l’occasion du Cyber Africa Forum 2026, organisé à Cotonou.
+- Son directeur général au Bénin, Jean Folly, revient sur les ambitions de cette implantation et les perspectives offertes par l’intelligence artificielle et la cybersécurité dans une interview exclusive à La Nouvelle Tribune qui sera diffusée très prochainement.
+- Créée en 2019 en Côte d’Ivoire, SaH Analytics a connu une croissance qui a conduit ses responsables à reproduire cette expérience sur d’autres marchés africains.
+
+## [Le récap tech de la semaine : GTA 6 explose les records, la <b>cybermenace</b> s'intensifie](https://kulturegeek.fr/news-364598/recap-tech-semaine-gta-6-explose-records-cybermenace-sintensifie)  
+*Source : kulturegeek.fr | Publication : 2026-11-23*
+
+- Du 16 au 22 novembre, GTA 6 a redéfini ce que peut représenter le lancement d’un jeu vidéo, jusqu’à mobiliser une part considérable du trafic Internet français.
+- La semaine a aussi été marquée par une série d’attaques visant des institutions publiques, de nouveaux modèles d’intelligence artificielle et plusieurs annonces rappelant que les services numériques ne sont jamais éternels.
+- Entre Google Assistant qui prépare sa sortie, Microsoft To Do qui abandonne les particuliers, Voyager 1 qui s’éloigne toujours davantage et le CD qui revient avec du Bluetooth, la tech a une nouvelle fois avancé dans plusieurs directions à la fois.
+- Rockstar peut difficilement espérer un meilleur démarrage.
+
+## [Jay Clayton assurera l'intérim à la direction nationale de la <b>cybersécurité</b> | Межа](https://mezha.net/fr/news/mezha-baae8b715a37a50b9ba55165_jay-clayton-assurera-l-interim-a/)  
+*Source : mezha.net | Publication : 2026-11-23*
+
+- Jay Clayton assurera l’intérim à la direction nationale de la cybersécurité Cette nomination par intérim confie à un même responsable les fonctions de renseignement et la politique nationale de cybersécurité, pendant que Kirsten Davies attend la confirmation du Sénat à la tête du bureau.
+- Axios a appris que Jay Clayton, directeur du renseignement national, assurera également l’intérim à la direction nationale de la cybersécurité pendant que Kirsten Davies attend la confirmation du Sénat à la tête du bureau.
+- Cette information est rapportée par Axios.
+- Un responsable de la Maison-Blanche a déclaré que le soutien marqué dont a bénéficié Davies avait convaincu le président Trump de la nommer à la tête du bureau de manière permanente, plutôt que de la maintenir à titre intérimaire.
+
+## [Jay Clayton avertit les Américains de s'attendre à davantage de pannes technologiques lors ...](https://news.lavx.hu/fr/article/jay-clayton-avertit-les-americains-de-s-attendre-a-davantage-de-pannes-technologiques-lors-des-mises-a-niveau-des-systemes)  
+*Source : news.lavx.hu | Publication : 2026-11-23*
+
+- Le directeur du renseignement national Jay Clayton a déclaré que les entreprises et les agences gouvernementales pourraient faire face à des perturbations temporaires alors qu'elles modernisent leurs systèmes et investissent dans la cybersécurité pour l'intelligence artificielle.
+- Le directeur du renseignement national Jay Clayton a averti les Américains qu’ils devaient s’attendre à davantage de perturbations technologiques, alors que les entreprises et les agences gouvernementales modernisent leurs systèmes pour l’intelligence artificielle.
+- Clayton a déclaré dans l’émission « State of the Union » de CNN que les récentes pannes affectant le transport aérien, Microsoft Outlook et les transactions bancaires avaient des causes différentes.
+- Les responsables n’ont pas observé de signes d’une cyberattaque coordonnée, a-t-il indiqué.
+
+## [À Krasnodar, des fumées signalées après une attaque de drones et des explosions](https://mezha.net/fr/news/mezha-f203f47d4d9c7d6e97deb79d_a-krasnodar-des-fumees-signalees-apres/)  
+*Source : mezha.net | Publication : 2026-11-22*
+
+- À Krasnodar, des fumées signalées après une attaque de drones et des explosions - des comptes locaux Dans la nuit du 22 novembre, l’aéroport de Krasnodar a annoncé des restrictions temporaires sur les arrivées et les départs d’aéronefs.
+- La mairie a déclaré que l’attaque de drones avait été repoussée.
+- Selon des comptes locaux, de la fumée est observée à Krasnodar après une attaque de drones et de nombreuses explosions, notamment dans le secteur de la ville militaire.
+- Cette information est rapportée par Astra.
+
+## [&quot;On revient au papier et au crayon&quot;: le CHU de Guadeloupe victime d'une &quot;cyberattaque de ... - BFM](https://www.bfmtv.com/tech/actualites/cybersecurite/on-revient-au-papier-et-au-crayon-le-chu-de-guadeloupe-victime-d-une-cyberattaque-de-grande-ampleur_AD-202611220466.html)  
+*Source : bfmtv.com | Publication : 2026-11-22*
+
+- "On revient au papier et au crayon": le CHU de Guadeloupe victime d'une "cyberattaque de grande ampleur" Le plan blanc a été déclenché ce dimanche 22 novembre au matin au CHU de la Guadeloupe, en plein transfert vers un nouveau site, après "une cyberattaque de grande ampleur", survenue samedi soir, a appris l'AFP auprès de la direction de l'établissement.
+- L'attaque concerne, avec des "impacts variables", les trois sites de l'établissement de santé, dont le nouveau bâtiment des Abymes, où s'installeront les urgences pédiatriques, dans la nuit de lundi à mardi.
+- "Depuis hier soir, nous sommes victimes d'une cyberattaque de l'extérieur qui affecte grandement notre système d'information et la téléphonie de l'établissement", a expliqué à l'AFP Eric Guyader, directeur général du CHU de la Guadeloupe.
+- Si les équipes ont cru à "une panne informatique au départ" samedi soir, elles ont ensuite constaté "des bases de données cryptées inaccessibles, prouvant une attaque volontaire de notre système d'information", selon la même source.
+
+## [Eviden (Atos) : le chiffrement souverain français s'invite dans Microsoft Azure - Refrance](https://refrance.fr/eviden-atos-le-chiffrement-souverain-francais-sinvite-dans-microsoft-azure/)  
+*Source : refrance.fr | Publication : 2026-11-22*
+
+- Mercredi 18 novembre, Eviden, la marque de produits de cybersécurité du groupe Atos, a annoncé l’extension à Microsoft Azure de sa fonction de chiffrement souverain « Bring Your Own Sovereign Encryption » (BYOSE).
+- Les clients du cloud américain peuvent désormais conserver la maîtrise de leurs clés avec une pile technologique française.
+- Explications.
+- Mercredi 18 novembre, à Paris, Eviden, marque du groupe Atos dédiée aux produits de cybersécurité, aux systèmes critiques et à la vision par IA, a annoncé que son système de gestion de clés, Eviden KMS, prend désormais en charge la gestion externe des clés (EKM) d’Azure Key Vault Managed HSM, le service de Microsoft.
+
+## [GPGME, faille critique CVE-2026-129975 déclenchée par des clés OpenPGP malveillantes](https://pasqualepillitteri.it/fr/news/36039/gpgme-faille-critique-cve-2026-129975-cles-openpgp-malveillantes)  
+*Source : pasqualepillitteri.it | Publication : 2026-11-22*
+
+- GPGME, faille critique CVE-2026-129975 déclenchée par des clés OpenPGP malveillantes GnuPG corrige dans GPGME 2.3.1 un double free (CVE-2026-129975) qu'une clé OpenPGP à l'user ID très long peut déclencher.
+- Qui est exposé et comment mettre à jour.
+- Les plus lus Cybersécurité Actualités IA & Tendances Anthropic Gemini Matériel et PC Claude Droit & Réglementation Tech Automobile Meta Tesla Infrastructure Agents IA Jeux Vidéo Google OpenAI Cloud et DevOps Outils IA & Avis Nvidia IA en local Microsoft Robotique Benchmarks et Comparatifs Apple Électronique Développement Logiciel Amazon Multi-Agents & Orchestration IA chinoise Applis Mobiles ChatGPT Mistral Grok Rapports et Analyses Économie SaaS IA Finance Intelligence Artificielle Réseaux sociaux et plateformes Smartphones.
+
+## [La BERD prépare jusqu'à 100 millions d'euros pour numériser le réseau aéroportuaire marocain](https://barlamane.com/fr/la-berd-prepare-jusqua-100-millions-deuros-pour-numeriser-le-reseau-aeroportuaire-marocain/)  
+*Source : barlamane.com | Publication : 2026-11-22*
+
+- La Banque européenne pour la reconstruction et le développement (BERD) a mis à l’étude un prêt senior de 100 millions d’euros au plus (1,1 milliard de dirhams) au profit de l’Office national des aéroports (ONDA), destiné à la transformation numérique des plates-formes du royaume.
+- Le bailleur de fonds a scindé l’enveloppe en une première tranche ferme de 60 millions d’euros (656,9 millions de dirhams) et une seconde tranche non engagée de 40 millions (438 millions de dirhams).
+- La BERD a actualisé, vendredi 21 novembre, la fiche consacrée au projet, enregistré sous le numéro 55857.
+- L’institution londonienne a classé le dossier au stade «exploratoire» et a fixé au 2 décembre la date cible de son examen par le conseil d’administration.
+
+## [OpenAI propose des limites communes au développement de l'IA, liées à des jalons de sécurité](https://www.unite.ai/fr/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/)  
+*Source : unite.ai | Publication : 2026-11-22*
+
+- Modèles et plateformes d’IA OpenAI propose des limites communes au développement de l’IA, liées à des jalons de sécurité Ajouter Unite.AI à vos sources préférées sur GooglePoints clésOpenAI lie les limites du développement de pointe à des jalons de surveillance concrets… Voir plus OpenAI lie les limites du développement de pointe à des jalons de surveillance concrets plutôt qu'à des seuils de capacité fixes.
+- - Perplexity ne peut pas servir de norme partagée car les laboratoires utilisent des ensembles de données différents et elle manque les gains de raisonnement.
+- - La propre recherche d'OpenAI montre une amélioration inégale de l'IA, les humains restant au centre de la boucle de développement.
+- - Le 22 novembre 2026, le scientifique en chef d’OpenAI, Jakub Pachocki, a publié des mesures internes de perplexité et proposé des limites communes au développement de l’IA de pointe, avertissant que la recherche sur l’alignement et la surveillance pourrait ne pas suivre le rythme si les progrès du préentraînement s’accélèrent dès 2027.
+
+## [Cyberattaques : &quot;Les voyants sont au rouge et le pire est à venir&quot; (Clément Domingo)](https://www.youtube.com/watch?v=LAAxOqhgchM)  
+*Source : youtube.com | Publication : 2026-11-22*
+
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+
+## [<b>Cybersécurité</b>: BMCE Capital se rapproche de la certification ISO 27001 - L'Economiste](https://www.leconomiste.com/cybersecurite-bmce-capital-se-rapproche-de-la-certification-iso-27001/)  
+*Source : leconomiste.com | Publication : 2026-11-22*
+
+- Cybersécurité : BMCE Capital se rapproche de la certification ISO 27001.
+- Par L'Economiste | Edition N°:7383 Le 20/11/2026.
+- La suite de cet article.
+
+## [Le reverse-engineering devient la nouvelle tendance grâce à l'IA - DCOD](https://dcod.ch/2026/11/22/le-reverse-engineering-devient-la-nouvelle-tendance-grace-a-lia/)  
+*Source : dcod.ch | Publication : 2026-11-22*
+
+- TL;DR : L’essentiel Le projet GitHub Reverse Engineer Anything dépasse 342’000 étoiles en proposant de cloner les fonctions d’une application sans son code source.
+- - Des particuliers modifient des téléviseurs connectés ou des miroirs intelligents abandonnés pour supprimer les publicités et restaurer leurs fonctions.
+- - Des cybercriminels risquent de glisser des logiciels malveillants dans ces dépôts partagés tandis que les communautés open source peinent à filtrer ce code.
+- - Des développeurs et des particuliers utilisent désormais des agents IA pour pratiquer le reverse-engineering sur des logiciels propriétaires, rapporte 404 Media.
+
+## [Quand les cyberattaques passent à la vitesse de l'IA - Les Affaires](https://www.lesaffaires.com/dossiers/300-pme-la-consolidation-fait-la-force/quand-les-cyberattaques-passent-a-la-vitesse-de-lia/)  
+*Source : lesaffaires.com | Publication : 2026-11-22*
+
+- Quand les cyberattaques passent Ã la vitesse de lâIA Les idÃ©es des Affaires|PubliÃ© Ã 7h30 | Mis Ã jour Ã 7h31Guillaume Caron (Photo: courtoisie) Un texte de Guillaume Caron, associÃ© et prÃ©sident, VARS, division en cybersÃ©curitÃ© de Raymond Chabot Grant Thornton LES IDÃES DES AFFAIRES.
+- En cybersÃ©curitÃ©, nous avons longtemps cherchÃ© Ã Ã©riger des murs toujours plus solides autour des organisations.
+- Deux Ã©vÃ©nements rÃ©cents montrent toutefois que le dÃ©fi change de nature.
+- Ce nâest plus seulement la sophistication des attaques qui doit nous prÃ©occuper, mais leur vitesse, leur capacitÃ© Ã passer par des technologies de confiance et lâÃ©largissement du pÃ©rimÃ¨tre que les entreprises doivent surveiller.
+
+## [Plan cyber : 200 M€ France 2030, post-quantique inclus - shattered.io](https://shattered.io/fr/plan-cyber-200-millions-france-2030-chiffrement-post-quantique/)  
+*Source : shattered.io | Publication : 2026-11-22*
+
+- Le 19 novembre 2026, le gouvernement français a présenté un plan de renforcement cyber qui mobilise 200 millions d’euros au titre de France 2030, dont une partie soutiendra des solutions de cryptographie post-quantique.
+- Le chiffre frappe, mais il masque un détail qui compte pour les équipes techniques: l’annonce ne chiffre pas la part du post-quantique, ne nomme ni algorithme, ni industriel, ni bénéficiaire.
+- Trois jours plus tard, le dossier se lit mieux.
+- Le plan s’ajoute à la stratégie nationale de cybersécurité 2026-2030, il croise un appel européen à 96 millions d’euros que certains commentaires présentent à tort comme une ligne post-quantique, et il tombe quelques jours après l’atelier de Rennes consacré à la cryptographie post-quantique.
+
+## [Donald Trump menace de taxer les data centers construits à l'étranger lors d'une ... - Orange Actu](https://actu.orange.fr/monde/donald-trump-menace-de-taxer-les-data-centers-construits-a-l-etranger-lors-d-une-conference-de-presse-decousue-a-la-maison-blanche-l-express-CNT000002tXfps.html)  
+*Source : actu.orange.fr | Publication : 2026-11-22*
+
+- Donald Trump menace de taxer les data centers construits à l’étranger lors d’une conférence de presse décousue à la Maison-Blanche © Entouré de J.
+- D. Vance et Marco Rubio, pressentis parmi ses possibles successeurs en 2028, Donald Trump a multiplié les déclarations inattendues lors d’une conférence de presse marquée par les rivalités et les interrogations sur l’avenir du camp républicain.
+- Etats-Unis.
+- De retour d’Asie, Donald Trump a multiplié les déclarations décousues lors d’une conférence de presse à la Maison-Blanche.
+
+## [Salon des Maires et des Collectivités Locales 2026 - InformatiqueNews.fr](https://www.informatiquenews.fr/evenement/salon-des-maires-et-des-collectivites-locales-2026)  
+*Source : informatiquenews.fr | Publication : 2026-11-22*
+
+- Salon des Maires et des Collectivités Locales 2026 Le Salon des Maires et des Collectivités Locales réunit du 24 au 26 novembre 2026 élus, décideurs publics et fournisseurs autour des projets des territoires.
+- Il se tient au Pavillon 7 de Paris Expo Porte de Versailles, à Paris.
+- Le premier salon du mandat.
+- Les équipes élues en mars arrivent porte de Versailles avec des budgets serrés et un système d’information dont elles ont hérité.
+
+## [Odeko fait l'acquisition de la société montréalaise Nantel McDiarmid et réalise ainsi sa ...](https://www.fasken.com/fr/experience/2026/11/odeko-acquires-quebec-food-distribution)  
+*Source : fasken.com | Publication : 2026-11-22*
+
+- Shapiro, Avocat | Protection des renseignements confidentiels, vie privée et cybersécurité , Montréal, QC, +1 514 657 2423, ashapiro@fasken.com.
 
 ## [Yango porte plainte à la Division spéciale de <b>cybersécurité</b>, la femme convoquée reste injoignable](https://senego.com/yango-porte-plainte-a-la-division-speciale-de-cybersecurite-la-femme-convoquee-reste-injoignable_2026547.html)  
 *Source : senego.com | Publication : 2026-11-21*
