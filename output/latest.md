@@ -1,47 +1,41 @@
-# Résumés – 2026-11-23
+# Résumés – 2026-11-24
 
 
-## [Asahi Group va consacrer 13,5 milliards de yens à la <b>cybersécurité</b> sur trois ans](https://ch.zonebourse.com/actualite-bourse/asahi-group-va-consacrer-13-5-milliards-de-yens-a-la-cybersecurite-sur-trois-ans-ce785ed3d18ef12c)  
-*Source : ch.zonebourse.com | Publication : 2026-11-23*
+## [Bell enquête sur une cyberattaque qui a compromis les données de clients - Radio-Canada](https://ici.radio-canada.ca/article/info/2302629/bell-enquete-cyberattaque-donnees-clients)  
+*Source : ici.radio-canada.ca | Publication : 2026-11-24*
 
-- Asahi Group prévoit d'investir 13,5 milliards de yens dans la cybersécurité sur trois ans, notamment en utilisant l'intelligence artificielle pour.
+- Bell enquête sur une cyberattaque qui a compromis les données de clients Un individu non identifié a accédé sans autorisation, mardi dernier, à un système interne de Bell Canada.
+- (Photo d'archives) Photo : (Christopher Katsarov/The Canadian Press) La Presse canadienne - Bell Canada indique que les données de ses clients ont été compromises lors d’une cyberattaque survenue la semaine dernière, le dernier épisode en date d’une série d’incidents qui, selon des experts en cybersécurité, gagnent en complexité.
+- Dans un courriel envoyé lundi matin à ses clients, l’entreprise affirme qu’un individu non identifié a accédé sans autorisation, mardi dernier, à un système interne de Bell qui contient certaines informations personnelles des clients.
+- Ellen Murphy, porte-parole de Bell, a précisé que cet acteur malveillant avait obtenu des informations personnelles concernant les clients particuliers et professionnels de Bell, Bell Aliant, Bell MTS, Virgin Plus et Lucky Mobile.
 
-## [Jay Clayton va assurer temporairement l'intérim à la direction nationale de la <b>cybersécurité</b>](https://www.unite.ai/fr/jay-clayton-to-temporarily-serve-as-acting-national-cyber-director/)  
-*Source : unite.ai | Publication : 2026-11-23*
+## [Le Clusif publie quatre nouveaux guides pratiques - Republik Group](https://www.republikgroup.com/articles/11edf557-55e3-f111-91f2-000d3abcbe23/le-clusif-publie-quatre-nouveaux-guides-pratiques)  
+*Source : republikgroup.com | Publication : 2026-11-24*
 
-- Réglementation Jay Clayton va assurer temporairement l’intérim à la direction nationale de la cybersécurité Ajouter Unite.AI à vos sources préférées sur GooglePoints clésLe double rôle de Clayton concentre la politique cyber et la coordination de l'IA sous… Voir plus Le double rôle de Clayton concentre la politique cyber et la coordination de l'IA sous un seul chef du renseignement.
-- - Davies apporte son expérience de la modernisation informatique du Pentagone à un bureau cyber lié à l'analyse des vulnérabilités par l'IA.
-- - Clayton attribue les récentes pannes à des échecs de correctifs plutôt qu'à des attaques coordonnées.
-- - Axios a rapporté le 23 novembre 2026 que le directeur du renseignement national, Jay Clayton, assurera également l’intérim à la direction nationale de la cybersécurité pendant que Kirsten A. Davies attend la confirmation du Sénat.
+- Reconnu association d’utilité publique par l’Etat, le Clusif est le Club de la Sécurité de l’Information en France.
+- Il « réunit entreprises et administrations autour du développement des bonnes pratiques pour la sécurité du numérique », autant côté fournisseurs et prestataires que côté utilisateurs de technologies.
+- Ce club publie régulièrement des documents pour promouvoir les bonnes pratiques, ce qui commence en effet par les faire connaître.
+- Quatre nouveaux documents ont ainsi été rendus publics ces dernières semaines : trois dossiers techniques de quarante à cent pages et une plaquette de quatre pages.
 
-## [Bénin : SaH Analytics débarque avec ses solutions d'IA et de <b>cybersécurité</b>](https://lanouvelletribune.info/2026/11/benin-sah-analytics-debarque-avec-ses-solutions-dia-et-de-cybersecurite/)  
-*Source : lanouvelletribune.info | Publication : 2026-11-23*
+## [<b>Cybersécurité</b> : le gouvernement priorise la riposte, avant les autres projets numériques](https://www.guadeloupe.franceantilles.fr/actualite/economie/cybersecurite-le-gouvernement-priorise-la-riposte-avant-les-autres-projets-numeriques-1100725.php)  
+*Source : guadeloupe.franceantilles.fr | Publication : 2026-11-24*
 
-- SaH Analytics International étend ses activités au Bénin.
-- La société ivoirienne de services et de conseil informatique a procédé au lancement de sa filiale béninoise à l’occasion du Cyber Africa Forum 2026, organisé à Cotonou.
-- Son directeur général au Bénin, Jean Folly, revient sur les ambitions de cette implantation et les perspectives offertes par l’intelligence artificielle et la cybersécurité dans une interview exclusive à La Nouvelle Tribune qui sera diffusée très prochainement.
-- Créée en 2019 en Côte d’Ivoire, SaH Analytics a connu une croissance qui a conduit ses responsables à reproduire cette expérience sur d’autres marchés africains.
+- Cybersécurité : le gouvernement priorise la riposte, avant les autres projets numériques « On est sur un niveau de menace particulièrement grave et inédit. ».
+- C'est en ces termes... « On est sur un niveau de menace particulièrement grave et inédit. ».
+- C'est en ces termes... Rejoignez la chaîne officielle pour recevoir nos alertes, enquêtes et reportages majeurs en temps réel.
 
-## [Le récap tech de la semaine : GTA 6 explose les records, la <b>cybermenace</b> s'intensifie](https://kulturegeek.fr/news-364598/recap-tech-semaine-gta-6-explose-records-cybermenace-sintensifie)  
-*Source : kulturegeek.fr | Publication : 2026-11-23*
+## [L'ENSIT s'engage dans un partenariat pour renforcer la coopération en <b>cybersécurité</b>](https://letemps.news/2026/11/23/lensit-sengage-dans-un-partenariat-pour-renforcer-la-cooperation-en-cybersecurite/)  
+*Source : letemps.news | Publication : 2026-11-24*
 
-- Du 16 au 22 novembre, GTA 6 a redéfini ce que peut représenter le lancement d’un jeu vidéo, jusqu’à mobiliser une part considérable du trafic Internet français.
-- La semaine a aussi été marquée par une série d’attaques visant des institutions publiques, de nouveaux modèles d’intelligence artificielle et plusieurs annonces rappelant que les services numériques ne sont jamais éternels.
-- Entre Google Assistant qui prépare sa sortie, Microsoft To Do qui abandonne les particuliers, Voyager 1 qui s’éloigne toujours davantage et le CD qui revient avec du Bluetooth, la tech a une nouvelle fois avancé dans plusieurs directions à la fois.
-- Rockstar peut difficilement espérer un meilleur démarrage.
+- L’École Nationale Supérieure d’Ingénieurs de Tunis (ENSIT) vient de signer une convention de collaboration pour la mise en œuvre de « CyberForge », une initiative parrainée par l’Ambassade des États-Unis en Tunisie et financée par le programme Alumni Engagement Innovation Fund (AEIF 2025).
+- L’objectif est de favoriser le renforcement des compétences et élargir les perspectives des étudiants dans le domaine de cybersécurité, indique l’ENSIT.
+- Ce partenariat prévoit trois journées de sensibilisation à la cybersécurité et à la protection contre les cyberattaques, ouvertes aux étudiants des différentes spécialités, sans prérequis techniques avancés.
+- Le programme permettra de comprendre les cybermenaces et reconnaître les escroqueries numériques, de déjouer le phishing et les pièges de l’ingénierie sociale, de protéger les comptes, les mots de passe et les données personnelles et d’adopter les bons réflexes de sécurité à l’ère de l’intelligence artificielle.
 
-## [Jay Clayton assurera l'intérim à la direction nationale de la <b>cybersécurité</b> | Межа](https://mezha.net/fr/news/mezha-baae8b715a37a50b9ba55165_jay-clayton-assurera-l-interim-a/)  
-*Source : mezha.net | Publication : 2026-11-23*
+## [Des pirates informatiques revendiquent une cyberattaque contre le centre hospitalier de Bordeaux](https://www.sudouest.fr/sciences-et-technologie/des-pirates-informatiques-revendiquent-une-cyberattaque-contre-le-centre-hospitalier-de-bordeaux-31625421.php)  
+*Source : sudouest.fr | Publication : 2026-11-24*
 
-- Jay Clayton assurera l’intérim à la direction nationale de la cybersécurité Cette nomination par intérim confie à un même responsable les fonctions de renseignement et la politique nationale de cybersécurité, pendant que Kirsten Davies attend la confirmation du Sénat à la tête du bureau.
-- Axios a appris que Jay Clayton, directeur du renseignement national, assurera également l’intérim à la direction nationale de la cybersécurité pendant que Kirsten Davies attend la confirmation du Sénat à la tête du bureau.
-- Cette information est rapportée par Axios.
-- Un responsable de la Maison-Blanche a déclaré que le soutien marqué dont a bénéficié Davies avait convaincu le président Trump de la nommer à la tête du bureau de manière permanente, plutôt que de la maintenir à titre intérimaire.
-
-## [Jay Clayton avertit les Américains de s'attendre à davantage de pannes technologiques lors ...](https://news.lavx.hu/fr/article/jay-clayton-avertit-les-americains-de-s-attendre-a-davantage-de-pannes-technologiques-lors-des-mises-a-niveau-des-systemes)  
-*Source : news.lavx.hu | Publication : 2026-11-23*
-
-- Le directeur du renseignement national Jay Clayton a déclaré que les entreprises et les agences gouvernementales pourraient faire face à des perturbations temporaires alors qu'elles modernisent leurs systèmes et investissent dans la cybersécurité pour l'intelligence artificielle.
-- Le directeur du renseignement national Jay Clayton a averti les Américains qu’ils devaient s’attendre à davantage de perturbations technologiques, alors que les entreprises et les agences gouvernementales modernisent leurs systèmes pour l’intelligence artificielle.
-- Clayton a déclaré dans l’émission « State of the Union » de CNN que les récentes pannes affectant le transport aérien, Microsoft Outlook et les transactions bancaires avaient des causes différentes.
-- Les responsables n’ont pas observé de signes d’une cyberattaque coordonnée, a-t-il indiqué.
+- Les cybercriminels prétendent détenir des dossiers médicaux, des informations personnelles de patients, des résultats d’analyses, des documents d’imagerie médicale, des données financières et des fichiers administratifs.
+- Le CHU de Bordeaux se montre rassurant Plusieurs hôpitaux de Gironde sont en alerte depuis le dimanche 22 novembre.
+- Selon les informations de « Sud Ouest », les établissements de santé ont demandé à leur personnel de faire preuve de vigilance numérique et de limiter l’utilisation de certains logiciels.
+- Cette consigne fait suite à la revendication d’une cyberattaque du groupe de « ransomware » (rançongiciel) baptisé Scarlettgroup.
