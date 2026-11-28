@@ -1,5 +1,157 @@
-# Résumés – 2026-11-27
+# Résumés – 2026-11-28
 
+
+## [Lutte contre la <b>cybercriminalité</b> : la Police alerte sur l'usurpation d'identité numérique et l ...](https://www.actuniger.com/societe/lutte-contre-la-cybercriminalite-la-police-alerte-sur-lusurpation-didentite-numerique-et-lescroquerie-en-ligne-4.html)  
+*Source : actuniger.com | Publication : 2026-11-28*
+
+- La Direction de la Police Judiciaire (DPJ), à travers sa Division de la Lutte contre la Cybercriminalité, porte à la connaissance des internautes que des individus, actuellement en cours d'identification, usurpent l'identité numérique de la Ministre de la Culture, de l'Artisanat et du Tourisme, Madame Agaichatta Guichenne Atta, dans le but de commettre des actes d'escroquerie au préjudice de nombreux citoyens.
+- Leur mode opératoire consiste à diffuser, sur les réseaux sociaux, notamment Facebook et TikTok, des images et des vidéos de la Ministre, accompagnées d'un message faussement attribué à cette dernière, comme suit : « J'ai décidé d'aider 75 femmes qui aiment le commerce ».
+- Lorsqu'une personne intéressée prend contact avec ces individus, ces derniers lui demandent de transmettre une photo de sa pièce d'identité, puis d'acheter une carte Sim et de créer un compte de transfert d'argent Nita ou Amana.
+- Une fois le compte créé et identifié au nom de la victime, ils exigent qu'elle leur communique les identifiants et les mots de passe permettant d'accéder.
+
+## [<b>Cybersécurité</b> : les petites mairies vulnérables aux attaques - Dosya Haber](https://dosyahaber.com/post/cybersecurite-les-petites-mairies-vulnerables-aux-attaques-17537384583586)  
+*Source : dosyahaber.com | Publication : 2026-11-28*
+
+- PARIS — La sécurité informatique creuse un nouveau fossé territorial en France.
+- Une enquête nationale réalisée par OpinionWay pour Cybermalveillance.gouv.fr, publiée alors que se tenait cette semaine le rendez-vous annuel de l'Association des maires de France, met en évidence la grande vulnérabilité des petites collectivités rurales face aux cybermenaces.
+- Un renouvellement massif des équipes municipales Après les élections municipales de mars dernier, 71 % des équipes locales ont été renouvelées.
+- Pour ces nouveaux élus, la sécurisation des systèmes informatiques représente un défi immédiat, particulièrement dans les communes de moins de 1 000 habitants et plus encore dans celles de moins de 300 habitants.
+
+## [SOC Agentique : les entreprises doivent repenser leurs stratégies avant de rentrer dans la course](https://www.journaldunet.com/cybersecurite/1558605-soc-agentique-les-entreprises-doivent-repenser-leurs-strategies-avant-de-rentrer-dans-la-course/)  
+*Source : journaldunet.com | Publication : 2026-11-27*
+
+- SOC Agentique : les entreprises doivent repenser leurs stratégies avant de rentrer dans la course La promesse du SOC agentique est claire : permettre aux équipes de sécurité d'accélérer considérablement leur temps de réponse, grâce aux agents d'IA, en concentrant leurs compétences là où elles peuv Dans un SOC agentique, l'objectif n'est pas l'automatisation totale.
+- Il s'agit plutôt de veiller à ce que les analystes de sécurité humains ne soient pas complètement submergés par les alertes liées aux vagues successives d'attaques générées par l'IA.
+- Les stratégies qui réussissent le déploiement de SOC agentiques sont qui maintiennent à tout moment un humain dans le processus de validation.
+- Les agents d’IA prennent en charge des tâches telles que la collecte de données, la priorisation des menaces, la corrélation des alertes et la planification des réponses.
+
+## [Une arnaque de fausses amendes MyMinfin touche 33.000 personnes en Belgique - Le Soir](https://www.lesoir.be/785392/article/2026-11-27/une-arnaque-de-fausses-amendes-myminfin-touche-33000-personnes-en-belgique)  
+*Source : lesoir.be | Publication : 2026-11-27*
+
+- Les entreprises de cybersécurité Secutec et SOCRadar ont révélé mercredi une campagne internationale de cyberattaques surnommée « BabidiGhost ».
+
+## [<b>Cybersécurité</b> : quels sont les risques pour l'élection présidentielle en France ?⁠ ⁠ Vincent ...](https://www.instagram.com/reel/DgQe5EXS9pN/)  
+*Source : instagram.com | Publication : 2026-11-27*
+
+- InstagramLog InSign Up.
+
+## [<b>Cybersécurité</b> : quels sont les risques pour l'élection présidentielle en France ? Vincent ...](https://www.facebook.com/franceinter/videos/cybersécurité-quels-risques-pour-la-présidentielle/1141393868637620/)  
+*Source : facebook.com | Publication : 2026-11-27*
+
+- Cybersécurité : quels sont les risques pour l'élection présidentielle en France ?.
+- Vincent Strubel, Directeur Général de l'Anssi, est l'invité de.
+
+## [Podcast : « CyberNation », un thriller haletant sur les coulisses de la guerre numérique](https://www.lesechos.fr/weekend/cinema-series/podcast-cybernation-un-thriller-haletant-sur-les-coulisses-de-la-guerre-numerique-2265093)  
+*Source : lesechos.fr | Publication : 2026-11-27*
+
+- cybersécurité et la souveraineté numérique, en un véritable thriller sonore.
+- Ce contenu est réservé aux inscrits.
+- Vous souhaitez lire la suite ?.
+- C.
+
+## [Anthropic a développé Siren, une &quot;île de la tentation&quot; pour tester la sécurité de ses modèles ...](https://www.bfmtv.com/tech/intelligence-artificielle/anthropic-a-developpe-siren-une-ile-de-la-tentation-pour-tester-la-securite-de-ses-modeles-de-pointe-deux-bacs-a-sable-1-700-scenarios-et-des-ia-poussees-a-reussir-leur-mission-en-ne-respectant-pas-les-regles_AV-202611270822.html)  
+*Source : bfmtv.com | Publication : 2026-11-27*
+
+- Anthropic a développé Siren, une "île de la tentation" pour tester la sécurité de ses modèles de pointe: deux bacs à sable, 1.700 scénarios et des IA poussées à réussir leur mission en ne respectant pas les règles La question du contrôle des modèles de pointe d'intelligence artificielle mène à de nombreux débats à travers le monde.
+- Pour éviter le pire - avec un modèle arrivant à devenir complètement autonome et pouvant se passer du contrôle humain - Anthropic a conçu un test baptisé Siren, qui est en réalité un véritable pousse-au-crime.
+- Un nom qui n'est pas choisi au hasard: dans la mythologie grecque, les sirènes disposent d'un chant mortel, qui envoûte les marins en mer afin de les détourner de leur chemin et les sacrifier ensuite sur les récifs.
+- Des "bacs à sable" très réalistes mais avec des voies de sortie Vingt-six environnements dits "bac à sable" sont simulés avec, à chaque fois, différents scénarios.
+
+## [Le podcast “Cybernation”, sur France Inter, un polar haletant qui rend la <b>cybersécurité</b> sexy](https://sortir.telerama.fr/radio/le-podcast-cybernation-sur-france-inter-un-polar-haletant-qui-rend-la-cybersecurite-sexy-7034063.php)  
+*Source : sortir.telerama.fr | Publication : 2026-11-27*
+
+- Un technicien et une espionne entièrement dévoués à la France, des tentatives de déstabilisation économique et politique… Cette ambitieuse fiction sur un milieu stratégique, a priori peu propice à l’action sur le plan sonore, se révèle très réussie.
+- Réservé aux abonnés Publié le 27 novembre 2026 à 12h44 Ça fait quel bruit, un agent qui travaille pour la cybersécurité française ?.
+- Un simple cliquetis d’ordinateur.
+- Défi pour Morgane Thomas, bruiteuse engagée sur l’enregistrement de Cybernation, thriller sonore dont l’intrigue se déroule dans le milieu de la sécurité informatique.
+
+## [SAP, géant mondial des logiciels, victime d'une cyberattaque](https://www.cyberattaque.org/cyberattaque-chez-sap-le-code-source-du-geant-allemand-des-logiciels-vole-et-modifie/)  
+*Source : cyberattaque.org | Publication : 2026-11-27*
+
+- SAP, l’un des plus importants éditeurs de logiciels professionnels au monde, est confronté à un incident majeur de cybersécurité touchant son environnement de développement informatique.
+- Le groupe allemand a reconnu le 26 novembre 2026 avoir détecté des activités suspectes et engagé des mesures d’urgence pour protéger ses clients.
+- Des cybercriminels auraient dérobé des clés d’authentification appartenant à des salariés afin d’accéder au code source de l’entreprise, de le copier et de le modifier.
+- En interne, SAP aurait baptisé sa réponse à cette cyberattaque « Project Granite ».
+
+## [La start-up nigériane de <b>cybersécurité</b> Aeon porte son pré-amorçage à 2 millions](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-start-up-nigeriane-de-cybersecurite-aeon-porte-son-pre-amorcage-a-2-millions)  
+*Source : wearetech.africa | Publication : 2026-11-27*
+
+- La jeune pousse nigériane Aeon étend son tour de table de pré-amorçage à 2 millions de dollars grâce à de nouveaux financements de Launch Africa Ventures et Octerra Capital, après une première levée d'un million de dollars en septembre.
+- L'entreprise développe des infrastructures souveraines de cyberdéfense pour les opérateurs d'infrastructures critiques en Afrique.
+- Ces fonds soutiendront le recrutement d'ingénieurs, le renforcement des compétences locales et le déploiement commercial de ses solutions.
+- Lire aussi: Neuf start-up retenues pour la première cohorte du programme Africa Ignite.
+
+## [Microsoft lance un code rouge après une panne majeure - DCOD](https://dcod.ch/2026/11/27/microsoft-lance-un-code-rouge/)  
+*Source : dcod.ch | Publication : 2026-11-27*
+
+- TL;DR : L’essentiel Microsoft vise un rétablissement en moins d’une heure lors des prochaines pannes majeures.
+- - Les équipes techniques ont travaillé dans des outils éparpillés et un appel saturé à 1’000 personnes.
+- - L’entreprise prévoit de déployer des agents d’intelligence artificielle pour accélérer le diagnostic des incidents.
+- - Microsoft a déclenché un « code rouge » interne après une panne mondiale survenue les 12 et 13 novembre, selon The Next Web.
+
+## [Gannat : réunion sur la sécurité quotidienne avec les gendarmes face à la hausse ... - La Montagne](https://www.lamontagne.fr/gannat-03800/actualites/gannat-reunion-sur-la-securite-quotidienne-avec-les-gendarmes-face-a-la-hausse-de-la-cybercriminalite-et-des-cambriolages_15093339/)  
+*Source : lamontagne.fr | Publication : 2026-11-27*
+
+- Une réunion publique axée sur la sécurité au quotidien était organisée jeudi en mairie.
+- La conférence était menée par l’adjudant-chef David Cavalier, référent Sûreté de l’Allier, et l’adjudant-chef Guillaume Sibille-Anelli commandant la brigade d’Ébreuil.
+- Vingt-cinq personnes assistaient à la conférence en présence de Christine Courtinat, première adjointe, et Amandine Duzelier, adjointe en charge de la tranquillité citoyenne, de la sécurité et du civisme sociétal.
+- La cybercriminalité, en très forte augmentation, était évoquée tout d’abord.
+
+## [Les maires invités à faire passer la <b>cybersécurité</b> avant l'IA - Banque des Territoires](https://www.banquedesterritoires.fr/congres-des-maires-les-maires-invites-faire-passer-la-cybersecurite-avant-lia?pk_campaign=newsletter_quotidienne&pk_kwd=2026-11-27&pk_source=Actualités_Localtis&pk_medium=newsletter_quotidienne)  
+*Source : banquedesterritoires.fr | Publication : 2026-11-27*
+
+- Congrès des maires – Les maires invités à faire passer la cybersécurité avant l'IA Si l'atelier sur l'intelligence artificielle a fait salle comble, celui sur la cybersécurité était sensiblement dégarni au grand dam des intervenants.
+- La ministre déléguée chargée de l'IA et du numérique, Anne Le Hénanff, a tenté de convaincre les maires de faire de la cybersécurité leur priorité alors que la menace s'aggrave, dopée par l'IA.
+- "Avant de vous lancer dans la course à l'IA, vérifiez d'abord votre niveau de cybersécurité", a enjoint la ministre aux édiles dont le cyber baromètre (voir notre article du 25 novembre 2026) vient de montrer la faiblesse des budgets affectés à la cybersécurité des communes.
+- La déferlante IA, confirmée encore cette année par le baromètre Data publica (voir notre article du 9 novembre 2026), est comparable selon elle à "la dématérialisation à tout va" des années 2000.
+
+## [<b>Cybersécurité</b> : le groupe allemand SAP touché par un incident informatique - Entrevue.fr](https://entrevue.fr/cybersecurite/cybersecurite-le-groupe-allemand-sap-touche-par-un-incident-informatique/)  
+*Source : entrevue.fr | Publication : 2026-11-27*
+
+- Le géant allemand des logiciels professionnels SAP est confronté à un incident de sécurité informatique.
+- Cet événement remet en lumière les enjeux de cybersécurité auxquels sont confrontés les grands fournisseurs de solutions numériques, dont dépendent de nombreuses entreprises à travers le monde.
+- L’éditeur allemand a confirmé vendredi 27 novembre avoir détecté des activités suspectes au sein de son environnement informatique.
+- L’affaire avait été révélée la veille par le magazine allemand Der Spiegel, qui évoquait une cyberattaque visant les outils de développement du groupe.
+
+## [Cyberattaques et menaces de bombes révèlent les failles de la <b>cybersécurité</b> européenne](https://fr.euronews.com/2026/11/27/cyberattaques-et-menaces-de-bombes-revelent-les-failles-de-la-cybersecurite-europeenne)  
+*Source : fr.euronews.com | Publication : 2026-11-27*
+
+- Selon des experts, les incidents de cybersécurité qu'a connus l'Europe en novembre ne devraient pas surprendre.
+- Mais que savons-nous de ces attaques, et que peut faire l'Europe pour améliorer sa cybersécurité ?.
+- Des cyberattaques visant des réfrigérateurs aux menaces de bombe contre des écoles, le mois de novembre 2026 a été marqué par une série d'incidents qui ont ébranlé l'Europe et remis en lumière l'état de la cybersécurité du bloc.
+- Dans le deuxième épisode de Password, la minisérie mensuelle Euronews Tech Talks consacrée aux grands événements technologiques qui façonnent l'Europe, nous nous penchons sur les attaques informatiques et les pannes techniques avec les journalistes d'Euronews Jonathan Benton et Roselyne Min.
+
+## [Artex : le DIVD donne un aperçu précieux de ce à quoi s'attendre | LeMagIT](https://www.lemagit.fr/actualites/366655506/Artex-le-DIVD-donne-un-apercu-precieux-de-ce-a-quoi-sattendre)  
+*Source : lemagit.fr | Publication : 2026-11-27*
+
+- InfiniteFlow - stock.adobe.com Artex : le DIVD donne un aperçu précieux de ce à quoi s’attendre L’ère des cyberattaques organisées par des frameworks offensifs agentiques dopés à l’IA s’est ouverte.
+- L’institut danois de divulgation des vulnérabilités semble en avoir fait l’expérience.
+- Il la partage.
+- Pour l’institut danois de divulgation des vulnérabilités, le DIVD, tout commence le 21 septembre, 20 minutes avant 8h du matin UTC, quand les attaquants tentent de s’inviter sur un serveur FTP en essayant divers mots de passe.
+
+## [Penser, anticiper, protéger : le métier d'architecte cyber vu par Yanis](https://www.corporate.bouyguestelecom.fr/presse-et-actualites/toutes-nos-actualites/penser-anticiper-proteger-le-metier-darchitecte-cyber-vu-par-yanis/)  
+*Source : corporate.bouyguestelecom.fr | Publication : 2026-11-27*
+
+- Penser, anticiper, protéger : le métier d'architecte cyber vu par Yanis 27/11/2026 En activant le mode contrasté, je facilite ma visite sur le site.
+- En activant le mode sombre, moins énergivore, je réduis mon impact environnemental.
+- Découvrir notre démarche d’éco-conception27/11/2026 Bouygues Telecom donne la parole aux experts qui protègent ses systèmes, ses réseaux et ses données.
+- Des métiers techniques, exigeants et souvent méconnus, au cœur de la confiance accordée par nos clients.
+
+## [<b>Cybersécurité</b> – Protection des systèmes d'information : Le Sénégal face à la menace numérique](https://lequotidien.sn/cybersecurite-protection-des-systemes-dinformation-le-senegal-face-a-la-menace-numerique/)  
+*Source : lequotidien.sn | Publication : 2026-11-27*
+
+- Face à la multiplication des cyberattaques et aux risques de propagation à l’échelle régionale, le Sénégal veut renforcer la protection de ses infrastructures critiques.
+- Réunis autour de la Direction générale du chiffre et de la sécurité des systèmes d’Information (Dcssi), autorités publiques, experts et opérateurs privés appellent à une mobilisation collective pour consolider la cyber-résilience nationale.
+- Par Abdou Latif Mohamed MANSARAY – La cybersécurité s’impose désormais comme un enjeu de souveraineté et de sécurité nationale.
+- Administrations, banques, réseaux énergétiques et opérateurs de télécommunications sont exposés à des attaques susceptibles de perturber des services essentiels.
+
+## [Le sud-africain Purple Group enquête sur un incident de <b>cybersécurité</b> | Zonebourse Suisse](https://ch.zonebourse.com/actualite-bourse/le-sud-africain-purple-group-enquete-sur-un-incident-de-cybersecurite-ce7851d9de8bf32c)  
+*Source : ch.zonebourse.com | Publication : 2026-11-27*
+
+- Le sud-africain Purple Group enquête sur un incident de cybersécurité.
+- Publié le 27/11/2026 à 16:27.
+- Reuters - Traduit par Zonebourse.
+- Avertissement.
 
 ## [Antivirus payant ou protection native de Windows : quel est le système le plus efficace ...](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-antivirus-payant-protection-native-windows-systeme-plus-efficace-nouveaux-malwares-26659/)  
 *Source : futura-sciences.com | Publication : 2026-11-27*
